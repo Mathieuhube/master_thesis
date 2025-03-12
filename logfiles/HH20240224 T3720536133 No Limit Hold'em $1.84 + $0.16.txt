@@ -1,0 +1,274 @@
+﻿PokerStars Hand #249062990342: Tournament #3720536133, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/02/24 13:26:48 CET [2024/02/24 7:26:48 ET]
+Table '3720536133 1' 3-max Seat #1 is the button
+Seat 1: StillA11 (500 in chips) 
+Seat 2: marcio1979 (500 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+marcio1979: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h 4d]
+StillA11: calls 20
+marcio1979: calls 10
+Mahu2021: checks 
+*** FLOP *** [3c 9h 2c]
+marcio1979: checks 
+Mahu2021: bets 60
+StillA11: folds 
+marcio1979: calls 60
+*** TURN *** [3c 9h 2c] [Kd]
+marcio1979: checks 
+Mahu2021: bets 420 and is all-in
+marcio1979: folds 
+Uncalled bet (420) returned to Mahu2021
+Mahu2021 collected 180 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [3c 9h 2c Kd]
+Seat 1: StillA11 (button) folded on the Flop
+Seat 2: marcio1979 (small blind) folded on the Turn
+Seat 3: Mahu2021 (big blind) collected (180)
+
+
+
+PokerStars Hand #249062995034: Tournament #3720536133, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/02/24 13:27:13 CET [2024/02/24 7:27:13 ET]
+Table '3720536133 1' 3-max Seat #2 is the button
+Seat 1: StillA11 (480 in chips) 
+Seat 2: marcio1979 (420 in chips) 
+Seat 3: Mahu2021 (600 in chips) 
+Mahu2021: posts small blind 10
+StillA11: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah 2s]
+marcio1979: folds 
+Mahu2021: calls 10
+StillA11: raises 20 to 40
+Mahu2021: calls 20
+*** FLOP *** [Kh 3d Td]
+Mahu2021: checks 
+StillA11: bets 20
+Mahu2021: folds 
+Uncalled bet (20) returned to StillA11
+StillA11 collected 80 from pot
+StillA11: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Kh 3d Td]
+Seat 1: StillA11 (big blind) collected (80)
+Seat 2: marcio1979 (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #249062998144: Tournament #3720536133, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/02/24 13:27:29 CET [2024/02/24 7:27:29 ET]
+Table '3720536133 1' 3-max Seat #3 is the button
+Seat 1: StillA11 (520 in chips) 
+Seat 2: marcio1979 (420 in chips) 
+Seat 3: Mahu2021 (560 in chips) 
+StillA11: posts small blind 10
+marcio1979: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d Ah]
+Mahu2021: raises 20 to 40
+StillA11: folds 
+marcio1979: calls 20
+*** FLOP *** [Kh 8s Kc]
+marcio1979: checks 
+Mahu2021: bets 40
+marcio1979: calls 40
+*** TURN *** [Kh 8s Kc] [Td]
+marcio1979: checks 
+Mahu2021: checks 
+*** RIVER *** [Kh 8s Kc Td] [Qs]
+marcio1979: bets 128
+Mahu2021: folds 
+Uncalled bet (128) returned to marcio1979
+marcio1979 collected 170 from pot
+*** SUMMARY ***
+Total pot 170 | Rake 0 
+Board [Kh 8s Kc Td Qs]
+Seat 1: StillA11 (small blind) folded before Flop
+Seat 2: marcio1979 (big blind) collected (170)
+Seat 3: Mahu2021 (button) folded on the River
+
+
+
+PokerStars Hand #249063002314: Tournament #3720536133, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/02/24 13:27:52 CET [2024/02/24 7:27:52 ET]
+Table '3720536133 1' 3-max Seat #1 is the button
+Seat 1: StillA11 (510 in chips) 
+Seat 2: marcio1979 (510 in chips) 
+Seat 3: Mahu2021 (480 in chips) 
+marcio1979: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3c 4s]
+StillA11: calls 20
+marcio1979: calls 10
+Mahu2021: checks 
+*** FLOP *** [Qc Ks As]
+marcio1979: checks 
+Mahu2021: checks 
+StillA11: checks 
+*** TURN *** [Qc Ks As] [Ad]
+marcio1979: checks 
+Mahu2021: checks 
+StillA11: checks 
+*** RIVER *** [Qc Ks As Ad] [Kd]
+marcio1979: checks 
+Mahu2021: bets 60
+StillA11: calls 60
+marcio1979: folds 
+*** SHOW DOWN ***
+Mahu2021: shows [3c 4s] (two pair, Aces and Kings)
+StillA11: shows [9s Jd] (two pair, Aces and Kings)
+Mahu2021 collected 90 from pot
+StillA11 collected 90 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [Qc Ks As Ad Kd]
+Seat 1: StillA11 (button) showed [9s Jd] and won (90) with two pair, Aces and Kings
+Seat 2: marcio1979 (small blind) folded on the River
+Seat 3: Mahu2021 (big blind) showed [3c 4s] and won (90) with two pair, Aces and Kings
+
+
+
+PokerStars Hand #249063007980: Tournament #3720536133, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/02/24 13:28:22 CET [2024/02/24 7:28:22 ET]
+Table '3720536133 1' 3-max Seat #2 is the button
+Seat 1: StillA11 (520 in chips) 
+Seat 2: marcio1979 (490 in chips) 
+Seat 3: Mahu2021 (490 in chips) 
+Mahu2021: posts small blind 10
+StillA11: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks Td]
+marcio1979: folds 
+Mahu2021: raises 20 to 40
+StillA11: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: StillA11 (big blind) folded before Flop
+Seat 2: marcio1979 (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) collected (40)
+
+
+
+PokerStars Hand #249063009007: Tournament #3720536133, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/02/24 13:28:27 CET [2024/02/24 7:28:27 ET]
+Table '3720536133 1' 3-max Seat #3 is the button
+Seat 1: StillA11 (500 in chips) 
+Seat 2: marcio1979 (490 in chips) 
+Seat 3: Mahu2021 (510 in chips) 
+StillA11: posts small blind 10
+marcio1979: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d 7h]
+Mahu2021: raises 490 to 510 and is all-in
+StillA11: calls 490 and is all-in
+marcio1979: folds 
+Uncalled bet (10) returned to Mahu2021
+*** FLOP *** [Js 8c 4h]
+*** TURN *** [Js 8c 4h] [Jd]
+*** RIVER *** [Js 8c 4h Jd] [8h]
+*** SHOW DOWN ***
+StillA11: shows [Ts Th] (two pair, Jacks and Tens)
+Mahu2021: shows [7d 7h] (two pair, Jacks and Eights)
+StillA11 collected 1020 from pot
+*** SUMMARY ***
+Total pot 1020 | Rake 0 
+Board [Js 8c 4h Jd 8h]
+Seat 1: StillA11 (small blind) showed [Ts Th] and won (1020) with two pair, Jacks and Tens
+Seat 2: marcio1979 (big blind) folded before Flop
+Seat 3: Mahu2021 (button) showed [7d 7h] and lost with two pair, Jacks and Eights
+
+
+
+PokerStars Hand #249063011629: Tournament #3720536133, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/02/24 13:28:41 CET [2024/02/24 7:28:41 ET]
+Table '3720536133 1' 3-max Seat #1 is the button
+Seat 1: StillA11 (1020 in chips) 
+Seat 2: marcio1979 (470 in chips) 
+Seat 3: Mahu2021 (10 in chips) 
+marcio1979: posts small blind 10
+Mahu2021: posts big blind 10 and is all-in
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qd Th]
+StillA11: folds 
+*** FLOP *** [Tc 5d 3h]
+*** TURN *** [Tc 5d 3h] [Ts]
+*** RIVER *** [Tc 5d 3h Ts] [3s]
+*** SHOW DOWN ***
+marcio1979: shows [8h 5s] (two pair, Tens and Fives)
+Mahu2021: shows [Qd Th] (a full house, Tens full of Threes)
+Mahu2021 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Board [Tc 5d 3h Ts 3s]
+Seat 1: StillA11 (button) folded before Flop (didn't bet)
+Seat 2: marcio1979 (small blind) showed [8h 5s] and lost with two pair, Tens and Fives
+Seat 3: Mahu2021 (big blind) showed [Qd Th] and won (20) with a full house, Tens full of Threes
+
+
+
+PokerStars Hand #249063014294: Tournament #3720536133, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/02/24 13:28:55 CET [2024/02/24 7:28:55 ET]
+Table '3720536133 1' 3-max Seat #2 is the button
+Seat 1: StillA11 (1020 in chips) 
+Seat 2: marcio1979 (460 in chips) 
+Seat 3: Mahu2021 (20 in chips) 
+Mahu2021: posts small blind 15
+StillA11: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d Ah]
+marcio1979: folds 
+Mahu2021: calls 5 and is all-in
+Uncalled bet (10) returned to StillA11
+*** FLOP *** [2d 4s 7h]
+*** TURN *** [2d 4s 7h] [As]
+*** RIVER *** [2d 4s 7h As] [Js]
+*** SHOW DOWN ***
+Mahu2021: shows [9d Ah] (a pair of Aces)
+StillA11: shows [9h Ac] (a pair of Aces)
+Mahu2021 collected 20 from pot
+StillA11 collected 20 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [2d 4s 7h As Js]
+Seat 1: StillA11 (big blind) showed [9h Ac] and won (20) with a pair of Aces
+Seat 2: marcio1979 (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) showed [9d Ah] and won (20) with a pair of Aces
+
+
+
+PokerStars Hand #249063016494: Tournament #3720536133, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/02/24 13:29:07 CET [2024/02/24 7:29:07 ET]
+Table '3720536133 1' 3-max Seat #3 is the button
+Seat 1: StillA11 (1020 in chips) 
+Seat 2: marcio1979 (460 in chips) 
+Seat 3: Mahu2021 (20 in chips) 
+StillA11: posts small blind 15
+marcio1979: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts 8c]
+Mahu2021: calls 20 and is all-in
+StillA11: calls 15
+marcio1979: checks 
+*** FLOP *** [Jh 9d Js]
+StillA11: bets 30
+marcio1979: folds 
+Uncalled bet (30) returned to StillA11
+*** TURN *** [Jh 9d Js] [7c]
+*** RIVER *** [Jh 9d Js 7c] [9c]
+*** SHOW DOWN ***
+StillA11: shows [9s 5s] (a full house, Nines full of Jacks)
+StillA11 collected 20 from side pot
+Mahu2021: shows [Ts 8c] (a straight, Seven to Jack)
+StillA11 collected 60 from main pot
+Mahu2021 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 80 Main pot 60. Side pot 20. | Rake 0 
+Board [Jh 9d Js 7c 9c]
+Seat 1: StillA11 (small blind) showed [9s 5s] and won (80) with a full house, Nines full of Jacks
+Seat 2: marcio1979 (big blind) folded on the Flop
+Seat 3: Mahu2021 (button) showed [Ts 8c] and lost with a straight, Seven to Jack
+
+
+

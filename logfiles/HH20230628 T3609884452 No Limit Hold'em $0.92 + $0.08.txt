@@ -1,0 +1,755 @@
+﻿PokerStars Hand #244507083756: Tournament #3609884452, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/06/28 10:35:16 CET [2023/06/28 4:35:16 ET]
+Table '3609884452 1' 3-max Seat #1 is the button
+Seat 1: respinosa6 (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: illyasimioni (500 in chips) 
+Mahu2021: posts small blind 10
+illyasimioni: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h Qh]
+respinosa6: raises 20 to 40
+Mahu2021: calls 30
+illyasimioni: calls 20
+*** FLOP *** [6d Ks Qc]
+Mahu2021: checks 
+illyasimioni: checks 
+respinosa6: checks 
+*** TURN *** [6d Ks Qc] [8d]
+Mahu2021: checks 
+illyasimioni: checks 
+respinosa6: bets 20
+Mahu2021: calls 20
+illyasimioni: folds 
+*** RIVER *** [6d Ks Qc 8d] [Td]
+Mahu2021: bets 160
+respinosa6: folds 
+Uncalled bet (160) returned to Mahu2021
+Mahu2021 collected 160 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [6d Ks Qc 8d Td]
+Seat 1: respinosa6 (button) folded on the River
+Seat 2: Mahu2021 (small blind) collected (160)
+Seat 3: illyasimioni (big blind) folded on the Turn
+
+
+
+PokerStars Hand #244507086748: Tournament #3609884452, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/06/28 10:35:44 CET [2023/06/28 4:35:44 ET]
+Table '3609884452 1' 3-max Seat #2 is the button
+Seat 1: respinosa6 (440 in chips) 
+Seat 2: Mahu2021 (600 in chips) 
+Seat 3: illyasimioni (460 in chips) 
+illyasimioni: posts small blind 10
+respinosa6: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh 3s]
+Mahu2021: folds 
+illyasimioni: calls 10
+respinosa6: checks 
+*** FLOP *** [Tc 6c 4d]
+illyasimioni: checks 
+respinosa6: checks 
+*** TURN *** [Tc 6c 4d] [5d]
+illyasimioni: bets 20
+respinosa6: calls 20
+*** RIVER *** [Tc 6c 4d 5d] [2d]
+illyasimioni: checks 
+respinosa6: bets 80
+illyasimioni: folds 
+Uncalled bet (80) returned to respinosa6
+respinosa6 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Tc 6c 4d 5d 2d]
+Seat 1: respinosa6 (big blind) collected (80)
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: illyasimioni (small blind) folded on the River
+
+
+
+PokerStars Hand #244507089304: Tournament #3609884452, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/06/28 10:36:08 CET [2023/06/28 4:36:08 ET]
+Table '3609884452 1' 3-max Seat #3 is the button
+Seat 1: respinosa6 (480 in chips) 
+Seat 2: Mahu2021 (600 in chips) 
+Seat 3: illyasimioni (420 in chips) 
+respinosa6: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h Ah]
+illyasimioni: calls 20
+respinosa6: raises 20 to 40
+Mahu2021: calls 20
+illyasimioni: calls 20
+*** FLOP *** [Js Qc Kh]
+respinosa6: bets 20
+Mahu2021: folds 
+illyasimioni: calls 20
+*** TURN *** [Js Qc Kh] [6s]
+respinosa6: bets 20
+illyasimioni: calls 20
+*** RIVER *** [Js Qc Kh 6s] [7c]
+respinosa6: bets 100
+illyasimioni: calls 100
+*** SHOW DOWN ***
+respinosa6: shows [Kc Tc] (a pair of Kings)
+illyasimioni: mucks hand 
+respinosa6 collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Board [Js Qc Kh 6s 7c]
+Seat 1: respinosa6 (small blind) showed [Kc Tc] and won (400) with a pair of Kings
+Seat 2: Mahu2021 (big blind) folded on the Flop
+Seat 3: illyasimioni (button) mucked [Qh Ts]
+
+
+
+PokerStars Hand #244507091959: Tournament #3609884452, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/06/28 10:36:33 CET [2023/06/28 4:36:33 ET]
+Table '3609884452 1' 3-max Seat #1 is the button
+Seat 1: respinosa6 (700 in chips) 
+Seat 2: Mahu2021 (560 in chips) 
+Seat 3: illyasimioni (240 in chips) 
+Mahu2021: posts small blind 10
+illyasimioni: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s Jd]
+respinosa6: calls 20
+Mahu2021: folds 
+illyasimioni: raises 220 to 240 and is all-in
+respinosa6: folds 
+Uncalled bet (220) returned to illyasimioni
+illyasimioni collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: respinosa6 (button) folded before Flop
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: illyasimioni (big blind) collected (50)
+
+
+
+PokerStars Hand #244507092945: Tournament #3609884452, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/06/28 10:36:41 CET [2023/06/28 4:36:41 ET]
+Table '3609884452 1' 3-max Seat #2 is the button
+Seat 1: respinosa6 (680 in chips) 
+Seat 2: Mahu2021 (550 in chips) 
+Seat 3: illyasimioni (270 in chips) 
+illyasimioni: posts small blind 10
+respinosa6: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4c 4h]
+Mahu2021: raises 40 to 60
+illyasimioni: folds 
+respinosa6: calls 40
+*** FLOP *** [Kd Ts 4s]
+respinosa6: checks 
+Mahu2021: checks 
+*** TURN *** [Kd Ts 4s] [2c]
+respinosa6: bets 20
+Mahu2021: raises 20 to 40
+respinosa6: calls 20
+*** RIVER *** [Kd Ts 4s 2c] [5d]
+respinosa6: checks 
+Mahu2021: bets 210
+respinosa6: folds 
+Uncalled bet (210) returned to Mahu2021
+Mahu2021 collected 210 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 210 | Rake 0 
+Board [Kd Ts 4s 2c 5d]
+Seat 1: respinosa6 (big blind) folded on the River
+Seat 2: Mahu2021 (button) collected (210)
+Seat 3: illyasimioni (small blind) folded before Flop
+
+
+
+PokerStars Hand #244507095234: Tournament #3609884452, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/06/28 10:37:03 CET [2023/06/28 4:37:03 ET]
+Table '3609884452 1' 3-max Seat #3 is the button
+Seat 1: respinosa6 (580 in chips) 
+Seat 2: Mahu2021 (660 in chips) 
+Seat 3: illyasimioni (260 in chips) 
+respinosa6: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d 3h]
+illyasimioni: raises 40 to 60
+respinosa6: folds 
+Mahu2021: folds 
+Uncalled bet (40) returned to illyasimioni
+illyasimioni collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: respinosa6 (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: illyasimioni (button) collected (50)
+
+
+
+PokerStars Hand #244507096087: Tournament #3609884452, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/06/28 10:37:11 CET [2023/06/28 4:37:11 ET]
+Table '3609884452 1' 3-max Seat #1 is the button
+Seat 1: respinosa6 (570 in chips) 
+Seat 2: Mahu2021 (640 in chips) 
+Seat 3: illyasimioni (290 in chips) 
+Mahu2021: posts small blind 10
+illyasimioni: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d 7h]
+respinosa6: folds 
+Mahu2021: folds 
+Uncalled bet (10) returned to illyasimioni
+illyasimioni collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: respinosa6 (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: illyasimioni (big blind) collected (20)
+
+
+
+PokerStars Hand #244507096609: Tournament #3609884452, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/06/28 10:37:16 CET [2023/06/28 4:37:16 ET]
+Table '3609884452 1' 3-max Seat #2 is the button
+Seat 1: respinosa6 (570 in chips) 
+Seat 2: Mahu2021 (630 in chips) 
+Seat 3: illyasimioni (300 in chips) 
+illyasimioni: posts small blind 10
+respinosa6: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s 7s]
+Mahu2021: folds 
+illyasimioni: calls 10
+respinosa6: checks 
+*** FLOP *** [9h 9c 3h]
+illyasimioni: checks 
+respinosa6: checks 
+*** TURN *** [9h 9c 3h] [9d]
+illyasimioni: checks 
+respinosa6: checks 
+*** RIVER *** [9h 9c 3h 9d] [6d]
+illyasimioni: checks 
+respinosa6: checks 
+*** SHOW DOWN ***
+illyasimioni: shows [5s Js] (three of a kind, Nines)
+respinosa6: mucks hand 
+illyasimioni collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [9h 9c 3h 9d 6d]
+Seat 1: respinosa6 (big blind) mucked [8c 4d]
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: illyasimioni (small blind) showed [5s Js] and won (40) with three of a kind, Nines
+
+
+
+PokerStars Hand #244507098483: Tournament #3609884452, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/06/28 10:37:33 CET [2023/06/28 4:37:33 ET]
+Table '3609884452 1' 3-max Seat #3 is the button
+Seat 1: respinosa6 (550 in chips) 
+Seat 2: Mahu2021 (630 in chips) 
+Seat 3: illyasimioni (320 in chips) 
+respinosa6: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d 7c]
+illyasimioni: folds 
+respinosa6: calls 10
+Mahu2021: checks 
+*** FLOP *** [5d As Jc]
+respinosa6: checks 
+Mahu2021: checks 
+*** TURN *** [5d As Jc] [Th]
+respinosa6: checks 
+Mahu2021: checks 
+*** RIVER *** [5d As Jc Th] [7s]
+respinosa6: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+respinosa6: shows [4c Kh] (high card Ace)
+Mahu2021: shows [9d 7c] (a pair of Sevens)
+Mahu2021 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [5d As Jc Th 7s]
+Seat 1: respinosa6 (small blind) showed [4c Kh] and lost with high card Ace
+Seat 2: Mahu2021 (big blind) showed [9d 7c] and won (40) with a pair of Sevens
+Seat 3: illyasimioni (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #244507100080: Tournament #3609884452, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/06/28 10:37:48 CET [2023/06/28 4:37:48 ET]
+Table '3609884452 1' 3-max Seat #1 is the button
+Seat 1: respinosa6 (530 in chips) 
+Seat 2: Mahu2021 (650 in chips) 
+Seat 3: illyasimioni (320 in chips) 
+Mahu2021: posts small blind 10
+illyasimioni: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4d 4s]
+respinosa6: folds 
+Mahu2021: raises 20 to 40
+illyasimioni: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: respinosa6 (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) collected (40)
+Seat 3: illyasimioni (big blind) folded before Flop
+
+
+
+PokerStars Hand #244507100804: Tournament #3609884452, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/06/28 10:37:55 CET [2023/06/28 4:37:55 ET]
+Table '3609884452 1' 3-max Seat #2 is the button
+Seat 1: respinosa6 (530 in chips) 
+Seat 2: Mahu2021 (670 in chips) 
+Seat 3: illyasimioni (300 in chips) 
+illyasimioni: posts small blind 10
+respinosa6: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac 6h]
+Mahu2021: raises 20 to 40
+illyasimioni: calls 30
+respinosa6: calls 20
+*** FLOP *** [3c Ts Js]
+illyasimioni: bets 120
+respinosa6: folds 
+Mahu2021: folds 
+Uncalled bet (120) returned to illyasimioni
+illyasimioni collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [3c Ts Js]
+Seat 1: respinosa6 (big blind) folded on the Flop
+Seat 2: Mahu2021 (button) folded on the Flop
+Seat 3: illyasimioni (small blind) collected (120)
+
+
+
+PokerStars Hand #244507102804: Tournament #3609884452, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/06/28 10:38:14 CET [2023/06/28 4:38:14 ET]
+Table '3609884452 1' 3-max Seat #3 is the button
+Seat 1: respinosa6 (490 in chips) 
+Seat 2: Mahu2021 (630 in chips) 
+Seat 3: illyasimioni (380 in chips) 
+respinosa6: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h Qc]
+illyasimioni: folds 
+respinosa6: calls 10
+Mahu2021: checks 
+*** FLOP *** [6d Kh Ad]
+respinosa6: checks 
+Mahu2021: bets 20
+respinosa6: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [6d Kh Ad]
+Seat 1: respinosa6 (small blind) folded on the Flop
+Seat 2: Mahu2021 (big blind) collected (40)
+Seat 3: illyasimioni (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #244507104406: Tournament #3609884452, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/06/28 10:38:29 CET [2023/06/28 4:38:29 ET]
+Table '3609884452 1' 3-max Seat #1 is the button
+Seat 1: respinosa6 (470 in chips) 
+Seat 2: Mahu2021 (650 in chips) 
+Seat 3: illyasimioni (380 in chips) 
+Mahu2021: posts small blind 15
+illyasimioni: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh 2c]
+respinosa6: raises 30 to 60
+Mahu2021: folds 
+illyasimioni: folds 
+Uncalled bet (30) returned to respinosa6
+respinosa6 collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: respinosa6 (button) collected (75)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: illyasimioni (big blind) folded before Flop
+
+
+
+PokerStars Hand #244507105198: Tournament #3609884452, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/06/28 10:38:36 CET [2023/06/28 4:38:36 ET]
+Table '3609884452 1' 3-max Seat #2 is the button
+Seat 1: respinosa6 (515 in chips) 
+Seat 2: Mahu2021 (635 in chips) 
+Seat 3: illyasimioni (350 in chips) 
+illyasimioni: posts small blind 15
+respinosa6: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Tc 3h]
+Mahu2021: folds 
+illyasimioni: folds 
+Uncalled bet (15) returned to respinosa6
+respinosa6 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: respinosa6 (big blind) collected (30)
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: illyasimioni (small blind) folded before Flop
+
+
+
+PokerStars Hand #244507106045: Tournament #3609884452, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/06/28 10:38:44 CET [2023/06/28 4:38:44 ET]
+Table '3609884452 1' 3-max Seat #3 is the button
+Seat 1: respinosa6 (530 in chips) 
+Seat 2: Mahu2021 (635 in chips) 
+Seat 3: illyasimioni (335 in chips) 
+respinosa6: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4d 5h]
+illyasimioni: folds 
+respinosa6: calls 15
+Mahu2021: checks 
+*** FLOP *** [3d 2d Tc]
+respinosa6: checks 
+Mahu2021: bets 60
+respinosa6: calls 60
+*** TURN *** [3d 2d Tc] [5c]
+respinosa6: checks 
+Mahu2021: checks 
+*** RIVER *** [3d 2d Tc 5c] [Kc]
+respinosa6: bets 90
+Mahu2021: calls 90
+*** SHOW DOWN ***
+respinosa6: shows [Kd 6c] (a pair of Kings)
+Mahu2021: mucks hand 
+respinosa6 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [3d 2d Tc 5c Kc]
+Seat 1: respinosa6 (small blind) showed [Kd 6c] and won (360) with a pair of Kings
+Seat 2: Mahu2021 (big blind) mucked [4d 5h]
+Seat 3: illyasimioni (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #244507108213: Tournament #3609884452, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/06/28 10:39:03 CET [2023/06/28 4:39:03 ET]
+Table '3609884452 1' 3-max Seat #1 is the button
+Seat 1: respinosa6 (710 in chips) 
+Seat 2: Mahu2021 (455 in chips) 
+Seat 3: illyasimioni (335 in chips) 
+Mahu2021: posts small blind 15
+illyasimioni: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d 3s]
+respinosa6: calls 30
+Mahu2021: folds 
+illyasimioni: checks 
+*** FLOP *** [Js 3c Ah]
+illyasimioni: checks 
+respinosa6: checks 
+*** TURN *** [Js 3c Ah] [6c]
+illyasimioni: checks 
+respinosa6: checks 
+*** RIVER *** [Js 3c Ah 6c] [6s]
+illyasimioni: bets 38
+respinosa6: folds 
+Uncalled bet (38) returned to illyasimioni
+illyasimioni collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Board [Js 3c Ah 6c 6s]
+Seat 1: respinosa6 (button) folded on the River
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: illyasimioni (big blind) collected (75)
+
+
+
+PokerStars Hand #244507110108: Tournament #3609884452, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/06/28 10:39:21 CET [2023/06/28 4:39:21 ET]
+Table '3609884452 1' 3-max Seat #2 is the button
+Seat 1: respinosa6 (680 in chips) 
+Seat 2: Mahu2021 (440 in chips) 
+Seat 3: illyasimioni (380 in chips) 
+illyasimioni: posts small blind 15
+respinosa6: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah 6s]
+Mahu2021: raises 30 to 60
+illyasimioni: raises 320 to 380 and is all-in
+respinosa6: folds 
+Mahu2021: folds 
+Uncalled bet (320) returned to illyasimioni
+illyasimioni collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Seat 1: respinosa6 (big blind) folded before Flop
+Seat 2: Mahu2021 (button) folded before Flop
+Seat 3: illyasimioni (small blind) collected (150)
+
+
+
+PokerStars Hand #244507111622: Tournament #3609884452, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/06/28 10:39:34 CET [2023/06/28 4:39:34 ET]
+Table '3609884452 1' 3-max Seat #3 is the button
+Seat 1: respinosa6 (650 in chips) 
+Seat 2: Mahu2021 (380 in chips) 
+Seat 3: illyasimioni (470 in chips) 
+respinosa6: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd 2s]
+illyasimioni: calls 30
+respinosa6: raises 30 to 60
+Mahu2021: folds 
+illyasimioni: folds 
+Uncalled bet (30) returned to respinosa6
+respinosa6 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Seat 1: respinosa6 (small blind) collected (90)
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: illyasimioni (button) folded before Flop
+
+
+
+PokerStars Hand #244507112577: Tournament #3609884452, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/06/28 10:39:43 CET [2023/06/28 4:39:43 ET]
+Table '3609884452 1' 3-max Seat #1 is the button
+Seat 1: respinosa6 (710 in chips) 
+Seat 2: Mahu2021 (350 in chips) 
+Seat 3: illyasimioni (440 in chips) 
+Mahu2021: posts small blind 15
+illyasimioni: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh As]
+respinosa6: folds 
+Mahu2021: raises 30 to 60
+illyasimioni: calls 30
+*** FLOP *** [Ks 6d 2c]
+Mahu2021: bets 60
+illyasimioni: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Ks 6d 2c]
+Seat 1: respinosa6 (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) collected (120)
+Seat 3: illyasimioni (big blind) folded on the Flop
+
+
+
+PokerStars Hand #244507114537: Tournament #3609884452, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/06/28 10:40:00 CET [2023/06/28 4:40:00 ET]
+Table '3609884452 1' 3-max Seat #2 is the button
+Seat 1: respinosa6 (710 in chips) 
+Seat 2: Mahu2021 (410 in chips) 
+Seat 3: illyasimioni (380 in chips) 
+illyasimioni: posts small blind 15
+respinosa6: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Tc Qs]
+Mahu2021: calls 30
+illyasimioni: calls 15
+respinosa6: checks 
+*** FLOP *** [2s 7c Jh]
+illyasimioni: checks 
+respinosa6: bets 30
+Mahu2021: folds 
+illyasimioni: folds 
+Uncalled bet (30) returned to respinosa6
+respinosa6 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [2s 7c Jh]
+Seat 1: respinosa6 (big blind) collected (90)
+Seat 2: Mahu2021 (button) folded on the Flop
+Seat 3: illyasimioni (small blind) folded on the Flop
+
+
+
+PokerStars Hand #244507116234: Tournament #3609884452, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/06/28 10:40:15 CET [2023/06/28 4:40:15 ET]
+Table '3609884452 1' 3-max Seat #3 is the button
+Seat 1: respinosa6 (770 in chips) 
+Seat 2: Mahu2021 (380 in chips) 
+Seat 3: illyasimioni (350 in chips) 
+respinosa6: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s Qs]
+illyasimioni: calls 30
+respinosa6: calls 15
+Mahu2021: checks 
+*** FLOP *** [Kc 6d 8s]
+respinosa6: checks 
+Mahu2021: checks 
+illyasimioni: checks 
+*** TURN *** [Kc 6d 8s] [Jd]
+respinosa6: bets 30
+Mahu2021: calls 30
+illyasimioni: folds 
+*** RIVER *** [Kc 6d 8s Jd] [7d]
+respinosa6: bets 30
+Mahu2021: calls 30
+*** SHOW DOWN ***
+respinosa6: shows [4s Jc] (a pair of Jacks)
+Mahu2021: mucks hand 
+respinosa6 collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | Rake 0 
+Board [Kc 6d 8s Jd 7d]
+Seat 1: respinosa6 (small blind) showed [4s Jc] and won (210) with a pair of Jacks
+Seat 2: Mahu2021 (big blind) mucked [6s Qs]
+Seat 3: illyasimioni (button) folded on the Turn
+
+
+
+PokerStars Hand #244507118310: Tournament #3609884452, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/06/28 10:40:34 CET [2023/06/28 4:40:34 ET]
+Table '3609884452 1' 3-max Seat #1 is the button
+Seat 1: respinosa6 (890 in chips) 
+Seat 2: Mahu2021 (290 in chips) 
+Seat 3: illyasimioni (320 in chips) 
+Mahu2021: posts small blind 15
+illyasimioni: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s Qd]
+respinosa6: raises 30 to 60
+Mahu2021: folds 
+illyasimioni: raises 260 to 320 and is all-in
+respinosa6: calls 260
+*** FLOP *** [6c 9h 3d]
+*** TURN *** [6c 9h 3d] [Jd]
+*** RIVER *** [6c 9h 3d Jd] [8c]
+*** SHOW DOWN ***
+illyasimioni: shows [4c 4h] (a pair of Fours)
+respinosa6: shows [9d Td] (a pair of Nines)
+respinosa6 collected 655 from pot
+illyasimioni finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 655 | Rake 0 
+Board [6c 9h 3d Jd 8c]
+Seat 1: respinosa6 (button) showed [9d Td] and won (655) with a pair of Nines
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: illyasimioni (big blind) showed [4c 4h] and lost with a pair of Fours
+
+
+
+PokerStars Hand #244507120268: Tournament #3609884452, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/06/28 10:40:51 CET [2023/06/28 4:40:51 ET]
+Table '3609884452 1' 3-max Seat #2 is the button
+Seat 1: respinosa6 (1225 in chips) 
+Seat 2: Mahu2021 (275 in chips) 
+Mahu2021: posts small blind 15
+respinosa6: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s 7h]
+Mahu2021: folds 
+Uncalled bet (15) returned to respinosa6
+respinosa6 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: respinosa6 (big blind) collected (30)
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #244507120780: Tournament #3609884452, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/06/28 10:40:55 CET [2023/06/28 4:40:55 ET]
+Table '3609884452 1' 3-max Seat #1 is the button
+Seat 1: respinosa6 (1240 in chips) 
+Seat 2: Mahu2021 (260 in chips) 
+respinosa6: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd 8s]
+respinosa6: calls 15
+Mahu2021: raises 230 to 260 and is all-in
+respinosa6: calls 230
+*** FLOP *** [5s Qh 6d]
+*** TURN *** [5s Qh 6d] [Jd]
+*** RIVER *** [5s Qh 6d Jd] [Js]
+*** SHOW DOWN ***
+Mahu2021: shows [Kd 8s] (a pair of Jacks)
+respinosa6: shows [Th 8c] (a pair of Jacks - lower kicker)
+Mahu2021 collected 520 from pot
+*** SUMMARY ***
+Total pot 520 | Rake 0 
+Board [5s Qh 6d Jd Js]
+Seat 1: respinosa6 (button) (small blind) showed [Th 8c] and lost with a pair of Jacks
+Seat 2: Mahu2021 (big blind) showed [Kd 8s] and won (520) with a pair of Jacks
+
+
+
+PokerStars Hand #244507122284: Tournament #3609884452, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/06/28 10:41:09 CET [2023/06/28 4:41:09 ET]
+Table '3609884452 1' 3-max Seat #2 is the button
+Seat 1: respinosa6 (980 in chips) 
+Seat 2: Mahu2021 (520 in chips) 
+Mahu2021: posts small blind 15
+respinosa6: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks 8s]
+Mahu2021: calls 15
+respinosa6: checks 
+*** FLOP *** [4d Ad Jh]
+respinosa6: checks 
+Mahu2021: bets 30
+respinosa6: calls 30
+*** TURN *** [4d Ad Jh] [Js]
+respinosa6: checks 
+Mahu2021: checks 
+*** RIVER *** [4d Ad Jh Js] [6c]
+respinosa6: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+respinosa6: shows [Kc 2s] (a pair of Jacks)
+Mahu2021: shows [Ks 8s] (a pair of Jacks - Ace+King+Eight kicker)
+Mahu2021 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [4d Ad Jh Js 6c]
+Seat 1: respinosa6 (big blind) showed [Kc 2s] and lost with a pair of Jacks
+Seat 2: Mahu2021 (button) (small blind) showed [Ks 8s] and won (120) with a pair of Jacks
+
+
+
+PokerStars Hand #244507124423: Tournament #3609884452, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/06/28 10:41:27 CET [2023/06/28 4:41:27 ET]
+Table '3609884452 1' 3-max Seat #1 is the button
+Seat 1: respinosa6 (920 in chips) 
+Seat 2: Mahu2021 (580 in chips) 
+respinosa6: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c Qd]
+respinosa6: raises 40 to 80
+Mahu2021: folds 
+Uncalled bet (40) returned to respinosa6
+respinosa6 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: respinosa6 (button) (small blind) collected (80)
+Seat 2: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #244507124959: Tournament #3609884452, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/06/28 10:41:33 CET [2023/06/28 4:41:33 ET]
+Table '3609884452 1' 3-max Seat #2 is the button
+Seat 1: respinosa6 (960 in chips) 
+Seat 2: Mahu2021 (540 in chips) 
+Mahu2021: posts small blind 20
+respinosa6: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d As]
+Mahu2021: raises 40 to 80
+respinosa6: calls 40
+*** FLOP *** [7d 2s 3s]
+respinosa6: bets 40
+Mahu2021: raises 420 to 460 and is all-in
+respinosa6: calls 420
+*** TURN *** [7d 2s 3s] [9s]
+*** RIVER *** [7d 2s 3s 9s] [Kd]
+*** SHOW DOWN ***
+respinosa6: shows [7s 5h] (a pair of Sevens)
+Mahu2021: shows [2d As] (a pair of Deuces)
+respinosa6 collected 1080 from pot
+Mahu2021 finished the tournament in 2nd place
+respinosa6 wins the tournament and receives $3.00 - congratulations!
+*** SUMMARY ***
+Total pot 1080 | Rake 0 
+Board [7d 2s 3s 9s Kd]
+Seat 1: respinosa6 (big blind) showed [7s 5h] and won (1080) with a pair of Sevens
+Seat 2: Mahu2021 (button) (small blind) showed [2d As] and lost with a pair of Deuces
+
+
+

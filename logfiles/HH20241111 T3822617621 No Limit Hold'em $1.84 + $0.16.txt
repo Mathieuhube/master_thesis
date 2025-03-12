@@ -1,0 +1,752 @@
+﻿PokerStars Hand #253364578216: Tournament #3822617621, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/11 23:02:18 CET [2024/11/11 17:02:18 ET]
+Table '3822617621 1' 3-max Seat #1 is the button
+Seat 1: tjossle (500 in chips) 
+Seat 2: Oilers94$93 (500 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+Oilers94$93: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh 7h]
+tjossle: folds 
+Oilers94$93: calls 10
+Mahu2021: checks 
+*** FLOP *** [Ks 4h Ac]
+Oilers94$93: checks 
+Mahu2021: bets 40
+Oilers94$93: calls 40
+*** TURN *** [Ks 4h Ac] [5s]
+Oilers94$93: checks 
+Mahu2021: checks 
+*** RIVER *** [Ks 4h Ac 5s] [4c]
+Oilers94$93: checks 
+Mahu2021: bets 120
+Oilers94$93: calls 120
+*** SHOW DOWN ***
+Mahu2021: shows [Qh 7h] (a pair of Fours)
+Oilers94$93: shows [Kd Jh] (two pair, Kings and Fours)
+Oilers94$93 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [Ks 4h Ac 5s 4c]
+Seat 1: tjossle (button) folded before Flop (didn't bet)
+Seat 2: Oilers94$93 (small blind) showed [Kd Jh] and won (360) with two pair, Kings and Fours
+Seat 3: Mahu2021 (big blind) showed [Qh 7h] and lost with a pair of Fours
+
+
+
+PokerStars Hand #253364584789: Tournament #3822617621, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/11 23:02:41 CET [2024/11/11 17:02:41 ET]
+Table '3822617621 1' 3-max Seat #2 is the button
+Seat 1: tjossle (500 in chips) 
+Seat 2: Oilers94$93 (680 in chips) 
+Seat 3: Mahu2021 (320 in chips) 
+Mahu2021: posts small blind 10
+tjossle: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks Ah]
+Oilers94$93: folds 
+Mahu2021: raises 40 to 60
+tjossle: calls 40
+*** FLOP *** [As Tc Qc]
+Mahu2021: bets 60
+tjossle: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [As Tc Qc]
+Seat 1: tjossle (big blind) folded on the Flop
+Seat 2: Oilers94$93 (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) collected (120)
+
+
+
+PokerStars Hand #253364588614: Tournament #3822617621, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/11 23:02:52 CET [2024/11/11 17:02:52 ET]
+Table '3822617621 1' 3-max Seat #3 is the button
+Seat 1: tjossle (440 in chips) 
+Seat 2: Oilers94$93 (680 in chips) 
+Seat 3: Mahu2021 (380 in chips) 
+tjossle: posts small blind 10
+Oilers94$93: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js 6c]
+Mahu2021: folds 
+tjossle: folds 
+Uncalled bet (10) returned to Oilers94$93
+Oilers94$93 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: tjossle (small blind) folded before Flop
+Seat 2: Oilers94$93 (big blind) collected (20)
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253364590304: Tournament #3822617621, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/11 23:02:58 CET [2024/11/11 17:02:58 ET]
+Table '3822617621 1' 3-max Seat #1 is the button
+Seat 1: tjossle (430 in chips) 
+Seat 2: Oilers94$93 (690 in chips) 
+Seat 3: Mahu2021 (380 in chips) 
+Oilers94$93: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h 3d]
+tjossle: raises 20 to 40
+Oilers94$93: calls 30
+Mahu2021: calls 20
+*** FLOP *** [Ks 2h Kh]
+Oilers94$93: checks 
+Mahu2021: checks 
+tjossle: bets 40
+Oilers94$93: folds 
+Mahu2021: calls 40
+*** TURN *** [Ks 2h Kh] [8d]
+Mahu2021: checks 
+tjossle: bets 40
+Mahu2021: calls 40
+*** RIVER *** [Ks 2h Kh 8d] [4h]
+Mahu2021: checks 
+tjossle: bets 60
+Mahu2021: calls 60
+*** SHOW DOWN ***
+tjossle: shows [8h Th] (a flush, King high)
+Mahu2021: mucks hand 
+tjossle collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Board [Ks 2h Kh 8d 4h]
+Seat 1: tjossle (button) showed [8h Th] and won (400) with a flush, King high
+Seat 2: Oilers94$93 (small blind) folded on the Flop
+Seat 3: Mahu2021 (big blind) mucked [3h 3d]
+
+
+
+PokerStars Hand #253364596851: Tournament #3822617621, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/11 23:03:20 CET [2024/11/11 17:03:20 ET]
+Table '3822617621 1' 3-max Seat #2 is the button
+Seat 1: tjossle (650 in chips) 
+Seat 2: Oilers94$93 (650 in chips) 
+Seat 3: Mahu2021 (200 in chips) 
+Mahu2021: posts small blind 10
+tjossle: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2c Qh]
+Oilers94$93: calls 20
+Mahu2021: folds 
+tjossle: checks 
+*** FLOP *** [Ts Kh Qd]
+tjossle: checks 
+Oilers94$93: checks 
+*** TURN *** [Ts Kh Qd] [Kd]
+tjossle: checks 
+Oilers94$93: bets 20
+tjossle: folds 
+Uncalled bet (20) returned to Oilers94$93
+Oilers94$93 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [Ts Kh Qd Kd]
+Seat 1: tjossle (big blind) folded on the Turn
+Seat 2: Oilers94$93 (button) collected (50)
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #253364602063: Tournament #3822617621, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/11 23:03:37 CET [2024/11/11 17:03:37 ET]
+Table '3822617621 1' 3-max Seat #3 is the button
+Seat 1: tjossle (630 in chips) 
+Seat 2: Oilers94$93 (680 in chips) 
+Seat 3: Mahu2021 (190 in chips) 
+tjossle: posts small blind 10
+Oilers94$93: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d Jc]
+Mahu2021: folds 
+tjossle: raises 20 to 40
+Oilers94$93: calls 20
+*** FLOP *** [9c Td Jh]
+tjossle: checks 
+Oilers94$93: checks 
+*** TURN *** [9c Td Jh] [6c]
+tjossle: checks 
+Oilers94$93: checks 
+*** RIVER *** [9c Td Jh 6c] [4c]
+tjossle: checks 
+Oilers94$93: checks 
+*** SHOW DOWN ***
+tjossle: shows [5d As] (high card Ace)
+Oilers94$93: shows [3c 4h] (a pair of Fours)
+Oilers94$93 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [9c Td Jh 6c 4c]
+Seat 1: tjossle (small blind) showed [5d As] and lost with high card Ace
+Seat 2: Oilers94$93 (big blind) showed [3c 4h] and won (80) with a pair of Fours
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253364606831: Tournament #3822617621, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/11 23:03:52 CET [2024/11/11 17:03:52 ET]
+Table '3822617621 1' 3-max Seat #1 is the button
+Seat 1: tjossle (590 in chips) 
+Seat 2: Oilers94$93 (720 in chips) 
+Seat 3: Mahu2021 (190 in chips) 
+Oilers94$93: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4c 8h]
+tjossle: raises 20 to 40
+Oilers94$93: folds 
+Mahu2021: folds 
+Uncalled bet (20) returned to tjossle
+tjossle collected 50 from pot
+tjossle: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: tjossle (button) collected (50)
+Seat 2: Oilers94$93 (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #253364609703: Tournament #3822617621, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/11 23:04:02 CET [2024/11/11 17:04:02 ET]
+Table '3822617621 1' 3-max Seat #2 is the button
+Seat 1: tjossle (620 in chips) 
+Seat 2: Oilers94$93 (710 in chips) 
+Seat 3: Mahu2021 (170 in chips) 
+Mahu2021: posts small blind 10
+tjossle: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c Jh]
+Oilers94$93: folds 
+Mahu2021: calls 10
+tjossle: raises 20 to 40
+Mahu2021: calls 20
+*** FLOP *** [Qc 7d 3s]
+Mahu2021: checks 
+tjossle: bets 20
+Mahu2021: folds 
+Uncalled bet (20) returned to tjossle
+tjossle collected 80 from pot
+tjossle: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Qc 7d 3s]
+Seat 1: tjossle (big blind) collected (80)
+Seat 2: Oilers94$93 (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #253364613732: Tournament #3822617621, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/11 23:04:15 CET [2024/11/11 17:04:15 ET]
+Table '3822617621 1' 3-max Seat #3 is the button
+Seat 1: tjossle (660 in chips) 
+Seat 2: Oilers94$93 (710 in chips) 
+Seat 3: Mahu2021 (130 in chips) 
+tjossle: posts small blind 10
+Oilers94$93: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Tc 5h]
+Mahu2021: folds 
+tjossle: raises 20 to 40
+Oilers94$93: folds 
+Uncalled bet (20) returned to tjossle
+tjossle collected 40 from pot
+tjossle: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: tjossle (small blind) collected (40)
+Seat 2: Oilers94$93 (big blind) folded before Flop
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253364617214: Tournament #3822617621, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/11 23:04:26 CET [2024/11/11 17:04:26 ET]
+Table '3822617621 1' 3-max Seat #1 is the button
+Seat 1: tjossle (680 in chips) 
+Seat 2: Oilers94$93 (690 in chips) 
+Seat 3: Mahu2021 (130 in chips) 
+Oilers94$93: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks Kc]
+tjossle: folds 
+Oilers94$93: calls 15
+Mahu2021: raises 100 to 130 and is all-in
+Oilers94$93: folds 
+Uncalled bet (100) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: tjossle (button) folded before Flop (didn't bet)
+Seat 2: Oilers94$93 (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (60)
+
+
+
+PokerStars Hand #253364624084: Tournament #3822617621, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/11 23:04:49 CET [2024/11/11 17:04:49 ET]
+Table '3822617621 1' 3-max Seat #2 is the button
+Seat 1: tjossle (680 in chips) 
+Seat 2: Oilers94$93 (660 in chips) 
+Seat 3: Mahu2021 (160 in chips) 
+Mahu2021: posts small blind 15
+tjossle: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4c 6s]
+Oilers94$93: folds 
+Mahu2021: folds 
+Uncalled bet (15) returned to tjossle
+tjossle collected 30 from pot
+tjossle: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: tjossle (big blind) collected (30)
+Seat 2: Oilers94$93 (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #253364625643: Tournament #3822617621, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/11 23:04:54 CET [2024/11/11 17:04:54 ET]
+Table '3822617621 1' 3-max Seat #3 is the button
+Seat 1: tjossle (695 in chips) 
+Seat 2: Oilers94$93 (660 in chips) 
+Seat 3: Mahu2021 (145 in chips) 
+tjossle: posts small blind 15
+Oilers94$93: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac 8d]
+Mahu2021: raises 115 to 145 and is all-in
+tjossle: folds 
+Oilers94$93: folds 
+Uncalled bet (115) returned to Mahu2021
+Mahu2021 collected 75 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: tjossle (small blind) folded before Flop
+Seat 2: Oilers94$93 (big blind) folded before Flop
+Seat 3: Mahu2021 (button) collected (75)
+
+
+
+PokerStars Hand #253364628473: Tournament #3822617621, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/11 23:05:02 CET [2024/11/11 17:05:02 ET]
+Table '3822617621 1' 3-max Seat #1 is the button
+Seat 1: tjossle (680 in chips) 
+Seat 2: Oilers94$93 (630 in chips) 
+Seat 3: Mahu2021 (190 in chips) 
+Oilers94$93: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh As]
+tjossle: folds 
+Oilers94$93: calls 15
+Mahu2021: raises 160 to 190 and is all-in
+Oilers94$93: folds 
+Uncalled bet (160) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: tjossle (button) folded before Flop (didn't bet)
+Seat 2: Oilers94$93 (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (60)
+
+
+
+PokerStars Hand #253364631344: Tournament #3822617621, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/11 23:05:12 CET [2024/11/11 17:05:12 ET]
+Table '3822617621 1' 3-max Seat #2 is the button
+Seat 1: tjossle (680 in chips) 
+Seat 2: Oilers94$93 (600 in chips) 
+Seat 3: Mahu2021 (220 in chips) 
+Mahu2021: posts small blind 15
+tjossle: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Th 2d]
+Oilers94$93: calls 30
+Mahu2021: folds 
+tjossle: checks 
+*** FLOP *** [Js 6s 9d]
+tjossle: checks 
+Oilers94$93: checks 
+*** TURN *** [Js 6s 9d] [Jd]
+tjossle: checks 
+Oilers94$93: bets 30
+tjossle: raises 60 to 90
+Oilers94$93: calls 60
+*** RIVER *** [Js 6s 9d Jd] [4h]
+tjossle: bets 90
+Oilers94$93: folds 
+Uncalled bet (90) returned to tjossle
+tjossle collected 255 from pot
+tjossle: doesn't show hand 
+*** SUMMARY ***
+Total pot 255 | Rake 0 
+Board [Js 6s 9d Jd 4h]
+Seat 1: tjossle (big blind) collected (255)
+Seat 2: Oilers94$93 (button) folded on the River
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #253364639146: Tournament #3822617621, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/11 23:05:36 CET [2024/11/11 17:05:36 ET]
+Table '3822617621 1' 3-max Seat #3 is the button
+Seat 1: tjossle (815 in chips) 
+Seat 2: Oilers94$93 (480 in chips) 
+Seat 3: Mahu2021 (205 in chips) 
+tjossle: posts small blind 15
+Oilers94$93: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s 6s]
+Mahu2021: folds 
+tjossle: folds 
+Uncalled bet (15) returned to Oilers94$93
+Oilers94$93 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: tjossle (small blind) folded before Flop
+Seat 2: Oilers94$93 (big blind) collected (30)
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253364640603: Tournament #3822617621, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/11 23:05:41 CET [2024/11/11 17:05:41 ET]
+Table '3822617621 1' 3-max Seat #1 is the button
+Seat 1: tjossle (800 in chips) 
+Seat 2: Oilers94$93 (495 in chips) 
+Seat 3: Mahu2021 (205 in chips) 
+Oilers94$93: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h 6c]
+tjossle: folds 
+Oilers94$93: calls 15
+Mahu2021: checks 
+*** FLOP *** [Qs 6d 6h]
+Oilers94$93: checks 
+Mahu2021: bets 30
+Oilers94$93: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Qs 6d 6h]
+Seat 1: tjossle (button) folded before Flop (didn't bet)
+Seat 2: Oilers94$93 (small blind) folded on the Flop
+Seat 3: Mahu2021 (big blind) collected (60)
+
+
+
+PokerStars Hand #253364644661: Tournament #3822617621, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/11 23:05:54 CET [2024/11/11 17:05:54 ET]
+Table '3822617621 1' 3-max Seat #2 is the button
+Seat 1: tjossle (800 in chips) 
+Seat 2: Oilers94$93 (465 in chips) 
+Seat 3: Mahu2021 (235 in chips) 
+Mahu2021: posts small blind 15
+tjossle: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s 6d]
+Oilers94$93: calls 30
+Mahu2021: folds 
+tjossle: checks 
+*** FLOP *** [5c 2h Jc]
+tjossle: checks 
+Oilers94$93: bets 30
+tjossle: folds 
+Uncalled bet (30) returned to Oilers94$93
+Oilers94$93 collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Board [5c 2h Jc]
+Seat 1: tjossle (big blind) folded on the Flop
+Seat 2: Oilers94$93 (button) collected (75)
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #253364648291: Tournament #3822617621, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/11 23:06:06 CET [2024/11/11 17:06:06 ET]
+Table '3822617621 1' 3-max Seat #3 is the button
+Seat 1: tjossle (770 in chips) 
+Seat 2: Oilers94$93 (510 in chips) 
+Seat 3: Mahu2021 (220 in chips) 
+tjossle: posts small blind 15
+Oilers94$93: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s Kh]
+Mahu2021: raises 30 to 60
+tjossle: folds 
+Oilers94$93: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 75 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: tjossle (small blind) folded before Flop
+Seat 2: Oilers94$93 (big blind) folded before Flop
+Seat 3: Mahu2021 (button) collected (75)
+
+
+
+PokerStars Hand #253364651707: Tournament #3822617621, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/11 23:06:17 CET [2024/11/11 17:06:17 ET]
+Table '3822617621 1' 3-max Seat #1 is the button
+Seat 1: tjossle (755 in chips) 
+Seat 2: Oilers94$93 (480 in chips) 
+Seat 3: Mahu2021 (265 in chips) 
+Oilers94$93: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3c 9h]
+tjossle: folds 
+Oilers94$93: calls 15
+Mahu2021: checks 
+*** FLOP *** [Kd 7h Kh]
+Oilers94$93: checks 
+Mahu2021: checks 
+*** TURN *** [Kd 7h Kh] [4c]
+Oilers94$93: checks 
+Mahu2021: checks 
+*** RIVER *** [Kd 7h Kh 4c] [8c]
+Oilers94$93: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+Oilers94$93: shows [Jh Th] (a pair of Kings)
+Mahu2021: mucks hand 
+Oilers94$93 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Kd 7h Kh 4c 8c]
+Seat 1: tjossle (button) folded before Flop (didn't bet)
+Seat 2: Oilers94$93 (small blind) showed [Jh Th] and won (60) with a pair of Kings
+Seat 3: Mahu2021 (big blind) mucked [3c 9h]
+
+
+
+PokerStars Hand #253364657533: Tournament #3822617621, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/11 23:06:35 CET [2024/11/11 17:06:35 ET]
+Table '3822617621 1' 3-max Seat #2 is the button
+Seat 1: tjossle (755 in chips) 
+Seat 2: Oilers94$93 (510 in chips) 
+Seat 3: Mahu2021 (235 in chips) 
+Mahu2021: posts small blind 20
+tjossle: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2c 5h]
+Oilers94$93: folds 
+Mahu2021: folds 
+Uncalled bet (20) returned to tjossle
+tjossle collected 40 from pot
+tjossle: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: tjossle (big blind) collected (40)
+Seat 2: Oilers94$93 (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #253364659090: Tournament #3822617621, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/11 23:06:40 CET [2024/11/11 17:06:40 ET]
+Table '3822617621 1' 3-max Seat #3 is the button
+Seat 1: tjossle (775 in chips) 
+Seat 2: Oilers94$93 (510 in chips) 
+Seat 3: Mahu2021 (215 in chips) 
+tjossle: posts small blind 20
+Oilers94$93: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s Qc]
+Mahu2021: calls 40
+tjossle: calls 20
+Oilers94$93: checks 
+*** FLOP *** [3d Ks 6c]
+tjossle: checks 
+Oilers94$93: checks 
+Mahu2021: checks 
+*** TURN *** [3d Ks 6c] [Kh]
+tjossle: checks 
+Oilers94$93: checks 
+Mahu2021: checks 
+*** RIVER *** [3d Ks 6c Kh] [Kd]
+tjossle: checks 
+Oilers94$93: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+tjossle: shows [8d 4d] (three of a kind, Kings)
+Oilers94$93: shows [5s 8c] (three of a kind, Kings)
+Mahu2021: shows [9s Qc] (three of a kind, Kings - Queen kicker)
+Mahu2021 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [3d Ks 6c Kh Kd]
+Seat 1: tjossle (small blind) showed [8d 4d] and lost with three of a kind, Kings
+Seat 2: Oilers94$93 (big blind) showed [5s 8c] and lost with three of a kind, Kings
+Seat 3: Mahu2021 (button) showed [9s Qc] and won (120) with three of a kind, Kings
+
+
+
+PokerStars Hand #253364664772: Tournament #3822617621, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/11 23:06:59 CET [2024/11/11 17:06:59 ET]
+Table '3822617621 1' 3-max Seat #1 is the button
+Seat 1: tjossle (735 in chips) 
+Seat 2: Oilers94$93 (470 in chips) 
+Seat 3: Mahu2021 (295 in chips) 
+Oilers94$93: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh 8s]
+tjossle: raises 40 to 80
+Oilers94$93: folds 
+Mahu2021: calls 40
+*** FLOP *** [Ah Js Kc]
+Mahu2021: checks 
+tjossle: bets 40
+Mahu2021: calls 40
+*** TURN *** [Ah Js Kc] [4s]
+Mahu2021: checks 
+tjossle: bets 80
+Mahu2021: folds 
+Uncalled bet (80) returned to tjossle
+tjossle collected 260 from pot
+tjossle: doesn't show hand 
+*** SUMMARY ***
+Total pot 260 | Rake 0 
+Board [Ah Js Kc 4s]
+Seat 1: tjossle (button) collected (260)
+Seat 2: Oilers94$93 (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #253364669385: Tournament #3822617621, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/11 23:07:13 CET [2024/11/11 17:07:13 ET]
+Table '3822617621 1' 3-max Seat #2 is the button
+Seat 1: tjossle (875 in chips) 
+Seat 2: Oilers94$93 (450 in chips) 
+Seat 3: Mahu2021 (175 in chips) 
+Mahu2021: posts small blind 20
+tjossle: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc 2s]
+Oilers94$93: folds 
+Mahu2021: raises 135 to 175 and is all-in
+tjossle: folds 
+Uncalled bet (135) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: tjossle (big blind) folded before Flop
+Seat 2: Oilers94$93 (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) collected (80)
+
+
+
+PokerStars Hand #253364671580: Tournament #3822617621, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/11 23:07:20 CET [2024/11/11 17:07:20 ET]
+Table '3822617621 1' 3-max Seat #3 is the button
+Seat 1: tjossle (835 in chips) 
+Seat 2: Oilers94$93 (450 in chips) 
+Seat 3: Mahu2021 (215 in chips) 
+tjossle: posts small blind 20
+Oilers94$93: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Tc 8d]
+Mahu2021: folds 
+tjossle: calls 20
+Oilers94$93: checks 
+*** FLOP *** [Qc Qh Kh]
+tjossle: checks 
+Oilers94$93: checks 
+*** TURN *** [Qc Qh Kh] [Ad]
+tjossle: checks 
+Oilers94$93: checks 
+*** RIVER *** [Qc Qh Kh Ad] [Jd]
+tjossle: checks 
+Oilers94$93: checks 
+*** SHOW DOWN ***
+tjossle: shows [Kc 8h] (two pair, Kings and Queens)
+Oilers94$93: mucks hand 
+tjossle collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Qc Qh Kh Ad Jd]
+Seat 1: tjossle (small blind) showed [Kc 8h] and won (80) with two pair, Kings and Queens
+Seat 2: Oilers94$93 (big blind) mucked [4h 2h]
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253364676282: Tournament #3822617621, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/11 23:07:35 CET [2024/11/11 17:07:35 ET]
+Table '3822617621 1' 3-max Seat #1 is the button
+Seat 1: tjossle (875 in chips) 
+Seat 2: Oilers94$93 (410 in chips) 
+Seat 3: Mahu2021 (215 in chips) 
+Oilers94$93: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s 6c]
+tjossle: raises 40 to 80
+Oilers94$93: folds 
+Mahu2021: folds 
+Uncalled bet (40) returned to tjossle
+tjossle collected 100 from pot
+tjossle: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: tjossle (button) collected (100)
+Seat 2: Oilers94$93 (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #253364678546: Tournament #3822617621, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/11 23:07:43 CET [2024/11/11 17:07:43 ET]
+Table '3822617621 1' 3-max Seat #2 is the button
+Seat 1: tjossle (935 in chips) 
+Seat 2: Oilers94$93 (390 in chips) 
+Seat 3: Mahu2021 (175 in chips) 
+Mahu2021: posts small blind 20
+tjossle: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac Ad]
+Oilers94$93: folds 
+Mahu2021: raises 40 to 80
+tjossle: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: tjossle (big blind) folded before Flop
+Seat 2: Oilers94$93 (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) collected (80)
+
+
+
+PokerStars Hand #253364681115: Tournament #3822617621, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/11 23:07:51 CET [2024/11/11 17:07:51 ET]
+Table '3822617621 1' 3-max Seat #3 is the button
+Seat 1: tjossle (895 in chips) 
+Seat 2: Oilers94$93 (390 in chips) 
+Seat 3: Mahu2021 (215 in chips) 
+tjossle: posts small blind 20
+Oilers94$93: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5h 4h]
+Mahu2021: calls 40
+tjossle: calls 20
+Oilers94$93: checks 
+*** FLOP *** [5d 6d 7h]
+tjossle: checks 
+Oilers94$93: checks 
+Mahu2021: bets 175 and is all-in
+tjossle: calls 175
+Oilers94$93: folds 
+*** TURN *** [5d 6d 7h] [3h]
+*** RIVER *** [5d 6d 7h 3h] [Ad]
+*** SHOW DOWN ***
+tjossle: shows [Jd 3d] (a flush, Ace high)
+Mahu2021: shows [5h 4h] (a straight, Three to Seven)
+tjossle collected 470 from pot
+Mahu2021 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 470 | Rake 0 
+Board [5d 6d 7h 3h Ad]
+Seat 1: tjossle (small blind) showed [Jd 3d] and won (470) with a flush, Ace high
+Seat 2: Oilers94$93 (big blind) folded on the Flop
+Seat 3: Mahu2021 (button) showed [5h 4h] and lost with a straight, Three to Seven
+
+
+

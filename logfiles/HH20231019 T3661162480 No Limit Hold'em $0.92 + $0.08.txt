@@ -1,0 +1,121 @@
+﻿PokerStars Hand #246625674127: Tournament #3661162480, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/10/19 20:24:18 CET [2023/10/19 14:24:18 ET]
+Table '3661162480 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: charro201567 (500 in chips) 
+Seat 3: miguelnt93 (500 in chips) 
+charro201567: posts small blind 10
+miguelnt93: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd Tc]
+Mahu2021: raises 20 to 40
+charro201567: calls 30
+miguelnt93: folds 
+*** FLOP *** [Jc 9c 4c]
+charro201567: bets 20
+Mahu2021: calls 20
+*** TURN *** [Jc 9c 4c] [4h]
+charro201567: checks 
+Mahu2021: bets 140
+charro201567: folds 
+Uncalled bet (140) returned to Mahu2021
+Mahu2021 collected 140 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 140 | Rake 0 
+Board [Jc 9c 4c 4h]
+Seat 1: Mahu2021 (button) collected (140)
+Seat 2: charro201567 (small blind) folded on the Turn
+Seat 3: miguelnt93 (big blind) folded before Flop
+
+
+
+PokerStars Hand #246625680371: Tournament #3661162480, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/10/19 20:24:36 CET [2023/10/19 14:24:36 ET]
+Table '3661162480 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (580 in chips) 
+Seat 2: charro201567 (440 in chips) 
+Seat 3: miguelnt93 (480 in chips) 
+miguelnt93: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s Js]
+charro201567: calls 20
+miguelnt93: raises 40 to 60
+Mahu2021: calls 40
+charro201567: calls 40
+*** FLOP *** [7h Kc 8h]
+miguelnt93: bets 90
+Mahu2021: folds 
+charro201567: calls 90
+*** TURN *** [7h Kc 8h] [7c]
+miguelnt93: checks 
+charro201567: bets 290 and is all-in
+miguelnt93: folds 
+Uncalled bet (290) returned to charro201567
+charro201567 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [7h Kc 8h 7c]
+Seat 1: Mahu2021 (big blind) folded on the Flop
+Seat 2: charro201567 (button) collected (360)
+Seat 3: miguelnt93 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #246625689625: Tournament #3661162480, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/10/19 20:25:03 CET [2023/10/19 14:25:03 ET]
+Table '3661162480 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (520 in chips) 
+Seat 2: charro201567 (650 in chips) 
+Seat 3: miguelnt93 (330 in chips) 
+Mahu2021: posts small blind 10
+charro201567: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s 5d]
+miguelnt93: raises 310 to 330 and is all-in
+Mahu2021: calls 320
+charro201567: folds 
+*** FLOP *** [Ks 5h 3h]
+*** TURN *** [Ks 5h 3h] [Jh]
+*** RIVER *** [Ks 5h 3h Jh] [Ah]
+*** SHOW DOWN ***
+Mahu2021: shows [5s 5d] (three of a kind, Fives)
+miguelnt93: shows [Kd 6d] (a pair of Kings)
+Mahu2021 collected 680 from pot
+miguelnt93 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 680 | Rake 0 
+Board [Ks 5h 3h Jh Ah]
+Seat 1: Mahu2021 (small blind) showed [5s 5d] and won (680) with three of a kind, Fives
+Seat 2: charro201567 (big blind) folded before Flop
+Seat 3: miguelnt93 (button) showed [Kd 6d] and lost with a pair of Kings
+
+
+
+PokerStars Hand #246625695464: Tournament #3661162480, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/10/19 20:25:20 CET [2023/10/19 14:25:20 ET]
+Table '3661162480 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (870 in chips) 
+Seat 2: charro201567 (630 in chips) 
+charro201567: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8d 8h]
+charro201567: raises 20 to 40
+Mahu2021: raises 830 to 870 and is all-in
+charro201567: calls 590 and is all-in
+Uncalled bet (240) returned to Mahu2021
+*** FLOP *** [4d 9h 3h]
+*** TURN *** [4d 9h 3h] [6h]
+*** RIVER *** [4d 9h 3h 6h] [Td]
+*** SHOW DOWN ***
+Mahu2021: shows [8d 8h] (a pair of Eights)
+charro201567: shows [7c Ks] (high card King)
+Mahu2021 collected 1260 from pot
+charro201567 finished the tournament in 2nd place
+Mahu2021 wins the tournament and receives $3.00 - congratulations!
+*** SUMMARY ***
+Total pot 1260 | Rake 0 
+Board [4d 9h 3h 6h Td]
+Seat 1: Mahu2021 (big blind) showed [8d 8h] and won (1260) with a pair of Eights
+Seat 2: charro201567 (button) (small blind) showed [7c Ks] and lost with high card King
+
+
+

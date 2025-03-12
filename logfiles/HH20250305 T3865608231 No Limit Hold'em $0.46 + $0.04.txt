@@ -1,0 +1,776 @@
+﻿PokerStars Hand #255150676751: Tournament #3865608231, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2025/03/05 16:41:42 CET [2025/03/05 10:41:42 ET]
+Table '3865608231 1' 3-max Seat #1 is the button
+Seat 1: ViviBag (500 in chips) 
+Seat 2: zero3313 (500 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+zero3313: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s 3h]
+ViviBag: folds 
+zero3313: raises 480 to 500 and is all-in
+Mahu2021: folds 
+Uncalled bet (480) returned to zero3313
+zero3313 collected 40 from pot
+zero3313: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: ViviBag (button) folded before Flop (didn't bet)
+Seat 2: zero3313 (small blind) collected (40)
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #255150678281: Tournament #3865608231, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2025/03/05 16:41:50 CET [2025/03/05 10:41:50 ET]
+Table '3865608231 1' 3-max Seat #2 is the button
+Seat 1: ViviBag (500 in chips) 
+Seat 2: zero3313 (520 in chips) 
+Seat 3: Mahu2021 (480 in chips) 
+Mahu2021: posts small blind 10
+ViviBag: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2c Ts]
+zero3313: calls 20
+Mahu2021: folds 
+ViviBag: checks 
+*** FLOP *** [2h 2s 3s]
+ViviBag: checks 
+zero3313: checks 
+*** TURN *** [2h 2s 3s] [9c]
+ViviBag: checks 
+zero3313: checks 
+*** RIVER *** [2h 2s 3s 9c] [7c]
+ViviBag: checks 
+zero3313: checks 
+*** SHOW DOWN ***
+ViviBag: shows [6c 3d] (two pair, Threes and Deuces)
+zero3313: mucks hand 
+ViviBag collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [2h 2s 3s 9c 7c]
+Seat 1: ViviBag (big blind) showed [6c 3d] and won (50) with two pair, Threes and Deuces
+Seat 2: zero3313 (button) mucked [5d Qd]
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #255150681632: Tournament #3865608231, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2025/03/05 16:42:07 CET [2025/03/05 10:42:07 ET]
+Table '3865608231 1' 3-max Seat #3 is the button
+Seat 1: ViviBag (530 in chips) 
+Seat 2: zero3313 (500 in chips) 
+Seat 3: Mahu2021 (470 in chips) 
+ViviBag: posts small blind 10
+zero3313: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h 3c]
+Mahu2021: folds 
+ViviBag: calls 10
+zero3313: checks 
+*** FLOP *** [Jh Ts 9h]
+ViviBag: checks 
+zero3313: bets 20
+ViviBag: calls 20
+*** TURN *** [Jh Ts 9h] [5d]
+ViviBag: checks 
+zero3313: checks 
+*** RIVER *** [Jh Ts 9h 5d] [Kc]
+ViviBag: bets 20
+zero3313: raises 20 to 40
+ViviBag: calls 20
+*** SHOW DOWN ***
+zero3313: shows [4d Qd] (a straight, Nine to King)
+ViviBag: shows [Qs 9s] (a straight, Nine to King)
+ViviBag collected 80 from pot
+zero3313 collected 80 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Jh Ts 9h 5d Kc]
+Seat 1: ViviBag (small blind) showed [Qs 9s] and won (80) with a straight, Nine to King
+Seat 2: zero3313 (big blind) showed [4d Qd] and won (80) with a straight, Nine to King
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255150686635: Tournament #3865608231, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2025/03/05 16:42:34 CET [2025/03/05 10:42:34 ET]
+Table '3865608231 1' 3-max Seat #1 is the button
+Seat 1: ViviBag (530 in chips) 
+Seat 2: zero3313 (500 in chips) 
+Seat 3: Mahu2021 (470 in chips) 
+zero3313: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Td 5s]
+ViviBag: folds 
+zero3313: calls 10
+Mahu2021: checks 
+*** FLOP *** [Jh 2s Qh]
+zero3313: checks 
+Mahu2021: checks 
+*** TURN *** [Jh 2s Qh] [Js]
+zero3313: checks 
+Mahu2021: checks 
+*** RIVER *** [Jh 2s Qh Js] [Ah]
+zero3313: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+zero3313: shows [Tc 4h] (a pair of Jacks)
+Mahu2021: shows [Td 5s] (a pair of Jacks)
+zero3313 collected 20 from pot
+Mahu2021 collected 20 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Jh 2s Qh Js Ah]
+Seat 1: ViviBag (button) folded before Flop (didn't bet)
+Seat 2: zero3313 (small blind) showed [Tc 4h] and won (20) with a pair of Jacks
+Seat 3: Mahu2021 (big blind) showed [Td 5s] and won (20) with a pair of Jacks
+
+
+
+PokerStars Hand #255150690792: Tournament #3865608231, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2025/03/05 16:42:55 CET [2025/03/05 10:42:55 ET]
+Table '3865608231 1' 3-max Seat #2 is the button
+Seat 1: ViviBag (530 in chips) 
+Seat 2: zero3313 (500 in chips) 
+Seat 3: Mahu2021 (470 in chips) 
+Mahu2021: posts small blind 10
+ViviBag: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh 9d]
+zero3313: raises 20 to 40
+Mahu2021: calls 30
+ViviBag: calls 20
+*** FLOP *** [8d 5d Jc]
+Mahu2021: checks 
+ViviBag: checks 
+zero3313: checks 
+*** TURN *** [8d 5d Jc] [Qc]
+Mahu2021: checks 
+ViviBag: checks 
+zero3313: checks 
+*** RIVER *** [8d 5d Jc Qc] [Kd]
+Mahu2021: bets 40
+ViviBag: folds 
+zero3313: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [8d 5d Jc Qc Kd]
+Seat 1: ViviBag (big blind) folded on the River
+Seat 2: zero3313 (button) folded on the River
+Seat 3: Mahu2021 (small blind) collected (120)
+
+
+
+PokerStars Hand #255150695408: Tournament #3865608231, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2025/03/05 16:43:19 CET [2025/03/05 10:43:19 ET]
+Table '3865608231 1' 3-max Seat #3 is the button
+Seat 1: ViviBag (490 in chips) 
+Seat 2: zero3313 (460 in chips) 
+Seat 3: Mahu2021 (550 in chips) 
+ViviBag: posts small blind 10
+zero3313: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kc 2c]
+Mahu2021: calls 20
+ViviBag: folds 
+zero3313: checks 
+*** FLOP *** [3c 9c Ad]
+zero3313: checks 
+Mahu2021: bets 20
+zero3313: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 50 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [3c 9c Ad]
+Seat 1: ViviBag (small blind) folded before Flop
+Seat 2: zero3313 (big blind) folded on the Flop
+Seat 3: Mahu2021 (button) collected (50)
+
+
+
+PokerStars Hand #255150698131: Tournament #3865608231, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2025/03/05 16:43:34 CET [2025/03/05 10:43:34 ET]
+Table '3865608231 1' 3-max Seat #1 is the button
+Seat 1: ViviBag (480 in chips) 
+Seat 2: zero3313 (440 in chips) 
+Seat 3: Mahu2021 (580 in chips) 
+zero3313: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d 6c]
+ViviBag: calls 20
+zero3313: calls 10
+Mahu2021: checks 
+*** FLOP *** [Ac 3h Ad]
+zero3313: checks 
+Mahu2021: checks 
+ViviBag: checks 
+*** TURN *** [Ac 3h Ad] [5d]
+zero3313: bets 20
+Mahu2021: folds 
+ViviBag: folds 
+Uncalled bet (20) returned to zero3313
+zero3313 collected 60 from pot
+zero3313: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Ac 3h Ad 5d]
+Seat 1: ViviBag (button) folded on the Turn
+Seat 2: zero3313 (small blind) collected (60)
+Seat 3: Mahu2021 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #255150703166: Tournament #3865608231, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2025/03/05 16:44:00 CET [2025/03/05 10:44:00 ET]
+Table '3865608231 1' 3-max Seat #2 is the button
+Seat 1: ViviBag (460 in chips) 
+Seat 2: zero3313 (480 in chips) 
+Seat 3: Mahu2021 (560 in chips) 
+Mahu2021: posts small blind 15
+ViviBag: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc Ts]
+zero3313: calls 30
+Mahu2021: calls 15
+ViviBag: checks 
+*** FLOP *** [Ad Tc 3c]
+Mahu2021: bets 30
+ViviBag: folds 
+zero3313: calls 30
+*** TURN *** [Ad Tc 3c] [7h]
+Mahu2021: checks 
+zero3313: checks 
+*** RIVER *** [Ad Tc 3c 7h] [2s]
+Mahu2021: checks 
+zero3313: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [Jc Ts] (a pair of Tens)
+zero3313: mucks hand 
+Mahu2021 collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Board [Ad Tc 3c 7h 2s]
+Seat 1: ViviBag (big blind) folded on the Flop
+Seat 2: zero3313 (button) mucked [Kd 6d]
+Seat 3: Mahu2021 (small blind) showed [Jc Ts] and won (150) with a pair of Tens
+
+
+
+PokerStars Hand #255150706702: Tournament #3865608231, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2025/03/05 16:44:18 CET [2025/03/05 10:44:18 ET]
+Table '3865608231 1' 3-max Seat #3 is the button
+Seat 1: ViviBag (430 in chips) 
+Seat 2: zero3313 (420 in chips) 
+Seat 3: Mahu2021 (650 in chips) 
+ViviBag: posts small blind 15
+zero3313: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2c 7d]
+Mahu2021: folds 
+ViviBag: calls 15
+zero3313: checks 
+*** FLOP *** [8c Jc 5d]
+ViviBag: checks 
+zero3313: bets 30
+ViviBag: calls 30
+*** TURN *** [8c Jc 5d] [9h]
+ViviBag: checks 
+zero3313: checks 
+*** RIVER *** [8c Jc 5d 9h] [4s]
+ViviBag: checks 
+zero3313: bets 30
+ViviBag: folds 
+Uncalled bet (30) returned to zero3313
+zero3313 collected 120 from pot
+zero3313: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [8c Jc 5d 9h 4s]
+Seat 1: ViviBag (small blind) folded on the River
+Seat 2: zero3313 (big blind) collected (120)
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255150711790: Tournament #3865608231, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2025/03/05 16:44:44 CET [2025/03/05 10:44:44 ET]
+Table '3865608231 1' 3-max Seat #1 is the button
+Seat 1: ViviBag (370 in chips) 
+Seat 2: zero3313 (480 in chips) 
+Seat 3: Mahu2021 (650 in chips) 
+zero3313: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Th 7d]
+ViviBag: calls 30
+zero3313: calls 15
+Mahu2021: checks 
+*** FLOP *** [Tc 9s 6h]
+zero3313: checks 
+Mahu2021: bets 30
+ViviBag: calls 30
+zero3313: folds 
+*** TURN *** [Tc 9s 6h] [8h]
+Mahu2021: bets 30
+ViviBag: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 150 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Board [Tc 9s 6h 8h]
+Seat 1: ViviBag (button) folded on the Turn
+Seat 2: zero3313 (small blind) folded on the Flop
+Seat 3: Mahu2021 (big blind) collected (150)
+
+
+
+PokerStars Hand #255150715714: Tournament #3865608231, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2025/03/05 16:45:03 CET [2025/03/05 10:45:03 ET]
+Table '3865608231 1' 3-max Seat #2 is the button
+Seat 1: ViviBag (310 in chips) 
+Seat 2: zero3313 (450 in chips) 
+Seat 3: Mahu2021 (740 in chips) 
+Mahu2021: posts small blind 15
+ViviBag: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d Jh]
+zero3313: calls 30
+Mahu2021: calls 15
+ViviBag: checks 
+*** FLOP *** [4d 3c 5d]
+Mahu2021: checks 
+ViviBag: checks 
+zero3313: bets 30
+Mahu2021: calls 30
+ViviBag: calls 30
+*** TURN *** [4d 3c 5d] [Th]
+Mahu2021: checks 
+ViviBag: checks 
+zero3313: checks 
+*** RIVER *** [4d 3c 5d Th] [Js]
+Mahu2021: checks 
+ViviBag: bets 90
+zero3313: calls 90
+Mahu2021: folds 
+*** SHOW DOWN ***
+ViviBag: shows [As 2d] (a straight, Ace to Five)
+zero3313: mucks hand 
+ViviBag collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [4d 3c 5d Th Js]
+Seat 1: ViviBag (big blind) showed [As 2d] and won (360) with a straight, Ace to Five
+Seat 2: zero3313 (button) mucked [Jd 5h]
+Seat 3: Mahu2021 (small blind) folded on the River
+
+
+
+PokerStars Hand #255150721059: Tournament #3865608231, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2025/03/05 16:45:31 CET [2025/03/05 10:45:31 ET]
+Table '3865608231 1' 3-max Seat #3 is the button
+Seat 1: ViviBag (520 in chips) 
+Seat 2: zero3313 (300 in chips) 
+Seat 3: Mahu2021 (680 in chips) 
+ViviBag: posts small blind 15
+zero3313: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8d Kh]
+Mahu2021: folds 
+ViviBag: calls 15
+zero3313: raises 270 to 300 and is all-in
+ViviBag: calls 270
+*** FLOP *** [9s 7h 3h]
+*** TURN *** [9s 7h 3h] [Jc]
+*** RIVER *** [9s 7h 3h Jc] [Kd]
+*** SHOW DOWN ***
+ViviBag: shows [Tc Qd] (a straight, Nine to King)
+zero3313: shows [9c 9h] (three of a kind, Nines)
+ViviBag collected 600 from pot
+zero3313 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 600 | Rake 0 
+Board [9s 7h 3h Jc Kd]
+Seat 1: ViviBag (small blind) showed [Tc Qd] and won (600) with a straight, Nine to King
+Seat 2: zero3313 (big blind) showed [9c 9h] and lost with three of a kind, Nines
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255150725314: Tournament #3865608231, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2025/03/05 16:45:53 CET [2025/03/05 10:45:53 ET]
+Table '3865608231 1' 3-max Seat #1 is the button
+Seat 1: ViviBag (820 in chips) 
+Seat 3: Mahu2021 (680 in chips) 
+ViviBag: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d Qc]
+ViviBag: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: ViviBag (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (40)
+
+
+
+PokerStars Hand #255150726170: Tournament #3865608231, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2025/03/05 16:45:57 CET [2025/03/05 10:45:57 ET]
+Table '3865608231 1' 3-max Seat #3 is the button
+Seat 1: ViviBag (800 in chips) 
+Seat 3: Mahu2021 (700 in chips) 
+Mahu2021: posts small blind 20
+ViviBag: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s Th]
+Mahu2021: folds 
+Uncalled bet (20) returned to ViviBag
+ViviBag collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: ViviBag (big blind) collected (40)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #255150727225: Tournament #3865608231, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2025/03/05 16:46:02 CET [2025/03/05 10:46:02 ET]
+Table '3865608231 1' 3-max Seat #1 is the button
+Seat 1: ViviBag (820 in chips) 
+Seat 3: Mahu2021 (680 in chips) 
+ViviBag: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8c 7d]
+ViviBag: calls 20
+Mahu2021: checks 
+*** FLOP *** [Td 2s 9c]
+Mahu2021: checks 
+ViviBag: checks 
+*** TURN *** [Td 2s 9c] [6s]
+Mahu2021: checks 
+ViviBag: checks 
+*** RIVER *** [Td 2s 9c 6s] [7h]
+Mahu2021: bets 640 and is all-in
+ViviBag: folds 
+Uncalled bet (640) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Td 2s 9c 6s 7h]
+Seat 1: ViviBag (button) (small blind) folded on the River
+Seat 3: Mahu2021 (big blind) collected (80)
+
+
+
+PokerStars Hand #255150730548: Tournament #3865608231, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2025/03/05 16:46:19 CET [2025/03/05 10:46:19 ET]
+Table '3865608231 1' 3-max Seat #3 is the button
+Seat 1: ViviBag (780 in chips) 
+Seat 3: Mahu2021 (720 in chips) 
+Mahu2021: posts small blind 20
+ViviBag: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts 3d]
+Mahu2021: folds 
+Uncalled bet (20) returned to ViviBag
+ViviBag collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: ViviBag (big blind) collected (40)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #255150731635: Tournament #3865608231, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2025/03/05 16:46:25 CET [2025/03/05 10:46:25 ET]
+Table '3865608231 1' 3-max Seat #1 is the button
+Seat 1: ViviBag (800 in chips) 
+Seat 3: Mahu2021 (700 in chips) 
+ViviBag: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc 3d]
+ViviBag: calls 20
+Mahu2021: checks 
+*** FLOP *** [Ac 2s 9d]
+Mahu2021: checks 
+ViviBag: checks 
+*** TURN *** [Ac 2s 9d] [Js]
+Mahu2021: checks 
+ViviBag: bets 40
+Mahu2021: calls 40
+*** RIVER *** [Ac 2s 9d Js] [6c]
+Mahu2021: checks 
+ViviBag: bets 40
+Mahu2021: calls 40
+*** SHOW DOWN ***
+ViviBag: shows [Ah 4c] (a pair of Aces)
+Mahu2021: mucks hand 
+ViviBag collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Ac 2s 9d Js 6c]
+Seat 1: ViviBag (button) (small blind) showed [Ah 4c] and won (240) with a pair of Aces
+Seat 3: Mahu2021 (big blind) mucked [Jc 3d]
+
+
+
+PokerStars Hand #255150734493: Tournament #3865608231, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2025/03/05 16:46:39 CET [2025/03/05 10:46:39 ET]
+Table '3865608231 1' 3-max Seat #3 is the button
+Seat 1: ViviBag (920 in chips) 
+Seat 3: Mahu2021 (580 in chips) 
+Mahu2021: posts small blind 20
+ViviBag: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d Kh]
+Mahu2021: raises 40 to 80
+ViviBag: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: ViviBag (big blind) folded before Flop
+Seat 3: Mahu2021 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #255150736064: Tournament #3865608231, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2025/03/05 16:46:47 CET [2025/03/05 10:46:47 ET]
+Table '3865608231 1' 3-max Seat #1 is the button
+Seat 1: ViviBag (880 in chips) 
+Seat 3: Mahu2021 (620 in chips) 
+ViviBag: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8c Ah]
+ViviBag: calls 20
+Mahu2021: raises 580 to 620 and is all-in
+ViviBag: folds 
+Uncalled bet (580) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: ViviBag (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (80)
+
+
+
+PokerStars Hand #255150738217: Tournament #3865608231, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2025/03/05 16:46:58 CET [2025/03/05 10:46:58 ET]
+Table '3865608231 1' 3-max Seat #3 is the button
+Seat 1: ViviBag (840 in chips) 
+Seat 3: Mahu2021 (660 in chips) 
+Mahu2021: posts small blind 20
+ViviBag: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c 5h]
+Mahu2021: folds 
+Uncalled bet (20) returned to ViviBag
+ViviBag collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: ViviBag (big blind) collected (40)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #255150739244: Tournament #3865608231, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2025/03/05 16:47:03 CET [2025/03/05 10:47:03 ET]
+Table '3865608231 1' 3-max Seat #1 is the button
+Seat 1: ViviBag (860 in chips) 
+Seat 3: Mahu2021 (640 in chips) 
+ViviBag: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh 6s]
+ViviBag: raises 40 to 80
+Mahu2021: calls 40
+*** FLOP *** [2d Ks As]
+Mahu2021: checks 
+ViviBag: checks 
+*** TURN *** [2d Ks As] [4s]
+Mahu2021: checks 
+ViviBag: checks 
+*** RIVER *** [2d Ks As 4s] [Js]
+Mahu2021: bets 80
+ViviBag: folds 
+Uncalled bet (80) returned to Mahu2021
+Mahu2021 collected 160 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [2d Ks As 4s Js]
+Seat 1: ViviBag (button) (small blind) folded on the River
+Seat 3: Mahu2021 (big blind) collected (160)
+
+
+
+PokerStars Hand #255150741964: Tournament #3865608231, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2025/03/05 16:47:17 CET [2025/03/05 10:47:17 ET]
+Table '3865608231 1' 3-max Seat #3 is the button
+Seat 1: ViviBag (780 in chips) 
+Seat 3: Mahu2021 (720 in chips) 
+Mahu2021: posts small blind 20
+ViviBag: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s 4h]
+Mahu2021: folds 
+Uncalled bet (20) returned to ViviBag
+ViviBag collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: ViviBag (big blind) collected (40)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #255150742993: Tournament #3865608231, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2025/03/05 16:47:22 CET [2025/03/05 10:47:22 ET]
+Table '3865608231 1' 3-max Seat #1 is the button
+Seat 1: ViviBag (800 in chips) 
+Seat 3: Mahu2021 (700 in chips) 
+ViviBag: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc 3s]
+ViviBag: calls 20
+Mahu2021: checks 
+*** FLOP *** [Jh 3c Th]
+Mahu2021: checks 
+ViviBag: checks 
+*** TURN *** [Jh 3c Th] [8c]
+Mahu2021: checks 
+ViviBag: checks 
+*** RIVER *** [Jh 3c Th 8c] [9h]
+Mahu2021: checks 
+ViviBag: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [Jc 3s] (two pair, Jacks and Threes)
+ViviBag: mucks hand 
+Mahu2021 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Jh 3c Th 8c 9h]
+Seat 1: ViviBag (button) (small blind) mucked [5d Ks]
+Seat 3: Mahu2021 (big blind) showed [Jc 3s] and won (80) with two pair, Jacks and Threes
+
+
+
+PokerStars Hand #255150746251: Tournament #3865608231, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2025/03/05 16:47:38 CET [2025/03/05 10:47:38 ET]
+Table '3865608231 1' 3-max Seat #3 is the button
+Seat 1: ViviBag (760 in chips) 
+Seat 3: Mahu2021 (740 in chips) 
+Mahu2021: posts small blind 20
+ViviBag: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2s 6s]
+Mahu2021: calls 20
+ViviBag: checks 
+*** FLOP *** [Jh 2h Ac]
+ViviBag: checks 
+Mahu2021: bets 40
+ViviBag: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Jh 2h Ac]
+Seat 1: ViviBag (big blind) folded on the Flop
+Seat 3: Mahu2021 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #255150749817: Tournament #3865608231, $0.46+$0.04 USD Hold'em No Limit - Level IV (30/60) - 2025/03/05 16:47:57 CET [2025/03/05 10:47:57 ET]
+Table '3865608231 1' 3-max Seat #1 is the button
+Seat 1: ViviBag (720 in chips) 
+Seat 3: Mahu2021 (780 in chips) 
+ViviBag: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c Jd]
+ViviBag: calls 30
+Mahu2021: checks 
+*** FLOP *** [6d Ac Js]
+Mahu2021: checks 
+ViviBag: checks 
+*** TURN *** [6d Ac Js] [7h]
+Mahu2021: bets 60
+ViviBag: calls 60
+*** RIVER *** [6d Ac Js 7h] [Qh]
+Mahu2021: bets 120
+ViviBag: calls 120
+*** SHOW DOWN ***
+Mahu2021: shows [7c Jd] (two pair, Jacks and Sevens)
+ViviBag: mucks hand 
+Mahu2021 collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Board [6d Ac Js 7h Qh]
+Seat 1: ViviBag (button) (small blind) mucked [7s 2s]
+Seat 3: Mahu2021 (big blind) showed [7c Jd] and won (480) with two pair, Jacks and Sevens
+
+
+
+PokerStars Hand #255150753030: Tournament #3865608231, $0.46+$0.04 USD Hold'em No Limit - Level IV (30/60) - 2025/03/05 16:48:13 CET [2025/03/05 10:48:13 ET]
+Table '3865608231 1' 3-max Seat #3 is the button
+Seat 1: ViviBag (480 in chips) 
+Seat 3: Mahu2021 (1020 in chips) 
+Mahu2021: posts small blind 30
+ViviBag: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd 9d]
+Mahu2021: raises 60 to 120
+ViviBag: calls 60
+*** FLOP *** [Td 8s 7d]
+ViviBag: checks 
+Mahu2021: bets 60
+ViviBag: calls 60
+*** TURN *** [Td 8s 7d] [5c]
+ViviBag: checks 
+Mahu2021: bets 60
+ViviBag: calls 60
+*** RIVER *** [Td 8s 7d 5c] [8h]
+ViviBag: checks 
+Mahu2021: bets 60
+ViviBag: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 480 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Board [Td 8s 7d 5c 8h]
+Seat 1: ViviBag (big blind) folded on the River
+Seat 3: Mahu2021 (button) (small blind) collected (480)
+
+
+
+PokerStars Hand #255150758675: Tournament #3865608231, $0.46+$0.04 USD Hold'em No Limit - Level IV (30/60) - 2025/03/05 16:48:41 CET [2025/03/05 10:48:41 ET]
+Table '3865608231 1' 3-max Seat #1 is the button
+Seat 1: ViviBag (240 in chips) 
+Seat 3: Mahu2021 (1260 in chips) 
+ViviBag: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d 4d]
+ViviBag: calls 30
+Mahu2021: checks 
+*** FLOP *** [Kd 2d 4s]
+Mahu2021: bets 60
+ViviBag: calls 60
+*** TURN *** [Kd 2d 4s] [Td]
+Mahu2021: bets 60
+ViviBag: calls 60
+*** RIVER *** [Kd 2d 4s Td] [Ah]
+Mahu2021: bets 60
+ViviBag: calls 60 and is all-in
+*** SHOW DOWN ***
+Mahu2021: shows [3d 4d] (a flush, King high)
+ViviBag: shows [7c Kc] (a pair of Kings)
+Mahu2021 collected 480 from pot
+ViviBag finished the tournament in 2nd place
+Mahu2021 wins the tournament - congratulations!
+Mahu2021 wins a '$1.00 Power Path Step 2 Ticket' ticket
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Board [Kd 2d 4s Td Ah]
+Seat 1: ViviBag (button) (small blind) showed [7c Kc] and lost with a pair of Kings
+Seat 3: Mahu2021 (big blind) showed [3d 4d] and won (480) with a flush, King high
+
+
+

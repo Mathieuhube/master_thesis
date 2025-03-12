@@ -1,0 +1,761 @@
+﻿PokerStars Hand #249323390518: Tournament #3726556270, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/03/09 15:28:06 CET [2024/03/09 9:28:06 ET]
+Table '3726556270 1' 3-max Seat #1 is the button
+Seat 1: kurage.0 (500 in chips) 
+Seat 2: JKDS506 (500 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+JKDS506: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah Ts]
+kurage.0: folds 
+JKDS506: calls 10
+Mahu2021: checks 
+*** FLOP *** [9d 4h 4d]
+JKDS506: bets 20
+Mahu2021: calls 20
+*** TURN *** [9d 4h 4d] [Kh]
+JKDS506: bets 40
+Mahu2021: folds 
+Uncalled bet (40) returned to JKDS506
+JKDS506 collected 80 from pot
+JKDS506: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [9d 4h 4d Kh]
+Seat 1: kurage.0 (button) folded before Flop (didn't bet)
+Seat 2: JKDS506 (small blind) collected (80)
+Seat 3: Mahu2021 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #249323393589: Tournament #3726556270, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/03/09 15:28:20 CET [2024/03/09 9:28:20 ET]
+Table '3726556270 1' 3-max Seat #2 is the button
+Seat 1: kurage.0 (500 in chips) 
+Seat 2: JKDS506 (540 in chips) 
+Seat 3: Mahu2021 (460 in chips) 
+Mahu2021: posts small blind 10
+kurage.0: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d Qh]
+JKDS506: folds 
+Mahu2021: folds 
+Uncalled bet (10) returned to kurage.0
+kurage.0 collected 20 from pot
+kurage.0: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: kurage.0 (big blind) collected (20)
+Seat 2: JKDS506 (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #249323394775: Tournament #3726556270, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/03/09 15:28:26 CET [2024/03/09 9:28:26 ET]
+Table '3726556270 1' 3-max Seat #3 is the button
+Seat 1: kurage.0 (510 in chips) 
+Seat 2: JKDS506 (540 in chips) 
+Seat 3: Mahu2021 (450 in chips) 
+kurage.0: posts small blind 10
+JKDS506: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h 2c]
+Mahu2021: folds 
+kurage.0: raises 490 to 510 and is all-in
+JKDS506: calls 490
+*** FLOP *** [2s Kd 4c]
+*** TURN *** [2s Kd 4c] [Kh]
+*** RIVER *** [2s Kd 4c Kh] [9c]
+*** SHOW DOWN ***
+kurage.0: shows [Ah 4h] (two pair, Kings and Fours)
+JKDS506: shows [8d Ac] (a pair of Kings)
+kurage.0 collected 1020 from pot
+*** SUMMARY ***
+Total pot 1020 | Rake 0 
+Board [2s Kd 4c Kh 9c]
+Seat 1: kurage.0 (small blind) showed [Ah 4h] and won (1020) with two pair, Kings and Fours
+Seat 2: JKDS506 (big blind) showed [8d Ac] and lost with a pair of Kings
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #249323399008: Tournament #3726556270, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/03/09 15:28:44 CET [2024/03/09 9:28:44 ET]
+Table '3726556270 1' 3-max Seat #1 is the button
+Seat 1: kurage.0 (1020 in chips) 
+Seat 2: JKDS506 (30 in chips) 
+Seat 3: Mahu2021 (450 in chips) 
+JKDS506: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h Ks]
+kurage.0: folds 
+JKDS506: calls 10
+Mahu2021: raises 20 to 40
+JKDS506: calls 10 and is all-in
+Uncalled bet (10) returned to Mahu2021
+*** FLOP *** [Th 9c 5d]
+*** TURN *** [Th 9c 5d] [As]
+*** RIVER *** [Th 9c 5d As] [Kd]
+*** SHOW DOWN ***
+JKDS506: shows [2s Ts] (a pair of Tens)
+Mahu2021: shows [3h Ks] (a pair of Kings)
+Mahu2021 collected 60 from pot
+JKDS506 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Th 9c 5d As Kd]
+Seat 1: kurage.0 (button) folded before Flop (didn't bet)
+Seat 2: JKDS506 (small blind) showed [2s Ts] and lost with a pair of Tens
+Seat 3: Mahu2021 (big blind) showed [3h Ks] and won (60) with a pair of Kings
+
+
+
+PokerStars Hand #249323403610: Tournament #3726556270, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/03/09 15:29:04 CET [2024/03/09 9:29:04 ET]
+Table '3726556270 1' 3-max Seat #3 is the button
+Seat 1: kurage.0 (1020 in chips) 
+Seat 3: Mahu2021 (480 in chips) 
+Mahu2021: posts small blind 10
+kurage.0: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c 6s]
+Mahu2021: calls 10
+kurage.0: checks 
+*** FLOP *** [Ad Td 7c]
+kurage.0: checks 
+Mahu2021: checks 
+*** TURN *** [Ad Td 7c] [3c]
+kurage.0: checks 
+Mahu2021: bets 40
+kurage.0: calls 40
+*** RIVER *** [Ad Td 7c 3c] [8d]
+kurage.0: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+kurage.0: shows [7s Qh] (a pair of Sevens)
+Mahu2021: mucks hand 
+kurage.0 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Ad Td 7c 3c 8d]
+Seat 1: kurage.0 (big blind) showed [7s Qh] and won (120) with a pair of Sevens
+Seat 3: Mahu2021 (button) (small blind) mucked [5c 6s]
+
+
+
+PokerStars Hand #249323412526: Tournament #3726556270, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/03/09 15:29:43 CET [2024/03/09 9:29:43 ET]
+Table '3726556270 1' 3-max Seat #1 is the button
+Seat 1: kurage.0 (1080 in chips) 
+Seat 3: Mahu2021 (420 in chips) 
+kurage.0: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As 6h]
+kurage.0: raises 20 to 40
+Mahu2021: calls 20
+*** FLOP *** [9c Qc Qd]
+Mahu2021: checks 
+kurage.0: checks 
+*** TURN *** [9c Qc Qd] [7d]
+Mahu2021: checks 
+kurage.0: bets 20
+Mahu2021: calls 20
+*** RIVER *** [9c Qc Qd 7d] [4s]
+Mahu2021: checks 
+kurage.0: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [As 6h] (a pair of Queens)
+kurage.0: mucks hand 
+Mahu2021 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [9c Qc Qd 7d 4s]
+Seat 1: kurage.0 (button) (small blind) mucked [Ks 8h]
+Seat 3: Mahu2021 (big blind) showed [As 6h] and won (120) with a pair of Queens
+
+
+
+PokerStars Hand #249323418901: Tournament #3726556270, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/03/09 15:30:10 CET [2024/03/09 9:30:10 ET]
+Table '3726556270 1' 3-max Seat #3 is the button
+Seat 1: kurage.0 (1020 in chips) 
+Seat 3: Mahu2021 (480 in chips) 
+Mahu2021: posts small blind 10
+kurage.0: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5h 4s]
+Mahu2021: calls 10
+kurage.0: raises 40 to 60
+Mahu2021: folds 
+Uncalled bet (40) returned to kurage.0
+kurage.0 collected 40 from pot
+kurage.0: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: kurage.0 (big blind) collected (40)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #249323421298: Tournament #3726556270, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/03/09 15:30:21 CET [2024/03/09 9:30:21 ET]
+Table '3726556270 1' 3-max Seat #1 is the button
+Seat 1: kurage.0 (1040 in chips) 
+Seat 3: Mahu2021 (460 in chips) 
+kurage.0: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad 7s]
+kurage.0: raises 20 to 40
+Mahu2021: calls 20
+*** FLOP *** [5h 8h As]
+Mahu2021: bets 40
+kurage.0: calls 40
+*** TURN *** [5h 8h As] [Qd]
+Mahu2021: bets 40
+kurage.0: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 160 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [5h 8h As Qd]
+Seat 1: kurage.0 (button) (small blind) folded on the Turn
+Seat 3: Mahu2021 (big blind) collected (160)
+
+
+
+PokerStars Hand #249323427593: Tournament #3726556270, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/03/09 15:30:48 CET [2024/03/09 9:30:48 ET]
+Table '3726556270 1' 3-max Seat #3 is the button
+Seat 1: kurage.0 (960 in chips) 
+Seat 3: Mahu2021 (540 in chips) 
+Mahu2021: posts small blind 10
+kurage.0: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h 3s]
+Mahu2021: folds 
+Uncalled bet (10) returned to kurage.0
+kurage.0 collected 20 from pot
+kurage.0: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: kurage.0 (big blind) collected (20)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #249323428611: Tournament #3726556270, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/03/09 15:30:52 CET [2024/03/09 9:30:52 ET]
+Table '3726556270 1' 3-max Seat #1 is the button
+Seat 1: kurage.0 (970 in chips) 
+Seat 3: Mahu2021 (530 in chips) 
+kurage.0: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2s Ad]
+kurage.0: raises 20 to 40
+Mahu2021: calls 20
+*** FLOP *** [7s 4c Th]
+Mahu2021: checks 
+kurage.0: bets 40
+Mahu2021: folds 
+Uncalled bet (40) returned to kurage.0
+kurage.0 collected 80 from pot
+kurage.0: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [7s 4c Th]
+Seat 1: kurage.0 (button) (small blind) collected (80)
+Seat 3: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #249323434036: Tournament #3726556270, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/09 15:31:16 CET [2024/03/09 9:31:16 ET]
+Table '3726556270 1' 3-max Seat #3 is the button
+Seat 1: kurage.0 (1010 in chips) 
+Seat 3: Mahu2021 (490 in chips) 
+Mahu2021: posts small blind 15
+kurage.0: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2s 2d]
+Mahu2021: raises 30 to 60
+kurage.0: calls 30
+*** FLOP *** [4d 8h Ah]
+kurage.0: checks 
+Mahu2021: bets 60
+kurage.0: calls 60
+*** TURN *** [4d 8h Ah] [4c]
+kurage.0: checks 
+Mahu2021: bets 60
+kurage.0: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 240 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [4d 8h Ah 4c]
+Seat 1: kurage.0 (big blind) folded on the Turn
+Seat 3: Mahu2021 (button) (small blind) collected (240)
+
+
+
+PokerStars Hand #249323440399: Tournament #3726556270, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/09 15:31:43 CET [2024/03/09 9:31:43 ET]
+Table '3726556270 1' 3-max Seat #1 is the button
+Seat 1: kurage.0 (890 in chips) 
+Seat 3: Mahu2021 (610 in chips) 
+kurage.0: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd Ks]
+kurage.0: raises 30 to 60
+Mahu2021: raises 550 to 610 and is all-in
+kurage.0: folds 
+Uncalled bet (550) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: kurage.0 (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (120)
+
+
+
+PokerStars Hand #249323442623: Tournament #3726556270, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/09 15:31:52 CET [2024/03/09 9:31:52 ET]
+Table '3726556270 1' 3-max Seat #3 is the button
+Seat 1: kurage.0 (830 in chips) 
+Seat 3: Mahu2021 (670 in chips) 
+Mahu2021: posts small blind 15
+kurage.0: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh 6s]
+Mahu2021: calls 15
+kurage.0: raises 60 to 90
+Mahu2021: folds 
+Uncalled bet (60) returned to kurage.0
+kurage.0 collected 60 from pot
+kurage.0: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: kurage.0 (big blind) collected (60)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #249323445100: Tournament #3726556270, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/09 15:32:03 CET [2024/03/09 9:32:03 ET]
+Table '3726556270 1' 3-max Seat #1 is the button
+Seat 1: kurage.0 (860 in chips) 
+Seat 3: Mahu2021 (640 in chips) 
+kurage.0: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As Jh]
+kurage.0: raises 30 to 60
+Mahu2021: calls 30
+*** FLOP *** [8c 6s 8h]
+Mahu2021: checks 
+kurage.0: bets 30
+Mahu2021: calls 30
+*** TURN *** [8c 6s 8h] [Tc]
+Mahu2021: checks 
+kurage.0: bets 135
+Mahu2021: folds 
+Uncalled bet (135) returned to kurage.0
+kurage.0 collected 180 from pot
+kurage.0: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [8c 6s 8h Tc]
+Seat 1: kurage.0 (button) (small blind) collected (180)
+Seat 3: Mahu2021 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #249323451648: Tournament #3726556270, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/09 15:32:31 CET [2024/03/09 9:32:31 ET]
+Table '3726556270 1' 3-max Seat #3 is the button
+Seat 1: kurage.0 (950 in chips) 
+Seat 3: Mahu2021 (550 in chips) 
+Mahu2021: posts small blind 15
+kurage.0: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh 7d]
+Mahu2021: raises 30 to 60
+kurage.0: calls 30
+*** FLOP *** [3s Qh Jd]
+kurage.0: checks 
+Mahu2021: checks 
+*** TURN *** [3s Qh Jd] [Jh]
+kurage.0: checks 
+Mahu2021: checks 
+*** RIVER *** [3s Qh Jd Jh] [Ts]
+kurage.0: checks 
+Mahu2021: bets 60
+kurage.0: calls 60
+*** SHOW DOWN ***
+Mahu2021: shows [Kh 7d] (a pair of Jacks)
+kurage.0: shows [7s Kc] (a pair of Jacks)
+kurage.0 collected 120 from pot
+Mahu2021 collected 120 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [3s Qh Jd Jh Ts]
+Seat 1: kurage.0 (big blind) showed [7s Kc] and won (120) with a pair of Jacks
+Seat 3: Mahu2021 (button) (small blind) showed [Kh 7d] and won (120) with a pair of Jacks
+
+
+
+PokerStars Hand #249323456948: Tournament #3726556270, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/09 15:32:53 CET [2024/03/09 9:32:53 ET]
+Table '3726556270 1' 3-max Seat #1 is the button
+Seat 1: kurage.0 (950 in chips) 
+Seat 3: Mahu2021 (550 in chips) 
+kurage.0: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s 5c]
+kurage.0: raises 30 to 60
+Mahu2021: calls 30
+*** FLOP *** [Ah 9s 3c]
+Mahu2021: checks 
+kurage.0: bets 30
+Mahu2021: calls 30
+*** TURN *** [Ah 9s 3c] [8d]
+Mahu2021: checks 
+kurage.0: bets 135
+Mahu2021: folds 
+Uncalled bet (135) returned to kurage.0
+kurage.0 collected 180 from pot
+kurage.0: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [Ah 9s 3c 8d]
+Seat 1: kurage.0 (button) (small blind) collected (180)
+Seat 3: Mahu2021 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #249323464368: Tournament #3726556270, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/09 15:33:25 CET [2024/03/09 9:33:25 ET]
+Table '3726556270 1' 3-max Seat #3 is the button
+Seat 1: kurage.0 (1040 in chips) 
+Seat 3: Mahu2021 (460 in chips) 
+Mahu2021: posts small blind 15
+kurage.0: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4c 7s]
+Mahu2021: folds 
+Uncalled bet (15) returned to kurage.0
+kurage.0 collected 30 from pot
+kurage.0: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: kurage.0 (big blind) collected (30)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #249323465342: Tournament #3726556270, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/09 15:33:30 CET [2024/03/09 9:33:30 ET]
+Table '3726556270 1' 3-max Seat #1 is the button
+Seat 1: kurage.0 (1055 in chips) 
+Seat 3: Mahu2021 (445 in chips) 
+kurage.0: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c 3h]
+kurage.0: raises 30 to 60
+Mahu2021: folds 
+Uncalled bet (30) returned to kurage.0
+kurage.0 collected 60 from pot
+kurage.0: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: kurage.0 (button) (small blind) collected (60)
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #249323466412: Tournament #3726556270, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/09 15:33:34 CET [2024/03/09 9:33:34 ET]
+Table '3726556270 1' 3-max Seat #3 is the button
+Seat 1: kurage.0 (1085 in chips) 
+Seat 3: Mahu2021 (415 in chips) 
+Mahu2021: posts small blind 15
+kurage.0: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh 5d]
+Mahu2021: raises 30 to 60
+kurage.0: calls 30
+*** FLOP *** [As Ah 8s]
+kurage.0: checks 
+Mahu2021: bets 60
+kurage.0: calls 60
+*** TURN *** [As Ah 8s] [2d]
+kurage.0: checks 
+Mahu2021: bets 60
+kurage.0: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 240 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [As Ah 8s 2d]
+Seat 1: kurage.0 (big blind) folded on the Turn
+Seat 3: Mahu2021 (button) (small blind) collected (240)
+
+
+
+PokerStars Hand #249323476578: Tournament #3726556270, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/03/09 15:34:17 CET [2024/03/09 9:34:17 ET]
+Table '3726556270 1' 3-max Seat #1 is the button
+Seat 1: kurage.0 (965 in chips) 
+Seat 3: Mahu2021 (535 in chips) 
+kurage.0: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd 7h]
+kurage.0: raises 40 to 80
+Mahu2021: calls 40
+*** FLOP *** [9d 8c 3h]
+Mahu2021: checks 
+kurage.0: checks 
+*** TURN *** [9d 8c 3h] [5s]
+Mahu2021: checks 
+kurage.0: checks 
+*** RIVER *** [9d 8c 3h 5s] [2s]
+Mahu2021: checks 
+kurage.0: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [Jd 7h] (high card Jack)
+kurage.0: shows [As 5c] (a pair of Fives)
+kurage.0 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [9d 8c 3h 5s 2s]
+Seat 1: kurage.0 (button) (small blind) showed [As 5c] and won (160) with a pair of Fives
+Seat 3: Mahu2021 (big blind) showed [Jd 7h] and lost with high card Jack
+
+
+
+PokerStars Hand #249323484184: Tournament #3726556270, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/03/09 15:34:49 CET [2024/03/09 9:34:49 ET]
+Table '3726556270 1' 3-max Seat #3 is the button
+Seat 1: kurage.0 (1045 in chips) 
+Seat 3: Mahu2021 (455 in chips) 
+Mahu2021: posts small blind 20
+kurage.0: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h 9s]
+Mahu2021: folds 
+Uncalled bet (20) returned to kurage.0
+kurage.0 collected 40 from pot
+kurage.0: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: kurage.0 (big blind) collected (40)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #249323485168: Tournament #3726556270, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/03/09 15:34:53 CET [2024/03/09 9:34:53 ET]
+Table '3726556270 1' 3-max Seat #1 is the button
+Seat 1: kurage.0 (1065 in chips) 
+Seat 3: Mahu2021 (435 in chips) 
+kurage.0: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js 2s]
+kurage.0: calls 20
+Mahu2021: checks 
+*** FLOP *** [5c 4h 5h]
+Mahu2021: checks 
+kurage.0: bets 40
+Mahu2021: folds 
+Uncalled bet (40) returned to kurage.0
+kurage.0 collected 80 from pot
+kurage.0: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [5c 4h 5h]
+Seat 1: kurage.0 (button) (small blind) collected (80)
+Seat 3: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #249323489030: Tournament #3726556270, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/03/09 15:35:10 CET [2024/03/09 9:35:10 ET]
+Table '3726556270 1' 3-max Seat #3 is the button
+Seat 1: kurage.0 (1105 in chips) 
+Seat 3: Mahu2021 (395 in chips) 
+Mahu2021: posts small blind 20
+kurage.0: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d 2d]
+Mahu2021: folds 
+Uncalled bet (20) returned to kurage.0
+kurage.0 collected 40 from pot
+kurage.0: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: kurage.0 (big blind) collected (40)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #249323490026: Tournament #3726556270, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/03/09 15:35:14 CET [2024/03/09 9:35:14 ET]
+Table '3726556270 1' 3-max Seat #1 is the button
+Seat 1: kurage.0 (1125 in chips) 
+Seat 3: Mahu2021 (375 in chips) 
+kurage.0: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s 3d]
+kurage.0: raises 1085 to 1125 and is all-in
+Mahu2021: folds 
+Uncalled bet (1085) returned to kurage.0
+kurage.0 collected 80 from pot
+kurage.0: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: kurage.0 (button) (small blind) collected (80)
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #249323492516: Tournament #3726556270, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/03/09 15:35:25 CET [2024/03/09 9:35:25 ET]
+Table '3726556270 1' 3-max Seat #3 is the button
+Seat 1: kurage.0 (1165 in chips) 
+Seat 3: Mahu2021 (335 in chips) 
+Mahu2021: posts small blind 20
+kurage.0: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d 8d]
+Mahu2021: raises 40 to 80
+kurage.0: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: kurage.0 (big blind) folded before Flop
+Seat 3: Mahu2021 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #249323494328: Tournament #3726556270, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/03/09 15:35:32 CET [2024/03/09 9:35:32 ET]
+Table '3726556270 1' 3-max Seat #1 is the button
+Seat 1: kurage.0 (1125 in chips) 
+Seat 3: Mahu2021 (375 in chips) 
+kurage.0: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s Ts]
+kurage.0: calls 20
+Mahu2021: checks 
+*** FLOP *** [Qs 4c Ad]
+Mahu2021: checks 
+kurage.0: bets 40
+Mahu2021: folds 
+Uncalled bet (40) returned to kurage.0
+kurage.0 collected 80 from pot
+kurage.0: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Qs 4c Ad]
+Seat 1: kurage.0 (button) (small blind) collected (80)
+Seat 3: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #249323497515: Tournament #3726556270, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/03/09 15:35:46 CET [2024/03/09 9:35:46 ET]
+Table '3726556270 1' 3-max Seat #3 is the button
+Seat 1: kurage.0 (1165 in chips) 
+Seat 3: Mahu2021 (335 in chips) 
+Mahu2021: posts small blind 20
+kurage.0: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s 8c]
+Mahu2021: folds 
+Uncalled bet (20) returned to kurage.0
+kurage.0 collected 40 from pot
+kurage.0: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: kurage.0 (big blind) collected (40)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #249323498532: Tournament #3726556270, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/03/09 15:35:50 CET [2024/03/09 9:35:50 ET]
+Table '3726556270 1' 3-max Seat #1 is the button
+Seat 1: kurage.0 (1185 in chips) 
+Seat 3: Mahu2021 (315 in chips) 
+kurage.0: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad Th]
+kurage.0: raises 1145 to 1185 and is all-in
+Mahu2021: calls 275 and is all-in
+Uncalled bet (870) returned to kurage.0
+*** FLOP *** [Ks 4d 2c]
+*** TURN *** [Ks 4d 2c] [6h]
+*** RIVER *** [Ks 4d 2c 6h] [Kh]
+*** SHOW DOWN ***
+Mahu2021: shows [Ad Th] (a pair of Kings)
+kurage.0: shows [9s 5s] (a pair of Kings - lower kicker)
+Mahu2021 collected 630 from pot
+*** SUMMARY ***
+Total pot 630 | Rake 0 
+Board [Ks 4d 2c 6h Kh]
+Seat 1: kurage.0 (button) (small blind) showed [9s 5s] and lost with a pair of Kings
+Seat 3: Mahu2021 (big blind) showed [Ad Th] and won (630) with a pair of Kings
+
+
+
+PokerStars Hand #249323502319: Tournament #3726556270, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/03/09 15:36:06 CET [2024/03/09 9:36:06 ET]
+Table '3726556270 1' 3-max Seat #3 is the button
+Seat 1: kurage.0 (870 in chips) 
+Seat 3: Mahu2021 (630 in chips) 
+Mahu2021: posts small blind 20
+kurage.0: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js 9c]
+Mahu2021: calls 20
+kurage.0: checks 
+*** FLOP *** [3c Kd 3d]
+kurage.0: checks 
+Mahu2021: checks 
+*** TURN *** [3c Kd 3d] [Th]
+kurage.0: bets 40
+Mahu2021: calls 40
+*** RIVER *** [3c Kd 3d Th] [5d]
+kurage.0: checks 
+Mahu2021: bets 80
+kurage.0: calls 80
+*** SHOW DOWN ***
+Mahu2021: shows [Js 9c] (a pair of Threes)
+kurage.0: shows [Kc 9d] (two pair, Kings and Threes)
+kurage.0 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [3c Kd 3d Th 5d]
+Seat 1: kurage.0 (big blind) showed [Kc 9d] and won (320) with two pair, Kings and Threes
+Seat 3: Mahu2021 (button) (small blind) showed [Js 9c] and lost with a pair of Threes
+
+
+
+PokerStars Hand #249323510554: Tournament #3726556270, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/03/09 15:36:41 CET [2024/03/09 9:36:41 ET]
+Table '3726556270 1' 3-max Seat #1 is the button
+Seat 1: kurage.0 (1030 in chips) 
+Seat 3: Mahu2021 (470 in chips) 
+kurage.0: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d 7c]
+kurage.0: calls 20
+Mahu2021: raises 430 to 470 and is all-in
+kurage.0: calls 430
+*** FLOP *** [7s 3s Js]
+*** TURN *** [7s 3s Js] [4d]
+*** RIVER *** [7s 3s Js 4d] [2d]
+*** SHOW DOWN ***
+Mahu2021: shows [7d 7c] (three of a kind, Sevens)
+kurage.0: shows [As 9s] (a flush, Ace high)
+kurage.0 collected 940 from pot
+Mahu2021 finished the tournament in 2nd place
+kurage.0 wins the tournament and receives $10.00 - congratulations!
+*** SUMMARY ***
+Total pot 940 | Rake 0 
+Board [7s 3s Js 4d 2d]
+Seat 1: kurage.0 (button) (small blind) showed [As 9s] and won (940) with a flush, Ace high
+Seat 3: Mahu2021 (big blind) showed [7d 7c] and lost with three of a kind, Sevens
+
+
+

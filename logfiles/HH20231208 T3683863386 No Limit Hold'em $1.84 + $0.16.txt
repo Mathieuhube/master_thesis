@@ -1,0 +1,478 @@
+﻿PokerStars Hand #247552566095: Tournament #3683863386, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/08 22:37:53 CET [2023/12/08 16:37:53 ET]
+Table '3683863386 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: GermanoGeller (500 in chips) 
+Seat 3: ionliviu75 (500 in chips) 
+GermanoGeller: posts small blind 10
+ionliviu75: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc 6h]
+Mahu2021: folds 
+GermanoGeller: raises 20 to 40
+ionliviu75: calls 20
+*** FLOP *** [Ks Js 4h]
+GermanoGeller: bets 80
+ionliviu75: calls 80
+*** TURN *** [Ks Js 4h] [2h]
+GermanoGeller: bets 240
+ionliviu75: raises 140 to 380 and is all-in
+GermanoGeller: calls 140 and is all-in
+*** RIVER *** [Ks Js 4h 2h] [Td]
+*** SHOW DOWN ***
+GermanoGeller: shows [Ts Kh] (two pair, Kings and Tens)
+ionliviu75: shows [Kc 7d] (a pair of Kings)
+GermanoGeller collected 1000 from pot
+ionliviu75 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1000 | Rake 0 
+Board [Ks Js 4h 2h Td]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: GermanoGeller (small blind) showed [Ts Kh] and won (1000) with two pair, Kings and Tens
+Seat 3: ionliviu75 (big blind) showed [Kc 7d] and lost with a pair of Kings
+
+
+
+PokerStars Hand #247552576038: Tournament #3683863386, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/08 22:38:23 CET [2023/12/08 16:38:23 ET]
+Table '3683863386 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: GermanoGeller (1000 in chips) 
+GermanoGeller: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4c 9d]
+GermanoGeller: raises 20 to 40
+Mahu2021: folds 
+Uncalled bet (20) returned to GermanoGeller
+GermanoGeller collected 40 from pot
+GermanoGeller: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: GermanoGeller (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #247552578257: Tournament #3683863386, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/08 22:38:30 CET [2023/12/08 16:38:30 ET]
+Table '3683863386 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (480 in chips) 
+Seat 2: GermanoGeller (1020 in chips) 
+Mahu2021: posts small blind 10
+GermanoGeller: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h Kh]
+Mahu2021: raises 20 to 40
+GermanoGeller: calls 20
+*** FLOP *** [5c 3c 9c]
+GermanoGeller: checks 
+Mahu2021: bets 80
+GermanoGeller: calls 80
+*** TURN *** [5c 3c 9c] [9s]
+GermanoGeller: checks 
+Mahu2021: bets 360 and is all-in
+GermanoGeller: folds 
+Uncalled bet (360) returned to Mahu2021
+Mahu2021 collected 240 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [5c 3c 9c 9s]
+Seat 1: Mahu2021 (button) (small blind) collected (240)
+Seat 2: GermanoGeller (big blind) folded on the Turn
+
+
+
+PokerStars Hand #247552586965: Tournament #3683863386, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/08 22:38:56 CET [2023/12/08 16:38:56 ET]
+Table '3683863386 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (600 in chips) 
+Seat 2: GermanoGeller (900 in chips) 
+GermanoGeller: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d Th]
+GermanoGeller: folds 
+Uncalled bet (10) returned to Mahu2021
+Mahu2021 collected 20 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (20)
+Seat 2: GermanoGeller (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #247552588447: Tournament #3683863386, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/08 22:39:00 CET [2023/12/08 16:39:00 ET]
+Table '3683863386 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (610 in chips) 
+Seat 2: GermanoGeller (890 in chips) 
+Mahu2021: posts small blind 10
+GermanoGeller: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc 4h]
+Mahu2021: calls 10
+GermanoGeller: checks 
+*** FLOP *** [Ts 2c Td]
+GermanoGeller: checks 
+Mahu2021: bets 20
+GermanoGeller: calls 20
+*** TURN *** [Ts 2c Td] [4c]
+GermanoGeller: checks 
+Mahu2021: bets 20
+GermanoGeller: calls 20
+*** RIVER *** [Ts 2c Td 4c] [5d]
+GermanoGeller: bets 120
+Mahu2021: calls 120
+*** SHOW DOWN ***
+GermanoGeller: shows [As 3h] (a straight, Ace to Five)
+Mahu2021: mucks hand 
+GermanoGeller collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [Ts 2c Td 4c 5d]
+Seat 1: Mahu2021 (button) (small blind) mucked [Qc 4h]
+Seat 2: GermanoGeller (big blind) showed [As 3h] and won (360) with a straight, Ace to Five
+
+
+
+PokerStars Hand #247552596940: Tournament #3683863386, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/08 22:39:26 CET [2023/12/08 16:39:26 ET]
+Table '3683863386 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (430 in chips) 
+Seat 2: GermanoGeller (1070 in chips) 
+GermanoGeller: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh 6h]
+GermanoGeller: folds 
+Uncalled bet (10) returned to Mahu2021
+Mahu2021 collected 20 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (20)
+Seat 2: GermanoGeller (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #247552598495: Tournament #3683863386, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/08 22:39:31 CET [2023/12/08 16:39:31 ET]
+Table '3683863386 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (440 in chips) 
+Seat 2: GermanoGeller (1060 in chips) 
+Mahu2021: posts small blind 10
+GermanoGeller: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2c 5h]
+Mahu2021: folds 
+Uncalled bet (10) returned to GermanoGeller
+GermanoGeller collected 20 from pot
+GermanoGeller: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 2: GermanoGeller (big blind) collected (20)
+
+
+
+PokerStars Hand #247552600145: Tournament #3683863386, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/08 22:39:35 CET [2023/12/08 16:39:35 ET]
+Table '3683863386 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (430 in chips) 
+Seat 2: GermanoGeller (1070 in chips) 
+GermanoGeller: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4c Js]
+GermanoGeller: folds 
+Uncalled bet (10) returned to Mahu2021
+Mahu2021 collected 20 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (20)
+Seat 2: GermanoGeller (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #247552601746: Tournament #3683863386, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/08 22:39:40 CET [2023/12/08 16:39:40 ET]
+Table '3683863386 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (440 in chips) 
+Seat 2: GermanoGeller (1060 in chips) 
+Mahu2021: posts small blind 10
+GermanoGeller: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s 3d]
+Mahu2021: folds 
+Uncalled bet (10) returned to GermanoGeller
+GermanoGeller collected 20 from pot
+GermanoGeller: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 2: GermanoGeller (big blind) collected (20)
+
+
+
+PokerStars Hand #247552603228: Tournament #3683863386, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/08 22:39:45 CET [2023/12/08 16:39:45 ET]
+Table '3683863386 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (430 in chips) 
+Seat 2: GermanoGeller (1070 in chips) 
+GermanoGeller: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h 7h]
+GermanoGeller: calls 10
+Mahu2021: checks 
+*** FLOP *** [7d Tc 5s]
+Mahu2021: bets 20
+GermanoGeller: calls 20
+*** TURN *** [7d Tc 5s] [6s]
+Mahu2021: bets 80
+GermanoGeller: folds 
+Uncalled bet (80) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [7d Tc 5s 6s]
+Seat 1: Mahu2021 (big blind) collected (80)
+Seat 2: GermanoGeller (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #247552608873: Tournament #3683863386, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/08 22:40:02 CET [2023/12/08 16:40:02 ET]
+Table '3683863386 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (470 in chips) 
+Seat 2: GermanoGeller (1030 in chips) 
+Mahu2021: posts small blind 10
+GermanoGeller: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd 7d]
+Mahu2021: calls 10
+GermanoGeller: checks 
+*** FLOP *** [Jh 3s 8c]
+GermanoGeller: checks 
+Mahu2021: bets 40
+GermanoGeller: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Jh 3s 8c]
+Seat 1: Mahu2021 (button) (small blind) collected (40)
+Seat 2: GermanoGeller (big blind) folded on the Flop
+
+
+
+PokerStars Hand #247552613629: Tournament #3683863386, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/08 22:40:16 CET [2023/12/08 16:40:16 ET]
+Table '3683863386 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (490 in chips) 
+Seat 2: GermanoGeller (1010 in chips) 
+GermanoGeller: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s 3c]
+GermanoGeller: raises 20 to 40
+Mahu2021: folds 
+Uncalled bet (20) returned to GermanoGeller
+GermanoGeller collected 40 from pot
+GermanoGeller: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: GermanoGeller (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #247552617111: Tournament #3683863386, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/08 22:40:27 CET [2023/12/08 16:40:27 ET]
+Table '3683863386 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (470 in chips) 
+Seat 2: GermanoGeller (1030 in chips) 
+Mahu2021: posts small blind 10
+GermanoGeller: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s 7c]
+Mahu2021: raises 450 to 470 and is all-in
+GermanoGeller: folds 
+Uncalled bet (450) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) collected (40)
+Seat 2: GermanoGeller (big blind) folded before Flop
+
+
+
+PokerStars Hand #247552619491: Tournament #3683863386, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/08 22:40:34 CET [2023/12/08 16:40:34 ET]
+Table '3683863386 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (490 in chips) 
+Seat 2: GermanoGeller (1010 in chips) 
+GermanoGeller: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s 3c]
+GermanoGeller: folds 
+Uncalled bet (10) returned to Mahu2021
+Mahu2021 collected 20 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (20)
+Seat 2: GermanoGeller (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #247552621111: Tournament #3683863386, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/08 22:40:39 CET [2023/12/08 16:40:39 ET]
+Table '3683863386 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: GermanoGeller (1000 in chips) 
+Mahu2021: posts small blind 10
+GermanoGeller: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s Jd]
+Mahu2021: calls 10
+GermanoGeller: checks 
+*** FLOP *** [6h 6c Qd]
+GermanoGeller: bets 40
+Mahu2021: folds 
+Uncalled bet (40) returned to GermanoGeller
+GermanoGeller collected 40 from pot
+GermanoGeller: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [6h 6c Qd]
+Seat 1: Mahu2021 (button) (small blind) folded on the Flop
+Seat 2: GermanoGeller (big blind) collected (40)
+
+
+
+PokerStars Hand #247552625508: Tournament #3683863386, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/08 22:40:52 CET [2023/12/08 16:40:52 ET]
+Table '3683863386 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (480 in chips) 
+Seat 2: GermanoGeller (1020 in chips) 
+GermanoGeller: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c Ah]
+GermanoGeller: folds 
+Uncalled bet (10) returned to Mahu2021
+Mahu2021 collected 20 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (20)
+Seat 2: GermanoGeller (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #247552627980: Tournament #3683863386, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/12/08 22:40:59 CET [2023/12/08 16:40:59 ET]
+Table '3683863386 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (490 in chips) 
+Seat 2: GermanoGeller (1010 in chips) 
+Mahu2021: posts small blind 15
+GermanoGeller: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c Ah]
+Mahu2021: raises 30 to 60
+GermanoGeller: calls 30
+*** FLOP *** [Jd 3c 8s]
+GermanoGeller: checks 
+Mahu2021: bets 120
+GermanoGeller: folds 
+Uncalled bet (120) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Jd 3c 8s]
+Seat 1: Mahu2021 (button) (small blind) collected (120)
+Seat 2: GermanoGeller (big blind) folded on the Flop
+
+
+
+PokerStars Hand #247552632393: Tournament #3683863386, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/12/08 22:41:13 CET [2023/12/08 16:41:13 ET]
+Table '3683863386 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (550 in chips) 
+Seat 2: GermanoGeller (950 in chips) 
+GermanoGeller: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c 2d]
+GermanoGeller: calls 15
+Mahu2021: checks 
+*** FLOP *** [8c 4s Qd]
+Mahu2021: checks 
+GermanoGeller: bets 60
+Mahu2021: folds 
+Uncalled bet (60) returned to GermanoGeller
+GermanoGeller collected 60 from pot
+GermanoGeller: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [8c 4s Qd]
+Seat 1: Mahu2021 (big blind) folded on the Flop
+Seat 2: GermanoGeller (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #247552636761: Tournament #3683863386, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/12/08 22:41:26 CET [2023/12/08 16:41:26 ET]
+Table '3683863386 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (520 in chips) 
+Seat 2: GermanoGeller (980 in chips) 
+Mahu2021: posts small blind 15
+GermanoGeller: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd 7s]
+Mahu2021: calls 15
+GermanoGeller: checks 
+*** FLOP *** [Tc 4d 7h]
+GermanoGeller: checks 
+Mahu2021: bets 30
+GermanoGeller: calls 30
+*** TURN *** [Tc 4d 7h] [Ac]
+GermanoGeller: checks 
+Mahu2021: bets 30
+GermanoGeller: calls 30
+*** RIVER *** [Tc 4d 7h Ac] [6s]
+GermanoGeller: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+GermanoGeller: shows [2h 7d] (a pair of Sevens)
+Mahu2021: shows [Jd 7s] (a pair of Sevens - Ace+Jack kicker)
+Mahu2021 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [Tc 4d 7h Ac 6s]
+Seat 1: Mahu2021 (button) (small blind) showed [Jd 7s] and won (180) with a pair of Sevens
+Seat 2: GermanoGeller (big blind) showed [2h 7d] and lost with a pair of Sevens
+
+
+
+PokerStars Hand #247552643193: Tournament #3683863386, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/12/08 22:41:45 CET [2023/12/08 16:41:45 ET]
+Table '3683863386 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (610 in chips) 
+Seat 2: GermanoGeller (890 in chips) 
+GermanoGeller: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d As]
+GermanoGeller: calls 15
+Mahu2021: raises 60 to 90
+GermanoGeller: calls 60
+*** FLOP *** [3h 5c Kd]
+Mahu2021: bets 520 and is all-in
+GermanoGeller: calls 520
+*** TURN *** [3h 5c Kd] [Kh]
+*** RIVER *** [3h 5c Kd Kh] [4d]
+*** SHOW DOWN ***
+Mahu2021: shows [3d As] (two pair, Kings and Threes)
+GermanoGeller: shows [Kc 3c] (a full house, Kings full of Threes)
+GermanoGeller collected 1220 from pot
+Mahu2021 finished the tournament in 2nd place
+GermanoGeller wins the tournament and receives $6.00 - congratulations!
+*** SUMMARY ***
+Total pot 1220 | Rake 0 
+Board [3h 5c Kd Kh 4d]
+Seat 1: Mahu2021 (big blind) showed [3d As] and lost with two pair, Kings and Threes
+Seat 2: GermanoGeller (button) (small blind) showed [Kc 3c] and won (1220) with a full house, Kings full of Threes
+
+
+

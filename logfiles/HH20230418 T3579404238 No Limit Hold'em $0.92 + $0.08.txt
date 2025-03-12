@@ -1,0 +1,323 @@
+﻿PokerStars Hand #243174486350: Tournament #3579404238, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/18 21:21:01 CET [2023/04/18 15:21:01 ET]
+Table '3579404238 1' 3-max Seat #1 is the button
+Seat 1: micher82 (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: Mirosmarsf (500 in chips) 
+Mahu2021: posts small blind 10
+Mirosmarsf: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h 8h]
+micher82: folds 
+Mahu2021: calls 10
+Mirosmarsf: checks 
+*** FLOP *** [Qc 3d 7s]
+Mahu2021: bets 20
+Mirosmarsf: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Qc 3d 7s]
+Seat 1: micher82 (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) collected (40)
+Seat 3: Mirosmarsf (big blind) folded on the Flop
+
+
+
+PokerStars Hand #243174495864: Tournament #3579404238, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/18 21:21:28 CET [2023/04/18 15:21:28 ET]
+Table '3579404238 1' 3-max Seat #2 is the button
+Seat 1: micher82 (500 in chips) 
+Seat 2: Mahu2021 (520 in chips) 
+Seat 3: Mirosmarsf (480 in chips) 
+Mirosmarsf: posts small blind 10
+micher82: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8s Ad]
+Mahu2021: folds 
+Mirosmarsf: calls 10
+micher82: raises 40 to 60
+Mirosmarsf: calls 40
+*** FLOP *** [8h 3c 4d]
+Mirosmarsf: bets 20
+micher82: calls 20
+*** TURN *** [8h 3c 4d] [Td]
+Mirosmarsf: bets 20
+micher82: calls 20
+*** RIVER *** [8h 3c 4d Td] [2s]
+Mirosmarsf: checks 
+micher82: checks 
+*** SHOW DOWN ***
+Mirosmarsf: shows [3d 4c] (two pair, Fours and Threes)
+micher82: mucks hand 
+Mirosmarsf collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [8h 3c 4d Td 2s]
+Seat 1: micher82 (big blind) mucked [Jh 7h]
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: Mirosmarsf (small blind) showed [3d 4c] and won (200) with two pair, Fours and Threes
+
+
+
+PokerStars Hand #243174516650: Tournament #3579404238, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/18 21:22:26 CET [2023/04/18 15:22:26 ET]
+Table '3579404238 1' 3-max Seat #3 is the button
+Seat 1: micher82 (400 in chips) 
+Seat 2: Mahu2021 (520 in chips) 
+Seat 3: Mirosmarsf (580 in chips) 
+micher82: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad 6c]
+Mirosmarsf: calls 20
+micher82: raises 60 to 80
+Mahu2021: calls 60
+Mirosmarsf: calls 60
+*** FLOP *** [6h 8d 9c]
+micher82: bets 320 and is all-in
+Mahu2021: folds 
+Mirosmarsf: calls 320
+*** TURN *** [6h 8d 9c] [Kd]
+*** RIVER *** [6h 8d 9c Kd] [5s]
+*** SHOW DOWN ***
+micher82: shows [7c 7h] (a straight, Five to Nine)
+Mirosmarsf: shows [9s 6d] (two pair, Nines and Sixes)
+micher82 collected 880 from pot
+*** SUMMARY ***
+Total pot 880 | Rake 0 
+Board [6h 8d 9c Kd 5s]
+Seat 1: micher82 (small blind) showed [7c 7h] and won (880) with a straight, Five to Nine
+Seat 2: Mahu2021 (big blind) folded on the Flop
+Seat 3: Mirosmarsf (button) showed [9s 6d] and lost with two pair, Nines and Sixes
+
+
+
+PokerStars Hand #243174528950: Tournament #3579404238, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/18 21:23:00 CET [2023/04/18 15:23:00 ET]
+Table '3579404238 1' 3-max Seat #1 is the button
+Seat 1: micher82 (880 in chips) 
+Seat 2: Mahu2021 (440 in chips) 
+Seat 3: Mirosmarsf (180 in chips) 
+Mahu2021: posts small blind 10
+Mirosmarsf: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qd 2d]
+micher82: calls 20
+Mahu2021: calls 10
+Mirosmarsf: checks 
+*** FLOP *** [Kh Ac 3s]
+Mahu2021: checks 
+Mirosmarsf: checks 
+micher82: checks 
+*** TURN *** [Kh Ac 3s] [Qh]
+Mahu2021: bets 20
+Mirosmarsf: folds 
+micher82: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Kh Ac 3s Qh]
+Seat 1: micher82 (button) folded on the Turn
+Seat 2: Mahu2021 (small blind) collected (60)
+Seat 3: Mirosmarsf (big blind) folded on the Turn
+
+
+
+PokerStars Hand #243174542468: Tournament #3579404238, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/18 21:23:38 CET [2023/04/18 15:23:38 ET]
+Table '3579404238 1' 3-max Seat #2 is the button
+Seat 1: micher82 (860 in chips) 
+Seat 2: Mahu2021 (480 in chips) 
+Seat 3: Mirosmarsf (160 in chips) 
+Mirosmarsf: posts small blind 15
+micher82: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d Ac]
+Mahu2021: folds 
+Mirosmarsf: calls 15
+micher82: checks 
+*** FLOP *** [5s 3s 2h]
+Mirosmarsf: checks 
+micher82: checks 
+*** TURN *** [5s 3s 2h] [As]
+Mirosmarsf: checks 
+micher82: bets 60
+Mirosmarsf: folds 
+Uncalled bet (60) returned to micher82
+micher82 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [5s 3s 2h As]
+Seat 1: micher82 (big blind) collected (60)
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: Mirosmarsf (small blind) folded on the Turn
+
+
+
+PokerStars Hand #243174558458: Tournament #3579404238, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/18 21:24:23 CET [2023/04/18 15:24:23 ET]
+Table '3579404238 1' 3-max Seat #3 is the button
+Seat 1: micher82 (890 in chips) 
+Seat 2: Mahu2021 (480 in chips) 
+Seat 3: Mirosmarsf (130 in chips) 
+micher82: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d Ac]
+Mirosmarsf: calls 30
+micher82: raises 90 to 120
+Mahu2021: folds 
+Mirosmarsf: raises 10 to 130 and is all-in
+micher82: calls 10
+*** FLOP *** [8s Th 5d]
+*** TURN *** [8s Th 5d] [Ks]
+*** RIVER *** [8s Th 5d Ks] [5s]
+*** SHOW DOWN ***
+micher82: shows [Qs Qd] (two pair, Queens and Fives)
+Mirosmarsf: shows [2d 9d] (a pair of Fives)
+micher82 collected 290 from pot
+Mirosmarsf finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 290 | Rake 0 
+Board [8s Th 5d Ks 5s]
+Seat 1: micher82 (small blind) showed [Qs Qd] and won (290) with two pair, Queens and Fives
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: Mirosmarsf (button) showed [2d 9d] and lost with a pair of Fives
+
+
+
+PokerStars Hand #243174571764: Tournament #3579404238, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/18 21:25:00 CET [2023/04/18 15:25:00 ET]
+Table '3579404238 1' 3-max Seat #2 is the button
+Seat 1: micher82 (1050 in chips) 
+Seat 2: Mahu2021 (450 in chips) 
+Mahu2021: posts small blind 15
+micher82: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2c 5d]
+Mahu2021: folds 
+Uncalled bet (15) returned to micher82
+micher82 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: micher82 (big blind) collected (30)
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #243174574477: Tournament #3579404238, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/18 21:25:08 CET [2023/04/18 15:25:08 ET]
+Table '3579404238 1' 3-max Seat #1 is the button
+Seat 1: micher82 (1065 in chips) 
+Seat 2: Mahu2021 (435 in chips) 
+micher82: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c Th]
+micher82: raises 40 to 80
+Mahu2021: calls 40
+*** FLOP *** [Kh Kc Jh]
+Mahu2021: checks 
+micher82: checks 
+*** TURN *** [Kh Kc Jh] [2s]
+Mahu2021: bets 355 and is all-in
+micher82: folds 
+Uncalled bet (355) returned to Mahu2021
+Mahu2021 collected 160 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Kh Kc Jh 2s]
+Seat 1: micher82 (button) (small blind) folded on the Turn
+Seat 2: Mahu2021 (big blind) collected (160)
+
+
+
+PokerStars Hand #243174579545: Tournament #3579404238, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/18 21:25:21 CET [2023/04/18 15:25:21 ET]
+Table '3579404238 1' 3-max Seat #2 is the button
+Seat 1: micher82 (985 in chips) 
+Seat 2: Mahu2021 (515 in chips) 
+Mahu2021: posts small blind 20
+micher82: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As 5c]
+Mahu2021: calls 20
+micher82: checks 
+*** FLOP *** [8h Jh Td]
+micher82: checks 
+Mahu2021: bets 40
+micher82: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [8h Jh Td]
+Seat 1: micher82 (big blind) folded on the Flop
+Seat 2: Mahu2021 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #243174583512: Tournament #3579404238, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/18 21:25:32 CET [2023/04/18 15:25:32 ET]
+Table '3579404238 1' 3-max Seat #1 is the button
+Seat 1: micher82 (945 in chips) 
+Seat 2: Mahu2021 (555 in chips) 
+micher82: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh 5h]
+micher82: calls 20
+Mahu2021: checks 
+*** FLOP *** [Kc 3c Jc]
+Mahu2021: checks 
+micher82: checks 
+*** TURN *** [Kc 3c Jc] [Ac]
+Mahu2021: checks 
+micher82: checks 
+*** RIVER *** [Kc 3c Jc Ac] [8c]
+Mahu2021: checks 
+micher82: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [Jh 5h] (a flush, Ace high)
+micher82: shows [5c 6h] (a flush, Ace high - Five higher)
+micher82 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Kc 3c Jc Ac 8c]
+Seat 1: micher82 (button) (small blind) showed [5c 6h] and won (80) with a flush, Ace high
+Seat 2: Mahu2021 (big blind) showed [Jh 5h] and lost with a flush, Ace high
+
+
+
+PokerStars Hand #243174587892: Tournament #3579404238, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/18 21:25:45 CET [2023/04/18 15:25:45 ET]
+Table '3579404238 1' 3-max Seat #2 is the button
+Seat 1: micher82 (985 in chips) 
+Seat 2: Mahu2021 (515 in chips) 
+Mahu2021: posts small blind 20
+micher82: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4d 2d]
+Mahu2021: calls 20
+micher82: checks 
+*** FLOP *** [4h Th 3c]
+micher82: checks 
+Mahu2021: bets 40
+micher82: calls 40
+*** TURN *** [4h Th 3c] [Qs]
+micher82: checks 
+Mahu2021: checks 
+*** RIVER *** [4h Th 3c Qs] [2h]
+micher82: bets 80
+Mahu2021: raises 355 to 435 and is all-in
+micher82: calls 355
+*** SHOW DOWN ***
+Mahu2021: shows [4d 2d] (two pair, Fours and Deuces)
+micher82: shows [2c Td] (two pair, Tens and Deuces)
+micher82 collected 1030 from pot
+Mahu2021 finished the tournament in 2nd place
+micher82 wins the tournament and receives $2.00 - congratulations!
+*** SUMMARY ***
+Total pot 1030 | Rake 0 
+Board [4h Th 3c Qs 2h]
+Seat 1: micher82 (big blind) showed [2c Td] and won (1030) with two pair, Tens and Deuces
+Seat 2: Mahu2021 (button) (small blind) showed [4d 2d] and lost with two pair, Fours and Deuces
+
+
+

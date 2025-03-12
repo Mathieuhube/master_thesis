@@ -1,0 +1,1232 @@
+﻿PokerStars Hand #245605266803: Tournament #3636499924, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/08/26 19:12:21 CET [2023/08/26 13:12:21 ET]
+Table '3636499924 1' 3-max Seat #1 is the button
+Seat 1: _Brgança (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: JohnsAces (500 in chips) 
+Mahu2021: posts small blind 10
+JohnsAces: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c 9d]
+_Brgança: folds 
+Mahu2021: folds 
+Uncalled bet (10) returned to JohnsAces
+JohnsAces collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: _Brgança (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: JohnsAces (big blind) collected (20)
+
+
+
+PokerStars Hand #245605270513: Tournament #3636499924, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/08/26 19:12:35 CET [2023/08/26 13:12:35 ET]
+Table '3636499924 1' 3-max Seat #2 is the button
+Seat 1: _Brgança (500 in chips) 
+Seat 2: Mahu2021 (490 in chips) 
+Seat 3: JohnsAces (510 in chips) 
+JohnsAces: posts small blind 10
+_Brgança: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s Qc]
+Mahu2021: folds 
+JohnsAces: calls 10
+_Brgança: checks 
+*** FLOP *** [2c 4d Js]
+JohnsAces: bets 20
+_Brgança: folds 
+Uncalled bet (20) returned to JohnsAces
+JohnsAces collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [2c 4d Js]
+Seat 1: _Brgança (big blind) folded on the Flop
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: JohnsAces (small blind) collected (40)
+
+
+
+PokerStars Hand #245605274555: Tournament #3636499924, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/08/26 19:12:50 CET [2023/08/26 13:12:50 ET]
+Table '3636499924 1' 3-max Seat #3 is the button
+Seat 1: _Brgança (480 in chips) 
+Seat 2: Mahu2021 (490 in chips) 
+Seat 3: JohnsAces (530 in chips) 
+_Brgança: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6h 6d]
+JohnsAces: calls 20
+_Brgança: calls 10
+Mahu2021: checks 
+*** FLOP *** [9d Qd 3h]
+_Brgança: bets 30
+Mahu2021: folds 
+JohnsAces: folds 
+Uncalled bet (30) returned to _Brgança
+_Brgança collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [9d Qd 3h]
+Seat 1: _Brgança (small blind) collected (60)
+Seat 2: Mahu2021 (big blind) folded on the Flop
+Seat 3: JohnsAces (button) folded on the Flop
+
+
+
+PokerStars Hand #245605279068: Tournament #3636499924, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/08/26 19:13:07 CET [2023/08/26 13:13:07 ET]
+Table '3636499924 1' 3-max Seat #1 is the button
+Seat 1: _Brgança (520 in chips) 
+Seat 2: Mahu2021 (470 in chips) 
+Seat 3: JohnsAces (510 in chips) 
+Mahu2021: posts small blind 10
+JohnsAces: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s 7d]
+_Brgança: calls 20
+Mahu2021: folds 
+JohnsAces: checks 
+*** FLOP *** [9d 3c 5s]
+JohnsAces: checks 
+_Brgança: checks 
+*** TURN *** [9d 3c 5s] [Kh]
+JohnsAces: bets 40
+_Brgança: calls 40
+*** RIVER *** [9d 3c 5s Kh] [Qs]
+JohnsAces: bets 40
+_Brgança: folds 
+Uncalled bet (40) returned to JohnsAces
+JohnsAces collected 130 from pot
+*** SUMMARY ***
+Total pot 130 | Rake 0 
+Board [9d 3c 5s Kh Qs]
+Seat 1: _Brgança (button) folded on the River
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: JohnsAces (big blind) collected (130)
+
+
+
+PokerStars Hand #245605285674: Tournament #3636499924, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/08/26 19:13:31 CET [2023/08/26 13:13:31 ET]
+Table '3636499924 1' 3-max Seat #2 is the button
+Seat 1: _Brgança (460 in chips) 
+Seat 2: Mahu2021 (460 in chips) 
+Seat 3: JohnsAces (580 in chips) 
+JohnsAces: posts small blind 10
+_Brgança: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h 5s]
+Mahu2021: folds 
+JohnsAces: calls 10
+_Brgança: raises 20 to 40
+JohnsAces: calls 20
+*** FLOP *** [9d 6c Ah]
+JohnsAces: checks 
+_Brgança: bets 40
+JohnsAces: folds 
+Uncalled bet (40) returned to _Brgança
+_Brgança collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [9d 6c Ah]
+Seat 1: _Brgança (big blind) collected (80)
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: JohnsAces (small blind) folded on the Flop
+
+
+
+PokerStars Hand #245605291129: Tournament #3636499924, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/08/26 19:13:50 CET [2023/08/26 13:13:50 ET]
+Table '3636499924 1' 3-max Seat #3 is the button
+Seat 1: _Brgança (500 in chips) 
+Seat 2: Mahu2021 (460 in chips) 
+Seat 3: JohnsAces (540 in chips) 
+_Brgança: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2s Kc]
+JohnsAces: calls 20
+_Brgança: calls 10
+Mahu2021: checks 
+*** FLOP *** [Ks 6c As]
+_Brgança: checks 
+Mahu2021: checks 
+JohnsAces: bets 40
+_Brgança: folds 
+Mahu2021: calls 40
+*** TURN *** [Ks 6c As] [3h]
+Mahu2021: checks 
+JohnsAces: bets 20
+Mahu2021: calls 20
+*** RIVER *** [Ks 6c As 3h] [Qd]
+Mahu2021: checks 
+JohnsAces: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [2s Kc] (a pair of Kings)
+JohnsAces: mucks hand 
+Mahu2021 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [Ks 6c As 3h Qd]
+Seat 1: _Brgança (small blind) folded on the Flop
+Seat 2: Mahu2021 (big blind) showed [2s Kc] and won (180) with a pair of Kings
+Seat 3: JohnsAces (button) mucked [7c 7d]
+
+
+
+PokerStars Hand #245605299399: Tournament #3636499924, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/08/26 19:14:21 CET [2023/08/26 13:14:21 ET]
+Table '3636499924 1' 3-max Seat #1 is the button
+Seat 1: _Brgança (480 in chips) 
+Seat 2: Mahu2021 (560 in chips) 
+Seat 3: JohnsAces (460 in chips) 
+Mahu2021: posts small blind 10
+JohnsAces: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h 9c]
+_Brgança: folds 
+Mahu2021: calls 10
+JohnsAces: checks 
+*** FLOP *** [6s Js Th]
+Mahu2021: bets 40
+JohnsAces: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [6s Js Th]
+Seat 1: _Brgança (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) collected (40)
+Seat 3: JohnsAces (big blind) folded on the Flop
+
+
+
+PokerStars Hand #245605303780: Tournament #3636499924, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/08/26 19:14:37 CET [2023/08/26 13:14:37 ET]
+Table '3636499924 1' 3-max Seat #2 is the button
+Seat 1: _Brgança (480 in chips) 
+Seat 2: Mahu2021 (580 in chips) 
+Seat 3: JohnsAces (440 in chips) 
+JohnsAces: posts small blind 15
+_Brgança: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qs 2c]
+Mahu2021: folds 
+JohnsAces: calls 15
+_Brgança: checks 
+*** FLOP *** [3h Jc Tc]
+JohnsAces: bets 30
+_Brgança: folds 
+Uncalled bet (30) returned to JohnsAces
+JohnsAces collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [3h Jc Tc]
+Seat 1: _Brgança (big blind) folded on the Flop
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: JohnsAces (small blind) collected (60)
+
+
+
+PokerStars Hand #245605309600: Tournament #3636499924, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/08/26 19:14:59 CET [2023/08/26 13:14:59 ET]
+Table '3636499924 1' 3-max Seat #3 is the button
+Seat 1: _Brgança (450 in chips) 
+Seat 2: Mahu2021 (580 in chips) 
+Seat 3: JohnsAces (470 in chips) 
+_Brgança: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts 6d]
+JohnsAces: calls 30
+_Brgança: calls 15
+Mahu2021: checks 
+*** FLOP *** [Th As Ac]
+_Brgança: checks 
+Mahu2021: bets 90
+JohnsAces: folds 
+_Brgança: folds 
+Uncalled bet (90) returned to Mahu2021
+Mahu2021 collected 90 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [Th As Ac]
+Seat 1: _Brgança (small blind) folded on the Flop
+Seat 2: Mahu2021 (big blind) collected (90)
+Seat 3: JohnsAces (button) folded on the Flop
+
+
+
+PokerStars Hand #245605316651: Tournament #3636499924, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/08/26 19:15:23 CET [2023/08/26 13:15:23 ET]
+Table '3636499924 1' 3-max Seat #1 is the button
+Seat 1: _Brgança (420 in chips) 
+Seat 2: Mahu2021 (640 in chips) 
+Seat 3: JohnsAces (440 in chips) 
+Mahu2021: posts small blind 15
+JohnsAces: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d Kd]
+_Brgança: folds 
+Mahu2021: raises 30 to 60
+JohnsAces: calls 30
+*** FLOP *** [4h Th Ks]
+Mahu2021: bets 60
+JohnsAces: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [4h Th Ks]
+Seat 1: _Brgança (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) collected (120)
+Seat 3: JohnsAces (big blind) folded on the Flop
+
+
+
+PokerStars Hand #245605323691: Tournament #3636499924, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/08/26 19:15:48 CET [2023/08/26 13:15:48 ET]
+Table '3636499924 1' 3-max Seat #2 is the button
+Seat 1: _Brgança (420 in chips) 
+Seat 2: Mahu2021 (700 in chips) 
+Seat 3: JohnsAces (380 in chips) 
+JohnsAces: posts small blind 15
+_Brgança: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah As]
+Mahu2021: raises 670 to 700 and is all-in
+JohnsAces: folds 
+_Brgança: folds 
+Uncalled bet (670) returned to Mahu2021
+Mahu2021 collected 75 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: _Brgança (big blind) folded before Flop
+Seat 2: Mahu2021 (button) collected (75)
+Seat 3: JohnsAces (small blind) folded before Flop
+
+
+
+PokerStars Hand #245605326169: Tournament #3636499924, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/08/26 19:15:56 CET [2023/08/26 13:15:56 ET]
+Table '3636499924 1' 3-max Seat #3 is the button
+Seat 1: _Brgança (390 in chips) 
+Seat 2: Mahu2021 (745 in chips) 
+Seat 3: JohnsAces (365 in chips) 
+_Brgança: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc Jh]
+JohnsAces: calls 30
+_Brgança: folds 
+Mahu2021: checks 
+*** FLOP *** [Qh 6d 5s]
+Mahu2021: checks 
+JohnsAces: checks 
+*** TURN *** [Qh 6d 5s] [Ad]
+Mahu2021: checks 
+JohnsAces: checks 
+*** RIVER *** [Qh 6d 5s Ad] [3h]
+Mahu2021: bets 30
+JohnsAces: raises 90 to 120
+Mahu2021: calls 90
+*** SHOW DOWN ***
+JohnsAces: shows [Ac 7c] (a pair of Aces)
+Mahu2021: mucks hand 
+JohnsAces collected 315 from pot
+*** SUMMARY ***
+Total pot 315 | Rake 0 
+Board [Qh 6d 5s Ad 3h]
+Seat 1: _Brgança (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) mucked [Qc Jh]
+Seat 3: JohnsAces (button) showed [Ac 7c] and won (315) with a pair of Aces
+
+
+
+PokerStars Hand #245605335194: Tournament #3636499924, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/08/26 19:16:27 CET [2023/08/26 13:16:27 ET]
+Table '3636499924 1' 3-max Seat #1 is the button
+Seat 1: _Brgança (375 in chips) 
+Seat 2: Mahu2021 (595 in chips) 
+Seat 3: JohnsAces (530 in chips) 
+Mahu2021: posts small blind 20
+JohnsAces: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c 5s]
+_Brgança: folds 
+Mahu2021: calls 20
+JohnsAces: checks 
+*** FLOP *** [3d 6s 4d]
+Mahu2021: bets 40
+JohnsAces: calls 40
+*** TURN *** [3d 6s 4d] [4h]
+Mahu2021: bets 40
+JohnsAces: calls 40
+*** RIVER *** [3d 6s 4d 4h] [2h]
+Mahu2021: bets 120
+JohnsAces: raises 120 to 240
+Mahu2021: raises 235 to 475 and is all-in
+JohnsAces: calls 170 and is all-in
+Uncalled bet (65) returned to Mahu2021
+*** SHOW DOWN ***
+Mahu2021: shows [6c 5s] (a straight, Deuce to Six)
+JohnsAces: shows [5h Qd] (a straight, Deuce to Six)
+Mahu2021 collected 530 from pot
+JohnsAces collected 530 from pot
+*** SUMMARY ***
+Total pot 1060 | Rake 0 
+Board [3d 6s 4d 4h 2h]
+Seat 1: _Brgança (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) showed [6c 5s] and won (530) with a straight, Deuce to Six
+Seat 3: JohnsAces (big blind) showed [5h Qd] and won (530) with a straight, Deuce to Six
+
+
+
+PokerStars Hand #245605342349: Tournament #3636499924, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/08/26 19:16:52 CET [2023/08/26 13:16:52 ET]
+Table '3636499924 1' 3-max Seat #2 is the button
+Seat 1: _Brgança (375 in chips) 
+Seat 2: Mahu2021 (595 in chips) 
+Seat 3: JohnsAces (530 in chips) 
+JohnsAces: posts small blind 20
+_Brgança: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8s Td]
+Mahu2021: folds 
+JohnsAces: calls 20
+_Brgança: checks 
+*** FLOP *** [4s Kc 7h]
+JohnsAces: bets 40
+_Brgança: folds 
+Uncalled bet (40) returned to JohnsAces
+JohnsAces collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [4s Kc 7h]
+Seat 1: _Brgança (big blind) folded on the Flop
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: JohnsAces (small blind) collected (80)
+
+
+
+PokerStars Hand #245605346082: Tournament #3636499924, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/08/26 19:17:05 CET [2023/08/26 13:17:05 ET]
+Table '3636499924 1' 3-max Seat #3 is the button
+Seat 1: _Brgança (335 in chips) 
+Seat 2: Mahu2021 (595 in chips) 
+Seat 3: JohnsAces (570 in chips) 
+_Brgança: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8s 8h]
+JohnsAces: folds 
+_Brgança: calls 20
+Mahu2021: raises 555 to 595 and is all-in
+_Brgança: calls 295 and is all-in
+Uncalled bet (260) returned to Mahu2021
+*** FLOP *** [2c As Js]
+*** TURN *** [2c As Js] [8c]
+*** RIVER *** [2c As Js 8c] [5d]
+*** SHOW DOWN ***
+_Brgança: shows [4d 4c] (a pair of Fours)
+Mahu2021: shows [8s 8h] (three of a kind, Eights)
+Mahu2021 collected 670 from pot
+_Brgança finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 670 | Rake 0 
+Board [2c As Js 8c 5d]
+Seat 1: _Brgança (small blind) showed [4d 4c] and lost with a pair of Fours
+Seat 2: Mahu2021 (big blind) showed [8s 8h] and won (670) with three of a kind, Eights
+Seat 3: JohnsAces (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245605353443: Tournament #3636499924, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/08/26 19:17:30 CET [2023/08/26 13:17:30 ET]
+Table '3636499924 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (930 in chips) 
+Seat 3: JohnsAces (570 in chips) 
+Mahu2021: posts small blind 20
+JohnsAces: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks Qh]
+Mahu2021: calls 20
+JohnsAces: checks 
+*** FLOP *** [Ad Jd 9c]
+JohnsAces: bets 40
+Mahu2021: calls 40
+*** TURN *** [Ad Jd 9c] [4h]
+JohnsAces: bets 40
+Mahu2021: calls 40
+*** RIVER *** [Ad Jd 9c 4h] [Td]
+JohnsAces: checks 
+Mahu2021: bets 80
+JohnsAces: folds 
+Uncalled bet (80) returned to Mahu2021
+Mahu2021 collected 240 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Ad Jd 9c 4h Td]
+Seat 2: Mahu2021 (button) (small blind) collected (240)
+Seat 3: JohnsAces (big blind) folded on the River
+
+
+
+PokerStars Hand #245605358865: Tournament #3636499924, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/08/26 19:17:48 CET [2023/08/26 13:17:48 ET]
+Table '3636499924 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (1050 in chips) 
+Seat 3: JohnsAces (450 in chips) 
+JohnsAces: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd Ah]
+JohnsAces: raises 40 to 80
+Mahu2021: raises 970 to 1050 and is all-in
+JohnsAces: calls 370 and is all-in
+Uncalled bet (600) returned to Mahu2021
+*** FLOP *** [4d 7c Tc]
+*** TURN *** [4d 7c Tc] [Jc]
+*** RIVER *** [4d 7c Tc Jc] [5s]
+*** SHOW DOWN ***
+Mahu2021: shows [Kd Ah] (high card Ace)
+JohnsAces: shows [Jd As] (a pair of Jacks)
+JohnsAces collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | Rake 0 
+Board [4d 7c Tc Jc 5s]
+Seat 2: Mahu2021 (big blind) showed [Kd Ah] and lost with high card Ace
+Seat 3: JohnsAces (button) (small blind) showed [Jd As] and won (900) with a pair of Jacks
+
+
+
+PokerStars Hand #245605363183: Tournament #3636499924, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/08/26 19:18:03 CET [2023/08/26 13:18:03 ET]
+Table '3636499924 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (600 in chips) 
+Seat 3: JohnsAces (900 in chips) 
+Mahu2021: posts small blind 20
+JohnsAces: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4d 2d]
+Mahu2021: calls 20
+JohnsAces: raises 860 to 900 and is all-in
+Mahu2021: folds 
+Uncalled bet (860) returned to JohnsAces
+JohnsAces collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: JohnsAces (big blind) collected (80)
+
+
+
+PokerStars Hand #245605365553: Tournament #3636499924, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/08/26 19:18:11 CET [2023/08/26 13:18:11 ET]
+Table '3636499924 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (560 in chips) 
+Seat 3: JohnsAces (940 in chips) 
+JohnsAces: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd 7h]
+JohnsAces: calls 20
+Mahu2021: checks 
+*** FLOP *** [9d Jh Qs]
+Mahu2021: checks 
+JohnsAces: checks 
+*** TURN *** [9d Jh Qs] [9c]
+Mahu2021: bets 40
+JohnsAces: calls 40
+*** RIVER *** [9d Jh Qs 9c] [2d]
+Mahu2021: bets 40
+JohnsAces: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 160 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [9d Jh Qs 9c 2d]
+Seat 2: Mahu2021 (big blind) collected (160)
+Seat 3: JohnsAces (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #245605370879: Tournament #3636499924, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/08/26 19:18:29 CET [2023/08/26 13:18:29 ET]
+Table '3636499924 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (640 in chips) 
+Seat 3: JohnsAces (860 in chips) 
+Mahu2021: posts small blind 30
+JohnsAces: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h 5d]
+Mahu2021: folds 
+Uncalled bet (30) returned to JohnsAces
+JohnsAces collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: JohnsAces (big blind) collected (60)
+
+
+
+PokerStars Hand #245605372231: Tournament #3636499924, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/08/26 19:18:34 CET [2023/08/26 13:18:34 ET]
+Table '3636499924 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (610 in chips) 
+Seat 3: JohnsAces (890 in chips) 
+JohnsAces: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s 8c]
+JohnsAces: calls 30
+Mahu2021: checks 
+*** FLOP *** [Jc 7c 8d]
+Mahu2021: bets 60
+JohnsAces: calls 60
+*** TURN *** [Jc 7c 8d] [Kh]
+Mahu2021: checks 
+JohnsAces: checks 
+*** RIVER *** [Jc 7c 8d Kh] [Td]
+Mahu2021: checks 
+JohnsAces: bets 180
+Mahu2021: folds 
+Uncalled bet (180) returned to JohnsAces
+JohnsAces collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Jc 7c 8d Kh Td]
+Seat 2: Mahu2021 (big blind) folded on the River
+Seat 3: JohnsAces (button) (small blind) collected (240)
+
+
+
+PokerStars Hand #245605377829: Tournament #3636499924, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/08/26 19:18:53 CET [2023/08/26 13:18:53 ET]
+Table '3636499924 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (490 in chips) 
+Seat 3: JohnsAces (1010 in chips) 
+Mahu2021: posts small blind 30
+JohnsAces: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d Js]
+Mahu2021: folds 
+Uncalled bet (30) returned to JohnsAces
+JohnsAces collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: JohnsAces (big blind) collected (60)
+
+
+
+PokerStars Hand #245605379195: Tournament #3636499924, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/08/26 19:18:57 CET [2023/08/26 13:18:57 ET]
+Table '3636499924 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (460 in chips) 
+Seat 3: JohnsAces (1040 in chips) 
+JohnsAces: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4c Jd]
+JohnsAces: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: Mahu2021 (big blind) collected (60)
+Seat 3: JohnsAces (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #245605380559: Tournament #3636499924, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/08/26 19:19:02 CET [2023/08/26 13:19:02 ET]
+Table '3636499924 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (490 in chips) 
+Seat 3: JohnsAces (1010 in chips) 
+Mahu2021: posts small blind 30
+JohnsAces: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js 3d]
+Mahu2021: folds 
+Uncalled bet (30) returned to JohnsAces
+JohnsAces collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: JohnsAces (big blind) collected (60)
+
+
+
+PokerStars Hand #245605381953: Tournament #3636499924, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/08/26 19:19:07 CET [2023/08/26 13:19:07 ET]
+Table '3636499924 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (460 in chips) 
+Seat 3: JohnsAces (1040 in chips) 
+JohnsAces: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d Jh]
+JohnsAces: calls 30
+Mahu2021: checks 
+*** FLOP *** [2c 8c 7c]
+Mahu2021: checks 
+JohnsAces: bets 60
+Mahu2021: folds 
+Uncalled bet (60) returned to JohnsAces
+JohnsAces collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [2c 8c 7c]
+Seat 2: Mahu2021 (big blind) folded on the Flop
+Seat 3: JohnsAces (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #245605384903: Tournament #3636499924, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/08/26 19:19:17 CET [2023/08/26 13:19:17 ET]
+Table '3636499924 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (400 in chips) 
+Seat 3: JohnsAces (1100 in chips) 
+Mahu2021: posts small blind 30
+JohnsAces: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d Qd]
+Mahu2021: raises 60 to 120
+JohnsAces: calls 60
+*** FLOP *** [Ad Ac Jh]
+JohnsAces: checks 
+Mahu2021: bets 280 and is all-in
+JohnsAces: folds 
+Uncalled bet (280) returned to Mahu2021
+Mahu2021 collected 240 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Ad Ac Jh]
+Seat 2: Mahu2021 (button) (small blind) collected (240)
+Seat 3: JohnsAces (big blind) folded on the Flop
+
+
+
+PokerStars Hand #245605388077: Tournament #3636499924, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/08/26 19:19:28 CET [2023/08/26 13:19:28 ET]
+Table '3636499924 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (520 in chips) 
+Seat 3: JohnsAces (980 in chips) 
+JohnsAces: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh Th]
+JohnsAces: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: Mahu2021 (big blind) collected (60)
+Seat 3: JohnsAces (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #245605389359: Tournament #3636499924, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/08/26 19:19:32 CET [2023/08/26 13:19:32 ET]
+Table '3636499924 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (550 in chips) 
+Seat 3: JohnsAces (950 in chips) 
+Mahu2021: posts small blind 30
+JohnsAces: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h 2d]
+Mahu2021: folds 
+Uncalled bet (30) returned to JohnsAces
+JohnsAces collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: JohnsAces (big blind) collected (60)
+
+
+
+PokerStars Hand #245605390838: Tournament #3636499924, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/08/26 19:19:37 CET [2023/08/26 13:19:37 ET]
+Table '3636499924 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (520 in chips) 
+Seat 3: JohnsAces (980 in chips) 
+JohnsAces: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh 8s]
+JohnsAces: calls 30
+Mahu2021: checks 
+*** FLOP *** [3c 7h Kh]
+Mahu2021: checks 
+JohnsAces: checks 
+*** TURN *** [3c 7h Kh] [6d]
+Mahu2021: checks 
+JohnsAces: bets 60
+Mahu2021: folds 
+Uncalled bet (60) returned to JohnsAces
+JohnsAces collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [3c 7h Kh 6d]
+Seat 2: Mahu2021 (big blind) folded on the Turn
+Seat 3: JohnsAces (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #245605394599: Tournament #3636499924, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/08/26 19:19:50 CET [2023/08/26 13:19:50 ET]
+Table '3636499924 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (460 in chips) 
+Seat 3: JohnsAces (1040 in chips) 
+Mahu2021: posts small blind 30
+JohnsAces: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js Kc]
+Mahu2021: raises 60 to 120
+JohnsAces: calls 60
+*** FLOP *** [4c 9s 3c]
+JohnsAces: checks 
+Mahu2021: checks 
+*** TURN *** [4c 9s 3c] [4s]
+JohnsAces: checks 
+Mahu2021: checks 
+*** RIVER *** [4c 9s 3c 4s] [7d]
+JohnsAces: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+JohnsAces: shows [2d Jh] (a pair of Fours)
+Mahu2021: shows [Js Kc] (a pair of Fours - King kicker)
+Mahu2021 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [4c 9s 3c 4s 7d]
+Seat 2: Mahu2021 (button) (small blind) showed [Js Kc] and won (240) with a pair of Fours
+Seat 3: JohnsAces (big blind) showed [2d Jh] and lost with a pair of Fours
+
+
+
+PokerStars Hand #245605398775: Tournament #3636499924, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/08/26 19:20:05 CET [2023/08/26 13:20:05 ET]
+Table '3636499924 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (580 in chips) 
+Seat 3: JohnsAces (920 in chips) 
+JohnsAces: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qs Kd]
+JohnsAces: calls 30
+Mahu2021: raises 120 to 180
+JohnsAces: folds 
+Uncalled bet (120) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: Mahu2021 (big blind) collected (120)
+Seat 3: JohnsAces (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #245605401141: Tournament #3636499924, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/08/26 19:20:13 CET [2023/08/26 13:20:13 ET]
+Table '3636499924 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (640 in chips) 
+Seat 3: JohnsAces (860 in chips) 
+Mahu2021: posts small blind 30
+JohnsAces: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah 6d]
+Mahu2021: raises 60 to 120
+JohnsAces: calls 60
+*** FLOP *** [Ts Jc 5h]
+JohnsAces: checks 
+Mahu2021: checks 
+*** TURN *** [Ts Jc 5h] [4d]
+JohnsAces: bets 60
+Mahu2021: calls 60
+*** RIVER *** [Ts Jc 5h 4d] [2s]
+JohnsAces: bets 60
+Mahu2021: folds 
+Uncalled bet (60) returned to JohnsAces
+JohnsAces collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [Ts Jc 5h 4d 2s]
+Seat 2: Mahu2021 (button) (small blind) folded on the River
+Seat 3: JohnsAces (big blind) collected (360)
+
+
+
+PokerStars Hand #245605406548: Tournament #3636499924, $0.92+$0.08 USD Hold'em No Limit - Level V (40/80) - 2023/08/26 19:20:31 CET [2023/08/26 13:20:31 ET]
+Table '3636499924 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (460 in chips) 
+Seat 3: JohnsAces (1040 in chips) 
+JohnsAces: posts small blind 40
+Mahu2021: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh Kd]
+JohnsAces: calls 40
+Mahu2021: raises 380 to 460 and is all-in
+JohnsAces: folds 
+Uncalled bet (380) returned to Mahu2021
+Mahu2021 collected 160 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Seat 2: Mahu2021 (big blind) collected (160)
+Seat 3: JohnsAces (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #245605408756: Tournament #3636499924, $0.92+$0.08 USD Hold'em No Limit - Level V (40/80) - 2023/08/26 19:20:39 CET [2023/08/26 13:20:39 ET]
+Table '3636499924 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (540 in chips) 
+Seat 3: JohnsAces (960 in chips) 
+Mahu2021: posts small blind 40
+JohnsAces: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h 5h]
+Mahu2021: calls 40
+JohnsAces: raises 880 to 960 and is all-in
+Mahu2021: folds 
+Uncalled bet (880) returned to JohnsAces
+JohnsAces collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: JohnsAces (big blind) collected (160)
+
+
+
+PokerStars Hand #245605411222: Tournament #3636499924, $0.92+$0.08 USD Hold'em No Limit - Level V (40/80) - 2023/08/26 19:20:47 CET [2023/08/26 13:20:47 ET]
+Table '3636499924 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (460 in chips) 
+Seat 3: JohnsAces (1040 in chips) 
+JohnsAces: posts small blind 40
+Mahu2021: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh 3s]
+JohnsAces: calls 40
+Mahu2021: checks 
+*** FLOP *** [6h 7c Qs]
+Mahu2021: checks 
+JohnsAces: checks 
+*** TURN *** [6h 7c Qs] [Ts]
+Mahu2021: checks 
+JohnsAces: bets 80
+Mahu2021: folds 
+Uncalled bet (80) returned to JohnsAces
+JohnsAces collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [6h 7c Qs Ts]
+Seat 2: Mahu2021 (big blind) folded on the Turn
+Seat 3: JohnsAces (button) (small blind) collected (160)
+
+
+
+PokerStars Hand #245605414719: Tournament #3636499924, $0.92+$0.08 USD Hold'em No Limit - Level V (40/80) - 2023/08/26 19:20:59 CET [2023/08/26 13:20:59 ET]
+Table '3636499924 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (380 in chips) 
+Seat 3: JohnsAces (1120 in chips) 
+Mahu2021: posts small blind 40
+JohnsAces: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh As]
+Mahu2021: raises 300 to 380 and is all-in
+JohnsAces: folds 
+Uncalled bet (300) returned to Mahu2021
+Mahu2021 collected 160 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) collected (160)
+Seat 3: JohnsAces (big blind) folded before Flop
+
+
+
+PokerStars Hand #245605416857: Tournament #3636499924, $0.92+$0.08 USD Hold'em No Limit - Level V (40/80) - 2023/08/26 19:21:06 CET [2023/08/26 13:21:06 ET]
+Table '3636499924 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (460 in chips) 
+Seat 3: JohnsAces (1040 in chips) 
+JohnsAces: posts small blind 40
+Mahu2021: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah 4d]
+JohnsAces: calls 40
+Mahu2021: raises 380 to 460 and is all-in
+JohnsAces: folds 
+Uncalled bet (380) returned to Mahu2021
+Mahu2021 collected 160 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Seat 2: Mahu2021 (big blind) collected (160)
+Seat 3: JohnsAces (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #245605418977: Tournament #3636499924, $0.92+$0.08 USD Hold'em No Limit - Level V (40/80) - 2023/08/26 19:21:14 CET [2023/08/26 13:21:14 ET]
+Table '3636499924 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (540 in chips) 
+Seat 3: JohnsAces (960 in chips) 
+Mahu2021: posts small blind 40
+JohnsAces: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c Qs]
+Mahu2021: calls 40
+JohnsAces: checks 
+*** FLOP *** [Jc 7h Kh]
+JohnsAces: checks 
+Mahu2021: bets 80
+JohnsAces: calls 80
+*** TURN *** [Jc 7h Kh] [3c]
+JohnsAces: checks 
+Mahu2021: checks 
+*** RIVER *** [Jc 7h Kh 3c] [3d]
+JohnsAces: checks 
+Mahu2021: bets 380 and is all-in
+JohnsAces: folds 
+Uncalled bet (380) returned to Mahu2021
+Mahu2021 collected 320 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [Jc 7h Kh 3c 3d]
+Seat 2: Mahu2021 (button) (small blind) collected (320)
+Seat 3: JohnsAces (big blind) folded on the River
+
+
+
+PokerStars Hand #245605425406: Tournament #3636499924, $0.92+$0.08 USD Hold'em No Limit - Level V (40/80) - 2023/08/26 19:21:36 CET [2023/08/26 13:21:36 ET]
+Table '3636499924 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (700 in chips) 
+Seat 3: JohnsAces (800 in chips) 
+JohnsAces: posts small blind 40
+Mahu2021: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad 5s]
+JohnsAces: calls 40
+Mahu2021: checks 
+*** FLOP *** [Kh Jh Ah]
+Mahu2021: bets 80
+JohnsAces: folds 
+Uncalled bet (80) returned to Mahu2021
+Mahu2021 collected 160 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Kh Jh Ah]
+Seat 2: Mahu2021 (big blind) collected (160)
+Seat 3: JohnsAces (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #245605428167: Tournament #3636499924, $0.92+$0.08 USD Hold'em No Limit - Level V (40/80) - 2023/08/26 19:21:45 CET [2023/08/26 13:21:45 ET]
+Table '3636499924 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (780 in chips) 
+Seat 3: JohnsAces (720 in chips) 
+Mahu2021: posts small blind 40
+JohnsAces: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d 6c]
+Mahu2021: calls 40
+JohnsAces: raises 640 to 720 and is all-in
+Mahu2021: folds 
+Uncalled bet (640) returned to JohnsAces
+JohnsAces collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: JohnsAces (big blind) collected (160)
+
+
+
+PokerStars Hand #245605430724: Tournament #3636499924, $0.92+$0.08 USD Hold'em No Limit - Level V (40/80) - 2023/08/26 19:21:54 CET [2023/08/26 13:21:54 ET]
+Table '3636499924 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (700 in chips) 
+Seat 3: JohnsAces (800 in chips) 
+JohnsAces: posts small blind 40
+Mahu2021: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8s 6d]
+JohnsAces: calls 40
+Mahu2021: checks 
+*** FLOP *** [Kd Tc Qh]
+Mahu2021: checks 
+JohnsAces: checks 
+*** TURN *** [Kd Tc Qh] [Qc]
+Mahu2021: checks 
+JohnsAces: bets 80
+Mahu2021: folds 
+Uncalled bet (80) returned to JohnsAces
+JohnsAces collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Kd Tc Qh Qc]
+Seat 2: Mahu2021 (big blind) folded on the Turn
+Seat 3: JohnsAces (button) (small blind) collected (160)
+
+
+
+PokerStars Hand #245605434553: Tournament #3636499924, $0.92+$0.08 USD Hold'em No Limit - Level V (40/80) - 2023/08/26 19:22:07 CET [2023/08/26 13:22:07 ET]
+Table '3636499924 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (620 in chips) 
+Seat 3: JohnsAces (880 in chips) 
+Mahu2021: posts small blind 40
+JohnsAces: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c Js]
+Mahu2021: folds 
+Uncalled bet (40) returned to JohnsAces
+JohnsAces collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: JohnsAces (big blind) collected (80)
+
+
+
+PokerStars Hand #245605436017: Tournament #3636499924, $0.92+$0.08 USD Hold'em No Limit - Level V (40/80) - 2023/08/26 19:22:12 CET [2023/08/26 13:22:12 ET]
+Table '3636499924 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (580 in chips) 
+Seat 3: JohnsAces (920 in chips) 
+JohnsAces: posts small blind 40
+Mahu2021: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s 6c]
+JohnsAces: raises 840 to 920 and is all-in
+Mahu2021: folds 
+Uncalled bet (840) returned to JohnsAces
+JohnsAces collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: JohnsAces (button) (small blind) collected (160)
+
+
+
+PokerStars Hand #245605437781: Tournament #3636499924, $0.92+$0.08 USD Hold'em No Limit - Level V (40/80) - 2023/08/26 19:22:18 CET [2023/08/26 13:22:18 ET]
+Table '3636499924 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: JohnsAces (1000 in chips) 
+Mahu2021: posts small blind 40
+JohnsAces: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d 8c]
+Mahu2021: folds 
+Uncalled bet (40) returned to JohnsAces
+JohnsAces collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: JohnsAces (big blind) collected (80)
+
+
+
+PokerStars Hand #245605440031: Tournament #3636499924, $0.92+$0.08 USD Hold'em No Limit - Level VI (50/100) - 2023/08/26 19:22:26 CET [2023/08/26 13:22:26 ET]
+Table '3636499924 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (460 in chips) 
+Seat 3: JohnsAces (1040 in chips) 
+JohnsAces: posts small blind 50
+Mahu2021: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d 7h]
+JohnsAces: raises 940 to 1040 and is all-in
+Mahu2021: calls 360 and is all-in
+Uncalled bet (580) returned to JohnsAces
+*** FLOP *** [2c 3c Qd]
+*** TURN *** [2c 3c Qd] [5s]
+*** RIVER *** [2c 3c Qd 5s] [6s]
+*** SHOW DOWN ***
+Mahu2021: shows [7d 7h] (a pair of Sevens)
+JohnsAces: shows [9c As] (high card Ace)
+Mahu2021 collected 920 from pot
+*** SUMMARY ***
+Total pot 920 | Rake 0 
+Board [2c 3c Qd 5s 6s]
+Seat 2: Mahu2021 (big blind) showed [7d 7h] and won (920) with a pair of Sevens
+Seat 3: JohnsAces (button) (small blind) showed [9c As] and lost with high card Ace
+
+
+
+PokerStars Hand #245605443584: Tournament #3636499924, $0.92+$0.08 USD Hold'em No Limit - Level VI (50/100) - 2023/08/26 19:22:38 CET [2023/08/26 13:22:38 ET]
+Table '3636499924 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (920 in chips) 
+Seat 3: JohnsAces (580 in chips) 
+Mahu2021: posts small blind 50
+JohnsAces: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad 2c]
+Mahu2021: raises 820 to 920 and is all-in
+JohnsAces: calls 480 and is all-in
+Uncalled bet (340) returned to Mahu2021
+*** FLOP *** [Qs 3s 9c]
+*** TURN *** [Qs 3s 9c] [Jd]
+*** RIVER *** [Qs 3s 9c Jd] [Th]
+*** SHOW DOWN ***
+JohnsAces: shows [Ah Qc] (a pair of Queens)
+Mahu2021: shows [Ad 2c] (high card Ace)
+JohnsAces collected 1160 from pot
+*** SUMMARY ***
+Total pot 1160 | Rake 0 
+Board [Qs 3s 9c Jd Th]
+Seat 2: Mahu2021 (button) (small blind) showed [Ad 2c] and lost with high card Ace
+Seat 3: JohnsAces (big blind) showed [Ah Qc] and won (1160) with a pair of Queens
+
+
+
+PokerStars Hand #245605447223: Tournament #3636499924, $0.92+$0.08 USD Hold'em No Limit - Level VI (50/100) - 2023/08/26 19:22:50 CET [2023/08/26 13:22:50 ET]
+Table '3636499924 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (340 in chips) 
+Seat 3: JohnsAces (1160 in chips) 
+JohnsAces: posts small blind 50
+Mahu2021: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad Qs]
+JohnsAces: raises 1060 to 1160 and is all-in
+Mahu2021: calls 240 and is all-in
+Uncalled bet (820) returned to JohnsAces
+*** FLOP *** [6c Jd 7s]
+*** TURN *** [6c Jd 7s] [7d]
+*** RIVER *** [6c Jd 7s 7d] [Ts]
+*** SHOW DOWN ***
+Mahu2021: shows [Ad Qs] (a pair of Sevens)
+JohnsAces: shows [Kh 3s] (a pair of Sevens - lower kicker)
+Mahu2021 collected 680 from pot
+*** SUMMARY ***
+Total pot 680 | Rake 0 
+Board [6c Jd 7s 7d Ts]
+Seat 2: Mahu2021 (big blind) showed [Ad Qs] and won (680) with a pair of Sevens
+Seat 3: JohnsAces (button) (small blind) showed [Kh 3s] and lost with a pair of Sevens
+
+
+
+PokerStars Hand #245605450771: Tournament #3636499924, $0.92+$0.08 USD Hold'em No Limit - Level VI (50/100) - 2023/08/26 19:23:02 CET [2023/08/26 13:23:02 ET]
+Table '3636499924 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (680 in chips) 
+Seat 3: JohnsAces (820 in chips) 
+Mahu2021: posts small blind 50
+JohnsAces: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Th 8h]
+Mahu2021: calls 50
+JohnsAces: raises 720 to 820 and is all-in
+Mahu2021: folds 
+Uncalled bet (720) returned to JohnsAces
+JohnsAces collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: JohnsAces (big blind) collected (200)
+
+
+
+PokerStars Hand #245605452946: Tournament #3636499924, $0.92+$0.08 USD Hold'em No Limit - Level VI (50/100) - 2023/08/26 19:23:09 CET [2023/08/26 13:23:09 ET]
+Table '3636499924 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (580 in chips) 
+Seat 3: JohnsAces (920 in chips) 
+JohnsAces: posts small blind 50
+Mahu2021: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah 8c]
+JohnsAces: raises 820 to 920 and is all-in
+Mahu2021: calls 480 and is all-in
+Uncalled bet (340) returned to JohnsAces
+*** FLOP *** [5d Td 7s]
+*** TURN *** [5d Td 7s] [4s]
+*** RIVER *** [5d Td 7s 4s] [9d]
+*** SHOW DOWN ***
+Mahu2021: shows [Ah 8c] (high card Ace)
+JohnsAces: shows [7d As] (a pair of Sevens)
+JohnsAces collected 1160 from pot
+Mahu2021 finished the tournament in 2nd place
+JohnsAces wins the tournament and receives $2.00 - congratulations!
+*** SUMMARY ***
+Total pot 1160 | Rake 0 
+Board [5d Td 7s 4s 9d]
+Seat 2: Mahu2021 (big blind) showed [Ah 8c] and lost with high card Ace
+Seat 3: JohnsAces (button) (small blind) showed [7d As] and won (1160) with a pair of Sevens
+
+
+

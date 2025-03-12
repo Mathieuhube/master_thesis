@@ -1,0 +1,85 @@
+﻿PokerStars Hand #248468454974: Tournament #3706152235, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/24 17:00:01 CET [2024/01/24 11:00:01 ET]
+Table '3706152235 1' 3-max Seat #1 is the button
+Seat 1: matejhordy (500 in chips) 
+Seat 2: catacata3252 (500 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+catacata3252: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2c 3c]
+matejhordy: folds 
+catacata3252: calls 10
+Mahu2021: checks 
+*** FLOP *** [8h 6d 2h]
+catacata3252: checks 
+Mahu2021: bets 20
+catacata3252: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [8h 6d 2h]
+Seat 1: matejhordy (button) folded before Flop (didn't bet)
+Seat 2: catacata3252 (small blind) folded on the Flop
+Seat 3: Mahu2021 (big blind) collected (40)
+
+
+
+PokerStars Hand #248468459483: Tournament #3706152235, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/24 17:00:22 CET [2024/01/24 11:00:22 ET]
+Table '3706152235 1' 3-max Seat #2 is the button
+Seat 1: matejhordy (500 in chips) 
+Seat 2: catacata3252 (480 in chips) 
+Seat 3: Mahu2021 (520 in chips) 
+Mahu2021: posts small blind 10
+matejhordy: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts 9d]
+catacata3252: folds 
+Mahu2021: calls 10
+matejhordy: checks 
+*** FLOP *** [7c 3d 5d]
+Mahu2021: checks 
+matejhordy: bets 40
+Mahu2021: folds 
+Uncalled bet (40) returned to matejhordy
+matejhordy collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [7c 3d 5d]
+Seat 1: matejhordy (big blind) collected (40)
+Seat 2: catacata3252 (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #248468463328: Tournament #3706152235, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/24 17:00:40 CET [2024/01/24 11:00:40 ET]
+Table '3706152235 1' 3-max Seat #3 is the button
+Seat 1: matejhordy (520 in chips) 
+Seat 2: catacata3252 (480 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+matejhordy: posts small blind 10
+catacata3252: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh Qs]
+Mahu2021: raises 480 to 500 and is all-in
+matejhordy: raises 20 to 520 and is all-in
+catacata3252: folds 
+Uncalled bet (20) returned to matejhordy
+*** FLOP *** [Ad Js 3c]
+*** TURN *** [Ad Js 3c] [9h]
+*** RIVER *** [Ad Js 3c 9h] [4c]
+*** SHOW DOWN ***
+matejhordy: shows [As Ac] (three of a kind, Aces)
+Mahu2021: shows [Qh Qs] (a pair of Queens)
+matejhordy collected 1020 from pot
+Mahu2021 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1020 | Rake 0 
+Board [Ad Js 3c 9h 4c]
+Seat 1: matejhordy (small blind) showed [As Ac] and won (1020) with three of a kind, Aces
+Seat 2: catacata3252 (big blind) folded before Flop
+Seat 3: Mahu2021 (button) showed [Qh Qs] and lost with a pair of Queens
+
+
+

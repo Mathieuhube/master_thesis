@@ -1,0 +1,575 @@
+﻿PokerStars Hand #248075472759: Tournament #3696395835, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/05 11:56:22 CET [2024/01/05 5:56:22 ET]
+Table '3696395835 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: glowacz (500 in chips) 
+Seat 3: shaggrath666 (500 in chips) is sitting out
+glowacz: posts small blind 10
+shaggrath666: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c 2h]
+Mahu2021: folds 
+glowacz: raises 20 to 40
+shaggrath666: folds 
+Uncalled bet (20) returned to glowacz
+glowacz collected 40 from pot
+glowacz: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: glowacz (small blind) collected (40)
+Seat 3: shaggrath666 (big blind) folded before Flop
+
+
+
+PokerStars Hand #248075473510: Tournament #3696395835, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/05 11:56:28 CET [2024/01/05 5:56:28 ET]
+Table '3696395835 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: glowacz (520 in chips) 
+Seat 3: shaggrath666 (480 in chips) is sitting out
+shaggrath666: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8c 6c]
+glowacz: raises 20 to 40
+shaggrath666: folds 
+Mahu2021: calls 20
+*** FLOP *** [Kd As 4c]
+Mahu2021: checks 
+glowacz: bets 32
+Mahu2021: folds 
+Uncalled bet (32) returned to glowacz
+glowacz collected 90 from pot
+glowacz: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [Kd As 4c]
+Seat 1: Mahu2021 (big blind) folded on the Flop
+Seat 2: glowacz (button) collected (90)
+Seat 3: shaggrath666 (small blind) folded before Flop
+
+
+
+PokerStars Hand #248075475923: Tournament #3696395835, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/05 11:56:47 CET [2024/01/05 5:56:47 ET]
+Table '3696395835 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (460 in chips) 
+Seat 2: glowacz (570 in chips) 
+Seat 3: shaggrath666 (470 in chips) is sitting out
+Mahu2021: posts small blind 10
+glowacz: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd 6c]
+shaggrath666: folds 
+Mahu2021: folds 
+Uncalled bet (10) returned to glowacz
+glowacz collected 20 from pot
+glowacz: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: glowacz (big blind) collected (20)
+Seat 3: shaggrath666 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #248075476496: Tournament #3696395835, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/05 11:56:51 CET [2024/01/05 5:56:51 ET]
+Table '3696395835 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (450 in chips) 
+Seat 2: glowacz (580 in chips) 
+Seat 3: shaggrath666 (470 in chips) is sitting out
+glowacz: posts small blind 10
+shaggrath666: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c 2c]
+Mahu2021: folds 
+glowacz: raises 20 to 40
+shaggrath666: folds 
+Uncalled bet (20) returned to glowacz
+glowacz collected 40 from pot
+glowacz: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: glowacz (small blind) collected (40)
+Seat 3: shaggrath666 (big blind) folded before Flop
+
+
+
+PokerStars Hand #248075477299: Tournament #3696395835, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/05 11:56:57 CET [2024/01/05 5:56:57 ET]
+Table '3696395835 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (450 in chips) 
+Seat 2: glowacz (600 in chips) 
+Seat 3: shaggrath666 (450 in chips) is sitting out
+shaggrath666: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h Td]
+glowacz: raises 20 to 40
+shaggrath666: folds 
+Mahu2021: calls 20
+*** FLOP *** [2d 6c 6d]
+shaggrath666 is disconnected 
+Mahu2021: checks 
+shaggrath666 has returned
+glowacz: checks 
+*** TURN *** [2d 6c 6d] [2h]
+Mahu2021: checks 
+glowacz: bets 32
+Mahu2021: calls 32
+*** RIVER *** [2d 6c 6d 2h] [Jh]
+Mahu2021: checks 
+glowacz: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [9h Td] (two pair, Sixes and Deuces)
+glowacz: shows [As 9s] (two pair, Sixes and Deuces - Ace kicker)
+glowacz collected 154 from pot
+*** SUMMARY ***
+Total pot 154 | Rake 0 
+Board [2d 6c 6d 2h Jh]
+Seat 1: Mahu2021 (big blind) showed [9h Td] and lost with two pair, Sixes and Deuces
+Seat 2: glowacz (button) showed [As 9s] and won (154) with two pair, Sixes and Deuces
+Seat 3: shaggrath666 (small blind) folded before Flop
+
+
+
+PokerStars Hand #248075479198: Tournament #3696395835, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/05 11:57:12 CET [2024/01/05 5:57:12 ET]
+Table '3696395835 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (378 in chips) 
+Seat 2: glowacz (682 in chips) 
+Seat 3: shaggrath666 (440 in chips) 
+Mahu2021: posts small blind 10
+glowacz: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Th 5h]
+shaggrath666 has timed out
+shaggrath666: folds 
+shaggrath666 is sitting out
+Mahu2021: folds 
+Uncalled bet (10) returned to glowacz
+glowacz collected 20 from pot
+glowacz: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: glowacz (big blind) collected (20)
+Seat 3: shaggrath666 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #248075481228: Tournament #3696395835, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/05 11:57:28 CET [2024/01/05 5:57:28 ET]
+Table '3696395835 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (368 in chips) 
+Seat 2: glowacz (692 in chips) 
+Seat 3: shaggrath666 (440 in chips) is sitting out
+glowacz: posts small blind 10
+shaggrath666: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h Jc]
+Mahu2021: folds 
+glowacz: folds 
+Uncalled bet (10) returned to shaggrath666
+shaggrath666 collected 20 from pot
+shaggrath666: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: glowacz (small blind) folded before Flop
+Seat 3: shaggrath666 (big blind) collected (20)
+
+
+
+PokerStars Hand #248075482429: Tournament #3696395835, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/05 11:57:37 CET [2024/01/05 5:57:37 ET]
+Table '3696395835 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (368 in chips) 
+Seat 2: glowacz (682 in chips) 
+Seat 3: shaggrath666 (450 in chips) is sitting out
+shaggrath666: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah 4s]
+glowacz: folds 
+shaggrath666: folds 
+Uncalled bet (10) returned to Mahu2021
+Mahu2021 collected 20 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (20)
+Seat 2: glowacz (button) folded before Flop (didn't bet)
+Seat 3: shaggrath666 (small blind) folded before Flop
+
+
+
+PokerStars Hand #248075482970: Tournament #3696395835, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/05 11:57:42 CET [2024/01/05 5:57:42 ET]
+Table '3696395835 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (378 in chips) 
+Seat 2: glowacz (682 in chips) 
+Seat 3: shaggrath666 (440 in chips) is sitting out
+Mahu2021: posts small blind 10
+glowacz: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h Th]
+shaggrath666: folds 
+Mahu2021: raises 20 to 40
+shaggrath666 has returned
+glowacz: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (small blind) collected (40)
+Seat 2: glowacz (big blind) folded before Flop
+Seat 3: shaggrath666 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #248075484036: Tournament #3696395835, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/05 11:57:50 CET [2024/01/05 5:57:50 ET]
+Table '3696395835 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (398 in chips) 
+Seat 2: glowacz (662 in chips) 
+Seat 3: shaggrath666 (440 in chips) 
+glowacz: posts small blind 10
+shaggrath666: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd 3d]
+Mahu2021: folds 
+glowacz: raises 20 to 40
+shaggrath666: folds 
+Uncalled bet (20) returned to glowacz
+glowacz collected 40 from pot
+glowacz: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: glowacz (small blind) collected (40)
+Seat 3: shaggrath666 (big blind) folded before Flop
+
+
+
+PokerStars Hand #248075485384: Tournament #3696395835, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/05 11:58:00 CET [2024/01/05 5:58:00 ET]
+Table '3696395835 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (398 in chips) 
+Seat 2: glowacz (682 in chips) 
+Seat 3: shaggrath666 (420 in chips) 
+shaggrath666: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac Jc]
+glowacz: folds 
+shaggrath666: folds 
+Uncalled bet (10) returned to Mahu2021
+Mahu2021 collected 20 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (20)
+Seat 2: glowacz (button) folded before Flop (didn't bet)
+Seat 3: shaggrath666 (small blind) folded before Flop
+
+
+
+PokerStars Hand #248075485960: Tournament #3696395835, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/05 11:58:05 CET [2024/01/05 5:58:05 ET]
+Table '3696395835 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (408 in chips) 
+Seat 2: glowacz (682 in chips) 
+Seat 3: shaggrath666 (410 in chips) 
+Mahu2021: posts small blind 10
+glowacz: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4c Ts]
+shaggrath666: folds 
+Mahu2021: folds 
+Uncalled bet (10) returned to glowacz
+glowacz collected 20 from pot
+glowacz: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: glowacz (big blind) collected (20)
+Seat 3: shaggrath666 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #248075486823: Tournament #3696395835, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/05 11:58:12 CET [2024/01/05 5:58:12 ET]
+Table '3696395835 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (398 in chips) 
+Seat 2: glowacz (692 in chips) 
+Seat 3: shaggrath666 (410 in chips) 
+glowacz: posts small blind 10
+shaggrath666: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3c Qc]
+Mahu2021: calls 20
+glowacz: calls 10
+shaggrath666: checks 
+*** FLOP *** [3h 9c Qh]
+glowacz: checks 
+shaggrath666: bets 40
+Mahu2021: calls 40
+glowacz: folds 
+*** TURN *** [3h 9c Qh] [8c]
+shaggrath666: bets 80
+Mahu2021: calls 80
+*** RIVER *** [3h 9c Qh 8c] [9d]
+shaggrath666: bets 130
+Mahu2021: calls 130
+*** SHOW DOWN ***
+shaggrath666: shows [Td Jc] (a straight, Eight to Queen)
+Mahu2021: mucks hand 
+shaggrath666 collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | Rake 0 
+Board [3h 9c Qh 8c 9d]
+Seat 1: Mahu2021 (button) mucked [3c Qc]
+Seat 2: glowacz (small blind) folded on the Flop
+Seat 3: shaggrath666 (big blind) showed [Td Jc] and won (560) with a straight, Eight to Queen
+
+
+
+PokerStars Hand #248075492732: Tournament #3696395835, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/05 11:58:58 CET [2024/01/05 5:58:58 ET]
+Table '3696395835 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (128 in chips) 
+Seat 2: glowacz (672 in chips) 
+Seat 3: shaggrath666 (700 in chips) 
+shaggrath666: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad 4s]
+glowacz: folds 
+shaggrath666: folds 
+Uncalled bet (10) returned to Mahu2021
+Mahu2021 collected 20 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (20)
+Seat 2: glowacz (button) folded before Flop (didn't bet)
+Seat 3: shaggrath666 (small blind) folded before Flop
+
+
+
+PokerStars Hand #248075494431: Tournament #3696395835, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/05 11:59:10 CET [2024/01/05 5:59:10 ET]
+Table '3696395835 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (138 in chips) 
+Seat 2: glowacz (672 in chips) 
+Seat 3: shaggrath666 (690 in chips) 
+Mahu2021: posts small blind 10
+glowacz: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s Js]
+shaggrath666: raises 20 to 40
+Mahu2021: calls 30
+glowacz: calls 20
+*** FLOP *** [7d 9d 4c]
+Mahu2021: checks 
+glowacz: bets 120
+shaggrath666: calls 120
+Mahu2021: folds 
+*** TURN *** [7d 9d 4c] [8s]
+glowacz: bets 512 and is all-in
+shaggrath666: folds 
+Uncalled bet (512) returned to glowacz
+glowacz collected 360 from pot
+glowacz: doesn't show hand 
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [7d 9d 4c 8s]
+Seat 1: Mahu2021 (small blind) folded on the Flop
+Seat 2: glowacz (big blind) collected (360)
+Seat 3: shaggrath666 (button) folded on the Turn
+
+
+
+PokerStars Hand #248075499252: Tournament #3696395835, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/01/05 11:59:48 CET [2024/01/05 5:59:48 ET]
+Table '3696395835 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (98 in chips) 
+Seat 2: glowacz (872 in chips) 
+Seat 3: shaggrath666 (530 in chips) 
+glowacz: posts small blind 15
+shaggrath666: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d Ad]
+Mahu2021: raises 68 to 98 and is all-in
+glowacz: folds 
+shaggrath666: calls 68
+*** FLOP *** [8s Js Kc]
+*** TURN *** [8s Js Kc] [Th]
+*** RIVER *** [8s Js Kc Th] [Ac]
+*** SHOW DOWN ***
+shaggrath666: shows [7c 6c] (high card Ace)
+Mahu2021: shows [9d Ad] (a pair of Aces)
+Mahu2021 collected 211 from pot
+*** SUMMARY ***
+Total pot 211 | Rake 0 
+Board [8s Js Kc Th Ac]
+Seat 1: Mahu2021 (button) showed [9d Ad] and won (211) with a pair of Aces
+Seat 2: glowacz (small blind) folded before Flop
+Seat 3: shaggrath666 (big blind) showed [7c 6c] and lost with high card Ace
+
+
+
+PokerStars Hand #248075501326: Tournament #3696395835, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/01/05 12:00:04 CET [2024/01/05 6:00:04 ET]
+Table '3696395835 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (211 in chips) 
+Seat 2: glowacz (857 in chips) 
+Seat 3: shaggrath666 (432 in chips) 
+shaggrath666: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Tc Jh]
+glowacz: raises 30 to 60
+shaggrath666: folds 
+Mahu2021: calls 30
+*** FLOP *** [Ac Qh 7d]
+Mahu2021: checks 
+glowacz: bets 48
+Mahu2021: calls 48
+*** TURN *** [Ac Qh 7d] [2d]
+Mahu2021: checks 
+glowacz: bets 749 and is all-in
+Mahu2021: folds 
+Uncalled bet (749) returned to glowacz
+glowacz collected 231 from pot
+glowacz: doesn't show hand 
+*** SUMMARY ***
+Total pot 231 | Rake 0 
+Board [Ac Qh 7d 2d]
+Seat 1: Mahu2021 (big blind) folded on the Turn
+Seat 2: glowacz (button) collected (231)
+Seat 3: shaggrath666 (small blind) folded before Flop
+
+
+
+PokerStars Hand #248075504028: Tournament #3696395835, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/01/05 12:00:25 CET [2024/01/05 6:00:25 ET]
+Table '3696395835 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (103 in chips) 
+Seat 2: glowacz (980 in chips) 
+Seat 3: shaggrath666 (417 in chips) 
+Mahu2021: posts small blind 15
+glowacz: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4c Ad]
+shaggrath666: folds 
+Mahu2021: raises 73 to 103 and is all-in
+glowacz: calls 73
+*** FLOP *** [Qs Tc 3h]
+*** TURN *** [Qs Tc 3h] [9h]
+*** RIVER *** [Qs Tc 3h 9h] [8h]
+*** SHOW DOWN ***
+Mahu2021: shows [4c Ad] (high card Ace)
+glowacz: shows [5c Kd] (high card King)
+Mahu2021 collected 206 from pot
+*** SUMMARY ***
+Total pot 206 | Rake 0 
+Board [Qs Tc 3h 9h 8h]
+Seat 1: Mahu2021 (small blind) showed [4c Ad] and won (206) with high card Ace
+Seat 2: glowacz (big blind) showed [5c Kd] and lost with high card King
+Seat 3: shaggrath666 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #248075505996: Tournament #3696395835, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/01/05 12:00:40 CET [2024/01/05 6:00:40 ET]
+Table '3696395835 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (206 in chips) 
+Seat 2: glowacz (877 in chips) 
+Seat 3: shaggrath666 (417 in chips) 
+glowacz: posts small blind 15
+shaggrath666: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh 5d]
+Mahu2021: folds 
+glowacz: raises 30 to 60
+shaggrath666: folds 
+Uncalled bet (30) returned to glowacz
+glowacz collected 60 from pot
+glowacz: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: glowacz (small blind) collected (60)
+Seat 3: shaggrath666 (big blind) folded before Flop
+
+
+
+PokerStars Hand #248075506935: Tournament #3696395835, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/01/05 12:00:47 CET [2024/01/05 6:00:47 ET]
+Table '3696395835 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (206 in chips) 
+Seat 2: glowacz (907 in chips) 
+Seat 3: shaggrath666 (387 in chips) 
+shaggrath666: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4d Tc]
+glowacz: folds 
+shaggrath666: raises 30 to 60
+Mahu2021: folds 
+Uncalled bet (30) returned to shaggrath666
+shaggrath666 collected 60 from pot
+shaggrath666: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: glowacz (button) folded before Flop (didn't bet)
+Seat 3: shaggrath666 (small blind) collected (60)
+
+
+
+PokerStars Hand #248075507759: Tournament #3696395835, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/01/05 12:00:53 CET [2024/01/05 6:00:53 ET]
+Table '3696395835 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (176 in chips) 
+Seat 2: glowacz (907 in chips) 
+Seat 3: shaggrath666 (417 in chips) 
+Mahu2021: posts small blind 15
+glowacz: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks 9d]
+shaggrath666: folds 
+Mahu2021: raises 146 to 176 and is all-in
+glowacz: calls 146
+*** FLOP *** [Kc 8s 5d]
+*** TURN *** [Kc 8s 5d] [Tc]
+*** RIVER *** [Kc 8s 5d Tc] [Qd]
+*** SHOW DOWN ***
+Mahu2021: shows [Ks 9d] (a pair of Kings)
+glowacz: shows [4s Kd] (a pair of Kings - lower kicker)
+Mahu2021 collected 352 from pot
+*** SUMMARY ***
+Total pot 352 | Rake 0 
+Board [Kc 8s 5d Tc Qd]
+Seat 1: Mahu2021 (small blind) showed [Ks 9d] and won (352) with a pair of Kings
+Seat 2: glowacz (big blind) showed [4s Kd] and lost with a pair of Kings
+Seat 3: shaggrath666 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #248075510270: Tournament #3696395835, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/01/05 12:01:11 CET [2024/01/05 6:01:11 ET]
+Table '3696395835 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (352 in chips) 
+Seat 2: glowacz (731 in chips) 
+Seat 3: shaggrath666 (417 in chips) 
+glowacz: posts small blind 15
+shaggrath666: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js Ks]
+Mahu2021: raises 30 to 60
+glowacz: folds 
+shaggrath666: raises 357 to 417 and is all-in
+Mahu2021: calls 292 and is all-in
+Uncalled bet (65) returned to shaggrath666
+*** FLOP *** [Ts 7d Ac]
+*** TURN *** [Ts 7d Ac] [Kh]
+*** RIVER *** [Ts 7d Ac Kh] [4c]
+*** SHOW DOWN ***
+shaggrath666: shows [5d Ad] (a pair of Aces)
+Mahu2021: shows [Js Ks] (a pair of Kings)
+shaggrath666 collected 719 from pot
+Mahu2021 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 719 | Rake 0 
+Board [Ts 7d Ac Kh 4c]
+Seat 1: Mahu2021 (button) showed [Js Ks] and lost with a pair of Kings
+Seat 2: glowacz (small blind) folded before Flop
+Seat 3: shaggrath666 (big blind) showed [5d Ad] and won (719) with a pair of Aces
+
+
+

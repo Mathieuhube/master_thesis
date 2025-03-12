@@ -1,0 +1,374 @@
+﻿PokerStars Hand #252871977160: Tournament #3810683680, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/11 13:58:50 CET [2024/10/11 7:58:50 ET]
+Table '3810683680 1' 3-max Seat #1 is the button
+Seat 1: osmairbrazil (500 in chips) 
+Seat 2: bini1985 (500 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+bini1985: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s Ts]
+osmairbrazil: folds 
+bini1985: raises 30 to 50
+Mahu2021: folds 
+Uncalled bet (30) returned to bini1985
+bini1985 collected 40 from pot
+bini1985: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: osmairbrazil (button) folded before Flop (didn't bet)
+Seat 2: bini1985 (small blind) collected (40)
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #252871978567: Tournament #3810683680, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/11 13:59:01 CET [2024/10/11 7:59:01 ET]
+Table '3810683680 1' 3-max Seat #2 is the button
+Seat 1: osmairbrazil (500 in chips) 
+Seat 2: bini1985 (520 in chips) 
+Seat 3: Mahu2021 (480 in chips) 
+Mahu2021: posts small blind 10
+osmairbrazil: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad 9c]
+bini1985: raises 30 to 50
+Mahu2021: calls 40
+osmairbrazil: calls 30
+*** FLOP *** [Qd 9s 8h]
+Mahu2021: checks 
+osmairbrazil: checks 
+bini1985: bets 50
+Mahu2021: calls 50
+osmairbrazil: calls 50
+*** TURN *** [Qd 9s 8h] [Td]
+Mahu2021: checks 
+osmairbrazil: checks 
+bini1985: bets 59
+Mahu2021: folds 
+osmairbrazil: calls 59
+*** RIVER *** [Qd 9s 8h Td] [5c]
+osmairbrazil: checks 
+bini1985: bets 160
+osmairbrazil: folds 
+Uncalled bet (160) returned to bini1985
+bini1985 collected 418 from pot
+bini1985: doesn't show hand 
+*** SUMMARY ***
+Total pot 418 | Rake 0 
+Board [Qd 9s 8h Td 5c]
+Seat 1: osmairbrazil (big blind) folded on the River
+Seat 2: bini1985 (button) collected (418)
+Seat 3: Mahu2021 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #252871985244: Tournament #3810683680, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/11 13:59:55 CET [2024/10/11 7:59:55 ET]
+Table '3810683680 1' 3-max Seat #3 is the button
+Seat 1: osmairbrazil (341 in chips) 
+Seat 2: bini1985 (779 in chips) 
+Seat 3: Mahu2021 (380 in chips) 
+osmairbrazil: posts small blind 10
+bini1985: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd 2d]
+Mahu2021: calls 20
+osmairbrazil: calls 10
+bini1985: checks 
+*** FLOP *** [Jc Ks As]
+osmairbrazil: checks 
+bini1985: checks 
+Mahu2021: bets 60
+osmairbrazil: folds 
+bini1985: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Jc Ks As]
+Seat 1: osmairbrazil (small blind) folded on the Flop
+Seat 2: bini1985 (big blind) folded on the Flop
+Seat 3: Mahu2021 (button) collected (60)
+
+
+
+PokerStars Hand #252871988047: Tournament #3810683680, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/11 14:00:18 CET [2024/10/11 8:00:18 ET]
+Table '3810683680 1' 3-max Seat #1 is the button
+Seat 1: osmairbrazil (321 in chips) 
+Seat 2: bini1985 (759 in chips) 
+Seat 3: Mahu2021 (420 in chips) 
+bini1985: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qd Td]
+osmairbrazil: raises 20 to 40
+bini1985: folds 
+Mahu2021: calls 20
+*** FLOP *** [5d Qh Tc]
+Mahu2021: checks 
+osmairbrazil: bets 90
+Mahu2021: calls 90
+*** TURN *** [5d Qh Tc] [Qs]
+Mahu2021: checks 
+osmairbrazil: bets 40
+Mahu2021: calls 40
+*** RIVER *** [5d Qh Tc Qs] [Jd]
+Mahu2021: bets 20
+osmairbrazil: raises 131 to 151 and is all-in
+Mahu2021: calls 131
+*** SHOW DOWN ***
+osmairbrazil: shows [Qc 8s] (three of a kind, Queens)
+Mahu2021: shows [Qd Td] (a full house, Queens full of Tens)
+Mahu2021 collected 652 from pot
+osmairbrazil finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 652 | Rake 0 
+Board [5d Qh Tc Qs Jd]
+Seat 1: osmairbrazil (button) showed [Qc 8s] and lost with three of a kind, Queens
+Seat 2: bini1985 (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) showed [Qd Td] and won (652) with a full house, Queens full of Tens
+
+
+
+PokerStars Hand #252871992114: Tournament #3810683680, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/11 14:00:48 CET [2024/10/11 8:00:48 ET]
+Table '3810683680 1' 3-max Seat #3 is the button
+Seat 2: bini1985 (749 in chips) 
+Seat 3: Mahu2021 (751 in chips) 
+Mahu2021: posts small blind 10
+bini1985: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d 4d]
+Mahu2021: calls 10
+bini1985: raises 30 to 50
+Mahu2021: calls 30
+*** FLOP *** [4s 9s 8h]
+bini1985: checks 
+Mahu2021: bets 40
+bini1985: calls 40
+*** TURN *** [4s 9s 8h] [Jh]
+bini1985: checks 
+Mahu2021: checks 
+*** RIVER *** [4s 9s 8h Jh] [Kd]
+bini1985: bets 90
+Mahu2021: folds 
+Uncalled bet (90) returned to bini1985
+bini1985 collected 180 from pot
+bini1985: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [4s 9s 8h Jh Kd]
+Seat 2: bini1985 (big blind) collected (180)
+Seat 3: Mahu2021 (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #252871997805: Tournament #3810683680, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/11 14:01:27 CET [2024/10/11 8:01:27 ET]
+Table '3810683680 1' 3-max Seat #2 is the button
+Seat 2: bini1985 (839 in chips) 
+Seat 3: Mahu2021 (661 in chips) 
+bini1985: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd Ah]
+bini1985: raises 30 to 60
+Mahu2021: raises 90 to 150
+bini1985: folds 
+Uncalled bet (90) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: bini1985 (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (120)
+
+
+
+PokerStars Hand #252871999389: Tournament #3810683680, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/11 14:01:38 CET [2024/10/11 8:01:38 ET]
+Table '3810683680 1' 3-max Seat #3 is the button
+Seat 2: bini1985 (779 in chips) 
+Seat 3: Mahu2021 (721 in chips) 
+Mahu2021: posts small blind 15
+bini1985: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d Ah]
+Mahu2021: raises 30 to 60
+bini1985: raises 90 to 150
+Mahu2021: calls 90
+*** FLOP *** [7h Js 6c]
+bini1985: checks 
+Mahu2021: checks 
+*** TURN *** [7h Js 6c] [Jc]
+bini1985: checks 
+Mahu2021: bets 150
+bini1985: calls 150
+*** RIVER *** [7h Js 6c Jc] [Qc]
+bini1985: checks 
+Mahu2021: bets 421 and is all-in
+bini1985: folds 
+Uncalled bet (421) returned to Mahu2021
+Mahu2021 collected 600 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 600 | Rake 0 
+Board [7h Js 6c Jc Qc]
+Seat 2: bini1985 (big blind) folded on the River
+Seat 3: Mahu2021 (button) (small blind) collected (600)
+
+
+
+PokerStars Hand #252872008144: Tournament #3810683680, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/11 14:02:36 CET [2024/10/11 8:02:36 ET]
+Table '3810683680 1' 3-max Seat #2 is the button
+Seat 2: bini1985 (479 in chips) 
+Seat 3: Mahu2021 (1021 in chips) 
+bini1985: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3c 5h]
+bini1985: raises 30 to 60
+Mahu2021: folds 
+Uncalled bet (30) returned to bini1985
+bini1985 collected 60 from pot
+bini1985: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: bini1985 (button) (small blind) collected (60)
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #252872009327: Tournament #3810683680, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/11 14:02:44 CET [2024/10/11 8:02:44 ET]
+Table '3810683680 1' 3-max Seat #3 is the button
+Seat 2: bini1985 (509 in chips) 
+Seat 3: Mahu2021 (991 in chips) 
+Mahu2021: posts small blind 15
+bini1985: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd 8h]
+Mahu2021: raises 30 to 60
+bini1985: calls 30
+*** FLOP *** [4h 2c 2h]
+bini1985: checks 
+Mahu2021: checks 
+*** TURN *** [4h 2c 2h] [Ks]
+bini1985: checks 
+Mahu2021: bets 120
+bini1985: folds 
+Uncalled bet (120) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [4h 2c 2h Ks]
+Seat 2: bini1985 (big blind) folded on the Turn
+Seat 3: Mahu2021 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #252872013494: Tournament #3810683680, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/10/11 14:03:11 CET [2024/10/11 8:03:11 ET]
+Table '3810683680 1' 3-max Seat #2 is the button
+Seat 2: bini1985 (449 in chips) 
+Seat 3: Mahu2021 (1051 in chips) 
+bini1985: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d 3s]
+bini1985: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: bini1985 (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (40)
+
+
+
+PokerStars Hand #252872014366: Tournament #3810683680, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/10/11 14:03:17 CET [2024/10/11 8:03:17 ET]
+Table '3810683680 1' 3-max Seat #3 is the button
+Seat 2: bini1985 (429 in chips) 
+Seat 3: Mahu2021 (1071 in chips) 
+Mahu2021: posts small blind 20
+bini1985: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d 4h]
+Mahu2021: folds 
+Uncalled bet (20) returned to bini1985
+bini1985 collected 40 from pot
+bini1985: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: bini1985 (big blind) collected (40)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #252872015086: Tournament #3810683680, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/10/11 14:03:22 CET [2024/10/11 8:03:22 ET]
+Table '3810683680 1' 3-max Seat #2 is the button
+Seat 2: bini1985 (449 in chips) 
+Seat 3: Mahu2021 (1051 in chips) 
+bini1985: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h 5c]
+bini1985: raises 60 to 100
+Mahu2021: folds 
+Uncalled bet (60) returned to bini1985
+bini1985 collected 80 from pot
+bini1985: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: bini1985 (button) (small blind) collected (80)
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #252872016587: Tournament #3810683680, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/10/11 14:03:32 CET [2024/10/11 8:03:32 ET]
+Table '3810683680 1' 3-max Seat #3 is the button
+Seat 2: bini1985 (489 in chips) 
+Seat 3: Mahu2021 (1011 in chips) 
+Mahu2021: posts small blind 20
+bini1985: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s 5d]
+Mahu2021: folds 
+Uncalled bet (20) returned to bini1985
+bini1985 collected 40 from pot
+bini1985: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: bini1985 (big blind) collected (40)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #252872017160: Tournament #3810683680, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/10/11 14:03:36 CET [2024/10/11 8:03:36 ET]
+Table '3810683680 1' 3-max Seat #2 is the button
+Seat 2: bini1985 (509 in chips) 
+Seat 3: Mahu2021 (991 in chips) 
+bini1985: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c 6c]
+bini1985: raises 40 to 80
+Mahu2021: calls 40
+*** FLOP *** [3c 8h Jc]
+Mahu2021: checks 
+bini1985: bets 53
+Mahu2021: raises 858 to 911 and is all-in
+bini1985: calls 376 and is all-in
+Uncalled bet (482) returned to Mahu2021
+*** TURN *** [3c 8h Jc] [4h]
+*** RIVER *** [3c 8h Jc 4h] [8c]
+*** SHOW DOWN ***
+Mahu2021: shows [7c 6c] (a flush, Jack high)
+bini1985: shows [Jd Qc] (two pair, Jacks and Eights)
+Mahu2021 collected 1018 from pot
+bini1985 finished the tournament in 2nd place
+Mahu2021 wins the tournament and receives $4.00 - congratulations!
+*** SUMMARY ***
+Total pot 1018 | Rake 0 
+Board [3c 8h Jc 4h 8c]
+Seat 2: bini1985 (button) (small blind) showed [Jd Qc] and lost with two pair, Jacks and Eights
+Seat 3: Mahu2021 (big blind) showed [7c 6c] and won (1018) with a flush, Jack high
+
+
+

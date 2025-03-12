@@ -1,0 +1,439 @@
+﻿PokerStars Hand #252893725976: Tournament #3811196131, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/12 20:28:38 CET [2024/10/12 14:28:38 ET]
+Table '3811196131 1' 3-max Seat #1 is the button
+Seat 1: killeveryons (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: CrazyBug0803 (500 in chips) 
+Mahu2021: posts small blind 10
+CrazyBug0803: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad 5h]
+killeveryons: raises 20 to 40
+Mahu2021: calls 30
+CrazyBug0803: folds 
+*** FLOP *** [9d Ah Js]
+Mahu2021: checks 
+killeveryons: bets 33
+Mahu2021: calls 33
+*** TURN *** [9d Ah Js] [2s]
+Mahu2021: checks 
+killeveryons: bets 90
+Mahu2021: calls 90
+*** RIVER *** [9d Ah Js 2s] [Jd]
+Mahu2021: checks 
+killeveryons: bets 52
+Mahu2021: calls 52
+*** SHOW DOWN ***
+killeveryons: shows [Qd Ts] (a pair of Jacks)
+Mahu2021: shows [Ad 5h] (two pair, Aces and Jacks)
+Mahu2021 collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | Rake 0 
+Board [9d Ah Js 2s Jd]
+Seat 1: killeveryons (button) showed [Qd Ts] and lost with a pair of Jacks
+Seat 2: Mahu2021 (small blind) showed [Ad 5h] and won (450) with two pair, Aces and Jacks
+Seat 3: CrazyBug0803 (big blind) folded before Flop
+
+
+
+PokerStars Hand #252893734866: Tournament #3811196131, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/12 20:29:09 CET [2024/10/12 14:29:09 ET]
+Table '3811196131 1' 3-max Seat #2 is the button
+Seat 1: killeveryons (285 in chips) 
+Seat 2: Mahu2021 (735 in chips) 
+Seat 3: CrazyBug0803 (480 in chips) 
+CrazyBug0803: posts small blind 10
+killeveryons: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qs 5d]
+Mahu2021: folds 
+CrazyBug0803: calls 10
+killeveryons: raises 265 to 285 and is all-in
+CrazyBug0803: calls 265
+*** FLOP *** [As Jc 9h]
+*** TURN *** [As Jc 9h] [4s]
+*** RIVER *** [As Jc 9h 4s] [Td]
+*** SHOW DOWN ***
+CrazyBug0803: shows [Qh 7d] (high card Ace)
+killeveryons: shows [Jh Ad] (two pair, Aces and Jacks)
+killeveryons collected 570 from pot
+*** SUMMARY ***
+Total pot 570 | Rake 0 
+Board [As Jc 9h 4s Td]
+Seat 1: killeveryons (big blind) showed [Jh Ad] and won (570) with two pair, Aces and Jacks
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: CrazyBug0803 (small blind) showed [Qh 7d] and lost with high card Ace
+
+
+
+PokerStars Hand #252893740397: Tournament #3811196131, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/12 20:29:29 CET [2024/10/12 14:29:29 ET]
+Table '3811196131 1' 3-max Seat #3 is the button
+Seat 1: killeveryons (570 in chips) 
+Seat 2: Mahu2021 (735 in chips) 
+Seat 3: CrazyBug0803 (195 in chips) 
+killeveryons: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad 5h]
+CrazyBug0803: calls 20
+killeveryons: calls 10
+Mahu2021: checks 
+*** FLOP *** [8s 4d 7s]
+killeveryons: checks 
+Mahu2021: checks 
+CrazyBug0803: checks 
+*** TURN *** [8s 4d 7s] [Qs]
+killeveryons: checks 
+Mahu2021: checks 
+CrazyBug0803: checks 
+*** RIVER *** [8s 4d 7s Qs] [9h]
+killeveryons: checks 
+Mahu2021: checks 
+CrazyBug0803: bets 175 and is all-in
+killeveryons: folds 
+Mahu2021: folds 
+Uncalled bet (175) returned to CrazyBug0803
+CrazyBug0803 collected 60 from pot
+CrazyBug0803: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [8s 4d 7s Qs 9h]
+Seat 1: killeveryons (small blind) folded on the River
+Seat 2: Mahu2021 (big blind) folded on the River
+Seat 3: CrazyBug0803 (button) collected (60)
+
+
+
+PokerStars Hand #252893754437: Tournament #3811196131, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/12 20:30:18 CET [2024/10/12 14:30:18 ET]
+Table '3811196131 1' 3-max Seat #1 is the button
+Seat 1: killeveryons (550 in chips) 
+Seat 2: Mahu2021 (715 in chips) 
+Seat 3: CrazyBug0803 (235 in chips) 
+Mahu2021: posts small blind 10
+CrazyBug0803: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h Ac]
+killeveryons: folds 
+Mahu2021: raises 20 to 40
+CrazyBug0803: calls 20
+*** FLOP *** [7d 4s 9h]
+Mahu2021: checks 
+CrazyBug0803: checks 
+*** TURN *** [7d 4s 9h] [6h]
+Mahu2021: checks 
+CrazyBug0803: checks 
+*** RIVER *** [7d 4s 9h 6h] [Kd]
+Mahu2021: checks 
+CrazyBug0803: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [3h Ac] (high card Ace)
+CrazyBug0803: mucks hand 
+Mahu2021 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [7d 4s 9h 6h Kd]
+Seat 1: killeveryons (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) showed [3h Ac] and won (80) with high card Ace
+Seat 3: CrazyBug0803 (big blind) mucked [Ts 2s]
+
+
+
+PokerStars Hand #252893761324: Tournament #3811196131, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/12 20:30:43 CET [2024/10/12 14:30:43 ET]
+Table '3811196131 1' 3-max Seat #2 is the button
+Seat 1: killeveryons (550 in chips) 
+Seat 2: Mahu2021 (755 in chips) 
+Seat 3: CrazyBug0803 (195 in chips) 
+CrazyBug0803: posts small blind 15
+killeveryons: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8d Kc]
+Mahu2021: folds 
+CrazyBug0803: calls 15
+killeveryons: raises 520 to 550 and is all-in
+CrazyBug0803: calls 165 and is all-in
+Uncalled bet (355) returned to killeveryons
+*** FLOP *** [3h 3d Js]
+*** TURN *** [3h 3d Js] [6h]
+*** RIVER *** [3h 3d Js 6h] [Jc]
+*** SHOW DOWN ***
+CrazyBug0803: shows [Th Qs] (two pair, Jacks and Threes)
+killeveryons: shows [7h 9h] (two pair, Jacks and Threes - lower kicker)
+CrazyBug0803 collected 390 from pot
+*** SUMMARY ***
+Total pot 390 | Rake 0 
+Board [3h 3d Js 6h Jc]
+Seat 1: killeveryons (big blind) showed [7h 9h] and lost with two pair, Jacks and Threes
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: CrazyBug0803 (small blind) showed [Th Qs] and won (390) with two pair, Jacks and Threes
+
+
+
+PokerStars Hand #252893766350: Tournament #3811196131, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/12 20:31:00 CET [2024/10/12 14:31:00 ET]
+Table '3811196131 1' 3-max Seat #3 is the button
+Seat 1: killeveryons (355 in chips) 
+Seat 2: Mahu2021 (755 in chips) 
+Seat 3: CrazyBug0803 (390 in chips) 
+killeveryons: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d Th]
+CrazyBug0803: calls 30
+killeveryons: calls 15
+Mahu2021: checks 
+*** FLOP *** [6s 8d Ts]
+killeveryons: bets 68
+Mahu2021: folds 
+CrazyBug0803: folds 
+Uncalled bet (68) returned to killeveryons
+killeveryons collected 90 from pot
+killeveryons: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [6s 8d Ts]
+Seat 1: killeveryons (small blind) collected (90)
+Seat 2: Mahu2021 (big blind) folded on the Flop
+Seat 3: CrazyBug0803 (button) folded on the Flop
+
+
+
+PokerStars Hand #252893775034: Tournament #3811196131, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/12 20:31:31 CET [2024/10/12 14:31:31 ET]
+Table '3811196131 1' 3-max Seat #1 is the button
+Seat 1: killeveryons (415 in chips) 
+Seat 2: Mahu2021 (725 in chips) 
+Seat 3: CrazyBug0803 (360 in chips) 
+Mahu2021: posts small blind 15
+CrazyBug0803: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s 3s]
+killeveryons: folds 
+Mahu2021: calls 15
+CrazyBug0803: checks 
+*** FLOP *** [7c Kc Ks]
+Mahu2021: checks 
+CrazyBug0803: checks 
+*** TURN *** [7c Kc Ks] [2s]
+Mahu2021: bets 60
+CrazyBug0803: calls 60
+*** RIVER *** [7c Kc Ks 2s] [Jc]
+Mahu2021: checks 
+CrazyBug0803: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [4s 3s] (a pair of Kings)
+CrazyBug0803: shows [Td 2h] (two pair, Kings and Deuces)
+CrazyBug0803 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [7c Kc Ks 2s Jc]
+Seat 1: killeveryons (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) showed [4s 3s] and lost with a pair of Kings
+Seat 3: CrazyBug0803 (big blind) showed [Td 2h] and won (180) with two pair, Kings and Deuces
+
+
+
+PokerStars Hand #252893787255: Tournament #3811196131, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/12 20:32:14 CET [2024/10/12 14:32:14 ET]
+Table '3811196131 1' 3-max Seat #2 is the button
+Seat 1: killeveryons (415 in chips) 
+Seat 2: Mahu2021 (635 in chips) 
+Seat 3: CrazyBug0803 (450 in chips) 
+CrazyBug0803: posts small blind 15
+killeveryons: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2s Qc]
+Mahu2021: folds 
+CrazyBug0803: calls 15
+killeveryons: checks 
+*** FLOP *** [4c Td Th]
+CrazyBug0803: checks 
+killeveryons: checks 
+*** TURN *** [4c Td Th] [8h]
+CrazyBug0803: checks 
+killeveryons: bets 30
+CrazyBug0803: calls 30
+*** RIVER *** [4c Td Th 8h] [4d]
+CrazyBug0803: checks 
+killeveryons: bets 120
+CrazyBug0803: folds 
+Uncalled bet (120) returned to killeveryons
+killeveryons collected 120 from pot
+killeveryons: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [4c Td Th 8h 4d]
+Seat 1: killeveryons (big blind) collected (120)
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: CrazyBug0803 (small blind) folded on the River
+
+
+
+PokerStars Hand #252893798434: Tournament #3811196131, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/10/12 20:32:54 CET [2024/10/12 14:32:54 ET]
+Table '3811196131 1' 3-max Seat #3 is the button
+Seat 1: killeveryons (475 in chips) 
+Seat 2: Mahu2021 (635 in chips) 
+Seat 3: CrazyBug0803 (390 in chips) 
+killeveryons: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s Qh]
+CrazyBug0803: calls 40
+killeveryons: raises 435 to 475 and is all-in
+Mahu2021: folds 
+CrazyBug0803: calls 350 and is all-in
+Uncalled bet (85) returned to killeveryons
+*** FLOP *** [8c Ks 6c]
+*** TURN *** [8c Ks 6c] [5h]
+*** RIVER *** [8c Ks 6c 5h] [7h]
+*** SHOW DOWN ***
+killeveryons: shows [5d As] (a pair of Fives)
+CrazyBug0803: shows [Kd 2d] (a pair of Kings)
+CrazyBug0803 collected 820 from pot
+*** SUMMARY ***
+Total pot 820 | Rake 0 
+Board [8c Ks 6c 5h 7h]
+Seat 1: killeveryons (small blind) showed [5d As] and lost with a pair of Fives
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: CrazyBug0803 (button) showed [Kd 2d] and won (820) with a pair of Kings
+
+
+
+PokerStars Hand #252893804296: Tournament #3811196131, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/10/12 20:33:14 CET [2024/10/12 14:33:14 ET]
+Table '3811196131 1' 3-max Seat #1 is the button
+Seat 1: killeveryons (85 in chips) 
+Seat 2: Mahu2021 (595 in chips) 
+Seat 3: CrazyBug0803 (820 in chips) 
+Mahu2021: posts small blind 20
+CrazyBug0803: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qd 7c]
+killeveryons: folds 
+Mahu2021: raises 40 to 80
+CrazyBug0803: calls 40
+*** FLOP *** [3s Kc 5h]
+Mahu2021: checks 
+CrazyBug0803: checks 
+*** TURN *** [3s Kc 5h] [2d]
+Mahu2021: bets 80
+CrazyBug0803: calls 80
+*** RIVER *** [3s Kc 5h 2d] [4d]
+Mahu2021: checks 
+CrazyBug0803: bets 80
+Mahu2021: folds 
+Uncalled bet (80) returned to CrazyBug0803
+CrazyBug0803 collected 320 from pot
+CrazyBug0803: doesn't show hand 
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [3s Kc 5h 2d 4d]
+Seat 1: killeveryons (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) folded on the River
+Seat 3: CrazyBug0803 (big blind) collected (320)
+
+
+
+PokerStars Hand #252893810343: Tournament #3811196131, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/10/12 20:33:36 CET [2024/10/12 14:33:36 ET]
+Table '3811196131 1' 3-max Seat #2 is the button
+Seat 1: killeveryons (85 in chips) 
+Seat 2: Mahu2021 (435 in chips) 
+Seat 3: CrazyBug0803 (980 in chips) 
+CrazyBug0803: posts small blind 20
+killeveryons: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah 5c]
+Mahu2021: raises 40 to 80
+CrazyBug0803: folds 
+killeveryons: raises 5 to 85 and is all-in
+Mahu2021: calls 5
+*** FLOP *** [9s 8s Qc]
+*** TURN *** [9s 8s Qc] [3s]
+*** RIVER *** [9s 8s Qc 3s] [3c]
+*** SHOW DOWN ***
+killeveryons: shows [Td Kd] (a pair of Threes)
+Mahu2021: shows [Ah 5c] (a pair of Threes - Ace kicker)
+Mahu2021 collected 190 from pot
+killeveryons finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 190 | Rake 0 
+Board [9s 8s Qc 3s 3c]
+Seat 1: killeveryons (big blind) showed [Td Kd] and lost with a pair of Threes
+Seat 2: Mahu2021 (button) showed [Ah 5c] and won (190) with a pair of Threes
+Seat 3: CrazyBug0803 (small blind) folded before Flop
+
+
+
+PokerStars Hand #252893815635: Tournament #3811196131, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/10/12 20:33:55 CET [2024/10/12 14:33:55 ET]
+Table '3811196131 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (540 in chips) 
+Seat 3: CrazyBug0803 (960 in chips) 
+CrazyBug0803: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s 8s]
+CrazyBug0803: calls 20
+Mahu2021: checks 
+*** FLOP *** [Td 4d 5h]
+Mahu2021: checks 
+CrazyBug0803: checks 
+*** TURN *** [Td 4d 5h] [Kd]
+Mahu2021: checks 
+CrazyBug0803: checks 
+*** RIVER *** [Td 4d 5h Kd] [Ac]
+Mahu2021: checks 
+CrazyBug0803: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [4s 8s] (a pair of Fours)
+CrazyBug0803: shows [2c 5c] (a pair of Fives)
+CrazyBug0803 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Td 4d 5h Kd Ac]
+Seat 2: Mahu2021 (big blind) showed [4s 8s] and lost with a pair of Fours
+Seat 3: CrazyBug0803 (button) (small blind) showed [2c 5c] and won (80) with a pair of Fives
+
+
+
+PokerStars Hand #252893819364: Tournament #3811196131, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/10/12 20:34:08 CET [2024/10/12 14:34:08 ET]
+Table '3811196131 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: CrazyBug0803 (1000 in chips) 
+Mahu2021: posts small blind 20
+CrazyBug0803: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h 4s]
+Mahu2021: folds 
+Uncalled bet (20) returned to CrazyBug0803
+CrazyBug0803 collected 40 from pot
+CrazyBug0803: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: CrazyBug0803 (big blind) collected (40)
+
+
+
+PokerStars Hand #252893820580: Tournament #3811196131, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/10/12 20:34:12 CET [2024/10/12 14:34:12 ET]
+Table '3811196131 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (480 in chips) 
+Seat 3: CrazyBug0803 (1020 in chips) 
+CrazyBug0803: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js Qh]
+CrazyBug0803: calls 20
+Mahu2021: raises 120 to 160
+CrazyBug0803: calls 120
+*** FLOP *** [3d Kc Td]
+Mahu2021: bets 320 and is all-in
+CrazyBug0803: calls 320
+*** TURN *** [3d Kc Td] [3s]
+*** RIVER *** [3d Kc Td 3s] [5s]
+*** SHOW DOWN ***
+Mahu2021: shows [Js Qh] (a pair of Threes)
+CrazyBug0803: shows [Jh Kd] (two pair, Kings and Threes)
+CrazyBug0803 collected 960 from pot
+Mahu2021 finished the tournament in 2nd place
+CrazyBug0803 wins the tournament and receives $4.00 - congratulations!
+*** SUMMARY ***
+Total pot 960 | Rake 0 
+Board [3d Kc Td 3s 5s]
+Seat 2: Mahu2021 (big blind) showed [Js Qh] and lost with a pair of Threes
+Seat 3: CrazyBug0803 (button) (small blind) showed [Jh Kd] and won (960) with two pair, Kings and Threes
+
+
+

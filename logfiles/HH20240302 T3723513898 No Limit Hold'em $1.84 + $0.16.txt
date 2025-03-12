@@ -1,0 +1,473 @@
+﻿PokerStars Hand #249191928027: Tournament #3723513898, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/03/02 12:38:59 CET [2024/03/02 6:38:59 ET]
+Table '3723513898 1' 3-max Seat #1 is the button
+Seat 1: keberr (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: Berezka.ua (500 in chips) 
+Mahu2021: posts small blind 10
+Berezka.ua: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s Th]
+keberr: calls 20
+Mahu2021: calls 10
+Berezka.ua: raises 480 to 500 and is all-in
+keberr: folds 
+Mahu2021: folds 
+Uncalled bet (480) returned to Berezka.ua
+Berezka.ua collected 60 from pot
+Berezka.ua: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: keberr (button) folded before Flop
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: Berezka.ua (big blind) collected (60)
+
+
+
+PokerStars Hand #249191930701: Tournament #3723513898, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/03/02 12:39:16 CET [2024/03/02 6:39:16 ET]
+Table '3723513898 1' 3-max Seat #2 is the button
+Seat 1: keberr (480 in chips) 
+Seat 2: Mahu2021 (480 in chips) 
+Seat 3: Berezka.ua (540 in chips) 
+Berezka.ua: posts small blind 10
+keberr: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8c 4d]
+Mahu2021: folds 
+Berezka.ua: raises 40 to 60
+keberr: calls 40
+*** FLOP *** [Ad Qc 3s]
+Berezka.ua: bets 60
+keberr: calls 60
+*** TURN *** [Ad Qc 3s] [8h]
+Berezka.ua: bets 120
+keberr: raises 240 to 360 and is all-in
+Berezka.ua: calls 240
+*** RIVER *** [Ad Qc 3s 8h] [Jd]
+*** SHOW DOWN ***
+Berezka.ua: shows [Ah 9d] (a pair of Aces)
+keberr: shows [Qd Jh] (two pair, Queens and Jacks)
+keberr collected 960 from pot
+*** SUMMARY ***
+Total pot 960 | Rake 0 
+Board [Ad Qc 3s 8h Jd]
+Seat 1: keberr (big blind) showed [Qd Jh] and won (960) with two pair, Queens and Jacks
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: Berezka.ua (small blind) showed [Ah 9d] and lost with a pair of Aces
+
+
+
+PokerStars Hand #249191935281: Tournament #3723513898, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/03/02 12:39:44 CET [2024/03/02 6:39:44 ET]
+Table '3723513898 1' 3-max Seat #3 is the button
+Seat 1: keberr (960 in chips) 
+Seat 2: Mahu2021 (480 in chips) 
+Seat 3: Berezka.ua (60 in chips) 
+keberr: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2c Ac]
+Berezka.ua: raises 40 to 60 and is all-in
+keberr: calls 50
+Mahu2021: calls 40
+*** FLOP *** [8c 2s 9s]
+keberr: checks 
+Mahu2021: checks 
+*** TURN *** [8c 2s 9s] [3d]
+keberr: checks 
+Mahu2021: checks 
+*** RIVER *** [8c 2s 9s 3d] [6h]
+keberr: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+keberr: shows [Jd 5s] (high card Jack)
+Mahu2021: shows [2c Ac] (a pair of Deuces)
+Berezka.ua: shows [7s 7c] (a pair of Sevens)
+Berezka.ua collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [8c 2s 9s 3d 6h]
+Seat 1: keberr (small blind) showed [Jd 5s] and lost with high card Jack
+Seat 2: Mahu2021 (big blind) showed [2c Ac] and lost with a pair of Deuces
+Seat 3: Berezka.ua (button) showed [7s 7c] and won (180) with a pair of Sevens
+
+
+
+PokerStars Hand #249191938204: Tournament #3723513898, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/03/02 12:40:02 CET [2024/03/02 6:40:02 ET]
+Table '3723513898 1' 3-max Seat #1 is the button
+Seat 1: keberr (900 in chips) 
+Seat 2: Mahu2021 (420 in chips) 
+Seat 3: Berezka.ua (180 in chips) 
+Mahu2021: posts small blind 10
+Berezka.ua: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4d Ah]
+keberr: calls 20
+Mahu2021: folds 
+Berezka.ua: checks 
+*** FLOP *** [Ts 9d 3c]
+Berezka.ua: checks 
+keberr: checks 
+*** TURN *** [Ts 9d 3c] [2c]
+Berezka.ua: bets 20
+keberr: folds 
+Uncalled bet (20) returned to Berezka.ua
+Berezka.ua collected 50 from pot
+Berezka.ua: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [Ts 9d 3c 2c]
+Seat 1: keberr (button) folded on the Turn
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: Berezka.ua (big blind) collected (50)
+
+
+
+PokerStars Hand #249191940509: Tournament #3723513898, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/03/02 12:40:15 CET [2024/03/02 6:40:15 ET]
+Table '3723513898 1' 3-max Seat #2 is the button
+Seat 1: keberr (880 in chips) 
+Seat 2: Mahu2021 (410 in chips) 
+Seat 3: Berezka.ua (210 in chips) 
+Berezka.ua: posts small blind 10
+keberr: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As 9h]
+Mahu2021: raises 20 to 40
+Berezka.ua: folds 
+keberr: calls 20
+*** FLOP *** [Ac Tc 5d]
+keberr: checks 
+Mahu2021: bets 40
+keberr: calls 40
+*** TURN *** [Ac Tc 5d] [2s]
+keberr: checks 
+Mahu2021: bets 40
+keberr: calls 40
+*** RIVER *** [Ac Tc 5d 2s] [5h]
+keberr: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+keberr: shows [5c 4c] (three of a kind, Fives)
+Mahu2021: mucks hand 
+keberr collected 250 from pot
+*** SUMMARY ***
+Total pot 250 | Rake 0 
+Board [Ac Tc 5d 2s 5h]
+Seat 1: keberr (big blind) showed [5c 4c] and won (250) with three of a kind, Fives
+Seat 2: Mahu2021 (button) mucked [As 9h]
+Seat 3: Berezka.ua (small blind) folded before Flop
+
+
+
+PokerStars Hand #249191944500: Tournament #3723513898, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/03/02 12:40:39 CET [2024/03/02 6:40:39 ET]
+Table '3723513898 1' 3-max Seat #3 is the button
+Seat 1: keberr (1010 in chips) 
+Seat 2: Mahu2021 (290 in chips) 
+Seat 3: Berezka.ua (200 in chips) 
+keberr: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh Kc]
+Berezka.ua: folds 
+keberr: raises 40 to 60
+Mahu2021: raises 230 to 290 and is all-in
+keberr: calls 230
+*** FLOP *** [Js 9c 5c]
+*** TURN *** [Js 9c 5c] [Td]
+*** RIVER *** [Js 9c 5c Td] [4h]
+*** SHOW DOWN ***
+keberr: shows [8c 8s] (a pair of Eights)
+Mahu2021: shows [Kh Kc] (a pair of Kings)
+Mahu2021 collected 580 from pot
+*** SUMMARY ***
+Total pot 580 | Rake 0 
+Board [Js 9c 5c Td 4h]
+Seat 1: keberr (small blind) showed [8c 8s] and lost with a pair of Eights
+Seat 2: Mahu2021 (big blind) showed [Kh Kc] and won (580) with a pair of Kings
+Seat 3: Berezka.ua (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #249191948572: Tournament #3723513898, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/02 12:41:04 CET [2024/03/02 6:41:04 ET]
+Table '3723513898 1' 3-max Seat #1 is the button
+Seat 1: keberr (720 in chips) 
+Seat 2: Mahu2021 (580 in chips) 
+Seat 3: Berezka.ua (200 in chips) 
+Mahu2021: posts small blind 15
+Berezka.ua: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc 9s]
+keberr: calls 30
+Mahu2021: calls 15
+Berezka.ua: checks 
+*** FLOP *** [8s 7s 7h]
+Mahu2021: checks 
+Berezka.ua: checks 
+keberr: checks 
+*** TURN *** [8s 7s 7h] [Qs]
+Mahu2021: bets 30
+Berezka.ua: folds 
+keberr: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 90 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [8s 7s 7h Qs]
+Seat 1: keberr (button) folded on the Turn
+Seat 2: Mahu2021 (small blind) collected (90)
+Seat 3: Berezka.ua (big blind) folded on the Turn
+
+
+
+PokerStars Hand #249191951625: Tournament #3723513898, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/02 12:41:22 CET [2024/03/02 6:41:22 ET]
+Table '3723513898 1' 3-max Seat #2 is the button
+Seat 1: keberr (690 in chips) 
+Seat 2: Mahu2021 (640 in chips) 
+Seat 3: Berezka.ua (170 in chips) 
+Berezka.ua: posts small blind 15
+keberr: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd Qd]
+Mahu2021: calls 30
+Berezka.ua: folds 
+keberr: checks 
+*** FLOP *** [9d 6d As]
+keberr: checks 
+Mahu2021: bets 30
+keberr: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 75 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Board [9d 6d As]
+Seat 1: keberr (big blind) folded on the Flop
+Seat 2: Mahu2021 (button) collected (75)
+Seat 3: Berezka.ua (small blind) folded before Flop
+
+
+
+PokerStars Hand #249191954239: Tournament #3723513898, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/02 12:41:37 CET [2024/03/02 6:41:37 ET]
+Table '3723513898 1' 3-max Seat #3 is the button
+Seat 1: keberr (660 in chips) 
+Seat 2: Mahu2021 (685 in chips) 
+Seat 3: Berezka.ua (155 in chips) 
+keberr: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s 6c]
+Berezka.ua: folds 
+keberr: calls 15
+Mahu2021: checks 
+*** FLOP *** [7c 5d 2h]
+keberr: bets 30
+Mahu2021: calls 30
+*** TURN *** [7c 5d 2h] [Qc]
+keberr: checks 
+Mahu2021: checks 
+*** RIVER *** [7c 5d 2h Qc] [Jc]
+keberr: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+keberr: shows [Kh 3h] (high card King)
+Mahu2021: mucks hand 
+keberr collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [7c 5d 2h Qc Jc]
+Seat 1: keberr (small blind) showed [Kh 3h] and won (120) with high card King
+Seat 2: Mahu2021 (big blind) mucked [4s 6c]
+Seat 3: Berezka.ua (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #249191957413: Tournament #3723513898, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/02 12:41:56 CET [2024/03/02 6:41:56 ET]
+Table '3723513898 1' 3-max Seat #1 is the button
+Seat 1: keberr (720 in chips) 
+Seat 2: Mahu2021 (625 in chips) 
+Seat 3: Berezka.ua (155 in chips) 
+Mahu2021: posts small blind 15
+Berezka.ua: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s 6c]
+keberr: calls 30
+Mahu2021: calls 15
+Berezka.ua: raises 125 to 155 and is all-in
+keberr: folds 
+Mahu2021: calls 125
+*** FLOP *** [Th 9d 9h]
+*** TURN *** [Th 9d 9h] [7d]
+*** RIVER *** [Th 9d 9h 7d] [2h]
+*** SHOW DOWN ***
+Mahu2021: shows [6s 6c] (two pair, Nines and Sixes)
+Berezka.ua: shows [3s Ad] (a pair of Nines)
+Mahu2021 collected 340 from pot
+Berezka.ua finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 340 | Rake 0 
+Board [Th 9d 9h 7d 2h]
+Seat 1: keberr (button) folded before Flop
+Seat 2: Mahu2021 (small blind) showed [6s 6c] and won (340) with two pair, Nines and Sixes
+Seat 3: Berezka.ua (big blind) showed [3s Ad] and lost with a pair of Nines
+
+
+
+PokerStars Hand #249191961626: Tournament #3723513898, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/02 12:42:21 CET [2024/03/02 6:42:21 ET]
+Table '3723513898 1' 3-max Seat #2 is the button
+Seat 1: keberr (690 in chips) 
+Seat 2: Mahu2021 (810 in chips) 
+Mahu2021: posts small blind 15
+keberr: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d 8h]
+Mahu2021: calls 15
+keberr: checks 
+*** FLOP *** [As 5h 3c]
+keberr: bets 30
+Mahu2021: folds 
+Uncalled bet (30) returned to keberr
+keberr collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [As 5h 3c]
+Seat 1: keberr (big blind) collected (60)
+Seat 2: Mahu2021 (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #249191963779: Tournament #3723513898, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/02 12:42:34 CET [2024/03/02 6:42:34 ET]
+Table '3723513898 1' 3-max Seat #1 is the button
+Seat 1: keberr (720 in chips) 
+Seat 2: Mahu2021 (780 in chips) 
+keberr: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8s 4d]
+keberr: calls 15
+Mahu2021: checks 
+*** FLOP *** [5c 9c 9d]
+Mahu2021: checks 
+keberr: checks 
+*** TURN *** [5c 9c 9d] [9h]
+Mahu2021: checks 
+keberr: checks 
+*** RIVER *** [5c 9c 9d 9h] [6h]
+Mahu2021: bets 60
+keberr: raises 630 to 690 and is all-in
+Mahu2021: folds 
+Uncalled bet (630) returned to keberr
+keberr collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [5c 9c 9d 9h 6h]
+Seat 1: keberr (button) (small blind) collected (180)
+Seat 2: Mahu2021 (big blind) folded on the River
+
+
+
+PokerStars Hand #249191967551: Tournament #3723513898, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/02 12:42:57 CET [2024/03/02 6:42:57 ET]
+Table '3723513898 1' 3-max Seat #2 is the button
+Seat 1: keberr (810 in chips) 
+Seat 2: Mahu2021 (690 in chips) 
+Mahu2021: posts small blind 15
+keberr: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts Jd]
+Mahu2021: calls 15
+keberr: checks 
+*** FLOP *** [5s Kc 6h]
+keberr: checks 
+Mahu2021: checks 
+*** TURN *** [5s Kc 6h] [Ah]
+keberr: checks 
+Mahu2021: bets 60
+keberr: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [5s Kc 6h Ah]
+Seat 1: keberr (big blind) folded on the Turn
+Seat 2: Mahu2021 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #249191970739: Tournament #3723513898, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/03/02 12:43:15 CET [2024/03/02 6:43:15 ET]
+Table '3723513898 1' 3-max Seat #1 is the button
+Seat 1: keberr (780 in chips) 
+Seat 2: Mahu2021 (720 in chips) 
+keberr: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s 2s]
+keberr: raises 80 to 120
+Mahu2021: folds 
+Uncalled bet (80) returned to keberr
+keberr collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: keberr (button) (small blind) collected (80)
+Seat 2: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #249191971686: Tournament #3723513898, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/03/02 12:43:21 CET [2024/03/02 6:43:21 ET]
+Table '3723513898 1' 3-max Seat #2 is the button
+Seat 1: keberr (820 in chips) 
+Seat 2: Mahu2021 (680 in chips) 
+Mahu2021: posts small blind 20
+keberr: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s 4s]
+Mahu2021: calls 20
+keberr: raises 40 to 80
+Mahu2021: calls 40
+*** FLOP *** [7h 8d 4d]
+keberr: bets 120
+Mahu2021: calls 120
+*** TURN *** [7h 8d 4d] [Kd]
+keberr: bets 620 and is all-in
+Mahu2021: calls 480 and is all-in
+Uncalled bet (140) returned to keberr
+*** RIVER *** [7h 8d 4d Kd] [2c]
+*** SHOW DOWN ***
+keberr: shows [8s Js] (a pair of Eights)
+Mahu2021: shows [7s 4s] (two pair, Sevens and Fours)
+Mahu2021 collected 1360 from pot
+*** SUMMARY ***
+Total pot 1360 | Rake 0 
+Board [7h 8d 4d Kd 2c]
+Seat 1: keberr (big blind) showed [8s Js] and lost with a pair of Eights
+Seat 2: Mahu2021 (button) (small blind) showed [7s 4s] and won (1360) with two pair, Sevens and Fours
+
+
+
+PokerStars Hand #249191975081: Tournament #3723513898, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/03/02 12:43:41 CET [2024/03/02 6:43:41 ET]
+Table '3723513898 1' 3-max Seat #1 is the button
+Seat 1: keberr (140 in chips) 
+Seat 2: Mahu2021 (1360 in chips) 
+keberr: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d Ac]
+keberr: calls 20
+Mahu2021: raises 80 to 120
+keberr: raises 20 to 140 and is all-in
+Mahu2021: calls 20
+*** FLOP *** [Ts Ad 9h]
+*** TURN *** [Ts Ad 9h] [3s]
+*** RIVER *** [Ts Ad 9h 3s] [6d]
+*** SHOW DOWN ***
+Mahu2021: shows [3d Ac] (two pair, Aces and Threes)
+keberr: shows [6s Qd] (a pair of Sixes)
+Mahu2021 collected 280 from pot
+keberr finished the tournament in 2nd place
+Mahu2021 wins the tournament and receives $4.00 - congratulations!
+*** SUMMARY ***
+Total pot 280 | Rake 0 
+Board [Ts Ad 9h 3s 6d]
+Seat 1: keberr (button) (small blind) showed [6s Qd] and lost with a pair of Sixes
+Seat 2: Mahu2021 (big blind) showed [3d Ac] and won (280) with two pair, Aces and Threes
+
+
+

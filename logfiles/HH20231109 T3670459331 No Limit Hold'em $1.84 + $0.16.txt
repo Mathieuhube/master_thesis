@@ -1,0 +1,1167 @@
+﻿PokerStars Hand #247014246377: Tournament #3670459331, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/09 20:28:23 CET [2023/11/09 14:28:23 ET]
+Table '3670459331 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: gremista0070 (500 in chips) 
+Seat 3: dimagd1 (500 in chips) 
+gremista0070: posts small blind 10
+dimagd1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Td 2h]
+Mahu2021: folds 
+gremista0070: calls 10
+dimagd1: raises 40 to 60
+gremista0070: calls 40
+*** FLOP *** [2d 5s Qc]
+gremista0070: checks 
+dimagd1: bets 60
+gremista0070: calls 60
+*** TURN *** [2d 5s Qc] [Th]
+gremista0070: checks 
+dimagd1: bets 120
+gremista0070: calls 120
+*** RIVER *** [2d 5s Qc Th] [Jc]
+gremista0070: checks 
+dimagd1: checks 
+*** SHOW DOWN ***
+gremista0070: shows [5h Tc] (two pair, Tens and Fives)
+dimagd1: mucks hand 
+gremista0070 collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Board [2d 5s Qc Th Jc]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: gremista0070 (small blind) showed [5h Tc] and won (480) with two pair, Tens and Fives
+Seat 3: dimagd1 (big blind) mucked [6d Qh]
+
+
+
+PokerStars Hand #247014258660: Tournament #3670459331, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/09 20:28:58 CET [2023/11/09 14:28:58 ET]
+Table '3670459331 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: gremista0070 (740 in chips) 
+Seat 3: dimagd1 (260 in chips) 
+dimagd1: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2s 9d]
+gremista0070: folds 
+dimagd1: raises 20 to 40
+Mahu2021: folds 
+Uncalled bet (20) returned to dimagd1
+dimagd1 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: gremista0070 (button) folded before Flop (didn't bet)
+Seat 3: dimagd1 (small blind) collected (40)
+
+
+
+PokerStars Hand #247014262602: Tournament #3670459331, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/09 20:29:09 CET [2023/11/09 14:29:09 ET]
+Table '3670459331 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (480 in chips) 
+Seat 2: gremista0070 (740 in chips) 
+Seat 3: dimagd1 (280 in chips) 
+Mahu2021: posts small blind 10
+gremista0070: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c Ad]
+dimagd1: folds 
+Mahu2021: raises 20 to 40
+gremista0070: calls 20
+*** FLOP *** [3c Jh Ah]
+Mahu2021: bets 40
+gremista0070: calls 40
+*** TURN *** [3c Jh Ah] [6s]
+Mahu2021: bets 40
+gremista0070: calls 40
+*** RIVER *** [3c Jh Ah 6s] [6c]
+Mahu2021: bets 40
+gremista0070: calls 40
+*** SHOW DOWN ***
+Mahu2021: shows [5c Ad] (two pair, Aces and Sixes)
+gremista0070: mucks hand 
+Mahu2021 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [3c Jh Ah 6s 6c]
+Seat 1: Mahu2021 (small blind) showed [5c Ad] and won (320) with two pair, Aces and Sixes
+Seat 2: gremista0070 (big blind) mucked [8h 7h]
+Seat 3: dimagd1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #247014269824: Tournament #3670459331, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/09 20:29:30 CET [2023/11/09 14:29:30 ET]
+Table '3670459331 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (640 in chips) 
+Seat 2: gremista0070 (580 in chips) 
+Seat 3: dimagd1 (280 in chips) 
+gremista0070: posts small blind 10
+dimagd1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2c Kc]
+Mahu2021: raises 20 to 40
+gremista0070: calls 30
+dimagd1: calls 20
+*** FLOP *** [2d Th 5s]
+gremista0070: checks 
+dimagd1: checks 
+Mahu2021: bets 40
+gremista0070: folds 
+dimagd1: calls 40
+*** TURN *** [2d Th 5s] [9d]
+dimagd1: checks 
+Mahu2021: checks 
+*** RIVER *** [2d Th 5s 9d] [Ac]
+dimagd1: bets 200 and is all-in
+Mahu2021: folds 
+Uncalled bet (200) returned to dimagd1
+dimagd1 collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [2d Th 5s 9d Ac]
+Seat 1: Mahu2021 (button) folded on the River
+Seat 2: gremista0070 (small blind) folded on the Flop
+Seat 3: dimagd1 (big blind) collected (200)
+
+
+
+PokerStars Hand #247014285139: Tournament #3670459331, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/09 20:30:13 CET [2023/11/09 14:30:13 ET]
+Table '3670459331 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (560 in chips) 
+Seat 2: gremista0070 (540 in chips) 
+Seat 3: dimagd1 (400 in chips) 
+dimagd1: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s 4h]
+gremista0070 has timed out
+gremista0070: folds 
+gremista0070 is sitting out
+dimagd1: folds 
+Uncalled bet (10) returned to Mahu2021
+Mahu2021 collected 20 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (20)
+Seat 2: gremista0070 (button) folded before Flop (didn't bet)
+Seat 3: dimagd1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #247014290725: Tournament #3670459331, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/09 20:30:29 CET [2023/11/09 14:30:29 ET]
+Table '3670459331 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (570 in chips) 
+Seat 2: gremista0070 (540 in chips) is sitting out
+Seat 3: dimagd1 (390 in chips) 
+Mahu2021: posts small blind 10
+gremista0070: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s 4h]
+gremista0070 has returned
+dimagd1: raises 20 to 40
+Mahu2021: folds 
+gremista0070: calls 20
+*** FLOP *** [Kh 8d 4s]
+gremista0070: checks 
+dimagd1: bets 45
+gremista0070: calls 45
+*** TURN *** [Kh 8d 4s] [7h]
+gremista0070: checks 
+dimagd1: checks 
+*** RIVER *** [Kh 8d 4s 7h] [6h]
+gremista0070: bets 180
+dimagd1: raises 125 to 305 and is all-in
+gremista0070: folds 
+Uncalled bet (125) returned to dimagd1
+dimagd1 collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | Rake 0 
+Board [Kh 8d 4s 7h 6h]
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: gremista0070 (big blind) folded on the River
+Seat 3: dimagd1 (button) collected (540)
+
+
+
+PokerStars Hand #247014302367: Tournament #3670459331, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/09 20:31:02 CET [2023/11/09 14:31:02 ET]
+Table '3670459331 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (560 in chips) 
+Seat 2: gremista0070 (275 in chips) 
+Seat 3: dimagd1 (665 in chips) 
+gremista0070: posts small blind 10
+dimagd1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts 6s]
+Mahu2021: calls 20
+gremista0070: raises 60 to 80
+dimagd1: raises 585 to 665 and is all-in
+Mahu2021: folds 
+gremista0070: calls 195 and is all-in
+Uncalled bet (390) returned to dimagd1
+*** FLOP *** [Qh 6h 8s]
+*** TURN *** [Qh 6h 8s] [Qs]
+*** RIVER *** [Qh 6h 8s Qs] [7h]
+*** SHOW DOWN ***
+gremista0070: shows [Qc Ks] (three of a kind, Queens)
+dimagd1: shows [Td Ah] (a pair of Queens)
+gremista0070 collected 570 from pot
+*** SUMMARY ***
+Total pot 570 | Rake 0 
+Board [Qh 6h 8s Qs 7h]
+Seat 1: Mahu2021 (button) folded before Flop
+Seat 2: gremista0070 (small blind) showed [Qc Ks] and won (570) with three of a kind, Queens
+Seat 3: dimagd1 (big blind) showed [Td Ah] and lost with a pair of Queens
+
+
+
+PokerStars Hand #247014309181: Tournament #3670459331, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/09 20:31:21 CET [2023/11/09 14:31:21 ET]
+Table '3670459331 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (540 in chips) 
+Seat 2: gremista0070 (570 in chips) 
+Seat 3: dimagd1 (390 in chips) 
+dimagd1: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8c 3h]
+gremista0070: calls 20
+dimagd1: raises 370 to 390 and is all-in
+Mahu2021: folds 
+gremista0070: folds 
+Uncalled bet (370) returned to dimagd1
+dimagd1 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: gremista0070 (button) folded before Flop
+Seat 3: dimagd1 (small blind) collected (60)
+
+
+
+PokerStars Hand #247014313530: Tournament #3670459331, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/09 20:31:33 CET [2023/11/09 14:31:33 ET]
+Table '3670459331 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (520 in chips) 
+Seat 2: gremista0070 (550 in chips) 
+Seat 3: dimagd1 (430 in chips) 
+Mahu2021: posts small blind 15
+gremista0070: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Th Qc]
+dimagd1: raises 45 to 75
+Mahu2021: calls 60
+gremista0070: calls 45
+*** FLOP *** [3h 5d Qh]
+Mahu2021: bets 445 and is all-in
+gremista0070: folds 
+dimagd1: folds 
+Uncalled bet (445) returned to Mahu2021
+Mahu2021 collected 225 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 225 | Rake 0 
+Board [3h 5d Qh]
+Seat 1: Mahu2021 (small blind) collected (225)
+Seat 2: gremista0070 (big blind) folded on the Flop
+Seat 3: dimagd1 (button) folded on the Flop
+
+
+
+PokerStars Hand #247014319444: Tournament #3670459331, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/09 20:31:50 CET [2023/11/09 14:31:50 ET]
+Table '3670459331 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (670 in chips) 
+Seat 2: gremista0070 (475 in chips) 
+Seat 3: dimagd1 (355 in chips) 
+gremista0070: posts small blind 15
+dimagd1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s Kh]
+Mahu2021: folds 
+gremista0070: folds 
+Uncalled bet (15) returned to dimagd1
+dimagd1 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: gremista0070 (small blind) folded before Flop
+Seat 3: dimagd1 (big blind) collected (30)
+
+
+
+PokerStars Hand #247014321444: Tournament #3670459331, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/09 20:31:55 CET [2023/11/09 14:31:55 ET]
+Table '3670459331 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (670 in chips) 
+Seat 2: gremista0070 (460 in chips) 
+Seat 3: dimagd1 (370 in chips) 
+dimagd1: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5h Ad]
+gremista0070: calls 30
+dimagd1: raises 340 to 370 and is all-in
+Mahu2021: calls 340
+gremista0070: folds 
+*** FLOP *** [Qs 7c 3c]
+*** TURN *** [Qs 7c 3c] [4s]
+*** RIVER *** [Qs 7c 3c 4s] [2c]
+*** SHOW DOWN ***
+dimagd1: shows [Ah 4d] (a pair of Fours)
+Mahu2021: shows [5h Ad] (a straight, Ace to Five)
+Mahu2021 collected 770 from pot
+dimagd1 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 770 | Rake 0 
+Board [Qs 7c 3c 4s 2c]
+Seat 1: Mahu2021 (big blind) showed [5h Ad] and won (770) with a straight, Ace to Five
+Seat 2: gremista0070 (button) folded before Flop
+Seat 3: dimagd1 (small blind) showed [Ah 4d] and lost with a pair of Fours
+
+
+
+PokerStars Hand #247014327957: Tournament #3670459331, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/09 20:32:14 CET [2023/11/09 14:32:14 ET]
+Table '3670459331 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1070 in chips) 
+Seat 2: gremista0070 (430 in chips) 
+Mahu2021: posts small blind 15
+gremista0070: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kc Jc]
+Mahu2021: raises 60 to 90
+gremista0070: calls 60
+*** FLOP *** [7c 5s 9c]
+gremista0070: checks 
+Mahu2021: bets 90
+gremista0070: folds 
+Uncalled bet (90) returned to Mahu2021
+Mahu2021 collected 180 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [7c 5s 9c]
+Seat 1: Mahu2021 (button) (small blind) collected (180)
+Seat 2: gremista0070 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #247014332448: Tournament #3670459331, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/09 20:32:26 CET [2023/11/09 14:32:26 ET]
+Table '3670459331 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (1160 in chips) 
+Seat 2: gremista0070 (340 in chips) 
+gremista0070: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h 5d]
+gremista0070: raises 60 to 90
+Mahu2021: folds 
+Uncalled bet (60) returned to gremista0070
+gremista0070 collected 60 from pot
+gremista0070: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: gremista0070 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #247014334551: Tournament #3670459331, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/09 20:32:33 CET [2023/11/09 14:32:33 ET]
+Table '3670459331 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1130 in chips) 
+Seat 2: gremista0070 (370 in chips) 
+Mahu2021: posts small blind 15
+gremista0070: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc 6h]
+Mahu2021: calls 15
+gremista0070: raises 60 to 90
+Mahu2021: calls 60
+*** FLOP *** [7s Jc 8s]
+gremista0070: bets 90
+Mahu2021: folds 
+Uncalled bet (90) returned to gremista0070
+gremista0070 collected 180 from pot
+gremista0070: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [7s Jc 8s]
+Seat 1: Mahu2021 (button) (small blind) folded on the Flop
+Seat 2: gremista0070 (big blind) collected (180)
+
+
+
+PokerStars Hand #247014339033: Tournament #3670459331, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/09 20:32:45 CET [2023/11/09 14:32:45 ET]
+Table '3670459331 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (1040 in chips) 
+Seat 2: gremista0070 (460 in chips) 
+gremista0070: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts 3d]
+gremista0070: calls 15
+Mahu2021: checks 
+*** FLOP *** [3c Kc 4h]
+Mahu2021: checks 
+gremista0070: checks 
+*** TURN *** [3c Kc 4h] [4s]
+Mahu2021: checks 
+gremista0070: checks 
+*** RIVER *** [3c Kc 4h 4s] [Ah]
+Mahu2021: checks 
+gremista0070: bets 60
+Mahu2021: calls 60
+*** SHOW DOWN ***
+gremista0070: shows [8h Qh] (a pair of Fours)
+Mahu2021: shows [Ts 3d] (two pair, Fours and Threes)
+Mahu2021 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [3c Kc 4h 4s Ah]
+Seat 1: Mahu2021 (big blind) showed [Ts 3d] and won (180) with two pair, Fours and Threes
+Seat 2: gremista0070 (button) (small blind) showed [8h Qh] and lost with a pair of Fours
+
+
+
+PokerStars Hand #247014343871: Tournament #3670459331, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/09 20:32:59 CET [2023/11/09 14:32:59 ET]
+Table '3670459331 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1130 in chips) 
+Seat 2: gremista0070 (370 in chips) 
+Mahu2021: posts small blind 15
+gremista0070: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4c Ah]
+Mahu2021: raises 60 to 90
+gremista0070: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) collected (60)
+Seat 2: gremista0070 (big blind) folded before Flop
+
+
+
+PokerStars Hand #247014346129: Tournament #3670459331, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/09 20:33:05 CET [2023/11/09 14:33:05 ET]
+Table '3670459331 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (1160 in chips) 
+Seat 2: gremista0070 (340 in chips) 
+gremista0070: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4d 5s]
+gremista0070: calls 15
+Mahu2021: checks 
+*** FLOP *** [4h 3d Jc]
+Mahu2021: checks 
+gremista0070: bets 30
+Mahu2021: calls 30
+*** TURN *** [4h 3d Jc] [Kd]
+Mahu2021: checks 
+gremista0070: bets 60
+Mahu2021: folds 
+Uncalled bet (60) returned to gremista0070
+gremista0070 collected 120 from pot
+gremista0070: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [4h 3d Jc Kd]
+Seat 1: Mahu2021 (big blind) folded on the Turn
+Seat 2: gremista0070 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #247014351214: Tournament #3670459331, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/09 20:33:20 CET [2023/11/09 14:33:20 ET]
+Table '3670459331 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1100 in chips) 
+Seat 2: gremista0070 (400 in chips) 
+Mahu2021: posts small blind 15
+gremista0070: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s Ac]
+Mahu2021: raises 30 to 60
+gremista0070: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) collected (60)
+Seat 2: gremista0070 (big blind) folded before Flop
+
+
+
+PokerStars Hand #247014353597: Tournament #3670459331, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/09 20:33:26 CET [2023/11/09 14:33:26 ET]
+Table '3670459331 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (1130 in chips) 
+Seat 2: gremista0070 (370 in chips) 
+gremista0070: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s 5h]
+gremista0070: raises 30 to 60
+Mahu2021: calls 30
+*** FLOP *** [4c Tc Td]
+Mahu2021: checks 
+gremista0070: bets 90
+Mahu2021: folds 
+Uncalled bet (90) returned to gremista0070
+gremista0070 collected 120 from pot
+gremista0070: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [4c Tc Td]
+Seat 1: Mahu2021 (big blind) folded on the Flop
+Seat 2: gremista0070 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #247014357380: Tournament #3670459331, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/09 20:33:37 CET [2023/11/09 14:33:37 ET]
+Table '3670459331 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1070 in chips) 
+Seat 2: gremista0070 (430 in chips) 
+Mahu2021: posts small blind 15
+gremista0070: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s 3h]
+Mahu2021: calls 15
+gremista0070: raises 90 to 120
+Mahu2021: folds 
+Uncalled bet (90) returned to gremista0070
+gremista0070 collected 60 from pot
+gremista0070: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 2: gremista0070 (big blind) collected (60)
+
+
+
+PokerStars Hand #247014360332: Tournament #3670459331, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/09 20:33:45 CET [2023/11/09 14:33:45 ET]
+Table '3670459331 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (1040 in chips) 
+Seat 2: gremista0070 (460 in chips) 
+gremista0070: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8c Js]
+gremista0070: raises 300 to 330
+Mahu2021: folds 
+Uncalled bet (300) returned to gremista0070
+gremista0070 collected 60 from pot
+gremista0070: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: gremista0070 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #247014362989: Tournament #3670459331, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/09 20:33:53 CET [2023/11/09 14:33:53 ET]
+Table '3670459331 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1010 in chips) 
+Seat 2: gremista0070 (490 in chips) 
+Mahu2021: posts small blind 15
+gremista0070: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s Td]
+Mahu2021: folds 
+Uncalled bet (15) returned to gremista0070
+gremista0070 collected 30 from pot
+gremista0070: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 2: gremista0070 (big blind) collected (30)
+
+
+
+PokerStars Hand #247014364616: Tournament #3670459331, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/09 20:33:57 CET [2023/11/09 14:33:57 ET]
+Table '3670459331 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (995 in chips) 
+Seat 2: gremista0070 (505 in chips) 
+gremista0070: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d Th]
+gremista0070: raises 30 to 60
+Mahu2021: folds 
+Uncalled bet (30) returned to gremista0070
+gremista0070 collected 60 from pot
+gremista0070: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: gremista0070 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #247014366629: Tournament #3670459331, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/09 20:34:03 CET [2023/11/09 14:34:03 ET]
+Table '3670459331 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (965 in chips) 
+Seat 2: gremista0070 (535 in chips) 
+Mahu2021: posts small blind 15
+gremista0070: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d Jc]
+Mahu2021: raises 30 to 60
+gremista0070: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) collected (60)
+Seat 2: gremista0070 (big blind) folded before Flop
+
+
+
+PokerStars Hand #247014368957: Tournament #3670459331, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/09 20:34:10 CET [2023/11/09 14:34:10 ET]
+Table '3670459331 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (995 in chips) 
+Seat 2: gremista0070 (505 in chips) 
+gremista0070: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4d 2s]
+gremista0070: raises 30 to 60
+Mahu2021: calls 30
+*** FLOP *** [9h 2c Jc]
+Mahu2021: checks 
+gremista0070: bets 90
+Mahu2021: folds 
+Uncalled bet (90) returned to gremista0070
+gremista0070 collected 120 from pot
+gremista0070: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [9h 2c Jc]
+Seat 1: Mahu2021 (big blind) folded on the Flop
+Seat 2: gremista0070 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #247014373770: Tournament #3670459331, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/09 20:34:23 CET [2023/11/09 14:34:23 ET]
+Table '3670459331 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (935 in chips) 
+Seat 2: gremista0070 (565 in chips) 
+Mahu2021: posts small blind 15
+gremista0070: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Td Ts]
+Mahu2021: raises 30 to 60
+gremista0070: calls 30
+*** FLOP *** [Kh 3c As]
+gremista0070: checks 
+Mahu2021: bets 60
+gremista0070: calls 60
+*** TURN *** [Kh 3c As] [Qd]
+gremista0070: checks 
+Mahu2021: checks 
+*** RIVER *** [Kh 3c As Qd] [9c]
+gremista0070: checks 
+Mahu2021: bets 240
+gremista0070: calls 240
+*** SHOW DOWN ***
+Mahu2021: shows [Td Ts] (a pair of Tens)
+gremista0070: shows [7c Ah] (a pair of Aces)
+gremista0070 collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | Rake 0 
+Board [Kh 3c As Qd 9c]
+Seat 1: Mahu2021 (button) (small blind) showed [Td Ts] and lost with a pair of Tens
+Seat 2: gremista0070 (big blind) showed [7c Ah] and won (720) with a pair of Aces
+
+
+
+PokerStars Hand #247014381873: Tournament #3670459331, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/11/09 20:34:46 CET [2023/11/09 14:34:46 ET]
+Table '3670459331 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (575 in chips) 
+Seat 2: gremista0070 (925 in chips) 
+gremista0070: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8d 6s]
+gremista0070: raises 40 to 80
+Mahu2021: calls 40
+*** FLOP *** [Kd 2d Ac]
+Mahu2021: checks 
+gremista0070: checks 
+*** TURN *** [Kd 2d Ac] [Tc]
+Mahu2021: checks 
+gremista0070: bets 120
+Mahu2021: folds 
+Uncalled bet (120) returned to gremista0070
+gremista0070 collected 160 from pot
+gremista0070: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Kd 2d Ac Tc]
+Seat 1: Mahu2021 (big blind) folded on the Turn
+Seat 2: gremista0070 (button) (small blind) collected (160)
+
+
+
+PokerStars Hand #247014386631: Tournament #3670459331, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/11/09 20:34:59 CET [2023/11/09 14:34:59 ET]
+Table '3670459331 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (495 in chips) 
+Seat 2: gremista0070 (1005 in chips) 
+Mahu2021: posts small blind 20
+gremista0070: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts Jd]
+Mahu2021: raises 455 to 495 and is all-in
+gremista0070: folds 
+Uncalled bet (455) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) collected (80)
+Seat 2: gremista0070 (big blind) folded before Flop
+
+
+
+PokerStars Hand #247014389002: Tournament #3670459331, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/11/09 20:35:06 CET [2023/11/09 14:35:06 ET]
+Table '3670459331 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (535 in chips) 
+Seat 2: gremista0070 (965 in chips) 
+gremista0070: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd 5s]
+gremista0070: calls 20
+Mahu2021: checks 
+*** FLOP *** [9c Ad 5d]
+Mahu2021: checks 
+gremista0070: checks 
+*** TURN *** [9c Ad 5d] [Jh]
+Mahu2021: checks 
+gremista0070: checks 
+*** RIVER *** [9c Ad 5d Jh] [Tc]
+Mahu2021: checks 
+gremista0070: bets 80
+Mahu2021: calls 80
+*** SHOW DOWN ***
+gremista0070: shows [6d 8c] (high card Ace)
+Mahu2021: shows [Kd 5s] (a pair of Fives)
+Mahu2021 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [9c Ad 5d Jh Tc]
+Seat 1: Mahu2021 (big blind) showed [Kd 5s] and won (240) with a pair of Fives
+Seat 2: gremista0070 (button) (small blind) showed [6d 8c] and lost with high card Ace
+
+
+
+PokerStars Hand #247014394431: Tournament #3670459331, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/11/09 20:35:21 CET [2023/11/09 14:35:21 ET]
+Table '3670459331 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (655 in chips) 
+Seat 2: gremista0070 (845 in chips) 
+Mahu2021: posts small blind 20
+gremista0070: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc 3d]
+Mahu2021: raises 40 to 80
+gremista0070: calls 40
+*** FLOP *** [8c 4s 7s]
+gremista0070: checks 
+Mahu2021: checks 
+*** TURN *** [8c 4s 7s] [7d]
+gremista0070: checks 
+Mahu2021: bets 80
+gremista0070: calls 80
+*** RIVER *** [8c 4s 7s 7d] [9d]
+gremista0070: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+gremista0070: shows [Ac 3c] (a pair of Sevens)
+Mahu2021: mucks hand 
+gremista0070 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [8c 4s 7s 7d 9d]
+Seat 1: Mahu2021 (button) (small blind) mucked [Jc 3d]
+Seat 2: gremista0070 (big blind) showed [Ac 3c] and won (320) with a pair of Sevens
+
+
+
+PokerStars Hand #247014400853: Tournament #3670459331, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/11/09 20:35:39 CET [2023/11/09 14:35:39 ET]
+Table '3670459331 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (495 in chips) 
+Seat 2: gremista0070 (1005 in chips) 
+gremista0070: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac 7c]
+gremista0070: calls 20
+Mahu2021: raises 80 to 120
+gremista0070: calls 80
+*** FLOP *** [9s 8c 9c]
+Mahu2021: bets 375 and is all-in
+gremista0070: folds 
+Uncalled bet (375) returned to Mahu2021
+Mahu2021 collected 240 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [9s 8c 9c]
+Seat 1: Mahu2021 (big blind) collected (240)
+Seat 2: gremista0070 (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #247014405194: Tournament #3670459331, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/11/09 20:35:52 CET [2023/11/09 14:35:52 ET]
+Table '3670459331 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (615 in chips) 
+Seat 2: gremista0070 (885 in chips) 
+Mahu2021: posts small blind 20
+gremista0070: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts 4c]
+Mahu2021: folds 
+Uncalled bet (20) returned to gremista0070
+gremista0070 collected 40 from pot
+gremista0070: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 2: gremista0070 (big blind) collected (40)
+
+
+
+PokerStars Hand #247014406819: Tournament #3670459331, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/11/09 20:35:56 CET [2023/11/09 14:35:56 ET]
+Table '3670459331 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (595 in chips) 
+Seat 2: gremista0070 (905 in chips) 
+gremista0070: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s 2h]
+gremista0070: calls 20
+Mahu2021: checks 
+*** FLOP *** [Qc 9h 7d]
+Mahu2021: checks 
+gremista0070: bets 80
+Mahu2021: folds 
+Uncalled bet (80) returned to gremista0070
+gremista0070 collected 80 from pot
+gremista0070: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Qc 9h 7d]
+Seat 1: Mahu2021 (big blind) folded on the Flop
+Seat 2: gremista0070 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #247014410255: Tournament #3670459331, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/11/09 20:36:06 CET [2023/11/09 14:36:06 ET]
+Table '3670459331 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (555 in chips) 
+Seat 2: gremista0070 (945 in chips) 
+Mahu2021: posts small blind 20
+gremista0070: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d 4s]
+Mahu2021: folds 
+Uncalled bet (20) returned to gremista0070
+gremista0070 collected 40 from pot
+gremista0070: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 2: gremista0070 (big blind) collected (40)
+
+
+
+PokerStars Hand #247014411679: Tournament #3670459331, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/11/09 20:36:10 CET [2023/11/09 14:36:10 ET]
+Table '3670459331 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (535 in chips) 
+Seat 2: gremista0070 (965 in chips) 
+gremista0070: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h Ac]
+gremista0070: calls 20
+Mahu2021: raises 80 to 120
+gremista0070: calls 80
+*** FLOP *** [9s Ah 8c]
+Mahu2021: checks 
+gremista0070: checks 
+*** TURN *** [9s Ah 8c] [5h]
+Mahu2021: checks 
+gremista0070: bets 160
+Mahu2021: raises 255 to 415 and is all-in
+gremista0070: calls 255
+*** RIVER *** [9s Ah 8c 5h] [Ks]
+*** SHOW DOWN ***
+Mahu2021: shows [9h Ac] (two pair, Aces and Nines)
+gremista0070: shows [7d 8h] (a pair of Eights)
+Mahu2021 collected 1070 from pot
+*** SUMMARY ***
+Total pot 1070 | Rake 0 
+Board [9s Ah 8c 5h Ks]
+Seat 1: Mahu2021 (big blind) showed [9h Ac] and won (1070) with two pair, Aces and Nines
+Seat 2: gremista0070 (button) (small blind) showed [7d 8h] and lost with a pair of Eights
+
+
+
+PokerStars Hand #247014418646: Tournament #3670459331, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/11/09 20:36:30 CET [2023/11/09 14:36:30 ET]
+Table '3670459331 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1070 in chips) 
+Seat 2: gremista0070 (430 in chips) 
+Mahu2021: posts small blind 20
+gremista0070: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d 7s]
+Mahu2021: folds 
+Uncalled bet (20) returned to gremista0070
+gremista0070 collected 40 from pot
+gremista0070: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 2: gremista0070 (big blind) collected (40)
+
+
+
+PokerStars Hand #247014420164: Tournament #3670459331, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/11/09 20:36:34 CET [2023/11/09 14:36:34 ET]
+Table '3670459331 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (1050 in chips) 
+Seat 2: gremista0070 (450 in chips) 
+gremista0070: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d Ad]
+gremista0070: calls 20
+Mahu2021: raises 1010 to 1050 and is all-in
+gremista0070: folds 
+Uncalled bet (1010) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (80)
+Seat 2: gremista0070 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #247014422820: Tournament #3670459331, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/11/09 20:36:42 CET [2023/11/09 14:36:42 ET]
+Table '3670459331 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1090 in chips) 
+Seat 2: gremista0070 (410 in chips) 
+Mahu2021: posts small blind 20
+gremista0070: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h 6d]
+Mahu2021: calls 20
+gremista0070: raises 200 to 240
+Mahu2021: folds 
+Uncalled bet (200) returned to gremista0070
+gremista0070 collected 80 from pot
+gremista0070: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 2: gremista0070 (big blind) collected (80)
+
+
+
+PokerStars Hand #247014426043: Tournament #3670459331, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/11/09 20:36:51 CET [2023/11/09 14:36:51 ET]
+Table '3670459331 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (1050 in chips) 
+Seat 2: gremista0070 (450 in chips) 
+gremista0070: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h 9c]
+gremista0070: calls 20
+Mahu2021: checks 
+*** FLOP *** [Qd 4c Kh]
+Mahu2021: checks 
+gremista0070: bets 80
+Mahu2021: folds 
+Uncalled bet (80) returned to gremista0070
+gremista0070 collected 80 from pot
+gremista0070: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Qd 4c Kh]
+Seat 1: Mahu2021 (big blind) folded on the Flop
+Seat 2: gremista0070 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #247014429467: Tournament #3670459331, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/11/09 20:37:01 CET [2023/11/09 14:37:01 ET]
+Table '3670459331 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1010 in chips) 
+Seat 2: gremista0070 (490 in chips) 
+Mahu2021: posts small blind 20
+gremista0070: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc 5h]
+Mahu2021: calls 20
+gremista0070: checks 
+*** FLOP *** [3s 6d Qh]
+gremista0070: checks 
+Mahu2021: checks 
+*** TURN *** [3s 6d Qh] [9d]
+gremista0070: checks 
+Mahu2021: checks 
+*** RIVER *** [3s 6d Qh 9d] [Ts]
+gremista0070: checks 
+Mahu2021: bets 80
+gremista0070: folds 
+Uncalled bet (80) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [3s 6d Qh 9d Ts]
+Seat 1: Mahu2021 (button) (small blind) collected (80)
+Seat 2: gremista0070 (big blind) folded on the River
+
+
+
+PokerStars Hand #247014439153: Tournament #3670459331, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2023/11/09 20:37:29 CET [2023/11/09 14:37:29 ET]
+Table '3670459331 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (1050 in chips) 
+Seat 2: gremista0070 (450 in chips) 
+gremista0070: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad 7d]
+gremista0070: calls 30
+Mahu2021: raises 120 to 180
+gremista0070: folds 
+Uncalled bet (120) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (120)
+Seat 2: gremista0070 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #247014441983: Tournament #3670459331, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2023/11/09 20:37:37 CET [2023/11/09 14:37:37 ET]
+Table '3670459331 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1110 in chips) 
+Seat 2: gremista0070 (390 in chips) 
+Mahu2021: posts small blind 30
+gremista0070: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c Th]
+Mahu2021: calls 30
+gremista0070: raises 120 to 180
+Mahu2021: calls 120
+*** FLOP *** [Jh 8d Kd]
+gremista0070: bets 120
+Mahu2021: raises 120 to 240
+gremista0070: calls 90 and is all-in
+Uncalled bet (30) returned to Mahu2021
+*** TURN *** [Jh 8d Kd] [6s]
+*** RIVER *** [Jh 8d Kd 6s] [8c]
+*** SHOW DOWN ***
+gremista0070: shows [Jd Ah] (two pair, Jacks and Eights)
+Mahu2021: shows [9c Th] (a pair of Eights)
+gremista0070 collected 780 from pot
+*** SUMMARY ***
+Total pot 780 | Rake 0 
+Board [Jh 8d Kd 6s 8c]
+Seat 1: Mahu2021 (button) (small blind) showed [9c Th] and lost with a pair of Eights
+Seat 2: gremista0070 (big blind) showed [Jd Ah] and won (780) with two pair, Jacks and Eights
+
+
+
+PokerStars Hand #247014448842: Tournament #3670459331, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2023/11/09 20:37:56 CET [2023/11/09 14:37:56 ET]
+Table '3670459331 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (720 in chips) 
+Seat 2: gremista0070 (780 in chips) 
+gremista0070: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s Ks]
+gremista0070: calls 30
+Mahu2021: checks 
+*** FLOP *** [Ad Td 4s]
+Mahu2021: checks 
+gremista0070: checks 
+*** TURN *** [Ad Td 4s] [2h]
+Mahu2021: bets 60
+gremista0070: raises 60 to 120
+Mahu2021: calls 60
+*** RIVER *** [Ad Td 4s 2h] [4c]
+Mahu2021: checks 
+gremista0070: bets 240
+Mahu2021: folds 
+Uncalled bet (240) returned to gremista0070
+gremista0070 collected 360 from pot
+gremista0070: doesn't show hand 
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [Ad Td 4s 2h 4c]
+Seat 1: Mahu2021 (big blind) folded on the River
+Seat 2: gremista0070 (button) (small blind) collected (360)
+
+
+
+PokerStars Hand #247014456074: Tournament #3670459331, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2023/11/09 20:38:17 CET [2023/11/09 14:38:17 ET]
+Table '3670459331 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (540 in chips) 
+Seat 2: gremista0070 (960 in chips) 
+Mahu2021: posts small blind 30
+gremista0070: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd Ks]
+Mahu2021: raises 60 to 120
+gremista0070: raises 840 to 960 and is all-in
+Mahu2021: calls 420 and is all-in
+Uncalled bet (420) returned to gremista0070
+*** FLOP *** [6c 8h 7h]
+*** TURN *** [6c 8h 7h] [8d]
+*** RIVER *** [6c 8h 7h 8d] [Ad]
+*** SHOW DOWN ***
+gremista0070: shows [Kh Js] (a pair of Eights)
+Mahu2021: shows [Jd Ks] (a pair of Eights)
+gremista0070 collected 540 from pot
+Mahu2021 collected 540 from pot
+*** SUMMARY ***
+Total pot 1080 | Rake 0 
+Board [6c 8h 7h 8d Ad]
+Seat 1: Mahu2021 (button) (small blind) showed [Jd Ks] and won (540) with a pair of Eights
+Seat 2: gremista0070 (big blind) showed [Kh Js] and won (540) with a pair of Eights
+
+
+
+PokerStars Hand #247014461683: Tournament #3670459331, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2023/11/09 20:38:32 CET [2023/11/09 14:38:32 ET]
+Table '3670459331 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (540 in chips) 
+Seat 2: gremista0070 (960 in chips) 
+gremista0070: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c 5d]
+gremista0070: calls 30
+Mahu2021: checks 
+*** FLOP *** [9d 6d 4h]
+Mahu2021: bets 60
+gremista0070: calls 60
+*** TURN *** [9d 6d 4h] [7h]
+Mahu2021: bets 240
+gremista0070: raises 240 to 480
+Mahu2021: calls 180 and is all-in
+Uncalled bet (60) returned to gremista0070
+*** RIVER *** [9d 6d 4h 7h] [Kh]
+*** SHOW DOWN ***
+Mahu2021: shows [6c 5d] (a pair of Sixes)
+gremista0070: shows [3d 5s] (a straight, Three to Seven)
+gremista0070 collected 1080 from pot
+Mahu2021 finished the tournament in 2nd place
+gremista0070 wins the tournament and receives $6.00 - congratulations!
+*** SUMMARY ***
+Total pot 1080 | Rake 0 
+Board [9d 6d 4h 7h Kh]
+Seat 1: Mahu2021 (big blind) showed [6c 5d] and lost with a pair of Sixes
+Seat 2: gremista0070 (button) (small blind) showed [3d 5s] and won (1080) with a straight, Three to Seven
+
+
+

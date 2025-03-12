@@ -1,0 +1,136 @@
+﻿PokerStars Hand #251484342756: Tournament #3777777398, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/07/14 15:51:35 CET [2024/07/14 9:51:35 ET]
+Table '3777777398 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: SNKeyes13 (500 in chips) 
+Seat 3: lolibalaboli (500 in chips) 
+SNKeyes13: posts small blind 10
+lolibalaboli: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh Qd]
+Mahu2021: calls 20
+SNKeyes13: folds 
+lolibalaboli: checks 
+*** FLOP *** [5c 8h 8d]
+lolibalaboli: checks 
+Mahu2021: checks 
+*** TURN *** [5c 8h 8d] [6c]
+lolibalaboli: checks 
+Mahu2021: checks 
+*** RIVER *** [5c 8h 8d 6c] [3d]
+lolibalaboli: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+lolibalaboli: shows [3c 9s] (two pair, Eights and Threes)
+Mahu2021: mucks hand 
+lolibalaboli collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [5c 8h 8d 6c 3d]
+Seat 1: Mahu2021 (button) mucked [Jh Qd]
+Seat 2: SNKeyes13 (small blind) folded before Flop
+Seat 3: lolibalaboli (big blind) showed [3c 9s] and won (50) with two pair, Eights and Threes
+
+
+
+PokerStars Hand #251484347065: Tournament #3777777398, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/07/14 15:51:57 CET [2024/07/14 9:51:57 ET]
+Table '3777777398 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (480 in chips) 
+Seat 2: SNKeyes13 (490 in chips) 
+Seat 3: lolibalaboli (530 in chips) 
+lolibalaboli: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah 5c]
+SNKeyes13: folds 
+lolibalaboli: raises 40 to 60
+Mahu2021: calls 40
+*** FLOP *** [Td 2s Kd]
+lolibalaboli: bets 60
+Mahu2021: folds 
+Uncalled bet (60) returned to lolibalaboli
+lolibalaboli collected 120 from pot
+lolibalaboli: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Td 2s Kd]
+Seat 1: Mahu2021 (big blind) folded on the Flop
+Seat 2: SNKeyes13 (button) folded before Flop (didn't bet)
+Seat 3: lolibalaboli (small blind) collected (120)
+
+
+
+PokerStars Hand #251484350985: Tournament #3777777398, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/07/14 15:52:17 CET [2024/07/14 9:52:17 ET]
+Table '3777777398 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (420 in chips) 
+Seat 2: SNKeyes13 (490 in chips) 
+Seat 3: lolibalaboli (590 in chips) 
+Mahu2021: posts small blind 10
+SNKeyes13: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d Js]
+lolibalaboli: folds 
+Mahu2021: folds 
+Uncalled bet (10) returned to SNKeyes13
+SNKeyes13 collected 20 from pot
+SNKeyes13: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: SNKeyes13 (big blind) collected (20)
+Seat 3: lolibalaboli (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #251484352022: Tournament #3777777398, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/07/14 15:52:22 CET [2024/07/14 9:52:22 ET]
+Table '3777777398 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (410 in chips) 
+Seat 2: SNKeyes13 (500 in chips) 
+Seat 3: lolibalaboli (590 in chips) 
+SNKeyes13: posts small blind 10
+lolibalaboli: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c As]
+Mahu2021: raises 20 to 40
+SNKeyes13: folds 
+lolibalaboli: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 50 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: Mahu2021 (button) collected (50)
+Seat 2: SNKeyes13 (small blind) folded before Flop
+Seat 3: lolibalaboli (big blind) folded before Flop
+
+
+
+PokerStars Hand #251484354915: Tournament #3777777398, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/07/14 15:52:37 CET [2024/07/14 9:52:37 ET]
+Table '3777777398 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (440 in chips) 
+Seat 2: SNKeyes13 (490 in chips) 
+Seat 3: lolibalaboli (570 in chips) 
+lolibalaboli: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8s 8d]
+SNKeyes13: raises 30 to 50
+lolibalaboli: folds 
+Mahu2021: raises 390 to 440 and is all-in
+SNKeyes13: calls 390
+*** FLOP *** [Kh 6h 9s]
+*** TURN *** [Kh 6h 9s] [Ah]
+*** RIVER *** [Kh 6h 9s Ah] [5h]
+*** SHOW DOWN ***
+Mahu2021: shows [8s 8d] (a pair of Eights)
+SNKeyes13: shows [Js Jd] (a pair of Jacks)
+SNKeyes13 collected 890 from pot
+Mahu2021 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 890 | Rake 0 
+Board [Kh 6h 9s Ah 5h]
+Seat 1: Mahu2021 (big blind) showed [8s 8d] and lost with a pair of Eights
+Seat 2: SNKeyes13 (button) showed [Js Jd] and won (890) with a pair of Jacks
+Seat 3: lolibalaboli (small blind) folded before Flop
+
+
+

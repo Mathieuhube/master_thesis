@@ -1,0 +1,120 @@
+﻿PokerStars Hand #243154877337: Tournament #3578954920, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/17 21:40:28 CET [2023/04/17 15:40:28 ET]
+Table '3578954920 1' 3-max Seat #1 is the button
+Seat 1: Grzech001978 (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: CidChompsky (500 in chips) 
+Mahu2021: posts small blind 10
+CidChompsky: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8c Ts]
+Grzech001978: raises 20 to 40
+Mahu2021: calls 30
+CidChompsky: calls 20
+*** FLOP *** [9h 2h 7d]
+Mahu2021: bets 40
+CidChompsky: calls 40
+Grzech001978: folds 
+*** TURN *** [9h 2h 7d] [5s]
+Mahu2021: bets 40
+CidChompsky: calls 40
+*** RIVER *** [9h 2h 7d 5s] [8s]
+Mahu2021: bets 280
+CidChompsky: calls 280
+*** SHOW DOWN ***
+Mahu2021: shows [8c Ts] (a pair of Eights)
+CidChompsky: shows [Ad 8h] (a pair of Eights - Ace kicker)
+CidChompsky collected 840 from pot
+*** SUMMARY ***
+Total pot 840 | Rake 0 
+Board [9h 2h 7d 5s 8s]
+Seat 1: Grzech001978 (button) folded on the Flop
+Seat 2: Mahu2021 (small blind) showed [8c Ts] and lost with a pair of Eights
+Seat 3: CidChompsky (big blind) showed [Ad 8h] and won (840) with a pair of Eights
+
+
+
+PokerStars Hand #243154886790: Tournament #3578954920, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/17 21:40:51 CET [2023/04/17 15:40:51 ET]
+Table '3578954920 1' 3-max Seat #2 is the button
+Seat 1: Grzech001978 (460 in chips) 
+Seat 2: Mahu2021 (100 in chips) 
+Seat 3: CidChompsky (940 in chips) 
+CidChompsky: posts small blind 10
+Grzech001978: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks 6d]
+Mahu2021: raises 80 to 100 and is all-in
+CidChompsky: folds 
+Grzech001978: folds 
+Uncalled bet (80) returned to Mahu2021
+Mahu2021 collected 50 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: Grzech001978 (big blind) folded before Flop
+Seat 2: Mahu2021 (button) collected (50)
+Seat 3: CidChompsky (small blind) folded before Flop
+
+
+
+PokerStars Hand #243154890685: Tournament #3578954920, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/17 21:41:00 CET [2023/04/17 15:41:00 ET]
+Table '3578954920 1' 3-max Seat #3 is the button
+Seat 1: Grzech001978 (440 in chips) 
+Seat 2: Mahu2021 (130 in chips) 
+Seat 3: CidChompsky (930 in chips) 
+Grzech001978: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8s 5h]
+CidChompsky: folds 
+Grzech001978: calls 10
+Mahu2021: checks 
+*** FLOP *** [Th Jd Js]
+Grzech001978: checks 
+Mahu2021: checks 
+*** TURN *** [Th Jd Js] [3s]
+Grzech001978: checks 
+Mahu2021: checks 
+*** RIVER *** [Th Jd Js 3s] [Jh]
+Grzech001978: bets 20
+Mahu2021: folds 
+Uncalled bet (20) returned to Grzech001978
+Grzech001978 collected 40 from pot
+Grzech001978: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Th Jd Js 3s Jh]
+Seat 1: Grzech001978 (small blind) collected (40)
+Seat 2: Mahu2021 (big blind) folded on the River
+Seat 3: CidChompsky (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #243154897304: Tournament #3578954920, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/17 21:41:16 CET [2023/04/17 15:41:16 ET]
+Table '3578954920 1' 3-max Seat #1 is the button
+Seat 1: Grzech001978 (460 in chips) 
+Seat 2: Mahu2021 (110 in chips) 
+Seat 3: CidChompsky (930 in chips) 
+Mahu2021: posts small blind 10
+CidChompsky: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d Jh]
+Grzech001978: folds 
+Mahu2021: raises 90 to 110 and is all-in
+CidChompsky: calls 90
+*** FLOP *** [Ad 8d 7c]
+*** TURN *** [Ad 8d 7c] [Ts]
+*** RIVER *** [Ad 8d 7c Ts] [2d]
+*** SHOW DOWN ***
+Mahu2021: shows [7d Jh] (a pair of Sevens)
+CidChompsky: shows [9h 9s] (a pair of Nines)
+CidChompsky collected 220 from pot
+Mahu2021 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 220 | Rake 0 
+Board [Ad 8d 7c Ts 2d]
+Seat 1: Grzech001978 (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) showed [7d Jh] and lost with a pair of Sevens
+Seat 3: CidChompsky (big blind) showed [9h 9s] and won (220) with a pair of Nines
+
+
+

@@ -1,0 +1,195 @@
+﻿PokerStars Hand #244212397748: Tournament #3603118699, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/06/11 14:59:43 CET [2023/06/11 8:59:43 ET]
+Table '3603118699 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: ChiliPeruna (500 in chips) 
+Seat 3: weigler77 (500 in chips) 
+ChiliPeruna: posts small blind 10
+weigler77: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8d Qc]
+Mahu2021: calls 20
+ChiliPeruna: calls 10
+weigler77: checks 
+*** FLOP *** [Tc 5s 7s]
+ChiliPeruna: checks 
+weigler77: checks 
+Mahu2021: checks 
+*** TURN *** [Tc 5s 7s] [Ts]
+ChiliPeruna: checks 
+weigler77: checks 
+Mahu2021: checks 
+*** RIVER *** [Tc 5s 7s Ts] [Qh]
+ChiliPeruna: checks 
+weigler77: checks 
+Mahu2021: bets 60
+ChiliPeruna: folds 
+weigler77: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Tc 5s 7s Ts Qh]
+Seat 1: Mahu2021 (button) collected (60)
+Seat 2: ChiliPeruna (small blind) folded on the River
+Seat 3: weigler77 (big blind) folded on the River
+
+
+
+PokerStars Hand #244212401718: Tournament #3603118699, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/06/11 15:00:08 CET [2023/06/11 9:00:08 ET]
+Table '3603118699 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (540 in chips) 
+Seat 2: ChiliPeruna (480 in chips) 
+Seat 3: weigler77 (480 in chips) 
+weigler77: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4c Qd]
+ChiliPeruna: folds 
+weigler77: raises 20 to 40
+Mahu2021: calls 20
+*** FLOP *** [7d Ah 9d]
+weigler77: checks 
+Mahu2021: checks 
+*** TURN *** [7d Ah 9d] [3c]
+weigler77: checks 
+Mahu2021: bets 40
+weigler77: calls 40
+*** RIVER *** [7d Ah 9d 3c] [Td]
+weigler77: checks 
+Mahu2021: bets 160
+weigler77: calls 160
+*** SHOW DOWN ***
+Mahu2021: shows [4c Qd] (high card Ace)
+weigler77: shows [Ts Js] (a pair of Tens)
+weigler77 collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Board [7d Ah 9d 3c Td]
+Seat 1: Mahu2021 (big blind) showed [4c Qd] and lost with high card Ace
+Seat 2: ChiliPeruna (button) folded before Flop (didn't bet)
+Seat 3: weigler77 (small blind) showed [Ts Js] and won (480) with a pair of Tens
+
+
+
+PokerStars Hand #244212405417: Tournament #3603118699, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/06/11 15:00:30 CET [2023/06/11 9:00:30 ET]
+Table '3603118699 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (300 in chips) 
+Seat 2: ChiliPeruna (480 in chips) 
+Seat 3: weigler77 (720 in chips) 
+Mahu2021: posts small blind 10
+ChiliPeruna: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s 9c]
+weigler77: calls 20
+Mahu2021: folds 
+ChiliPeruna: checks 
+*** FLOP *** [Js 9h Kd]
+ChiliPeruna: checks 
+weigler77: checks 
+*** TURN *** [Js 9h Kd] [9d]
+ChiliPeruna: checks 
+weigler77: bets 25
+ChiliPeruna: folds 
+Uncalled bet (25) returned to weigler77
+weigler77 collected 50 from pot
+weigler77: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [Js 9h Kd 9d]
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: ChiliPeruna (big blind) folded on the Turn
+Seat 3: weigler77 (button) collected (50)
+
+
+
+PokerStars Hand #244212415436: Tournament #3603118699, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/06/11 15:01:23 CET [2023/06/11 9:01:23 ET]
+Table '3603118699 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (290 in chips) 
+Seat 2: ChiliPeruna (460 in chips) 
+Seat 3: weigler77 (750 in chips) 
+ChiliPeruna: posts small blind 10
+weigler77: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d 2h]
+Mahu2021: folds 
+ChiliPeruna: calls 10
+weigler77: checks 
+*** FLOP *** [5s 8h 3s]
+ChiliPeruna: bets 20
+weigler77: raises 40 to 60
+ChiliPeruna: calls 40
+*** TURN *** [5s 8h 3s] [2d]
+ChiliPeruna: bets 20
+weigler77: raises 200 to 220
+ChiliPeruna: calls 200
+*** RIVER *** [5s 8h 3s 2d] [Jh]
+ChiliPeruna: bets 20
+weigler77: raises 320 to 340
+ChiliPeruna: calls 140 and is all-in
+Uncalled bet (180) returned to weigler77
+*** SHOW DOWN ***
+weigler77: shows [3c 5c] (two pair, Fives and Threes)
+ChiliPeruna: shows [7h 8s] (a pair of Eights)
+weigler77 collected 920 from pot
+ChiliPeruna finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 920 | Rake 0 
+Board [5s 8h 3s 2d Jh]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: ChiliPeruna (small blind) showed [7h 8s] and lost with a pair of Eights
+Seat 3: weigler77 (big blind) showed [3c 5c] and won (920) with two pair, Fives and Threes
+
+
+
+PokerStars Hand #244212422154: Tournament #3603118699, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/06/11 15:01:58 CET [2023/06/11 9:01:58 ET]
+Table '3603118699 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (290 in chips) 
+Seat 3: weigler77 (1210 in chips) 
+weigler77: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8d Td]
+weigler77: calls 15
+Mahu2021: checks 
+*** FLOP *** [2c Ks As]
+Mahu2021: checks 
+weigler77: bets 60
+Mahu2021: folds 
+Uncalled bet (60) returned to weigler77
+weigler77 collected 60 from pot
+weigler77: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [2c Ks As]
+Seat 1: Mahu2021 (big blind) folded on the Flop
+Seat 3: weigler77 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #244212424145: Tournament #3603118699, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/06/11 15:02:08 CET [2023/06/11 9:02:08 ET]
+Table '3603118699 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (260 in chips) 
+Seat 3: weigler77 (1240 in chips) 
+Mahu2021: posts small blind 15
+weigler77: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh 8d]
+Mahu2021: calls 15
+weigler77: raises 60 to 90
+Mahu2021: calls 60
+*** FLOP *** [3h 5h Jh]
+weigler77: checks 
+Mahu2021: bets 170 and is all-in
+weigler77: folds 
+Uncalled bet (170) returned to Mahu2021
+Mahu2021 collected 180 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [3h 5h Jh]
+Seat 1: Mahu2021 (button) (small blind) collected (180)
+Seat 3: weigler77 (big blind) folded on the Flop
+
+
+

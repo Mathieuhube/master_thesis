@@ -1,0 +1,675 @@
+﻿PokerStars Hand #248814640563: Tournament #3714231741, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/02/11 10:44:41 CET [2024/02/11 4:44:41 ET]
+Table '3714231741 1' 3-max Seat #1 is the button
+Seat 1: alex_m_b89 (500 in chips) 
+Seat 2: Mansfield23 (500 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+Mansfield23: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c Js]
+alex_m_b89: folds 
+Mansfield23: calls 10
+Mahu2021: checks 
+*** FLOP *** [Jd 7h 2d]
+Mansfield23: bets 20
+Mahu2021: calls 20
+*** TURN *** [Jd 7h 2d] [Ac]
+Mansfield23: checks 
+Mahu2021: checks 
+*** RIVER *** [Jd 7h 2d Ac] [6d]
+Mansfield23: bets 40
+Mahu2021: calls 40
+*** SHOW DOWN ***
+Mansfield23: shows [6c 2h] (two pair, Sixes and Deuces)
+Mahu2021: mucks hand 
+Mansfield23 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Jd 7h 2d Ac 6d]
+Seat 1: alex_m_b89 (button) folded before Flop (didn't bet)
+Seat 2: Mansfield23 (small blind) showed [6c 2h] and won (160) with two pair, Sixes and Deuces
+Seat 3: Mahu2021 (big blind) mucked [9c Js]
+
+
+
+PokerStars Hand #248814644376: Tournament #3714231741, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/02/11 10:45:07 CET [2024/02/11 4:45:07 ET]
+Table '3714231741 1' 3-max Seat #2 is the button
+Seat 1: alex_m_b89 (500 in chips) 
+Seat 2: Mansfield23 (580 in chips) 
+Seat 3: Mahu2021 (420 in chips) 
+Mahu2021: posts small blind 10
+alex_m_b89: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d Th]
+Mansfield23: raises 40 to 60
+Mahu2021: folds 
+alex_m_b89: folds 
+Uncalled bet (40) returned to Mansfield23
+Mansfield23 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: alex_m_b89 (big blind) folded before Flop
+Seat 2: Mansfield23 (button) collected (50)
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #248814646338: Tournament #3714231741, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/02/11 10:45:21 CET [2024/02/11 4:45:21 ET]
+Table '3714231741 1' 3-max Seat #3 is the button
+Seat 1: alex_m_b89 (480 in chips) 
+Seat 2: Mansfield23 (610 in chips) 
+Seat 3: Mahu2021 (410 in chips) 
+alex_m_b89: posts small blind 10
+Mansfield23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4d Tc]
+Mahu2021: folds 
+alex_m_b89: raises 460 to 480 and is all-in
+Mansfield23: folds 
+Uncalled bet (460) returned to alex_m_b89
+alex_m_b89 collected 40 from pot
+alex_m_b89: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: alex_m_b89 (small blind) collected (40)
+Seat 2: Mansfield23 (big blind) folded before Flop
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #248814649126: Tournament #3714231741, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/02/11 10:45:40 CET [2024/02/11 4:45:40 ET]
+Table '3714231741 1' 3-max Seat #1 is the button
+Seat 1: alex_m_b89 (500 in chips) 
+Seat 2: Mansfield23 (590 in chips) 
+Seat 3: Mahu2021 (410 in chips) 
+Mansfield23: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh 8s]
+alex_m_b89: raises 20 to 40
+Mansfield23: calls 30
+Mahu2021: calls 20
+*** FLOP *** [9c 6c Ts]
+Mansfield23: checks 
+Mahu2021: checks 
+alex_m_b89: bets 46
+Mansfield23: calls 46
+Mahu2021: calls 46
+*** TURN *** [9c 6c Ts] [6d]
+Mansfield23: checks 
+Mahu2021: checks 
+alex_m_b89: checks 
+*** RIVER *** [9c 6c Ts 6d] [7d]
+Mansfield23: checks 
+Mahu2021: bets 80
+alex_m_b89: calls 80
+Mansfield23: folds 
+*** SHOW DOWN ***
+Mahu2021: shows [Jh 8s] (a straight, Seven to Jack)
+alex_m_b89: mucks hand 
+Mahu2021 collected 418 from pot
+*** SUMMARY ***
+Total pot 418 | Rake 0 
+Board [9c 6c Ts 6d 7d]
+Seat 1: alex_m_b89 (button) mucked [7h Th]
+Seat 2: Mansfield23 (small blind) folded on the River
+Seat 3: Mahu2021 (big blind) showed [Jh 8s] and won (418) with a straight, Seven to Jack
+
+
+
+PokerStars Hand #248814655169: Tournament #3714231741, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/02/11 10:46:21 CET [2024/02/11 4:46:21 ET]
+Table '3714231741 1' 3-max Seat #2 is the button
+Seat 1: alex_m_b89 (334 in chips) 
+Seat 2: Mansfield23 (504 in chips) 
+Seat 3: Mahu2021 (662 in chips) 
+Mahu2021: posts small blind 10
+alex_m_b89: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h 4s]
+Mansfield23: folds 
+Mahu2021: folds 
+Uncalled bet (10) returned to alex_m_b89
+alex_m_b89 collected 20 from pot
+alex_m_b89: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: alex_m_b89 (big blind) collected (20)
+Seat 2: Mansfield23 (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #248814655825: Tournament #3714231741, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/02/11 10:46:26 CET [2024/02/11 4:46:26 ET]
+Table '3714231741 1' 3-max Seat #3 is the button
+Seat 1: alex_m_b89 (344 in chips) 
+Seat 2: Mansfield23 (504 in chips) 
+Seat 3: Mahu2021 (652 in chips) 
+alex_m_b89: posts small blind 10
+Mansfield23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Tc 2d]
+Mahu2021: folds 
+alex_m_b89: raises 30 to 50
+Mansfield23: calls 30
+*** FLOP *** [5d 3h 7d]
+alex_m_b89: checks 
+Mansfield23: bets 50
+alex_m_b89: calls 50
+*** TURN *** [5d 3h 7d] [Ks]
+alex_m_b89: checks 
+Mansfield23: bets 100
+alex_m_b89: folds 
+Uncalled bet (100) returned to Mansfield23
+Mansfield23 collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [5d 3h 7d Ks]
+Seat 1: alex_m_b89 (small blind) folded on the Turn
+Seat 2: Mansfield23 (big blind) collected (200)
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #248814660931: Tournament #3714231741, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/02/11 10:47:01 CET [2024/02/11 4:47:01 ET]
+Table '3714231741 1' 3-max Seat #1 is the button
+Seat 1: alex_m_b89 (244 in chips) 
+Seat 2: Mansfield23 (604 in chips) 
+Seat 3: Mahu2021 (652 in chips) 
+Mansfield23: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6h 4s]
+alex_m_b89: raises 214 to 244 and is all-in
+Mansfield23: calls 229
+Mahu2021: folds 
+*** FLOP *** [3c 9c 5d]
+*** TURN *** [3c 9c 5d] [Qh]
+*** RIVER *** [3c 9c 5d Qh] [7c]
+*** SHOW DOWN ***
+Mansfield23: shows [Tc Qc] (a flush, Queen high)
+alex_m_b89: shows [Ac 3h] (a pair of Threes)
+Mansfield23 collected 518 from pot
+alex_m_b89 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 518 | Rake 0 
+Board [3c 9c 5d Qh 7c]
+Seat 1: alex_m_b89 (button) showed [Ac 3h] and lost with a pair of Threes
+Seat 2: Mansfield23 (small blind) showed [Tc Qc] and won (518) with a flush, Queen high
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #248814664457: Tournament #3714231741, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/02/11 10:47:24 CET [2024/02/11 4:47:24 ET]
+Table '3714231741 1' 3-max Seat #3 is the button
+Seat 2: Mansfield23 (878 in chips) 
+Seat 3: Mahu2021 (622 in chips) 
+Mahu2021: posts small blind 15
+Mansfield23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qs 7s]
+Mahu2021: raises 30 to 60
+Mansfield23: calls 30
+*** FLOP *** [5c 5d 6s]
+Mansfield23: bets 60
+Mahu2021: folds 
+Uncalled bet (60) returned to Mansfield23
+Mansfield23 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [5c 5d 6s]
+Seat 2: Mansfield23 (big blind) collected (120)
+Seat 3: Mahu2021 (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #248814666485: Tournament #3714231741, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/02/11 10:47:38 CET [2024/02/11 4:47:38 ET]
+Table '3714231741 1' 3-max Seat #2 is the button
+Seat 2: Mansfield23 (938 in chips) 
+Seat 3: Mahu2021 (562 in chips) 
+Mansfield23: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4d Ts]
+Mansfield23: calls 15
+Mahu2021: checks 
+*** FLOP *** [3d Qd Th]
+Mahu2021: checks 
+Mansfield23: bets 30
+Mahu2021: calls 30
+*** TURN *** [3d Qd Th] [9d]
+Mahu2021: checks 
+Mansfield23: bets 60
+Mahu2021: calls 60
+*** RIVER *** [3d Qd Th 9d] [5h]
+Mahu2021: checks 
+Mansfield23: bets 150
+Mahu2021: folds 
+Uncalled bet (150) returned to Mansfield23
+Mansfield23 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [3d Qd Th 9d 5h]
+Seat 2: Mansfield23 (button) (small blind) collected (240)
+Seat 3: Mahu2021 (big blind) folded on the River
+
+
+
+PokerStars Hand #248814669343: Tournament #3714231741, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/02/11 10:47:58 CET [2024/02/11 4:47:58 ET]
+Table '3714231741 1' 3-max Seat #3 is the button
+Seat 2: Mansfield23 (1058 in chips) 
+Seat 3: Mahu2021 (442 in chips) 
+Mahu2021: posts small blind 15
+Mansfield23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c 9c]
+Mahu2021: folds 
+Uncalled bet (15) returned to Mansfield23
+Mansfield23 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 2: Mansfield23 (big blind) collected (30)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #248814670005: Tournament #3714231741, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/02/11 10:48:02 CET [2024/02/11 4:48:02 ET]
+Table '3714231741 1' 3-max Seat #2 is the button
+Seat 2: Mansfield23 (1073 in chips) 
+Seat 3: Mahu2021 (427 in chips) 
+Mansfield23: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh 6h]
+Mansfield23: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 2: Mansfield23 (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (30)
+
+
+
+PokerStars Hand #248814670657: Tournament #3714231741, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/02/11 10:48:07 CET [2024/02/11 4:48:07 ET]
+Table '3714231741 1' 3-max Seat #3 is the button
+Seat 2: Mansfield23 (1058 in chips) 
+Seat 3: Mahu2021 (442 in chips) 
+Mahu2021: posts small blind 15
+Mansfield23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h 4h]
+Mahu2021: folds 
+Uncalled bet (15) returned to Mansfield23
+Mansfield23 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 2: Mansfield23 (big blind) collected (30)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #248814671309: Tournament #3714231741, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/02/11 10:48:11 CET [2024/02/11 4:48:11 ET]
+Table '3714231741 1' 3-max Seat #2 is the button
+Seat 2: Mansfield23 (1073 in chips) 
+Seat 3: Mahu2021 (427 in chips) 
+Mansfield23: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js Tc]
+Mansfield23: raises 30 to 60
+Mahu2021: calls 30
+*** FLOP *** [9s 4d 7c]
+Mahu2021: checks 
+Mansfield23: checks 
+*** TURN *** [9s 4d 7c] [3h]
+Mahu2021: checks 
+Mansfield23: bets 60
+Mahu2021: folds 
+Uncalled bet (60) returned to Mansfield23
+Mansfield23 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [9s 4d 7c 3h]
+Seat 2: Mansfield23 (button) (small blind) collected (120)
+Seat 3: Mahu2021 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #248814673133: Tournament #3714231741, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/02/11 10:48:24 CET [2024/02/11 4:48:24 ET]
+Table '3714231741 1' 3-max Seat #3 is the button
+Seat 2: Mansfield23 (1133 in chips) 
+Seat 3: Mahu2021 (367 in chips) 
+Mahu2021: posts small blind 15
+Mansfield23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h 5h]
+Mahu2021: calls 15
+Mansfield23: checks 
+*** FLOP *** [9s 9c 7s]
+Mansfield23: checks 
+Mahu2021: bets 30
+Mansfield23: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [9s 9c 7s]
+Seat 2: Mansfield23 (big blind) folded on the Flop
+Seat 3: Mahu2021 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #248814674495: Tournament #3714231741, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/02/11 10:48:32 CET [2024/02/11 4:48:32 ET]
+Table '3714231741 1' 3-max Seat #2 is the button
+Seat 2: Mansfield23 (1103 in chips) 
+Seat 3: Mahu2021 (397 in chips) 
+Mansfield23: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h Td]
+Mansfield23: raises 30 to 60
+Mahu2021: folds 
+Uncalled bet (30) returned to Mansfield23
+Mansfield23 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: Mansfield23 (button) (small blind) collected (60)
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #248814675207: Tournament #3714231741, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/02/11 10:48:38 CET [2024/02/11 4:48:38 ET]
+Table '3714231741 1' 3-max Seat #3 is the button
+Seat 2: Mansfield23 (1133 in chips) 
+Seat 3: Mahu2021 (367 in chips) 
+Mahu2021: posts small blind 15
+Mansfield23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qd 2h]
+Mahu2021: folds 
+Uncalled bet (15) returned to Mansfield23
+Mansfield23 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 2: Mansfield23 (big blind) collected (30)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #248814675861: Tournament #3714231741, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/02/11 10:48:42 CET [2024/02/11 4:48:42 ET]
+Table '3714231741 1' 3-max Seat #2 is the button
+Seat 2: Mansfield23 (1148 in chips) 
+Seat 3: Mahu2021 (352 in chips) 
+Mansfield23: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c 3c]
+Mansfield23: raises 30 to 60
+Mahu2021: calls 30
+*** FLOP *** [4d Qd Tc]
+Mahu2021: checks 
+Mansfield23: bets 30
+Mahu2021: folds 
+Uncalled bet (30) returned to Mansfield23
+Mansfield23 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [4d Qd Tc]
+Seat 2: Mansfield23 (button) (small blind) collected (120)
+Seat 3: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #248814677732: Tournament #3714231741, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/02/11 10:48:54 CET [2024/02/11 4:48:54 ET]
+Table '3714231741 1' 3-max Seat #3 is the button
+Seat 2: Mansfield23 (1208 in chips) 
+Seat 3: Mahu2021 (292 in chips) 
+Mahu2021: posts small blind 20
+Mansfield23: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts Qh]
+Mahu2021: calls 20
+Mansfield23: checks 
+*** FLOP *** [8d 8h 6s]
+Mansfield23: checks 
+Mahu2021: checks 
+*** TURN *** [8d 8h 6s] [Ac]
+Mansfield23: bets 40
+Mahu2021: folds 
+Uncalled bet (40) returned to Mansfield23
+Mansfield23 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [8d 8h 6s Ac]
+Seat 2: Mansfield23 (big blind) collected (80)
+Seat 3: Mahu2021 (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #248814679414: Tournament #3714231741, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/02/11 10:49:06 CET [2024/02/11 4:49:06 ET]
+Table '3714231741 1' 3-max Seat #2 is the button
+Seat 2: Mansfield23 (1248 in chips) 
+Seat 3: Mahu2021 (252 in chips) 
+Mansfield23: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks 4d]
+Mansfield23: calls 20
+Mahu2021: raises 212 to 252 and is all-in
+Mansfield23: calls 212
+*** FLOP *** [Jd Jh 5c]
+*** TURN *** [Jd Jh 5c] [Kc]
+*** RIVER *** [Jd Jh 5c Kc] [9c]
+*** SHOW DOWN ***
+Mahu2021: shows [Ks 4d] (two pair, Kings and Jacks)
+Mansfield23: shows [6s Qc] (a pair of Jacks)
+Mahu2021 collected 504 from pot
+*** SUMMARY ***
+Total pot 504 | Rake 0 
+Board [Jd Jh 5c Kc 9c]
+Seat 2: Mansfield23 (button) (small blind) showed [6s Qc] and lost with a pair of Jacks
+Seat 3: Mahu2021 (big blind) showed [Ks 4d] and won (504) with two pair, Kings and Jacks
+
+
+
+PokerStars Hand #248814681512: Tournament #3714231741, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/02/11 10:49:20 CET [2024/02/11 4:49:20 ET]
+Table '3714231741 1' 3-max Seat #3 is the button
+Seat 2: Mansfield23 (996 in chips) 
+Seat 3: Mahu2021 (504 in chips) 
+Mahu2021: posts small blind 20
+Mansfield23: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5h Jc]
+Mahu2021: calls 20
+Mansfield23: checks 
+*** FLOP *** [Kd 3h Qs]
+Mansfield23: bets 40
+Mahu2021: folds 
+Uncalled bet (40) returned to Mansfield23
+Mansfield23 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Kd 3h Qs]
+Seat 2: Mansfield23 (big blind) collected (80)
+Seat 3: Mahu2021 (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #248814683173: Tournament #3714231741, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/02/11 10:49:31 CET [2024/02/11 4:49:31 ET]
+Table '3714231741 1' 3-max Seat #2 is the button
+Seat 2: Mansfield23 (1036 in chips) 
+Seat 3: Mahu2021 (464 in chips) 
+Mansfield23: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc As]
+Mansfield23: calls 20
+Mahu2021: raises 424 to 464 and is all-in
+Mansfield23: folds 
+Uncalled bet (424) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: Mansfield23 (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (80)
+
+
+
+PokerStars Hand #248814685760: Tournament #3714231741, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/02/11 10:49:48 CET [2024/02/11 4:49:48 ET]
+Table '3714231741 1' 3-max Seat #3 is the button
+Seat 2: Mansfield23 (996 in chips) 
+Seat 3: Mahu2021 (504 in chips) 
+Mahu2021: posts small blind 20
+Mansfield23: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qd 5c]
+Mahu2021: calls 20
+Mansfield23: checks 
+*** FLOP *** [5h 9s Qc]
+Mansfield23: checks 
+Mahu2021: checks 
+*** TURN *** [5h 9s Qc] [4d]
+Mansfield23: bets 40
+Mahu2021: raises 80 to 120
+Mansfield23: folds 
+Uncalled bet (80) returned to Mahu2021
+Mahu2021 collected 160 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [5h 9s Qc 4d]
+Seat 2: Mansfield23 (big blind) folded on the Turn
+Seat 3: Mahu2021 (button) (small blind) collected (160)
+
+
+
+PokerStars Hand #248814688841: Tournament #3714231741, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/02/11 10:50:09 CET [2024/02/11 4:50:09 ET]
+Table '3714231741 1' 3-max Seat #2 is the button
+Seat 2: Mansfield23 (916 in chips) 
+Seat 3: Mahu2021 (584 in chips) 
+Mansfield23: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Td 8h]
+Mansfield23: raises 80 to 120
+Mahu2021: folds 
+Uncalled bet (80) returned to Mansfield23
+Mansfield23 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: Mansfield23 (button) (small blind) collected (80)
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #248814689917: Tournament #3714231741, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/02/11 10:50:16 CET [2024/02/11 4:50:16 ET]
+Table '3714231741 1' 3-max Seat #3 is the button
+Seat 2: Mansfield23 (956 in chips) 
+Seat 3: Mahu2021 (544 in chips) 
+Mahu2021: posts small blind 20
+Mansfield23: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h 5h]
+Mahu2021: folds 
+Uncalled bet (20) returned to Mansfield23
+Mansfield23 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: Mansfield23 (big blind) collected (40)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #248814690605: Tournament #3714231741, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/02/11 10:50:21 CET [2024/02/11 4:50:21 ET]
+Table '3714231741 1' 3-max Seat #2 is the button
+Seat 2: Mansfield23 (976 in chips) 
+Seat 3: Mahu2021 (524 in chips) 
+Mansfield23: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6h Js]
+Mansfield23: raises 40 to 80
+Mahu2021: calls 40
+*** FLOP *** [Qc 8c 9d]
+Mahu2021: checks 
+Mansfield23: bets 80
+Mahu2021: folds 
+Uncalled bet (80) returned to Mansfield23
+Mansfield23 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Qc 8c 9d]
+Seat 2: Mansfield23 (button) (small blind) collected (160)
+Seat 3: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #248814692304: Tournament #3714231741, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/02/11 10:50:33 CET [2024/02/11 4:50:33 ET]
+Table '3714231741 1' 3-max Seat #3 is the button
+Seat 2: Mansfield23 (1056 in chips) 
+Seat 3: Mahu2021 (444 in chips) 
+Mahu2021: posts small blind 20
+Mansfield23: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4c 8c]
+Mahu2021: folds 
+Uncalled bet (20) returned to Mansfield23
+Mansfield23 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: Mansfield23 (big blind) collected (40)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #248814692942: Tournament #3714231741, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/02/11 10:50:37 CET [2024/02/11 4:50:37 ET]
+Table '3714231741 1' 3-max Seat #2 is the button
+Seat 2: Mansfield23 (1076 in chips) 
+Seat 3: Mahu2021 (424 in chips) 
+Mansfield23: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh Qd]
+Mansfield23: calls 20
+Mahu2021: raises 80 to 120
+Mansfield23: folds 
+Uncalled bet (80) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: Mansfield23 (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (80)
+
+
+
+PokerStars Hand #248814694635: Tournament #3714231741, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/02/11 10:50:48 CET [2024/02/11 4:50:48 ET]
+Table '3714231741 1' 3-max Seat #3 is the button
+Seat 2: Mansfield23 (1036 in chips) 
+Seat 3: Mahu2021 (464 in chips) 
+Mahu2021: posts small blind 30
+Mansfield23: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh 7d]
+Mahu2021: raises 404 to 464 and is all-in
+Mansfield23: calls 404
+*** FLOP *** [Kc 9c 5h]
+*** TURN *** [Kc 9c 5h] [9h]
+*** RIVER *** [Kc 9c 5h 9h] [7h]
+*** SHOW DOWN ***
+Mansfield23: shows [Ad Ks] (two pair, Kings and Nines)
+Mahu2021: shows [Kh 7d] (two pair, Kings and Nines - lower kicker)
+Mansfield23 collected 928 from pot
+Mahu2021 finished the tournament in 2nd place
+Mansfield23 wins the tournament and receives $4.00 - congratulations!
+*** SUMMARY ***
+Total pot 928 | Rake 0 
+Board [Kc 9c 5h 9h 7h]
+Seat 2: Mansfield23 (big blind) showed [Ad Ks] and won (928) with two pair, Kings and Nines
+Seat 3: Mahu2021 (button) (small blind) showed [Kh 7d] and lost with two pair, Kings and Nines
+
+
+

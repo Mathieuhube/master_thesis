@@ -1,0 +1,1034 @@
+﻿PokerStars Hand #242992983340: Tournament #3575227909, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/09 23:21:23 CET [2023/04/09 17:21:23 ET]
+Table '3575227909 1' 3-max Seat #1 is the button
+Seat 1: MelodicChaos (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: Sticcc (500 in chips) 
+Mahu2021: posts small blind 10
+Sticcc: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h Ts]
+MelodicChaos: calls 20
+Mahu2021: folds 
+Sticcc: checks 
+*** FLOP *** [8s 8d 9d]
+Sticcc: checks 
+MelodicChaos: bets 20
+Sticcc: folds 
+Uncalled bet (20) returned to MelodicChaos
+MelodicChaos collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [8s 8d 9d]
+Seat 1: MelodicChaos (button) collected (50)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: Sticcc (big blind) folded on the Flop
+
+
+
+PokerStars Hand #242992996260: Tournament #3575227909, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/09 23:21:53 CET [2023/04/09 17:21:53 ET]
+Table '3575227909 1' 3-max Seat #2 is the button
+Seat 1: MelodicChaos (530 in chips) 
+Seat 2: Mahu2021 (490 in chips) 
+Seat 3: Sticcc (480 in chips) 
+Sticcc: posts small blind 10
+MelodicChaos: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah 7c]
+Mahu2021: raises 20 to 40
+Sticcc: folds 
+MelodicChaos: calls 20
+*** FLOP *** [5d 3c 9c]
+MelodicChaos: checks 
+Mahu2021: checks 
+*** TURN *** [5d 3c 9c] [Ac]
+MelodicChaos: bets 40
+Mahu2021: calls 40
+*** RIVER *** [5d 3c 9c Ac] [Qd]
+MelodicChaos: bets 80
+Mahu2021: calls 80
+*** SHOW DOWN ***
+MelodicChaos: shows [8s 6s] (high card Ace)
+Mahu2021: shows [Ah 7c] (a pair of Aces)
+Mahu2021 collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | Rake 0 
+Board [5d 3c 9c Ac Qd]
+Seat 1: MelodicChaos (big blind) showed [8s 6s] and lost with high card Ace
+Seat 2: Mahu2021 (button) showed [Ah 7c] and won (330) with a pair of Aces
+Seat 3: Sticcc (small blind) folded before Flop
+
+
+
+PokerStars Hand #242993013259: Tournament #3575227909, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/09 23:22:32 CET [2023/04/09 17:22:32 ET]
+Table '3575227909 1' 3-max Seat #3 is the button
+Seat 1: MelodicChaos (370 in chips) 
+Seat 2: Mahu2021 (660 in chips) 
+Seat 3: Sticcc (470 in chips) 
+MelodicChaos: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6h 4c]
+Sticcc: raises 20 to 40
+MelodicChaos: raises 20 to 60
+Mahu2021: folds 
+Sticcc: calls 20
+*** FLOP *** [8c 2s Js]
+MelodicChaos: checks 
+Sticcc: bets 40
+MelodicChaos: folds 
+Uncalled bet (40) returned to Sticcc
+Sticcc collected 140 from pot
+Sticcc: doesn't show hand 
+*** SUMMARY ***
+Total pot 140 | Rake 0 
+Board [8c 2s Js]
+Seat 1: MelodicChaos (small blind) folded on the Flop
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: Sticcc (button) collected (140)
+
+
+
+PokerStars Hand #242993027288: Tournament #3575227909, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/09 23:23:05 CET [2023/04/09 17:23:05 ET]
+Table '3575227909 1' 3-max Seat #1 is the button
+Seat 1: MelodicChaos (310 in chips) 
+Seat 2: Mahu2021 (640 in chips) 
+Seat 3: Sticcc (550 in chips) 
+Mahu2021: posts small blind 10
+Sticcc: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4d 2c]
+MelodicChaos: calls 20
+Mahu2021: folds 
+Sticcc: checks 
+*** FLOP *** [Ac 9s Td]
+Sticcc: checks 
+MelodicChaos: checks 
+*** TURN *** [Ac 9s Td] [2h]
+Sticcc: checks 
+MelodicChaos: checks 
+*** RIVER *** [Ac 9s Td 2h] [Ah]
+Sticcc: checks 
+MelodicChaos: checks 
+*** SHOW DOWN ***
+Sticcc: shows [Ks 4s] (a pair of Aces)
+MelodicChaos: shows [Kc 4c] (a pair of Aces)
+Sticcc collected 25 from pot
+MelodicChaos collected 25 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [Ac 9s Td 2h Ah]
+Seat 1: MelodicChaos (button) showed [Kc 4c] and won (25) with a pair of Aces
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: Sticcc (big blind) showed [Ks 4s] and won (25) with a pair of Aces
+
+
+
+PokerStars Hand #242993044188: Tournament #3575227909, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/09 23:23:44 CET [2023/04/09 17:23:44 ET]
+Table '3575227909 1' 3-max Seat #2 is the button
+Seat 1: MelodicChaos (315 in chips) 
+Seat 2: Mahu2021 (630 in chips) 
+Seat 3: Sticcc (555 in chips) 
+Sticcc: posts small blind 10
+MelodicChaos: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Th 4c]
+Mahu2021: folds 
+Sticcc: raises 20 to 40
+MelodicChaos: calls 20
+*** FLOP *** [3h 8d 7h]
+Sticcc: bets 40
+MelodicChaos: folds 
+Uncalled bet (40) returned to Sticcc
+Sticcc collected 80 from pot
+Sticcc: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [3h 8d 7h]
+Seat 1: MelodicChaos (big blind) folded on the Flop
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: Sticcc (small blind) collected (80)
+
+
+
+PokerStars Hand #242993052427: Tournament #3575227909, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/09 23:24:03 CET [2023/04/09 17:24:03 ET]
+Table '3575227909 1' 3-max Seat #3 is the button
+Seat 1: MelodicChaos (275 in chips) 
+Seat 2: Mahu2021 (630 in chips) 
+Seat 3: Sticcc (595 in chips) 
+MelodicChaos: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8d 3h]
+Sticcc: folds 
+MelodicChaos: raises 20 to 40
+Mahu2021: folds 
+Uncalled bet (20) returned to MelodicChaos
+MelodicChaos collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: MelodicChaos (small blind) collected (40)
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: Sticcc (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #242993055571: Tournament #3575227909, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/09 23:24:10 CET [2023/04/09 17:24:10 ET]
+Table '3575227909 1' 3-max Seat #1 is the button
+Seat 1: MelodicChaos (295 in chips) 
+Seat 2: Mahu2021 (610 in chips) 
+Seat 3: Sticcc (595 in chips) 
+Mahu2021: posts small blind 10
+Sticcc: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2s Jd]
+MelodicChaos: calls 20
+Mahu2021: calls 10
+Sticcc: checks 
+*** FLOP *** [8c 4c Qs]
+Mahu2021: checks 
+Sticcc: bets 20
+MelodicChaos: folds 
+Mahu2021: folds 
+Uncalled bet (20) returned to Sticcc
+Sticcc collected 60 from pot
+Sticcc: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [8c 4c Qs]
+Seat 1: MelodicChaos (button) folded on the Flop
+Seat 2: Mahu2021 (small blind) folded on the Flop
+Seat 3: Sticcc (big blind) collected (60)
+
+
+
+PokerStars Hand #242993064688: Tournament #3575227909, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/09 23:24:31 CET [2023/04/09 17:24:31 ET]
+Table '3575227909 1' 3-max Seat #2 is the button
+Seat 1: MelodicChaos (275 in chips) 
+Seat 2: Mahu2021 (590 in chips) 
+Seat 3: Sticcc (635 in chips) 
+Sticcc: posts small blind 15
+MelodicChaos: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d 6c]
+Mahu2021: raises 560 to 590 and is all-in
+Sticcc: folds 
+MelodicChaos: folds 
+Uncalled bet (560) returned to Mahu2021
+Mahu2021 collected 75 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: MelodicChaos (big blind) folded before Flop
+Seat 2: Mahu2021 (button) collected (75)
+Seat 3: Sticcc (small blind) folded before Flop
+
+
+
+PokerStars Hand #242993069328: Tournament #3575227909, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/09 23:24:42 CET [2023/04/09 17:24:42 ET]
+Table '3575227909 1' 3-max Seat #3 is the button
+Seat 1: MelodicChaos (245 in chips) 
+Seat 2: Mahu2021 (635 in chips) 
+Seat 3: Sticcc (620 in chips) 
+MelodicChaos: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc Td]
+Sticcc: raises 30 to 60
+MelodicChaos: folds 
+Mahu2021: calls 30
+*** FLOP *** [7d 6c 9s]
+Mahu2021: checks 
+Sticcc: bets 30
+Mahu2021: calls 30
+*** TURN *** [7d 6c 9s] [Ts]
+Mahu2021: checks 
+Sticcc: checks 
+*** RIVER *** [7d 6c 9s Ts] [Ks]
+Mahu2021: checks 
+Sticcc: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [Qc Td] (a pair of Tens)
+Sticcc: mucks hand 
+Mahu2021 collected 195 from pot
+*** SUMMARY ***
+Total pot 195 | Rake 0 
+Board [7d 6c 9s Ts Ks]
+Seat 1: MelodicChaos (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) showed [Qc Td] and won (195) with a pair of Tens
+Seat 3: Sticcc (button) mucked [7h Ah]
+
+
+
+PokerStars Hand #242993083960: Tournament #3575227909, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/09 23:25:16 CET [2023/04/09 17:25:16 ET]
+Table '3575227909 1' 3-max Seat #1 is the button
+Seat 1: MelodicChaos (230 in chips) 
+Seat 2: Mahu2021 (740 in chips) 
+Seat 3: Sticcc (530 in chips) 
+Mahu2021: posts small blind 15
+Sticcc: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Td Ks]
+MelodicChaos: calls 30
+Mahu2021: calls 15
+Sticcc: checks 
+*** FLOP *** [Qs 9c Ac]
+Mahu2021: checks 
+Sticcc: checks 
+MelodicChaos: checks 
+*** TURN *** [Qs 9c Ac] [Ad]
+Mahu2021: checks 
+Sticcc: checks 
+MelodicChaos: bets 60
+Mahu2021: folds 
+Sticcc: folds 
+Uncalled bet (60) returned to MelodicChaos
+MelodicChaos collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [Qs 9c Ac Ad]
+Seat 1: MelodicChaos (button) collected (90)
+Seat 2: Mahu2021 (small blind) folded on the Turn
+Seat 3: Sticcc (big blind) folded on the Turn
+
+
+
+PokerStars Hand #242993097270: Tournament #3575227909, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/09 23:25:47 CET [2023/04/09 17:25:47 ET]
+Table '3575227909 1' 3-max Seat #2 is the button
+Seat 1: MelodicChaos (290 in chips) 
+Seat 2: Mahu2021 (710 in chips) 
+Seat 3: Sticcc (500 in chips) 
+Sticcc: posts small blind 15
+MelodicChaos: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h 2c]
+Mahu2021: folds 
+Sticcc: raises 30 to 60
+MelodicChaos: calls 30
+*** FLOP *** [Kh 5s As]
+Sticcc: checks 
+MelodicChaos: bets 60
+Sticcc: folds 
+Uncalled bet (60) returned to MelodicChaos
+MelodicChaos collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Kh 5s As]
+Seat 1: MelodicChaos (big blind) collected (120)
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: Sticcc (small blind) folded on the Flop
+
+
+
+PokerStars Hand #242993105119: Tournament #3575227909, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/09 23:26:05 CET [2023/04/09 17:26:05 ET]
+Table '3575227909 1' 3-max Seat #3 is the button
+Seat 1: MelodicChaos (350 in chips) 
+Seat 2: Mahu2021 (710 in chips) 
+Seat 3: Sticcc (440 in chips) 
+MelodicChaos: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c Ac]
+Sticcc: folds 
+MelodicChaos: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: MelodicChaos (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (30)
+Seat 3: Sticcc (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #242993108841: Tournament #3575227909, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/09 23:26:14 CET [2023/04/09 17:26:14 ET]
+Table '3575227909 1' 3-max Seat #1 is the button
+Seat 1: MelodicChaos (335 in chips) 
+Seat 2: Mahu2021 (725 in chips) 
+Seat 3: Sticcc (440 in chips) 
+Mahu2021: posts small blind 15
+Sticcc: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4d Th]
+MelodicChaos: calls 30
+Mahu2021: folds 
+Sticcc: checks 
+*** FLOP *** [4c Qc 8c]
+Sticcc: checks 
+MelodicChaos: checks 
+*** TURN *** [4c Qc 8c] [4s]
+Sticcc: bets 30
+MelodicChaos: calls 30
+*** RIVER *** [4c Qc 8c 4s] [Js]
+Sticcc: checks 
+MelodicChaos: bets 90
+Sticcc: folds 
+Uncalled bet (90) returned to MelodicChaos
+MelodicChaos collected 135 from pot
+*** SUMMARY ***
+Total pot 135 | Rake 0 
+Board [4c Qc 8c 4s Js]
+Seat 1: MelodicChaos (button) collected (135)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: Sticcc (big blind) folded on the River
+
+
+
+PokerStars Hand #242993127389: Tournament #3575227909, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/09 23:26:57 CET [2023/04/09 17:26:57 ET]
+Table '3575227909 1' 3-max Seat #2 is the button
+Seat 1: MelodicChaos (410 in chips) 
+Seat 2: Mahu2021 (710 in chips) 
+Seat 3: Sticcc (380 in chips) 
+Sticcc: posts small blind 15
+MelodicChaos: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c Ac]
+Mahu2021: raises 30 to 60
+Sticcc: folds 
+MelodicChaos: calls 30
+*** FLOP *** [Td 6h 3h]
+MelodicChaos: checks 
+Mahu2021: checks 
+*** TURN *** [Td 6h 3h] [8d]
+MelodicChaos: checks 
+Mahu2021: checks 
+*** RIVER *** [Td 6h 3h 8d] [2s]
+MelodicChaos: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+MelodicChaos: shows [9s Kh] (high card King)
+Mahu2021: shows [7c Ac] (high card Ace)
+Mahu2021 collected 135 from pot
+*** SUMMARY ***
+Total pot 135 | Rake 0 
+Board [Td 6h 3h 8d 2s]
+Seat 1: MelodicChaos (big blind) showed [9s Kh] and lost with high card King
+Seat 2: Mahu2021 (button) showed [7c Ac] and won (135) with high card Ace
+Seat 3: Sticcc (small blind) folded before Flop
+
+
+
+PokerStars Hand #242993145095: Tournament #3575227909, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/09 23:27:38 CET [2023/04/09 17:27:38 ET]
+Table '3575227909 1' 3-max Seat #3 is the button
+Seat 1: MelodicChaos (350 in chips) 
+Seat 2: Mahu2021 (785 in chips) 
+Seat 3: Sticcc (365 in chips) 
+MelodicChaos: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s 6d]
+Sticcc: folds 
+MelodicChaos: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: MelodicChaos (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (40)
+Seat 3: Sticcc (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #242993148067: Tournament #3575227909, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/09 23:27:45 CET [2023/04/09 17:27:45 ET]
+Table '3575227909 1' 3-max Seat #1 is the button
+Seat 1: MelodicChaos (330 in chips) 
+Seat 2: Mahu2021 (805 in chips) 
+Seat 3: Sticcc (365 in chips) 
+Mahu2021: posts small blind 20
+Sticcc: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5h 4c]
+MelodicChaos: folds 
+Mahu2021: calls 20
+Sticcc: checks 
+*** FLOP *** [Qd Ac Ts]
+Mahu2021: checks 
+Sticcc: checks 
+*** TURN *** [Qd Ac Ts] [9h]
+Mahu2021: bets 40
+Sticcc: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Qd Ac Ts 9h]
+Seat 1: MelodicChaos (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) collected (80)
+Seat 3: Sticcc (big blind) folded on the Turn
+
+
+
+PokerStars Hand #242993158658: Tournament #3575227909, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/09 23:28:09 CET [2023/04/09 17:28:09 ET]
+Table '3575227909 1' 3-max Seat #2 is the button
+Seat 1: MelodicChaos (330 in chips) 
+Seat 2: Mahu2021 (845 in chips) 
+Seat 3: Sticcc (325 in chips) 
+Sticcc: posts small blind 20
+MelodicChaos: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh 2d]
+Mahu2021: folds 
+Sticcc: calls 20
+MelodicChaos: raises 40 to 80
+Sticcc: calls 40
+*** FLOP *** [Ac 9s Ah]
+Sticcc: checks 
+MelodicChaos: bets 80
+Sticcc: folds 
+Uncalled bet (80) returned to MelodicChaos
+MelodicChaos collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Ac 9s Ah]
+Seat 1: MelodicChaos (big blind) collected (160)
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: Sticcc (small blind) folded on the Flop
+
+
+
+PokerStars Hand #242993169144: Tournament #3575227909, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/09 23:28:34 CET [2023/04/09 17:28:34 ET]
+Table '3575227909 1' 3-max Seat #3 is the button
+Seat 1: MelodicChaos (410 in chips) 
+Seat 2: Mahu2021 (845 in chips) 
+Seat 3: Sticcc (245 in chips) 
+MelodicChaos: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc Jd]
+Sticcc: folds 
+MelodicChaos: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: MelodicChaos (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (40)
+Seat 3: Sticcc (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #242993173598: Tournament #3575227909, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/09 23:28:44 CET [2023/04/09 17:28:44 ET]
+Table '3575227909 1' 3-max Seat #1 is the button
+Seat 1: MelodicChaos (390 in chips) 
+Seat 2: Mahu2021 (865 in chips) 
+Seat 3: Sticcc (245 in chips) 
+Mahu2021: posts small blind 20
+Sticcc: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd Td]
+MelodicChaos: raises 40 to 80
+Mahu2021: calls 60
+Sticcc: folds 
+*** FLOP *** [2h Th 3d]
+Mahu2021: bets 785 and is all-in
+MelodicChaos: folds 
+Uncalled bet (785) returned to Mahu2021
+Mahu2021 collected 200 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [2h Th 3d]
+Seat 1: MelodicChaos (button) folded on the Flop
+Seat 2: Mahu2021 (small blind) collected (200)
+Seat 3: Sticcc (big blind) folded before Flop
+
+
+
+PokerStars Hand #242993186897: Tournament #3575227909, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/09 23:29:15 CET [2023/04/09 17:29:15 ET]
+Table '3575227909 1' 3-max Seat #2 is the button
+Seat 1: MelodicChaos (310 in chips) 
+Seat 2: Mahu2021 (985 in chips) 
+Seat 3: Sticcc (205 in chips) 
+Sticcc: posts small blind 20
+MelodicChaos: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kc Jc]
+Mahu2021: raises 40 to 80
+Sticcc: folds 
+MelodicChaos: calls 40
+*** FLOP *** [Th Qh Ks]
+MelodicChaos: checks 
+Mahu2021: bets 905 and is all-in
+MelodicChaos: folds 
+Uncalled bet (905) returned to Mahu2021
+Mahu2021 collected 180 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [Th Qh Ks]
+Seat 1: MelodicChaos (big blind) folded on the Flop
+Seat 2: Mahu2021 (button) collected (180)
+Seat 3: Sticcc (small blind) folded before Flop
+
+
+
+PokerStars Hand #242993194116: Tournament #3575227909, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/09 23:29:32 CET [2023/04/09 17:29:32 ET]
+Table '3575227909 1' 3-max Seat #3 is the button
+Seat 1: MelodicChaos (230 in chips) 
+Seat 2: Mahu2021 (1085 in chips) 
+Seat 3: Sticcc (185 in chips) 
+MelodicChaos: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah 5h]
+Sticcc: raises 145 to 185 and is all-in
+MelodicChaos: folds 
+Mahu2021: calls 145
+*** FLOP *** [Td Tc As]
+*** TURN *** [Td Tc As] [6s]
+*** RIVER *** [Td Tc As 6s] [8d]
+*** SHOW DOWN ***
+Mahu2021: shows [Ah 5h] (two pair, Aces and Tens)
+Sticcc: shows [Ks 7h] (a pair of Tens)
+Mahu2021 collected 390 from pot
+Sticcc finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 390 | Rake 0 
+Board [Td Tc As 6s 8d]
+Seat 1: MelodicChaos (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) showed [Ah 5h] and won (390) with two pair, Aces and Tens
+Seat 3: Sticcc (button) showed [Ks 7h] and lost with a pair of Tens
+
+
+
+PokerStars Hand #242993205086: Tournament #3575227909, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/09 23:29:57 CET [2023/04/09 17:29:57 ET]
+Table '3575227909 1' 3-max Seat #2 is the button
+Seat 1: MelodicChaos (210 in chips) 
+Seat 2: Mahu2021 (1290 in chips) 
+Mahu2021: posts small blind 20
+MelodicChaos: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc 9d]
+Mahu2021: raises 1250 to 1290 and is all-in
+MelodicChaos: folds 
+Uncalled bet (1250) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: MelodicChaos (big blind) folded before Flop
+Seat 2: Mahu2021 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #242993208492: Tournament #3575227909, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/09 23:30:05 CET [2023/04/09 17:30:05 ET]
+Table '3575227909 1' 3-max Seat #1 is the button
+Seat 1: MelodicChaos (170 in chips) 
+Seat 2: Mahu2021 (1330 in chips) 
+MelodicChaos: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h 4d]
+MelodicChaos: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: MelodicChaos (button) (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (40)
+
+
+
+PokerStars Hand #242993210626: Tournament #3575227909, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/09 23:30:10 CET [2023/04/09 17:30:10 ET]
+Table '3575227909 1' 3-max Seat #2 is the button
+Seat 1: MelodicChaos (150 in chips) 
+Seat 2: Mahu2021 (1350 in chips) 
+Mahu2021: posts small blind 20
+MelodicChaos: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah 9c]
+Mahu2021: raises 1310 to 1350 and is all-in
+MelodicChaos: calls 110 and is all-in
+Uncalled bet (1200) returned to Mahu2021
+*** FLOP *** [As 5d Th]
+*** TURN *** [As 5d Th] [Jc]
+*** RIVER *** [As 5d Th Jc] [Qs]
+*** SHOW DOWN ***
+MelodicChaos: shows [Ad Qh] (two pair, Aces and Queens)
+Mahu2021: shows [Ah 9c] (a pair of Aces)
+MelodicChaos collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [As 5d Th Jc Qs]
+Seat 1: MelodicChaos (big blind) showed [Ad Qh] and won (300) with two pair, Aces and Queens
+Seat 2: Mahu2021 (button) (small blind) showed [Ah 9c] and lost with a pair of Aces
+
+
+
+PokerStars Hand #242993222488: Tournament #3575227909, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/04/09 23:30:38 CET [2023/04/09 17:30:38 ET]
+Table '3575227909 1' 3-max Seat #1 is the button
+Seat 1: MelodicChaos (300 in chips) 
+Seat 2: Mahu2021 (1200 in chips) 
+MelodicChaos: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s 9c]
+MelodicChaos: calls 30
+Mahu2021: checks 
+*** FLOP *** [Jd Ts Th]
+Mahu2021: bets 60
+MelodicChaos: raises 180 to 240 and is all-in
+Mahu2021: folds 
+Uncalled bet (180) returned to MelodicChaos
+MelodicChaos collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Jd Ts Th]
+Seat 1: MelodicChaos (button) (small blind) collected (240)
+Seat 2: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #242993228240: Tournament #3575227909, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/04/09 23:30:51 CET [2023/04/09 17:30:51 ET]
+Table '3575227909 1' 3-max Seat #2 is the button
+Seat 1: MelodicChaos (420 in chips) 
+Seat 2: Mahu2021 (1080 in chips) 
+Mahu2021: posts small blind 30
+MelodicChaos: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c 7h]
+Mahu2021: calls 30
+MelodicChaos: raises 60 to 120
+Mahu2021: calls 60
+*** FLOP *** [8d Qs 5s]
+MelodicChaos: bets 300 and is all-in
+Mahu2021: folds 
+Uncalled bet (300) returned to MelodicChaos
+MelodicChaos collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [8d Qs 5s]
+Seat 1: MelodicChaos (big blind) collected (240)
+Seat 2: Mahu2021 (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #242993233521: Tournament #3575227909, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/04/09 23:31:03 CET [2023/04/09 17:31:03 ET]
+Table '3575227909 1' 3-max Seat #1 is the button
+Seat 1: MelodicChaos (540 in chips) 
+Seat 2: Mahu2021 (960 in chips) 
+MelodicChaos: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh Th]
+MelodicChaos: calls 30
+Mahu2021: raises 900 to 960 and is all-in
+MelodicChaos: folds 
+Uncalled bet (900) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: MelodicChaos (button) (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (120)
+
+
+
+PokerStars Hand #242993236945: Tournament #3575227909, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/04/09 23:31:11 CET [2023/04/09 17:31:11 ET]
+Table '3575227909 1' 3-max Seat #2 is the button
+Seat 1: MelodicChaos (480 in chips) 
+Seat 2: Mahu2021 (1020 in chips) 
+Mahu2021: posts small blind 30
+MelodicChaos: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d Th]
+Mahu2021: folds 
+Uncalled bet (30) returned to MelodicChaos
+MelodicChaos collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: MelodicChaos (big blind) collected (60)
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #242993238924: Tournament #3575227909, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/04/09 23:31:16 CET [2023/04/09 17:31:16 ET]
+Table '3575227909 1' 3-max Seat #1 is the button
+Seat 1: MelodicChaos (510 in chips) 
+Seat 2: Mahu2021 (990 in chips) 
+MelodicChaos: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh Qc]
+MelodicChaos: calls 30
+Mahu2021: raises 930 to 990 and is all-in
+MelodicChaos: folds 
+Uncalled bet (930) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: MelodicChaos (button) (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (120)
+
+
+
+PokerStars Hand #242993243068: Tournament #3575227909, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/04/09 23:31:25 CET [2023/04/09 17:31:25 ET]
+Table '3575227909 1' 3-max Seat #2 is the button
+Seat 1: MelodicChaos (450 in chips) 
+Seat 2: Mahu2021 (1050 in chips) 
+Mahu2021: posts small blind 30
+MelodicChaos: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h 4c]
+Mahu2021: folds 
+Uncalled bet (30) returned to MelodicChaos
+MelodicChaos collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: MelodicChaos (big blind) collected (60)
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #242993245219: Tournament #3575227909, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/04/09 23:31:31 CET [2023/04/09 17:31:31 ET]
+Table '3575227909 1' 3-max Seat #1 is the button
+Seat 1: MelodicChaos (480 in chips) 
+Seat 2: Mahu2021 (1020 in chips) 
+MelodicChaos: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Td 2c]
+MelodicChaos: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: MelodicChaos (button) (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (60)
+
+
+
+PokerStars Hand #242993247154: Tournament #3575227909, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/04/09 23:31:35 CET [2023/04/09 17:31:35 ET]
+Table '3575227909 1' 3-max Seat #2 is the button
+Seat 1: MelodicChaos (450 in chips) 
+Seat 2: Mahu2021 (1050 in chips) 
+Mahu2021: posts small blind 30
+MelodicChaos: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6h 4d]
+Mahu2021: calls 30
+MelodicChaos: checks 
+*** FLOP *** [Qs 7h 4h]
+MelodicChaos: bets 60
+Mahu2021: calls 60
+*** TURN *** [Qs 7h 4h] [Ks]
+MelodicChaos: bets 120
+Mahu2021: folds 
+Uncalled bet (120) returned to MelodicChaos
+MelodicChaos collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Qs 7h 4h Ks]
+Seat 1: MelodicChaos (big blind) collected (240)
+Seat 2: Mahu2021 (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #242993254397: Tournament #3575227909, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/04/09 23:31:52 CET [2023/04/09 17:31:52 ET]
+Table '3575227909 1' 3-max Seat #1 is the button
+Seat 1: MelodicChaos (570 in chips) 
+Seat 2: Mahu2021 (930 in chips) 
+MelodicChaos: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac 5d]
+MelodicChaos: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: MelodicChaos (button) (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (60)
+
+
+
+PokerStars Hand #242993256407: Tournament #3575227909, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/04/09 23:31:57 CET [2023/04/09 17:31:57 ET]
+Table '3575227909 1' 3-max Seat #2 is the button
+Seat 1: MelodicChaos (540 in chips) 
+Seat 2: Mahu2021 (960 in chips) 
+Mahu2021: posts small blind 30
+MelodicChaos: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kc 3d]
+Mahu2021: raises 900 to 960 and is all-in
+MelodicChaos: folds 
+Uncalled bet (900) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: MelodicChaos (big blind) folded before Flop
+Seat 2: Mahu2021 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #242993259086: Tournament #3575227909, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/04/09 23:32:03 CET [2023/04/09 17:32:03 ET]
+Table '3575227909 1' 3-max Seat #1 is the button
+Seat 1: MelodicChaos (480 in chips) 
+Seat 2: Mahu2021 (1020 in chips) 
+MelodicChaos: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c 5s]
+MelodicChaos: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: MelodicChaos (button) (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (60)
+
+
+
+PokerStars Hand #242993261311: Tournament #3575227909, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/04/09 23:32:09 CET [2023/04/09 17:32:09 ET]
+Table '3575227909 1' 3-max Seat #2 is the button
+Seat 1: MelodicChaos (450 in chips) 
+Seat 2: Mahu2021 (1050 in chips) 
+Mahu2021: posts small blind 30
+MelodicChaos: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s Kd]
+Mahu2021: raises 990 to 1050 and is all-in
+MelodicChaos: folds 
+Uncalled bet (990) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: MelodicChaos (big blind) folded before Flop
+Seat 2: Mahu2021 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #242993263965: Tournament #3575227909, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/04/09 23:32:15 CET [2023/04/09 17:32:15 ET]
+Table '3575227909 1' 3-max Seat #1 is the button
+Seat 1: MelodicChaos (390 in chips) 
+Seat 2: Mahu2021 (1110 in chips) 
+MelodicChaos: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h Qd]
+MelodicChaos: calls 30
+Mahu2021: checks 
+*** FLOP *** [6d 3c 9c]
+Mahu2021: checks 
+MelodicChaos: bets 120
+Mahu2021: folds 
+Uncalled bet (120) returned to MelodicChaos
+MelodicChaos collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [6d 3c 9c]
+Seat 1: MelodicChaos (button) (small blind) collected (120)
+Seat 2: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #242993269494: Tournament #3575227909, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/04/09 23:32:28 CET [2023/04/09 17:32:28 ET]
+Table '3575227909 1' 3-max Seat #2 is the button
+Seat 1: MelodicChaos (450 in chips) 
+Seat 2: Mahu2021 (1050 in chips) 
+Mahu2021: posts small blind 30
+MelodicChaos: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h 7d]
+Mahu2021: folds 
+Uncalled bet (30) returned to MelodicChaos
+MelodicChaos collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: MelodicChaos (big blind) collected (60)
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #242993271580: Tournament #3575227909, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/04/09 23:32:33 CET [2023/04/09 17:32:33 ET]
+Table '3575227909 1' 3-max Seat #1 is the button
+Seat 1: MelodicChaos (480 in chips) 
+Seat 2: Mahu2021 (1020 in chips) 
+MelodicChaos: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8d Qs]
+MelodicChaos: calls 30
+Mahu2021: checks 
+*** FLOP *** [3c Ac 8c]
+Mahu2021: checks 
+MelodicChaos: bets 60
+Mahu2021: calls 60
+*** TURN *** [3c Ac 8c] [4h]
+Mahu2021: checks 
+MelodicChaos: bets 120
+Mahu2021: calls 120
+*** RIVER *** [3c Ac 8c 4h] [3s]
+Mahu2021: bets 780 and is all-in
+MelodicChaos: folds 
+Uncalled bet (780) returned to Mahu2021
+Mahu2021 collected 480 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Board [3c Ac 8c 4h 3s]
+Seat 1: MelodicChaos (button) (small blind) folded on the River
+Seat 2: Mahu2021 (big blind) collected (480)
+
+
+
+PokerStars Hand #242993279896: Tournament #3575227909, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/04/09 23:32:53 CET [2023/04/09 17:32:53 ET]
+Table '3575227909 1' 3-max Seat #2 is the button
+Seat 1: MelodicChaos (240 in chips) 
+Seat 2: Mahu2021 (1260 in chips) 
+Mahu2021: posts small blind 30
+MelodicChaos: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh Jc]
+Mahu2021: raises 1200 to 1260 and is all-in
+MelodicChaos: folds 
+Uncalled bet (1200) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: MelodicChaos (big blind) folded before Flop
+Seat 2: Mahu2021 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #242993284113: Tournament #3575227909, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/04/09 23:33:03 CET [2023/04/09 17:33:03 ET]
+Table '3575227909 1' 3-max Seat #1 is the button
+Seat 1: MelodicChaos (180 in chips) 
+Seat 2: Mahu2021 (1320 in chips) 
+MelodicChaos: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5h 7h]
+MelodicChaos: calls 30
+Mahu2021: checks 
+*** FLOP *** [Jd 5s 7d]
+Mahu2021: checks 
+MelodicChaos: bets 120 and is all-in
+Mahu2021: calls 120
+*** TURN *** [Jd 5s 7d] [6s]
+*** RIVER *** [Jd 5s 7d 6s] [Ah]
+*** SHOW DOWN ***
+Mahu2021: shows [5h 7h] (two pair, Sevens and Fives)
+MelodicChaos: shows [Kd 4c] (high card Ace)
+Mahu2021 collected 360 from pot
+MelodicChaos finished the tournament in 2nd place
+Mahu2021 wins the tournament and receives $5.00 - congratulations!
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [Jd 5s 7d 6s Ah]
+Seat 1: MelodicChaos (button) (small blind) showed [Kd 4c] and lost with high card Ace
+Seat 2: Mahu2021 (big blind) showed [5h 7h] and won (360) with two pair, Sevens and Fives
+
+
+

@@ -1,0 +1,930 @@
+﻿PokerStars Hand #253038940996: Tournament #3815018139, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/21 21:28:11 CET [2024/10/21 15:28:11 ET]
+Table '3815018139 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: Veckk (500 in chips) 
+Seat 3: Minglys (500 in chips) 
+Veckk: posts small blind 10
+Minglys: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah Jh]
+Mahu2021: raises 20 to 40
+Veckk: folds 
+Minglys: calls 20
+*** FLOP *** [Ts Js 3c]
+Minglys: checks 
+Mahu2021: bets 40
+Minglys: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 90 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [Ts Js 3c]
+Seat 1: Mahu2021 (button) collected (90)
+Seat 2: Veckk (small blind) folded before Flop
+Seat 3: Minglys (big blind) folded on the Flop
+
+
+
+PokerStars Hand #253038949426: Tournament #3815018139, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/21 21:28:38 CET [2024/10/21 15:28:38 ET]
+Table '3815018139 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (550 in chips) 
+Seat 2: Veckk (490 in chips) 
+Seat 3: Minglys (460 in chips) 
+Minglys: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Th Kh]
+Veckk: folds 
+Minglys: folds 
+Uncalled bet (10) returned to Mahu2021
+Mahu2021 collected 20 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (20)
+Seat 2: Veckk (button) folded before Flop (didn't bet)
+Seat 3: Minglys (small blind) folded before Flop
+
+
+
+PokerStars Hand #253038951285: Tournament #3815018139, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/21 21:28:44 CET [2024/10/21 15:28:44 ET]
+Table '3815018139 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (560 in chips) 
+Seat 2: Veckk (490 in chips) 
+Seat 3: Minglys (450 in chips) 
+Mahu2021: posts small blind 10
+Veckk: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh Th]
+Minglys: folds 
+Mahu2021: raises 40 to 60
+Veckk: calls 40
+*** FLOP *** [6h 9s Kd]
+Mahu2021: bets 60
+Veckk: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [6h 9s Kd]
+Seat 1: Mahu2021 (small blind) collected (120)
+Seat 2: Veckk (big blind) folded on the Flop
+Seat 3: Minglys (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253038956684: Tournament #3815018139, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/21 21:29:01 CET [2024/10/21 15:29:01 ET]
+Table '3815018139 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (620 in chips) 
+Seat 2: Veckk (430 in chips) 
+Seat 3: Minglys (450 in chips) 
+Veckk: posts small blind 10
+Minglys: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c Kd]
+Mahu2021: folds 
+Veckk: raises 40 to 60
+Minglys: folds 
+Uncalled bet (40) returned to Veckk
+Veckk collected 40 from pot
+Veckk: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: Veckk (small blind) collected (40)
+Seat 3: Minglys (big blind) folded before Flop
+
+
+
+PokerStars Hand #253038959434: Tournament #3815018139, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/21 21:29:10 CET [2024/10/21 15:29:10 ET]
+Table '3815018139 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (620 in chips) 
+Seat 2: Veckk (450 in chips) 
+Seat 3: Minglys (430 in chips) 
+Minglys: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh 8d]
+Veckk: raises 40 to 60
+Minglys: folds 
+Mahu2021: calls 40
+*** FLOP *** [4s 2h Js]
+Mahu2021: bets 130
+Veckk: raises 260 to 390 and is all-in
+Mahu2021: calls 260
+*** TURN *** [4s 2h Js] [5c]
+*** RIVER *** [4s 2h Js 5c] [3s]
+*** SHOW DOWN ***
+Mahu2021: shows [Jh 8d] (a pair of Jacks)
+Veckk: shows [Tc Ts] (a pair of Tens)
+Mahu2021 collected 910 from pot
+Veckk finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 910 | Rake 0 
+Board [4s 2h Js 5c 3s]
+Seat 1: Mahu2021 (big blind) showed [Jh 8d] and won (910) with a pair of Jacks
+Seat 2: Veckk (button) showed [Tc Ts] and lost with a pair of Tens
+Seat 3: Minglys (small blind) folded before Flop
+
+
+
+PokerStars Hand #253038966211: Tournament #3815018139, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/21 21:29:31 CET [2024/10/21 15:29:31 ET]
+Table '3815018139 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1080 in chips) 
+Seat 3: Minglys (420 in chips) 
+Mahu2021: posts small blind 10
+Minglys: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh Ts]
+Mahu2021: raises 20 to 40
+Minglys: calls 20
+*** FLOP *** [Qs 3d 6c]
+Minglys: checks 
+Mahu2021: checks 
+*** TURN *** [Qs 3d 6c] [Tc]
+Minglys: checks 
+Mahu2021: checks 
+*** RIVER *** [Qs 3d 6c Tc] [Qc]
+Minglys: checks 
+Mahu2021: bets 80
+Minglys: folds 
+Uncalled bet (80) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Qs 3d 6c Tc Qc]
+Seat 1: Mahu2021 (button) (small blind) collected (80)
+Seat 3: Minglys (big blind) folded on the River
+
+
+
+PokerStars Hand #253038970686: Tournament #3815018139, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/21 21:29:46 CET [2024/10/21 15:29:46 ET]
+Table '3815018139 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (1120 in chips) 
+Seat 3: Minglys (380 in chips) 
+Minglys: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kc Qd]
+Minglys: folds 
+Uncalled bet (10) returned to Mahu2021
+Mahu2021 collected 20 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (20)
+Seat 3: Minglys (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #253038972883: Tournament #3815018139, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/21 21:29:53 CET [2024/10/21 15:29:53 ET]
+Table '3815018139 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1130 in chips) 
+Seat 3: Minglys (370 in chips) 
+Mahu2021: posts small blind 10
+Minglys: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s Kc]
+Mahu2021: raises 20 to 40
+Minglys: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) collected (40)
+Seat 3: Minglys (big blind) folded before Flop
+
+
+
+PokerStars Hand #253038974501: Tournament #3815018139, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/21 21:29:58 CET [2024/10/21 15:29:58 ET]
+Table '3815018139 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (1150 in chips) 
+Seat 3: Minglys (350 in chips) 
+Minglys: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d 8d]
+Minglys: folds 
+Uncalled bet (10) returned to Mahu2021
+Mahu2021 collected 20 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (20)
+Seat 3: Minglys (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #253038976964: Tournament #3815018139, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/21 21:30:06 CET [2024/10/21 15:30:06 ET]
+Table '3815018139 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1160 in chips) 
+Seat 3: Minglys (340 in chips) 
+Mahu2021: posts small blind 10
+Minglys: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h 2c]
+Mahu2021: folds 
+Uncalled bet (10) returned to Minglys
+Minglys collected 20 from pot
+Minglys: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: Minglys (big blind) collected (20)
+
+
+
+PokerStars Hand #253038978365: Tournament #3815018139, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/21 21:30:10 CET [2024/10/21 15:30:10 ET]
+Table '3815018139 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (1150 in chips) 
+Seat 3: Minglys (350 in chips) 
+Minglys: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc Th]
+Minglys: folds 
+Uncalled bet (10) returned to Mahu2021
+Mahu2021 collected 20 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (20)
+Seat 3: Minglys (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #253038979620: Tournament #3815018139, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/21 21:30:14 CET [2024/10/21 15:30:14 ET]
+Table '3815018139 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1160 in chips) 
+Seat 3: Minglys (340 in chips) 
+Mahu2021: posts small blind 10
+Minglys: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h 7d]
+Mahu2021: folds 
+Uncalled bet (10) returned to Minglys
+Minglys collected 20 from pot
+Minglys: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: Minglys (big blind) collected (20)
+
+
+
+PokerStars Hand #253038980995: Tournament #3815018139, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/21 21:30:19 CET [2024/10/21 15:30:19 ET]
+Table '3815018139 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (1150 in chips) 
+Seat 3: Minglys (350 in chips) 
+Minglys: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h 2s]
+Minglys: raises 20 to 40
+Mahu2021: folds 
+Uncalled bet (20) returned to Minglys
+Minglys collected 40 from pot
+Minglys: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 3: Minglys (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #253038982881: Tournament #3815018139, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/21 21:30:25 CET [2024/10/21 15:30:25 ET]
+Table '3815018139 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1130 in chips) 
+Seat 3: Minglys (370 in chips) 
+Mahu2021: posts small blind 10
+Minglys: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s 3c]
+Mahu2021: folds 
+Uncalled bet (10) returned to Minglys
+Minglys collected 20 from pot
+Minglys: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: Minglys (big blind) collected (20)
+
+
+
+PokerStars Hand #253038984211: Tournament #3815018139, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/21 21:30:29 CET [2024/10/21 15:30:29 ET]
+Table '3815018139 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (1120 in chips) 
+Seat 3: Minglys (380 in chips) 
+Minglys: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d 4h]
+Minglys: folds 
+Uncalled bet (10) returned to Mahu2021
+Mahu2021 collected 20 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (20)
+Seat 3: Minglys (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #253038985846: Tournament #3815018139, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/21 21:30:34 CET [2024/10/21 15:30:34 ET]
+Table '3815018139 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1130 in chips) 
+Seat 3: Minglys (370 in chips) 
+Mahu2021: posts small blind 10
+Minglys: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s Kh]
+Mahu2021: raises 20 to 40
+Minglys: calls 20
+*** FLOP *** [Qc Js Td]
+Minglys: checks 
+Mahu2021: checks 
+*** TURN *** [Qc Js Td] [2d]
+Minglys: bets 40
+Mahu2021: calls 40
+*** RIVER *** [Qc Js Td 2d] [5h]
+Minglys: bets 40
+Mahu2021: folds 
+Uncalled bet (40) returned to Minglys
+Minglys collected 160 from pot
+Minglys: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Qc Js Td 2d 5h]
+Seat 1: Mahu2021 (button) (small blind) folded on the River
+Seat 3: Minglys (big blind) collected (160)
+
+
+
+PokerStars Hand #253038990558: Tournament #3815018139, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/21 21:30:49 CET [2024/10/21 15:30:49 ET]
+Table '3815018139 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (1050 in chips) 
+Seat 3: Minglys (450 in chips) 
+Minglys: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3c Qs]
+Minglys: folds 
+Uncalled bet (10) returned to Mahu2021
+Mahu2021 collected 20 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (20)
+Seat 3: Minglys (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #253038992069: Tournament #3815018139, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/21 21:30:54 CET [2024/10/21 15:30:54 ET]
+Table '3815018139 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1060 in chips) 
+Seat 3: Minglys (440 in chips) 
+Mahu2021: posts small blind 10
+Minglys: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d 7s]
+Mahu2021: raises 20 to 40
+Minglys: raises 40 to 80
+Mahu2021: calls 40
+*** FLOP *** [Qc Ts 3d]
+Minglys: checks 
+Mahu2021: checks 
+*** TURN *** [Qc Ts 3d] [6h]
+Minglys: bets 40
+Mahu2021: calls 40
+*** RIVER *** [Qc Ts 3d 6h] [5c]
+Minglys: bets 100
+Mahu2021: calls 100
+*** SHOW DOWN ***
+Minglys: shows [Qs Qd] (three of a kind, Queens)
+Mahu2021: mucks hand 
+Minglys collected 440 from pot
+*** SUMMARY ***
+Total pot 440 | Rake 0 
+Board [Qc Ts 3d 6h 5c]
+Seat 1: Mahu2021 (button) (small blind) mucked [6d 7s]
+Seat 3: Minglys (big blind) showed [Qs Qd] and won (440) with three of a kind, Queens
+
+
+
+PokerStars Hand #253038999248: Tournament #3815018139, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/21 21:31:17 CET [2024/10/21 15:31:17 ET]
+Table '3815018139 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (840 in chips) 
+Seat 3: Minglys (660 in chips) 
+Minglys: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah Td]
+Minglys: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (30)
+Seat 3: Minglys (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #253039001131: Tournament #3815018139, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/21 21:31:23 CET [2024/10/21 15:31:23 ET]
+Table '3815018139 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (855 in chips) 
+Seat 3: Minglys (645 in chips) 
+Mahu2021: posts small blind 15
+Minglys: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qs 5d]
+Mahu2021: raises 30 to 60
+Minglys: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) collected (60)
+Seat 3: Minglys (big blind) folded before Flop
+
+
+
+PokerStars Hand #253039002677: Tournament #3815018139, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/21 21:31:28 CET [2024/10/21 15:31:28 ET]
+Table '3815018139 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (885 in chips) 
+Seat 3: Minglys (615 in chips) 
+Minglys: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s 9s]
+Minglys: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (30)
+Seat 3: Minglys (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #253039003922: Tournament #3815018139, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/21 21:31:32 CET [2024/10/21 15:31:32 ET]
+Table '3815018139 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (900 in chips) 
+Seat 3: Minglys (600 in chips) 
+Mahu2021: posts small blind 15
+Minglys: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c Js]
+Mahu2021: raises 30 to 60
+Minglys: calls 30
+*** FLOP *** [6d 9s 7h]
+Minglys: checks 
+Mahu2021: bets 60
+Minglys: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [6d 9s 7h]
+Seat 1: Mahu2021 (button) (small blind) collected (120)
+Seat 3: Minglys (big blind) folded on the Flop
+
+
+
+PokerStars Hand #253039008252: Tournament #3815018139, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/21 21:31:46 CET [2024/10/21 15:31:46 ET]
+Table '3815018139 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (960 in chips) 
+Seat 3: Minglys (540 in chips) 
+Minglys: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h 2d]
+Minglys: calls 15
+Mahu2021: checks 
+*** FLOP *** [7c Kd Kc]
+Mahu2021: checks 
+Minglys: checks 
+*** TURN *** [7c Kd Kc] [Qs]
+Mahu2021: checks 
+Minglys: bets 30
+Mahu2021: calls 30
+*** RIVER *** [7c Kd Kc Qs] [2h]
+Mahu2021: checks 
+Minglys: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [7h 2d] (two pair, Kings and Sevens)
+Minglys: shows [7s Ts] (two pair, Kings and Sevens)
+Mahu2021 collected 60 from pot
+Minglys collected 60 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [7c Kd Kc Qs 2h]
+Seat 1: Mahu2021 (big blind) showed [7h 2d] and won (60) with two pair, Kings and Sevens
+Seat 3: Minglys (button) (small blind) showed [7s Ts] and won (60) with two pair, Kings and Sevens
+
+
+
+PokerStars Hand #253039014722: Tournament #3815018139, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/21 21:32:07 CET [2024/10/21 15:32:07 ET]
+Table '3815018139 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (960 in chips) 
+Seat 3: Minglys (540 in chips) 
+Mahu2021: posts small blind 15
+Minglys: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd 4s]
+Mahu2021: calls 15
+Minglys: checks 
+*** FLOP *** [5s 9c 7h]
+Minglys: checks 
+Mahu2021: checks 
+*** TURN *** [5s 9c 7h] [2s]
+Minglys: checks 
+Mahu2021: checks 
+*** RIVER *** [5s 9c 7h 2s] [Jc]
+Minglys: bets 60
+Mahu2021: calls 60
+*** SHOW DOWN ***
+Minglys: shows [2c Jh] (two pair, Jacks and Deuces)
+Mahu2021: mucks hand 
+Minglys collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [5s 9c 7h 2s Jc]
+Seat 1: Mahu2021 (button) (small blind) mucked [Jd 4s]
+Seat 3: Minglys (big blind) showed [2c Jh] and won (180) with two pair, Jacks and Deuces
+
+
+
+PokerStars Hand #253039020969: Tournament #3815018139, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/21 21:32:27 CET [2024/10/21 15:32:27 ET]
+Table '3815018139 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (870 in chips) 
+Seat 3: Minglys (630 in chips) 
+Minglys: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d 9c]
+Minglys: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (30)
+Seat 3: Minglys (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #253039022489: Tournament #3815018139, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/21 21:32:32 CET [2024/10/21 15:32:32 ET]
+Table '3815018139 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (885 in chips) 
+Seat 3: Minglys (615 in chips) 
+Mahu2021: posts small blind 15
+Minglys: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s 4c]
+Mahu2021: folds 
+Uncalled bet (15) returned to Minglys
+Minglys collected 30 from pot
+Minglys: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: Minglys (big blind) collected (30)
+
+
+
+PokerStars Hand #253039023787: Tournament #3815018139, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/21 21:32:36 CET [2024/10/21 15:32:36 ET]
+Table '3815018139 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (870 in chips) 
+Seat 3: Minglys (630 in chips) 
+Minglys: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d 7h]
+Minglys: raises 30 to 60
+Mahu2021: calls 30
+*** FLOP *** [Ac Ah Js]
+Mahu2021: checks 
+Minglys: checks 
+*** TURN *** [Ac Ah Js] [7d]
+Mahu2021: bets 60
+Minglys: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Ac Ah Js 7d]
+Seat 1: Mahu2021 (big blind) collected (120)
+Seat 3: Minglys (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #253039028916: Tournament #3815018139, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/21 21:32:53 CET [2024/10/21 15:32:53 ET]
+Table '3815018139 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (930 in chips) 
+Seat 3: Minglys (570 in chips) 
+Mahu2021: posts small blind 15
+Minglys: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s 8s]
+Mahu2021: calls 15
+Minglys: checks 
+*** FLOP *** [3s 2c 6h]
+Minglys: bets 30
+Mahu2021: folds 
+Uncalled bet (30) returned to Minglys
+Minglys collected 60 from pot
+Minglys: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [3s 2c 6h]
+Seat 1: Mahu2021 (button) (small blind) folded on the Flop
+Seat 3: Minglys (big blind) collected (60)
+
+
+
+PokerStars Hand #253039031727: Tournament #3815018139, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/21 21:33:02 CET [2024/10/21 15:33:02 ET]
+Table '3815018139 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (900 in chips) 
+Seat 3: Minglys (600 in chips) 
+Minglys: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks 5s]
+Minglys: calls 15
+Mahu2021: checks 
+*** FLOP *** [3s 9d Ah]
+Mahu2021: checks 
+Minglys: checks 
+*** TURN *** [3s 9d Ah] [4c]
+Mahu2021: checks 
+Minglys: checks 
+*** RIVER *** [3s 9d Ah 4c] [6c]
+Mahu2021: checks 
+Minglys: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [Ks 5s] (high card Ace)
+Minglys: mucks hand 
+Mahu2021 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [3s 9d Ah 4c 6c]
+Seat 1: Mahu2021 (big blind) showed [Ks 5s] and won (60) with high card Ace
+Seat 3: Minglys (button) (small blind) mucked [Js 8d]
+
+
+
+PokerStars Hand #253039036819: Tournament #3815018139, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/21 21:33:18 CET [2024/10/21 15:33:18 ET]
+Table '3815018139 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (930 in chips) 
+Seat 3: Minglys (570 in chips) 
+Mahu2021: posts small blind 15
+Minglys: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h 2h]
+Mahu2021: calls 15
+Minglys: checks 
+*** FLOP *** [Ad Qc 9h]
+Minglys: checks 
+Mahu2021: bets 30
+Minglys: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Ad Qc 9h]
+Seat 1: Mahu2021 (button) (small blind) collected (60)
+Seat 3: Minglys (big blind) folded on the Flop
+
+
+
+PokerStars Hand #253039039550: Tournament #3815018139, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/21 21:33:27 CET [2024/10/21 15:33:27 ET]
+Table '3815018139 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (960 in chips) 
+Seat 3: Minglys (540 in chips) 
+Minglys: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4c 3d]
+Minglys: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (30)
+Seat 3: Minglys (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #253039040891: Tournament #3815018139, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/21 21:33:31 CET [2024/10/21 15:33:31 ET]
+Table '3815018139 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (975 in chips) 
+Seat 3: Minglys (525 in chips) 
+Mahu2021: posts small blind 15
+Minglys: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s Ah]
+Mahu2021: raises 30 to 60
+Minglys: calls 30
+*** FLOP *** [5c 7c Ac]
+Minglys: checks 
+Mahu2021: bets 60
+Minglys: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [5c 7c Ac]
+Seat 1: Mahu2021 (button) (small blind) collected (120)
+Seat 3: Minglys (big blind) folded on the Flop
+
+
+
+PokerStars Hand #253039043732: Tournament #3815018139, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/21 21:33:40 CET [2024/10/21 15:33:40 ET]
+Table '3815018139 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (1035 in chips) 
+Seat 3: Minglys (465 in chips) 
+Minglys: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d Ac]
+Minglys: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (30)
+Seat 3: Minglys (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #253039045058: Tournament #3815018139, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/21 21:33:44 CET [2024/10/21 15:33:44 ET]
+Table '3815018139 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1050 in chips) 
+Seat 3: Minglys (450 in chips) 
+Mahu2021: posts small blind 15
+Minglys: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd Jd]
+Mahu2021: raises 30 to 60
+Minglys: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) collected (60)
+Seat 3: Minglys (big blind) folded before Flop
+
+
+
+PokerStars Hand #253039046366: Tournament #3815018139, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/21 21:33:48 CET [2024/10/21 15:33:48 ET]
+Table '3815018139 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (1080 in chips) 
+Seat 3: Minglys (420 in chips) 
+Minglys: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Td Qh]
+Minglys: raises 30 to 60
+Mahu2021: calls 30
+*** FLOP *** [Ah Kc 7h]
+Mahu2021: checks 
+Minglys: bets 60
+Mahu2021: calls 60
+*** TURN *** [Ah Kc 7h] [4d]
+Mahu2021: checks 
+Minglys: checks 
+*** RIVER *** [Ah Kc 7h 4d] [4s]
+Mahu2021: bets 240
+Minglys: folds 
+Uncalled bet (240) returned to Mahu2021
+Mahu2021 collected 240 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Ah Kc 7h 4d 4s]
+Seat 1: Mahu2021 (big blind) collected (240)
+Seat 3: Minglys (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #253039050399: Tournament #3815018139, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/21 21:34:01 CET [2024/10/21 15:34:01 ET]
+Table '3815018139 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1200 in chips) 
+Seat 3: Minglys (300 in chips) 
+Mahu2021: posts small blind 15
+Minglys: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh Td]
+Mahu2021: raises 30 to 60
+Minglys: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) collected (60)
+Seat 3: Minglys (big blind) folded before Flop
+
+
+
+PokerStars Hand #253039052040: Tournament #3815018139, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/21 21:34:06 CET [2024/10/21 15:34:06 ET]
+Table '3815018139 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (1230 in chips) 
+Seat 3: Minglys (270 in chips) 
+Minglys: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac 6s]
+Minglys: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (30)
+Seat 3: Minglys (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #253039053428: Tournament #3815018139, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/21 21:34:11 CET [2024/10/21 15:34:11 ET]
+Table '3815018139 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1245 in chips) 
+Seat 3: Minglys (255 in chips) 
+Mahu2021: posts small blind 15
+Minglys: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s Qh]
+Mahu2021: raises 30 to 60
+Minglys: raises 195 to 255 and is all-in
+Mahu2021: folds 
+Uncalled bet (195) returned to Minglys
+Minglys collected 120 from pot
+Minglys: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: Minglys (big blind) collected (120)
+
+
+
+PokerStars Hand #253039056351: Tournament #3815018139, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/10/21 21:34:20 CET [2024/10/21 15:34:20 ET]
+Table '3815018139 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (1185 in chips) 
+Seat 3: Minglys (315 in chips) 
+Minglys: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h 4d]
+Minglys: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (40)
+Seat 3: Minglys (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #253039057656: Tournament #3815018139, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/10/21 21:34:24 CET [2024/10/21 15:34:24 ET]
+Table '3815018139 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1205 in chips) 
+Seat 3: Minglys (295 in chips) 
+Mahu2021: posts small blind 20
+Minglys: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d Ac]
+Mahu2021: raises 40 to 80
+Minglys: raises 215 to 295 and is all-in
+Mahu2021: calls 215
+*** FLOP *** [Tc 2h 8s]
+*** TURN *** [Tc 2h 8s] [8h]
+*** RIVER *** [Tc 2h 8s 8h] [2d]
+*** SHOW DOWN ***
+Minglys: shows [9s 5h] (two pair, Eights and Deuces)
+Mahu2021: shows [7d Ac] (two pair, Eights and Deuces - Ace kicker)
+Mahu2021 collected 590 from pot
+Minglys finished the tournament in 2nd place
+Mahu2021 wins the tournament and receives $6.00 - congratulations!
+*** SUMMARY ***
+Total pot 590 | Rake 0 
+Board [Tc 2h 8s 8h 2d]
+Seat 1: Mahu2021 (button) (small blind) showed [7d Ac] and won (590) with two pair, Eights and Deuces
+Seat 3: Minglys (big blind) showed [9s 5h] and lost with two pair, Eights and Deuces
+
+
+

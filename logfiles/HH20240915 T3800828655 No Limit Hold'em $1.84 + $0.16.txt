@@ -1,0 +1,1055 @@
+﻿PokerStars Hand #252462686313: Tournament #3800828655, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/09/15 18:29:35 CET [2024/09/15 12:29:35 ET]
+Table '3800828655 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: Coda56 (500 in chips) 
+Seat 3: biggucci10 (500 in chips) 
+Coda56: posts small blind 10
+biggucci10: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Tc 9d]
+Mahu2021: calls 20
+Coda56: calls 10
+biggucci10: raises 20 to 40
+Mahu2021: calls 20
+Coda56: folds 
+*** FLOP *** [7c 4c Jc]
+biggucci10: checks 
+Mahu2021: bets 20
+biggucci10: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 100 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [7c 4c Jc]
+Seat 1: Mahu2021 (button) collected (100)
+Seat 2: Coda56 (small blind) folded before Flop
+Seat 3: biggucci10 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #252462691404: Tournament #3800828655, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/09/15 18:29:53 CET [2024/09/15 12:29:53 ET]
+Table '3800828655 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (560 in chips) 
+Seat 2: Coda56 (480 in chips) 
+Seat 3: biggucci10 (460 in chips) 
+biggucci10: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qs 3d]
+Coda56: calls 20
+biggucci10: raises 20 to 40
+Mahu2021: folds 
+Coda56: calls 20
+*** FLOP *** [Ts As 6c]
+biggucci10: bets 40
+Coda56: calls 40
+*** TURN *** [Ts As 6c] [7c]
+biggucci10: bets 60
+Coda56: calls 60
+*** RIVER *** [Ts As 6c 7c] [7h]
+biggucci10: bets 100
+Coda56: folds 
+Uncalled bet (100) returned to biggucci10
+biggucci10 collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [Ts As 6c 7c 7h]
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: Coda56 (button) folded on the River
+Seat 3: biggucci10 (small blind) collected (300)
+
+
+
+PokerStars Hand #252462699345: Tournament #3800828655, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/09/15 18:30:18 CET [2024/09/15 12:30:18 ET]
+Table '3800828655 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (540 in chips) 
+Seat 2: Coda56 (340 in chips) 
+Seat 3: biggucci10 (620 in chips) 
+Mahu2021: posts small blind 10
+Coda56: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d 2d]
+biggucci10: calls 20
+Mahu2021: calls 10
+Coda56: checks 
+*** FLOP *** [3h Tc Jd]
+Mahu2021: checks 
+Coda56: checks 
+biggucci10: checks 
+*** TURN *** [3h Tc Jd] [6h]
+Mahu2021: bets 20
+Coda56: folds 
+biggucci10: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [3h Tc Jd 6h]
+Seat 1: Mahu2021 (small blind) collected (60)
+Seat 2: Coda56 (big blind) folded on the Turn
+Seat 3: biggucci10 (button) folded on the Turn
+
+
+
+PokerStars Hand #252462704054: Tournament #3800828655, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/09/15 18:30:34 CET [2024/09/15 12:30:34 ET]
+Table '3800828655 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (580 in chips) 
+Seat 2: Coda56 (320 in chips) 
+Seat 3: biggucci10 (600 in chips) 
+Coda56: posts small blind 10
+biggucci10: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Td 8d]
+Mahu2021: calls 20
+Coda56: calls 10
+biggucci10: checks 
+*** FLOP *** [Tc 7d 9d]
+Coda56: checks 
+biggucci10: bets 20
+Mahu2021: calls 20
+Coda56: calls 20
+*** TURN *** [Tc 7d 9d] [6h]
+Coda56: checks 
+biggucci10: checks 
+Mahu2021: bets 20
+Coda56: raises 160 to 180
+biggucci10: folds 
+Mahu2021: raises 360 to 540 and is all-in
+Coda56: calls 100 and is all-in
+Uncalled bet (260) returned to Mahu2021
+*** RIVER *** [Tc 7d 9d 6h] [6c]
+*** SHOW DOWN ***
+Coda56: shows [7c 8c] (a straight, Six to Ten)
+Mahu2021: shows [Td 8d] (a straight, Six to Ten)
+Coda56 collected 340 from pot
+Mahu2021 collected 340 from pot
+*** SUMMARY ***
+Total pot 680 | Rake 0 
+Board [Tc 7d 9d 6h 6c]
+Seat 1: Mahu2021 (button) showed [Td 8d] and won (340) with a straight, Six to Ten
+Seat 2: Coda56 (small blind) showed [7c 8c] and won (340) with a straight, Six to Ten
+Seat 3: biggucci10 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #252462714430: Tournament #3800828655, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/09/15 18:31:09 CET [2024/09/15 12:31:09 ET]
+Table '3800828655 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (600 in chips) 
+Seat 2: Coda56 (340 in chips) 
+Seat 3: biggucci10 (560 in chips) 
+biggucci10: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8c 2d]
+Coda56: raises 50 to 70
+biggucci10: folds 
+Mahu2021: folds 
+Uncalled bet (50) returned to Coda56
+Coda56 collected 50 from pot
+Coda56: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: Coda56 (button) collected (50)
+Seat 3: biggucci10 (small blind) folded before Flop
+
+
+
+PokerStars Hand #252462716917: Tournament #3800828655, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/09/15 18:31:17 CET [2024/09/15 12:31:17 ET]
+Table '3800828655 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (580 in chips) 
+Seat 2: Coda56 (370 in chips) 
+Seat 3: biggucci10 (550 in chips) 
+Mahu2021: posts small blind 10
+Coda56: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5h 3h]
+biggucci10: calls 20
+Mahu2021: calls 10
+Coda56: checks 
+*** FLOP *** [6h Jh 7c]
+Mahu2021: bets 20
+Coda56: calls 20
+biggucci10: calls 20
+*** TURN *** [6h Jh 7c] [Ad]
+Mahu2021: checks 
+Coda56: bets 120
+biggucci10: folds 
+Mahu2021: calls 120
+*** RIVER *** [6h Jh 7c Ad] [Ac]
+Mahu2021: checks 
+Coda56: bets 210 and is all-in
+Mahu2021: folds 
+Uncalled bet (210) returned to Coda56
+Coda56 collected 360 from pot
+Coda56: doesn't show hand 
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [6h Jh 7c Ad Ac]
+Seat 1: Mahu2021 (small blind) folded on the River
+Seat 2: Coda56 (big blind) collected (360)
+Seat 3: biggucci10 (button) folded on the Turn
+
+
+
+PokerStars Hand #252462727313: Tournament #3800828655, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/09/15 18:31:52 CET [2024/09/15 12:31:52 ET]
+Table '3800828655 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (420 in chips) 
+Seat 2: Coda56 (570 in chips) 
+Seat 3: biggucci10 (510 in chips) 
+Coda56: posts small blind 10
+biggucci10: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8d 5s]
+Mahu2021: folds 
+Coda56: calls 10
+biggucci10: raises 20 to 40
+Coda56: calls 20
+*** FLOP *** [5h 2c Ah]
+Coda56: checks 
+biggucci10: bets 20
+Coda56: calls 20
+*** TURN *** [5h 2c Ah] [Tc]
+Coda56: checks 
+biggucci10: bets 20
+Coda56: calls 20
+*** RIVER *** [5h 2c Ah Tc] [9s]
+Coda56: checks 
+biggucci10: bets 20
+Coda56: folds 
+Uncalled bet (20) returned to biggucci10
+biggucci10 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [5h 2c Ah Tc 9s]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: Coda56 (small blind) folded on the River
+Seat 3: biggucci10 (big blind) collected (160)
+
+
+
+PokerStars Hand #252462734142: Tournament #3800828655, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/09/15 18:32:15 CET [2024/09/15 12:32:15 ET]
+Table '3800828655 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (420 in chips) 
+Seat 2: Coda56 (490 in chips) 
+Seat 3: biggucci10 (590 in chips) 
+biggucci10: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c 3h]
+Coda56: calls 20
+biggucci10: raises 20 to 40
+Mahu2021: folds 
+Coda56: calls 20
+*** FLOP *** [Jc 3c Kc]
+biggucci10: bets 40
+Coda56: calls 40
+*** TURN *** [Jc 3c Kc] [8c]
+biggucci10: checks 
+Coda56: bets 180
+biggucci10: folds 
+Uncalled bet (180) returned to Coda56
+Coda56 collected 180 from pot
+Coda56: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [Jc 3c Kc 8c]
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: Coda56 (button) collected (180)
+Seat 3: biggucci10 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #252462741447: Tournament #3800828655, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/09/15 18:32:40 CET [2024/09/15 12:32:40 ET]
+Table '3800828655 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (400 in chips) 
+Seat 2: Coda56 (590 in chips) 
+Seat 3: biggucci10 (510 in chips) 
+Mahu2021: posts small blind 15
+Coda56: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh 3h]
+biggucci10: calls 30
+Mahu2021: calls 15
+Coda56: checks 
+*** FLOP *** [4h 3c 6d]
+Mahu2021: bets 30
+Coda56: folds 
+biggucci10: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 90 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [4h 3c 6d]
+Seat 1: Mahu2021 (small blind) collected (90)
+Seat 2: Coda56 (big blind) folded on the Flop
+Seat 3: biggucci10 (button) folded on the Flop
+
+
+
+PokerStars Hand #252462744790: Tournament #3800828655, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/09/15 18:32:51 CET [2024/09/15 12:32:51 ET]
+Table '3800828655 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (460 in chips) 
+Seat 2: Coda56 (560 in chips) 
+Seat 3: biggucci10 (480 in chips) 
+Coda56: posts small blind 15
+biggucci10: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Td 5h]
+Mahu2021: folds 
+Coda56: folds 
+Uncalled bet (15) returned to biggucci10
+biggucci10 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: Coda56 (small blind) folded before Flop
+Seat 3: biggucci10 (big blind) collected (30)
+
+
+
+PokerStars Hand #252462746573: Tournament #3800828655, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/09/15 18:32:57 CET [2024/09/15 12:32:57 ET]
+Table '3800828655 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (460 in chips) 
+Seat 2: Coda56 (545 in chips) 
+Seat 3: biggucci10 (495 in chips) 
+biggucci10: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Tc 8d]
+Coda56: calls 30
+biggucci10: folds 
+Mahu2021: checks 
+*** FLOP *** [Ks 2c 9c]
+Mahu2021: checks 
+Coda56: bets 30
+Mahu2021: folds 
+Uncalled bet (30) returned to Coda56
+Coda56 collected 75 from pot
+Coda56: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Board [Ks 2c 9c]
+Seat 1: Mahu2021 (big blind) folded on the Flop
+Seat 2: Coda56 (button) collected (75)
+Seat 3: biggucci10 (small blind) folded before Flop
+
+
+
+PokerStars Hand #252462750169: Tournament #3800828655, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/09/15 18:33:09 CET [2024/09/15 12:33:09 ET]
+Table '3800828655 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (430 in chips) 
+Seat 2: Coda56 (590 in chips) 
+Seat 3: biggucci10 (480 in chips) 
+Mahu2021: posts small blind 15
+Coda56: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d Td]
+biggucci10: folds 
+Mahu2021: calls 15
+Coda56: checks 
+*** FLOP *** [Jh 3c 9d]
+Mahu2021: checks 
+Coda56: checks 
+*** TURN *** [Jh 3c 9d] [Qs]
+Mahu2021: bets 30
+Coda56: calls 30
+*** RIVER *** [Jh 3c 9d Qs] [2c]
+Mahu2021: checks 
+Coda56: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [6d Td] (high card Queen)
+Coda56: shows [8c Kc] (high card King)
+Coda56 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Jh 3c 9d Qs 2c]
+Seat 1: Mahu2021 (small blind) showed [6d Td] and lost with high card Queen
+Seat 2: Coda56 (big blind) showed [8c Kc] and won (120) with high card King
+Seat 3: biggucci10 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #252462755357: Tournament #3800828655, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/09/15 18:33:26 CET [2024/09/15 12:33:26 ET]
+Table '3800828655 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (370 in chips) 
+Seat 2: Coda56 (650 in chips) 
+Seat 3: biggucci10 (480 in chips) 
+Coda56: posts small blind 15
+biggucci10: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc Qd]
+Mahu2021: raises 30 to 60
+Coda56: folds 
+biggucci10: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 75 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: Mahu2021 (button) collected (75)
+Seat 2: Coda56 (small blind) folded before Flop
+Seat 3: biggucci10 (big blind) folded before Flop
+
+
+
+PokerStars Hand #252462757156: Tournament #3800828655, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/09/15 18:33:32 CET [2024/09/15 12:33:32 ET]
+Table '3800828655 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (415 in chips) 
+Seat 2: Coda56 (635 in chips) 
+Seat 3: biggucci10 (450 in chips) 
+biggucci10: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c Kd]
+Coda56: folds 
+biggucci10: calls 15
+Mahu2021: checks 
+*** FLOP *** [Kc Ah Ks]
+biggucci10: checks 
+Mahu2021: bets 30
+biggucci10: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Kc Ah Ks]
+Seat 1: Mahu2021 (big blind) collected (60)
+Seat 2: Coda56 (button) folded before Flop (didn't bet)
+Seat 3: biggucci10 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #252462761129: Tournament #3800828655, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/09/15 18:33:46 CET [2024/09/15 12:33:46 ET]
+Table '3800828655 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (445 in chips) 
+Seat 2: Coda56 (635 in chips) 
+Seat 3: biggucci10 (420 in chips) 
+Mahu2021: posts small blind 15
+Coda56: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3c 3d]
+biggucci10: calls 30
+Mahu2021: calls 15
+Coda56: checks 
+*** FLOP *** [7c 8s Ah]
+Mahu2021: checks 
+Coda56: checks 
+biggucci10: checks 
+*** TURN *** [7c 8s Ah] [3s]
+Mahu2021: bets 30
+Coda56: folds 
+biggucci10: calls 30
+*** RIVER *** [7c 8s Ah 3s] [Qd]
+Mahu2021: bets 150
+biggucci10: calls 150
+*** SHOW DOWN ***
+Mahu2021: shows [3c 3d] (three of a kind, Threes)
+biggucci10: mucks hand 
+Mahu2021 collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | Rake 0 
+Board [7c 8s Ah 3s Qd]
+Seat 1: Mahu2021 (small blind) showed [3c 3d] and won (450) with three of a kind, Threes
+Seat 2: Coda56 (big blind) folded on the Turn
+Seat 3: biggucci10 (button) mucked [5s Ac]
+
+
+
+PokerStars Hand #252462767118: Tournament #3800828655, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/09/15 18:34:06 CET [2024/09/15 12:34:06 ET]
+Table '3800828655 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (685 in chips) 
+Seat 2: Coda56 (605 in chips) 
+Seat 3: biggucci10 (210 in chips) 
+Coda56: posts small blind 15
+biggucci10: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2s Js]
+Mahu2021: folds 
+Coda56: folds 
+Uncalled bet (15) returned to biggucci10
+biggucci10 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: Coda56 (small blind) folded before Flop
+Seat 3: biggucci10 (big blind) collected (30)
+
+
+
+PokerStars Hand #252462769778: Tournament #3800828655, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/09/15 18:34:15 CET [2024/09/15 12:34:15 ET]
+Table '3800828655 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (685 in chips) 
+Seat 2: Coda56 (590 in chips) 
+Seat 3: biggucci10 (225 in chips) 
+biggucci10: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd Jh]
+Coda56: raises 30 to 60
+biggucci10: folds 
+Mahu2021: raises 625 to 685 and is all-in
+Coda56: folds 
+Uncalled bet (625) returned to Mahu2021
+Mahu2021 collected 135 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 135 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (135)
+Seat 2: Coda56 (button) folded before Flop
+Seat 3: biggucci10 (small blind) folded before Flop
+
+
+
+PokerStars Hand #252462772496: Tournament #3800828655, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/09/15 18:34:24 CET [2024/09/15 12:34:24 ET]
+Table '3800828655 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (760 in chips) 
+Seat 2: Coda56 (530 in chips) 
+Seat 3: biggucci10 (210 in chips) 
+Mahu2021: posts small blind 15
+Coda56: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad Jd]
+biggucci10: raises 180 to 210 and is all-in
+Mahu2021: calls 195
+Coda56: folds 
+*** FLOP *** [7d 3c 2h]
+*** TURN *** [7d 3c 2h] [7s]
+*** RIVER *** [7d 3c 2h 7s] [Qc]
+*** SHOW DOWN ***
+Mahu2021: shows [Ad Jd] (a pair of Sevens)
+biggucci10: shows [Ac 4d] (a pair of Sevens - lower kicker)
+Mahu2021 collected 450 from pot
+biggucci10 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 450 | Rake 0 
+Board [7d 3c 2h 7s Qc]
+Seat 1: Mahu2021 (small blind) showed [Ad Jd] and won (450) with a pair of Sevens
+Seat 2: Coda56 (big blind) folded before Flop
+Seat 3: biggucci10 (button) showed [Ac 4d] and lost with a pair of Sevens
+
+
+
+PokerStars Hand #252462777727: Tournament #3800828655, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/09/15 18:34:42 CET [2024/09/15 12:34:42 ET]
+Table '3800828655 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (1000 in chips) 
+Seat 2: Coda56 (500 in chips) 
+Coda56: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s Qc]
+Coda56: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (30)
+Seat 2: Coda56 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #252462779232: Tournament #3800828655, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/09/15 18:34:47 CET [2024/09/15 12:34:47 ET]
+Table '3800828655 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1015 in chips) 
+Seat 2: Coda56 (485 in chips) 
+Mahu2021: posts small blind 15
+Coda56: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Td 7d]
+Mahu2021: calls 15
+Coda56: checks 
+*** FLOP *** [Ts Kh 5s]
+Coda56: checks 
+Mahu2021: bets 30
+Coda56: raises 30 to 60
+Mahu2021: calls 30
+*** TURN *** [Ts Kh 5s] [2h]
+Coda56: checks 
+Mahu2021: checks 
+*** RIVER *** [Ts Kh 5s 2h] [3c]
+Coda56: bets 395 and is all-in
+Mahu2021: folds 
+Uncalled bet (395) returned to Coda56
+Coda56 collected 180 from pot
+Coda56: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [Ts Kh 5s 2h 3c]
+Seat 1: Mahu2021 (button) (small blind) folded on the River
+Seat 2: Coda56 (big blind) collected (180)
+
+
+
+PokerStars Hand #252462788706: Tournament #3800828655, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/09/15 18:35:19 CET [2024/09/15 12:35:19 ET]
+Table '3800828655 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (925 in chips) 
+Seat 2: Coda56 (575 in chips) 
+Coda56: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd 4h]
+Coda56: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (30)
+Seat 2: Coda56 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #252462790067: Tournament #3800828655, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/09/15 18:35:24 CET [2024/09/15 12:35:24 ET]
+Table '3800828655 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (940 in chips) 
+Seat 2: Coda56 (560 in chips) 
+Mahu2021: posts small blind 15
+Coda56: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4d 7h]
+Mahu2021: calls 15
+Coda56: checks 
+*** FLOP *** [8s As Th]
+Coda56: checks 
+Mahu2021: bets 30
+Coda56: calls 30
+*** TURN *** [8s As Th] [9s]
+Coda56: checks 
+Mahu2021: bets 150
+Coda56: raises 350 to 500 and is all-in
+Mahu2021: folds 
+Uncalled bet (350) returned to Coda56
+Coda56 collected 420 from pot
+Coda56: doesn't show hand 
+*** SUMMARY ***
+Total pot 420 | Rake 0 
+Board [8s As Th 9s]
+Seat 1: Mahu2021 (button) (small blind) folded on the Turn
+Seat 2: Coda56 (big blind) collected (420)
+
+
+
+PokerStars Hand #252462797279: Tournament #3800828655, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/09/15 18:35:48 CET [2024/09/15 12:35:48 ET]
+Table '3800828655 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (730 in chips) 
+Seat 2: Coda56 (770 in chips) 
+Coda56: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qs 6s]
+Coda56: calls 20
+Mahu2021: checks 
+*** FLOP *** [8d Ts As]
+Mahu2021: checks 
+Coda56: checks 
+*** TURN *** [8d Ts As] [9c]
+Mahu2021: bets 40
+Coda56: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [8d Ts As 9c]
+Seat 1: Mahu2021 (big blind) collected (80)
+Seat 2: Coda56 (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #252462800848: Tournament #3800828655, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/09/15 18:36:00 CET [2024/09/15 12:36:00 ET]
+Table '3800828655 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (770 in chips) 
+Seat 2: Coda56 (730 in chips) 
+Mahu2021: posts small blind 20
+Coda56: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4c Qs]
+Mahu2021: calls 20
+Coda56: raises 80 to 120
+Mahu2021: folds 
+Uncalled bet (80) returned to Coda56
+Coda56 collected 80 from pot
+Coda56: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 2: Coda56 (big blind) collected (80)
+
+
+
+PokerStars Hand #252462803695: Tournament #3800828655, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/09/15 18:36:10 CET [2024/09/15 12:36:10 ET]
+Table '3800828655 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (730 in chips) 
+Seat 2: Coda56 (770 in chips) 
+Coda56: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd 6s]
+Coda56: calls 20
+Mahu2021: checks 
+*** FLOP *** [4h 9d 5h]
+Mahu2021: checks 
+Coda56: checks 
+*** TURN *** [4h 9d 5h] [Jd]
+Mahu2021: checks 
+Coda56: checks 
+*** RIVER *** [4h 9d 5h Jd] [9h]
+Mahu2021: checks 
+Coda56: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [Kd 6s] (a pair of Nines)
+Coda56: mucks hand 
+Mahu2021 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [4h 9d 5h Jd 9h]
+Seat 1: Mahu2021 (big blind) showed [Kd 6s] and won (80) with a pair of Nines
+Seat 2: Coda56 (button) (small blind) mucked [8h 6c]
+
+
+
+PokerStars Hand #252462807795: Tournament #3800828655, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/09/15 18:36:24 CET [2024/09/15 12:36:24 ET]
+Table '3800828655 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (770 in chips) 
+Seat 2: Coda56 (730 in chips) 
+Mahu2021: posts small blind 20
+Coda56: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Td Jh]
+Mahu2021: raises 40 to 80
+Coda56: calls 40
+*** FLOP *** [Qc Ac 6d]
+Coda56: checks 
+Mahu2021: bets 80
+Coda56: folds 
+Uncalled bet (80) returned to Mahu2021
+Mahu2021 collected 160 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Qc Ac 6d]
+Seat 1: Mahu2021 (button) (small blind) collected (160)
+Seat 2: Coda56 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #252462811568: Tournament #3800828655, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/09/15 18:36:36 CET [2024/09/15 12:36:36 ET]
+Table '3800828655 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (850 in chips) 
+Seat 2: Coda56 (650 in chips) 
+Coda56: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc Th]
+Coda56: calls 20
+Mahu2021: checks 
+*** FLOP *** [5d 5c Js]
+Mahu2021: checks 
+Coda56: bets 80
+Mahu2021: folds 
+Uncalled bet (80) returned to Coda56
+Coda56 collected 80 from pot
+Coda56: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [5d 5c Js]
+Seat 1: Mahu2021 (big blind) folded on the Flop
+Seat 2: Coda56 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #252462815228: Tournament #3800828655, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/09/15 18:36:49 CET [2024/09/15 12:36:49 ET]
+Table '3800828655 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (810 in chips) 
+Seat 2: Coda56 (690 in chips) 
+Mahu2021: posts small blind 20
+Coda56: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c 5h]
+Mahu2021: calls 20
+Coda56: checks 
+*** FLOP *** [Qs Tc As]
+Coda56: checks 
+Mahu2021: checks 
+*** TURN *** [Qs Tc As] [Qh]
+Coda56: checks 
+Mahu2021: bets 40
+Coda56: calls 40
+*** RIVER *** [Qs Tc As Qh] [Ad]
+Coda56: bets 160
+Mahu2021: folds 
+Uncalled bet (160) returned to Coda56
+Coda56 collected 160 from pot
+Coda56: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Qs Tc As Qh Ad]
+Seat 1: Mahu2021 (button) (small blind) folded on the River
+Seat 2: Coda56 (big blind) collected (160)
+
+
+
+PokerStars Hand #252462820892: Tournament #3800828655, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/09/15 18:37:08 CET [2024/09/15 12:37:08 ET]
+Table '3800828655 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (730 in chips) 
+Seat 2: Coda56 (770 in chips) 
+Coda56: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d 9d]
+Coda56: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (40)
+Seat 2: Coda56 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #252462823078: Tournament #3800828655, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/09/15 18:37:15 CET [2024/09/15 12:37:15 ET]
+Table '3800828655 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (750 in chips) 
+Seat 2: Coda56 (750 in chips) 
+Mahu2021: posts small blind 20
+Coda56: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Td 5c]
+Mahu2021: folds 
+Uncalled bet (20) returned to Coda56
+Coda56 collected 40 from pot
+Coda56: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 2: Coda56 (big blind) collected (40)
+
+
+
+PokerStars Hand #252462824423: Tournament #3800828655, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/09/15 18:37:20 CET [2024/09/15 12:37:20 ET]
+Table '3800828655 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (730 in chips) 
+Seat 2: Coda56 (770 in chips) 
+Coda56: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Tc Jh]
+Coda56: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (40)
+Seat 2: Coda56 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #252462825759: Tournament #3800828655, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/09/15 18:37:25 CET [2024/09/15 12:37:25 ET]
+Table '3800828655 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (750 in chips) 
+Seat 2: Coda56 (750 in chips) 
+Mahu2021: posts small blind 20
+Coda56: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d Qc]
+Mahu2021: calls 20
+Coda56: checks 
+*** FLOP *** [2c Ks 9d]
+Coda56: checks 
+Mahu2021: bets 40
+Coda56: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [2c Ks 9d]
+Seat 1: Mahu2021 (button) (small blind) collected (80)
+Seat 2: Coda56 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #252462828811: Tournament #3800828655, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/09/15 18:37:35 CET [2024/09/15 12:37:35 ET]
+Table '3800828655 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (790 in chips) 
+Seat 2: Coda56 (710 in chips) 
+Coda56: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3c 8h]
+Coda56: raises 40 to 80
+Mahu2021: folds 
+Uncalled bet (40) returned to Coda56
+Coda56 collected 80 from pot
+Coda56: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: Coda56 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #252462830562: Tournament #3800828655, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/09/15 18:37:41 CET [2024/09/15 12:37:41 ET]
+Table '3800828655 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (750 in chips) 
+Seat 2: Coda56 (750 in chips) 
+Mahu2021: posts small blind 20
+Coda56: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh Ts]
+Mahu2021: raises 40 to 80
+Coda56: calls 40
+*** FLOP *** [As Qc 2c]
+Coda56: checks 
+Mahu2021: bets 80
+Coda56: folds 
+Uncalled bet (80) returned to Mahu2021
+Mahu2021 collected 160 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [As Qc 2c]
+Seat 1: Mahu2021 (button) (small blind) collected (160)
+Seat 2: Coda56 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #252462834939: Tournament #3800828655, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/09/15 18:37:56 CET [2024/09/15 12:37:56 ET]
+Table '3800828655 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (830 in chips) 
+Seat 2: Coda56 (670 in chips) 
+Coda56: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8s As]
+Coda56: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (40)
+Seat 2: Coda56 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #252462836260: Tournament #3800828655, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/09/15 18:38:00 CET [2024/09/15 12:38:00 ET]
+Table '3800828655 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (850 in chips) 
+Seat 2: Coda56 (650 in chips) 
+Mahu2021: posts small blind 20
+Coda56: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c Kd]
+Mahu2021: raises 40 to 80
+Coda56: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) collected (80)
+Seat 2: Coda56 (big blind) folded before Flop
+
+
+
+PokerStars Hand #252462838099: Tournament #3800828655, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/09/15 18:38:07 CET [2024/09/15 12:38:07 ET]
+Table '3800828655 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (890 in chips) 
+Seat 2: Coda56 (610 in chips) 
+Coda56: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d 9s]
+Coda56: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (40)
+Seat 2: Coda56 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #252462839544: Tournament #3800828655, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/09/15 18:38:11 CET [2024/09/15 12:38:11 ET]
+Table '3800828655 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (910 in chips) 
+Seat 2: Coda56 (590 in chips) 
+Mahu2021: posts small blind 20
+Coda56: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac 9c]
+Mahu2021: raises 40 to 80
+Coda56: calls 40
+*** FLOP *** [9h Jd 8h]
+Coda56: checks 
+Mahu2021: bets 830 and is all-in
+Coda56: folds 
+Uncalled bet (830) returned to Mahu2021
+Mahu2021 collected 160 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [9h Jd 8h]
+Seat 1: Mahu2021 (button) (small blind) collected (160)
+Seat 2: Coda56 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #252462843391: Tournament #3800828655, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/09/15 18:38:24 CET [2024/09/15 12:38:24 ET]
+Table '3800828655 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (990 in chips) 
+Seat 2: Coda56 (510 in chips) 
+Coda56: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h 9s]
+Coda56: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (40)
+Seat 2: Coda56 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #252462844804: Tournament #3800828655, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/09/15 18:38:29 CET [2024/09/15 12:38:29 ET]
+Table '3800828655 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1010 in chips) 
+Seat 2: Coda56 (490 in chips) 
+Mahu2021: posts small blind 20
+Coda56: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js Kc]
+Mahu2021: raises 40 to 80
+Coda56: raises 160 to 240
+Mahu2021: raises 770 to 1010 and is all-in
+Coda56: calls 250 and is all-in
+Uncalled bet (520) returned to Mahu2021
+*** FLOP *** [3s Jc 9d]
+*** TURN *** [3s Jc 9d] [Tc]
+*** RIVER *** [3s Jc 9d Tc] [8c]
+*** SHOW DOWN ***
+Coda56: shows [Th Kh] (a pair of Tens)
+Mahu2021: shows [Js Kc] (a pair of Jacks)
+Mahu2021 collected 980 from pot
+Coda56 finished the tournament in 2nd place
+Mahu2021 wins the tournament and receives $6.00 - congratulations!
+*** SUMMARY ***
+Total pot 980 | Rake 0 
+Board [3s Jc 9d Tc 8c]
+Seat 1: Mahu2021 (button) (small blind) showed [Js Kc] and won (980) with a pair of Jacks
+Seat 2: Coda56 (big blind) showed [Th Kh] and lost with a pair of Tens
+
+
+

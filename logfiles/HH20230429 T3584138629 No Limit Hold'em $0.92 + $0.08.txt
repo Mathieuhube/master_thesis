@@ -1,0 +1,591 @@
+﻿PokerStars Hand #243381394327: Tournament #3584138629, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/29 9:06:33 CET [2023/04/29 3:06:33 ET]
+Table '3584138629 1' 3-max Seat #1 is the button
+Seat 1: cornelcu (500 in chips) 
+Seat 2: c0n0r0 (500 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+c0n0r0: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qs 6s]
+cornelcu: raises 100 to 120
+c0n0r0: folds 
+Mahu2021: folds 
+Uncalled bet (100) returned to cornelcu
+cornelcu collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: cornelcu (button) collected (50)
+Seat 2: c0n0r0 (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #243381395640: Tournament #3584138629, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/29 9:06:42 CET [2023/04/29 3:06:42 ET]
+Table '3584138629 1' 3-max Seat #2 is the button
+Seat 1: cornelcu (530 in chips) 
+Seat 2: c0n0r0 (490 in chips) 
+Seat 3: Mahu2021 (480 in chips) 
+Mahu2021: posts small blind 10
+cornelcu: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2c 5h]
+c0n0r0: raises 20 to 40
+Mahu2021: folds 
+cornelcu: calls 20
+*** FLOP *** [Tc 9c 2h]
+cornelcu: checks 
+c0n0r0: bets 45
+cornelcu: raises 45 to 90
+c0n0r0: raises 105 to 195
+cornelcu: calls 105
+*** TURN *** [Tc 9c 2h] [3d]
+cornelcu: checks 
+c0n0r0: bets 255 and is all-in
+cornelcu: folds 
+Uncalled bet (255) returned to c0n0r0
+c0n0r0 collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Board [Tc 9c 2h 3d]
+Seat 1: cornelcu (big blind) folded on the Turn
+Seat 2: c0n0r0 (button) collected (480)
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #243381400121: Tournament #3584138629, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/29 9:07:16 CET [2023/04/29 3:07:16 ET]
+Table '3584138629 1' 3-max Seat #3 is the button
+Seat 1: cornelcu (295 in chips) 
+Seat 2: c0n0r0 (735 in chips) 
+Seat 3: Mahu2021 (470 in chips) 
+cornelcu: posts small blind 10
+c0n0r0: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c 8s]
+Mahu2021: folds 
+cornelcu: raises 275 to 295 and is all-in
+c0n0r0: folds 
+Uncalled bet (275) returned to cornelcu
+cornelcu collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: cornelcu (small blind) collected (40)
+Seat 2: c0n0r0 (big blind) folded before Flop
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #243381401085: Tournament #3584138629, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/29 9:07:23 CET [2023/04/29 3:07:23 ET]
+Table '3584138629 1' 3-max Seat #1 is the button
+Seat 1: cornelcu (315 in chips) 
+Seat 2: c0n0r0 (715 in chips) 
+Seat 3: Mahu2021 (470 in chips) 
+c0n0r0: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s 3c]
+cornelcu: calls 20
+c0n0r0: calls 10
+Mahu2021: checks 
+*** FLOP *** [Tc 4d 6h]
+c0n0r0: checks 
+Mahu2021: checks 
+cornelcu: checks 
+*** TURN *** [Tc 4d 6h] [5d]
+c0n0r0: checks 
+Mahu2021: bets 60
+cornelcu: calls 60
+c0n0r0: folds 
+*** RIVER *** [Tc 4d 6h 5d] [8d]
+Mahu2021: bets 390 and is all-in
+cornelcu: calls 235 and is all-in
+Uncalled bet (155) returned to Mahu2021
+*** SHOW DOWN ***
+Mahu2021: shows [7s 3c] (a straight, Four to Eight)
+cornelcu: shows [7h Qh] (a straight, Four to Eight)
+Mahu2021 collected 325 from pot
+cornelcu collected 325 from pot
+*** SUMMARY ***
+Total pot 650 | Rake 0 
+Board [Tc 4d 6h 5d 8d]
+Seat 1: cornelcu (button) showed [7h Qh] and won (325) with a straight, Four to Eight
+Seat 2: c0n0r0 (small blind) folded on the Turn
+Seat 3: Mahu2021 (big blind) showed [7s 3c] and won (325) with a straight, Four to Eight
+
+
+
+PokerStars Hand #243381404547: Tournament #3584138629, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/29 9:07:49 CET [2023/04/29 3:07:49 ET]
+Table '3584138629 1' 3-max Seat #2 is the button
+Seat 1: cornelcu (325 in chips) 
+Seat 2: c0n0r0 (695 in chips) 
+Seat 3: Mahu2021 (480 in chips) 
+Mahu2021: posts small blind 10
+cornelcu: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c Jd]
+c0n0r0: folds 
+Mahu2021: calls 10
+cornelcu: checks 
+*** FLOP *** [9c 2h Th]
+Mahu2021: checks 
+cornelcu: checks 
+*** TURN *** [9c 2h Th] [9h]
+Mahu2021: checks 
+cornelcu: checks 
+*** RIVER *** [9c 2h Th 9h] [9s]
+Mahu2021: bets 20
+cornelcu: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [9c 2h Th 9h 9s]
+Seat 1: cornelcu (big blind) folded on the River
+Seat 2: c0n0r0 (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) collected (40)
+
+
+
+PokerStars Hand #243381407647: Tournament #3584138629, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/29 9:08:13 CET [2023/04/29 3:08:13 ET]
+Table '3584138629 1' 3-max Seat #3 is the button
+Seat 1: cornelcu (305 in chips) 
+Seat 2: c0n0r0 (695 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+cornelcu: posts small blind 10
+c0n0r0: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6h As]
+Mahu2021: calls 20
+cornelcu: folds 
+c0n0r0: checks 
+*** FLOP *** [Kc 9d 5h]
+c0n0r0: checks 
+Mahu2021: checks 
+*** TURN *** [Kc 9d 5h] [Jd]
+c0n0r0: checks 
+Mahu2021: checks 
+*** RIVER *** [Kc 9d 5h Jd] [Tc]
+c0n0r0: checks 
+Mahu2021: bets 20
+c0n0r0: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 50 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [Kc 9d 5h Jd Tc]
+Seat 1: cornelcu (small blind) folded before Flop
+Seat 2: c0n0r0 (big blind) folded on the River
+Seat 3: Mahu2021 (button) collected (50)
+
+
+
+PokerStars Hand #243381413818: Tournament #3584138629, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/29 9:09:00 CET [2023/04/29 3:09:00 ET]
+Table '3584138629 1' 3-max Seat #1 is the button
+Seat 1: cornelcu (295 in chips) 
+Seat 2: c0n0r0 (675 in chips) 
+Seat 3: Mahu2021 (530 in chips) 
+c0n0r0: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac Js]
+cornelcu: folds 
+c0n0r0: calls 15
+Mahu2021: raises 60 to 90
+c0n0r0: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: cornelcu (button) folded before Flop (didn't bet)
+Seat 2: c0n0r0 (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (60)
+
+
+
+PokerStars Hand #243381415224: Tournament #3584138629, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/29 9:09:11 CET [2023/04/29 3:09:11 ET]
+Table '3584138629 1' 3-max Seat #2 is the button
+Seat 1: cornelcu (295 in chips) 
+Seat 2: c0n0r0 (645 in chips) 
+Seat 3: Mahu2021 (560 in chips) 
+Mahu2021: posts small blind 15
+cornelcu: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kc 3d]
+c0n0r0: folds 
+Mahu2021: calls 15
+cornelcu: checks 
+*** FLOP *** [Qd 3s 7c]
+Mahu2021: checks 
+cornelcu: bets 30
+Mahu2021: calls 30
+*** TURN *** [Qd 3s 7c] [7d]
+Mahu2021: checks 
+cornelcu: bets 120
+Mahu2021: folds 
+Uncalled bet (120) returned to cornelcu
+cornelcu collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Qd 3s 7c 7d]
+Seat 1: cornelcu (big blind) collected (120)
+Seat 2: c0n0r0 (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #243381417803: Tournament #3584138629, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/29 9:09:31 CET [2023/04/29 3:09:31 ET]
+Table '3584138629 1' 3-max Seat #3 is the button
+Seat 1: cornelcu (355 in chips) 
+Seat 2: c0n0r0 (645 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+cornelcu: posts small blind 15
+c0n0r0: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6h 2h]
+Mahu2021: folds 
+cornelcu: folds 
+Uncalled bet (15) returned to c0n0r0
+c0n0r0 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: cornelcu (small blind) folded before Flop
+Seat 2: c0n0r0 (big blind) collected (30)
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #243381418377: Tournament #3584138629, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/29 9:09:35 CET [2023/04/29 3:09:35 ET]
+Table '3584138629 1' 3-max Seat #1 is the button
+Seat 1: cornelcu (340 in chips) 
+Seat 2: c0n0r0 (660 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+c0n0r0: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d 6s]
+cornelcu: folds 
+c0n0r0: calls 15
+Mahu2021: raises 470 to 500 and is all-in
+c0n0r0: folds 
+Uncalled bet (470) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: cornelcu (button) folded before Flop (didn't bet)
+Seat 2: c0n0r0 (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (60)
+
+
+
+PokerStars Hand #243381419979: Tournament #3584138629, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/29 9:09:48 CET [2023/04/29 3:09:48 ET]
+Table '3584138629 1' 3-max Seat #2 is the button
+Seat 1: cornelcu (340 in chips) 
+Seat 2: c0n0r0 (630 in chips) 
+Seat 3: Mahu2021 (530 in chips) 
+Mahu2021: posts small blind 15
+cornelcu: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c 6s]
+c0n0r0: folds 
+Mahu2021: folds 
+Uncalled bet (15) returned to cornelcu
+cornelcu collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: cornelcu (big blind) collected (30)
+Seat 2: c0n0r0 (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #243381421141: Tournament #3584138629, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/29 9:09:57 CET [2023/04/29 3:09:57 ET]
+Table '3584138629 1' 3-max Seat #3 is the button
+Seat 1: cornelcu (355 in chips) 
+Seat 2: c0n0r0 (630 in chips) 
+Seat 3: Mahu2021 (515 in chips) 
+cornelcu: posts small blind 15
+c0n0r0: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac Th]
+Mahu2021: raises 485 to 515 and is all-in
+cornelcu: folds 
+c0n0r0: folds 
+Uncalled bet (485) returned to Mahu2021
+Mahu2021 collected 75 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: cornelcu (small blind) folded before Flop
+Seat 2: c0n0r0 (big blind) folded before Flop
+Seat 3: Mahu2021 (button) collected (75)
+
+
+
+PokerStars Hand #243381422666: Tournament #3584138629, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/29 9:10:08 CET [2023/04/29 3:10:08 ET]
+Table '3584138629 1' 3-max Seat #1 is the button
+Seat 1: cornelcu (340 in chips) 
+Seat 2: c0n0r0 (600 in chips) 
+Seat 3: Mahu2021 (560 in chips) 
+c0n0r0: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h 2c]
+cornelcu: folds 
+c0n0r0: raises 570 to 600 and is all-in
+Mahu2021: folds 
+Uncalled bet (570) returned to c0n0r0
+c0n0r0 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: cornelcu (button) folded before Flop (didn't bet)
+Seat 2: c0n0r0 (small blind) collected (60)
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #243381423651: Tournament #3584138629, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/29 9:10:16 CET [2023/04/29 3:10:16 ET]
+Table '3584138629 1' 3-max Seat #2 is the button
+Seat 1: cornelcu (340 in chips) 
+Seat 2: c0n0r0 (630 in chips) 
+Seat 3: Mahu2021 (530 in chips) 
+Mahu2021: posts small blind 15
+cornelcu: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd 7s]
+c0n0r0: folds 
+Mahu2021: calls 15
+cornelcu: raises 310 to 340 and is all-in
+Mahu2021: folds 
+Uncalled bet (310) returned to cornelcu
+cornelcu collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: cornelcu (big blind) collected (60)
+Seat 2: c0n0r0 (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #243381424994: Tournament #3584138629, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/29 9:10:27 CET [2023/04/29 3:10:27 ET]
+Table '3584138629 1' 3-max Seat #3 is the button
+Seat 1: cornelcu (370 in chips) 
+Seat 2: c0n0r0 (630 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+cornelcu: posts small blind 15
+c0n0r0: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Td 5d]
+Mahu2021: folds 
+cornelcu: folds 
+Uncalled bet (15) returned to c0n0r0
+c0n0r0 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: cornelcu (small blind) folded before Flop
+Seat 2: c0n0r0 (big blind) collected (30)
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #243381426903: Tournament #3584138629, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/29 9:10:41 CET [2023/04/29 3:10:41 ET]
+Table '3584138629 1' 3-max Seat #1 is the button
+Seat 1: cornelcu (355 in chips) 
+Seat 2: c0n0r0 (645 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+c0n0r0: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c 4s]
+cornelcu: folds 
+c0n0r0: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: cornelcu (button) folded before Flop (didn't bet)
+Seat 2: c0n0r0 (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (40)
+
+
+
+PokerStars Hand #243381428274: Tournament #3584138629, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/29 9:10:51 CET [2023/04/29 3:10:51 ET]
+Table '3584138629 1' 3-max Seat #2 is the button
+Seat 1: cornelcu (355 in chips) 
+Seat 2: c0n0r0 (625 in chips) 
+Seat 3: Mahu2021 (520 in chips) 
+Mahu2021: posts small blind 20
+cornelcu: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd Td]
+c0n0r0: folds 
+Mahu2021: raises 40 to 80
+cornelcu: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: cornelcu (big blind) folded before Flop
+Seat 2: c0n0r0 (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) collected (80)
+
+
+
+PokerStars Hand #243381429536: Tournament #3584138629, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/29 9:11:01 CET [2023/04/29 3:11:01 ET]
+Table '3584138629 1' 3-max Seat #3 is the button
+Seat 1: cornelcu (315 in chips) 
+Seat 2: c0n0r0 (625 in chips) 
+Seat 3: Mahu2021 (560 in chips) 
+cornelcu: posts small blind 20
+c0n0r0: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh Jd]
+Mahu2021: raises 40 to 80
+cornelcu: folds 
+c0n0r0: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 100 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: cornelcu (small blind) folded before Flop
+Seat 2: c0n0r0 (big blind) folded before Flop
+Seat 3: Mahu2021 (button) collected (100)
+
+
+
+PokerStars Hand #243381430410: Tournament #3584138629, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/29 9:11:08 CET [2023/04/29 3:11:08 ET]
+Table '3584138629 1' 3-max Seat #1 is the button
+Seat 1: cornelcu (295 in chips) 
+Seat 2: c0n0r0 (585 in chips) 
+Seat 3: Mahu2021 (620 in chips) 
+c0n0r0: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c 2d]
+cornelcu: raises 80 to 120
+c0n0r0: folds 
+Mahu2021: folds 
+Uncalled bet (80) returned to cornelcu
+cornelcu collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: cornelcu (button) collected (100)
+Seat 2: c0n0r0 (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #243381431443: Tournament #3584138629, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/29 9:11:16 CET [2023/04/29 3:11:16 ET]
+Table '3584138629 1' 3-max Seat #2 is the button
+Seat 1: cornelcu (355 in chips) 
+Seat 2: c0n0r0 (565 in chips) 
+Seat 3: Mahu2021 (580 in chips) 
+Mahu2021: posts small blind 20
+cornelcu: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Td Ad]
+c0n0r0: folds 
+Mahu2021: raises 40 to 80
+cornelcu: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: cornelcu (big blind) folded before Flop
+Seat 2: c0n0r0 (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) collected (80)
+
+
+
+PokerStars Hand #243381432627: Tournament #3584138629, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/29 9:11:25 CET [2023/04/29 3:11:25 ET]
+Table '3584138629 1' 3-max Seat #3 is the button
+Seat 1: cornelcu (315 in chips) 
+Seat 2: c0n0r0 (565 in chips) 
+Seat 3: Mahu2021 (620 in chips) 
+cornelcu: posts small blind 20
+c0n0r0: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh 6c]
+Mahu2021: folds 
+cornelcu: calls 20
+c0n0r0: checks 
+*** FLOP *** [Jc 7h 7d]
+cornelcu: checks 
+c0n0r0: checks 
+*** TURN *** [Jc 7h 7d] [4c]
+cornelcu: bets 40
+c0n0r0: folds 
+Uncalled bet (40) returned to cornelcu
+cornelcu collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Jc 7h 7d 4c]
+Seat 1: cornelcu (small blind) collected (80)
+Seat 2: c0n0r0 (big blind) folded on the Turn
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #243381434874: Tournament #3584138629, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/29 9:11:43 CET [2023/04/29 3:11:43 ET]
+Table '3584138629 1' 3-max Seat #1 is the button
+Seat 1: cornelcu (355 in chips) 
+Seat 2: c0n0r0 (525 in chips) 
+Seat 3: Mahu2021 (620 in chips) 
+c0n0r0: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c Jh]
+cornelcu: raises 315 to 355 and is all-in
+c0n0r0: folds 
+Mahu2021: folds 
+Uncalled bet (315) returned to cornelcu
+cornelcu collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: cornelcu (button) collected (100)
+Seat 2: c0n0r0 (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #243381436132: Tournament #3584138629, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/29 9:11:53 CET [2023/04/29 3:11:53 ET]
+Table '3584138629 1' 3-max Seat #2 is the button
+Seat 1: cornelcu (415 in chips) 
+Seat 2: c0n0r0 (505 in chips) 
+Seat 3: Mahu2021 (580 in chips) 
+Mahu2021: posts small blind 20
+cornelcu: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc Qs]
+c0n0r0: raises 465 to 505 and is all-in
+Mahu2021: raises 75 to 580 and is all-in
+cornelcu: calls 375 and is all-in
+Uncalled bet (75) returned to Mahu2021
+*** FLOP *** [5s Kh 7c]
+*** TURN *** [5s Kh 7c] [Js]
+*** RIVER *** [5s Kh 7c Js] [8d]
+*** SHOW DOWN ***
+Mahu2021: shows [Qc Qs] (a pair of Queens)
+c0n0r0: shows [Qh Ad] (high card Ace)
+Mahu2021 collected 180 from side pot
+cornelcu: shows [Qd Ac] (high card Ace)
+Mahu2021 collected 1245 from main pot
+c0n0r0 finished the tournament in 2nd place
+cornelcu finished the tournament in 3rd place
+Mahu2021 wins the tournament and receives $2.00 - congratulations!
+*** SUMMARY ***
+Total pot 1425 Main pot 1245. Side pot 180. | Rake 0 
+Board [5s Kh 7c Js 8d]
+Seat 1: cornelcu (big blind) showed [Qd Ac] and lost with high card Ace
+Seat 2: c0n0r0 (button) showed [Qh Ad] and lost with high card Ace
+Seat 3: Mahu2021 (small blind) showed [Qc Qs] and won (1425) with a pair of Queens
+
+
+

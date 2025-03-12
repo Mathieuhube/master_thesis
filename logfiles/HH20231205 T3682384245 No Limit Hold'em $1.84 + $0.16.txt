@@ -1,0 +1,411 @@
+﻿PokerStars Hand #247492537436: Tournament #3682384245, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/05 18:30:44 CET [2023/12/05 12:30:44 ET]
+Table '3682384245 1' 3-max Seat #1 is the button
+Seat 1: wpk8 (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: rajko80 (500 in chips) 
+Mahu2021: posts small blind 10
+rajko80: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks 5s]
+wpk8: calls 20
+Mahu2021: calls 10
+rajko80: checks 
+*** FLOP *** [4h 6d Jd]
+Mahu2021: checks 
+rajko80: checks 
+wpk8: checks 
+*** TURN *** [4h 6d Jd] [7h]
+Mahu2021: checks 
+rajko80: bets 20
+wpk8: calls 20
+Mahu2021: calls 20
+*** RIVER *** [4h 6d Jd 7h] [4c]
+Mahu2021: checks 
+rajko80: bets 60
+wpk8: folds 
+Mahu2021: folds 
+Uncalled bet (60) returned to rajko80
+rajko80 collected 120 from pot
+rajko80: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [4h 6d Jd 7h 4c]
+Seat 1: wpk8 (button) folded on the River
+Seat 2: Mahu2021 (small blind) folded on the River
+Seat 3: rajko80 (big blind) collected (120)
+
+
+
+PokerStars Hand #247492551241: Tournament #3682384245, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/05 18:31:27 CET [2023/12/05 12:31:27 ET]
+Table '3682384245 1' 3-max Seat #2 is the button
+Seat 1: wpk8 (460 in chips) 
+Seat 2: Mahu2021 (460 in chips) 
+Seat 3: rajko80 (580 in chips) 
+rajko80: posts small blind 10
+wpk8: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh 8s]
+Mahu2021: folds 
+rajko80: raises 20 to 40
+wpk8: calls 20
+*** FLOP *** [4c 8h Ks]
+rajko80: checks 
+wpk8: bets 20
+rajko80: calls 20
+*** TURN *** [4c 8h Ks] [5c]
+rajko80: checks 
+wpk8: bets 20
+rajko80: folds 
+Uncalled bet (20) returned to wpk8
+wpk8 collected 120 from pot
+wpk8: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [4c 8h Ks 5c]
+Seat 1: wpk8 (big blind) collected (120)
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: rajko80 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #247492565989: Tournament #3682384245, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/05 18:32:14 CET [2023/12/05 12:32:14 ET]
+Table '3682384245 1' 3-max Seat #3 is the button
+Seat 1: wpk8 (520 in chips) 
+Seat 2: Mahu2021 (460 in chips) 
+Seat 3: rajko80 (520 in chips) 
+wpk8: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s 6s]
+rajko80 has timed out
+rajko80: folds 
+rajko80 is sitting out
+wpk8: calls 10
+Mahu2021: checks 
+*** FLOP *** [7c Qs Jc]
+wpk8: checks 
+Mahu2021: checks 
+*** TURN *** [7c Qs Jc] [8d]
+wpk8: bets 20
+Mahu2021: calls 20
+*** RIVER *** [7c Qs Jc 8d] [Qd]
+wpk8: bets 20
+Mahu2021: calls 20
+*** SHOW DOWN ***
+wpk8: shows [4d Jd] (two pair, Queens and Jacks)
+Mahu2021: mucks hand 
+wpk8 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [7c Qs Jc 8d Qd]
+Seat 1: wpk8 (small blind) showed [4d Jd] and won (120) with two pair, Queens and Jacks
+Seat 2: Mahu2021 (big blind) mucked [7s 6s]
+Seat 3: rajko80 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #247492576811: Tournament #3682384245, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/12/05 18:32:48 CET [2023/12/05 12:32:48 ET]
+Table '3682384245 1' 3-max Seat #1 is the button
+Seat 1: wpk8 (580 in chips) 
+Seat 2: Mahu2021 (400 in chips) 
+Seat 3: rajko80 (520 in chips) 
+Mahu2021: posts small blind 15
+rajko80: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As Ad]
+wpk8: calls 30
+Mahu2021: raises 370 to 400 and is all-in
+rajko80: folds 
+wpk8: folds 
+Uncalled bet (370) returned to Mahu2021
+Mahu2021 collected 90 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Seat 1: wpk8 (button) folded before Flop
+Seat 2: Mahu2021 (small blind) collected (90)
+Seat 3: rajko80 (big blind) folded before Flop
+
+
+
+PokerStars Hand #247492579919: Tournament #3682384245, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/12/05 18:32:58 CET [2023/12/05 12:32:58 ET]
+Table '3682384245 1' 3-max Seat #2 is the button
+Seat 1: wpk8 (550 in chips) 
+Seat 2: Mahu2021 (460 in chips) 
+Seat 3: rajko80 (490 in chips) 
+rajko80: posts small blind 15
+wpk8: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d 4s]
+Mahu2021: folds 
+rajko80: raises 30 to 60
+wpk8: calls 30
+*** FLOP *** [Ts 5h 3c]
+rajko80: bets 60
+wpk8: folds 
+Uncalled bet (60) returned to rajko80
+rajko80 collected 120 from pot
+rajko80: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Ts 5h 3c]
+Seat 1: wpk8 (big blind) folded on the Flop
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: rajko80 (small blind) collected (120)
+
+
+
+PokerStars Hand #247492585716: Tournament #3682384245, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/12/05 18:33:17 CET [2023/12/05 12:33:17 ET]
+Table '3682384245 1' 3-max Seat #3 is the button
+Seat 1: wpk8 (490 in chips) 
+Seat 2: Mahu2021 (460 in chips) 
+Seat 3: rajko80 (550 in chips) 
+wpk8: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6h 5d]
+rajko80: folds 
+wpk8: calls 15
+Mahu2021: checks 
+*** FLOP *** [8s 3d Td]
+wpk8: checks 
+Mahu2021: checks 
+*** TURN *** [8s 3d Td] [7h]
+wpk8: checks 
+Mahu2021: bets 60
+wpk8: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [8s 3d Td 7h]
+Seat 1: wpk8 (small blind) folded on the Turn
+Seat 2: Mahu2021 (big blind) collected (60)
+Seat 3: rajko80 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #247492591833: Tournament #3682384245, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/12/05 18:33:36 CET [2023/12/05 12:33:36 ET]
+Table '3682384245 1' 3-max Seat #1 is the button
+Seat 1: wpk8 (460 in chips) 
+Seat 2: Mahu2021 (490 in chips) 
+Seat 3: rajko80 (550 in chips) 
+Mahu2021: posts small blind 15
+rajko80: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As 5c]
+wpk8: calls 30
+Mahu2021: calls 15
+rajko80: checks 
+*** FLOP *** [Qs 5h 5d]
+Mahu2021: checks 
+rajko80: bets 90
+wpk8: folds 
+Mahu2021: raises 120 to 210
+rajko80: raises 310 to 520 and is all-in
+Mahu2021: calls 250 and is all-in
+Uncalled bet (60) returned to rajko80
+*** TURN *** [Qs 5h 5d] [Qc]
+*** RIVER *** [Qs 5h 5d Qc] [2h]
+*** SHOW DOWN ***
+Mahu2021: shows [As 5c] (a full house, Fives full of Queens)
+rajko80: shows [Ac Kd] (two pair, Queens and Fives)
+Mahu2021 collected 1010 from pot
+*** SUMMARY ***
+Total pot 1010 | Rake 0 
+Board [Qs 5h 5d Qc 2h]
+Seat 1: wpk8 (button) folded on the Flop
+Seat 2: Mahu2021 (small blind) showed [As 5c] and won (1010) with a full house, Fives full of Queens
+Seat 3: rajko80 (big blind) showed [Ac Kd] and lost with two pair, Queens and Fives
+
+
+
+PokerStars Hand #247492602022: Tournament #3682384245, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/12/05 18:34:08 CET [2023/12/05 12:34:08 ET]
+Table '3682384245 1' 3-max Seat #2 is the button
+Seat 1: wpk8 (430 in chips) 
+Seat 2: Mahu2021 (1010 in chips) 
+Seat 3: rajko80 (60 in chips) 
+rajko80: posts small blind 15
+wpk8: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts Kc]
+Mahu2021: raises 60 to 90
+rajko80: calls 45 and is all-in
+wpk8: calls 60
+*** FLOP *** [2s 7s Kh]
+wpk8: checks 
+Mahu2021: bets 90
+wpk8: raises 250 to 340 and is all-in
+Mahu2021: calls 250
+*** TURN *** [2s 7s Kh] [2d]
+*** RIVER *** [2s 7s Kh 2d] [9c]
+*** SHOW DOWN ***
+wpk8: shows [4h 2h] (three of a kind, Deuces)
+Mahu2021: shows [Ts Kc] (two pair, Kings and Deuces)
+wpk8 collected 740 from side pot
+rajko80: shows [6c Tc] (a pair of Deuces)
+wpk8 collected 180 from main pot
+rajko80 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 920 Main pot 180. Side pot 740. | Rake 0 
+Board [2s 7s Kh 2d 9c]
+Seat 1: wpk8 (big blind) showed [4h 2h] and won (920) with three of a kind, Deuces
+Seat 2: Mahu2021 (button) showed [Ts Kc] and lost with two pair, Kings and Deuces
+Seat 3: rajko80 (small blind) showed [6c Tc] and lost with a pair of Deuces
+
+
+
+PokerStars Hand #247492611044: Tournament #3682384245, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/12/05 18:34:37 CET [2023/12/05 12:34:37 ET]
+Table '3682384245 1' 3-max Seat #1 is the button
+Seat 1: wpk8 (920 in chips) 
+Seat 2: Mahu2021 (580 in chips) 
+wpk8: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8d 7h]
+wpk8: calls 15
+Mahu2021: checks 
+*** FLOP *** [5c Ah 4s]
+Mahu2021: checks 
+wpk8: checks 
+*** TURN *** [5c Ah 4s] [3c]
+Mahu2021: checks 
+wpk8: bets 30
+Mahu2021: calls 30
+*** RIVER *** [5c Ah 4s 3c] [Kd]
+Mahu2021: checks 
+wpk8: bets 30
+Mahu2021: folds 
+Uncalled bet (30) returned to wpk8
+wpk8 collected 120 from pot
+wpk8: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [5c Ah 4s 3c Kd]
+Seat 1: wpk8 (button) (small blind) collected (120)
+Seat 2: Mahu2021 (big blind) folded on the River
+
+
+
+PokerStars Hand #247492617425: Tournament #3682384245, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/12/05 18:34:57 CET [2023/12/05 12:34:57 ET]
+Table '3682384245 1' 3-max Seat #2 is the button
+Seat 1: wpk8 (980 in chips) 
+Seat 2: Mahu2021 (520 in chips) 
+Mahu2021: posts small blind 20
+wpk8: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d 9h]
+Mahu2021: folds 
+Uncalled bet (20) returned to wpk8
+wpk8 collected 40 from pot
+wpk8: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: wpk8 (big blind) collected (40)
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #247492618818: Tournament #3682384245, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/12/05 18:35:01 CET [2023/12/05 12:35:01 ET]
+Table '3682384245 1' 3-max Seat #1 is the button
+Seat 1: wpk8 (1000 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+wpk8: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac 4c]
+wpk8: calls 20
+Mahu2021: raises 80 to 120
+wpk8: folds 
+Uncalled bet (80) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: wpk8 (button) (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (80)
+
+
+
+PokerStars Hand #247492621780: Tournament #3682384245, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/12/05 18:35:10 CET [2023/12/05 12:35:10 ET]
+Table '3682384245 1' 3-max Seat #2 is the button
+Seat 1: wpk8 (960 in chips) 
+Seat 2: Mahu2021 (540 in chips) 
+Mahu2021: posts small blind 20
+wpk8: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d As]
+Mahu2021: raises 80 to 120
+wpk8: calls 80
+*** FLOP *** [Kd 6d 2s]
+wpk8: checks 
+Mahu2021: bets 420 and is all-in
+wpk8: folds 
+Uncalled bet (420) returned to Mahu2021
+Mahu2021 collected 240 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Kd 6d 2s]
+Seat 1: wpk8 (big blind) folded on the Flop
+Seat 2: Mahu2021 (button) (small blind) collected (240)
+
+
+
+PokerStars Hand #247492625497: Tournament #3682384245, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/12/05 18:35:22 CET [2023/12/05 12:35:22 ET]
+Table '3682384245 1' 3-max Seat #1 is the button
+Seat 1: wpk8 (840 in chips) 
+Seat 2: Mahu2021 (660 in chips) 
+wpk8: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh Jc]
+wpk8: calls 20
+Mahu2021: raises 120 to 160
+wpk8: raises 120 to 280
+Mahu2021: raises 380 to 660 and is all-in
+wpk8: calls 380
+*** FLOP *** [Ah 6c 9s]
+*** TURN *** [Ah 6c 9s] [6d]
+*** RIVER *** [Ah 6c 9s 6d] [Jd]
+*** SHOW DOWN ***
+Mahu2021: shows [Jh Jc] (a full house, Jacks full of Sixes)
+wpk8: shows [2s 2c] (two pair, Sixes and Deuces)
+Mahu2021 collected 1320 from pot
+*** SUMMARY ***
+Total pot 1320 | Rake 0 
+Board [Ah 6c 9s 6d Jd]
+Seat 1: wpk8 (button) (small blind) showed [2s 2c] and lost with two pair, Sixes and Deuces
+Seat 2: Mahu2021 (big blind) showed [Jh Jc] and won (1320) with a full house, Jacks full of Sixes
+
+
+
+PokerStars Hand #247492631092: Tournament #3682384245, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/12/05 18:35:40 CET [2023/12/05 12:35:40 ET]
+Table '3682384245 1' 3-max Seat #2 is the button
+Seat 1: wpk8 (180 in chips) 
+Seat 2: Mahu2021 (1320 in chips) 
+Mahu2021: posts small blind 20
+wpk8: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h Ad]
+Mahu2021: raises 200 to 240
+wpk8: calls 140 and is all-in
+Uncalled bet (60) returned to Mahu2021
+*** FLOP *** [9h 3c Ah]
+*** TURN *** [9h 3c Ah] [2c]
+*** RIVER *** [9h 3c Ah 2c] [Js]
+*** SHOW DOWN ***
+wpk8: shows [Kc Kh] (a pair of Kings)
+Mahu2021: shows [2h Ad] (two pair, Aces and Deuces)
+Mahu2021 collected 360 from pot
+wpk8 finished the tournament in 2nd place
+Mahu2021 wins the tournament and receives $4.00 - congratulations!
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [9h 3c Ah 2c Js]
+Seat 1: wpk8 (big blind) showed [Kc Kh] and lost with a pair of Kings
+Seat 2: Mahu2021 (button) (small blind) showed [2h Ad] and won (360) with two pair, Aces and Deuces
+
+
+

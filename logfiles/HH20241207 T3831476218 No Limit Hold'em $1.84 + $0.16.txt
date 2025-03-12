@@ -1,0 +1,736 @@
+﻿PokerStars Hand #253746296376: Tournament #3831476218, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/12/07 18:57:51 CET [2024/12/07 12:57:51 ET]
+Table '3831476218 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: Kölner-Bub (500 in chips) 
+Seat 3: SGH777 (500 in chips) 
+Kölner-Bub: posts small blind 10
+SGH777: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd 4h]
+Mahu2021: folds 
+Kölner-Bub: raises 20 to 40
+SGH777: folds 
+Uncalled bet (20) returned to Kölner-Bub
+Kölner-Bub collected 40 from pot
+Kölner-Bub: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: Kölner-Bub (small blind) collected (40)
+Seat 3: SGH777 (big blind) folded before Flop
+
+
+
+PokerStars Hand #253746297805: Tournament #3831476218, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/12/07 18:57:59 CET [2024/12/07 12:57:59 ET]
+Table '3831476218 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: Kölner-Bub (520 in chips) 
+Seat 3: SGH777 (480 in chips) 
+SGH777: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh 4h]
+Kölner-Bub: folds 
+SGH777: calls 10
+Mahu2021: checks 
+*** FLOP *** [Ts 6h 9s]
+SGH777: bets 20
+Mahu2021: folds 
+Uncalled bet (20) returned to SGH777
+SGH777 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Ts 6h 9s]
+Seat 1: Mahu2021 (big blind) folded on the Flop
+Seat 2: Kölner-Bub (button) folded before Flop (didn't bet)
+Seat 3: SGH777 (small blind) collected (40)
+
+
+
+PokerStars Hand #253746299662: Tournament #3831476218, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/12/07 18:58:10 CET [2024/12/07 12:58:10 ET]
+Table '3831476218 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (480 in chips) 
+Seat 2: Kölner-Bub (520 in chips) 
+Seat 3: SGH777 (500 in chips) 
+Mahu2021: posts small blind 10
+Kölner-Bub: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h Th]
+SGH777: folds 
+Mahu2021: raises 20 to 40
+Kölner-Bub: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (small blind) collected (40)
+Seat 2: Kölner-Bub (big blind) folded before Flop
+Seat 3: SGH777 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253746300898: Tournament #3831476218, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/12/07 18:58:17 CET [2024/12/07 12:58:17 ET]
+Table '3831476218 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: Kölner-Bub (500 in chips) 
+Seat 3: SGH777 (500 in chips) 
+Kölner-Bub: posts small blind 10
+SGH777: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c 9s]
+Mahu2021: folds 
+Kölner-Bub: raises 480 to 500 and is all-in
+SGH777: folds 
+Uncalled bet (480) returned to Kölner-Bub
+Kölner-Bub collected 40 from pot
+Kölner-Bub: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: Kölner-Bub (small blind) collected (40)
+Seat 3: SGH777 (big blind) folded before Flop
+
+
+
+PokerStars Hand #253746302356: Tournament #3831476218, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/12/07 18:58:25 CET [2024/12/07 12:58:25 ET]
+Table '3831476218 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: Kölner-Bub (520 in chips) 
+Seat 3: SGH777 (480 in chips) 
+SGH777: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8s Js]
+Kölner-Bub: raises 500 to 520 and is all-in
+SGH777: calls 470 and is all-in
+Mahu2021: folds 
+Uncalled bet (40) returned to Kölner-Bub
+*** FLOP *** [2c 2s Kh]
+*** TURN *** [2c 2s Kh] [4s]
+*** RIVER *** [2c 2s Kh 4s] [4h]
+*** SHOW DOWN ***
+SGH777: shows [3c 3s] (two pair, Fours and Threes)
+Kölner-Bub: shows [9s Ad] (two pair, Fours and Deuces)
+SGH777 collected 980 from pot
+*** SUMMARY ***
+Total pot 980 | Rake 0 
+Board [2c 2s Kh 4s 4h]
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: Kölner-Bub (button) showed [9s Ad] and lost with two pair, Fours and Deuces
+Seat 3: SGH777 (small blind) showed [3c 3s] and won (980) with two pair, Fours and Threes
+
+
+
+PokerStars Hand #253746305076: Tournament #3831476218, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/12/07 18:58:40 CET [2024/12/07 12:58:40 ET]
+Table '3831476218 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (480 in chips) 
+Seat 2: Kölner-Bub (40 in chips) 
+Seat 3: SGH777 (980 in chips) 
+Mahu2021: posts small blind 10
+Kölner-Bub: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad 2h]
+SGH777: calls 20
+Mahu2021: raises 20 to 40
+Kölner-Bub: calls 20 and is all-in
+SGH777: calls 20
+*** FLOP *** [9h 4c 6c]
+Mahu2021: checks 
+SGH777: bets 120
+Mahu2021: folds 
+Uncalled bet (120) returned to SGH777
+*** TURN *** [9h 4c 6c] [Ac]
+*** RIVER *** [9h 4c 6c Ac] [Ks]
+*** SHOW DOWN ***
+Kölner-Bub: shows [Td 3d] (high card Ace)
+SGH777: shows [Th 7d] (high card Ace - King+Ten+Nine+Seven kicker)
+SGH777 collected 120 from pot
+Kölner-Bub finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [9h 4c 6c Ac Ks]
+Seat 1: Mahu2021 (small blind) folded on the Flop
+Seat 2: Kölner-Bub (big blind) showed [Td 3d] and lost with high card Ace
+Seat 3: SGH777 (button) showed [Th 7d] and won (120) with high card Ace
+
+
+
+PokerStars Hand #253746309608: Tournament #3831476218, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/12/07 18:59:06 CET [2024/12/07 12:59:06 ET]
+Table '3831476218 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (440 in chips) 
+Seat 3: SGH777 (1060 in chips) 
+Mahu2021: posts small blind 10
+SGH777: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8s 6h]
+Mahu2021: folds 
+Uncalled bet (10) returned to SGH777
+SGH777 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: SGH777 (big blind) collected (20)
+
+
+
+PokerStars Hand #253746310398: Tournament #3831476218, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/12/07 18:59:10 CET [2024/12/07 12:59:10 ET]
+Table '3831476218 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (430 in chips) 
+Seat 3: SGH777 (1070 in chips) 
+SGH777: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2c Jc]
+SGH777: folds 
+Uncalled bet (10) returned to Mahu2021
+Mahu2021 collected 20 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (20)
+Seat 3: SGH777 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #253746311293: Tournament #3831476218, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/12/07 18:59:15 CET [2024/12/07 12:59:15 ET]
+Table '3831476218 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (440 in chips) 
+Seat 3: SGH777 (1060 in chips) 
+Mahu2021: posts small blind 10
+SGH777: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h 7c]
+Mahu2021: folds 
+Uncalled bet (10) returned to SGH777
+SGH777 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: SGH777 (big blind) collected (20)
+
+
+
+PokerStars Hand #253746312142: Tournament #3831476218, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/12/07 18:59:20 CET [2024/12/07 12:59:20 ET]
+Table '3831476218 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (430 in chips) 
+Seat 3: SGH777 (1070 in chips) 
+SGH777: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h Ah]
+SGH777: calls 10
+Mahu2021: raises 40 to 60
+SGH777: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (40)
+Seat 3: SGH777 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #253746313765: Tournament #3831476218, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/12/07 18:59:29 CET [2024/12/07 12:59:29 ET]
+Table '3831476218 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (450 in chips) 
+Seat 3: SGH777 (1050 in chips) 
+Mahu2021: posts small blind 10
+SGH777: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kc 3c]
+Mahu2021: raises 20 to 40
+SGH777: raises 1010 to 1050 and is all-in
+Mahu2021: folds 
+Uncalled bet (1010) returned to SGH777
+SGH777 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: SGH777 (big blind) collected (80)
+
+
+
+PokerStars Hand #253746315610: Tournament #3831476218, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/12/07 18:59:39 CET [2024/12/07 12:59:39 ET]
+Table '3831476218 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (410 in chips) 
+Seat 3: SGH777 (1090 in chips) 
+SGH777: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kc Jd]
+SGH777: raises 20 to 40
+Mahu2021: calls 20
+*** FLOP *** [7s 5h 7d]
+Mahu2021: checks 
+SGH777: bets 80
+Mahu2021: folds 
+Uncalled bet (80) returned to SGH777
+SGH777 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [7s 5h 7d]
+Seat 1: Mahu2021 (big blind) folded on the Flop
+Seat 3: SGH777 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #253746317938: Tournament #3831476218, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/12/07 18:59:51 CET [2024/12/07 12:59:51 ET]
+Table '3831476218 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (370 in chips) 
+Seat 3: SGH777 (1130 in chips) 
+Mahu2021: posts small blind 10
+SGH777: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c Ad]
+Mahu2021: raises 20 to 40
+SGH777: calls 20
+*** FLOP *** [2c 6c 6h]
+SGH777: checks 
+Mahu2021: checks 
+*** TURN *** [2c 6c 6h] [7s]
+SGH777: bets 80
+Mahu2021: calls 80
+*** RIVER *** [2c 6c 6h 7s] [4c]
+SGH777: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+SGH777: shows [8h 9h] (a pair of Sixes)
+Mahu2021: shows [9c Ad] (a pair of Sixes - Ace kicker)
+Mahu2021 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [2c 6c 6h 7s 4c]
+Seat 1: Mahu2021 (button) (small blind) showed [9c Ad] and won (240) with a pair of Sixes
+Seat 3: SGH777 (big blind) showed [8h 9h] and lost with a pair of Sixes
+
+
+
+PokerStars Hand #253746321875: Tournament #3831476218, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/12/07 19:00:13 CET [2024/12/07 13:00:13 ET]
+Table '3831476218 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (490 in chips) 
+Seat 3: SGH777 (1010 in chips) 
+SGH777: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5h 4c]
+SGH777: raises 20 to 40
+Mahu2021: folds 
+Uncalled bet (20) returned to SGH777
+SGH777 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 3: SGH777 (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #253746323368: Tournament #3831476218, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/12/07 19:00:21 CET [2024/12/07 13:00:21 ET]
+Table '3831476218 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (470 in chips) 
+Seat 3: SGH777 (1030 in chips) 
+Mahu2021: posts small blind 10
+SGH777: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h 4c]
+Mahu2021: folds 
+Uncalled bet (10) returned to SGH777
+SGH777 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: SGH777 (big blind) collected (20)
+
+
+
+PokerStars Hand #253746324203: Tournament #3831476218, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/12/07 19:00:26 CET [2024/12/07 13:00:26 ET]
+Table '3831476218 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (460 in chips) 
+Seat 3: SGH777 (1040 in chips) 
+SGH777: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Td 6h]
+SGH777: raises 20 to 40
+Mahu2021: folds 
+Uncalled bet (20) returned to SGH777
+SGH777 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 3: SGH777 (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #253746325350: Tournament #3831476218, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/12/07 19:00:32 CET [2024/12/07 13:00:32 ET]
+Table '3831476218 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (440 in chips) 
+Seat 3: SGH777 (1060 in chips) 
+Mahu2021: posts small blind 10
+SGH777: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h 3d]
+Mahu2021: folds 
+Uncalled bet (10) returned to SGH777
+SGH777 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: SGH777 (big blind) collected (20)
+
+
+
+PokerStars Hand #253746326166: Tournament #3831476218, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/12/07 19:00:36 CET [2024/12/07 13:00:36 ET]
+Table '3831476218 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (430 in chips) 
+Seat 3: SGH777 (1070 in chips) 
+SGH777: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h Jh]
+SGH777: calls 10
+Mahu2021: checks 
+*** FLOP *** [4c Qd 6d]
+Mahu2021: checks 
+SGH777: checks 
+*** TURN *** [4c Qd 6d] [Ac]
+Mahu2021: checks 
+SGH777: bets 20
+Mahu2021: folds 
+Uncalled bet (20) returned to SGH777
+SGH777 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [4c Qd 6d Ac]
+Seat 1: Mahu2021 (big blind) folded on the Turn
+Seat 3: SGH777 (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #253746328581: Tournament #3831476218, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/12/07 19:00:48 CET [2024/12/07 13:00:48 ET]
+Table '3831476218 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (410 in chips) 
+Seat 3: SGH777 (1090 in chips) 
+Mahu2021: posts small blind 10
+SGH777: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s 2c]
+Mahu2021: folds 
+Uncalled bet (10) returned to SGH777
+SGH777 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: SGH777 (big blind) collected (20)
+
+
+
+PokerStars Hand #253746330100: Tournament #3831476218, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/12/07 19:00:55 CET [2024/12/07 13:00:55 ET]
+Table '3831476218 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (400 in chips) 
+Seat 3: SGH777 (1100 in chips) 
+SGH777: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac 8h]
+SGH777: calls 15
+Mahu2021: raises 370 to 400 and is all-in
+SGH777: folds 
+Uncalled bet (370) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (60)
+Seat 3: SGH777 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #253746331976: Tournament #3831476218, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/12/07 19:01:04 CET [2024/12/07 13:01:04 ET]
+Table '3831476218 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (430 in chips) 
+Seat 3: SGH777 (1070 in chips) 
+Mahu2021: posts small blind 15
+SGH777: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh Qs]
+Mahu2021: raises 30 to 60
+SGH777: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) collected (60)
+Seat 3: SGH777 (big blind) folded before Flop
+
+
+
+PokerStars Hand #253746333248: Tournament #3831476218, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/12/07 19:01:10 CET [2024/12/07 13:01:10 ET]
+Table '3831476218 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (460 in chips) 
+Seat 3: SGH777 (1040 in chips) 
+SGH777: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd Tc]
+SGH777: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (30)
+Seat 3: SGH777 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #253746334165: Tournament #3831476218, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/12/07 19:01:15 CET [2024/12/07 13:01:15 ET]
+Table '3831476218 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (475 in chips) 
+Seat 3: SGH777 (1025 in chips) 
+Mahu2021: posts small blind 15
+SGH777: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd Qs]
+Mahu2021: raises 30 to 60
+SGH777: calls 30
+*** FLOP *** [Td 8h Qh]
+SGH777: bets 30
+Mahu2021: raises 60 to 90
+SGH777: calls 60
+*** TURN *** [Td 8h Qh] [4s]
+SGH777: checks 
+Mahu2021: bets 300
+SGH777: folds 
+Uncalled bet (300) returned to Mahu2021
+Mahu2021 collected 300 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [Td 8h Qh 4s]
+Seat 1: Mahu2021 (button) (small blind) collected (300)
+Seat 3: SGH777 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #253746338150: Tournament #3831476218, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/12/07 19:01:33 CET [2024/12/07 13:01:33 ET]
+Table '3831476218 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (625 in chips) 
+Seat 3: SGH777 (875 in chips) 
+SGH777: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Tc 6d]
+SGH777: calls 15
+Mahu2021: checks 
+*** FLOP *** [7s Jd 4c]
+Mahu2021: checks 
+SGH777: checks 
+*** TURN *** [7s Jd 4c] [Ks]
+Mahu2021: checks 
+SGH777: bets 30
+Mahu2021: folds 
+Uncalled bet (30) returned to SGH777
+SGH777 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [7s Jd 4c Ks]
+Seat 1: Mahu2021 (big blind) folded on the Turn
+Seat 3: SGH777 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #253746341119: Tournament #3831476218, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/12/07 19:01:46 CET [2024/12/07 13:01:46 ET]
+Table '3831476218 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (595 in chips) 
+Seat 3: SGH777 (905 in chips) 
+Mahu2021: posts small blind 15
+SGH777: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Th Jd]
+Mahu2021: raises 30 to 60
+SGH777: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) collected (60)
+Seat 3: SGH777 (big blind) folded before Flop
+
+
+
+PokerStars Hand #253746342388: Tournament #3831476218, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/12/07 19:01:51 CET [2024/12/07 13:01:51 ET]
+Table '3831476218 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (625 in chips) 
+Seat 3: SGH777 (875 in chips) 
+SGH777: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d Td]
+SGH777: raises 30 to 60
+Mahu2021: calls 30
+*** FLOP *** [Jh 2h Kh]
+Mahu2021: checks 
+SGH777: bets 30
+Mahu2021: folds 
+Uncalled bet (30) returned to SGH777
+SGH777 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Jh 2h Kh]
+Seat 1: Mahu2021 (big blind) folded on the Flop
+Seat 3: SGH777 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #253746344919: Tournament #3831476218, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/12/07 19:02:02 CET [2024/12/07 13:02:02 ET]
+Table '3831476218 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (565 in chips) 
+Seat 3: SGH777 (935 in chips) 
+Mahu2021: posts small blind 15
+SGH777: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qs Jc]
+Mahu2021: raises 30 to 60
+SGH777: calls 30
+*** FLOP *** [9d 2s Ah]
+SGH777: bets 30
+Mahu2021: calls 30
+*** TURN *** [9d 2s Ah] [5s]
+SGH777: checks 
+Mahu2021: bets 60
+SGH777: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 180 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [9d 2s Ah 5s]
+Seat 1: Mahu2021 (button) (small blind) collected (180)
+Seat 3: SGH777 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #253746348457: Tournament #3831476218, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/12/07 19:02:17 CET [2024/12/07 13:02:17 ET]
+Table '3831476218 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (655 in chips) 
+Seat 3: SGH777 (845 in chips) 
+SGH777: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h 3d]
+SGH777: calls 15
+Mahu2021: checks 
+*** FLOP *** [3c As 8d]
+Mahu2021: checks 
+SGH777: checks 
+*** TURN *** [3c As 8d] [8h]
+Mahu2021: checks 
+SGH777: bets 30
+Mahu2021: raises 30 to 60
+SGH777: calls 30
+*** RIVER *** [3c As 8d 8h] [6s]
+Mahu2021: bets 60
+SGH777: raises 300 to 360
+Mahu2021: calls 300
+*** SHOW DOWN ***
+SGH777: shows [Ac 7c] (two pair, Aces and Eights)
+Mahu2021: shows [3h 3d] (a full house, Threes full of Eights)
+Mahu2021 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | Rake 0 
+Board [3c As 8d 8h 6s]
+Seat 1: Mahu2021 (big blind) showed [3h 3d] and won (900) with a full house, Threes full of Eights
+Seat 3: SGH777 (button) (small blind) showed [Ac 7c] and lost with two pair, Aces and Eights
+
+
+
+PokerStars Hand #253746353824: Tournament #3831476218, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/12/07 19:02:40 CET [2024/12/07 13:02:40 ET]
+Table '3831476218 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1105 in chips) 
+Seat 3: SGH777 (395 in chips) 
+Mahu2021: posts small blind 15
+SGH777: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d 4d]
+Mahu2021: calls 15
+SGH777: raises 365 to 395 and is all-in
+Mahu2021: folds 
+Uncalled bet (365) returned to SGH777
+SGH777 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: SGH777 (big blind) collected (60)
+
+
+
+PokerStars Hand #253746356247: Tournament #3831476218, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/12/07 19:02:49 CET [2024/12/07 13:02:49 ET]
+Table '3831476218 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (1075 in chips) 
+Seat 3: SGH777 (425 in chips) 
+SGH777: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h 4h]
+SGH777: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (30)
+Seat 3: SGH777 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #253746357419: Tournament #3831476218, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/12/07 19:02:54 CET [2024/12/07 13:02:54 ET]
+Table '3831476218 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1090 in chips) 
+Seat 3: SGH777 (410 in chips) 
+Mahu2021: posts small blind 15
+SGH777: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s Jc]
+Mahu2021: raises 30 to 60
+SGH777: raises 350 to 410 and is all-in
+Mahu2021: folds 
+Uncalled bet (350) returned to SGH777
+SGH777 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: SGH777 (big blind) collected (120)
+
+
+
+PokerStars Hand #253746359262: Tournament #3831476218, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/12/07 19:03:02 CET [2024/12/07 13:03:02 ET]
+Table '3831476218 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (1030 in chips) 
+Seat 3: SGH777 (470 in chips) 
+SGH777: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd Qh]
+SGH777: raises 440 to 470 and is all-in
+Mahu2021: calls 440
+*** FLOP *** [Qd 7c Kc]
+*** TURN *** [Qd 7c Kc] [8s]
+*** RIVER *** [Qd 7c Kc 8s] [Jc]
+*** SHOW DOWN ***
+Mahu2021: shows [Jd Qh] (two pair, Queens and Jacks)
+SGH777: shows [Th Tc] (a pair of Tens)
+Mahu2021 collected 940 from pot
+SGH777 finished the tournament in 2nd place
+Mahu2021 wins the tournament and receives $10.00 - congratulations!
+*** SUMMARY ***
+Total pot 940 | Rake 0 
+Board [Qd 7c Kc 8s Jc]
+Seat 1: Mahu2021 (big blind) showed [Jd Qh] and won (940) with two pair, Queens and Jacks
+Seat 3: SGH777 (button) (small blind) showed [Th Tc] and lost with a pair of Tens
+
+
+

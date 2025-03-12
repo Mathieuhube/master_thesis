@@ -1,0 +1,719 @@
+﻿PokerStars Hand #248386441096: Tournament #3703754956, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/20 12:33:33 CET [2024/01/20 6:33:33 ET]
+Table '3703754956 1' 3-max Seat #1 is the button
+Seat 1: kriswilson96 (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: vinypuch (500 in chips) 
+Mahu2021: posts small blind 10
+vinypuch: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc Qh]
+kriswilson96: folds 
+Mahu2021: raises 20 to 40
+vinypuch: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: kriswilson96 (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) collected (40)
+Seat 3: vinypuch (big blind) folded before Flop
+
+
+
+PokerStars Hand #248386442509: Tournament #3703754956, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/20 12:33:41 CET [2024/01/20 6:33:41 ET]
+Table '3703754956 1' 3-max Seat #2 is the button
+Seat 1: kriswilson96 (500 in chips) 
+Seat 2: Mahu2021 (520 in chips) 
+Seat 3: vinypuch (480 in chips) 
+vinypuch: posts small blind 10
+kriswilson96: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc 9h]
+Mahu2021: folds 
+vinypuch: calls 10
+kriswilson96: raises 40 to 60
+vinypuch: folds 
+Uncalled bet (40) returned to kriswilson96
+kriswilson96 collected 40 from pot
+kriswilson96: shows [Ad Th] (high card Ace)
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: kriswilson96 (big blind) collected (40)
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: vinypuch (small blind) folded before Flop
+
+
+
+PokerStars Hand #248386444564: Tournament #3703754956, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/20 12:33:52 CET [2024/01/20 6:33:52 ET]
+Table '3703754956 1' 3-max Seat #3 is the button
+Seat 1: kriswilson96 (520 in chips) 
+Seat 2: Mahu2021 (520 in chips) 
+Seat 3: vinypuch (460 in chips) 
+kriswilson96: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Td 5d]
+vinypuch: calls 20
+kriswilson96: calls 10
+Mahu2021: checks 
+*** FLOP *** [2s 7s 9s]
+kriswilson96: checks 
+Mahu2021: checks 
+vinypuch: bets 20
+kriswilson96: folds 
+Mahu2021: folds 
+Uncalled bet (20) returned to vinypuch
+vinypuch collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [2s 7s 9s]
+Seat 1: kriswilson96 (small blind) folded on the Flop
+Seat 2: Mahu2021 (big blind) folded on the Flop
+Seat 3: vinypuch (button) collected (60)
+
+
+
+PokerStars Hand #248386448866: Tournament #3703754956, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/20 12:34:16 CET [2024/01/20 6:34:16 ET]
+Table '3703754956 1' 3-max Seat #1 is the button
+Seat 1: kriswilson96 (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: vinypuch (500 in chips) 
+Mahu2021: posts small blind 10
+vinypuch: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6h 3c]
+kriswilson96: raises 50 to 70
+Mahu2021: folds 
+vinypuch: folds 
+Uncalled bet (50) returned to kriswilson96
+kriswilson96 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: kriswilson96 (button) collected (50)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: vinypuch (big blind) folded before Flop
+
+
+
+PokerStars Hand #248386451154: Tournament #3703754956, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/20 12:34:28 CET [2024/01/20 6:34:28 ET]
+Table '3703754956 1' 3-max Seat #2 is the button
+Seat 1: kriswilson96 (530 in chips) 
+Seat 2: Mahu2021 (490 in chips) 
+Seat 3: vinypuch (480 in chips) 
+vinypuch: posts small blind 10
+kriswilson96: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d 7s]
+Mahu2021: folds 
+vinypuch: calls 10
+kriswilson96: checks 
+*** FLOP *** [8d 9s 2h]
+vinypuch: checks 
+kriswilson96: checks 
+*** TURN *** [8d 9s 2h] [Qd]
+vinypuch: checks 
+kriswilson96: checks 
+*** RIVER *** [8d 9s 2h Qd] [Ac]
+vinypuch: checks 
+kriswilson96: checks 
+*** SHOW DOWN ***
+vinypuch: shows [Kc 6s] (high card Ace)
+kriswilson96: mucks hand 
+vinypuch collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [8d 9s 2h Qd Ac]
+Seat 1: kriswilson96 (big blind) mucked [7d 5d]
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: vinypuch (small blind) showed [Kc 6s] and won (40) with high card Ace
+
+
+
+PokerStars Hand #248386454482: Tournament #3703754956, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/20 12:34:47 CET [2024/01/20 6:34:47 ET]
+Table '3703754956 1' 3-max Seat #3 is the button
+Seat 1: kriswilson96 (510 in chips) 
+Seat 2: Mahu2021 (490 in chips) 
+Seat 3: vinypuch (500 in chips) 
+kriswilson96: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d 5d]
+vinypuch: folds 
+kriswilson96: folds 
+Uncalled bet (10) returned to Mahu2021
+Mahu2021 collected 20 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: kriswilson96 (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (20)
+Seat 3: vinypuch (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #248386455475: Tournament #3703754956, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/20 12:34:53 CET [2024/01/20 6:34:53 ET]
+Table '3703754956 1' 3-max Seat #1 is the button
+Seat 1: kriswilson96 (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: vinypuch (500 in chips) 
+Mahu2021: posts small blind 10
+vinypuch: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8c 2h]
+kriswilson96: raises 50 to 70
+Mahu2021: folds 
+vinypuch: folds 
+Uncalled bet (50) returned to kriswilson96
+kriswilson96 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: kriswilson96 (button) collected (50)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: vinypuch (big blind) folded before Flop
+
+
+
+PokerStars Hand #248386456562: Tournament #3703754956, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/20 12:34:59 CET [2024/01/20 6:34:59 ET]
+Table '3703754956 1' 3-max Seat #2 is the button
+Seat 1: kriswilson96 (530 in chips) 
+Seat 2: Mahu2021 (490 in chips) 
+Seat 3: vinypuch (480 in chips) 
+vinypuch: posts small blind 10
+kriswilson96: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h 3c]
+Mahu2021: folds 
+vinypuch: calls 10
+kriswilson96: checks 
+*** FLOP *** [Jc Jh 2s]
+vinypuch: checks 
+kriswilson96: checks 
+*** TURN *** [Jc Jh 2s] [5h]
+vinypuch: bets 20
+kriswilson96: calls 20
+*** RIVER *** [Jc Jh 2s 5h] [9c]
+vinypuch: checks 
+kriswilson96: checks 
+*** SHOW DOWN ***
+vinypuch: shows [Kc Th] (a pair of Jacks)
+kriswilson96: shows [3h Ah] (a pair of Jacks - Ace kicker)
+kriswilson96 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Jc Jh 2s 5h 9c]
+Seat 1: kriswilson96 (big blind) showed [3h Ah] and won (80) with a pair of Jacks
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: vinypuch (small blind) showed [Kc Th] and lost with a pair of Jacks
+
+
+
+PokerStars Hand #248386459368: Tournament #3703754956, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/20 12:35:14 CET [2024/01/20 6:35:14 ET]
+Table '3703754956 1' 3-max Seat #3 is the button
+Seat 1: kriswilson96 (570 in chips) 
+Seat 2: Mahu2021 (490 in chips) 
+Seat 3: vinypuch (440 in chips) 
+kriswilson96: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s As]
+vinypuch: folds 
+kriswilson96: folds 
+Uncalled bet (10) returned to Mahu2021
+Mahu2021 collected 20 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: kriswilson96 (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (20)
+Seat 3: vinypuch (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #248386460453: Tournament #3703754956, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/20 12:35:20 CET [2024/01/20 6:35:20 ET]
+Table '3703754956 1' 3-max Seat #1 is the button
+Seat 1: kriswilson96 (560 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: vinypuch (440 in chips) 
+Mahu2021: posts small blind 10
+vinypuch: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3c Jh]
+kriswilson96: folds 
+Mahu2021: folds 
+Uncalled bet (10) returned to vinypuch
+vinypuch collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: kriswilson96 (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: vinypuch (big blind) collected (20)
+
+
+
+PokerStars Hand #248386461371: Tournament #3703754956, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/20 12:35:25 CET [2024/01/20 6:35:25 ET]
+Table '3703754956 1' 3-max Seat #2 is the button
+Seat 1: kriswilson96 (560 in chips) 
+Seat 2: Mahu2021 (490 in chips) 
+Seat 3: vinypuch (450 in chips) 
+vinypuch: posts small blind 10
+kriswilson96: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h Jc]
+Mahu2021: folds 
+vinypuch: folds 
+Uncalled bet (10) returned to kriswilson96
+kriswilson96 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: kriswilson96 (big blind) collected (20)
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: vinypuch (small blind) folded before Flop
+
+
+
+PokerStars Hand #248386462077: Tournament #3703754956, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/20 12:35:29 CET [2024/01/20 6:35:29 ET]
+Table '3703754956 1' 3-max Seat #3 is the button
+Seat 1: kriswilson96 (570 in chips) 
+Seat 2: Mahu2021 (490 in chips) 
+Seat 3: vinypuch (440 in chips) 
+kriswilson96: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah As]
+vinypuch: folds 
+kriswilson96: raises 40 to 60
+Mahu2021: raises 430 to 490 and is all-in
+kriswilson96: folds [6c]
+Uncalled bet (430) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: kriswilson96 (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (120)
+Seat 3: vinypuch (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #248386464818: Tournament #3703754956, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/01/20 12:35:44 CET [2024/01/20 6:35:44 ET]
+Table '3703754956 1' 3-max Seat #1 is the button
+Seat 1: kriswilson96 (510 in chips) 
+Seat 2: Mahu2021 (550 in chips) 
+Seat 3: vinypuch (440 in chips) 
+Mahu2021: posts small blind 15
+vinypuch: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8s Qd]
+kriswilson96: folds 
+Mahu2021: calls 15
+vinypuch: checks 
+*** FLOP *** [4c Ks Js]
+Mahu2021: checks 
+vinypuch: checks 
+*** TURN *** [4c Ks Js] [7d]
+Mahu2021: bets 30
+vinypuch: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [4c Ks Js 7d]
+Seat 1: kriswilson96 (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) collected (60)
+Seat 3: vinypuch (big blind) folded on the Turn
+
+
+
+PokerStars Hand #248386467734: Tournament #3703754956, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/01/20 12:36:00 CET [2024/01/20 6:36:00 ET]
+Table '3703754956 1' 3-max Seat #2 is the button
+Seat 1: kriswilson96 (510 in chips) 
+Seat 2: Mahu2021 (580 in chips) 
+Seat 3: vinypuch (410 in chips) 
+vinypuch: posts small blind 15
+kriswilson96: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2c Ac]
+Mahu2021: calls 30
+vinypuch: calls 15
+kriswilson96: checks 
+*** FLOP *** [8h 6d 9c]
+vinypuch: checks 
+kriswilson96: checks 
+Mahu2021: checks 
+*** TURN *** [8h 6d 9c] [Qs]
+vinypuch: bets 30
+kriswilson96: calls 30
+Mahu2021: folds 
+*** RIVER *** [8h 6d 9c Qs] [Ad]
+vinypuch: bets 30
+kriswilson96: folds 
+Uncalled bet (30) returned to vinypuch
+vinypuch collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Board [8h 6d 9c Qs Ad]
+Seat 1: kriswilson96 (big blind) folded on the River
+Seat 2: Mahu2021 (button) folded on the Turn
+Seat 3: vinypuch (small blind) collected (150)
+
+
+
+PokerStars Hand #248386471051: Tournament #3703754956, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/01/20 12:36:18 CET [2024/01/20 6:36:18 ET]
+Table '3703754956 1' 3-max Seat #3 is the button
+Seat 1: kriswilson96 (450 in chips) 
+Seat 2: Mahu2021 (550 in chips) 
+Seat 3: vinypuch (500 in chips) 
+kriswilson96: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d 9s]
+vinypuch: raises 30 to 60
+kriswilson96: folds 
+Mahu2021: folds 
+Uncalled bet (30) returned to vinypuch
+vinypuch collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: kriswilson96 (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: vinypuch (button) collected (75)
+
+
+
+PokerStars Hand #248386472363: Tournament #3703754956, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/01/20 12:36:25 CET [2024/01/20 6:36:25 ET]
+Table '3703754956 1' 3-max Seat #1 is the button
+Seat 1: kriswilson96 (435 in chips) 
+Seat 2: Mahu2021 (520 in chips) 
+Seat 3: vinypuch (545 in chips) 
+Mahu2021: posts small blind 15
+vinypuch: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h Ah]
+kriswilson96: raises 75 to 105
+Mahu2021: folds 
+vinypuch: folds 
+Uncalled bet (75) returned to kriswilson96
+kriswilson96 collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: kriswilson96 (button) collected (75)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: vinypuch (big blind) folded before Flop
+
+
+
+PokerStars Hand #248386473624: Tournament #3703754956, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/01/20 12:36:33 CET [2024/01/20 6:36:33 ET]
+Table '3703754956 1' 3-max Seat #2 is the button
+Seat 1: kriswilson96 (480 in chips) 
+Seat 2: Mahu2021 (505 in chips) 
+Seat 3: vinypuch (515 in chips) 
+vinypuch: posts small blind 15
+kriswilson96: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s Th]
+Mahu2021: folds 
+vinypuch: calls 15
+kriswilson96: checks 
+*** FLOP *** [2d 7d 2h]
+vinypuch: checks 
+kriswilson96: bets 30
+vinypuch: folds 
+Uncalled bet (30) returned to kriswilson96
+kriswilson96 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [2d 7d 2h]
+Seat 1: kriswilson96 (big blind) collected (60)
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: vinypuch (small blind) folded on the Flop
+
+
+
+PokerStars Hand #248386477865: Tournament #3703754956, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/01/20 12:36:56 CET [2024/01/20 6:36:56 ET]
+Table '3703754956 1' 3-max Seat #3 is the button
+Seat 1: kriswilson96 (510 in chips) 
+Seat 2: Mahu2021 (505 in chips) 
+Seat 3: vinypuch (485 in chips) 
+kriswilson96: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h 5s]
+vinypuch: raises 30 to 60
+kriswilson96: calls 45
+Mahu2021: folds 
+*** FLOP *** [6d 5c 9d]
+kriswilson96: bets 150
+vinypuch: calls 150
+*** TURN *** [6d 5c 9d] [Qd]
+kriswilson96: bets 300 and is all-in
+vinypuch: folds 
+Uncalled bet (300) returned to kriswilson96
+kriswilson96 collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | Rake 0 
+Board [6d 5c 9d Qd]
+Seat 1: kriswilson96 (small blind) collected (450)
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: vinypuch (button) folded on the Turn
+
+
+
+PokerStars Hand #248386484160: Tournament #3703754956, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/01/20 12:37:30 CET [2024/01/20 6:37:30 ET]
+Table '3703754956 1' 3-max Seat #1 is the button
+Seat 1: kriswilson96 (750 in chips) 
+Seat 2: Mahu2021 (475 in chips) 
+Seat 3: vinypuch (275 in chips) 
+Mahu2021: posts small blind 15
+vinypuch: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Td 9h]
+kriswilson96: raises 75 to 105
+Mahu2021: folds 
+vinypuch: calls 75
+*** FLOP *** [3s 9c Ad]
+vinypuch: checks 
+kriswilson96: checks 
+*** TURN *** [3s 9c Ad] [3h]
+vinypuch: checks 
+kriswilson96: checks 
+*** RIVER *** [3s 9c Ad 3h] [5d]
+vinypuch: checks 
+kriswilson96: bets 225
+vinypuch: calls 170 and is all-in
+Uncalled bet (55) returned to kriswilson96
+*** SHOW DOWN ***
+kriswilson96: shows [Kh Ah] (two pair, Aces and Threes)
+vinypuch: shows [4c Kc] (a pair of Threes)
+kriswilson96 collected 565 from pot
+vinypuch finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 565 | Rake 0 
+Board [3s 9c Ad 3h 5d]
+Seat 1: kriswilson96 (button) showed [Kh Ah] and won (565) with two pair, Aces and Threes
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: vinypuch (big blind) showed [4c Kc] and lost with a pair of Threes
+
+
+
+PokerStars Hand #248386488346: Tournament #3703754956, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/01/20 12:37:53 CET [2024/01/20 6:37:53 ET]
+Table '3703754956 1' 3-max Seat #2 is the button
+Seat 1: kriswilson96 (1040 in chips) 
+Seat 2: Mahu2021 (460 in chips) 
+Mahu2021: posts small blind 20
+kriswilson96: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks Jc]
+Mahu2021: raises 40 to 80
+kriswilson96: calls 40
+*** FLOP *** [Qc Ts 7h]
+kriswilson96: checks 
+Mahu2021: bets 80
+kriswilson96: calls 80
+*** TURN *** [Qc Ts 7h] [2s]
+kriswilson96: checks 
+Mahu2021: bets 40
+kriswilson96: calls 40
+*** RIVER *** [Qc Ts 7h 2s] [9d]
+kriswilson96: checks 
+Mahu2021: bets 120
+kriswilson96: calls 120
+*** SHOW DOWN ***
+Mahu2021: shows [Ks Jc] (a straight, Nine to King)
+kriswilson96: mucks hand 
+Mahu2021 collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | Rake 0 
+Board [Qc Ts 7h 2s 9d]
+Seat 1: kriswilson96 (big blind) mucked [9h Kh]
+Seat 2: Mahu2021 (button) (small blind) showed [Ks Jc] and won (640) with a straight, Nine to King
+
+
+
+PokerStars Hand #248386491411: Tournament #3703754956, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/01/20 12:38:10 CET [2024/01/20 6:38:10 ET]
+Table '3703754956 1' 3-max Seat #1 is the button
+Seat 1: kriswilson96 (720 in chips) 
+Seat 2: Mahu2021 (780 in chips) 
+kriswilson96: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2c 8s]
+kriswilson96: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: kriswilson96 (button) (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (40)
+
+
+
+PokerStars Hand #248386492438: Tournament #3703754956, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/01/20 12:38:16 CET [2024/01/20 6:38:16 ET]
+Table '3703754956 1' 3-max Seat #2 is the button
+Seat 1: kriswilson96 (700 in chips) 
+Seat 2: Mahu2021 (800 in chips) 
+Mahu2021: posts small blind 20
+kriswilson96: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks 7h]
+Mahu2021: calls 20
+kriswilson96: checks 
+*** FLOP *** [6s 6d 3s]
+kriswilson96: checks 
+Mahu2021: bets 40
+kriswilson96: calls 40
+*** TURN *** [6s 6d 3s] [Qc]
+kriswilson96: checks 
+Mahu2021: checks 
+*** RIVER *** [6s 6d 3s Qc] [Qs]
+kriswilson96: bets 160
+Mahu2021: folds 
+Uncalled bet (160) returned to kriswilson96
+kriswilson96 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [6s 6d 3s Qc Qs]
+Seat 1: kriswilson96 (big blind) collected (160)
+Seat 2: Mahu2021 (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #248386495976: Tournament #3703754956, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/01/20 12:38:35 CET [2024/01/20 6:38:35 ET]
+Table '3703754956 1' 3-max Seat #1 is the button
+Seat 1: kriswilson96 (780 in chips) 
+Seat 2: Mahu2021 (720 in chips) 
+kriswilson96: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Td 3h]
+kriswilson96: raises 80 to 120
+Mahu2021: folds 
+Uncalled bet (80) returned to kriswilson96
+kriswilson96 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: kriswilson96 (button) (small blind) collected (80)
+Seat 2: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #248386496942: Tournament #3703754956, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/01/20 12:38:41 CET [2024/01/20 6:38:41 ET]
+Table '3703754956 1' 3-max Seat #2 is the button
+Seat 1: kriswilson96 (820 in chips) 
+Seat 2: Mahu2021 (680 in chips) 
+Mahu2021: posts small blind 20
+kriswilson96: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2s 6s]
+Mahu2021: calls 20
+kriswilson96: checks 
+*** FLOP *** [4s 2c 9c]
+kriswilson96: checks 
+Mahu2021: bets 40
+kriswilson96: calls 40
+*** TURN *** [4s 2c 9c] [Ac]
+kriswilson96: checks 
+Mahu2021: bets 40
+kriswilson96: calls 40
+*** RIVER *** [4s 2c 9c Ac] [4h]
+kriswilson96: bets 240
+Mahu2021: folds 
+Uncalled bet (240) returned to kriswilson96
+kriswilson96 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [4s 2c 9c Ac 4h]
+Seat 1: kriswilson96 (big blind) collected (240)
+Seat 2: Mahu2021 (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #248386499345: Tournament #3703754956, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/01/20 12:38:54 CET [2024/01/20 6:38:54 ET]
+Table '3703754956 1' 3-max Seat #1 is the button
+Seat 1: kriswilson96 (940 in chips) 
+Seat 2: Mahu2021 (560 in chips) 
+kriswilson96: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s Qs]
+kriswilson96: calls 20
+Mahu2021: checks 
+*** FLOP *** [6s 8s Jh]
+Mahu2021: bets 40
+kriswilson96: calls 40
+*** TURN *** [6s 8s Jh] [Qd]
+Mahu2021: bets 40
+kriswilson96: calls 40
+*** RIVER *** [6s 8s Jh Qd] [2s]
+Mahu2021: bets 80
+kriswilson96: folds 
+Uncalled bet (80) returned to Mahu2021
+Mahu2021 collected 240 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [6s 8s Jh Qd 2s]
+Seat 1: kriswilson96 (button) (small blind) folded on the River
+Seat 2: Mahu2021 (big blind) collected (240)
+
+
+
+PokerStars Hand #248386501788: Tournament #3703754956, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/01/20 12:39:07 CET [2024/01/20 6:39:07 ET]
+Table '3703754956 1' 3-max Seat #2 is the button
+Seat 1: kriswilson96 (820 in chips) 
+Seat 2: Mahu2021 (680 in chips) 
+Mahu2021: posts small blind 20
+kriswilson96: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh 4s]
+Mahu2021: calls 20
+kriswilson96: checks 
+*** FLOP *** [2s 7s 9d]
+kriswilson96: checks 
+Mahu2021: checks 
+*** TURN *** [2s 7s 9d] [6d]
+kriswilson96: checks 
+Mahu2021: checks 
+*** RIVER *** [2s 7s 9d 6d] [2c]
+kriswilson96: bets 80
+Mahu2021: folds 
+Uncalled bet (80) returned to kriswilson96
+kriswilson96 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [2s 7s 9d 6d 2c]
+Seat 1: kriswilson96 (big blind) collected (80)
+Seat 2: Mahu2021 (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #248386503788: Tournament #3703754956, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/01/20 12:39:18 CET [2024/01/20 6:39:18 ET]
+Table '3703754956 1' 3-max Seat #1 is the button
+Seat 1: kriswilson96 (860 in chips) 
+Seat 2: Mahu2021 (640 in chips) 
+kriswilson96: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac Qh]
+kriswilson96: raises 40 to 80
+Mahu2021: raises 560 to 640 and is all-in
+kriswilson96: calls 560
+*** FLOP *** [8h 4d 5s]
+*** TURN *** [8h 4d 5s] [7c]
+*** RIVER *** [8h 4d 5s 7c] [Kd]
+*** SHOW DOWN ***
+Mahu2021: shows [Ac Qh] (high card Ace)
+kriswilson96: shows [Kh Js] (a pair of Kings)
+kriswilson96 collected 1280 from pot
+Mahu2021 finished the tournament in 2nd place
+kriswilson96 wins the tournament and receives $4.00 - congratulations!
+*** SUMMARY ***
+Total pot 1280 | Rake 0 
+Board [8h 4d 5s 7c Kd]
+Seat 1: kriswilson96 (button) (small blind) showed [Kh Js] and won (1280) with a pair of Kings
+Seat 2: Mahu2021 (big blind) showed [Ac Qh] and lost with high card Ace
+
+
+

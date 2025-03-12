@@ -1,0 +1,118 @@
+﻿PokerStars Hand #249596955517: Tournament #3733003376, $4.60+$0.40 USD Hold'em No Limit - Level I (10/20) - 2024/03/24 16:58:37 CET [2024/03/24 11:58:37 ET]
+Table '3733003376 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: nilas91 (500 in chips) 
+Seat 3: franzzz5 (500 in chips) 
+nilas91: posts small blind 10
+franzzz5: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s Kh]
+Mahu2021: folds 
+nilas91: folds 
+Uncalled bet (10) returned to franzzz5
+franzzz5 collected 20 from pot
+franzzz5: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: nilas91 (small blind) folded before Flop
+Seat 3: franzzz5 (big blind) collected (20)
+
+
+
+PokerStars Hand #249596956672: Tournament #3733003376, $4.60+$0.40 USD Hold'em No Limit - Level I (10/20) - 2024/03/24 16:58:43 CET [2024/03/24 11:58:43 ET]
+Table '3733003376 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: nilas91 (490 in chips) 
+Seat 3: franzzz5 (510 in chips) 
+franzzz5: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c Ks]
+nilas91: raises 20 to 40
+franzzz5: calls 30
+Mahu2021: calls 20
+*** FLOP *** [8s Th 3c]
+franzzz5: checks 
+Mahu2021: checks 
+nilas91: bets 80
+franzzz5: calls 80
+Mahu2021: folds 
+*** TURN *** [8s Th 3c] [Qs]
+franzzz5: checks 
+nilas91: checks 
+*** RIVER *** [8s Th 3c Qs] [Jh]
+franzzz5: bets 120
+nilas91: calls 120
+*** SHOW DOWN ***
+franzzz5: shows [9c Tc] (a straight, Eight to Queen)
+nilas91: mucks hand 
+franzzz5 collected 520 from pot
+*** SUMMARY ***
+Total pot 520 | Rake 0 
+Board [8s Th 3c Qs Jh]
+Seat 1: Mahu2021 (big blind) folded on the Flop
+Seat 2: nilas91 (button) mucked [Jd As]
+Seat 3: franzzz5 (small blind) showed [9c Tc] and won (520) with a straight, Eight to Queen
+
+
+
+PokerStars Hand #249596967861: Tournament #3733003376, $4.60+$0.40 USD Hold'em No Limit - Level I (10/20) - 2024/03/24 16:59:37 CET [2024/03/24 11:59:37 ET]
+Table '3733003376 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (460 in chips) 
+Seat 2: nilas91 (250 in chips) 
+Seat 3: franzzz5 (790 in chips) 
+Mahu2021: posts small blind 10
+nilas91: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc Ks]
+franzzz5: folds 
+Mahu2021: raises 60 to 80
+nilas91: raises 170 to 250 and is all-in
+Mahu2021: calls 170
+*** FLOP *** [3c 2d 9d]
+*** TURN *** [3c 2d 9d] [3s]
+*** RIVER *** [3c 2d 9d 3s] [4d]
+*** SHOW DOWN ***
+Mahu2021: shows [Qc Ks] (a pair of Threes)
+nilas91: shows [6c Ah] (a pair of Threes - Ace kicker)
+nilas91 collected 500 from pot
+*** SUMMARY ***
+Total pot 500 | Rake 0 
+Board [3c 2d 9d 3s 4d]
+Seat 1: Mahu2021 (small blind) showed [Qc Ks] and lost with a pair of Threes
+Seat 2: nilas91 (big blind) showed [6c Ah] and won (500) with a pair of Threes
+Seat 3: franzzz5 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #249596971638: Tournament #3733003376, $4.60+$0.40 USD Hold'em No Limit - Level I (10/20) - 2024/03/24 16:59:55 CET [2024/03/24 11:59:55 ET]
+Table '3733003376 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (210 in chips) 
+Seat 2: nilas91 (500 in chips) 
+Seat 3: franzzz5 (790 in chips) 
+nilas91: posts small blind 10
+franzzz5: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd Kc]
+Mahu2021: raises 190 to 210 and is all-in
+nilas91: raises 290 to 500 and is all-in
+franzzz5: folds 
+Uncalled bet (290) returned to nilas91
+*** FLOP *** [8c Ac 6d]
+*** TURN *** [8c Ac 6d] [3h]
+*** RIVER *** [8c Ac 6d 3h] [5s]
+*** SHOW DOWN ***
+nilas91: shows [Tc As] (a pair of Aces)
+Mahu2021: shows [Kd Kc] (a pair of Kings)
+nilas91 collected 440 from pot
+Mahu2021 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 440 | Rake 0 
+Board [8c Ac 6d 3h 5s]
+Seat 1: Mahu2021 (button) showed [Kd Kc] and lost with a pair of Kings
+Seat 2: nilas91 (small blind) showed [Tc As] and won (440) with a pair of Aces
+Seat 3: franzzz5 (big blind) folded before Flop
+
+
+

@@ -1,0 +1,153 @@
+﻿PokerStars Hand #248255720522: Tournament #3700643926, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/13 22:51:43 CET [2024/01/13 16:51:43 ET]
+Table '3700643926 1' 3-max Seat #1 is the button
+Seat 1: freds88 (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: franco fara (500 in chips) 
+Mahu2021: posts small blind 10
+franco fara: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad Jh]
+freds88: calls 20
+Mahu2021: calls 10
+franco fara: checks 
+*** FLOP *** [Ah 4c Kd]
+Mahu2021: bets 20
+franco fara: folds 
+freds88: raises 20 to 40
+Mahu2021: calls 20
+*** TURN *** [Ah 4c Kd] [Jd]
+Mahu2021: checks 
+freds88: bets 140
+Mahu2021: calls 140
+*** RIVER *** [Ah 4c Kd Jd] [7h]
+Mahu2021: checks 
+freds88: bets 210
+Mahu2021: calls 210
+*** SHOW DOWN ***
+freds88: shows [7c Kc] (two pair, Kings and Sevens)
+Mahu2021: shows [Ad Jh] (two pair, Aces and Jacks)
+Mahu2021 collected 840 from pot
+*** SUMMARY ***
+Total pot 840 | Rake 0 
+Board [Ah 4c Kd Jd 7h]
+Seat 1: freds88 (button) showed [7c Kc] and lost with two pair, Kings and Sevens
+Seat 2: Mahu2021 (small blind) showed [Ad Jh] and won (840) with two pair, Aces and Jacks
+Seat 3: franco fara (big blind) folded on the Flop
+
+
+
+PokerStars Hand #248255739599: Tournament #3700643926, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/13 22:52:32 CET [2024/01/13 16:52:32 ET]
+Table '3700643926 1' 3-max Seat #2 is the button
+Seat 1: freds88 (90 in chips) 
+Seat 2: Mahu2021 (930 in chips) 
+Seat 3: franco fara (480 in chips) 
+franco fara: posts small blind 10
+freds88: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Td 4h]
+Mahu2021: folds 
+franco fara: raises 20 to 40
+freds88: folds 
+Uncalled bet (20) returned to franco fara
+franco fara collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: freds88 (big blind) folded before Flop
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: franco fara (small blind) collected (40)
+
+
+
+PokerStars Hand #248255746943: Tournament #3700643926, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/13 22:52:51 CET [2024/01/13 16:52:51 ET]
+Table '3700643926 1' 3-max Seat #3 is the button
+Seat 1: freds88 (70 in chips) 
+Seat 2: Mahu2021 (930 in chips) 
+Seat 3: franco fara (500 in chips) 
+freds88: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kc Ah]
+franco fara: folds 
+freds88: raises 50 to 70 and is all-in
+Mahu2021: calls 50
+*** FLOP *** [8s 2s 7c]
+*** TURN *** [8s 2s 7c] [5s]
+*** RIVER *** [8s 2s 7c 5s] [6c]
+*** SHOW DOWN ***
+freds88: shows [Ad Jd] (high card Ace)
+Mahu2021: shows [Kc Ah] (high card Ace - King kicker)
+Mahu2021 collected 140 from pot
+freds88 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 140 | Rake 0 
+Board [8s 2s 7c 5s 6c]
+Seat 1: freds88 (small blind) showed [Ad Jd] and lost with high card Ace
+Seat 2: Mahu2021 (big blind) showed [Kc Ah] and won (140) with high card Ace
+Seat 3: franco fara (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #248255756375: Tournament #3700643926, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/13 22:53:15 CET [2024/01/13 16:53:15 ET]
+Table '3700643926 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (1000 in chips) 
+Seat 3: franco fara (500 in chips) 
+Mahu2021: posts small blind 10
+franco fara: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c Js]
+Mahu2021: calls 10
+franco fara: checks 
+*** FLOP *** [4c Tc Jh]
+franco fara: checks 
+Mahu2021: bets 20
+franco fara: raises 30 to 50
+Mahu2021: calls 30
+*** TURN *** [4c Tc Jh] [7s]
+franco fara: bets 110
+Mahu2021: calls 110
+*** RIVER *** [4c Tc Jh 7s] [9h]
+franco fara: bets 320 and is all-in
+Mahu2021: calls 320
+*** SHOW DOWN ***
+franco fara: shows [8h 9s] (a straight, Seven to Jack)
+Mahu2021: shows [9c Js] (two pair, Jacks and Nines)
+franco fara collected 1000 from pot
+*** SUMMARY ***
+Total pot 1000 | Rake 0 
+Board [4c Tc Jh 7s 9h]
+Seat 2: Mahu2021 (button) (small blind) showed [9c Js] and lost with two pair, Jacks and Nines
+Seat 3: franco fara (big blind) showed [8h 9s] and won (1000) with a straight, Seven to Jack
+
+
+
+PokerStars Hand #248255778446: Tournament #3700643926, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/13 22:54:11 CET [2024/01/13 16:54:11 ET]
+Table '3700643926 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: franco fara (1000 in chips) 
+franco fara: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d 4d]
+franco fara: calls 10
+Mahu2021: checks 
+*** FLOP *** [3s 2s 9h]
+Mahu2021: checks 
+franco fara: checks 
+*** TURN *** [3s 2s 9h] [5c]
+Mahu2021: checks 
+franco fara: bets 30
+Mahu2021: calls 30
+*** RIVER *** [3s 2s 9h 5c] [Ts]
+Mahu2021: bets 100
+franco fara: folds 
+Uncalled bet (100) returned to Mahu2021
+Mahu2021 collected 100 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [3s 2s 9h 5c Ts]
+Seat 2: Mahu2021 (big blind) collected (100)
+Seat 3: franco fara (button) (small blind) folded on the River
+
+
+

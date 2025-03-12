@@ -1,0 +1,795 @@
+﻿PokerStars Hand #243223799308: Tournament #3580544727, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/21 11:49:43 CET [2023/04/21 5:49:43 ET]
+Table '3580544727 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: Aldarrr (500 in chips) 
+Seat 3: dimitroff23 (500 in chips) 
+Aldarrr: posts small blind 10
+dimitroff23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh 2s]
+Mahu2021: folds 
+Aldarrr: raises 20 to 40
+dimitroff23: folds 
+Uncalled bet (20) returned to Aldarrr
+Aldarrr collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: Aldarrr (small blind) collected (40)
+Seat 3: dimitroff23 (big blind) folded before Flop
+
+
+
+PokerStars Hand #243223800356: Tournament #3580544727, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/21 11:49:50 CET [2023/04/21 5:49:50 ET]
+Table '3580544727 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: Aldarrr (520 in chips) 
+Seat 3: dimitroff23 (480 in chips) 
+dimitroff23: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h Ac]
+Aldarrr: folds 
+dimitroff23: raises 460 to 480 and is all-in
+Mahu2021: folds 
+Uncalled bet (460) returned to dimitroff23
+dimitroff23 collected 40 from pot
+dimitroff23: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: Aldarrr (button) folded before Flop (didn't bet)
+Seat 3: dimitroff23 (small blind) collected (40)
+
+
+
+PokerStars Hand #243223801537: Tournament #3580544727, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/21 11:49:58 CET [2023/04/21 5:49:58 ET]
+Table '3580544727 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (480 in chips) 
+Seat 2: Aldarrr (520 in chips) 
+Seat 3: dimitroff23 (500 in chips) 
+Mahu2021: posts small blind 10
+Aldarrr: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d 5h]
+dimitroff23: folds 
+Mahu2021: folds 
+Uncalled bet (10) returned to Aldarrr
+Aldarrr collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: Aldarrr (big blind) collected (20)
+Seat 3: dimitroff23 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #243223802366: Tournament #3580544727, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/21 11:50:04 CET [2023/04/21 5:50:04 ET]
+Table '3580544727 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (470 in chips) 
+Seat 2: Aldarrr (530 in chips) 
+Seat 3: dimitroff23 (500 in chips) 
+Aldarrr: posts small blind 10
+dimitroff23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc Qs]
+Mahu2021: raises 450 to 470 and is all-in
+Aldarrr: folds 
+dimitroff23: folds 
+Uncalled bet (450) returned to Mahu2021
+Mahu2021 collected 50 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: Mahu2021 (button) collected (50)
+Seat 2: Aldarrr (small blind) folded before Flop
+Seat 3: dimitroff23 (big blind) folded before Flop
+
+
+
+PokerStars Hand #243223803782: Tournament #3580544727, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/21 11:50:13 CET [2023/04/21 5:50:13 ET]
+Table '3580544727 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: Aldarrr (520 in chips) 
+Seat 3: dimitroff23 (480 in chips) 
+dimitroff23: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad 5h]
+Aldarrr: folds 
+dimitroff23: calls 10
+Mahu2021: checks 
+*** FLOP *** [Kh 6c 5s]
+dimitroff23: checks 
+Mahu2021: bets 20
+dimitroff23: calls 20
+*** TURN *** [Kh 6c 5s] [4d]
+dimitroff23: checks 
+Mahu2021: checks 
+*** RIVER *** [Kh 6c 5s 4d] [Ks]
+dimitroff23: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+dimitroff23: shows [8s 9s] (a pair of Kings)
+Mahu2021: shows [Ad 5h] (two pair, Kings and Fives)
+Mahu2021 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Kh 6c 5s 4d Ks]
+Seat 1: Mahu2021 (big blind) showed [Ad 5h] and won (80) with two pair, Kings and Fives
+Seat 2: Aldarrr (button) folded before Flop (didn't bet)
+Seat 3: dimitroff23 (small blind) showed [8s 9s] and lost with a pair of Kings
+
+
+
+PokerStars Hand #243223806959: Tournament #3580544727, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/21 11:50:35 CET [2023/04/21 5:50:35 ET]
+Table '3580544727 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (540 in chips) 
+Seat 2: Aldarrr (520 in chips) 
+Seat 3: dimitroff23 (440 in chips) 
+Mahu2021: posts small blind 10
+Aldarrr: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h Jc]
+dimitroff23: raises 20 to 40
+Mahu2021: folds 
+Aldarrr: calls 20
+*** FLOP *** [8h 5s Qh]
+Aldarrr: checks 
+dimitroff23: bets 50
+Aldarrr: calls 50
+*** TURN *** [8h 5s Qh] [4s]
+Aldarrr: bets 95
+dimitroff23: calls 95
+*** RIVER *** [8h 5s Qh 4s] [3s]
+Aldarrr: checks 
+dimitroff23: checks 
+*** SHOW DOWN ***
+Aldarrr: shows [Kc Js] (high card King)
+dimitroff23: shows [8d Ah] (a pair of Eights)
+dimitroff23 collected 380 from pot
+*** SUMMARY ***
+Total pot 380 | Rake 0 
+Board [8h 5s Qh 4s 3s]
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: Aldarrr (big blind) showed [Kc Js] and lost with high card King
+Seat 3: dimitroff23 (button) showed [8d Ah] and won (380) with a pair of Eights
+
+
+
+PokerStars Hand #243223810905: Tournament #3580544727, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/21 11:51:02 CET [2023/04/21 5:51:02 ET]
+Table '3580544727 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (530 in chips) 
+Seat 2: Aldarrr (335 in chips) 
+Seat 3: dimitroff23 (635 in chips) 
+Aldarrr: posts small blind 10
+dimitroff23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h Ks]
+Mahu2021: raises 20 to 40
+Aldarrr: folds 
+dimitroff23: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 50 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: Mahu2021 (button) collected (50)
+Seat 2: Aldarrr (small blind) folded before Flop
+Seat 3: dimitroff23 (big blind) folded before Flop
+
+
+
+PokerStars Hand #243223811921: Tournament #3580544727, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/21 11:51:08 CET [2023/04/21 5:51:08 ET]
+Table '3580544727 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (560 in chips) 
+Seat 2: Aldarrr (325 in chips) 
+Seat 3: dimitroff23 (615 in chips) 
+dimitroff23: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd As]
+Aldarrr: calls 20
+dimitroff23: folds 
+Mahu2021: checks 
+*** FLOP *** [8d Ad Ks]
+Mahu2021: checks 
+Aldarrr: bets 50
+Mahu2021: calls 50
+*** TURN *** [8d Ad Ks] [2s]
+Mahu2021: checks 
+Aldarrr: bets 150
+Mahu2021: raises 340 to 490 and is all-in
+Aldarrr: calls 105 and is all-in
+Uncalled bet (235) returned to Mahu2021
+*** RIVER *** [8d Ad Ks 2s] [2c]
+*** SHOW DOWN ***
+Mahu2021: shows [Kd As] (two pair, Aces and Kings)
+Aldarrr: shows [Kh 7c] (two pair, Kings and Deuces)
+Mahu2021 collected 660 from pot
+Aldarrr finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 660 | Rake 0 
+Board [8d Ad Ks 2s 2c]
+Seat 1: Mahu2021 (big blind) showed [Kd As] and won (660) with two pair, Aces and Kings
+Seat 2: Aldarrr (button) showed [Kh 7c] and lost with two pair, Kings and Deuces
+Seat 3: dimitroff23 (small blind) folded before Flop
+
+
+
+PokerStars Hand #243223815666: Tournament #3580544727, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/21 11:51:34 CET [2023/04/21 5:51:34 ET]
+Table '3580544727 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (895 in chips) 
+Seat 3: dimitroff23 (605 in chips) 
+Mahu2021: posts small blind 10
+dimitroff23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks Kh]
+Mahu2021: raises 40 to 60
+dimitroff23: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) collected (40)
+Seat 3: dimitroff23 (big blind) folded before Flop
+
+
+
+PokerStars Hand #243223816853: Tournament #3580544727, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/21 11:51:42 CET [2023/04/21 5:51:42 ET]
+Table '3580544727 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (915 in chips) 
+Seat 3: dimitroff23 (585 in chips) 
+dimitroff23: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8s 3c]
+dimitroff23: calls 10
+Mahu2021: checks 
+*** FLOP *** [6h Js 7h]
+Mahu2021: checks 
+dimitroff23: checks 
+*** TURN *** [6h Js 7h] [6c]
+Mahu2021: checks 
+dimitroff23: checks 
+*** RIVER *** [6h Js 7h 6c] [Jc]
+Mahu2021: checks 
+dimitroff23: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [8s 3c] (two pair, Jacks and Sixes)
+dimitroff23: mucks hand 
+Mahu2021 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [6h Js 7h 6c Jc]
+Seat 1: Mahu2021 (big blind) showed [8s 3c] and won (40) with two pair, Jacks and Sixes
+Seat 3: dimitroff23 (button) (small blind) mucked [4h 5d]
+
+
+
+PokerStars Hand #243223819418: Tournament #3580544727, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/21 11:52:00 CET [2023/04/21 5:52:00 ET]
+Table '3580544727 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (935 in chips) 
+Seat 3: dimitroff23 (565 in chips) 
+Mahu2021: posts small blind 15
+dimitroff23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2s Td]
+Mahu2021: folds 
+Uncalled bet (15) returned to dimitroff23
+dimitroff23 collected 30 from pot
+dimitroff23: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: dimitroff23 (big blind) collected (30)
+
+
+
+PokerStars Hand #243223820060: Tournament #3580544727, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/21 11:52:04 CET [2023/04/21 5:52:04 ET]
+Table '3580544727 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (920 in chips) 
+Seat 3: dimitroff23 (580 in chips) 
+dimitroff23: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh Ts]
+dimitroff23: calls 15
+Mahu2021: checks 
+*** FLOP *** [7s 8d 9h]
+Mahu2021: bets 30
+dimitroff23: calls 30
+*** TURN *** [7s 8d 9h] [5c]
+Mahu2021: bets 30
+dimitroff23: calls 30
+*** RIVER *** [7s 8d 9h 5c] [5h]
+Mahu2021: bets 180
+dimitroff23: folds 
+Uncalled bet (180) returned to Mahu2021
+Mahu2021 collected 180 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [7s 8d 9h 5c 5h]
+Seat 1: Mahu2021 (big blind) collected (180)
+Seat 3: dimitroff23 (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #243223822904: Tournament #3580544727, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/21 11:52:24 CET [2023/04/21 5:52:24 ET]
+Table '3580544727 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1010 in chips) 
+Seat 3: dimitroff23 (490 in chips) 
+Mahu2021: posts small blind 15
+dimitroff23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac 4c]
+Mahu2021: raises 30 to 60
+dimitroff23: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) collected (60)
+Seat 3: dimitroff23 (big blind) folded before Flop
+
+
+
+PokerStars Hand #243223823838: Tournament #3580544727, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/21 11:52:30 CET [2023/04/21 5:52:30 ET]
+Table '3580544727 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (1040 in chips) 
+Seat 3: dimitroff23 (460 in chips) 
+dimitroff23: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s 8s]
+dimitroff23: calls 15
+Mahu2021: checks 
+*** FLOP *** [5s 2d Qh]
+Mahu2021: checks 
+dimitroff23: bets 33
+Mahu2021: folds 
+Uncalled bet (33) returned to dimitroff23
+dimitroff23 collected 60 from pot
+dimitroff23: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [5s 2d Qh]
+Seat 1: Mahu2021 (big blind) folded on the Flop
+Seat 3: dimitroff23 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #243223825448: Tournament #3580544727, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/21 11:52:41 CET [2023/04/21 5:52:41 ET]
+Table '3580544727 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1010 in chips) 
+Seat 3: dimitroff23 (490 in chips) 
+Mahu2021: posts small blind 15
+dimitroff23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c 3s]
+Mahu2021: calls 15
+dimitroff23: raises 460 to 490 and is all-in
+Mahu2021: folds 
+Uncalled bet (460) returned to dimitroff23
+dimitroff23 collected 60 from pot
+dimitroff23: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: dimitroff23 (big blind) collected (60)
+
+
+
+PokerStars Hand #243223826507: Tournament #3580544727, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/21 11:52:48 CET [2023/04/21 5:52:48 ET]
+Table '3580544727 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (980 in chips) 
+Seat 3: dimitroff23 (520 in chips) 
+dimitroff23: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac 8c]
+dimitroff23: calls 15
+Mahu2021: checks 
+*** FLOP *** [5h 6c Kh]
+Mahu2021: checks 
+dimitroff23: checks 
+*** TURN *** [5h 6c Kh] [9d]
+Mahu2021: checks 
+dimitroff23: bets 33
+Mahu2021: calls 33
+*** RIVER *** [5h 6c Kh 9d] [9c]
+Mahu2021: checks 
+dimitroff23: bets 95
+Mahu2021: folds 
+Uncalled bet (95) returned to dimitroff23
+dimitroff23 collected 126 from pot
+dimitroff23: doesn't show hand 
+*** SUMMARY ***
+Total pot 126 | Rake 0 
+Board [5h 6c Kh 9d 9c]
+Seat 1: Mahu2021 (big blind) folded on the River
+Seat 3: dimitroff23 (button) (small blind) collected (126)
+
+
+
+PokerStars Hand #243223829706: Tournament #3580544727, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/21 11:53:10 CET [2023/04/21 5:53:10 ET]
+Table '3580544727 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (917 in chips) 
+Seat 3: dimitroff23 (583 in chips) 
+Mahu2021: posts small blind 15
+dimitroff23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h 9h]
+Mahu2021: calls 15
+dimitroff23: checks 
+*** FLOP *** [2h 7c 8s]
+dimitroff23: checks 
+Mahu2021: bets 30
+dimitroff23: raises 66 to 96
+Mahu2021: folds 
+Uncalled bet (66) returned to dimitroff23
+dimitroff23 collected 120 from pot
+dimitroff23: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [2h 7c 8s]
+Seat 1: Mahu2021 (button) (small blind) folded on the Flop
+Seat 3: dimitroff23 (big blind) collected (120)
+
+
+
+PokerStars Hand #243223831825: Tournament #3580544727, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/21 11:53:24 CET [2023/04/21 5:53:24 ET]
+Table '3580544727 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (857 in chips) 
+Seat 3: dimitroff23 (643 in chips) 
+dimitroff23: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad 3d]
+dimitroff23: calls 15
+Mahu2021: checks 
+*** FLOP *** [Kc 5c 5d]
+Mahu2021: checks 
+dimitroff23: checks 
+*** TURN *** [Kc 5c 5d] [Ah]
+Mahu2021: bets 30
+dimitroff23: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Kc 5c 5d Ah]
+Seat 1: Mahu2021 (big blind) collected (60)
+Seat 3: dimitroff23 (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #243223833558: Tournament #3580544727, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/21 11:53:36 CET [2023/04/21 5:53:36 ET]
+Table '3580544727 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (887 in chips) 
+Seat 3: dimitroff23 (613 in chips) 
+Mahu2021: posts small blind 15
+dimitroff23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac 6s]
+Mahu2021: raises 30 to 60
+dimitroff23: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) collected (60)
+Seat 3: dimitroff23 (big blind) folded before Flop
+
+
+
+PokerStars Hand #243223834336: Tournament #3580544727, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/21 11:53:41 CET [2023/04/21 5:53:41 ET]
+Table '3580544727 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (917 in chips) 
+Seat 3: dimitroff23 (583 in chips) 
+dimitroff23: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d 3c]
+dimitroff23: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (30)
+Seat 3: dimitroff23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #243223835445: Tournament #3580544727, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/21 11:53:48 CET [2023/04/21 5:53:48 ET]
+Table '3580544727 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (932 in chips) 
+Seat 3: dimitroff23 (568 in chips) 
+Mahu2021: posts small blind 20
+dimitroff23: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Th Ad]
+Mahu2021: raises 40 to 80
+dimitroff23: calls 40
+*** FLOP *** [Td Jc Ts]
+dimitroff23: checks 
+Mahu2021: bets 40
+dimitroff23: calls 40
+*** TURN *** [Td Jc Ts] [4d]
+dimitroff23: checks 
+Mahu2021: bets 40
+dimitroff23: calls 40
+*** RIVER *** [Td Jc Ts 4d] [Kh]
+dimitroff23: checks 
+Mahu2021: bets 120
+dimitroff23: folds 
+Uncalled bet (120) returned to Mahu2021
+Mahu2021 collected 320 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [Td Jc Ts 4d Kh]
+Seat 1: Mahu2021 (button) (small blind) collected (320)
+Seat 3: dimitroff23 (big blind) folded on the River
+
+
+
+PokerStars Hand #243223839977: Tournament #3580544727, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/21 11:54:19 CET [2023/04/21 5:54:19 ET]
+Table '3580544727 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (1092 in chips) 
+Seat 3: dimitroff23 (408 in chips) 
+dimitroff23: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5h 4c]
+dimitroff23: calls 20
+Mahu2021: checks 
+*** FLOP *** [8h 7s 3d]
+Mahu2021: checks 
+dimitroff23: checks 
+*** TURN *** [8h 7s 3d] [7h]
+Mahu2021: checks 
+dimitroff23: checks 
+*** RIVER *** [8h 7s 3d 7h] [6h]
+Mahu2021: bets 80
+dimitroff23: folds 
+Uncalled bet (80) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [8h 7s 3d 7h 6h]
+Seat 1: Mahu2021 (big blind) collected (80)
+Seat 3: dimitroff23 (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #243223842930: Tournament #3580544727, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/21 11:54:39 CET [2023/04/21 5:54:39 ET]
+Table '3580544727 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1132 in chips) 
+Seat 3: dimitroff23 (368 in chips) 
+Mahu2021: posts small blind 20
+dimitroff23: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh 4s]
+Mahu2021: calls 20
+dimitroff23: checks 
+*** FLOP *** [2c 6d Ad]
+dimitroff23: checks 
+Mahu2021: bets 40
+dimitroff23: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [2c 6d Ad]
+Seat 1: Mahu2021 (button) (small blind) collected (80)
+Seat 3: dimitroff23 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #243223844693: Tournament #3580544727, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/21 11:54:52 CET [2023/04/21 5:54:52 ET]
+Table '3580544727 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (1172 in chips) 
+Seat 3: dimitroff23 (328 in chips) 
+dimitroff23: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc Ad]
+dimitroff23: calls 20
+Mahu2021: raises 120 to 160
+dimitroff23: folds 
+Uncalled bet (120) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (80)
+Seat 3: dimitroff23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #243223846055: Tournament #3580544727, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/21 11:55:00 CET [2023/04/21 5:55:00 ET]
+Table '3580544727 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1212 in chips) 
+Seat 3: dimitroff23 (288 in chips) 
+Mahu2021: posts small blind 20
+dimitroff23: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c Jd]
+Mahu2021: calls 20
+dimitroff23: checks 
+*** FLOP *** [Qd 6s 5d]
+dimitroff23: checks 
+Mahu2021: bets 40
+dimitroff23: raises 88 to 128
+Mahu2021: folds 
+Uncalled bet (88) returned to dimitroff23
+dimitroff23 collected 160 from pot
+dimitroff23: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Qd 6s 5d]
+Seat 1: Mahu2021 (button) (small blind) folded on the Flop
+Seat 3: dimitroff23 (big blind) collected (160)
+
+
+
+PokerStars Hand #243223847855: Tournament #3580544727, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/21 11:55:14 CET [2023/04/21 5:55:14 ET]
+Table '3580544727 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (1132 in chips) 
+Seat 3: dimitroff23 (368 in chips) 
+dimitroff23: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js 7c]
+dimitroff23: calls 20
+Mahu2021: checks 
+*** FLOP *** [9s Ts 6h]
+Mahu2021: checks 
+dimitroff23: bets 44
+Mahu2021: calls 44
+*** TURN *** [9s Ts 6h] [4s]
+Mahu2021: checks 
+dimitroff23: checks 
+*** RIVER *** [9s Ts 6h 4s] [Kc]
+Mahu2021: bets 120
+dimitroff23: folds 
+Uncalled bet (120) returned to Mahu2021
+Mahu2021 collected 168 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 168 | Rake 0 
+Board [9s Ts 6h 4s Kc]
+Seat 1: Mahu2021 (big blind) collected (168)
+Seat 3: dimitroff23 (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #243223850803: Tournament #3580544727, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/21 11:55:37 CET [2023/04/21 5:55:37 ET]
+Table '3580544727 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1216 in chips) 
+Seat 3: dimitroff23 (284 in chips) 
+Mahu2021: posts small blind 20
+dimitroff23: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6h 5c]
+Mahu2021: calls 20
+dimitroff23: checks 
+*** FLOP *** [3d 3s As]
+dimitroff23: checks 
+Mahu2021: bets 40
+dimitroff23: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [3d 3s As]
+Seat 1: Mahu2021 (button) (small blind) collected (80)
+Seat 3: dimitroff23 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #243223853051: Tournament #3580544727, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/04/21 11:55:54 CET [2023/04/21 5:55:54 ET]
+Table '3580544727 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (1256 in chips) 
+Seat 3: dimitroff23 (244 in chips) 
+dimitroff23: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qs 8c]
+dimitroff23: raises 184 to 244 and is all-in
+Mahu2021: calls 184
+*** FLOP *** [4d Jc 6h]
+*** TURN *** [4d Jc 6h] [6c]
+*** RIVER *** [4d Jc 6h 6c] [Ks]
+*** SHOW DOWN ***
+Mahu2021: shows [Qs 8c] (a pair of Sixes)
+dimitroff23: shows [7s Qc] (a pair of Sixes)
+Mahu2021 collected 244 from pot
+dimitroff23 collected 244 from pot
+*** SUMMARY ***
+Total pot 488 | Rake 0 
+Board [4d Jc 6h 6c Ks]
+Seat 1: Mahu2021 (big blind) showed [Qs 8c] and won (244) with a pair of Sixes
+Seat 3: dimitroff23 (button) (small blind) showed [7s Qc] and won (244) with a pair of Sixes
+
+
+
+PokerStars Hand #243223854894: Tournament #3580544727, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/04/21 11:56:08 CET [2023/04/21 5:56:08 ET]
+Table '3580544727 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1256 in chips) 
+Seat 3: dimitroff23 (244 in chips) 
+Mahu2021: posts small blind 30
+dimitroff23: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d 4d]
+Mahu2021: calls 30
+dimitroff23: raises 184 to 244 and is all-in
+Mahu2021: folds 
+Uncalled bet (184) returned to dimitroff23
+dimitroff23 collected 120 from pot
+dimitroff23: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: dimitroff23 (big blind) collected (120)
+
+
+
+PokerStars Hand #243223855821: Tournament #3580544727, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/04/21 11:56:16 CET [2023/04/21 5:56:16 ET]
+Table '3580544727 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (1196 in chips) 
+Seat 3: dimitroff23 (304 in chips) 
+dimitroff23: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s Qd]
+dimitroff23: raises 244 to 304 and is all-in
+Mahu2021: folds 
+Uncalled bet (244) returned to dimitroff23
+dimitroff23 collected 120 from pot
+dimitroff23: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 3: dimitroff23 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #243223856599: Tournament #3580544727, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/04/21 11:56:22 CET [2023/04/21 5:56:22 ET]
+Table '3580544727 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1136 in chips) 
+Seat 3: dimitroff23 (364 in chips) 
+Mahu2021: posts small blind 30
+dimitroff23: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s 5c]
+Mahu2021: calls 30
+dimitroff23: raises 304 to 364 and is all-in
+Mahu2021: calls 304
+*** FLOP *** [8c Kh 9s]
+*** TURN *** [8c Kh 9s] [Jc]
+*** RIVER *** [8c Kh 9s Jc] [Kd]
+*** SHOW DOWN ***
+dimitroff23: shows [Qh 7d] (a pair of Kings)
+Mahu2021: shows [5s 5c] (two pair, Kings and Fives)
+Mahu2021 collected 728 from pot
+dimitroff23 finished the tournament in 2nd place
+Mahu2021 wins the tournament and receives $2.00 - congratulations!
+*** SUMMARY ***
+Total pot 728 | Rake 0 
+Board [8c Kh 9s Jc Kd]
+Seat 1: Mahu2021 (button) (small blind) showed [5s 5c] and won (728) with two pair, Kings and Fives
+Seat 3: dimitroff23 (big blind) showed [Qh 7d] and lost with a pair of Kings
+
+
+

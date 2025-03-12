@@ -1,0 +1,224 @@
+﻿PokerStars Hand #244408800436: Tournament #3607631596, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/06/22 19:53:04 CET [2023/06/22 13:53:04 ET]
+Table '3607631596 1' 3-max Seat #1 is the button
+Seat 1: Teol298 (500 in chips) 
+Seat 2: brambillamar (500 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+brambillamar: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s 3s]
+Teol298: raises 20 to 40
+brambillamar: folds 
+Mahu2021: calls 20
+*** FLOP *** [6s As Ac]
+Mahu2021: checks 
+Teol298: bets 45
+Mahu2021: calls 45
+*** TURN *** [6s As Ac] [8c]
+Mahu2021: checks 
+Teol298: bets 80
+Mahu2021: calls 80
+*** RIVER *** [6s As Ac 8c] [9d]
+Mahu2021: checks 
+Teol298: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [5s 3s] (a pair of Aces)
+Teol298: shows [7d Ks] (a pair of Aces - King kicker)
+Teol298 collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | Rake 0 
+Board [6s As Ac 8c 9d]
+Seat 1: Teol298 (button) showed [7d Ks] and won (340) with a pair of Aces
+Seat 2: brambillamar (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) showed [5s 3s] and lost with a pair of Aces
+
+
+
+PokerStars Hand #244408805994: Tournament #3607631596, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/06/22 19:53:25 CET [2023/06/22 13:53:25 ET]
+Table '3607631596 1' 3-max Seat #2 is the button
+Seat 1: Teol298 (675 in chips) 
+Seat 2: brambillamar (490 in chips) 
+Seat 3: Mahu2021 (335 in chips) 
+Mahu2021: posts small blind 10
+Teol298: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah Jc]
+brambillamar: calls 20
+Mahu2021: calls 10
+Teol298: checks 
+*** FLOP *** [Tc 2c Kd]
+Mahu2021: checks 
+Teol298: checks 
+brambillamar: bets 30
+Mahu2021: calls 30
+Teol298: calls 30
+*** TURN *** [Tc 2c Kd] [5h]
+Mahu2021: checks 
+Teol298: checks 
+brambillamar: checks 
+*** RIVER *** [Tc 2c Kd 5h] [9s]
+Mahu2021: checks 
+Teol298: bets 40
+brambillamar: calls 40
+Mahu2021: folds 
+*** SHOW DOWN ***
+Teol298: shows [Qs Jd] (a straight, Nine to King)
+brambillamar: mucks hand 
+Teol298 collected 230 from pot
+*** SUMMARY ***
+Total pot 230 | Rake 0 
+Board [Tc 2c Kd 5h 9s]
+Seat 1: Teol298 (big blind) showed [Qs Jd] and won (230) with a straight, Nine to King
+Seat 2: brambillamar (button) mucked [5s 8c]
+Seat 3: Mahu2021 (small blind) folded on the River
+
+
+
+PokerStars Hand #244408812667: Tournament #3607631596, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/06/22 19:53:49 CET [2023/06/22 13:53:49 ET]
+Table '3607631596 1' 3-max Seat #3 is the button
+Seat 1: Teol298 (815 in chips) 
+Seat 2: brambillamar (400 in chips) 
+Seat 3: Mahu2021 (285 in chips) 
+Teol298: posts small blind 10
+brambillamar: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd 4c]
+Mahu2021: folds 
+Teol298: folds 
+Uncalled bet (10) returned to brambillamar
+brambillamar collected 20 from pot
+brambillamar: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Teol298 (small blind) folded before Flop
+Seat 2: brambillamar (big blind) collected (20)
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #244408814530: Tournament #3607631596, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/06/22 19:53:56 CET [2023/06/22 13:53:56 ET]
+Table '3607631596 1' 3-max Seat #1 is the button
+Seat 1: Teol298 (805 in chips) 
+Seat 2: brambillamar (410 in chips) 
+Seat 3: Mahu2021 (285 in chips) 
+brambillamar: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h Tc]
+Teol298: folds 
+brambillamar: calls 10
+Mahu2021: checks 
+*** FLOP *** [9d 9c 9h]
+brambillamar: bets 20
+Mahu2021: calls 20
+*** TURN *** [9d 9c 9h] [2d]
+brambillamar: bets 20
+Mahu2021: folds 
+Uncalled bet (20) returned to brambillamar
+brambillamar collected 80 from pot
+brambillamar: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [9d 9c 9h 2d]
+Seat 1: Teol298 (button) folded before Flop (didn't bet)
+Seat 2: brambillamar (small blind) collected (80)
+Seat 3: Mahu2021 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #244408818398: Tournament #3607631596, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/06/22 19:54:11 CET [2023/06/22 13:54:11 ET]
+Table '3607631596 1' 3-max Seat #2 is the button
+Seat 1: Teol298 (805 in chips) 
+Seat 2: brambillamar (450 in chips) 
+Seat 3: Mahu2021 (245 in chips) 
+Mahu2021: posts small blind 10
+Teol298: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js 8h]
+brambillamar: calls 20
+Mahu2021: calls 10
+Teol298: checks 
+*** FLOP *** [Jh 2c 4c]
+Mahu2021: bets 20
+Teol298: folds 
+brambillamar: calls 20
+*** TURN *** [Jh 2c 4c] [Kd]
+Mahu2021: bets 205 and is all-in
+brambillamar: folds 
+Uncalled bet (205) returned to Mahu2021
+Mahu2021 collected 100 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [Jh 2c 4c Kd]
+Seat 1: Teol298 (big blind) folded on the Flop
+Seat 2: brambillamar (button) folded on the Turn
+Seat 3: Mahu2021 (small blind) collected (100)
+
+
+
+PokerStars Hand #244408822874: Tournament #3607631596, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/06/22 19:54:27 CET [2023/06/22 13:54:27 ET]
+Table '3607631596 1' 3-max Seat #3 is the button
+Seat 1: Teol298 (785 in chips) 
+Seat 2: brambillamar (410 in chips) 
+Seat 3: Mahu2021 (305 in chips) 
+Teol298: posts small blind 10
+brambillamar: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s 3s]
+Mahu2021: folds 
+Teol298: raises 20 to 40
+brambillamar: calls 20
+*** FLOP *** [7c Ad 8s]
+Teol298: bets 20
+brambillamar: calls 20
+*** TURN *** [7c Ad 8s] [Jh]
+Teol298: bets 20
+brambillamar: calls 20
+*** RIVER *** [7c Ad 8s Jh] [3h]
+Teol298: bets 20
+brambillamar: calls 20
+*** SHOW DOWN ***
+Teol298: shows [4c 4s] (a pair of Fours)
+brambillamar: mucks hand 
+Teol298 collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [7c Ad 8s Jh 3h]
+Seat 1: Teol298 (small blind) showed [4c 4s] and won (200) with a pair of Fours
+Seat 2: brambillamar (big blind) mucked [Kd Qh]
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #244408827837: Tournament #3607631596, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/06/22 19:54:46 CET [2023/06/22 13:54:46 ET]
+Table '3607631596 1' 3-max Seat #1 is the button
+Seat 1: Teol298 (885 in chips) 
+Seat 2: brambillamar (310 in chips) 
+Seat 3: Mahu2021 (305 in chips) 
+brambillamar: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd Jh]
+Teol298: raises 20 to 40
+brambillamar: calls 30
+Mahu2021: raises 265 to 305 and is all-in
+Teol298: calls 265
+brambillamar: folds 
+*** FLOP *** [Th Td Ac]
+*** TURN *** [Th Td Ac] [Js]
+*** RIVER *** [Th Td Ac Js] [2h]
+*** SHOW DOWN ***
+Mahu2021: shows [Kd Jh] (two pair, Jacks and Tens)
+Teol298: shows [Ah Jd] (two pair, Aces and Jacks)
+Teol298 collected 650 from pot
+Mahu2021 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 650 | Rake 0 
+Board [Th Td Ac Js 2h]
+Seat 1: Teol298 (button) showed [Ah Jd] and won (650) with two pair, Aces and Jacks
+Seat 2: brambillamar (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) showed [Kd Jh] and lost with two pair, Jacks and Tens
+
+
+

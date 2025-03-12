@@ -1,0 +1,568 @@
+﻿PokerStars Hand #244510684166: Tournament #3609978669, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/06/28 16:51:30 CET [2023/06/28 10:51:30 ET]
+Table '3609978669 1' 3-max Seat #1 is the button
+Seat 1: Lailaj14 (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: Bertram70 (500 in chips) 
+Mahu2021: posts small blind 10
+Bertram70: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8d 2s]
+Lailaj14: folds 
+Mahu2021: folds 
+Uncalled bet (10) returned to Bertram70
+Bertram70 collected 20 from pot
+Bertram70: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Lailaj14 (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: Bertram70 (big blind) collected (20)
+
+
+
+PokerStars Hand #244510685158: Tournament #3609978669, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/06/28 16:51:34 CET [2023/06/28 10:51:34 ET]
+Table '3609978669 1' 3-max Seat #2 is the button
+Seat 1: Lailaj14 (500 in chips) 
+Seat 2: Mahu2021 (490 in chips) 
+Seat 3: Bertram70 (510 in chips) 
+Bertram70: posts small blind 10
+Lailaj14: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d Jh]
+Mahu2021: folds 
+Bertram70: raises 20 to 40
+Lailaj14: calls 20
+*** FLOP *** [3s Qh 9d]
+Bertram70: bets 40
+Lailaj14: folds 
+Uncalled bet (40) returned to Bertram70
+Bertram70 collected 80 from pot
+Bertram70: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [3s Qh 9d]
+Seat 1: Lailaj14 (big blind) folded on the Flop
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: Bertram70 (small blind) collected (80)
+
+
+
+PokerStars Hand #244510688087: Tournament #3609978669, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/06/28 16:51:47 CET [2023/06/28 10:51:47 ET]
+Table '3609978669 1' 3-max Seat #3 is the button
+Seat 1: Lailaj14 (460 in chips) 
+Seat 2: Mahu2021 (490 in chips) 
+Seat 3: Bertram70 (550 in chips) 
+Lailaj14: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s 7s]
+Bertram70: folds 
+Lailaj14: folds 
+Uncalled bet (10) returned to Mahu2021
+Mahu2021 collected 20 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Lailaj14 (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (20)
+Seat 3: Bertram70 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #244510689771: Tournament #3609978669, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/06/28 16:51:55 CET [2023/06/28 10:51:55 ET]
+Table '3609978669 1' 3-max Seat #1 is the button
+Seat 1: Lailaj14 (450 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: Bertram70 (550 in chips) 
+Mahu2021: posts small blind 10
+Bertram70: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd 3d]
+Lailaj14: folds 
+Mahu2021: raises 20 to 40
+Bertram70: calls 20
+*** FLOP *** [7s Js 6s]
+Mahu2021: bets 460 and is all-in
+Bertram70: folds 
+Uncalled bet (460) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [7s Js 6s]
+Seat 1: Lailaj14 (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) collected (80)
+Seat 3: Bertram70 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #244510693162: Tournament #3609978669, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/06/28 16:52:09 CET [2023/06/28 10:52:09 ET]
+Table '3609978669 1' 3-max Seat #2 is the button
+Seat 1: Lailaj14 (450 in chips) 
+Seat 2: Mahu2021 (540 in chips) 
+Seat 3: Bertram70 (510 in chips) 
+Bertram70: posts small blind 10
+Lailaj14: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8d Jc]
+Mahu2021: folds 
+Bertram70: raises 20 to 40
+Lailaj14: calls 20
+*** FLOP *** [5d Jd Kd]
+Bertram70: bets 40
+Lailaj14: calls 40
+*** TURN *** [5d Jd Kd] [9h]
+Bertram70: checks 
+Lailaj14: checks 
+*** RIVER *** [5d Jd Kd 9h] [8s]
+Bertram70: checks 
+Lailaj14: checks 
+*** SHOW DOWN ***
+Bertram70: shows [Tc 9d] (a pair of Nines)
+Lailaj14: shows [Jh Th] (a pair of Jacks)
+Lailaj14 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [5d Jd Kd 9h 8s]
+Seat 1: Lailaj14 (big blind) showed [Jh Th] and won (160) with a pair of Jacks
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: Bertram70 (small blind) showed [Tc 9d] and lost with a pair of Nines
+
+
+
+PokerStars Hand #244510700026: Tournament #3609978669, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/06/28 16:52:40 CET [2023/06/28 10:52:40 ET]
+Table '3609978669 1' 3-max Seat #3 is the button
+Seat 1: Lailaj14 (530 in chips) 
+Seat 2: Mahu2021 (540 in chips) 
+Seat 3: Bertram70 (430 in chips) 
+Lailaj14: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s 9s]
+Bertram70: folds 
+Lailaj14: calls 10
+Mahu2021: checks 
+*** FLOP *** [4h 9h Ks]
+Lailaj14: checks 
+Mahu2021: bets 20
+Lailaj14: raises 20 to 40
+Mahu2021: raises 480 to 520 and is all-in
+Lailaj14: calls 470 and is all-in
+Uncalled bet (10) returned to Mahu2021
+*** TURN *** [4h 9h Ks] [2s]
+*** RIVER *** [4h 9h Ks 2s] [8s]
+*** SHOW DOWN ***
+Lailaj14: shows [Kc Qs] (a pair of Kings)
+Mahu2021: shows [4s 9s] (a flush, King high)
+Mahu2021 collected 1060 from pot
+Lailaj14 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1060 | Rake 0 
+Board [4h 9h Ks 2s 8s]
+Seat 1: Lailaj14 (small blind) showed [Kc Qs] and lost with a pair of Kings
+Seat 2: Mahu2021 (big blind) showed [4s 9s] and won (1060) with a flush, King high
+Seat 3: Bertram70 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #244510705580: Tournament #3609978669, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/06/28 16:53:05 CET [2023/06/28 10:53:05 ET]
+Table '3609978669 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (1070 in chips) 
+Seat 3: Bertram70 (430 in chips) 
+Mahu2021: posts small blind 10
+Bertram70: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c 5s]
+Mahu2021: raises 20 to 40
+Bertram70: calls 20
+*** FLOP *** [9h 5d 3c]
+Bertram70: checks 
+Mahu2021: bets 40
+Bertram70: calls 40
+*** TURN *** [9h 5d 3c] [Qd]
+Bertram70: checks 
+Mahu2021: checks 
+*** RIVER *** [9h 5d 3c Qd] [2d]
+Bertram70: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+Bertram70: shows [6s 2s] (a pair of Deuces)
+Mahu2021: shows [6c 5s] (a pair of Fives)
+Mahu2021 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [9h 5d 3c Qd 2d]
+Seat 2: Mahu2021 (button) (small blind) showed [6c 5s] and won (160) with a pair of Fives
+Seat 3: Bertram70 (big blind) showed [6s 2s] and lost with a pair of Deuces
+
+
+
+PokerStars Hand #244510709635: Tournament #3609978669, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/06/28 16:53:23 CET [2023/06/28 10:53:23 ET]
+Table '3609978669 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (1150 in chips) 
+Seat 3: Bertram70 (350 in chips) 
+Bertram70: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4d 4c]
+Bertram70: raises 20 to 40
+Mahu2021: raises 1110 to 1150 and is all-in
+Bertram70: calls 310 and is all-in
+Uncalled bet (800) returned to Mahu2021
+*** FLOP *** [3s Qc Ac]
+*** TURN *** [3s Qc Ac] [Jh]
+*** RIVER *** [3s Qc Ac Jh] [5s]
+*** SHOW DOWN ***
+Mahu2021: shows [4d 4c] (a pair of Fours)
+Bertram70: shows [6h Ad] (a pair of Aces)
+Bertram70 collected 700 from pot
+*** SUMMARY ***
+Total pot 700 | Rake 0 
+Board [3s Qc Ac Jh 5s]
+Seat 2: Mahu2021 (big blind) showed [4d 4c] and lost with a pair of Fours
+Seat 3: Bertram70 (button) (small blind) showed [6h Ad] and won (700) with a pair of Aces
+
+
+
+PokerStars Hand #244510713585: Tournament #3609978669, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/06/28 16:53:40 CET [2023/06/28 10:53:40 ET]
+Table '3609978669 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (800 in chips) 
+Seat 3: Bertram70 (700 in chips) 
+Mahu2021: posts small blind 15
+Bertram70: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc Kd]
+Mahu2021: raises 30 to 60
+Bertram70: calls 30
+*** FLOP *** [5c 9c 8d]
+Bertram70: checks 
+Mahu2021: checks 
+*** TURN *** [5c 9c 8d] [7s]
+Bertram70: bets 60
+Mahu2021: calls 60
+*** RIVER *** [5c 9c 8d 7s] [Kh]
+Bertram70: bets 79
+Mahu2021: calls 79
+*** SHOW DOWN ***
+Bertram70: shows [2s Qs] (high card King)
+Mahu2021: shows [Jc Kd] (a pair of Kings)
+Mahu2021 collected 398 from pot
+*** SUMMARY ***
+Total pot 398 | Rake 0 
+Board [5c 9c 8d 7s Kh]
+Seat 2: Mahu2021 (button) (small blind) showed [Jc Kd] and won (398) with a pair of Kings
+Seat 3: Bertram70 (big blind) showed [2s Qs] and lost with high card King
+
+
+
+PokerStars Hand #244510718317: Tournament #3609978669, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/06/28 16:54:01 CET [2023/06/28 10:54:01 ET]
+Table '3609978669 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (999 in chips) 
+Seat 3: Bertram70 (501 in chips) 
+Bertram70: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd 2s]
+Bertram70: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 2: Mahu2021 (big blind) collected (30)
+Seat 3: Bertram70 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #244510719340: Tournament #3609978669, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/06/28 16:54:05 CET [2023/06/28 10:54:05 ET]
+Table '3609978669 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (1014 in chips) 
+Seat 3: Bertram70 (486 in chips) 
+Mahu2021: posts small blind 15
+Bertram70: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8s 9s]
+Mahu2021: raises 30 to 60
+Bertram70: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) collected (60)
+Seat 3: Bertram70 (big blind) folded before Flop
+
+
+
+PokerStars Hand #244510720682: Tournament #3609978669, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/06/28 16:54:11 CET [2023/06/28 10:54:11 ET]
+Table '3609978669 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (1044 in chips) 
+Seat 3: Bertram70 (456 in chips) 
+Bertram70: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h 2c]
+Bertram70: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 2: Mahu2021 (big blind) collected (30)
+Seat 3: Bertram70 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #244510721709: Tournament #3609978669, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/06/28 16:54:16 CET [2023/06/28 10:54:16 ET]
+Table '3609978669 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (1059 in chips) 
+Seat 3: Bertram70 (441 in chips) 
+Mahu2021: posts small blind 15
+Bertram70: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d 4d]
+Mahu2021: raises 30 to 60
+Bertram70: raises 381 to 441 and is all-in
+Mahu2021: folds 
+Uncalled bet (381) returned to Bertram70
+Bertram70 collected 120 from pot
+Bertram70: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: Bertram70 (big blind) collected (120)
+
+
+
+PokerStars Hand #244510723543: Tournament #3609978669, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/06/28 16:54:24 CET [2023/06/28 10:54:24 ET]
+Table '3609978669 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (999 in chips) 
+Seat 3: Bertram70 (501 in chips) 
+Bertram70: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5h 9h]
+Bertram70: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 2: Mahu2021 (big blind) collected (30)
+Seat 3: Bertram70 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #244510724526: Tournament #3609978669, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/06/28 16:54:28 CET [2023/06/28 10:54:28 ET]
+Table '3609978669 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (1014 in chips) 
+Seat 3: Bertram70 (486 in chips) 
+Mahu2021: posts small blind 15
+Bertram70: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h Td]
+Mahu2021: calls 15
+Bertram70: raises 456 to 486 and is all-in
+Mahu2021: folds 
+Uncalled bet (456) returned to Bertram70
+Bertram70 collected 60 from pot
+Bertram70: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: Bertram70 (big blind) collected (60)
+
+
+
+PokerStars Hand #244510726230: Tournament #3609978669, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/06/28 16:54:36 CET [2023/06/28 10:54:36 ET]
+Table '3609978669 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (984 in chips) 
+Seat 3: Bertram70 (516 in chips) 
+Bertram70: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8d Kc]
+Bertram70: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 2: Mahu2021 (big blind) collected (30)
+Seat 3: Bertram70 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #244510727490: Tournament #3609978669, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/06/28 16:54:41 CET [2023/06/28 10:54:41 ET]
+Table '3609978669 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (999 in chips) 
+Seat 3: Bertram70 (501 in chips) 
+Mahu2021: posts small blind 15
+Bertram70: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qs 7h]
+Mahu2021: raises 30 to 60
+Bertram70: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) collected (60)
+Seat 3: Bertram70 (big blind) folded before Flop
+
+
+
+PokerStars Hand #244510728957: Tournament #3609978669, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/06/28 16:54:48 CET [2023/06/28 10:54:48 ET]
+Table '3609978669 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (1029 in chips) 
+Seat 3: Bertram70 (471 in chips) 
+Bertram70: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc 6h]
+Bertram70: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 2: Mahu2021 (big blind) collected (30)
+Seat 3: Bertram70 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #244510729956: Tournament #3609978669, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/06/28 16:54:52 CET [2023/06/28 10:54:52 ET]
+Table '3609978669 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (1044 in chips) 
+Seat 3: Bertram70 (456 in chips) 
+Mahu2021: posts small blind 15
+Bertram70: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8c 8s]
+Mahu2021: raises 1014 to 1044 and is all-in
+Bertram70: folds 
+Uncalled bet (1014) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) collected (60)
+Seat 3: Bertram70 (big blind) folded before Flop
+
+
+
+PokerStars Hand #244510731559: Tournament #3609978669, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/06/28 16:54:59 CET [2023/06/28 10:54:59 ET]
+Table '3609978669 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (1074 in chips) 
+Seat 3: Bertram70 (426 in chips) 
+Bertram70: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3c Kd]
+Bertram70: calls 15
+Mahu2021: checks 
+*** FLOP *** [5c 9s 4c]
+Mahu2021: checks 
+Bertram70: bets 60
+Mahu2021: folds 
+Uncalled bet (60) returned to Bertram70
+Bertram70 collected 60 from pot
+Bertram70: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [5c 9s 4c]
+Seat 2: Mahu2021 (big blind) folded on the Flop
+Seat 3: Bertram70 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #244510734062: Tournament #3609978669, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/06/28 16:55:10 CET [2023/06/28 10:55:10 ET]
+Table '3609978669 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (1044 in chips) 
+Seat 3: Bertram70 (456 in chips) 
+Mahu2021: posts small blind 15
+Bertram70: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s 9c]
+Mahu2021: raises 30 to 60
+Bertram70: calls 30
+*** FLOP *** [Jc 4d Kc]
+Bertram70: checks 
+Mahu2021: bets 60
+Bertram70: calls 60
+*** TURN *** [Jc 4d Kc] [Tc]
+Bertram70: checks 
+Mahu2021: bets 924 and is all-in
+Bertram70: folds 
+Uncalled bet (924) returned to Mahu2021
+Mahu2021 collected 240 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Jc 4d Kc Tc]
+Seat 2: Mahu2021 (button) (small blind) collected (240)
+Seat 3: Bertram70 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #244510736905: Tournament #3609978669, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/06/28 16:55:27 CET [2023/06/28 10:55:27 ET]
+Table '3609978669 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (1164 in chips) 
+Seat 3: Bertram70 (336 in chips) 
+Bertram70: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h 5h]
+Bertram70: calls 15
+Mahu2021: checks 
+*** FLOP *** [As 2d Kh]
+Mahu2021: checks 
+Bertram70: checks 
+*** TURN *** [As 2d Kh] [Qs]
+Mahu2021: checks 
+Bertram70: checks 
+*** RIVER *** [As 2d Kh Qs] [7d]
+Mahu2021: checks 
+Bertram70: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [2h 5h] (a pair of Deuces)
+Bertram70: shows [8c 2c] (a pair of Deuces)
+Mahu2021 collected 30 from pot
+Bertram70 collected 30 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [As 2d Kh Qs 7d]
+Seat 2: Mahu2021 (big blind) showed [2h 5h] and won (30) with a pair of Deuces
+Seat 3: Bertram70 (button) (small blind) showed [8c 2c] and won (30) with a pair of Deuces
+
+
+
+PokerStars Hand #244510739802: Tournament #3609978669, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/06/28 16:55:43 CET [2023/06/28 10:55:43 ET]
+Table '3609978669 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (1164 in chips) 
+Seat 3: Bertram70 (336 in chips) 
+Mahu2021: posts small blind 20
+Bertram70: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s Jh]
+Mahu2021: raises 40 to 80
+Bertram70: raises 256 to 336 and is all-in
+Mahu2021: calls 256
+*** FLOP *** [Td 7d Qd]
+*** TURN *** [Td 7d Qd] [2c]
+*** RIVER *** [Td 7d Qd 2c] [7c]
+*** SHOW DOWN ***
+Bertram70: shows [Tc Jd] (two pair, Tens and Sevens)
+Mahu2021: shows [7s Jh] (three of a kind, Sevens)
+Mahu2021 collected 672 from pot
+Bertram70 finished the tournament in 2nd place
+Mahu2021 wins the tournament and receives $2.00 - congratulations!
+*** SUMMARY ***
+Total pot 672 | Rake 0 
+Board [Td 7d Qd 2c 7c]
+Seat 2: Mahu2021 (button) (small blind) showed [7s Jh] and won (672) with three of a kind, Sevens
+Seat 3: Bertram70 (big blind) showed [Tc Jd] and lost with two pair, Tens and Sevens
+
+
+

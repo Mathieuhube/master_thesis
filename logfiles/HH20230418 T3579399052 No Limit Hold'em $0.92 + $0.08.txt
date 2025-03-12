@@ -1,0 +1,668 @@
+﻿PokerStars Hand #243174220333: Tournament #3579399052, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/18 21:08:42 CET [2023/04/18 15:08:42 ET]
+Table '3579399052 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: kunber (500 in chips) 
+Seat 3: SSuperSayann (500 in chips) 
+kunber: posts small blind 10
+SSuperSayann: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh 8d]
+Mahu2021: calls 20
+kunber: raises 480 to 500 and is all-in
+SSuperSayann: folds 
+Mahu2021: folds 
+Uncalled bet (480) returned to kunber
+kunber collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (button) folded before Flop
+Seat 2: kunber (small blind) collected (60)
+Seat 3: SSuperSayann (big blind) folded before Flop
+
+
+
+PokerStars Hand #243174224264: Tournament #3579399052, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/18 21:08:53 CET [2023/04/18 15:08:53 ET]
+Table '3579399052 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (480 in chips) 
+Seat 2: kunber (540 in chips) 
+Seat 3: SSuperSayann (480 in chips) 
+SSuperSayann: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js 4s]
+kunber: folds 
+SSuperSayann: calls 10
+Mahu2021: checks 
+*** FLOP *** [4d 5d Qh]
+SSuperSayann: checks 
+Mahu2021: bets 20
+SSuperSayann: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [4d 5d Qh]
+Seat 1: Mahu2021 (big blind) collected (40)
+Seat 2: kunber (button) folded before Flop (didn't bet)
+Seat 3: SSuperSayann (small blind) folded on the Flop
+
+
+
+PokerStars Hand #243174232727: Tournament #3579399052, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/18 21:09:16 CET [2023/04/18 15:09:16 ET]
+Table '3579399052 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: kunber (540 in chips) 
+Seat 3: SSuperSayann (460 in chips) 
+Mahu2021: posts small blind 10
+kunber: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s Ad]
+SSuperSayann: calls 20
+Mahu2021: calls 10
+kunber: checks 
+*** FLOP *** [3s Js Td]
+Mahu2021: checks 
+kunber: checks 
+SSuperSayann: checks 
+*** TURN *** [3s Js Td] [3c]
+Mahu2021: checks 
+kunber: checks 
+SSuperSayann: checks 
+*** RIVER *** [3s Js Td 3c] [6s]
+Mahu2021: bets 20
+kunber: folds 
+SSuperSayann: calls 20
+*** SHOW DOWN ***
+Mahu2021: shows [4s Ad] (a pair of Threes)
+SSuperSayann: shows [7s 6c] (two pair, Sixes and Threes)
+SSuperSayann collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [3s Js Td 3c 6s]
+Seat 1: Mahu2021 (small blind) showed [4s Ad] and lost with a pair of Threes
+Seat 2: kunber (big blind) folded on the River
+Seat 3: SSuperSayann (button) showed [7s 6c] and won (100) with two pair, Sixes and Threes
+
+
+
+PokerStars Hand #243174247864: Tournament #3579399052, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/18 21:09:58 CET [2023/04/18 15:09:58 ET]
+Table '3579399052 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (460 in chips) 
+Seat 2: kunber (520 in chips) 
+Seat 3: SSuperSayann (520 in chips) 
+kunber: posts small blind 10
+SSuperSayann: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h 6s]
+Mahu2021: folds 
+kunber: calls 10
+SSuperSayann: checks 
+*** FLOP *** [Kd 9c 8d]
+kunber: bets 40
+SSuperSayann: folds 
+Uncalled bet (40) returned to kunber
+kunber collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Kd 9c 8d]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: kunber (small blind) collected (40)
+Seat 3: SSuperSayann (big blind) folded on the Flop
+
+
+
+PokerStars Hand #243174262310: Tournament #3579399052, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/18 21:10:39 CET [2023/04/18 15:10:39 ET]
+Table '3579399052 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (460 in chips) 
+Seat 2: kunber (540 in chips) 
+Seat 3: SSuperSayann (500 in chips) 
+SSuperSayann: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h 2d]
+kunber: folds 
+SSuperSayann: calls 10
+Mahu2021: checks 
+*** FLOP *** [5s Tc 4c]
+SSuperSayann: checks 
+Mahu2021: bets 40
+SSuperSayann: calls 40
+*** TURN *** [5s Tc 4c] [6s]
+SSuperSayann: checks 
+Mahu2021: bets 120
+SSuperSayann: raises 320 to 440 and is all-in
+Mahu2021: calls 280 and is all-in
+Uncalled bet (40) returned to SSuperSayann
+*** RIVER *** [5s Tc 4c 6s] [Th]
+*** SHOW DOWN ***
+SSuperSayann: shows [8h Td] (three of a kind, Tens)
+Mahu2021: shows [3h 2d] (a straight, Deuce to Six)
+Mahu2021 collected 920 from pot
+*** SUMMARY ***
+Total pot 920 | Rake 0 
+Board [5s Tc 4c 6s Th]
+Seat 1: Mahu2021 (big blind) showed [3h 2d] and won (920) with a straight, Deuce to Six
+Seat 2: kunber (button) folded before Flop (didn't bet)
+Seat 3: SSuperSayann (small blind) showed [8h Td] and lost with three of a kind, Tens
+
+
+
+PokerStars Hand #243174277101: Tournament #3579399052, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/18 21:11:20 CET [2023/04/18 15:11:20 ET]
+Table '3579399052 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (920 in chips) 
+Seat 2: kunber (540 in chips) 
+Seat 3: SSuperSayann (40 in chips) 
+Mahu2021: posts small blind 15
+kunber: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3c 3d]
+SSuperSayann has timed out
+SSuperSayann: folds 
+SSuperSayann is sitting out
+Mahu2021: raises 30 to 60
+SSuperSayann has returned
+kunber: calls 30
+*** FLOP *** [7d 3s Qs]
+Mahu2021: checks 
+kunber: checks 
+*** TURN *** [7d 3s Qs] [Js]
+Mahu2021: checks 
+kunber: checks 
+*** RIVER *** [7d 3s Qs Js] [2h]
+Mahu2021: checks 
+kunber: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [3c 3d] (three of a kind, Threes)
+kunber: mucks hand 
+Mahu2021 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [7d 3s Qs Js 2h]
+Seat 1: Mahu2021 (small blind) showed [3c 3d] and won (120) with three of a kind, Threes
+Seat 2: kunber (big blind) mucked [6h Ks]
+Seat 3: SSuperSayann (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #243174288436: Tournament #3579399052, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/18 21:11:52 CET [2023/04/18 15:11:52 ET]
+Table '3579399052 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (980 in chips) 
+Seat 2: kunber (480 in chips) 
+Seat 3: SSuperSayann (40 in chips) 
+kunber: posts small blind 15
+SSuperSayann: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts 2c]
+Mahu2021: folds 
+kunber: folds 
+Uncalled bet (15) returned to SSuperSayann
+SSuperSayann collected 30 from pot
+SSuperSayann: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: kunber (small blind) folded before Flop
+Seat 3: SSuperSayann (big blind) collected (30)
+
+
+
+PokerStars Hand #243174290837: Tournament #3579399052, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/18 21:11:59 CET [2023/04/18 15:11:59 ET]
+Table '3579399052 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (980 in chips) 
+Seat 2: kunber (465 in chips) 
+Seat 3: SSuperSayann (55 in chips) 
+SSuperSayann: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8d 2d]
+kunber: calls 30
+SSuperSayann: raises 25 to 55 and is all-in
+Mahu2021: folds 
+kunber: calls 25
+*** FLOP *** [Tc 2c 3s]
+*** TURN *** [Tc 2c 3s] [4d]
+*** RIVER *** [Tc 2c 3s 4d] [9c]
+*** SHOW DOWN ***
+SSuperSayann: shows [7h Ts] (a pair of Tens)
+kunber: shows [As 6c] (high card Ace)
+SSuperSayann collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | Rake 0 
+Board [Tc 2c 3s 4d 9c]
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: kunber (button) showed [As 6c] and lost with high card Ace
+Seat 3: SSuperSayann (small blind) showed [7h Ts] and won (140) with a pair of Tens
+
+
+
+PokerStars Hand #243174296977: Tournament #3579399052, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/18 21:12:16 CET [2023/04/18 15:12:16 ET]
+Table '3579399052 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (950 in chips) 
+Seat 2: kunber (410 in chips) 
+Seat 3: SSuperSayann (140 in chips) 
+Mahu2021: posts small blind 15
+kunber: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2s Tc]
+SSuperSayann: raises 110 to 140 and is all-in
+Mahu2021: folds 
+kunber: folds 
+Uncalled bet (110) returned to SSuperSayann
+SSuperSayann collected 75 from pot
+SSuperSayann: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: kunber (big blind) folded before Flop
+Seat 3: SSuperSayann (button) collected (75)
+
+
+
+PokerStars Hand #243174300916: Tournament #3579399052, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/18 21:12:27 CET [2023/04/18 15:12:27 ET]
+Table '3579399052 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (935 in chips) 
+Seat 2: kunber (380 in chips) 
+Seat 3: SSuperSayann (185 in chips) 
+kunber: posts small blind 15
+SSuperSayann: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5h 5c]
+Mahu2021: raises 30 to 60
+kunber: folds 
+SSuperSayann: calls 30
+*** FLOP *** [Jd 6c 6d]
+SSuperSayann: checks 
+Mahu2021: bets 135
+SSuperSayann: calls 125 and is all-in
+Uncalled bet (10) returned to Mahu2021
+*** TURN *** [Jd 6c 6d] [3h]
+*** RIVER *** [Jd 6c 6d 3h] [4h]
+*** SHOW DOWN ***
+SSuperSayann: shows [8h Jh] (two pair, Jacks and Sixes)
+Mahu2021: shows [5h 5c] (two pair, Sixes and Fives)
+SSuperSayann collected 385 from pot
+*** SUMMARY ***
+Total pot 385 | Rake 0 
+Board [Jd 6c 6d 3h 4h]
+Seat 1: Mahu2021 (button) showed [5h 5c] and lost with two pair, Sixes and Fives
+Seat 2: kunber (small blind) folded before Flop
+Seat 3: SSuperSayann (big blind) showed [8h Jh] and won (385) with two pair, Jacks and Sixes
+
+
+
+PokerStars Hand #243174309623: Tournament #3579399052, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/18 21:12:51 CET [2023/04/18 15:12:51 ET]
+Table '3579399052 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (750 in chips) 
+Seat 2: kunber (365 in chips) 
+Seat 3: SSuperSayann (385 in chips) 
+SSuperSayann: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh Th]
+kunber: raises 120 to 160
+SSuperSayann: raises 225 to 385 and is all-in
+Mahu2021: folds 
+kunber: calls 205 and is all-in
+Uncalled bet (20) returned to SSuperSayann
+*** FLOP *** [2s 5c 7s]
+*** TURN *** [2s 5c 7s] [3c]
+*** RIVER *** [2s 5c 7s 3c] [4d]
+*** SHOW DOWN ***
+SSuperSayann: shows [Kc Js] (high card King)
+kunber: shows [Ad Qc] (a straight, Ace to Five)
+kunber collected 770 from pot
+*** SUMMARY ***
+Total pot 770 | Rake 0 
+Board [2s 5c 7s 3c 4d]
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: kunber (button) showed [Ad Qc] and won (770) with a straight, Ace to Five
+Seat 3: SSuperSayann (small blind) showed [Kc Js] and lost with high card King
+
+
+
+PokerStars Hand #243174315931: Tournament #3579399052, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/18 21:13:09 CET [2023/04/18 15:13:09 ET]
+Table '3579399052 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (710 in chips) 
+Seat 2: kunber (770 in chips) 
+Seat 3: SSuperSayann (20 in chips) 
+Mahu2021: posts small blind 20
+kunber: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c 6c]
+SSuperSayann: calls 20 and is all-in
+Mahu2021: calls 20
+kunber: checks 
+*** FLOP *** [5s Jd 7s]
+Mahu2021: checks 
+kunber: checks 
+*** TURN *** [5s Jd 7s] [3c]
+Mahu2021: bets 40
+kunber: calls 40
+*** RIVER *** [5s Jd 7s 3c] [9d]
+Mahu2021: bets 40
+kunber: raises 650 to 690 and is all-in
+Mahu2021: folds 
+Uncalled bet (650) returned to kunber
+*** SHOW DOWN ***
+kunber: shows [Td 8h] (a straight, Seven to Jack)
+kunber collected 200 from side pot
+SSuperSayann: shows [7h 7d] (three of a kind, Sevens)
+kunber collected 60 from main pot
+SSuperSayann finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 260 Main pot 60. Side pot 200. | Rake 0 
+Board [5s Jd 7s 3c 9d]
+Seat 1: Mahu2021 (small blind) folded on the River
+Seat 2: kunber (big blind) showed [Td 8h] and won (260) with a straight, Seven to Jack
+Seat 3: SSuperSayann (button) showed [7h 7d] and lost with three of a kind, Sevens
+
+
+
+PokerStars Hand #243174326658: Tournament #3579399052, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/18 21:13:39 CET [2023/04/18 15:13:39 ET]
+Table '3579399052 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (590 in chips) 
+Seat 2: kunber (910 in chips) 
+kunber: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d Td]
+kunber: calls 20
+Mahu2021: checks 
+*** FLOP *** [7h 3h 6h]
+Mahu2021: checks 
+kunber: checks 
+*** TURN *** [7h 3h 6h] [8c]
+Mahu2021: bets 40
+kunber: calls 40
+*** RIVER *** [7h 3h 6h 8c] [Ad]
+Mahu2021: checks 
+kunber: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [5d Td] (high card Ace)
+kunber: shows [5s 8s] (a pair of Eights)
+kunber collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [7h 3h 6h 8c Ad]
+Seat 1: Mahu2021 (big blind) showed [5d Td] and lost with high card Ace
+Seat 2: kunber (button) (small blind) showed [5s 8s] and won (160) with a pair of Eights
+
+
+
+PokerStars Hand #243174333297: Tournament #3579399052, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/18 21:13:58 CET [2023/04/18 15:13:58 ET]
+Table '3579399052 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (510 in chips) 
+Seat 2: kunber (990 in chips) 
+Mahu2021: posts small blind 20
+kunber: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c 5c]
+Mahu2021: calls 20
+kunber: checks 
+*** FLOP *** [8s 8d Tc]
+kunber: checks 
+Mahu2021: checks 
+*** TURN *** [8s 8d Tc] [Jh]
+kunber: checks 
+Mahu2021: checks 
+*** RIVER *** [8s 8d Tc Jh] [Ah]
+kunber: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+kunber: shows [Ac 2d] (two pair, Aces and Eights)
+Mahu2021: mucks hand 
+kunber collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [8s 8d Tc Jh Ah]
+Seat 1: Mahu2021 (button) (small blind) mucked [6c 5c]
+Seat 2: kunber (big blind) showed [Ac 2d] and won (80) with two pair, Aces and Eights
+
+
+
+PokerStars Hand #243174339017: Tournament #3579399052, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/18 21:14:14 CET [2023/04/18 15:14:14 ET]
+Table '3579399052 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (470 in chips) 
+Seat 2: kunber (1030 in chips) 
+kunber: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qd 3c]
+kunber: calls 20
+Mahu2021: checks 
+*** FLOP *** [4d Qh Kh]
+Mahu2021: checks 
+kunber: checks 
+*** TURN *** [4d Qh Kh] [Ah]
+Mahu2021: bets 40
+kunber: calls 40
+*** RIVER *** [4d Qh Kh Ah] [9d]
+Mahu2021: checks 
+kunber: bets 40
+Mahu2021: folds 
+Uncalled bet (40) returned to kunber
+kunber collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [4d Qh Kh Ah 9d]
+Seat 1: Mahu2021 (big blind) folded on the River
+Seat 2: kunber (button) (small blind) collected (160)
+
+
+
+PokerStars Hand #243174346268: Tournament #3579399052, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/18 21:14:34 CET [2023/04/18 15:14:34 ET]
+Table '3579399052 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (390 in chips) 
+Seat 2: kunber (1110 in chips) 
+Mahu2021: posts small blind 20
+kunber: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2c Qh]
+Mahu2021: folds 
+Uncalled bet (20) returned to kunber
+kunber collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 2: kunber (big blind) collected (40)
+
+
+
+PokerStars Hand #243174347930: Tournament #3579399052, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/18 21:14:38 CET [2023/04/18 15:14:38 ET]
+Table '3579399052 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (370 in chips) 
+Seat 2: kunber (1130 in chips) 
+kunber: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h Jc]
+kunber: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (40)
+Seat 2: kunber (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #243174349769: Tournament #3579399052, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/18 21:14:43 CET [2023/04/18 15:14:43 ET]
+Table '3579399052 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (390 in chips) 
+Seat 2: kunber (1110 in chips) 
+Mahu2021: posts small blind 20
+kunber: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh 8d]
+Mahu2021: raises 40 to 80
+kunber: calls 40
+*** FLOP *** [6h 3h Ac]
+kunber: checks 
+Mahu2021: bets 160
+kunber: folds 
+Uncalled bet (160) returned to Mahu2021
+Mahu2021 collected 160 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [6h 3h Ac]
+Seat 1: Mahu2021 (button) (small blind) collected (160)
+Seat 2: kunber (big blind) folded on the Flop
+
+
+
+PokerStars Hand #243174355681: Tournament #3579399052, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/04/18 21:14:59 CET [2023/04/18 15:14:59 ET]
+Table '3579399052 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (470 in chips) 
+Seat 2: kunber (1030 in chips) 
+kunber: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Th 9s]
+kunber: raises 180 to 240
+Mahu2021: folds 
+Uncalled bet (180) returned to kunber
+kunber collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: kunber (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #243174358469: Tournament #3579399052, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/04/18 21:15:07 CET [2023/04/18 15:15:07 ET]
+Table '3579399052 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (410 in chips) 
+Seat 2: kunber (1090 in chips) 
+Mahu2021: posts small blind 30
+kunber: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d 8h]
+Mahu2021: folds 
+Uncalled bet (30) returned to kunber
+kunber collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 2: kunber (big blind) collected (60)
+
+
+
+PokerStars Hand #243174360167: Tournament #3579399052, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/04/18 21:15:12 CET [2023/04/18 15:15:12 ET]
+Table '3579399052 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (380 in chips) 
+Seat 2: kunber (1120 in chips) 
+kunber: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qs Kc]
+kunber: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (60)
+Seat 2: kunber (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #243174361727: Tournament #3579399052, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/04/18 21:15:16 CET [2023/04/18 15:15:16 ET]
+Table '3579399052 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (410 in chips) 
+Seat 2: kunber (1090 in chips) 
+Mahu2021: posts small blind 30
+kunber: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h 7s]
+Mahu2021: folds 
+Uncalled bet (30) returned to kunber
+kunber collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 2: kunber (big blind) collected (60)
+
+
+
+PokerStars Hand #243174363601: Tournament #3579399052, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/04/18 21:15:21 CET [2023/04/18 15:15:21 ET]
+Table '3579399052 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (380 in chips) 
+Seat 2: kunber (1120 in chips) 
+kunber: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts 4s]
+kunber: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (60)
+Seat 2: kunber (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #243174365111: Tournament #3579399052, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/04/18 21:15:25 CET [2023/04/18 15:15:25 ET]
+Table '3579399052 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (410 in chips) 
+Seat 2: kunber (1090 in chips) 
+Mahu2021: posts small blind 30
+kunber: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc 5s]
+Mahu2021: calls 30
+kunber: checks 
+*** FLOP *** [Td As 9c]
+kunber: checks 
+Mahu2021: checks 
+*** TURN *** [Td As 9c] [8s]
+kunber: checks 
+Mahu2021: bets 120
+kunber: calls 120
+*** RIVER *** [Td As 9c 8s] [4d]
+kunber: checks 
+Mahu2021: bets 230 and is all-in
+kunber: folds 
+Uncalled bet (230) returned to Mahu2021
+Mahu2021 collected 360 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [Td As 9c 8s 4d]
+Seat 1: Mahu2021 (button) (small blind) collected (360)
+Seat 2: kunber (big blind) folded on the River
+
+
+
+PokerStars Hand #243174376856: Tournament #3579399052, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/04/18 21:15:58 CET [2023/04/18 15:15:58 ET]
+Table '3579399052 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (590 in chips) 
+Seat 2: kunber (910 in chips) 
+kunber: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh 6h]
+kunber: raises 850 to 910 and is all-in
+Mahu2021: calls 530 and is all-in
+Uncalled bet (320) returned to kunber
+*** FLOP *** [9c 9s 2h]
+*** TURN *** [9c 9s 2h] [7d]
+*** RIVER *** [9c 9s 2h 7d] [Td]
+*** SHOW DOWN ***
+Mahu2021: shows [Kh 6h] (a pair of Nines)
+kunber: shows [Ah 8h] (a pair of Nines - Ace kicker)
+kunber collected 1180 from pot
+Mahu2021 finished the tournament in 2nd place
+kunber wins the tournament and receives $2.00 - congratulations!
+*** SUMMARY ***
+Total pot 1180 | Rake 0 
+Board [9c 9s 2h 7d Td]
+Seat 1: Mahu2021 (big blind) showed [Kh 6h] and lost with a pair of Nines
+Seat 2: kunber (button) (small blind) showed [Ah 8h] and won (1180) with a pair of Nines
+
+
+

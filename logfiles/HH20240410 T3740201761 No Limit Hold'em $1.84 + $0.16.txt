@@ -1,0 +1,755 @@
+﻿PokerStars Hand #249904645810: Tournament #3740201761, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/04/10 21:46:19 CET [2024/04/10 15:46:19 ET]
+Table '3740201761 1' 3-max Seat #1 is the button
+Seat 1: Marddin L. (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: winneyd (500 in chips) 
+Mahu2021: posts small blind 10
+winneyd: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c Th]
+Marddin L.: calls 20
+Mahu2021: folds 
+winneyd: checks 
+*** FLOP *** [9h 4h Ac]
+winneyd: checks 
+Marddin L.: checks 
+*** TURN *** [9h 4h Ac] [Ts]
+winneyd: checks 
+Marddin L.: bets 25
+winneyd: raises 25 to 50
+Marddin L.: raises 25 to 75
+winneyd: calls 25
+*** RIVER *** [9h 4h Ac Ts] [Qh]
+winneyd: checks 
+Marddin L.: bets 200
+winneyd: calls 200
+*** SHOW DOWN ***
+Marddin L.: shows [Ks Ah] (a pair of Aces)
+winneyd: shows [9d Td] (two pair, Tens and Nines)
+winneyd collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | Rake 0 
+Board [9h 4h Ac Ts Qh]
+Seat 1: Marddin L. (button) showed [Ks Ah] and lost with a pair of Aces
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: winneyd (big blind) showed [9d Td] and won (600) with two pair, Tens and Nines
+
+
+
+PokerStars Hand #249904654441: Tournament #3740201761, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/04/10 21:46:45 CET [2024/04/10 15:46:45 ET]
+Table '3740201761 1' 3-max Seat #2 is the button
+Seat 1: Marddin L. (205 in chips) 
+Seat 2: Mahu2021 (490 in chips) 
+Seat 3: winneyd (805 in chips) 
+winneyd: posts small blind 10
+Marddin L.: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2c Ad]
+Mahu2021: folds 
+winneyd: calls 10
+Marddin L.: raises 20 to 40
+winneyd: calls 20
+*** FLOP *** [3c 9s 4h]
+winneyd: checks 
+Marddin L.: bets 165 and is all-in
+winneyd: folds 
+Uncalled bet (165) returned to Marddin L.
+Marddin L. collected 80 from pot
+Marddin L.: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [3c 9s 4h]
+Seat 1: Marddin L. (big blind) collected (80)
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: winneyd (small blind) folded on the Flop
+
+
+
+PokerStars Hand #249904662323: Tournament #3740201761, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/04/10 21:47:09 CET [2024/04/10 15:47:09 ET]
+Table '3740201761 1' 3-max Seat #3 is the button
+Seat 1: Marddin L. (245 in chips) 
+Seat 2: Mahu2021 (490 in chips) 
+Seat 3: winneyd (765 in chips) 
+Marddin L.: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s 3c]
+winneyd: calls 20
+Marddin L.: folds 
+Mahu2021: checks 
+*** FLOP *** [6c 5s 9c]
+Mahu2021: checks 
+winneyd: checks 
+*** TURN *** [6c 5s 9c] [4h]
+Mahu2021: bets 20
+winneyd: calls 20
+*** RIVER *** [6c 5s 9c 4h] [Td]
+Mahu2021: checks 
+winneyd: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [4s 3c] (a pair of Fours)
+winneyd: shows [Ad 5h] (a pair of Fives)
+winneyd collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [6c 5s 9c 4h Td]
+Seat 1: Marddin L. (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) showed [4s 3c] and lost with a pair of Fours
+Seat 3: winneyd (button) showed [Ad 5h] and won (90) with a pair of Fives
+
+
+
+PokerStars Hand #249904668553: Tournament #3740201761, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/04/10 21:47:28 CET [2024/04/10 15:47:28 ET]
+Table '3740201761 1' 3-max Seat #1 is the button
+Seat 1: Marddin L. (235 in chips) 
+Seat 2: Mahu2021 (450 in chips) 
+Seat 3: winneyd (815 in chips) 
+Mahu2021: posts small blind 10
+winneyd: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qs Kd]
+Marddin L.: folds 
+Mahu2021: calls 10
+winneyd: checks 
+*** FLOP *** [Jh 2s 7s]
+Mahu2021: checks 
+winneyd: checks 
+*** TURN *** [Jh 2s 7s] [Ad]
+Mahu2021: checks 
+winneyd: checks 
+*** RIVER *** [Jh 2s 7s Ad] [Jd]
+Mahu2021: checks 
+winneyd: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [Qs Kd] (a pair of Jacks)
+winneyd: mucks hand 
+Mahu2021 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Jh 2s 7s Ad Jd]
+Seat 1: Marddin L. (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) showed [Qs Kd] and won (40) with a pair of Jacks
+Seat 3: winneyd (big blind) mucked [6s 9c]
+
+
+
+PokerStars Hand #249904674411: Tournament #3740201761, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/04/10 21:47:46 CET [2024/04/10 15:47:46 ET]
+Table '3740201761 1' 3-max Seat #2 is the button
+Seat 1: Marddin L. (235 in chips) 
+Seat 2: Mahu2021 (470 in chips) 
+Seat 3: winneyd (795 in chips) 
+winneyd: posts small blind 10
+Marddin L.: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h Jc]
+Mahu2021: folds 
+winneyd: calls 10
+Marddin L.: checks 
+*** FLOP *** [6s Ts 4d]
+winneyd: checks 
+Marddin L.: bets 80
+winneyd: folds 
+Uncalled bet (80) returned to Marddin L.
+Marddin L. collected 40 from pot
+Marddin L.: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [6s Ts 4d]
+Seat 1: Marddin L. (big blind) collected (40)
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: winneyd (small blind) folded on the Flop
+
+
+
+PokerStars Hand #249904682628: Tournament #3740201761, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/04/10 21:48:11 CET [2024/04/10 15:48:11 ET]
+Table '3740201761 1' 3-max Seat #3 is the button
+Seat 1: Marddin L. (255 in chips) 
+Seat 2: Mahu2021 (470 in chips) 
+Seat 3: winneyd (775 in chips) 
+Marddin L.: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4c 6s]
+winneyd: folds 
+Marddin L.: calls 10
+Mahu2021: checks 
+*** FLOP *** [Ah Kd 3s]
+Marddin L.: bets 40
+Mahu2021: folds 
+Uncalled bet (40) returned to Marddin L.
+Marddin L. collected 40 from pot
+Marddin L.: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Ah Kd 3s]
+Seat 1: Marddin L. (small blind) collected (40)
+Seat 2: Mahu2021 (big blind) folded on the Flop
+Seat 3: winneyd (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #249904687711: Tournament #3740201761, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/04/10 21:48:26 CET [2024/04/10 15:48:26 ET]
+Table '3740201761 1' 3-max Seat #1 is the button
+Seat 1: Marddin L. (275 in chips) 
+Seat 2: Mahu2021 (450 in chips) 
+Seat 3: winneyd (775 in chips) 
+Mahu2021: posts small blind 15
+winneyd: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4d Th]
+Marddin L.: calls 30
+Mahu2021: folds 
+winneyd: checks 
+*** FLOP *** [8d 9h Kh]
+winneyd: checks 
+Marddin L.: bets 90
+winneyd: folds 
+Uncalled bet (90) returned to Marddin L.
+Marddin L. collected 75 from pot
+Marddin L.: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Board [8d 9h Kh]
+Seat 1: Marddin L. (button) collected (75)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: winneyd (big blind) folded on the Flop
+
+
+
+PokerStars Hand #249904692427: Tournament #3740201761, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/04/10 21:48:40 CET [2024/04/10 15:48:40 ET]
+Table '3740201761 1' 3-max Seat #2 is the button
+Seat 1: Marddin L. (320 in chips) 
+Seat 2: Mahu2021 (435 in chips) 
+Seat 3: winneyd (745 in chips) 
+winneyd: posts small blind 15
+Marddin L.: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c Td]
+Mahu2021: folds 
+winneyd: calls 15
+Marddin L.: checks 
+*** FLOP *** [3h 7h 3c]
+winneyd: checks 
+Marddin L.: bets 30
+winneyd: folds 
+Uncalled bet (30) returned to Marddin L.
+Marddin L. collected 60 from pot
+Marddin L.: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [3h 7h 3c]
+Seat 1: Marddin L. (big blind) collected (60)
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: winneyd (small blind) folded on the Flop
+
+
+
+PokerStars Hand #249904698778: Tournament #3740201761, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/04/10 21:48:59 CET [2024/04/10 15:48:59 ET]
+Table '3740201761 1' 3-max Seat #3 is the button
+Seat 1: Marddin L. (350 in chips) 
+Seat 2: Mahu2021 (435 in chips) 
+Seat 3: winneyd (715 in chips) 
+Marddin L.: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qd Tc]
+winneyd: folds 
+Marddin L.: calls 15
+Mahu2021: checks 
+*** FLOP *** [8s As 4h]
+Marddin L.: bets 90
+Mahu2021: folds 
+Uncalled bet (90) returned to Marddin L.
+Marddin L. collected 60 from pot
+Marddin L.: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [8s As 4h]
+Seat 1: Marddin L. (small blind) collected (60)
+Seat 2: Mahu2021 (big blind) folded on the Flop
+Seat 3: winneyd (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #249904706253: Tournament #3740201761, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/04/10 21:49:22 CET [2024/04/10 15:49:22 ET]
+Table '3740201761 1' 3-max Seat #1 is the button
+Seat 1: Marddin L. (380 in chips) 
+Seat 2: Mahu2021 (405 in chips) 
+Seat 3: winneyd (715 in chips) 
+Mahu2021: posts small blind 15
+winneyd: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c 5d]
+Marddin L.: calls 30
+Mahu2021: calls 15
+winneyd: checks 
+*** FLOP *** [7d As Ks]
+Mahu2021: checks 
+winneyd: checks 
+Marddin L.: bets 90
+Mahu2021: folds 
+winneyd: folds 
+Uncalled bet (90) returned to Marddin L.
+Marddin L. collected 90 from pot
+Marddin L.: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [7d As Ks]
+Seat 1: Marddin L. (button) collected (90)
+Seat 2: Mahu2021 (small blind) folded on the Flop
+Seat 3: winneyd (big blind) folded on the Flop
+
+
+
+PokerStars Hand #249904712475: Tournament #3740201761, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/04/10 21:49:41 CET [2024/04/10 15:49:41 ET]
+Table '3740201761 1' 3-max Seat #2 is the button
+Seat 1: Marddin L. (440 in chips) 
+Seat 2: Mahu2021 (375 in chips) 
+Seat 3: winneyd (685 in chips) 
+winneyd: posts small blind 15
+Marddin L.: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c Ks]
+Mahu2021: folds 
+winneyd: calls 15
+Marddin L.: checks 
+*** FLOP *** [Qs Qc 2c]
+winneyd: checks 
+Marddin L.: bets 60
+winneyd: calls 60
+*** TURN *** [Qs Qc 2c] [7h]
+winneyd: checks 
+Marddin L.: bets 180
+winneyd: calls 180
+*** RIVER *** [Qs Qc 2c 7h] [Jh]
+winneyd: checks 
+Marddin L.: checks 
+*** SHOW DOWN ***
+winneyd: shows [6d Qh] (three of a kind, Queens)
+Marddin L.: mucks hand 
+winneyd collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | Rake 0 
+Board [Qs Qc 2c 7h Jh]
+Seat 1: Marddin L. (big blind) mucked [5s 7s]
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: winneyd (small blind) showed [6d Qh] and won (540) with three of a kind, Queens
+
+
+
+PokerStars Hand #249904718815: Tournament #3740201761, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/04/10 21:50:00 CET [2024/04/10 15:50:00 ET]
+Table '3740201761 1' 3-max Seat #3 is the button
+Seat 1: Marddin L. (170 in chips) 
+Seat 2: Mahu2021 (375 in chips) 
+Seat 3: winneyd (955 in chips) 
+Marddin L.: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8c 6d]
+winneyd: folds 
+Marddin L.: calls 15
+Mahu2021: checks 
+*** FLOP *** [5c 4s Qd]
+Marddin L.: checks 
+Mahu2021: bets 30
+Marddin L.: calls 30
+*** TURN *** [5c 4s Qd] [Kc]
+Marddin L.: bets 30
+Mahu2021: calls 30
+*** RIVER *** [5c 4s Qd Kc] [3d]
+Marddin L.: checks 
+Mahu2021: bets 90
+Marddin L.: folds 
+Uncalled bet (90) returned to Mahu2021
+Mahu2021 collected 180 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [5c 4s Qd Kc 3d]
+Seat 1: Marddin L. (small blind) folded on the River
+Seat 2: Mahu2021 (big blind) collected (180)
+Seat 3: winneyd (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #249904731283: Tournament #3740201761, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/04/10 21:50:37 CET [2024/04/10 15:50:37 ET]
+Table '3740201761 1' 3-max Seat #1 is the button
+Seat 1: Marddin L. (80 in chips) 
+Seat 2: Mahu2021 (465 in chips) 
+Seat 3: winneyd (955 in chips) 
+Mahu2021: posts small blind 20
+winneyd: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d 4c]
+Marddin L.: raises 40 to 80 and is all-in
+Mahu2021: folds 
+winneyd: calls 40
+*** FLOP *** [Th Qh 6d]
+*** TURN *** [Th Qh 6d] [3h]
+*** RIVER *** [Th Qh 6d 3h] [Js]
+*** SHOW DOWN ***
+winneyd: shows [4h 8c] (high card Queen)
+Marddin L.: shows [5s Qd] (a pair of Queens)
+Marddin L. collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [Th Qh 6d 3h Js]
+Seat 1: Marddin L. (button) showed [5s Qd] and won (180) with a pair of Queens
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: winneyd (big blind) showed [4h 8c] and lost with high card Queen
+
+
+
+PokerStars Hand #249904737537: Tournament #3740201761, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/04/10 21:50:56 CET [2024/04/10 15:50:56 ET]
+Table '3740201761 1' 3-max Seat #2 is the button
+Seat 1: Marddin L. (180 in chips) 
+Seat 2: Mahu2021 (445 in chips) 
+Seat 3: winneyd (875 in chips) 
+winneyd: posts small blind 20
+Marddin L.: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h 2d]
+Mahu2021: folds 
+winneyd: calls 20
+Marddin L.: raises 140 to 180 and is all-in
+winneyd: calls 140
+*** FLOP *** [5d Ad 7h]
+*** TURN *** [5d Ad 7h] [Th]
+*** RIVER *** [5d Ad 7h Th] [6s]
+*** SHOW DOWN ***
+winneyd: shows [Ac 5c] (two pair, Aces and Fives)
+Marddin L.: shows [5h Kd] (a pair of Fives)
+winneyd collected 360 from pot
+Marddin L. finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [5d Ad 7h Th 6s]
+Seat 1: Marddin L. (big blind) showed [5h Kd] and lost with a pair of Fives
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: winneyd (small blind) showed [Ac 5c] and won (360) with two pair, Aces and Fives
+
+
+
+PokerStars Hand #249904743710: Tournament #3740201761, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/04/10 21:51:14 CET [2024/04/10 15:51:14 ET]
+Table '3740201761 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (445 in chips) 
+Seat 3: winneyd (1055 in chips) 
+winneyd: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d 8s]
+winneyd: calls 20
+Mahu2021: checks 
+*** FLOP *** [Ac Kc Td]
+Mahu2021: checks 
+winneyd: checks 
+*** TURN *** [Ac Kc Td] [Qc]
+Mahu2021: bets 40
+winneyd: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Ac Kc Td Qc]
+Seat 2: Mahu2021 (big blind) collected (80)
+Seat 3: winneyd (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #249904748246: Tournament #3740201761, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/04/10 21:51:28 CET [2024/04/10 15:51:28 ET]
+Table '3740201761 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (485 in chips) 
+Seat 3: winneyd (1015 in chips) 
+Mahu2021: posts small blind 20
+winneyd: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd 8c]
+Mahu2021: raises 40 to 80
+winneyd: calls 40
+*** FLOP *** [Tc 2h Qd]
+winneyd: checks 
+Mahu2021: checks 
+*** TURN *** [Tc 2h Qd] [Jd]
+winneyd: checks 
+Mahu2021: bets 40
+winneyd: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 160 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Tc 2h Qd Jd]
+Seat 2: Mahu2021 (button) (small blind) collected (160)
+Seat 3: winneyd (big blind) folded on the Turn
+
+
+
+PokerStars Hand #249904754681: Tournament #3740201761, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/04/10 21:51:47 CET [2024/04/10 15:51:47 ET]
+Table '3740201761 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (565 in chips) 
+Seat 3: winneyd (935 in chips) 
+winneyd: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6h Ad]
+winneyd: calls 20
+Mahu2021: checks 
+*** FLOP *** [Kh Qd 8h]
+Mahu2021: checks 
+winneyd: checks 
+*** TURN *** [Kh Qd 8h] [5c]
+Mahu2021: checks 
+winneyd: checks 
+*** RIVER *** [Kh Qd 8h 5c] [7s]
+Mahu2021: checks 
+winneyd: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [6h Ad] (high card Ace)
+winneyd: shows [5d Jh] (a pair of Fives)
+winneyd collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Kh Qd 8h 5c 7s]
+Seat 2: Mahu2021 (big blind) showed [6h Ad] and lost with high card Ace
+Seat 3: winneyd (button) (small blind) showed [5d Jh] and won (80) with a pair of Fives
+
+
+
+PokerStars Hand #249904760386: Tournament #3740201761, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/04/10 21:52:04 CET [2024/04/10 15:52:04 ET]
+Table '3740201761 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (525 in chips) 
+Seat 3: winneyd (975 in chips) 
+Mahu2021: posts small blind 20
+winneyd: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s 5s]
+Mahu2021: calls 20
+winneyd: checks 
+*** FLOP *** [Jc Ac 9h]
+winneyd: checks 
+Mahu2021: bets 40
+winneyd: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Jc Ac 9h]
+Seat 2: Mahu2021 (button) (small blind) collected (80)
+Seat 3: winneyd (big blind) folded on the Flop
+
+
+
+PokerStars Hand #249904765121: Tournament #3740201761, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/04/10 21:52:18 CET [2024/04/10 15:52:18 ET]
+Table '3740201761 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (565 in chips) 
+Seat 3: winneyd (935 in chips) 
+winneyd: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qs 9h]
+winneyd: calls 20
+Mahu2021: checks 
+*** FLOP *** [5s Ad 3s]
+Mahu2021: checks 
+winneyd: checks 
+*** TURN *** [5s Ad 3s] [2s]
+Mahu2021: checks 
+winneyd: checks 
+*** RIVER *** [5s Ad 3s 2s] [4c]
+Mahu2021: checks 
+winneyd: bets 895 and is all-in
+Mahu2021: folds 
+Uncalled bet (895) returned to winneyd
+winneyd collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [5s Ad 3s 2s 4c]
+Seat 2: Mahu2021 (big blind) folded on the River
+Seat 3: winneyd (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #249904772112: Tournament #3740201761, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/04/10 21:52:39 CET [2024/04/10 15:52:39 ET]
+Table '3740201761 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (525 in chips) 
+Seat 3: winneyd (975 in chips) 
+Mahu2021: posts small blind 30
+winneyd: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kc Qh]
+Mahu2021: raises 60 to 120
+winneyd: calls 60
+*** FLOP *** [2d Ts Ac]
+winneyd: checks 
+Mahu2021: bets 120
+winneyd: folds 
+Uncalled bet (120) returned to Mahu2021
+Mahu2021 collected 240 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [2d Ts Ac]
+Seat 2: Mahu2021 (button) (small blind) collected (240)
+Seat 3: winneyd (big blind) folded on the Flop
+
+
+
+PokerStars Hand #249904776170: Tournament #3740201761, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/04/10 21:52:51 CET [2024/04/10 15:52:51 ET]
+Table '3740201761 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (645 in chips) 
+Seat 3: winneyd (855 in chips) 
+winneyd: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s 5d]
+winneyd: calls 30
+Mahu2021: checks 
+*** FLOP *** [5c 6c 9s]
+Mahu2021: checks 
+winneyd: checks 
+*** TURN *** [5c 6c 9s] [Kh]
+Mahu2021: checks 
+winneyd: bets 60
+Mahu2021: folds 
+Uncalled bet (60) returned to winneyd
+winneyd collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [5c 6c 9s Kh]
+Seat 2: Mahu2021 (big blind) folded on the Turn
+Seat 3: winneyd (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #249904780433: Tournament #3740201761, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/04/10 21:53:03 CET [2024/04/10 15:53:03 ET]
+Table '3740201761 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (585 in chips) 
+Seat 3: winneyd (915 in chips) 
+Mahu2021: posts small blind 30
+winneyd: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d 3s]
+Mahu2021: folds 
+Uncalled bet (30) returned to winneyd
+winneyd collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: winneyd (big blind) collected (60)
+
+
+
+PokerStars Hand #249904782015: Tournament #3740201761, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/04/10 21:53:08 CET [2024/04/10 15:53:08 ET]
+Table '3740201761 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (555 in chips) 
+Seat 3: winneyd (945 in chips) 
+winneyd: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h Jh]
+winneyd: calls 30
+Mahu2021: checks 
+*** FLOP *** [6s 4c 9c]
+Mahu2021: checks 
+winneyd: checks 
+*** TURN *** [6s 4c 9c] [As]
+Mahu2021: checks 
+winneyd: checks 
+*** RIVER *** [6s 4c 9c As] [Ah]
+Mahu2021: checks 
+winneyd: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [7h Jh] (a pair of Aces)
+winneyd: shows [8d Kc] (a pair of Aces - King kicker)
+winneyd collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [6s 4c 9c As Ah]
+Seat 2: Mahu2021 (big blind) showed [7h Jh] and lost with a pair of Aces
+Seat 3: winneyd (button) (small blind) showed [8d Kc] and won (120) with a pair of Aces
+
+
+
+PokerStars Hand #249904786529: Tournament #3740201761, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/04/10 21:53:21 CET [2024/04/10 15:53:21 ET]
+Table '3740201761 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (495 in chips) 
+Seat 3: winneyd (1005 in chips) 
+Mahu2021: posts small blind 30
+winneyd: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh Ks]
+Mahu2021: raises 60 to 120
+winneyd: calls 60
+*** FLOP *** [5d 3c Jc]
+winneyd: checks 
+Mahu2021: bets 375 and is all-in
+winneyd: calls 375
+*** TURN *** [5d 3c Jc] [Qd]
+*** RIVER *** [5d 3c Jc Qd] [7d]
+*** SHOW DOWN ***
+winneyd: shows [Ts Jd] (a pair of Jacks)
+Mahu2021: shows [Jh Ks] (a pair of Jacks - King kicker)
+Mahu2021 collected 990 from pot
+*** SUMMARY ***
+Total pot 990 | Rake 0 
+Board [5d 3c Jc Qd 7d]
+Seat 2: Mahu2021 (button) (small blind) showed [Jh Ks] and won (990) with a pair of Jacks
+Seat 3: winneyd (big blind) showed [Ts Jd] and lost with a pair of Jacks
+
+
+
+PokerStars Hand #249904793730: Tournament #3740201761, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/04/10 21:53:43 CET [2024/04/10 15:53:43 ET]
+Table '3740201761 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (990 in chips) 
+Seat 3: winneyd (510 in chips) 
+winneyd: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d 3c]
+winneyd: calls 30
+Mahu2021: raises 930 to 990 and is all-in
+winneyd: folds 
+Uncalled bet (930) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: Mahu2021 (big blind) collected (120)
+Seat 3: winneyd (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #249904797166: Tournament #3740201761, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/04/10 21:53:53 CET [2024/04/10 15:53:53 ET]
+Table '3740201761 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (1050 in chips) 
+Seat 3: winneyd (450 in chips) 
+Mahu2021: posts small blind 30
+winneyd: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h 7h]
+Mahu2021: calls 30
+winneyd: raises 60 to 120
+Mahu2021: calls 60
+*** FLOP *** [5h Qc Jh]
+winneyd: bets 60
+Mahu2021: raises 870 to 930 and is all-in
+winneyd: calls 270 and is all-in
+Uncalled bet (600) returned to Mahu2021
+*** TURN *** [5h Qc Jh] [3h]
+*** RIVER *** [5h Qc Jh 3h] [5d]
+*** SHOW DOWN ***
+winneyd: shows [9d Ad] (a pair of Fives)
+Mahu2021: shows [4h 7h] (a flush, Jack high)
+Mahu2021 collected 900 from pot
+winneyd finished the tournament in 2nd place
+Mahu2021 wins the tournament and receives $4.00 - congratulations!
+*** SUMMARY ***
+Total pot 900 | Rake 0 
+Board [5h Qc Jh 3h 5d]
+Seat 2: Mahu2021 (button) (small blind) showed [4h 7h] and won (900) with a flush, Jack high
+Seat 3: winneyd (big blind) showed [9d Ad] and lost with a pair of Fives
+
+
+

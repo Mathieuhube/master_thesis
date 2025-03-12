@@ -1,0 +1,200 @@
+﻿PokerStars Hand #247565183958: Tournament #3684192356, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/09 17:17:17 CET [2023/12/09 11:17:17 ET]
+Table '3684192356 1' 3-max Seat #1 is the button
+Seat 1: hiro454 (500 in chips) 
+Seat 2: WiseGuy844 (500 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+WiseGuy844: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h 6d]
+hiro454: calls 20
+WiseGuy844: calls 10
+Mahu2021: checks 
+*** FLOP *** [7s 9s 5d]
+WiseGuy844: bets 60
+Mahu2021: calls 60
+hiro454: folds 
+*** TURN *** [7s 9s 5d] [5s]
+WiseGuy844: bets 420 and is all-in
+Mahu2021: folds 
+Uncalled bet (420) returned to WiseGuy844
+WiseGuy844 collected 180 from pot
+WiseGuy844: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [7s 9s 5d 5s]
+Seat 1: hiro454 (button) folded on the Flop
+Seat 2: WiseGuy844 (small blind) collected (180)
+Seat 3: Mahu2021 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #247565193097: Tournament #3684192356, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/09 17:17:50 CET [2023/12/09 11:17:50 ET]
+Table '3684192356 1' 3-max Seat #2 is the button
+Seat 1: hiro454 (480 in chips) 
+Seat 2: WiseGuy844 (600 in chips) 
+Seat 3: Mahu2021 (420 in chips) 
+Mahu2021: posts small blind 10
+hiro454: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kc 7s]
+WiseGuy844: raises 20 to 40
+Mahu2021: folds 
+hiro454: calls 20
+*** FLOP *** [9c Ks 5h]
+hiro454: checks 
+WiseGuy844: bets 60
+hiro454: folds 
+Uncalled bet (60) returned to WiseGuy844
+WiseGuy844 collected 90 from pot
+WiseGuy844: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [9c Ks 5h]
+Seat 1: hiro454 (big blind) folded on the Flop
+Seat 2: WiseGuy844 (button) collected (90)
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #247565198605: Tournament #3684192356, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/09 17:18:11 CET [2023/12/09 11:18:11 ET]
+Table '3684192356 1' 3-max Seat #3 is the button
+Seat 1: hiro454 (440 in chips) 
+Seat 2: WiseGuy844 (650 in chips) 
+Seat 3: Mahu2021 (410 in chips) 
+hiro454: posts small blind 10
+WiseGuy844: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2s 5c]
+Mahu2021: folds 
+hiro454: calls 10
+WiseGuy844: checks 
+*** FLOP *** [Jc Jd 5h]
+hiro454: checks 
+WiseGuy844: checks 
+*** TURN *** [Jc Jd 5h] [Ac]
+hiro454: checks 
+WiseGuy844: checks 
+*** RIVER *** [Jc Jd 5h Ac] [Td]
+hiro454: checks 
+WiseGuy844: checks 
+*** SHOW DOWN ***
+hiro454: shows [3s 9c] (a pair of Jacks)
+WiseGuy844: shows [5s 9d] (two pair, Jacks and Fives)
+WiseGuy844 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Jc Jd 5h Ac Td]
+Seat 1: hiro454 (small blind) showed [3s 9c] and lost with a pair of Jacks
+Seat 2: WiseGuy844 (big blind) showed [5s 9d] and won (40) with two pair, Jacks and Fives
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #247565211060: Tournament #3684192356, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/09 17:18:56 CET [2023/12/09 11:18:56 ET]
+Table '3684192356 1' 3-max Seat #1 is the button
+Seat 1: hiro454 (420 in chips) 
+Seat 2: WiseGuy844 (670 in chips) 
+Seat 3: Mahu2021 (410 in chips) 
+WiseGuy844: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h 9h]
+hiro454: calls 20
+WiseGuy844: calls 10
+Mahu2021: checks 
+*** FLOP *** [2h 8s Jd]
+WiseGuy844: bets 20
+Mahu2021: calls 20
+hiro454: folds 
+*** TURN *** [2h 8s Jd] [5d]
+WiseGuy844: bets 60
+Mahu2021: calls 60
+*** RIVER *** [2h 8s Jd 5d] [3c]
+WiseGuy844: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+WiseGuy844: shows [9d Tc] (high card Jack)
+Mahu2021: shows [8h 9h] (a pair of Eights)
+Mahu2021 collected 220 from pot
+*** SUMMARY ***
+Total pot 220 | Rake 0 
+Board [2h 8s Jd 5d 3c]
+Seat 1: hiro454 (button) folded on the Flop
+Seat 2: WiseGuy844 (small blind) showed [9d Tc] and lost with high card Jack
+Seat 3: Mahu2021 (big blind) showed [8h 9h] and won (220) with a pair of Eights
+
+
+
+PokerStars Hand #247565225776: Tournament #3684192356, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/12/09 17:19:49 CET [2023/12/09 11:19:49 ET]
+Table '3684192356 1' 3-max Seat #2 is the button
+Seat 1: hiro454 (400 in chips) 
+Seat 2: WiseGuy844 (570 in chips) 
+Seat 3: Mahu2021 (530 in chips) 
+Mahu2021: posts small blind 15
+hiro454: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh 9h]
+WiseGuy844: calls 30
+Mahu2021: calls 15
+hiro454: checks 
+*** FLOP *** [Tc 2s 8d]
+Mahu2021: checks 
+hiro454: checks 
+WiseGuy844: checks 
+*** TURN *** [Tc 2s 8d] [4h]
+Mahu2021: checks 
+hiro454: checks 
+WiseGuy844: checks 
+*** RIVER *** [Tc 2s 8d 4h] [5s]
+Mahu2021: checks 
+hiro454: bets 90
+WiseGuy844: folds 
+Mahu2021: folds 
+Uncalled bet (90) returned to hiro454
+hiro454 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [Tc 2s 8d 4h 5s]
+Seat 1: hiro454 (big blind) collected (90)
+Seat 2: WiseGuy844 (button) folded on the River
+Seat 3: Mahu2021 (small blind) folded on the River
+
+
+
+PokerStars Hand #247565235428: Tournament #3684192356, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/12/09 17:20:25 CET [2023/12/09 11:20:25 ET]
+Table '3684192356 1' 3-max Seat #3 is the button
+Seat 1: hiro454 (460 in chips) 
+Seat 2: WiseGuy844 (540 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+hiro454: posts small blind 15
+WiseGuy844: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js Jh]
+Mahu2021: raises 60 to 90
+hiro454: calls 75
+WiseGuy844: raises 450 to 540 and is all-in
+Mahu2021: calls 410 and is all-in
+hiro454: calls 370 and is all-in
+Uncalled bet (40) returned to WiseGuy844
+*** FLOP *** [3d 9d As]
+*** TURN *** [3d 9d As] [Qc]
+*** RIVER *** [3d 9d As Qc] [3s]
+*** SHOW DOWN ***
+WiseGuy844: shows [Ad Qs] (two pair, Aces and Queens)
+Mahu2021: shows [Js Jh] (two pair, Jacks and Threes)
+WiseGuy844 collected 80 from side pot
+hiro454: shows [Kc 9h] (two pair, Nines and Threes)
+WiseGuy844 collected 1380 from main pot
+Mahu2021 finished the tournament in 2nd place
+hiro454 finished the tournament in 3rd place
+WiseGuy844 wins the tournament and receives $4.00 - congratulations!
+*** SUMMARY ***
+Total pot 1460 Main pot 1380. Side pot 80. | Rake 0 
+Board [3d 9d As Qc 3s]
+Seat 1: hiro454 (small blind) showed [Kc 9h] and lost with two pair, Nines and Threes
+Seat 2: WiseGuy844 (big blind) showed [Ad Qs] and won (1460) with two pair, Aces and Queens
+Seat 3: Mahu2021 (button) showed [Js Jh] and lost with two pair, Jacks and Threes
+
+
+

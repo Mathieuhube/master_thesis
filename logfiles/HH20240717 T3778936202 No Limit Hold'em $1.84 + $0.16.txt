@@ -1,0 +1,698 @@
+﻿PokerStars Hand #251536413362: Tournament #3778936202, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/07/17 21:17:55 CET [2024/07/17 15:17:55 ET]
+Table '3778936202 1' 3-max Seat #1 is the button
+Seat 1: pocone04 (500 in chips) 
+Seat 2: stebourke11 (500 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+stebourke11: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qd 7s]
+pocone04: raises 20 to 40
+stebourke11: calls 30
+Mahu2021: calls 20
+*** FLOP *** [4h Ad 2h]
+stebourke11: bets 120
+Mahu2021: folds 
+pocone04: calls 120
+*** TURN *** [4h Ad 2h] [9s]
+stebourke11: bets 140
+pocone04: raises 200 to 340 and is all-in
+stebourke11: calls 200 and is all-in
+*** RIVER *** [4h Ad 2h 9s] [8c]
+*** SHOW DOWN ***
+stebourke11: shows [Qh Ah] (a pair of Aces)
+pocone04: shows [Jh As] (a pair of Aces - lower kicker)
+stebourke11 collected 1040 from pot
+pocone04 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1040 | Rake 0 
+Board [4h Ad 2h 9s 8c]
+Seat 1: pocone04 (button) showed [Jh As] and lost with a pair of Aces
+Seat 2: stebourke11 (small blind) showed [Qh Ah] and won (1040) with a pair of Aces
+Seat 3: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #251536426009: Tournament #3778936202, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/07/17 21:18:37 CET [2024/07/17 15:18:37 ET]
+Table '3778936202 1' 3-max Seat #3 is the button
+Seat 2: stebourke11 (1040 in chips) 
+Seat 3: Mahu2021 (460 in chips) 
+Mahu2021: posts small blind 10
+stebourke11: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kc Qd]
+Mahu2021: raises 20 to 40
+stebourke11: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: stebourke11 (big blind) folded before Flop
+Seat 3: Mahu2021 (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #251536429193: Tournament #3778936202, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/07/17 21:18:48 CET [2024/07/17 15:18:48 ET]
+Table '3778936202 1' 3-max Seat #2 is the button
+Seat 2: stebourke11 (1020 in chips) 
+Seat 3: Mahu2021 (480 in chips) 
+stebourke11: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts Jh]
+stebourke11: calls 10
+Mahu2021: checks 
+*** FLOP *** [6s 9h 7d]
+Mahu2021: checks 
+stebourke11: bets 20
+Mahu2021: calls 20
+*** TURN *** [6s 9h 7d] [Kd]
+Mahu2021: checks 
+stebourke11: checks 
+*** RIVER *** [6s 9h 7d Kd] [3c]
+Mahu2021: checks 
+stebourke11: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [Ts Jh] (high card King)
+stebourke11: mucks hand 
+Mahu2021 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [6s 9h 7d Kd 3c]
+Seat 2: stebourke11 (button) (small blind) mucked [4d 8h]
+Seat 3: Mahu2021 (big blind) showed [Ts Jh] and won (80) with high card King
+
+
+
+PokerStars Hand #251536434788: Tournament #3778936202, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/07/17 21:19:07 CET [2024/07/17 15:19:07 ET]
+Table '3778936202 1' 3-max Seat #3 is the button
+Seat 2: stebourke11 (980 in chips) 
+Seat 3: Mahu2021 (520 in chips) 
+Mahu2021: posts small blind 10
+stebourke11: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As 9c]
+Mahu2021: raises 20 to 40
+stebourke11: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: stebourke11 (big blind) folded before Flop
+Seat 3: Mahu2021 (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #251536439903: Tournament #3778936202, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/07/17 21:19:24 CET [2024/07/17 15:19:24 ET]
+Table '3778936202 1' 3-max Seat #2 is the button
+Seat 2: stebourke11 (960 in chips) 
+Seat 3: Mahu2021 (540 in chips) 
+stebourke11: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d Tc]
+stebourke11: calls 10
+Mahu2021: checks 
+*** FLOP *** [Ks 3d 5c]
+Mahu2021: checks 
+stebourke11: checks 
+*** TURN *** [Ks 3d 5c] [7c]
+Mahu2021: checks 
+stebourke11: checks 
+*** RIVER *** [Ks 3d 5c 7c] [6h]
+Mahu2021: bets 20
+stebourke11: raises 20 to 40
+Mahu2021: calls 20
+*** SHOW DOWN ***
+stebourke11: shows [4h Qh] (a straight, Three to Seven)
+Mahu2021: mucks hand 
+stebourke11 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Ks 3d 5c 7c 6h]
+Seat 2: stebourke11 (button) (small blind) showed [4h Qh] and won (120) with a straight, Three to Seven
+Seat 3: Mahu2021 (big blind) mucked [5d Tc]
+
+
+
+PokerStars Hand #251536445144: Tournament #3778936202, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/07/17 21:19:41 CET [2024/07/17 15:19:41 ET]
+Table '3778936202 1' 3-max Seat #3 is the button
+Seat 2: stebourke11 (1020 in chips) 
+Seat 3: Mahu2021 (480 in chips) 
+Mahu2021: posts small blind 10
+stebourke11: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c 7h]
+Mahu2021: folds 
+Uncalled bet (10) returned to stebourke11
+stebourke11 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 2: stebourke11 (big blind) collected (20)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #251536446485: Tournament #3778936202, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/07/17 21:19:45 CET [2024/07/17 15:19:45 ET]
+Table '3778936202 1' 3-max Seat #2 is the button
+Seat 2: stebourke11 (1030 in chips) 
+Seat 3: Mahu2021 (470 in chips) 
+stebourke11: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Td 2d]
+stebourke11: calls 10
+Mahu2021: checks 
+*** FLOP *** [8h Jc Qs]
+Mahu2021: checks 
+stebourke11: checks 
+*** TURN *** [8h Jc Qs] [Th]
+Mahu2021: checks 
+stebourke11: checks 
+*** RIVER *** [8h Jc Qs Th] [4c]
+Mahu2021: bets 20
+stebourke11: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [8h Jc Qs Th 4c]
+Seat 2: stebourke11 (button) (small blind) folded on the River
+Seat 3: Mahu2021 (big blind) collected (40)
+
+
+
+PokerStars Hand #251536451860: Tournament #3778936202, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/07/17 21:20:02 CET [2024/07/17 15:20:02 ET]
+Table '3778936202 1' 3-max Seat #3 is the button
+Seat 2: stebourke11 (1010 in chips) 
+Seat 3: Mahu2021 (490 in chips) 
+Mahu2021: posts small blind 15
+stebourke11: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c Th]
+Mahu2021: calls 15
+stebourke11: checks 
+*** FLOP *** [Qc 5s 3c]
+stebourke11: checks 
+Mahu2021: checks 
+*** TURN *** [Qc 5s 3c] [8h]
+stebourke11: checks 
+Mahu2021: checks 
+*** RIVER *** [Qc 5s 3c 8h] [7s]
+stebourke11: checks 
+Mahu2021: bets 30
+stebourke11: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Qc 5s 3c 8h 7s]
+Seat 2: stebourke11 (big blind) folded on the River
+Seat 3: Mahu2021 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #251536456427: Tournament #3778936202, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/07/17 21:20:18 CET [2024/07/17 15:20:18 ET]
+Table '3778936202 1' 3-max Seat #2 is the button
+Seat 2: stebourke11 (980 in chips) 
+Seat 3: Mahu2021 (520 in chips) 
+stebourke11: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s Jh]
+stebourke11: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 2: stebourke11 (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (30)
+
+
+
+PokerStars Hand #251536457871: Tournament #3778936202, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/07/17 21:20:22 CET [2024/07/17 15:20:22 ET]
+Table '3778936202 1' 3-max Seat #3 is the button
+Seat 2: stebourke11 (965 in chips) 
+Seat 3: Mahu2021 (535 in chips) 
+Mahu2021: posts small blind 15
+stebourke11: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Th Ad]
+Mahu2021: raises 60 to 90
+stebourke11: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: stebourke11 (big blind) folded before Flop
+Seat 3: Mahu2021 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #251536459851: Tournament #3778936202, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/07/17 21:20:29 CET [2024/07/17 15:20:29 ET]
+Table '3778936202 1' 3-max Seat #2 is the button
+Seat 2: stebourke11 (935 in chips) 
+Seat 3: Mahu2021 (565 in chips) 
+stebourke11: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8s 9h]
+stebourke11: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 2: stebourke11 (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (30)
+
+
+
+PokerStars Hand #251536461196: Tournament #3778936202, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/07/17 21:20:33 CET [2024/07/17 15:20:33 ET]
+Table '3778936202 1' 3-max Seat #3 is the button
+Seat 2: stebourke11 (920 in chips) 
+Seat 3: Mahu2021 (580 in chips) 
+Mahu2021: posts small blind 15
+stebourke11: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h Ks]
+Mahu2021: calls 15
+stebourke11: raises 30 to 60
+Mahu2021: calls 30
+*** FLOP *** [Ts Js Qc]
+stebourke11: checks 
+Mahu2021: bets 60
+stebourke11: raises 60 to 120
+Mahu2021: calls 60
+*** TURN *** [Ts Js Qc] [Kd]
+stebourke11: bets 740 and is all-in
+Mahu2021: folds 
+Uncalled bet (740) returned to stebourke11
+stebourke11 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [Ts Js Qc Kd]
+Seat 2: stebourke11 (big blind) collected (360)
+Seat 3: Mahu2021 (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #251536467029: Tournament #3778936202, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/07/17 21:20:53 CET [2024/07/17 15:20:53 ET]
+Table '3778936202 1' 3-max Seat #2 is the button
+Seat 2: stebourke11 (1100 in chips) 
+Seat 3: Mahu2021 (400 in chips) 
+stebourke11: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d Td]
+stebourke11: calls 15
+Mahu2021: checks 
+*** FLOP *** [Tc 8d Qh]
+Mahu2021: checks 
+stebourke11: checks 
+*** TURN *** [Tc 8d Qh] [7d]
+Mahu2021: checks 
+stebourke11: checks 
+*** RIVER *** [Tc 8d Qh 7d] [Kh]
+Mahu2021: bets 60
+stebourke11: calls 60
+*** SHOW DOWN ***
+Mahu2021: shows [9d Td] (a pair of Tens)
+stebourke11: shows [6s Ks] (a pair of Kings)
+stebourke11 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [Tc 8d Qh 7d Kh]
+Seat 2: stebourke11 (button) (small blind) showed [6s Ks] and won (180) with a pair of Kings
+Seat 3: Mahu2021 (big blind) showed [9d Td] and lost with a pair of Tens
+
+
+
+PokerStars Hand #251536471968: Tournament #3778936202, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/07/17 21:21:09 CET [2024/07/17 15:21:09 ET]
+Table '3778936202 1' 3-max Seat #3 is the button
+Seat 2: stebourke11 (1190 in chips) 
+Seat 3: Mahu2021 (310 in chips) 
+Mahu2021: posts small blind 15
+stebourke11: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah Qs]
+Mahu2021: raises 30 to 60
+stebourke11: calls 30
+*** FLOP *** [8d 6d Kd]
+stebourke11: bets 30
+Mahu2021: folds 
+Uncalled bet (30) returned to stebourke11
+stebourke11 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [8d 6d Kd]
+Seat 2: stebourke11 (big blind) collected (120)
+Seat 3: Mahu2021 (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #251536475039: Tournament #3778936202, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/07/17 21:21:19 CET [2024/07/17 15:21:19 ET]
+Table '3778936202 1' 3-max Seat #2 is the button
+Seat 2: stebourke11 (1250 in chips) 
+Seat 3: Mahu2021 (250 in chips) 
+stebourke11: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6h Ts]
+stebourke11: calls 15
+Mahu2021: checks 
+*** FLOP *** [8s 3c 9s]
+Mahu2021: checks 
+stebourke11: checks 
+*** TURN *** [8s 3c 9s] [Qh]
+Mahu2021: checks 
+stebourke11: checks 
+*** RIVER *** [8s 3c 9s Qh] [Kc]
+Mahu2021: checks 
+stebourke11: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [6h Ts] (high card King)
+stebourke11: shows [Jd 3d] (a pair of Threes)
+stebourke11 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [8s 3c 9s Qh Kc]
+Seat 2: stebourke11 (button) (small blind) showed [Jd 3d] and won (60) with a pair of Threes
+Seat 3: Mahu2021 (big blind) showed [6h Ts] and lost with high card King
+
+
+
+PokerStars Hand #251536478854: Tournament #3778936202, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/07/17 21:21:32 CET [2024/07/17 15:21:32 ET]
+Table '3778936202 1' 3-max Seat #3 is the button
+Seat 2: stebourke11 (1280 in chips) 
+Seat 3: Mahu2021 (220 in chips) 
+Mahu2021: posts small blind 15
+stebourke11: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s Td]
+Mahu2021: calls 15
+stebourke11: checks 
+*** FLOP *** [4h 3s 8c]
+stebourke11: checks 
+Mahu2021: checks 
+*** TURN *** [4h 3s 8c] [Jc]
+stebourke11: checks 
+Mahu2021: checks 
+*** RIVER *** [4h 3s 8c Jc] [9c]
+stebourke11: checks 
+Mahu2021: bets 190 and is all-in
+stebourke11: folds 
+Uncalled bet (190) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [4h 3s 8c Jc 9c]
+Seat 2: stebourke11 (big blind) folded on the River
+Seat 3: Mahu2021 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #251536483371: Tournament #3778936202, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/07/17 21:21:47 CET [2024/07/17 15:21:47 ET]
+Table '3778936202 1' 3-max Seat #2 is the button
+Seat 2: stebourke11 (1250 in chips) 
+Seat 3: Mahu2021 (250 in chips) 
+stebourke11: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd 3s]
+stebourke11: calls 15
+Mahu2021: checks 
+*** FLOP *** [4c 4d 3c]
+Mahu2021: bets 220 and is all-in
+stebourke11: folds 
+Uncalled bet (220) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [4c 4d 3c]
+Seat 2: stebourke11 (button) (small blind) folded on the Flop
+Seat 3: Mahu2021 (big blind) collected (60)
+
+
+
+PokerStars Hand #251536487568: Tournament #3778936202, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/07/17 21:22:01 CET [2024/07/17 15:22:01 ET]
+Table '3778936202 1' 3-max Seat #3 is the button
+Seat 2: stebourke11 (1220 in chips) 
+Seat 3: Mahu2021 (280 in chips) 
+Mahu2021: posts small blind 20
+stebourke11: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac 3d]
+Mahu2021: raises 240 to 280 and is all-in
+stebourke11: calls 240
+*** FLOP *** [5d Ah Tc]
+*** TURN *** [5d Ah Tc] [8h]
+*** RIVER *** [5d Ah Tc 8h] [Jh]
+*** SHOW DOWN ***
+stebourke11: shows [Ad 6d] (a pair of Aces)
+Mahu2021: shows [Ac 3d] (a pair of Aces)
+stebourke11 collected 280 from pot
+Mahu2021 collected 280 from pot
+*** SUMMARY ***
+Total pot 560 | Rake 0 
+Board [5d Ah Tc 8h Jh]
+Seat 2: stebourke11 (big blind) showed [Ad 6d] and won (280) with a pair of Aces
+Seat 3: Mahu2021 (button) (small blind) showed [Ac 3d] and won (280) with a pair of Aces
+
+
+
+PokerStars Hand #251536491468: Tournament #3778936202, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/07/17 21:22:14 CET [2024/07/17 15:22:14 ET]
+Table '3778936202 1' 3-max Seat #2 is the button
+Seat 2: stebourke11 (1220 in chips) 
+Seat 3: Mahu2021 (280 in chips) 
+stebourke11: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh Js]
+stebourke11: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: stebourke11 (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (40)
+
+
+
+PokerStars Hand #251536494887: Tournament #3778936202, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/07/17 21:22:25 CET [2024/07/17 15:22:25 ET]
+Table '3778936202 1' 3-max Seat #3 is the button
+Seat 2: stebourke11 (1200 in chips) 
+Seat 3: Mahu2021 (300 in chips) 
+Mahu2021: posts small blind 20
+stebourke11: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac Js]
+Mahu2021: raises 40 to 80
+stebourke11: calls 40
+*** FLOP *** [5h 4h 6c]
+stebourke11: checks 
+Mahu2021: bets 220 and is all-in
+stebourke11: folds 
+Uncalled bet (220) returned to Mahu2021
+Mahu2021 collected 160 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [5h 4h 6c]
+Seat 2: stebourke11 (big blind) folded on the Flop
+Seat 3: Mahu2021 (button) (small blind) collected (160)
+
+
+
+PokerStars Hand #251536498529: Tournament #3778936202, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/07/17 21:22:37 CET [2024/07/17 15:22:37 ET]
+Table '3778936202 1' 3-max Seat #2 is the button
+Seat 2: stebourke11 (1120 in chips) 
+Seat 3: Mahu2021 (380 in chips) 
+stebourke11: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s Qh]
+stebourke11: calls 20
+Mahu2021: checks 
+*** FLOP *** [6c 2d 2h]
+Mahu2021: bets 340 and is all-in
+stebourke11: folds 
+Uncalled bet (340) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [6c 2d 2h]
+Seat 2: stebourke11 (button) (small blind) folded on the Flop
+Seat 3: Mahu2021 (big blind) collected (80)
+
+
+
+PokerStars Hand #251536503583: Tournament #3778936202, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/07/17 21:22:54 CET [2024/07/17 15:22:54 ET]
+Table '3778936202 1' 3-max Seat #3 is the button
+Seat 2: stebourke11 (1080 in chips) 
+Seat 3: Mahu2021 (420 in chips) 
+Mahu2021: posts small blind 20
+stebourke11: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc Ks]
+Mahu2021: calls 20
+stebourke11: checks 
+*** FLOP *** [7c Td 5d]
+stebourke11: checks 
+Mahu2021: bets 40
+stebourke11: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [7c Td 5d]
+Seat 2: stebourke11 (big blind) folded on the Flop
+Seat 3: Mahu2021 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #251536510746: Tournament #3778936202, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/07/17 21:23:18 CET [2024/07/17 15:23:18 ET]
+Table '3778936202 1' 3-max Seat #2 is the button
+Seat 2: stebourke11 (1040 in chips) 
+Seat 3: Mahu2021 (460 in chips) 
+stebourke11: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc Ad]
+stebourke11: calls 20
+Mahu2021: raises 80 to 120
+stebourke11: calls 80
+*** FLOP *** [4s 6d Qc]
+Mahu2021: checks 
+stebourke11: checks 
+*** TURN *** [4s 6d Qc] [6s]
+Mahu2021: bets 120
+stebourke11: folds 
+Uncalled bet (120) returned to Mahu2021
+Mahu2021 collected 240 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [4s 6d Qc 6s]
+Seat 2: stebourke11 (button) (small blind) folded on the Turn
+Seat 3: Mahu2021 (big blind) collected (240)
+
+
+
+PokerStars Hand #251536518407: Tournament #3778936202, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/07/17 21:23:43 CET [2024/07/17 15:23:43 ET]
+Table '3778936202 1' 3-max Seat #3 is the button
+Seat 2: stebourke11 (920 in chips) 
+Seat 3: Mahu2021 (580 in chips) 
+Mahu2021: posts small blind 20
+stebourke11: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Td 7s]
+Mahu2021: calls 20
+stebourke11: checks 
+*** FLOP *** [6h 5s 8s]
+stebourke11: bets 40
+Mahu2021: calls 40
+*** TURN *** [6h 5s 8s] [Qc]
+stebourke11: bets 160
+Mahu2021: calls 160
+*** RIVER *** [6h 5s 8s Qc] [3s]
+stebourke11: bets 680 and is all-in
+Mahu2021: folds 
+Uncalled bet (680) returned to stebourke11
+stebourke11 collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Board [6h 5s 8s Qc 3s]
+Seat 2: stebourke11 (big blind) collected (480)
+Seat 3: Mahu2021 (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #251536529916: Tournament #3778936202, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/07/17 21:24:22 CET [2024/07/17 15:24:22 ET]
+Table '3778936202 1' 3-max Seat #2 is the button
+Seat 2: stebourke11 (1160 in chips) 
+Seat 3: Mahu2021 (340 in chips) 
+stebourke11: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah 6d]
+stebourke11: raises 60 to 120
+Mahu2021: raises 220 to 340 and is all-in
+stebourke11: calls 220
+*** FLOP *** [Qc 3h 8s]
+*** TURN *** [Qc 3h 8s] [Qh]
+*** RIVER *** [Qc 3h 8s Qh] [4d]
+*** SHOW DOWN ***
+Mahu2021: shows [Ah 6d] (a pair of Queens)
+stebourke11: shows [Jd Kh] (a pair of Queens - lower kicker)
+Mahu2021 collected 680 from pot
+*** SUMMARY ***
+Total pot 680 | Rake 0 
+Board [Qc 3h 8s Qh 4d]
+Seat 2: stebourke11 (button) (small blind) showed [Jd Kh] and lost with a pair of Queens
+Seat 3: Mahu2021 (big blind) showed [Ah 6d] and won (680) with a pair of Queens
+
+
+
+PokerStars Hand #251536535091: Tournament #3778936202, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/07/17 21:24:39 CET [2024/07/17 15:24:39 ET]
+Table '3778936202 1' 3-max Seat #3 is the button
+Seat 2: stebourke11 (820 in chips) 
+Seat 3: Mahu2021 (680 in chips) 
+Mahu2021: posts small blind 30
+stebourke11: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh Qs]
+Mahu2021: calls 30
+stebourke11: checks 
+*** FLOP *** [7d 4d Ah]
+stebourke11: bets 60
+Mahu2021: folds 
+Uncalled bet (60) returned to stebourke11
+stebourke11 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [7d 4d Ah]
+Seat 2: stebourke11 (big blind) collected (120)
+Seat 3: Mahu2021 (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #251536539831: Tournament #3778936202, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/07/17 21:24:54 CET [2024/07/17 15:24:54 ET]
+Table '3778936202 1' 3-max Seat #2 is the button
+Seat 2: stebourke11 (880 in chips) 
+Seat 3: Mahu2021 (620 in chips) 
+stebourke11: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4c 4h]
+stebourke11: raises 120 to 180
+Mahu2021: raises 440 to 620 and is all-in
+stebourke11: calls 440
+*** FLOP *** [Qs 7s Kd]
+*** TURN *** [Qs 7s Kd] [Ad]
+*** RIVER *** [Qs 7s Kd Ad] [Qc]
+*** SHOW DOWN ***
+Mahu2021: shows [4c 4h] (two pair, Queens and Fours)
+stebourke11: shows [5d 5h] (two pair, Queens and Fives)
+stebourke11 collected 1240 from pot
+Mahu2021 finished the tournament in 2nd place
+stebourke11 wins the tournament and receives $4.00 - congratulations!
+*** SUMMARY ***
+Total pot 1240 | Rake 0 
+Board [Qs 7s Kd Ad Qc]
+Seat 2: stebourke11 (button) (small blind) showed [5d 5h] and won (1240) with two pair, Queens and Fives
+Seat 3: Mahu2021 (big blind) showed [4c 4h] and lost with two pair, Queens and Fours
+
+
+

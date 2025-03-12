@@ -1,0 +1,988 @@
+﻿PokerStars Hand #242957769671: Tournament #3573947418, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/08 8:59:11 CET [2023/04/08 2:59:11 ET]
+Table '3573947418 1' 3-max Seat #1 is the button
+Seat 1: RobAyv (500 in chips) 
+Seat 2: QUWERKS (500 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+QUWERKS: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2c 6c]
+RobAyv: calls 20
+QUWERKS: folds 
+Mahu2021: checks 
+*** FLOP *** [Th 3d Tc]
+Mahu2021: checks 
+RobAyv: checks 
+*** TURN *** [Th 3d Tc] [6d]
+Mahu2021: bets 20
+RobAyv: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 50 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [Th 3d Tc 6d]
+Seat 1: RobAyv (button) folded on the Turn
+Seat 2: QUWERKS (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (50)
+
+
+
+PokerStars Hand #242957771074: Tournament #3573947418, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/08 8:59:24 CET [2023/04/08 2:59:24 ET]
+Table '3573947418 1' 3-max Seat #2 is the button
+Seat 1: RobAyv (480 in chips) 
+Seat 2: QUWERKS (490 in chips) 
+Seat 3: Mahu2021 (530 in chips) 
+Mahu2021: posts small blind 10
+RobAyv: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d 9s]
+QUWERKS: calls 20
+Mahu2021: folds 
+RobAyv: checks 
+*** FLOP *** [4s 6c 8s]
+RobAyv: checks 
+QUWERKS: checks 
+*** TURN *** [4s 6c 8s] [5d]
+RobAyv: bets 20
+QUWERKS: calls 20
+*** RIVER *** [4s 6c 8s 5d] [6s]
+RobAyv: bets 80
+QUWERKS: calls 80
+*** SHOW DOWN ***
+RobAyv: shows [7h Tc] (a straight, Four to Eight)
+QUWERKS: shows [Qs Ks] (a flush, King high)
+QUWERKS collected 250 from pot
+*** SUMMARY ***
+Total pot 250 | Rake 0 
+Board [4s 6c 8s 5d 6s]
+Seat 1: RobAyv (big blind) showed [7h Tc] and lost with a straight, Four to Eight
+Seat 2: QUWERKS (button) showed [Qs Ks] and won (250) with a flush, King high
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #242957773067: Tournament #3573947418, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/08 8:59:43 CET [2023/04/08 2:59:43 ET]
+Table '3573947418 1' 3-max Seat #3 is the button
+Seat 1: RobAyv (360 in chips) 
+Seat 2: QUWERKS (620 in chips) 
+Seat 3: Mahu2021 (520 in chips) 
+RobAyv: posts small blind 10
+QUWERKS: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc 7h]
+Mahu2021: folds 
+RobAyv: calls 10
+QUWERKS: checks 
+*** FLOP *** [As 9d Kh]
+RobAyv: checks 
+QUWERKS: checks 
+*** TURN *** [As 9d Kh] [4c]
+RobAyv: checks 
+QUWERKS: checks 
+*** RIVER *** [As 9d Kh 4c] [4h]
+RobAyv: checks 
+QUWERKS: checks 
+*** SHOW DOWN ***
+RobAyv: shows [2h 3s] (a pair of Fours)
+QUWERKS: shows [2c 7d] (a pair of Fours)
+RobAyv collected 20 from pot
+QUWERKS collected 20 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [As 9d Kh 4c 4h]
+Seat 1: RobAyv (small blind) showed [2h 3s] and won (20) with a pair of Fours
+Seat 2: QUWERKS (big blind) showed [2c 7d] and won (20) with a pair of Fours
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #242957774802: Tournament #3573947418, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/08 8:59:58 CET [2023/04/08 2:59:58 ET]
+Table '3573947418 1' 3-max Seat #1 is the button
+Seat 1: RobAyv (360 in chips) 
+Seat 2: QUWERKS (620 in chips) 
+Seat 3: Mahu2021 (520 in chips) 
+QUWERKS: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd 4s]
+RobAyv: calls 20
+QUWERKS: calls 10
+Mahu2021: checks 
+*** FLOP *** [5h 7d Ks]
+QUWERKS: checks 
+Mahu2021: checks 
+RobAyv: bets 20
+QUWERKS: folds 
+Mahu2021: folds 
+Uncalled bet (20) returned to RobAyv
+RobAyv collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [5h 7d Ks]
+Seat 1: RobAyv (button) collected (60)
+Seat 2: QUWERKS (small blind) folded on the Flop
+Seat 3: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #242957776494: Tournament #3573947418, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/08 9:00:13 CET [2023/04/08 3:00:13 ET]
+Table '3573947418 1' 3-max Seat #2 is the button
+Seat 1: RobAyv (400 in chips) 
+Seat 2: QUWERKS (600 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+Mahu2021: posts small blind 10
+RobAyv: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d 9d]
+QUWERKS: calls 20
+Mahu2021: calls 10
+RobAyv: raises 380 to 400 and is all-in
+QUWERKS: folds 
+Mahu2021: folds 
+Uncalled bet (380) returned to RobAyv
+RobAyv collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: RobAyv (big blind) collected (60)
+Seat 2: QUWERKS (button) folded before Flop
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #242957777479: Tournament #3573947418, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/08 9:00:22 CET [2023/04/08 3:00:22 ET]
+Table '3573947418 1' 3-max Seat #3 is the button
+Seat 1: RobAyv (440 in chips) 
+Seat 2: QUWERKS (580 in chips) 
+Seat 3: Mahu2021 (480 in chips) 
+RobAyv: posts small blind 10
+QUWERKS: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d 2c]
+Mahu2021: folds 
+RobAyv: calls 10
+QUWERKS: checks 
+*** FLOP *** [9s 4c 9h]
+RobAyv: checks 
+QUWERKS: checks 
+*** TURN *** [9s 4c 9h] [2s]
+RobAyv: checks 
+QUWERKS: checks 
+*** RIVER *** [9s 4c 9h 2s] [6s]
+RobAyv: checks 
+QUWERKS: checks 
+*** SHOW DOWN ***
+RobAyv: shows [Tc 7d] (a pair of Nines)
+QUWERKS: shows [Qd As] (a pair of Nines - Ace kicker)
+QUWERKS collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [9s 4c 9h 2s 6s]
+Seat 1: RobAyv (small blind) showed [Tc 7d] and lost with a pair of Nines
+Seat 2: QUWERKS (big blind) showed [Qd As] and won (40) with a pair of Nines
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #242957779318: Tournament #3573947418, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/08 9:00:38 CET [2023/04/08 3:00:38 ET]
+Table '3573947418 1' 3-max Seat #1 is the button
+Seat 1: RobAyv (420 in chips) 
+Seat 2: QUWERKS (600 in chips) 
+Seat 3: Mahu2021 (480 in chips) 
+QUWERKS: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts 2s]
+RobAyv: raises 20 to 40
+QUWERKS: calls 30
+Mahu2021: calls 20
+*** FLOP *** [Jh 9h Qc]
+QUWERKS: checks 
+Mahu2021: checks 
+RobAyv: checks 
+*** TURN *** [Jh 9h Qc] [8c]
+QUWERKS: bets 60
+Mahu2021: calls 60
+RobAyv: folds 
+*** RIVER *** [Jh 9h Qc 8c] [6h]
+QUWERKS: checks 
+Mahu2021: bets 240
+QUWERKS: folds 
+Uncalled bet (240) returned to Mahu2021
+Mahu2021 collected 240 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Jh 9h Qc 8c 6h]
+Seat 1: RobAyv (button) folded on the Turn
+Seat 2: QUWERKS (small blind) folded on the River
+Seat 3: Mahu2021 (big blind) collected (240)
+
+
+
+PokerStars Hand #242957782204: Tournament #3573947418, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/08 9:01:02 CET [2023/04/08 3:01:02 ET]
+Table '3573947418 1' 3-max Seat #2 is the button
+Seat 1: RobAyv (380 in chips) 
+Seat 2: QUWERKS (500 in chips) 
+Seat 3: Mahu2021 (620 in chips) 
+Mahu2021: posts small blind 10
+RobAyv: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h Ac]
+QUWERKS: folds 
+Mahu2021: calls 10
+RobAyv: checks 
+*** FLOP *** [Ad As 7h]
+Mahu2021: checks 
+RobAyv: checks 
+*** TURN *** [Ad As 7h] [8d]
+Mahu2021: checks 
+RobAyv: bets 20
+Mahu2021: calls 20
+*** RIVER *** [Ad As 7h 8d] [2h]
+Mahu2021: bets 20
+RobAyv: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Ad As 7h 8d 2h]
+Seat 1: RobAyv (big blind) folded on the River
+Seat 2: QUWERKS (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) collected (80)
+
+
+
+PokerStars Hand #242957784849: Tournament #3573947418, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/08 9:01:24 CET [2023/04/08 3:01:24 ET]
+Table '3573947418 1' 3-max Seat #3 is the button
+Seat 1: RobAyv (340 in chips) 
+Seat 2: QUWERKS (500 in chips) 
+Seat 3: Mahu2021 (660 in chips) 
+RobAyv: posts small blind 15
+QUWERKS: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4c 4h]
+Mahu2021: raises 630 to 660 and is all-in
+RobAyv: folds 
+QUWERKS: folds 
+Uncalled bet (630) returned to Mahu2021
+Mahu2021 collected 75 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: RobAyv (small blind) folded before Flop
+Seat 2: QUWERKS (big blind) folded before Flop
+Seat 3: Mahu2021 (button) collected (75)
+
+
+
+PokerStars Hand #242957785850: Tournament #3573947418, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/08 9:01:33 CET [2023/04/08 3:01:33 ET]
+Table '3573947418 1' 3-max Seat #1 is the button
+Seat 1: RobAyv (325 in chips) 
+Seat 2: QUWERKS (470 in chips) 
+Seat 3: Mahu2021 (705 in chips) 
+QUWERKS: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s Tc]
+RobAyv: folds 
+QUWERKS: calls 15
+Mahu2021: checks 
+*** FLOP *** [5c 9s 3c]
+QUWERKS: checks 
+Mahu2021: checks 
+*** TURN *** [5c 9s 3c] [Kh]
+QUWERKS: bets 30
+Mahu2021: folds 
+Uncalled bet (30) returned to QUWERKS
+QUWERKS collected 60 from pot
+QUWERKS: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [5c 9s 3c Kh]
+Seat 1: RobAyv (button) folded before Flop (didn't bet)
+Seat 2: QUWERKS (small blind) collected (60)
+Seat 3: Mahu2021 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #242957787659: Tournament #3573947418, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/08 9:01:47 CET [2023/04/08 3:01:47 ET]
+Table '3573947418 1' 3-max Seat #2 is the button
+Seat 1: RobAyv (325 in chips) 
+Seat 2: QUWERKS (500 in chips) 
+Seat 3: Mahu2021 (675 in chips) 
+Mahu2021: posts small blind 15
+RobAyv: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h 2d]
+QUWERKS: calls 30
+Mahu2021: calls 15
+RobAyv: checks 
+*** FLOP *** [Ad Td Ks]
+Mahu2021: checks 
+RobAyv: checks 
+QUWERKS: checks 
+*** TURN *** [Ad Td Ks] [9h]
+Mahu2021: bets 30
+RobAyv: folds 
+QUWERKS: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 90 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [Ad Td Ks 9h]
+Seat 1: RobAyv (big blind) folded on the Turn
+Seat 2: QUWERKS (button) folded on the Turn
+Seat 3: Mahu2021 (small blind) collected (90)
+
+
+
+PokerStars Hand #242957789751: Tournament #3573947418, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/08 9:02:05 CET [2023/04/08 3:02:05 ET]
+Table '3573947418 1' 3-max Seat #3 is the button
+Seat 1: RobAyv (295 in chips) 
+Seat 2: QUWERKS (470 in chips) 
+Seat 3: Mahu2021 (735 in chips) 
+RobAyv: posts small blind 15
+QUWERKS: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc 9c]
+Mahu2021: raises 30 to 60
+RobAyv: raises 235 to 295 and is all-in
+QUWERKS: folds 
+Mahu2021: folds 
+Uncalled bet (235) returned to RobAyv
+RobAyv collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Seat 1: RobAyv (small blind) collected (150)
+Seat 2: QUWERKS (big blind) folded before Flop
+Seat 3: Mahu2021 (button) folded before Flop
+
+
+
+PokerStars Hand #242957791177: Tournament #3573947418, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/08 9:02:16 CET [2023/04/08 3:02:16 ET]
+Table '3573947418 1' 3-max Seat #1 is the button
+Seat 1: RobAyv (385 in chips) 
+Seat 2: QUWERKS (440 in chips) 
+Seat 3: Mahu2021 (675 in chips) 
+QUWERKS: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh Js]
+RobAyv: folds 
+QUWERKS: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: RobAyv (button) folded before Flop (didn't bet)
+Seat 2: QUWERKS (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (30)
+
+
+
+PokerStars Hand #242957791824: Tournament #3573947418, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/08 9:02:22 CET [2023/04/08 3:02:22 ET]
+Table '3573947418 1' 3-max Seat #2 is the button
+Seat 1: RobAyv (385 in chips) 
+Seat 2: QUWERKS (425 in chips) 
+Seat 3: Mahu2021 (690 in chips) 
+Mahu2021: posts small blind 15
+RobAyv: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qd 9d]
+QUWERKS: calls 30
+Mahu2021: calls 15
+RobAyv: checks 
+*** FLOP *** [5h Js 2h]
+Mahu2021: checks 
+RobAyv: bets 30
+QUWERKS: calls 30
+Mahu2021: folds 
+*** TURN *** [5h Js 2h] [9h]
+RobAyv: bets 30
+QUWERKS: calls 30
+*** RIVER *** [5h Js 2h 9h] [7d]
+RobAyv: bets 30
+QUWERKS: raises 30 to 60
+RobAyv: calls 30
+*** SHOW DOWN ***
+QUWERKS: shows [Qh Kh] (a flush, King high)
+RobAyv: mucks hand 
+QUWERKS collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | Rake 0 
+Board [5h Js 2h 9h 7d]
+Seat 1: RobAyv (big blind) mucked [Jc 3d]
+Seat 2: QUWERKS (button) showed [Qh Kh] and won (330) with a flush, King high
+Seat 3: Mahu2021 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #242957794309: Tournament #3573947418, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/08 9:02:43 CET [2023/04/08 3:02:43 ET]
+Table '3573947418 1' 3-max Seat #3 is the button
+Seat 1: RobAyv (235 in chips) 
+Seat 2: QUWERKS (605 in chips) 
+Seat 3: Mahu2021 (660 in chips) 
+RobAyv: posts small blind 15
+QUWERKS: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8s Qs]
+Mahu2021: raises 30 to 60
+RobAyv: calls 45
+QUWERKS: folds 
+*** FLOP *** [Kd Ac 3d]
+RobAyv: checks 
+Mahu2021: checks 
+*** TURN *** [Kd Ac 3d] [7h]
+RobAyv: bets 30
+Mahu2021: folds 
+Uncalled bet (30) returned to RobAyv
+RobAyv collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Board [Kd Ac 3d 7h]
+Seat 1: RobAyv (small blind) collected (150)
+Seat 2: QUWERKS (big blind) folded before Flop
+Seat 3: Mahu2021 (button) folded on the Turn
+
+
+
+PokerStars Hand #242957796049: Tournament #3573947418, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/08 9:02:57 CET [2023/04/08 3:02:57 ET]
+Table '3573947418 1' 3-max Seat #1 is the button
+Seat 1: RobAyv (325 in chips) 
+Seat 2: QUWERKS (575 in chips) 
+Seat 3: Mahu2021 (600 in chips) 
+QUWERKS: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js Th]
+RobAyv: raises 295 to 325 and is all-in
+QUWERKS: folds 
+Mahu2021: folds 
+Uncalled bet (295) returned to RobAyv
+RobAyv collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: RobAyv (button) collected (75)
+Seat 2: QUWERKS (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #242957797047: Tournament #3573947418, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/08 9:03:06 CET [2023/04/08 3:03:06 ET]
+Table '3573947418 1' 3-max Seat #2 is the button
+Seat 1: RobAyv (370 in chips) 
+Seat 2: QUWERKS (560 in chips) 
+Seat 3: Mahu2021 (570 in chips) 
+Mahu2021: posts small blind 15
+RobAyv: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h 8s]
+QUWERKS: calls 30
+Mahu2021: folds 
+RobAyv: raises 340 to 370 and is all-in
+QUWERKS: folds 
+Uncalled bet (340) returned to RobAyv
+RobAyv collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: RobAyv (big blind) collected (75)
+Seat 2: QUWERKS (button) folded before Flop
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #242957798785: Tournament #3573947418, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/08 9:03:20 CET [2023/04/08 3:03:20 ET]
+Table '3573947418 1' 3-max Seat #3 is the button
+Seat 1: RobAyv (415 in chips) 
+Seat 2: QUWERKS (530 in chips) 
+Seat 3: Mahu2021 (555 in chips) 
+RobAyv: posts small blind 20
+QUWERKS: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4d 5h]
+Mahu2021: folds 
+RobAyv: raises 375 to 415 and is all-in
+QUWERKS: folds 
+Uncalled bet (375) returned to RobAyv
+RobAyv collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: RobAyv (small blind) collected (80)
+Seat 2: QUWERKS (big blind) folded before Flop
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #242957799737: Tournament #3573947418, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/08 9:03:28 CET [2023/04/08 3:03:28 ET]
+Table '3573947418 1' 3-max Seat #1 is the button
+Seat 1: RobAyv (455 in chips) 
+Seat 2: QUWERKS (490 in chips) 
+Seat 3: Mahu2021 (555 in chips) 
+QUWERKS: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad 7h]
+RobAyv: folds 
+QUWERKS: calls 20
+Mahu2021: checks 
+*** FLOP *** [7s Qs 8h]
+QUWERKS: bets 40
+Mahu2021: calls 40
+*** TURN *** [7s Qs 8h] [3d]
+QUWERKS: bets 80
+Mahu2021: folds 
+Uncalled bet (80) returned to QUWERKS
+QUWERKS collected 160 from pot
+QUWERKS: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [7s Qs 8h 3d]
+Seat 1: RobAyv (button) folded before Flop (didn't bet)
+Seat 2: QUWERKS (small blind) collected (160)
+Seat 3: Mahu2021 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #242957801625: Tournament #3573947418, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/08 9:03:44 CET [2023/04/08 3:03:44 ET]
+Table '3573947418 1' 3-max Seat #2 is the button
+Seat 1: RobAyv (455 in chips) 
+Seat 2: QUWERKS (570 in chips) 
+Seat 3: Mahu2021 (475 in chips) 
+Mahu2021: posts small blind 20
+RobAyv: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d Th]
+QUWERKS: folds 
+Mahu2021: folds 
+Uncalled bet (20) returned to RobAyv
+RobAyv collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: RobAyv (big blind) collected (40)
+Seat 2: QUWERKS (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #242957802252: Tournament #3573947418, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/08 9:03:48 CET [2023/04/08 3:03:48 ET]
+Table '3573947418 1' 3-max Seat #3 is the button
+Seat 1: RobAyv (475 in chips) 
+Seat 2: QUWERKS (570 in chips) 
+Seat 3: Mahu2021 (455 in chips) 
+RobAyv: posts small blind 20
+QUWERKS: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8s 8d]
+Mahu2021: raises 415 to 455 and is all-in
+RobAyv: folds 
+QUWERKS: folds 
+Uncalled bet (415) returned to Mahu2021
+Mahu2021 collected 100 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: RobAyv (small blind) folded before Flop
+Seat 2: QUWERKS (big blind) folded before Flop
+Seat 3: Mahu2021 (button) collected (100)
+
+
+
+PokerStars Hand #242957803101: Tournament #3573947418, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/08 9:03:55 CET [2023/04/08 3:03:55 ET]
+Table '3573947418 1' 3-max Seat #1 is the button
+Seat 1: RobAyv (455 in chips) 
+Seat 2: QUWERKS (530 in chips) 
+Seat 3: Mahu2021 (515 in chips) 
+QUWERKS: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h Jc]
+RobAyv: folds 
+QUWERKS: calls 20
+Mahu2021: checks 
+*** FLOP *** [Td 7h 6h]
+QUWERKS: checks 
+Mahu2021: checks 
+*** TURN *** [Td 7h 6h] [Th]
+QUWERKS: checks 
+Mahu2021: bets 40
+QUWERKS: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Td 7h 6h Th]
+Seat 1: RobAyv (button) folded before Flop (didn't bet)
+Seat 2: QUWERKS (small blind) folded on the Turn
+Seat 3: Mahu2021 (big blind) collected (80)
+
+
+
+PokerStars Hand #242957804949: Tournament #3573947418, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/08 9:04:11 CET [2023/04/08 3:04:11 ET]
+Table '3573947418 1' 3-max Seat #2 is the button
+Seat 1: RobAyv (455 in chips) 
+Seat 2: QUWERKS (490 in chips) 
+Seat 3: Mahu2021 (555 in chips) 
+Mahu2021: posts small blind 20
+RobAyv: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s 8d]
+QUWERKS: calls 40
+Mahu2021: folds 
+RobAyv: raises 415 to 455 and is all-in
+QUWERKS: calls 415
+*** FLOP *** [7h 4h 4d]
+*** TURN *** [7h 4h 4d] [Qs]
+*** RIVER *** [7h 4h 4d Qs] [3h]
+*** SHOW DOWN ***
+RobAyv: shows [8c As] (a pair of Fours)
+QUWERKS: shows [Th Kd] (a pair of Fours - lower kicker)
+RobAyv collected 930 from pot
+*** SUMMARY ***
+Total pot 930 | Rake 0 
+Board [7h 4h 4d Qs 3h]
+Seat 1: RobAyv (big blind) showed [8c As] and won (930) with a pair of Fours
+Seat 2: QUWERKS (button) showed [Th Kd] and lost with a pair of Fours
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #242957806833: Tournament #3573947418, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/08 9:04:26 CET [2023/04/08 3:04:26 ET]
+Table '3573947418 1' 3-max Seat #3 is the button
+Seat 1: RobAyv (930 in chips) 
+Seat 2: QUWERKS (35 in chips) 
+Seat 3: Mahu2021 (535 in chips) 
+RobAyv: posts small blind 20
+QUWERKS: posts big blind 35 and is all-in
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d Jd]
+Mahu2021: calls 40
+RobAyv: calls 20
+*** FLOP *** [9h 8h 5h]
+RobAyv: bets 40
+Mahu2021: folds 
+Uncalled bet (40) returned to RobAyv
+*** TURN *** [9h 8h 5h] [7h]
+*** RIVER *** [9h 8h 5h 7h] [Kc]
+*** SHOW DOWN ***
+RobAyv: shows [9c Th] (a flush, Ten high)
+RobAyv collected 10 from side pot
+QUWERKS: shows [Jh Ts] (a flush, Jack high)
+QUWERKS collected 105 from main pot
+*** SUMMARY ***
+Total pot 115 Main pot 105. Side pot 10. | Rake 0 
+Board [9h 8h 5h 7h Kc]
+Seat 1: RobAyv (small blind) showed [9c Th] and won (10) with a flush, Ten high
+Seat 2: QUWERKS (big blind) showed [Jh Ts] and won (105) with a flush, Jack high
+Seat 3: Mahu2021 (button) folded on the Flop
+
+
+
+PokerStars Hand #242957808657: Tournament #3573947418, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/08 9:04:41 CET [2023/04/08 3:04:41 ET]
+Table '3573947418 1' 3-max Seat #1 is the button
+Seat 1: RobAyv (900 in chips) 
+Seat 2: QUWERKS (105 in chips) 
+Seat 3: Mahu2021 (495 in chips) 
+QUWERKS: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts Ad]
+RobAyv: calls 40
+QUWERKS: raises 65 to 105 and is all-in
+Mahu2021: raises 390 to 495 and is all-in
+RobAyv: folds 
+Uncalled bet (390) returned to Mahu2021
+*** FLOP *** [9s 4d 9c]
+*** TURN *** [9s 4d 9c] [5c]
+*** RIVER *** [9s 4d 9c 5c] [Td]
+*** SHOW DOWN ***
+QUWERKS: shows [Kd Jd] (a pair of Nines)
+Mahu2021: shows [Ts Ad] (two pair, Tens and Nines)
+Mahu2021 collected 250 from pot
+QUWERKS finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 250 | Rake 0 
+Board [9s 4d 9c 5c Td]
+Seat 1: RobAyv (button) folded before Flop
+Seat 2: QUWERKS (small blind) showed [Kd Jd] and lost with a pair of Nines
+Seat 3: Mahu2021 (big blind) showed [Ts Ad] and won (250) with two pair, Tens and Nines
+
+
+
+PokerStars Hand #242957810938: Tournament #3573947418, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/08 9:05:00 CET [2023/04/08 3:05:00 ET]
+Table '3573947418 1' 3-max Seat #3 is the button
+Seat 1: RobAyv (860 in chips) 
+Seat 3: Mahu2021 (640 in chips) 
+Mahu2021: posts small blind 20
+RobAyv: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s 2c]
+Mahu2021: folds 
+Uncalled bet (20) returned to RobAyv
+RobAyv collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: RobAyv (big blind) collected (40)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #242957811604: Tournament #3573947418, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/08 9:05:05 CET [2023/04/08 3:05:05 ET]
+Table '3573947418 1' 3-max Seat #1 is the button
+Seat 1: RobAyv (880 in chips) 
+Seat 3: Mahu2021 (620 in chips) 
+RobAyv: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts 9d]
+RobAyv: raises 40 to 80
+Mahu2021: calls 40
+*** FLOP *** [Ac Jh 5s]
+Mahu2021: checks 
+RobAyv: bets 40
+Mahu2021: folds 
+Uncalled bet (40) returned to RobAyv
+RobAyv collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Ac Jh 5s]
+Seat 1: RobAyv (button) (small blind) collected (160)
+Seat 3: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #242957813329: Tournament #3573947418, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/04/08 9:05:19 CET [2023/04/08 3:05:19 ET]
+Table '3573947418 1' 3-max Seat #3 is the button
+Seat 1: RobAyv (960 in chips) 
+Seat 3: Mahu2021 (540 in chips) 
+Mahu2021: posts small blind 30
+RobAyv: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h Kd]
+Mahu2021: raises 480 to 540 and is all-in
+RobAyv: calls 480
+*** FLOP *** [9s 9c Kc]
+*** TURN *** [9s 9c Kc] [Js]
+*** RIVER *** [9s 9c Kc Js] [5d]
+*** SHOW DOWN ***
+RobAyv: shows [Th Ad] (a pair of Nines)
+Mahu2021: shows [7h Kd] (two pair, Kings and Nines)
+Mahu2021 collected 1080 from pot
+*** SUMMARY ***
+Total pot 1080 | Rake 0 
+Board [9s 9c Kc Js 5d]
+Seat 1: RobAyv (big blind) showed [Th Ad] and lost with a pair of Nines
+Seat 3: Mahu2021 (button) (small blind) showed [7h Kd] and won (1080) with two pair, Kings and Nines
+
+
+
+PokerStars Hand #242957815012: Tournament #3573947418, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/04/08 9:05:32 CET [2023/04/08 3:05:32 ET]
+Table '3573947418 1' 3-max Seat #1 is the button
+Seat 1: RobAyv (420 in chips) 
+Seat 3: Mahu2021 (1080 in chips) 
+RobAyv: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c 4c]
+RobAyv: calls 30
+Mahu2021: checks 
+*** FLOP *** [8s 3c Tc]
+Mahu2021: bets 1020 and is all-in
+RobAyv: folds 
+Uncalled bet (1020) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [8s 3c Tc]
+Seat 1: RobAyv (button) (small blind) folded on the Flop
+Seat 3: Mahu2021 (big blind) collected (120)
+
+
+
+PokerStars Hand #242957816307: Tournament #3573947418, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/04/08 9:05:43 CET [2023/04/08 3:05:43 ET]
+Table '3573947418 1' 3-max Seat #3 is the button
+Seat 1: RobAyv (360 in chips) 
+Seat 3: Mahu2021 (1140 in chips) 
+Mahu2021: posts small blind 30
+RobAyv: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd Tc]
+Mahu2021: raises 1080 to 1140 and is all-in
+RobAyv: calls 300 and is all-in
+Uncalled bet (780) returned to Mahu2021
+*** FLOP *** [Qh 7h 3d]
+*** TURN *** [Qh 7h 3d] [9h]
+*** RIVER *** [Qh 7h 3d 9h] [4s]
+*** SHOW DOWN ***
+RobAyv: shows [8h 8c] (a pair of Eights)
+Mahu2021: shows [Kd Tc] (high card King)
+RobAyv collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | Rake 0 
+Board [Qh 7h 3d 9h 4s]
+Seat 1: RobAyv (big blind) showed [8h 8c] and won (720) with a pair of Eights
+Seat 3: Mahu2021 (button) (small blind) showed [Kd Tc] and lost with high card King
+
+
+
+PokerStars Hand #242957817947: Tournament #3573947418, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/04/08 9:05:56 CET [2023/04/08 3:05:56 ET]
+Table '3573947418 1' 3-max Seat #1 is the button
+Seat 1: RobAyv (720 in chips) 
+Seat 3: Mahu2021 (780 in chips) 
+RobAyv: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qd Jc]
+RobAyv: calls 30
+Mahu2021: checks 
+*** FLOP *** [Qc 5h Qs]
+Mahu2021: checks 
+RobAyv: checks 
+*** TURN *** [Qc 5h Qs] [9s]
+Mahu2021: checks 
+RobAyv: bets 60
+Mahu2021: calls 60
+*** RIVER *** [Qc 5h Qs 9s] [Ac]
+Mahu2021: bets 180
+RobAyv: folds 
+Uncalled bet (180) returned to Mahu2021
+Mahu2021 collected 240 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Qc 5h Qs 9s Ac]
+Seat 1: RobAyv (button) (small blind) folded on the River
+Seat 3: Mahu2021 (big blind) collected (240)
+
+
+
+PokerStars Hand #242957819747: Tournament #3573947418, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/04/08 9:06:11 CET [2023/04/08 3:06:11 ET]
+Table '3573947418 1' 3-max Seat #3 is the button
+Seat 1: RobAyv (600 in chips) 
+Seat 3: Mahu2021 (900 in chips) 
+Mahu2021: posts small blind 30
+RobAyv: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h Qd]
+Mahu2021: calls 30
+RobAyv: raises 540 to 600 and is all-in
+Mahu2021: folds 
+Uncalled bet (540) returned to RobAyv
+RobAyv collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: RobAyv (big blind) collected (120)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #242957820703: Tournament #3573947418, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/04/08 9:06:19 CET [2023/04/08 3:06:19 ET]
+Table '3573947418 1' 3-max Seat #1 is the button
+Seat 1: RobAyv (660 in chips) 
+Seat 3: Mahu2021 (840 in chips) 
+RobAyv: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h Th]
+RobAyv: raises 600 to 660 and is all-in
+Mahu2021: folds 
+Uncalled bet (600) returned to RobAyv
+RobAyv collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: RobAyv (button) (small blind) collected (120)
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #242957821389: Tournament #3573947418, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/04/08 9:06:25 CET [2023/04/08 3:06:25 ET]
+Table '3573947418 1' 3-max Seat #3 is the button
+Seat 1: RobAyv (720 in chips) 
+Seat 3: Mahu2021 (780 in chips) 
+Mahu2021: posts small blind 30
+RobAyv: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c 3d]
+Mahu2021: folds 
+Uncalled bet (30) returned to RobAyv
+RobAyv collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: RobAyv (big blind) collected (60)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #242957821918: Tournament #3573947418, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/04/08 9:06:30 CET [2023/04/08 3:06:30 ET]
+Table '3573947418 1' 3-max Seat #1 is the button
+Seat 1: RobAyv (750 in chips) 
+Seat 3: Mahu2021 (750 in chips) 
+RobAyv: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad 2h]
+RobAyv: calls 30
+Mahu2021: raises 690 to 750 and is all-in
+RobAyv: folds 
+Uncalled bet (690) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: RobAyv (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (120)
+
+
+
+PokerStars Hand #242957822727: Tournament #3573947418, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/04/08 9:06:36 CET [2023/04/08 3:06:36 ET]
+Table '3573947418 1' 3-max Seat #3 is the button
+Seat 1: RobAyv (690 in chips) 
+Seat 3: Mahu2021 (810 in chips) 
+Mahu2021: posts small blind 30
+RobAyv: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Tc Kc]
+Mahu2021: raises 750 to 810 and is all-in
+RobAyv: folds 
+Uncalled bet (750) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: RobAyv (big blind) folded before Flop
+Seat 3: Mahu2021 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #242957823470: Tournament #3573947418, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/04/08 9:06:42 CET [2023/04/08 3:06:42 ET]
+Table '3573947418 1' 3-max Seat #1 is the button
+Seat 1: RobAyv (630 in chips) 
+Seat 3: Mahu2021 (870 in chips) 
+RobAyv: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac Qs]
+RobAyv: raises 570 to 630 and is all-in
+Mahu2021: calls 570
+*** FLOP *** [Tc Th 9s]
+*** TURN *** [Tc Th 9s] [As]
+*** RIVER *** [Tc Th 9s As] [Js]
+*** SHOW DOWN ***
+Mahu2021: shows [Ac Qs] (two pair, Aces and Tens)
+RobAyv: shows [Ad 9d] (two pair, Aces and Tens - lower kicker)
+Mahu2021 collected 1260 from pot
+RobAyv finished the tournament in 2nd place
+Mahu2021 wins the tournament and receives $2.00 - congratulations!
+*** SUMMARY ***
+Total pot 1260 | Rake 0 
+Board [Tc Th 9s As Js]
+Seat 1: RobAyv (button) (small blind) showed [Ad 9d] and lost with two pair, Aces and Tens
+Seat 3: Mahu2021 (big blind) showed [Ac Qs] and won (1260) with two pair, Aces and Tens
+
+
+

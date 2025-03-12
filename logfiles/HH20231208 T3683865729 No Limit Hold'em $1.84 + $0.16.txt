@@ -1,0 +1,397 @@
+﻿PokerStars Hand #247552667747: Tournament #3683865729, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/08 22:43:00 CET [2023/12/08 16:43:00 ET]
+Table '3683865729 1' 3-max Seat #1 is the button
+Seat 1: Niko1033 (500 in chips) 
+Seat 2: fudencio jr (500 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+fudencio jr: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh 6h]
+Niko1033: calls 20
+fudencio jr: calls 10
+Mahu2021: checks 
+*** FLOP *** [5h 6c Kd]
+fudencio jr: checks 
+Mahu2021: checks 
+Niko1033: checks 
+*** TURN *** [5h 6c Kd] [Jd]
+fudencio jr: checks 
+Mahu2021: bets 20
+Niko1033: raises 20 to 40
+fudencio jr: folds 
+Mahu2021: raises 100 to 140
+Niko1033: calls 100
+*** RIVER *** [5h 6c Kd Jd] [6s]
+Mahu2021: checks 
+Niko1033: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [Jh 6h] (a full house, Sixes full of Jacks)
+Niko1033: mucks hand 
+Mahu2021 collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | Rake 0 
+Board [5h 6c Kd Jd 6s]
+Seat 1: Niko1033 (button) mucked [Jc 8c]
+Seat 2: fudencio jr (small blind) folded on the Turn
+Seat 3: Mahu2021 (big blind) showed [Jh 6h] and won (340) with a full house, Sixes full of Jacks
+
+
+
+PokerStars Hand #247552678490: Tournament #3683865729, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/08 22:43:33 CET [2023/12/08 16:43:33 ET]
+Table '3683865729 1' 3-max Seat #2 is the button
+Seat 1: Niko1033 (340 in chips) 
+Seat 2: fudencio jr (480 in chips) 
+Seat 3: Mahu2021 (680 in chips) 
+Mahu2021: posts small blind 10
+Niko1033: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5h 9h]
+fudencio jr: calls 20
+Mahu2021: calls 10
+Niko1033: checks 
+*** FLOP *** [4s 6h 5d]
+Mahu2021: checks 
+Niko1033: bets 320 and is all-in
+fudencio jr: folds 
+Mahu2021: folds 
+Uncalled bet (320) returned to Niko1033
+Niko1033 collected 60 from pot
+Niko1033: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [4s 6h 5d]
+Seat 1: Niko1033 (big blind) collected (60)
+Seat 2: fudencio jr (button) folded on the Flop
+Seat 3: Mahu2021 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #247552684022: Tournament #3683865729, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/08 22:43:49 CET [2023/12/08 16:43:49 ET]
+Table '3683865729 1' 3-max Seat #3 is the button
+Seat 1: Niko1033 (380 in chips) 
+Seat 2: fudencio jr (460 in chips) 
+Seat 3: Mahu2021 (660 in chips) 
+Niko1033: posts small blind 10
+fudencio jr: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6h 2d]
+Mahu2021: folds 
+Niko1033: calls 10
+fudencio jr: checks 
+*** FLOP *** [Ac 5h Qc]
+Niko1033: bets 100
+fudencio jr: folds 
+Uncalled bet (100) returned to Niko1033
+Niko1033 collected 40 from pot
+Niko1033: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Ac 5h Qc]
+Seat 1: Niko1033 (small blind) collected (40)
+Seat 2: fudencio jr (big blind) folded on the Flop
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #247552688098: Tournament #3683865729, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/08 22:44:02 CET [2023/12/08 16:44:02 ET]
+Table '3683865729 1' 3-max Seat #1 is the button
+Seat 1: Niko1033 (400 in chips) 
+Seat 2: fudencio jr (440 in chips) 
+Seat 3: Mahu2021 (660 in chips) 
+fudencio jr: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8c Ks]
+Niko1033: calls 20
+fudencio jr: calls 10
+Mahu2021: checks 
+*** FLOP *** [Th Kc Jh]
+fudencio jr: checks 
+Mahu2021: bets 20
+Niko1033: raises 20 to 40
+fudencio jr: folds 
+Mahu2021: calls 20
+*** TURN *** [Th Kc Jh] [7d]
+Mahu2021: checks 
+Niko1033: bets 40
+Mahu2021: calls 40
+*** RIVER *** [Th Kc Jh 7d] [3c]
+Mahu2021: checks 
+Niko1033: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [8c Ks] (a pair of Kings)
+Niko1033: mucks hand 
+Mahu2021 collected 220 from pot
+*** SUMMARY ***
+Total pot 220 | Rake 0 
+Board [Th Kc Jh 7d 3c]
+Seat 1: Niko1033 (button) mucked [5d 5s]
+Seat 2: fudencio jr (small blind) folded on the Flop
+Seat 3: Mahu2021 (big blind) showed [8c Ks] and won (220) with a pair of Kings
+
+
+
+PokerStars Hand #247552695571: Tournament #3683865729, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/08 22:44:25 CET [2023/12/08 16:44:25 ET]
+Table '3683865729 1' 3-max Seat #2 is the button
+Seat 1: Niko1033 (300 in chips) 
+Seat 2: fudencio jr (420 in chips) 
+Seat 3: Mahu2021 (780 in chips) 
+Mahu2021: posts small blind 10
+Niko1033: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8c Qc]
+fudencio jr: raises 20 to 40
+Mahu2021: calls 30
+Niko1033: calls 20
+*** FLOP *** [Qh 7d Ks]
+Mahu2021: checks 
+Niko1033: bets 260 and is all-in
+fudencio jr: folds 
+Mahu2021: folds 
+Uncalled bet (260) returned to Niko1033
+Niko1033 collected 120 from pot
+Niko1033: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Qh 7d Ks]
+Seat 1: Niko1033 (big blind) collected (120)
+Seat 2: fudencio jr (button) folded on the Flop
+Seat 3: Mahu2021 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #247552700697: Tournament #3683865729, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/08 22:44:40 CET [2023/12/08 16:44:40 ET]
+Table '3683865729 1' 3-max Seat #3 is the button
+Seat 1: Niko1033 (380 in chips) 
+Seat 2: fudencio jr (380 in chips) 
+Seat 3: Mahu2021 (740 in chips) 
+Niko1033: posts small blind 10
+fudencio jr: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h 8d]
+Mahu2021: folds 
+Niko1033: calls 10
+fudencio jr: checks 
+*** FLOP *** [8h 3h 2c]
+Niko1033: checks 
+fudencio jr: checks 
+*** TURN *** [8h 3h 2c] [3d]
+Niko1033: checks 
+fudencio jr: checks 
+*** RIVER *** [8h 3h 2c 3d] [Jc]
+Niko1033: bets 160
+fudencio jr: folds 
+Uncalled bet (160) returned to Niko1033
+Niko1033 collected 40 from pot
+Niko1033: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [8h 3h 2c 3d Jc]
+Seat 1: Niko1033 (small blind) collected (40)
+Seat 2: fudencio jr (big blind) folded on the River
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #247552707649: Tournament #3683865729, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/08 22:45:02 CET [2023/12/08 16:45:02 ET]
+Table '3683865729 1' 3-max Seat #1 is the button
+Seat 1: Niko1033 (400 in chips) 
+Seat 2: fudencio jr (360 in chips) 
+Seat 3: Mahu2021 (740 in chips) 
+fudencio jr: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Th 8d]
+Niko1033: folds 
+fudencio jr: raises 20 to 40
+Mahu2021: calls 20
+*** FLOP *** [Qd 7d As]
+fudencio jr: bets 40
+Mahu2021: folds 
+Uncalled bet (40) returned to fudencio jr
+fudencio jr collected 80 from pot
+fudencio jr: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Qd 7d As]
+Seat 1: Niko1033 (button) folded before Flop (didn't bet)
+Seat 2: fudencio jr (small blind) collected (80)
+Seat 3: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #247552711245: Tournament #3683865729, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/08 22:45:12 CET [2023/12/08 16:45:12 ET]
+Table '3683865729 1' 3-max Seat #2 is the button
+Seat 1: Niko1033 (400 in chips) 
+Seat 2: fudencio jr (400 in chips) 
+Seat 3: Mahu2021 (700 in chips) 
+Mahu2021: posts small blind 10
+Niko1033: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh 3h]
+fudencio jr: folds 
+Mahu2021: calls 10
+Niko1033: checks 
+*** FLOP *** [3c 6h Jh]
+Mahu2021: bets 20
+Niko1033: raises 100 to 120
+Mahu2021: raises 560 to 680 and is all-in
+Niko1033: folds 
+Uncalled bet (560) returned to Mahu2021
+Mahu2021 collected 280 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 280 | Rake 0 
+Board [3c 6h Jh]
+Seat 1: Niko1033 (big blind) folded on the Flop
+Seat 2: fudencio jr (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) collected (280)
+
+
+
+PokerStars Hand #247552717564: Tournament #3683865729, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/08 22:45:31 CET [2023/12/08 16:45:31 ET]
+Table '3683865729 1' 3-max Seat #3 is the button
+Seat 1: Niko1033 (260 in chips) 
+Seat 2: fudencio jr (400 in chips) 
+Seat 3: Mahu2021 (840 in chips) 
+Niko1033: posts small blind 10
+fudencio jr: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s 2h]
+Mahu2021: folds 
+Niko1033: raises 240 to 260 and is all-in
+fudencio jr: calls 240
+*** FLOP *** [2d Kh Jc]
+*** TURN *** [2d Kh Jc] [Qh]
+*** RIVER *** [2d Kh Jc Qh] [8c]
+*** SHOW DOWN ***
+Niko1033: shows [Js Kc] (two pair, Kings and Jacks)
+fudencio jr: shows [Qs Ad] (a pair of Queens)
+Niko1033 collected 520 from pot
+*** SUMMARY ***
+Total pot 520 | Rake 0 
+Board [2d Kh Jc Qh 8c]
+Seat 1: Niko1033 (small blind) showed [Js Kc] and won (520) with two pair, Kings and Jacks
+Seat 2: fudencio jr (big blind) showed [Qs Ad] and lost with a pair of Queens
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #247552722213: Tournament #3683865729, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/08 22:45:45 CET [2023/12/08 16:45:45 ET]
+Table '3683865729 1' 3-max Seat #1 is the button
+Seat 1: Niko1033 (520 in chips) 
+Seat 2: fudencio jr (140 in chips) 
+Seat 3: Mahu2021 (840 in chips) 
+fudencio jr: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h 8c]
+Niko1033: calls 20
+fudencio jr: raises 120 to 140 and is all-in
+Mahu2021: folds 
+Niko1033: calls 120
+*** FLOP *** [5d Qs 8d]
+*** TURN *** [5d Qs 8d] [7h]
+*** RIVER *** [5d Qs 8d 7h] [3d]
+*** SHOW DOWN ***
+fudencio jr: shows [Ac 5s] (a pair of Fives)
+Niko1033: shows [Ks 5h] (a pair of Fives - lower kicker)
+fudencio jr collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [5d Qs 8d 7h 3d]
+Seat 1: Niko1033 (button) showed [Ks 5h] and lost with a pair of Fives
+Seat 2: fudencio jr (small blind) showed [Ac 5s] and won (300) with a pair of Fives
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #247552727324: Tournament #3683865729, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/08 22:46:01 CET [2023/12/08 16:46:01 ET]
+Table '3683865729 1' 3-max Seat #2 is the button
+Seat 1: Niko1033 (380 in chips) 
+Seat 2: fudencio jr (300 in chips) 
+Seat 3: Mahu2021 (820 in chips) 
+Mahu2021: posts small blind 10
+Niko1033: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc 5s]
+fudencio jr: folds 
+Mahu2021: calls 10
+Niko1033: checks 
+*** FLOP *** [7d 8c Qd]
+Mahu2021: checks 
+Niko1033: bets 60
+Mahu2021: folds 
+Uncalled bet (60) returned to Niko1033
+Niko1033 collected 40 from pot
+Niko1033: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [7d 8c Qd]
+Seat 1: Niko1033 (big blind) collected (40)
+Seat 2: fudencio jr (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #247552732430: Tournament #3683865729, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/12/08 22:46:16 CET [2023/12/08 16:46:16 ET]
+Table '3683865729 1' 3-max Seat #3 is the button
+Seat 1: Niko1033 (400 in chips) 
+Seat 2: fudencio jr (300 in chips) 
+Seat 3: Mahu2021 (800 in chips) 
+Niko1033: posts small blind 15
+fudencio jr: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Td 6h]
+Mahu2021: folds 
+Niko1033: calls 15
+fudencio jr: raises 270 to 300 and is all-in
+Niko1033: calls 270
+*** FLOP *** [3c 8d 9s]
+*** TURN *** [3c 8d 9s] [3d]
+*** RIVER *** [3c 8d 9s 3d] [4d]
+*** SHOW DOWN ***
+Niko1033: shows [8s Ah] (two pair, Eights and Threes)
+fudencio jr: shows [Ks 2d] (a pair of Threes)
+Niko1033 collected 600 from pot
+fudencio jr finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 600 | Rake 0 
+Board [3c 8d 9s 3d 4d]
+Seat 1: Niko1033 (small blind) showed [8s Ah] and won (600) with two pair, Eights and Threes
+Seat 2: fudencio jr (big blind) showed [Ks 2d] and lost with a pair of Threes
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #247552738566: Tournament #3683865729, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/12/08 22:46:34 CET [2023/12/08 16:46:34 ET]
+Table '3683865729 1' 3-max Seat #1 is the button
+Seat 1: Niko1033 (700 in chips) 
+Seat 3: Mahu2021 (800 in chips) 
+Niko1033: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As Jd]
+Niko1033: calls 15
+Mahu2021: raises 90 to 120
+Niko1033: calls 90
+*** FLOP *** [7d Ad Ah]
+Mahu2021: checks 
+Niko1033: bets 580 and is all-in
+Mahu2021: calls 580
+*** TURN *** [7d Ad Ah] [2s]
+*** RIVER *** [7d Ad Ah 2s] [4c]
+*** SHOW DOWN ***
+Mahu2021: shows [As Jd] (three of a kind, Aces)
+Niko1033: shows [8h Qs] (a pair of Aces)
+Mahu2021 collected 1400 from pot
+Niko1033 finished the tournament in 2nd place
+Mahu2021 wins the tournament and receives $8.00 - congratulations!
+*** SUMMARY ***
+Total pot 1400 | Rake 0 
+Board [7d Ad Ah 2s 4c]
+Seat 1: Niko1033 (button) (small blind) showed [8h Qs] and lost with a pair of Aces
+Seat 3: Mahu2021 (big blind) showed [As Jd] and won (1400) with three of a kind, Aces
+
+
+

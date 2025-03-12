@@ -1,0 +1,96 @@
+﻿PokerStars Hand #247661241150: Tournament #3686475941, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/14 22:12:23 CET [2023/12/14 16:12:23 ET]
+Table '3686475941 1' 3-max Seat #1 is the button
+Seat 1: ad.adriano (500 in chips) 
+Seat 2: jhonatanrall (500 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+jhonatanrall: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4c 7c]
+ad.adriano: raises 20 to 40
+jhonatanrall: calls 30
+Mahu2021: calls 20
+*** FLOP *** [Ad 4s 9s]
+jhonatanrall: checks 
+Mahu2021: checks 
+ad.adriano: bets 64
+jhonatanrall: folds 
+Mahu2021: folds 
+Uncalled bet (64) returned to ad.adriano
+ad.adriano collected 120 from pot
+ad.adriano: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Ad 4s 9s]
+Seat 1: ad.adriano (button) collected (120)
+Seat 2: jhonatanrall (small blind) folded on the Flop
+Seat 3: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #247661248860: Tournament #3686475941, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/14 22:12:44 CET [2023/12/14 16:12:44 ET]
+Table '3686475941 1' 3-max Seat #2 is the button
+Seat 1: ad.adriano (580 in chips) 
+Seat 2: jhonatanrall (460 in chips) 
+Seat 3: Mahu2021 (460 in chips) 
+Mahu2021: posts small blind 10
+ad.adriano: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh 8s]
+jhonatanrall: calls 20
+Mahu2021: calls 10
+ad.adriano: raises 560 to 580 and is all-in
+jhonatanrall: calls 440 and is all-in
+Mahu2021: folds 
+Uncalled bet (120) returned to ad.adriano
+*** FLOP *** [2c Tc Js]
+*** TURN *** [2c Tc Js] [9s]
+*** RIVER *** [2c Tc Js 9s] [Qs]
+*** SHOW DOWN ***
+ad.adriano: shows [5d As] (high card Ace)
+jhonatanrall: shows [9c Th] (two pair, Tens and Nines)
+jhonatanrall collected 940 from pot
+*** SUMMARY ***
+Total pot 940 | Rake 0 
+Board [2c Tc Js 9s Qs]
+Seat 1: ad.adriano (big blind) showed [5d As] and lost with high card Ace
+Seat 2: jhonatanrall (button) showed [9c Th] and won (940) with two pair, Tens and Nines
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #247661257021: Tournament #3686475941, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/14 22:13:07 CET [2023/12/14 16:13:07 ET]
+Table '3686475941 1' 3-max Seat #3 is the button
+Seat 1: ad.adriano (120 in chips) 
+Seat 2: jhonatanrall (940 in chips) 
+Seat 3: Mahu2021 (440 in chips) 
+ad.adriano: posts small blind 10
+jhonatanrall: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh Ah]
+Mahu2021: calls 20
+ad.adriano: raises 100 to 120 and is all-in
+jhonatanrall: calls 100
+Mahu2021: raises 320 to 440 and is all-in
+jhonatanrall: calls 320
+*** FLOP *** [3c 7d 4c]
+*** TURN *** [3c 7d 4c] [2s]
+*** RIVER *** [3c 7d 4c 2s] [4h]
+*** SHOW DOWN ***
+jhonatanrall: shows [Ac As] (two pair, Aces and Fours)
+Mahu2021: shows [Jh Ah] (a pair of Fours)
+jhonatanrall collected 640 from side pot
+ad.adriano: shows [Th Kd] (a pair of Fours)
+jhonatanrall collected 360 from main pot
+Mahu2021 finished the tournament in 2nd place
+ad.adriano finished the tournament in 3rd place
+jhonatanrall wins the tournament and receives $6.00 - congratulations!
+*** SUMMARY ***
+Total pot 1000 Main pot 360. Side pot 640. | Rake 0 
+Board [3c 7d 4c 2s 4h]
+Seat 1: ad.adriano (small blind) showed [Th Kd] and lost with a pair of Fours
+Seat 2: jhonatanrall (big blind) showed [Ac As] and won (1000) with two pair, Aces and Fours
+Seat 3: Mahu2021 (button) showed [Jh Ah] and lost with a pair of Fours
+
+
+

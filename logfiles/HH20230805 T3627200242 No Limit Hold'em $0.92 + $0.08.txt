@@ -1,0 +1,431 @@
+﻿PokerStars Hand #245217900510: Tournament #3627200242, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/08/05 17:42:57 CET [2023/08/05 11:42:57 ET]
+Table '3627200242 1' 3-max Seat #1 is the button
+Seat 1: Danich530 (500 in chips) 
+Seat 2: victorpps761 (500 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+victorpps761: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s 5c]
+Danich530: calls 20
+victorpps761: calls 10
+Mahu2021: raises 480 to 500 and is all-in
+Danich530: folds 
+victorpps761: folds 
+Uncalled bet (480) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Danich530 (button) folded before Flop
+Seat 2: victorpps761 (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (60)
+
+
+
+PokerStars Hand #245217904273: Tournament #3627200242, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/08/05 17:43:11 CET [2023/08/05 11:43:11 ET]
+Table '3627200242 1' 3-max Seat #2 is the button
+Seat 1: Danich530 (480 in chips) 
+Seat 2: victorpps761 (480 in chips) 
+Seat 3: Mahu2021 (540 in chips) 
+Mahu2021: posts small blind 10
+Danich530: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5h 6s]
+victorpps761: calls 20
+Mahu2021: calls 10
+Danich530: checks 
+*** FLOP *** [4h 9h 2s]
+Mahu2021: checks 
+Danich530: checks 
+victorpps761: checks 
+*** TURN *** [4h 9h 2s] [Ac]
+Mahu2021: checks 
+Danich530: checks 
+victorpps761: checks 
+*** RIVER *** [4h 9h 2s Ac] [Qh]
+Mahu2021: checks 
+Danich530: checks 
+victorpps761: bets 20
+Mahu2021: folds 
+Danich530: folds 
+Uncalled bet (20) returned to victorpps761
+victorpps761 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [4h 9h 2s Ac Qh]
+Seat 1: Danich530 (big blind) folded on the River
+Seat 2: victorpps761 (button) collected (60)
+Seat 3: Mahu2021 (small blind) folded on the River
+
+
+
+PokerStars Hand #245217910620: Tournament #3627200242, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/08/05 17:43:34 CET [2023/08/05 11:43:34 ET]
+Table '3627200242 1' 3-max Seat #3 is the button
+Seat 1: Danich530 (460 in chips) 
+Seat 2: victorpps761 (520 in chips) 
+Seat 3: Mahu2021 (520 in chips) 
+Danich530: posts small blind 10
+victorpps761: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s 4c]
+Mahu2021: folds 
+Danich530: calls 10
+victorpps761: checks 
+*** FLOP *** [8s Tc 9h]
+Danich530: bets 20
+victorpps761: calls 20
+*** TURN *** [8s Tc 9h] [Ks]
+Danich530: bets 20
+victorpps761: raises 20 to 40
+Danich530: calls 20
+*** RIVER *** [8s Tc 9h Ks] [9c]
+Danich530: checks 
+victorpps761: checks 
+*** SHOW DOWN ***
+Danich530: shows [8h 6h] (two pair, Nines and Eights)
+victorpps761: shows [Th 3c] (two pair, Tens and Nines)
+victorpps761 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [8s Tc 9h Ks 9c]
+Seat 1: Danich530 (small blind) showed [8h 6h] and lost with two pair, Nines and Eights
+Seat 2: victorpps761 (big blind) showed [Th 3c] and won (160) with two pair, Tens and Nines
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245217916945: Tournament #3627200242, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/08/05 17:43:57 CET [2023/08/05 11:43:57 ET]
+Table '3627200242 1' 3-max Seat #1 is the button
+Seat 1: Danich530 (380 in chips) 
+Seat 2: victorpps761 (600 in chips) 
+Seat 3: Mahu2021 (520 in chips) 
+victorpps761: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2c 3s]
+Danich530: calls 20
+victorpps761: calls 10
+Mahu2021: checks 
+*** FLOP *** [6d 8c Th]
+victorpps761: checks 
+Mahu2021: checks 
+Danich530: bets 20
+victorpps761: calls 20
+Mahu2021: folds 
+*** TURN *** [6d 8c Th] [Jd]
+victorpps761: checks 
+Danich530: bets 20
+victorpps761: calls 20
+*** RIVER *** [6d 8c Th Jd] [5d]
+victorpps761: checks 
+Danich530: bets 20
+victorpps761: calls 20
+*** SHOW DOWN ***
+Danich530: shows [6c 7s] (a pair of Sixes)
+victorpps761: mucks hand 
+Danich530 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [6d 8c Th Jd 5d]
+Seat 1: Danich530 (button) showed [6c 7s] and won (180) with a pair of Sixes
+Seat 2: victorpps761 (small blind) mucked [2s Qh]
+Seat 3: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #245217925430: Tournament #3627200242, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/08/05 17:44:28 CET [2023/08/05 11:44:28 ET]
+Table '3627200242 1' 3-max Seat #2 is the button
+Seat 1: Danich530 (480 in chips) 
+Seat 2: victorpps761 (520 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+Mahu2021: posts small blind 10
+Danich530: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d Th]
+victorpps761: folds 
+Mahu2021: folds 
+Uncalled bet (10) returned to Danich530
+Danich530 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Danich530 (big blind) collected (20)
+Seat 2: victorpps761 (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #245217927302: Tournament #3627200242, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/08/05 17:44:35 CET [2023/08/05 11:44:35 ET]
+Table '3627200242 1' 3-max Seat #3 is the button
+Seat 1: Danich530 (490 in chips) 
+Seat 2: victorpps761 (520 in chips) 
+Seat 3: Mahu2021 (490 in chips) 
+Danich530: posts small blind 10
+victorpps761: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c 5d]
+Mahu2021: folds 
+Danich530: calls 10
+victorpps761: checks 
+*** FLOP *** [7h Js 7d]
+Danich530: checks 
+victorpps761: checks 
+*** TURN *** [7h Js 7d] [5s]
+Danich530: checks 
+victorpps761: checks 
+*** RIVER *** [7h Js 7d 5s] [3d]
+Danich530: bets 470 and is all-in
+victorpps761: folds 
+Uncalled bet (470) returned to Danich530
+Danich530 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [7h Js 7d 5s 3d]
+Seat 1: Danich530 (small blind) collected (40)
+Seat 2: victorpps761 (big blind) folded on the River
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245217935354: Tournament #3627200242, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/08/05 17:45:04 CET [2023/08/05 11:45:04 ET]
+Table '3627200242 1' 3-max Seat #1 is the button
+Seat 1: Danich530 (510 in chips) 
+Seat 2: victorpps761 (500 in chips) 
+Seat 3: Mahu2021 (490 in chips) 
+victorpps761: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h Td]
+Danich530: calls 30
+victorpps761: calls 15
+Mahu2021: checks 
+*** FLOP *** [5h 2d 3h]
+victorpps761: checks 
+Mahu2021: bets 90
+Danich530: folds 
+victorpps761: folds 
+Uncalled bet (90) returned to Mahu2021
+Mahu2021 collected 90 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [5h 2d 3h]
+Seat 1: Danich530 (button) folded on the Flop
+Seat 2: victorpps761 (small blind) folded on the Flop
+Seat 3: Mahu2021 (big blind) collected (90)
+
+
+
+PokerStars Hand #245217940600: Tournament #3627200242, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/08/05 17:45:24 CET [2023/08/05 11:45:24 ET]
+Table '3627200242 1' 3-max Seat #2 is the button
+Seat 1: Danich530 (480 in chips) 
+Seat 2: victorpps761 (470 in chips) 
+Seat 3: Mahu2021 (550 in chips) 
+Mahu2021: posts small blind 15
+Danich530: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh 5d]
+victorpps761: folds 
+Mahu2021: folds 
+Uncalled bet (15) returned to Danich530
+Danich530 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Danich530 (big blind) collected (30)
+Seat 2: victorpps761 (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #245217942364: Tournament #3627200242, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/08/05 17:45:30 CET [2023/08/05 11:45:30 ET]
+Table '3627200242 1' 3-max Seat #3 is the button
+Seat 1: Danich530 (495 in chips) 
+Seat 2: victorpps761 (470 in chips) 
+Seat 3: Mahu2021 (535 in chips) 
+Danich530: posts small blind 15
+victorpps761: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5h 6c]
+Mahu2021: folds 
+Danich530: calls 15
+victorpps761: checks 
+*** FLOP *** [7s As 4h]
+Danich530: checks 
+victorpps761: checks 
+*** TURN *** [7s As 4h] [Ac]
+Danich530: checks 
+victorpps761: checks 
+*** RIVER *** [7s As 4h Ac] [8s]
+Danich530: checks 
+victorpps761: checks 
+*** SHOW DOWN ***
+Danich530: shows [2s 6d] (a pair of Aces)
+victorpps761: shows [2h Qd] (a pair of Aces - Queen kicker)
+victorpps761 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [7s As 4h Ac 8s]
+Seat 1: Danich530 (small blind) showed [2s 6d] and lost with a pair of Aces
+Seat 2: victorpps761 (big blind) showed [2h Qd] and won (60) with a pair of Aces
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245217946547: Tournament #3627200242, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/08/05 17:45:45 CET [2023/08/05 11:45:45 ET]
+Table '3627200242 1' 3-max Seat #1 is the button
+Seat 1: Danich530 (465 in chips) 
+Seat 2: victorpps761 (500 in chips) 
+Seat 3: Mahu2021 (535 in chips) 
+victorpps761: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d Qh]
+Danich530: calls 30
+victorpps761: calls 15
+Mahu2021: checks 
+*** FLOP *** [Ad 6h 3d]
+victorpps761: bets 30
+Mahu2021: folds 
+Danich530: raises 30 to 60
+victorpps761: calls 30
+*** TURN *** [Ad 6h 3d] [8h]
+victorpps761: checks 
+Danich530: bets 30
+victorpps761: calls 30
+*** RIVER *** [Ad 6h 3d 8h] [Js]
+victorpps761: checks 
+Danich530: checks 
+*** SHOW DOWN ***
+victorpps761: shows [Ts 3s] (a pair of Threes)
+Danich530: shows [7h As] (a pair of Aces)
+Danich530 collected 270 from pot
+*** SUMMARY ***
+Total pot 270 | Rake 0 
+Board [Ad 6h 3d 8h Js]
+Seat 1: Danich530 (button) showed [7h As] and won (270) with a pair of Aces
+Seat 2: victorpps761 (small blind) showed [Ts 3s] and lost with a pair of Threes
+Seat 3: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #245217953523: Tournament #3627200242, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/08/05 17:46:11 CET [2023/08/05 11:46:11 ET]
+Table '3627200242 1' 3-max Seat #2 is the button
+Seat 1: Danich530 (615 in chips) 
+Seat 2: victorpps761 (380 in chips) 
+Seat 3: Mahu2021 (505 in chips) 
+Mahu2021: posts small blind 15
+Danich530: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2c 7s]
+victorpps761: calls 30
+Mahu2021: folds 
+Danich530: checks 
+*** FLOP *** [6c 9h Th]
+Danich530: bets 30
+victorpps761: raises 30 to 60
+Danich530: calls 30
+*** TURN *** [6c 9h Th] [8c]
+Danich530: checks 
+victorpps761: bets 30
+Danich530: calls 30
+*** RIVER *** [6c 9h Th 8c] [8s]
+Danich530: checks 
+victorpps761: bets 260 and is all-in
+Danich530: calls 260
+*** SHOW DOWN ***
+victorpps761: shows [Qh 6d] (two pair, Eights and Sixes)
+Danich530: shows [2h 9d] (two pair, Nines and Eights)
+Danich530 collected 775 from pot
+victorpps761 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 775 | Rake 0 
+Board [6c 9h Th 8c 8s]
+Seat 1: Danich530 (big blind) showed [2h 9d] and won (775) with two pair, Nines and Eights
+Seat 2: victorpps761 (button) showed [Qh 6d] and lost with two pair, Eights and Sixes
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #245217964473: Tournament #3627200242, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/08/05 17:46:51 CET [2023/08/05 11:46:51 ET]
+Table '3627200242 1' 3-max Seat #1 is the button
+Seat 1: Danich530 (1010 in chips) 
+Seat 3: Mahu2021 (490 in chips) 
+Danich530: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h 6c]
+Danich530: calls 15
+Mahu2021: checks 
+*** FLOP *** [Jd 8s As]
+Mahu2021: checks 
+Danich530: checks 
+*** TURN *** [Jd 8s As] [3h]
+Mahu2021: bets 30
+Danich530: raises 30 to 60
+Mahu2021: calls 30
+*** RIVER *** [Jd 8s As 3h] [4s]
+Mahu2021: checks 
+Danich530: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [8h 6c] (a pair of Eights)
+Danich530: mucks hand 
+Mahu2021 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [Jd 8s As 3h 4s]
+Seat 1: Danich530 (button) (small blind) mucked [3c Kh]
+Seat 3: Mahu2021 (big blind) showed [8h 6c] and won (180) with a pair of Eights
+
+
+
+PokerStars Hand #245217971108: Tournament #3627200242, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/08/05 17:47:16 CET [2023/08/05 11:47:16 ET]
+Table '3627200242 1' 3-max Seat #3 is the button
+Seat 1: Danich530 (920 in chips) 
+Seat 3: Mahu2021 (580 in chips) 
+Mahu2021: posts small blind 20
+Danich530: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js 3s]
+Mahu2021: raises 40 to 80
+Danich530: calls 40
+*** FLOP *** [4h Qh 6c]
+Danich530: bets 40
+Mahu2021: folds 
+Uncalled bet (40) returned to Danich530
+Danich530 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [4h Qh 6c]
+Seat 1: Danich530 (big blind) collected (160)
+Seat 3: Mahu2021 (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #245217974438: Tournament #3627200242, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/08/05 17:47:28 CET [2023/08/05 11:47:28 ET]
+Table '3627200242 1' 3-max Seat #1 is the button
+Seat 1: Danich530 (1000 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+Danich530: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah 6d]
+Danich530: raises 40 to 80
+Mahu2021: raises 420 to 500 and is all-in
+Danich530: calls 420
+*** FLOP *** [Tc 3h Td]
+*** TURN *** [Tc 3h Td] [Qh]
+*** RIVER *** [Tc 3h Td Qh] [2c]
+*** SHOW DOWN ***
+Mahu2021: shows [Ah 6d] (a pair of Tens)
+Danich530: shows [6c 6h] (two pair, Tens and Sixes)
+Danich530 collected 1000 from pot
+Mahu2021 finished the tournament in 2nd place
+Danich530 wins the tournament and receives $2.00 - congratulations!
+*** SUMMARY ***
+Total pot 1000 | Rake 0 
+Board [Tc 3h Td Qh 2c]
+Seat 1: Danich530 (button) (small blind) showed [6c 6h] and won (1000) with two pair, Tens and Sixes
+Seat 3: Mahu2021 (big blind) showed [Ah 6d] and lost with a pair of Tens
+
+
+

@@ -1,0 +1,534 @@
+﻿PokerStars Hand #249721382065: Tournament #3735919387, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/03/31 15:19:55 CET [2024/03/31 9:19:55 ET]
+Table '3735919387 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: Aspect919 (500 in chips) 
+Seat 3: sachavdm (500 in chips) 
+Aspect919: posts small blind 10
+sachavdm: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh Ks]
+Mahu2021: calls 20
+Aspect919: calls 10
+sachavdm: raises 20 to 40
+Mahu2021: calls 20
+Aspect919: calls 20
+*** FLOP *** [6d 2c 6s]
+Aspect919: checks 
+sachavdm: bets 60
+Mahu2021: folds 
+Aspect919: calls 60
+*** TURN *** [6d 2c 6s] [3d]
+Aspect919: checks 
+sachavdm: bets 20
+Aspect919: calls 20
+*** RIVER *** [6d 2c 6s 3d] [2s]
+Aspect919: bets 84
+sachavdm: raises 84 to 168
+Aspect919: raises 212 to 380 and is all-in
+sachavdm: calls 212 and is all-in
+*** SHOW DOWN ***
+Aspect919: shows [4s 5d] (a straight, Deuce to Six)
+sachavdm: shows [5s 4c] (a straight, Deuce to Six)
+Aspect919 collected 520 from pot
+sachavdm collected 520 from pot
+*** SUMMARY ***
+Total pot 1040 | Rake 0 
+Board [6d 2c 6s 3d 2s]
+Seat 1: Mahu2021 (button) folded on the Flop
+Seat 2: Aspect919 (small blind) showed [4s 5d] and won (520) with a straight, Deuce to Six
+Seat 3: sachavdm (big blind) showed [5s 4c] and won (520) with a straight, Deuce to Six
+
+
+
+PokerStars Hand #249721390859: Tournament #3735919387, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/03/31 15:20:41 CET [2024/03/31 9:20:41 ET]
+Table '3735919387 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (460 in chips) 
+Seat 2: Aspect919 (520 in chips) 
+Seat 3: sachavdm (520 in chips) 
+sachavdm: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js Qs]
+Aspect919: raises 30 to 50
+sachavdm: calls 40
+Mahu2021: calls 30
+*** FLOP *** [Jc Qc Ts]
+sachavdm: bets 20
+Mahu2021: raises 390 to 410 and is all-in
+Aspect919: folds 
+sachavdm: folds 
+Uncalled bet (390) returned to Mahu2021
+Mahu2021 collected 190 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 190 | Rake 0 
+Board [Jc Qc Ts]
+Seat 1: Mahu2021 (big blind) collected (190)
+Seat 2: Aspect919 (button) folded on the Flop
+Seat 3: sachavdm (small blind) folded on the Flop
+
+
+
+PokerStars Hand #249721394253: Tournament #3735919387, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/03/31 15:20:59 CET [2024/03/31 9:20:59 ET]
+Table '3735919387 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (580 in chips) 
+Seat 2: Aspect919 (470 in chips) 
+Seat 3: sachavdm (450 in chips) 
+Mahu2021: posts small blind 10
+Aspect919: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc Qh]
+sachavdm: raises 20 to 40
+Mahu2021: calls 30
+Aspect919: calls 20
+*** FLOP *** [8s 7s Td]
+Mahu2021: checks 
+Aspect919: checks 
+sachavdm: bets 20
+Mahu2021: calls 20
+Aspect919: calls 20
+*** TURN *** [8s 7s Td] [5c]
+Mahu2021: checks 
+Aspect919: checks 
+sachavdm: bets 90
+Mahu2021: folds 
+Aspect919: folds 
+Uncalled bet (90) returned to sachavdm
+sachavdm collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [8s 7s Td 5c]
+Seat 1: Mahu2021 (small blind) folded on the Turn
+Seat 2: Aspect919 (big blind) folded on the Turn
+Seat 3: sachavdm (button) collected (180)
+
+
+
+PokerStars Hand #249721398043: Tournament #3735919387, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/03/31 15:21:19 CET [2024/03/31 9:21:19 ET]
+Table '3735919387 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (520 in chips) 
+Seat 2: Aspect919 (410 in chips) 
+Seat 3: sachavdm (570 in chips) 
+Aspect919: posts small blind 10
+sachavdm: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2s Th]
+Mahu2021: folds 
+Aspect919: calls 10
+sachavdm: checks 
+*** FLOP *** [2c 3s 6h]
+Aspect919: checks 
+sachavdm: bets 60
+Aspect919: folds 
+Uncalled bet (60) returned to sachavdm
+sachavdm collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [2c 3s 6h]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: Aspect919 (small blind) folded on the Flop
+Seat 3: sachavdm (big blind) collected (40)
+
+
+
+PokerStars Hand #249721400640: Tournament #3735919387, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/03/31 15:21:33 CET [2024/03/31 9:21:33 ET]
+Table '3735919387 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (520 in chips) 
+Seat 2: Aspect919 (390 in chips) 
+Seat 3: sachavdm (590 in chips) 
+sachavdm: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8d 4h]
+Aspect919: folds 
+sachavdm: calls 10
+Mahu2021: checks 
+*** FLOP *** [Ts 4s Qd]
+sachavdm: bets 20
+Mahu2021: raises 40 to 60
+sachavdm: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Ts 4s Qd]
+Seat 1: Mahu2021 (big blind) collected (80)
+Seat 2: Aspect919 (button) folded before Flop (didn't bet)
+Seat 3: sachavdm (small blind) folded on the Flop
+
+
+
+PokerStars Hand #249721403720: Tournament #3735919387, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/03/31 15:21:49 CET [2024/03/31 9:21:49 ET]
+Table '3735919387 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (560 in chips) 
+Seat 2: Aspect919 (390 in chips) 
+Seat 3: sachavdm (550 in chips) 
+Mahu2021: posts small blind 10
+Aspect919: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts 3d]
+sachavdm: raises 20 to 40
+Mahu2021: folds 
+Aspect919: calls 20
+*** FLOP *** [7h 3s Js]
+Aspect919: checks 
+sachavdm: bets 20
+Aspect919: folds 
+Uncalled bet (20) returned to sachavdm
+sachavdm collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [7h 3s Js]
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: Aspect919 (big blind) folded on the Flop
+Seat 3: sachavdm (button) collected (90)
+
+
+
+PokerStars Hand #249721405849: Tournament #3735919387, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/03/31 15:22:00 CET [2024/03/31 9:22:00 ET]
+Table '3735919387 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (550 in chips) 
+Seat 2: Aspect919 (350 in chips) 
+Seat 3: sachavdm (600 in chips) 
+Aspect919: posts small blind 10
+sachavdm: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c 5d]
+Mahu2021: folds 
+Aspect919: calls 10
+sachavdm: raises 20 to 40
+Aspect919: calls 20
+*** FLOP *** [9d 4d Ad]
+Aspect919: checks 
+sachavdm: bets 40
+Aspect919: calls 40
+*** TURN *** [9d 4d Ad] [As]
+Aspect919: checks 
+sachavdm: bets 160
+Aspect919: folds 
+Uncalled bet (160) returned to sachavdm
+sachavdm collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [9d 4d Ad As]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: Aspect919 (small blind) folded on the Turn
+Seat 3: sachavdm (big blind) collected (160)
+
+
+
+PokerStars Hand #249721409448: Tournament #3735919387, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/03/31 15:22:19 CET [2024/03/31 9:22:19 ET]
+Table '3735919387 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (550 in chips) 
+Seat 2: Aspect919 (270 in chips) 
+Seat 3: sachavdm (680 in chips) 
+sachavdm: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad As]
+Aspect919: folds 
+sachavdm: raises 20 to 40
+Mahu2021: raises 510 to 550 and is all-in
+sachavdm: folds 
+Uncalled bet (510) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (80)
+Seat 2: Aspect919 (button) folded before Flop (didn't bet)
+Seat 3: sachavdm (small blind) folded before Flop
+
+
+
+PokerStars Hand #249721411030: Tournament #3735919387, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/03/31 15:22:27 CET [2024/03/31 9:22:27 ET]
+Table '3735919387 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (590 in chips) 
+Seat 2: Aspect919 (270 in chips) 
+Seat 3: sachavdm (640 in chips) 
+Mahu2021: posts small blind 10
+Aspect919: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h Tc]
+sachavdm: raises 20 to 40
+Mahu2021: calls 30
+Aspect919: calls 20
+*** FLOP *** [5h Jd 5s]
+Mahu2021: checks 
+Aspect919: bets 36
+sachavdm: calls 36
+Mahu2021: folds 
+*** TURN *** [5h Jd 5s] [Qh]
+Aspect919: checks 
+sachavdm: bets 40
+Aspect919: calls 40
+*** RIVER *** [5h Jd 5s Qh] [5c]
+Aspect919: bets 154 and is all-in
+sachavdm: calls 154
+*** SHOW DOWN ***
+Aspect919: shows [Jc 8h] (a full house, Fives full of Jacks)
+sachavdm: shows [4h Ah] (three of a kind, Fives)
+Aspect919 collected 580 from pot
+*** SUMMARY ***
+Total pot 580 | Rake 0 
+Board [5h Jd 5s Qh 5c]
+Seat 1: Mahu2021 (small blind) folded on the Flop
+Seat 2: Aspect919 (big blind) showed [Jc 8h] and won (580) with a full house, Fives full of Jacks
+Seat 3: sachavdm (button) showed [4h Ah] and lost with three of a kind, Fives
+
+
+
+PokerStars Hand #249721416473: Tournament #3735919387, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/03/31 15:22:56 CET [2024/03/31 9:22:56 ET]
+Table '3735919387 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (550 in chips) 
+Seat 2: Aspect919 (580 in chips) 
+Seat 3: sachavdm (370 in chips) 
+Aspect919: posts small blind 10
+sachavdm: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qs 8d]
+Mahu2021: folds 
+Aspect919: calls 10
+sachavdm: raises 40 to 60
+Aspect919: calls 40
+*** FLOP *** [4h 9c 5h]
+Aspect919: checks 
+sachavdm: bets 60
+Aspect919: folds 
+Uncalled bet (60) returned to sachavdm
+sachavdm collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [4h 9c 5h]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: Aspect919 (small blind) folded on the Flop
+Seat 3: sachavdm (big blind) collected (120)
+
+
+
+PokerStars Hand #249721419660: Tournament #3735919387, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/31 15:23:13 CET [2024/03/31 9:23:13 ET]
+Table '3735919387 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (550 in chips) 
+Seat 2: Aspect919 (520 in chips) 
+Seat 3: sachavdm (430 in chips) 
+sachavdm: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qs As]
+Aspect919: raises 45 to 75
+sachavdm: calls 60
+Mahu2021: calls 45
+*** FLOP *** [3c 9c 4h]
+sachavdm: bets 113
+Mahu2021: folds 
+Aspect919: folds 
+Uncalled bet (113) returned to sachavdm
+sachavdm collected 225 from pot
+*** SUMMARY ***
+Total pot 225 | Rake 0 
+Board [3c 9c 4h]
+Seat 1: Mahu2021 (big blind) folded on the Flop
+Seat 2: Aspect919 (button) folded on the Flop
+Seat 3: sachavdm (small blind) collected (225)
+
+
+
+PokerStars Hand #249721422400: Tournament #3735919387, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/31 15:23:27 CET [2024/03/31 9:23:27 ET]
+Table '3735919387 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (475 in chips) 
+Seat 2: Aspect919 (445 in chips) 
+Seat 3: sachavdm (580 in chips) 
+Mahu2021: posts small blind 15
+Aspect919: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6h 4c]
+sachavdm: raises 30 to 60
+Mahu2021: folds 
+Aspect919: calls 30
+*** FLOP *** [2d 5h Jh]
+Aspect919: checks 
+sachavdm: bets 30
+Aspect919: calls 30
+*** TURN *** [2d 5h Jh] [2s]
+Aspect919: checks 
+sachavdm: bets 60
+Aspect919: folds 
+Uncalled bet (60) returned to sachavdm
+sachavdm collected 195 from pot
+*** SUMMARY ***
+Total pot 195 | Rake 0 
+Board [2d 5h Jh 2s]
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: Aspect919 (big blind) folded on the Turn
+Seat 3: sachavdm (button) collected (195)
+
+
+
+PokerStars Hand #249721425167: Tournament #3735919387, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/31 15:23:42 CET [2024/03/31 9:23:42 ET]
+Table '3735919387 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (460 in chips) 
+Seat 2: Aspect919 (355 in chips) 
+Seat 3: sachavdm (685 in chips) 
+Aspect919: posts small blind 15
+sachavdm: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s 2s]
+Mahu2021: folds 
+Aspect919: calls 15
+sachavdm: raises 30 to 60
+Aspect919: calls 30
+*** FLOP *** [7c Td 3h]
+Aspect919: checks 
+sachavdm: bets 60
+Aspect919: folds 
+Uncalled bet (60) returned to sachavdm
+sachavdm collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [7c Td 3h]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: Aspect919 (small blind) folded on the Flop
+Seat 3: sachavdm (big blind) collected (120)
+
+
+
+PokerStars Hand #249721428782: Tournament #3735919387, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/31 15:24:01 CET [2024/03/31 9:24:01 ET]
+Table '3735919387 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (460 in chips) 
+Seat 2: Aspect919 (295 in chips) 
+Seat 3: sachavdm (745 in chips) 
+sachavdm: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac Kc]
+Aspect919: calls 30
+sachavdm: calls 15
+Mahu2021: raises 430 to 460 and is all-in
+Aspect919: folds 
+sachavdm: folds 
+Uncalled bet (430) returned to Mahu2021
+Mahu2021 collected 90 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (90)
+Seat 2: Aspect919 (button) folded before Flop
+Seat 3: sachavdm (small blind) folded before Flop
+
+
+
+PokerStars Hand #249721431325: Tournament #3735919387, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/31 15:24:14 CET [2024/03/31 9:24:14 ET]
+Table '3735919387 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (520 in chips) 
+Seat 2: Aspect919 (265 in chips) 
+Seat 3: sachavdm (715 in chips) 
+Mahu2021: posts small blind 15
+Aspect919: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h Td]
+sachavdm: folds 
+Mahu2021: folds 
+Uncalled bet (15) returned to Aspect919
+Aspect919 collected 30 from pot
+Aspect919: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: Aspect919 (big blind) collected (30)
+Seat 3: sachavdm (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #249721432281: Tournament #3735919387, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/31 15:24:19 CET [2024/03/31 9:24:19 ET]
+Table '3735919387 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (505 in chips) 
+Seat 2: Aspect919 (280 in chips) 
+Seat 3: sachavdm (715 in chips) 
+Aspect919: posts small blind 15
+sachavdm: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c 4h]
+Mahu2021: folds 
+Aspect919: calls 15
+sachavdm: raises 30 to 60
+Aspect919: calls 30
+*** FLOP *** [Qc 5h Kd]
+Aspect919: checks 
+sachavdm: bets 30
+Aspect919: folds 
+Uncalled bet (30) returned to sachavdm
+sachavdm collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Qc 5h Kd]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: Aspect919 (small blind) folded on the Flop
+Seat 3: sachavdm (big blind) collected (120)
+
+
+
+PokerStars Hand #249721435415: Tournament #3735919387, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/31 15:24:36 CET [2024/03/31 9:24:36 ET]
+Table '3735919387 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (505 in chips) 
+Seat 2: Aspect919 (220 in chips) 
+Seat 3: sachavdm (775 in chips) 
+sachavdm: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s 2c]
+Aspect919: calls 30
+sachavdm: raises 30 to 60
+Mahu2021: folds 
+Aspect919: calls 30
+*** FLOP *** [As 8s 4c]
+sachavdm: bets 75
+Aspect919: raises 85 to 160 and is all-in
+sachavdm: calls 85
+*** TURN *** [As 8s 4c] [Ks]
+*** RIVER *** [As 8s 4c Ks] [9h]
+*** SHOW DOWN ***
+sachavdm: shows [3h 3c] (a pair of Threes)
+Aspect919: shows [8d Qc] (a pair of Eights)
+Aspect919 collected 470 from pot
+*** SUMMARY ***
+Total pot 470 | Rake 0 
+Board [As 8s 4c Ks 9h]
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: Aspect919 (button) showed [8d Qc] and won (470) with a pair of Eights
+Seat 3: sachavdm (small blind) showed [3h 3c] and lost with a pair of Threes
+
+
+
+PokerStars Hand #249721439026: Tournament #3735919387, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/31 15:24:55 CET [2024/03/31 9:24:55 ET]
+Table '3735919387 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (475 in chips) 
+Seat 2: Aspect919 (470 in chips) 
+Seat 3: sachavdm (555 in chips) 
+Mahu2021: posts small blind 15
+Aspect919: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8s Kh]
+sachavdm: raises 30 to 60
+Mahu2021: raises 415 to 475 and is all-in
+Aspect919: calls 440 and is all-in
+sachavdm: calls 415
+*** FLOP *** [Jc 7c 6s]
+*** TURN *** [Jc 7c 6s] [9s]
+*** RIVER *** [Jc 7c 6s 9s] [7d]
+*** SHOW DOWN ***
+Mahu2021: shows [8s Kh] (a pair of Sevens)
+sachavdm: shows [5h As] (a pair of Sevens - Ace kicker)
+sachavdm collected 10 from side pot
+Aspect919: shows [Ks Jh] (two pair, Jacks and Sevens)
+Aspect919 collected 1410 from main pot
+Mahu2021 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1420 Main pot 1410. Side pot 10. | Rake 0 
+Board [Jc 7c 6s 9s 7d]
+Seat 1: Mahu2021 (small blind) showed [8s Kh] and lost with a pair of Sevens
+Seat 2: Aspect919 (big blind) showed [Ks Jh] and won (1410) with two pair, Jacks and Sevens
+Seat 3: sachavdm (button) showed [5h As] and won (10) with a pair of Sevens
+
+
+

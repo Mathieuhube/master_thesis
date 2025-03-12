@@ -1,0 +1,125 @@
+﻿PokerStars Hand #243185761753: Tournament #3579681238, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/19 13:50:09 CET [2023/04/19 7:50:09 ET]
+Table '3579681238 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: manos960 (500 in chips) 
+Seat 3: henry2007 (500 in chips) 
+manos960: posts small blind 10
+henry2007: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h 8c]
+Mahu2021: folds 
+manos960: calls 10
+henry2007: checks 
+*** FLOP *** [9s Jh Td]
+manos960: checks 
+henry2007: bets 20
+manos960: folds 
+Uncalled bet (20) returned to henry2007
+henry2007 collected 40 from pot
+henry2007: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [9s Jh Td]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: manos960 (small blind) folded on the Flop
+Seat 3: henry2007 (big blind) collected (40)
+
+
+
+PokerStars Hand #243185764596: Tournament #3579681238, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/19 13:50:26 CET [2023/04/19 7:50:26 ET]
+Table '3579681238 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: manos960 (480 in chips) 
+Seat 3: henry2007 (520 in chips) 
+henry2007: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s 8c]
+manos960: folds 
+henry2007: calls 10
+Mahu2021: checks 
+*** FLOP *** [Kh 3d Kc]
+henry2007: checks 
+Mahu2021: bets 20
+henry2007: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Kh 3d Kc]
+Seat 1: Mahu2021 (big blind) collected (40)
+Seat 2: manos960 (button) folded before Flop (didn't bet)
+Seat 3: henry2007 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #243185767140: Tournament #3579681238, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/19 13:50:40 CET [2023/04/19 7:50:40 ET]
+Table '3579681238 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (520 in chips) 
+Seat 2: manos960 (480 in chips) 
+Seat 3: henry2007 (500 in chips) 
+Mahu2021: posts small blind 10
+manos960: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah 9h]
+henry2007: calls 20
+Mahu2021: calls 10
+manos960: raises 460 to 480 and is all-in
+henry2007: folds 
+Mahu2021: calls 460
+*** FLOP *** [Qd 7s 2d]
+*** TURN *** [Qd 7s 2d] [2s]
+*** RIVER *** [Qd 7s 2d 2s] [3d]
+*** SHOW DOWN ***
+Mahu2021: shows [Ah 9h] (a pair of Deuces)
+manos960: shows [Jh Ac] (a pair of Deuces - Ace+Queen+Jack kicker)
+manos960 collected 980 from pot
+*** SUMMARY ***
+Total pot 980 | Rake 0 
+Board [Qd 7s 2d 2s 3d]
+Seat 1: Mahu2021 (small blind) showed [Ah 9h] and lost with a pair of Deuces
+Seat 2: manos960 (big blind) showed [Jh Ac] and won (980) with a pair of Deuces
+Seat 3: henry2007 (button) folded before Flop
+
+
+
+PokerStars Hand #243185770181: Tournament #3579681238, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/19 13:50:57 CET [2023/04/19 7:50:57 ET]
+Table '3579681238 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (40 in chips) 
+Seat 2: manos960 (980 in chips) 
+Seat 3: henry2007 (480 in chips) 
+manos960: posts small blind 10
+henry2007: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s Ks]
+Mahu2021: raises 20 to 40 and is all-in
+manos960: calls 30
+henry2007: calls 20
+*** FLOP *** [2c Ah As]
+manos960: checks 
+henry2007: bets 20
+manos960: calls 20
+*** TURN *** [2c Ah As] [Qc]
+manos960: checks 
+henry2007: checks 
+*** RIVER *** [2c Ah As Qc] [3d]
+manos960: bets 40
+henry2007: raises 100 to 140
+manos960: folds 
+Uncalled bet (100) returned to henry2007
+*** SHOW DOWN ***
+henry2007: shows [4s 5s] (a straight, Ace to Five)
+henry2007 collected 120 from side pot
+Mahu2021: shows [9s Ks] (a pair of Aces)
+henry2007 collected 120 from main pot
+Mahu2021 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 240 Main pot 120. Side pot 120. | Rake 0 
+Board [2c Ah As Qc 3d]
+Seat 1: Mahu2021 (button) showed [9s Ks] and lost with a pair of Aces
+Seat 2: manos960 (small blind) folded on the River
+Seat 3: henry2007 (big blind) showed [4s 5s] and won (240) with a straight, Ace to Five
+
+
+

@@ -1,0 +1,489 @@
+﻿PokerStars Hand #252905430411: Tournament #3811447943, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/13 13:43:03 CET [2024/10/13 7:43:03 ET]
+Table '3811447943 1' 3-max Seat #1 is the button
+Seat 1: ManuelHaver1 (500 in chips) 
+Seat 2: lankstagangsta (500 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+lankstagangsta: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd 6d]
+ManuelHaver1: folds 
+lankstagangsta: raises 20 to 40
+Mahu2021: calls 20
+*** FLOP *** [9d 6s 7d]
+lankstagangsta: bets 28
+Mahu2021: calls 28
+*** TURN *** [9d 6s 7d] [Ks]
+lankstagangsta: checks 
+Mahu2021: checks 
+*** RIVER *** [9d 6s 7d Ks] [4s]
+lankstagangsta: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+lankstagangsta: shows [4h 5s] (a pair of Fours)
+Mahu2021: shows [Jd 6d] (a pair of Sixes)
+Mahu2021 collected 136 from pot
+*** SUMMARY ***
+Total pot 136 | Rake 0 
+Board [9d 6s 7d Ks 4s]
+Seat 1: ManuelHaver1 (button) folded before Flop (didn't bet)
+Seat 2: lankstagangsta (small blind) showed [4h 5s] and lost with a pair of Fours
+Seat 3: Mahu2021 (big blind) showed [Jd 6d] and won (136) with a pair of Sixes
+
+
+
+PokerStars Hand #252905432787: Tournament #3811447943, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/13 13:43:18 CET [2024/10/13 7:43:18 ET]
+Table '3811447943 1' 3-max Seat #2 is the button
+Seat 1: ManuelHaver1 (500 in chips) 
+Seat 2: lankstagangsta (432 in chips) 
+Seat 3: Mahu2021 (568 in chips) 
+Mahu2021: posts small blind 10
+ManuelHaver1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h 3c]
+lankstagangsta: raises 30 to 50
+Mahu2021: folds 
+ManuelHaver1: calls 30
+*** FLOP *** [9h 2s Kc]
+ManuelHaver1: bets 40
+lankstagangsta: calls 40
+*** TURN *** [9h 2s Kc] [6c]
+ManuelHaver1: checks 
+lankstagangsta: bets 67
+ManuelHaver1: calls 67
+*** RIVER *** [9h 2s Kc 6c] [Kd]
+ManuelHaver1: checks 
+lankstagangsta is disconnected 
+lankstagangsta has timed out while disconnected
+lankstagangsta: checks 
+*** SHOW DOWN ***
+ManuelHaver1: shows [Qc Jh] (a pair of Kings)
+lankstagangsta: shows [Ad Qd] (a pair of Kings - Ace kicker)
+lankstagangsta collected 324 from pot
+*** SUMMARY ***
+Total pot 324 | Rake 0 
+Board [9h 2s Kc 6c Kd]
+Seat 1: ManuelHaver1 (big blind) showed [Qc Jh] and lost with a pair of Kings
+Seat 2: lankstagangsta (button) showed [Ad Qd] and won (324) with a pair of Kings
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #252905437680: Tournament #3811447943, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/13 13:43:48 CET [2024/10/13 7:43:48 ET]
+Table '3811447943 1' 3-max Seat #3 is the button
+Seat 1: ManuelHaver1 (343 in chips) 
+Seat 2: lankstagangsta (599 in chips) 
+Seat 3: Mahu2021 (558 in chips) 
+ManuelHaver1: posts small blind 10
+lankstagangsta: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh Td]
+Mahu2021: raises 20 to 40
+ManuelHaver1: calls 30
+lankstagangsta is connected 
+lankstagangsta is disconnected 
+lankstagangsta is connected 
+lankstagangsta: folds 
+*** FLOP *** [6h 4c 5d]
+ManuelHaver1: checks 
+Mahu2021: checks 
+*** TURN *** [6h 4c 5d] [5c]
+ManuelHaver1: checks 
+Mahu2021: checks 
+*** RIVER *** [6h 4c 5d 5c] [4d]
+ManuelHaver1: bets 100
+Mahu2021: folds 
+Uncalled bet (100) returned to ManuelHaver1
+ManuelHaver1 collected 100 from pot
+ManuelHaver1: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [6h 4c 5d 5c 4d]
+Seat 1: ManuelHaver1 (small blind) collected (100)
+Seat 2: lankstagangsta (big blind) folded before Flop
+Seat 3: Mahu2021 (button) folded on the River
+
+
+
+PokerStars Hand #252905441476: Tournament #3811447943, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/13 13:44:11 CET [2024/10/13 7:44:11 ET]
+Table '3811447943 1' 3-max Seat #1 is the button
+Seat 1: ManuelHaver1 (403 in chips) 
+Seat 2: lankstagangsta (579 in chips) 
+Seat 3: Mahu2021 (518 in chips) 
+lankstagangsta: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8s Ks]
+ManuelHaver1: raises 20 to 40
+lankstagangsta: folds 
+Mahu2021: calls 20
+*** FLOP *** [9c 7s Jh]
+Mahu2021: checks 
+ManuelHaver1: checks 
+*** TURN *** [9c 7s Jh] [8c]
+Mahu2021: checks 
+ManuelHaver1: bets 20
+Mahu2021: calls 20
+*** RIVER *** [9c 7s Jh 8c] [7c]
+Mahu2021: checks 
+ManuelHaver1: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [8s Ks] (two pair, Eights and Sevens)
+ManuelHaver1: shows [Ah Ac] (two pair, Aces and Sevens)
+ManuelHaver1 collected 130 from pot
+*** SUMMARY ***
+Total pot 130 | Rake 0 
+Board [9c 7s Jh 8c 7c]
+Seat 1: ManuelHaver1 (button) showed [Ah Ac] and won (130) with two pair, Aces and Sevens
+Seat 2: lankstagangsta (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) showed [8s Ks] and lost with two pair, Eights and Sevens
+
+
+
+PokerStars Hand #252905443916: Tournament #3811447943, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/13 13:44:25 CET [2024/10/13 7:44:25 ET]
+Table '3811447943 1' 3-max Seat #2 is the button
+Seat 1: ManuelHaver1 (473 in chips) 
+Seat 2: lankstagangsta (569 in chips) 
+Seat 3: Mahu2021 (458 in chips) 
+Mahu2021: posts small blind 10
+ManuelHaver1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c Qd]
+lankstagangsta: folds 
+Mahu2021: calls 10
+ManuelHaver1: checks 
+*** FLOP *** [Js 2d Qh]
+Mahu2021: bets 20
+ManuelHaver1: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Js 2d Qh]
+Seat 1: ManuelHaver1 (big blind) folded on the Flop
+Seat 2: lankstagangsta (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) collected (40)
+
+
+
+PokerStars Hand #252905446611: Tournament #3811447943, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/13 13:44:42 CET [2024/10/13 7:44:42 ET]
+Table '3811447943 1' 3-max Seat #3 is the button
+Seat 1: ManuelHaver1 (453 in chips) 
+Seat 2: lankstagangsta (569 in chips) 
+Seat 3: Mahu2021 (478 in chips) 
+ManuelHaver1: posts small blind 10
+lankstagangsta: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h Td]
+Mahu2021: folds 
+ManuelHaver1: folds 
+Uncalled bet (10) returned to lankstagangsta
+lankstagangsta collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: ManuelHaver1 (small blind) folded before Flop
+Seat 2: lankstagangsta (big blind) collected (20)
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #252905447469: Tournament #3811447943, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/13 13:44:47 CET [2024/10/13 7:44:47 ET]
+Table '3811447943 1' 3-max Seat #1 is the button
+Seat 1: ManuelHaver1 (443 in chips) 
+Seat 2: lankstagangsta (579 in chips) 
+Seat 3: Mahu2021 (478 in chips) 
+lankstagangsta: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Th 9c]
+ManuelHaver1: folds 
+lankstagangsta: raises 20 to 40
+Mahu2021: calls 20
+*** FLOP *** [6d Js 7h]
+lankstagangsta: bets 20
+Mahu2021: calls 20
+*** TURN *** [6d Js 7h] [7d]
+lankstagangsta: checks 
+Mahu2021: checks 
+*** RIVER *** [6d Js 7h 7d] [4h]
+lankstagangsta: checks 
+Mahu2021: bets 120
+lankstagangsta: folds 
+Uncalled bet (120) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [6d Js 7h 7d 4h]
+Seat 1: ManuelHaver1 (button) folded before Flop (didn't bet)
+Seat 2: lankstagangsta (small blind) folded on the River
+Seat 3: Mahu2021 (big blind) collected (120)
+
+
+
+PokerStars Hand #252905450942: Tournament #3811447943, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/13 13:45:07 CET [2024/10/13 7:45:07 ET]
+Table '3811447943 1' 3-max Seat #2 is the button
+Seat 1: ManuelHaver1 (443 in chips) 
+Seat 2: lankstagangsta (519 in chips) 
+Seat 3: Mahu2021 (538 in chips) 
+Mahu2021: posts small blind 10
+ManuelHaver1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c 6c]
+lankstagangsta: raises 30 to 50
+Mahu2021: calls 40
+ManuelHaver1: calls 30
+*** FLOP *** [3c Th 2s]
+Mahu2021: checks 
+ManuelHaver1: bets 20
+lankstagangsta: calls 20
+Mahu2021: calls 20
+*** TURN *** [3c Th 2s] [Ts]
+Mahu2021: checks 
+ManuelHaver1: checks 
+lankstagangsta: bets 74
+Mahu2021: folds 
+ManuelHaver1: folds 
+Uncalled bet (74) returned to lankstagangsta
+lankstagangsta collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | Rake 0 
+Board [3c Th 2s Ts]
+Seat 1: ManuelHaver1 (big blind) folded on the Turn
+Seat 2: lankstagangsta (button) collected (210)
+Seat 3: Mahu2021 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #252905457414: Tournament #3811447943, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/13 13:45:46 CET [2024/10/13 7:45:46 ET]
+Table '3811447943 1' 3-max Seat #3 is the button
+Seat 1: ManuelHaver1 (373 in chips) 
+Seat 2: lankstagangsta (659 in chips) 
+Seat 3: Mahu2021 (468 in chips) 
+ManuelHaver1: posts small blind 10
+lankstagangsta: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h 3c]
+Mahu2021: folds 
+ManuelHaver1: calls 10
+lankstagangsta: raises 50 to 70
+ManuelHaver1: calls 50
+*** FLOP *** [Ah 7s Kd]
+ManuelHaver1: checks 
+lankstagangsta: bets 35
+ManuelHaver1: calls 35
+*** TURN *** [Ah 7s Kd] [4c]
+ManuelHaver1: checks 
+lankstagangsta: bets 74
+ManuelHaver1: folds 
+Uncalled bet (74) returned to lankstagangsta
+lankstagangsta collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | Rake 0 
+Board [Ah 7s Kd 4c]
+Seat 1: ManuelHaver1 (small blind) folded on the Turn
+Seat 2: lankstagangsta (big blind) collected (210)
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #252905461256: Tournament #3811447943, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/13 13:46:09 CET [2024/10/13 7:46:09 ET]
+Table '3811447943 1' 3-max Seat #1 is the button
+Seat 1: ManuelHaver1 (268 in chips) 
+Seat 2: lankstagangsta (764 in chips) 
+Seat 3: Mahu2021 (468 in chips) 
+lankstagangsta: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6h 9s]
+ManuelHaver1: raises 60 to 90
+lankstagangsta: folds 
+Mahu2021: folds 
+Uncalled bet (60) returned to ManuelHaver1
+ManuelHaver1 collected 75 from pot
+ManuelHaver1: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: ManuelHaver1 (button) collected (75)
+Seat 2: lankstagangsta (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #252905462288: Tournament #3811447943, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/13 13:46:16 CET [2024/10/13 7:46:16 ET]
+Table '3811447943 1' 3-max Seat #2 is the button
+Seat 1: ManuelHaver1 (313 in chips) 
+Seat 2: lankstagangsta (749 in chips) 
+Seat 3: Mahu2021 (438 in chips) 
+Mahu2021: posts small blind 15
+ManuelHaver1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4c 8c]
+lankstagangsta: raises 45 to 75
+Mahu2021: folds 
+ManuelHaver1: raises 45 to 120
+lankstagangsta: calls 45
+*** FLOP *** [Ts 6s Kh]
+ManuelHaver1: checks 
+lankstagangsta: bets 89
+ManuelHaver1: raises 104 to 193 and is all-in
+lankstagangsta: calls 104
+*** TURN *** [Ts 6s Kh] [Ac]
+*** RIVER *** [Ts 6s Kh Ac] [8h]
+*** SHOW DOWN ***
+ManuelHaver1: shows [Jd Tc] (a pair of Tens)
+lankstagangsta: shows [6d 6h] (three of a kind, Sixes)
+lankstagangsta collected 641 from pot
+ManuelHaver1 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 641 | Rake 0 
+Board [Ts 6s Kh Ac 8h]
+Seat 1: ManuelHaver1 (big blind) showed [Jd Tc] and lost with a pair of Tens
+Seat 2: lankstagangsta (button) showed [6d 6h] and won (641) with three of a kind, Sixes
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #252905469030: Tournament #3811447943, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/13 13:46:57 CET [2024/10/13 7:46:57 ET]
+Table '3811447943 1' 3-max Seat #3 is the button
+Seat 2: lankstagangsta (1077 in chips) 
+Seat 3: Mahu2021 (423 in chips) 
+Mahu2021: posts small blind 15
+lankstagangsta: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5h 8s]
+Mahu2021: folds 
+Uncalled bet (15) returned to lankstagangsta
+lankstagangsta collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 2: lankstagangsta (big blind) collected (30)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #252905469708: Tournament #3811447943, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/13 13:47:01 CET [2024/10/13 7:47:01 ET]
+Table '3811447943 1' 3-max Seat #2 is the button
+Seat 2: lankstagangsta (1092 in chips) 
+Seat 3: Mahu2021 (408 in chips) 
+lankstagangsta: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c Tc]
+lankstagangsta: raises 30 to 60
+Mahu2021: calls 30
+*** FLOP *** [4s Ah As]
+Mahu2021: checks 
+lankstagangsta: bets 30
+Mahu2021: folds 
+Uncalled bet (30) returned to lankstagangsta
+lankstagangsta collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [4s Ah As]
+Seat 2: lankstagangsta (button) (small blind) collected (120)
+Seat 3: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #252905471529: Tournament #3811447943, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/13 13:47:13 CET [2024/10/13 7:47:13 ET]
+Table '3811447943 1' 3-max Seat #3 is the button
+Seat 2: lankstagangsta (1152 in chips) 
+Seat 3: Mahu2021 (348 in chips) 
+Mahu2021: posts small blind 15
+lankstagangsta: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh Qs]
+Mahu2021: calls 15
+lankstagangsta: raises 45 to 75
+Mahu2021: raises 273 to 348 and is all-in
+lankstagangsta: calls 273
+*** FLOP *** [Ts 5h 2c]
+*** TURN *** [Ts 5h 2c] [7c]
+*** RIVER *** [Ts 5h 2c 7c] [7h]
+*** SHOW DOWN ***
+lankstagangsta: shows [8c Ad] (a pair of Sevens)
+Mahu2021: shows [Qh Qs] (two pair, Queens and Sevens)
+Mahu2021 collected 696 from pot
+*** SUMMARY ***
+Total pot 696 | Rake 0 
+Board [Ts 5h 2c 7c 7h]
+Seat 2: lankstagangsta (big blind) showed [8c Ad] and lost with a pair of Sevens
+Seat 3: Mahu2021 (button) (small blind) showed [Qh Qs] and won (696) with two pair, Queens and Sevens
+
+
+
+PokerStars Hand #252905474083: Tournament #3811447943, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/13 13:47:28 CET [2024/10/13 7:47:28 ET]
+Table '3811447943 1' 3-max Seat #2 is the button
+Seat 2: lankstagangsta (804 in chips) 
+Seat 3: Mahu2021 (696 in chips) 
+lankstagangsta: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Th Tc]
+lankstagangsta: raises 45 to 75
+Mahu2021: raises 621 to 696 and is all-in
+lankstagangsta: calls 621
+*** FLOP *** [Ac Td Qc]
+*** TURN *** [Ac Td Qc] [Kd]
+*** RIVER *** [Ac Td Qc Kd] [4c]
+*** SHOW DOWN ***
+Mahu2021: shows [Th Tc] (three of a kind, Tens)
+lankstagangsta: shows [8c 8s] (a pair of Eights)
+Mahu2021 collected 1392 from pot
+*** SUMMARY ***
+Total pot 1392 | Rake 0 
+Board [Ac Td Qc Kd 4c]
+Seat 2: lankstagangsta (button) (small blind) showed [8c 8s] and lost with a pair of Eights
+Seat 3: Mahu2021 (big blind) showed [Th Tc] and won (1392) with three of a kind, Tens
+
+
+
+PokerStars Hand #252905476263: Tournament #3811447943, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/13 13:47:41 CET [2024/10/13 7:47:41 ET]
+Table '3811447943 1' 3-max Seat #3 is the button
+Seat 2: lankstagangsta (108 in chips) 
+Seat 3: Mahu2021 (1392 in chips) 
+Mahu2021: posts small blind 15
+lankstagangsta: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d 7c]
+Mahu2021: folds 
+Uncalled bet (15) returned to lankstagangsta
+lankstagangsta collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 2: lankstagangsta (big blind) collected (30)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #252905476971: Tournament #3811447943, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/13 13:47:46 CET [2024/10/13 7:47:46 ET]
+Table '3811447943 1' 3-max Seat #2 is the button
+Seat 2: lankstagangsta (123 in chips) 
+Seat 3: Mahu2021 (1377 in chips) 
+lankstagangsta: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h Kc]
+lankstagangsta: raises 30 to 60
+Mahu2021: raises 1317 to 1377 and is all-in
+lankstagangsta: calls 63 and is all-in
+Uncalled bet (1254) returned to Mahu2021
+*** FLOP *** [Ks 2h 3c]
+*** TURN *** [Ks 2h 3c] [7s]
+*** RIVER *** [Ks 2h 3c 7s] [5c]
+*** SHOW DOWN ***
+Mahu2021: shows [4h Kc] (a pair of Kings)
+lankstagangsta: shows [7h Ad] (a pair of Sevens)
+Mahu2021 collected 246 from pot
+lankstagangsta finished the tournament in 2nd place
+Mahu2021 wins the tournament and receives $6.00 - congratulations!
+*** SUMMARY ***
+Total pot 246 | Rake 0 
+Board [Ks 2h 3c 7s 5c]
+Seat 2: lankstagangsta (button) (small blind) showed [7h Ad] and lost with a pair of Sevens
+Seat 3: Mahu2021 (big blind) showed [4h Kc] and won (246) with a pair of Kings
+
+
+

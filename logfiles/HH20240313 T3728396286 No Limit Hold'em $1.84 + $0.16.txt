@@ -1,0 +1,128 @@
+﻿PokerStars Hand #249402564358: Tournament #3728396286, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/03/13 20:44:24 CET [2024/03/13 15:44:24 ET]
+Table '3728396286 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: Wiaderko90 (500 in chips) 
+Seat 3: PokerJedi43 (500 in chips) 
+Wiaderko90: posts small blind 10
+PokerJedi43: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s 9h]
+Mahu2021: folds 
+Wiaderko90: calls 10
+PokerJedi43: checks 
+*** FLOP *** [2d Qd 9s]
+Wiaderko90: checks 
+PokerJedi43: checks 
+*** TURN *** [2d Qd 9s] [6s]
+Wiaderko90: checks 
+PokerJedi43: bets 20
+Wiaderko90: calls 20
+*** RIVER *** [2d Qd 9s 6s] [4h]
+Wiaderko90: checks 
+PokerJedi43: checks 
+*** SHOW DOWN ***
+Wiaderko90: shows [Ac 5s] (high card Ace)
+PokerJedi43: shows [7s 9d] (a pair of Nines)
+PokerJedi43 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [2d Qd 9s 6s 4h]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: Wiaderko90 (small blind) showed [Ac 5s] and lost with high card Ace
+Seat 3: PokerJedi43 (big blind) showed [7s 9d] and won (80) with a pair of Nines
+
+
+
+PokerStars Hand #249402575099: Tournament #3728396286, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/03/13 20:44:57 CET [2024/03/13 15:44:57 ET]
+Table '3728396286 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: Wiaderko90 (460 in chips) 
+Seat 3: PokerJedi43 (540 in chips) 
+PokerJedi43: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Th 8s]
+Wiaderko90: folds 
+PokerJedi43: calls 10
+Mahu2021: checks 
+*** FLOP *** [Kh Jc Qd]
+PokerJedi43: checks 
+Mahu2021: bets 40
+PokerJedi43: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Kh Jc Qd]
+Seat 1: Mahu2021 (big blind) collected (40)
+Seat 2: Wiaderko90 (button) folded before Flop (didn't bet)
+Seat 3: PokerJedi43 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #249402581773: Tournament #3728396286, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/03/13 20:45:17 CET [2024/03/13 15:45:17 ET]
+Table '3728396286 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (520 in chips) 
+Seat 2: Wiaderko90 (460 in chips) 
+Seat 3: PokerJedi43 (520 in chips) 
+Mahu2021: posts small blind 10
+Wiaderko90: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd Jh]
+PokerJedi43: calls 20
+Mahu2021: raises 40 to 60
+Wiaderko90: folds 
+PokerJedi43: calls 40
+*** FLOP *** [Ad Kc Qd]
+Mahu2021: checks 
+PokerJedi43: checks 
+*** TURN *** [Ad Kc Qd] [9d]
+Mahu2021: checks 
+PokerJedi43: checks 
+*** RIVER *** [Ad Kc Qd 9d] [3d]
+Mahu2021: bets 140
+PokerJedi43: raises 140 to 280
+Mahu2021: calls 140
+*** SHOW DOWN ***
+PokerJedi43: shows [Kd Th] (a flush, Ace high)
+Mahu2021: mucks hand 
+PokerJedi43 collected 700 from pot
+*** SUMMARY ***
+Total pot 700 | Rake 0 
+Board [Ad Kc Qd 9d 3d]
+Seat 1: Mahu2021 (small blind) mucked [Jd Jh]
+Seat 2: Wiaderko90 (big blind) folded before Flop
+Seat 3: PokerJedi43 (button) showed [Kd Th] and won (700) with a flush, Ace high
+
+
+
+PokerStars Hand #249402591132: Tournament #3728396286, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/03/13 20:45:46 CET [2024/03/13 15:45:46 ET]
+Table '3728396286 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (180 in chips) 
+Seat 2: Wiaderko90 (440 in chips) 
+Seat 3: PokerJedi43 (880 in chips) 
+Wiaderko90: posts small blind 10
+PokerJedi43: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks 2d]
+Mahu2021: raises 160 to 180 and is all-in
+Wiaderko90: folds 
+PokerJedi43: calls 160
+*** FLOP *** [5s Th Kh]
+*** TURN *** [5s Th Kh] [3h]
+*** RIVER *** [5s Th Kh 3h] [Ts]
+*** SHOW DOWN ***
+PokerJedi43: shows [Qd Kd] (two pair, Kings and Tens)
+Mahu2021: shows [Ks 2d] (two pair, Kings and Tens - lower kicker)
+PokerJedi43 collected 370 from pot
+Mahu2021 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 370 | Rake 0 
+Board [5s Th Kh 3h Ts]
+Seat 1: Mahu2021 (button) showed [Ks 2d] and lost with two pair, Kings and Tens
+Seat 2: Wiaderko90 (small blind) folded before Flop
+Seat 3: PokerJedi43 (big blind) showed [Qd Kd] and won (370) with two pair, Kings and Tens
+
+
+

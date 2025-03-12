@@ -1,0 +1,855 @@
+﻿PokerStars Hand #249276169847: Tournament #3725417640, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/03/06 22:00:17 CET [2024/03/06 16:00:17 ET]
+Table '3725417640 1' 3-max Seat #1 is the button
+Seat 1: settecba (500 in chips) 
+Seat 2: misaku (500 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+misaku: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s 6d]
+settecba: raises 20 to 40
+misaku: folds 
+Mahu2021: folds 
+Uncalled bet (20) returned to settecba
+settecba collected 50 from pot
+settecba: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: settecba (button) collected (50)
+Seat 2: misaku (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #249276171553: Tournament #3725417640, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/03/06 22:00:23 CET [2024/03/06 16:00:23 ET]
+Table '3725417640 1' 3-max Seat #2 is the button
+Seat 1: settecba (530 in chips) 
+Seat 2: misaku (490 in chips) 
+Seat 3: Mahu2021 (480 in chips) 
+Mahu2021: posts small blind 10
+settecba: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc 5s]
+misaku: raises 40 to 60
+Mahu2021: folds 
+settecba: folds 
+Uncalled bet (40) returned to misaku
+misaku collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: settecba (big blind) folded before Flop
+Seat 2: misaku (button) collected (50)
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #249276173961: Tournament #3725417640, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/03/06 22:00:32 CET [2024/03/06 16:00:32 ET]
+Table '3725417640 1' 3-max Seat #3 is the button
+Seat 1: settecba (510 in chips) 
+Seat 2: misaku (520 in chips) 
+Seat 3: Mahu2021 (470 in chips) 
+settecba: posts small blind 10
+misaku: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2s 6s]
+Mahu2021: folds 
+settecba: calls 10
+misaku: checks 
+*** FLOP *** [2c 9s 9c]
+settecba: checks 
+misaku: bets 40
+settecba: folds 
+Uncalled bet (40) returned to misaku
+misaku collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [2c 9s 9c]
+Seat 1: settecba (small blind) folded on the Flop
+Seat 2: misaku (big blind) collected (40)
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #249276182840: Tournament #3725417640, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/03/06 22:01:03 CET [2024/03/06 16:01:03 ET]
+Table '3725417640 1' 3-max Seat #1 is the button
+Seat 1: settecba (490 in chips) 
+Seat 2: misaku (540 in chips) 
+Seat 3: Mahu2021 (470 in chips) 
+misaku: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8s 7s]
+settecba: raises 20 to 40
+misaku: folds 
+Mahu2021: calls 20
+*** FLOP *** [9s 3d 9h]
+Mahu2021: checks 
+settecba: bets 30
+Mahu2021: folds 
+Uncalled bet (30) returned to settecba
+settecba collected 90 from pot
+settecba: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [9s 3d 9h]
+Seat 1: settecba (button) collected (90)
+Seat 2: misaku (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #249276190063: Tournament #3725417640, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/03/06 22:01:26 CET [2024/03/06 16:01:26 ET]
+Table '3725417640 1' 3-max Seat #2 is the button
+Seat 1: settecba (540 in chips) 
+Seat 2: misaku (530 in chips) 
+Seat 3: Mahu2021 (430 in chips) 
+Mahu2021: posts small blind 10
+settecba: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d 4d]
+misaku: folds 
+Mahu2021: calls 10
+settecba: checks 
+*** FLOP *** [4s Ks 8s]
+Mahu2021: checks 
+settecba: checks 
+*** TURN *** [4s Ks 8s] [2c]
+Mahu2021: checks 
+settecba: bets 20
+Mahu2021: calls 20
+*** RIVER *** [4s Ks 8s 2c] [Jh]
+Mahu2021: checks 
+settecba: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [5d 4d] (a pair of Fours)
+settecba: shows [4c 3s] (a pair of Fours)
+Mahu2021 collected 40 from pot
+settecba collected 40 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [4s Ks 8s 2c Jh]
+Seat 1: settecba (big blind) showed [4c 3s] and won (40) with a pair of Fours
+Seat 2: misaku (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) showed [5d 4d] and won (40) with a pair of Fours
+
+
+
+PokerStars Hand #249276204713: Tournament #3725417640, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/03/06 22:02:10 CET [2024/03/06 16:02:10 ET]
+Table '3725417640 1' 3-max Seat #3 is the button
+Seat 1: settecba (540 in chips) 
+Seat 2: misaku (530 in chips) 
+Seat 3: Mahu2021 (430 in chips) 
+settecba: posts small blind 10
+misaku: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d As]
+Mahu2021: raises 20 to 40
+settecba: calls 30
+misaku: calls 20
+*** FLOP *** [9d 6h 3d]
+settecba: checks 
+misaku: checks 
+Mahu2021: checks 
+*** TURN *** [9d 6h 3d] [9h]
+settecba: checks 
+misaku: checks 
+Mahu2021: bets 40
+settecba: calls 40
+misaku: folds 
+*** RIVER *** [9d 6h 3d 9h] [8h]
+settecba: checks 
+Mahu2021: bets 200
+settecba: folds 
+Uncalled bet (200) returned to Mahu2021
+Mahu2021 collected 200 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [9d 6h 3d 9h 8h]
+Seat 1: settecba (small blind) folded on the River
+Seat 2: misaku (big blind) folded on the Turn
+Seat 3: Mahu2021 (button) collected (200)
+
+
+
+PokerStars Hand #249276223854: Tournament #3725417640, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/03/06 22:03:06 CET [2024/03/06 16:03:06 ET]
+Table '3725417640 1' 3-max Seat #1 is the button
+Seat 1: settecba (460 in chips) 
+Seat 2: misaku (490 in chips) 
+Seat 3: Mahu2021 (550 in chips) 
+misaku: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6h As]
+settecba: folds 
+misaku: raises 40 to 60
+Mahu2021: calls 40
+*** FLOP *** [3d Ts 2h]
+misaku: bets 60
+Mahu2021: folds 
+Uncalled bet (60) returned to misaku
+misaku collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [3d Ts 2h]
+Seat 1: settecba (button) folded before Flop (didn't bet)
+Seat 2: misaku (small blind) collected (120)
+Seat 3: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #249276232120: Tournament #3725417640, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/06 22:03:29 CET [2024/03/06 16:03:29 ET]
+Table '3725417640 1' 3-max Seat #2 is the button
+Seat 1: settecba (460 in chips) 
+Seat 2: misaku (550 in chips) 
+Seat 3: Mahu2021 (490 in chips) 
+Mahu2021: posts small blind 15
+settecba: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js Ad]
+misaku: folds 
+Mahu2021: raises 30 to 60
+settecba: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: settecba (big blind) folded before Flop
+Seat 2: misaku (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) collected (60)
+
+
+
+PokerStars Hand #249276234923: Tournament #3725417640, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/06 22:03:37 CET [2024/03/06 16:03:37 ET]
+Table '3725417640 1' 3-max Seat #3 is the button
+Seat 1: settecba (430 in chips) 
+Seat 2: misaku (550 in chips) 
+Seat 3: Mahu2021 (520 in chips) 
+settecba: posts small blind 15
+misaku: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4c 8d]
+Mahu2021: folds 
+settecba: calls 15
+misaku: raises 90 to 120
+settecba: folds 
+Uncalled bet (90) returned to misaku
+misaku collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: settecba (small blind) folded before Flop
+Seat 2: misaku (big blind) collected (60)
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #249276238849: Tournament #3725417640, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/06 22:03:49 CET [2024/03/06 16:03:49 ET]
+Table '3725417640 1' 3-max Seat #1 is the button
+Seat 1: settecba (400 in chips) 
+Seat 2: misaku (580 in chips) 
+Seat 3: Mahu2021 (520 in chips) 
+misaku: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6h 4h]
+settecba: raises 180 to 210
+misaku: folds 
+Mahu2021: folds 
+Uncalled bet (180) returned to settecba
+settecba collected 75 from pot
+settecba: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: settecba (button) collected (75)
+Seat 2: misaku (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #249276244105: Tournament #3725417640, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/06 22:04:04 CET [2024/03/06 16:04:04 ET]
+Table '3725417640 1' 3-max Seat #2 is the button
+Seat 1: settecba (445 in chips) 
+Seat 2: misaku (565 in chips) 
+Seat 3: Mahu2021 (490 in chips) 
+Mahu2021: posts small blind 15
+settecba: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh 2c]
+misaku: folds 
+Mahu2021: folds 
+Uncalled bet (15) returned to settecba
+settecba collected 30 from pot
+settecba: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: settecba (big blind) collected (30)
+Seat 2: misaku (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #249276246887: Tournament #3725417640, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/06 22:04:12 CET [2024/03/06 16:04:12 ET]
+Table '3725417640 1' 3-max Seat #3 is the button
+Seat 1: settecba (460 in chips) 
+Seat 2: misaku (565 in chips) 
+Seat 3: Mahu2021 (475 in chips) 
+settecba: posts small blind 15
+misaku: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c Jh]
+Mahu2021: calls 30
+settecba: folds 
+misaku: checks 
+*** FLOP *** [4c 5s 5d]
+misaku: checks 
+Mahu2021: checks 
+*** TURN *** [4c 5s 5d] [Qs]
+misaku: checks 
+Mahu2021: checks 
+*** RIVER *** [4c 5s 5d Qs] [Td]
+misaku: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+misaku: shows [8s 3h] (a pair of Fives)
+Mahu2021: shows [9c Jh] (a pair of Fives - Queen+Jack kicker)
+Mahu2021 collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Board [4c 5s 5d Qs Td]
+Seat 1: settecba (small blind) folded before Flop
+Seat 2: misaku (big blind) showed [8s 3h] and lost with a pair of Fives
+Seat 3: Mahu2021 (button) showed [9c Jh] and won (75) with a pair of Fives
+
+
+
+PokerStars Hand #249276253066: Tournament #3725417640, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/06 22:04:30 CET [2024/03/06 16:04:30 ET]
+Table '3725417640 1' 3-max Seat #1 is the button
+Seat 1: settecba (445 in chips) 
+Seat 2: misaku (535 in chips) 
+Seat 3: Mahu2021 (520 in chips) 
+misaku: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h 8s]
+settecba: folds 
+misaku: raises 60 to 90
+Mahu2021: folds 
+Uncalled bet (60) returned to misaku
+misaku collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: settecba (button) folded before Flop (didn't bet)
+Seat 2: misaku (small blind) collected (60)
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #249276256097: Tournament #3725417640, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/06 22:04:39 CET [2024/03/06 16:04:39 ET]
+Table '3725417640 1' 3-max Seat #2 is the button
+Seat 1: settecba (445 in chips) 
+Seat 2: misaku (565 in chips) 
+Seat 3: Mahu2021 (490 in chips) 
+Mahu2021: posts small blind 15
+settecba: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c Qc]
+misaku: raises 90 to 120
+Mahu2021: folds 
+settecba: folds 
+Uncalled bet (90) returned to misaku
+misaku collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: settecba (big blind) folded before Flop
+Seat 2: misaku (button) collected (75)
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #249276259587: Tournament #3725417640, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/06 22:04:49 CET [2024/03/06 16:04:49 ET]
+Table '3725417640 1' 3-max Seat #3 is the button
+Seat 1: settecba (415 in chips) 
+Seat 2: misaku (610 in chips) 
+Seat 3: Mahu2021 (475 in chips) 
+settecba: posts small blind 15
+misaku: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad Kh]
+Mahu2021: raises 30 to 60
+settecba: folds 
+misaku: calls 30
+*** FLOP *** [2s 9c 7d]
+misaku: checks 
+Mahu2021: checks 
+*** TURN *** [2s 9c 7d] [Jd]
+misaku: checks 
+Mahu2021: bets 60
+misaku: calls 60
+*** RIVER *** [2s 9c 7d Jd] [7s]
+misaku: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+misaku: shows [8s 6c] (a pair of Sevens)
+Mahu2021: shows [Ad Kh] (a pair of Sevens - Ace kicker)
+Mahu2021 collected 255 from pot
+*** SUMMARY ***
+Total pot 255 | Rake 0 
+Board [2s 9c 7d Jd 7s]
+Seat 1: settecba (small blind) folded before Flop
+Seat 2: misaku (big blind) showed [8s 6c] and lost with a pair of Sevens
+Seat 3: Mahu2021 (button) showed [Ad Kh] and won (255) with a pair of Sevens
+
+
+
+PokerStars Hand #249276270207: Tournament #3725417640, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/06 22:05:19 CET [2024/03/06 16:05:19 ET]
+Table '3725417640 1' 3-max Seat #1 is the button
+Seat 1: settecba (400 in chips) 
+Seat 2: misaku (490 in chips) 
+Seat 3: Mahu2021 (610 in chips) 
+misaku: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s 8c]
+settecba: folds 
+misaku: calls 15
+Mahu2021: checks 
+*** FLOP *** [Qd 4d 7c]
+misaku: checks 
+Mahu2021: checks 
+*** TURN *** [Qd 4d 7c] [3s]
+misaku: bets 60
+Mahu2021: folds 
+Uncalled bet (60) returned to misaku
+misaku collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Qd 4d 7c 3s]
+Seat 1: settecba (button) folded before Flop (didn't bet)
+Seat 2: misaku (small blind) collected (60)
+Seat 3: Mahu2021 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #249276275549: Tournament #3725417640, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/06 22:05:34 CET [2024/03/06 16:05:34 ET]
+Table '3725417640 1' 3-max Seat #2 is the button
+Seat 1: settecba (400 in chips) 
+Seat 2: misaku (520 in chips) 
+Seat 3: Mahu2021 (580 in chips) 
+Mahu2021: posts small blind 15
+settecba: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts 5d]
+misaku: calls 30
+Mahu2021: folds 
+settecba: checks 
+*** FLOP *** [2s Kc Td]
+settecba: checks 
+misaku: bets 90
+settecba: folds 
+Uncalled bet (90) returned to misaku
+misaku collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Board [2s Kc Td]
+Seat 1: settecba (big blind) folded on the Flop
+Seat 2: misaku (button) collected (75)
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #249276287549: Tournament #3725417640, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/06 22:06:09 CET [2024/03/06 16:06:09 ET]
+Table '3725417640 1' 3-max Seat #3 is the button
+Seat 1: settecba (370 in chips) 
+Seat 2: misaku (565 in chips) 
+Seat 3: Mahu2021 (565 in chips) 
+settecba: posts small blind 15
+misaku: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2s 6s]
+Mahu2021: folds 
+settecba: calls 15
+misaku: checks 
+*** FLOP *** [Qh 4h 8h]
+settecba: checks 
+misaku: bets 60
+settecba: calls 60
+*** TURN *** [Qh 4h 8h] [2d]
+settecba: checks 
+misaku: checks 
+*** RIVER *** [Qh 4h 8h 2d] [7d]
+settecba: bets 135
+misaku: folds 
+Uncalled bet (135) returned to settecba
+settecba collected 180 from pot
+settecba: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [Qh 4h 8h 2d 7d]
+Seat 1: settecba (small blind) collected (180)
+Seat 2: misaku (big blind) folded on the River
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #249276304958: Tournament #3725417640, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/03/06 22:06:59 CET [2024/03/06 16:06:59 ET]
+Table '3725417640 1' 3-max Seat #1 is the button
+Seat 1: settecba (460 in chips) 
+Seat 2: misaku (475 in chips) 
+Seat 3: Mahu2021 (565 in chips) 
+misaku: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s 5d]
+settecba: folds 
+misaku: calls 20
+Mahu2021: checks 
+*** FLOP *** [7c 7s Js]
+misaku: checks 
+Mahu2021: checks 
+*** TURN *** [7c 7s Js] [2d]
+misaku: checks 
+Mahu2021: checks 
+*** RIVER *** [7c 7s Js 2d] [Kc]
+misaku: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+misaku: shows [5h Qh] (a pair of Sevens)
+Mahu2021: mucks hand 
+misaku collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [7c 7s Js 2d Kc]
+Seat 1: settecba (button) folded before Flop (didn't bet)
+Seat 2: misaku (small blind) showed [5h Qh] and won (80) with a pair of Sevens
+Seat 3: Mahu2021 (big blind) mucked [9s 5d]
+
+
+
+PokerStars Hand #249276312826: Tournament #3725417640, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/03/06 22:07:22 CET [2024/03/06 16:07:22 ET]
+Table '3725417640 1' 3-max Seat #2 is the button
+Seat 1: settecba (460 in chips) 
+Seat 2: misaku (515 in chips) 
+Seat 3: Mahu2021 (525 in chips) 
+Mahu2021: posts small blind 20
+settecba: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3c Td]
+misaku: raises 100 to 140
+Mahu2021: folds 
+settecba: folds 
+Uncalled bet (100) returned to misaku
+misaku collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: settecba (big blind) folded before Flop
+Seat 2: misaku (button) collected (100)
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #249276317619: Tournament #3725417640, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/03/06 22:07:35 CET [2024/03/06 16:07:35 ET]
+Table '3725417640 1' 3-max Seat #3 is the button
+Seat 1: settecba (420 in chips) 
+Seat 2: misaku (575 in chips) 
+Seat 3: Mahu2021 (505 in chips) 
+settecba: posts small blind 20
+misaku: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Th 4c]
+Mahu2021: folds 
+settecba: raises 380 to 420 and is all-in
+misaku: calls 380
+*** FLOP *** [8h 8d 7d]
+*** TURN *** [8h 8d 7d] [5h]
+*** RIVER *** [8h 8d 7d 5h] [7h]
+*** SHOW DOWN ***
+settecba: shows [Tc 9s] (two pair, Eights and Sevens)
+misaku: shows [Ad 7s] (a full house, Sevens full of Eights)
+misaku collected 840 from pot
+settecba finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 840 | Rake 0 
+Board [8h 8d 7d 5h 7h]
+Seat 1: settecba (small blind) showed [Tc 9s] and lost with two pair, Eights and Sevens
+Seat 2: misaku (big blind) showed [Ad 7s] and won (840) with a full house, Sevens full of Eights
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #249276323797: Tournament #3725417640, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/03/06 22:07:54 CET [2024/03/06 16:07:54 ET]
+Table '3725417640 1' 3-max Seat #2 is the button
+Seat 2: misaku (995 in chips) 
+Seat 3: Mahu2021 (505 in chips) 
+misaku: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2s 9c]
+misaku: raises 120 to 160
+Mahu2021: folds 
+Uncalled bet (120) returned to misaku
+misaku collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: misaku (button) (small blind) collected (80)
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #249276325875: Tournament #3725417640, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/03/06 22:08:00 CET [2024/03/06 16:08:00 ET]
+Table '3725417640 1' 3-max Seat #3 is the button
+Seat 2: misaku (1035 in chips) 
+Seat 3: Mahu2021 (465 in chips) 
+Mahu2021: posts small blind 20
+misaku: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh Qd]
+Mahu2021: calls 20
+misaku: checks 
+*** FLOP *** [7h 5c Kd]
+misaku: bets 40
+Mahu2021: calls 40
+*** TURN *** [7h 5c Kd] [Jh]
+misaku: checks 
+Mahu2021: checks 
+*** RIVER *** [7h 5c Kd Jh] [9c]
+misaku: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+misaku: shows [5s 4h] (a pair of Fives)
+Mahu2021: shows [Qh Qd] (a pair of Queens)
+Mahu2021 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [7h 5c Kd Jh 9c]
+Seat 2: misaku (big blind) showed [5s 4h] and lost with a pair of Fives
+Seat 3: Mahu2021 (button) (small blind) showed [Qh Qd] and won (160) with a pair of Queens
+
+
+
+PokerStars Hand #249276332538: Tournament #3725417640, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/03/06 22:08:19 CET [2024/03/06 16:08:19 ET]
+Table '3725417640 1' 3-max Seat #2 is the button
+Seat 2: misaku (955 in chips) 
+Seat 3: Mahu2021 (545 in chips) 
+misaku: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d 8c]
+misaku: calls 20
+Mahu2021: checks 
+*** FLOP *** [4s Qc Qh]
+Mahu2021: checks 
+misaku: checks 
+*** TURN *** [4s Qc Qh] [2c]
+Mahu2021: checks 
+misaku: checks 
+*** RIVER *** [4s Qc Qh 2c] [9s]
+Mahu2021: bets 40
+misaku: calls 40
+*** SHOW DOWN ***
+Mahu2021: shows [9d 8c] (two pair, Queens and Nines)
+misaku: mucks hand 
+Mahu2021 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [4s Qc Qh 2c 9s]
+Seat 2: misaku (button) (small blind) mucked [5s 9h]
+Seat 3: Mahu2021 (big blind) showed [9d 8c] and won (160) with two pair, Queens and Nines
+
+
+
+PokerStars Hand #249276337898: Tournament #3725417640, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/03/06 22:08:34 CET [2024/03/06 16:08:34 ET]
+Table '3725417640 1' 3-max Seat #3 is the button
+Seat 2: misaku (875 in chips) 
+Seat 3: Mahu2021 (625 in chips) 
+Mahu2021: posts small blind 20
+misaku: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s Ac]
+Mahu2021: raises 40 to 80
+misaku: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: misaku (big blind) folded before Flop
+Seat 3: Mahu2021 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #249276339791: Tournament #3725417640, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/03/06 22:08:40 CET [2024/03/06 16:08:40 ET]
+Table '3725417640 1' 3-max Seat #2 is the button
+Seat 2: misaku (835 in chips) 
+Seat 3: Mahu2021 (665 in chips) 
+misaku: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c 5d]
+misaku: raises 80 to 120
+Mahu2021: folds 
+Uncalled bet (80) returned to misaku
+misaku collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: misaku (button) (small blind) collected (80)
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #249276342076: Tournament #3725417640, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/03/06 22:08:47 CET [2024/03/06 16:08:47 ET]
+Table '3725417640 1' 3-max Seat #3 is the button
+Seat 2: misaku (875 in chips) 
+Seat 3: Mahu2021 (625 in chips) 
+Mahu2021: posts small blind 20
+misaku: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As 3h]
+Mahu2021: raises 40 to 80
+misaku: calls 40
+*** FLOP *** [6s 6d 5s]
+misaku: bets 80
+Mahu2021: folds 
+Uncalled bet (80) returned to misaku
+misaku collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [6s 6d 5s]
+Seat 2: misaku (big blind) collected (160)
+Seat 3: Mahu2021 (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #249276346108: Tournament #3725417640, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/03/06 22:08:59 CET [2024/03/06 16:08:59 ET]
+Table '3725417640 1' 3-max Seat #2 is the button
+Seat 2: misaku (955 in chips) 
+Seat 3: Mahu2021 (545 in chips) 
+misaku: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s 7s]
+misaku: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: misaku (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (40)
+
+
+
+PokerStars Hand #249276347602: Tournament #3725417640, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/03/06 22:09:03 CET [2024/03/06 16:09:03 ET]
+Table '3725417640 1' 3-max Seat #3 is the button
+Seat 2: misaku (935 in chips) 
+Seat 3: Mahu2021 (565 in chips) 
+Mahu2021: posts small blind 20
+misaku: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh 9h]
+Mahu2021: raises 40 to 80
+misaku: calls 40
+*** FLOP *** [2s Ah Th]
+misaku: checks 
+Mahu2021: bets 80
+misaku: calls 80
+*** TURN *** [2s Ah Th] [4h]
+misaku: bets 80
+Mahu2021: calls 80
+*** RIVER *** [2s Ah Th 4h] [8c]
+misaku: bets 120
+Mahu2021: raises 200 to 320
+misaku: raises 200 to 520
+Mahu2021: calls 5 and is all-in
+Uncalled bet (195) returned to misaku
+*** SHOW DOWN ***
+misaku: shows [5h 8h] (a flush, Ace high)
+Mahu2021: shows [Jh 9h] (a flush, Ace high - Jack higher)
+Mahu2021 collected 1130 from pot
+*** SUMMARY ***
+Total pot 1130 | Rake 0 
+Board [2s Ah Th 4h 8c]
+Seat 2: misaku (big blind) showed [5h 8h] and lost with a flush, Ace high
+Seat 3: Mahu2021 (button) (small blind) showed [Jh 9h] and won (1130) with a flush, Ace high
+
+
+
+PokerStars Hand #249276358425: Tournament #3725417640, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/03/06 22:09:34 CET [2024/03/06 16:09:34 ET]
+Table '3725417640 1' 3-max Seat #2 is the button
+Seat 2: misaku (370 in chips) 
+Seat 3: Mahu2021 (1130 in chips) 
+misaku: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s Ts]
+misaku: calls 30
+Mahu2021: checks 
+*** FLOP *** [Js 8c Ah]
+Mahu2021: checks 
+misaku: bets 60
+Mahu2021: calls 60
+*** TURN *** [Js 8c Ah] [7d]
+Mahu2021: checks 
+misaku: checks 
+*** RIVER *** [Js 8c Ah 7d] [Jh]
+Mahu2021: checks 
+misaku: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [7s Ts] (two pair, Jacks and Sevens)
+misaku: mucks hand 
+Mahu2021 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Js 8c Ah 7d Jh]
+Seat 2: misaku (button) (small blind) mucked [5c Qh]
+Seat 3: Mahu2021 (big blind) showed [7s Ts] and won (240) with two pair, Jacks and Sevens
+
+
+
+PokerStars Hand #249276364916: Tournament #3725417640, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/03/06 22:09:53 CET [2024/03/06 16:09:53 ET]
+Table '3725417640 1' 3-max Seat #3 is the button
+Seat 2: misaku (250 in chips) 
+Seat 3: Mahu2021 (1250 in chips) 
+Mahu2021: posts small blind 30
+misaku: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h Jd]
+Mahu2021: raises 1190 to 1250 and is all-in
+misaku: folds 
+Uncalled bet (1190) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: misaku (big blind) folded before Flop
+Seat 3: Mahu2021 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #249276367719: Tournament #3725417640, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/03/06 22:10:01 CET [2024/03/06 16:10:01 ET]
+Table '3725417640 1' 3-max Seat #2 is the button
+Seat 2: misaku (190 in chips) 
+Seat 3: Mahu2021 (1310 in chips) 
+misaku: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah 9h]
+misaku: raises 130 to 190 and is all-in
+Mahu2021: calls 130
+*** FLOP *** [Qh Ad 5s]
+*** TURN *** [Qh Ad 5s] [Ac]
+*** RIVER *** [Qh Ad 5s Ac] [5c]
+*** SHOW DOWN ***
+Mahu2021: shows [Ah 9h] (a full house, Aces full of Fives)
+misaku: shows [8d 9c] (two pair, Aces and Fives)
+Mahu2021 collected 380 from pot
+misaku finished the tournament in 2nd place
+Mahu2021 wins the tournament and receives $6.00 - congratulations!
+*** SUMMARY ***
+Total pot 380 | Rake 0 
+Board [Qh Ad 5s Ac 5c]
+Seat 2: misaku (button) (small blind) showed [8d 9c] and lost with two pair, Aces and Fives
+Seat 3: Mahu2021 (big blind) showed [Ah 9h] and won (380) with a full house, Aces full of Fives
+
+
+

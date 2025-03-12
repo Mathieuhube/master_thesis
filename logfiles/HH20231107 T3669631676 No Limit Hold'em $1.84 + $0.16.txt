@@ -1,0 +1,267 @@
+﻿PokerStars Hand #246980180882: Tournament #3669631676, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/07 18:13:04 CET [2023/11/07 12:13:04 ET]
+Table '3669631676 1' 3-max Seat #1 is the button
+Seat 1: Nomes192 (500 in chips) 
+Seat 2: Skhaf (500 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+Skhaf: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h Tc]
+Nomes192: calls 20
+Skhaf: calls 10
+Mahu2021: checks 
+*** FLOP *** [7c 5s Qc]
+Skhaf: checks 
+Mahu2021: checks 
+Nomes192: checks 
+*** TURN *** [7c 5s Qc] [4d]
+Skhaf: checks 
+Mahu2021: checks 
+Nomes192: bets 60
+Skhaf: folds 
+Mahu2021: folds 
+Uncalled bet (60) returned to Nomes192
+Nomes192 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [7c 5s Qc 4d]
+Seat 1: Nomes192 (button) collected (60)
+Seat 2: Skhaf (small blind) folded on the Turn
+Seat 3: Mahu2021 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #246980188198: Tournament #3669631676, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/07 18:13:30 CET [2023/11/07 12:13:30 ET]
+Table '3669631676 1' 3-max Seat #2 is the button
+Seat 1: Nomes192 (540 in chips) 
+Seat 2: Skhaf (480 in chips) 
+Seat 3: Mahu2021 (480 in chips) 
+Mahu2021: posts small blind 10
+Nomes192: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts Qh]
+Skhaf: raises 20 to 40
+Mahu2021: calls 30
+Nomes192: calls 20
+*** FLOP *** [4c 6h Ac]
+Mahu2021: checks 
+Nomes192: checks 
+Skhaf: checks 
+*** TURN *** [4c 6h Ac] [Th]
+Mahu2021: bets 40
+Nomes192: raises 100 to 140
+Skhaf: folds 
+Mahu2021: folds 
+Uncalled bet (100) returned to Nomes192
+Nomes192 collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [4c 6h Ac Th]
+Seat 1: Nomes192 (big blind) collected (200)
+Seat 2: Skhaf (button) folded on the Turn
+Seat 3: Mahu2021 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #246980195524: Tournament #3669631676, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/07 18:13:56 CET [2023/11/07 12:13:56 ET]
+Table '3669631676 1' 3-max Seat #3 is the button
+Seat 1: Nomes192 (660 in chips) 
+Seat 2: Skhaf (440 in chips) 
+Seat 3: Mahu2021 (400 in chips) 
+Nomes192: posts small blind 10
+Skhaf: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8s 9s]
+Mahu2021: raises 20 to 40
+Nomes192: raises 20 to 60
+Skhaf: raises 20 to 80
+Mahu2021: folds 
+Nomes192: calls 20
+*** FLOP *** [As 2s Qc]
+Nomes192: checks 
+Skhaf: bets 360 and is all-in
+Nomes192: calls 360
+*** TURN *** [As 2s Qc] [Jd]
+*** RIVER *** [As 2s Qc Jd] [5h]
+*** SHOW DOWN ***
+Nomes192: shows [Qs Ts] (a pair of Queens)
+Skhaf: shows [Ac Kd] (a pair of Aces)
+Skhaf collected 920 from pot
+*** SUMMARY ***
+Total pot 920 | Rake 0 
+Board [As 2s Qc Jd 5h]
+Seat 1: Nomes192 (small blind) showed [Qs Ts] and lost with a pair of Queens
+Seat 2: Skhaf (big blind) showed [Ac Kd] and won (920) with a pair of Aces
+Seat 3: Mahu2021 (button) folded before Flop
+
+
+
+PokerStars Hand #246980204151: Tournament #3669631676, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/07 18:14:26 CET [2023/11/07 12:14:26 ET]
+Table '3669631676 1' 3-max Seat #1 is the button
+Seat 1: Nomes192 (220 in chips) 
+Seat 2: Skhaf (920 in chips) 
+Seat 3: Mahu2021 (360 in chips) 
+Skhaf: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts 6c]
+Nomes192: folds 
+Skhaf: calls 10
+Mahu2021: checks 
+*** FLOP *** [7d 4c 5d]
+Skhaf: bets 40
+Mahu2021: calls 40
+*** TURN *** [7d 4c 5d] [3s]
+Skhaf: checks 
+Mahu2021: bets 40
+Skhaf: calls 40
+*** RIVER *** [7d 4c 5d 3s] [3c]
+Skhaf: bets 20
+Mahu2021: raises 100 to 120
+Skhaf: calls 100
+*** SHOW DOWN ***
+Mahu2021: shows [Ts 6c] (a straight, Three to Seven)
+Skhaf: mucks hand 
+Mahu2021 collected 440 from pot
+*** SUMMARY ***
+Total pot 440 | Rake 0 
+Board [7d 4c 5d 3s 3c]
+Seat 1: Nomes192 (button) folded before Flop (didn't bet)
+Seat 2: Skhaf (small blind) mucked [9c 9s]
+Seat 3: Mahu2021 (big blind) showed [Ts 6c] and won (440) with a straight, Three to Seven
+
+
+
+PokerStars Hand #246980212690: Tournament #3669631676, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/07 18:14:57 CET [2023/11/07 12:14:57 ET]
+Table '3669631676 1' 3-max Seat #2 is the button
+Seat 1: Nomes192 (220 in chips) 
+Seat 2: Skhaf (700 in chips) 
+Seat 3: Mahu2021 (580 in chips) 
+Mahu2021: posts small blind 10
+Nomes192: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s Ah]
+Skhaf: raises 20 to 40
+Mahu2021: calls 30
+Nomes192: calls 20
+*** FLOP *** [2d 7c Qs]
+Mahu2021: checks 
+Nomes192: checks 
+Skhaf: checks 
+*** TURN *** [2d 7c Qs] [8h]
+Mahu2021: checks 
+Nomes192: checks 
+Skhaf: checks 
+*** RIVER *** [2d 7c Qs 8h] [7d]
+Mahu2021: bets 40
+Nomes192: calls 40
+Skhaf: folds 
+*** SHOW DOWN ***
+Mahu2021: shows [4s Ah] (a pair of Sevens)
+Nomes192: shows [Td Ac] (a pair of Sevens - Ace+Queen+Ten kicker)
+Nomes192 collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [2d 7c Qs 8h 7d]
+Seat 1: Nomes192 (big blind) showed [Td Ac] and won (200) with a pair of Sevens
+Seat 2: Skhaf (button) folded on the River
+Seat 3: Mahu2021 (small blind) showed [4s Ah] and lost with a pair of Sevens
+
+
+
+PokerStars Hand #246980222098: Tournament #3669631676, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/07 18:15:30 CET [2023/11/07 12:15:30 ET]
+Table '3669631676 1' 3-max Seat #3 is the button
+Seat 1: Nomes192 (340 in chips) 
+Seat 2: Skhaf (660 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+Nomes192: posts small blind 10
+Skhaf: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh 6s]
+Mahu2021: folds 
+Nomes192: calls 10
+Skhaf: raises 20 to 40
+Nomes192: calls 20
+*** FLOP *** [6c As 9d]
+Nomes192: bets 80
+Skhaf: raises 80 to 160
+Nomes192: calls 80
+*** TURN *** [6c As 9d] [4s]
+Nomes192: bets 140 and is all-in
+Skhaf: folds 
+Uncalled bet (140) returned to Nomes192
+Nomes192 collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Board [6c As 9d 4s]
+Seat 1: Nomes192 (small blind) collected (400)
+Seat 2: Skhaf (big blind) folded on the Turn
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #246980235757: Tournament #3669631676, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/07 18:16:18 CET [2023/11/07 12:16:18 ET]
+Table '3669631676 1' 3-max Seat #1 is the button
+Seat 1: Nomes192 (540 in chips) 
+Seat 2: Skhaf (460 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+Skhaf: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8s 4s]
+Nomes192: calls 30
+Skhaf: folds 
+Mahu2021: checks 
+*** FLOP *** [9s 8c 2c]
+Mahu2021: checks 
+Nomes192: checks 
+*** TURN *** [9s 8c 2c] [9h]
+Mahu2021: bets 60
+Nomes192: raises 195 to 255
+Mahu2021: folds 
+Uncalled bet (195) returned to Nomes192
+Nomes192 collected 195 from pot
+*** SUMMARY ***
+Total pot 195 | Rake 0 
+Board [9s 8c 2c 9h]
+Seat 1: Nomes192 (button) collected (195)
+Seat 2: Skhaf (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #246980244409: Tournament #3669631676, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/07 18:16:49 CET [2023/11/07 12:16:49 ET]
+Table '3669631676 1' 3-max Seat #2 is the button
+Seat 1: Nomes192 (645 in chips) 
+Seat 2: Skhaf (445 in chips) 
+Seat 3: Mahu2021 (410 in chips) 
+Mahu2021: posts small blind 15
+Nomes192: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2s Js]
+Skhaf: calls 30
+Mahu2021: calls 15
+Nomes192: checks 
+*** FLOP *** [4d 6s 7s]
+Mahu2021: bets 90
+Nomes192: calls 90
+Skhaf: raises 90 to 180
+Mahu2021: raises 200 to 380 and is all-in
+Nomes192: folds 
+Skhaf: calls 200
+*** TURN *** [4d 6s 7s] [6h]
+*** RIVER *** [4d 6s 7s 6h] [8h]
+*** SHOW DOWN ***
+Mahu2021: shows [2s Js] (a pair of Sixes)
+Skhaf: shows [9h 5h] (a straight, Five to Nine)
+Skhaf collected 940 from pot
+Mahu2021 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 940 | Rake 0 
+Board [4d 6s 7s 6h 8h]
+Seat 1: Nomes192 (big blind) folded on the Flop
+Seat 2: Skhaf (button) showed [9h 5h] and won (940) with a straight, Five to Nine
+Seat 3: Mahu2021 (small blind) showed [2s Js] and lost with a pair of Sixes
+
+
+

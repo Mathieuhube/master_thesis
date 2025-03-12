@@ -1,0 +1,461 @@
+﻿PokerStars Hand #243294211639: Tournament #3582099410, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/24 20:45:33 CET [2023/04/24 14:45:33 ET]
+Table '3582099410 1' 3-max Seat #1 is the button
+Seat 1: PurgenPoker (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: Enescu A. (500 in chips) 
+Mahu2021: posts small blind 10
+Enescu A.: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s 8d]
+PurgenPoker: folds 
+Mahu2021: calls 10
+Enescu A.: raises 480 to 500 and is all-in
+Mahu2021: folds 
+Uncalled bet (480) returned to Enescu A.
+Enescu A. collected 40 from pot
+Enescu A.: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: PurgenPoker (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: Enescu A. (big blind) collected (40)
+
+
+
+PokerStars Hand #243294216695: Tournament #3582099410, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/24 20:45:46 CET [2023/04/24 14:45:46 ET]
+Table '3582099410 1' 3-max Seat #2 is the button
+Seat 1: PurgenPoker (500 in chips) 
+Seat 2: Mahu2021 (480 in chips) 
+Seat 3: Enescu A. (520 in chips) 
+Enescu A.: posts small blind 10
+PurgenPoker: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh 2h]
+Mahu2021: folds 
+Enescu A.: calls 10
+PurgenPoker: checks 
+*** FLOP *** [7d Jh 5c]
+Enescu A.: checks 
+PurgenPoker: checks 
+*** TURN *** [7d Jh 5c] [5h]
+Enescu A.: checks 
+PurgenPoker: bets 20
+Enescu A.: folds 
+Uncalled bet (20) returned to PurgenPoker
+PurgenPoker collected 40 from pot
+PurgenPoker: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [7d Jh 5c 5h]
+Seat 1: PurgenPoker (big blind) collected (40)
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: Enescu A. (small blind) folded on the Turn
+
+
+
+PokerStars Hand #243294228271: Tournament #3582099410, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/24 20:46:18 CET [2023/04/24 14:46:18 ET]
+Table '3582099410 1' 3-max Seat #3 is the button
+Seat 1: PurgenPoker (520 in chips) 
+Seat 2: Mahu2021 (480 in chips) 
+Seat 3: Enescu A. (500 in chips) 
+PurgenPoker: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h Tc]
+Enescu A.: raises 20 to 40
+PurgenPoker: calls 30
+Mahu2021: folds 
+*** FLOP *** [Kc Qd 5d]
+PurgenPoker: bets 20
+Enescu A.: calls 20
+*** TURN *** [Kc Qd 5d] [8c]
+PurgenPoker: bets 20
+Enescu A.: calls 20
+*** RIVER *** [Kc Qd 5d 8c] [Kd]
+PurgenPoker: bets 60
+Enescu A.: folds 
+Uncalled bet (60) returned to PurgenPoker
+PurgenPoker collected 180 from pot
+PurgenPoker: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [Kc Qd 5d 8c Kd]
+Seat 1: PurgenPoker (small blind) collected (180)
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: Enescu A. (button) folded on the River
+
+
+
+PokerStars Hand #243294237112: Tournament #3582099410, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/24 20:46:42 CET [2023/04/24 14:46:42 ET]
+Table '3582099410 1' 3-max Seat #1 is the button
+Seat 1: PurgenPoker (620 in chips) 
+Seat 2: Mahu2021 (460 in chips) 
+Seat 3: Enescu A. (420 in chips) 
+Mahu2021: posts small blind 10
+Enescu A.: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts Ah]
+PurgenPoker: raises 20 to 40
+Mahu2021: calls 30
+Enescu A.: folds 
+*** FLOP *** [Js 2s 5s]
+Mahu2021: checks 
+PurgenPoker: bets 40
+Mahu2021: calls 40
+*** TURN *** [Js 2s 5s] [7h]
+Mahu2021: checks 
+PurgenPoker: bets 40
+Mahu2021: calls 40
+*** RIVER *** [Js 2s 5s 7h] [8d]
+Mahu2021: checks 
+PurgenPoker: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [Ts Ah] (high card Ace)
+PurgenPoker: mucks hand 
+Mahu2021 collected 260 from pot
+*** SUMMARY ***
+Total pot 260 | Rake 0 
+Board [Js 2s 5s 7h 8d]
+Seat 1: PurgenPoker (button) mucked [3c As]
+Seat 2: Mahu2021 (small blind) showed [Ts Ah] and won (260) with high card Ace
+Seat 3: Enescu A. (big blind) folded before Flop
+
+
+
+PokerStars Hand #243294245901: Tournament #3582099410, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/24 20:47:05 CET [2023/04/24 14:47:05 ET]
+Table '3582099410 1' 3-max Seat #2 is the button
+Seat 1: PurgenPoker (500 in chips) 
+Seat 2: Mahu2021 (600 in chips) 
+Seat 3: Enescu A. (400 in chips) 
+Enescu A.: posts small blind 10
+PurgenPoker: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h Kh]
+Mahu2021: calls 20
+Enescu A.: raises 60 to 80
+PurgenPoker: calls 60
+Mahu2021: calls 60
+*** FLOP *** [7h 5d 8s]
+Enescu A.: bets 240
+PurgenPoker: folds 
+Mahu2021: folds 
+Uncalled bet (240) returned to Enescu A.
+Enescu A. collected 240 from pot
+Enescu A.: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [7h 5d 8s]
+Seat 1: PurgenPoker (big blind) folded on the Flop
+Seat 2: Mahu2021 (button) folded on the Flop
+Seat 3: Enescu A. (small blind) collected (240)
+
+
+
+PokerStars Hand #243294254264: Tournament #3582099410, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/24 20:47:28 CET [2023/04/24 14:47:28 ET]
+Table '3582099410 1' 3-max Seat #3 is the button
+Seat 1: PurgenPoker (420 in chips) 
+Seat 2: Mahu2021 (520 in chips) 
+Seat 3: Enescu A. (560 in chips) 
+PurgenPoker: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts Kc]
+Enescu A.: calls 20
+PurgenPoker: calls 10
+Mahu2021: checks 
+*** FLOP *** [Qc Ah 7c]
+PurgenPoker: bets 20
+Mahu2021: calls 20
+Enescu A.: calls 20
+*** TURN *** [Qc Ah 7c] [As]
+PurgenPoker: bets 20
+Mahu2021: calls 20
+Enescu A.: calls 20
+*** RIVER *** [Qc Ah 7c As] [8s]
+PurgenPoker: bets 20
+Mahu2021: folds 
+Enescu A.: folds 
+Uncalled bet (20) returned to PurgenPoker
+PurgenPoker collected 180 from pot
+PurgenPoker: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [Qc Ah 7c As 8s]
+Seat 1: PurgenPoker (small blind) collected (180)
+Seat 2: Mahu2021 (big blind) folded on the River
+Seat 3: Enescu A. (button) folded on the River
+
+
+
+PokerStars Hand #243294275250: Tournament #3582099410, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/24 20:48:25 CET [2023/04/24 14:48:25 ET]
+Table '3582099410 1' 3-max Seat #1 is the button
+Seat 1: PurgenPoker (540 in chips) 
+Seat 2: Mahu2021 (460 in chips) 
+Seat 3: Enescu A. (500 in chips) 
+Mahu2021: posts small blind 10
+Enescu A.: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh 4d]
+PurgenPoker: folds 
+Mahu2021: folds 
+Uncalled bet (10) returned to Enescu A.
+Enescu A. collected 20 from pot
+Enescu A.: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: PurgenPoker (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: Enescu A. (big blind) collected (20)
+
+
+
+PokerStars Hand #243294278033: Tournament #3582099410, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/24 20:48:33 CET [2023/04/24 14:48:33 ET]
+Table '3582099410 1' 3-max Seat #2 is the button
+Seat 1: PurgenPoker (540 in chips) 
+Seat 2: Mahu2021 (450 in chips) 
+Seat 3: Enescu A. (510 in chips) 
+Enescu A.: posts small blind 10
+PurgenPoker: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js 9h]
+Mahu2021: calls 20
+Enescu A.: calls 10
+PurgenPoker: checks 
+*** FLOP *** [Ah 6h 6c]
+Enescu A.: checks 
+PurgenPoker: checks 
+Mahu2021: bets 40
+Enescu A.: folds 
+PurgenPoker: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Ah 6h 6c]
+Seat 1: PurgenPoker (big blind) folded on the Flop
+Seat 2: Mahu2021 (button) collected (60)
+Seat 3: Enescu A. (small blind) folded on the Flop
+
+
+
+PokerStars Hand #243294288760: Tournament #3582099410, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/24 20:49:02 CET [2023/04/24 14:49:02 ET]
+Table '3582099410 1' 3-max Seat #3 is the button
+Seat 1: PurgenPoker (520 in chips) 
+Seat 2: Mahu2021 (490 in chips) 
+Seat 3: Enescu A. (490 in chips) 
+PurgenPoker: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h 9d]
+Enescu A.: raises 30 to 60
+PurgenPoker: folds 
+Mahu2021: folds 
+Uncalled bet (30) returned to Enescu A.
+Enescu A. collected 75 from pot
+Enescu A.: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: PurgenPoker (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: Enescu A. (button) collected (75)
+
+
+
+PokerStars Hand #243294291344: Tournament #3582099410, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/24 20:49:09 CET [2023/04/24 14:49:09 ET]
+Table '3582099410 1' 3-max Seat #1 is the button
+Seat 1: PurgenPoker (505 in chips) 
+Seat 2: Mahu2021 (460 in chips) 
+Seat 3: Enescu A. (535 in chips) 
+Mahu2021: posts small blind 15
+Enescu A.: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4c 6s]
+PurgenPoker: raises 60 to 90
+Mahu2021: folds 
+Enescu A.: raises 445 to 535 and is all-in
+PurgenPoker: folds 
+Uncalled bet (445) returned to Enescu A.
+Enescu A. collected 195 from pot
+Enescu A.: doesn't show hand 
+*** SUMMARY ***
+Total pot 195 | Rake 0 
+Seat 1: PurgenPoker (button) folded before Flop
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: Enescu A. (big blind) collected (195)
+
+
+
+PokerStars Hand #243294296459: Tournament #3582099410, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/24 20:49:23 CET [2023/04/24 14:49:23 ET]
+Table '3582099410 1' 3-max Seat #2 is the button
+Seat 1: PurgenPoker (415 in chips) 
+Seat 2: Mahu2021 (445 in chips) 
+Seat 3: Enescu A. (640 in chips) 
+Enescu A.: posts small blind 15
+PurgenPoker: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h 7s]
+Mahu2021: folds 
+Enescu A.: calls 15
+PurgenPoker: checks 
+*** FLOP *** [6s Kc Tc]
+Enescu A.: checks 
+PurgenPoker: checks 
+*** TURN *** [6s Kc Tc] [Ac]
+Enescu A.: checks 
+PurgenPoker: bets 30
+Enescu A.: calls 30
+*** RIVER *** [6s Kc Tc Ac] [Kh]
+Enescu A.: checks 
+PurgenPoker: bets 30
+Enescu A.: folds 
+Uncalled bet (30) returned to PurgenPoker
+PurgenPoker collected 120 from pot
+PurgenPoker: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [6s Kc Tc Ac Kh]
+Seat 1: PurgenPoker (big blind) collected (120)
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: Enescu A. (small blind) folded on the River
+
+
+
+PokerStars Hand #243294306583: Tournament #3582099410, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/24 20:49:51 CET [2023/04/24 14:49:51 ET]
+Table '3582099410 1' 3-max Seat #3 is the button
+Seat 1: PurgenPoker (475 in chips) 
+Seat 2: Mahu2021 (445 in chips) 
+Seat 3: Enescu A. (580 in chips) 
+PurgenPoker: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s Ts]
+Enescu A.: folds 
+PurgenPoker: calls 15
+Mahu2021: checks 
+*** FLOP *** [Qd 6h 9h]
+PurgenPoker: checks 
+Mahu2021: bets 60
+PurgenPoker: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Qd 6h 9h]
+Seat 1: PurgenPoker (small blind) folded on the Flop
+Seat 2: Mahu2021 (big blind) collected (60)
+Seat 3: Enescu A. (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #243294314380: Tournament #3582099410, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/24 20:50:12 CET [2023/04/24 14:50:12 ET]
+Table '3582099410 1' 3-max Seat #1 is the button
+Seat 1: PurgenPoker (445 in chips) 
+Seat 2: Mahu2021 (475 in chips) 
+Seat 3: Enescu A. (580 in chips) 
+Mahu2021: posts small blind 15
+Enescu A.: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c 3s]
+PurgenPoker: folds 
+Mahu2021: folds 
+Uncalled bet (15) returned to Enescu A.
+Enescu A. collected 30 from pot
+Enescu A.: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: PurgenPoker (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: Enescu A. (big blind) collected (30)
+
+
+
+PokerStars Hand #243294316296: Tournament #3582099410, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/24 20:50:18 CET [2023/04/24 14:50:18 ET]
+Table '3582099410 1' 3-max Seat #2 is the button
+Seat 1: PurgenPoker (445 in chips) 
+Seat 2: Mahu2021 (460 in chips) 
+Seat 3: Enescu A. (595 in chips) 
+Enescu A.: posts small blind 15
+PurgenPoker: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d 4d]
+Mahu2021: folds 
+Enescu A.: raises 565 to 595 and is all-in
+PurgenPoker: folds 
+Uncalled bet (565) returned to Enescu A.
+Enescu A. collected 60 from pot
+Enescu A.: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: PurgenPoker (big blind) folded before Flop
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: Enescu A. (small blind) collected (60)
+
+
+
+PokerStars Hand #243294320549: Tournament #3582099410, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/24 20:50:29 CET [2023/04/24 14:50:29 ET]
+Table '3582099410 1' 3-max Seat #3 is the button
+Seat 1: PurgenPoker (415 in chips) 
+Seat 2: Mahu2021 (460 in chips) 
+Seat 3: Enescu A. (625 in chips) 
+PurgenPoker: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh 2s]
+Enescu A.: calls 30
+PurgenPoker: calls 15
+Mahu2021: checks 
+*** FLOP *** [3d 2d Qc]
+PurgenPoker: bets 30
+Mahu2021: folds 
+Enescu A.: calls 30
+*** TURN *** [3d 2d Qc] [Jd]
+PurgenPoker: bets 60
+Enescu A.: calls 60
+*** RIVER *** [3d 2d Qc Jd] [7c]
+PurgenPoker: bets 60
+Enescu A.: folds 
+Uncalled bet (60) returned to PurgenPoker
+PurgenPoker collected 270 from pot
+PurgenPoker: doesn't show hand 
+*** SUMMARY ***
+Total pot 270 | Rake 0 
+Board [3d 2d Qc Jd 7c]
+Seat 1: PurgenPoker (small blind) collected (270)
+Seat 2: Mahu2021 (big blind) folded on the Flop
+Seat 3: Enescu A. (button) folded on the River
+
+
+
+PokerStars Hand #243294329792: Tournament #3582099410, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/24 20:50:54 CET [2023/04/24 14:50:54 ET]
+Table '3582099410 1' 3-max Seat #1 is the button
+Seat 1: PurgenPoker (565 in chips) 
+Seat 2: Mahu2021 (430 in chips) 
+Seat 3: Enescu A. (505 in chips) 
+Mahu2021: posts small blind 15
+Enescu A.: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qs Qc]
+PurgenPoker: folds 
+Mahu2021: raises 60 to 90
+Enescu A.: calls 60
+*** FLOP *** [9h 6h 7h]
+Mahu2021: bets 340 and is all-in
+Enescu A.: calls 340
+*** TURN *** [9h 6h 7h] [8h]
+*** RIVER *** [9h 6h 7h 8h] [3c]
+*** SHOW DOWN ***
+Mahu2021: shows [Qs Qc] (a pair of Queens)
+Enescu A.: shows [9d Tc] (a straight, Six to Ten)
+Enescu A. collected 860 from pot
+Mahu2021 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 860 | Rake 0 
+Board [9h 6h 7h 8h 3c]
+Seat 1: PurgenPoker (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) showed [Qs Qc] and lost with a pair of Queens
+Seat 3: Enescu A. (big blind) showed [9d Tc] and won (860) with a straight, Six to Ten
+
+
+

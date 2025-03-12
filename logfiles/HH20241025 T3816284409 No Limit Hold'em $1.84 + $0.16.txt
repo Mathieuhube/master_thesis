@@ -1,0 +1,536 @@
+﻿PokerStars Hand #253093181907: Tournament #3816284409, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/25 13:44:42 CET [2024/10/25 7:44:42 ET]
+Table '3816284409 1' 3-max Seat #1 is the button
+Seat 1: BSL4560 (500 in chips) 
+Seat 2: Tinoco196160 (500 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+Tinoco196160: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Td 5h]
+BSL4560: calls 20
+Tinoco196160: calls 10
+Mahu2021: checks 
+*** FLOP *** [6s As Jh]
+Tinoco196160: checks 
+Mahu2021: checks 
+BSL4560: checks 
+*** TURN *** [6s As Jh] [Qc]
+Tinoco196160: checks 
+Mahu2021: checks 
+BSL4560: checks 
+*** RIVER *** [6s As Jh Qc] [9c]
+Tinoco196160: checks 
+Mahu2021: checks 
+BSL4560: checks 
+*** SHOW DOWN ***
+Tinoco196160: shows [4c 3h] (high card Ace)
+Mahu2021: shows [Td 5h] (high card Ace - Queen+Jack+Ten kicker)
+BSL4560: shows [7d Kd] (high card Ace - King kicker)
+BSL4560 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [6s As Jh Qc 9c]
+Seat 1: BSL4560 (button) showed [7d Kd] and won (60) with high card Ace
+Seat 2: Tinoco196160 (small blind) showed [4c 3h] and lost with high card Ace
+Seat 3: Mahu2021 (big blind) showed [Td 5h] and lost with high card Ace
+
+
+
+PokerStars Hand #253093184668: Tournament #3816284409, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/25 13:45:00 CET [2024/10/25 7:45:00 ET]
+Table '3816284409 1' 3-max Seat #2 is the button
+Seat 1: BSL4560 (540 in chips) 
+Seat 2: Tinoco196160 (480 in chips) 
+Seat 3: Mahu2021 (480 in chips) 
+Mahu2021: posts small blind 10
+BSL4560: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c Qd]
+Tinoco196160: calls 20
+Mahu2021: calls 10
+BSL4560: checks 
+*** FLOP *** [Ad Kh 2s]
+Mahu2021: checks 
+BSL4560: checks 
+Tinoco196160: bets 20
+Mahu2021: folds 
+BSL4560: folds 
+Uncalled bet (20) returned to Tinoco196160
+Tinoco196160 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Ad Kh 2s]
+Seat 1: BSL4560 (big blind) folded on the Flop
+Seat 2: Tinoco196160 (button) collected (60)
+Seat 3: Mahu2021 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #253093186470: Tournament #3816284409, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/25 13:45:13 CET [2024/10/25 7:45:13 ET]
+Table '3816284409 1' 3-max Seat #3 is the button
+Seat 1: BSL4560 (520 in chips) 
+Seat 2: Tinoco196160 (520 in chips) 
+Seat 3: Mahu2021 (460 in chips) 
+BSL4560: posts small blind 10
+Tinoco196160: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kc 9s]
+Mahu2021: raises 20 to 40
+BSL4560: calls 30
+Tinoco196160: calls 20
+*** FLOP *** [7c Qs 2c]
+BSL4560: checks 
+Tinoco196160: checks 
+Mahu2021: checks 
+*** TURN *** [7c Qs 2c] [Qh]
+BSL4560: checks 
+Tinoco196160: checks 
+Mahu2021: checks 
+*** RIVER *** [7c Qs 2c Qh] [8d]
+BSL4560: checks 
+Tinoco196160: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+BSL4560: shows [3h Jh] (a pair of Queens)
+Tinoco196160: shows [3c 8s] (two pair, Queens and Eights)
+Mahu2021: mucks hand 
+Tinoco196160 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [7c Qs 2c Qh 8d]
+Seat 1: BSL4560 (small blind) showed [3h Jh] and lost with a pair of Queens
+Seat 2: Tinoco196160 (big blind) showed [3c 8s] and won (120) with two pair, Queens and Eights
+Seat 3: Mahu2021 (button) mucked [Kc 9s]
+
+
+
+PokerStars Hand #253093189326: Tournament #3816284409, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/25 13:45:33 CET [2024/10/25 7:45:33 ET]
+Table '3816284409 1' 3-max Seat #1 is the button
+Seat 1: BSL4560 (480 in chips) 
+Seat 2: Tinoco196160 (600 in chips) 
+Seat 3: Mahu2021 (420 in chips) 
+Tinoco196160: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As 5s]
+BSL4560: calls 20
+Tinoco196160: calls 10
+Mahu2021: raises 60 to 80
+BSL4560: calls 60
+Tinoco196160: folds 
+*** FLOP *** [8h 8d Ts]
+Mahu2021: checks 
+BSL4560: checks 
+*** TURN *** [8h 8d Ts] [3c]
+Mahu2021: checks 
+BSL4560: checks 
+*** RIVER *** [8h 8d Ts 3c] [5c]
+Mahu2021: bets 80
+BSL4560: calls 80
+*** SHOW DOWN ***
+Mahu2021: shows [As 5s] (two pair, Eights and Fives)
+BSL4560: shows [Ah 5h] (two pair, Eights and Fives)
+Mahu2021 collected 170 from pot
+BSL4560 collected 170 from pot
+*** SUMMARY ***
+Total pot 340 | Rake 0 
+Board [8h 8d Ts 3c 5c]
+Seat 1: BSL4560 (button) showed [Ah 5h] and won (170) with two pair, Eights and Fives
+Seat 2: Tinoco196160 (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) showed [As 5s] and won (170) with two pair, Eights and Fives
+
+
+
+PokerStars Hand #253093192191: Tournament #3816284409, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/25 13:45:52 CET [2024/10/25 7:45:52 ET]
+Table '3816284409 1' 3-max Seat #2 is the button
+Seat 1: BSL4560 (490 in chips) 
+Seat 2: Tinoco196160 (580 in chips) 
+Seat 3: Mahu2021 (430 in chips) 
+Mahu2021: posts small blind 10
+BSL4560: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d Jh]
+Tinoco196160: folds 
+Mahu2021: calls 10
+BSL4560: raises 20 to 40
+Mahu2021: calls 20
+*** FLOP *** [8h Qc 2d]
+Mahu2021: checks 
+BSL4560: bets 20
+Mahu2021: folds 
+Uncalled bet (20) returned to BSL4560
+BSL4560 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [8h Qc 2d]
+Seat 1: BSL4560 (big blind) collected (80)
+Seat 2: Tinoco196160 (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #253093194367: Tournament #3816284409, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/25 13:46:07 CET [2024/10/25 7:46:07 ET]
+Table '3816284409 1' 3-max Seat #3 is the button
+Seat 1: BSL4560 (530 in chips) 
+Seat 2: Tinoco196160 (580 in chips) 
+Seat 3: Mahu2021 (390 in chips) 
+BSL4560: posts small blind 10
+Tinoco196160: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd 9c]
+Mahu2021: raises 20 to 40
+BSL4560: folds 
+Tinoco196160: calls 20
+*** FLOP *** [Qh Qd 8d]
+Tinoco196160: checks 
+Mahu2021: checks 
+*** TURN *** [Qh Qd 8d] [7s]
+Tinoco196160: checks 
+Mahu2021: checks 
+*** RIVER *** [Qh Qd 8d 7s] [Th]
+Tinoco196160: bets 20
+Mahu2021: folds 
+Uncalled bet (20) returned to Tinoco196160
+Tinoco196160 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [Qh Qd 8d 7s Th]
+Seat 1: BSL4560 (small blind) folded before Flop
+Seat 2: Tinoco196160 (big blind) collected (90)
+Seat 3: Mahu2021 (button) folded on the River
+
+
+
+PokerStars Hand #253093196626: Tournament #3816284409, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/25 13:46:22 CET [2024/10/25 7:46:22 ET]
+Table '3816284409 1' 3-max Seat #1 is the button
+Seat 1: BSL4560 (520 in chips) 
+Seat 2: Tinoco196160 (630 in chips) 
+Seat 3: Mahu2021 (350 in chips) 
+Tinoco196160: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks Tc]
+BSL4560: folds 
+Tinoco196160: calls 10
+Mahu2021: checks 
+*** FLOP *** [Ah 3h Kh]
+Tinoco196160: checks 
+Mahu2021: bets 20
+Tinoco196160: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Ah 3h Kh]
+Seat 1: BSL4560 (button) folded before Flop (didn't bet)
+Seat 2: Tinoco196160 (small blind) folded on the Flop
+Seat 3: Mahu2021 (big blind) collected (40)
+
+
+
+PokerStars Hand #253093198428: Tournament #3816284409, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/25 13:46:34 CET [2024/10/25 7:46:34 ET]
+Table '3816284409 1' 3-max Seat #2 is the button
+Seat 1: BSL4560 (520 in chips) 
+Seat 2: Tinoco196160 (610 in chips) 
+Seat 3: Mahu2021 (370 in chips) 
+Mahu2021: posts small blind 10
+BSL4560: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kc 9s]
+Tinoco196160: folds 
+Mahu2021: raises 20 to 40
+BSL4560: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: BSL4560 (big blind) folded before Flop
+Seat 2: Tinoco196160 (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) collected (40)
+
+
+
+PokerStars Hand #253093199427: Tournament #3816284409, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/25 13:46:41 CET [2024/10/25 7:46:41 ET]
+Table '3816284409 1' 3-max Seat #3 is the button
+Seat 1: BSL4560 (500 in chips) 
+Seat 2: Tinoco196160 (610 in chips) 
+Seat 3: Mahu2021 (390 in chips) 
+BSL4560: posts small blind 10
+Tinoco196160: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah Qc]
+Mahu2021: raises 20 to 40
+BSL4560: folds 
+Tinoco196160: calls 20
+*** FLOP *** [Kd 4s 5h]
+Tinoco196160: checks 
+Mahu2021: checks 
+*** TURN *** [Kd 4s 5h] [Jh]
+Tinoco196160: bets 20
+Mahu2021: calls 20
+*** RIVER *** [Kd 4s 5h Jh] [7h]
+Tinoco196160: bets 20
+Mahu2021: folds 
+Uncalled bet (20) returned to Tinoco196160
+Tinoco196160 collected 130 from pot
+*** SUMMARY ***
+Total pot 130 | Rake 0 
+Board [Kd 4s 5h Jh 7h]
+Seat 1: BSL4560 (small blind) folded before Flop
+Seat 2: Tinoco196160 (big blind) collected (130)
+Seat 3: Mahu2021 (button) folded on the River
+
+
+
+PokerStars Hand #253093202548: Tournament #3816284409, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/25 13:47:02 CET [2024/10/25 7:47:02 ET]
+Table '3816284409 1' 3-max Seat #1 is the button
+Seat 1: BSL4560 (490 in chips) 
+Seat 2: Tinoco196160 (680 in chips) 
+Seat 3: Mahu2021 (330 in chips) 
+Tinoco196160: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h 8s]
+BSL4560: calls 30
+Tinoco196160: folds 
+Mahu2021: checks 
+*** FLOP *** [Ks Th 5d]
+Mahu2021: checks 
+BSL4560: bets 30
+Mahu2021: folds 
+Uncalled bet (30) returned to BSL4560
+BSL4560 collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Board [Ks Th 5d]
+Seat 1: BSL4560 (button) collected (75)
+Seat 2: Tinoco196160 (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #253093204216: Tournament #3816284409, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/25 13:47:14 CET [2024/10/25 7:47:14 ET]
+Table '3816284409 1' 3-max Seat #2 is the button
+Seat 1: BSL4560 (535 in chips) 
+Seat 2: Tinoco196160 (665 in chips) 
+Seat 3: Mahu2021 (300 in chips) 
+Mahu2021: posts small blind 15
+BSL4560: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h 5h]
+Tinoco196160: folds 
+Mahu2021: raises 30 to 60
+BSL4560: calls 30
+*** FLOP *** [3c 4c Kh]
+Mahu2021: checks 
+BSL4560: bets 120
+Mahu2021: folds 
+Uncalled bet (120) returned to BSL4560
+BSL4560 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [3c 4c Kh]
+Seat 1: BSL4560 (big blind) collected (120)
+Seat 2: Tinoco196160 (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #253093206271: Tournament #3816284409, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/25 13:47:27 CET [2024/10/25 7:47:27 ET]
+Table '3816284409 1' 3-max Seat #3 is the button
+Seat 1: BSL4560 (595 in chips) 
+Seat 2: Tinoco196160 (665 in chips) 
+Seat 3: Mahu2021 (240 in chips) 
+BSL4560: posts small blind 15
+Tinoco196160: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac Js]
+Mahu2021: raises 30 to 60
+BSL4560: folds 
+Tinoco196160: calls 30
+*** FLOP *** [Qc 3c 2h]
+Tinoco196160: checks 
+Mahu2021: bets 60
+Tinoco196160: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 135 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 135 | Rake 0 
+Board [Qc 3c 2h]
+Seat 1: BSL4560 (small blind) folded before Flop
+Seat 2: Tinoco196160 (big blind) folded on the Flop
+Seat 3: Mahu2021 (button) collected (135)
+
+
+
+PokerStars Hand #253093208067: Tournament #3816284409, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/25 13:47:40 CET [2024/10/25 7:47:40 ET]
+Table '3816284409 1' 3-max Seat #1 is the button
+Seat 1: BSL4560 (580 in chips) 
+Seat 2: Tinoco196160 (605 in chips) 
+Seat 3: Mahu2021 (315 in chips) 
+Tinoco196160: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h 7d]
+BSL4560: folds 
+Tinoco196160: calls 15
+Mahu2021: checks 
+*** FLOP *** [Kd Qc 3h]
+Tinoco196160: checks 
+Mahu2021: checks 
+*** TURN *** [Kd Qc 3h] [Ac]
+Tinoco196160: checks 
+Mahu2021: checks 
+*** RIVER *** [Kd Qc 3h Ac] [2s]
+Tinoco196160: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+Tinoco196160: shows [7c Tc] (high card Ace)
+Mahu2021: mucks hand 
+Tinoco196160 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Kd Qc 3h Ac 2s]
+Seat 1: BSL4560 (button) folded before Flop (didn't bet)
+Seat 2: Tinoco196160 (small blind) showed [7c Tc] and won (60) with high card Ace
+Seat 3: Mahu2021 (big blind) mucked [8h 7d]
+
+
+
+PokerStars Hand #253093210330: Tournament #3816284409, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/25 13:47:55 CET [2024/10/25 7:47:55 ET]
+Table '3816284409 1' 3-max Seat #2 is the button
+Seat 1: BSL4560 (580 in chips) 
+Seat 2: Tinoco196160 (635 in chips) 
+Seat 3: Mahu2021 (285 in chips) 
+Mahu2021: posts small blind 15
+BSL4560: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts 8c]
+Tinoco196160: folds 
+Mahu2021: calls 15
+BSL4560: checks 
+*** FLOP *** [3c Kd Tc]
+Mahu2021: bets 30
+BSL4560: calls 30
+*** TURN *** [3c Kd Tc] [8d]
+Mahu2021: bets 30
+BSL4560: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [3c Kd Tc 8d]
+Seat 1: BSL4560 (big blind) folded on the Turn
+Seat 2: Tinoco196160 (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) collected (120)
+
+
+
+PokerStars Hand #253093213112: Tournament #3816284409, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/25 13:48:13 CET [2024/10/25 7:48:13 ET]
+Table '3816284409 1' 3-max Seat #3 is the button
+Seat 1: BSL4560 (520 in chips) 
+Seat 2: Tinoco196160 (635 in chips) 
+Seat 3: Mahu2021 (345 in chips) 
+BSL4560: posts small blind 15
+Tinoco196160: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2s Tc]
+Mahu2021: folds 
+BSL4560: folds 
+Uncalled bet (15) returned to Tinoco196160
+Tinoco196160 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: BSL4560 (small blind) folded before Flop
+Seat 2: Tinoco196160 (big blind) collected (30)
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253093213888: Tournament #3816284409, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/25 13:48:19 CET [2024/10/25 7:48:19 ET]
+Table '3816284409 1' 3-max Seat #1 is the button
+Seat 1: BSL4560 (505 in chips) 
+Seat 2: Tinoco196160 (650 in chips) 
+Seat 3: Mahu2021 (345 in chips) 
+Tinoco196160: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d 9h]
+BSL4560: calls 30
+Tinoco196160: calls 15
+Mahu2021: checks 
+*** FLOP *** [Qs Jh Qh]
+Tinoco196160: checks 
+Mahu2021: checks 
+BSL4560: bets 30
+Tinoco196160: folds 
+Mahu2021: folds 
+Uncalled bet (30) returned to BSL4560
+BSL4560 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [Qs Jh Qh]
+Seat 1: BSL4560 (button) collected (90)
+Seat 2: Tinoco196160 (small blind) folded on the Flop
+Seat 3: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #253093215936: Tournament #3816284409, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/25 13:48:33 CET [2024/10/25 7:48:33 ET]
+Table '3816284409 1' 3-max Seat #2 is the button
+Seat 1: BSL4560 (565 in chips) 
+Seat 2: Tinoco196160 (620 in chips) 
+Seat 3: Mahu2021 (315 in chips) 
+Mahu2021: posts small blind 15
+BSL4560: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts 2d]
+Tinoco196160: folds 
+Mahu2021: folds 
+Uncalled bet (15) returned to BSL4560
+BSL4560 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: BSL4560 (big blind) collected (30)
+Seat 2: Tinoco196160 (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #253093216658: Tournament #3816284409, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/25 13:48:38 CET [2024/10/25 7:48:38 ET]
+Table '3816284409 1' 3-max Seat #3 is the button
+Seat 1: BSL4560 (580 in chips) 
+Seat 2: Tinoco196160 (620 in chips) 
+Seat 3: Mahu2021 (300 in chips) 
+BSL4560: posts small blind 15
+Tinoco196160: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc 4c]
+Mahu2021: raises 30 to 60
+BSL4560: calls 45
+Tinoco196160: calls 30
+*** FLOP *** [5c 8d Jc]
+BSL4560: bets 30
+Tinoco196160: calls 30
+Mahu2021: raises 210 to 240 and is all-in
+BSL4560: folds 
+Tinoco196160: calls 210
+*** TURN *** [5c 8d Jc] [6h]
+*** RIVER *** [5c 8d Jc 6h] [Ts]
+*** SHOW DOWN ***
+Tinoco196160: shows [As Js] (a pair of Jacks)
+Mahu2021: shows [Qc 4c] (high card Queen)
+Tinoco196160 collected 690 from pot
+Mahu2021 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 690 | Rake 0 
+Board [5c 8d Jc 6h Ts]
+Seat 1: BSL4560 (small blind) folded on the Flop
+Seat 2: Tinoco196160 (big blind) showed [As Js] and won (690) with a pair of Jacks
+Seat 3: Mahu2021 (button) showed [Qc 4c] and lost with high card Queen
+
+
+

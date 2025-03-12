@@ -1,0 +1,99 @@
+﻿PokerStars Hand #252863067895: Tournament #3810447601, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/10 21:40:56 CET [2024/10/10 15:40:56 ET]
+Table '3810447601 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: bubonik90 (500 in chips) 
+Seat 3: BABYFOKYUTU (500 in chips) 
+bubonik90: posts small blind 10
+BABYFOKYUTU: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd Kc]
+Mahu2021: raises 480 to 500 and is all-in
+bubonik90: folds 
+BABYFOKYUTU: folds 
+Uncalled bet (480) returned to Mahu2021
+Mahu2021 collected 50 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: Mahu2021 (button) collected (50)
+Seat 2: bubonik90 (small blind) folded before Flop
+Seat 3: BABYFOKYUTU (big blind) folded before Flop
+
+
+
+PokerStars Hand #252863069785: Tournament #3810447601, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/10 21:41:02 CET [2024/10/10 15:41:02 ET]
+Table '3810447601 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (530 in chips) 
+Seat 2: bubonik90 (490 in chips) 
+Seat 3: BABYFOKYUTU (480 in chips) 
+BABYFOKYUTU: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d 7h]
+bubonik90: calls 20
+BABYFOKYUTU: folds 
+Mahu2021: checks 
+*** FLOP *** [2s 8d 6d]
+Mahu2021: checks 
+bubonik90: bets 33
+Mahu2021: calls 33
+*** TURN *** [2s 8d 6d] [Td]
+Mahu2021: checks 
+bubonik90: bets 75
+Mahu2021: calls 75
+*** RIVER *** [2s 8d 6d Td] [2d]
+Mahu2021: checks 
+bubonik90: bets 362 and is all-in
+Mahu2021: calls 362
+*** SHOW DOWN ***
+bubonik90: shows [6c 6h] (a full house, Sixes full of Deuces)
+Mahu2021: shows [9d 7h] (a flush, Ten high)
+bubonik90 collected 990 from pot
+*** SUMMARY ***
+Total pot 990 | Rake 0 
+Board [2s 8d 6d Td 2d]
+Seat 1: Mahu2021 (big blind) showed [9d 7h] and lost with a flush, Ten high
+Seat 2: bubonik90 (button) showed [6c 6h] and won (990) with a full house, Sixes full of Deuces
+Seat 3: BABYFOKYUTU (small blind) folded before Flop
+
+
+
+PokerStars Hand #252863075659: Tournament #3810447601, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/10 21:41:22 CET [2024/10/10 15:41:22 ET]
+Table '3810447601 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (40 in chips) 
+Seat 2: bubonik90 (990 in chips) 
+Seat 3: BABYFOKYUTU (470 in chips) 
+Mahu2021: posts small blind 10
+bubonik90: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc 2h]
+BABYFOKYUTU: calls 20
+Mahu2021: raises 20 to 40 and is all-in
+bubonik90: calls 20
+BABYFOKYUTU: calls 20
+*** FLOP *** [9c Jd 5c]
+bubonik90: checks 
+BABYFOKYUTU: bets 20
+bubonik90: raises 930 to 950 and is all-in
+BABYFOKYUTU: calls 410 and is all-in
+Uncalled bet (520) returned to bubonik90
+*** TURN *** [9c Jd 5c] [Qh]
+*** RIVER *** [9c Jd 5c Qh] [Ks]
+*** SHOW DOWN ***
+bubonik90: shows [Jh Kd] (two pair, Kings and Jacks)
+BABYFOKYUTU: shows [7d 8c] (high card King)
+bubonik90 collected 860 from side pot
+Mahu2021: shows [Qc 2h] (a pair of Queens)
+bubonik90 collected 120 from main pot
+BABYFOKYUTU finished the tournament in 2nd place
+Mahu2021 finished the tournament in 3rd place
+bubonik90 wins the tournament and receives $6.00 - congratulations!
+*** SUMMARY ***
+Total pot 980 Main pot 120. Side pot 860. | Rake 0 
+Board [9c Jd 5c Qh Ks]
+Seat 1: Mahu2021 (small blind) showed [Qc 2h] and lost with a pair of Queens
+Seat 2: bubonik90 (big blind) showed [Jh Kd] and won (980) with two pair, Kings and Jacks
+Seat 3: BABYFOKYUTU (button) showed [7d 8c] and lost with high card King
+
+
+

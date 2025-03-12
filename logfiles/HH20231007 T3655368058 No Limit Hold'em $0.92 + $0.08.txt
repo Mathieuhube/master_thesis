@@ -1,0 +1,143 @@
+﻿PokerStars Hand #246405089391: Tournament #3655368058, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/10/07 20:38:51 CET [2023/10/07 14:38:51 ET]
+Table '3655368058 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: Nurba2021 (500 in chips) 
+Seat 3: tiago17982 (500 in chips) 
+Nurba2021: posts small blind 10
+tiago17982: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd Kh]
+Mahu2021: raises 20 to 40
+Nurba2021: calls 30
+tiago17982: raises 60 to 100
+Mahu2021: folds 
+Nurba2021: calls 60
+*** FLOP *** [3c Ah 3d]
+Nurba2021: checks 
+tiago17982: bets 100
+Nurba2021: folds 
+Uncalled bet (100) returned to tiago17982
+tiago17982 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [3c Ah 3d]
+Seat 1: Mahu2021 (button) folded before Flop
+Seat 2: Nurba2021 (small blind) folded on the Flop
+Seat 3: tiago17982 (big blind) collected (240)
+
+
+
+PokerStars Hand #246405097460: Tournament #3655368058, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/10/07 20:39:15 CET [2023/10/07 14:39:15 ET]
+Table '3655368058 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (460 in chips) 
+Seat 2: Nurba2021 (400 in chips) 
+Seat 3: tiago17982 (640 in chips) 
+tiago17982: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4d Ts]
+Nurba2021: calls 20
+tiago17982: calls 10
+Mahu2021: checks 
+*** FLOP *** [Qc Ks 9c]
+tiago17982: checks 
+Mahu2021: checks 
+Nurba2021: checks 
+*** TURN *** [Qc Ks 9c] [Qs]
+tiago17982: checks 
+Mahu2021: checks 
+Nurba2021: checks 
+*** RIVER *** [Qc Ks 9c Qs] [7d]
+tiago17982: checks 
+Mahu2021: checks 
+Nurba2021: checks 
+*** SHOW DOWN ***
+tiago17982: shows [8h Td] (a pair of Queens)
+Mahu2021: shows [4d Ts] (a pair of Queens)
+Nurba2021: shows [Ad 4c] (a pair of Queens - Ace kicker)
+Nurba2021 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Qc Ks 9c Qs 7d]
+Seat 1: Mahu2021 (big blind) showed [4d Ts] and lost with a pair of Queens
+Seat 2: Nurba2021 (button) showed [Ad 4c] and won (60) with a pair of Queens
+Seat 3: tiago17982 (small blind) showed [8h Td] and lost with a pair of Queens
+
+
+
+PokerStars Hand #246405105777: Tournament #3655368058, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/10/07 20:39:41 CET [2023/10/07 14:39:41 ET]
+Table '3655368058 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (440 in chips) 
+Seat 2: Nurba2021 (440 in chips) 
+Seat 3: tiago17982 (620 in chips) 
+Mahu2021: posts small blind 10
+Nurba2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah Ks]
+tiago17982: calls 20
+Mahu2021: raises 40 to 60
+Nurba2021: calls 40
+tiago17982: calls 40
+*** FLOP *** [Ac 2c Tc]
+Mahu2021: bets 180
+Nurba2021: folds 
+tiago17982: calls 180
+*** TURN *** [Ac 2c Tc] [6h]
+Mahu2021: bets 200 and is all-in
+tiago17982: calls 200
+*** RIVER *** [Ac 2c Tc 6h] [3h]
+*** SHOW DOWN ***
+Mahu2021: shows [Ah Ks] (a pair of Aces)
+tiago17982: shows [Ts 5h] (a pair of Tens)
+Mahu2021 collected 940 from pot
+*** SUMMARY ***
+Total pot 940 | Rake 0 
+Board [Ac 2c Tc 6h 3h]
+Seat 1: Mahu2021 (small blind) showed [Ah Ks] and won (940) with a pair of Aces
+Seat 2: Nurba2021 (big blind) folded on the Flop
+Seat 3: tiago17982 (button) showed [Ts 5h] and lost with a pair of Tens
+
+
+
+PokerStars Hand #246405113698: Tournament #3655368058, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/10/07 20:40:04 CET [2023/10/07 14:40:04 ET]
+Table '3655368058 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (940 in chips) 
+Seat 2: Nurba2021 (380 in chips) 
+Seat 3: tiago17982 (180 in chips) 
+Nurba2021: posts small blind 10
+tiago17982: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kc 9s]
+Mahu2021: calls 20
+Nurba2021: raises 20 to 40
+tiago17982: raises 20 to 60
+Mahu2021: calls 40
+Nurba2021: raises 20 to 80
+tiago17982: calls 20
+Mahu2021: calls 20
+*** FLOP *** [Js Kh 7c]
+Nurba2021: bets 120
+tiago17982: calls 100 and is all-in
+Mahu2021: raises 740 to 860 and is all-in
+Nurba2021: calls 180 and is all-in
+Uncalled bet (560) returned to Mahu2021
+*** TURN *** [Js Kh 7c] [2d]
+*** RIVER *** [Js Kh 7c 2d] [6h]
+*** SHOW DOWN ***
+Nurba2021: shows [Qd As] (high card Ace)
+Mahu2021: shows [Kc 9s] (a pair of Kings)
+Mahu2021 collected 400 from side pot
+tiago17982: shows [4s Kd] (a pair of Kings - lower kicker)
+Mahu2021 collected 540 from main pot
+Nurba2021 finished the tournament in 2nd place
+tiago17982 finished the tournament in 3rd place
+Mahu2021 wins the tournament and receives $2.00 - congratulations!
+*** SUMMARY ***
+Total pot 940 Main pot 540. Side pot 400. | Rake 0 
+Board [Js Kh 7c 2d 6h]
+Seat 1: Mahu2021 (button) showed [Kc 9s] and won (940) with a pair of Kings
+Seat 2: Nurba2021 (small blind) showed [Qd As] and lost with high card Ace
+Seat 3: tiago17982 (big blind) showed [4s Kd] and lost with a pair of Kings
+
+
+

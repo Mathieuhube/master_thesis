@@ -1,0 +1,31 @@
+﻿PokerStars Hand #253637528141: Tournament #3828940872, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2024/11/30 14:56:23 CET [2024/11/30 8:56:23 ET]
+Table '3828940872 1' 3-max Seat #1 is the button
+Seat 1: laurus800 (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: naujanas (500 in chips) 
+Mahu2021: posts small blind 10
+naujanas: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad 7d]
+laurus800: calls 20
+Mahu2021: calls 10
+naujanas: raises 480 to 500 and is all-in
+laurus800: folds 
+Mahu2021: calls 480 and is all-in
+*** FLOP *** [Ts 9h Kc]
+*** TURN *** [Ts 9h Kc] [7s]
+*** RIVER *** [Ts 9h Kc 7s] [Jh]
+*** SHOW DOWN ***
+Mahu2021: shows [Ad 7d] (a pair of Sevens)
+naujanas: shows [Ks 6d] (a pair of Kings)
+naujanas collected 1020 from pot
+Mahu2021 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1020 | Rake 0 
+Board [Ts 9h Kc 7s Jh]
+Seat 1: laurus800 (button) folded before Flop
+Seat 2: Mahu2021 (small blind) showed [Ad 7d] and lost with a pair of Sevens
+Seat 3: naujanas (big blind) showed [Ks 6d] and won (1020) with a pair of Kings
+
+
+

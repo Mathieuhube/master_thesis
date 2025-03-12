@@ -1,0 +1,562 @@
+﻿PokerStars Hand #248603702302: Tournament #3709292788, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/31 17:27:19 CET [2024/01/31 11:27:19 ET]
+Table '3709292788 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: Vanilie333 (500 in chips) 
+Seat 3: Sz.Kugi (500 in chips) 
+Vanilie333: posts small blind 10
+Sz.Kugi: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4d 8d]
+Mahu2021: folds 
+Vanilie333: calls 10
+Sz.Kugi: checks 
+*** FLOP *** [Th 9d Ad]
+Vanilie333: bets 20
+Sz.Kugi: calls 20
+*** TURN *** [Th 9d Ad] [5c]
+Vanilie333: bets 60
+Sz.Kugi: calls 60
+*** RIVER *** [Th 9d Ad 5c] [Ts]
+Vanilie333: checks 
+Sz.Kugi: checks 
+*** SHOW DOWN ***
+Vanilie333: shows [5d Jd] (two pair, Tens and Fives)
+Sz.Kugi: shows [Js 9s] (two pair, Tens and Nines)
+Sz.Kugi collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [Th 9d Ad 5c Ts]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: Vanilie333 (small blind) showed [5d Jd] and lost with two pair, Tens and Fives
+Seat 3: Sz.Kugi (big blind) showed [Js 9s] and won (200) with two pair, Tens and Nines
+
+
+
+PokerStars Hand #248603709472: Tournament #3709292788, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/31 17:27:47 CET [2024/01/31 11:27:47 ET]
+Table '3709292788 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: Vanilie333 (400 in chips) 
+Seat 3: Sz.Kugi (600 in chips) 
+Sz.Kugi: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd Ad]
+Vanilie333: calls 20
+Sz.Kugi: folds 
+Mahu2021: raises 40 to 60
+Vanilie333: calls 40
+*** FLOP *** [8h 9d 6d]
+Mahu2021: bets 60
+Vanilie333: calls 60
+*** TURN *** [8h 9d 6d] [Td]
+Mahu2021: bets 60
+Vanilie333: calls 60
+*** RIVER *** [8h 9d 6d Td] [Ts]
+Mahu2021: bets 60
+Vanilie333: calls 60
+*** SHOW DOWN ***
+Mahu2021: shows [Jd Ad] (a flush, Ace high)
+Vanilie333: mucks hand 
+Mahu2021 collected 490 from pot
+*** SUMMARY ***
+Total pot 490 | Rake 0 
+Board [8h 9d 6d Td Ts]
+Seat 1: Mahu2021 (big blind) showed [Jd Ad] and won (490) with a flush, Ace high
+Seat 2: Vanilie333 (button) mucked [Js 6c]
+Seat 3: Sz.Kugi (small blind) folded before Flop
+
+
+
+PokerStars Hand #248603715261: Tournament #3709292788, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/31 17:28:09 CET [2024/01/31 11:28:09 ET]
+Table '3709292788 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (750 in chips) 
+Seat 2: Vanilie333 (160 in chips) 
+Seat 3: Sz.Kugi (590 in chips) 
+Mahu2021: posts small blind 10
+Vanilie333: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Tc Ts]
+Sz.Kugi: raises 40 to 60
+Mahu2021: folds 
+Vanilie333: calls 40
+*** FLOP *** [6s 6c 7s]
+Vanilie333: bets 100 and is all-in
+Sz.Kugi: calls 100
+*** TURN *** [6s 6c 7s] [9c]
+*** RIVER *** [6s 6c 7s 9c] [8h]
+*** SHOW DOWN ***
+Vanilie333: shows [Qc 5s] (a straight, Five to Nine)
+Sz.Kugi: shows [Ah Kc] (a pair of Sixes)
+Vanilie333 collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | Rake 0 
+Board [6s 6c 7s 9c 8h]
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: Vanilie333 (big blind) showed [Qc 5s] and won (330) with a straight, Five to Nine
+Seat 3: Sz.Kugi (button) showed [Ah Kc] and lost with a pair of Sixes
+
+
+
+PokerStars Hand #248603720552: Tournament #3709292788, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/31 17:28:30 CET [2024/01/31 11:28:30 ET]
+Table '3709292788 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (740 in chips) 
+Seat 2: Vanilie333 (330 in chips) 
+Seat 3: Sz.Kugi (430 in chips) 
+Vanilie333: posts small blind 10
+Sz.Kugi: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s 3d]
+Mahu2021: folds 
+Vanilie333: raises 20 to 40
+Sz.Kugi: raises 390 to 430 and is all-in
+Vanilie333: calls 290 and is all-in
+Uncalled bet (100) returned to Sz.Kugi
+*** FLOP *** [Jd Ad 4c]
+*** TURN *** [Jd Ad 4c] [2s]
+*** RIVER *** [Jd Ad 4c 2s] [8c]
+*** SHOW DOWN ***
+Vanilie333: shows [Ac Ks] (a pair of Aces)
+Sz.Kugi: shows [Ah Qc] (a pair of Aces - lower kicker)
+Vanilie333 collected 660 from pot
+*** SUMMARY ***
+Total pot 660 | Rake 0 
+Board [Jd Ad 4c 2s 8c]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: Vanilie333 (small blind) showed [Ac Ks] and won (660) with a pair of Aces
+Seat 3: Sz.Kugi (big blind) showed [Ah Qc] and lost with a pair of Aces
+
+
+
+PokerStars Hand #248603724829: Tournament #3709292788, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/31 17:28:46 CET [2024/01/31 11:28:46 ET]
+Table '3709292788 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (740 in chips) 
+Seat 2: Vanilie333 (660 in chips) 
+Seat 3: Sz.Kugi (100 in chips) 
+Sz.Kugi: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad 5s]
+Vanilie333: folds 
+Sz.Kugi: raises 80 to 100 and is all-in
+Mahu2021: calls 80
+*** FLOP *** [3c 2c Jc]
+*** TURN *** [3c 2c Jc] [4c]
+*** RIVER *** [3c 2c Jc 4c] [2h]
+*** SHOW DOWN ***
+Sz.Kugi: shows [Qd 9s] (a pair of Deuces)
+Mahu2021: shows [Ad 5s] (a straight, Ace to Five)
+Mahu2021 collected 200 from pot
+Sz.Kugi finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [3c 2c Jc 4c 2h]
+Seat 1: Mahu2021 (big blind) showed [Ad 5s] and won (200) with a straight, Ace to Five
+Seat 2: Vanilie333 (button) folded before Flop (didn't bet)
+Seat 3: Sz.Kugi (small blind) showed [Qd 9s] and lost with a pair of Deuces
+
+
+
+PokerStars Hand #248603730537: Tournament #3709292788, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/31 17:29:08 CET [2024/01/31 11:29:08 ET]
+Table '3709292788 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (840 in chips) 
+Seat 2: Vanilie333 (660 in chips) 
+Mahu2021: posts small blind 10
+Vanilie333: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Th Jh]
+Mahu2021: raises 20 to 40
+Vanilie333: calls 20
+*** FLOP *** [Ad 7s 3h]
+Vanilie333: checks 
+Mahu2021: checks 
+*** TURN *** [Ad 7s 3h] [8h]
+Vanilie333: bets 20
+Mahu2021: calls 20
+*** RIVER *** [Ad 7s 3h 8h] [9h]
+Vanilie333: bets 20
+Mahu2021: raises 760 to 780 and is all-in
+Vanilie333: folds 
+Uncalled bet (760) returned to Mahu2021
+Mahu2021 collected 160 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Ad 7s 3h 8h 9h]
+Seat 1: Mahu2021 (button) (small blind) collected (160)
+Seat 2: Vanilie333 (big blind) folded on the River
+
+
+
+PokerStars Hand #248603738209: Tournament #3709292788, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/31 17:29:38 CET [2024/01/31 11:29:38 ET]
+Table '3709292788 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (920 in chips) 
+Seat 2: Vanilie333 (580 in chips) 
+Vanilie333: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h 5c]
+Vanilie333: calls 10
+Mahu2021: checks 
+*** FLOP *** [4s 8c 3s]
+Mahu2021: checks 
+Vanilie333: bets 60
+Mahu2021: calls 60
+*** TURN *** [4s 8c 3s] [5d]
+Mahu2021: checks 
+Vanilie333: bets 160
+Mahu2021: raises 680 to 840 and is all-in
+Vanilie333: calls 340 and is all-in
+Uncalled bet (340) returned to Mahu2021
+*** RIVER *** [4s 8c 3s 5d] [3c]
+*** SHOW DOWN ***
+Mahu2021: shows [2h 5c] (two pair, Fives and Threes)
+Vanilie333: shows [7c 7s] (two pair, Sevens and Threes)
+Vanilie333 collected 1160 from pot
+*** SUMMARY ***
+Total pot 1160 | Rake 0 
+Board [4s 8c 3s 5d 3c]
+Seat 1: Mahu2021 (big blind) showed [2h 5c] and lost with two pair, Fives and Threes
+Seat 2: Vanilie333 (button) (small blind) showed [7c 7s] and won (1160) with two pair, Sevens and Threes
+
+
+
+PokerStars Hand #248603744905: Tournament #3709292788, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/31 17:30:03 CET [2024/01/31 11:30:03 ET]
+Table '3709292788 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (340 in chips) 
+Seat 2: Vanilie333 (1160 in chips) 
+Mahu2021: posts small blind 10
+Vanilie333: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h Jd]
+Mahu2021: raises 20 to 40
+Vanilie333: calls 20
+*** FLOP *** [Jh Qh Ks]
+Vanilie333: checks 
+Mahu2021: bets 300 and is all-in
+Vanilie333: folds 
+Uncalled bet (300) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Jh Qh Ks]
+Seat 1: Mahu2021 (button) (small blind) collected (80)
+Seat 2: Vanilie333 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #248603747963: Tournament #3709292788, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/31 17:30:13 CET [2024/01/31 11:30:13 ET]
+Table '3709292788 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (380 in chips) 
+Seat 2: Vanilie333 (1120 in chips) 
+Vanilie333: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d 2s]
+Vanilie333: calls 10
+Mahu2021: checks 
+*** FLOP *** [6d 2c Th]
+Mahu2021: bets 20
+Vanilie333: calls 20
+*** TURN *** [6d 2c Th] [Kh]
+Mahu2021: checks 
+Vanilie333: checks 
+*** RIVER *** [6d 2c Th Kh] [Jh]
+Mahu2021: bets 80
+Vanilie333: folds 
+Uncalled bet (80) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [6d 2c Th Kh Jh]
+Seat 1: Mahu2021 (big blind) collected (80)
+Seat 2: Vanilie333 (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #248603752735: Tournament #3709292788, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/01/31 17:30:31 CET [2024/01/31 11:30:31 ET]
+Table '3709292788 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (420 in chips) 
+Seat 2: Vanilie333 (1080 in chips) 
+Mahu2021: posts small blind 15
+Vanilie333: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d 5h]
+Mahu2021: folds 
+Uncalled bet (15) returned to Vanilie333
+Vanilie333 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 2: Vanilie333 (big blind) collected (30)
+
+
+
+PokerStars Hand #248603754006: Tournament #3709292788, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/01/31 17:30:36 CET [2024/01/31 11:30:36 ET]
+Table '3709292788 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (405 in chips) 
+Seat 2: Vanilie333 (1095 in chips) 
+Vanilie333: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d 6s]
+Vanilie333: calls 15
+Mahu2021: checks 
+*** FLOP *** [Qh Ks 6h]
+Mahu2021: checks 
+Vanilie333: checks 
+*** TURN *** [Qh Ks 6h] [Ah]
+Mahu2021: checks 
+Vanilie333: checks 
+*** RIVER *** [Qh Ks 6h Ah] [9d]
+Mahu2021: checks 
+Vanilie333: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [5d 6s] (a pair of Sixes)
+Vanilie333: shows [6d 8c] (a pair of Sixes)
+Mahu2021 collected 30 from pot
+Vanilie333 collected 30 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Qh Ks 6h Ah 9d]
+Seat 1: Mahu2021 (big blind) showed [5d 6s] and won (30) with a pair of Sixes
+Seat 2: Vanilie333 (button) (small blind) showed [6d 8c] and won (30) with a pair of Sixes
+
+
+
+PokerStars Hand #248603757080: Tournament #3709292788, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/01/31 17:30:48 CET [2024/01/31 11:30:48 ET]
+Table '3709292788 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (405 in chips) 
+Seat 2: Vanilie333 (1095 in chips) 
+Mahu2021: posts small blind 15
+Vanilie333: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc Kc]
+Mahu2021: raises 60 to 90
+Vanilie333: calls 60
+*** FLOP *** [Kd 2h 2s]
+Vanilie333: bets 30
+Mahu2021: raises 285 to 315 and is all-in
+Vanilie333: folds 
+Uncalled bet (285) returned to Mahu2021
+Mahu2021 collected 240 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Kd 2h 2s]
+Seat 1: Mahu2021 (button) (small blind) collected (240)
+Seat 2: Vanilie333 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #248603760603: Tournament #3709292788, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/01/31 17:31:01 CET [2024/01/31 11:31:01 ET]
+Table '3709292788 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (525 in chips) 
+Seat 2: Vanilie333 (975 in chips) 
+Vanilie333: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5h Jc]
+Vanilie333: calls 15
+Mahu2021: checks 
+*** FLOP *** [7d 3h 2d]
+Mahu2021: checks 
+Vanilie333: checks 
+*** TURN *** [7d 3h 2d] [2c]
+Mahu2021: checks 
+Vanilie333: checks 
+*** RIVER *** [7d 3h 2d 2c] [4d]
+Mahu2021: checks 
+Vanilie333: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [5h Jc] (a pair of Deuces)
+Vanilie333: shows [3c 6c] (two pair, Threes and Deuces)
+Vanilie333 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [7d 3h 2d 2c 4d]
+Seat 1: Mahu2021 (big blind) showed [5h Jc] and lost with a pair of Deuces
+Seat 2: Vanilie333 (button) (small blind) showed [3c 6c] and won (60) with two pair, Threes and Deuces
+
+
+
+PokerStars Hand #248603763811: Tournament #3709292788, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/01/31 17:31:12 CET [2024/01/31 11:31:12 ET]
+Table '3709292788 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (495 in chips) 
+Seat 2: Vanilie333 (1005 in chips) 
+Mahu2021: posts small blind 15
+Vanilie333: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts Td]
+Mahu2021: raises 465 to 495 and is all-in
+Vanilie333: calls 465
+*** FLOP *** [9s 6s 6h]
+*** TURN *** [9s 6s 6h] [6d]
+*** RIVER *** [9s 6s 6h 6d] [8h]
+*** SHOW DOWN ***
+Vanilie333: shows [Ah 4h] (three of a kind, Sixes)
+Mahu2021: shows [Ts Td] (a full house, Sixes full of Tens)
+Mahu2021 collected 990 from pot
+*** SUMMARY ***
+Total pot 990 | Rake 0 
+Board [9s 6s 6h 6d 8h]
+Seat 1: Mahu2021 (button) (small blind) showed [Ts Td] and won (990) with a full house, Sixes full of Tens
+Seat 2: Vanilie333 (big blind) showed [Ah 4h] and lost with three of a kind, Sixes
+
+
+
+PokerStars Hand #248603767237: Tournament #3709292788, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/01/31 17:31:25 CET [2024/01/31 11:31:25 ET]
+Table '3709292788 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (990 in chips) 
+Seat 2: Vanilie333 (510 in chips) 
+Vanilie333: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8d 2c]
+Vanilie333: calls 15
+Mahu2021: checks 
+*** FLOP *** [Kc 3c Js]
+Mahu2021: checks 
+Vanilie333: checks 
+*** TURN *** [Kc 3c Js] [5d]
+Mahu2021: checks 
+Vanilie333: checks 
+*** RIVER *** [Kc 3c Js 5d] [2h]
+Mahu2021: checks 
+Vanilie333: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [8d 2c] (a pair of Deuces)
+Vanilie333: shows [3h 4s] (a pair of Threes)
+Vanilie333 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Kc 3c Js 5d 2h]
+Seat 1: Mahu2021 (big blind) showed [8d 2c] and lost with a pair of Deuces
+Seat 2: Vanilie333 (button) (small blind) showed [3h 4s] and won (60) with a pair of Threes
+
+
+
+PokerStars Hand #248603770425: Tournament #3709292788, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/01/31 17:31:37 CET [2024/01/31 11:31:37 ET]
+Table '3709292788 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (960 in chips) 
+Seat 2: Vanilie333 (540 in chips) 
+Mahu2021: posts small blind 15
+Vanilie333: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d 2d]
+Mahu2021: calls 15
+Vanilie333: checks 
+*** FLOP *** [3c Qs Kc]
+Vanilie333: checks 
+Mahu2021: checks 
+*** TURN *** [3c Qs Kc] [6h]
+Vanilie333: bets 30
+Mahu2021: calls 30
+*** RIVER *** [3c Qs Kc 6h] [Td]
+Vanilie333: bets 30
+Mahu2021: calls 30
+*** SHOW DOWN ***
+Vanilie333: shows [4c Qc] (a pair of Queens)
+Mahu2021: mucks hand 
+Vanilie333 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [3c Qs Kc 6h Td]
+Seat 1: Mahu2021 (button) (small blind) mucked [6d 2d]
+Seat 2: Vanilie333 (big blind) showed [4c Qc] and won (180) with a pair of Queens
+
+
+
+PokerStars Hand #248603774486: Tournament #3709292788, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/01/31 17:31:52 CET [2024/01/31 11:31:52 ET]
+Table '3709292788 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (870 in chips) 
+Seat 2: Vanilie333 (630 in chips) 
+Vanilie333: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d 8d]
+Vanilie333: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (30)
+Seat 2: Vanilie333 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #248603775596: Tournament #3709292788, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/01/31 17:31:56 CET [2024/01/31 11:31:56 ET]
+Table '3709292788 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (885 in chips) 
+Seat 2: Vanilie333 (615 in chips) 
+Mahu2021: posts small blind 15
+Vanilie333: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8s 9h]
+Mahu2021: calls 15
+Vanilie333: raises 30 to 60
+Mahu2021: calls 30
+*** FLOP *** [3h 3d 9s]
+Vanilie333: bets 30
+Mahu2021: raises 795 to 825 and is all-in
+Vanilie333: folds 
+Uncalled bet (795) returned to Mahu2021
+Mahu2021 collected 180 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [3h 3d 9s]
+Seat 1: Mahu2021 (button) (small blind) collected (180)
+Seat 2: Vanilie333 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #248603778766: Tournament #3709292788, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/01/31 17:32:08 CET [2024/01/31 11:32:08 ET]
+Table '3709292788 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (975 in chips) 
+Seat 2: Vanilie333 (525 in chips) 
+Vanilie333: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js 3s]
+Vanilie333: raises 495 to 525 and is all-in
+Mahu2021: folds 
+Uncalled bet (495) returned to Vanilie333
+Vanilie333 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: Vanilie333 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #248603780649: Tournament #3709292788, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/01/31 17:32:15 CET [2024/01/31 11:32:15 ET]
+Table '3709292788 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (945 in chips) 
+Seat 2: Vanilie333 (555 in chips) 
+Mahu2021: posts small blind 15
+Vanilie333: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac 5c]
+Mahu2021: raises 30 to 60
+Vanilie333: raises 495 to 555 and is all-in
+Mahu2021: calls 495
+*** FLOP *** [6d 9d 9c]
+*** TURN *** [6d 9d 9c] [Kd]
+*** RIVER *** [6d 9d 9c Kd] [As]
+*** SHOW DOWN ***
+Vanilie333: shows [Kc Jd] (two pair, Kings and Nines)
+Mahu2021: shows [Ac 5c] (two pair, Aces and Nines)
+Mahu2021 collected 1110 from pot
+Vanilie333 finished the tournament in 2nd place
+Mahu2021 wins the tournament and receives $8.00 - congratulations!
+*** SUMMARY ***
+Total pot 1110 | Rake 0 
+Board [6d 9d 9c Kd As]
+Seat 1: Mahu2021 (button) (small blind) showed [Ac 5c] and won (1110) with two pair, Aces and Nines
+Seat 2: Vanilie333 (big blind) showed [Kc Jd] and lost with two pair, Kings and Nines
+
+
+

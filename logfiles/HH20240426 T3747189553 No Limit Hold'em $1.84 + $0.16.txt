@@ -1,0 +1,461 @@
+﻿PokerStars Hand #250180951774: Tournament #3747189553, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/04/26 19:03:34 CET [2024/04/26 13:03:34 ET]
+Table '3747189553 1' 3-max Seat #1 is the button
+Seat 1: nastay1988 (500 in chips) 
+Seat 2: vasdass (500 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+vasdass: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2s 2d]
+nastay1988: raises 20 to 40
+vasdass: folds 
+Mahu2021: raises 460 to 500 and is all-in
+nastay1988: folds 
+Uncalled bet (460) returned to Mahu2021
+Mahu2021 collected 90 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Seat 1: nastay1988 (button) folded before Flop
+Seat 2: vasdass (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (90)
+
+
+
+PokerStars Hand #250180954840: Tournament #3747189553, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/04/26 19:03:46 CET [2024/04/26 13:03:46 ET]
+Table '3747189553 1' 3-max Seat #2 is the button
+Seat 1: nastay1988 (460 in chips) 
+Seat 2: vasdass (490 in chips) 
+Seat 3: Mahu2021 (550 in chips) 
+Mahu2021: posts small blind 10
+nastay1988: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d Jh]
+vasdass: folds 
+Mahu2021: folds 
+Uncalled bet (10) returned to nastay1988
+nastay1988 collected 20 from pot
+nastay1988: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: nastay1988 (big blind) collected (20)
+Seat 2: vasdass (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #250180956788: Tournament #3747189553, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/04/26 19:03:53 CET [2024/04/26 13:03:53 ET]
+Table '3747189553 1' 3-max Seat #3 is the button
+Seat 1: nastay1988 (470 in chips) 
+Seat 2: vasdass (490 in chips) 
+Seat 3: Mahu2021 (540 in chips) 
+nastay1988: posts small blind 10
+vasdass: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h 2s]
+Mahu2021: folds 
+nastay1988: calls 10
+vasdass: raises 50 to 70
+nastay1988: folds 
+Uncalled bet (50) returned to vasdass
+vasdass collected 40 from pot
+vasdass: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: nastay1988 (small blind) folded before Flop
+Seat 2: vasdass (big blind) collected (40)
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #250180959575: Tournament #3747189553, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/04/26 19:04:04 CET [2024/04/26 13:04:04 ET]
+Table '3747189553 1' 3-max Seat #1 is the button
+Seat 1: nastay1988 (450 in chips) 
+Seat 2: vasdass (510 in chips) 
+Seat 3: Mahu2021 (540 in chips) 
+vasdass: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc Qc]
+nastay1988: raises 20 to 40
+vasdass: folds 
+Mahu2021: calls 20
+*** FLOP *** [Th Tc 4d]
+Mahu2021: checks 
+nastay1988: bets 45
+Mahu2021: calls 45
+*** TURN *** [Th Tc 4d] [4h]
+Mahu2021: checks 
+nastay1988: checks 
+*** RIVER *** [Th Tc 4d 4h] [4c]
+Mahu2021: bets 180
+nastay1988: calls 180
+*** SHOW DOWN ***
+Mahu2021: shows [Jc Qc] (a full house, Fours full of Tens)
+nastay1988: shows [Ah 8h] (a full house, Fours full of Tens)
+Mahu2021 collected 270 from pot
+nastay1988 collected 270 from pot
+*** SUMMARY ***
+Total pot 540 | Rake 0 
+Board [Th Tc 4d 4h 4c]
+Seat 1: nastay1988 (button) showed [Ah 8h] and won (270) with a full house, Fours full of Tens
+Seat 2: vasdass (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) showed [Jc Qc] and won (270) with a full house, Fours full of Tens
+
+
+
+PokerStars Hand #250180965884: Tournament #3747189553, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/04/26 19:04:29 CET [2024/04/26 13:04:29 ET]
+Table '3747189553 1' 3-max Seat #2 is the button
+Seat 1: nastay1988 (455 in chips) 
+Seat 2: vasdass (500 in chips) 
+Seat 3: Mahu2021 (545 in chips) 
+Mahu2021: posts small blind 10
+nastay1988: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Th Kh]
+vasdass: raises 20 to 40
+Mahu2021: calls 30
+nastay1988: calls 20
+*** FLOP *** [8c Td Kd]
+Mahu2021: bets 120
+nastay1988: folds 
+vasdass: folds 
+Uncalled bet (120) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [8c Td Kd]
+Seat 1: nastay1988 (big blind) folded on the Flop
+Seat 2: vasdass (button) folded on the Flop
+Seat 3: Mahu2021 (small blind) collected (120)
+
+
+
+PokerStars Hand #250180969153: Tournament #3747189553, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/04/26 19:04:41 CET [2024/04/26 13:04:41 ET]
+Table '3747189553 1' 3-max Seat #3 is the button
+Seat 1: nastay1988 (415 in chips) 
+Seat 2: vasdass (460 in chips) 
+Seat 3: Mahu2021 (625 in chips) 
+nastay1988: posts small blind 10
+vasdass: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h Qh]
+Mahu2021: raises 20 to 40
+nastay1988: folds 
+vasdass: raises 420 to 460 and is all-in
+Mahu2021: folds 
+Uncalled bet (420) returned to vasdass
+vasdass collected 90 from pot
+vasdass: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Seat 1: nastay1988 (small blind) folded before Flop
+Seat 2: vasdass (big blind) collected (90)
+Seat 3: Mahu2021 (button) folded before Flop
+
+
+
+PokerStars Hand #250180972385: Tournament #3747189553, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/04/26 19:04:54 CET [2024/04/26 13:04:54 ET]
+Table '3747189553 1' 3-max Seat #1 is the button
+Seat 1: nastay1988 (405 in chips) 
+Seat 2: vasdass (510 in chips) 
+Seat 3: Mahu2021 (585 in chips) 
+vasdass: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qd 4c]
+nastay1988: raises 20 to 40
+vasdass: folds 
+Mahu2021: folds 
+Uncalled bet (20) returned to nastay1988
+nastay1988 collected 50 from pot
+nastay1988: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: nastay1988 (button) collected (50)
+Seat 2: vasdass (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #250180975176: Tournament #3747189553, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/04/26 19:05:04 CET [2024/04/26 13:05:04 ET]
+Table '3747189553 1' 3-max Seat #2 is the button
+Seat 1: nastay1988 (435 in chips) 
+Seat 2: vasdass (500 in chips) 
+Seat 3: Mahu2021 (565 in chips) 
+Mahu2021: posts small blind 10
+nastay1988: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6h 7c]
+vasdass: folds 
+Mahu2021: raises 20 to 40
+nastay1988: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: nastay1988 (big blind) folded before Flop
+Seat 2: vasdass (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) collected (40)
+
+
+
+PokerStars Hand #250180978222: Tournament #3747189553, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/04/26 19:05:15 CET [2024/04/26 13:05:15 ET]
+Table '3747189553 1' 3-max Seat #3 is the button
+Seat 1: nastay1988 (415 in chips) 
+Seat 2: vasdass (500 in chips) 
+Seat 3: Mahu2021 (585 in chips) 
+nastay1988: posts small blind 10
+vasdass: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8s Th]
+Mahu2021: folds 
+nastay1988: calls 10
+vasdass: raises 60 to 80
+nastay1988: folds 
+Uncalled bet (60) returned to vasdass
+vasdass collected 40 from pot
+vasdass: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: nastay1988 (small blind) folded before Flop
+Seat 2: vasdass (big blind) collected (40)
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #250180982018: Tournament #3747189553, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/04/26 19:05:29 CET [2024/04/26 13:05:29 ET]
+Table '3747189553 1' 3-max Seat #1 is the button
+Seat 1: nastay1988 (395 in chips) 
+Seat 2: vasdass (520 in chips) 
+Seat 3: Mahu2021 (585 in chips) 
+vasdass: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8d 7h]
+nastay1988: folds 
+vasdass: raises 30 to 50
+Mahu2021: calls 30
+*** FLOP *** [Ks 4s 4c]
+vasdass: bets 25
+Mahu2021: folds 
+Uncalled bet (25) returned to vasdass
+vasdass collected 100 from pot
+vasdass: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [Ks 4s 4c]
+Seat 1: nastay1988 (button) folded before Flop (didn't bet)
+Seat 2: vasdass (small blind) collected (100)
+Seat 3: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #250180986875: Tournament #3747189553, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/04/26 19:05:48 CET [2024/04/26 13:05:48 ET]
+Table '3747189553 1' 3-max Seat #2 is the button
+Seat 1: nastay1988 (395 in chips) 
+Seat 2: vasdass (570 in chips) 
+Seat 3: Mahu2021 (535 in chips) 
+Mahu2021: posts small blind 15
+nastay1988: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d 7h]
+vasdass: folds 
+Mahu2021: folds 
+Uncalled bet (15) returned to nastay1988
+nastay1988 collected 30 from pot
+nastay1988: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: nastay1988 (big blind) collected (30)
+Seat 2: vasdass (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #250180988952: Tournament #3747189553, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/04/26 19:05:56 CET [2024/04/26 13:05:56 ET]
+Table '3747189553 1' 3-max Seat #3 is the button
+Seat 1: nastay1988 (410 in chips) 
+Seat 2: vasdass (570 in chips) 
+Seat 3: Mahu2021 (520 in chips) 
+nastay1988: posts small blind 15
+vasdass: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d 2d]
+Mahu2021: folds 
+nastay1988: raises 30 to 60
+vasdass: calls 30
+*** FLOP *** [2s Kc 4h]
+nastay1988: bets 60
+vasdass: folds 
+Uncalled bet (60) returned to nastay1988
+nastay1988 collected 120 from pot
+nastay1988: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [2s Kc 4h]
+Seat 1: nastay1988 (small blind) collected (120)
+Seat 2: vasdass (big blind) folded on the Flop
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #250180992457: Tournament #3747189553, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/04/26 19:06:09 CET [2024/04/26 13:06:09 ET]
+Table '3747189553 1' 3-max Seat #1 is the button
+Seat 1: nastay1988 (470 in chips) 
+Seat 2: vasdass (510 in chips) 
+Seat 3: Mahu2021 (520 in chips) 
+vasdass: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Td 6s]
+nastay1988: raises 30 to 60
+vasdass: folds 
+Mahu2021: folds 
+Uncalled bet (30) returned to nastay1988
+nastay1988 collected 75 from pot
+nastay1988: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: nastay1988 (button) collected (75)
+Seat 2: vasdass (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #250180994634: Tournament #3747189553, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/04/26 19:06:17 CET [2024/04/26 13:06:17 ET]
+Table '3747189553 1' 3-max Seat #2 is the button
+Seat 1: nastay1988 (515 in chips) 
+Seat 2: vasdass (495 in chips) 
+Seat 3: Mahu2021 (490 in chips) 
+Mahu2021: posts small blind 15
+nastay1988: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc 4s]
+vasdass: folds 
+Mahu2021: folds 
+Uncalled bet (15) returned to nastay1988
+nastay1988 collected 30 from pot
+nastay1988: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: nastay1988 (big blind) collected (30)
+Seat 2: vasdass (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #250180996143: Tournament #3747189553, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/04/26 19:06:23 CET [2024/04/26 13:06:23 ET]
+Table '3747189553 1' 3-max Seat #3 is the button
+Seat 1: nastay1988 (530 in chips) 
+Seat 2: vasdass (495 in chips) 
+Seat 3: Mahu2021 (475 in chips) 
+nastay1988: posts small blind 15
+vasdass: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d 8s]
+Mahu2021: calls 30
+nastay1988: folds 
+vasdass: checks 
+*** FLOP *** [Qc Td 3c]
+vasdass: checks 
+Mahu2021: checks 
+*** TURN *** [Qc Td 3c] [Qh]
+vasdass: checks 
+Mahu2021: checks 
+*** RIVER *** [Qc Td 3c Qh] [4h]
+vasdass: bets 30
+Mahu2021: folds 
+Uncalled bet (30) returned to vasdass
+vasdass collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Board [Qc Td 3c Qh 4h]
+Seat 1: nastay1988 (small blind) folded before Flop
+Seat 2: vasdass (big blind) collected (75)
+Seat 3: Mahu2021 (button) folded on the River
+
+
+
+PokerStars Hand #250181000702: Tournament #3747189553, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/04/26 19:06:40 CET [2024/04/26 13:06:40 ET]
+Table '3747189553 1' 3-max Seat #1 is the button
+Seat 1: nastay1988 (515 in chips) 
+Seat 2: vasdass (540 in chips) 
+Seat 3: Mahu2021 (445 in chips) 
+vasdass: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h Ad]
+nastay1988: raises 30 to 60
+vasdass: folds 
+Mahu2021: calls 30
+*** FLOP *** [4s Qd Jh]
+Mahu2021: checks 
+nastay1988: bets 68
+Mahu2021: folds 
+Uncalled bet (68) returned to nastay1988
+nastay1988 collected 135 from pot
+nastay1988: doesn't show hand 
+*** SUMMARY ***
+Total pot 135 | Rake 0 
+Board [4s Qd Jh]
+Seat 1: nastay1988 (button) collected (135)
+Seat 2: vasdass (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #250181003719: Tournament #3747189553, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/04/26 19:06:52 CET [2024/04/26 13:06:52 ET]
+Table '3747189553 1' 3-max Seat #2 is the button
+Seat 1: nastay1988 (590 in chips) 
+Seat 2: vasdass (525 in chips) 
+Seat 3: Mahu2021 (385 in chips) 
+Mahu2021: posts small blind 15
+nastay1988: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s 7c]
+vasdass: raises 30 to 60
+Mahu2021: folds 
+nastay1988: folds 
+Uncalled bet (30) returned to vasdass
+vasdass collected 75 from pot
+vasdass: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: nastay1988 (big blind) folded before Flop
+Seat 2: vasdass (button) collected (75)
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #250181005616: Tournament #3747189553, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/04/26 19:06:59 CET [2024/04/26 13:06:59 ET]
+Table '3747189553 1' 3-max Seat #3 is the button
+Seat 1: nastay1988 (560 in chips) 
+Seat 2: vasdass (570 in chips) 
+Seat 3: Mahu2021 (370 in chips) 
+nastay1988: posts small blind 15
+vasdass: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d 6c]
+Mahu2021: raises 340 to 370 and is all-in
+nastay1988: folds 
+vasdass: calls 340
+*** FLOP *** [9d 4h Qh]
+*** TURN *** [9d 4h Qh] [Td]
+*** RIVER *** [9d 4h Qh Td] [Ah]
+*** SHOW DOWN ***
+vasdass: shows [Tc 5c] (a pair of Tens)
+Mahu2021: shows [6d 6c] (a pair of Sixes)
+vasdass collected 755 from pot
+Mahu2021 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 755 | Rake 0 
+Board [9d 4h Qh Td Ah]
+Seat 1: nastay1988 (small blind) folded before Flop
+Seat 2: vasdass (big blind) showed [Tc 5c] and won (755) with a pair of Tens
+Seat 3: Mahu2021 (button) showed [6d 6c] and lost with a pair of Sixes
+
+
+

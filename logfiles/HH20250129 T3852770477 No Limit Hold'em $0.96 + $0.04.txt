@@ -1,0 +1,256 @@
+﻿PokerStars Hand #254603807294: Tournament #3852770477, $0.96+$0.04 USD Hold'em No Limit - Match Round I, Level I (25/50) - 2025/01/29 9:43:49 CET [2025/01/29 3:43:49 ET]
+Table '3852770477 4' 4-max Seat #1 is the button
+Seat 1: duedre (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: guicesar23 (500 in chips) 
+Seat 4: Deeks0223 (500 in chips) 
+duedre: posts the ante 10
+Mahu2021: posts the ante 10
+guicesar23: posts the ante 10
+Deeks0223: posts the ante 10
+Mahu2021: posts small blind 25
+guicesar23: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Tc 7s]
+Deeks0223: calls 50
+duedre: folds 
+Mahu2021: calls 25
+guicesar23: raises 50 to 100
+Deeks0223: folds 
+Mahu2021: folds 
+Uncalled bet (50) returned to guicesar23
+guicesar23 collected 190 from pot
+*** SUMMARY ***
+Total pot 190 | Rake 0 
+Seat 1: duedre (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: guicesar23 (big blind) collected (190)
+Seat 4: Deeks0223 folded before Flop
+
+
+
+PokerStars Hand #254603808814: Tournament #3852770477, $0.96+$0.04 USD Hold'em No Limit - Match Round I, Level I (25/50) - 2025/01/29 9:44:07 CET [2025/01/29 3:44:07 ET]
+Table '3852770477 4' 4-max Seat #2 is the button
+Seat 1: duedre (490 in chips) 
+Seat 2: Mahu2021 (440 in chips) 
+Seat 3: guicesar23 (630 in chips) 
+Seat 4: Deeks0223 (440 in chips) 
+duedre: posts the ante 10
+Mahu2021: posts the ante 10
+guicesar23: posts the ante 10
+Deeks0223: posts the ante 10
+guicesar23: posts small blind 25
+Deeks0223: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c 3s]
+duedre: folds 
+Mahu2021: folds 
+guicesar23: calls 25
+Deeks0223: checks 
+*** FLOP *** [Qs 4h Ah]
+guicesar23: bets 50
+Deeks0223: raises 50 to 100
+guicesar23: calls 50
+*** TURN *** [Qs 4h Ah] [Ks]
+guicesar23: checks 
+Deeks0223: bets 100
+guicesar23: folds 
+Uncalled bet (100) returned to Deeks0223
+Deeks0223 collected 340 from pot
+Deeks0223: doesn't show hand 
+*** SUMMARY ***
+Total pot 340 | Rake 0 
+Board [Qs 4h Ah Ks]
+Seat 1: duedre folded before Flop (didn't bet)
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: guicesar23 (small blind) folded on the Turn
+Seat 4: Deeks0223 (big blind) collected (340)
+
+
+
+PokerStars Hand #254603812374: Tournament #3852770477, $0.96+$0.04 USD Hold'em No Limit - Match Round I, Level I (25/50) - 2025/01/29 9:44:49 CET [2025/01/29 3:44:49 ET]
+Table '3852770477 4' 4-max Seat #3 is the button
+Seat 1: duedre (480 in chips) 
+Seat 2: Mahu2021 (430 in chips) 
+Seat 3: guicesar23 (470 in chips) 
+Seat 4: Deeks0223 (620 in chips) 
+duedre: posts the ante 10
+Mahu2021: posts the ante 10
+guicesar23: posts the ante 10
+Deeks0223: posts the ante 10
+Deeks0223: posts small blind 25
+duedre: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6h 3h]
+Mahu2021: folds 
+guicesar23: folds 
+Deeks0223: calls 25
+duedre: checks 
+*** FLOP *** [2s Td 2h]
+Deeks0223: checks 
+duedre: bets 50
+Deeks0223: calls 50
+*** TURN *** [2s Td 2h] [3d]
+Deeks0223: checks 
+duedre: checks 
+*** RIVER *** [2s Td 2h 3d] [7c]
+Deeks0223: bets 50
+duedre: folds 
+Uncalled bet (50) returned to Deeks0223
+Deeks0223 collected 240 from pot
+Deeks0223: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [2s Td 2h 3d 7c]
+Seat 1: duedre (big blind) folded on the River
+Seat 2: Mahu2021 folded before Flop (didn't bet)
+Seat 3: guicesar23 (button) folded before Flop (didn't bet)
+Seat 4: Deeks0223 (small blind) collected (240)
+
+
+
+PokerStars Hand #254603814710: Tournament #3852770477, $0.96+$0.04 USD Hold'em No Limit - Match Round I, Level I (25/50) - 2025/01/29 9:45:17 CET [2025/01/29 3:45:17 ET]
+Table '3852770477 4' 4-max Seat #4 is the button
+Seat 1: duedre (370 in chips) 
+Seat 2: Mahu2021 (420 in chips) 
+Seat 3: guicesar23 (460 in chips) 
+Seat 4: Deeks0223 (750 in chips) 
+duedre: posts the ante 10
+Mahu2021: posts the ante 10
+guicesar23: posts the ante 10
+Deeks0223: posts the ante 10
+duedre: posts small blind 25
+Mahu2021: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks Js]
+guicesar23: raises 50 to 100
+Deeks0223: raises 50 to 150
+duedre: folds 
+Mahu2021: folds 
+guicesar23: raises 300 to 450 and is all-in
+Deeks0223: calls 300
+*** FLOP *** [Tc Ad As]
+*** TURN *** [Tc Ad As] [Td]
+*** RIVER *** [Tc Ad As Td] [4s]
+*** SHOW DOWN ***
+guicesar23: shows [Ac Qd] (a full house, Aces full of Tens)
+Deeks0223: shows [9h 9c] (two pair, Aces and Tens)
+guicesar23 collected 1015 from pot
+*** SUMMARY ***
+Total pot 1015 | Rake 0 
+Board [Tc Ad As Td 4s]
+Seat 1: duedre (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: guicesar23 showed [Ac Qd] and won (1015) with a full house, Aces full of Tens
+Seat 4: Deeks0223 (button) showed [9h 9c] and lost with two pair, Aces and Tens
+
+
+
+PokerStars Hand #254603816740: Tournament #3852770477, $0.96+$0.04 USD Hold'em No Limit - Match Round I, Level I (25/50) - 2025/01/29 9:45:41 CET [2025/01/29 3:45:41 ET]
+Table '3852770477 4' 4-max Seat #1 is the button
+Seat 1: duedre (335 in chips) 
+Seat 2: Mahu2021 (360 in chips) 
+Seat 3: guicesar23 (1015 in chips) 
+Seat 4: Deeks0223 (290 in chips) 
+duedre: posts the ante 10
+Mahu2021: posts the ante 10
+guicesar23: posts the ante 10
+Deeks0223: posts the ante 10
+Mahu2021: posts small blind 25
+guicesar23: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s Td]
+Deeks0223: folds 
+duedre: calls 50
+Mahu2021: calls 25
+guicesar23: checks 
+*** FLOP *** [Jh Ac 9h]
+Mahu2021: checks 
+guicesar23: bets 50
+duedre: calls 50
+Mahu2021: folds 
+*** TURN *** [Jh Ac 9h] [3s]
+guicesar23: bets 50
+duedre: calls 50
+*** RIVER *** [Jh Ac 9h 3s] [9s]
+guicesar23: bets 50
+duedre: calls 50
+*** SHOW DOWN ***
+guicesar23: shows [Jc 8d] (two pair, Jacks and Nines)
+duedre: mucks hand 
+guicesar23 collected 490 from pot
+*** SUMMARY ***
+Total pot 490 | Rake 0 
+Board [Jh Ac 9h 3s 9s]
+Seat 1: duedre (button) mucked [3c 7c]
+Seat 2: Mahu2021 (small blind) folded on the Flop
+Seat 3: guicesar23 (big blind) showed [Jc 8d] and won (490) with two pair, Jacks and Nines
+Seat 4: Deeks0223 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254603819743: Tournament #3852770477, $0.96+$0.04 USD Hold'em No Limit - Match Round I, Level I (25/50) - 2025/01/29 9:46:16 CET [2025/01/29 3:46:16 ET]
+Table '3852770477 4' 4-max Seat #2 is the button
+Seat 1: duedre (125 in chips) 
+Seat 2: Mahu2021 (300 in chips) 
+Seat 3: guicesar23 (1295 in chips) 
+Seat 4: Deeks0223 (280 in chips) 
+duedre: posts the ante 10
+Mahu2021: posts the ante 10
+guicesar23: posts the ante 10
+Deeks0223: posts the ante 10
+guicesar23: posts small blind 25
+Deeks0223: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4d 2h]
+duedre: folds 
+Mahu2021: folds 
+guicesar23: folds 
+Uncalled bet (25) returned to Deeks0223
+Deeks0223 collected 90 from pot
+Deeks0223: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Seat 1: duedre folded before Flop (didn't bet)
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: guicesar23 (small blind) folded before Flop
+Seat 4: Deeks0223 (big blind) collected (90)
+
+
+
+PokerStars Hand #254603820858: Tournament #3852770477, $0.96+$0.04 USD Hold'em No Limit - Match Round I, Level I (25/50) - 2025/01/29 9:46:29 CET [2025/01/29 3:46:29 ET]
+Table '3852770477 4' 4-max Seat #3 is the button
+Seat 1: duedre (115 in chips) 
+Seat 2: Mahu2021 (290 in chips) 
+Seat 3: guicesar23 (1260 in chips) 
+Seat 4: Deeks0223 (335 in chips) 
+duedre: posts the ante 10
+Mahu2021: posts the ante 10
+guicesar23: posts the ante 10
+Deeks0223: posts the ante 10
+Deeks0223: posts small blind 25
+duedre: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh Jc]
+Mahu2021: raises 230 to 280 and is all-in
+guicesar23: folds 
+Deeks0223: calls 255
+duedre: folds 
+*** FLOP *** [Ts 9c 9s]
+*** TURN *** [Ts 9c 9s] [Qd]
+*** RIVER *** [Ts 9c 9s Qd] [7h]
+*** SHOW DOWN ***
+Deeks0223: shows [Ad Qc] (two pair, Queens and Nines)
+Mahu2021: shows [Qh Jc] (two pair, Queens and Nines - lower kicker)
+Deeks0223 collected 650 from pot
+Mahu2021 finished the tournament in 12th place
+*** SUMMARY ***
+Total pot 650 | Rake 0 
+Board [Ts 9c 9s Qd 7h]
+Seat 1: duedre (big blind) folded before Flop
+Seat 2: Mahu2021 showed [Qh Jc] and lost with two pair, Queens and Nines
+Seat 3: guicesar23 (button) folded before Flop (didn't bet)
+Seat 4: Deeks0223 (small blind) showed [Ad Qc] and won (650) with two pair, Queens and Nines
+
+
+

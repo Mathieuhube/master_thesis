@@ -1,0 +1,541 @@
+﻿PokerStars Hand #246961736937: Tournament #3669179704, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/06 17:52:19 CET [2023/11/06 11:52:19 ET]
+Table '3669179704 1' 3-max Seat #1 is the button
+Seat 1: LigoL (500 in chips) 
+Seat 2: mantUK0 (500 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+mantUK0: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h Th]
+LigoL: folds 
+mantUK0: calls 10
+Mahu2021: checks 
+*** FLOP *** [5c 4s 9h]
+mantUK0: checks 
+Mahu2021: checks 
+*** TURN *** [5c 4s 9h] [5h]
+mantUK0: checks 
+Mahu2021: bets 40
+mantUK0: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [5c 4s 9h 5h]
+Seat 1: LigoL (button) folded before Flop (didn't bet)
+Seat 2: mantUK0 (small blind) folded on the Turn
+Seat 3: Mahu2021 (big blind) collected (40)
+
+
+
+PokerStars Hand #246961741395: Tournament #3669179704, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/06 17:52:36 CET [2023/11/06 11:52:36 ET]
+Table '3669179704 1' 3-max Seat #2 is the button
+Seat 1: LigoL (500 in chips) 
+Seat 2: mantUK0 (480 in chips) 
+Seat 3: Mahu2021 (520 in chips) 
+Mahu2021: posts small blind 10
+LigoL: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s Th]
+mantUK0: calls 20
+Mahu2021: folds 
+LigoL: checks 
+*** FLOP *** [5s 4d 6c]
+LigoL: checks 
+mantUK0: checks 
+*** TURN *** [5s 4d 6c] [Ac]
+LigoL: checks 
+mantUK0: checks 
+*** RIVER *** [5s 4d 6c Ac] [Kd]
+LigoL: bets 40
+mantUK0: calls 40
+*** SHOW DOWN ***
+LigoL: shows [Kh 6s] (two pair, Kings and Sixes)
+mantUK0: mucks hand 
+LigoL collected 130 from pot
+*** SUMMARY ***
+Total pot 130 | Rake 0 
+Board [5s 4d 6c Ac Kd]
+Seat 1: LigoL (big blind) showed [Kh 6s] and won (130) with two pair, Kings and Sixes
+Seat 2: mantUK0 (button) mucked [9c Kc]
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #246961747119: Tournament #3669179704, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/06 17:52:57 CET [2023/11/06 11:52:57 ET]
+Table '3669179704 1' 3-max Seat #3 is the button
+Seat 1: LigoL (570 in chips) 
+Seat 2: mantUK0 (420 in chips) 
+Seat 3: Mahu2021 (510 in chips) 
+LigoL: posts small blind 10
+mantUK0: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8s Kd]
+Mahu2021: folds 
+LigoL: folds 
+Uncalled bet (10) returned to mantUK0
+mantUK0 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: LigoL (small blind) folded before Flop
+Seat 2: mantUK0 (big blind) collected (20)
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #246961749835: Tournament #3669179704, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/06 17:53:07 CET [2023/11/06 11:53:07 ET]
+Table '3669179704 1' 3-max Seat #1 is the button
+Seat 1: LigoL (560 in chips) 
+Seat 2: mantUK0 (430 in chips) 
+Seat 3: Mahu2021 (510 in chips) 
+mantUK0: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts 7h]
+LigoL: folds 
+mantUK0: calls 10
+Mahu2021: checks 
+*** FLOP *** [6c Qs 9d]
+mantUK0: checks 
+Mahu2021: checks 
+*** TURN *** [6c Qs 9d] [3s]
+mantUK0: checks 
+Mahu2021: checks 
+*** RIVER *** [6c Qs 9d 3s] [4h]
+mantUK0: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+mantUK0: shows [7s Td] (high card Queen)
+Mahu2021: shows [Ts 7h] (high card Queen)
+mantUK0 collected 20 from pot
+Mahu2021 collected 20 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [6c Qs 9d 3s 4h]
+Seat 1: LigoL (button) folded before Flop (didn't bet)
+Seat 2: mantUK0 (small blind) showed [7s Td] and won (20) with high card Queen
+Seat 3: Mahu2021 (big blind) showed [Ts 7h] and won (20) with high card Queen
+
+
+
+PokerStars Hand #246961754120: Tournament #3669179704, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/06 17:53:23 CET [2023/11/06 11:53:23 ET]
+Table '3669179704 1' 3-max Seat #2 is the button
+Seat 1: LigoL (560 in chips) 
+Seat 2: mantUK0 (430 in chips) 
+Seat 3: Mahu2021 (510 in chips) 
+Mahu2021: posts small blind 10
+LigoL: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d 4s]
+mantUK0: calls 20
+Mahu2021: folds 
+LigoL: checks 
+*** FLOP *** [Ks 3h 5s]
+LigoL: checks 
+mantUK0: checks 
+*** TURN *** [Ks 3h 5s] [Js]
+LigoL: checks 
+mantUK0: bets 20
+LigoL: calls 20
+*** RIVER *** [Ks 3h 5s Js] [9c]
+LigoL: checks 
+mantUK0: bets 20
+LigoL: folds 
+Uncalled bet (20) returned to mantUK0
+mantUK0 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [Ks 3h 5s Js 9c]
+Seat 1: LigoL (big blind) folded on the River
+Seat 2: mantUK0 (button) collected (90)
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #246961762645: Tournament #3669179704, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/06 17:53:55 CET [2023/11/06 11:53:55 ET]
+Table '3669179704 1' 3-max Seat #3 is the button
+Seat 1: LigoL (520 in chips) 
+Seat 2: mantUK0 (480 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+LigoL: posts small blind 10
+mantUK0: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4d 7d]
+Mahu2021: folds 
+LigoL: folds 
+Uncalled bet (10) returned to mantUK0
+mantUK0 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: LigoL (small blind) folded before Flop
+Seat 2: mantUK0 (big blind) collected (20)
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #246961764889: Tournament #3669179704, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/06 17:54:04 CET [2023/11/06 11:54:04 ET]
+Table '3669179704 1' 3-max Seat #1 is the button
+Seat 1: LigoL (510 in chips) 
+Seat 2: mantUK0 (490 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+mantUK0: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As 5s]
+LigoL: raises 20 to 40
+mantUK0: folds 
+Mahu2021: calls 20
+*** FLOP *** [8h Jh 3h]
+Mahu2021: checks 
+LigoL: bets 72
+Mahu2021: folds 
+Uncalled bet (72) returned to LigoL
+LigoL collected 90 from pot
+LigoL: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [8h Jh 3h]
+Seat 1: LigoL (button) collected (90)
+Seat 2: mantUK0 (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #246961772883: Tournament #3669179704, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/06 17:54:33 CET [2023/11/06 11:54:33 ET]
+Table '3669179704 1' 3-max Seat #2 is the button
+Seat 1: LigoL (560 in chips) 
+Seat 2: mantUK0 (480 in chips) 
+Seat 3: Mahu2021 (460 in chips) 
+Mahu2021: posts small blind 15
+LigoL: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Tc 2h]
+mantUK0: folds 
+Mahu2021: folds 
+Uncalled bet (15) returned to LigoL
+LigoL collected 30 from pot
+LigoL: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: LigoL (big blind) collected (30)
+Seat 2: mantUK0 (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #246961774252: Tournament #3669179704, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/06 17:54:38 CET [2023/11/06 11:54:38 ET]
+Table '3669179704 1' 3-max Seat #3 is the button
+Seat 1: LigoL (575 in chips) 
+Seat 2: mantUK0 (480 in chips) 
+Seat 3: Mahu2021 (445 in chips) 
+LigoL: posts small blind 15
+mantUK0: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad Kc]
+Mahu2021: raises 60 to 90
+LigoL: folds 
+mantUK0: raises 60 to 150
+Mahu2021: raises 295 to 445 and is all-in
+mantUK0: calls 295
+*** FLOP *** [Jd Kh 2d]
+*** TURN *** [Jd Kh 2d] [7d]
+*** RIVER *** [Jd Kh 2d 7d] [2s]
+*** SHOW DOWN ***
+mantUK0: shows [8d 8c] (two pair, Eights and Deuces)
+Mahu2021: shows [Ad Kc] (two pair, Kings and Deuces)
+Mahu2021 collected 905 from pot
+*** SUMMARY ***
+Total pot 905 | Rake 0 
+Board [Jd Kh 2d 7d 2s]
+Seat 1: LigoL (small blind) folded before Flop
+Seat 2: mantUK0 (big blind) showed [8d 8c] and lost with two pair, Eights and Deuces
+Seat 3: Mahu2021 (button) showed [Ad Kc] and won (905) with two pair, Kings and Deuces
+
+
+
+PokerStars Hand #246961780077: Tournament #3669179704, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/06 17:55:00 CET [2023/11/06 11:55:00 ET]
+Table '3669179704 1' 3-max Seat #1 is the button
+Seat 1: LigoL (560 in chips) 
+Seat 2: mantUK0 (35 in chips) 
+Seat 3: Mahu2021 (905 in chips) 
+mantUK0: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js 3c]
+LigoL: folds 
+mantUK0: raises 5 to 35 and is all-in
+Mahu2021: calls 5
+*** FLOP *** [4h Jc 4c]
+*** TURN *** [4h Jc 4c] [9d]
+*** RIVER *** [4h Jc 4c 9d] [Jd]
+*** SHOW DOWN ***
+mantUK0: shows [Kc 8s] (two pair, Jacks and Fours)
+Mahu2021: shows [Js 3c] (a full house, Jacks full of Fours)
+Mahu2021 collected 70 from pot
+mantUK0 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 70 | Rake 0 
+Board [4h Jc 4c 9d Jd]
+Seat 1: LigoL (button) folded before Flop (didn't bet)
+Seat 2: mantUK0 (small blind) showed [Kc 8s] and lost with two pair, Jacks and Fours
+Seat 3: Mahu2021 (big blind) showed [Js 3c] and won (70) with a full house, Jacks full of Fours
+
+
+
+PokerStars Hand #246961783748: Tournament #3669179704, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/06 17:55:16 CET [2023/11/06 11:55:16 ET]
+Table '3669179704 1' 3-max Seat #3 is the button
+Seat 1: LigoL (560 in chips) 
+Seat 3: Mahu2021 (940 in chips) 
+Mahu2021: posts small blind 15
+LigoL: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4c Qc]
+Mahu2021: calls 15
+LigoL: checks 
+*** FLOP *** [5c Js 5d]
+LigoL: checks 
+Mahu2021: bets 30
+LigoL: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [5c Js 5d]
+Seat 1: LigoL (big blind) folded on the Flop
+Seat 3: Mahu2021 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #246961788428: Tournament #3669179704, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/06 17:55:37 CET [2023/11/06 11:55:37 ET]
+Table '3669179704 1' 3-max Seat #1 is the button
+Seat 1: LigoL (530 in chips) 
+Seat 3: Mahu2021 (970 in chips) 
+LigoL: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d Ac]
+LigoL: raises 30 to 60
+Mahu2021: calls 30
+*** FLOP *** [Qh 6c 9d]
+Mahu2021: checks 
+LigoL: bets 48
+Mahu2021: folds 
+Uncalled bet (48) returned to LigoL
+LigoL collected 120 from pot
+LigoL: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Qh 6c 9d]
+Seat 1: LigoL (button) (small blind) collected (120)
+Seat 3: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #246961790946: Tournament #3669179704, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/06 17:55:49 CET [2023/11/06 11:55:49 ET]
+Table '3669179704 1' 3-max Seat #3 is the button
+Seat 1: LigoL (590 in chips) 
+Seat 3: Mahu2021 (910 in chips) 
+Mahu2021: posts small blind 15
+LigoL: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2c Jh]
+Mahu2021: folds 
+Uncalled bet (15) returned to LigoL
+LigoL collected 30 from pot
+LigoL: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: LigoL (big blind) collected (30)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #246961791938: Tournament #3669179704, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/06 17:55:54 CET [2023/11/06 11:55:54 ET]
+Table '3669179704 1' 3-max Seat #1 is the button
+Seat 1: LigoL (605 in chips) 
+Seat 3: Mahu2021 (895 in chips) 
+LigoL: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2s Kh]
+LigoL: raises 30 to 60
+Mahu2021: calls 30
+*** FLOP *** [4h 8c 6s]
+Mahu2021: checks 
+LigoL: bets 72
+Mahu2021: folds 
+Uncalled bet (72) returned to LigoL
+LigoL collected 120 from pot
+LigoL: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [4h 8c 6s]
+Seat 1: LigoL (button) (small blind) collected (120)
+Seat 3: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #246961794192: Tournament #3669179704, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/06 17:56:05 CET [2023/11/06 11:56:05 ET]
+Table '3669179704 1' 3-max Seat #3 is the button
+Seat 1: LigoL (665 in chips) 
+Seat 3: Mahu2021 (835 in chips) 
+Mahu2021: posts small blind 15
+LigoL: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8c Ts]
+Mahu2021: folds 
+Uncalled bet (15) returned to LigoL
+LigoL collected 30 from pot
+LigoL: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: LigoL (big blind) collected (30)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #246961795184: Tournament #3669179704, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/06 17:56:09 CET [2023/11/06 11:56:09 ET]
+Table '3669179704 1' 3-max Seat #1 is the button
+Seat 1: LigoL (680 in chips) 
+Seat 3: Mahu2021 (820 in chips) 
+LigoL: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad 2h]
+LigoL: raises 30 to 60
+Mahu2021: calls 30
+*** FLOP *** [7s As 3d]
+Mahu2021: checks 
+LigoL: bets 30
+Mahu2021: raises 60 to 90
+LigoL: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 180 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [7s As 3d]
+Seat 1: LigoL (button) (small blind) folded on the Flop
+Seat 3: Mahu2021 (big blind) collected (180)
+
+
+
+PokerStars Hand #246961800935: Tournament #3669179704, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/11/06 17:56:35 CET [2023/11/06 11:56:35 ET]
+Table '3669179704 1' 3-max Seat #3 is the button
+Seat 1: LigoL (590 in chips) 
+Seat 3: Mahu2021 (910 in chips) 
+Mahu2021: posts small blind 20
+LigoL: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d 8h]
+Mahu2021: folds 
+Uncalled bet (20) returned to LigoL
+LigoL collected 40 from pot
+LigoL: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: LigoL (big blind) collected (40)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #246961801970: Tournament #3669179704, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/11/06 17:56:40 CET [2023/11/06 11:56:40 ET]
+Table '3669179704 1' 3-max Seat #1 is the button
+Seat 1: LigoL (610 in chips) 
+Seat 3: Mahu2021 (890 in chips) 
+LigoL: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s Ks]
+LigoL: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: LigoL (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (40)
+
+
+
+PokerStars Hand #246961804275: Tournament #3669179704, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/11/06 17:56:51 CET [2023/11/06 11:56:51 ET]
+Table '3669179704 1' 3-max Seat #3 is the button
+Seat 1: LigoL (590 in chips) 
+Seat 3: Mahu2021 (910 in chips) 
+Mahu2021: posts small blind 20
+LigoL: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Tc 2d]
+Mahu2021: folds 
+Uncalled bet (20) returned to LigoL
+LigoL collected 40 from pot
+LigoL: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: LigoL (big blind) collected (40)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #246961805240: Tournament #3669179704, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/11/06 17:56:56 CET [2023/11/06 11:56:56 ET]
+Table '3669179704 1' 3-max Seat #1 is the button
+Seat 1: LigoL (610 in chips) 
+Seat 3: Mahu2021 (890 in chips) 
+LigoL: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d Jd]
+LigoL: calls 20
+Mahu2021: checks 
+*** FLOP *** [8d 3d Jh]
+Mahu2021: checks 
+LigoL: bets 40
+Mahu2021: raises 80 to 120
+LigoL: folds 
+Uncalled bet (80) returned to Mahu2021
+Mahu2021 collected 160 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [8d 3d Jh]
+Seat 1: LigoL (button) (small blind) folded on the Flop
+Seat 3: Mahu2021 (big blind) collected (160)
+
+
+
+PokerStars Hand #246961808221: Tournament #3669179704, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/11/06 17:57:10 CET [2023/11/06 11:57:10 ET]
+Table '3669179704 1' 3-max Seat #3 is the button
+Seat 1: LigoL (530 in chips) 
+Seat 3: Mahu2021 (970 in chips) 
+Mahu2021: posts small blind 20
+LigoL: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js 3s]
+Mahu2021: raises 40 to 80
+LigoL: calls 40
+*** FLOP *** [3c 4h 7s]
+LigoL: checks 
+Mahu2021: bets 80
+LigoL: calls 80
+*** TURN *** [3c 4h 7s] [2h]
+LigoL: checks 
+Mahu2021: bets 810 and is all-in
+LigoL: calls 370 and is all-in
+Uncalled bet (440) returned to Mahu2021
+*** RIVER *** [3c 4h 7s 2h] [Ks]
+*** SHOW DOWN ***
+LigoL: shows [2c Ad] (a pair of Deuces)
+Mahu2021: shows [Js 3s] (a pair of Threes)
+Mahu2021 collected 1060 from pot
+LigoL finished the tournament in 2nd place
+Mahu2021 wins the tournament and receives $4.00 - congratulations!
+*** SUMMARY ***
+Total pot 1060 | Rake 0 
+Board [3c 4h 7s 2h Ks]
+Seat 1: LigoL (big blind) showed [2c Ad] and lost with a pair of Deuces
+Seat 3: Mahu2021 (button) (small blind) showed [Js 3s] and won (1060) with a pair of Threes
+
+
+

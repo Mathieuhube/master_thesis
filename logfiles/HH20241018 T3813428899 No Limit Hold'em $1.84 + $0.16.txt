@@ -1,0 +1,554 @@
+﻿PokerStars Hand #252990843259: Tournament #3813428899, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/18 21:31:45 CET [2024/10/18 15:31:45 ET]
+Table '3813428899 1' 3-max Seat #1 is the button
+Seat 1: mister_sym (500 in chips) 
+Seat 2: WujoCHN (500 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+WujoCHN: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d 2h]
+mister_sym: raises 480 to 500 and is all-in
+WujoCHN: folds 
+Mahu2021: folds 
+Uncalled bet (480) returned to mister_sym
+mister_sym collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: mister_sym (button) collected (50)
+Seat 2: WujoCHN (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #252990845520: Tournament #3813428899, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/18 21:31:52 CET [2024/10/18 15:31:52 ET]
+Table '3813428899 1' 3-max Seat #2 is the button
+Seat 1: mister_sym (530 in chips) 
+Seat 2: WujoCHN (490 in chips) 
+Seat 3: Mahu2021 (480 in chips) 
+Mahu2021: posts small blind 10
+mister_sym: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c 4c]
+WujoCHN: raises 20 to 40
+Mahu2021: calls 30
+mister_sym: calls 20
+*** FLOP *** [Ah 4h 7h]
+Mahu2021: checks 
+mister_sym: checks 
+WujoCHN: checks 
+*** TURN *** [Ah 4h 7h] [7d]
+Mahu2021: checks 
+mister_sym: checks 
+WujoCHN: checks 
+*** RIVER *** [Ah 4h 7h 7d] [2s]
+Mahu2021: checks 
+mister_sym: checks 
+WujoCHN: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [5c 4c] (two pair, Sevens and Fours)
+mister_sym: mucks hand 
+WujoCHN: mucks hand 
+Mahu2021 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Ah 4h 7h 7d 2s]
+Seat 1: mister_sym (big blind) mucked [Qc 3h]
+Seat 2: WujoCHN (button) mucked [6s Kc]
+Seat 3: Mahu2021 (small blind) showed [5c 4c] and won (120) with two pair, Sevens and Fours
+
+
+
+PokerStars Hand #252990852762: Tournament #3813428899, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/18 21:32:16 CET [2024/10/18 15:32:16 ET]
+Table '3813428899 1' 3-max Seat #3 is the button
+Seat 1: mister_sym (490 in chips) 
+Seat 2: WujoCHN (450 in chips) 
+Seat 3: Mahu2021 (560 in chips) 
+mister_sym: posts small blind 10
+WujoCHN: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4d 6h]
+Mahu2021: folds 
+mister_sym: calls 10
+WujoCHN: checks 
+*** FLOP *** [Th As Ah]
+mister_sym: checks 
+WujoCHN: checks 
+*** TURN *** [Th As Ah] [Js]
+mister_sym: bets 20
+WujoCHN: folds 
+Uncalled bet (20) returned to mister_sym
+mister_sym collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Th As Ah Js]
+Seat 1: mister_sym (small blind) collected (40)
+Seat 2: WujoCHN (big blind) folded on the Turn
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #252990857988: Tournament #3813428899, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/18 21:32:34 CET [2024/10/18 15:32:34 ET]
+Table '3813428899 1' 3-max Seat #1 is the button
+Seat 1: mister_sym (510 in chips) 
+Seat 2: WujoCHN (430 in chips) 
+Seat 3: Mahu2021 (560 in chips) 
+WujoCHN: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8d 9c]
+mister_sym: raises 80 to 100
+WujoCHN: calls 90
+Mahu2021: folds 
+*** FLOP *** [6c Kc 3d]
+WujoCHN: checks 
+mister_sym: checks 
+*** TURN *** [6c Kc 3d] [Jc]
+WujoCHN: bets 330 and is all-in
+mister_sym: folds 
+Uncalled bet (330) returned to WujoCHN
+WujoCHN collected 220 from pot
+*** SUMMARY ***
+Total pot 220 | Rake 0 
+Board [6c Kc 3d Jc]
+Seat 1: mister_sym (button) folded on the Turn
+Seat 2: WujoCHN (small blind) collected (220)
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #252990863090: Tournament #3813428899, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/18 21:32:51 CET [2024/10/18 15:32:51 ET]
+Table '3813428899 1' 3-max Seat #2 is the button
+Seat 1: mister_sym (410 in chips) 
+Seat 2: WujoCHN (550 in chips) 
+Seat 3: Mahu2021 (540 in chips) 
+Mahu2021: posts small blind 10
+mister_sym: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd 5s]
+WujoCHN: raises 530 to 550 and is all-in
+Mahu2021: folds 
+mister_sym: folds 
+Uncalled bet (530) returned to WujoCHN
+WujoCHN collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: mister_sym (big blind) folded before Flop
+Seat 2: WujoCHN (button) collected (50)
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #252990866201: Tournament #3813428899, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/18 21:33:01 CET [2024/10/18 15:33:01 ET]
+Table '3813428899 1' 3-max Seat #3 is the button
+Seat 1: mister_sym (390 in chips) 
+Seat 2: WujoCHN (580 in chips) 
+Seat 3: Mahu2021 (530 in chips) 
+mister_sym: posts small blind 10
+WujoCHN: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8s 9d]
+Mahu2021: folds 
+mister_sym: calls 10
+WujoCHN: checks 
+*** FLOP *** [3h Qd 5s]
+mister_sym: bets 20
+WujoCHN: folds 
+Uncalled bet (20) returned to mister_sym
+mister_sym collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [3h Qd 5s]
+Seat 1: mister_sym (small blind) collected (40)
+Seat 2: WujoCHN (big blind) folded on the Flop
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #252990869655: Tournament #3813428899, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/18 21:33:12 CET [2024/10/18 15:33:12 ET]
+Table '3813428899 1' 3-max Seat #1 is the button
+Seat 1: mister_sym (410 in chips) 
+Seat 2: WujoCHN (560 in chips) 
+Seat 3: Mahu2021 (530 in chips) 
+WujoCHN: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Th Ac]
+mister_sym: folds 
+WujoCHN: calls 10
+Mahu2021: checks 
+*** FLOP *** [7s Qd 3d]
+WujoCHN: checks 
+Mahu2021: checks 
+*** TURN *** [7s Qd 3d] [4c]
+WujoCHN: bets 20
+Mahu2021: folds 
+Uncalled bet (20) returned to WujoCHN
+WujoCHN collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [7s Qd 3d 4c]
+Seat 1: mister_sym (button) folded before Flop (didn't bet)
+Seat 2: WujoCHN (small blind) collected (40)
+Seat 3: Mahu2021 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #252990874517: Tournament #3813428899, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/18 21:33:28 CET [2024/10/18 15:33:28 ET]
+Table '3813428899 1' 3-max Seat #2 is the button
+Seat 1: mister_sym (410 in chips) 
+Seat 2: WujoCHN (580 in chips) 
+Seat 3: Mahu2021 (510 in chips) 
+Mahu2021: posts small blind 10
+mister_sym: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s 3d]
+WujoCHN: folds 
+Mahu2021: raises 20 to 40
+mister_sym: calls 20
+*** FLOP *** [Jh 9h 7c]
+Mahu2021: checks 
+mister_sym: bets 80
+Mahu2021: folds 
+Uncalled bet (80) returned to mister_sym
+mister_sym collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Jh 9h 7c]
+Seat 1: mister_sym (big blind) collected (80)
+Seat 2: WujoCHN (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #252990879714: Tournament #3813428899, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/18 21:33:46 CET [2024/10/18 15:33:46 ET]
+Table '3813428899 1' 3-max Seat #3 is the button
+Seat 1: mister_sym (450 in chips) 
+Seat 2: WujoCHN (580 in chips) 
+Seat 3: Mahu2021 (470 in chips) 
+mister_sym: posts small blind 10
+WujoCHN: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts Kc]
+Mahu2021: raises 20 to 40
+mister_sym: folds 
+WujoCHN: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 50 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: mister_sym (small blind) folded before Flop
+Seat 2: WujoCHN (big blind) folded before Flop
+Seat 3: Mahu2021 (button) collected (50)
+
+
+
+PokerStars Hand #252990882439: Tournament #3813428899, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/18 21:33:55 CET [2024/10/18 15:33:55 ET]
+Table '3813428899 1' 3-max Seat #1 is the button
+Seat 1: mister_sym (440 in chips) 
+Seat 2: WujoCHN (560 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+WujoCHN: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks 9d]
+mister_sym: raises 40 to 60
+WujoCHN: folds 
+Mahu2021: calls 40
+*** FLOP *** [7d Th 4d]
+Mahu2021: checks 
+mister_sym: bets 130
+Mahu2021: folds 
+Uncalled bet (130) returned to mister_sym
+mister_sym collected 130 from pot
+*** SUMMARY ***
+Total pot 130 | Rake 0 
+Board [7d Th 4d]
+Seat 1: mister_sym (button) collected (130)
+Seat 2: WujoCHN (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #252990886809: Tournament #3813428899, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/18 21:34:09 CET [2024/10/18 15:34:09 ET]
+Table '3813428899 1' 3-max Seat #2 is the button
+Seat 1: mister_sym (510 in chips) 
+Seat 2: WujoCHN (550 in chips) 
+Seat 3: Mahu2021 (440 in chips) 
+Mahu2021: posts small blind 10
+mister_sym: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8d 7c]
+WujoCHN: folds 
+Mahu2021: calls 10
+mister_sym: checks 
+*** FLOP *** [4d As 9c]
+Mahu2021: checks 
+mister_sym: checks 
+*** TURN *** [4d As 9c] [Ac]
+Mahu2021: checks 
+mister_sym: checks 
+*** RIVER *** [4d As 9c Ac] [4h]
+Mahu2021: checks 
+mister_sym: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [8d 7c] (two pair, Aces and Fours)
+mister_sym: shows [Kc 3s] (two pair, Aces and Fours - King kicker)
+mister_sym collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [4d As 9c Ac 4h]
+Seat 1: mister_sym (big blind) showed [Kc 3s] and won (40) with two pair, Aces and Fours
+Seat 2: WujoCHN (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) showed [8d 7c] and lost with two pair, Aces and Fours
+
+
+
+PokerStars Hand #252990890350: Tournament #3813428899, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/18 21:34:21 CET [2024/10/18 15:34:21 ET]
+Table '3813428899 1' 3-max Seat #3 is the button
+Seat 1: mister_sym (530 in chips) 
+Seat 2: WujoCHN (550 in chips) 
+Seat 3: Mahu2021 (420 in chips) 
+mister_sym: posts small blind 10
+WujoCHN: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kc Jh]
+Mahu2021: raises 20 to 40
+mister_sym: folds 
+WujoCHN: raises 510 to 550 and is all-in
+Mahu2021: folds 
+Uncalled bet (510) returned to WujoCHN
+WujoCHN collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Seat 1: mister_sym (small blind) folded before Flop
+Seat 2: WujoCHN (big blind) collected (90)
+Seat 3: Mahu2021 (button) folded before Flop
+
+
+
+PokerStars Hand #252990894075: Tournament #3813428899, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/18 21:34:33 CET [2024/10/18 15:34:33 ET]
+Table '3813428899 1' 3-max Seat #1 is the button
+Seat 1: mister_sym (520 in chips) 
+Seat 2: WujoCHN (600 in chips) 
+Seat 3: Mahu2021 (380 in chips) 
+WujoCHN: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c Js]
+mister_sym: folds 
+WujoCHN: folds 
+Uncalled bet (10) returned to Mahu2021
+Mahu2021 collected 20 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mister_sym (button) folded before Flop (didn't bet)
+Seat 2: WujoCHN (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (20)
+
+
+
+PokerStars Hand #252990896632: Tournament #3813428899, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/18 21:34:41 CET [2024/10/18 15:34:41 ET]
+Table '3813428899 1' 3-max Seat #2 is the button
+Seat 1: mister_sym (520 in chips) 
+Seat 2: WujoCHN (590 in chips) 
+Seat 3: Mahu2021 (390 in chips) 
+Mahu2021: posts small blind 10
+mister_sym: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8d Js]
+WujoCHN: raises 20 to 40
+Mahu2021: folds 
+mister_sym: calls 20
+*** FLOP *** [7c 5h Qh]
+mister_sym: bets 90
+WujoCHN: folds 
+Uncalled bet (90) returned to mister_sym
+mister_sym collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [7c 5h Qh]
+Seat 1: mister_sym (big blind) collected (90)
+Seat 2: WujoCHN (button) folded on the Flop
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #252990902800: Tournament #3813428899, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/18 21:35:02 CET [2024/10/18 15:35:02 ET]
+Table '3813428899 1' 3-max Seat #3 is the button
+Seat 1: mister_sym (570 in chips) 
+Seat 2: WujoCHN (550 in chips) 
+Seat 3: Mahu2021 (380 in chips) 
+mister_sym: posts small blind 15
+WujoCHN: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As Ts]
+Mahu2021: raises 30 to 60
+mister_sym: folds 
+WujoCHN: raises 490 to 550 and is all-in
+Mahu2021: calls 320 and is all-in
+Uncalled bet (170) returned to WujoCHN
+*** FLOP *** [4d 7c 8s]
+*** TURN *** [4d 7c 8s] [Ac]
+*** RIVER *** [4d 7c 8s Ac] [9c]
+*** SHOW DOWN ***
+WujoCHN: shows [2c Ah] (a pair of Aces)
+Mahu2021: shows [As Ts] (a pair of Aces - Ten kicker)
+Mahu2021 collected 775 from pot
+*** SUMMARY ***
+Total pot 775 | Rake 0 
+Board [4d 7c 8s Ac 9c]
+Seat 1: mister_sym (small blind) folded before Flop
+Seat 2: WujoCHN (big blind) showed [2c Ah] and lost with a pair of Aces
+Seat 3: Mahu2021 (button) showed [As Ts] and won (775) with a pair of Aces
+
+
+
+PokerStars Hand #252990910959: Tournament #3813428899, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/18 21:35:29 CET [2024/10/18 15:35:29 ET]
+Table '3813428899 1' 3-max Seat #1 is the button
+Seat 1: mister_sym (555 in chips) 
+Seat 2: WujoCHN (170 in chips) 
+Seat 3: Mahu2021 (775 in chips) 
+WujoCHN: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s 7h]
+mister_sym: folds 
+WujoCHN: raises 140 to 170 and is all-in
+Mahu2021: folds 
+Uncalled bet (140) returned to WujoCHN
+WujoCHN collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mister_sym (button) folded before Flop (didn't bet)
+Seat 2: WujoCHN (small blind) collected (60)
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #252990914080: Tournament #3813428899, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/18 21:35:40 CET [2024/10/18 15:35:40 ET]
+Table '3813428899 1' 3-max Seat #2 is the button
+Seat 1: mister_sym (555 in chips) 
+Seat 2: WujoCHN (200 in chips) 
+Seat 3: Mahu2021 (745 in chips) 
+Mahu2021: posts small blind 15
+mister_sym: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d 7s]
+WujoCHN: raises 170 to 200 and is all-in
+Mahu2021: folds 
+mister_sym: calls 170
+*** FLOP *** [6d 3h Jd]
+*** TURN *** [6d 3h Jd] [3s]
+*** RIVER *** [6d 3h Jd 3s] [5h]
+*** SHOW DOWN ***
+mister_sym: shows [Qh Ac] (a pair of Threes)
+WujoCHN: shows [7h Ks] (a pair of Threes - lower kicker)
+mister_sym collected 415 from pot
+WujoCHN finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 415 | Rake 0 
+Board [6d 3h Jd 3s 5h]
+Seat 1: mister_sym (big blind) showed [Qh Ac] and won (415) with a pair of Threes
+Seat 2: WujoCHN (button) showed [7h Ks] and lost with a pair of Threes
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #252990919149: Tournament #3813428899, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/18 21:35:56 CET [2024/10/18 15:35:56 ET]
+Table '3813428899 1' 3-max Seat #1 is the button
+Seat 1: mister_sym (770 in chips) 
+Seat 3: Mahu2021 (730 in chips) 
+mister_sym: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c 7c]
+mister_sym: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: mister_sym (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (30)
+
+
+
+PokerStars Hand #252990920644: Tournament #3813428899, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/18 21:36:01 CET [2024/10/18 15:36:01 ET]
+Table '3813428899 1' 3-max Seat #3 is the button
+Seat 1: mister_sym (755 in chips) 
+Seat 3: Mahu2021 (745 in chips) 
+Mahu2021: posts small blind 15
+mister_sym: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h 2s]
+Mahu2021: folds 
+Uncalled bet (15) returned to mister_sym
+mister_sym collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: mister_sym (big blind) collected (30)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #252990922021: Tournament #3813428899, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/18 21:36:06 CET [2024/10/18 15:36:06 ET]
+Table '3813428899 1' 3-max Seat #1 is the button
+Seat 1: mister_sym (770 in chips) 
+Seat 3: Mahu2021 (730 in chips) 
+mister_sym: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s 9s]
+mister_sym: calls 15
+Mahu2021: checks 
+*** FLOP *** [Jh Th 4c]
+Mahu2021: checks 
+mister_sym: checks 
+*** TURN *** [Jh Th 4c] [9h]
+Mahu2021: bets 30
+mister_sym: raises 120 to 150
+Mahu2021: folds 
+Uncalled bet (120) returned to mister_sym
+mister_sym collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Jh Th 4c 9h]
+Seat 1: mister_sym (button) (small blind) collected (120)
+Seat 3: Mahu2021 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #252990931146: Tournament #3813428899, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/18 21:36:36 CET [2024/10/18 15:36:36 ET]
+Table '3813428899 1' 3-max Seat #3 is the button
+Seat 1: mister_sym (830 in chips) 
+Seat 3: Mahu2021 (670 in chips) 
+Mahu2021: posts small blind 15
+mister_sym: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8d Qd]
+Mahu2021: calls 15
+mister_sym: checks 
+*** FLOP *** [6h 7s Qh]
+mister_sym: bets 60
+Mahu2021: calls 60
+*** TURN *** [6h 7s Qh] [Ts]
+mister_sym: bets 180
+Mahu2021: raises 400 to 580 and is all-in
+mister_sym: calls 400
+*** RIVER *** [6h 7s Qh Ts] [8h]
+*** SHOW DOWN ***
+mister_sym: shows [2h 4h] (a flush, Queen high)
+Mahu2021: shows [8d Qd] (two pair, Queens and Eights)
+mister_sym collected 1340 from pot
+Mahu2021 finished the tournament in 2nd place
+mister_sym wins the tournament and receives $6.00 - congratulations!
+*** SUMMARY ***
+Total pot 1340 | Rake 0 
+Board [6h 7s Qh Ts 8h]
+Seat 1: mister_sym (big blind) showed [2h 4h] and won (1340) with a flush, Queen high
+Seat 3: Mahu2021 (button) (small blind) showed [8d Qd] and lost with two pair, Queens and Eights
+
+
+

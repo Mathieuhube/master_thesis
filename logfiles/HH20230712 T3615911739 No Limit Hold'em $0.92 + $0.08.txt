@@ -1,0 +1,604 @@
+﻿PokerStars Hand #244767031078: Tournament #3615911739, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/07/12 10:05:23 CET [2023/07/12 4:05:23 ET]
+Table '3615911739 1' 3-max Seat #1 is the button
+Seat 1: Dalinod (500 in chips) 
+Seat 2: elbaqa17 (500 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+elbaqa17: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js 7d]
+Dalinod: folds 
+elbaqa17: calls 10
+Mahu2021: checks 
+*** FLOP *** [8d Qc Kd]
+elbaqa17: checks 
+Mahu2021: checks 
+*** TURN *** [8d Qc Kd] [6s]
+elbaqa17: checks 
+Mahu2021: checks 
+*** RIVER *** [8d Qc Kd 6s] [Ks]
+elbaqa17: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+elbaqa17: shows [9s 7h] (a pair of Kings)
+Mahu2021: shows [Js 7d] (a pair of Kings - Queen+Jack kicker)
+Mahu2021 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [8d Qc Kd 6s Ks]
+Seat 1: Dalinod (button) folded before Flop (didn't bet)
+Seat 2: elbaqa17 (small blind) showed [9s 7h] and lost with a pair of Kings
+Seat 3: Mahu2021 (big blind) showed [Js 7d] and won (40) with a pair of Kings
+
+
+
+PokerStars Hand #244767034172: Tournament #3615911739, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/07/12 10:05:53 CET [2023/07/12 4:05:53 ET]
+Table '3615911739 1' 3-max Seat #2 is the button
+Seat 1: Dalinod (500 in chips) 
+Seat 2: elbaqa17 (480 in chips) 
+Seat 3: Mahu2021 (520 in chips) 
+Mahu2021: posts small blind 10
+Dalinod: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d Ad]
+elbaqa17: folds 
+Mahu2021: calls 10
+Dalinod: checks 
+*** FLOP *** [3s Ac Ks]
+Mahu2021: checks 
+Dalinod: checks 
+*** TURN *** [3s Ac Ks] [Th]
+Mahu2021: bets 20
+Dalinod: calls 20
+*** RIVER *** [3s Ac Ks Th] [Kh]
+Mahu2021: bets 20
+Dalinod: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [3s Ac Ks Th Kh]
+Seat 1: Dalinod (big blind) folded on the River
+Seat 2: elbaqa17 (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) collected (80)
+
+
+
+PokerStars Hand #244767037127: Tournament #3615911739, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/07/12 10:06:22 CET [2023/07/12 4:06:22 ET]
+Table '3615911739 1' 3-max Seat #3 is the button
+Seat 1: Dalinod (460 in chips) 
+Seat 2: elbaqa17 (480 in chips) 
+Seat 3: Mahu2021 (560 in chips) 
+Dalinod: posts small blind 10
+elbaqa17: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh 2d]
+Mahu2021: folds 
+Dalinod: calls 10
+elbaqa17: checks 
+*** FLOP *** [2h 9h 8h]
+Dalinod: checks 
+elbaqa17: checks 
+*** TURN *** [2h 9h 8h] [9c]
+Dalinod: checks 
+elbaqa17: checks 
+*** RIVER *** [2h 9h 8h 9c] [Ah]
+Dalinod: checks 
+elbaqa17: checks 
+*** SHOW DOWN ***
+Dalinod: shows [8c Qc] (two pair, Nines and Eights)
+elbaqa17: shows [Qd 4h] (a flush, Ace high)
+elbaqa17 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [2h 9h 8h 9c Ah]
+Seat 1: Dalinod (small blind) showed [8c Qc] and lost with two pair, Nines and Eights
+Seat 2: elbaqa17 (big blind) showed [Qd 4h] and won (40) with a flush, Ace high
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #244767042687: Tournament #3615911739, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/07/12 10:07:16 CET [2023/07/12 4:07:16 ET]
+Table '3615911739 1' 3-max Seat #1 is the button
+Seat 1: Dalinod (440 in chips) 
+Seat 2: elbaqa17 (500 in chips) 
+Seat 3: Mahu2021 (560 in chips) 
+elbaqa17: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6h 8s]
+Dalinod: folds 
+elbaqa17: calls 10
+Mahu2021: checks 
+*** FLOP *** [3h Jd 2d]
+elbaqa17: checks 
+Mahu2021: checks 
+*** TURN *** [3h Jd 2d] [Kc]
+elbaqa17: checks 
+Mahu2021: checks 
+*** RIVER *** [3h Jd 2d Kc] [Jh]
+elbaqa17: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+elbaqa17: shows [7s 8c] (a pair of Jacks)
+Mahu2021: mucks hand 
+elbaqa17 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [3h Jd 2d Kc Jh]
+Seat 1: Dalinod (button) folded before Flop (didn't bet)
+Seat 2: elbaqa17 (small blind) showed [7s 8c] and won (40) with a pair of Jacks
+Seat 3: Mahu2021 (big blind) mucked [6h 8s]
+
+
+
+PokerStars Hand #244767048071: Tournament #3615911739, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/07/12 10:08:08 CET [2023/07/12 4:08:08 ET]
+Table '3615911739 1' 3-max Seat #2 is the button
+Seat 1: Dalinod (440 in chips) 
+Seat 2: elbaqa17 (520 in chips) 
+Seat 3: Mahu2021 (540 in chips) 
+Mahu2021: posts small blind 15
+Dalinod: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh 2s]
+elbaqa17: folds 
+Mahu2021: raises 30 to 60
+Dalinod: raises 120 to 180
+Mahu2021: folds 
+Uncalled bet (120) returned to Dalinod
+Dalinod collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: Dalinod (big blind) collected (120)
+Seat 2: elbaqa17 (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #244767049788: Tournament #3615911739, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/07/12 10:08:25 CET [2023/07/12 4:08:25 ET]
+Table '3615911739 1' 3-max Seat #3 is the button
+Seat 1: Dalinod (500 in chips) 
+Seat 2: elbaqa17 (520 in chips) 
+Seat 3: Mahu2021 (480 in chips) 
+Dalinod: posts small blind 15
+elbaqa17: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts Jd]
+Mahu2021: raises 30 to 60
+Dalinod: calls 45
+elbaqa17: folds 
+*** FLOP *** [5s Kd Kh]
+Dalinod: checks 
+Mahu2021: checks 
+*** TURN *** [5s Kd Kh] [Ac]
+Dalinod: bets 30
+Mahu2021: calls 30
+*** RIVER *** [5s Kd Kh Ac] [2s]
+Dalinod: bets 30
+Mahu2021: folds 
+Uncalled bet (30) returned to Dalinod
+Dalinod collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | Rake 0 
+Board [5s Kd Kh Ac 2s]
+Seat 1: Dalinod (small blind) collected (210)
+Seat 2: elbaqa17 (big blind) folded before Flop
+Seat 3: Mahu2021 (button) folded on the River
+
+
+
+PokerStars Hand #244767052656: Tournament #3615911739, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/07/12 10:08:52 CET [2023/07/12 4:08:52 ET]
+Table '3615911739 1' 3-max Seat #1 is the button
+Seat 1: Dalinod (620 in chips) 
+Seat 2: elbaqa17 (490 in chips) 
+Seat 3: Mahu2021 (390 in chips) 
+elbaqa17: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c Ts]
+Dalinod: folds 
+elbaqa17: calls 15
+Mahu2021: checks 
+*** FLOP *** [Qd 9d 6s]
+elbaqa17: checks 
+Mahu2021: bets 30
+elbaqa17: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Qd 9d 6s]
+Seat 1: Dalinod (button) folded before Flop (didn't bet)
+Seat 2: elbaqa17 (small blind) folded on the Flop
+Seat 3: Mahu2021 (big blind) collected (60)
+
+
+
+PokerStars Hand #244767055142: Tournament #3615911739, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/07/12 10:09:16 CET [2023/07/12 4:09:16 ET]
+Table '3615911739 1' 3-max Seat #2 is the button
+Seat 1: Dalinod (620 in chips) 
+Seat 2: elbaqa17 (460 in chips) 
+Seat 3: Mahu2021 (420 in chips) 
+Mahu2021: posts small blind 15
+Dalinod: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h 6h]
+elbaqa17: calls 30
+Mahu2021: folds 
+Dalinod: raises 30 to 60
+elbaqa17: calls 30
+*** FLOP *** [4c 2s 3c]
+Dalinod: checks 
+elbaqa17: checks 
+*** TURN *** [4c 2s 3c] [6c]
+Dalinod: checks 
+elbaqa17: checks 
+*** RIVER *** [4c 2s 3c 6c] [7d]
+Dalinod: checks 
+elbaqa17: checks 
+*** SHOW DOWN ***
+Dalinod: shows [Tc Jh] (high card Jack)
+elbaqa17: mucks hand 
+Dalinod collected 135 from pot
+*** SUMMARY ***
+Total pot 135 | Rake 0 
+Board [4c 2s 3c 6c 7d]
+Seat 1: Dalinod (big blind) showed [Tc Jh] and won (135) with high card Jack
+Seat 2: elbaqa17 (button) mucked [9d Ts]
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #244767059020: Tournament #3615911739, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/07/12 10:09:53 CET [2023/07/12 4:09:53 ET]
+Table '3615911739 1' 3-max Seat #3 is the button
+Seat 1: Dalinod (695 in chips) 
+Seat 2: elbaqa17 (400 in chips) 
+Seat 3: Mahu2021 (405 in chips) 
+Dalinod: posts small blind 20
+elbaqa17: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d 7s]
+Mahu2021: folds 
+Dalinod: calls 20
+elbaqa17: raises 40 to 80
+Dalinod: calls 40
+*** FLOP *** [Kd Kh 4d]
+Dalinod: checks 
+elbaqa17: bets 320 and is all-in
+Dalinod: calls 320
+*** TURN *** [Kd Kh 4d] [Jc]
+*** RIVER *** [Kd Kh 4d Jc] [Ts]
+*** SHOW DOWN ***
+Dalinod: shows [4c 3d] (two pair, Kings and Fours)
+elbaqa17: shows [Ah Qh] (a straight, Ten to Ace)
+elbaqa17 collected 800 from pot
+*** SUMMARY ***
+Total pot 800 | Rake 0 
+Board [Kd Kh 4d Jc Ts]
+Seat 1: Dalinod (small blind) showed [4c 3d] and lost with two pair, Kings and Fours
+Seat 2: elbaqa17 (big blind) showed [Ah Qh] and won (800) with a straight, Ten to Ace
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #244767061526: Tournament #3615911739, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/07/12 10:10:17 CET [2023/07/12 4:10:17 ET]
+Table '3615911739 1' 3-max Seat #1 is the button
+Seat 1: Dalinod (295 in chips) 
+Seat 2: elbaqa17 (800 in chips) 
+Seat 3: Mahu2021 (405 in chips) 
+elbaqa17: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2s Qh]
+Dalinod: folds 
+elbaqa17: calls 20
+Mahu2021: checks 
+*** FLOP *** [Ks 5d 6h]
+elbaqa17: bets 40
+Mahu2021: folds 
+Uncalled bet (40) returned to elbaqa17
+elbaqa17 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Ks 5d 6h]
+Seat 1: Dalinod (button) folded before Flop (didn't bet)
+Seat 2: elbaqa17 (small blind) collected (80)
+Seat 3: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #244767062654: Tournament #3615911739, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/07/12 10:10:28 CET [2023/07/12 4:10:28 ET]
+Table '3615911739 1' 3-max Seat #2 is the button
+Seat 1: Dalinod (295 in chips) 
+Seat 2: elbaqa17 (840 in chips) 
+Seat 3: Mahu2021 (365 in chips) 
+Mahu2021: posts small blind 20
+Dalinod: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts As]
+elbaqa17: raises 40 to 80
+Mahu2021: calls 60
+Dalinod: folds 
+*** FLOP *** [6d Qh Th]
+Mahu2021: checks 
+elbaqa17: bets 80
+Mahu2021: raises 80 to 160
+elbaqa17: folds 
+Uncalled bet (80) returned to Mahu2021
+Mahu2021 collected 360 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [6d Qh Th]
+Seat 1: Dalinod (big blind) folded before Flop
+Seat 2: elbaqa17 (button) folded on the Flop
+Seat 3: Mahu2021 (small blind) collected (360)
+
+
+
+PokerStars Hand #244767065774: Tournament #3615911739, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/07/12 10:10:57 CET [2023/07/12 4:10:57 ET]
+Table '3615911739 1' 3-max Seat #3 is the button
+Seat 1: Dalinod (255 in chips) 
+Seat 2: elbaqa17 (680 in chips) 
+Seat 3: Mahu2021 (565 in chips) 
+Dalinod: posts small blind 20
+elbaqa17: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h 2d]
+Mahu2021: folds 
+Dalinod: folds 
+Uncalled bet (20) returned to elbaqa17
+elbaqa17 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Dalinod (small blind) folded before Flop
+Seat 2: elbaqa17 (big blind) collected (40)
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #244767066437: Tournament #3615911739, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/07/12 10:11:03 CET [2023/07/12 4:11:03 ET]
+Table '3615911739 1' 3-max Seat #1 is the button
+Seat 1: Dalinod (235 in chips) 
+Seat 2: elbaqa17 (700 in chips) 
+Seat 3: Mahu2021 (565 in chips) 
+elbaqa17: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c Qh]
+Dalinod: raises 80 to 120
+elbaqa17: folds 
+Mahu2021: calls 80
+*** FLOP *** [2d 6c Jh]
+Mahu2021: checks 
+Dalinod: bets 115 and is all-in
+Mahu2021: folds 
+Uncalled bet (115) returned to Dalinod
+Dalinod collected 260 from pot
+*** SUMMARY ***
+Total pot 260 | Rake 0 
+Board [2d 6c Jh]
+Seat 1: Dalinod (button) collected (260)
+Seat 2: elbaqa17 (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #244767068505: Tournament #3615911739, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/07/12 10:11:23 CET [2023/07/12 4:11:23 ET]
+Table '3615911739 1' 3-max Seat #2 is the button
+Seat 1: Dalinod (375 in chips) 
+Seat 2: elbaqa17 (680 in chips) 
+Seat 3: Mahu2021 (445 in chips) 
+Mahu2021: posts small blind 20
+Dalinod: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c Jh]
+elbaqa17: folds 
+Mahu2021: folds 
+Uncalled bet (20) returned to Dalinod
+Dalinod collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Dalinod (big blind) collected (40)
+Seat 2: elbaqa17 (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #244767069651: Tournament #3615911739, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/07/12 10:11:35 CET [2023/07/12 4:11:35 ET]
+Table '3615911739 1' 3-max Seat #3 is the button
+Seat 1: Dalinod (395 in chips) 
+Seat 2: elbaqa17 (680 in chips) 
+Seat 3: Mahu2021 (425 in chips) 
+Dalinod: posts small blind 30
+elbaqa17: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s 5h]
+Mahu2021: folds 
+Dalinod: calls 30
+elbaqa17: checks 
+*** FLOP *** [7h 8h 3d]
+Dalinod: checks 
+elbaqa17: checks 
+*** TURN *** [7h 8h 3d] [4d]
+Dalinod: checks 
+elbaqa17: checks 
+*** RIVER *** [7h 8h 3d 4d] [4c]
+Dalinod: checks 
+elbaqa17: checks 
+*** SHOW DOWN ***
+Dalinod: shows [Kc 3s] (two pair, Fours and Threes)
+elbaqa17: mucks hand 
+Dalinod collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [7h 8h 3d 4d 4c]
+Seat 1: Dalinod (small blind) showed [Kc 3s] and won (120) with two pair, Fours and Threes
+Seat 2: elbaqa17 (big blind) mucked [2d Ks]
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #244767073607: Tournament #3615911739, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/07/12 10:12:14 CET [2023/07/12 4:12:14 ET]
+Table '3615911739 1' 3-max Seat #1 is the button
+Seat 1: Dalinod (455 in chips) 
+Seat 2: elbaqa17 (620 in chips) 
+Seat 3: Mahu2021 (425 in chips) 
+elbaqa17: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad Js]
+Dalinod: raises 60 to 120
+elbaqa17: folds 
+Mahu2021: raises 305 to 425 and is all-in
+Dalinod: calls 305
+*** FLOP *** [As 9s 2h]
+*** TURN *** [As 9s 2h] [Ah]
+*** RIVER *** [As 9s 2h Ah] [Jh]
+*** SHOW DOWN ***
+Mahu2021: shows [Ad Js] (a full house, Aces full of Jacks)
+Dalinod: shows [Kh 7h] (a flush, Ace high)
+Mahu2021 collected 880 from pot
+*** SUMMARY ***
+Total pot 880 | Rake 0 
+Board [As 9s 2h Ah Jh]
+Seat 1: Dalinod (button) showed [Kh 7h] and lost with a flush, Ace high
+Seat 2: elbaqa17 (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) showed [Ad Js] and won (880) with a full house, Aces full of Jacks
+
+
+
+PokerStars Hand #244767076348: Tournament #3615911739, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/07/12 10:12:40 CET [2023/07/12 4:12:40 ET]
+Table '3615911739 1' 3-max Seat #2 is the button
+Seat 1: Dalinod (30 in chips) 
+Seat 2: elbaqa17 (590 in chips) 
+Seat 3: Mahu2021 (880 in chips) 
+Mahu2021: posts small blind 30
+Dalinod: posts big blind 30 and is all-in
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8d Qd]
+elbaqa17: raises 90 to 120
+Mahu2021: folds 
+Uncalled bet (90) returned to elbaqa17
+*** FLOP *** [2d 4c 4h]
+*** TURN *** [2d 4c 4h] [6c]
+*** RIVER *** [2d 4c 4h 6c] [Ad]
+*** SHOW DOWN ***
+Dalinod: shows [Th 3s] (a pair of Fours)
+elbaqa17: shows [Ks Qc] (a pair of Fours - Ace+King kicker)
+elbaqa17 collected 90 from pot
+Dalinod finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [2d 4c 4h 6c Ad]
+Seat 1: Dalinod (big blind) showed [Th 3s] and lost with a pair of Fours
+Seat 2: elbaqa17 (button) showed [Ks Qc] and won (90) with a pair of Fours
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #244767078563: Tournament #3615911739, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/07/12 10:13:01 CET [2023/07/12 4:13:01 ET]
+Table '3615911739 1' 3-max Seat #3 is the button
+Seat 2: elbaqa17 (650 in chips) 
+Seat 3: Mahu2021 (850 in chips) 
+Mahu2021: posts small blind 30
+elbaqa17: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d Kh]
+Mahu2021: calls 30
+elbaqa17: checks 
+*** FLOP *** [2d Qd Ad]
+elbaqa17: checks 
+Mahu2021: bets 60
+elbaqa17: calls 60
+*** TURN *** [2d Qd Ad] [4s]
+elbaqa17: checks 
+Mahu2021: checks 
+*** RIVER *** [2d Qd Ad 4s] [5d]
+elbaqa17: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+elbaqa17: shows [9c 4d] (a flush, Ace high)
+Mahu2021: shows [7d Kh] (a flush, Ace high - Seven higher)
+Mahu2021 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [2d Qd Ad 4s 5d]
+Seat 2: elbaqa17 (big blind) showed [9c 4d] and lost with a flush, Ace high
+Seat 3: Mahu2021 (button) (small blind) showed [7d Kh] and won (240) with a flush, Ace high
+
+
+
+PokerStars Hand #244767082517: Tournament #3615911739, $0.92+$0.08 USD Hold'em No Limit - Level V (40/80) - 2023/07/12 10:13:38 CET [2023/07/12 4:13:38 ET]
+Table '3615911739 1' 3-max Seat #2 is the button
+Seat 2: elbaqa17 (530 in chips) 
+Seat 3: Mahu2021 (970 in chips) 
+elbaqa17: posts small blind 40
+Mahu2021: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh 4d]
+elbaqa17: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: elbaqa17 (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (80)
+
+
+
+PokerStars Hand #244767083044: Tournament #3615911739, $0.92+$0.08 USD Hold'em No Limit - Level V (40/80) - 2023/07/12 10:13:43 CET [2023/07/12 4:13:43 ET]
+Table '3615911739 1' 3-max Seat #3 is the button
+Seat 2: elbaqa17 (490 in chips) 
+Seat 3: Mahu2021 (1010 in chips) 
+Mahu2021: posts small blind 40
+elbaqa17: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As Th]
+Mahu2021: raises 80 to 160
+elbaqa17: calls 80
+*** FLOP *** [4c Jh Qh]
+elbaqa17: checks 
+Mahu2021: bets 160
+elbaqa17: folds 
+Uncalled bet (160) returned to Mahu2021
+Mahu2021 collected 320 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [4c Jh Qh]
+Seat 2: elbaqa17 (big blind) folded on the Flop
+Seat 3: Mahu2021 (button) (small blind) collected (320)
+
+
+
+PokerStars Hand #244767085652: Tournament #3615911739, $0.92+$0.08 USD Hold'em No Limit - Level V (40/80) - 2023/07/12 10:14:08 CET [2023/07/12 4:14:08 ET]
+Table '3615911739 1' 3-max Seat #2 is the button
+Seat 2: elbaqa17 (330 in chips) 
+Seat 3: Mahu2021 (1170 in chips) 
+elbaqa17: posts small blind 40
+Mahu2021: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h Kh]
+elbaqa17: raises 250 to 330 and is all-in
+Mahu2021: calls 250
+*** FLOP *** [7d Kc 4s]
+*** TURN *** [7d Kc 4s] [8c]
+*** RIVER *** [7d Kc 4s 8c] [Qh]
+*** SHOW DOWN ***
+Mahu2021: shows [7h Kh] (two pair, Kings and Sevens)
+elbaqa17: shows [Jh 8s] (a pair of Eights)
+Mahu2021 collected 660 from pot
+elbaqa17 finished the tournament in 2nd place
+Mahu2021 wins the tournament and receives $2.00 - congratulations!
+*** SUMMARY ***
+Total pot 660 | Rake 0 
+Board [7d Kc 4s 8c Qh]
+Seat 2: elbaqa17 (button) (small blind) showed [Jh 8s] and lost with a pair of Eights
+Seat 3: Mahu2021 (big blind) showed [7h Kh] and won (660) with two pair, Kings and Sevens
+
+
+

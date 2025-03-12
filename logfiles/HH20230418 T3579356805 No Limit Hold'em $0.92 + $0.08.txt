@@ -1,0 +1,383 @@
+﻿PokerStars Hand #243172331980: Tournament #3579356805, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/18 19:36:13 CET [2023/04/18 13:36:13 ET]
+Table '3579356805 1' 3-max Seat #1 is the button
+Seat 1: pedrojacks (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: He1torp (500 in chips) 
+Mahu2021: posts small blind 10
+He1torp: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3c Qs]
+pedrojacks: folds 
+Mahu2021: folds 
+Uncalled bet (10) returned to He1torp
+He1torp collected 20 from pot
+He1torp: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: pedrojacks (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: He1torp (big blind) collected (20)
+
+
+
+PokerStars Hand #243172334196: Tournament #3579356805, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/18 19:36:20 CET [2023/04/18 13:36:20 ET]
+Table '3579356805 1' 3-max Seat #2 is the button
+Seat 1: pedrojacks (500 in chips) 
+Seat 2: Mahu2021 (490 in chips) 
+Seat 3: He1torp (510 in chips) 
+He1torp: posts small blind 10
+pedrojacks: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4c 2d]
+Mahu2021: folds 
+He1torp: calls 10
+pedrojacks: checks 
+*** FLOP *** [3s Qs Js]
+He1torp: checks 
+pedrojacks: bets 20
+He1torp: folds 
+Uncalled bet (20) returned to pedrojacks
+pedrojacks collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [3s Qs Js]
+Seat 1: pedrojacks (big blind) collected (40)
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: He1torp (small blind) folded on the Flop
+
+
+
+PokerStars Hand #243172339153: Tournament #3579356805, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/18 19:36:34 CET [2023/04/18 13:36:34 ET]
+Table '3579356805 1' 3-max Seat #3 is the button
+Seat 1: pedrojacks (520 in chips) 
+Seat 2: Mahu2021 (490 in chips) 
+Seat 3: He1torp (490 in chips) 
+pedrojacks: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc 7h]
+He1torp: folds 
+pedrojacks: calls 10
+Mahu2021: checks 
+*** FLOP *** [7c 5h 8c]
+pedrojacks: bets 20
+Mahu2021: calls 20
+*** TURN *** [7c 5h 8c] [6c]
+pedrojacks: bets 40
+Mahu2021: calls 40
+*** RIVER *** [7c 5h 8c 6c] [Ks]
+pedrojacks: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+pedrojacks: shows [Th 6h] (a pair of Sixes)
+Mahu2021: shows [Jc 7h] (a pair of Sevens)
+Mahu2021 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [7c 5h 8c 6c Ks]
+Seat 1: pedrojacks (small blind) showed [Th 6h] and lost with a pair of Sixes
+Seat 2: Mahu2021 (big blind) showed [Jc 7h] and won (160) with a pair of Sevens
+Seat 3: He1torp (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #243172347088: Tournament #3579356805, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/18 19:36:57 CET [2023/04/18 13:36:57 ET]
+Table '3579356805 1' 3-max Seat #1 is the button
+Seat 1: pedrojacks (440 in chips) 
+Seat 2: Mahu2021 (570 in chips) 
+Seat 3: He1torp (490 in chips) 
+Mahu2021: posts small blind 10
+He1torp: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8c 7h]
+pedrojacks: calls 20
+Mahu2021: calls 10
+He1torp: checks 
+*** FLOP *** [3d 6s 6c]
+Mahu2021: checks 
+He1torp: checks 
+pedrojacks: checks 
+*** TURN *** [3d 6s 6c] [7d]
+Mahu2021: bets 40
+He1torp: calls 40
+pedrojacks: calls 40
+*** RIVER *** [3d 6s 6c 7d] [5s]
+Mahu2021: checks 
+He1torp: checks 
+pedrojacks: bets 40
+Mahu2021: calls 40
+He1torp: calls 40
+*** SHOW DOWN ***
+pedrojacks: shows [4h Qh] (a straight, Three to Seven)
+Mahu2021: mucks hand 
+He1torp: mucks hand 
+pedrojacks collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [3d 6s 6c 7d 5s]
+Seat 1: pedrojacks (button) showed [4h Qh] and won (300) with a straight, Three to Seven
+Seat 2: Mahu2021 (small blind) mucked [8c 7h]
+Seat 3: He1torp (big blind) mucked [7c Qs]
+
+
+
+PokerStars Hand #243172357293: Tournament #3579356805, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/18 19:37:27 CET [2023/04/18 13:37:27 ET]
+Table '3579356805 1' 3-max Seat #2 is the button
+Seat 1: pedrojacks (640 in chips) 
+Seat 2: Mahu2021 (470 in chips) 
+Seat 3: He1torp (390 in chips) 
+He1torp: posts small blind 10
+pedrojacks: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h Jd]
+Mahu2021: folds 
+He1torp: calls 10
+pedrojacks: checks 
+*** FLOP *** [Qs 4s 9h]
+He1torp: bets 40
+pedrojacks: folds 
+Uncalled bet (40) returned to He1torp
+He1torp collected 40 from pot
+He1torp: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Qs 4s 9h]
+Seat 1: pedrojacks (big blind) folded on the Flop
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: He1torp (small blind) collected (40)
+
+
+
+PokerStars Hand #243172361881: Tournament #3579356805, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/18 19:37:40 CET [2023/04/18 13:37:40 ET]
+Table '3579356805 1' 3-max Seat #3 is the button
+Seat 1: pedrojacks (620 in chips) 
+Seat 2: Mahu2021 (470 in chips) 
+Seat 3: He1torp (410 in chips) 
+pedrojacks: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac 8c]
+He1torp: folds 
+pedrojacks: calls 10
+Mahu2021: raises 40 to 60
+pedrojacks: calls 40
+*** FLOP *** [Jd 8s Td]
+pedrojacks: bets 40
+Mahu2021: calls 40
+*** TURN *** [Jd 8s Td] [Jh]
+pedrojacks: bets 40
+Mahu2021: calls 40
+*** RIVER *** [Jd 8s Td Jh] [3h]
+pedrojacks: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+pedrojacks: shows [Kh Qh] (a pair of Jacks)
+Mahu2021: shows [Ac 8c] (two pair, Jacks and Eights)
+Mahu2021 collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | Rake 0 
+Board [Jd 8s Td Jh 3h]
+Seat 1: pedrojacks (small blind) showed [Kh Qh] and lost with a pair of Jacks
+Seat 2: Mahu2021 (big blind) showed [Ac 8c] and won (280) with two pair, Jacks and Eights
+Seat 3: He1torp (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #243172372262: Tournament #3579356805, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/18 19:38:10 CET [2023/04/18 13:38:10 ET]
+Table '3579356805 1' 3-max Seat #1 is the button
+Seat 1: pedrojacks (480 in chips) 
+Seat 2: Mahu2021 (610 in chips) 
+Seat 3: He1torp (410 in chips) 
+Mahu2021: posts small blind 10
+He1torp: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s 9d]
+pedrojacks: folds 
+Mahu2021: folds 
+Uncalled bet (10) returned to He1torp
+He1torp collected 20 from pot
+He1torp: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: pedrojacks (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: He1torp (big blind) collected (20)
+
+
+
+PokerStars Hand #243172377264: Tournament #3579356805, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/18 19:38:25 CET [2023/04/18 13:38:25 ET]
+Table '3579356805 1' 3-max Seat #2 is the button
+Seat 1: pedrojacks (480 in chips) 
+Seat 2: Mahu2021 (600 in chips) 
+Seat 3: He1torp (420 in chips) 
+He1torp: posts small blind 15
+pedrojacks: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h 5c]
+Mahu2021: folds 
+He1torp: folds 
+Uncalled bet (15) returned to pedrojacks
+pedrojacks collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: pedrojacks (big blind) collected (30)
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: He1torp (small blind) folded before Flop
+
+
+
+PokerStars Hand #243172379565: Tournament #3579356805, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/18 19:38:32 CET [2023/04/18 13:38:32 ET]
+Table '3579356805 1' 3-max Seat #3 is the button
+Seat 1: pedrojacks (495 in chips) 
+Seat 2: Mahu2021 (600 in chips) 
+Seat 3: He1torp (405 in chips) 
+pedrojacks: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c 4c]
+He1torp: raises 30 to 60
+pedrojacks: calls 45
+Mahu2021: calls 30
+*** FLOP *** [3c 5d 6h]
+pedrojacks: checks 
+Mahu2021: bets 180
+He1torp: folds 
+pedrojacks: calls 180
+*** TURN *** [3c 5d 6h] [Qc]
+pedrojacks: bets 255 and is all-in
+Mahu2021: calls 255
+*** RIVER *** [3c 5d 6h Qc] [Ts]
+*** SHOW DOWN ***
+pedrojacks: shows [Qd 4d] (a pair of Queens)
+Mahu2021: shows [5c 4c] (a pair of Fives)
+pedrojacks collected 1050 from pot
+*** SUMMARY ***
+Total pot 1050 | Rake 0 
+Board [3c 5d 6h Qc Ts]
+Seat 1: pedrojacks (small blind) showed [Qd 4d] and won (1050) with a pair of Queens
+Seat 2: Mahu2021 (big blind) showed [5c 4c] and lost with a pair of Fives
+Seat 3: He1torp (button) folded on the Flop
+
+
+
+PokerStars Hand #243172391004: Tournament #3579356805, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/18 19:39:05 CET [2023/04/18 13:39:05 ET]
+Table '3579356805 1' 3-max Seat #1 is the button
+Seat 1: pedrojacks (1050 in chips) 
+Seat 2: Mahu2021 (105 in chips) 
+Seat 3: He1torp (345 in chips) 
+Mahu2021: posts small blind 15
+He1torp: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks 4h]
+pedrojacks: folds 
+Mahu2021: raises 75 to 105 and is all-in
+He1torp: folds 
+Uncalled bet (75) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: pedrojacks (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) collected (60)
+Seat 3: He1torp (big blind) folded before Flop
+
+
+
+PokerStars Hand #243172394750: Tournament #3579356805, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/18 19:39:16 CET [2023/04/18 13:39:16 ET]
+Table '3579356805 1' 3-max Seat #2 is the button
+Seat 1: pedrojacks (1050 in chips) 
+Seat 2: Mahu2021 (135 in chips) 
+Seat 3: He1torp (315 in chips) 
+He1torp: posts small blind 15
+pedrojacks: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc 8s]
+Mahu2021: raises 105 to 135 and is all-in
+He1torp: folds 
+pedrojacks: calls 105
+*** FLOP *** [3c 7c Kh]
+*** TURN *** [3c 7c Kh] [3s]
+*** RIVER *** [3c 7c Kh 3s] [8c]
+*** SHOW DOWN ***
+pedrojacks: shows [Ad 9s] (a pair of Threes)
+Mahu2021: shows [Qc 8s] (two pair, Eights and Threes)
+Mahu2021 collected 285 from pot
+*** SUMMARY ***
+Total pot 285 | Rake 0 
+Board [3c 7c Kh 3s 8c]
+Seat 1: pedrojacks (big blind) showed [Ad 9s] and lost with a pair of Threes
+Seat 2: Mahu2021 (button) showed [Qc 8s] and won (285) with two pair, Eights and Threes
+Seat 3: He1torp (small blind) folded before Flop
+
+
+
+PokerStars Hand #243172400034: Tournament #3579356805, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/18 19:39:31 CET [2023/04/18 13:39:31 ET]
+Table '3579356805 1' 3-max Seat #3 is the button
+Seat 1: pedrojacks (915 in chips) 
+Seat 2: Mahu2021 (285 in chips) 
+Seat 3: He1torp (300 in chips) 
+pedrojacks: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac Kd]
+He1torp: calls 30
+pedrojacks: raises 240 to 270
+Mahu2021: raises 15 to 285 and is all-in
+He1torp: folds 
+pedrojacks: calls 15
+*** FLOP *** [5d Jd 2s]
+*** TURN *** [5d Jd 2s] [2h]
+*** RIVER *** [5d Jd 2s 2h] [5h]
+*** SHOW DOWN ***
+pedrojacks: shows [Ah Ks] (two pair, Fives and Deuces)
+Mahu2021: shows [Ac Kd] (two pair, Fives and Deuces)
+pedrojacks collected 300 from pot
+Mahu2021 collected 300 from pot
+*** SUMMARY ***
+Total pot 600 | Rake 0 
+Board [5d Jd 2s 2h 5h]
+Seat 1: pedrojacks (small blind) showed [Ah Ks] and won (300) with two pair, Fives and Deuces
+Seat 2: Mahu2021 (big blind) showed [Ac Kd] and won (300) with two pair, Fives and Deuces
+Seat 3: He1torp (button) folded before Flop
+
+
+
+PokerStars Hand #243172407002: Tournament #3579356805, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/18 19:39:51 CET [2023/04/18 13:39:51 ET]
+Table '3579356805 1' 3-max Seat #1 is the button
+Seat 1: pedrojacks (930 in chips) 
+Seat 2: Mahu2021 (300 in chips) 
+Seat 3: He1torp (270 in chips) 
+Mahu2021: posts small blind 15
+He1torp: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d 8d]
+pedrojacks: calls 30
+Mahu2021: calls 15
+He1torp: checks 
+*** FLOP *** [4h Th 9c]
+Mahu2021: checks 
+He1torp: bets 70
+pedrojacks: raises 70 to 140
+Mahu2021: raises 130 to 270 and is all-in
+He1torp: calls 170 and is all-in
+pedrojacks: calls 130
+*** TURN *** [4h Th 9c] [7s]
+*** RIVER *** [4h Th 9c 7s] [9s]
+*** SHOW DOWN ***
+Mahu2021: shows [7d 8d] (two pair, Nines and Sevens)
+pedrojacks: shows [9h Qh] (three of a kind, Nines)
+pedrojacks collected 60 from side pot
+He1torp: shows [Jh Td] (two pair, Tens and Nines)
+pedrojacks collected 810 from main pot
+Mahu2021 finished the tournament in 2nd place
+He1torp finished the tournament in 3rd place
+pedrojacks wins the tournament and receives $2.00 - congratulations!
+*** SUMMARY ***
+Total pot 870 Main pot 810. Side pot 60. | Rake 0 
+Board [4h Th 9c 7s 9s]
+Seat 1: pedrojacks (button) showed [9h Qh] and won (870) with three of a kind, Nines
+Seat 2: Mahu2021 (small blind) showed [7d 8d] and lost with two pair, Nines and Sevens
+Seat 3: He1torp (big blind) showed [Jh Td] and lost with two pair, Tens and Nines
+
+
+

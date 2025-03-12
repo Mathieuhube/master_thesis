@@ -1,0 +1,891 @@
+﻿PokerStars Hand #245729064269: Tournament #3639462814, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/09/02 15:35:34 CET [2023/09/02 9:35:34 ET]
+Table '3639462814 1' 3-max Seat #1 is the button
+Seat 1: lockSmith404 (500 in chips) 
+Seat 2: ivonoejr (500 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+ivonoejr: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Td 5d]
+lockSmith404: folds 
+ivonoejr: raises 20 to 40
+Mahu2021: calls 20
+*** FLOP *** [7h 9d 7c]
+ivonoejr: bets 47
+Mahu2021: folds 
+Uncalled bet (47) returned to ivonoejr
+ivonoejr collected 80 from pot
+ivonoejr: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [7h 9d 7c]
+Seat 1: lockSmith404 (button) folded before Flop (didn't bet)
+Seat 2: ivonoejr (small blind) collected (80)
+Seat 3: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #245729067657: Tournament #3639462814, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/09/02 15:35:49 CET [2023/09/02 9:35:49 ET]
+Table '3639462814 1' 3-max Seat #2 is the button
+Seat 1: lockSmith404 (500 in chips) 
+Seat 2: ivonoejr (540 in chips) 
+Seat 3: Mahu2021 (460 in chips) 
+Mahu2021: posts small blind 10
+lockSmith404: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qd 8h]
+ivonoejr: folds 
+Mahu2021: calls 10
+lockSmith404: checks 
+*** FLOP *** [3s 2c Td]
+Mahu2021: checks 
+lockSmith404: checks 
+*** TURN *** [3s 2c Td] [As]
+Mahu2021: checks 
+lockSmith404: checks 
+*** RIVER *** [3s 2c Td As] [9h]
+Mahu2021: checks 
+lockSmith404: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [Qd 8h] (high card Ace)
+lockSmith404: mucks hand 
+Mahu2021 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [3s 2c Td As 9h]
+Seat 1: lockSmith404 (big blind) mucked [4h 7s]
+Seat 2: ivonoejr (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) showed [Qd 8h] and won (40) with high card Ace
+
+
+
+PokerStars Hand #245729070426: Tournament #3639462814, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/09/02 15:36:01 CET [2023/09/02 9:36:01 ET]
+Table '3639462814 1' 3-max Seat #3 is the button
+Seat 1: lockSmith404 (480 in chips) 
+Seat 2: ivonoejr (540 in chips) 
+Seat 3: Mahu2021 (480 in chips) 
+lockSmith404: posts small blind 10
+ivonoejr: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s 7d]
+Mahu2021: calls 20
+lockSmith404: calls 10
+ivonoejr: checks 
+*** FLOP *** [Ks Kc 6c]
+lockSmith404: checks 
+ivonoejr: checks 
+Mahu2021: bets 60
+lockSmith404: folds 
+ivonoejr: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Ks Kc 6c]
+Seat 1: lockSmith404 (small blind) folded on the Flop
+Seat 2: ivonoejr (big blind) folded on the Flop
+Seat 3: Mahu2021 (button) collected (60)
+
+
+
+PokerStars Hand #245729077909: Tournament #3639462814, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/09/02 15:36:34 CET [2023/09/02 9:36:34 ET]
+Table '3639462814 1' 3-max Seat #1 is the button
+Seat 1: lockSmith404 (460 in chips) 
+Seat 2: ivonoejr (520 in chips) 
+Seat 3: Mahu2021 (520 in chips) 
+ivonoejr: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s 2s]
+lockSmith404: calls 20
+ivonoejr: raises 20 to 40
+Mahu2021: calls 20
+lockSmith404: calls 20
+*** FLOP *** [2c 8s Ks]
+ivonoejr: bets 42
+Mahu2021: calls 42
+lockSmith404: raises 78 to 120
+ivonoejr: calls 78
+Mahu2021: raises 360 to 480 and is all-in
+lockSmith404: calls 300 and is all-in
+ivonoejr: folds 
+Uncalled bet (60) returned to Mahu2021
+*** TURN *** [2c 8s Ks] [6s]
+*** RIVER *** [2c 8s Ks 6s] [Ts]
+*** SHOW DOWN ***
+Mahu2021: shows [4s 2s] (a flush, King high)
+lockSmith404: shows [Kh 4c] (a pair of Kings)
+Mahu2021 collected 1080 from pot
+lockSmith404 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1080 | Rake 0 
+Board [2c 8s Ks 6s Ts]
+Seat 1: lockSmith404 (button) showed [Kh 4c] and lost with a pair of Kings
+Seat 2: ivonoejr (small blind) folded on the Flop
+Seat 3: Mahu2021 (big blind) showed [4s 2s] and won (1080) with a flush, King high
+
+
+
+PokerStars Hand #245729088014: Tournament #3639462814, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/09/02 15:37:19 CET [2023/09/02 9:37:19 ET]
+Table '3639462814 1' 3-max Seat #3 is the button
+Seat 2: ivonoejr (360 in chips) 
+Seat 3: Mahu2021 (1140 in chips) 
+Mahu2021: posts small blind 10
+ivonoejr: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d As]
+Mahu2021: calls 10
+ivonoejr: raises 30 to 50
+Mahu2021: calls 30
+*** FLOP *** [5h 6s 9h]
+ivonoejr: bets 35
+Mahu2021: folds 
+Uncalled bet (35) returned to ivonoejr
+ivonoejr collected 100 from pot
+ivonoejr: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [5h 6s 9h]
+Seat 2: ivonoejr (big blind) collected (100)
+Seat 3: Mahu2021 (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #245729091336: Tournament #3639462814, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/09/02 15:37:33 CET [2023/09/02 9:37:33 ET]
+Table '3639462814 1' 3-max Seat #2 is the button
+Seat 2: ivonoejr (410 in chips) 
+Seat 3: Mahu2021 (1090 in chips) 
+ivonoejr: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h 7s]
+ivonoejr: calls 10
+Mahu2021: checks 
+*** FLOP *** [Qs 6d Kh]
+Mahu2021: checks 
+ivonoejr: checks 
+*** TURN *** [Qs 6d Kh] [5c]
+Mahu2021: checks 
+ivonoejr: bets 20
+Mahu2021: folds 
+Uncalled bet (20) returned to ivonoejr
+ivonoejr collected 40 from pot
+ivonoejr: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Qs 6d Kh 5c]
+Seat 2: ivonoejr (button) (small blind) collected (40)
+Seat 3: Mahu2021 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #245729097849: Tournament #3639462814, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/09/02 15:38:02 CET [2023/09/02 9:38:02 ET]
+Table '3639462814 1' 3-max Seat #3 is the button
+Seat 2: ivonoejr (430 in chips) 
+Seat 3: Mahu2021 (1070 in chips) 
+Mahu2021: posts small blind 15
+ivonoejr: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d Jc]
+Mahu2021: calls 15
+ivonoejr: checks 
+*** FLOP *** [9d 9h 4c]
+ivonoejr: checks 
+Mahu2021: bets 30
+ivonoejr: calls 30
+*** TURN *** [9d 9h 4c] [Tc]
+ivonoejr: bets 42
+Mahu2021: folds 
+Uncalled bet (42) returned to ivonoejr
+ivonoejr collected 120 from pot
+ivonoejr: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [9d 9h 4c Tc]
+Seat 2: ivonoejr (big blind) collected (120)
+Seat 3: Mahu2021 (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #245729104571: Tournament #3639462814, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/09/02 15:38:32 CET [2023/09/02 9:38:32 ET]
+Table '3639462814 1' 3-max Seat #2 is the button
+Seat 2: ivonoejr (490 in chips) 
+Seat 3: Mahu2021 (1010 in chips) 
+ivonoejr: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qd Qc]
+ivonoejr: calls 15
+Mahu2021: raises 60 to 90
+ivonoejr: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: ivonoejr (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (60)
+
+
+
+PokerStars Hand #245729106712: Tournament #3639462814, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/09/02 15:38:41 CET [2023/09/02 9:38:41 ET]
+Table '3639462814 1' 3-max Seat #3 is the button
+Seat 2: ivonoejr (460 in chips) 
+Seat 3: Mahu2021 (1040 in chips) 
+Mahu2021: posts small blind 15
+ivonoejr: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc 2c]
+Mahu2021: calls 15
+ivonoejr: checks 
+*** FLOP *** [2s Tc Ah]
+ivonoejr: checks 
+Mahu2021: bets 30
+ivonoejr: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [2s Tc Ah]
+Seat 2: ivonoejr (big blind) folded on the Flop
+Seat 3: Mahu2021 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #245729110831: Tournament #3639462814, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/09/02 15:39:00 CET [2023/09/02 9:39:00 ET]
+Table '3639462814 1' 3-max Seat #2 is the button
+Seat 2: ivonoejr (430 in chips) 
+Seat 3: Mahu2021 (1070 in chips) 
+ivonoejr: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2s 4c]
+ivonoejr: calls 15
+Mahu2021: checks 
+*** FLOP *** [Kh 9h 7d]
+Mahu2021: checks 
+ivonoejr: bets 30
+Mahu2021: folds 
+Uncalled bet (30) returned to ivonoejr
+ivonoejr collected 60 from pot
+ivonoejr: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Kh 9h 7d]
+Seat 2: ivonoejr (button) (small blind) collected (60)
+Seat 3: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #245729113504: Tournament #3639462814, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/09/02 15:39:11 CET [2023/09/02 9:39:11 ET]
+Table '3639462814 1' 3-max Seat #3 is the button
+Seat 2: ivonoejr (460 in chips) 
+Seat 3: Mahu2021 (1040 in chips) 
+Mahu2021: posts small blind 15
+ivonoejr: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js Qd]
+Mahu2021: raises 30 to 60
+ivonoejr: calls 30
+*** FLOP *** [2d Kc 4c]
+ivonoejr: bets 42
+Mahu2021: folds 
+Uncalled bet (42) returned to ivonoejr
+ivonoejr collected 120 from pot
+ivonoejr: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [2d Kc 4c]
+Seat 2: ivonoejr (big blind) collected (120)
+Seat 3: Mahu2021 (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #245729116853: Tournament #3639462814, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/09/02 15:39:26 CET [2023/09/02 9:39:26 ET]
+Table '3639462814 1' 3-max Seat #2 is the button
+Seat 2: ivonoejr (520 in chips) 
+Seat 3: Mahu2021 (980 in chips) 
+ivonoejr: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s Tc]
+ivonoejr: calls 15
+Mahu2021: checks 
+*** FLOP *** [Jh 3c 9d]
+Mahu2021: checks 
+ivonoejr: bets 30
+Mahu2021: calls 30
+*** TURN *** [Jh 3c 9d] [As]
+Mahu2021: checks 
+ivonoejr: bets 60
+Mahu2021: raises 60 to 120
+ivonoejr: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 240 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Jh 3c 9d As]
+Seat 2: ivonoejr (button) (small blind) folded on the Turn
+Seat 3: Mahu2021 (big blind) collected (240)
+
+
+
+PokerStars Hand #245729125181: Tournament #3639462814, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/09/02 15:40:02 CET [2023/09/02 9:40:02 ET]
+Table '3639462814 1' 3-max Seat #3 is the button
+Seat 2: ivonoejr (400 in chips) 
+Seat 3: Mahu2021 (1100 in chips) 
+Mahu2021: posts small blind 20
+ivonoejr: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js 4s]
+Mahu2021: calls 20
+ivonoejr: checks 
+*** FLOP *** [8c Kd Qc]
+ivonoejr: checks 
+Mahu2021: bets 40
+ivonoejr: calls 40
+*** TURN *** [8c Kd Qc] [2s]
+ivonoejr: checks 
+Mahu2021: checks 
+*** RIVER *** [8c Kd Qc 2s] [Ah]
+ivonoejr: checks 
+Mahu2021: bets 160
+ivonoejr: folds 
+Uncalled bet (160) returned to Mahu2021
+Mahu2021 collected 160 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [8c Kd Qc 2s Ah]
+Seat 2: ivonoejr (big blind) folded on the River
+Seat 3: Mahu2021 (button) (small blind) collected (160)
+
+
+
+PokerStars Hand #245729136708: Tournament #3639462814, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/09/02 15:40:54 CET [2023/09/02 9:40:54 ET]
+Table '3639462814 1' 3-max Seat #2 is the button
+Seat 2: ivonoejr (320 in chips) 
+Seat 3: Mahu2021 (1180 in chips) 
+ivonoejr: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c 9d]
+ivonoejr: raises 280 to 320 and is all-in
+Mahu2021: folds 
+Uncalled bet (280) returned to ivonoejr
+ivonoejr collected 80 from pot
+ivonoejr: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: ivonoejr (button) (small blind) collected (80)
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #245729138562: Tournament #3639462814, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/09/02 15:41:02 CET [2023/09/02 9:41:02 ET]
+Table '3639462814 1' 3-max Seat #3 is the button
+Seat 2: ivonoejr (360 in chips) 
+Seat 3: Mahu2021 (1140 in chips) 
+Mahu2021: posts small blind 20
+ivonoejr: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3c Qd]
+Mahu2021: folds 
+Uncalled bet (20) returned to ivonoejr
+ivonoejr collected 40 from pot
+ivonoejr: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: ivonoejr (big blind) collected (40)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #245729139538: Tournament #3639462814, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/09/02 15:41:06 CET [2023/09/02 9:41:06 ET]
+Table '3639462814 1' 3-max Seat #2 is the button
+Seat 2: ivonoejr (380 in chips) 
+Seat 3: Mahu2021 (1120 in chips) 
+ivonoejr: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qs Qd]
+ivonoejr: calls 20
+Mahu2021: raises 80 to 120
+ivonoejr: folds 
+Uncalled bet (80) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: ivonoejr (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (80)
+
+
+
+PokerStars Hand #245729142767: Tournament #3639462814, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/09/02 15:41:20 CET [2023/09/02 9:41:20 ET]
+Table '3639462814 1' 3-max Seat #3 is the button
+Seat 2: ivonoejr (340 in chips) 
+Seat 3: Mahu2021 (1160 in chips) 
+Mahu2021: posts small blind 20
+ivonoejr: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac 9c]
+Mahu2021: raises 80 to 120
+ivonoejr: folds 
+Uncalled bet (80) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: ivonoejr (big blind) folded before Flop
+Seat 3: Mahu2021 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #245729144280: Tournament #3639462814, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/09/02 15:41:27 CET [2023/09/02 9:41:27 ET]
+Table '3639462814 1' 3-max Seat #2 is the button
+Seat 2: ivonoejr (300 in chips) 
+Seat 3: Mahu2021 (1200 in chips) 
+ivonoejr: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c Ks]
+ivonoejr: raises 260 to 300 and is all-in
+Mahu2021: folds 
+Uncalled bet (260) returned to ivonoejr
+ivonoejr collected 80 from pot
+ivonoejr: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: ivonoejr (button) (small blind) collected (80)
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #245729147205: Tournament #3639462814, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/09/02 15:41:39 CET [2023/09/02 9:41:39 ET]
+Table '3639462814 1' 3-max Seat #3 is the button
+Seat 2: ivonoejr (340 in chips) 
+Seat 3: Mahu2021 (1160 in chips) 
+Mahu2021: posts small blind 30
+ivonoejr: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c 9c]
+Mahu2021: calls 30
+ivonoejr: checks 
+*** FLOP *** [Kd 2d Qs]
+ivonoejr: checks 
+Mahu2021: bets 60
+ivonoejr: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Kd 2d Qs]
+Seat 2: ivonoejr (big blind) folded on the Flop
+Seat 3: Mahu2021 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #245729150645: Tournament #3639462814, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/09/02 15:41:54 CET [2023/09/02 9:41:54 ET]
+Table '3639462814 1' 3-max Seat #2 is the button
+Seat 2: ivonoejr (280 in chips) 
+Seat 3: Mahu2021 (1220 in chips) 
+ivonoejr: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d 4d]
+ivonoejr: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: ivonoejr (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (60)
+
+
+
+PokerStars Hand #245729151805: Tournament #3639462814, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/09/02 15:41:59 CET [2023/09/02 9:41:59 ET]
+Table '3639462814 1' 3-max Seat #3 is the button
+Seat 2: ivonoejr (250 in chips) 
+Seat 3: Mahu2021 (1250 in chips) 
+Mahu2021: posts small blind 30
+ivonoejr: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s 3h]
+Mahu2021: raises 1190 to 1250 and is all-in
+ivonoejr: folds 
+Uncalled bet (1190) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: ivonoejr (big blind) folded before Flop
+Seat 3: Mahu2021 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #245729153545: Tournament #3639462814, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/09/02 15:42:07 CET [2023/09/02 9:42:07 ET]
+Table '3639462814 1' 3-max Seat #2 is the button
+Seat 2: ivonoejr (190 in chips) 
+Seat 3: Mahu2021 (1310 in chips) 
+ivonoejr: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d As]
+ivonoejr: raises 130 to 190 and is all-in
+Mahu2021: calls 130
+*** FLOP *** [Kc Tc 8h]
+*** TURN *** [Kc Tc 8h] [Kh]
+*** RIVER *** [Kc Tc 8h Kh] [Qc]
+*** SHOW DOWN ***
+Mahu2021: shows [5d As] (a pair of Kings)
+ivonoejr: shows [5s Qd] (two pair, Kings and Queens)
+ivonoejr collected 380 from pot
+*** SUMMARY ***
+Total pot 380 | Rake 0 
+Board [Kc Tc 8h Kh Qc]
+Seat 2: ivonoejr (button) (small blind) showed [5s Qd] and won (380) with two pair, Kings and Queens
+Seat 3: Mahu2021 (big blind) showed [5d As] and lost with a pair of Kings
+
+
+
+PokerStars Hand #245729156344: Tournament #3639462814, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/09/02 15:42:20 CET [2023/09/02 9:42:20 ET]
+Table '3639462814 1' 3-max Seat #3 is the button
+Seat 2: ivonoejr (380 in chips) 
+Seat 3: Mahu2021 (1120 in chips) 
+Mahu2021: posts small blind 30
+ivonoejr: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c 7c]
+Mahu2021: calls 30
+ivonoejr: checks 
+*** FLOP *** [Kh 9h 2c]
+ivonoejr: checks 
+Mahu2021: checks 
+*** TURN *** [Kh 9h 2c] [5d]
+ivonoejr: bets 320 and is all-in
+Mahu2021: folds 
+Uncalled bet (320) returned to ivonoejr
+ivonoejr collected 120 from pot
+ivonoejr: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Kh 9h 2c 5d]
+Seat 2: ivonoejr (big blind) collected (120)
+Seat 3: Mahu2021 (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #245729160178: Tournament #3639462814, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/09/02 15:42:37 CET [2023/09/02 9:42:37 ET]
+Table '3639462814 1' 3-max Seat #2 is the button
+Seat 2: ivonoejr (440 in chips) 
+Seat 3: Mahu2021 (1060 in chips) 
+ivonoejr: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s 4s]
+ivonoejr: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: ivonoejr (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (60)
+
+
+
+PokerStars Hand #245729162064: Tournament #3639462814, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/09/02 15:42:45 CET [2023/09/02 9:42:45 ET]
+Table '3639462814 1' 3-max Seat #3 is the button
+Seat 2: ivonoejr (410 in chips) 
+Seat 3: Mahu2021 (1090 in chips) 
+Mahu2021: posts small blind 30
+ivonoejr: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4c Qc]
+Mahu2021: calls 30
+ivonoejr: raises 350 to 410 and is all-in
+Mahu2021: folds 
+Uncalled bet (350) returned to ivonoejr
+ivonoejr collected 120 from pot
+ivonoejr: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: ivonoejr (big blind) collected (120)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #245729163832: Tournament #3639462814, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/09/02 15:42:53 CET [2023/09/02 9:42:53 ET]
+Table '3639462814 1' 3-max Seat #2 is the button
+Seat 2: ivonoejr (470 in chips) 
+Seat 3: Mahu2021 (1030 in chips) 
+ivonoejr: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4d Qh]
+ivonoejr: raises 410 to 470 and is all-in
+Mahu2021: folds 
+Uncalled bet (410) returned to ivonoejr
+ivonoejr collected 120 from pot
+ivonoejr: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: ivonoejr (button) (small blind) collected (120)
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #245729165266: Tournament #3639462814, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/09/02 15:42:59 CET [2023/09/02 9:42:59 ET]
+Table '3639462814 1' 3-max Seat #3 is the button
+Seat 2: ivonoejr (530 in chips) 
+Seat 3: Mahu2021 (970 in chips) 
+Mahu2021: posts small blind 30
+ivonoejr: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c 9d]
+Mahu2021: folds 
+Uncalled bet (30) returned to ivonoejr
+ivonoejr collected 60 from pot
+ivonoejr: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: ivonoejr (big blind) collected (60)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #245729166189: Tournament #3639462814, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/09/02 15:43:03 CET [2023/09/02 9:43:03 ET]
+Table '3639462814 1' 3-max Seat #2 is the button
+Seat 2: ivonoejr (560 in chips) 
+Seat 3: Mahu2021 (940 in chips) 
+ivonoejr: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks 5h]
+ivonoejr: calls 30
+Mahu2021: raises 880 to 940 and is all-in
+ivonoejr: folds 
+Uncalled bet (880) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: ivonoejr (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (120)
+
+
+
+PokerStars Hand #245729167987: Tournament #3639462814, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/09/02 15:43:11 CET [2023/09/02 9:43:11 ET]
+Table '3639462814 1' 3-max Seat #3 is the button
+Seat 2: ivonoejr (500 in chips) 
+Seat 3: Mahu2021 (1000 in chips) 
+Mahu2021: posts small blind 30
+ivonoejr: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qd 2s]
+Mahu2021: calls 30
+ivonoejr: raises 66 to 126
+Mahu2021: folds 
+Uncalled bet (66) returned to ivonoejr
+ivonoejr collected 120 from pot
+ivonoejr: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: ivonoejr (big blind) collected (120)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #245729170476: Tournament #3639462814, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/09/02 15:43:22 CET [2023/09/02 9:43:22 ET]
+Table '3639462814 1' 3-max Seat #2 is the button
+Seat 2: ivonoejr (560 in chips) 
+Seat 3: Mahu2021 (940 in chips) 
+ivonoejr: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d Jc]
+ivonoejr: raises 500 to 560 and is all-in
+Mahu2021: folds 
+Uncalled bet (500) returned to ivonoejr
+ivonoejr collected 120 from pot
+ivonoejr: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: ivonoejr (button) (small blind) collected (120)
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #245729172069: Tournament #3639462814, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/09/02 15:43:29 CET [2023/09/02 9:43:29 ET]
+Table '3639462814 1' 3-max Seat #3 is the button
+Seat 2: ivonoejr (620 in chips) 
+Seat 3: Mahu2021 (880 in chips) 
+Mahu2021: posts small blind 30
+ivonoejr: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h 9c]
+Mahu2021: folds 
+Uncalled bet (30) returned to ivonoejr
+ivonoejr collected 60 from pot
+ivonoejr: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: ivonoejr (big blind) collected (60)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #245729172986: Tournament #3639462814, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/09/02 15:43:33 CET [2023/09/02 9:43:33 ET]
+Table '3639462814 1' 3-max Seat #2 is the button
+Seat 2: ivonoejr (650 in chips) 
+Seat 3: Mahu2021 (850 in chips) 
+ivonoejr: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah 2c]
+ivonoejr: calls 30
+Mahu2021: raises 790 to 850 and is all-in
+ivonoejr: folds 
+Uncalled bet (790) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: ivonoejr (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (120)
+
+
+
+PokerStars Hand #245729175978: Tournament #3639462814, $0.92+$0.08 USD Hold'em No Limit - Level V (40/80) - 2023/09/02 15:43:46 CET [2023/09/02 9:43:46 ET]
+Table '3639462814 1' 3-max Seat #3 is the button
+Seat 2: ivonoejr (590 in chips) 
+Seat 3: Mahu2021 (910 in chips) 
+Mahu2021: posts small blind 40
+ivonoejr: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h 8d]
+Mahu2021: calls 40
+ivonoejr: checks 
+*** FLOP *** [7h 4d 9c]
+ivonoejr: checks 
+Mahu2021: bets 830 and is all-in
+ivonoejr: folds 
+Uncalled bet (830) returned to Mahu2021
+Mahu2021 collected 160 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [7h 4d 9c]
+Seat 2: ivonoejr (big blind) folded on the Flop
+Seat 3: Mahu2021 (button) (small blind) collected (160)
+
+
+
+PokerStars Hand #245729179459: Tournament #3639462814, $0.92+$0.08 USD Hold'em No Limit - Level V (40/80) - 2023/09/02 15:44:02 CET [2023/09/02 9:44:02 ET]
+Table '3639462814 1' 3-max Seat #2 is the button
+Seat 2: ivonoejr (510 in chips) 
+Seat 3: Mahu2021 (990 in chips) 
+ivonoejr: posts small blind 40
+Mahu2021: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c 8c]
+ivonoejr: calls 40
+Mahu2021: checks 
+*** FLOP *** [Jc 8h 3h]
+Mahu2021: checks 
+ivonoejr: checks 
+*** TURN *** [Jc 8h 3h] [9s]
+Mahu2021: checks 
+ivonoejr: checks 
+*** RIVER *** [Jc 8h 3h 9s] [Qd]
+Mahu2021: checks 
+ivonoejr: bets 80
+Mahu2021: calls 80
+*** SHOW DOWN ***
+ivonoejr: shows [Ad Ah] (a pair of Aces)
+Mahu2021: mucks hand 
+ivonoejr collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [Jc 8h 3h 9s Qd]
+Seat 2: ivonoejr (button) (small blind) showed [Ad Ah] and won (320) with a pair of Aces
+Seat 3: Mahu2021 (big blind) mucked [7c 8c]
+
+
+
+PokerStars Hand #245729183912: Tournament #3639462814, $0.92+$0.08 USD Hold'em No Limit - Level V (40/80) - 2023/09/02 15:44:22 CET [2023/09/02 9:44:22 ET]
+Table '3639462814 1' 3-max Seat #3 is the button
+Seat 2: ivonoejr (670 in chips) 
+Seat 3: Mahu2021 (830 in chips) 
+Mahu2021: posts small blind 40
+ivonoejr: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s 6h]
+Mahu2021: calls 40
+ivonoejr: raises 590 to 670 and is all-in
+Mahu2021: folds 
+Uncalled bet (590) returned to ivonoejr
+ivonoejr collected 160 from pot
+ivonoejr: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Seat 2: ivonoejr (big blind) collected (160)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #245729185712: Tournament #3639462814, $0.92+$0.08 USD Hold'em No Limit - Level V (40/80) - 2023/09/02 15:44:29 CET [2023/09/02 9:44:29 ET]
+Table '3639462814 1' 3-max Seat #2 is the button
+Seat 2: ivonoejr (750 in chips) 
+Seat 3: Mahu2021 (750 in chips) 
+ivonoejr: posts small blind 40
+Mahu2021: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d 9c]
+ivonoejr: calls 40
+Mahu2021: raises 670 to 750 and is all-in
+ivonoejr: folds 
+Uncalled bet (670) returned to Mahu2021
+Mahu2021 collected 160 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Seat 2: ivonoejr (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (160)
+
+
+
+PokerStars Hand #245729188460: Tournament #3639462814, $0.92+$0.08 USD Hold'em No Limit - Level V (40/80) - 2023/09/02 15:44:42 CET [2023/09/02 9:44:42 ET]
+Table '3639462814 1' 3-max Seat #3 is the button
+Seat 2: ivonoejr (670 in chips) 
+Seat 3: Mahu2021 (830 in chips) 
+Mahu2021: posts small blind 40
+ivonoejr: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h Ad]
+Mahu2021: calls 40
+ivonoejr: raises 590 to 670 and is all-in
+Mahu2021: calls 590
+*** FLOP *** [2d 6h 5s]
+*** TURN *** [2d 6h 5s] [7c]
+*** RIVER *** [2d 6h 5s 7c] [6d]
+*** SHOW DOWN ***
+ivonoejr: shows [7d 5d] (two pair, Sevens and Sixes)
+Mahu2021: shows [7h Ad] (two pair, Sevens and Sixes - Ace kicker)
+Mahu2021 collected 1340 from pot
+ivonoejr finished the tournament in 2nd place
+Mahu2021 wins the tournament and receives $2.00 - congratulations!
+*** SUMMARY ***
+Total pot 1340 | Rake 0 
+Board [2d 6h 5s 7c 6d]
+Seat 2: ivonoejr (big blind) showed [7d 5d] and lost with two pair, Sevens and Sixes
+Seat 3: Mahu2021 (button) (small blind) showed [7h Ad] and won (1340) with two pair, Sevens and Sixes
+
+
+

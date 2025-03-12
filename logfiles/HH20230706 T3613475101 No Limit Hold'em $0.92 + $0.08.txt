@@ -1,0 +1,579 @@
+﻿PokerStars Hand #244662461738: Tournament #3613475101, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/07/06 20:57:34 CET [2023/07/06 14:57:34 ET]
+Table '3613475101 1' 3-max Seat #1 is the button
+Seat 1: Hotshot495 (500 in chips) 
+Seat 2: o'travolta (500 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+o'travolta: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c Ah]
+Hotshot495: raises 50 to 70
+o'travolta: calls 60
+Mahu2021: folds 
+*** FLOP *** [Jc Td Tc]
+o'travolta: checks 
+Hotshot495: checks 
+*** TURN *** [Jc Td Tc] [6d]
+o'travolta: checks 
+Hotshot495: bets 100
+o'travolta: calls 100
+*** RIVER *** [Jc Td Tc 6d] [4s]
+o'travolta: checks 
+Hotshot495: bets 330 and is all-in
+o'travolta: folds 
+Uncalled bet (330) returned to Hotshot495
+Hotshot495 collected 360 from pot
+Hotshot495: doesn't show hand 
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [Jc Td Tc 6d 4s]
+Seat 1: Hotshot495 (button) collected (360)
+Seat 2: o'travolta (small blind) folded on the River
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #244662471337: Tournament #3613475101, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/07/06 20:58:14 CET [2023/07/06 14:58:14 ET]
+Table '3613475101 1' 3-max Seat #2 is the button
+Seat 1: Hotshot495 (690 in chips) 
+Seat 2: o'travolta (330 in chips) 
+Seat 3: Mahu2021 (480 in chips) 
+Mahu2021: posts small blind 10
+Hotshot495: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s Kc]
+o'travolta: calls 20
+Mahu2021: calls 10
+Hotshot495: checks 
+*** FLOP *** [Qh 9c Kh]
+Mahu2021: bets 40
+Hotshot495: calls 40
+o'travolta: calls 40
+*** TURN *** [Qh 9c Kh] [Qs]
+Mahu2021: checks 
+Hotshot495: checks 
+o'travolta: checks 
+*** RIVER *** [Qh 9c Kh Qs] [8s]
+Mahu2021: checks 
+Hotshot495: bets 40
+o'travolta: calls 40
+Mahu2021: calls 40
+*** SHOW DOWN ***
+Hotshot495: shows [Jh 2h] (a pair of Queens)
+o'travolta: shows [As Js] (a pair of Queens - Ace kicker)
+Mahu2021: shows [7s Kc] (two pair, Kings and Queens)
+Mahu2021 collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [Qh 9c Kh Qs 8s]
+Seat 1: Hotshot495 (big blind) showed [Jh 2h] and lost with a pair of Queens
+Seat 2: o'travolta (button) showed [As Js] and lost with a pair of Queens
+Seat 3: Mahu2021 (small blind) showed [7s Kc] and won (300) with two pair, Kings and Queens
+
+
+
+PokerStars Hand #244662479439: Tournament #3613475101, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/07/06 20:58:49 CET [2023/07/06 14:58:49 ET]
+Table '3613475101 1' 3-max Seat #3 is the button
+Seat 1: Hotshot495 (590 in chips) 
+Seat 2: o'travolta (230 in chips) 
+Seat 3: Mahu2021 (680 in chips) 
+Hotshot495: posts small blind 10
+o'travolta: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh Js]
+Mahu2021: raises 20 to 40
+Hotshot495: folds 
+o'travolta: calls 20
+*** FLOP *** [3h 7s 4h]
+o'travolta: checks 
+Mahu2021: checks 
+*** TURN *** [3h 7s 4h] [Qd]
+o'travolta: checks 
+Mahu2021: bets 40
+o'travolta: calls 40
+*** RIVER *** [3h 7s 4h Qd] [Qs]
+o'travolta: checks 
+Mahu2021: bets 170
+o'travolta: folds 
+Uncalled bet (170) returned to Mahu2021
+Mahu2021 collected 170 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 170 | Rake 0 
+Board [3h 7s 4h Qd Qs]
+Seat 1: Hotshot495 (small blind) folded before Flop
+Seat 2: o'travolta (big blind) folded on the River
+Seat 3: Mahu2021 (button) collected (170)
+
+
+
+PokerStars Hand #244662486584: Tournament #3613475101, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/07/06 20:59:20 CET [2023/07/06 14:59:20 ET]
+Table '3613475101 1' 3-max Seat #1 is the button
+Seat 1: Hotshot495 (580 in chips) 
+Seat 2: o'travolta (150 in chips) 
+Seat 3: Mahu2021 (770 in chips) 
+o'travolta: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s 9h]
+Hotshot495: calls 20
+o'travolta: calls 10
+Mahu2021: checks 
+*** FLOP *** [As 7s 8s]
+o'travolta: checks 
+Mahu2021: checks 
+Hotshot495: bets 20
+o'travolta: calls 20
+Mahu2021: folds 
+*** TURN *** [As 7s 8s] [9d]
+o'travolta: checks 
+Hotshot495: bets 60
+o'travolta: calls 60
+*** RIVER *** [As 7s 8s 9d] [Kd]
+o'travolta: checks 
+Hotshot495: checks 
+*** SHOW DOWN ***
+o'travolta: shows [5h Ac] (a pair of Aces)
+Hotshot495: shows [Ah 5c] (a pair of Aces)
+o'travolta collected 110 from pot
+Hotshot495 collected 110 from pot
+*** SUMMARY ***
+Total pot 220 | Rake 0 
+Board [As 7s 8s 9d Kd]
+Seat 1: Hotshot495 (button) showed [Ah 5c] and won (110) with a pair of Aces
+Seat 2: o'travolta (small blind) showed [5h Ac] and won (110) with a pair of Aces
+Seat 3: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #244662493786: Tournament #3613475101, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/07/06 20:59:51 CET [2023/07/06 14:59:51 ET]
+Table '3613475101 1' 3-max Seat #2 is the button
+Seat 1: Hotshot495 (590 in chips) 
+Seat 2: o'travolta (160 in chips) 
+Seat 3: Mahu2021 (750 in chips) 
+Mahu2021: posts small blind 10
+Hotshot495: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s 4s]
+o'travolta: calls 20
+Mahu2021: calls 10
+Hotshot495: raises 80 to 100
+o'travolta: calls 80
+Mahu2021: folds 
+*** FLOP *** [Ac Ad 2c]
+Hotshot495: bets 60
+o'travolta: calls 60 and is all-in
+*** TURN *** [Ac Ad 2c] [8c]
+*** RIVER *** [Ac Ad 2c 8c] [7h]
+*** SHOW DOWN ***
+Hotshot495: shows [Jc Jh] (two pair, Aces and Jacks)
+o'travolta: shows [7c Ts] (two pair, Aces and Sevens)
+Hotshot495 collected 340 from pot
+o'travolta finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 340 | Rake 0 
+Board [Ac Ad 2c 8c 7h]
+Seat 1: Hotshot495 (big blind) showed [Jc Jh] and won (340) with two pair, Aces and Jacks
+Seat 2: o'travolta (button) showed [7c Ts] and lost with two pair, Aces and Sevens
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #244662500398: Tournament #3613475101, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/07/06 21:00:18 CET [2023/07/06 15:00:18 ET]
+Table '3613475101 1' 3-max Seat #1 is the button
+Seat 1: Hotshot495 (770 in chips) 
+Seat 3: Mahu2021 (730 in chips) 
+Hotshot495: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h Qs]
+Hotshot495: calls 10
+Mahu2021: checks 
+*** FLOP *** [9s Th Kh]
+Mahu2021: checks 
+Hotshot495: bets 20
+Mahu2021: calls 20
+*** TURN *** [9s Th Kh] [Ad]
+Mahu2021: checks 
+Hotshot495: bets 40
+Mahu2021: folds 
+Uncalled bet (40) returned to Hotshot495
+Hotshot495 collected 80 from pot
+Hotshot495: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [9s Th Kh Ad]
+Seat 1: Hotshot495 (button) (small blind) collected (80)
+Seat 3: Mahu2021 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #244662506812: Tournament #3613475101, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/07/06 21:00:44 CET [2023/07/06 15:00:44 ET]
+Table '3613475101 1' 3-max Seat #3 is the button
+Seat 1: Hotshot495 (810 in chips) 
+Seat 3: Mahu2021 (690 in chips) 
+Mahu2021: posts small blind 15
+Hotshot495: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c Kh]
+Mahu2021: calls 15
+Hotshot495: checks 
+*** FLOP *** [Qd Kc 2h]
+Hotshot495: checks 
+Mahu2021: checks 
+*** TURN *** [Qd Kc 2h] [2s]
+Hotshot495: checks 
+Mahu2021: bets 60
+Hotshot495: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Qd Kc 2h 2s]
+Seat 1: Hotshot495 (big blind) folded on the Turn
+Seat 3: Mahu2021 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #244662513125: Tournament #3613475101, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/07/06 21:01:08 CET [2023/07/06 15:01:08 ET]
+Table '3613475101 1' 3-max Seat #1 is the button
+Seat 1: Hotshot495 (780 in chips) 
+Seat 3: Mahu2021 (720 in chips) 
+Hotshot495: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts 6c]
+Hotshot495: raises 30 to 60
+Mahu2021: folds 
+Uncalled bet (30) returned to Hotshot495
+Hotshot495 collected 60 from pot
+Hotshot495: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Hotshot495 (button) (small blind) collected (60)
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #244662515132: Tournament #3613475101, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/07/06 21:01:15 CET [2023/07/06 15:01:15 ET]
+Table '3613475101 1' 3-max Seat #3 is the button
+Seat 1: Hotshot495 (810 in chips) 
+Seat 3: Mahu2021 (690 in chips) 
+Mahu2021: posts small blind 15
+Hotshot495: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh 3d]
+Mahu2021: folds 
+Uncalled bet (15) returned to Hotshot495
+Hotshot495 collected 30 from pot
+Hotshot495: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Hotshot495 (big blind) collected (30)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #244662516555: Tournament #3613475101, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/07/06 21:01:21 CET [2023/07/06 15:01:21 ET]
+Table '3613475101 1' 3-max Seat #1 is the button
+Seat 1: Hotshot495 (825 in chips) 
+Seat 3: Mahu2021 (675 in chips) 
+Hotshot495: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8d 4c]
+Hotshot495: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Hotshot495 (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (30)
+
+
+
+PokerStars Hand #244662517933: Tournament #3613475101, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/07/06 21:01:26 CET [2023/07/06 15:01:26 ET]
+Table '3613475101 1' 3-max Seat #3 is the button
+Seat 1: Hotshot495 (810 in chips) 
+Seat 3: Mahu2021 (690 in chips) 
+Mahu2021: posts small blind 15
+Hotshot495: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac 7d]
+Mahu2021: raises 30 to 60
+Hotshot495: calls 30
+*** FLOP *** [Td Ks 7c]
+Hotshot495: checks 
+Mahu2021: bets 60
+Hotshot495: calls 60
+*** TURN *** [Td Ks 7c] [3h]
+Hotshot495: checks 
+Mahu2021: bets 60
+Hotshot495: calls 60
+*** RIVER *** [Td Ks 7c 3h] [5h]
+Hotshot495: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+Hotshot495: shows [Js 3s] (a pair of Threes)
+Mahu2021: shows [Ac 7d] (a pair of Sevens)
+Mahu2021 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [Td Ks 7c 3h 5h]
+Seat 1: Hotshot495 (big blind) showed [Js 3s] and lost with a pair of Threes
+Seat 3: Mahu2021 (button) (small blind) showed [Ac 7d] and won (360) with a pair of Sevens
+
+
+
+PokerStars Hand #244662527398: Tournament #3613475101, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/07/06 21:01:58 CET [2023/07/06 15:01:58 ET]
+Table '3613475101 1' 3-max Seat #1 is the button
+Seat 1: Hotshot495 (630 in chips) 
+Seat 3: Mahu2021 (870 in chips) 
+Hotshot495: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kc Tc]
+Hotshot495: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Hotshot495 (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (30)
+
+
+
+PokerStars Hand #244662530611: Tournament #3613475101, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/07/06 21:02:09 CET [2023/07/06 15:02:09 ET]
+Table '3613475101 1' 3-max Seat #3 is the button
+Seat 1: Hotshot495 (615 in chips) 
+Seat 3: Mahu2021 (885 in chips) 
+Mahu2021: posts small blind 15
+Hotshot495: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s 8s]
+Mahu2021: raises 30 to 60
+Hotshot495: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Hotshot495 (big blind) folded before Flop
+Seat 3: Mahu2021 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #244662536295: Tournament #3613475101, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/07/06 21:02:28 CET [2023/07/06 15:02:28 ET]
+Table '3613475101 1' 3-max Seat #1 is the button
+Seat 1: Hotshot495 (585 in chips) 
+Seat 3: Mahu2021 (915 in chips) 
+Hotshot495: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d Jd]
+Hotshot495: raises 60 to 90
+Mahu2021: calls 60
+*** FLOP *** [Jh 9s 2c]
+Mahu2021: checks 
+Hotshot495: bets 90
+Mahu2021: raises 735 to 825 and is all-in
+Hotshot495: folds 
+Uncalled bet (735) returned to Mahu2021
+Mahu2021 collected 360 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [Jh 9s 2c]
+Seat 1: Hotshot495 (button) (small blind) folded on the Flop
+Seat 3: Mahu2021 (big blind) collected (360)
+
+
+
+PokerStars Hand #244662547572: Tournament #3613475101, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/07/06 21:03:00 CET [2023/07/06 15:03:00 ET]
+Table '3613475101 1' 3-max Seat #3 is the button
+Seat 1: Hotshot495 (405 in chips) 
+Seat 3: Mahu2021 (1095 in chips) 
+Mahu2021: posts small blind 15
+Hotshot495: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4c 8h]
+Mahu2021: folds 
+Uncalled bet (15) returned to Hotshot495
+Hotshot495 collected 30 from pot
+Hotshot495: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Hotshot495 (big blind) collected (30)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #244662549198: Tournament #3613475101, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/07/06 21:03:05 CET [2023/07/06 15:03:05 ET]
+Table '3613475101 1' 3-max Seat #1 is the button
+Seat 1: Hotshot495 (420 in chips) 
+Seat 3: Mahu2021 (1080 in chips) 
+Hotshot495: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kc 5h]
+Hotshot495: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Hotshot495 (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (30)
+
+
+
+PokerStars Hand #244662551102: Tournament #3613475101, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/07/06 21:03:12 CET [2023/07/06 15:03:12 ET]
+Table '3613475101 1' 3-max Seat #3 is the button
+Seat 1: Hotshot495 (405 in chips) 
+Seat 3: Mahu2021 (1095 in chips) 
+Mahu2021: posts small blind 15
+Hotshot495: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5h Qh]
+Mahu2021: raises 30 to 60
+Hotshot495: raises 345 to 405 and is all-in
+Mahu2021: folds 
+Uncalled bet (345) returned to Hotshot495
+Hotshot495 collected 120 from pot
+Hotshot495: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: Hotshot495 (big blind) collected (120)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #244662554795: Tournament #3613475101, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/07/06 21:03:23 CET [2023/07/06 15:03:23 ET]
+Table '3613475101 1' 3-max Seat #1 is the button
+Seat 1: Hotshot495 (465 in chips) 
+Seat 3: Mahu2021 (1035 in chips) 
+Hotshot495: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc 5h]
+Hotshot495: calls 15
+Mahu2021: checks 
+*** FLOP *** [5c 9h 7d]
+Mahu2021: checks 
+Hotshot495: checks 
+*** TURN *** [5c 9h 7d] [9d]
+Mahu2021: bets 30
+Hotshot495: calls 30
+*** RIVER *** [5c 9h 7d 9d] [Ks]
+Mahu2021: checks 
+Hotshot495: bets 120
+Mahu2021: folds 
+Uncalled bet (120) returned to Hotshot495
+Hotshot495 collected 120 from pot
+Hotshot495: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [5c 9h 7d 9d Ks]
+Seat 1: Hotshot495 (button) (small blind) collected (120)
+Seat 3: Mahu2021 (big blind) folded on the River
+
+
+
+PokerStars Hand #244662566221: Tournament #3613475101, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/07/06 21:03:58 CET [2023/07/06 15:03:58 ET]
+Table '3613475101 1' 3-max Seat #3 is the button
+Seat 1: Hotshot495 (525 in chips) 
+Seat 3: Mahu2021 (975 in chips) 
+Mahu2021: posts small blind 20
+Hotshot495: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah 3h]
+Mahu2021: raises 40 to 80
+Hotshot495: calls 40
+*** FLOP *** [Jh 9h 2d]
+Hotshot495: checks 
+Mahu2021: bets 160
+Hotshot495: raises 285 to 445 and is all-in
+Mahu2021: calls 285
+*** TURN *** [Jh 9h 2d] [8c]
+*** RIVER *** [Jh 9h 2d 8c] [Qc]
+*** SHOW DOWN ***
+Hotshot495: shows [9s 7c] (a pair of Nines)
+Mahu2021: shows [Ah 3h] (high card Ace)
+Hotshot495 collected 1050 from pot
+*** SUMMARY ***
+Total pot 1050 | Rake 0 
+Board [Jh 9h 2d 8c Qc]
+Seat 1: Hotshot495 (big blind) showed [9s 7c] and won (1050) with a pair of Nines
+Seat 3: Mahu2021 (button) (small blind) showed [Ah 3h] and lost with high card Ace
+
+
+
+PokerStars Hand #244662575477: Tournament #3613475101, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/07/06 21:04:26 CET [2023/07/06 15:04:26 ET]
+Table '3613475101 1' 3-max Seat #1 is the button
+Seat 1: Hotshot495 (1050 in chips) 
+Seat 3: Mahu2021 (450 in chips) 
+Hotshot495: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s 5d]
+Hotshot495: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Hotshot495 (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (40)
+
+
+
+PokerStars Hand #244662577622: Tournament #3613475101, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/07/06 21:04:32 CET [2023/07/06 15:04:32 ET]
+Table '3613475101 1' 3-max Seat #3 is the button
+Seat 1: Hotshot495 (1030 in chips) 
+Seat 3: Mahu2021 (470 in chips) 
+Mahu2021: posts small blind 20
+Hotshot495: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s Th]
+Mahu2021: folds 
+Uncalled bet (20) returned to Hotshot495
+Hotshot495 collected 40 from pot
+Hotshot495: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Hotshot495 (big blind) collected (40)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #244662579168: Tournament #3613475101, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/07/06 21:04:36 CET [2023/07/06 15:04:36 ET]
+Table '3613475101 1' 3-max Seat #1 is the button
+Seat 1: Hotshot495 (1050 in chips) 
+Seat 3: Mahu2021 (450 in chips) 
+Hotshot495: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc 9d]
+Hotshot495: raises 80 to 120
+Mahu2021: raises 330 to 450 and is all-in
+Hotshot495: calls 330
+*** FLOP *** [7s 2c 2s]
+*** TURN *** [7s 2c 2s] [Kh]
+*** RIVER *** [7s 2c 2s Kh] [7h]
+*** SHOW DOWN ***
+Mahu2021: shows [Qc 9d] (two pair, Sevens and Deuces)
+Hotshot495: shows [5c Ac] (two pair, Sevens and Deuces - Ace kicker)
+Hotshot495 collected 900 from pot
+Mahu2021 finished the tournament in 2nd place
+Hotshot495 wins the tournament and receives $3.00 - congratulations!
+*** SUMMARY ***
+Total pot 900 | Rake 0 
+Board [7s 2c 2s Kh 7h]
+Seat 1: Hotshot495 (button) (small blind) showed [5c Ac] and won (900) with two pair, Sevens and Deuces
+Seat 3: Mahu2021 (big blind) showed [Qc 9d] and lost with two pair, Sevens and Deuces
+
+
+

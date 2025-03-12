@@ -1,0 +1,366 @@
+﻿PokerStars Hand #243932436210: Tournament #3596713912, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/05/27 13:04:35 CET [2023/05/27 7:04:35 ET]
+Table '3596713912 1' 3-max Seat #1 is the button
+Seat 1: titanu007 (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: Arlei Cantao (500 in chips) 
+Mahu2021: posts small blind 10
+Arlei Cantao: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s Qs]
+titanu007: calls 20
+Mahu2021: calls 10
+Arlei Cantao: checks 
+*** FLOP *** [6h Th As]
+Mahu2021: checks 
+Arlei Cantao: checks 
+titanu007: checks 
+*** TURN *** [6h Th As] [Tc]
+Mahu2021: checks 
+Arlei Cantao: checks 
+titanu007: checks 
+*** RIVER *** [6h Th As Tc] [Ac]
+Mahu2021: bets 20
+Arlei Cantao: folds 
+titanu007: calls 20
+*** SHOW DOWN ***
+Mahu2021: shows [4s Qs] (two pair, Aces and Tens)
+titanu007: shows [Ks 9h] (two pair, Aces and Tens - King kicker)
+titanu007 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [6h Th As Tc Ac]
+Seat 1: titanu007 (button) showed [Ks 9h] and won (100) with two pair, Aces and Tens
+Seat 2: Mahu2021 (small blind) showed [4s Qs] and lost with two pair, Aces and Tens
+Seat 3: Arlei Cantao (big blind) folded on the River
+
+
+
+PokerStars Hand #243932440430: Tournament #3596713912, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/05/27 13:05:00 CET [2023/05/27 7:05:00 ET]
+Table '3596713912 1' 3-max Seat #2 is the button
+Seat 1: titanu007 (560 in chips) 
+Seat 2: Mahu2021 (460 in chips) 
+Seat 3: Arlei Cantao (480 in chips) 
+Arlei Cantao: posts small blind 10
+titanu007: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh 6d]
+Mahu2021: folds 
+Arlei Cantao: calls 10
+titanu007: raises 40 to 60
+Arlei Cantao: calls 40
+*** FLOP *** [Qd Ts 9s]
+Arlei Cantao: bets 40
+titanu007: calls 40
+*** TURN *** [Qd Ts 9s] [4s]
+Arlei Cantao: checks 
+titanu007: checks 
+*** RIVER *** [Qd Ts 9s 4s] [4c]
+Arlei Cantao: checks 
+titanu007: bets 20
+Arlei Cantao: calls 20
+*** SHOW DOWN ***
+titanu007: shows [4h Js] (three of a kind, Fours)
+Arlei Cantao: mucks hand 
+titanu007 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Qd Ts 9s 4s 4c]
+Seat 1: titanu007 (big blind) showed [4h Js] and won (240) with three of a kind, Fours
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: Arlei Cantao (small blind) mucked [8c Ad]
+
+
+
+PokerStars Hand #243932446127: Tournament #3596713912, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/05/27 13:05:33 CET [2023/05/27 7:05:33 ET]
+Table '3596713912 1' 3-max Seat #3 is the button
+Seat 1: titanu007 (680 in chips) 
+Seat 2: Mahu2021 (460 in chips) 
+Seat 3: Arlei Cantao (360 in chips) 
+titanu007: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac 4s]
+Arlei Cantao: calls 20
+titanu007: raises 20 to 40
+Mahu2021: calls 20
+Arlei Cantao: calls 20
+*** FLOP *** [5h 4d Jh]
+titanu007: checks 
+Mahu2021: checks 
+Arlei Cantao: checks 
+*** TURN *** [5h 4d Jh] [Td]
+titanu007: checks 
+Mahu2021: bets 40
+Arlei Cantao: folds 
+titanu007: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [5h 4d Jh Td]
+Seat 1: titanu007 (small blind) folded on the Turn
+Seat 2: Mahu2021 (big blind) collected (120)
+Seat 3: Arlei Cantao (button) folded on the Turn
+
+
+
+PokerStars Hand #243932450612: Tournament #3596713912, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/05/27 13:06:00 CET [2023/05/27 7:06:00 ET]
+Table '3596713912 1' 3-max Seat #1 is the button
+Seat 1: titanu007 (640 in chips) 
+Seat 2: Mahu2021 (540 in chips) 
+Seat 3: Arlei Cantao (320 in chips) 
+Mahu2021: posts small blind 10
+Arlei Cantao: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s 8c]
+titanu007: calls 20
+Mahu2021: folds 
+Arlei Cantao: checks 
+*** FLOP *** [9s 2s Qd]
+Arlei Cantao: checks 
+titanu007: bets 40
+Arlei Cantao: folds 
+Uncalled bet (40) returned to titanu007
+titanu007 collected 50 from pot
+titanu007: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [9s 2s Qd]
+Seat 1: titanu007 (button) collected (50)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: Arlei Cantao (big blind) folded on the Flop
+
+
+
+PokerStars Hand #243932452910: Tournament #3596713912, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/05/27 13:06:13 CET [2023/05/27 7:06:13 ET]
+Table '3596713912 1' 3-max Seat #2 is the button
+Seat 1: titanu007 (670 in chips) 
+Seat 2: Mahu2021 (530 in chips) 
+Seat 3: Arlei Cantao (300 in chips) 
+Arlei Cantao: posts small blind 10
+titanu007: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kc 8s]
+Mahu2021: calls 20
+Arlei Cantao: folds 
+titanu007: checks 
+*** FLOP *** [3c 9d 7d]
+titanu007: checks 
+Mahu2021: bets 20
+titanu007: calls 20
+*** TURN *** [3c 9d 7d] [8c]
+titanu007: checks 
+Mahu2021: checks 
+*** RIVER *** [3c 9d 7d 8c] [3h]
+titanu007: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+titanu007: shows [Td Qd] (a pair of Threes)
+Mahu2021: shows [Kc 8s] (two pair, Eights and Threes)
+Mahu2021 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [3c 9d 7d 8c 3h]
+Seat 1: titanu007 (big blind) showed [Td Qd] and lost with a pair of Threes
+Seat 2: Mahu2021 (button) showed [Kc 8s] and won (90) with two pair, Eights and Threes
+Seat 3: Arlei Cantao (small blind) folded before Flop
+
+
+
+PokerStars Hand #243932456400: Tournament #3596713912, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/05/27 13:06:34 CET [2023/05/27 7:06:34 ET]
+Table '3596713912 1' 3-max Seat #3 is the button
+Seat 1: titanu007 (630 in chips) 
+Seat 2: Mahu2021 (580 in chips) 
+Seat 3: Arlei Cantao (290 in chips) 
+titanu007: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh 9h]
+Arlei Cantao: calls 20
+titanu007: raises 60 to 80
+Mahu2021: calls 60
+Arlei Cantao: calls 60
+*** FLOP *** [7c 9s 4d]
+titanu007: checks 
+Mahu2021: bets 60
+Arlei Cantao: folds 
+titanu007: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 240 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [7c 9s 4d]
+Seat 1: titanu007 (small blind) folded on the Flop
+Seat 2: Mahu2021 (big blind) collected (240)
+Seat 3: Arlei Cantao (button) folded on the Flop
+
+
+
+PokerStars Hand #243932460552: Tournament #3596713912, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/05/27 13:06:59 CET [2023/05/27 7:06:59 ET]
+Table '3596713912 1' 3-max Seat #1 is the button
+Seat 1: titanu007 (550 in chips) 
+Seat 2: Mahu2021 (740 in chips) 
+Seat 3: Arlei Cantao (210 in chips) 
+Mahu2021: posts small blind 10
+Arlei Cantao: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8c 6s]
+titanu007: raises 50 to 70
+Mahu2021: folds 
+Arlei Cantao: calls 50
+*** FLOP *** [Td 5h 9s]
+Arlei Cantao: checks 
+titanu007: bets 20
+Arlei Cantao: folds 
+Uncalled bet (20) returned to titanu007
+titanu007 collected 150 from pot
+titanu007: doesn't show hand 
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Board [Td 5h 9s]
+Seat 1: titanu007 (button) collected (150)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: Arlei Cantao (big blind) folded on the Flop
+
+
+
+PokerStars Hand #243932463756: Tournament #3596713912, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/05/27 13:07:18 CET [2023/05/27 7:07:18 ET]
+Table '3596713912 1' 3-max Seat #2 is the button
+Seat 1: titanu007 (630 in chips) 
+Seat 2: Mahu2021 (730 in chips) 
+Seat 3: Arlei Cantao (140 in chips) 
+Arlei Cantao: posts small blind 10
+titanu007: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8c Ts]
+Mahu2021: folds 
+Arlei Cantao: calls 10
+titanu007: raises 20 to 40
+Arlei Cantao: calls 20
+*** FLOP *** [2d Td 2s]
+Arlei Cantao: bets 100 and is all-in
+titanu007: folds 
+Uncalled bet (100) returned to Arlei Cantao
+Arlei Cantao collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [2d Td 2s]
+Seat 1: titanu007 (big blind) folded on the Flop
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: Arlei Cantao (small blind) collected (80)
+
+
+
+PokerStars Hand #243932466513: Tournament #3596713912, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/05/27 13:07:35 CET [2023/05/27 7:07:35 ET]
+Table '3596713912 1' 3-max Seat #3 is the button
+Seat 1: titanu007 (590 in chips) 
+Seat 2: Mahu2021 (730 in chips) 
+Seat 3: Arlei Cantao (180 in chips) 
+titanu007: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4d Js]
+Arlei Cantao: folds 
+titanu007: folds 
+Uncalled bet (10) returned to Mahu2021
+Mahu2021 collected 20 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: titanu007 (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (20)
+Seat 3: Arlei Cantao (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #243932468288: Tournament #3596713912, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/05/27 13:07:46 CET [2023/05/27 7:07:46 ET]
+Table '3596713912 1' 3-max Seat #1 is the button
+Seat 1: titanu007 (580 in chips) 
+Seat 2: Mahu2021 (740 in chips) 
+Seat 3: Arlei Cantao (180 in chips) 
+Mahu2021: posts small blind 15
+Arlei Cantao: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh Ks]
+titanu007: raises 75 to 105
+Mahu2021: folds 
+Arlei Cantao: folds 
+Uncalled bet (75) returned to titanu007
+titanu007 collected 75 from pot
+titanu007: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: titanu007 (button) collected (75)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: Arlei Cantao (big blind) folded before Flop
+
+
+
+PokerStars Hand #243932469696: Tournament #3596713912, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/05/27 13:07:54 CET [2023/05/27 7:07:54 ET]
+Table '3596713912 1' 3-max Seat #2 is the button
+Seat 1: titanu007 (625 in chips) 
+Seat 2: Mahu2021 (725 in chips) 
+Seat 3: Arlei Cantao (150 in chips) 
+Arlei Cantao: posts small blind 15
+titanu007: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c 6c]
+Mahu2021: calls 30
+Arlei Cantao: folds 
+titanu007: raises 75 to 105
+Mahu2021: calls 75
+*** FLOP *** [6s Qh 3h]
+titanu007: bets 113
+Mahu2021: raises 507 to 620 and is all-in
+titanu007: calls 407 and is all-in
+Uncalled bet (100) returned to Mahu2021
+*** TURN *** [6s Qh 3h] [As]
+*** RIVER *** [6s Qh 3h As] [7c]
+*** SHOW DOWN ***
+titanu007: shows [Ah Ks] (a pair of Aces)
+Mahu2021: shows [5c 6c] (a pair of Sixes)
+titanu007 collected 1265 from pot
+*** SUMMARY ***
+Total pot 1265 | Rake 0 
+Board [6s Qh 3h As 7c]
+Seat 1: titanu007 (big blind) showed [Ah Ks] and won (1265) with a pair of Aces
+Seat 2: Mahu2021 (button) showed [5c 6c] and lost with a pair of Sixes
+Seat 3: Arlei Cantao (small blind) folded before Flop
+
+
+
+PokerStars Hand #243932473265: Tournament #3596713912, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/05/27 13:08:16 CET [2023/05/27 7:08:16 ET]
+Table '3596713912 1' 3-max Seat #3 is the button
+Seat 1: titanu007 (1265 in chips) 
+Seat 2: Mahu2021 (100 in chips) 
+Seat 3: Arlei Cantao (135 in chips) 
+titanu007: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4c Kd]
+Arlei Cantao: calls 30
+titanu007: raises 90 to 120
+Mahu2021: calls 70 and is all-in
+Arlei Cantao: raises 15 to 135 and is all-in
+titanu007: calls 15
+*** FLOP *** [Qd 3h Ac]
+*** TURN *** [Qd 3h Ac] [8s]
+*** RIVER *** [Qd 3h Ac 8s] [As]
+*** SHOW DOWN ***
+titanu007: shows [Jh Ts] (a pair of Aces)
+Arlei Cantao: shows [Kc Jc] (a pair of Aces - King kicker)
+Arlei Cantao collected 70 from side pot
+Mahu2021: shows [4c Kd] (a pair of Aces - lower kicker)
+Arlei Cantao collected 300 from main pot
+Mahu2021 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 370 Main pot 300. Side pot 70. | Rake 0 
+Board [Qd 3h Ac 8s As]
+Seat 1: titanu007 (small blind) showed [Jh Ts] and lost with a pair of Aces
+Seat 2: Mahu2021 (big blind) showed [4c Kd] and lost with a pair of Aces
+Seat 3: Arlei Cantao (button) showed [Kc Jc] and won (370) with a pair of Aces
+
+
+

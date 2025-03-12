@@ -1,0 +1,247 @@
+﻿PokerStars Hand #245755071194: Tournament #3640052821, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/09/03 21:33:48 CET [2023/09/03 15:33:48 ET]
+Table '3640052821 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: Rinat_ronik (500 in chips) 
+Seat 3: XandeSafadão (500 in chips) 
+Rinat_ronik: posts small blind 10
+XandeSafadão: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4d Kc]
+Mahu2021: folds 
+Rinat_ronik: raises 480 to 500 and is all-in
+XandeSafadão: calls 480 and is all-in
+*** FLOP *** [3d 7h As]
+*** TURN *** [3d 7h As] [Js]
+*** RIVER *** [3d 7h As Js] [5s]
+*** SHOW DOWN ***
+Rinat_ronik: shows [Ad Jc] (two pair, Aces and Jacks)
+XandeSafadão: shows [Jd Ah] (two pair, Aces and Jacks)
+Rinat_ronik collected 500 from pot
+XandeSafadão collected 500 from pot
+*** SUMMARY ***
+Total pot 1000 | Rake 0 
+Board [3d 7h As Js 5s]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: Rinat_ronik (small blind) showed [Ad Jc] and won (500) with two pair, Aces and Jacks
+Seat 3: XandeSafadão (big blind) showed [Jd Ah] and won (500) with two pair, Aces and Jacks
+
+
+
+PokerStars Hand #245755077789: Tournament #3640052821, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/09/03 21:34:03 CET [2023/09/03 15:34:03 ET]
+Table '3640052821 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: Rinat_ronik (500 in chips) 
+Seat 3: XandeSafadão (500 in chips) 
+XandeSafadão: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8c 7s]
+Rinat_ronik: calls 20
+XandeSafadão: calls 10
+Mahu2021: checks 
+*** FLOP *** [9s 7d Jd]
+XandeSafadão: checks 
+Mahu2021: bets 40
+Rinat_ronik: folds 
+XandeSafadão: calls 40
+*** TURN *** [9s 7d Jd] [Ks]
+XandeSafadão: bets 60
+Mahu2021: calls 60
+*** RIVER *** [9s 7d Jd Ks] [5c]
+XandeSafadão: bets 380 and is all-in
+Mahu2021: folds 
+Uncalled bet (380) returned to XandeSafadão
+XandeSafadão collected 260 from pot
+*** SUMMARY ***
+Total pot 260 | Rake 0 
+Board [9s 7d Jd Ks 5c]
+Seat 1: Mahu2021 (big blind) folded on the River
+Seat 2: Rinat_ronik (button) folded on the Flop
+Seat 3: XandeSafadão (small blind) collected (260)
+
+
+
+PokerStars Hand #245755091190: Tournament #3640052821, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/09/03 21:34:34 CET [2023/09/03 15:34:34 ET]
+Table '3640052821 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (380 in chips) 
+Seat 2: Rinat_ronik (480 in chips) 
+Seat 3: XandeSafadão (640 in chips) 
+Mahu2021: posts small blind 10
+Rinat_ronik: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js 7s]
+XandeSafadão: calls 20
+Mahu2021: calls 10
+Rinat_ronik: checks 
+*** FLOP *** [4s 9s 7h]
+Mahu2021: bets 60
+Rinat_ronik: calls 60
+XandeSafadão: folds 
+*** TURN *** [4s 9s 7h] [9c]
+Mahu2021: bets 300 and is all-in
+Rinat_ronik: folds 
+Uncalled bet (300) returned to Mahu2021
+Mahu2021 collected 180 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [4s 9s 7h 9c]
+Seat 1: Mahu2021 (small blind) collected (180)
+Seat 2: Rinat_ronik (big blind) folded on the Turn
+Seat 3: XandeSafadão (button) folded on the Flop
+
+
+
+PokerStars Hand #245755099095: Tournament #3640052821, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/09/03 21:34:53 CET [2023/09/03 15:34:53 ET]
+Table '3640052821 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (480 in chips) 
+Seat 2: Rinat_ronik (400 in chips) 
+Seat 3: XandeSafadão (620 in chips) 
+Rinat_ronik: posts small blind 10
+XandeSafadão: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d 7h]
+Mahu2021: calls 20
+Rinat_ronik: folds 
+XandeSafadão: checks 
+*** FLOP *** [Jd 7c 7d]
+XandeSafadão: checks 
+Mahu2021: checks 
+*** TURN *** [Jd 7c 7d] [6h]
+XandeSafadão: checks 
+Mahu2021: checks 
+*** RIVER *** [Jd 7c 7d 6h] [Qs]
+XandeSafadão: checks 
+Mahu2021: bets 460 and is all-in
+XandeSafadão: folds 
+Uncalled bet (460) returned to Mahu2021
+Mahu2021 collected 50 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [Jd 7c 7d 6h Qs]
+Seat 1: Mahu2021 (button) collected (50)
+Seat 2: Rinat_ronik (small blind) folded before Flop
+Seat 3: XandeSafadão (big blind) folded on the River
+
+
+
+PokerStars Hand #245755108447: Tournament #3640052821, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/09/03 21:35:15 CET [2023/09/03 15:35:15 ET]
+Table '3640052821 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (510 in chips) 
+Seat 2: Rinat_ronik (390 in chips) 
+Seat 3: XandeSafadão (600 in chips) 
+XandeSafadão: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s Ad]
+Rinat_ronik: raises 370 to 390 and is all-in
+XandeSafadão: folds 
+Mahu2021: folds 
+Uncalled bet (370) returned to Rinat_ronik
+Rinat_ronik collected 50 from pot
+Rinat_ronik: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: Rinat_ronik (button) collected (50)
+Seat 3: XandeSafadão (small blind) folded before Flop
+
+
+
+PokerStars Hand #245755112374: Tournament #3640052821, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/09/03 21:35:24 CET [2023/09/03 15:35:24 ET]
+Table '3640052821 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (490 in chips) 
+Seat 2: Rinat_ronik (420 in chips) 
+Seat 3: XandeSafadão (590 in chips) 
+Mahu2021: posts small blind 10
+Rinat_ronik: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s 4s]
+XandeSafadão: folds 
+Mahu2021: calls 10
+Rinat_ronik: checks 
+*** FLOP *** [Qd Td Ac]
+Mahu2021: checks 
+Rinat_ronik: bets 20
+Mahu2021: folds 
+Uncalled bet (20) returned to Rinat_ronik
+Rinat_ronik collected 40 from pot
+Rinat_ronik: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Qd Td Ac]
+Seat 1: Mahu2021 (small blind) folded on the Flop
+Seat 2: Rinat_ronik (big blind) collected (40)
+Seat 3: XandeSafadão (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245755118222: Tournament #3640052821, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/09/03 21:35:38 CET [2023/09/03 15:35:38 ET]
+Table '3640052821 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (470 in chips) 
+Seat 2: Rinat_ronik (440 in chips) 
+Seat 3: XandeSafadão (590 in chips) 
+Rinat_ronik: posts small blind 10
+XandeSafadão: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s 7c]
+Mahu2021: folds 
+Rinat_ronik: calls 10
+XandeSafadão: checks 
+*** FLOP *** [Kd 9h 2s]
+Rinat_ronik: checks 
+XandeSafadão: checks 
+*** TURN *** [Kd 9h 2s] [Th]
+Rinat_ronik: bets 20
+XandeSafadão: calls 20
+*** RIVER *** [Kd 9h 2s Th] [7s]
+Rinat_ronik: bets 20
+XandeSafadão: folds 
+Uncalled bet (20) returned to Rinat_ronik
+Rinat_ronik collected 80 from pot
+Rinat_ronik: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Kd 9h 2s Th 7s]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: Rinat_ronik (small blind) collected (80)
+Seat 3: XandeSafadão (big blind) folded on the River
+
+
+
+PokerStars Hand #245755131746: Tournament #3640052821, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/09/03 21:36:09 CET [2023/09/03 15:36:09 ET]
+Table '3640052821 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (470 in chips) 
+Seat 2: Rinat_ronik (480 in chips) 
+Seat 3: XandeSafadão (550 in chips) 
+XandeSafadão: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s Qh]
+Rinat_ronik: folds 
+XandeSafadão: calls 15
+Mahu2021: checks 
+*** FLOP *** [8s 5s Js]
+XandeSafadão: checks 
+Mahu2021: bets 60
+XandeSafadão: calls 60
+*** TURN *** [8s 5s Js] [7h]
+XandeSafadão: bets 30
+Mahu2021: raises 350 to 380 and is all-in
+XandeSafadão: calls 350
+*** RIVER *** [8s 5s Js 7h] [9h]
+*** SHOW DOWN ***
+XandeSafadão: shows [7c 6s] (a straight, Five to Nine)
+Mahu2021: shows [9s Qh] (a pair of Nines)
+XandeSafadão collected 940 from pot
+Mahu2021 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 940 | Rake 0 
+Board [8s 5s Js 7h 9h]
+Seat 1: Mahu2021 (big blind) showed [9s Qh] and lost with a pair of Nines
+Seat 2: Rinat_ronik (button) folded before Flop (didn't bet)
+Seat 3: XandeSafadão (small blind) showed [7c 6s] and won (940) with a straight, Five to Nine
+
+
+

@@ -1,0 +1,768 @@
+﻿PokerStars Hand #253387722445: Tournament #3823162393, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/13 18:19:24 CET [2024/11/13 12:19:24 ET]
+Table '3823162393 1' 3-max Seat #1 is the button
+Seat 1: Chantapufy (500 in chips) 
+Seat 2: Za3Pu (500 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+Za3Pu: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks 2s]
+Chantapufy: raises 20 to 40
+Za3Pu: calls 30
+Mahu2021: calls 20
+*** FLOP *** [Kc 8h Td]
+Za3Pu: checks 
+Mahu2021: checks 
+Chantapufy: checks 
+*** TURN *** [Kc 8h Td] [6d]
+Za3Pu: checks 
+Mahu2021: bets 40
+Chantapufy: calls 40
+Za3Pu: folds 
+*** RIVER *** [Kc 8h Td 6d] [Qc]
+Mahu2021: bets 40
+Chantapufy: calls 40
+*** SHOW DOWN ***
+Mahu2021: shows [Ks 2s] (a pair of Kings)
+Chantapufy: mucks hand 
+Mahu2021 collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | Rake 0 
+Board [Kc 8h Td 6d Qc]
+Seat 1: Chantapufy (button) mucked [9d 9c]
+Seat 2: Za3Pu (small blind) folded on the Turn
+Seat 3: Mahu2021 (big blind) showed [Ks 2s] and won (280) with a pair of Kings
+
+
+
+PokerStars Hand #253387730939: Tournament #3823162393, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/13 18:19:57 CET [2024/11/13 12:19:57 ET]
+Table '3823162393 1' 3-max Seat #2 is the button
+Seat 1: Chantapufy (380 in chips) 
+Seat 2: Za3Pu (460 in chips) 
+Seat 3: Mahu2021 (660 in chips) 
+Mahu2021: posts small blind 10
+Chantapufy: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s 8s]
+Za3Pu: calls 20
+Mahu2021: calls 10
+Chantapufy: checks 
+*** FLOP *** [5h 2c Kh]
+Mahu2021: checks 
+Chantapufy: bets 20
+Za3Pu: folds 
+Mahu2021: folds 
+Uncalled bet (20) returned to Chantapufy
+Chantapufy collected 60 from pot
+Chantapufy: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [5h 2c Kh]
+Seat 1: Chantapufy (big blind) collected (60)
+Seat 2: Za3Pu (button) folded on the Flop
+Seat 3: Mahu2021 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #253387734611: Tournament #3823162393, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/13 18:20:11 CET [2024/11/13 12:20:11 ET]
+Table '3823162393 1' 3-max Seat #3 is the button
+Seat 1: Chantapufy (420 in chips) 
+Seat 2: Za3Pu (440 in chips) 
+Seat 3: Mahu2021 (640 in chips) 
+Chantapufy: posts small blind 10
+Za3Pu: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h 3d]
+Mahu2021: calls 20
+Chantapufy: raises 20 to 40
+Za3Pu: calls 20
+Mahu2021: calls 20
+*** FLOP *** [8s 8h 7d]
+Chantapufy: checks 
+Za3Pu: checks 
+Mahu2021: bets 40
+Chantapufy: folds 
+Za3Pu: calls 40
+*** TURN *** [8s 8h 7d] [2s]
+Za3Pu: checks 
+Mahu2021: checks 
+*** RIVER *** [8s 8h 7d 2s] [8c]
+Za3Pu: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+Za3Pu: shows [6d Td] (three of a kind, Eights)
+Mahu2021: shows [3h 3d] (a full house, Eights full of Threes)
+Mahu2021 collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [8s 8h 7d 2s 8c]
+Seat 1: Chantapufy (small blind) folded on the Flop
+Seat 2: Za3Pu (big blind) showed [6d Td] and lost with three of a kind, Eights
+Seat 3: Mahu2021 (button) showed [3h 3d] and won (200) with a full house, Eights full of Threes
+
+
+
+PokerStars Hand #253387743160: Tournament #3823162393, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/13 18:20:45 CET [2024/11/13 12:20:45 ET]
+Table '3823162393 1' 3-max Seat #1 is the button
+Seat 1: Chantapufy (380 in chips) 
+Seat 2: Za3Pu (360 in chips) 
+Seat 3: Mahu2021 (760 in chips) 
+Za3Pu: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3c 5s]
+Chantapufy: raises 20 to 40
+Za3Pu: calls 30
+Mahu2021: folds 
+*** FLOP *** [3d Kh Ad]
+Za3Pu: checks 
+Chantapufy: checks 
+*** TURN *** [3d Kh Ad] [Kc]
+Za3Pu: checks 
+Chantapufy: bets 50
+Za3Pu: calls 50
+*** RIVER *** [3d Kh Ad Kc] [2d]
+Za3Pu: checks 
+Chantapufy: checks 
+*** SHOW DOWN ***
+Za3Pu: shows [7d 4d] (a flush, Ace high)
+Chantapufy: mucks hand 
+Za3Pu collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [3d Kh Ad Kc 2d]
+Seat 1: Chantapufy (button) mucked [Td Qh]
+Seat 2: Za3Pu (small blind) showed [7d 4d] and won (200) with a flush, Ace high
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #253387749159: Tournament #3823162393, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/13 18:21:08 CET [2024/11/13 12:21:08 ET]
+Table '3823162393 1' 3-max Seat #2 is the button
+Seat 1: Chantapufy (290 in chips) 
+Seat 2: Za3Pu (470 in chips) 
+Seat 3: Mahu2021 (740 in chips) 
+Mahu2021: posts small blind 10
+Chantapufy: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d 5c]
+Za3Pu: folds 
+Mahu2021: calls 10
+Chantapufy: raises 20 to 40
+Mahu2021: calls 20
+*** FLOP *** [6h 4c 3s]
+Mahu2021: checks 
+Chantapufy: bets 40
+Mahu2021: calls 40
+*** TURN *** [6h 4c 3s] [8d]
+Mahu2021: checks 
+Chantapufy: checks 
+*** RIVER *** [6h 4c 3s 8d] [Kd]
+Mahu2021: bets 160
+Chantapufy: raises 50 to 210 and is all-in
+Mahu2021: calls 50
+*** SHOW DOWN ***
+Chantapufy: shows [Qh Ks] (a pair of Kings)
+Mahu2021: shows [3d 5c] (a pair of Threes)
+Chantapufy collected 580 from pot
+*** SUMMARY ***
+Total pot 580 | Rake 0 
+Board [6h 4c 3s 8d Kd]
+Seat 1: Chantapufy (big blind) showed [Qh Ks] and won (580) with a pair of Kings
+Seat 2: Za3Pu (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) showed [3d 5c] and lost with a pair of Threes
+
+
+
+PokerStars Hand #253387755359: Tournament #3823162393, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/13 18:21:33 CET [2024/11/13 12:21:33 ET]
+Table '3823162393 1' 3-max Seat #3 is the button
+Seat 1: Chantapufy (580 in chips) 
+Seat 2: Za3Pu (470 in chips) 
+Seat 3: Mahu2021 (450 in chips) 
+Chantapufy: posts small blind 10
+Za3Pu: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4d 6s]
+Mahu2021: folds 
+Chantapufy: raises 20 to 40
+Za3Pu: calls 20
+*** FLOP *** [8s Ah 8c]
+Chantapufy: checks 
+Za3Pu: checks 
+*** TURN *** [8s Ah 8c] [3h]
+Chantapufy: bets 20
+Za3Pu: folds 
+Uncalled bet (20) returned to Chantapufy
+Chantapufy collected 80 from pot
+Chantapufy: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [8s Ah 8c 3h]
+Seat 1: Chantapufy (small blind) collected (80)
+Seat 2: Za3Pu (big blind) folded on the Turn
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253387759706: Tournament #3823162393, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/13 18:21:50 CET [2024/11/13 12:21:50 ET]
+Table '3823162393 1' 3-max Seat #1 is the button
+Seat 1: Chantapufy (620 in chips) 
+Seat 2: Za3Pu (430 in chips) 
+Seat 3: Mahu2021 (450 in chips) 
+Za3Pu: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4c 8h]
+Chantapufy: raises 20 to 40
+Za3Pu: folds 
+Mahu2021: folds 
+Uncalled bet (20) returned to Chantapufy
+Chantapufy collected 50 from pot
+Chantapufy: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: Chantapufy (button) collected (50)
+Seat 2: Za3Pu (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #253387761701: Tournament #3823162393, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/13 18:21:58 CET [2024/11/13 12:21:58 ET]
+Table '3823162393 1' 3-max Seat #2 is the button
+Seat 1: Chantapufy (650 in chips) 
+Seat 2: Za3Pu (420 in chips) 
+Seat 3: Mahu2021 (430 in chips) 
+Mahu2021: posts small blind 10
+Chantapufy: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc 9c]
+Za3Pu: raises 400 to 420 and is all-in
+Mahu2021: folds 
+Chantapufy: folds 
+Uncalled bet (400) returned to Za3Pu
+Za3Pu collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: Chantapufy (big blind) folded before Flop
+Seat 2: Za3Pu (button) collected (50)
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #253387763831: Tournament #3823162393, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/13 18:22:06 CET [2024/11/13 12:22:06 ET]
+Table '3823162393 1' 3-max Seat #3 is the button
+Seat 1: Chantapufy (630 in chips) 
+Seat 2: Za3Pu (450 in chips) 
+Seat 3: Mahu2021 (420 in chips) 
+Chantapufy: posts small blind 10
+Za3Pu: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd Kh]
+Mahu2021: raises 20 to 40
+Chantapufy: folds 
+Za3Pu: calls 20
+*** FLOP *** [Ks Kc 4h]
+Za3Pu: checks 
+Mahu2021: checks 
+*** TURN *** [Ks Kc 4h] [6s]
+Za3Pu: bets 90
+Mahu2021: raises 90 to 180
+Za3Pu: folds 
+Uncalled bet (90) returned to Mahu2021
+Mahu2021 collected 270 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 270 | Rake 0 
+Board [Ks Kc 4h 6s]
+Seat 1: Chantapufy (small blind) folded before Flop
+Seat 2: Za3Pu (big blind) folded on the Turn
+Seat 3: Mahu2021 (button) collected (270)
+
+
+
+PokerStars Hand #253387769863: Tournament #3823162393, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/13 18:22:30 CET [2024/11/13 12:22:30 ET]
+Table '3823162393 1' 3-max Seat #1 is the button
+Seat 1: Chantapufy (620 in chips) 
+Seat 2: Za3Pu (320 in chips) 
+Seat 3: Mahu2021 (560 in chips) 
+Za3Pu: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Th Qs]
+Chantapufy: folds 
+Za3Pu: raises 290 to 320 and is all-in
+Mahu2021: folds 
+Uncalled bet (290) returned to Za3Pu
+Za3Pu collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Chantapufy (button) folded before Flop (didn't bet)
+Seat 2: Za3Pu (small blind) collected (60)
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #253387771821: Tournament #3823162393, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/13 18:22:38 CET [2024/11/13 12:22:38 ET]
+Table '3823162393 1' 3-max Seat #2 is the button
+Seat 1: Chantapufy (620 in chips) 
+Seat 2: Za3Pu (350 in chips) 
+Seat 3: Mahu2021 (530 in chips) 
+Mahu2021: posts small blind 15
+Chantapufy: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h Th]
+Za3Pu: folds 
+Mahu2021: raises 30 to 60
+Chantapufy: calls 30
+*** FLOP *** [6h 3d 4s]
+Mahu2021: checks 
+Chantapufy: bets 60
+Mahu2021: folds 
+Uncalled bet (60) returned to Chantapufy
+Chantapufy collected 120 from pot
+Chantapufy: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [6h 3d 4s]
+Seat 1: Chantapufy (big blind) collected (120)
+Seat 2: Za3Pu (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #253387775458: Tournament #3823162393, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/13 18:22:52 CET [2024/11/13 12:22:52 ET]
+Table '3823162393 1' 3-max Seat #3 is the button
+Seat 1: Chantapufy (680 in chips) 
+Seat 2: Za3Pu (350 in chips) 
+Seat 3: Mahu2021 (470 in chips) 
+Chantapufy: posts small blind 15
+Za3Pu: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As 6s]
+Mahu2021: raises 30 to 60
+Chantapufy: folds 
+Za3Pu: calls 30
+*** FLOP *** [8s Th 7c]
+Za3Pu: checks 
+Mahu2021: checks 
+*** TURN *** [8s Th 7c] [9s]
+Za3Pu: bets 135
+Mahu2021: calls 135
+*** RIVER *** [8s Th 7c 9s] [3d]
+Za3Pu: bets 155 and is all-in
+Mahu2021: calls 155
+*** SHOW DOWN ***
+Za3Pu: shows [4d 8c] (a pair of Eights)
+Mahu2021: shows [As 6s] (a straight, Six to Ten)
+Mahu2021 collected 715 from pot
+Za3Pu finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 715 | Rake 0 
+Board [8s Th 7c 9s 3d]
+Seat 1: Chantapufy (small blind) folded before Flop
+Seat 2: Za3Pu (big blind) showed [4d 8c] and lost with a pair of Eights
+Seat 3: Mahu2021 (button) showed [As 6s] and won (715) with a straight, Six to Ten
+
+
+
+PokerStars Hand #253387780915: Tournament #3823162393, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/13 18:23:13 CET [2024/11/13 12:23:13 ET]
+Table '3823162393 1' 3-max Seat #1 is the button
+Seat 1: Chantapufy (665 in chips) 
+Seat 3: Mahu2021 (835 in chips) 
+Chantapufy: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c 4c]
+Chantapufy: calls 15
+Mahu2021: checks 
+*** FLOP *** [4h Qs 6s]
+Mahu2021: checks 
+Chantapufy: checks 
+*** TURN *** [4h Qs 6s] [9h]
+Mahu2021: checks 
+Chantapufy: bets 30
+Mahu2021: folds 
+Uncalled bet (30) returned to Chantapufy
+Chantapufy collected 60 from pot
+Chantapufy: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [4h Qs 6s 9h]
+Seat 1: Chantapufy (button) (small blind) collected (60)
+Seat 3: Mahu2021 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #253387784743: Tournament #3823162393, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/13 18:23:29 CET [2024/11/13 12:23:29 ET]
+Table '3823162393 1' 3-max Seat #3 is the button
+Seat 1: Chantapufy (695 in chips) 
+Seat 3: Mahu2021 (805 in chips) 
+Mahu2021: posts small blind 15
+Chantapufy: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s Qd]
+Mahu2021: raises 30 to 60
+Chantapufy: calls 30
+*** FLOP *** [3d 6c 6h]
+Chantapufy: checks 
+Mahu2021: checks 
+*** TURN *** [3d 6c 6h] [Ac]
+Chantapufy: checks 
+Mahu2021: bets 60
+Chantapufy: calls 60
+*** RIVER *** [3d 6c 6h Ac] [Jd]
+Chantapufy: checks 
+Mahu2021: bets 150
+Chantapufy: folds 
+Uncalled bet (150) returned to Mahu2021
+Mahu2021 collected 240 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [3d 6c 6h Ac Jd]
+Seat 1: Chantapufy (big blind) folded on the River
+Seat 3: Mahu2021 (button) (small blind) collected (240)
+
+
+
+PokerStars Hand #253387790334: Tournament #3823162393, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/13 18:23:51 CET [2024/11/13 12:23:51 ET]
+Table '3823162393 1' 3-max Seat #1 is the button
+Seat 1: Chantapufy (575 in chips) 
+Seat 3: Mahu2021 (925 in chips) 
+Chantapufy: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts Ah]
+Chantapufy: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Chantapufy (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (30)
+
+
+
+PokerStars Hand #253387791596: Tournament #3823162393, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/13 18:23:55 CET [2024/11/13 12:23:55 ET]
+Table '3823162393 1' 3-max Seat #3 is the button
+Seat 1: Chantapufy (560 in chips) 
+Seat 3: Mahu2021 (940 in chips) 
+Mahu2021: posts small blind 15
+Chantapufy: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd 6d]
+Mahu2021: raises 60 to 90
+Chantapufy: raises 470 to 560 and is all-in
+Mahu2021: folds 
+Uncalled bet (470) returned to Chantapufy
+Chantapufy collected 180 from pot
+Chantapufy: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Seat 1: Chantapufy (big blind) collected (180)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #253387793810: Tournament #3823162393, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/13 18:24:04 CET [2024/11/13 12:24:04 ET]
+Table '3823162393 1' 3-max Seat #1 is the button
+Seat 1: Chantapufy (650 in chips) 
+Seat 3: Mahu2021 (850 in chips) 
+Chantapufy: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc 6h]
+Chantapufy: raises 30 to 60
+Mahu2021: calls 30
+*** FLOP *** [Qd 7d 6s]
+Mahu2021: checks 
+Chantapufy: bets 60
+Mahu2021: raises 90 to 150
+Chantapufy: folds 
+Uncalled bet (90) returned to Mahu2021
+Mahu2021 collected 240 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Qd 7d 6s]
+Seat 1: Chantapufy (button) (small blind) folded on the Flop
+Seat 3: Mahu2021 (big blind) collected (240)
+
+
+
+PokerStars Hand #253387798090: Tournament #3823162393, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/13 18:24:21 CET [2024/11/13 12:24:21 ET]
+Table '3823162393 1' 3-max Seat #3 is the button
+Seat 1: Chantapufy (530 in chips) 
+Seat 3: Mahu2021 (970 in chips) 
+Mahu2021: posts small blind 15
+Chantapufy: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d 9s]
+Mahu2021: calls 15
+Chantapufy: checks 
+*** FLOP *** [Tc 9d 6s]
+Chantapufy: checks 
+Mahu2021: bets 60
+Chantapufy: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Tc 9d 6s]
+Seat 1: Chantapufy (big blind) folded on the Flop
+Seat 3: Mahu2021 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #253387802934: Tournament #3823162393, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/13 18:24:40 CET [2024/11/13 12:24:40 ET]
+Table '3823162393 1' 3-max Seat #1 is the button
+Seat 1: Chantapufy (500 in chips) 
+Seat 3: Mahu2021 (1000 in chips) 
+Chantapufy: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kc Jc]
+Chantapufy: raises 30 to 60
+Mahu2021: raises 940 to 1000 and is all-in
+Chantapufy: folds 
+Uncalled bet (940) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: Chantapufy (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (120)
+
+
+
+PokerStars Hand #253387806185: Tournament #3823162393, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/13 18:24:52 CET [2024/11/13 12:24:52 ET]
+Table '3823162393 1' 3-max Seat #3 is the button
+Seat 1: Chantapufy (440 in chips) 
+Seat 3: Mahu2021 (1060 in chips) 
+Mahu2021: posts small blind 15
+Chantapufy: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h Qh]
+Mahu2021: calls 15
+Chantapufy: raises 410 to 440 and is all-in
+Mahu2021: folds 
+Uncalled bet (410) returned to Chantapufy
+Chantapufy collected 60 from pot
+Chantapufy: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Chantapufy (big blind) collected (60)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #253387808392: Tournament #3823162393, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/13 18:25:01 CET [2024/11/13 12:25:01 ET]
+Table '3823162393 1' 3-max Seat #1 is the button
+Seat 1: Chantapufy (470 in chips) 
+Seat 3: Mahu2021 (1030 in chips) 
+Chantapufy: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks 4h]
+Chantapufy: raises 30 to 60
+Mahu2021: calls 30
+*** FLOP *** [2d Ad Kd]
+Mahu2021: checks 
+Chantapufy: bets 30
+Mahu2021: calls 30
+*** TURN *** [2d Ad Kd] [Qc]
+Mahu2021: checks 
+Chantapufy: checks 
+*** RIVER *** [2d Ad Kd Qc] [Jc]
+Mahu2021: checks 
+Chantapufy: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [Ks 4h] (a pair of Kings)
+Chantapufy: mucks hand 
+Mahu2021 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [2d Ad Kd Qc Jc]
+Seat 1: Chantapufy (button) (small blind) mucked [7h Qh]
+Seat 3: Mahu2021 (big blind) showed [Ks 4h] and won (180) with a pair of Kings
+
+
+
+PokerStars Hand #253387813902: Tournament #3823162393, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/13 18:25:22 CET [2024/11/13 12:25:22 ET]
+Table '3823162393 1' 3-max Seat #3 is the button
+Seat 1: Chantapufy (380 in chips) 
+Seat 3: Mahu2021 (1120 in chips) 
+Mahu2021: posts small blind 15
+Chantapufy: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c 7s]
+Mahu2021: calls 15
+Chantapufy: raises 350 to 380 and is all-in
+Mahu2021: folds 
+Uncalled bet (350) returned to Chantapufy
+Chantapufy collected 60 from pot
+Chantapufy: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Chantapufy (big blind) collected (60)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #253387816594: Tournament #3823162393, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/13 18:25:33 CET [2024/11/13 12:25:33 ET]
+Table '3823162393 1' 3-max Seat #1 is the button
+Seat 1: Chantapufy (410 in chips) 
+Seat 3: Mahu2021 (1090 in chips) 
+Chantapufy: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh Jd]
+Chantapufy: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Chantapufy (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (40)
+
+
+
+PokerStars Hand #253387817708: Tournament #3823162393, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/13 18:25:37 CET [2024/11/13 12:25:37 ET]
+Table '3823162393 1' 3-max Seat #3 is the button
+Seat 1: Chantapufy (390 in chips) 
+Seat 3: Mahu2021 (1110 in chips) 
+Mahu2021: posts small blind 20
+Chantapufy: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd 9h]
+Mahu2021: calls 20
+Chantapufy: checks 
+*** FLOP *** [4s Qh 4d]
+Chantapufy: checks 
+Mahu2021: bets 40
+Chantapufy: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [4s Qh 4d]
+Seat 1: Chantapufy (big blind) folded on the Flop
+Seat 3: Mahu2021 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #253387821512: Tournament #3823162393, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/13 18:25:52 CET [2024/11/13 12:25:52 ET]
+Table '3823162393 1' 3-max Seat #1 is the button
+Seat 1: Chantapufy (350 in chips) 
+Seat 3: Mahu2021 (1150 in chips) 
+Chantapufy: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d 4d]
+Chantapufy: raises 310 to 350 and is all-in
+Mahu2021: folds 
+Uncalled bet (310) returned to Chantapufy
+Chantapufy collected 80 from pot
+Chantapufy: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Chantapufy (button) (small blind) collected (80)
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #253387823408: Tournament #3823162393, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/13 18:25:59 CET [2024/11/13 12:25:59 ET]
+Table '3823162393 1' 3-max Seat #3 is the button
+Seat 1: Chantapufy (390 in chips) 
+Seat 3: Mahu2021 (1110 in chips) 
+Mahu2021: posts small blind 20
+Chantapufy: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d 3h]
+Mahu2021: folds 
+Uncalled bet (20) returned to Chantapufy
+Chantapufy collected 40 from pot
+Chantapufy: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Chantapufy (big blind) collected (40)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #253387824603: Tournament #3823162393, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/13 18:26:04 CET [2024/11/13 12:26:04 ET]
+Table '3823162393 1' 3-max Seat #1 is the button
+Seat 1: Chantapufy (410 in chips) 
+Seat 3: Mahu2021 (1090 in chips) 
+Chantapufy: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d 5h]
+Chantapufy: raises 40 to 80
+Mahu2021: folds 
+Uncalled bet (40) returned to Chantapufy
+Chantapufy collected 80 from pot
+Chantapufy: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Chantapufy (button) (small blind) collected (80)
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #253387826600: Tournament #3823162393, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/13 18:26:12 CET [2024/11/13 12:26:12 ET]
+Table '3823162393 1' 3-max Seat #3 is the button
+Seat 1: Chantapufy (450 in chips) 
+Seat 3: Mahu2021 (1050 in chips) 
+Mahu2021: posts small blind 20
+Chantapufy: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s Kd]
+Mahu2021: calls 20
+Chantapufy: checks 
+*** FLOP *** [Qc 3s 2h]
+Chantapufy: checks 
+Mahu2021: bets 40
+Chantapufy: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Qc 3s 2h]
+Seat 1: Chantapufy (big blind) folded on the Flop
+Seat 3: Mahu2021 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #253387829588: Tournament #3823162393, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/13 18:26:24 CET [2024/11/13 12:26:24 ET]
+Table '3823162393 1' 3-max Seat #1 is the button
+Seat 1: Chantapufy (410 in chips) 
+Seat 3: Mahu2021 (1090 in chips) 
+Chantapufy: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8d Kh]
+Chantapufy: raises 370 to 410 and is all-in
+Mahu2021: calls 370
+*** FLOP *** [6s Ks 5d]
+*** TURN *** [6s Ks 5d] [Kc]
+*** RIVER *** [6s Ks 5d Kc] [3s]
+*** SHOW DOWN ***
+Mahu2021: shows [8d Kh] (three of a kind, Kings)
+Chantapufy: shows [Qh Ac] (a pair of Kings)
+Mahu2021 collected 820 from pot
+Chantapufy finished the tournament in 2nd place
+Mahu2021 wins the tournament and receives $6.00 - congratulations!
+*** SUMMARY ***
+Total pot 820 | Rake 0 
+Board [6s Ks 5d Kc 3s]
+Seat 1: Chantapufy (button) (small blind) showed [Qh Ac] and lost with a pair of Kings
+Seat 3: Mahu2021 (big blind) showed [8d Kh] and won (820) with three of a kind, Kings
+
+
+

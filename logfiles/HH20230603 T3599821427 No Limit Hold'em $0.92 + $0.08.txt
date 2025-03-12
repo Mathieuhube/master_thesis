@@ -1,0 +1,767 @@
+﻿PokerStars Hand #244071315255: Tournament #3599821427, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/06/03 21:04:34 CET [2023/06/03 15:04:34 ET]
+Table '3599821427 1' 3-max Seat #1 is the button
+Seat 1: chantal.hoy (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: MaskulinXXL (500 in chips) 
+Mahu2021: posts small blind 10
+MaskulinXXL: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c Ah]
+chantal.hoy: calls 20
+Mahu2021: calls 10
+MaskulinXXL has timed out
+MaskulinXXL: checks 
+*** FLOP *** [4d 6c Js]
+Mahu2021: checks 
+MaskulinXXL: checks 
+chantal.hoy: checks 
+*** TURN *** [4d 6c Js] [9s]
+Mahu2021: checks 
+MaskulinXXL: checks 
+chantal.hoy: checks 
+*** RIVER *** [4d 6c Js 9s] [5s]
+Mahu2021: bets 20
+MaskulinXXL: calls 20
+chantal.hoy: folds 
+*** SHOW DOWN ***
+Mahu2021: shows [5c Ah] (a pair of Fives)
+MaskulinXXL: shows [2h 9d] (a pair of Nines)
+MaskulinXXL collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [4d 6c Js 9s 5s]
+Seat 1: chantal.hoy (button) folded on the River
+Seat 2: Mahu2021 (small blind) showed [5c Ah] and lost with a pair of Fives
+Seat 3: MaskulinXXL (big blind) showed [2h 9d] and won (100) with a pair of Nines
+
+
+
+PokerStars Hand #244071333707: Tournament #3599821427, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/06/03 21:05:31 CET [2023/06/03 15:05:31 ET]
+Table '3599821427 1' 3-max Seat #2 is the button
+Seat 1: chantal.hoy (480 in chips) 
+Seat 2: Mahu2021 (460 in chips) 
+Seat 3: MaskulinXXL (560 in chips) 
+MaskulinXXL: posts small blind 10
+chantal.hoy: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h Tc]
+Mahu2021: folds 
+MaskulinXXL: folds 
+Uncalled bet (10) returned to chantal.hoy
+chantal.hoy collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: chantal.hoy (big blind) collected (20)
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: MaskulinXXL (small blind) folded before Flop
+
+
+
+PokerStars Hand #244071336781: Tournament #3599821427, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/06/03 21:05:40 CET [2023/06/03 15:05:40 ET]
+Table '3599821427 1' 3-max Seat #3 is the button
+Seat 1: chantal.hoy (490 in chips) 
+Seat 2: Mahu2021 (460 in chips) 
+Seat 3: MaskulinXXL (550 in chips) 
+chantal.hoy: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d Qs]
+MaskulinXXL: folds 
+chantal.hoy: calls 10
+Mahu2021: checks 
+*** FLOP *** [8d 6h 9h]
+chantal.hoy: checks 
+Mahu2021: checks 
+*** TURN *** [8d 6h 9h] [7c]
+chantal.hoy: checks 
+Mahu2021: checks 
+*** RIVER *** [8d 6h 9h 7c] [8h]
+chantal.hoy: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+chantal.hoy: shows [Jc Qc] (a pair of Eights)
+Mahu2021: mucks hand 
+chantal.hoy collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [8d 6h 9h 7c 8h]
+Seat 1: chantal.hoy (small blind) showed [Jc Qc] and won (40) with a pair of Eights
+Seat 2: Mahu2021 (big blind) mucked [2d Qs]
+Seat 3: MaskulinXXL (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #244071342118: Tournament #3599821427, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/06/03 21:05:56 CET [2023/06/03 15:05:56 ET]
+Table '3599821427 1' 3-max Seat #1 is the button
+Seat 1: chantal.hoy (510 in chips) 
+Seat 2: Mahu2021 (440 in chips) 
+Seat 3: MaskulinXXL (550 in chips) 
+Mahu2021: posts small blind 10
+MaskulinXXL: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc 5d]
+chantal.hoy: calls 20
+Mahu2021: folds 
+MaskulinXXL has timed out
+MaskulinXXL: checks 
+*** FLOP *** [4h Ac Kh]
+MaskulinXXL: checks 
+chantal.hoy: checks 
+*** TURN *** [4h Ac Kh] [Kd]
+MaskulinXXL: checks 
+chantal.hoy: checks 
+*** RIVER *** [4h Ac Kh Kd] [9h]
+MaskulinXXL: checks 
+chantal.hoy: checks 
+*** SHOW DOWN ***
+MaskulinXXL: shows [6c Ts] (a pair of Kings)
+chantal.hoy: shows [As Tc] (two pair, Aces and Kings)
+chantal.hoy collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [4h Ac Kh Kd 9h]
+Seat 1: chantal.hoy (button) showed [As Tc] and won (50) with two pair, Aces and Kings
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: MaskulinXXL (big blind) showed [6c Ts] and lost with a pair of Kings
+
+
+
+PokerStars Hand #244071355227: Tournament #3599821427, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/06/03 21:06:36 CET [2023/06/03 15:06:36 ET]
+Table '3599821427 1' 3-max Seat #2 is the button
+Seat 1: chantal.hoy (540 in chips) 
+Seat 2: Mahu2021 (430 in chips) 
+Seat 3: MaskulinXXL (530 in chips) 
+MaskulinXXL: posts small blind 10
+chantal.hoy: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js 8h]
+Mahu2021: folds 
+MaskulinXXL: folds 
+Uncalled bet (10) returned to chantal.hoy
+chantal.hoy collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: chantal.hoy (big blind) collected (20)
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: MaskulinXXL (small blind) folded before Flop
+
+
+
+PokerStars Hand #244071358507: Tournament #3599821427, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/06/03 21:06:46 CET [2023/06/03 15:06:46 ET]
+Table '3599821427 1' 3-max Seat #3 is the button
+Seat 1: chantal.hoy (550 in chips) 
+Seat 2: Mahu2021 (430 in chips) 
+Seat 3: MaskulinXXL (520 in chips) 
+chantal.hoy: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2s 8d]
+MaskulinXXL: folds 
+chantal.hoy: folds 
+Uncalled bet (10) returned to Mahu2021
+Mahu2021 collected 20 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: chantal.hoy (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (20)
+Seat 3: MaskulinXXL (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #244071360173: Tournament #3599821427, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/06/03 21:06:51 CET [2023/06/03 15:06:51 ET]
+Table '3599821427 1' 3-max Seat #1 is the button
+Seat 1: chantal.hoy (540 in chips) 
+Seat 2: Mahu2021 (440 in chips) 
+Seat 3: MaskulinXXL (520 in chips) 
+Mahu2021: posts small blind 10
+MaskulinXXL: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h 3d]
+chantal.hoy: folds 
+Mahu2021: raises 20 to 40
+MaskulinXXL: calls 20
+*** FLOP *** [Kc 6d 4h]
+Mahu2021: checks 
+MaskulinXXL: bets 62
+Mahu2021: folds 
+Uncalled bet (62) returned to MaskulinXXL
+MaskulinXXL collected 80 from pot
+MaskulinXXL: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Kc 6d 4h]
+Seat 1: chantal.hoy (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) folded on the Flop
+Seat 3: MaskulinXXL (big blind) collected (80)
+
+
+
+PokerStars Hand #244071367369: Tournament #3599821427, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/06/03 21:07:13 CET [2023/06/03 15:07:13 ET]
+Table '3599821427 1' 3-max Seat #2 is the button
+Seat 1: chantal.hoy (540 in chips) 
+Seat 2: Mahu2021 (400 in chips) 
+Seat 3: MaskulinXXL (560 in chips) 
+MaskulinXXL: posts small blind 10
+chantal.hoy: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2c 2h]
+Mahu2021: raises 20 to 40
+MaskulinXXL: calls 30
+chantal.hoy: folds 
+*** FLOP *** [Js As 2d]
+MaskulinXXL: checks 
+Mahu2021: checks 
+*** TURN *** [Js As 2d] [3d]
+MaskulinXXL: checks 
+Mahu2021: checks 
+*** RIVER *** [Js As 2d 3d] [9h]
+MaskulinXXL: checks 
+Mahu2021: bets 100
+MaskulinXXL: folds 
+Uncalled bet (100) returned to Mahu2021
+Mahu2021 collected 100 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [Js As 2d 3d 9h]
+Seat 1: chantal.hoy (big blind) folded before Flop
+Seat 2: Mahu2021 (button) collected (100)
+Seat 3: MaskulinXXL (small blind) folded on the River
+
+
+
+PokerStars Hand #244071377065: Tournament #3599821427, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/06/03 21:07:42 CET [2023/06/03 15:07:42 ET]
+Table '3599821427 1' 3-max Seat #3 is the button
+Seat 1: chantal.hoy (520 in chips) 
+Seat 2: Mahu2021 (460 in chips) 
+Seat 3: MaskulinXXL (520 in chips) 
+chantal.hoy: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c 3d]
+MaskulinXXL: raises 30 to 60
+chantal.hoy: folds 
+Mahu2021: calls 30
+*** FLOP *** [7s Jd Kc]
+Mahu2021: checks 
+MaskulinXXL: checks 
+*** TURN *** [7s Jd Kc] [2s]
+Mahu2021: checks 
+MaskulinXXL: checks 
+*** RIVER *** [7s Jd Kc 2s] [6c]
+Mahu2021: checks 
+MaskulinXXL has timed out
+MaskulinXXL: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [5c 3d] (high card King)
+MaskulinXXL: shows [9d As] (high card Ace)
+MaskulinXXL collected 135 from pot
+*** SUMMARY ***
+Total pot 135 | Rake 0 
+Board [7s Jd Kc 2s 6c]
+Seat 1: chantal.hoy (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) showed [5c 3d] and lost with high card King
+Seat 3: MaskulinXXL (button) showed [9d As] and won (135) with high card Ace
+
+
+
+PokerStars Hand #244071388184: Tournament #3599821427, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/06/03 21:08:15 CET [2023/06/03 15:08:15 ET]
+Table '3599821427 1' 3-max Seat #1 is the button
+Seat 1: chantal.hoy (505 in chips) 
+Seat 2: Mahu2021 (400 in chips) 
+Seat 3: MaskulinXXL (595 in chips) 
+Mahu2021: posts small blind 15
+MaskulinXXL: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c 8h]
+chantal.hoy: folds 
+Mahu2021: folds 
+Uncalled bet (15) returned to MaskulinXXL
+MaskulinXXL collected 30 from pot
+MaskulinXXL: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: chantal.hoy (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: MaskulinXXL (big blind) collected (30)
+
+
+
+PokerStars Hand #244071390166: Tournament #3599821427, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/06/03 21:08:21 CET [2023/06/03 15:08:21 ET]
+Table '3599821427 1' 3-max Seat #2 is the button
+Seat 1: chantal.hoy (505 in chips) 
+Seat 2: Mahu2021 (385 in chips) 
+Seat 3: MaskulinXXL (610 in chips) 
+MaskulinXXL: posts small blind 15
+chantal.hoy: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d 9s]
+Mahu2021: folds 
+MaskulinXXL: raises 60 to 90
+chantal.hoy: folds 
+Uncalled bet (60) returned to MaskulinXXL
+MaskulinXXL collected 60 from pot
+MaskulinXXL: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: chantal.hoy (big blind) folded before Flop
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: MaskulinXXL (small blind) collected (60)
+
+
+
+PokerStars Hand #244071393636: Tournament #3599821427, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/06/03 21:08:32 CET [2023/06/03 15:08:32 ET]
+Table '3599821427 1' 3-max Seat #3 is the button
+Seat 1: chantal.hoy (475 in chips) 
+Seat 2: Mahu2021 (385 in chips) 
+Seat 3: MaskulinXXL (640 in chips) 
+chantal.hoy: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d 2c]
+MaskulinXXL: folds 
+chantal.hoy: calls 15
+Mahu2021: checks 
+*** FLOP *** [3c 3s 7c]
+chantal.hoy: checks 
+Mahu2021: bets 60
+chantal.hoy: calls 60
+*** TURN *** [3c 3s 7c] [8c]
+chantal.hoy: checks 
+Mahu2021: checks 
+*** RIVER *** [3c 3s 7c 8c] [9d]
+chantal.hoy: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+chantal.hoy: shows [7s Qs] (two pair, Sevens and Threes)
+Mahu2021: shows [3d 2c] (three of a kind, Threes)
+Mahu2021 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [3c 3s 7c 8c 9d]
+Seat 1: chantal.hoy (small blind) showed [7s Qs] and lost with two pair, Sevens and Threes
+Seat 2: Mahu2021 (big blind) showed [3d 2c] and won (180) with three of a kind, Threes
+Seat 3: MaskulinXXL (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #244071403244: Tournament #3599821427, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/06/03 21:09:01 CET [2023/06/03 15:09:01 ET]
+Table '3599821427 1' 3-max Seat #1 is the button
+Seat 1: chantal.hoy (385 in chips) 
+Seat 2: Mahu2021 (475 in chips) 
+Seat 3: MaskulinXXL (640 in chips) 
+Mahu2021: posts small blind 15
+MaskulinXXL: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d Ts]
+chantal.hoy: folds 
+Mahu2021: folds 
+Uncalled bet (15) returned to MaskulinXXL
+MaskulinXXL collected 30 from pot
+MaskulinXXL: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: chantal.hoy (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: MaskulinXXL (big blind) collected (30)
+
+
+
+PokerStars Hand #244071405339: Tournament #3599821427, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/06/03 21:09:07 CET [2023/06/03 15:09:07 ET]
+Table '3599821427 1' 3-max Seat #2 is the button
+Seat 1: chantal.hoy (385 in chips) 
+Seat 2: Mahu2021 (460 in chips) 
+Seat 3: MaskulinXXL (655 in chips) 
+MaskulinXXL: posts small blind 15
+chantal.hoy: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h Js]
+Mahu2021: folds 
+MaskulinXXL: raises 30 to 60
+chantal.hoy: folds 
+Uncalled bet (30) returned to MaskulinXXL
+MaskulinXXL collected 60 from pot
+MaskulinXXL: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: chantal.hoy (big blind) folded before Flop
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: MaskulinXXL (small blind) collected (60)
+
+
+
+PokerStars Hand #244071409201: Tournament #3599821427, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/06/03 21:09:19 CET [2023/06/03 15:09:19 ET]
+Table '3599821427 1' 3-max Seat #3 is the button
+Seat 1: chantal.hoy (355 in chips) 
+Seat 2: Mahu2021 (460 in chips) 
+Seat 3: MaskulinXXL (685 in chips) 
+chantal.hoy: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc 4h]
+MaskulinXXL: raises 30 to 60
+chantal.hoy: folds 
+Mahu2021: folds 
+Uncalled bet (30) returned to MaskulinXXL
+MaskulinXXL collected 75 from pot
+MaskulinXXL: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: chantal.hoy (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: MaskulinXXL (button) collected (75)
+
+
+
+PokerStars Hand #244071413292: Tournament #3599821427, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/06/03 21:09:31 CET [2023/06/03 15:09:31 ET]
+Table '3599821427 1' 3-max Seat #1 is the button
+Seat 1: chantal.hoy (340 in chips) 
+Seat 2: Mahu2021 (430 in chips) 
+Seat 3: MaskulinXXL (730 in chips) 
+Mahu2021: posts small blind 15
+MaskulinXXL: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h 9h]
+chantal.hoy: folds 
+Mahu2021: raises 30 to 60
+MaskulinXXL: calls 30
+*** FLOP *** [8c Qs Qh]
+Mahu2021: checks 
+MaskulinXXL: checks 
+*** TURN *** [8c Qs Qh] [5c]
+Mahu2021: checks 
+MaskulinXXL: checks 
+*** RIVER *** [8c Qs Qh 5c] [6h]
+Mahu2021: bets 370 and is all-in
+MaskulinXXL: folds 
+Uncalled bet (370) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [8c Qs Qh 5c 6h]
+Seat 1: chantal.hoy (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) collected (120)
+Seat 3: MaskulinXXL (big blind) folded on the River
+
+
+
+PokerStars Hand #244071422386: Tournament #3599821427, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/06/03 21:09:59 CET [2023/06/03 15:09:59 ET]
+Table '3599821427 1' 3-max Seat #2 is the button
+Seat 1: chantal.hoy (340 in chips) 
+Seat 2: Mahu2021 (490 in chips) 
+Seat 3: MaskulinXXL (670 in chips) 
+MaskulinXXL: posts small blind 15
+chantal.hoy: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2c 9c]
+Mahu2021: folds 
+MaskulinXXL: calls 15
+chantal.hoy: checks 
+*** FLOP *** [Kc Qs 4h]
+MaskulinXXL: checks 
+chantal.hoy: checks 
+*** TURN *** [Kc Qs 4h] [3d]
+MaskulinXXL: checks 
+chantal.hoy: checks 
+*** RIVER *** [Kc Qs 4h 3d] [4c]
+MaskulinXXL: checks 
+chantal.hoy: checks 
+*** SHOW DOWN ***
+MaskulinXXL: shows [Qh 2h] (two pair, Queens and Fours)
+chantal.hoy: mucks hand 
+MaskulinXXL collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Kc Qs 4h 3d 4c]
+Seat 1: chantal.hoy (big blind) mucked [Ts 5s]
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: MaskulinXXL (small blind) showed [Qh 2h] and won (60) with two pair, Queens and Fours
+
+
+
+PokerStars Hand #244071430023: Tournament #3599821427, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/06/03 21:10:21 CET [2023/06/03 15:10:21 ET]
+Table '3599821427 1' 3-max Seat #3 is the button
+Seat 1: chantal.hoy (310 in chips) 
+Seat 2: Mahu2021 (490 in chips) 
+Seat 3: MaskulinXXL (700 in chips) 
+chantal.hoy: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qs As]
+MaskulinXXL: folds 
+chantal.hoy: calls 15
+Mahu2021: raises 60 to 90
+chantal.hoy: calls 60
+*** FLOP *** [Ts Jd Ac]
+chantal.hoy: checks 
+Mahu2021: bets 400 and is all-in
+chantal.hoy: folds 
+Uncalled bet (400) returned to Mahu2021
+Mahu2021 collected 180 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [Ts Jd Ac]
+Seat 1: chantal.hoy (small blind) folded on the Flop
+Seat 2: Mahu2021 (big blind) collected (180)
+Seat 3: MaskulinXXL (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #244071436174: Tournament #3599821427, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/06/03 21:10:40 CET [2023/06/03 15:10:40 ET]
+Table '3599821427 1' 3-max Seat #1 is the button
+Seat 1: chantal.hoy (220 in chips) 
+Seat 2: Mahu2021 (580 in chips) 
+Seat 3: MaskulinXXL (700 in chips) 
+Mahu2021: posts small blind 20
+MaskulinXXL: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s 3c]
+chantal.hoy: folds 
+Mahu2021: calls 20
+MaskulinXXL: checks 
+*** FLOP *** [6s 7c Kd]
+Mahu2021: checks 
+MaskulinXXL: checks 
+*** TURN *** [6s 7c Kd] [Jd]
+Mahu2021: checks 
+MaskulinXXL: checks 
+*** RIVER *** [6s 7c Kd Jd] [Jh]
+Mahu2021: checks 
+MaskulinXXL: bets 40
+Mahu2021: folds 
+Uncalled bet (40) returned to MaskulinXXL
+MaskulinXXL collected 80 from pot
+MaskulinXXL: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [6s 7c Kd Jd Jh]
+Seat 1: chantal.hoy (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) folded on the River
+Seat 3: MaskulinXXL (big blind) collected (80)
+
+
+
+PokerStars Hand #244071442806: Tournament #3599821427, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/06/03 21:11:00 CET [2023/06/03 15:11:00 ET]
+Table '3599821427 1' 3-max Seat #2 is the button
+Seat 1: chantal.hoy (220 in chips) 
+Seat 2: Mahu2021 (540 in chips) 
+Seat 3: MaskulinXXL (740 in chips) 
+MaskulinXXL: posts small blind 20
+chantal.hoy: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts 6d]
+Mahu2021: folds 
+MaskulinXXL: raises 40 to 80
+chantal.hoy: calls 40
+*** FLOP *** [4d 5c As]
+MaskulinXXL: bets 40
+chantal.hoy: folds 
+Uncalled bet (40) returned to MaskulinXXL
+MaskulinXXL collected 160 from pot
+MaskulinXXL: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [4d 5c As]
+Seat 1: chantal.hoy (big blind) folded on the Flop
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: MaskulinXXL (small blind) collected (160)
+
+
+
+PokerStars Hand #244071447911: Tournament #3599821427, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/06/03 21:11:15 CET [2023/06/03 15:11:15 ET]
+Table '3599821427 1' 3-max Seat #3 is the button
+Seat 1: chantal.hoy (140 in chips) 
+Seat 2: Mahu2021 (540 in chips) 
+Seat 3: MaskulinXXL (820 in chips) 
+chantal.hoy: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c 2h]
+MaskulinXXL: folds 
+chantal.hoy: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: chantal.hoy (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (40)
+Seat 3: MaskulinXXL (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #244071449814: Tournament #3599821427, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/06/03 21:11:21 CET [2023/06/03 15:11:21 ET]
+Table '3599821427 1' 3-max Seat #1 is the button
+Seat 1: chantal.hoy (120 in chips) 
+Seat 2: Mahu2021 (560 in chips) 
+Seat 3: MaskulinXXL (820 in chips) 
+Mahu2021: posts small blind 20
+MaskulinXXL: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s Kd]
+chantal.hoy: calls 40
+Mahu2021: calls 20
+MaskulinXXL: raises 80 to 120
+chantal.hoy: calls 80 and is all-in
+Mahu2021: calls 80
+*** FLOP *** [Ks 2c 8h]
+Mahu2021: bets 120
+MaskulinXXL: folds 
+Uncalled bet (120) returned to Mahu2021
+*** TURN *** [Ks 2c 8h] [Jd]
+*** RIVER *** [Ks 2c 8h Jd] [5h]
+*** SHOW DOWN ***
+Mahu2021: shows [9s Kd] (a pair of Kings)
+chantal.hoy: shows [5c Kh] (two pair, Kings and Fives)
+chantal.hoy collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [Ks 2c 8h Jd 5h]
+Seat 1: chantal.hoy (button) showed [5c Kh] and won (360) with two pair, Kings and Fives
+Seat 2: Mahu2021 (small blind) showed [9s Kd] and lost with a pair of Kings
+Seat 3: MaskulinXXL (big blind) folded on the Flop
+
+
+
+PokerStars Hand #244071460031: Tournament #3599821427, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/06/03 21:11:51 CET [2023/06/03 15:11:51 ET]
+Table '3599821427 1' 3-max Seat #2 is the button
+Seat 1: chantal.hoy (360 in chips) 
+Seat 2: Mahu2021 (440 in chips) 
+Seat 3: MaskulinXXL (700 in chips) 
+MaskulinXXL: posts small blind 20
+chantal.hoy: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd Js]
+Mahu2021: raises 40 to 80
+MaskulinXXL: folds 
+chantal.hoy: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 100 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: chantal.hoy (big blind) folded before Flop
+Seat 2: Mahu2021 (button) collected (100)
+Seat 3: MaskulinXXL (small blind) folded before Flop
+
+
+
+PokerStars Hand #244071463979: Tournament #3599821427, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/06/03 21:12:03 CET [2023/06/03 15:12:03 ET]
+Table '3599821427 1' 3-max Seat #3 is the button
+Seat 1: chantal.hoy (320 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: MaskulinXXL (680 in chips) 
+chantal.hoy: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h 8s]
+MaskulinXXL: folds 
+chantal.hoy: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: chantal.hoy (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (40)
+Seat 3: MaskulinXXL (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #244071465564: Tournament #3599821427, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/06/03 21:12:08 CET [2023/06/03 15:12:08 ET]
+Table '3599821427 1' 3-max Seat #1 is the button
+Seat 1: chantal.hoy (300 in chips) 
+Seat 2: Mahu2021 (520 in chips) 
+Seat 3: MaskulinXXL (680 in chips) 
+Mahu2021: posts small blind 20
+MaskulinXXL: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d 2h]
+chantal.hoy: calls 40
+Mahu2021: folds 
+MaskulinXXL: checks 
+*** FLOP *** [Td 4c Ac]
+MaskulinXXL: checks 
+chantal.hoy: checks 
+*** TURN *** [Td 4c Ac] [Qh]
+MaskulinXXL: checks 
+chantal.hoy: checks 
+*** RIVER *** [Td 4c Ac Qh] [6h]
+MaskulinXXL: checks 
+chantal.hoy: checks 
+*** SHOW DOWN ***
+MaskulinXXL: shows [7s 6d] (a pair of Sixes)
+chantal.hoy: mucks hand 
+MaskulinXXL collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [Td 4c Ac Qh 6h]
+Seat 1: chantal.hoy (button) mucked [2c Kc]
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: MaskulinXXL (big blind) showed [7s 6d] and won (100) with a pair of Sixes
+
+
+
+PokerStars Hand #244071471200: Tournament #3599821427, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/06/03 21:12:24 CET [2023/06/03 15:12:24 ET]
+Table '3599821427 1' 3-max Seat #2 is the button
+Seat 1: chantal.hoy (260 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: MaskulinXXL (740 in chips) 
+MaskulinXXL: posts small blind 20
+chantal.hoy: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh Tc]
+Mahu2021: raises 40 to 80
+MaskulinXXL: folds 
+chantal.hoy: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 100 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: chantal.hoy (big blind) folded before Flop
+Seat 2: Mahu2021 (button) collected (100)
+Seat 3: MaskulinXXL (small blind) folded before Flop
+
+
+
+PokerStars Hand #244071477418: Tournament #3599821427, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/06/03 21:12:43 CET [2023/06/03 15:12:43 ET]
+Table '3599821427 1' 3-max Seat #3 is the button
+Seat 1: chantal.hoy (220 in chips) 
+Seat 2: Mahu2021 (560 in chips) 
+Seat 3: MaskulinXXL (720 in chips) 
+chantal.hoy: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac 5d]
+MaskulinXXL: raises 40 to 80
+chantal.hoy: folds 
+Mahu2021: calls 40
+*** FLOP *** [5h 2c 8h]
+Mahu2021: checks 
+MaskulinXXL: checks 
+*** TURN *** [5h 2c 8h] [As]
+Mahu2021: checks 
+MaskulinXXL: checks 
+*** RIVER *** [5h 2c 8h As] [4h]
+Mahu2021: bets 180
+MaskulinXXL: raises 421 to 601
+Mahu2021: calls 300 and is all-in
+Uncalled bet (121) returned to MaskulinXXL
+*** SHOW DOWN ***
+MaskulinXXL: shows [Jh Th] (a flush, Jack high)
+Mahu2021: shows [Ac 5d] (two pair, Aces and Fives)
+MaskulinXXL collected 1140 from pot
+Mahu2021 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1140 | Rake 0 
+Board [5h 2c 8h As 4h]
+Seat 1: chantal.hoy (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) showed [Ac 5d] and lost with two pair, Aces and Fives
+Seat 3: MaskulinXXL (button) showed [Jh Th] and won (1140) with a flush, Jack high
+
+
+

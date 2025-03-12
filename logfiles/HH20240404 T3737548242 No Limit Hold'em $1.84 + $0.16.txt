@@ -1,0 +1,590 @@
+﻿PokerStars Hand #249791604747: Tournament #3737548242, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/04/04 19:17:18 CET [2024/04/04 13:17:18 ET]
+Table '3737548242 1' 3-max Seat #1 is the button
+Seat 1: cafeliquor (500 in chips) 
+Seat 2: lukeduu (500 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+lukeduu: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d Tc]
+cafeliquor: folds 
+lukeduu: raises 20 to 40
+Mahu2021: calls 20
+*** FLOP *** [3h 4d 6d]
+lukeduu: checks 
+Mahu2021: checks 
+*** TURN *** [3h 4d 6d] [Th]
+lukeduu: checks 
+Mahu2021: bets 80
+lukeduu: calls 80
+*** RIVER *** [3h 4d 6d Th] [2s]
+lukeduu: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+lukeduu: shows [6s Ah] (a pair of Sixes)
+Mahu2021: shows [7d Tc] (a pair of Tens)
+Mahu2021 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [3h 4d 6d Th 2s]
+Seat 1: cafeliquor (button) folded before Flop (didn't bet)
+Seat 2: lukeduu (small blind) showed [6s Ah] and lost with a pair of Sixes
+Seat 3: Mahu2021 (big blind) showed [7d Tc] and won (240) with a pair of Tens
+
+
+
+PokerStars Hand #249791613034: Tournament #3737548242, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/04/04 19:17:47 CET [2024/04/04 13:17:47 ET]
+Table '3737548242 1' 3-max Seat #2 is the button
+Seat 1: cafeliquor (500 in chips) 
+Seat 2: lukeduu (380 in chips) 
+Seat 3: Mahu2021 (620 in chips) 
+Mahu2021: posts small blind 10
+cafeliquor: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh 6d]
+lukeduu: raises 40 to 60
+Mahu2021: folds 
+cafeliquor: folds 
+Uncalled bet (40) returned to lukeduu
+lukeduu collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: cafeliquor (big blind) folded before Flop
+Seat 2: lukeduu (button) collected (50)
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #249791615021: Tournament #3737548242, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/04/04 19:17:54 CET [2024/04/04 13:17:54 ET]
+Table '3737548242 1' 3-max Seat #3 is the button
+Seat 1: cafeliquor (480 in chips) 
+Seat 2: lukeduu (410 in chips) 
+Seat 3: Mahu2021 (610 in chips) 
+cafeliquor: posts small blind 10
+lukeduu: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8d 9d]
+Mahu2021: calls 20
+cafeliquor: calls 10
+lukeduu: checks 
+*** FLOP *** [4s Tc 3c]
+cafeliquor: checks 
+lukeduu: checks 
+Mahu2021: checks 
+*** TURN *** [4s Tc 3c] [3h]
+cafeliquor: checks 
+lukeduu: checks 
+Mahu2021: checks 
+*** RIVER *** [4s Tc 3c 3h] [Jc]
+cafeliquor: checks 
+lukeduu: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+cafeliquor: shows [8c 7s] (a pair of Threes)
+lukeduu: shows [5c Kd] (a pair of Threes - King kicker)
+Mahu2021: mucks hand 
+lukeduu collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [4s Tc 3c 3h Jc]
+Seat 1: cafeliquor (small blind) showed [8c 7s] and lost with a pair of Threes
+Seat 2: lukeduu (big blind) showed [5c Kd] and won (60) with a pair of Threes
+Seat 3: Mahu2021 (button) mucked [8d 9d]
+
+
+
+PokerStars Hand #249791621593: Tournament #3737548242, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/04/04 19:18:17 CET [2024/04/04 13:18:17 ET]
+Table '3737548242 1' 3-max Seat #1 is the button
+Seat 1: cafeliquor (460 in chips) 
+Seat 2: lukeduu (450 in chips) 
+Seat 3: Mahu2021 (590 in chips) 
+lukeduu: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd Th]
+cafeliquor: raises 20 to 40
+lukeduu: calls 30
+Mahu2021: calls 20
+*** FLOP *** [6c Qc 3c]
+lukeduu: checks 
+Mahu2021: checks 
+cafeliquor: bets 40
+lukeduu: calls 40
+Mahu2021: folds 
+*** TURN *** [6c Qc 3c] [9s]
+lukeduu: bets 20
+cafeliquor: calls 20
+*** RIVER *** [6c Qc 3c 9s] [9h]
+lukeduu: checks 
+cafeliquor: checks 
+*** SHOW DOWN ***
+lukeduu: shows [9d Qd] (a full house, Nines full of Queens)
+cafeliquor: mucks hand 
+lukeduu collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [6c Qc 3c 9s 9h]
+Seat 1: cafeliquor (button) mucked [8c Kh]
+Seat 2: lukeduu (small blind) showed [9d Qd] and won (240) with a full house, Nines full of Queens
+Seat 3: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #249791628712: Tournament #3737548242, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/04/04 19:18:42 CET [2024/04/04 13:18:42 ET]
+Table '3737548242 1' 3-max Seat #2 is the button
+Seat 1: cafeliquor (360 in chips) 
+Seat 2: lukeduu (590 in chips) 
+Seat 3: Mahu2021 (550 in chips) 
+Mahu2021: posts small blind 10
+cafeliquor: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c 8h]
+lukeduu: calls 20
+Mahu2021: folds 
+cafeliquor: checks 
+*** FLOP *** [3d 8c Jd]
+cafeliquor: checks 
+lukeduu: checks 
+*** TURN *** [3d 8c Jd] [4d]
+cafeliquor: bets 20
+lukeduu: calls 20
+*** RIVER *** [3d 8c Jd 4d] [7h]
+cafeliquor: bets 40
+lukeduu: calls 40
+*** SHOW DOWN ***
+cafeliquor: shows [5d 3c] (a pair of Threes)
+lukeduu: shows [Kc Jh] (a pair of Jacks)
+lukeduu collected 170 from pot
+*** SUMMARY ***
+Total pot 170 | Rake 0 
+Board [3d 8c Jd 4d 7h]
+Seat 1: cafeliquor (big blind) showed [5d 3c] and lost with a pair of Threes
+Seat 2: lukeduu (button) showed [Kc Jh] and won (170) with a pair of Jacks
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #249791634330: Tournament #3737548242, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/04/04 19:19:01 CET [2024/04/04 13:19:01 ET]
+Table '3737548242 1' 3-max Seat #3 is the button
+Seat 1: cafeliquor (280 in chips) 
+Seat 2: lukeduu (680 in chips) 
+Seat 3: Mahu2021 (540 in chips) 
+cafeliquor: posts small blind 10
+lukeduu: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh 4d]
+Mahu2021: calls 20
+cafeliquor: calls 10
+lukeduu: checks 
+*** FLOP *** [3h 8h 5s]
+cafeliquor: checks 
+lukeduu: checks 
+Mahu2021: checks 
+*** TURN *** [3h 8h 5s] [8c]
+cafeliquor: checks 
+lukeduu: checks 
+Mahu2021: bets 40
+cafeliquor: folds 
+lukeduu: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [3h 8h 5s 8c]
+Seat 1: cafeliquor (small blind) folded on the Turn
+Seat 2: lukeduu (big blind) folded on the Turn
+Seat 3: Mahu2021 (button) collected (60)
+
+
+
+PokerStars Hand #249791641985: Tournament #3737548242, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/04/04 19:19:28 CET [2024/04/04 13:19:28 ET]
+Table '3737548242 1' 3-max Seat #1 is the button
+Seat 1: cafeliquor (260 in chips) 
+Seat 2: lukeduu (660 in chips) 
+Seat 3: Mahu2021 (580 in chips) 
+lukeduu: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h 2h]
+cafeliquor: folds 
+lukeduu: raises 20 to 40
+Mahu2021: folds 
+Uncalled bet (20) returned to lukeduu
+lukeduu collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: cafeliquor (button) folded before Flop (didn't bet)
+Seat 2: lukeduu (small blind) collected (40)
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #249791643901: Tournament #3737548242, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/04/04 19:19:34 CET [2024/04/04 13:19:34 ET]
+Table '3737548242 1' 3-max Seat #2 is the button
+Seat 1: cafeliquor (260 in chips) 
+Seat 2: lukeduu (680 in chips) 
+Seat 3: Mahu2021 (560 in chips) 
+Mahu2021: posts small blind 10
+cafeliquor: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s 3c]
+lukeduu: calls 20
+Mahu2021: folds 
+cafeliquor: checks 
+*** FLOP *** [8s 8h Ac]
+cafeliquor: checks 
+lukeduu: checks 
+*** TURN *** [8s 8h Ac] [6h]
+cafeliquor: bets 20
+lukeduu: calls 20
+*** RIVER *** [8s 8h Ac 6h] [6d]
+cafeliquor: bets 20
+lukeduu: raises 40 to 60
+cafeliquor: calls 40
+*** SHOW DOWN ***
+lukeduu: shows [6s 8d] (a full house, Eights full of Sixes)
+cafeliquor: mucks hand 
+lukeduu collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | Rake 0 
+Board [8s 8h Ac 6h 6d]
+Seat 1: cafeliquor (big blind) mucked [2s Qc]
+Seat 2: lukeduu (button) showed [6s 8d] and won (210) with a full house, Eights full of Sixes
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #249791650886: Tournament #3737548242, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/04/04 19:19:59 CET [2024/04/04 13:19:59 ET]
+Table '3737548242 1' 3-max Seat #3 is the button
+Seat 1: cafeliquor (160 in chips) 
+Seat 2: lukeduu (790 in chips) 
+Seat 3: Mahu2021 (550 in chips) 
+cafeliquor: posts small blind 10
+lukeduu: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6h Qs]
+Mahu2021: folds 
+cafeliquor: raises 20 to 40
+lukeduu: calls 20
+*** FLOP *** [2c 8c 4c]
+cafeliquor: checks 
+lukeduu: bets 40
+cafeliquor: calls 40
+*** TURN *** [2c 8c 4c] [9s]
+cafeliquor: checks 
+lukeduu: checks 
+*** RIVER *** [2c 8c 4c 9s] [4h]
+cafeliquor: bets 80 and is all-in
+lukeduu: folds 
+Uncalled bet (80) returned to cafeliquor
+cafeliquor collected 160 from pot
+cafeliquor: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [2c 8c 4c 9s 4h]
+Seat 1: cafeliquor (small blind) collected (160)
+Seat 2: lukeduu (big blind) folded on the River
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #249791658379: Tournament #3737548242, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/04/04 19:20:24 CET [2024/04/04 13:20:24 ET]
+Table '3737548242 1' 3-max Seat #1 is the button
+Seat 1: cafeliquor (240 in chips) 
+Seat 2: lukeduu (710 in chips) 
+Seat 3: Mahu2021 (550 in chips) 
+lukeduu: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4d 5d]
+cafeliquor: folds 
+lukeduu: calls 15
+Mahu2021: checks 
+*** FLOP *** [4c 7s Qs]
+lukeduu: checks 
+Mahu2021: bets 60
+lukeduu: calls 60
+*** TURN *** [4c 7s Qs] [Jc]
+lukeduu: checks 
+Mahu2021: checks 
+*** RIVER *** [4c 7s Qs Jc] [6s]
+lukeduu: checks 
+Mahu2021: bets 180
+lukeduu: folds 
+Uncalled bet (180) returned to Mahu2021
+Mahu2021 collected 180 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [4c 7s Qs Jc 6s]
+Seat 1: cafeliquor (button) folded before Flop (didn't bet)
+Seat 2: lukeduu (small blind) folded on the River
+Seat 3: Mahu2021 (big blind) collected (180)
+
+
+
+PokerStars Hand #249791669794: Tournament #3737548242, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/04/04 19:21:03 CET [2024/04/04 13:21:03 ET]
+Table '3737548242 1' 3-max Seat #2 is the button
+Seat 1: cafeliquor (240 in chips) 
+Seat 2: lukeduu (620 in chips) 
+Seat 3: Mahu2021 (640 in chips) 
+Mahu2021: posts small blind 15
+cafeliquor: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc 3d]
+lukeduu: calls 30
+Mahu2021: folds 
+cafeliquor: checks 
+*** FLOP *** [Ad 7s 6c]
+cafeliquor: checks 
+lukeduu: checks 
+*** TURN *** [Ad 7s 6c] [Js]
+cafeliquor: checks 
+lukeduu: bets 30
+cafeliquor: calls 30
+*** RIVER *** [Ad 7s 6c Js] [Qs]
+cafeliquor: checks 
+lukeduu: bets 60
+cafeliquor: folds 
+Uncalled bet (60) returned to lukeduu
+lukeduu collected 135 from pot
+*** SUMMARY ***
+Total pot 135 | Rake 0 
+Board [Ad 7s 6c Js Qs]
+Seat 1: cafeliquor (big blind) folded on the River
+Seat 2: lukeduu (button) collected (135)
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #249791676590: Tournament #3737548242, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/04/04 19:21:26 CET [2024/04/04 13:21:26 ET]
+Table '3737548242 1' 3-max Seat #3 is the button
+Seat 1: cafeliquor (180 in chips) 
+Seat 2: lukeduu (695 in chips) 
+Seat 3: Mahu2021 (625 in chips) 
+cafeliquor: posts small blind 15
+lukeduu: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6h Kc]
+Mahu2021: folds 
+cafeliquor: calls 15
+lukeduu: checks 
+*** FLOP *** [7s 2d Th]
+cafeliquor: checks 
+lukeduu: checks 
+*** TURN *** [7s 2d Th] [3s]
+cafeliquor: checks 
+lukeduu: checks 
+*** RIVER *** [7s 2d Th 3s] [Js]
+cafeliquor: checks 
+lukeduu: checks 
+*** SHOW DOWN ***
+cafeliquor: shows [Qh 4h] (high card Queen)
+lukeduu: shows [5s Qc] (high card Queen - Jack+Ten+Seven+Five kicker)
+lukeduu collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [7s 2d Th 3s Js]
+Seat 1: cafeliquor (small blind) showed [Qh 4h] and lost with high card Queen
+Seat 2: lukeduu (big blind) showed [5s Qc] and won (60) with high card Queen
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #249791681801: Tournament #3737548242, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/04/04 19:21:44 CET [2024/04/04 13:21:44 ET]
+Table '3737548242 1' 3-max Seat #1 is the button
+Seat 1: cafeliquor (150 in chips) 
+Seat 2: lukeduu (725 in chips) 
+Seat 3: Mahu2021 (625 in chips) 
+lukeduu: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d 3h]
+cafeliquor: folds 
+lukeduu: raises 30 to 60
+Mahu2021: folds 
+Uncalled bet (30) returned to lukeduu
+lukeduu collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: cafeliquor (button) folded before Flop (didn't bet)
+Seat 2: lukeduu (small blind) collected (60)
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #249791683942: Tournament #3737548242, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/04/04 19:21:51 CET [2024/04/04 13:21:51 ET]
+Table '3737548242 1' 3-max Seat #2 is the button
+Seat 1: cafeliquor (150 in chips) 
+Seat 2: lukeduu (755 in chips) 
+Seat 3: Mahu2021 (595 in chips) 
+Mahu2021: posts small blind 15
+cafeliquor: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh Js]
+lukeduu: folds 
+Mahu2021: calls 15
+cafeliquor: checks 
+*** FLOP *** [Qc 4s Tc]
+Mahu2021: bets 60
+cafeliquor: calls 60
+*** TURN *** [Qc 4s Tc] [9h]
+Mahu2021: bets 60
+cafeliquor: calls 60 and is all-in
+*** RIVER *** [Qc 4s Tc 9h] [Kc]
+*** SHOW DOWN ***
+Mahu2021: shows [Kh Js] (a straight, Nine to King)
+cafeliquor: shows [6c 4d] (a pair of Fours)
+Mahu2021 collected 300 from pot
+cafeliquor finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [Qc 4s Tc 9h Kc]
+Seat 1: cafeliquor (big blind) showed [6c 4d] and lost with a pair of Fours
+Seat 2: lukeduu (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) showed [Kh Js] and won (300) with a straight, Nine to King
+
+
+
+PokerStars Hand #249791690605: Tournament #3737548242, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/04/04 19:22:14 CET [2024/04/04 13:22:14 ET]
+Table '3737548242 1' 3-max Seat #3 is the button
+Seat 2: lukeduu (755 in chips) 
+Seat 3: Mahu2021 (745 in chips) 
+Mahu2021: posts small blind 15
+lukeduu: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd Tc]
+Mahu2021: raises 30 to 60
+lukeduu: raises 30 to 90
+Mahu2021: calls 30
+*** FLOP *** [Th Td Jc]
+lukeduu: checks 
+Mahu2021: checks 
+*** TURN *** [Th Td Jc] [9h]
+lukeduu: bets 60
+Mahu2021: calls 60
+*** RIVER *** [Th Td Jc 9h] [5s]
+lukeduu: checks 
+Mahu2021: bets 180
+lukeduu: folds 
+Uncalled bet (180) returned to Mahu2021
+Mahu2021 collected 300 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [Th Td Jc 9h 5s]
+Seat 2: lukeduu (big blind) folded on the River
+Seat 3: Mahu2021 (button) (small blind) collected (300)
+
+
+
+PokerStars Hand #249791697792: Tournament #3737548242, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/04/04 19:22:38 CET [2024/04/04 13:22:38 ET]
+Table '3737548242 1' 3-max Seat #2 is the button
+Seat 2: lukeduu (605 in chips) 
+Seat 3: Mahu2021 (895 in chips) 
+lukeduu: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c 3d]
+lukeduu: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 2: lukeduu (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (30)
+
+
+
+PokerStars Hand #249791698974: Tournament #3737548242, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/04/04 19:22:42 CET [2024/04/04 13:22:42 ET]
+Table '3737548242 1' 3-max Seat #3 is the button
+Seat 2: lukeduu (590 in chips) 
+Seat 3: Mahu2021 (910 in chips) 
+Mahu2021: posts small blind 15
+lukeduu: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh 4h]
+Mahu2021: calls 15
+lukeduu: checks 
+*** FLOP *** [Jd 8s Tc]
+lukeduu: checks 
+Mahu2021: bets 60
+lukeduu: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Jd 8s Tc]
+Seat 2: lukeduu (big blind) folded on the Flop
+Seat 3: Mahu2021 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #249791704484: Tournament #3737548242, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/04/04 19:23:01 CET [2024/04/04 13:23:01 ET]
+Table '3737548242 1' 3-max Seat #2 is the button
+Seat 2: lukeduu (560 in chips) 
+Seat 3: Mahu2021 (940 in chips) 
+lukeduu: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s 4h]
+lukeduu: calls 15
+Mahu2021: checks 
+*** FLOP *** [Tc 7h 2h]
+Mahu2021: checks 
+lukeduu: checks 
+*** TURN *** [Tc 7h 2h] [3d]
+Mahu2021: checks 
+lukeduu: checks 
+*** RIVER *** [Tc 7h 2h 3d] [5s]
+Mahu2021: checks 
+lukeduu: bets 30
+Mahu2021: folds 
+Uncalled bet (30) returned to lukeduu
+lukeduu collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Tc 7h 2h 3d 5s]
+Seat 2: lukeduu (button) (small blind) collected (60)
+Seat 3: Mahu2021 (big blind) folded on the River
+
+
+
+PokerStars Hand #249791710133: Tournament #3737548242, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/04/04 19:23:20 CET [2024/04/04 13:23:20 ET]
+Table '3737548242 1' 3-max Seat #3 is the button
+Seat 2: lukeduu (590 in chips) 
+Seat 3: Mahu2021 (910 in chips) 
+Mahu2021: posts small blind 15
+lukeduu: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h 3h]
+Mahu2021: calls 15
+lukeduu: raises 30 to 60
+Mahu2021: calls 30
+*** FLOP *** [4d 8d Ad]
+lukeduu: checks 
+Mahu2021: bets 120
+lukeduu: calls 120
+*** TURN *** [4d 8d Ad] [Qh]
+lukeduu: checks 
+Mahu2021: bets 730 and is all-in
+lukeduu: calls 410 and is all-in
+Uncalled bet (320) returned to Mahu2021
+*** RIVER *** [4d 8d Ad Qh] [7h]
+*** SHOW DOWN ***
+lukeduu: shows [Js Kd] (high card Ace)
+Mahu2021: shows [8h 3h] (a pair of Eights)
+Mahu2021 collected 1180 from pot
+lukeduu finished the tournament in 2nd place
+Mahu2021 wins the tournament and receives $6.00 - congratulations!
+*** SUMMARY ***
+Total pot 1180 | Rake 0 
+Board [4d 8d Ad Qh 7h]
+Seat 2: lukeduu (big blind) showed [Js Kd] and lost with high card Ace
+Seat 3: Mahu2021 (button) (small blind) showed [8h 3h] and won (1180) with a pair of Eights
+
+
+

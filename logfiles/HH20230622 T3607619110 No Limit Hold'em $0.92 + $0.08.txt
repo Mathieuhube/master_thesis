@@ -1,0 +1,40 @@
+﻿PokerStars Hand #244408220493: Tournament #3607619110, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/06/22 19:17:22 CET [2023/06/22 13:17:22 ET]
+Table '3607619110 1' 3-max Seat #1 is the button
+Seat 1: malacka6666 (500 in chips) 
+Seat 2: kemenes79 (500 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+kemenes79: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c Jc]
+malacka6666: raises 20 to 40
+kemenes79: calls 30
+Mahu2021: calls 20
+*** FLOP *** [8c 4c Qs]
+kemenes79: checks 
+Mahu2021: checks 
+malacka6666: bets 75
+kemenes79: calls 75
+Mahu2021: calls 75
+*** TURN *** [8c 4c Qs] [9h]
+kemenes79: checks 
+Mahu2021: checks 
+malacka6666: bets 173
+kemenes79: folds 
+Mahu2021: raises 212 to 385 and is all-in
+malacka6666: calls 212 and is all-in
+*** RIVER *** [8c 4c Qs 9h] [Ah]
+*** SHOW DOWN ***
+Mahu2021: shows [9c Jc] (a pair of Nines)
+malacka6666: shows [Qd Jd] (a pair of Queens)
+malacka6666 collected 1115 from pot
+Mahu2021 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1115 | Rake 0 
+Board [8c 4c Qs 9h Ah]
+Seat 1: malacka6666 (button) showed [Qd Jd] and won (1115) with a pair of Queens
+Seat 2: kemenes79 (small blind) folded on the Turn
+Seat 3: Mahu2021 (big blind) showed [9c Jc] and lost with a pair of Nines
+
+
+

@@ -1,0 +1,105 @@
+﻿PokerStars Hand #247599460992: Tournament #3684989489, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/11 12:48:24 CET [2023/12/11 6:48:24 ET]
+Table '3684989489 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: Coeurby1922 (500 in chips) 
+Seat 3: Ferroetigni (500 in chips) 
+Coeurby1922: posts small blind 10
+Ferroetigni: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s 7c]
+Mahu2021: raises 20 to 40
+Coeurby1922: folds 
+Ferroetigni: calls 20
+*** FLOP *** [Ad 6d Jc]
+Ferroetigni: checks 
+Mahu2021: bets 40
+Ferroetigni: raises 60 to 100
+Mahu2021: folds 
+Uncalled bet (60) returned to Ferroetigni
+Ferroetigni collected 170 from pot
+Ferroetigni: doesn't show hand 
+*** SUMMARY ***
+Total pot 170 | Rake 0 
+Board [Ad 6d Jc]
+Seat 1: Mahu2021 (button) folded on the Flop
+Seat 2: Coeurby1922 (small blind) folded before Flop
+Seat 3: Ferroetigni (big blind) collected (170)
+
+
+
+PokerStars Hand #247599463927: Tournament #3684989489, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/11 12:48:42 CET [2023/12/11 6:48:42 ET]
+Table '3684989489 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (420 in chips) 
+Seat 2: Coeurby1922 (490 in chips) 
+Seat 3: Ferroetigni (590 in chips) 
+Ferroetigni: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s Tc]
+Coeurby1922: raises 40 to 60
+Ferroetigni: folds 
+Mahu2021: folds 
+Uncalled bet (40) returned to Coeurby1922
+Coeurby1922 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: Coeurby1922 (button) collected (50)
+Seat 3: Ferroetigni (small blind) folded before Flop
+
+
+
+PokerStars Hand #247599465540: Tournament #3684989489, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/11 12:48:53 CET [2023/12/11 6:48:53 ET]
+Table '3684989489 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (400 in chips) 
+Seat 2: Coeurby1922 (520 in chips) 
+Seat 3: Ferroetigni (580 in chips) 
+Mahu2021: posts small blind 10
+Coeurby1922: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c 2c]
+Ferroetigni: raises 20 to 40
+Mahu2021: folds 
+Coeurby1922: folds 
+Uncalled bet (20) returned to Ferroetigni
+Ferroetigni collected 50 from pot
+Ferroetigni: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: Coeurby1922 (big blind) folded before Flop
+Seat 3: Ferroetigni (button) collected (50)
+
+
+
+PokerStars Hand #247599466496: Tournament #3684989489, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/11 12:48:59 CET [2023/12/11 6:48:59 ET]
+Table '3684989489 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (390 in chips) 
+Seat 2: Coeurby1922 (500 in chips) 
+Seat 3: Ferroetigni (610 in chips) 
+Coeurby1922: posts small blind 10
+Ferroetigni: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad Td]
+Mahu2021: raises 40 to 60
+Coeurby1922: folds 
+Ferroetigni: raises 550 to 610 and is all-in
+Mahu2021: calls 330 and is all-in
+Uncalled bet (220) returned to Ferroetigni
+*** FLOP *** [Tc 5c Kd]
+*** TURN *** [Tc 5c Kd] [4h]
+*** RIVER *** [Tc 5c Kd 4h] [Qc]
+*** SHOW DOWN ***
+Ferroetigni: shows [Ah Kc] (a pair of Kings)
+Mahu2021: shows [Ad Td] (a pair of Tens)
+Ferroetigni collected 790 from pot
+Mahu2021 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 790 | Rake 0 
+Board [Tc 5c Kd 4h Qc]
+Seat 1: Mahu2021 (button) showed [Ad Td] and lost with a pair of Tens
+Seat 2: Coeurby1922 (small blind) folded before Flop
+Seat 3: Ferroetigni (big blind) showed [Ah Kc] and won (790) with a pair of Kings
+
+
+

@@ -1,0 +1,1194 @@
+﻿PokerStars Hand #246976196391: Tournament #3669525511, $9.30+$0.70 USD Hold'em No Limit - Level I (10/20) - 2023/11/07 12:58:41 CET [2023/11/07 6:58:41 ET]
+Table '3669525511 1' 3-max Seat #1 is the button
+Seat 1: Arxangel111 (500 in chips) 
+Seat 2: Vandal272727 (500 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+Vandal272727: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8d 3h]
+Arxangel111: folds 
+Vandal272727: raises 23 to 43
+Mahu2021: folds 
+Uncalled bet (23) returned to Vandal272727
+Vandal272727 collected 40 from pot
+Vandal272727: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Arxangel111 (button) folded before Flop (didn't bet)
+Seat 2: Vandal272727 (small blind) collected (40)
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #246976197317: Tournament #3669525511, $9.30+$0.70 USD Hold'em No Limit - Level I (10/20) - 2023/11/07 12:58:48 CET [2023/11/07 6:58:48 ET]
+Table '3669525511 1' 3-max Seat #2 is the button
+Seat 1: Arxangel111 (500 in chips) 
+Seat 2: Vandal272727 (520 in chips) 
+Seat 3: Mahu2021 (480 in chips) 
+Mahu2021: posts small blind 10
+Arxangel111: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c 3c]
+Vandal272727: raises 23 to 43
+Mahu2021: folds 
+Arxangel111: calls 23
+*** FLOP *** [Ks Qc 8s]
+Arxangel111: checks 
+Vandal272727: bets 27
+Arxangel111: raises 103 to 130
+Vandal272727: calls 103
+*** TURN *** [Ks Qc 8s] [Js]
+Arxangel111: bets 327 and is all-in
+Vandal272727: calls 327
+*** RIVER *** [Ks Qc 8s Js] [7h]
+*** SHOW DOWN ***
+Arxangel111: shows [Tc Kd] (a pair of Kings)
+Vandal272727: shows [As 8c] (a pair of Eights)
+Arxangel111 collected 1010 from pot
+*** SUMMARY ***
+Total pot 1010 | Rake 0 
+Board [Ks Qc 8s Js 7h]
+Seat 1: Arxangel111 (big blind) showed [Tc Kd] and won (1010) with a pair of Kings
+Seat 2: Vandal272727 (button) showed [As 8c] and lost with a pair of Eights
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #246976202656: Tournament #3669525511, $9.30+$0.70 USD Hold'em No Limit - Level I (10/20) - 2023/11/07 12:59:27 CET [2023/11/07 6:59:27 ET]
+Table '3669525511 1' 3-max Seat #3 is the button
+Seat 1: Arxangel111 (1010 in chips) 
+Seat 2: Vandal272727 (20 in chips) 
+Seat 3: Mahu2021 (470 in chips) 
+Arxangel111: posts small blind 10
+Vandal272727: posts big blind 20 and is all-in
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s Ts]
+Mahu2021: calls 20
+Arxangel111: calls 10
+*** FLOP *** [Ks Ah Kd]
+Arxangel111: checks 
+Mahu2021: checks 
+*** TURN *** [Ks Ah Kd] [Qs]
+Arxangel111: checks 
+Mahu2021: checks 
+*** RIVER *** [Ks Ah Kd Qs] [Ad]
+Arxangel111: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+Arxangel111: shows [8c Tc] (two pair, Aces and Kings)
+Vandal272727: shows [7d 7s] (two pair, Aces and Kings)
+Mahu2021: shows [9s Ts] (two pair, Aces and Kings)
+Arxangel111 collected 20 from pot
+Vandal272727 collected 20 from pot
+Mahu2021 collected 20 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Ks Ah Kd Qs Ad]
+Seat 1: Arxangel111 (small blind) showed [8c Tc] and won (20) with two pair, Aces and Kings
+Seat 2: Vandal272727 (big blind) showed [7d 7s] and won (20) with two pair, Aces and Kings
+Seat 3: Mahu2021 (button) showed [9s Ts] and won (20) with two pair, Aces and Kings
+
+
+
+PokerStars Hand #246976206480: Tournament #3669525511, $9.30+$0.70 USD Hold'em No Limit - Level I (10/20) - 2023/11/07 12:59:56 CET [2023/11/07 6:59:56 ET]
+Table '3669525511 1' 3-max Seat #1 is the button
+Seat 1: Arxangel111 (1010 in chips) 
+Seat 2: Vandal272727 (20 in chips) 
+Seat 3: Mahu2021 (470 in chips) 
+Vandal272727: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c 6h]
+Arxangel111: raises 20 to 40
+Vandal272727: calls 10 and is all-in
+Mahu2021: calls 20
+*** FLOP *** [Ad 8d 2c]
+Mahu2021: checks 
+Arxangel111: checks 
+*** TURN *** [Ad 8d 2c] [Kc]
+Mahu2021: checks 
+Arxangel111: checks 
+*** RIVER *** [Ad 8d 2c Kc] [Ks]
+Mahu2021: checks 
+Arxangel111: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [7c 6h] (a pair of Kings)
+Arxangel111: shows [Qs 9s] (a pair of Kings - Ace+Queen kicker)
+Arxangel111 collected 40 from side pot
+Vandal272727: shows [Ah Ts] (two pair, Aces and Kings)
+Vandal272727 collected 60 from main pot
+*** SUMMARY ***
+Total pot 100 Main pot 60. Side pot 40. | Rake 0 
+Board [Ad 8d 2c Kc Ks]
+Seat 1: Arxangel111 (button) showed [Qs 9s] and won (40) with a pair of Kings
+Seat 2: Vandal272727 (small blind) showed [Ah Ts] and won (60) with two pair, Aces and Kings
+Seat 3: Mahu2021 (big blind) showed [7c 6h] and lost with a pair of Kings
+
+
+
+PokerStars Hand #246976211178: Tournament #3669525511, $9.30+$0.70 USD Hold'em No Limit - Level I (10/20) - 2023/11/07 13:00:29 CET [2023/11/07 7:00:29 ET]
+Table '3669525511 1' 3-max Seat #2 is the button
+Seat 1: Arxangel111 (1010 in chips) 
+Seat 2: Vandal272727 (60 in chips) 
+Seat 3: Mahu2021 (430 in chips) 
+Mahu2021: posts small blind 10
+Arxangel111: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s Td]
+Vandal272727: folds 
+Mahu2021: folds 
+Uncalled bet (10) returned to Arxangel111
+Arxangel111 collected 20 from pot
+Arxangel111: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Arxangel111 (big blind) collected (20)
+Seat 2: Vandal272727 (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #246976212020: Tournament #3669525511, $9.30+$0.70 USD Hold'em No Limit - Level I (10/20) - 2023/11/07 13:00:34 CET [2023/11/07 7:00:34 ET]
+Table '3669525511 1' 3-max Seat #3 is the button
+Seat 1: Arxangel111 (1020 in chips) 
+Seat 2: Vandal272727 (60 in chips) 
+Seat 3: Mahu2021 (420 in chips) 
+Arxangel111: posts small blind 10
+Vandal272727: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h Qd]
+Mahu2021: folds 
+Arxangel111: raises 90 to 110
+Vandal272727: calls 40 and is all-in
+Uncalled bet (50) returned to Arxangel111
+*** FLOP *** [Jc Th 5c]
+*** TURN *** [Jc Th 5c] [6s]
+*** RIVER *** [Jc Th 5c 6s] [7s]
+*** SHOW DOWN ***
+Arxangel111: shows [8s Qh] (high card Queen)
+Vandal272727: shows [Ac Jd] (a pair of Jacks)
+Vandal272727 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Jc Th 5c 6s 7s]
+Seat 1: Arxangel111 (small blind) showed [8s Qh] and lost with high card Queen
+Seat 2: Vandal272727 (big blind) showed [Ac Jd] and won (120) with a pair of Jacks
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #246976214607: Tournament #3669525511, $9.30+$0.70 USD Hold'em No Limit - Level I (10/20) - 2023/11/07 13:00:52 CET [2023/11/07 7:00:52 ET]
+Table '3669525511 1' 3-max Seat #1 is the button
+Seat 1: Arxangel111 (960 in chips) 
+Seat 2: Vandal272727 (120 in chips) 
+Seat 3: Mahu2021 (420 in chips) 
+Vandal272727: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As 9h]
+Arxangel111: folds 
+Vandal272727: raises 100 to 120 and is all-in
+Mahu2021: calls 100
+*** FLOP *** [6h 4h 6d]
+*** TURN *** [6h 4h 6d] [Jd]
+*** RIVER *** [6h 4h 6d Jd] [Tc]
+*** SHOW DOWN ***
+Vandal272727: shows [Ah Th] (two pair, Tens and Sixes)
+Mahu2021: shows [As 9h] (a pair of Sixes)
+Vandal272727 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [6h 4h 6d Jd Tc]
+Seat 1: Arxangel111 (button) folded before Flop (didn't bet)
+Seat 2: Vandal272727 (small blind) showed [Ah Th] and won (240) with two pair, Tens and Sixes
+Seat 3: Mahu2021 (big blind) showed [As 9h] and lost with a pair of Sixes
+
+
+
+PokerStars Hand #246976216995: Tournament #3669525511, $9.30+$0.70 USD Hold'em No Limit - Level I (10/20) - 2023/11/07 13:01:06 CET [2023/11/07 7:01:06 ET]
+Table '3669525511 1' 3-max Seat #2 is the button
+Seat 1: Arxangel111 (960 in chips) 
+Seat 2: Vandal272727 (240 in chips) 
+Seat 3: Mahu2021 (300 in chips) 
+Mahu2021: posts small blind 10
+Arxangel111: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kc 9h]
+Vandal272727: raises 23 to 43
+Mahu2021: raises 257 to 300 and is all-in
+Arxangel111: folds 
+Vandal272727: calls 197 and is all-in
+Uncalled bet (60) returned to Mahu2021
+*** FLOP *** [Ks 9s 6d]
+*** TURN *** [Ks 9s 6d] [Js]
+*** RIVER *** [Ks 9s 6d Js] [4h]
+*** SHOW DOWN ***
+Mahu2021: shows [Kc 9h] (two pair, Kings and Nines)
+Vandal272727: shows [Qc Ad] (high card Ace)
+Mahu2021 collected 500 from pot
+Vandal272727 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 500 | Rake 0 
+Board [Ks 9s 6d Js 4h]
+Seat 1: Arxangel111 (big blind) folded before Flop
+Seat 2: Vandal272727 (button) showed [Qc Ad] and lost with high card Ace
+Seat 3: Mahu2021 (small blind) showed [Kc 9h] and won (500) with two pair, Kings and Nines
+
+
+
+PokerStars Hand #246976222075: Tournament #3669525511, $9.30+$0.70 USD Hold'em No Limit - Level I (10/20) - 2023/11/07 13:01:38 CET [2023/11/07 7:01:38 ET]
+Table '3669525511 1' 3-max Seat #1 is the button
+Seat 1: Arxangel111 (940 in chips) 
+Seat 3: Mahu2021 (560 in chips) 
+Arxangel111: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8c 7d]
+Arxangel111: calls 10
+Mahu2021: checks 
+*** FLOP *** [Jc 4s Ad]
+Mahu2021: checks 
+Arxangel111: bets 20
+Mahu2021: folds 
+Uncalled bet (20) returned to Arxangel111
+Arxangel111 collected 40 from pot
+Arxangel111: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Jc 4s Ad]
+Seat 1: Arxangel111 (button) (small blind) collected (40)
+Seat 3: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #246976224804: Tournament #3669525511, $9.30+$0.70 USD Hold'em No Limit - Level II (15/30) - 2023/11/07 13:01:54 CET [2023/11/07 7:01:54 ET]
+Table '3669525511 1' 3-max Seat #3 is the button
+Seat 1: Arxangel111 (960 in chips) 
+Seat 3: Mahu2021 (540 in chips) 
+Mahu2021: posts small blind 15
+Arxangel111: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d Th]
+Mahu2021: folds 
+Uncalled bet (15) returned to Arxangel111
+Arxangel111 collected 30 from pot
+Arxangel111: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Arxangel111 (big blind) collected (30)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #246976225476: Tournament #3669525511, $9.30+$0.70 USD Hold'em No Limit - Level II (15/30) - 2023/11/07 13:01:58 CET [2023/11/07 7:01:58 ET]
+Table '3669525511 1' 3-max Seat #1 is the button
+Seat 1: Arxangel111 (975 in chips) 
+Seat 3: Mahu2021 (525 in chips) 
+Arxangel111: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h Ah]
+Arxangel111: calls 15
+Mahu2021: raises 60 to 90
+Arxangel111: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Arxangel111 (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (60)
+
+
+
+PokerStars Hand #246976227152: Tournament #3669525511, $9.30+$0.70 USD Hold'em No Limit - Level II (15/30) - 2023/11/07 13:02:09 CET [2023/11/07 7:02:09 ET]
+Table '3669525511 1' 3-max Seat #3 is the button
+Seat 1: Arxangel111 (945 in chips) 
+Seat 3: Mahu2021 (555 in chips) 
+Mahu2021: posts small blind 15
+Arxangel111: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4c Kh]
+Mahu2021: raises 60 to 90
+Arxangel111: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Arxangel111 (big blind) folded before Flop
+Seat 3: Mahu2021 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #246976229009: Tournament #3669525511, $9.30+$0.70 USD Hold'em No Limit - Level II (15/30) - 2023/11/07 13:02:20 CET [2023/11/07 7:02:20 ET]
+Table '3669525511 1' 3-max Seat #1 is the button
+Seat 1: Arxangel111 (915 in chips) 
+Seat 3: Mahu2021 (585 in chips) 
+Arxangel111: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As 6c]
+Arxangel111: calls 15
+Mahu2021: checks 
+*** FLOP *** [5s 7c 6s]
+Mahu2021: checks 
+Arxangel111: checks 
+*** TURN *** [5s 7c 6s] [6d]
+Mahu2021: bets 60
+Arxangel111: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [5s 7c 6s 6d]
+Seat 1: Arxangel111 (button) (small blind) folded on the Turn
+Seat 3: Mahu2021 (big blind) collected (60)
+
+
+
+PokerStars Hand #246976235398: Tournament #3669525511, $9.30+$0.70 USD Hold'em No Limit - Level II (15/30) - 2023/11/07 13:02:58 CET [2023/11/07 7:02:58 ET]
+Table '3669525511 1' 3-max Seat #3 is the button
+Seat 1: Arxangel111 (885 in chips) 
+Seat 3: Mahu2021 (615 in chips) 
+Mahu2021: posts small blind 15
+Arxangel111: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h 3c]
+Mahu2021: folds 
+Uncalled bet (15) returned to Arxangel111
+Arxangel111 collected 30 from pot
+Arxangel111: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Arxangel111 (big blind) collected (30)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #246976236146: Tournament #3669525511, $9.30+$0.70 USD Hold'em No Limit - Level II (15/30) - 2023/11/07 13:03:02 CET [2023/11/07 7:03:02 ET]
+Table '3669525511 1' 3-max Seat #1 is the button
+Seat 1: Arxangel111 (900 in chips) 
+Seat 3: Mahu2021 (600 in chips) 
+Arxangel111: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh As]
+Arxangel111: raises 30 to 60
+Mahu2021: calls 30
+*** FLOP *** [7s 4d 9c]
+Mahu2021: checks 
+Arxangel111: checks 
+*** TURN *** [7s 4d 9c] [Jd]
+Mahu2021: bets 60
+Arxangel111: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [7s 4d 9c Jd]
+Seat 1: Arxangel111 (button) (small blind) folded on the Turn
+Seat 3: Mahu2021 (big blind) collected (120)
+
+
+
+PokerStars Hand #246976240422: Tournament #3669525511, $9.30+$0.70 USD Hold'em No Limit - Level II (15/30) - 2023/11/07 13:03:28 CET [2023/11/07 7:03:28 ET]
+Table '3669525511 1' 3-max Seat #3 is the button
+Seat 1: Arxangel111 (840 in chips) 
+Seat 3: Mahu2021 (660 in chips) 
+Mahu2021: posts small blind 15
+Arxangel111: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6h 8s]
+Mahu2021: folds 
+Uncalled bet (15) returned to Arxangel111
+Arxangel111 collected 30 from pot
+Arxangel111: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Arxangel111 (big blind) collected (30)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #246976241152: Tournament #3669525511, $9.30+$0.70 USD Hold'em No Limit - Level II (15/30) - 2023/11/07 13:03:32 CET [2023/11/07 7:03:32 ET]
+Table '3669525511 1' 3-max Seat #1 is the button
+Seat 1: Arxangel111 (855 in chips) 
+Seat 3: Mahu2021 (645 in chips) 
+Arxangel111: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qd 2s]
+Arxangel111: raises 30 to 60
+Mahu2021: folds 
+Uncalled bet (30) returned to Arxangel111
+Arxangel111 collected 60 from pot
+Arxangel111: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Arxangel111 (button) (small blind) collected (60)
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #246976242019: Tournament #3669525511, $9.30+$0.70 USD Hold'em No Limit - Level II (15/30) - 2023/11/07 13:03:38 CET [2023/11/07 7:03:38 ET]
+Table '3669525511 1' 3-max Seat #3 is the button
+Seat 1: Arxangel111 (885 in chips) 
+Seat 3: Mahu2021 (615 in chips) 
+Mahu2021: posts small blind 15
+Arxangel111: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h Jc]
+Mahu2021: folds 
+Uncalled bet (15) returned to Arxangel111
+Arxangel111 collected 30 from pot
+Arxangel111: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Arxangel111 (big blind) collected (30)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #246976242736: Tournament #3669525511, $9.30+$0.70 USD Hold'em No Limit - Level II (15/30) - 2023/11/07 13:03:42 CET [2023/11/07 7:03:42 ET]
+Table '3669525511 1' 3-max Seat #1 is the button
+Seat 1: Arxangel111 (900 in chips) 
+Seat 3: Mahu2021 (600 in chips) 
+Arxangel111: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js 2c]
+Arxangel111: raises 30 to 60
+Mahu2021: folds 
+Uncalled bet (30) returned to Arxangel111
+Arxangel111 collected 60 from pot
+Arxangel111: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Arxangel111 (button) (small blind) collected (60)
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #246976243911: Tournament #3669525511, $9.30+$0.70 USD Hold'em No Limit - Level II (15/30) - 2023/11/07 13:03:49 CET [2023/11/07 7:03:49 ET]
+Table '3669525511 1' 3-max Seat #3 is the button
+Seat 1: Arxangel111 (930 in chips) 
+Seat 3: Mahu2021 (570 in chips) 
+Mahu2021: posts small blind 15
+Arxangel111: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks Kd]
+Mahu2021: raises 60 to 90
+Arxangel111: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Arxangel111 (big blind) folded before Flop
+Seat 3: Mahu2021 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #246976245414: Tournament #3669525511, $9.30+$0.70 USD Hold'em No Limit - Level II (15/30) - 2023/11/07 13:03:58 CET [2023/11/07 7:03:58 ET]
+Table '3669525511 1' 3-max Seat #1 is the button
+Seat 1: Arxangel111 (900 in chips) 
+Seat 3: Mahu2021 (600 in chips) 
+Arxangel111: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2c 2d]
+Arxangel111: raises 870 to 900 and is all-in
+Mahu2021: folds 
+Uncalled bet (870) returned to Arxangel111
+Arxangel111 collected 60 from pot
+Arxangel111: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Arxangel111 (button) (small blind) collected (60)
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #246976247501: Tournament #3669525511, $9.30+$0.70 USD Hold'em No Limit - Level II (15/30) - 2023/11/07 13:04:10 CET [2023/11/07 7:04:10 ET]
+Table '3669525511 1' 3-max Seat #3 is the button
+Seat 1: Arxangel111 (930 in chips) 
+Seat 3: Mahu2021 (570 in chips) 
+Mahu2021: posts small blind 15
+Arxangel111: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc 2d]
+Mahu2021: folds 
+Uncalled bet (15) returned to Arxangel111
+Arxangel111 collected 30 from pot
+Arxangel111: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Arxangel111 (big blind) collected (30)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #246976248233: Tournament #3669525511, $9.30+$0.70 USD Hold'em No Limit - Level II (15/30) - 2023/11/07 13:04:14 CET [2023/11/07 7:04:14 ET]
+Table '3669525511 1' 3-max Seat #1 is the button
+Seat 1: Arxangel111 (945 in chips) 
+Seat 3: Mahu2021 (555 in chips) 
+Arxangel111: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js 9d]
+Arxangel111: raises 30 to 60
+Mahu2021: calls 30
+*** FLOP *** [Ts Ac 8s]
+Mahu2021: checks 
+Arxangel111: checks 
+*** TURN *** [Ts Ac 8s] [6h]
+Mahu2021: bets 60
+Arxangel111: calls 60
+*** RIVER *** [Ts Ac 8s 6h] [8d]
+Mahu2021: checks 
+Arxangel111: bets 180
+Mahu2021: folds 
+Uncalled bet (180) returned to Arxangel111
+Arxangel111 collected 240 from pot
+Arxangel111: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Ts Ac 8s 6h 8d]
+Seat 1: Arxangel111 (button) (small blind) collected (240)
+Seat 3: Mahu2021 (big blind) folded on the River
+
+
+
+PokerStars Hand #246976252337: Tournament #3669525511, $9.30+$0.70 USD Hold'em No Limit - Level II (15/30) - 2023/11/07 13:04:39 CET [2023/11/07 7:04:39 ET]
+Table '3669525511 1' 3-max Seat #3 is the button
+Seat 1: Arxangel111 (1065 in chips) 
+Seat 3: Mahu2021 (435 in chips) 
+Mahu2021: posts small blind 15
+Arxangel111: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2c Js]
+Mahu2021: folds 
+Uncalled bet (15) returned to Arxangel111
+Arxangel111 collected 30 from pot
+Arxangel111: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Arxangel111 (big blind) collected (30)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #246976253575: Tournament #3669525511, $9.30+$0.70 USD Hold'em No Limit - Level III (20/40) - 2023/11/07 13:04:46 CET [2023/11/07 7:04:46 ET]
+Table '3669525511 1' 3-max Seat #1 is the button
+Seat 1: Arxangel111 (1080 in chips) 
+Seat 3: Mahu2021 (420 in chips) 
+Arxangel111: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah 3h]
+Arxangel111: calls 20
+Mahu2021: raises 80 to 120
+Arxangel111: folds 
+Uncalled bet (80) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Arxangel111 (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (80)
+
+
+
+PokerStars Hand #246976254959: Tournament #3669525511, $9.30+$0.70 USD Hold'em No Limit - Level III (20/40) - 2023/11/07 13:04:54 CET [2023/11/07 7:04:54 ET]
+Table '3669525511 1' 3-max Seat #3 is the button
+Seat 1: Arxangel111 (1040 in chips) 
+Seat 3: Mahu2021 (460 in chips) 
+Mahu2021: posts small blind 20
+Arxangel111: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh Ts]
+Mahu2021: raises 80 to 120
+Arxangel111: folds 
+Uncalled bet (80) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Arxangel111 (big blind) folded before Flop
+Seat 3: Mahu2021 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #246976258113: Tournament #3669525511, $9.30+$0.70 USD Hold'em No Limit - Level III (20/40) - 2023/11/07 13:05:13 CET [2023/11/07 7:05:13 ET]
+Table '3669525511 1' 3-max Seat #1 is the button
+Seat 1: Arxangel111 (1000 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+Arxangel111: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h 5c]
+Arxangel111: calls 20
+Mahu2021: checks 
+*** FLOP *** [Ah 5d Tc]
+Mahu2021: checks 
+Arxangel111: bets 40
+Mahu2021: calls 40
+*** TURN *** [Ah 5d Tc] [2c]
+Mahu2021: checks 
+Arxangel111: checks 
+*** RIVER *** [Ah 5d Tc 2c] [Kd]
+Mahu2021: bets 80
+Arxangel111: calls 80
+*** SHOW DOWN ***
+Mahu2021: shows [2h 5c] (two pair, Fives and Deuces)
+Arxangel111: mucks hand 
+Mahu2021 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [Ah 5d Tc 2c Kd]
+Seat 1: Arxangel111 (button) (small blind) mucked [Qh Ks]
+Seat 3: Mahu2021 (big blind) showed [2h 5c] and won (320) with two pair, Fives and Deuces
+
+
+
+PokerStars Hand #246976262538: Tournament #3669525511, $9.30+$0.70 USD Hold'em No Limit - Level III (20/40) - 2023/11/07 13:05:39 CET [2023/11/07 7:05:39 ET]
+Table '3669525511 1' 3-max Seat #3 is the button
+Seat 1: Arxangel111 (840 in chips) 
+Seat 3: Mahu2021 (660 in chips) 
+Mahu2021: posts small blind 20
+Arxangel111: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c 8c]
+Mahu2021: raises 40 to 80
+Arxangel111: calls 40
+*** FLOP *** [Ah 9c 4d]
+Arxangel111: checks 
+Mahu2021: bets 80
+Arxangel111: folds 
+Uncalled bet (80) returned to Mahu2021
+Mahu2021 collected 160 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Ah 9c 4d]
+Seat 1: Arxangel111 (big blind) folded on the Flop
+Seat 3: Mahu2021 (button) (small blind) collected (160)
+
+
+
+PokerStars Hand #246976265572: Tournament #3669525511, $9.30+$0.70 USD Hold'em No Limit - Level III (20/40) - 2023/11/07 13:05:57 CET [2023/11/07 7:05:57 ET]
+Table '3669525511 1' 3-max Seat #1 is the button
+Seat 1: Arxangel111 (760 in chips) 
+Seat 3: Mahu2021 (740 in chips) 
+Arxangel111: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc 5s]
+Arxangel111: calls 20
+Mahu2021: checks 
+*** FLOP *** [6h 6s 3d]
+Mahu2021: checks 
+Arxangel111: bets 40
+Mahu2021: folds 
+Uncalled bet (40) returned to Arxangel111
+Arxangel111 collected 80 from pot
+Arxangel111: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [6h 6s 3d]
+Seat 1: Arxangel111 (button) (small blind) collected (80)
+Seat 3: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #246976268424: Tournament #3669525511, $9.30+$0.70 USD Hold'em No Limit - Level III (20/40) - 2023/11/07 13:06:15 CET [2023/11/07 7:06:15 ET]
+Table '3669525511 1' 3-max Seat #3 is the button
+Seat 1: Arxangel111 (800 in chips) 
+Seat 3: Mahu2021 (700 in chips) 
+Mahu2021: posts small blind 20
+Arxangel111: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d 3d]
+Mahu2021: calls 20
+Arxangel111: raises 760 to 800 and is all-in
+Mahu2021: folds 
+Uncalled bet (760) returned to Arxangel111
+Arxangel111 collected 80 from pot
+Arxangel111: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Arxangel111 (big blind) collected (80)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #246976271172: Tournament #3669525511, $9.30+$0.70 USD Hold'em No Limit - Level III (20/40) - 2023/11/07 13:06:31 CET [2023/11/07 7:06:31 ET]
+Table '3669525511 1' 3-max Seat #1 is the button
+Seat 1: Arxangel111 (840 in chips) 
+Seat 3: Mahu2021 (660 in chips) 
+Arxangel111: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd 6d]
+Arxangel111: raises 40 to 80
+Mahu2021: calls 40
+*** FLOP *** [5s 6c Ac]
+Mahu2021: checks 
+Arxangel111: bets 80
+Mahu2021: calls 80
+*** TURN *** [5s 6c Ac] [5d]
+Mahu2021: checks 
+Arxangel111: checks 
+*** RIVER *** [5s 6c Ac 5d] [9c]
+Mahu2021: checks 
+Arxangel111: bets 160
+Mahu2021: folds 
+Uncalled bet (160) returned to Arxangel111
+Arxangel111 collected 320 from pot
+Arxangel111: doesn't show hand 
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [5s 6c Ac 5d 9c]
+Seat 1: Arxangel111 (button) (small blind) collected (320)
+Seat 3: Mahu2021 (big blind) folded on the River
+
+
+
+PokerStars Hand #246976276551: Tournament #3669525511, $9.30+$0.70 USD Hold'em No Limit - Level III (20/40) - 2023/11/07 13:07:03 CET [2023/11/07 7:07:03 ET]
+Table '3669525511 1' 3-max Seat #3 is the button
+Seat 1: Arxangel111 (1000 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+Mahu2021: posts small blind 20
+Arxangel111: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d 7s]
+Mahu2021: folds 
+Uncalled bet (20) returned to Arxangel111
+Arxangel111 collected 40 from pot
+Arxangel111: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Arxangel111 (big blind) collected (40)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #246976277290: Tournament #3669525511, $9.30+$0.70 USD Hold'em No Limit - Level III (20/40) - 2023/11/07 13:07:07 CET [2023/11/07 7:07:07 ET]
+Table '3669525511 1' 3-max Seat #1 is the button
+Seat 1: Arxangel111 (1020 in chips) 
+Seat 3: Mahu2021 (480 in chips) 
+Arxangel111: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d Th]
+Arxangel111: calls 20
+Mahu2021: checks 
+*** FLOP *** [2d Ah 7h]
+Mahu2021: checks 
+Arxangel111: bets 40
+Mahu2021: folds 
+Uncalled bet (40) returned to Arxangel111
+Arxangel111 collected 80 from pot
+Arxangel111: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [2d Ah 7h]
+Seat 1: Arxangel111 (button) (small blind) collected (80)
+Seat 3: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #246976280775: Tournament #3669525511, $9.30+$0.70 USD Hold'em No Limit - Level III (20/40) - 2023/11/07 13:07:28 CET [2023/11/07 7:07:28 ET]
+Table '3669525511 1' 3-max Seat #3 is the button
+Seat 1: Arxangel111 (1060 in chips) 
+Seat 3: Mahu2021 (440 in chips) 
+Mahu2021: posts small blind 20
+Arxangel111: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Td 7s]
+Mahu2021: folds 
+Uncalled bet (20) returned to Arxangel111
+Arxangel111 collected 40 from pot
+Arxangel111: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Arxangel111 (big blind) collected (40)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #246976281525: Tournament #3669525511, $9.30+$0.70 USD Hold'em No Limit - Level III (20/40) - 2023/11/07 13:07:33 CET [2023/11/07 7:07:33 ET]
+Table '3669525511 1' 3-max Seat #1 is the button
+Seat 1: Arxangel111 (1080 in chips) 
+Seat 3: Mahu2021 (420 in chips) 
+Arxangel111: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d Ad]
+Arxangel111: calls 20
+Mahu2021: raises 80 to 120
+Arxangel111: folds 
+Uncalled bet (80) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Arxangel111 (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (80)
+
+
+
+PokerStars Hand #246976283703: Tournament #3669525511, $9.30+$0.70 USD Hold'em No Limit - Level IV (30/60) - 2023/11/07 13:07:46 CET [2023/11/07 7:07:46 ET]
+Table '3669525511 1' 3-max Seat #3 is the button
+Seat 1: Arxangel111 (1040 in chips) 
+Seat 3: Mahu2021 (460 in chips) 
+Mahu2021: posts small blind 30
+Arxangel111: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c 5h]
+Mahu2021: calls 30
+Arxangel111: checks 
+*** FLOP *** [2h 2d 6s]
+Arxangel111: checks 
+Mahu2021: bets 400 and is all-in
+Arxangel111: folds 
+Uncalled bet (400) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [2h 2d 6s]
+Seat 1: Arxangel111 (big blind) folded on the Flop
+Seat 3: Mahu2021 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #246976287357: Tournament #3669525511, $9.30+$0.70 USD Hold'em No Limit - Level IV (30/60) - 2023/11/07 13:08:08 CET [2023/11/07 7:08:08 ET]
+Table '3669525511 1' 3-max Seat #1 is the button
+Seat 1: Arxangel111 (980 in chips) 
+Seat 3: Mahu2021 (520 in chips) 
+Arxangel111: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh Qs]
+Arxangel111: raises 920 to 980 and is all-in
+Mahu2021: calls 460 and is all-in
+Uncalled bet (460) returned to Arxangel111
+*** FLOP *** [6h 3s 5h]
+*** TURN *** [6h 3s 5h] [6c]
+*** RIVER *** [6h 3s 5h 6c] [5d]
+*** SHOW DOWN ***
+Mahu2021: shows [Qh Qs] (two pair, Queens and Sixes)
+Arxangel111: shows [Js Kc] (two pair, Sixes and Fives)
+Mahu2021 collected 1040 from pot
+*** SUMMARY ***
+Total pot 1040 | Rake 0 
+Board [6h 3s 5h 6c 5d]
+Seat 1: Arxangel111 (button) (small blind) showed [Js Kc] and lost with two pair, Sixes and Fives
+Seat 3: Mahu2021 (big blind) showed [Qh Qs] and won (1040) with two pair, Queens and Sixes
+
+
+
+PokerStars Hand #246976290555: Tournament #3669525511, $9.30+$0.70 USD Hold'em No Limit - Level IV (30/60) - 2023/11/07 13:08:27 CET [2023/11/07 7:08:27 ET]
+Table '3669525511 1' 3-max Seat #3 is the button
+Seat 1: Arxangel111 (460 in chips) 
+Seat 3: Mahu2021 (1040 in chips) 
+Mahu2021: posts small blind 30
+Arxangel111: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qd Jd]
+Mahu2021: raises 60 to 120
+Arxangel111: raises 340 to 460 and is all-in
+Mahu2021: calls 340
+*** FLOP *** [9c 6d 2d]
+*** TURN *** [9c 6d 2d] [8c]
+*** RIVER *** [9c 6d 2d 8c] [2s]
+*** SHOW DOWN ***
+Arxangel111: shows [Ac 6c] (two pair, Sixes and Deuces)
+Mahu2021: shows [Qd Jd] (a pair of Deuces)
+Arxangel111 collected 920 from pot
+*** SUMMARY ***
+Total pot 920 | Rake 0 
+Board [9c 6d 2d 8c 2s]
+Seat 1: Arxangel111 (big blind) showed [Ac 6c] and won (920) with two pair, Sixes and Deuces
+Seat 3: Mahu2021 (button) (small blind) showed [Qd Jd] and lost with a pair of Deuces
+
+
+
+PokerStars Hand #246976293638: Tournament #3669525511, $9.30+$0.70 USD Hold'em No Limit - Level IV (30/60) - 2023/11/07 13:08:45 CET [2023/11/07 7:08:45 ET]
+Table '3669525511 1' 3-max Seat #1 is the button
+Seat 1: Arxangel111 (920 in chips) 
+Seat 3: Mahu2021 (580 in chips) 
+Arxangel111: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd 6d]
+Arxangel111: calls 30
+Mahu2021: checks 
+*** FLOP *** [Td 3d Th]
+Mahu2021: bets 60
+Arxangel111: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Td 3d Th]
+Seat 1: Arxangel111 (button) (small blind) folded on the Flop
+Seat 3: Mahu2021 (big blind) collected (120)
+
+
+
+PokerStars Hand #246976296429: Tournament #3669525511, $9.30+$0.70 USD Hold'em No Limit - Level IV (30/60) - 2023/11/07 13:09:02 CET [2023/11/07 7:09:02 ET]
+Table '3669525511 1' 3-max Seat #3 is the button
+Seat 1: Arxangel111 (860 in chips) 
+Seat 3: Mahu2021 (640 in chips) 
+Mahu2021: posts small blind 30
+Arxangel111: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc 6h]
+Mahu2021: calls 30
+Arxangel111: raises 800 to 860 and is all-in
+Mahu2021: folds 
+Uncalled bet (800) returned to Arxangel111
+Arxangel111 collected 120 from pot
+Arxangel111: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: Arxangel111 (big blind) collected (120)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #246976298195: Tournament #3669525511, $9.30+$0.70 USD Hold'em No Limit - Level IV (30/60) - 2023/11/07 13:09:12 CET [2023/11/07 7:09:12 ET]
+Table '3669525511 1' 3-max Seat #1 is the button
+Seat 1: Arxangel111 (920 in chips) 
+Seat 3: Mahu2021 (580 in chips) 
+Arxangel111: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h 2d]
+Arxangel111: raises 860 to 920 and is all-in
+Mahu2021: folds 
+Uncalled bet (860) returned to Arxangel111
+Arxangel111 collected 120 from pot
+Arxangel111: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: Arxangel111 (button) (small blind) collected (120)
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #246976299378: Tournament #3669525511, $9.30+$0.70 USD Hold'em No Limit - Level IV (30/60) - 2023/11/07 13:09:19 CET [2023/11/07 7:09:19 ET]
+Table '3669525511 1' 3-max Seat #3 is the button
+Seat 1: Arxangel111 (980 in chips) 
+Seat 3: Mahu2021 (520 in chips) 
+Mahu2021: posts small blind 30
+Arxangel111: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8d 2d]
+Mahu2021: folds 
+Uncalled bet (30) returned to Arxangel111
+Arxangel111 collected 60 from pot
+Arxangel111: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Arxangel111 (big blind) collected (60)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #246976300096: Tournament #3669525511, $9.30+$0.70 USD Hold'em No Limit - Level IV (30/60) - 2023/11/07 13:09:23 CET [2023/11/07 7:09:23 ET]
+Table '3669525511 1' 3-max Seat #1 is the button
+Seat 1: Arxangel111 (1010 in chips) 
+Seat 3: Mahu2021 (490 in chips) 
+Arxangel111: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s 8s]
+Arxangel111: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Arxangel111 (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (60)
+
+
+
+PokerStars Hand #246976301564: Tournament #3669525511, $9.30+$0.70 USD Hold'em No Limit - Level IV (30/60) - 2023/11/07 13:09:31 CET [2023/11/07 7:09:31 ET]
+Table '3669525511 1' 3-max Seat #3 is the button
+Seat 1: Arxangel111 (980 in chips) 
+Seat 3: Mahu2021 (520 in chips) 
+Mahu2021: posts small blind 30
+Arxangel111: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3c 4d]
+Mahu2021: folds 
+Uncalled bet (30) returned to Arxangel111
+Arxangel111 collected 60 from pot
+Arxangel111: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Arxangel111 (big blind) collected (60)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #246976302309: Tournament #3669525511, $9.30+$0.70 USD Hold'em No Limit - Level IV (30/60) - 2023/11/07 13:09:36 CET [2023/11/07 7:09:36 ET]
+Table '3669525511 1' 3-max Seat #1 is the button
+Seat 1: Arxangel111 (1010 in chips) 
+Seat 3: Mahu2021 (490 in chips) 
+Arxangel111: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc Td]
+Arxangel111: calls 30
+Mahu2021: checks 
+*** FLOP *** [3c Qd Jc]
+Mahu2021: checks 
+Arxangel111: bets 60
+Mahu2021: raises 120 to 180
+Arxangel111: folds 
+Uncalled bet (120) returned to Mahu2021
+Mahu2021 collected 240 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [3c Qd Jc]
+Seat 1: Arxangel111 (button) (small blind) folded on the Flop
+Seat 3: Mahu2021 (big blind) collected (240)
+
+
+
+PokerStars Hand #246976306197: Tournament #3669525511, $9.30+$0.70 USD Hold'em No Limit - Level IV (30/60) - 2023/11/07 13:09:59 CET [2023/11/07 7:09:59 ET]
+Table '3669525511 1' 3-max Seat #3 is the button
+Seat 1: Arxangel111 (890 in chips) 
+Seat 3: Mahu2021 (610 in chips) 
+Mahu2021: posts small blind 30
+Arxangel111: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s Td]
+Mahu2021: calls 30
+Arxangel111: checks 
+*** FLOP *** [8c Tc 5c]
+Arxangel111: checks 
+Mahu2021: bets 60
+Arxangel111: calls 60
+*** TURN *** [8c Tc 5c] [2h]
+Arxangel111: checks 
+Mahu2021: checks 
+*** RIVER *** [8c Tc 5c 2h] [2s]
+Arxangel111: checks 
+Mahu2021: bets 60
+Arxangel111: calls 60
+*** SHOW DOWN ***
+Mahu2021: shows [9s Td] (two pair, Tens and Deuces)
+Arxangel111: mucks hand 
+Mahu2021 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [8c Tc 5c 2h 2s]
+Seat 1: Arxangel111 (big blind) mucked [Qc 5d]
+Seat 3: Mahu2021 (button) (small blind) showed [9s Td] and won (360) with two pair, Tens and Deuces
+
+
+
+PokerStars Hand #246976313182: Tournament #3669525511, $9.30+$0.70 USD Hold'em No Limit - Level IV (30/60) - 2023/11/07 13:10:41 CET [2023/11/07 7:10:41 ET]
+Table '3669525511 1' 3-max Seat #1 is the button
+Seat 1: Arxangel111 (710 in chips) 
+Seat 3: Mahu2021 (790 in chips) 
+Arxangel111: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh 2d]
+Arxangel111: raises 650 to 710 and is all-in
+Mahu2021: folds 
+Uncalled bet (650) returned to Arxangel111
+Arxangel111 collected 120 from pot
+Arxangel111: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: Arxangel111 (button) (small blind) collected (120)
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #246976315141: Tournament #3669525511, $9.30+$0.70 USD Hold'em No Limit - Level V (40/80) - 2023/11/07 13:10:52 CET [2023/11/07 7:10:52 ET]
+Table '3669525511 1' 3-max Seat #3 is the button
+Seat 1: Arxangel111 (770 in chips) 
+Seat 3: Mahu2021 (730 in chips) 
+Mahu2021: posts small blind 40
+Arxangel111: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qd As]
+Mahu2021: raises 80 to 160
+Arxangel111: folds 
+Uncalled bet (80) returned to Mahu2021
+Mahu2021 collected 160 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Seat 1: Arxangel111 (big blind) folded before Flop
+Seat 3: Mahu2021 (button) (small blind) collected (160)
+
+
+
+PokerStars Hand #246976317142: Tournament #3669525511, $9.30+$0.70 USD Hold'em No Limit - Level V (40/80) - 2023/11/07 13:11:04 CET [2023/11/07 7:11:04 ET]
+Table '3669525511 1' 3-max Seat #1 is the button
+Seat 1: Arxangel111 (690 in chips) 
+Seat 3: Mahu2021 (810 in chips) 
+Arxangel111: posts small blind 40
+Mahu2021: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qs 3d]
+Arxangel111: calls 40
+Mahu2021: checks 
+*** FLOP *** [As Jh 5d]
+Mahu2021: checks 
+Arxangel111: bets 80
+Mahu2021: folds 
+Uncalled bet (80) returned to Arxangel111
+Arxangel111 collected 160 from pot
+Arxangel111: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [As Jh 5d]
+Seat 1: Arxangel111 (button) (small blind) collected (160)
+Seat 3: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #246976319465: Tournament #3669525511, $9.30+$0.70 USD Hold'em No Limit - Level V (40/80) - 2023/11/07 13:11:18 CET [2023/11/07 7:11:18 ET]
+Table '3669525511 1' 3-max Seat #3 is the button
+Seat 1: Arxangel111 (770 in chips) 
+Seat 3: Mahu2021 (730 in chips) 
+Mahu2021: posts small blind 40
+Arxangel111: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4c Ac]
+Mahu2021: raises 650 to 730 and is all-in
+Arxangel111: calls 650
+*** FLOP *** [Ks 7d Ah]
+*** TURN *** [Ks 7d Ah] [Th]
+*** RIVER *** [Ks 7d Ah Th] [3s]
+*** SHOW DOWN ***
+Arxangel111: shows [As Ad] (three of a kind, Aces)
+Mahu2021: shows [4c Ac] (a pair of Aces)
+Arxangel111 collected 1460 from pot
+Mahu2021 finished the tournament in 2nd place
+Arxangel111 wins the tournament and receives $30.00 - congratulations!
+*** SUMMARY ***
+Total pot 1460 | Rake 0 
+Board [Ks 7d Ah Th 3s]
+Seat 1: Arxangel111 (big blind) showed [As Ad] and won (1460) with three of a kind, Aces
+Seat 3: Mahu2021 (button) (small blind) showed [4c Ac] and lost with a pair of Aces
+
+
+

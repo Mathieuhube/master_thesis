@@ -1,0 +1,339 @@
+﻿PokerStars Hand #253355959869: Tournament #3822415594, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/11 12:33:59 CET [2024/11/11 6:33:59 ET]
+Table '3822415594 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: SuitedPetka (500 in chips) 
+Seat 3: DIEGOOSE (500 in chips) 
+SuitedPetka: posts small blind 10
+DIEGOOSE: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s Qc]
+Mahu2021: folds 
+SuitedPetka: folds 
+Uncalled bet (10) returned to DIEGOOSE
+DIEGOOSE collected 20 from pot
+DIEGOOSE: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: SuitedPetka (small blind) folded before Flop
+Seat 3: DIEGOOSE (big blind) collected (20)
+
+
+
+PokerStars Hand #253355960356: Tournament #3822415594, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/11 12:34:03 CET [2024/11/11 6:34:03 ET]
+Table '3822415594 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: SuitedPetka (490 in chips) 
+Seat 3: DIEGOOSE (510 in chips) 
+DIEGOOSE: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d 5c]
+SuitedPetka: folds 
+DIEGOOSE: calls 10
+Mahu2021: checks 
+*** FLOP *** [7c 9c 9s]
+DIEGOOSE: checks 
+Mahu2021: bets 20
+DIEGOOSE: calls 20
+*** TURN *** [7c 9c 9s] [7h]
+DIEGOOSE: checks 
+Mahu2021: bets 40
+DIEGOOSE: calls 40
+*** RIVER *** [7c 9c 9s 7h] [Kc]
+DIEGOOSE: checks 
+Mahu2021: bets 80
+DIEGOOSE: calls 80
+*** SHOW DOWN ***
+Mahu2021: shows [7d 5c] (a full house, Sevens full of Nines)
+DIEGOOSE: mucks hand 
+Mahu2021 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [7c 9c 9s 7h Kc]
+Seat 1: Mahu2021 (big blind) showed [7d 5c] and won (320) with a full house, Sevens full of Nines
+Seat 2: SuitedPetka (button) folded before Flop (didn't bet)
+Seat 3: DIEGOOSE (small blind) mucked [Qc 6c]
+
+
+
+PokerStars Hand #253355963454: Tournament #3822415594, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/11 12:34:29 CET [2024/11/11 6:34:29 ET]
+Table '3822415594 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (660 in chips) 
+Seat 2: SuitedPetka (490 in chips) 
+Seat 3: DIEGOOSE (350 in chips) 
+Mahu2021: posts small blind 10
+SuitedPetka: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qd Js]
+DIEGOOSE: folds 
+Mahu2021: raises 20 to 40
+SuitedPetka: calls 20
+*** FLOP *** [Kc 5s Ad]
+Mahu2021: checks 
+SuitedPetka: checks 
+*** TURN *** [Kc 5s Ad] [9h]
+Mahu2021: checks 
+SuitedPetka has timed out
+SuitedPetka: checks 
+*** RIVER *** [Kc 5s Ad 9h] [2d]
+Mahu2021: bets 40
+SuitedPetka: calls 40
+*** SHOW DOWN ***
+Mahu2021: shows [Qd Js] (high card Ace)
+SuitedPetka: shows [9s 7h] (a pair of Nines)
+SuitedPetka collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Kc 5s Ad 9h 2d]
+Seat 1: Mahu2021 (small blind) showed [Qd Js] and lost with high card Ace
+Seat 2: SuitedPetka (big blind) showed [9s 7h] and won (160) with a pair of Nines
+Seat 3: DIEGOOSE (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253355971131: Tournament #3822415594, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/11 12:35:31 CET [2024/11/11 6:35:31 ET]
+Table '3822415594 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (580 in chips) 
+Seat 2: SuitedPetka (570 in chips) 
+Seat 3: DIEGOOSE (350 in chips) 
+SuitedPetka: posts small blind 10
+DIEGOOSE: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qd Kh]
+Mahu2021: raises 20 to 40
+SuitedPetka: folds 
+DIEGOOSE: calls 20
+*** FLOP *** [3h 3c Ac]
+DIEGOOSE: checks 
+Mahu2021: bets 40
+DIEGOOSE: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 90 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [3h 3c Ac]
+Seat 1: Mahu2021 (button) collected (90)
+Seat 2: SuitedPetka (small blind) folded before Flop
+Seat 3: DIEGOOSE (big blind) folded on the Flop
+
+
+
+PokerStars Hand #253355973070: Tournament #3822415594, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/11 12:35:46 CET [2024/11/11 6:35:46 ET]
+Table '3822415594 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (630 in chips) 
+Seat 2: SuitedPetka (560 in chips) 
+Seat 3: DIEGOOSE (310 in chips) 
+DIEGOOSE: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s 8d]
+SuitedPetka: folds 
+DIEGOOSE: calls 10
+Mahu2021: checks 
+*** FLOP *** [9c 4c Js]
+DIEGOOSE: checks 
+Mahu2021: checks 
+*** TURN *** [9c 4c Js] [Qh]
+DIEGOOSE: checks 
+Mahu2021: checks 
+*** RIVER *** [9c 4c Js Qh] [5h]
+DIEGOOSE: bets 120
+Mahu2021: folds 
+Uncalled bet (120) returned to DIEGOOSE
+DIEGOOSE collected 40 from pot
+DIEGOOSE: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [9c 4c Js Qh 5h]
+Seat 1: Mahu2021 (big blind) folded on the River
+Seat 2: SuitedPetka (button) folded before Flop (didn't bet)
+Seat 3: DIEGOOSE (small blind) collected (40)
+
+
+
+PokerStars Hand #253355976224: Tournament #3822415594, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/11 12:36:13 CET [2024/11/11 6:36:13 ET]
+Table '3822415594 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (610 in chips) 
+Seat 2: SuitedPetka (560 in chips) 
+Seat 3: DIEGOOSE (330 in chips) 
+Mahu2021: posts small blind 15
+SuitedPetka: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s Qh]
+DIEGOOSE: raises 300 to 330 and is all-in
+Mahu2021: folds 
+SuitedPetka: calls 300
+*** FLOP *** [2h 5c 6h]
+*** TURN *** [2h 5c 6h] [3s]
+*** RIVER *** [2h 5c 6h 3s] [Ah]
+*** SHOW DOWN ***
+SuitedPetka: shows [Kc Qd] (high card Ace)
+DIEGOOSE: shows [Ks Ad] (a pair of Aces)
+DIEGOOSE collected 675 from pot
+*** SUMMARY ***
+Total pot 675 | Rake 0 
+Board [2h 5c 6h 3s Ah]
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: SuitedPetka (big blind) showed [Kc Qd] and lost with high card Ace
+Seat 3: DIEGOOSE (button) showed [Ks Ad] and won (675) with a pair of Aces
+
+
+
+PokerStars Hand #253355978903: Tournament #3822415594, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/11 12:36:34 CET [2024/11/11 6:36:34 ET]
+Table '3822415594 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (595 in chips) 
+Seat 2: SuitedPetka (230 in chips) 
+Seat 3: DIEGOOSE (675 in chips) 
+SuitedPetka: posts small blind 15
+DIEGOOSE: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2c 5s]
+Mahu2021: folds 
+SuitedPetka: folds 
+Uncalled bet (15) returned to DIEGOOSE
+DIEGOOSE collected 30 from pot
+DIEGOOSE: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: SuitedPetka (small blind) folded before Flop
+Seat 3: DIEGOOSE (big blind) collected (30)
+
+
+
+PokerStars Hand #253355979493: Tournament #3822415594, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/11 12:36:39 CET [2024/11/11 6:36:39 ET]
+Table '3822415594 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (595 in chips) 
+Seat 2: SuitedPetka (215 in chips) 
+Seat 3: DIEGOOSE (690 in chips) 
+DIEGOOSE: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8s Qd]
+SuitedPetka: folds 
+DIEGOOSE: raises 90 to 120
+Mahu2021: folds 
+Uncalled bet (90) returned to DIEGOOSE
+DIEGOOSE collected 60 from pot
+DIEGOOSE: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: SuitedPetka (button) folded before Flop (didn't bet)
+Seat 3: DIEGOOSE (small blind) collected (60)
+
+
+
+PokerStars Hand #253355980562: Tournament #3822415594, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/11 12:36:47 CET [2024/11/11 6:36:47 ET]
+Table '3822415594 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (565 in chips) 
+Seat 2: SuitedPetka (215 in chips) 
+Seat 3: DIEGOOSE (720 in chips) 
+Mahu2021: posts small blind 15
+SuitedPetka: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qs Qh]
+DIEGOOSE: folds 
+Mahu2021: raises 535 to 565 and is all-in
+SuitedPetka: calls 185 and is all-in
+Uncalled bet (350) returned to Mahu2021
+*** FLOP *** [Kc Jd 8h]
+*** TURN *** [Kc Jd 8h] [2d]
+*** RIVER *** [Kc Jd 8h 2d] [Jc]
+*** SHOW DOWN ***
+Mahu2021: shows [Qs Qh] (two pair, Queens and Jacks)
+SuitedPetka: shows [Ad 6d] (a pair of Jacks)
+Mahu2021 collected 430 from pot
+SuitedPetka finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 430 | Rake 0 
+Board [Kc Jd 8h 2d Jc]
+Seat 1: Mahu2021 (small blind) showed [Qs Qh] and won (430) with two pair, Queens and Jacks
+Seat 2: SuitedPetka (big blind) showed [Ad 6d] and lost with a pair of Jacks
+Seat 3: DIEGOOSE (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253355982774: Tournament #3822415594, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/11 12:37:05 CET [2024/11/11 6:37:05 ET]
+Table '3822415594 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (780 in chips) 
+Seat 3: DIEGOOSE (720 in chips) 
+Mahu2021: posts small blind 15
+DIEGOOSE: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d Kh]
+Mahu2021: raises 30 to 60
+DIEGOOSE: calls 30
+*** FLOP *** [4c Tc 5s]
+DIEGOOSE: checks 
+Mahu2021: checks 
+*** TURN *** [4c Tc 5s] [Ts]
+DIEGOOSE: checks 
+Mahu2021: checks 
+*** RIVER *** [4c Tc 5s Ts] [6d]
+DIEGOOSE: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+DIEGOOSE: shows [Js 8s] (a pair of Tens)
+Mahu2021: shows [3d Kh] (a pair of Tens - King kicker)
+Mahu2021 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [4c Tc 5s Ts 6d]
+Seat 1: Mahu2021 (button) (small blind) showed [3d Kh] and won (120) with a pair of Tens
+Seat 3: DIEGOOSE (big blind) showed [Js 8s] and lost with a pair of Tens
+
+
+
+PokerStars Hand #253355985780: Tournament #3822415594, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/11 12:37:28 CET [2024/11/11 6:37:28 ET]
+Table '3822415594 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (840 in chips) 
+Seat 3: DIEGOOSE (660 in chips) 
+DIEGOOSE: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s Qs]
+DIEGOOSE: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (30)
+Seat 3: DIEGOOSE (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #253355986449: Tournament #3822415594, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/11 12:37:34 CET [2024/11/11 6:37:34 ET]
+Table '3822415594 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (855 in chips) 
+Seat 3: DIEGOOSE (645 in chips) 
+Mahu2021: posts small blind 15
+DIEGOOSE: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh 8c]
+Mahu2021: raises 30 to 60
+DIEGOOSE: calls 30
+*** FLOP *** [6c 9s Jc]
+DIEGOOSE: checks 
+Mahu2021: bets 60
+DIEGOOSE: raises 525 to 585 and is all-in
+Mahu2021: calls 525
+*** TURN *** [6c 9s Jc] [Ad]
+*** RIVER *** [6c 9s Jc Ad] [Js]
+*** SHOW DOWN ***
+DIEGOOSE: shows [9d Kh] (two pair, Jacks and Nines)
+Mahu2021: shows [Jh 8c] (three of a kind, Jacks)
+Mahu2021 collected 1290 from pot
+DIEGOOSE finished the tournament in 2nd place
+Mahu2021 wins the tournament and receives $4.00 - congratulations!
+*** SUMMARY ***
+Total pot 1290 | Rake 0 
+Board [6c 9s Jc Ad Js]
+Seat 1: Mahu2021 (button) (small blind) showed [Jh 8c] and won (1290) with three of a kind, Jacks
+Seat 3: DIEGOOSE (big blind) showed [9d Kh] and lost with two pair, Jacks and Nines
+
+
+

@@ -1,0 +1,1327 @@
+﻿PokerStars Hand #245728881873: Tournament #3639458236, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/09/02 15:21:47 CET [2023/09/02 9:21:47 ET]
+Table '3639458236 1' 3-max Seat #1 is the button
+Seat 1: ISITFRACTAL? (500 in chips) 
+Seat 2: Bee127 (500 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+Bee127: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac Qd]
+ISITFRACTAL?: raises 20 to 40
+Bee127: folds 
+Mahu2021: calls 20
+*** FLOP *** [3c 7h 8s]
+Mahu2021: checks 
+ISITFRACTAL?: bets 25
+Mahu2021: calls 25
+*** TURN *** [3c 7h 8s] [3h]
+Mahu2021: checks 
+ISITFRACTAL?: bets 95
+Mahu2021: folds 
+Uncalled bet (95) returned to ISITFRACTAL?
+ISITFRACTAL? collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | Rake 0 
+Board [3c 7h 8s 3h]
+Seat 1: ISITFRACTAL? (button) collected (140)
+Seat 2: Bee127 (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #245728887191: Tournament #3639458236, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/09/02 15:22:11 CET [2023/09/02 9:22:11 ET]
+Table '3639458236 1' 3-max Seat #2 is the button
+Seat 1: ISITFRACTAL? (575 in chips) 
+Seat 2: Bee127 (490 in chips) 
+Seat 3: Mahu2021 (435 in chips) 
+Mahu2021: posts small blind 10
+ISITFRACTAL?: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac Kd]
+Bee127: raises 20 to 40
+Mahu2021: raises 80 to 120
+ISITFRACTAL?: folds 
+Bee127: calls 80
+*** FLOP *** [9d Kc Th]
+Mahu2021: bets 315 and is all-in
+Bee127: calls 315
+*** TURN *** [9d Kc Th] [Ad]
+*** RIVER *** [9d Kc Th Ad] [Jh]
+*** SHOW DOWN ***
+Mahu2021: shows [Ac Kd] (two pair, Aces and Kings)
+Bee127: shows [Js Kh] (two pair, Kings and Jacks)
+Mahu2021 collected 890 from pot
+*** SUMMARY ***
+Total pot 890 | Rake 0 
+Board [9d Kc Th Ad Jh]
+Seat 1: ISITFRACTAL? (big blind) folded before Flop
+Seat 2: Bee127 (button) showed [Js Kh] and lost with two pair, Kings and Jacks
+Seat 3: Mahu2021 (small blind) showed [Ac Kd] and won (890) with two pair, Aces and Kings
+
+
+
+PokerStars Hand #245728891855: Tournament #3639458236, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/09/02 15:22:33 CET [2023/09/02 9:22:33 ET]
+Table '3639458236 1' 3-max Seat #3 is the button
+Seat 1: ISITFRACTAL? (555 in chips) 
+Seat 2: Bee127 (55 in chips) 
+Seat 3: Mahu2021 (890 in chips) 
+ISITFRACTAL?: posts small blind 10
+Bee127: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qd 4d]
+Mahu2021: folds 
+ISITFRACTAL?: raises 535 to 555 and is all-in
+Bee127: calls 35 and is all-in
+Uncalled bet (500) returned to ISITFRACTAL?
+*** FLOP *** [Qs Jc 3s]
+*** TURN *** [Qs Jc 3s] [Ks]
+*** RIVER *** [Qs Jc 3s Ks] [6h]
+*** SHOW DOWN ***
+ISITFRACTAL?: shows [9c As] (high card Ace)
+Bee127: shows [4s 5c] (high card King)
+ISITFRACTAL? collected 110 from pot
+Bee127 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 110 | Rake 0 
+Board [Qs Jc 3s Ks 6h]
+Seat 1: ISITFRACTAL? (small blind) showed [9c As] and won (110) with high card Ace
+Seat 2: Bee127 (big blind) showed [4s 5c] and lost with high card King
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245728897154: Tournament #3639458236, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/09/02 15:22:58 CET [2023/09/02 9:22:58 ET]
+Table '3639458236 1' 3-max Seat #1 is the button
+Seat 1: ISITFRACTAL? (610 in chips) 
+Seat 3: Mahu2021 (890 in chips) 
+ISITFRACTAL?: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks 9s]
+ISITFRACTAL?: raises 20 to 40
+Mahu2021: calls 20
+*** FLOP *** [2c 4s 2h]
+Mahu2021: checks 
+ISITFRACTAL?: bets 20
+Mahu2021: calls 20
+*** TURN *** [2c 4s 2h] [4h]
+Mahu2021: checks 
+ISITFRACTAL?: bets 50
+Mahu2021: raises 50 to 100
+ISITFRACTAL?: calls 50
+*** RIVER *** [2c 4s 2h 4h] [3d]
+Mahu2021: bets 160
+ISITFRACTAL?: calls 160
+*** SHOW DOWN ***
+Mahu2021: shows [Ks 9s] (two pair, Fours and Deuces)
+ISITFRACTAL?: shows [2s Ah] (a full house, Deuces full of Fours)
+ISITFRACTAL? collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | Rake 0 
+Board [2c 4s 2h 4h 3d]
+Seat 1: ISITFRACTAL? (button) (small blind) showed [2s Ah] and won (640) with a full house, Deuces full of Fours
+Seat 3: Mahu2021 (big blind) showed [Ks 9s] and lost with two pair, Fours and Deuces
+
+
+
+PokerStars Hand #245728907610: Tournament #3639458236, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/09/02 15:23:46 CET [2023/09/02 9:23:46 ET]
+Table '3639458236 1' 3-max Seat #3 is the button
+Seat 1: ISITFRACTAL? (930 in chips) 
+Seat 3: Mahu2021 (570 in chips) 
+Mahu2021: posts small blind 10
+ISITFRACTAL?: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh Th]
+Mahu2021: raises 20 to 40
+ISITFRACTAL?: calls 20
+*** FLOP *** [7s Kc 5d]
+ISITFRACTAL?: checks 
+Mahu2021: bets 40
+ISITFRACTAL?: calls 40
+*** TURN *** [7s Kc 5d] [3h]
+ISITFRACTAL?: checks 
+Mahu2021: bets 40
+ISITFRACTAL?: raises 40 to 80
+Mahu2021: raises 410 to 490 and is all-in
+ISITFRACTAL?: calls 410
+*** RIVER *** [7s Kc 5d 3h] [Td]
+*** SHOW DOWN ***
+ISITFRACTAL?: shows [Ks 6h] (a pair of Kings)
+Mahu2021: shows [Kh Th] (two pair, Kings and Tens)
+Mahu2021 collected 1140 from pot
+*** SUMMARY ***
+Total pot 1140 | Rake 0 
+Board [7s Kc 5d 3h Td]
+Seat 1: ISITFRACTAL? (big blind) showed [Ks 6h] and lost with a pair of Kings
+Seat 3: Mahu2021 (button) (small blind) showed [Kh Th] and won (1140) with two pair, Kings and Tens
+
+
+
+PokerStars Hand #245728916887: Tournament #3639458236, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/09/02 15:24:28 CET [2023/09/02 9:24:28 ET]
+Table '3639458236 1' 3-max Seat #1 is the button
+Seat 1: ISITFRACTAL? (360 in chips) 
+Seat 3: Mahu2021 (1140 in chips) 
+ISITFRACTAL?: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s Qh]
+ISITFRACTAL?: calls 15
+Mahu2021: checks 
+*** FLOP *** [Tc 8d 2s]
+Mahu2021: checks 
+ISITFRACTAL?: bets 30
+Mahu2021: calls 30
+*** TURN *** [Tc 8d 2s] [2c]
+Mahu2021: checks 
+ISITFRACTAL?: bets 75
+Mahu2021: folds 
+Uncalled bet (75) returned to ISITFRACTAL?
+ISITFRACTAL? collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Tc 8d 2s 2c]
+Seat 1: ISITFRACTAL? (button) (small blind) collected (120)
+Seat 3: Mahu2021 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #245728921878: Tournament #3639458236, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/09/02 15:24:51 CET [2023/09/02 9:24:51 ET]
+Table '3639458236 1' 3-max Seat #3 is the button
+Seat 1: ISITFRACTAL? (420 in chips) 
+Seat 3: Mahu2021 (1080 in chips) 
+Mahu2021: posts small blind 15
+ISITFRACTAL?: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2c 6s]
+Mahu2021: folds 
+Uncalled bet (15) returned to ISITFRACTAL?
+ISITFRACTAL? collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: ISITFRACTAL? (big blind) collected (30)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #245728922849: Tournament #3639458236, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/09/02 15:24:56 CET [2023/09/02 9:24:56 ET]
+Table '3639458236 1' 3-max Seat #1 is the button
+Seat 1: ISITFRACTAL? (435 in chips) 
+Seat 3: Mahu2021 (1065 in chips) 
+ISITFRACTAL?: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h 4c]
+ISITFRACTAL?: raises 405 to 435 and is all-in
+Mahu2021: folds 
+Uncalled bet (405) returned to ISITFRACTAL?
+ISITFRACTAL? collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: ISITFRACTAL? (button) (small blind) collected (60)
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #245728924070: Tournament #3639458236, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/09/02 15:25:02 CET [2023/09/02 9:25:02 ET]
+Table '3639458236 1' 3-max Seat #3 is the button
+Seat 1: ISITFRACTAL? (465 in chips) 
+Seat 3: Mahu2021 (1035 in chips) 
+Mahu2021: posts small blind 15
+ISITFRACTAL?: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d Tc]
+Mahu2021: folds 
+Uncalled bet (15) returned to ISITFRACTAL?
+ISITFRACTAL? collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: ISITFRACTAL? (big blind) collected (30)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #245728925030: Tournament #3639458236, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/09/02 15:25:06 CET [2023/09/02 9:25:06 ET]
+Table '3639458236 1' 3-max Seat #1 is the button
+Seat 1: ISITFRACTAL? (480 in chips) 
+Seat 3: Mahu2021 (1020 in chips) 
+ISITFRACTAL?: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d Ts]
+ISITFRACTAL?: raises 30 to 60
+Mahu2021: folds 
+Uncalled bet (30) returned to ISITFRACTAL?
+ISITFRACTAL? collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: ISITFRACTAL? (button) (small blind) collected (60)
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #245728926403: Tournament #3639458236, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/09/02 15:25:12 CET [2023/09/02 9:25:12 ET]
+Table '3639458236 1' 3-max Seat #3 is the button
+Seat 1: ISITFRACTAL? (510 in chips) 
+Seat 3: Mahu2021 (990 in chips) 
+Mahu2021: posts small blind 15
+ISITFRACTAL?: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc 2h]
+Mahu2021: calls 15
+ISITFRACTAL?: raises 60 to 90
+Mahu2021: folds 
+Uncalled bet (60) returned to ISITFRACTAL?
+ISITFRACTAL? collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: ISITFRACTAL? (big blind) collected (60)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #245728929659: Tournament #3639458236, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/09/02 15:25:27 CET [2023/09/02 9:25:27 ET]
+Table '3639458236 1' 3-max Seat #1 is the button
+Seat 1: ISITFRACTAL? (540 in chips) 
+Seat 3: Mahu2021 (960 in chips) 
+ISITFRACTAL?: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h Kh]
+ISITFRACTAL?: raises 30 to 60
+Mahu2021: calls 30
+*** FLOP *** [8c Ac 7d]
+Mahu2021: checks 
+ISITFRACTAL?: bets 60
+Mahu2021: raises 60 to 120
+ISITFRACTAL?: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 240 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [8c Ac 7d]
+Seat 1: ISITFRACTAL? (button) (small blind) folded on the Flop
+Seat 3: Mahu2021 (big blind) collected (240)
+
+
+
+PokerStars Hand #245728933699: Tournament #3639458236, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/09/02 15:25:46 CET [2023/09/02 9:25:46 ET]
+Table '3639458236 1' 3-max Seat #3 is the button
+Seat 1: ISITFRACTAL? (420 in chips) 
+Seat 3: Mahu2021 (1080 in chips) 
+Mahu2021: posts small blind 15
+ISITFRACTAL?: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Th Tc]
+Mahu2021: raises 1050 to 1080 and is all-in
+ISITFRACTAL?: folds 
+Uncalled bet (1050) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: ISITFRACTAL? (big blind) folded before Flop
+Seat 3: Mahu2021 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #245728935812: Tournament #3639458236, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/09/02 15:25:55 CET [2023/09/02 9:25:55 ET]
+Table '3639458236 1' 3-max Seat #1 is the button
+Seat 1: ISITFRACTAL? (390 in chips) 
+Seat 3: Mahu2021 (1110 in chips) 
+ISITFRACTAL?: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh Jh]
+ISITFRACTAL?: calls 20
+Mahu2021: raises 80 to 120
+ISITFRACTAL?: folds 
+Uncalled bet (80) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: ISITFRACTAL? (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (80)
+
+
+
+PokerStars Hand #245728938652: Tournament #3639458236, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/09/02 15:26:08 CET [2023/09/02 9:26:08 ET]
+Table '3639458236 1' 3-max Seat #3 is the button
+Seat 1: ISITFRACTAL? (350 in chips) 
+Seat 3: Mahu2021 (1150 in chips) 
+Mahu2021: posts small blind 20
+ISITFRACTAL?: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc Ks]
+Mahu2021: raises 40 to 80
+ISITFRACTAL?: raises 270 to 350 and is all-in
+Mahu2021: calls 270
+*** FLOP *** [5h 3s 5c]
+*** TURN *** [5h 3s 5c] [3c]
+*** RIVER *** [5h 3s 5c 3c] [Qs]
+*** SHOW DOWN ***
+ISITFRACTAL?: shows [Qd Qc] (a full house, Queens full of Fives)
+Mahu2021: shows [Jc Ks] (two pair, Fives and Threes)
+ISITFRACTAL? collected 700 from pot
+*** SUMMARY ***
+Total pot 700 | Rake 0 
+Board [5h 3s 5c 3c Qs]
+Seat 1: ISITFRACTAL? (big blind) showed [Qd Qc] and won (700) with a full house, Queens full of Fives
+Seat 3: Mahu2021 (button) (small blind) showed [Jc Ks] and lost with two pair, Fives and Threes
+
+
+
+PokerStars Hand #245728942433: Tournament #3639458236, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/09/02 15:26:25 CET [2023/09/02 9:26:25 ET]
+Table '3639458236 1' 3-max Seat #1 is the button
+Seat 1: ISITFRACTAL? (700 in chips) 
+Seat 3: Mahu2021 (800 in chips) 
+ISITFRACTAL?: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h As]
+ISITFRACTAL?: raises 40 to 80
+Mahu2021: calls 40
+*** FLOP *** [Ad 7c 6d]
+Mahu2021: checks 
+ISITFRACTAL?: bets 70
+Mahu2021: raises 650 to 720 and is all-in
+ISITFRACTAL?: calls 550 and is all-in
+Uncalled bet (100) returned to Mahu2021
+*** TURN *** [Ad 7c 6d] [7h]
+*** RIVER *** [Ad 7c 6d 7h] [8d]
+*** SHOW DOWN ***
+Mahu2021: shows [2h As] (two pair, Aces and Sevens)
+ISITFRACTAL?: shows [Ac 6c] (two pair, Aces and Sevens)
+Mahu2021 collected 700 from pot
+ISITFRACTAL? collected 700 from pot
+*** SUMMARY ***
+Total pot 1400 | Rake 0 
+Board [Ad 7c 6d 7h 8d]
+Seat 1: ISITFRACTAL? (button) (small blind) showed [Ac 6c] and won (700) with two pair, Aces and Sevens
+Seat 3: Mahu2021 (big blind) showed [2h As] and won (700) with two pair, Aces and Sevens
+
+
+
+PokerStars Hand #245728947501: Tournament #3639458236, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/09/02 15:26:49 CET [2023/09/02 9:26:49 ET]
+Table '3639458236 1' 3-max Seat #3 is the button
+Seat 1: ISITFRACTAL? (700 in chips) 
+Seat 3: Mahu2021 (800 in chips) 
+Mahu2021: posts small blind 20
+ISITFRACTAL?: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d 5h]
+Mahu2021: calls 20
+ISITFRACTAL?: raises 70 to 110
+Mahu2021: calls 70
+*** FLOP *** [Qs 3d 7c]
+ISITFRACTAL?: bets 80
+Mahu2021: raises 610 to 690 and is all-in
+ISITFRACTAL?: folds 
+Uncalled bet (610) returned to Mahu2021
+Mahu2021 collected 380 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 380 | Rake 0 
+Board [Qs 3d 7c]
+Seat 1: ISITFRACTAL? (big blind) folded on the Flop
+Seat 3: Mahu2021 (button) (small blind) collected (380)
+
+
+
+PokerStars Hand #245728951286: Tournament #3639458236, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/09/02 15:27:06 CET [2023/09/02 9:27:06 ET]
+Table '3639458236 1' 3-max Seat #1 is the button
+Seat 1: ISITFRACTAL? (510 in chips) 
+Seat 3: Mahu2021 (990 in chips) 
+ISITFRACTAL?: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8c 4d]
+ISITFRACTAL?: calls 20
+Mahu2021: checks 
+*** FLOP *** [2s 8d 3c]
+Mahu2021: checks 
+ISITFRACTAL?: bets 40
+Mahu2021: raises 80 to 120
+ISITFRACTAL?: calls 80
+*** TURN *** [2s 8d 3c] [4h]
+Mahu2021: bets 80
+ISITFRACTAL?: calls 80
+*** RIVER *** [2s 8d 3c 4h] [As]
+Mahu2021: bets 120
+ISITFRACTAL?: calls 120
+*** SHOW DOWN ***
+Mahu2021: shows [8c 4d] (two pair, Eights and Fours)
+ISITFRACTAL?: mucks hand 
+Mahu2021 collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | Rake 0 
+Board [2s 8d 3c 4h As]
+Seat 1: ISITFRACTAL? (button) (small blind) mucked [Td Th]
+Seat 3: Mahu2021 (big blind) showed [8c 4d] and won (720) with two pair, Eights and Fours
+
+
+
+PokerStars Hand #245728959198: Tournament #3639458236, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/09/02 15:27:43 CET [2023/09/02 9:27:43 ET]
+Table '3639458236 1' 3-max Seat #3 is the button
+Seat 1: ISITFRACTAL? (150 in chips) 
+Seat 3: Mahu2021 (1350 in chips) 
+Mahu2021: posts small blind 20
+ISITFRACTAL?: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8s 3s]
+Mahu2021: folds 
+Uncalled bet (20) returned to ISITFRACTAL?
+ISITFRACTAL? collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: ISITFRACTAL? (big blind) collected (40)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #245728960171: Tournament #3639458236, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/09/02 15:27:47 CET [2023/09/02 9:27:47 ET]
+Table '3639458236 1' 3-max Seat #1 is the button
+Seat 1: ISITFRACTAL? (170 in chips) 
+Seat 3: Mahu2021 (1330 in chips) 
+ISITFRACTAL?: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4d 7c]
+ISITFRACTAL?: raises 130 to 170 and is all-in
+Mahu2021: folds 
+Uncalled bet (130) returned to ISITFRACTAL?
+ISITFRACTAL? collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: ISITFRACTAL? (button) (small blind) collected (80)
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #245728961768: Tournament #3639458236, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/09/02 15:27:54 CET [2023/09/02 9:27:54 ET]
+Table '3639458236 1' 3-max Seat #3 is the button
+Seat 1: ISITFRACTAL? (210 in chips) 
+Seat 3: Mahu2021 (1290 in chips) 
+Mahu2021: posts small blind 30
+ISITFRACTAL?: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s 7s]
+Mahu2021: folds 
+Uncalled bet (30) returned to ISITFRACTAL?
+ISITFRACTAL? collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: ISITFRACTAL? (big blind) collected (60)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #245728962814: Tournament #3639458236, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/09/02 15:27:59 CET [2023/09/02 9:27:59 ET]
+Table '3639458236 1' 3-max Seat #1 is the button
+Seat 1: ISITFRACTAL? (240 in chips) 
+Seat 3: Mahu2021 (1260 in chips) 
+ISITFRACTAL?: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2s 7h]
+ISITFRACTAL?: raises 180 to 240 and is all-in
+Mahu2021: folds 
+Uncalled bet (180) returned to ISITFRACTAL?
+ISITFRACTAL? collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: ISITFRACTAL? (button) (small blind) collected (120)
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #245728964091: Tournament #3639458236, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/09/02 15:28:05 CET [2023/09/02 9:28:05 ET]
+Table '3639458236 1' 3-max Seat #3 is the button
+Seat 1: ISITFRACTAL? (300 in chips) 
+Seat 3: Mahu2021 (1200 in chips) 
+Mahu2021: posts small blind 30
+ISITFRACTAL?: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h 2c]
+Mahu2021: folds 
+Uncalled bet (30) returned to ISITFRACTAL?
+ISITFRACTAL? collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: ISITFRACTAL? (big blind) collected (60)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #245728965033: Tournament #3639458236, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/09/02 15:28:09 CET [2023/09/02 9:28:09 ET]
+Table '3639458236 1' 3-max Seat #1 is the button
+Seat 1: ISITFRACTAL? (330 in chips) 
+Seat 3: Mahu2021 (1170 in chips) 
+ISITFRACTAL?: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh 7d]
+ISITFRACTAL?: raises 270 to 330 and is all-in
+Mahu2021: folds 
+Uncalled bet (270) returned to ISITFRACTAL?
+ISITFRACTAL? collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: ISITFRACTAL? (button) (small blind) collected (120)
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #245728967471: Tournament #3639458236, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/09/02 15:28:21 CET [2023/09/02 9:28:21 ET]
+Table '3639458236 1' 3-max Seat #3 is the button
+Seat 1: ISITFRACTAL? (390 in chips) 
+Seat 3: Mahu2021 (1110 in chips) 
+Mahu2021: posts small blind 30
+ISITFRACTAL?: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c 6h]
+Mahu2021: calls 30
+ISITFRACTAL?: checks 
+*** FLOP *** [2s Ts Ks]
+ISITFRACTAL?: checks 
+Mahu2021: bets 60
+ISITFRACTAL?: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [2s Ts Ks]
+Seat 1: ISITFRACTAL? (big blind) folded on the Flop
+Seat 3: Mahu2021 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #245728969990: Tournament #3639458236, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/09/02 15:28:32 CET [2023/09/02 9:28:32 ET]
+Table '3639458236 1' 3-max Seat #1 is the button
+Seat 1: ISITFRACTAL? (330 in chips) 
+Seat 3: Mahu2021 (1170 in chips) 
+ISITFRACTAL?: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kc As]
+ISITFRACTAL?: raises 270 to 330 and is all-in
+Mahu2021: calls 270
+*** FLOP *** [7d Js Ts]
+*** TURN *** [7d Js Ts] [2h]
+*** RIVER *** [7d Js Ts 2h] [5c]
+*** SHOW DOWN ***
+Mahu2021: shows [Kc As] (high card Ace)
+ISITFRACTAL?: shows [Ad Kd] (high card Ace)
+Mahu2021 collected 330 from pot
+ISITFRACTAL? collected 330 from pot
+*** SUMMARY ***
+Total pot 660 | Rake 0 
+Board [7d Js Ts 2h 5c]
+Seat 1: ISITFRACTAL? (button) (small blind) showed [Ad Kd] and won (330) with high card Ace
+Seat 3: Mahu2021 (big blind) showed [Kc As] and won (330) with high card Ace
+
+
+
+PokerStars Hand #245728973360: Tournament #3639458236, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/09/02 15:28:47 CET [2023/09/02 9:28:47 ET]
+Table '3639458236 1' 3-max Seat #3 is the button
+Seat 1: ISITFRACTAL? (330 in chips) 
+Seat 3: Mahu2021 (1170 in chips) 
+Mahu2021: posts small blind 30
+ISITFRACTAL?: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh 5d]
+Mahu2021: calls 30
+ISITFRACTAL?: raises 270 to 330 and is all-in
+Mahu2021: folds 
+Uncalled bet (270) returned to ISITFRACTAL?
+ISITFRACTAL? collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: ISITFRACTAL? (big blind) collected (120)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #245728975444: Tournament #3639458236, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/09/02 15:28:57 CET [2023/09/02 9:28:57 ET]
+Table '3639458236 1' 3-max Seat #1 is the button
+Seat 1: ISITFRACTAL? (390 in chips) 
+Seat 3: Mahu2021 (1110 in chips) 
+ISITFRACTAL?: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d Ah]
+ISITFRACTAL?: raises 330 to 390 and is all-in
+Mahu2021: calls 330
+*** FLOP *** [Jc 3h Qs]
+*** TURN *** [Jc 3h Qs] [3d]
+*** RIVER *** [Jc 3h Qs 3d] [Qc]
+*** SHOW DOWN ***
+Mahu2021: shows [9d Ah] (two pair, Queens and Threes)
+ISITFRACTAL?: shows [Js Ac] (two pair, Queens and Jacks)
+ISITFRACTAL? collected 780 from pot
+*** SUMMARY ***
+Total pot 780 | Rake 0 
+Board [Jc 3h Qs 3d Qc]
+Seat 1: ISITFRACTAL? (button) (small blind) showed [Js Ac] and won (780) with two pair, Queens and Jacks
+Seat 3: Mahu2021 (big blind) showed [9d Ah] and lost with two pair, Queens and Threes
+
+
+
+PokerStars Hand #245728978703: Tournament #3639458236, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/09/02 15:29:12 CET [2023/09/02 9:29:12 ET]
+Table '3639458236 1' 3-max Seat #3 is the button
+Seat 1: ISITFRACTAL? (780 in chips) 
+Seat 3: Mahu2021 (720 in chips) 
+Mahu2021: posts small blind 30
+ISITFRACTAL?: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d 5c]
+Mahu2021: calls 30
+ISITFRACTAL?: raises 720 to 780 and is all-in
+Mahu2021: folds 
+Uncalled bet (720) returned to ISITFRACTAL?
+ISITFRACTAL? collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: ISITFRACTAL? (big blind) collected (120)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #245728980149: Tournament #3639458236, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/09/02 15:29:18 CET [2023/09/02 9:29:18 ET]
+Table '3639458236 1' 3-max Seat #1 is the button
+Seat 1: ISITFRACTAL? (840 in chips) 
+Seat 3: Mahu2021 (660 in chips) 
+ISITFRACTAL?: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h As]
+ISITFRACTAL?: raises 60 to 120
+Mahu2021: raises 540 to 660 and is all-in
+ISITFRACTAL?: folds 
+Uncalled bet (540) returned to Mahu2021
+Mahu2021 collected 240 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Seat 1: ISITFRACTAL? (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (240)
+
+
+
+PokerStars Hand #245728981626: Tournament #3639458236, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/09/02 15:29:25 CET [2023/09/02 9:29:25 ET]
+Table '3639458236 1' 3-max Seat #3 is the button
+Seat 1: ISITFRACTAL? (720 in chips) 
+Seat 3: Mahu2021 (780 in chips) 
+Mahu2021: posts small blind 30
+ISITFRACTAL?: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c 3d]
+Mahu2021: calls 30
+ISITFRACTAL?: raises 75 to 135
+Mahu2021: calls 75
+*** FLOP *** [Tc 2s 8d]
+ISITFRACTAL?: bets 90
+Mahu2021: folds 
+Uncalled bet (90) returned to ISITFRACTAL?
+ISITFRACTAL? collected 270 from pot
+*** SUMMARY ***
+Total pot 270 | Rake 0 
+Board [Tc 2s 8d]
+Seat 1: ISITFRACTAL? (big blind) collected (270)
+Seat 3: Mahu2021 (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #245728984768: Tournament #3639458236, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/09/02 15:29:39 CET [2023/09/02 9:29:39 ET]
+Table '3639458236 1' 3-max Seat #1 is the button
+Seat 1: ISITFRACTAL? (855 in chips) 
+Seat 3: Mahu2021 (645 in chips) 
+ISITFRACTAL?: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c As]
+ISITFRACTAL?: calls 30
+Mahu2021: raises 585 to 645 and is all-in
+ISITFRACTAL?: folds 
+Uncalled bet (585) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: ISITFRACTAL? (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (120)
+
+
+
+PokerStars Hand #245728986493: Tournament #3639458236, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/09/02 15:29:47 CET [2023/09/02 9:29:47 ET]
+Table '3639458236 1' 3-max Seat #3 is the button
+Seat 1: ISITFRACTAL? (795 in chips) 
+Seat 3: Mahu2021 (705 in chips) 
+Mahu2021: posts small blind 30
+ISITFRACTAL?: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s As]
+Mahu2021: calls 30
+ISITFRACTAL?: raises 75 to 135
+Mahu2021: calls 75
+*** FLOP *** [5s 9h Kc]
+ISITFRACTAL?: bets 90
+Mahu2021: calls 90
+*** TURN *** [5s 9h Kc] [2c]
+ISITFRACTAL?: bets 570 and is all-in
+Mahu2021: folds 
+Uncalled bet (570) returned to ISITFRACTAL?
+ISITFRACTAL? collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | Rake 0 
+Board [5s 9h Kc 2c]
+Seat 1: ISITFRACTAL? (big blind) collected (450)
+Seat 3: Mahu2021 (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #245728990973: Tournament #3639458236, $0.92+$0.08 USD Hold'em No Limit - Level V (40/80) - 2023/09/02 15:30:07 CET [2023/09/02 9:30:07 ET]
+Table '3639458236 1' 3-max Seat #1 is the button
+Seat 1: ISITFRACTAL? (1020 in chips) 
+Seat 3: Mahu2021 (480 in chips) 
+ISITFRACTAL?: posts small blind 40
+Mahu2021: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5h 9h]
+ISITFRACTAL?: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: ISITFRACTAL? (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (80)
+
+
+
+PokerStars Hand #245728991952: Tournament #3639458236, $0.92+$0.08 USD Hold'em No Limit - Level V (40/80) - 2023/09/02 15:30:11 CET [2023/09/02 9:30:11 ET]
+Table '3639458236 1' 3-max Seat #3 is the button
+Seat 1: ISITFRACTAL? (980 in chips) 
+Seat 3: Mahu2021 (520 in chips) 
+Mahu2021: posts small blind 40
+ISITFRACTAL?: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd Td]
+Mahu2021: raises 80 to 160
+ISITFRACTAL?: raises 820 to 980 and is all-in
+Mahu2021: calls 360 and is all-in
+Uncalled bet (460) returned to ISITFRACTAL?
+*** FLOP *** [Kh 6s Qc]
+*** TURN *** [Kh 6s Qc] [Ah]
+*** RIVER *** [Kh 6s Qc Ah] [7h]
+*** SHOW DOWN ***
+ISITFRACTAL?: shows [Kc Ts] (a pair of Kings)
+Mahu2021: shows [Jd Td] (a straight, Ten to Ace)
+Mahu2021 collected 1040 from pot
+*** SUMMARY ***
+Total pot 1040 | Rake 0 
+Board [Kh 6s Qc Ah 7h]
+Seat 1: ISITFRACTAL? (big blind) showed [Kc Ts] and lost with a pair of Kings
+Seat 3: Mahu2021 (button) (small blind) showed [Jd Td] and won (1040) with a straight, Ten to Ace
+
+
+
+PokerStars Hand #245728994870: Tournament #3639458236, $0.92+$0.08 USD Hold'em No Limit - Level V (40/80) - 2023/09/02 15:30:24 CET [2023/09/02 9:30:24 ET]
+Table '3639458236 1' 3-max Seat #1 is the button
+Seat 1: ISITFRACTAL? (460 in chips) 
+Seat 3: Mahu2021 (1040 in chips) 
+ISITFRACTAL?: posts small blind 40
+Mahu2021: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6h 9s]
+ISITFRACTAL?: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: ISITFRACTAL? (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (80)
+
+
+
+PokerStars Hand #245728996122: Tournament #3639458236, $0.92+$0.08 USD Hold'em No Limit - Level V (40/80) - 2023/09/02 15:30:30 CET [2023/09/02 9:30:30 ET]
+Table '3639458236 1' 3-max Seat #3 is the button
+Seat 1: ISITFRACTAL? (420 in chips) 
+Seat 3: Mahu2021 (1080 in chips) 
+Mahu2021: posts small blind 40
+ISITFRACTAL?: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d 8h]
+Mahu2021: folds 
+Uncalled bet (40) returned to ISITFRACTAL?
+ISITFRACTAL? collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: ISITFRACTAL? (big blind) collected (80)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #245728997094: Tournament #3639458236, $0.92+$0.08 USD Hold'em No Limit - Level V (40/80) - 2023/09/02 15:30:35 CET [2023/09/02 9:30:35 ET]
+Table '3639458236 1' 3-max Seat #1 is the button
+Seat 1: ISITFRACTAL? (460 in chips) 
+Seat 3: Mahu2021 (1040 in chips) 
+ISITFRACTAL?: posts small blind 40
+Mahu2021: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6h 9h]
+ISITFRACTAL?: calls 40
+Mahu2021: checks 
+*** FLOP *** [2c 6s Td]
+Mahu2021: bets 960 and is all-in
+ISITFRACTAL?: calls 380 and is all-in
+Uncalled bet (580) returned to Mahu2021
+*** TURN *** [2c 6s Td] [3d]
+*** RIVER *** [2c 6s Td 3d] [Jh]
+*** SHOW DOWN ***
+Mahu2021: shows [6h 9h] (a pair of Sixes)
+ISITFRACTAL?: shows [8s 8h] (a pair of Eights)
+ISITFRACTAL? collected 920 from pot
+*** SUMMARY ***
+Total pot 920 | Rake 0 
+Board [2c 6s Td 3d Jh]
+Seat 1: ISITFRACTAL? (button) (small blind) showed [8s 8h] and won (920) with a pair of Eights
+Seat 3: Mahu2021 (big blind) showed [6h 9h] and lost with a pair of Sixes
+
+
+
+PokerStars Hand #245729000492: Tournament #3639458236, $0.92+$0.08 USD Hold'em No Limit - Level V (40/80) - 2023/09/02 15:30:50 CET [2023/09/02 9:30:50 ET]
+Table '3639458236 1' 3-max Seat #3 is the button
+Seat 1: ISITFRACTAL? (920 in chips) 
+Seat 3: Mahu2021 (580 in chips) 
+Mahu2021: posts small blind 40
+ISITFRACTAL?: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c Kc]
+Mahu2021: raises 500 to 580 and is all-in
+ISITFRACTAL?: calls 500
+*** FLOP *** [Td Kd 6s]
+*** TURN *** [Td Kd 6s] [5c]
+*** RIVER *** [Td Kd 6s 5c] [4s]
+*** SHOW DOWN ***
+ISITFRACTAL?: shows [Ah 6d] (a pair of Sixes)
+Mahu2021: shows [9c Kc] (a pair of Kings)
+Mahu2021 collected 1160 from pot
+*** SUMMARY ***
+Total pot 1160 | Rake 0 
+Board [Td Kd 6s 5c 4s]
+Seat 1: ISITFRACTAL? (big blind) showed [Ah 6d] and lost with a pair of Sixes
+Seat 3: Mahu2021 (button) (small blind) showed [9c Kc] and won (1160) with a pair of Kings
+
+
+
+PokerStars Hand #245729003168: Tournament #3639458236, $0.92+$0.08 USD Hold'em No Limit - Level V (40/80) - 2023/09/02 15:31:02 CET [2023/09/02 9:31:02 ET]
+Table '3639458236 1' 3-max Seat #1 is the button
+Seat 1: ISITFRACTAL? (340 in chips) 
+Seat 3: Mahu2021 (1160 in chips) 
+ISITFRACTAL?: posts small blind 40
+Mahu2021: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h 3c]
+ISITFRACTAL?: raises 260 to 340 and is all-in
+Mahu2021: folds 
+Uncalled bet (260) returned to ISITFRACTAL?
+ISITFRACTAL? collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Seat 1: ISITFRACTAL? (button) (small blind) collected (160)
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #245729004365: Tournament #3639458236, $0.92+$0.08 USD Hold'em No Limit - Level V (40/80) - 2023/09/02 15:31:07 CET [2023/09/02 9:31:07 ET]
+Table '3639458236 1' 3-max Seat #3 is the button
+Seat 1: ISITFRACTAL? (420 in chips) 
+Seat 3: Mahu2021 (1080 in chips) 
+Mahu2021: posts small blind 40
+ISITFRACTAL?: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2s 9d]
+Mahu2021: folds 
+Uncalled bet (40) returned to ISITFRACTAL?
+ISITFRACTAL? collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: ISITFRACTAL? (big blind) collected (80)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #245729005318: Tournament #3639458236, $0.92+$0.08 USD Hold'em No Limit - Level V (40/80) - 2023/09/02 15:31:12 CET [2023/09/02 9:31:12 ET]
+Table '3639458236 1' 3-max Seat #1 is the button
+Seat 1: ISITFRACTAL? (460 in chips) 
+Seat 3: Mahu2021 (1040 in chips) 
+ISITFRACTAL?: posts small blind 40
+Mahu2021: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d Th]
+ISITFRACTAL?: raises 380 to 460 and is all-in
+Mahu2021: folds 
+Uncalled bet (380) returned to ISITFRACTAL?
+ISITFRACTAL? collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Seat 1: ISITFRACTAL? (button) (small blind) collected (160)
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #245729006536: Tournament #3639458236, $0.92+$0.08 USD Hold'em No Limit - Level V (40/80) - 2023/09/02 15:31:17 CET [2023/09/02 9:31:17 ET]
+Table '3639458236 1' 3-max Seat #3 is the button
+Seat 1: ISITFRACTAL? (540 in chips) 
+Seat 3: Mahu2021 (960 in chips) 
+Mahu2021: posts small blind 40
+ISITFRACTAL?: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks Kc]
+Mahu2021: raises 880 to 960 and is all-in
+ISITFRACTAL?: folds 
+Uncalled bet (880) returned to Mahu2021
+Mahu2021 collected 160 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Seat 1: ISITFRACTAL? (big blind) folded before Flop
+Seat 3: Mahu2021 (button) (small blind) collected (160)
+
+
+
+PokerStars Hand #245729007782: Tournament #3639458236, $0.92+$0.08 USD Hold'em No Limit - Level V (40/80) - 2023/09/02 15:31:23 CET [2023/09/02 9:31:23 ET]
+Table '3639458236 1' 3-max Seat #1 is the button
+Seat 1: ISITFRACTAL? (460 in chips) 
+Seat 3: Mahu2021 (1040 in chips) 
+ISITFRACTAL?: posts small blind 40
+Mahu2021: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h 6d]
+ISITFRACTAL?: raises 380 to 460 and is all-in
+Mahu2021: folds 
+Uncalled bet (380) returned to ISITFRACTAL?
+ISITFRACTAL? collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Seat 1: ISITFRACTAL? (button) (small blind) collected (160)
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #245729008948: Tournament #3639458236, $0.92+$0.08 USD Hold'em No Limit - Level V (40/80) - 2023/09/02 15:31:28 CET [2023/09/02 9:31:28 ET]
+Table '3639458236 1' 3-max Seat #3 is the button
+Seat 1: ISITFRACTAL? (540 in chips) 
+Seat 3: Mahu2021 (960 in chips) 
+Mahu2021: posts small blind 40
+ISITFRACTAL?: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h 2c]
+Mahu2021: folds 
+Uncalled bet (40) returned to ISITFRACTAL?
+ISITFRACTAL? collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: ISITFRACTAL? (big blind) collected (80)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #245729009926: Tournament #3639458236, $0.92+$0.08 USD Hold'em No Limit - Level V (40/80) - 2023/09/02 15:31:32 CET [2023/09/02 9:31:32 ET]
+Table '3639458236 1' 3-max Seat #1 is the button
+Seat 1: ISITFRACTAL? (580 in chips) 
+Seat 3: Mahu2021 (920 in chips) 
+ISITFRACTAL?: posts small blind 40
+Mahu2021: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s 8d]
+ISITFRACTAL?: raises 500 to 580 and is all-in
+Mahu2021: folds 
+Uncalled bet (500) returned to ISITFRACTAL?
+ISITFRACTAL? collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Seat 1: ISITFRACTAL? (button) (small blind) collected (160)
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #245729011275: Tournament #3639458236, $0.92+$0.08 USD Hold'em No Limit - Level V (40/80) - 2023/09/02 15:31:38 CET [2023/09/02 9:31:38 ET]
+Table '3639458236 1' 3-max Seat #3 is the button
+Seat 1: ISITFRACTAL? (660 in chips) 
+Seat 3: Mahu2021 (840 in chips) 
+Mahu2021: posts small blind 40
+ISITFRACTAL?: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s 9s]
+Mahu2021: calls 40
+ISITFRACTAL?: checks 
+*** FLOP *** [4c 2d Kh]
+ISITFRACTAL?: checks 
+Mahu2021: bets 80
+ISITFRACTAL?: raises 80 to 160
+Mahu2021: folds 
+Uncalled bet (80) returned to ISITFRACTAL?
+ISITFRACTAL? collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [4c 2d Kh]
+Seat 1: ISITFRACTAL? (big blind) collected (320)
+Seat 3: Mahu2021 (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #245729014444: Tournament #3639458236, $0.92+$0.08 USD Hold'em No Limit - Level VI (50/100) - 2023/09/02 15:31:52 CET [2023/09/02 9:31:52 ET]
+Table '3639458236 1' 3-max Seat #1 is the button
+Seat 1: ISITFRACTAL? (820 in chips) 
+Seat 3: Mahu2021 (680 in chips) 
+ISITFRACTAL?: posts small blind 50
+Mahu2021: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h 2d]
+ISITFRACTAL?: raises 720 to 820 and is all-in
+Mahu2021: folds 
+Uncalled bet (720) returned to ISITFRACTAL?
+ISITFRACTAL? collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Seat 1: ISITFRACTAL? (button) (small blind) collected (200)
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #245729015397: Tournament #3639458236, $0.92+$0.08 USD Hold'em No Limit - Level VI (50/100) - 2023/09/02 15:31:57 CET [2023/09/02 9:31:57 ET]
+Table '3639458236 1' 3-max Seat #3 is the button
+Seat 1: ISITFRACTAL? (920 in chips) 
+Seat 3: Mahu2021 (580 in chips) 
+Mahu2021: posts small blind 50
+ISITFRACTAL?: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad 6h]
+Mahu2021: raises 480 to 580 and is all-in
+ISITFRACTAL?: calls 480
+*** FLOP *** [4s 6d 3s]
+*** TURN *** [4s 6d 3s] [5c]
+*** RIVER *** [4s 6d 3s 5c] [Tc]
+*** SHOW DOWN ***
+ISITFRACTAL?: shows [Kd 4h] (a pair of Fours)
+Mahu2021: shows [Ad 6h] (a pair of Sixes)
+Mahu2021 collected 1160 from pot
+*** SUMMARY ***
+Total pot 1160 | Rake 0 
+Board [4s 6d 3s 5c Tc]
+Seat 1: ISITFRACTAL? (big blind) showed [Kd 4h] and lost with a pair of Fours
+Seat 3: Mahu2021 (button) (small blind) showed [Ad 6h] and won (1160) with a pair of Sixes
+
+
+
+PokerStars Hand #245729018257: Tournament #3639458236, $0.92+$0.08 USD Hold'em No Limit - Level VI (50/100) - 2023/09/02 15:32:09 CET [2023/09/02 9:32:09 ET]
+Table '3639458236 1' 3-max Seat #1 is the button
+Seat 1: ISITFRACTAL? (340 in chips) 
+Seat 3: Mahu2021 (1160 in chips) 
+ISITFRACTAL?: posts small blind 50
+Mahu2021: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h Kc]
+ISITFRACTAL?: raises 240 to 340 and is all-in
+Mahu2021: calls 240
+*** FLOP *** [2h 5s 3s]
+*** TURN *** [2h 5s 3s] [9s]
+*** RIVER *** [2h 5s 3s 9s] [7s]
+*** SHOW DOWN ***
+Mahu2021: shows [9h Kc] (a pair of Nines)
+ISITFRACTAL?: shows [Tc 4s] (a flush, Nine high)
+ISITFRACTAL? collected 680 from pot
+*** SUMMARY ***
+Total pot 680 | Rake 0 
+Board [2h 5s 3s 9s 7s]
+Seat 1: ISITFRACTAL? (button) (small blind) showed [Tc 4s] and won (680) with a flush, Nine high
+Seat 3: Mahu2021 (big blind) showed [9h Kc] and lost with a pair of Nines
+
+
+
+PokerStars Hand #245729020962: Tournament #3639458236, $0.92+$0.08 USD Hold'em No Limit - Level VI (50/100) - 2023/09/02 15:32:21 CET [2023/09/02 9:32:21 ET]
+Table '3639458236 1' 3-max Seat #3 is the button
+Seat 1: ISITFRACTAL? (680 in chips) 
+Seat 3: Mahu2021 (820 in chips) 
+Mahu2021: posts small blind 50
+ISITFRACTAL?: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd 3c]
+Mahu2021: folds 
+Uncalled bet (50) returned to ISITFRACTAL?
+ISITFRACTAL? collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: ISITFRACTAL? (big blind) collected (100)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #245729022059: Tournament #3639458236, $0.92+$0.08 USD Hold'em No Limit - Level VI (50/100) - 2023/09/02 15:32:26 CET [2023/09/02 9:32:26 ET]
+Table '3639458236 1' 3-max Seat #1 is the button
+Seat 1: ISITFRACTAL? (730 in chips) 
+Seat 3: Mahu2021 (770 in chips) 
+ISITFRACTAL?: posts small blind 50
+Mahu2021: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s 9h]
+ISITFRACTAL?: folds 
+Uncalled bet (50) returned to Mahu2021
+Mahu2021 collected 100 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: ISITFRACTAL? (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (100)
+
+
+
+PokerStars Hand #245729023282: Tournament #3639458236, $0.92+$0.08 USD Hold'em No Limit - Level VI (50/100) - 2023/09/02 15:32:31 CET [2023/09/02 9:32:31 ET]
+Table '3639458236 1' 3-max Seat #3 is the button
+Seat 1: ISITFRACTAL? (680 in chips) 
+Seat 3: Mahu2021 (820 in chips) 
+Mahu2021: posts small blind 50
+ISITFRACTAL?: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h 3c]
+Mahu2021: calls 50
+ISITFRACTAL?: raises 580 to 680 and is all-in
+Mahu2021: folds 
+Uncalled bet (580) returned to ISITFRACTAL?
+ISITFRACTAL? collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Seat 1: ISITFRACTAL? (big blind) collected (200)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #245729024685: Tournament #3639458236, $0.92+$0.08 USD Hold'em No Limit - Level VI (50/100) - 2023/09/02 15:32:38 CET [2023/09/02 9:32:38 ET]
+Table '3639458236 1' 3-max Seat #1 is the button
+Seat 1: ISITFRACTAL? (780 in chips) 
+Seat 3: Mahu2021 (720 in chips) 
+ISITFRACTAL?: posts small blind 50
+Mahu2021: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s 3s]
+ISITFRACTAL?: calls 50
+Mahu2021: checks 
+*** FLOP *** [Qd 6s Jh]
+Mahu2021: checks 
+ISITFRACTAL?: bets 100
+Mahu2021: folds 
+Uncalled bet (100) returned to ISITFRACTAL?
+ISITFRACTAL? collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [Qd 6s Jh]
+Seat 1: ISITFRACTAL? (button) (small blind) collected (200)
+Seat 3: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #245729027255: Tournament #3639458236, $0.92+$0.08 USD Hold'em No Limit - Level VI (50/100) - 2023/09/02 15:32:49 CET [2023/09/02 9:32:49 ET]
+Table '3639458236 1' 3-max Seat #3 is the button
+Seat 1: ISITFRACTAL? (880 in chips) 
+Seat 3: Mahu2021 (620 in chips) 
+Mahu2021: posts small blind 50
+ISITFRACTAL?: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qd 2d]
+Mahu2021: raises 520 to 620 and is all-in
+ISITFRACTAL?: folds 
+Uncalled bet (520) returned to Mahu2021
+Mahu2021 collected 200 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Seat 1: ISITFRACTAL? (big blind) folded before Flop
+Seat 3: Mahu2021 (button) (small blind) collected (200)
+
+
+
+PokerStars Hand #245729028592: Tournament #3639458236, $0.92+$0.08 USD Hold'em No Limit - Level VI (50/100) - 2023/09/02 15:32:55 CET [2023/09/02 9:32:55 ET]
+Table '3639458236 1' 3-max Seat #1 is the button
+Seat 1: ISITFRACTAL? (780 in chips) 
+Seat 3: Mahu2021 (720 in chips) 
+ISITFRACTAL?: posts small blind 50
+Mahu2021: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh 2h]
+ISITFRACTAL?: calls 50
+Mahu2021: checks 
+*** FLOP *** [3h 5s Js]
+Mahu2021: checks 
+ISITFRACTAL?: bets 100
+Mahu2021: raises 520 to 620 and is all-in
+ISITFRACTAL?: folds 
+Uncalled bet (520) returned to Mahu2021
+Mahu2021 collected 400 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Board [3h 5s Js]
+Seat 1: ISITFRACTAL? (button) (small blind) folded on the Flop
+Seat 3: Mahu2021 (big blind) collected (400)
+
+
+
+PokerStars Hand #245729031481: Tournament #3639458236, $0.92+$0.08 USD Hold'em No Limit - Level VI (50/100) - 2023/09/02 15:33:08 CET [2023/09/02 9:33:08 ET]
+Table '3639458236 1' 3-max Seat #3 is the button
+Seat 1: ISITFRACTAL? (580 in chips) 
+Seat 3: Mahu2021 (920 in chips) 
+Mahu2021: posts small blind 50
+ISITFRACTAL?: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qs Td]
+Mahu2021: raises 820 to 920 and is all-in
+ISITFRACTAL?: calls 480 and is all-in
+Uncalled bet (340) returned to Mahu2021
+*** FLOP *** [Kd Jh 7h]
+*** TURN *** [Kd Jh 7h] [6c]
+*** RIVER *** [Kd Jh 7h 6c] [7d]
+*** SHOW DOWN ***
+ISITFRACTAL?: shows [Jd Kc] (two pair, Kings and Jacks)
+Mahu2021: shows [Qs Td] (a pair of Sevens)
+ISITFRACTAL? collected 1160 from pot
+*** SUMMARY ***
+Total pot 1160 | Rake 0 
+Board [Kd Jh 7h 6c 7d]
+Seat 1: ISITFRACTAL? (big blind) showed [Jd Kc] and won (1160) with two pair, Kings and Jacks
+Seat 3: Mahu2021 (button) (small blind) showed [Qs Td] and lost with a pair of Sevens
+
+
+
+PokerStars Hand #245729034189: Tournament #3639458236, $0.92+$0.08 USD Hold'em No Limit - Level VI (50/100) - 2023/09/02 15:33:20 CET [2023/09/02 9:33:20 ET]
+Table '3639458236 1' 3-max Seat #1 is the button
+Seat 1: ISITFRACTAL? (1160 in chips) 
+Seat 3: Mahu2021 (340 in chips) 
+ISITFRACTAL?: posts small blind 50
+Mahu2021: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js 2h]
+ISITFRACTAL?: raises 1060 to 1160 and is all-in
+Mahu2021: calls 240 and is all-in
+Uncalled bet (820) returned to ISITFRACTAL?
+*** FLOP *** [Ts Qc 6s]
+*** TURN *** [Ts Qc 6s] [9s]
+*** RIVER *** [Ts Qc 6s 9s] [6c]
+*** SHOW DOWN ***
+Mahu2021: shows [Js 2h] (a pair of Sixes)
+ISITFRACTAL?: shows [8s Ad] (a pair of Sixes - Ace kicker)
+ISITFRACTAL? collected 680 from pot
+Mahu2021 finished the tournament in 2nd place
+ISITFRACTAL? wins the tournament and receives $2.00 - congratulations!
+*** SUMMARY ***
+Total pot 680 | Rake 0 
+Board [Ts Qc 6s 9s 6c]
+Seat 1: ISITFRACTAL? (button) (small blind) showed [8s Ad] and won (680) with a pair of Sixes
+Seat 3: Mahu2021 (big blind) showed [Js 2h] and lost with a pair of Sixes
+
+
+

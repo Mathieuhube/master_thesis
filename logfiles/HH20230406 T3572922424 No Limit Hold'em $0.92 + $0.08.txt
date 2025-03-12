@@ -1,0 +1,364 @@
+﻿PokerStars Hand #242915203768: Tournament #3572922424, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/06 7:30:06 CET [2023/04/06 1:30:06 ET]
+Table '3572922424 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: alefj (500 in chips) 
+Seat 3: hmaguere (500 in chips) 
+alefj: posts small blind 10
+hmaguere: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd 8c]
+Mahu2021: calls 20
+alefj: calls 10
+hmaguere: checks 
+*** FLOP *** [Qh 9h Js]
+alefj: checks 
+hmaguere: checks 
+Mahu2021: checks 
+*** TURN *** [Qh 9h Js] [5s]
+alefj: checks 
+hmaguere: checks 
+Mahu2021: bets 20
+alefj: calls 20
+hmaguere: folds 
+*** RIVER *** [Qh 9h Js 5s] [Jd]
+alefj: checks 
+Mahu2021: bets 100
+alefj: folds 
+Uncalled bet (100) returned to Mahu2021
+Mahu2021 collected 100 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [Qh 9h Js 5s Jd]
+Seat 1: Mahu2021 (button) collected (100)
+Seat 2: alefj (small blind) folded on the River
+Seat 3: hmaguere (big blind) folded on the Turn
+
+
+
+PokerStars Hand #242915207033: Tournament #3572922424, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/06 7:30:37 CET [2023/04/06 1:30:37 ET]
+Table '3572922424 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (560 in chips) 
+Seat 2: alefj (460 in chips) 
+Seat 3: hmaguere (480 in chips) 
+hmaguere: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh Ac]
+alefj: folds 
+hmaguere: raises 20 to 40
+Mahu2021: calls 20
+*** FLOP *** [6c As 3d]
+hmaguere: bets 28
+Mahu2021: calls 28
+*** TURN *** [6c As 3d] [Ah]
+hmaguere: bets 95
+Mahu2021: calls 95
+*** RIVER *** [6c As 3d Ah] [8d]
+hmaguere: checks 
+Mahu2021: bets 120
+hmaguere: folds 
+Uncalled bet (120) returned to Mahu2021
+Mahu2021 collected 326 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 326 | Rake 0 
+Board [6c As 3d Ah 8d]
+Seat 1: Mahu2021 (big blind) collected (326)
+Seat 2: alefj (button) folded before Flop (didn't bet)
+Seat 3: hmaguere (small blind) folded on the River
+
+
+
+PokerStars Hand #242915210617: Tournament #3572922424, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/06 7:31:12 CET [2023/04/06 1:31:12 ET]
+Table '3572922424 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (723 in chips) 
+Seat 2: alefj (460 in chips) 
+Seat 3: hmaguere (317 in chips) 
+Mahu2021: posts small blind 10
+alefj: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh 8d]
+hmaguere: folds 
+Mahu2021: raises 20 to 40
+alefj: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (small blind) collected (40)
+Seat 2: alefj (big blind) folded before Flop
+Seat 3: hmaguere (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #242915211501: Tournament #3572922424, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/06 7:31:21 CET [2023/04/06 1:31:21 ET]
+Table '3572922424 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (743 in chips) 
+Seat 2: alefj (440 in chips) 
+Seat 3: hmaguere (317 in chips) 
+alefj: posts small blind 10
+hmaguere: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d Qd]
+Mahu2021: calls 20
+alefj: folds 
+hmaguere: checks 
+*** FLOP *** [Th Ks Tc]
+hmaguere: checks 
+Mahu2021: checks 
+*** TURN *** [Th Ks Tc] [Qc]
+hmaguere: checks 
+Mahu2021: checks 
+*** RIVER *** [Th Ks Tc Qc] [2c]
+hmaguere: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+hmaguere: shows [9h 6d] (a pair of Tens)
+Mahu2021: shows [9d Qd] (two pair, Queens and Tens)
+Mahu2021 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [Th Ks Tc Qc 2c]
+Seat 1: Mahu2021 (button) showed [9d Qd] and won (50) with two pair, Queens and Tens
+Seat 2: alefj (small blind) folded before Flop
+Seat 3: hmaguere (big blind) showed [9h 6d] and lost with a pair of Tens
+
+
+
+PokerStars Hand #242915213447: Tournament #3572922424, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/06 7:31:38 CET [2023/04/06 1:31:38 ET]
+Table '3572922424 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (773 in chips) 
+Seat 2: alefj (430 in chips) 
+Seat 3: hmaguere (297 in chips) 
+hmaguere: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c Kc]
+alefj: folds 
+hmaguere: raises 20 to 40
+Mahu2021: calls 20
+*** FLOP *** [5s 6h Js]
+hmaguere: bets 40
+Mahu2021: calls 40
+*** TURN *** [5s 6h Js] [5h]
+hmaguere: checks 
+Mahu2021: bets 40
+hmaguere: calls 40
+*** RIVER *** [5s 6h Js 5h] [Ad]
+hmaguere: bets 177 and is all-in
+Mahu2021: calls 177
+*** SHOW DOWN ***
+hmaguere: shows [7c 8c] (a pair of Fives)
+Mahu2021: shows [5c Kc] (three of a kind, Fives)
+Mahu2021 collected 594 from pot
+hmaguere finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 594 | Rake 0 
+Board [5s 6h Js 5h Ad]
+Seat 1: Mahu2021 (big blind) showed [5c Kc] and won (594) with three of a kind, Fives
+Seat 2: alefj (button) folded before Flop (didn't bet)
+Seat 3: hmaguere (small blind) showed [7c 8c] and lost with a pair of Fives
+
+
+
+PokerStars Hand #242915216740: Tournament #3572922424, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/06 7:32:10 CET [2023/04/06 1:32:10 ET]
+Table '3572922424 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1070 in chips) 
+Seat 2: alefj (430 in chips) 
+Mahu2021: posts small blind 10
+alefj: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c Kh]
+Mahu2021: calls 10
+alefj: checks 
+*** FLOP *** [9s 4d 7c]
+alefj: checks 
+Mahu2021: bets 20
+alefj: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [9s 4d 7c]
+Seat 1: Mahu2021 (button) (small blind) collected (40)
+Seat 2: alefj (big blind) folded on the Flop
+
+
+
+PokerStars Hand #242915217976: Tournament #3572922424, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/06 7:32:23 CET [2023/04/06 1:32:23 ET]
+Table '3572922424 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (1090 in chips) 
+Seat 2: alefj (410 in chips) 
+alefj: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d Tc]
+alefj: calls 10
+Mahu2021: checks 
+*** FLOP *** [Jc 3s 6d]
+Mahu2021: checks 
+alefj: checks 
+*** TURN *** [Jc 3s 6d] [8h]
+Mahu2021: checks 
+alefj: checks 
+*** RIVER *** [Jc 3s 6d 8h] [Qs]
+Mahu2021: checks 
+alefj: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [2d Tc] (high card Queen)
+alefj: mucks hand 
+Mahu2021 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Jc 3s 6d 8h Qs]
+Seat 1: Mahu2021 (big blind) showed [2d Tc] and won (40) with high card Queen
+Seat 2: alefj (button) (small blind) mucked [9c 7d]
+
+
+
+PokerStars Hand #242915220022: Tournament #3572922424, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/06 7:32:42 CET [2023/04/06 1:32:42 ET]
+Table '3572922424 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1110 in chips) 
+Seat 2: alefj (390 in chips) 
+Mahu2021: posts small blind 10
+alefj: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac Ah]
+Mahu2021: calls 10
+alefj: checks 
+*** FLOP *** [7d 4d 6s]
+alefj: bets 40
+Mahu2021: raises 1050 to 1090 and is all-in
+alefj: folds 
+Uncalled bet (1050) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [7d 4d 6s]
+Seat 1: Mahu2021 (button) (small blind) collected (120)
+Seat 2: alefj (big blind) folded on the Flop
+
+
+
+PokerStars Hand #242915221569: Tournament #3572922424, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/06 7:32:57 CET [2023/04/06 1:32:57 ET]
+Table '3572922424 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (1170 in chips) 
+Seat 2: alefj (330 in chips) 
+alefj: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h 5d]
+alefj: raises 20 to 40
+Mahu2021: folds 
+Uncalled bet (20) returned to alefj
+alefj collected 40 from pot
+alefj: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: alefj (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #242915222440: Tournament #3572922424, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/06 7:33:05 CET [2023/04/06 1:33:05 ET]
+Table '3572922424 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1150 in chips) 
+Seat 2: alefj (350 in chips) 
+Mahu2021: posts small blind 10
+alefj: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5h 4h]
+Mahu2021: calls 10
+alefj: checks 
+*** FLOP *** [9c Tc Kc]
+alefj: checks 
+Mahu2021: bets 20
+alefj: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [9c Tc Kc]
+Seat 1: Mahu2021 (button) (small blind) collected (40)
+Seat 2: alefj (big blind) folded on the Flop
+
+
+
+PokerStars Hand #242915223958: Tournament #3572922424, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/06 7:33:20 CET [2023/04/06 1:33:20 ET]
+Table '3572922424 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (1170 in chips) 
+Seat 2: alefj (330 in chips) 
+alefj: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah 5d]
+alefj: calls 15
+Mahu2021: checks 
+*** FLOP *** [9c 5c 6h]
+Mahu2021: bets 30
+alefj: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [9c 5c 6h]
+Seat 1: Mahu2021 (big blind) collected (60)
+Seat 2: alefj (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #242915225119: Tournament #3572922424, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/06 7:33:31 CET [2023/04/06 1:33:31 ET]
+Table '3572922424 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1200 in chips) 
+Seat 2: alefj (300 in chips) 
+Mahu2021: posts small blind 15
+alefj: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh Qd]
+Mahu2021: raises 1170 to 1200 and is all-in
+alefj: folds 
+Uncalled bet (1170) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) collected (60)
+Seat 2: alefj (big blind) folded before Flop
+
+
+
+PokerStars Hand #242915225831: Tournament #3572922424, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/06 7:33:38 CET [2023/04/06 1:33:38 ET]
+Table '3572922424 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (1230 in chips) 
+Seat 2: alefj (270 in chips) 
+alefj: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qd Ac]
+alefj: raises 60 to 90
+Mahu2021: raises 1140 to 1230 and is all-in
+alefj: calls 180 and is all-in
+Uncalled bet (960) returned to Mahu2021
+*** FLOP *** [4d 5d Jc]
+*** TURN *** [4d 5d Jc] [As]
+*** RIVER *** [4d 5d Jc As] [Ad]
+*** SHOW DOWN ***
+Mahu2021: shows [Qd Ac] (three of a kind, Aces)
+alefj: shows [Kc Kh] (two pair, Aces and Kings)
+Mahu2021 collected 540 from pot
+alefj finished the tournament in 2nd place
+Mahu2021 wins the tournament and receives $3.00 - congratulations!
+*** SUMMARY ***
+Total pot 540 | Rake 0 
+Board [4d 5d Jc As Ad]
+Seat 1: Mahu2021 (big blind) showed [Qd Ac] and won (540) with three of a kind, Aces
+Seat 2: alefj (button) (small blind) showed [Kc Kh] and lost with two pair, Aces and Kings
+
+
+

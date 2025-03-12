@@ -1,0 +1,604 @@
+﻿PokerStars Hand #253449445057: Tournament #3824592132, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/17 20:21:36 CET [2024/11/17 14:21:36 ET]
+Table '3824592132 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: dim30071 (500 in chips) 
+Seat 3: coinbirb (500 in chips) 
+dim30071: posts small blind 10
+coinbirb: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js Kh]
+Mahu2021: raises 20 to 40
+dim30071: folds 
+coinbirb: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 50 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: Mahu2021 (button) collected (50)
+Seat 2: dim30071 (small blind) folded before Flop
+Seat 3: coinbirb (big blind) folded before Flop
+
+
+
+PokerStars Hand #253449447512: Tournament #3824592132, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/17 20:21:42 CET [2024/11/17 14:21:42 ET]
+Table '3824592132 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (530 in chips) 
+Seat 2: dim30071 (490 in chips) 
+Seat 3: coinbirb (480 in chips) 
+coinbirb: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h Td]
+dim30071: folds 
+coinbirb: calls 10
+Mahu2021: checks 
+*** FLOP *** [6d As 4h]
+coinbirb: checks 
+Mahu2021: checks 
+*** TURN *** [6d As 4h] [7c]
+coinbirb: checks 
+Mahu2021: bets 20
+coinbirb: calls 20
+*** RIVER *** [6d As 4h 7c] [Jc]
+coinbirb: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+coinbirb: shows [8s Jh] (a pair of Jacks)
+Mahu2021: mucks hand 
+coinbirb collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [6d As 4h 7c Jc]
+Seat 1: Mahu2021 (big blind) mucked [7h Td]
+Seat 2: dim30071 (button) folded before Flop (didn't bet)
+Seat 3: coinbirb (small blind) showed [8s Jh] and won (80) with a pair of Jacks
+
+
+
+PokerStars Hand #253449453524: Tournament #3824592132, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/17 20:22:00 CET [2024/11/17 14:22:00 ET]
+Table '3824592132 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (490 in chips) 
+Seat 2: dim30071 (490 in chips) 
+Seat 3: coinbirb (520 in chips) 
+Mahu2021: posts small blind 10
+dim30071: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd Js]
+coinbirb: raises 20 to 40
+Mahu2021: calls 30
+dim30071: calls 20
+*** FLOP *** [2s Qh 7h]
+Mahu2021: checks 
+dim30071: checks 
+coinbirb: bets 40
+Mahu2021: folds 
+dim30071: folds 
+Uncalled bet (40) returned to coinbirb
+coinbirb collected 120 from pot
+coinbirb: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [2s Qh 7h]
+Seat 1: Mahu2021 (small blind) folded on the Flop
+Seat 2: dim30071 (big blind) folded on the Flop
+Seat 3: coinbirb (button) collected (120)
+
+
+
+PokerStars Hand #253449458390: Tournament #3824592132, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/17 20:22:13 CET [2024/11/17 14:22:13 ET]
+Table '3824592132 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (450 in chips) 
+Seat 2: dim30071 (450 in chips) 
+Seat 3: coinbirb (600 in chips) 
+dim30071: posts small blind 10
+coinbirb: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh 3c]
+Mahu2021: folds 
+dim30071: calls 10
+coinbirb: checks 
+*** FLOP *** [3h 9d 6d]
+dim30071: checks 
+coinbirb: checks 
+*** TURN *** [3h 9d 6d] [Jc]
+dim30071: bets 20
+coinbirb: folds 
+Uncalled bet (20) returned to dim30071
+dim30071 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [3h 9d 6d Jc]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: dim30071 (small blind) collected (40)
+Seat 3: coinbirb (big blind) folded on the Turn
+
+
+
+PokerStars Hand #253449464313: Tournament #3824592132, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/17 20:22:30 CET [2024/11/17 14:22:30 ET]
+Table '3824592132 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (450 in chips) 
+Seat 2: dim30071 (470 in chips) 
+Seat 3: coinbirb (580 in chips) 
+coinbirb: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd 8h]
+dim30071: folds 
+coinbirb: calls 10
+Mahu2021: checks 
+*** FLOP *** [4d Kh 2d]
+coinbirb: checks 
+Mahu2021: bets 20
+coinbirb: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [4d Kh 2d]
+Seat 1: Mahu2021 (big blind) collected (40)
+Seat 2: dim30071 (button) folded before Flop (didn't bet)
+Seat 3: coinbirb (small blind) folded on the Flop
+
+
+
+PokerStars Hand #253449468446: Tournament #3824592132, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/17 20:22:42 CET [2024/11/17 14:22:42 ET]
+Table '3824592132 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (470 in chips) 
+Seat 2: dim30071 (470 in chips) 
+Seat 3: coinbirb (560 in chips) 
+Mahu2021: posts small blind 10
+dim30071: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Tc 6h]
+coinbirb: raises 20 to 40
+Mahu2021: folds 
+dim30071: calls 20
+*** FLOP *** [Kh 3s Ts]
+dim30071: checks 
+coinbirb: bets 40
+dim30071: calls 40
+*** TURN *** [Kh 3s Ts] [8c]
+dim30071: checks 
+coinbirb: checks 
+*** RIVER *** [Kh 3s Ts 8c] [9h]
+dim30071: bets 40
+coinbirb: calls 40
+*** SHOW DOWN ***
+dim30071: shows [Kd 7s] (a pair of Kings)
+coinbirb: mucks hand 
+dim30071 collected 250 from pot
+*** SUMMARY ***
+Total pot 250 | Rake 0 
+Board [Kh 3s Ts 8c 9h]
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: dim30071 (big blind) showed [Kd 7s] and won (250) with a pair of Kings
+Seat 3: coinbirb (button) mucked [Td Ah]
+
+
+
+PokerStars Hand #253449474684: Tournament #3824592132, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/17 20:23:00 CET [2024/11/17 14:23:00 ET]
+Table '3824592132 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (460 in chips) 
+Seat 2: dim30071 (600 in chips) 
+Seat 3: coinbirb (440 in chips) 
+dim30071: posts small blind 10
+coinbirb: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c 3c]
+Mahu2021: folds 
+dim30071: folds 
+Uncalled bet (10) returned to coinbirb
+coinbirb collected 20 from pot
+coinbirb: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: dim30071 (small blind) folded before Flop
+Seat 3: coinbirb (big blind) collected (20)
+
+
+
+PokerStars Hand #253449477050: Tournament #3824592132, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/17 20:23:06 CET [2024/11/17 14:23:06 ET]
+Table '3824592132 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (460 in chips) 
+Seat 2: dim30071 (590 in chips) 
+Seat 3: coinbirb (450 in chips) 
+coinbirb: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d Kh]
+dim30071: folds 
+coinbirb: raises 40 to 60
+Mahu2021: calls 40
+*** FLOP *** [2s 9s Qc]
+coinbirb: checks 
+Mahu2021: bets 40
+coinbirb: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [2s 9s Qc]
+Seat 1: Mahu2021 (big blind) collected (120)
+Seat 2: dim30071 (button) folded before Flop (didn't bet)
+Seat 3: coinbirb (small blind) folded on the Flop
+
+
+
+PokerStars Hand #253449480701: Tournament #3824592132, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/17 20:23:17 CET [2024/11/17 14:23:17 ET]
+Table '3824592132 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (520 in chips) 
+Seat 2: dim30071 (590 in chips) 
+Seat 3: coinbirb (390 in chips) 
+Mahu2021: posts small blind 10
+dim30071: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd Th]
+coinbirb: raises 20 to 40
+Mahu2021: calls 30
+dim30071: folds 
+*** FLOP *** [9s As 8c]
+Mahu2021: bets 40
+coinbirb: raises 119 to 159
+Mahu2021: calls 119
+*** TURN *** [9s As 8c] [Tc]
+Mahu2021: checks 
+coinbirb: bets 191 and is all-in
+Mahu2021: calls 191
+*** RIVER *** [9s As 8c Tc] [6c]
+*** SHOW DOWN ***
+Mahu2021: shows [Jd Th] (a pair of Tens)
+coinbirb: shows [Ad Kc] (a pair of Aces)
+coinbirb collected 800 from pot
+*** SUMMARY ***
+Total pot 800 | Rake 0 
+Board [9s As 8c Tc 6c]
+Seat 1: Mahu2021 (small blind) showed [Jd Th] and lost with a pair of Tens
+Seat 2: dim30071 (big blind) folded before Flop
+Seat 3: coinbirb (button) showed [Ad Kc] and won (800) with a pair of Aces
+
+
+
+PokerStars Hand #253449487363: Tournament #3824592132, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/17 20:23:36 CET [2024/11/17 14:23:36 ET]
+Table '3824592132 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (130 in chips) 
+Seat 2: dim30071 (570 in chips) 
+Seat 3: coinbirb (800 in chips) 
+dim30071: posts small blind 10
+coinbirb: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc Ah]
+Mahu2021: raises 110 to 130 and is all-in
+dim30071: folds 
+coinbirb: folds 
+Uncalled bet (110) returned to Mahu2021
+Mahu2021 collected 50 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: Mahu2021 (button) collected (50)
+Seat 2: dim30071 (small blind) folded before Flop
+Seat 3: coinbirb (big blind) folded before Flop
+
+
+
+PokerStars Hand #253449489673: Tournament #3824592132, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/17 20:23:42 CET [2024/11/17 14:23:42 ET]
+Table '3824592132 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (160 in chips) 
+Seat 2: dim30071 (560 in chips) 
+Seat 3: coinbirb (780 in chips) 
+coinbirb: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4d 7c]
+dim30071: raises 20 to 40
+coinbirb: folds 
+Mahu2021: folds 
+Uncalled bet (20) returned to dim30071
+dim30071 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: dim30071 (button) collected (50)
+Seat 3: coinbirb (small blind) folded before Flop
+
+
+
+PokerStars Hand #253449491639: Tournament #3824592132, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/17 20:23:48 CET [2024/11/17 14:23:48 ET]
+Table '3824592132 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (140 in chips) 
+Seat 2: dim30071 (590 in chips) 
+Seat 3: coinbirb (770 in chips) 
+Mahu2021: posts small blind 10
+dim30071: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s 4c]
+coinbirb: raises 20 to 40
+Mahu2021: folds 
+dim30071: calls 20
+*** FLOP *** [4s 8s 7d]
+dim30071: checks 
+coinbirb: bets 59
+dim30071: folds 
+Uncalled bet (59) returned to coinbirb
+coinbirb collected 90 from pot
+coinbirb: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [4s 8s 7d]
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: dim30071 (big blind) folded on the Flop
+Seat 3: coinbirb (button) collected (90)
+
+
+
+PokerStars Hand #253449494849: Tournament #3824592132, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/17 20:23:57 CET [2024/11/17 14:23:57 ET]
+Table '3824592132 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (130 in chips) 
+Seat 2: dim30071 (550 in chips) 
+Seat 3: coinbirb (820 in chips) 
+dim30071: posts small blind 10
+coinbirb: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah 2d]
+Mahu2021: raises 110 to 130 and is all-in
+dim30071: folds 
+coinbirb: folds 
+Uncalled bet (110) returned to Mahu2021
+Mahu2021 collected 50 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: Mahu2021 (button) collected (50)
+Seat 2: dim30071 (small blind) folded before Flop
+Seat 3: coinbirb (big blind) folded before Flop
+
+
+
+PokerStars Hand #253449497116: Tournament #3824592132, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/17 20:24:04 CET [2024/11/17 14:24:04 ET]
+Table '3824592132 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (160 in chips) 
+Seat 2: dim30071 (540 in chips) 
+Seat 3: coinbirb (800 in chips) 
+coinbirb: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc 6h]
+dim30071: folds 
+coinbirb: folds 
+Uncalled bet (10) returned to Mahu2021
+Mahu2021 collected 20 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (20)
+Seat 2: dim30071 (button) folded before Flop (didn't bet)
+Seat 3: coinbirb (small blind) folded before Flop
+
+
+
+PokerStars Hand #253449498581: Tournament #3824592132, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/17 20:24:08 CET [2024/11/17 14:24:08 ET]
+Table '3824592132 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (170 in chips) 
+Seat 2: dim30071 (540 in chips) 
+Seat 3: coinbirb (790 in chips) 
+Mahu2021: posts small blind 10
+dim30071: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s 5c]
+coinbirb: folds 
+Mahu2021: folds 
+Uncalled bet (10) returned to dim30071
+dim30071 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: dim30071 (big blind) collected (20)
+Seat 3: coinbirb (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253449500029: Tournament #3824592132, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/17 20:24:12 CET [2024/11/17 14:24:12 ET]
+Table '3824592132 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (160 in chips) 
+Seat 2: dim30071 (550 in chips) 
+Seat 3: coinbirb (790 in chips) 
+dim30071: posts small blind 10
+coinbirb: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d Ah]
+Mahu2021: raises 140 to 160 and is all-in
+dim30071: folds 
+coinbirb: folds 
+Uncalled bet (140) returned to Mahu2021
+Mahu2021 collected 50 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: Mahu2021 (button) collected (50)
+Seat 2: dim30071 (small blind) folded before Flop
+Seat 3: coinbirb (big blind) folded before Flop
+
+
+
+PokerStars Hand #253449502624: Tournament #3824592132, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/17 20:24:19 CET [2024/11/17 14:24:19 ET]
+Table '3824592132 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (190 in chips) 
+Seat 2: dim30071 (540 in chips) 
+Seat 3: coinbirb (770 in chips) 
+coinbirb: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c Jc]
+dim30071: folds 
+coinbirb: folds 
+Uncalled bet (10) returned to Mahu2021
+Mahu2021 collected 20 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (20)
+Seat 2: dim30071 (button) folded before Flop (didn't bet)
+Seat 3: coinbirb (small blind) folded before Flop
+
+
+
+PokerStars Hand #253449503998: Tournament #3824592132, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/17 20:24:23 CET [2024/11/17 14:24:23 ET]
+Table '3824592132 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (200 in chips) 
+Seat 2: dim30071 (540 in chips) 
+Seat 3: coinbirb (760 in chips) 
+Mahu2021: posts small blind 10
+dim30071: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh 4s]
+coinbirb: raises 20 to 40
+Mahu2021: calls 30
+dim30071: raises 500 to 540 and is all-in
+coinbirb: raises 220 to 760 and is all-in
+Mahu2021: folds 
+Uncalled bet (220) returned to coinbirb
+*** FLOP *** [7c 6h 7d]
+*** TURN *** [7c 6h 7d] [Ks]
+*** RIVER *** [7c 6h 7d Ks] [5h]
+*** SHOW DOWN ***
+dim30071: shows [9c Ac] (a pair of Sevens)
+coinbirb: shows [Ts Tc] (two pair, Tens and Sevens)
+coinbirb collected 1120 from pot
+dim30071 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1120 | Rake 0 
+Board [7c 6h 7d Ks 5h]
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: dim30071 (big blind) showed [9c Ac] and lost with a pair of Sevens
+Seat 3: coinbirb (button) showed [Ts Tc] and won (1120) with two pair, Tens and Sevens
+
+
+
+PokerStars Hand #253449509975: Tournament #3824592132, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/17 20:24:40 CET [2024/11/17 14:24:40 ET]
+Table '3824592132 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (160 in chips) 
+Seat 3: coinbirb (1340 in chips) 
+Mahu2021: posts small blind 15
+coinbirb: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s 7d]
+Mahu2021: folds 
+Uncalled bet (15) returned to coinbirb
+coinbirb collected 30 from pot
+coinbirb: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: coinbirb (big blind) collected (30)
+
+
+
+PokerStars Hand #253449511359: Tournament #3824592132, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/17 20:24:44 CET [2024/11/17 14:24:44 ET]
+Table '3824592132 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (145 in chips) 
+Seat 3: coinbirb (1355 in chips) 
+coinbirb: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc Qc]
+coinbirb: calls 15
+Mahu2021: raises 115 to 145 and is all-in
+coinbirb: calls 115
+*** FLOP *** [Js 8c 6s]
+*** TURN *** [Js 8c 6s] [Qs]
+*** RIVER *** [Js 8c 6s Qs] [9h]
+*** SHOW DOWN ***
+Mahu2021: shows [Jc Qc] (two pair, Queens and Jacks)
+coinbirb: shows [4h 7h] (high card Queen)
+Mahu2021 collected 290 from pot
+*** SUMMARY ***
+Total pot 290 | Rake 0 
+Board [Js 8c 6s Qs 9h]
+Seat 1: Mahu2021 (big blind) showed [Jc Qc] and won (290) with two pair, Queens and Jacks
+Seat 3: coinbirb (button) (small blind) showed [4h 7h] and lost with high card Queen
+
+
+
+PokerStars Hand #253449515628: Tournament #3824592132, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/17 20:24:56 CET [2024/11/17 14:24:56 ET]
+Table '3824592132 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (290 in chips) 
+Seat 3: coinbirb (1210 in chips) 
+Mahu2021: posts small blind 15
+coinbirb: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4c 7c]
+Mahu2021: calls 15
+coinbirb: checks 
+*** FLOP *** [8h As 5d]
+coinbirb: checks 
+Mahu2021: bets 30
+coinbirb: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [8h As 5d]
+Seat 1: Mahu2021 (button) (small blind) collected (60)
+Seat 3: coinbirb (big blind) folded on the Flop
+
+
+
+PokerStars Hand #253449518901: Tournament #3824592132, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/17 20:25:06 CET [2024/11/17 14:25:06 ET]
+Table '3824592132 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (320 in chips) 
+Seat 3: coinbirb (1180 in chips) 
+coinbirb: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4d 3c]
+coinbirb: calls 15
+Mahu2021: checks 
+*** FLOP *** [9s 6d 7d]
+Mahu2021: checks 
+coinbirb: bets 30
+Mahu2021: folds 
+Uncalled bet (30) returned to coinbirb
+coinbirb collected 60 from pot
+coinbirb: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [9s 6d 7d]
+Seat 1: Mahu2021 (big blind) folded on the Flop
+Seat 3: coinbirb (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #253449521708: Tournament #3824592132, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/17 20:25:14 CET [2024/11/17 14:25:14 ET]
+Table '3824592132 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (290 in chips) 
+Seat 3: coinbirb (1210 in chips) 
+Mahu2021: posts small blind 15
+coinbirb: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kc 7c]
+Mahu2021: raises 30 to 60
+coinbirb: raises 1150 to 1210 and is all-in
+Mahu2021: calls 230 and is all-in
+Uncalled bet (920) returned to coinbirb
+*** FLOP *** [7s Jh Qd]
+*** TURN *** [7s Jh Qd] [Ac]
+*** RIVER *** [7s Jh Qd Ac] [3d]
+*** SHOW DOWN ***
+coinbirb: shows [Kd Qc] (a pair of Queens)
+Mahu2021: shows [Kc 7c] (a pair of Sevens)
+coinbirb collected 580 from pot
+Mahu2021 finished the tournament in 2nd place
+coinbirb wins the tournament and receives $6.00 - congratulations!
+*** SUMMARY ***
+Total pot 580 | Rake 0 
+Board [7s Jh Qd Ac 3d]
+Seat 1: Mahu2021 (button) (small blind) showed [Kc 7c] and lost with a pair of Sevens
+Seat 3: coinbirb (big blind) showed [Kd Qc] and won (580) with a pair of Queens
+
+
+

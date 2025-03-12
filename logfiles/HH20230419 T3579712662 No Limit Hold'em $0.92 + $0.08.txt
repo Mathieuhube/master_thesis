@@ -1,0 +1,354 @@
+﻿PokerStars Hand #243186975511: Tournament #3579712662, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/19 15:32:26 CET [2023/04/19 9:32:26 ET]
+Table '3579712662 1' 3-max Seat #1 is the button
+Seat 1: muaj2 (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: Fagnerlemos (500 in chips) 
+Mahu2021: posts small blind 10
+Fagnerlemos: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5h 5c]
+muaj2: raises 20 to 40
+Mahu2021: calls 30
+Fagnerlemos: folds 
+*** FLOP *** [5d 8d 8s]
+Mahu2021: checks 
+muaj2: bets 40
+Mahu2021: calls 40
+*** TURN *** [5d 8d 8s] [9s]
+Mahu2021: checks 
+muaj2: bets 90
+Mahu2021: calls 90
+*** RIVER *** [5d 8d 8s 9s] [7h]
+Mahu2021: bets 330 and is all-in
+muaj2: folds 
+Uncalled bet (330) returned to Mahu2021
+Mahu2021 collected 360 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [5d 8d 8s 9s 7h]
+Seat 1: muaj2 (button) folded on the River
+Seat 2: Mahu2021 (small blind) collected (360)
+Seat 3: Fagnerlemos (big blind) folded before Flop
+
+
+
+PokerStars Hand #243186982998: Tournament #3579712662, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/19 15:33:01 CET [2023/04/19 9:33:01 ET]
+Table '3579712662 1' 3-max Seat #2 is the button
+Seat 1: muaj2 (330 in chips) 
+Seat 2: Mahu2021 (690 in chips) 
+Seat 3: Fagnerlemos (480 in chips) 
+Fagnerlemos: posts small blind 10
+muaj2: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd As]
+Mahu2021: raises 20 to 40
+Fagnerlemos: folds 
+muaj2: calls 20
+*** FLOP *** [6d 4c Kh]
+muaj2: bets 45
+Mahu2021: raises 55 to 100
+muaj2: calls 55
+*** TURN *** [6d 4c Kh] [Ac]
+muaj2: checks 
+Mahu2021: bets 40
+muaj2: calls 40
+*** RIVER *** [6d 4c Kh Ac] [6c]
+muaj2: checks 
+Mahu2021: bets 40
+muaj2: raises 110 to 150 and is all-in
+Mahu2021: calls 110
+*** SHOW DOWN ***
+muaj2: shows [Kc 9h] (two pair, Kings and Sixes)
+Mahu2021: shows [Kd As] (two pair, Aces and Kings)
+Mahu2021 collected 670 from pot
+muaj2 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 670 | Rake 0 
+Board [6d 4c Kh Ac 6c]
+Seat 1: muaj2 (big blind) showed [Kc 9h] and lost with two pair, Kings and Sixes
+Seat 2: Mahu2021 (button) showed [Kd As] and won (670) with two pair, Aces and Kings
+Seat 3: Fagnerlemos (small blind) folded before Flop
+
+
+
+PokerStars Hand #243186994779: Tournament #3579712662, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/19 15:33:55 CET [2023/04/19 9:33:55 ET]
+Table '3579712662 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (1030 in chips) 
+Seat 3: Fagnerlemos (470 in chips) 
+Fagnerlemos: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah 6h]
+Fagnerlemos: calls 10
+Mahu2021: raises 40 to 60
+Fagnerlemos: calls 40
+*** FLOP *** [5d 4h 7h]
+Mahu2021: bets 60
+Fagnerlemos: calls 60
+*** TURN *** [5d 4h 7h] [3h]
+Mahu2021: bets 80
+Fagnerlemos: folds 
+Uncalled bet (80) returned to Mahu2021
+Mahu2021 collected 240 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [5d 4h 7h 3h]
+Seat 2: Mahu2021 (big blind) collected (240)
+Seat 3: Fagnerlemos (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #243186999353: Tournament #3579712662, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/19 15:34:16 CET [2023/04/19 9:34:16 ET]
+Table '3579712662 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (1150 in chips) 
+Seat 3: Fagnerlemos (350 in chips) 
+Mahu2021: posts small blind 10
+Fagnerlemos: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As 4d]
+Mahu2021: raises 40 to 60
+Fagnerlemos: calls 40
+*** FLOP *** [Jh 9s 5c]
+Fagnerlemos: checks 
+Mahu2021: bets 1090 and is all-in
+Fagnerlemos: folds 
+Uncalled bet (1090) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Jh 9s 5c]
+Seat 2: Mahu2021 (button) (small blind) collected (120)
+Seat 3: Fagnerlemos (big blind) folded on the Flop
+
+
+
+PokerStars Hand #243187003422: Tournament #3579712662, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/19 15:34:34 CET [2023/04/19 9:34:34 ET]
+Table '3579712662 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (1210 in chips) 
+Seat 3: Fagnerlemos (290 in chips) 
+Fagnerlemos: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d 7c]
+Fagnerlemos: calls 10
+Mahu2021: checks 
+*** FLOP *** [8d 6h Kc]
+Mahu2021: checks 
+Fagnerlemos: checks 
+*** TURN *** [8d 6h Kc] [Qh]
+Mahu2021: checks 
+Fagnerlemos: bets 20
+Mahu2021: calls 20
+*** RIVER *** [8d 6h Kc Qh] [8c]
+Mahu2021: checks 
+Fagnerlemos: bets 30
+Mahu2021: folds 
+Uncalled bet (30) returned to Fagnerlemos
+Fagnerlemos collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [8d 6h Kc Qh 8c]
+Seat 2: Mahu2021 (big blind) folded on the River
+Seat 3: Fagnerlemos (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #243187007430: Tournament #3579712662, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/19 15:34:53 CET [2023/04/19 9:34:53 ET]
+Table '3579712662 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (1170 in chips) 
+Seat 3: Fagnerlemos (330 in chips) 
+Mahu2021: posts small blind 10
+Fagnerlemos: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h 2s]
+Mahu2021: raises 1150 to 1170 and is all-in
+Fagnerlemos: calls 310 and is all-in
+Uncalled bet (840) returned to Mahu2021
+*** FLOP *** [Qc Kh Kd]
+*** TURN *** [Qc Kh Kd] [3d]
+*** RIVER *** [Qc Kh Kd 3d] [Ah]
+*** SHOW DOWN ***
+Fagnerlemos: shows [7h 7c] (two pair, Kings and Sevens)
+Mahu2021: shows [2h 2s] (two pair, Kings and Deuces)
+Fagnerlemos collected 660 from pot
+*** SUMMARY ***
+Total pot 660 | Rake 0 
+Board [Qc Kh Kd 3d Ah]
+Seat 2: Mahu2021 (button) (small blind) showed [2h 2s] and lost with two pair, Kings and Deuces
+Seat 3: Fagnerlemos (big blind) showed [7h 7c] and won (660) with two pair, Kings and Sevens
+
+
+
+PokerStars Hand #243187010785: Tournament #3579712662, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/19 15:35:08 CET [2023/04/19 9:35:08 ET]
+Table '3579712662 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (840 in chips) 
+Seat 3: Fagnerlemos (660 in chips) 
+Fagnerlemos: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s Ac]
+Fagnerlemos: calls 10
+Mahu2021: checks 
+*** FLOP *** [5h 3d As]
+Mahu2021: bets 20
+Fagnerlemos: calls 20
+*** TURN *** [5h 3d As] [4h]
+Mahu2021: bets 20
+Fagnerlemos: calls 20
+*** RIVER *** [5h 3d As 4h] [3h]
+Mahu2021: bets 20
+Fagnerlemos: raises 30 to 50
+Mahu2021: calls 30
+*** SHOW DOWN ***
+Fagnerlemos: shows [3c 9d] (three of a kind, Threes)
+Mahu2021: mucks hand 
+Fagnerlemos collected 220 from pot
+*** SUMMARY ***
+Total pot 220 | Rake 0 
+Board [5h 3d As 4h 3h]
+Seat 2: Mahu2021 (big blind) mucked [7s Ac]
+Seat 3: Fagnerlemos (button) (small blind) showed [3c 9d] and won (220) with three of a kind, Threes
+
+
+
+PokerStars Hand #243187015994: Tournament #3579712662, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/19 15:35:32 CET [2023/04/19 9:35:32 ET]
+Table '3579712662 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (730 in chips) 
+Seat 3: Fagnerlemos (770 in chips) 
+Mahu2021: posts small blind 15
+Fagnerlemos: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh As]
+Mahu2021: raises 60 to 90
+Fagnerlemos: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) collected (60)
+Seat 3: Fagnerlemos (big blind) folded before Flop
+
+
+
+PokerStars Hand #243187017566: Tournament #3579712662, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/19 15:35:39 CET [2023/04/19 9:35:39 ET]
+Table '3579712662 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (760 in chips) 
+Seat 3: Fagnerlemos (740 in chips) 
+Fagnerlemos: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc 3s]
+Fagnerlemos: calls 15
+Mahu2021: checks 
+*** FLOP *** [Qs Qh 6h]
+Mahu2021: bets 30
+Fagnerlemos: raises 30 to 60
+Mahu2021: folds 
+Uncalled bet (30) returned to Fagnerlemos
+Fagnerlemos collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Qs Qh 6h]
+Seat 2: Mahu2021 (big blind) folded on the Flop
+Seat 3: Fagnerlemos (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #243187020138: Tournament #3579712662, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/19 15:35:51 CET [2023/04/19 9:35:51 ET]
+Table '3579712662 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (700 in chips) 
+Seat 3: Fagnerlemos (800 in chips) 
+Mahu2021: posts small blind 15
+Fagnerlemos: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8s 9d]
+Mahu2021: calls 15
+Fagnerlemos: checks 
+*** FLOP *** [Ac 4d Kc]
+Fagnerlemos: bets 30
+Mahu2021: folds 
+Uncalled bet (30) returned to Fagnerlemos
+Fagnerlemos collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Ac 4d Kc]
+Seat 2: Mahu2021 (button) (small blind) folded on the Flop
+Seat 3: Fagnerlemos (big blind) collected (60)
+
+
+
+PokerStars Hand #243187022553: Tournament #3579712662, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/19 15:36:01 CET [2023/04/19 9:36:01 ET]
+Table '3579712662 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (670 in chips) 
+Seat 3: Fagnerlemos (830 in chips) 
+Fagnerlemos: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8s Kd]
+Fagnerlemos: calls 15
+Mahu2021: raises 60 to 90
+Fagnerlemos: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: Mahu2021 (big blind) collected (60)
+Seat 3: Fagnerlemos (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #243187024306: Tournament #3579712662, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/19 15:36:10 CET [2023/04/19 9:36:10 ET]
+Table '3579712662 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (700 in chips) 
+Seat 3: Fagnerlemos (800 in chips) 
+Mahu2021: posts small blind 15
+Fagnerlemos: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8c 6s]
+Mahu2021: calls 15
+Fagnerlemos: raises 770 to 800 and is all-in
+Mahu2021: folds 
+Uncalled bet (770) returned to Fagnerlemos
+Fagnerlemos collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: Fagnerlemos (big blind) collected (60)
+
+
+
+PokerStars Hand #243187025921: Tournament #3579712662, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/19 15:36:17 CET [2023/04/19 9:36:17 ET]
+Table '3579712662 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (670 in chips) 
+Seat 3: Fagnerlemos (830 in chips) 
+Fagnerlemos: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As Kc]
+Fagnerlemos: calls 15
+Mahu2021: raises 60 to 90
+Fagnerlemos: raises 740 to 830 and is all-in
+Mahu2021: calls 580 and is all-in
+Uncalled bet (160) returned to Fagnerlemos
+*** FLOP *** [Qc 3h 9h]
+*** TURN *** [Qc 3h 9h] [4h]
+*** RIVER *** [Qc 3h 9h 4h] [Ad]
+*** SHOW DOWN ***
+Mahu2021: shows [As Kc] (a pair of Aces)
+Fagnerlemos: shows [Qh Kh] (a flush, King high)
+Fagnerlemos collected 1340 from pot
+Mahu2021 finished the tournament in 2nd place
+Fagnerlemos wins the tournament and receives $3.00 - congratulations!
+*** SUMMARY ***
+Total pot 1340 | Rake 0 
+Board [Qc 3h 9h 4h Ad]
+Seat 2: Mahu2021 (big blind) showed [As Kc] and lost with a pair of Aces
+Seat 3: Fagnerlemos (button) (small blind) showed [Qh Kh] and won (1340) with a flush, King high
+
+
+

@@ -1,0 +1,563 @@
+﻿PokerStars Hand #249420443756: Tournament #3728815478, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/03/14 20:51:28 CET [2024/03/14 15:51:28 ET]
+Table '3728815478 1' 3-max Seat #1 is the button
+Seat 1: jrodriguez95 (500 in chips) 
+Seat 2: Excelsior 2 (500 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+Excelsior 2: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d Jd]
+jrodriguez95: folds 
+Excelsior 2: calls 10
+Mahu2021: checks 
+*** FLOP *** [2h 6d 5s]
+Excelsior 2: checks 
+Mahu2021: checks 
+*** TURN *** [2h 6d 5s] [Jh]
+Excelsior 2: checks 
+Mahu2021: bets 40
+Excelsior 2: calls 40
+*** RIVER *** [2h 6d 5s Jh] [Ts]
+Excelsior 2: bets 20
+Mahu2021: calls 20
+*** SHOW DOWN ***
+Excelsior 2: shows [Ad Td] (a pair of Tens)
+Mahu2021: shows [7d Jd] (a pair of Jacks)
+Mahu2021 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [2h 6d 5s Jh Ts]
+Seat 1: jrodriguez95 (button) folded before Flop (didn't bet)
+Seat 2: Excelsior 2 (small blind) showed [Ad Td] and lost with a pair of Tens
+Seat 3: Mahu2021 (big blind) showed [7d Jd] and won (160) with a pair of Jacks
+
+
+
+PokerStars Hand #249420449752: Tournament #3728815478, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/03/14 20:51:47 CET [2024/03/14 15:51:47 ET]
+Table '3728815478 1' 3-max Seat #2 is the button
+Seat 1: jrodriguez95 (500 in chips) 
+Seat 2: Excelsior 2 (420 in chips) 
+Seat 3: Mahu2021 (580 in chips) 
+Mahu2021: posts small blind 10
+jrodriguez95: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s Ks]
+Excelsior 2: calls 20
+Mahu2021: calls 10
+jrodriguez95: checks 
+*** FLOP *** [8d Ts 5c]
+Mahu2021: checks 
+jrodriguez95: checks 
+Excelsior 2: checks 
+*** TURN *** [8d Ts 5c] [8s]
+Mahu2021: checks 
+jrodriguez95: checks 
+Excelsior 2: checks 
+*** RIVER *** [8d Ts 5c 8s] [3d]
+Mahu2021: checks 
+jrodriguez95: checks 
+Excelsior 2: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [5s Ks] (two pair, Eights and Fives)
+jrodriguez95: mucks hand 
+Excelsior 2: mucks hand 
+Mahu2021 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [8d Ts 5c 8s 3d]
+Seat 1: jrodriguez95 (big blind) mucked [3h Jh]
+Seat 2: Excelsior 2 (button) mucked [Kd 9h]
+Seat 3: Mahu2021 (small blind) showed [5s Ks] and won (60) with two pair, Eights and Fives
+
+
+
+PokerStars Hand #249420457213: Tournament #3728815478, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/03/14 20:52:09 CET [2024/03/14 15:52:09 ET]
+Table '3728815478 1' 3-max Seat #3 is the button
+Seat 1: jrodriguez95 (480 in chips) 
+Seat 2: Excelsior 2 (400 in chips) 
+Seat 3: Mahu2021 (620 in chips) 
+jrodriguez95: posts small blind 10
+Excelsior 2: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh 9s]
+Mahu2021: folds 
+jrodriguez95: raises 460 to 480 and is all-in
+Excelsior 2: calls 380 and is all-in
+Uncalled bet (80) returned to jrodriguez95
+*** FLOP *** [Js 7d 2s]
+*** TURN *** [Js 7d 2s] [Jh]
+*** RIVER *** [Js 7d 2s Jh] [Qs]
+*** SHOW DOWN ***
+jrodriguez95: shows [Ah 4c] (a pair of Jacks)
+Excelsior 2: shows [7h Ad] (two pair, Jacks and Sevens)
+Excelsior 2 collected 800 from pot
+*** SUMMARY ***
+Total pot 800 | Rake 0 
+Board [Js 7d 2s Jh Qs]
+Seat 1: jrodriguez95 (small blind) showed [Ah 4c] and lost with a pair of Jacks
+Seat 2: Excelsior 2 (big blind) showed [7h Ad] and won (800) with two pair, Jacks and Sevens
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #249420464010: Tournament #3728815478, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/03/14 20:52:30 CET [2024/03/14 15:52:30 ET]
+Table '3728815478 1' 3-max Seat #1 is the button
+Seat 1: jrodriguez95 (80 in chips) 
+Seat 2: Excelsior 2 (800 in chips) 
+Seat 3: Mahu2021 (620 in chips) 
+Excelsior 2: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s 7s]
+jrodriguez95: folds 
+Excelsior 2: calls 10
+Mahu2021: checks 
+*** FLOP *** [3d 6d As]
+Excelsior 2: checks 
+Mahu2021: checks 
+*** TURN *** [3d 6d As] [8h]
+Excelsior 2: bets 20
+Mahu2021: calls 20
+*** RIVER *** [3d 6d As 8h] [7h]
+Excelsior 2: bets 20
+Mahu2021: calls 20
+*** SHOW DOWN ***
+Excelsior 2: shows [Ks 8d] (a pair of Eights)
+Mahu2021: mucks hand 
+Excelsior 2 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [3d 6d As 8h 7h]
+Seat 1: jrodriguez95 (button) folded before Flop (didn't bet)
+Seat 2: Excelsior 2 (small blind) showed [Ks 8d] and won (120) with a pair of Eights
+Seat 3: Mahu2021 (big blind) mucked [9s 7s]
+
+
+
+PokerStars Hand #249420470530: Tournament #3728815478, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/03/14 20:52:50 CET [2024/03/14 15:52:50 ET]
+Table '3728815478 1' 3-max Seat #2 is the button
+Seat 1: jrodriguez95 (80 in chips) 
+Seat 2: Excelsior 2 (860 in chips) 
+Seat 3: Mahu2021 (560 in chips) 
+Mahu2021: posts small blind 10
+jrodriguez95: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d Ts]
+Excelsior 2: calls 20
+Mahu2021: calls 10
+jrodriguez95: raises 60 to 80 and is all-in
+Excelsior 2: calls 60
+Mahu2021: calls 60
+*** FLOP *** [8s 2h Ks]
+Mahu2021: checks 
+Excelsior 2: checks 
+*** TURN *** [8s 2h Ks] [5c]
+Mahu2021: checks 
+Excelsior 2: checks 
+*** RIVER *** [8s 2h Ks 5c] [Td]
+Mahu2021: checks 
+Excelsior 2: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [9d Ts] (a pair of Tens)
+jrodriguez95: shows [Ah As] (a pair of Aces)
+Excelsior 2: mucks hand 
+jrodriguez95 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [8s 2h Ks 5c Td]
+Seat 1: jrodriguez95 (big blind) showed [Ah As] and won (240) with a pair of Aces
+Seat 2: Excelsior 2 (button) mucked [Qh 3s]
+Seat 3: Mahu2021 (small blind) showed [9d Ts] and lost with a pair of Tens
+
+
+
+PokerStars Hand #249420476201: Tournament #3728815478, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/03/14 20:53:07 CET [2024/03/14 15:53:07 ET]
+Table '3728815478 1' 3-max Seat #3 is the button
+Seat 1: jrodriguez95 (240 in chips) 
+Seat 2: Excelsior 2 (780 in chips) 
+Seat 3: Mahu2021 (480 in chips) 
+jrodriguez95: posts small blind 10
+Excelsior 2: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8d Jh]
+Mahu2021: folds 
+jrodriguez95: raises 40 to 60
+Excelsior 2: calls 40
+*** FLOP *** [3d 6h Ks]
+jrodriguez95: bets 90
+Excelsior 2: calls 90
+*** TURN *** [3d 6h Ks] [Qh]
+jrodriguez95: bets 90 and is all-in
+Excelsior 2: calls 90
+*** RIVER *** [3d 6h Ks Qh] [5s]
+*** SHOW DOWN ***
+jrodriguez95: shows [As Kd] (a pair of Kings)
+Excelsior 2: shows [Qd Js] (a pair of Queens)
+jrodriguez95 collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Board [3d 6h Ks Qh 5s]
+Seat 1: jrodriguez95 (small blind) showed [As Kd] and won (480) with a pair of Kings
+Seat 2: Excelsior 2 (big blind) showed [Qd Js] and lost with a pair of Queens
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #249420484233: Tournament #3728815478, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/03/14 20:53:32 CET [2024/03/14 15:53:32 ET]
+Table '3728815478 1' 3-max Seat #1 is the button
+Seat 1: jrodriguez95 (480 in chips) 
+Seat 2: Excelsior 2 (540 in chips) 
+Seat 3: Mahu2021 (480 in chips) 
+Excelsior 2: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8s Ts]
+jrodriguez95: raises 20 to 40
+Excelsior 2: calls 30
+Mahu2021: calls 20
+*** FLOP *** [Jd Ad Tc]
+Excelsior 2: bets 100
+Mahu2021: folds 
+jrodriguez95: calls 100
+*** TURN *** [Jd Ad Tc] [6h]
+Excelsior 2: bets 400 and is all-in
+jrodriguez95: folds 
+Uncalled bet (400) returned to Excelsior 2
+Excelsior 2 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [Jd Ad Tc 6h]
+Seat 1: jrodriguez95 (button) folded on the Turn
+Seat 2: Excelsior 2 (small blind) collected (320)
+Seat 3: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #249420494917: Tournament #3728815478, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/03/14 20:54:05 CET [2024/03/14 15:54:05 ET]
+Table '3728815478 1' 3-max Seat #2 is the button
+Seat 1: jrodriguez95 (340 in chips) 
+Seat 2: Excelsior 2 (720 in chips) 
+Seat 3: Mahu2021 (440 in chips) 
+Mahu2021: posts small blind 10
+jrodriguez95: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d Qs]
+Excelsior 2: calls 20
+Mahu2021: folds 
+jrodriguez95: checks 
+*** FLOP *** [Jd 6d 2h]
+jrodriguez95: checks 
+Excelsior 2: checks 
+*** TURN *** [Jd 6d 2h] [Qh]
+jrodriguez95: checks 
+Excelsior 2: checks 
+*** RIVER *** [Jd 6d 2h Qh] [6h]
+jrodriguez95: checks 
+Excelsior 2: checks 
+*** SHOW DOWN ***
+jrodriguez95: shows [7s Ks] (a pair of Sixes)
+Excelsior 2: mucks hand 
+jrodriguez95 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [Jd 6d 2h Qh 6h]
+Seat 1: jrodriguez95 (big blind) showed [7s Ks] and won (50) with a pair of Sixes
+Seat 2: Excelsior 2 (button) mucked [9s 3s]
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #249420502891: Tournament #3728815478, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/03/14 20:54:29 CET [2024/03/14 15:54:29 ET]
+Table '3728815478 1' 3-max Seat #3 is the button
+Seat 1: jrodriguez95 (370 in chips) 
+Seat 2: Excelsior 2 (700 in chips) 
+Seat 3: Mahu2021 (430 in chips) 
+jrodriguez95: posts small blind 10
+Excelsior 2: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Td Qh]
+Mahu2021: raises 20 to 40
+jrodriguez95: calls 30
+Excelsior 2: calls 20
+*** FLOP *** [8h 9h 3s]
+jrodriguez95: checks 
+Excelsior 2: checks 
+Mahu2021: checks 
+*** TURN *** [8h 9h 3s] [Ac]
+jrodriguez95: bets 90
+Excelsior 2: folds 
+Mahu2021: folds 
+Uncalled bet (90) returned to jrodriguez95
+jrodriguez95 collected 120 from pot
+jrodriguez95: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [8h 9h 3s Ac]
+Seat 1: jrodriguez95 (small blind) collected (120)
+Seat 2: Excelsior 2 (big blind) folded on the Turn
+Seat 3: Mahu2021 (button) folded on the Turn
+
+
+
+PokerStars Hand #249420513618: Tournament #3728815478, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/14 20:55:02 CET [2024/03/14 15:55:02 ET]
+Table '3728815478 1' 3-max Seat #1 is the button
+Seat 1: jrodriguez95 (450 in chips) 
+Seat 2: Excelsior 2 (660 in chips) 
+Seat 3: Mahu2021 (390 in chips) 
+Excelsior 2: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh 8h]
+jrodriguez95: folds 
+Excelsior 2: calls 15
+Mahu2021: checks 
+*** FLOP *** [4c 9d 8s]
+Excelsior 2: checks 
+Mahu2021: bets 30
+Excelsior 2: calls 30
+*** TURN *** [4c 9d 8s] [Ac]
+Excelsior 2: checks 
+Mahu2021: checks 
+*** RIVER *** [4c 9d 8s Ac] [8c]
+Excelsior 2: bets 120
+Mahu2021: raises 210 to 330 and is all-in
+Excelsior 2: calls 210
+*** SHOW DOWN ***
+Mahu2021: shows [Kh 8h] (three of a kind, Eights)
+Excelsior 2: shows [6s Ah] (two pair, Aces and Eights)
+Mahu2021 collected 780 from pot
+*** SUMMARY ***
+Total pot 780 | Rake 0 
+Board [4c 9d 8s Ac 8c]
+Seat 1: jrodriguez95 (button) folded before Flop (didn't bet)
+Seat 2: Excelsior 2 (small blind) showed [6s Ah] and lost with two pair, Aces and Eights
+Seat 3: Mahu2021 (big blind) showed [Kh 8h] and won (780) with three of a kind, Eights
+
+
+
+PokerStars Hand #249420519730: Tournament #3728815478, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/14 20:55:25 CET [2024/03/14 15:55:25 ET]
+Table '3728815478 1' 3-max Seat #2 is the button
+Seat 1: jrodriguez95 (450 in chips) 
+Seat 2: Excelsior 2 (270 in chips) 
+Seat 3: Mahu2021 (780 in chips) 
+Mahu2021: posts small blind 15
+jrodriguez95: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d 3s]
+Excelsior 2: folds 
+Mahu2021: calls 15
+jrodriguez95: checks 
+*** FLOP *** [2c 6s 4h]
+Mahu2021: checks 
+jrodriguez95: checks 
+*** TURN *** [2c 6s 4h] [6h]
+Mahu2021: checks 
+jrodriguez95: bets 60
+Mahu2021: calls 60
+*** RIVER *** [2c 6s 4h 6h] [Tc]
+Mahu2021: checks 
+jrodriguez95: bets 270
+Mahu2021: calls 270
+*** SHOW DOWN ***
+jrodriguez95: shows [6d Js] (three of a kind, Sixes)
+Mahu2021: shows [5d 3s] (a straight, Deuce to Six)
+Mahu2021 collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | Rake 0 
+Board [2c 6s 4h 6h Tc]
+Seat 1: jrodriguez95 (big blind) showed [6d Js] and lost with three of a kind, Sixes
+Seat 2: Excelsior 2 (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) showed [5d 3s] and won (720) with a straight, Deuce to Six
+
+
+
+PokerStars Hand #249420525344: Tournament #3728815478, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/14 20:55:49 CET [2024/03/14 15:55:49 ET]
+Table '3728815478 1' 3-max Seat #3 is the button
+Seat 1: jrodriguez95 (90 in chips) 
+Seat 2: Excelsior 2 (270 in chips) 
+Seat 3: Mahu2021 (1140 in chips) 
+jrodriguez95: posts small blind 15
+Excelsior 2: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d 3d]
+Mahu2021: folds 
+jrodriguez95: raises 60 to 90 and is all-in
+Excelsior 2: calls 60
+*** FLOP *** [9d Kd Ah]
+*** TURN *** [9d Kd Ah] [3h]
+*** RIVER *** [9d Kd Ah 3h] [Kh]
+*** SHOW DOWN ***
+jrodriguez95: shows [2h Jc] (a pair of Kings)
+Excelsior 2: shows [8d Ad] (two pair, Aces and Kings)
+Excelsior 2 collected 180 from pot
+jrodriguez95 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [9d Kd Ah 3h Kh]
+Seat 1: jrodriguez95 (small blind) showed [2h Jc] and lost with a pair of Kings
+Seat 2: Excelsior 2 (big blind) showed [8d Ad] and won (180) with two pair, Aces and Kings
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #249420529477: Tournament #3728815478, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/14 20:56:06 CET [2024/03/14 15:56:06 ET]
+Table '3728815478 1' 3-max Seat #2 is the button
+Seat 2: Excelsior 2 (360 in chips) 
+Seat 3: Mahu2021 (1140 in chips) 
+Excelsior 2: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Tc 8c]
+Excelsior 2: calls 15
+Mahu2021: checks 
+*** FLOP *** [Ts Ah 2d]
+Mahu2021: checks 
+Excelsior 2: checks 
+*** TURN *** [Ts Ah 2d] [7d]
+Mahu2021: checks 
+Excelsior 2: checks 
+*** RIVER *** [Ts Ah 2d 7d] [8d]
+Mahu2021: bets 60
+Excelsior 2: calls 60
+*** SHOW DOWN ***
+Mahu2021: shows [Tc 8c] (two pair, Tens and Eights)
+Excelsior 2: mucks hand 
+Mahu2021 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [Ts Ah 2d 7d 8d]
+Seat 2: Excelsior 2 (button) (small blind) mucked [4c Jd]
+Seat 3: Mahu2021 (big blind) showed [Tc 8c] and won (180) with two pair, Tens and Eights
+
+
+
+PokerStars Hand #249420533494: Tournament #3728815478, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/14 20:56:22 CET [2024/03/14 15:56:22 ET]
+Table '3728815478 1' 3-max Seat #3 is the button
+Seat 2: Excelsior 2 (270 in chips) 
+Seat 3: Mahu2021 (1230 in chips) 
+Mahu2021: posts small blind 15
+Excelsior 2: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s 5s]
+Mahu2021: calls 15
+Excelsior 2: checks 
+*** FLOP *** [Tc 8c 8s]
+Excelsior 2: checks 
+Mahu2021: bets 30
+Excelsior 2: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Tc 8c 8s]
+Seat 2: Excelsior 2 (big blind) folded on the Flop
+Seat 3: Mahu2021 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #249420536251: Tournament #3728815478, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/14 20:56:34 CET [2024/03/14 15:56:34 ET]
+Table '3728815478 1' 3-max Seat #2 is the button
+Seat 2: Excelsior 2 (240 in chips) 
+Seat 3: Mahu2021 (1260 in chips) 
+Excelsior 2: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h Jd]
+Excelsior 2: raises 30 to 60
+Mahu2021: calls 30
+*** FLOP *** [6c 7h Td]
+Mahu2021: checks 
+Excelsior 2: bets 90
+Mahu2021: folds 
+Uncalled bet (90) returned to Excelsior 2
+Excelsior 2 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [6c 7h Td]
+Seat 2: Excelsior 2 (button) (small blind) collected (120)
+Seat 3: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #249420539529: Tournament #3728815478, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/14 20:56:47 CET [2024/03/14 15:56:47 ET]
+Table '3728815478 1' 3-max Seat #3 is the button
+Seat 2: Excelsior 2 (300 in chips) 
+Seat 3: Mahu2021 (1200 in chips) 
+Mahu2021: posts small blind 15
+Excelsior 2: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh 8c]
+Mahu2021: calls 15
+Excelsior 2: checks 
+*** FLOP *** [Ts Js 3c]
+Excelsior 2: bets 270 and is all-in
+Mahu2021: calls 270
+*** TURN *** [Ts Js 3c] [3d]
+*** RIVER *** [Ts Js 3c 3d] [Qs]
+*** SHOW DOWN ***
+Excelsior 2: shows [8s 9c] (a straight, Eight to Queen)
+Mahu2021: shows [Jh 8c] (two pair, Jacks and Threes)
+Excelsior 2 collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | Rake 0 
+Board [Ts Js 3c 3d Qs]
+Seat 2: Excelsior 2 (big blind) showed [8s 9c] and won (600) with a straight, Eight to Queen
+Seat 3: Mahu2021 (button) (small blind) showed [Jh 8c] and lost with two pair, Jacks and Threes
+
+
+
+PokerStars Hand #249420543208: Tournament #3728815478, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/14 20:57:03 CET [2024/03/14 15:57:03 ET]
+Table '3728815478 1' 3-max Seat #2 is the button
+Seat 2: Excelsior 2 (600 in chips) 
+Seat 3: Mahu2021 (900 in chips) 
+Excelsior 2: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc As]
+Excelsior 2: calls 15
+Mahu2021: raises 870 to 900 and is all-in
+Excelsior 2: calls 570 and is all-in
+Uncalled bet (300) returned to Mahu2021
+*** FLOP *** [5d 6c 3s]
+*** TURN *** [5d 6c 3s] [7c]
+*** RIVER *** [5d 6c 3s 7c] [9c]
+*** SHOW DOWN ***
+Mahu2021: shows [Qc As] (high card Ace)
+Excelsior 2: shows [Kh 8s] (a straight, Five to Nine)
+Excelsior 2 collected 1200 from pot
+*** SUMMARY ***
+Total pot 1200 | Rake 0 
+Board [5d 6c 3s 7c 9c]
+Seat 2: Excelsior 2 (button) (small blind) showed [Kh 8s] and won (1200) with a straight, Five to Nine
+Seat 3: Mahu2021 (big blind) showed [Qc As] and lost with high card Ace
+
+
+
+PokerStars Hand #249420547104: Tournament #3728815478, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/14 20:57:18 CET [2024/03/14 15:57:18 ET]
+Table '3728815478 1' 3-max Seat #3 is the button
+Seat 2: Excelsior 2 (1200 in chips) 
+Seat 3: Mahu2021 (300 in chips) 
+Mahu2021: posts small blind 15
+Excelsior 2: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts 9s]
+Mahu2021: raises 270 to 300 and is all-in
+Excelsior 2: calls 270
+*** FLOP *** [8h Kh Qh]
+*** TURN *** [8h Kh Qh] [Ad]
+*** RIVER *** [8h Kh Qh Ad] [4d]
+*** SHOW DOWN ***
+Excelsior 2: shows [Qc 9c] (a pair of Queens)
+Mahu2021: shows [Ts 9s] (high card Ace)
+Excelsior 2 collected 600 from pot
+Mahu2021 finished the tournament in 2nd place
+Excelsior 2 wins the tournament and receives $6.00 - congratulations!
+*** SUMMARY ***
+Total pot 600 | Rake 0 
+Board [8h Kh Qh Ad 4d]
+Seat 2: Excelsior 2 (big blind) showed [Qc 9c] and won (600) with a pair of Queens
+Seat 3: Mahu2021 (button) (small blind) showed [Ts 9s] and lost with high card Ace
+
+
+

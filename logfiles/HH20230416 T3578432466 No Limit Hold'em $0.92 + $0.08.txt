@@ -1,0 +1,714 @@
+﻿PokerStars Hand #243130606641: Tournament #3578432466, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/16 19:09:47 CET [2023/04/16 13:09:47 ET]
+Table '3578432466 1' 3-max Seat #1 is the button
+Seat 1: SunanaKnow (500 in chips) 
+Seat 2: BennyHenkman (500 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+BennyHenkman: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qs 6h]
+SunanaKnow: folds 
+BennyHenkman: calls 10
+Mahu2021: checks 
+*** FLOP *** [4h Ad 7h]
+BennyHenkman is disconnected 
+BennyHenkman is connected 
+BennyHenkman: checks 
+Mahu2021: checks 
+*** TURN *** [4h Ad 7h] [Tc]
+BennyHenkman: checks 
+Mahu2021: checks 
+*** RIVER *** [4h Ad 7h Tc] [Ks]
+BennyHenkman: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+BennyHenkman: shows [Jh 9c] (high card Ace)
+Mahu2021: shows [Qs 6h] (high card Ace - King+Queen kicker)
+Mahu2021 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [4h Ad 7h Tc Ks]
+Seat 1: SunanaKnow (button) folded before Flop (didn't bet)
+Seat 2: BennyHenkman (small blind) showed [Jh 9c] and lost with high card Ace
+Seat 3: Mahu2021 (big blind) showed [Qs 6h] and won (40) with high card Ace
+
+
+
+PokerStars Hand #243130614180: Tournament #3578432466, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/16 19:10:05 CET [2023/04/16 13:10:05 ET]
+Table '3578432466 1' 3-max Seat #2 is the button
+Seat 1: SunanaKnow (500 in chips) 
+Seat 2: BennyHenkman (480 in chips) 
+Seat 3: Mahu2021 (520 in chips) 
+Mahu2021: posts small blind 10
+SunanaKnow: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c 5s]
+BennyHenkman: folds 
+Mahu2021: folds 
+Uncalled bet (10) returned to SunanaKnow
+SunanaKnow collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: SunanaKnow (big blind) collected (20)
+Seat 2: BennyHenkman (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #243130616561: Tournament #3578432466, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/16 19:10:11 CET [2023/04/16 13:10:11 ET]
+Table '3578432466 1' 3-max Seat #3 is the button
+Seat 1: SunanaKnow (510 in chips) 
+Seat 2: BennyHenkman (480 in chips) 
+Seat 3: Mahu2021 (510 in chips) 
+SunanaKnow: posts small blind 10
+BennyHenkman: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h Td]
+Mahu2021: folds 
+SunanaKnow: calls 10
+BennyHenkman: checks 
+*** FLOP *** [Ah 8c 4c]
+SunanaKnow: checks 
+BennyHenkman: checks 
+*** TURN *** [Ah 8c 4c] [Ts]
+SunanaKnow: checks 
+BennyHenkman: bets 20
+SunanaKnow: calls 20
+*** RIVER *** [Ah 8c 4c Ts] [9d]
+SunanaKnow: checks 
+BennyHenkman: bets 40
+SunanaKnow: folds 
+Uncalled bet (40) returned to BennyHenkman
+BennyHenkman collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Ah 8c 4c Ts 9d]
+Seat 1: SunanaKnow (small blind) folded on the River
+Seat 2: BennyHenkman (big blind) collected (80)
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #243130624520: Tournament #3578432466, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/16 19:10:30 CET [2023/04/16 13:10:30 ET]
+Table '3578432466 1' 3-max Seat #1 is the button
+Seat 1: SunanaKnow (470 in chips) 
+Seat 2: BennyHenkman (520 in chips) 
+Seat 3: Mahu2021 (510 in chips) 
+BennyHenkman: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc 4c]
+SunanaKnow: calls 20
+BennyHenkman: raises 20 to 40
+Mahu2021: calls 20
+SunanaKnow: calls 20
+*** FLOP *** [5d Ts Jh]
+BennyHenkman: checks 
+Mahu2021: checks 
+SunanaKnow: checks 
+*** TURN *** [5d Ts Jh] [Kh]
+BennyHenkman: checks 
+Mahu2021: bets 60
+SunanaKnow: calls 60
+BennyHenkman: folds 
+*** RIVER *** [5d Ts Jh Kh] [6s]
+Mahu2021: checks 
+SunanaKnow: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [Qc 4c] (high card King)
+SunanaKnow: mucks hand 
+Mahu2021 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [5d Ts Jh Kh 6s]
+Seat 1: SunanaKnow (button) mucked [4h 8h]
+Seat 2: BennyHenkman (small blind) folded on the Turn
+Seat 3: Mahu2021 (big blind) showed [Qc 4c] and won (240) with high card King
+
+
+
+PokerStars Hand #243130634067: Tournament #3578432466, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/16 19:10:54 CET [2023/04/16 13:10:54 ET]
+Table '3578432466 1' 3-max Seat #2 is the button
+Seat 1: SunanaKnow (370 in chips) 
+Seat 2: BennyHenkman (480 in chips) 
+Seat 3: Mahu2021 (650 in chips) 
+Mahu2021: posts small blind 10
+SunanaKnow: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8s 5c]
+BennyHenkman: folds 
+Mahu2021: folds 
+Uncalled bet (10) returned to SunanaKnow
+SunanaKnow collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: SunanaKnow (big blind) collected (20)
+Seat 2: BennyHenkman (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #243130636228: Tournament #3578432466, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/16 19:10:59 CET [2023/04/16 13:10:59 ET]
+Table '3578432466 1' 3-max Seat #3 is the button
+Seat 1: SunanaKnow (380 in chips) 
+Seat 2: BennyHenkman (480 in chips) 
+Seat 3: Mahu2021 (640 in chips) 
+SunanaKnow: posts small blind 10
+BennyHenkman: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh 9h]
+Mahu2021: raises 20 to 40
+SunanaKnow: calls 30
+BennyHenkman: calls 20
+*** FLOP *** [4s Kd 3s]
+SunanaKnow: checks 
+BennyHenkman: checks 
+Mahu2021: bets 120
+SunanaKnow: folds 
+BennyHenkman: folds 
+Uncalled bet (120) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [4s Kd 3s]
+Seat 1: SunanaKnow (small blind) folded on the Flop
+Seat 2: BennyHenkman (big blind) folded on the Flop
+Seat 3: Mahu2021 (button) collected (120)
+
+
+
+PokerStars Hand #243130642432: Tournament #3578432466, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/16 19:11:14 CET [2023/04/16 13:11:14 ET]
+Table '3578432466 1' 3-max Seat #1 is the button
+Seat 1: SunanaKnow (340 in chips) 
+Seat 2: BennyHenkman (440 in chips) 
+Seat 3: Mahu2021 (720 in chips) 
+BennyHenkman: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h 9d]
+SunanaKnow: calls 20
+BennyHenkman: folds 
+Mahu2021: checks 
+*** FLOP *** [3c Jh 6h]
+Mahu2021: checks 
+SunanaKnow: checks 
+*** TURN *** [3c Jh 6h] [6s]
+Mahu2021: checks 
+SunanaKnow: checks 
+*** RIVER *** [3c Jh 6h 6s] [Kd]
+Mahu2021: checks 
+SunanaKnow: bets 20
+Mahu2021: folds 
+Uncalled bet (20) returned to SunanaKnow
+SunanaKnow collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [3c Jh 6h 6s Kd]
+Seat 1: SunanaKnow (button) collected (50)
+Seat 2: BennyHenkman (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) folded on the River
+
+
+
+PokerStars Hand #243130647827: Tournament #3578432466, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/16 19:11:28 CET [2023/04/16 13:11:28 ET]
+Table '3578432466 1' 3-max Seat #2 is the button
+Seat 1: SunanaKnow (370 in chips) 
+Seat 2: BennyHenkman (430 in chips) 
+Seat 3: Mahu2021 (700 in chips) 
+Mahu2021: posts small blind 10
+SunanaKnow: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d Tc]
+BennyHenkman: calls 20
+Mahu2021: calls 10
+SunanaKnow: raises 20 to 40
+BennyHenkman: calls 20
+Mahu2021: calls 20
+*** FLOP *** [8c 4d Ks]
+Mahu2021: checks 
+SunanaKnow: bets 60
+BennyHenkman: calls 60
+Mahu2021: folds 
+*** TURN *** [8c 4d Ks] [Th]
+SunanaKnow: bets 120
+BennyHenkman: calls 120
+*** RIVER *** [8c 4d Ks Th] [3d]
+SunanaKnow: bets 150 and is all-in
+BennyHenkman: folds 
+Uncalled bet (150) returned to SunanaKnow
+SunanaKnow collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Board [8c 4d Ks Th 3d]
+Seat 1: SunanaKnow (big blind) collected (480)
+Seat 2: BennyHenkman (button) folded on the River
+Seat 3: Mahu2021 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #243130658442: Tournament #3578432466, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/16 19:11:54 CET [2023/04/16 13:11:54 ET]
+Table '3578432466 1' 3-max Seat #3 is the button
+Seat 1: SunanaKnow (630 in chips) 
+Seat 2: BennyHenkman (210 in chips) 
+Seat 3: Mahu2021 (660 in chips) 
+SunanaKnow: posts small blind 10
+BennyHenkman: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks 2d]
+Mahu2021: folds 
+SunanaKnow: calls 10
+BennyHenkman: raises 190 to 210 and is all-in
+SunanaKnow: folds 
+Uncalled bet (190) returned to BennyHenkman
+BennyHenkman collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: SunanaKnow (small blind) folded before Flop
+Seat 2: BennyHenkman (big blind) collected (40)
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #243130662015: Tournament #3578432466, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/16 19:12:02 CET [2023/04/16 13:12:02 ET]
+Table '3578432466 1' 3-max Seat #1 is the button
+Seat 1: SunanaKnow (610 in chips) 
+Seat 2: BennyHenkman (230 in chips) 
+Seat 3: Mahu2021 (660 in chips) 
+BennyHenkman: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2s As]
+SunanaKnow: calls 20
+BennyHenkman: calls 10
+Mahu2021: checks 
+*** FLOP *** [Qs Kh 4d]
+BennyHenkman: bets 20
+Mahu2021: folds 
+SunanaKnow: calls 20
+*** TURN *** [Qs Kh 4d] [8s]
+BennyHenkman: bets 40
+SunanaKnow: raises 530 to 570 and is all-in
+BennyHenkman: calls 150 and is all-in
+Uncalled bet (380) returned to SunanaKnow
+*** RIVER *** [Qs Kh 4d 8s] [Kc]
+*** SHOW DOWN ***
+BennyHenkman: shows [Qh 9h] (two pair, Kings and Queens)
+SunanaKnow: shows [Ks Jd] (three of a kind, Kings)
+SunanaKnow collected 480 from pot
+BennyHenkman finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Board [Qs Kh 4d 8s Kc]
+Seat 1: SunanaKnow (button) showed [Ks Jd] and won (480) with three of a kind, Kings
+Seat 2: BennyHenkman (small blind) showed [Qh 9h] and lost with two pair, Kings and Queens
+Seat 3: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #243130671865: Tournament #3578432466, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/16 19:12:26 CET [2023/04/16 13:12:26 ET]
+Table '3578432466 1' 3-max Seat #3 is the button
+Seat 1: SunanaKnow (860 in chips) 
+Seat 3: Mahu2021 (640 in chips) 
+Mahu2021: posts small blind 10
+SunanaKnow: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h 8s]
+Mahu2021: folds 
+Uncalled bet (10) returned to SunanaKnow
+SunanaKnow collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: SunanaKnow (big blind) collected (20)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #243130673807: Tournament #3578432466, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/16 19:12:31 CET [2023/04/16 13:12:31 ET]
+Table '3578432466 1' 3-max Seat #1 is the button
+Seat 1: SunanaKnow (870 in chips) 
+Seat 3: Mahu2021 (630 in chips) 
+SunanaKnow: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd 9d]
+SunanaKnow: calls 10
+Mahu2021: checks 
+*** FLOP *** [5h 3d 6s]
+Mahu2021: bets 20
+SunanaKnow: calls 20
+*** TURN *** [5h 3d 6s] [Ah]
+Mahu2021: checks 
+SunanaKnow: bets 40
+Mahu2021: folds 
+Uncalled bet (40) returned to SunanaKnow
+SunanaKnow collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [5h 3d 6s Ah]
+Seat 1: SunanaKnow (button) (small blind) collected (80)
+Seat 3: Mahu2021 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #243130680152: Tournament #3578432466, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/16 19:12:47 CET [2023/04/16 13:12:47 ET]
+Table '3578432466 1' 3-max Seat #3 is the button
+Seat 1: SunanaKnow (910 in chips) 
+Seat 3: Mahu2021 (590 in chips) 
+Mahu2021: posts small blind 10
+SunanaKnow: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3c 7h]
+Mahu2021: folds 
+Uncalled bet (10) returned to SunanaKnow
+SunanaKnow collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: SunanaKnow (big blind) collected (20)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #243130683250: Tournament #3578432466, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/16 19:12:54 CET [2023/04/16 13:12:54 ET]
+Table '3578432466 1' 3-max Seat #1 is the button
+Seat 1: SunanaKnow (920 in chips) 
+Seat 3: Mahu2021 (580 in chips) 
+SunanaKnow: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6h Qh]
+SunanaKnow: calls 15
+Mahu2021: checks 
+*** FLOP *** [3c 9s 9c]
+Mahu2021: checks 
+SunanaKnow: checks 
+*** TURN *** [3c 9s 9c] [2c]
+Mahu2021: checks 
+SunanaKnow: checks 
+*** RIVER *** [3c 9s 9c 2c] [7c]
+Mahu2021: bets 30
+SunanaKnow: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [3c 9s 9c 2c 7c]
+Seat 1: SunanaKnow (button) (small blind) folded on the River
+Seat 3: Mahu2021 (big blind) collected (60)
+
+
+
+PokerStars Hand #243130688580: Tournament #3578432466, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/16 19:13:07 CET [2023/04/16 13:13:07 ET]
+Table '3578432466 1' 3-max Seat #3 is the button
+Seat 1: SunanaKnow (890 in chips) 
+Seat 3: Mahu2021 (610 in chips) 
+Mahu2021: posts small blind 15
+SunanaKnow: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4d 4s]
+Mahu2021: raises 30 to 60
+SunanaKnow: calls 30
+*** FLOP *** [3s 2s Kc]
+SunanaKnow: checks 
+Mahu2021: bets 60
+SunanaKnow: calls 60
+*** TURN *** [3s 2s Kc] [Ts]
+SunanaKnow: checks 
+Mahu2021: checks 
+*** RIVER *** [3s 2s Kc Ts] [9c]
+SunanaKnow: bets 120
+Mahu2021: folds 
+Uncalled bet (120) returned to SunanaKnow
+SunanaKnow collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [3s 2s Kc Ts 9c]
+Seat 1: SunanaKnow (big blind) collected (240)
+Seat 3: Mahu2021 (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #243130696104: Tournament #3578432466, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/16 19:13:26 CET [2023/04/16 13:13:26 ET]
+Table '3578432466 1' 3-max Seat #1 is the button
+Seat 1: SunanaKnow (1010 in chips) 
+Seat 3: Mahu2021 (490 in chips) 
+SunanaKnow: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8d 6h]
+SunanaKnow: raises 30 to 60
+Mahu2021: calls 30
+*** FLOP *** [Ks Ts 3c]
+Mahu2021: checks 
+SunanaKnow: checks 
+*** TURN *** [Ks Ts 3c] [7s]
+Mahu2021: bets 30
+SunanaKnow: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Ks Ts 3c 7s]
+Seat 1: SunanaKnow (button) (small blind) folded on the Turn
+Seat 3: Mahu2021 (big blind) collected (120)
+
+
+
+PokerStars Hand #243130700926: Tournament #3578432466, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/16 19:13:38 CET [2023/04/16 13:13:38 ET]
+Table '3578432466 1' 3-max Seat #3 is the button
+Seat 1: SunanaKnow (950 in chips) 
+Seat 3: Mahu2021 (550 in chips) 
+Mahu2021: posts small blind 15
+SunanaKnow: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc 8s]
+Mahu2021: calls 15
+SunanaKnow: checks 
+*** FLOP *** [5s 6s 8c]
+SunanaKnow: checks 
+Mahu2021: bets 60
+SunanaKnow: calls 60
+*** TURN *** [5s 6s 8c] [8d]
+SunanaKnow: checks 
+Mahu2021: bets 60
+SunanaKnow: calls 60
+*** RIVER *** [5s 6s 8c 8d] [Ad]
+SunanaKnow: checks 
+Mahu2021: bets 120
+SunanaKnow: calls 120
+*** SHOW DOWN ***
+Mahu2021: shows [Qc 8s] (three of a kind, Eights)
+SunanaKnow: mucks hand 
+Mahu2021 collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | Rake 0 
+Board [5s 6s 8c 8d Ad]
+Seat 1: SunanaKnow (big blind) mucked [Jh 6h]
+Seat 3: Mahu2021 (button) (small blind) showed [Qc 8s] and won (540) with three of a kind, Eights
+
+
+
+PokerStars Hand #243130709617: Tournament #3578432466, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/16 19:13:59 CET [2023/04/16 13:13:59 ET]
+Table '3578432466 1' 3-max Seat #1 is the button
+Seat 1: SunanaKnow (680 in chips) 
+Seat 3: Mahu2021 (820 in chips) 
+SunanaKnow: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c Ah]
+SunanaKnow: calls 15
+Mahu2021: checks 
+*** FLOP *** [7s Th Kh]
+Mahu2021: checks 
+SunanaKnow: bets 30
+Mahu2021: calls 30
+*** TURN *** [7s Th Kh] [Tc]
+Mahu2021: checks 
+SunanaKnow: checks 
+*** RIVER *** [7s Th Kh Tc] [6d]
+Mahu2021: bets 60
+SunanaKnow: calls 60
+*** SHOW DOWN ***
+Mahu2021: shows [5c Ah] (a pair of Tens)
+SunanaKnow: shows [7c 9h] (two pair, Tens and Sevens)
+SunanaKnow collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [7s Th Kh Tc 6d]
+Seat 1: SunanaKnow (button) (small blind) showed [7c 9h] and won (240) with two pair, Tens and Sevens
+Seat 3: Mahu2021 (big blind) showed [5c Ah] and lost with a pair of Tens
+
+
+
+PokerStars Hand #243130716122: Tournament #3578432466, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/16 19:14:15 CET [2023/04/16 13:14:15 ET]
+Table '3578432466 1' 3-max Seat #3 is the button
+Seat 1: SunanaKnow (800 in chips) 
+Seat 3: Mahu2021 (700 in chips) 
+Mahu2021: posts small blind 15
+SunanaKnow: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d Qc]
+Mahu2021: calls 15
+SunanaKnow: checks 
+*** FLOP *** [Tc 3s Js]
+SunanaKnow: checks 
+Mahu2021: bets 60
+SunanaKnow: calls 60
+*** TURN *** [Tc 3s Js] [Jc]
+SunanaKnow: checks 
+Mahu2021: checks 
+*** RIVER *** [Tc 3s Js Jc] [Ks]
+SunanaKnow: bets 30
+Mahu2021: raises 580 to 610 and is all-in
+SunanaKnow: folds [Td]
+Uncalled bet (580) returned to Mahu2021
+Mahu2021 collected 240 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Tc 3s Js Jc Ks]
+Seat 1: SunanaKnow (big blind) folded on the River
+Seat 3: Mahu2021 (button) (small blind) collected (240)
+
+
+
+PokerStars Hand #243130724580: Tournament #3578432466, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/16 19:14:35 CET [2023/04/16 13:14:35 ET]
+Table '3578432466 1' 3-max Seat #1 is the button
+Seat 1: SunanaKnow (680 in chips) 
+Seat 3: Mahu2021 (820 in chips) 
+SunanaKnow: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4c 6c]
+SunanaKnow: calls 15
+Mahu2021: checks 
+*** FLOP *** [Kh 4s 2h]
+Mahu2021: bets 30
+SunanaKnow: calls 30
+*** TURN *** [Kh 4s 2h] [Qs]
+Mahu2021: checks 
+SunanaKnow: checks 
+*** RIVER *** [Kh 4s 2h Qs] [Jc]
+Mahu2021: checks 
+SunanaKnow: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [4c 6c] (a pair of Fours)
+SunanaKnow: mucks hand 
+Mahu2021 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Kh 4s 2h Qs Jc]
+Seat 1: SunanaKnow (button) (small blind) mucked [3c Ah]
+Seat 3: Mahu2021 (big blind) showed [4c 6c] and won (120) with a pair of Fours
+
+
+
+PokerStars Hand #243130730917: Tournament #3578432466, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/16 19:14:51 CET [2023/04/16 13:14:51 ET]
+Table '3578432466 1' 3-max Seat #3 is the button
+Seat 1: SunanaKnow (620 in chips) 
+Seat 3: Mahu2021 (880 in chips) 
+Mahu2021: posts small blind 15
+SunanaKnow: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac Qc]
+Mahu2021: raises 850 to 880 and is all-in
+SunanaKnow: folds 
+Uncalled bet (850) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: SunanaKnow (big blind) folded before Flop
+Seat 3: Mahu2021 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #243130734544: Tournament #3578432466, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/16 19:15:00 CET [2023/04/16 13:15:00 ET]
+Table '3578432466 1' 3-max Seat #1 is the button
+Seat 1: SunanaKnow (590 in chips) 
+Seat 3: Mahu2021 (910 in chips) 
+SunanaKnow: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As 9h]
+SunanaKnow: calls 15
+Mahu2021: checks 
+*** FLOP *** [4s Kh 6h]
+Mahu2021: checks 
+SunanaKnow: bets 30
+Mahu2021: calls 30
+*** TURN *** [4s Kh 6h] [Ks]
+Mahu2021: checks 
+SunanaKnow: bets 60
+Mahu2021: calls 60
+*** RIVER *** [4s Kh 6h Ks] [9d]
+Mahu2021: checks 
+SunanaKnow: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [As 9h] (two pair, Kings and Nines)
+SunanaKnow: mucks hand 
+Mahu2021 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [4s Kh 6h Ks 9d]
+Seat 1: SunanaKnow (button) (small blind) mucked [7d 6d]
+Seat 3: Mahu2021 (big blind) showed [As 9h] and won (240) with two pair, Kings and Nines
+
+
+
+PokerStars Hand #243130741451: Tournament #3578432466, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/16 19:15:16 CET [2023/04/16 13:15:16 ET]
+Table '3578432466 1' 3-max Seat #3 is the button
+Seat 1: SunanaKnow (470 in chips) 
+Seat 3: Mahu2021 (1030 in chips) 
+Mahu2021: posts small blind 15
+SunanaKnow: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh 5s]
+Mahu2021: raises 30 to 60
+SunanaKnow: calls 30
+*** FLOP *** [As 3s 7d]
+SunanaKnow: checks 
+Mahu2021: bets 60
+SunanaKnow: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [As 3s 7d]
+Seat 1: SunanaKnow (big blind) folded on the Flop
+Seat 3: Mahu2021 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #243130746403: Tournament #3578432466, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/16 19:15:28 CET [2023/04/16 13:15:28 ET]
+Table '3578432466 1' 3-max Seat #1 is the button
+Seat 1: SunanaKnow (410 in chips) 
+Seat 3: Mahu2021 (1090 in chips) 
+SunanaKnow: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc Ad]
+SunanaKnow: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: SunanaKnow (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (30)
+
+
+
+PokerStars Hand #243130748259: Tournament #3578432466, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/16 19:15:33 CET [2023/04/16 13:15:33 ET]
+Table '3578432466 1' 3-max Seat #3 is the button
+Seat 1: SunanaKnow (395 in chips) 
+Seat 3: Mahu2021 (1105 in chips) 
+Mahu2021: posts small blind 15
+SunanaKnow: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qd Ks]
+Mahu2021: raises 30 to 60
+SunanaKnow: raises 120 to 180
+Mahu2021: raises 925 to 1105 and is all-in
+SunanaKnow: calls 215 and is all-in
+Uncalled bet (710) returned to Mahu2021
+*** FLOP *** [Kd 7h Ad]
+*** TURN *** [Kd 7h Ad] [Tc]
+*** RIVER *** [Kd 7h Ad Tc] [9h]
+*** SHOW DOWN ***
+SunanaKnow: shows [Th Jh] (a pair of Tens)
+Mahu2021: shows [Qd Ks] (a pair of Kings)
+Mahu2021 collected 790 from pot
+SunanaKnow finished the tournament in 2nd place
+Mahu2021 wins the tournament and receives $3.00 - congratulations!
+*** SUMMARY ***
+Total pot 790 | Rake 0 
+Board [Kd 7h Ad Tc 9h]
+Seat 1: SunanaKnow (big blind) showed [Th Jh] and lost with a pair of Tens
+Seat 3: Mahu2021 (button) (small blind) showed [Qd Ks] and won (790) with a pair of Kings
+
+
+

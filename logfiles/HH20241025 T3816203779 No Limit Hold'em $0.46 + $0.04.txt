@@ -1,0 +1,123 @@
+﻿PokerStars Hand #253090113888: Tournament #3816203779, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2024/10/25 6:25:02 CET [2024/10/25 0:25:02 ET]
+Table '3816203779 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: djm15d (500 in chips) 
+Seat 3: Toms0118 (500 in chips) 
+djm15d: posts small blind 10
+Toms0118: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6h Js]
+Mahu2021: folds 
+djm15d: calls 10
+Toms0118: checks 
+*** FLOP *** [5d Jc 5c]
+djm15d: checks 
+Toms0118: checks 
+*** TURN *** [5d Jc 5c] [Qh]
+djm15d: bets 20
+Toms0118: folds 
+Uncalled bet (20) returned to djm15d
+djm15d collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [5d Jc 5c Qh]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: djm15d (small blind) collected (40)
+Seat 3: Toms0118 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #253090115562: Tournament #3816203779, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2024/10/25 6:25:20 CET [2024/10/25 0:25:20 ET]
+Table '3816203779 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: djm15d (520 in chips) 
+Seat 3: Toms0118 (480 in chips) 
+Toms0118: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c 2d]
+djm15d: raises 20 to 40
+Toms0118: calls 30
+Mahu2021: folds 
+*** FLOP *** [4c 6h 3h]
+Toms0118: checks 
+djm15d: checks 
+*** TURN *** [4c 6h 3h] [Kc]
+Toms0118: checks 
+djm15d: bets 50
+Toms0118: folds 
+Uncalled bet (50) returned to djm15d
+djm15d collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [4c 6h 3h Kc]
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: djm15d (button) collected (100)
+Seat 3: Toms0118 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #253090117538: Tournament #3816203779, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2024/10/25 6:25:41 CET [2024/10/25 0:25:41 ET]
+Table '3816203779 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (480 in chips) 
+Seat 2: djm15d (580 in chips) 
+Seat 3: Toms0118 (440 in chips) 
+Mahu2021: posts small blind 10
+djm15d: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah 6c]
+Toms0118: folds 
+Mahu2021: raises 20 to 40
+djm15d: calls 20
+*** FLOP *** [Kd Ad Tc]
+Mahu2021: bets 40
+djm15d: calls 40
+*** TURN *** [Kd Ad Tc] [8s]
+Mahu2021: bets 40
+djm15d: raises 80 to 120
+Mahu2021: calls 80
+*** RIVER *** [Kd Ad Tc 8s] [5s]
+Mahu2021: bets 100
+djm15d: calls 100
+*** SHOW DOWN ***
+Mahu2021: shows [Ah 6c] (a pair of Aces)
+djm15d: shows [Ks 8c] (two pair, Kings and Eights)
+djm15d collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | Rake 0 
+Board [Kd Ad Tc 8s 5s]
+Seat 1: Mahu2021 (small blind) showed [Ah 6c] and lost with a pair of Aces
+Seat 2: djm15d (big blind) showed [Ks 8c] and won (600) with two pair, Kings and Eights
+Seat 3: Toms0118 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253090120264: Tournament #3816203779, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2024/10/25 6:26:10 CET [2024/10/25 0:26:10 ET]
+Table '3816203779 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (180 in chips) 
+Seat 2: djm15d (880 in chips) 
+Seat 3: Toms0118 (440 in chips) 
+djm15d: posts small blind 10
+Toms0118: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad 9h]
+Mahu2021: raises 160 to 180 and is all-in
+djm15d: folds 
+Toms0118: calls 160
+*** FLOP *** [4d 8h Qh]
+*** TURN *** [4d 8h Qh] [3s]
+*** RIVER *** [4d 8h Qh 3s] [5s]
+*** SHOW DOWN ***
+Toms0118: shows [Jh 8c] (a pair of Eights)
+Mahu2021: shows [Ad 9h] (high card Ace)
+Toms0118 collected 370 from pot
+Mahu2021 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 370 | Rake 0 
+Board [4d 8h Qh 3s 5s]
+Seat 1: Mahu2021 (button) showed [Ad 9h] and lost with high card Ace
+Seat 2: djm15d (small blind) folded before Flop
+Seat 3: Toms0118 (big blind) showed [Jh 8c] and won (370) with a pair of Eights
+
+
+

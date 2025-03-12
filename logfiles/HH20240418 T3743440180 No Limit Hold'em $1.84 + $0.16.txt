@@ -1,0 +1,120 @@
+﻿PokerStars Hand #250041551473: Tournament #3743440180, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/04/18 19:34:00 CET [2024/04/18 13:34:00 ET]
+Table '3743440180 1' 3-max Seat #1 is the button
+Seat 1: wannabek1 (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: Bona1990 (500 in chips) 
+Mahu2021: posts small blind 10
+Bona1990: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c Kc]
+wannabek1: folds 
+Mahu2021: raises 20 to 40
+Bona1990: raises 80 to 120
+Mahu2021: folds 
+Uncalled bet (80) returned to Bona1990
+Bona1990 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: wannabek1 (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: Bona1990 (big blind) collected (80)
+
+
+
+PokerStars Hand #250041554826: Tournament #3743440180, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/04/18 19:34:11 CET [2024/04/18 13:34:11 ET]
+Table '3743440180 1' 3-max Seat #2 is the button
+Seat 1: wannabek1 (500 in chips) 
+Seat 2: Mahu2021 (460 in chips) 
+Seat 3: Bona1990 (540 in chips) 
+Bona1990: posts small blind 10
+wannabek1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh 9h]
+Mahu2021: calls 20
+Bona1990: folds 
+wannabek1: raises 40 to 60
+Mahu2021: calls 40
+*** FLOP *** [As 6c 8d]
+wannabek1: checks 
+Mahu2021: checks 
+*** TURN *** [As 6c 8d] [Kc]
+wannabek1: bets 60
+Mahu2021: folds 
+Uncalled bet (60) returned to wannabek1
+wannabek1 collected 130 from pot
+wannabek1: doesn't show hand 
+*** SUMMARY ***
+Total pot 130 | Rake 0 
+Board [As 6c 8d Kc]
+Seat 1: wannabek1 (big blind) collected (130)
+Seat 2: Mahu2021 (button) folded on the Turn
+Seat 3: Bona1990 (small blind) folded before Flop
+
+
+
+PokerStars Hand #250041564408: Tournament #3743440180, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/04/18 19:34:43 CET [2024/04/18 13:34:43 ET]
+Table '3743440180 1' 3-max Seat #3 is the button
+Seat 1: wannabek1 (570 in chips) 
+Seat 2: Mahu2021 (400 in chips) 
+Seat 3: Bona1990 (530 in chips) 
+wannabek1: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s Ad]
+Bona1990: folds 
+wannabek1: raises 20 to 40
+Mahu2021: calls 20
+*** FLOP *** [6c 2s 7s]
+wannabek1: checks 
+Mahu2021: bets 80
+wannabek1: calls 80
+*** TURN *** [6c 2s 7s] [7d]
+wannabek1: checks 
+Mahu2021: bets 280 and is all-in
+wannabek1: calls 280
+*** RIVER *** [6c 2s 7s 7d] [Kc]
+*** SHOW DOWN ***
+wannabek1: shows [As 6h] (two pair, Sevens and Sixes)
+Mahu2021: shows [6s Ad] (two pair, Sevens and Sixes)
+wannabek1 collected 400 from pot
+Mahu2021 collected 400 from pot
+*** SUMMARY ***
+Total pot 800 | Rake 0 
+Board [6c 2s 7s 7d Kc]
+Seat 1: wannabek1 (small blind) showed [As 6h] and won (400) with two pair, Sevens and Sixes
+Seat 2: Mahu2021 (big blind) showed [6s Ad] and won (400) with two pair, Sevens and Sixes
+Seat 3: Bona1990 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #250041576810: Tournament #3743440180, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/04/18 19:35:24 CET [2024/04/18 13:35:24 ET]
+Table '3743440180 1' 3-max Seat #1 is the button
+Seat 1: wannabek1 (570 in chips) 
+Seat 2: Mahu2021 (400 in chips) 
+Seat 3: Bona1990 (530 in chips) 
+Mahu2021: posts small blind 10
+Bona1990: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah Js]
+wannabek1: folds 
+Mahu2021: raises 20 to 40
+Bona1990: raises 80 to 120
+Mahu2021: raises 280 to 400 and is all-in
+Bona1990: calls 280
+*** FLOP *** [5c 2d Kd]
+*** TURN *** [5c 2d Kd] [9c]
+*** RIVER *** [5c 2d Kd 9c] [2s]
+*** SHOW DOWN ***
+Mahu2021: shows [Ah Js] (a pair of Deuces)
+Bona1990: shows [Kh As] (two pair, Kings and Deuces)
+Bona1990 collected 800 from pot
+Mahu2021 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 800 | Rake 0 
+Board [5c 2d Kd 9c 2s]
+Seat 1: wannabek1 (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) showed [Ah Js] and lost with a pair of Deuces
+Seat 3: Bona1990 (big blind) showed [Kh As] and won (800) with two pair, Kings and Deuces
+
+
+

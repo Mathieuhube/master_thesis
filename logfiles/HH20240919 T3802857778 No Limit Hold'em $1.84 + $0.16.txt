@@ -1,0 +1,516 @@
+﻿PokerStars Hand #252530186043: Tournament #3802857778, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/09/19 22:10:41 CET [2024/09/19 16:10:41 ET]
+Table '3802857778 1' 3-max Seat #1 is the button
+Seat 1: hgpperez (500 in chips) 
+Seat 2: nayaratorres (500 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+nayaratorres: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s Kd]
+hgpperez: folds 
+nayaratorres: folds 
+Uncalled bet (10) returned to Mahu2021
+Mahu2021 collected 20 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: hgpperez (button) folded before Flop (didn't bet)
+Seat 2: nayaratorres (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (20)
+
+
+
+PokerStars Hand #252530190381: Tournament #3802857778, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/09/19 22:10:54 CET [2024/09/19 16:10:54 ET]
+Table '3802857778 1' 3-max Seat #2 is the button
+Seat 1: hgpperez (500 in chips) 
+Seat 2: nayaratorres (490 in chips) 
+Seat 3: Mahu2021 (510 in chips) 
+Mahu2021: posts small blind 10
+hgpperez: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd 8c]
+nayaratorres: raises 20 to 40
+Mahu2021: calls 30
+hgpperez: calls 20
+*** FLOP *** [9h Qs 7d]
+Mahu2021: checks 
+hgpperez: checks 
+nayaratorres: bets 40
+Mahu2021: folds 
+hgpperez: calls 40
+*** TURN *** [9h Qs 7d] [Jh]
+hgpperez: checks 
+nayaratorres: checks 
+*** RIVER *** [9h Qs 7d Jh] [9c]
+hgpperez: checks 
+nayaratorres: checks 
+*** SHOW DOWN ***
+hgpperez: shows [Jc 7c] (two pair, Jacks and Nines)
+nayaratorres: mucks hand 
+hgpperez collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [9h Qs 7d Jh 9c]
+Seat 1: hgpperez (big blind) showed [Jc 7c] and won (200) with two pair, Jacks and Nines
+Seat 2: nayaratorres (button) mucked [6h Ac]
+Seat 3: Mahu2021 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #252530202878: Tournament #3802857778, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/09/19 22:11:32 CET [2024/09/19 16:11:32 ET]
+Table '3802857778 1' 3-max Seat #3 is the button
+Seat 1: hgpperez (620 in chips) 
+Seat 2: nayaratorres (410 in chips) 
+Seat 3: Mahu2021 (470 in chips) 
+hgpperez: posts small blind 10
+nayaratorres: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qd 4c]
+Mahu2021: folds 
+hgpperez: calls 10
+nayaratorres: raises 40 to 60
+hgpperez: raises 560 to 620 and is all-in
+nayaratorres: folds 
+Uncalled bet (560) returned to hgpperez
+hgpperez collected 120 from pot
+hgpperez: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: hgpperez (small blind) collected (120)
+Seat 2: nayaratorres (big blind) folded before Flop
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #252530208723: Tournament #3802857778, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/09/19 22:11:49 CET [2024/09/19 16:11:49 ET]
+Table '3802857778 1' 3-max Seat #1 is the button
+Seat 1: hgpperez (680 in chips) 
+Seat 2: nayaratorres (350 in chips) 
+Seat 3: Mahu2021 (470 in chips) 
+nayaratorres: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s Ts]
+hgpperez: calls 20
+nayaratorres: calls 10
+Mahu2021: checks 
+*** FLOP *** [Jh 8c 9h]
+nayaratorres: checks 
+Mahu2021: checks 
+hgpperez: checks 
+*** TURN *** [Jh 8c 9h] [2h]
+nayaratorres: bets 31
+Mahu2021: calls 31
+hgpperez: folds 
+*** RIVER *** [Jh 8c 9h 2h] [8h]
+nayaratorres: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+nayaratorres: shows [Js Th] (a flush, Jack high)
+Mahu2021: mucks hand 
+nayaratorres collected 122 from pot
+*** SUMMARY ***
+Total pot 122 | Rake 0 
+Board [Jh 8c 9h 2h 8h]
+Seat 1: hgpperez (button) folded on the Turn
+Seat 2: nayaratorres (small blind) showed [Js Th] and won (122) with a flush, Jack high
+Seat 3: Mahu2021 (big blind) mucked [6s Ts]
+
+
+
+PokerStars Hand #252530221279: Tournament #3802857778, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/09/19 22:12:26 CET [2024/09/19 16:12:26 ET]
+Table '3802857778 1' 3-max Seat #2 is the button
+Seat 1: hgpperez (660 in chips) 
+Seat 2: nayaratorres (421 in chips) 
+Seat 3: Mahu2021 (419 in chips) 
+Mahu2021: posts small blind 10
+hgpperez: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Td 3d]
+nayaratorres: raises 20 to 40
+Mahu2021: folds 
+hgpperez: folds 
+Uncalled bet (20) returned to nayaratorres
+nayaratorres collected 50 from pot
+nayaratorres: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: hgpperez (big blind) folded before Flop
+Seat 2: nayaratorres (button) collected (50)
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #252530224044: Tournament #3802857778, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/09/19 22:12:34 CET [2024/09/19 16:12:34 ET]
+Table '3802857778 1' 3-max Seat #3 is the button
+Seat 1: hgpperez (640 in chips) 
+Seat 2: nayaratorres (451 in chips) 
+Seat 3: Mahu2021 (409 in chips) 
+hgpperez: posts small blind 10
+nayaratorres: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As 2s]
+Mahu2021: raises 20 to 40
+hgpperez: calls 30
+nayaratorres: calls 20
+*** FLOP *** [Ad 5s Th]
+hgpperez: checks 
+nayaratorres: checks 
+Mahu2021: bets 40
+hgpperez: folds 
+nayaratorres: raises 102 to 142
+Mahu2021: calls 102
+*** TURN *** [Ad 5s Th] [5d]
+nayaratorres: bets 269 and is all-in
+Mahu2021: calls 227 and is all-in
+Uncalled bet (42) returned to nayaratorres
+*** RIVER *** [Ad 5s Th 5d] [Kh]
+*** SHOW DOWN ***
+nayaratorres: shows [9d Ac] (two pair, Aces and Fives)
+Mahu2021: shows [As 2s] (two pair, Aces and Fives)
+nayaratorres collected 429 from pot
+Mahu2021 collected 429 from pot
+*** SUMMARY ***
+Total pot 858 | Rake 0 
+Board [Ad 5s Th 5d Kh]
+Seat 1: hgpperez (small blind) folded on the Flop
+Seat 2: nayaratorres (big blind) showed [9d Ac] and won (429) with two pair, Aces and Fives
+Seat 3: Mahu2021 (button) showed [As 2s] and won (429) with two pair, Aces and Fives
+
+
+
+PokerStars Hand #252530240362: Tournament #3802857778, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/09/19 22:13:22 CET [2024/09/19 16:13:22 ET]
+Table '3802857778 1' 3-max Seat #1 is the button
+Seat 1: hgpperez (600 in chips) 
+Seat 2: nayaratorres (471 in chips) 
+Seat 3: Mahu2021 (429 in chips) 
+nayaratorres: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc 8c]
+hgpperez: folds 
+nayaratorres: calls 15
+Mahu2021: checks 
+*** FLOP *** [5d Th 5s]
+nayaratorres: checks 
+Mahu2021: checks 
+*** TURN *** [5d Th 5s] [3s]
+nayaratorres: checks 
+Mahu2021: checks 
+*** RIVER *** [5d Th 5s 3s] [4h]
+nayaratorres: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+nayaratorres: shows [2h Qd] (a pair of Fives)
+Mahu2021: shows [Qc 8c] (a pair of Fives - Queen+Ten+Eight kicker)
+Mahu2021 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [5d Th 5s 3s 4h]
+Seat 1: hgpperez (button) folded before Flop (didn't bet)
+Seat 2: nayaratorres (small blind) showed [2h Qd] and lost with a pair of Fives
+Seat 3: Mahu2021 (big blind) showed [Qc 8c] and won (60) with a pair of Fives
+
+
+
+PokerStars Hand #252530246023: Tournament #3802857778, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/09/19 22:13:39 CET [2024/09/19 16:13:39 ET]
+Table '3802857778 1' 3-max Seat #2 is the button
+Seat 1: hgpperez (600 in chips) 
+Seat 2: nayaratorres (441 in chips) 
+Seat 3: Mahu2021 (459 in chips) 
+Mahu2021: posts small blind 15
+hgpperez: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Th 2h]
+nayaratorres: raises 30 to 60
+Mahu2021: folds 
+hgpperez: calls 30
+*** FLOP *** [7s Td Jd]
+hgpperez: checks 
+nayaratorres: bets 45
+hgpperez: raises 45 to 90
+nayaratorres: calls 45
+*** TURN *** [7s Td Jd] [8s]
+hgpperez: bets 60
+nayaratorres: calls 60
+*** RIVER *** [7s Td Jd 8s] [Qc]
+hgpperez: checks 
+nayaratorres: bets 231 and is all-in
+hgpperez: calls 231
+*** SHOW DOWN ***
+nayaratorres: shows [Ad 8h] (a pair of Eights)
+hgpperez: shows [Kc Qs] (a pair of Queens)
+hgpperez collected 897 from pot
+nayaratorres finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 897 | Rake 0 
+Board [7s Td Jd 8s Qc]
+Seat 1: hgpperez (big blind) showed [Kc Qs] and won (897) with a pair of Queens
+Seat 2: nayaratorres (button) showed [Ad 8h] and lost with a pair of Eights
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #252530260448: Tournament #3802857778, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/09/19 22:14:22 CET [2024/09/19 16:14:22 ET]
+Table '3802857778 1' 3-max Seat #1 is the button
+Seat 1: hgpperez (1056 in chips) 
+Seat 3: Mahu2021 (444 in chips) 
+hgpperez: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac 9h]
+hgpperez: raises 30 to 60
+Mahu2021: raises 384 to 444 and is all-in
+hgpperez: folds 
+Uncalled bet (384) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: hgpperez (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (120)
+
+
+
+PokerStars Hand #252530265061: Tournament #3802857778, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/09/19 22:14:36 CET [2024/09/19 16:14:36 ET]
+Table '3802857778 1' 3-max Seat #3 is the button
+Seat 1: hgpperez (996 in chips) 
+Seat 3: Mahu2021 (504 in chips) 
+Mahu2021: posts small blind 15
+hgpperez: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qs 6s]
+Mahu2021: calls 15
+hgpperez: checks 
+*** FLOP *** [4s 8d 6d]
+hgpperez: checks 
+Mahu2021: bets 30
+hgpperez: calls 30
+*** TURN *** [4s 8d 6d] [8s]
+hgpperez: checks 
+Mahu2021: checks 
+*** RIVER *** [4s 8d 6d 8s] [Ts]
+hgpperez: checks 
+Mahu2021: bets 120
+hgpperez: folds 
+Uncalled bet (120) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [4s 8d 6d 8s Ts]
+Seat 1: hgpperez (big blind) folded on the River
+Seat 3: Mahu2021 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #252530277627: Tournament #3802857778, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/09/19 22:15:13 CET [2024/09/19 16:15:13 ET]
+Table '3802857778 1' 3-max Seat #1 is the button
+Seat 1: hgpperez (936 in chips) 
+Seat 3: Mahu2021 (564 in chips) 
+hgpperez: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5h 7s]
+hgpperez: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: hgpperez (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (40)
+
+
+
+PokerStars Hand #252530279956: Tournament #3802857778, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/09/19 22:15:20 CET [2024/09/19 16:15:20 ET]
+Table '3802857778 1' 3-max Seat #3 is the button
+Seat 1: hgpperez (916 in chips) 
+Seat 3: Mahu2021 (584 in chips) 
+Mahu2021: posts small blind 20
+hgpperez: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h Ah]
+Mahu2021: raises 40 to 80
+hgpperez: raises 836 to 916 and is all-in
+Mahu2021: folds 
+Uncalled bet (836) returned to hgpperez
+hgpperez collected 160 from pot
+hgpperez: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Seat 1: hgpperez (big blind) collected (160)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #252530283102: Tournament #3802857778, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/09/19 22:15:29 CET [2024/09/19 16:15:29 ET]
+Table '3802857778 1' 3-max Seat #1 is the button
+Seat 1: hgpperez (996 in chips) 
+Seat 3: Mahu2021 (504 in chips) 
+hgpperez: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d 9d]
+hgpperez: calls 20
+Mahu2021: checks 
+*** FLOP *** [9c Qd Qh]
+Mahu2021: checks 
+hgpperez: checks 
+*** TURN *** [9c Qd Qh] [7s]
+Mahu2021: bets 40
+hgpperez: calls 40
+*** RIVER *** [9c Qd Qh 7s] [2c]
+Mahu2021: bets 40
+hgpperez: calls 40
+*** SHOW DOWN ***
+Mahu2021: shows [6d 9d] (two pair, Queens and Nines)
+hgpperez: mucks hand 
+Mahu2021 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [9c Qd Qh 7s 2c]
+Seat 1: hgpperez (button) (small blind) mucked [Kd Ah]
+Seat 3: Mahu2021 (big blind) showed [6d 9d] and won (240) with two pair, Queens and Nines
+
+
+
+PokerStars Hand #252530289648: Tournament #3802857778, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/09/19 22:15:48 CET [2024/09/19 16:15:48 ET]
+Table '3802857778 1' 3-max Seat #3 is the button
+Seat 1: hgpperez (876 in chips) 
+Seat 3: Mahu2021 (624 in chips) 
+Mahu2021: posts small blind 20
+hgpperez: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c Th]
+Mahu2021: folds 
+Uncalled bet (20) returned to hgpperez
+hgpperez collected 40 from pot
+hgpperez: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: hgpperez (big blind) collected (40)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #252530291074: Tournament #3802857778, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/09/19 22:15:53 CET [2024/09/19 16:15:53 ET]
+Table '3802857778 1' 3-max Seat #1 is the button
+Seat 1: hgpperez (896 in chips) 
+Seat 3: Mahu2021 (604 in chips) 
+hgpperez: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c Ts]
+hgpperez: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: hgpperez (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (40)
+
+
+
+PokerStars Hand #252530293171: Tournament #3802857778, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/09/19 22:15:59 CET [2024/09/19 16:15:59 ET]
+Table '3802857778 1' 3-max Seat #3 is the button
+Seat 1: hgpperez (876 in chips) 
+Seat 3: Mahu2021 (624 in chips) 
+Mahu2021: posts small blind 20
+hgpperez: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qs 6d]
+Mahu2021: calls 20
+hgpperez: checks 
+*** FLOP *** [Jd 7h Qc]
+hgpperez: checks 
+Mahu2021: bets 40
+hgpperez: calls 40
+*** TURN *** [Jd 7h Qc] [2d]
+hgpperez: checks 
+Mahu2021: bets 40
+hgpperez: calls 40
+*** RIVER *** [Jd 7h Qc 2d] [5s]
+hgpperez: checks 
+Mahu2021: bets 40
+hgpperez: calls 40
+*** SHOW DOWN ***
+Mahu2021: shows [Qs 6d] (a pair of Queens)
+hgpperez: mucks hand 
+Mahu2021 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [Jd 7h Qc 2d 5s]
+Seat 1: hgpperez (big blind) mucked [7s 4h]
+Seat 3: Mahu2021 (button) (small blind) showed [Qs 6d] and won (320) with a pair of Queens
+
+
+
+PokerStars Hand #252530301006: Tournament #3802857778, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/09/19 22:16:22 CET [2024/09/19 16:16:22 ET]
+Table '3802857778 1' 3-max Seat #1 is the button
+Seat 1: hgpperez (716 in chips) 
+Seat 3: Mahu2021 (784 in chips) 
+hgpperez: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c Tc]
+hgpperez: raises 676 to 716 and is all-in
+Mahu2021: folds 
+Uncalled bet (676) returned to hgpperez
+hgpperez collected 80 from pot
+hgpperez: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: hgpperez (button) (small blind) collected (80)
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #252530304215: Tournament #3802857778, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/09/19 22:16:32 CET [2024/09/19 16:16:32 ET]
+Table '3802857778 1' 3-max Seat #3 is the button
+Seat 1: hgpperez (756 in chips) 
+Seat 3: Mahu2021 (744 in chips) 
+Mahu2021: posts small blind 20
+hgpperez: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h 4s]
+Mahu2021: folds 
+Uncalled bet (20) returned to hgpperez
+hgpperez collected 40 from pot
+hgpperez: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: hgpperez (big blind) collected (40)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #252530305698: Tournament #3802857778, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/09/19 22:16:36 CET [2024/09/19 16:16:36 ET]
+Table '3802857778 1' 3-max Seat #1 is the button
+Seat 1: hgpperez (776 in chips) 
+Seat 3: Mahu2021 (724 in chips) 
+hgpperez: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As 2d]
+hgpperez: calls 20
+Mahu2021: raises 684 to 724 and is all-in
+hgpperez: calls 684
+*** FLOP *** [5h 4c 9d]
+*** TURN *** [5h 4c 9d] [6s]
+*** RIVER *** [5h 4c 9d 6s] [4h]
+*** SHOW DOWN ***
+Mahu2021: shows [As 2d] (a pair of Fours)
+hgpperez: shows [8h Ac] (a pair of Fours - Ace+Nine+Eight kicker)
+hgpperez collected 1448 from pot
+Mahu2021 finished the tournament in 2nd place
+hgpperez wins the tournament and receives $4.00 - congratulations!
+*** SUMMARY ***
+Total pot 1448 | Rake 0 
+Board [5h 4c 9d 6s 4h]
+Seat 1: hgpperez (button) (small blind) showed [8h Ac] and won (1448) with a pair of Fours
+Seat 3: Mahu2021 (big blind) showed [As 2d] and lost with a pair of Fours
+
+
+
