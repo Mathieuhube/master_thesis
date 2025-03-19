@@ -1,0 +1,1212 @@
+1: True ﻿PokerStars Hand #242813586046: Tournament #3570601767, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/01 12:17:21 CET [2023/04/01 6:17:21 ET]
+
+2: True Table '3570601767 1' 3-max Seat #1 is the button
+
+3: True Seat 1: slambert666 (500 in chips) 
+
+4: True Seat 2: Dinahere (500 in chips) 
+
+5: True Seat 3: Mahu2021 (500 in chips) 
+
+6: True Dinahere: posts small blind 10
+
+7: True Mahu2021: posts big blind 20
+
+8: True *** HOLE CARDS ***
+
+9: True Dealt to Mahu2021 [2d 6c]
+
+10: True slambert666: calls 20
+
+11: True Dinahere: raises 20 to 40
+
+12: True Mahu2021: folds 
+
+13: True slambert666: calls 20
+
+14: True *** FLOP *** [9d Ac 2s]
+
+15: True Dinahere: bets 40
+
+16: True slambert666: raises 40 to 80
+
+17: True Dinahere: calls 40
+
+18: True *** TURN *** [9d Ac 2s] [9c]
+
+19: True Dinahere: checks 
+
+20: True slambert666: bets 260
+
+21: True Dinahere: calls 260
+
+22: True *** RIVER *** [9d Ac 2s 9c] [6h]
+
+23: True Dinahere: checks 
+
+24: True slambert666: bets 20
+
+25: True Dinahere: calls 20
+
+26: True *** SHOW DOWN ***
+
+27: True slambert666: shows [Th 9s] (three of a kind, Nines)
+
+28: True Dinahere: mucks hand 
+
+29: True slambert666 collected 820 from pot
+
+30: True *** SUMMARY ***
+
+31: True Total pot 820 | Rake 0 
+
+32: True Board [9d Ac 2s 9c 6h]
+
+33: True Seat 1: slambert666 (button) showed [Th 9s] and won (820) with three of a kind, Nines
+
+34: True Seat 2: Dinahere (small blind) mucked [As Kd]
+
+35: True Seat 3: Mahu2021 (big blind) folded before Flop
+
+0: False 
+
+0: False 
+
+0: False 
+
+1: True PokerStars Hand #242813591611: Tournament #3570601767, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/01 12:17:56 CET [2023/04/01 6:17:56 ET]
+
+2: True Table '3570601767 1' 3-max Seat #2 is the button
+
+3: True Seat 1: slambert666 (920 in chips) 
+
+4: True Seat 2: Dinahere (100 in chips) 
+
+5: True Seat 3: Mahu2021 (480 in chips) 
+
+6: True Mahu2021: posts small blind 10
+
+7: True slambert666: posts big blind 20
+
+8: True *** HOLE CARDS ***
+
+9: True Dealt to Mahu2021 [7d 7s]
+
+10: True Dinahere: folds 
+
+11: True Mahu2021: calls 10
+
+12: True slambert666: checks 
+
+13: True *** FLOP *** [6h 4s 2h]
+
+14: True Mahu2021: bets 20
+
+15: True slambert666: raises 20 to 40
+
+16: True Mahu2021: calls 20
+
+17: True *** TURN *** [6h 4s 2h] [Th]
+
+18: True Mahu2021: checks 
+
+19: True slambert666: bets 120
+
+20: True Mahu2021: calls 120
+
+21: True *** RIVER *** [6h 4s 2h Th] [4c]
+
+22: True Mahu2021: checks 
+
+23: True slambert666: bets 360
+
+24: True Mahu2021: calls 300 and is all-in
+
+25: True Uncalled bet (60) returned to slambert666
+
+26: True *** SHOW DOWN ***
+
+27: True slambert666: shows [6d 5h] (two pair, Sixes and Fours)
+
+28: True Mahu2021: shows [7d 7s] (two pair, Sevens and Fours)
+
+29: True Mahu2021 collected 960 from pot
+
+30: True *** SUMMARY ***
+
+31: True Total pot 960 | Rake 0 
+
+32: True Board [6h 4s 2h Th 4c]
+
+33: True Seat 1: slambert666 (big blind) showed [6d 5h] and lost with two pair, Sixes and Fours
+
+34: True Seat 2: Dinahere (button) folded before Flop (didn't bet)
+
+35: True Seat 3: Mahu2021 (small blind) showed [7d 7s] and won (960) with two pair, Sevens and Fours
+
+0: False 
+
+0: False 
+
+0: False 
+
+1: True PokerStars Hand #242813596692: Tournament #3570601767, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/01 12:18:27 CET [2023/04/01 6:18:27 ET]
+
+2: True Table '3570601767 1' 3-max Seat #3 is the button
+
+3: True Seat 1: slambert666 (440 in chips) 
+
+4: True Seat 2: Dinahere (100 in chips) 
+
+5: True Seat 3: Mahu2021 (960 in chips) 
+
+6: True slambert666: posts small blind 10
+
+7: True Dinahere: posts big blind 20
+
+8: True *** HOLE CARDS ***
+
+9: True Dealt to Mahu2021 [8h 4d]
+
+10: True Mahu2021: folds 
+
+11: True slambert666: raises 40 to 60
+
+12: True Dinahere: folds 
+
+13: True Uncalled bet (40) returned to slambert666
+
+14: True slambert666 collected 40 from pot
+
+15: True *** SUMMARY ***
+
+16: True Total pot 40 | Rake 0 
+
+17: True Seat 1: slambert666 (small blind) collected (40)
+
+18: True Seat 2: Dinahere (big blind) folded before Flop
+
+19: True Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+0: False 
+
+0: False 
+
+0: False 
+
+1: True PokerStars Hand #242813598145: Tournament #3570601767, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/01 12:18:36 CET [2023/04/01 6:18:36 ET]
+
+2: True Table '3570601767 1' 3-max Seat #1 is the button
+
+3: True Seat 1: slambert666 (460 in chips) 
+
+4: True Seat 2: Dinahere (80 in chips) 
+
+5: True Seat 3: Mahu2021 (960 in chips) 
+
+6: True Dinahere: posts small blind 10
+
+7: True Mahu2021: posts big blind 20
+
+8: True *** HOLE CARDS ***
+
+9: True Dealt to Mahu2021 [Jh 6d]
+
+10: True slambert666: folds 
+
+11: True Dinahere: raises 60 to 80 and is all-in
+
+12: True Mahu2021: calls 60
+
+13: True *** FLOP *** [3d Ad 6c]
+
+14: True *** TURN *** [3d Ad 6c] [Ts]
+
+15: True *** RIVER *** [3d Ad 6c Ts] [Ah]
+
+16: True *** SHOW DOWN ***
+
+17: True Dinahere: shows [Kc Tc] (two pair, Aces and Tens)
+
+18: True Mahu2021: shows [Jh 6d] (two pair, Aces and Sixes)
+
+19: True Dinahere collected 160 from pot
+
+20: True *** SUMMARY ***
+
+21: True Total pot 160 | Rake 0 
+
+22: True Board [3d Ad 6c Ts Ah]
+
+23: True Seat 1: slambert666 (button) folded before Flop (didn't bet)
+
+24: True Seat 2: Dinahere (small blind) showed [Kc Tc] and won (160) with two pair, Aces and Tens
+
+25: True Seat 3: Mahu2021 (big blind) showed [Jh 6d] and lost with two pair, Aces and Sixes
+
+0: False 
+
+0: False 
+
+0: False 
+
+1: True PokerStars Hand #242813600975: Tournament #3570601767, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/01 12:18:53 CET [2023/04/01 6:18:53 ET]
+
+2: True Table '3570601767 1' 3-max Seat #2 is the button
+
+3: True Seat 1: slambert666 (460 in chips) 
+
+4: True Seat 2: Dinahere (160 in chips) 
+
+5: True Seat 3: Mahu2021 (880 in chips) 
+
+6: True Mahu2021: posts small blind 10
+
+7: True slambert666: posts big blind 20
+
+8: True *** HOLE CARDS ***
+
+9: True Dealt to Mahu2021 [4s 3c]
+
+10: True Dinahere: raises 140 to 160 and is all-in
+
+11: True Mahu2021: folds 
+
+12: True slambert666: calls 140
+
+13: True *** FLOP *** [5c Td 4h]
+
+14: True *** TURN *** [5c Td 4h] [2h]
+
+15: True *** RIVER *** [5c Td 4h 2h] [Js]
+
+16: True *** SHOW DOWN ***
+
+17: True slambert666: shows [Qh Ks] (high card King)
+
+18: True Dinahere: shows [Ah Qc] (high card Ace)
+
+19: True Dinahere collected 330 from pot
+
+20: True *** SUMMARY ***
+
+21: True Total pot 330 | Rake 0 
+
+22: True Board [5c Td 4h 2h Js]
+
+23: True Seat 1: slambert666 (big blind) showed [Qh Ks] and lost with high card King
+
+24: True Seat 2: Dinahere (button) showed [Ah Qc] and won (330) with high card Ace
+
+25: True Seat 3: Mahu2021 (small blind) folded before Flop
+
+0: False 
+
+0: False 
+
+0: False 
+
+1: True PokerStars Hand #242813604078: Tournament #3570601767, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/01 12:19:12 CET [2023/04/01 6:19:12 ET]
+
+2: True Table '3570601767 1' 3-max Seat #3 is the button
+
+3: True Seat 1: slambert666 (300 in chips) 
+
+4: True Seat 2: Dinahere (330 in chips) 
+
+5: True Seat 3: Mahu2021 (870 in chips) 
+
+6: True slambert666: posts small blind 10
+
+7: True Dinahere: posts big blind 20
+
+8: True *** HOLE CARDS ***
+
+9: True Dealt to Mahu2021 [9h 9d]
+
+10: True Mahu2021: raises 850 to 870 and is all-in
+
+11: True slambert666: calls 290 and is all-in
+
+12: True Dinahere: folds 
+
+13: True Uncalled bet (570) returned to Mahu2021
+
+14: True *** FLOP *** [5d 4s 4h]
+
+15: True *** TURN *** [5d 4s 4h] [Qd]
+
+16: True *** RIVER *** [5d 4s 4h Qd] [3c]
+
+17: True *** SHOW DOWN ***
+
+18: True slambert666: shows [9s Qh] (two pair, Queens and Fours)
+
+19: True Mahu2021: shows [9h 9d] (two pair, Nines and Fours)
+
+20: True slambert666 collected 620 from pot
+
+21: True *** SUMMARY ***
+
+22: True Total pot 620 | Rake 0 
+
+23: True Board [5d 4s 4h Qd 3c]
+
+24: True Seat 1: slambert666 (small blind) showed [9s Qh] and won (620) with two pair, Queens and Fours
+
+25: True Seat 2: Dinahere (big blind) folded before Flop
+
+26: True Seat 3: Mahu2021 (button) showed [9h 9d] and lost with two pair, Nines and Fours
+
+0: False 
+
+0: False 
+
+0: False 
+
+1: True PokerStars Hand #242813607004: Tournament #3570601767, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/01 12:19:30 CET [2023/04/01 6:19:30 ET]
+
+2: True Table '3570601767 1' 3-max Seat #1 is the button
+
+3: True Seat 1: slambert666 (620 in chips) 
+
+4: True Seat 2: Dinahere (310 in chips) 
+
+5: True Seat 3: Mahu2021 (570 in chips) 
+
+6: True Dinahere: posts small blind 10
+
+7: True Mahu2021: posts big blind 20
+
+8: True *** HOLE CARDS ***
+
+9: True Dealt to Mahu2021 [5d 3c]
+
+10: True slambert666: calls 20
+
+11: True Dinahere: calls 10
+
+12: True Mahu2021: checks 
+
+13: True *** FLOP *** [Ah Kc 9d]
+
+14: True Dinahere: checks 
+
+15: True Mahu2021: checks 
+
+16: True slambert666: checks 
+
+17: True *** TURN *** [Ah Kc 9d] [Ts]
+
+18: True Dinahere: checks 
+
+19: True Mahu2021: checks 
+
+20: True slambert666: checks 
+
+21: True *** RIVER *** [Ah Kc 9d Ts] [Ks]
+
+22: True Dinahere: checks 
+
+23: True Mahu2021: checks 
+
+24: True slambert666: checks 
+
+25: True *** SHOW DOWN ***
+
+26: True Dinahere: shows [8c 7s] (a pair of Kings)
+
+27: True Mahu2021: shows [5d 3c] (a pair of Kings)
+
+28: True slambert666: shows [8h 3d] (a pair of Kings)
+
+29: True Dinahere collected 20 from pot
+
+30: True Mahu2021 collected 20 from pot
+
+31: True slambert666 collected 20 from pot
+
+32: True *** SUMMARY ***
+
+33: True Total pot 60 | Rake 0 
+
+34: True Board [Ah Kc 9d Ts Ks]
+
+35: True Seat 1: slambert666 (button) showed [8h 3d] and won (20) with a pair of Kings
+
+36: True Seat 2: Dinahere (small blind) showed [8c 7s] and won (20) with a pair of Kings
+
+37: True Seat 3: Mahu2021 (big blind) showed [5d 3c] and won (20) with a pair of Kings
+
+0: False 
+
+0: False 
+
+0: False 
+
+1: True PokerStars Hand #242813610939: Tournament #3570601767, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/01 12:19:54 CET [2023/04/01 6:19:54 ET]
+
+2: True Table '3570601767 1' 3-max Seat #2 is the button
+
+3: True Seat 1: slambert666 (620 in chips) 
+
+4: True Seat 2: Dinahere (310 in chips) 
+
+5: True Seat 3: Mahu2021 (570 in chips) 
+
+6: True Mahu2021: posts small blind 10
+
+7: True slambert666: posts big blind 20
+
+8: True *** HOLE CARDS ***
+
+9: True Dealt to Mahu2021 [Qh 5c]
+
+10: True Dinahere: calls 20
+
+11: True Mahu2021: folds 
+
+12: True slambert666: checks 
+
+13: True *** FLOP *** [8h Jh 6c]
+
+14: True slambert666: checks 
+
+15: True Dinahere: bets 290 and is all-in
+
+16: True slambert666: folds 
+
+17: True Uncalled bet (290) returned to Dinahere
+
+18: True Dinahere collected 50 from pot
+
+19: True *** SUMMARY ***
+
+20: True Total pot 50 | Rake 0 
+
+21: True Board [8h Jh 6c]
+
+22: True Seat 1: slambert666 (big blind) folded on the Flop
+
+23: True Seat 2: Dinahere (button) collected (50)
+
+24: True Seat 3: Mahu2021 (small blind) folded before Flop
+
+0: False 
+
+0: False 
+
+0: False 
+
+1: True PokerStars Hand #242813613689: Tournament #3570601767, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/01 12:20:10 CET [2023/04/01 6:20:10 ET]
+
+2: True Table '3570601767 1' 3-max Seat #3 is the button
+
+3: True Seat 1: slambert666 (600 in chips) 
+
+4: True Seat 2: Dinahere (340 in chips) 
+
+5: True Seat 3: Mahu2021 (560 in chips) 
+
+6: True slambert666: posts small blind 10
+
+7: True Dinahere: posts big blind 20
+
+8: True *** HOLE CARDS ***
+
+9: True Dealt to Mahu2021 [9h 9c]
+
+10: True Mahu2021: raises 540 to 560 and is all-in
+
+11: True slambert666: folds 
+
+12: True Dinahere: folds 
+
+13: True Uncalled bet (540) returned to Mahu2021
+
+14: True Mahu2021 collected 50 from pot
+
+15: True Mahu2021: doesn't show hand 
+
+16: True *** SUMMARY ***
+
+17: True Total pot 50 | Rake 0 
+
+18: True Seat 1: slambert666 (small blind) folded before Flop
+
+19: True Seat 2: Dinahere (big blind) folded before Flop
+
+20: True Seat 3: Mahu2021 (button) collected (50)
+
+0: False 
+
+0: False 
+
+0: False 
+
+1: True PokerStars Hand #242813616443: Tournament #3570601767, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/01 12:20:27 CET [2023/04/01 6:20:27 ET]
+
+2: True Table '3570601767 1' 3-max Seat #1 is the button
+
+3: True Seat 1: slambert666 (590 in chips) 
+
+4: True Seat 2: Dinahere (320 in chips) 
+
+5: True Seat 3: Mahu2021 (590 in chips) 
+
+6: True Dinahere: posts small blind 15
+
+7: True Mahu2021: posts big blind 30
+
+8: True *** HOLE CARDS ***
+
+9: True Dealt to Mahu2021 [3s 6d]
+
+10: True slambert666: calls 30
+
+11: True Dinahere: calls 15
+
+12: True Mahu2021: checks 
+
+13: True *** FLOP *** [Ts 8h 3h]
+
+14: True Dinahere: bets 290 and is all-in
+
+15: True Mahu2021: folds 
+
+16: True slambert666: folds 
+
+17: True Uncalled bet (290) returned to Dinahere
+
+18: True Dinahere collected 90 from pot
+
+19: True *** SUMMARY ***
+
+20: True Total pot 90 | Rake 0 
+
+21: True Board [Ts 8h 3h]
+
+22: True Seat 1: slambert666 (button) folded on the Flop
+
+23: True Seat 2: Dinahere (small blind) collected (90)
+
+24: True Seat 3: Mahu2021 (big blind) folded on the Flop
+
+0: False 
+
+0: False 
+
+0: False 
+
+1: True PokerStars Hand #242813619124: Tournament #3570601767, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/01 12:20:43 CET [2023/04/01 6:20:43 ET]
+
+2: True Table '3570601767 1' 3-max Seat #2 is the button
+
+3: True Seat 1: slambert666 (560 in chips) 
+
+4: True Seat 2: Dinahere (380 in chips) 
+
+5: True Seat 3: Mahu2021 (560 in chips) 
+
+6: True Mahu2021: posts small blind 15
+
+7: True slambert666: posts big blind 30
+
+8: True *** HOLE CARDS ***
+
+9: True Dealt to Mahu2021 [Js 5s]
+
+10: True Dinahere: folds 
+
+11: True Mahu2021: calls 15
+
+12: True slambert666: checks 
+
+13: True *** FLOP *** [Qd 4s 3c]
+
+14: True Mahu2021: checks 
+
+15: True slambert666: bets 30
+
+16: True Mahu2021: folds 
+
+17: True Uncalled bet (30) returned to slambert666
+
+18: True slambert666 collected 60 from pot
+
+19: True *** SUMMARY ***
+
+20: True Total pot 60 | Rake 0 
+
+21: True Board [Qd 4s 3c]
+
+22: True Seat 1: slambert666 (big blind) collected (60)
+
+23: True Seat 2: Dinahere (button) folded before Flop (didn't bet)
+
+24: True Seat 3: Mahu2021 (small blind) folded on the Flop
+
+0: False 
+
+0: False 
+
+0: False 
+
+1: True PokerStars Hand #242813622691: Tournament #3570601767, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/01 12:21:04 CET [2023/04/01 6:21:04 ET]
+
+2: True Table '3570601767 1' 3-max Seat #3 is the button
+
+3: True Seat 1: slambert666 (590 in chips) 
+
+4: True Seat 2: Dinahere (380 in chips) 
+
+5: True Seat 3: Mahu2021 (530 in chips) 
+
+6: True slambert666: posts small blind 15
+
+7: True Dinahere: posts big blind 30
+
+8: True *** HOLE CARDS ***
+
+9: True Dealt to Mahu2021 [8s 5h]
+
+10: True Mahu2021: folds 
+
+11: True slambert666: raises 560 to 590 and is all-in
+
+12: True Dinahere: calls 350 and is all-in
+
+13: True Uncalled bet (210) returned to slambert666
+
+14: True *** FLOP *** [6s Th 4s]
+
+15: True *** TURN *** [6s Th 4s] [8c]
+
+16: True *** RIVER *** [6s Th 4s 8c] [6c]
+
+17: True *** SHOW DOWN ***
+
+18: True slambert666: shows [Ks Ts] (two pair, Tens and Sixes)
+
+19: True Dinahere: shows [Qd Jh] (a pair of Sixes)
+
+20: True slambert666 collected 760 from pot
+
+21: True Dinahere finished the tournament in 3rd place
+
+22: True *** SUMMARY ***
+
+23: True Total pot 760 | Rake 0 
+
+24: True Board [6s Th 4s 8c 6c]
+
+25: True Seat 1: slambert666 (small blind) showed [Ks Ts] and won (760) with two pair, Tens and Sixes
+
+26: True Seat 2: Dinahere (big blind) showed [Qd Jh] and lost with a pair of Sixes
+
+27: True Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+0: False 
+
+0: False 
+
+0: False 
+
+1: True PokerStars Hand #242813625845: Tournament #3570601767, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/01 12:21:23 CET [2023/04/01 6:21:23 ET]
+
+2: True Table '3570601767 1' 3-max Seat #1 is the button
+
+3: True Seat 1: slambert666 (970 in chips) 
+
+4: True Seat 3: Mahu2021 (530 in chips) 
+
+5: True slambert666: posts small blind 15
+
+6: True Mahu2021: posts big blind 30
+
+7: True *** HOLE CARDS ***
+
+8: True Dealt to Mahu2021 [Kc Jd]
+
+9: True slambert666: raises 30 to 60
+
+10: True Mahu2021: calls 30
+
+11: True *** FLOP *** [4h 4s 6s]
+
+12: True Mahu2021: checks 
+
+13: True slambert666: checks 
+
+14: True *** TURN *** [4h 4s 6s] [9d]
+
+15: True Mahu2021: checks 
+
+16: True slambert666: checks 
+
+17: True *** RIVER *** [4h 4s 6s 9d] [Qs]
+
+18: True Mahu2021: checks 
+
+19: True slambert666: checks 
+
+20: True *** SHOW DOWN ***
+
+21: True Mahu2021: shows [Kc Jd] (a pair of Fours)
+
+22: True slambert666: shows [Jh Kh] (a pair of Fours)
+
+23: True Mahu2021 collected 60 from pot
+
+24: True slambert666 collected 60 from pot
+
+25: True *** SUMMARY ***
+
+26: True Total pot 120 | Rake 0 
+
+27: True Board [4h 4s 6s 9d Qs]
+
+28: True Seat 1: slambert666 (button) (small blind) showed [Jh Kh] and won (60) with a pair of Fours
+
+29: True Seat 3: Mahu2021 (big blind) showed [Kc Jd] and won (60) with a pair of Fours
+
+0: False 
+
+0: False 
+
+0: False 
+
+1: True PokerStars Hand #242813628573: Tournament #3570601767, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/01 12:21:40 CET [2023/04/01 6:21:40 ET]
+
+2: True Table '3570601767 1' 3-max Seat #3 is the button
+
+3: True Seat 1: slambert666 (970 in chips) 
+
+4: True Seat 3: Mahu2021 (530 in chips) 
+
+5: True Mahu2021: posts small blind 15
+
+6: True slambert666: posts big blind 30
+
+7: True *** HOLE CARDS ***
+
+8: True Dealt to Mahu2021 [9h 7d]
+
+9: True Mahu2021: calls 15
+
+10: True slambert666: checks 
+
+11: True *** FLOP *** [8c 3h As]
+
+12: True slambert666: bets 30
+
+13: True Mahu2021: folds 
+
+14: True Uncalled bet (30) returned to slambert666
+
+15: True slambert666 collected 60 from pot
+
+16: True *** SUMMARY ***
+
+17: True Total pot 60 | Rake 0 
+
+18: True Board [8c 3h As]
+
+19: True Seat 1: slambert666 (big blind) collected (60)
+
+20: True Seat 3: Mahu2021 (button) (small blind) folded on the Flop
+
+0: False 
+
+0: False 
+
+0: False 
+
+1: True PokerStars Hand #242813630272: Tournament #3570601767, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/01 12:21:50 CET [2023/04/01 6:21:50 ET]
+
+2: True Table '3570601767 1' 3-max Seat #1 is the button
+
+3: True Seat 1: slambert666 (1000 in chips) 
+
+4: True Seat 3: Mahu2021 (500 in chips) 
+
+5: True slambert666: posts small blind 15
+
+6: True Mahu2021: posts big blind 30
+
+7: True *** HOLE CARDS ***
+
+8: True Dealt to Mahu2021 [2s 4h]
+
+9: True slambert666: raises 60 to 90
+
+10: True Mahu2021: folds 
+
+11: True Uncalled bet (60) returned to slambert666
+
+12: True slambert666 collected 60 from pot
+
+13: True *** SUMMARY ***
+
+14: True Total pot 60 | Rake 0 
+
+15: True Seat 1: slambert666 (button) (small blind) collected (60)
+
+16: True Seat 3: Mahu2021 (big blind) folded before Flop
+
+0: False 
+
+0: False 
+
+0: False 
+
+1: True PokerStars Hand #242813631755: Tournament #3570601767, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/01 12:21:59 CET [2023/04/01 6:21:59 ET]
+
+2: True Table '3570601767 1' 3-max Seat #3 is the button
+
+3: True Seat 1: slambert666 (1030 in chips) 
+
+4: True Seat 3: Mahu2021 (470 in chips) 
+
+5: True Mahu2021: posts small blind 15
+
+6: True slambert666: posts big blind 30
+
+7: True *** HOLE CARDS ***
+
+8: True Dealt to Mahu2021 [4s Th]
+
+9: True Mahu2021: folds 
+
+10: True Uncalled bet (15) returned to slambert666
+
+11: True slambert666 collected 30 from pot
+
+12: True *** SUMMARY ***
+
+13: True Total pot 30 | Rake 0 
+
+14: True Seat 1: slambert666 (big blind) collected (30)
+
+15: True Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+0: False 
+
+0: False 
+
+0: False 
+
+1: True PokerStars Hand #242813632552: Tournament #3570601767, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/01 12:22:03 CET [2023/04/01 6:22:03 ET]
+
+2: True Table '3570601767 1' 3-max Seat #1 is the button
+
+3: True Seat 1: slambert666 (1045 in chips) 
+
+4: True Seat 3: Mahu2021 (455 in chips) 
+
+5: True slambert666: posts small blind 15
+
+6: True Mahu2021: posts big blind 30
+
+7: True *** HOLE CARDS ***
+
+8: True Dealt to Mahu2021 [2h 9d]
+
+9: True slambert666: calls 15
+
+10: True Mahu2021: checks 
+
+11: True *** FLOP *** [6s 2d Td]
+
+12: True Mahu2021: checks 
+
+13: True slambert666: checks 
+
+14: True *** TURN *** [6s 2d Td] [Qc]
+
+15: True Mahu2021: checks 
+
+16: True slambert666: checks 
+
+17: True *** RIVER *** [6s 2d Td Qc] [3d]
+
+18: True Mahu2021: bets 30
+
+19: True slambert666: folds 
+
+20: True Uncalled bet (30) returned to Mahu2021
+
+21: True Mahu2021 collected 60 from pot
+
+22: True Mahu2021: doesn't show hand 
+
+23: True *** SUMMARY ***
+
+24: True Total pot 60 | Rake 0 
+
+25: True Board [6s 2d Td Qc 3d]
+
+26: True Seat 1: slambert666 (button) (small blind) folded on the River
+
+27: True Seat 3: Mahu2021 (big blind) collected (60)
+
+0: False 
+
+0: False 
+
+0: False 
+
+1: True PokerStars Hand #242813635165: Tournament #3570601767, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/01 12:22:19 CET [2023/04/01 6:22:19 ET]
+
+2: True Table '3570601767 1' 3-max Seat #3 is the button
+
+3: True Seat 1: slambert666 (1015 in chips) 
+
+4: True Seat 3: Mahu2021 (485 in chips) 
+
+5: True Mahu2021: posts small blind 15
+
+6: True slambert666: posts big blind 30
+
+7: True *** HOLE CARDS ***
+
+8: True Dealt to Mahu2021 [4d 6s]
+
+9: True Mahu2021: calls 15
+
+10: True slambert666: raises 30 to 60
+
+11: True Mahu2021: calls 30
+
+12: True *** FLOP *** [2c 4c Td]
+
+13: True slambert666: bets 120
+
+14: True Mahu2021: raises 305 to 425 and is all-in
+
+15: True slambert666: calls 305
+
+16: True *** TURN *** [2c 4c Td] [5d]
+
+17: True *** RIVER *** [2c 4c Td 5d] [4s]
+
+18: True *** SHOW DOWN ***
+
+19: True slambert666: shows [Th Ks] (two pair, Tens and Fours)
+
+20: True Mahu2021: shows [4d 6s] (three of a kind, Fours)
+
+21: True Mahu2021 collected 970 from pot
+
+22: True *** SUMMARY ***
+
+23: True Total pot 970 | Rake 0 
+
+24: True Board [2c 4c Td 5d 4s]
+
+25: True Seat 1: slambert666 (big blind) showed [Th Ks] and lost with two pair, Tens and Fours
+
+26: True Seat 3: Mahu2021 (button) (small blind) showed [4d 6s] and won (970) with three of a kind, Fours
+
+0: False 
+
+0: False 
+
+0: False 
+
+1: True PokerStars Hand #242813639419: Tournament #3570601767, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/01 12:22:45 CET [2023/04/01 6:22:45 ET]
+
+2: True Table '3570601767 1' 3-max Seat #1 is the button
+
+3: True Seat 1: slambert666 (530 in chips) 
+
+4: True Seat 3: Mahu2021 (970 in chips) 
+
+5: True slambert666: posts small blind 15
+
+6: True Mahu2021: posts big blind 30
+
+7: True *** HOLE CARDS ***
+
+8: True Dealt to Mahu2021 [5h 2s]
+
+9: True slambert666: calls 15
+
+10: True Mahu2021: checks 
+
+11: True *** FLOP *** [3s 4s 2c]
+
+12: True Mahu2021: checks 
+
+13: True slambert666: checks 
+
+14: True *** TURN *** [3s 4s 2c] [Jc]
+
+15: True Mahu2021: checks 
+
+16: True slambert666: checks 
+
+17: True *** RIVER *** [3s 4s 2c Jc] [4d]
+
+18: True Mahu2021: bets 30
+
+19: True slambert666: calls 30
+
+20: True *** SHOW DOWN ***
+
+21: True Mahu2021: shows [5h 2s] (two pair, Fours and Deuces)
+
+22: True slambert666: shows [7h 2d] (two pair, Fours and Deuces)
+
+23: True Mahu2021 collected 60 from pot
+
+24: True slambert666 collected 60 from pot
+
+25: True *** SUMMARY ***
+
+26: True Total pot 120 | Rake 0 
+
+27: True Board [3s 4s 2c Jc 4d]
+
+28: True Seat 1: slambert666 (button) (small blind) showed [7h 2d] and won (60) with two pair, Fours and Deuces
+
+29: True Seat 3: Mahu2021 (big blind) showed [5h 2s] and won (60) with two pair, Fours and Deuces
+
+0: False 
+
+0: False 
+
+0: False 
+
+1: True PokerStars Hand #242813642406: Tournament #3570601767, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/01 12:23:02 CET [2023/04/01 6:23:02 ET]
+
+2: True Table '3570601767 1' 3-max Seat #3 is the button
+
+3: True Seat 1: slambert666 (530 in chips) 
+
+4: True Seat 3: Mahu2021 (970 in chips) 
+
+5: True Mahu2021: posts small blind 15
+
+6: True slambert666: posts big blind 30
+
+7: True *** HOLE CARDS ***
+
+8: True Dealt to Mahu2021 [2c Kd]
+
+9: True Mahu2021: calls 15
+
+10: True slambert666: checks 
+
+11: True *** FLOP *** [Ad 4s 5d]
+
+12: True slambert666: checks 
+
+13: True Mahu2021: bets 30
+
+14: True slambert666: calls 30
+
+15: True *** TURN *** [Ad 4s 5d] [Kc]
+
+16: True slambert666: checks 
+
+17: True Mahu2021: checks 
+
+18: True *** RIVER *** [Ad 4s 5d Kc] [Jd]
+
+19: True slambert666: checks 
+
+20: True Mahu2021: checks 
+
+21: True *** SHOW DOWN ***
+
+22: True slambert666: shows [Qs 9d] (high card Ace)
+
+23: True Mahu2021: shows [2c Kd] (a pair of Kings)
+
+24: True Mahu2021 collected 120 from pot
+
+25: True *** SUMMARY ***
+
+26: True Total pot 120 | Rake 0 
+
+27: True Board [Ad 4s 5d Kc Jd]
+
+28: True Seat 1: slambert666 (big blind) showed [Qs 9d] and lost with high card Ace
+
+29: True Seat 3: Mahu2021 (button) (small blind) showed [2c Kd] and won (120) with a pair of Kings
+
+0: False 
+
+0: False 
+
+0: False 
+
+1: True PokerStars Hand #242813647291: Tournament #3570601767, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/01 12:23:32 CET [2023/04/01 6:23:32 ET]
+
+2: True Table '3570601767 1' 3-max Seat #1 is the button
+
+3: True Seat 1: slambert666 (470 in chips) 
+
+4: True Seat 3: Mahu2021 (1030 in chips) 
+
+5: True slambert666: posts small blind 20
+
+6: True Mahu2021: posts big blind 40
+
+7: True *** HOLE CARDS ***
+
+8: True Dealt to Mahu2021 [Tc Jd]
+
+9: True slambert666: raises 40 to 80
+
+10: True Mahu2021: calls 40
+
+11: True *** FLOP *** [Td 2c Qs]
+
+12: True Mahu2021: checks 
+
+13: True slambert666: checks 
+
+14: True *** TURN *** [Td 2c Qs] [Qd]
+
+15: True Mahu2021: bets 160
+
+16: True slambert666: calls 160
+
+17: True *** RIVER *** [Td 2c Qs Qd] [6h]
+
+18: True Mahu2021: bets 480
+
+19: True slambert666: calls 230 and is all-in
+
+20: True Uncalled bet (250) returned to Mahu2021
+
+21: True *** SHOW DOWN ***
+
+22: True Mahu2021: shows [Tc Jd] (two pair, Queens and Tens)
+
+23: True slambert666: shows [Jh Kh] (a pair of Queens)
+
+24: True Mahu2021 collected 940 from pot
+
+25: True slambert666 finished the tournament in 2nd place
+
+26: True Mahu2021 wins the tournament and receives $3.00 - congratulations!
+
+27: True *** SUMMARY ***
+
+28: True Total pot 940 | Rake 0 
+
+29: True Board [Td 2c Qs Qd 6h]
+
+30: True Seat 1: slambert666 (button) (small blind) showed [Jh Kh] and lost with a pair of Queens
+
+31: True Seat 3: Mahu2021 (big blind) showed [Tc Jd] and won (940) with two pair, Queens and Tens
+
+0: False 
+
+0: False 
+
+0: False 
+
