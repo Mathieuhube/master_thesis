@@ -1,0 +1,35 @@
+﻿PokerStars Hand #251596733310: Tournament #3780319341, $9.30+$0.70 USD Hold'em No Limit - Level I (10/20) - 2024/07/21 17:54:36 CET [2024/07/21 11:54:36 ET]
+Table '3780319341 1' 3-max Seat #1 is the button
+Seat 1: Tomi0707 (500 in chips) 
+Seat 2: marcoaless (500 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+marcoaless: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js Kd]
+Tomi0707: raises 20 to 40
+marcoaless: calls 30
+Mahu2021: calls 20
+*** FLOP *** [Ks 5c 5d]
+marcoaless: checks 
+Mahu2021: bets 120
+Tomi0707: raises 120 to 240
+marcoaless: folds 
+Mahu2021: raises 220 to 460 and is all-in
+Tomi0707: calls 220 and is all-in
+*** TURN *** [Ks 5c 5d] [Ts]
+*** RIVER *** [Ks 5c 5d Ts] [7c]
+*** SHOW DOWN ***
+Mahu2021: shows [Js Kd] (two pair, Kings and Fives)
+Tomi0707: shows [Kc Ah] (two pair, Kings and Fives - Ace kicker)
+Tomi0707 collected 1040 from pot
+Mahu2021 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1040 | Rake 0 
+Board [Ks 5c 5d Ts 7c]
+Seat 1: Tomi0707 (button) showed [Kc Ah] and won (1040) with two pair, Kings and Fives
+Seat 2: marcoaless (small blind) folded on the Flop
+Seat 3: Mahu2021 (big blind) showed [Js Kd] and lost with two pair, Kings and Fives
+
+
+

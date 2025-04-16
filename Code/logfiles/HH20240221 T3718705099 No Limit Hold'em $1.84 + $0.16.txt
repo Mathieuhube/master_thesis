@@ -1,0 +1,622 @@
+﻿PokerStars Hand #249007513361: Tournament #3718705099, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/02/21 14:24:52 CET [2024/02/21 8:24:52 ET]
+Table '3718705099 1' 3-max Seat #1 is the button
+Seat 1: joro550908 (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: whoami.exe (500 in chips) 
+Mahu2021: posts small blind 10
+whoami.exe: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h 6c]
+joro550908: calls 20
+Mahu2021: folds 
+whoami.exe: raises 40 to 60
+joro550908: calls 40
+*** FLOP *** [2c Jc Jd]
+whoami.exe: bets 80
+joro550908: folds 
+Uncalled bet (80) returned to whoami.exe
+whoami.exe collected 130 from pot
+whoami.exe: doesn't show hand 
+*** SUMMARY ***
+Total pot 130 | Rake 0 
+Board [2c Jc Jd]
+Seat 1: joro550908 (button) folded on the Flop
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: whoami.exe (big blind) collected (130)
+
+
+
+PokerStars Hand #249007518381: Tournament #3718705099, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/02/21 14:25:18 CET [2024/02/21 8:25:18 ET]
+Table '3718705099 1' 3-max Seat #2 is the button
+Seat 1: joro550908 (440 in chips) 
+Seat 2: Mahu2021 (490 in chips) 
+Seat 3: whoami.exe (570 in chips) 
+whoami.exe: posts small blind 10
+joro550908: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h 9h]
+Mahu2021: folds 
+whoami.exe: raises 20 to 40
+joro550908: folds 
+Uncalled bet (20) returned to whoami.exe
+whoami.exe collected 40 from pot
+whoami.exe: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: joro550908 (big blind) folded before Flop
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: whoami.exe (small blind) collected (40)
+
+
+
+PokerStars Hand #249007522670: Tournament #3718705099, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/02/21 14:25:41 CET [2024/02/21 8:25:41 ET]
+Table '3718705099 1' 3-max Seat #3 is the button
+Seat 1: joro550908 (420 in chips) 
+Seat 2: Mahu2021 (490 in chips) 
+Seat 3: whoami.exe (590 in chips) 
+joro550908: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h 8h]
+whoami.exe: raises 40 to 60
+joro550908: calls 50
+Mahu2021: folds 
+*** FLOP *** [8d 5d Qd]
+joro550908: bets 360 and is all-in
+whoami.exe: calls 360
+*** TURN *** [8d 5d Qd] [Td]
+*** RIVER *** [8d 5d Qd Td] [6s]
+*** SHOW DOWN ***
+joro550908: shows [6h Jh] (a pair of Sixes)
+whoami.exe: shows [As Qc] (a pair of Queens)
+whoami.exe collected 860 from pot
+joro550908 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 860 | Rake 0 
+Board [8d 5d Qd Td 6s]
+Seat 1: joro550908 (small blind) showed [6h Jh] and lost with a pair of Sixes
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: whoami.exe (button) showed [As Qc] and won (860) with a pair of Queens
+
+
+
+PokerStars Hand #249007530148: Tournament #3718705099, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/02/21 14:26:21 CET [2024/02/21 8:26:21 ET]
+Table '3718705099 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (470 in chips) 
+Seat 3: whoami.exe (1030 in chips) 
+Mahu2021: posts small blind 10
+whoami.exe: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h 5d]
+Mahu2021: folds 
+Uncalled bet (10) returned to whoami.exe
+whoami.exe collected 20 from pot
+whoami.exe: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: whoami.exe (big blind) collected (20)
+
+
+
+PokerStars Hand #249007530989: Tournament #3718705099, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/02/21 14:26:25 CET [2024/02/21 8:26:25 ET]
+Table '3718705099 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (460 in chips) 
+Seat 3: whoami.exe (1040 in chips) 
+whoami.exe: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As 6d]
+whoami.exe: raises 40 to 60
+Mahu2021: calls 40
+*** FLOP *** [5h Jh 9c]
+Mahu2021: checks 
+whoami.exe: bets 60
+Mahu2021: raises 100 to 160
+whoami.exe: raises 820 to 980 and is all-in
+Mahu2021: calls 240 and is all-in
+Uncalled bet (580) returned to whoami.exe
+*** TURN *** [5h Jh 9c] [2c]
+*** RIVER *** [5h Jh 9c 2c] [Ah]
+*** SHOW DOWN ***
+Mahu2021: shows [As 6d] (a pair of Aces)
+whoami.exe: shows [9d Ks] (a pair of Nines)
+Mahu2021 collected 920 from pot
+*** SUMMARY ***
+Total pot 920 | Rake 0 
+Board [5h Jh 9c 2c Ah]
+Seat 2: Mahu2021 (big blind) showed [As 6d] and won (920) with a pair of Aces
+Seat 3: whoami.exe (button) (small blind) showed [9d Ks] and lost with a pair of Nines
+
+
+
+PokerStars Hand #249007534776: Tournament #3718705099, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/02/21 14:26:45 CET [2024/02/21 8:26:45 ET]
+Table '3718705099 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (920 in chips) 
+Seat 3: whoami.exe (580 in chips) 
+Mahu2021: posts small blind 10
+whoami.exe: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc 2h]
+Mahu2021: raises 20 to 40
+whoami.exe: calls 20
+*** FLOP *** [3d 3h 4s]
+whoami.exe: checks 
+Mahu2021: checks 
+*** TURN *** [3d 3h 4s] [Jc]
+whoami.exe: bets 20
+Mahu2021: folds 
+Uncalled bet (20) returned to whoami.exe
+whoami.exe collected 80 from pot
+whoami.exe: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [3d 3h 4s Jc]
+Seat 2: Mahu2021 (button) (small blind) folded on the Turn
+Seat 3: whoami.exe (big blind) collected (80)
+
+
+
+PokerStars Hand #249007537631: Tournament #3718705099, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/02/21 14:27:01 CET [2024/02/21 8:27:01 ET]
+Table '3718705099 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (880 in chips) 
+Seat 3: whoami.exe (620 in chips) 
+whoami.exe: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c Ks]
+whoami.exe: raises 40 to 60
+Mahu2021: calls 40
+*** FLOP *** [4c 5h 6h]
+Mahu2021: checks 
+whoami.exe: checks 
+*** TURN *** [4c 5h 6h] [Tc]
+Mahu2021: checks 
+whoami.exe: checks 
+*** RIVER *** [4c 5h 6h Tc] [Kc]
+Mahu2021: bets 120
+whoami.exe: folds 
+Uncalled bet (120) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [4c 5h 6h Tc Kc]
+Seat 2: Mahu2021 (big blind) collected (120)
+Seat 3: whoami.exe (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #249007540952: Tournament #3718705099, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/02/21 14:27:18 CET [2024/02/21 8:27:18 ET]
+Table '3718705099 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (940 in chips) 
+Seat 3: whoami.exe (560 in chips) 
+Mahu2021: posts small blind 10
+whoami.exe: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Tc 3s]
+Mahu2021: folds 
+Uncalled bet (10) returned to whoami.exe
+whoami.exe collected 20 from pot
+whoami.exe: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: whoami.exe (big blind) collected (20)
+
+
+
+PokerStars Hand #249007541860: Tournament #3718705099, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/02/21 14:27:23 CET [2024/02/21 8:27:23 ET]
+Table '3718705099 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (930 in chips) 
+Seat 3: whoami.exe (570 in chips) 
+whoami.exe: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3c Ah]
+whoami.exe: raises 40 to 60
+Mahu2021: calls 40
+*** FLOP *** [4h 2h 9s]
+Mahu2021: checks 
+whoami.exe: bets 80
+Mahu2021: calls 80
+*** TURN *** [4h 2h 9s] [Ks]
+Mahu2021: checks 
+whoami.exe: bets 430 and is all-in
+Mahu2021: folds 
+Uncalled bet (430) returned to whoami.exe
+whoami.exe collected 280 from pot
+whoami.exe: doesn't show hand 
+*** SUMMARY ***
+Total pot 280 | Rake 0 
+Board [4h 2h 9s Ks]
+Seat 2: Mahu2021 (big blind) folded on the Turn
+Seat 3: whoami.exe (button) (small blind) collected (280)
+
+
+
+PokerStars Hand #249007544990: Tournament #3718705099, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/02/21 14:27:40 CET [2024/02/21 8:27:40 ET]
+Table '3718705099 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (790 in chips) 
+Seat 3: whoami.exe (710 in chips) 
+Mahu2021: posts small blind 10
+whoami.exe: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s Jh]
+Mahu2021: raises 20 to 40
+whoami.exe: calls 20
+*** FLOP *** [6s Kc 5d]
+whoami.exe: bets 80
+Mahu2021: folds 
+Uncalled bet (80) returned to whoami.exe
+whoami.exe collected 80 from pot
+whoami.exe: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [6s Kc 5d]
+Seat 2: Mahu2021 (button) (small blind) folded on the Flop
+Seat 3: whoami.exe (big blind) collected (80)
+
+
+
+PokerStars Hand #249007547342: Tournament #3718705099, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/02/21 14:27:53 CET [2024/02/21 8:27:53 ET]
+Table '3718705099 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (750 in chips) 
+Seat 3: whoami.exe (750 in chips) 
+whoami.exe: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d Tc]
+whoami.exe: calls 10
+Mahu2021: checks 
+*** FLOP *** [9h 6c Ah]
+Mahu2021: checks 
+whoami.exe: checks 
+*** TURN *** [9h 6c Ah] [Th]
+Mahu2021: checks 
+whoami.exe: bets 40
+Mahu2021: raises 60 to 100
+whoami.exe: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [9h 6c Ah Th]
+Seat 2: Mahu2021 (big blind) collected (120)
+Seat 3: whoami.exe (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #249007552727: Tournament #3718705099, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/02/21 14:28:21 CET [2024/02/21 8:28:21 ET]
+Table '3718705099 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (810 in chips) 
+Seat 3: whoami.exe (690 in chips) 
+Mahu2021: posts small blind 15
+whoami.exe: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks 9s]
+Mahu2021: raises 60 to 90
+whoami.exe: raises 600 to 690 and is all-in
+Mahu2021: calls 600
+*** FLOP *** [Jh Kh 8h]
+*** TURN *** [Jh Kh 8h] [Ad]
+*** RIVER *** [Jh Kh 8h Ad] [Qs]
+*** SHOW DOWN ***
+whoami.exe: shows [Qc Kd] (two pair, Kings and Queens)
+Mahu2021: shows [Ks 9s] (a pair of Kings)
+whoami.exe collected 1380 from pot
+*** SUMMARY ***
+Total pot 1380 | Rake 0 
+Board [Jh Kh 8h Ad Qs]
+Seat 2: Mahu2021 (button) (small blind) showed [Ks 9s] and lost with a pair of Kings
+Seat 3: whoami.exe (big blind) showed [Qc Kd] and won (1380) with two pair, Kings and Queens
+
+
+
+PokerStars Hand #249007555721: Tournament #3718705099, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/02/21 14:28:37 CET [2024/02/21 8:28:37 ET]
+Table '3718705099 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (120 in chips) 
+Seat 3: whoami.exe (1380 in chips) 
+whoami.exe: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d 6s]
+whoami.exe: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 2: Mahu2021 (big blind) collected (30)
+Seat 3: whoami.exe (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #249007557094: Tournament #3718705099, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/02/21 14:28:44 CET [2024/02/21 8:28:44 ET]
+Table '3718705099 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (135 in chips) 
+Seat 3: whoami.exe (1365 in chips) 
+Mahu2021: posts small blind 15
+whoami.exe: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts 7h]
+Mahu2021: raises 105 to 135 and is all-in
+whoami.exe: folds 
+Uncalled bet (105) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) collected (60)
+Seat 3: whoami.exe (big blind) folded before Flop
+
+
+
+PokerStars Hand #249007558305: Tournament #3718705099, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/02/21 14:28:50 CET [2024/02/21 8:28:50 ET]
+Table '3718705099 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (165 in chips) 
+Seat 3: whoami.exe (1335 in chips) 
+whoami.exe: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad Ac]
+whoami.exe: raises 1305 to 1335 and is all-in
+Mahu2021: calls 135 and is all-in
+Uncalled bet (1170) returned to whoami.exe
+*** FLOP *** [4h 5h 6s]
+*** TURN *** [4h 5h 6s] [3s]
+*** RIVER *** [4h 5h 6s 3s] [4s]
+*** SHOW DOWN ***
+Mahu2021: shows [Ad Ac] (two pair, Aces and Fours)
+whoami.exe: shows [Jc 8h] (a pair of Fours)
+Mahu2021 collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | Rake 0 
+Board [4h 5h 6s 3s 4s]
+Seat 2: Mahu2021 (big blind) showed [Ad Ac] and won (330) with two pair, Aces and Fours
+Seat 3: whoami.exe (button) (small blind) showed [Jc 8h] and lost with a pair of Fours
+
+
+
+PokerStars Hand #249007560839: Tournament #3718705099, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/02/21 14:29:04 CET [2024/02/21 8:29:04 ET]
+Table '3718705099 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (330 in chips) 
+Seat 3: whoami.exe (1170 in chips) 
+Mahu2021: posts small blind 15
+whoami.exe: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c Jh]
+Mahu2021: calls 15
+whoami.exe: raises 1140 to 1170 and is all-in
+Mahu2021: folds 
+Uncalled bet (1140) returned to whoami.exe
+whoami.exe collected 60 from pot
+whoami.exe: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: whoami.exe (big blind) collected (60)
+
+
+
+PokerStars Hand #249007563092: Tournament #3718705099, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/02/21 14:29:16 CET [2024/02/21 8:29:16 ET]
+Table '3718705099 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (300 in chips) 
+Seat 3: whoami.exe (1200 in chips) 
+whoami.exe: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h 6d]
+whoami.exe: raises 60 to 90
+Mahu2021: folds 
+Uncalled bet (60) returned to whoami.exe
+whoami.exe collected 60 from pot
+whoami.exe: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: whoami.exe (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #249007564328: Tournament #3718705099, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/02/21 14:29:22 CET [2024/02/21 8:29:22 ET]
+Table '3718705099 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (270 in chips) 
+Seat 3: whoami.exe (1230 in chips) 
+Mahu2021: posts small blind 15
+whoami.exe: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d 4c]
+Mahu2021: folds 
+Uncalled bet (15) returned to whoami.exe
+whoami.exe collected 30 from pot
+whoami.exe: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: whoami.exe (big blind) collected (30)
+
+
+
+PokerStars Hand #249007565127: Tournament #3718705099, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/02/21 14:29:26 CET [2024/02/21 8:29:26 ET]
+Table '3718705099 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (255 in chips) 
+Seat 3: whoami.exe (1245 in chips) 
+whoami.exe: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Th 7s]
+whoami.exe: raises 30 to 60
+Mahu2021: folds 
+Uncalled bet (30) returned to whoami.exe
+whoami.exe collected 60 from pot
+whoami.exe: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: whoami.exe (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #249007566432: Tournament #3718705099, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/02/21 14:29:33 CET [2024/02/21 8:29:33 ET]
+Table '3718705099 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (225 in chips) 
+Seat 3: whoami.exe (1275 in chips) 
+Mahu2021: posts small blind 15
+whoami.exe: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s 2d]
+Mahu2021: folds 
+Uncalled bet (15) returned to whoami.exe
+whoami.exe collected 30 from pot
+whoami.exe: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: whoami.exe (big blind) collected (30)
+
+
+
+PokerStars Hand #249007567259: Tournament #3718705099, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/02/21 14:29:38 CET [2024/02/21 8:29:38 ET]
+Table '3718705099 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (210 in chips) 
+Seat 3: whoami.exe (1290 in chips) 
+whoami.exe: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d 3s]
+whoami.exe: raises 30 to 60
+Mahu2021: folds 
+Uncalled bet (30) returned to whoami.exe
+whoami.exe collected 60 from pot
+whoami.exe: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: whoami.exe (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #249007568700: Tournament #3718705099, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/02/21 14:29:45 CET [2024/02/21 8:29:45 ET]
+Table '3718705099 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (180 in chips) 
+Seat 3: whoami.exe (1320 in chips) 
+Mahu2021: posts small blind 15
+whoami.exe: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h 4d]
+Mahu2021: folds 
+Uncalled bet (15) returned to whoami.exe
+whoami.exe collected 30 from pot
+whoami.exe: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: whoami.exe (big blind) collected (30)
+
+
+
+PokerStars Hand #249007569585: Tournament #3718705099, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/02/21 14:29:50 CET [2024/02/21 8:29:50 ET]
+Table '3718705099 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (165 in chips) 
+Seat 3: whoami.exe (1335 in chips) 
+whoami.exe: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d Td]
+whoami.exe: calls 15
+Mahu2021: raises 135 to 165 and is all-in
+whoami.exe: folds 
+Uncalled bet (135) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: Mahu2021 (big blind) collected (60)
+Seat 3: whoami.exe (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #249007571284: Tournament #3718705099, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/02/21 14:29:59 CET [2024/02/21 8:29:59 ET]
+Table '3718705099 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (195 in chips) 
+Seat 3: whoami.exe (1305 in chips) 
+Mahu2021: posts small blind 15
+whoami.exe: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc Ah]
+Mahu2021: calls 15
+whoami.exe: checks 
+*** FLOP *** [8c 3h Ks]
+whoami.exe: checks 
+Mahu2021: checks 
+*** TURN *** [8c 3h Ks] [7s]
+whoami.exe: checks 
+Mahu2021: checks 
+*** RIVER *** [8c 3h Ks 7s] [Jd]
+whoami.exe: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+whoami.exe: shows [5s 4s] (high card King)
+Mahu2021: shows [Qc Ah] (high card Ace)
+Mahu2021 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [8c 3h Ks 7s Jd]
+Seat 2: Mahu2021 (button) (small blind) showed [Qc Ah] and won (60) with high card Ace
+Seat 3: whoami.exe (big blind) showed [5s 4s] and lost with high card King
+
+
+
+PokerStars Hand #249007574209: Tournament #3718705099, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/02/21 14:30:14 CET [2024/02/21 8:30:14 ET]
+Table '3718705099 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (225 in chips) 
+Seat 3: whoami.exe (1275 in chips) 
+whoami.exe: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c 4c]
+whoami.exe: raises 30 to 60
+Mahu2021: calls 30
+*** FLOP *** [9s 3c 5h]
+Mahu2021: bets 165 and is all-in
+whoami.exe: folds 
+Uncalled bet (165) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [9s 3c 5h]
+Seat 2: Mahu2021 (big blind) collected (120)
+Seat 3: whoami.exe (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #249007576827: Tournament #3718705099, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/02/21 14:30:28 CET [2024/02/21 8:30:28 ET]
+Table '3718705099 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (285 in chips) 
+Seat 3: whoami.exe (1215 in chips) 
+Mahu2021: posts small blind 15
+whoami.exe: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks 7h]
+Mahu2021: raises 255 to 285 and is all-in
+whoami.exe: calls 255
+*** FLOP *** [Tc Jh 5s]
+*** TURN *** [Tc Jh 5s] [Qs]
+*** RIVER *** [Tc Jh 5s Qs] [5d]
+*** SHOW DOWN ***
+whoami.exe: shows [Qc 9d] (two pair, Queens and Fives)
+Mahu2021: shows [Ks 7h] (a pair of Fives)
+whoami.exe collected 570 from pot
+Mahu2021 finished the tournament in 2nd place
+whoami.exe wins the tournament and receives $6.00 - congratulations!
+*** SUMMARY ***
+Total pot 570 | Rake 0 
+Board [Tc Jh 5s Qs 5d]
+Seat 2: Mahu2021 (button) (small blind) showed [Ks 7h] and lost with a pair of Fives
+Seat 3: whoami.exe (big blind) showed [Qc 9d] and won (570) with two pair, Queens and Fives
+
+
+

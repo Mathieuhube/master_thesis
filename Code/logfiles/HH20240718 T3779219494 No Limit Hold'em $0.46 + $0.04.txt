@@ -1,0 +1,54 @@
+﻿PokerStars Hand #251548225846: Tournament #3779219494, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2024/07/18 17:18:48 CET [2024/07/18 11:18:48 ET]
+Table '3779219494 1' 3-max Seat #1 is the button
+Seat 1: Rubenghe (500 in chips) 
+Seat 2: stary_volk1985 (500 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+stary_volk1985: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh 5h]
+Rubenghe: calls 20
+stary_volk1985: raises 480 to 500 and is all-in
+Mahu2021: folds 
+Rubenghe: folds 
+Uncalled bet (480) returned to stary_volk1985
+stary_volk1985 collected 60 from pot
+stary_volk1985: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Rubenghe (button) folded before Flop
+Seat 2: stary_volk1985 (small blind) collected (60)
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #251548229426: Tournament #3779219494, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2024/07/18 17:19:05 CET [2024/07/18 11:19:05 ET]
+Table '3779219494 1' 3-max Seat #2 is the button
+Seat 1: Rubenghe (480 in chips) 
+Seat 2: stary_volk1985 (540 in chips) 
+Seat 3: Mahu2021 (480 in chips) 
+Mahu2021: posts small blind 10
+Rubenghe: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah 4s]
+stary_volk1985: folds 
+Mahu2021: raises 20 to 40
+Rubenghe: raises 440 to 480 and is all-in
+Mahu2021: calls 440 and is all-in
+*** FLOP *** [9h 8d Ks]
+*** TURN *** [9h 8d Ks] [7s]
+*** RIVER *** [9h 8d Ks 7s] [9d]
+*** SHOW DOWN ***
+Mahu2021: shows [Ah 4s] (a pair of Nines)
+Rubenghe: shows [Kh Qd] (two pair, Kings and Nines)
+Rubenghe collected 960 from pot
+Mahu2021 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 960 | Rake 0 
+Board [9h 8d Ks 7s 9d]
+Seat 1: Rubenghe (big blind) showed [Kh Qd] and won (960) with two pair, Kings and Nines
+Seat 2: stary_volk1985 (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) showed [Ah 4s] and lost with a pair of Nines
+
+
+

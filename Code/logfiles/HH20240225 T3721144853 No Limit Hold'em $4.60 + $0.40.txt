@@ -1,0 +1,515 @@
+﻿PokerStars Hand #249090323281: Tournament #3721144853, $4.60+$0.40 USD Hold'em No Limit - Level I (10/20) - 2024/02/25 20:22:17 CET [2024/02/25 14:22:17 ET]
+Table '3721144853 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: Plis22 (500 in chips) 
+Seat 3: Alyssongst (500 in chips) 
+Plis22: posts small blind 10
+Alyssongst: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s Kd]
+Mahu2021: folds 
+Plis22: raises 20 to 40
+Alyssongst: calls 20
+*** FLOP *** [Qd Qs 9h]
+Plis22: checks 
+Alyssongst: bets 40
+Plis22: folds 
+Uncalled bet (40) returned to Alyssongst
+Alyssongst collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Qd Qs 9h]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: Plis22 (small blind) folded on the Flop
+Seat 3: Alyssongst (big blind) collected (80)
+
+
+
+PokerStars Hand #249090335964: Tournament #3721144853, $4.60+$0.40 USD Hold'em No Limit - Level I (10/20) - 2024/02/25 20:22:47 CET [2024/02/25 14:22:47 ET]
+Table '3721144853 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: Plis22 (460 in chips) 
+Seat 3: Alyssongst (540 in chips) 
+Alyssongst: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah Tc]
+Plis22: calls 20
+Alyssongst: calls 10
+Mahu2021: checks 
+*** FLOP *** [Th 2d 6c]
+Alyssongst: bets 40
+Mahu2021: calls 40
+Plis22: calls 40
+*** TURN *** [Th 2d 6c] [Jc]
+Alyssongst: bets 20
+Mahu2021: calls 20
+Plis22: folds 
+*** RIVER *** [Th 2d 6c Jc] [6h]
+Alyssongst: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+Alyssongst: shows [9c Kd] (a pair of Sixes)
+Mahu2021: shows [Ah Tc] (two pair, Tens and Sixes)
+Mahu2021 collected 220 from pot
+*** SUMMARY ***
+Total pot 220 | Rake 0 
+Board [Th 2d 6c Jc 6h]
+Seat 1: Mahu2021 (big blind) showed [Ah Tc] and won (220) with two pair, Tens and Sixes
+Seat 2: Plis22 (button) folded on the Turn
+Seat 3: Alyssongst (small blind) showed [9c Kd] and lost with a pair of Sixes
+
+
+
+PokerStars Hand #249090347191: Tournament #3721144853, $4.60+$0.40 USD Hold'em No Limit - Level I (10/20) - 2024/02/25 20:23:14 CET [2024/02/25 14:23:14 ET]
+Table '3721144853 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (640 in chips) 
+Seat 2: Plis22 (400 in chips) 
+Seat 3: Alyssongst (460 in chips) 
+Mahu2021: posts small blind 10
+Plis22: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s 9s]
+Alyssongst: folds 
+Mahu2021: calls 10
+Plis22: raises 20 to 40
+Mahu2021: calls 20
+*** FLOP *** [Tc 9h 8h]
+Mahu2021: checks 
+Plis22: checks 
+*** TURN *** [Tc 9h 8h] [2c]
+Mahu2021: bets 40
+Plis22: calls 40
+*** RIVER *** [Tc 9h 8h 2c] [Ks]
+Mahu2021: bets 40
+Plis22: raises 40 to 80
+Mahu2021: calls 40
+*** SHOW DOWN ***
+Plis22: shows [Qh Kc] (a pair of Kings)
+Mahu2021: mucks hand 
+Plis22 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [Tc 9h 8h 2c Ks]
+Seat 1: Mahu2021 (small blind) mucked [5s 9s]
+Seat 2: Plis22 (big blind) showed [Qh Kc] and won (320) with a pair of Kings
+Seat 3: Alyssongst (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #249090357541: Tournament #3721144853, $4.60+$0.40 USD Hold'em No Limit - Level I (10/20) - 2024/02/25 20:23:39 CET [2024/02/25 14:23:39 ET]
+Table '3721144853 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (480 in chips) 
+Seat 2: Plis22 (560 in chips) 
+Seat 3: Alyssongst (460 in chips) 
+Plis22: posts small blind 10
+Alyssongst: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc 8h]
+Mahu2021: folds 
+Plis22: calls 10
+Alyssongst: raises 20 to 40
+Plis22: calls 20
+*** FLOP *** [Kh As 6d]
+Plis22: checks 
+Alyssongst: checks 
+*** TURN *** [Kh As 6d] [8s]
+Plis22: checks 
+Alyssongst: bets 20
+Plis22: folds 
+Uncalled bet (20) returned to Alyssongst
+Alyssongst collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Kh As 6d 8s]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: Plis22 (small blind) folded on the Turn
+Seat 3: Alyssongst (big blind) collected (80)
+
+
+
+PokerStars Hand #249090369442: Tournament #3721144853, $4.60+$0.40 USD Hold'em No Limit - Level I (10/20) - 2024/02/25 20:24:08 CET [2024/02/25 14:24:08 ET]
+Table '3721144853 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (480 in chips) 
+Seat 2: Plis22 (520 in chips) 
+Seat 3: Alyssongst (500 in chips) 
+Alyssongst: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Th 6h]
+Plis22: calls 20
+Alyssongst: calls 10
+Mahu2021: checks 
+*** FLOP *** [9c 2c Qh]
+Alyssongst: checks 
+Mahu2021: checks 
+Plis22: bets 20
+Alyssongst: calls 20
+Mahu2021: folds 
+*** TURN *** [9c 2c Qh] [7h]
+Alyssongst: checks 
+Plis22: checks 
+*** RIVER *** [9c 2c Qh 7h] [Ks]
+Alyssongst: bets 20
+Plis22: folds 
+Uncalled bet (20) returned to Alyssongst
+Alyssongst collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [9c 2c Qh 7h Ks]
+Seat 1: Mahu2021 (big blind) folded on the Flop
+Seat 2: Plis22 (button) folded on the River
+Seat 3: Alyssongst (small blind) collected (100)
+
+
+
+PokerStars Hand #249090386993: Tournament #3721144853, $4.60+$0.40 USD Hold'em No Limit - Level II (15/30) - 2024/02/25 20:24:50 CET [2024/02/25 14:24:50 ET]
+Table '3721144853 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (460 in chips) 
+Seat 2: Plis22 (480 in chips) 
+Seat 3: Alyssongst (560 in chips) 
+Mahu2021: posts small blind 15
+Plis22: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d Ks]
+Alyssongst: folds 
+Mahu2021 has timed out
+Mahu2021: folds 
+Mahu2021 is sitting out
+Uncalled bet (15) returned to Plis22
+Plis22 collected 30 from pot
+Plis22: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: Plis22 (big blind) collected (30)
+Seat 3: Alyssongst (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #249090398355: Tournament #3721144853, $4.60+$0.40 USD Hold'em No Limit - Level II (15/30) - 2024/02/25 20:25:17 CET [2024/02/25 14:25:17 ET]
+Table '3721144853 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (445 in chips) is sitting out
+Seat 2: Plis22 (495 in chips) 
+Seat 3: Alyssongst (560 in chips) 
+Plis22: posts small blind 15
+Alyssongst: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Th 8c]
+Mahu2021: folds 
+Mahu2021 has returned
+Plis22: calls 15
+Alyssongst: checks 
+*** FLOP *** [7d 5d Jc]
+Plis22: checks 
+Alyssongst: checks 
+*** TURN *** [7d 5d Jc] [Ks]
+Plis22: checks 
+Alyssongst: checks 
+*** RIVER *** [7d 5d Jc Ks] [3s]
+Plis22: bets 60
+Alyssongst: folds 
+Uncalled bet (60) returned to Plis22
+Plis22 collected 60 from pot
+Plis22: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [7d 5d Jc Ks 3s]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: Plis22 (small blind) collected (60)
+Seat 3: Alyssongst (big blind) folded on the River
+
+
+
+PokerStars Hand #249090410524: Tournament #3721144853, $4.60+$0.40 USD Hold'em No Limit - Level II (15/30) - 2024/02/25 20:25:46 CET [2024/02/25 14:25:46 ET]
+Table '3721144853 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (445 in chips) 
+Seat 2: Plis22 (525 in chips) 
+Seat 3: Alyssongst (530 in chips) 
+Alyssongst: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2s 8s]
+Plis22: calls 30
+Alyssongst: raises 90 to 120
+Mahu2021: folds 
+Plis22: calls 90
+*** FLOP *** [Kd Tc Th]
+Alyssongst: bets 410 and is all-in
+Plis22: calls 405 and is all-in
+Uncalled bet (5) returned to Alyssongst
+*** TURN *** [Kd Tc Th] [5c]
+*** RIVER *** [Kd Tc Th 5c] [9c]
+*** SHOW DOWN ***
+Alyssongst: shows [8d 8h] (two pair, Tens and Eights)
+Plis22: shows [Qs Kc] (two pair, Kings and Tens)
+Plis22 collected 1080 from pot
+*** SUMMARY ***
+Total pot 1080 | Rake 0 
+Board [Kd Tc Th 5c 9c]
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: Plis22 (button) showed [Qs Kc] and won (1080) with two pair, Kings and Tens
+Seat 3: Alyssongst (small blind) showed [8d 8h] and lost with two pair, Tens and Eights
+
+
+
+PokerStars Hand #249090428021: Tournament #3721144853, $4.60+$0.40 USD Hold'em No Limit - Level III (20/40) - 2024/02/25 20:26:28 CET [2024/02/25 14:26:28 ET]
+Table '3721144853 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (415 in chips) 
+Seat 2: Plis22 (1080 in chips) 
+Seat 3: Alyssongst (5 in chips) 
+Mahu2021: posts small blind 20
+Plis22: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kc 3s]
+Alyssongst: calls 5 and is all-in
+Mahu2021: calls 20
+Plis22: checks 
+*** FLOP *** [Ad 9s Jd]
+Mahu2021: checks 
+Plis22: bets 40
+Mahu2021: folds 
+Uncalled bet (40) returned to Plis22
+*** TURN *** [Ad 9s Jd] [Qs]
+*** RIVER *** [Ad 9s Jd Qs] [Jc]
+*** SHOW DOWN ***
+Plis22: shows [Ac 6d] (two pair, Aces and Jacks)
+Plis22 collected 70 from side pot
+Alyssongst: shows [Qd Ks] (two pair, Queens and Jacks)
+Plis22 collected 15 from main pot
+Alyssongst finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 85 Main pot 15. Side pot 70. | Rake 0 
+Board [Ad 9s Jd Qs Jc]
+Seat 1: Mahu2021 (small blind) folded on the Flop
+Seat 2: Plis22 (big blind) showed [Ac 6d] and won (85) with two pair, Aces and Jacks
+Seat 3: Alyssongst (button) showed [Qd Ks] and lost with two pair, Queens and Jacks
+
+
+
+PokerStars Hand #249090439164: Tournament #3721144853, $4.60+$0.40 USD Hold'em No Limit - Level III (20/40) - 2024/02/25 20:26:55 CET [2024/02/25 14:26:55 ET]
+Table '3721144853 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (375 in chips) 
+Seat 2: Plis22 (1125 in chips) 
+Plis22: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h 2s]
+Plis22: raises 40 to 80
+Mahu2021: folds 
+Uncalled bet (40) returned to Plis22
+Plis22 collected 80 from pot
+Plis22: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: Plis22 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #249090441981: Tournament #3721144853, $4.60+$0.40 USD Hold'em No Limit - Level III (20/40) - 2024/02/25 20:27:02 CET [2024/02/25 14:27:02 ET]
+Table '3721144853 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (335 in chips) 
+Seat 2: Plis22 (1165 in chips) 
+Mahu2021: posts small blind 20
+Plis22: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d Ks]
+Mahu2021: calls 20
+Plis22: checks 
+*** FLOP *** [6d Jd 7h]
+Plis22: checks 
+Mahu2021: bets 40
+Plis22: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [6d Jd 7h]
+Seat 1: Mahu2021 (button) (small blind) collected (80)
+Seat 2: Plis22 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #249090448096: Tournament #3721144853, $4.60+$0.40 USD Hold'em No Limit - Level III (20/40) - 2024/02/25 20:27:16 CET [2024/02/25 14:27:16 ET]
+Table '3721144853 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (375 in chips) 
+Seat 2: Plis22 (1125 in chips) 
+Plis22: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8d Ks]
+Plis22: calls 20
+Mahu2021: checks 
+*** FLOP *** [4h 8h Ad]
+Mahu2021: checks 
+Plis22: checks 
+*** TURN *** [4h 8h Ad] [8c]
+Mahu2021: checks 
+Plis22: checks 
+*** RIVER *** [4h 8h Ad 8c] [3s]
+Mahu2021: bets 80
+Plis22: folds 
+Uncalled bet (80) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [4h 8h Ad 8c 3s]
+Seat 1: Mahu2021 (big blind) collected (80)
+Seat 2: Plis22 (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #249090462856: Tournament #3721144853, $4.60+$0.40 USD Hold'em No Limit - Level III (20/40) - 2024/02/25 20:27:52 CET [2024/02/25 14:27:52 ET]
+Table '3721144853 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (415 in chips) 
+Seat 2: Plis22 (1085 in chips) 
+Mahu2021: posts small blind 20
+Plis22: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s 3d]
+Mahu2021: raises 375 to 415 and is all-in
+Plis22: folds 
+Uncalled bet (375) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) collected (80)
+Seat 2: Plis22 (big blind) folded before Flop
+
+
+
+PokerStars Hand #249090469390: Tournament #3721144853, $4.60+$0.40 USD Hold'em No Limit - Level III (20/40) - 2024/02/25 20:28:07 CET [2024/02/25 14:28:07 ET]
+Table '3721144853 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (455 in chips) 
+Seat 2: Plis22 (1045 in chips) 
+Plis22: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3c 9s]
+Plis22: calls 20
+Mahu2021: checks 
+*** FLOP *** [Qd As 9h]
+Mahu2021: checks 
+Plis22: bets 1005 and is all-in
+Mahu2021: folds 
+Uncalled bet (1005) returned to Plis22
+Plis22 collected 80 from pot
+Plis22: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Qd As 9h]
+Seat 1: Mahu2021 (big blind) folded on the Flop
+Seat 2: Plis22 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #249090476469: Tournament #3721144853, $4.60+$0.40 USD Hold'em No Limit - Level IV (30/60) - 2024/02/25 20:28:24 CET [2024/02/25 14:28:24 ET]
+Table '3721144853 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (415 in chips) 
+Seat 2: Plis22 (1085 in chips) 
+Mahu2021: posts small blind 30
+Plis22: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d 2c]
+Mahu2021: folds 
+Uncalled bet (30) returned to Plis22
+Plis22 collected 60 from pot
+Plis22: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 2: Plis22 (big blind) collected (60)
+
+
+
+PokerStars Hand #249090478400: Tournament #3721144853, $4.60+$0.40 USD Hold'em No Limit - Level IV (30/60) - 2024/02/25 20:28:29 CET [2024/02/25 14:28:29 ET]
+Table '3721144853 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (385 in chips) 
+Seat 2: Plis22 (1115 in chips) 
+Plis22: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qd 7d]
+Plis22: calls 30
+Mahu2021: checks 
+*** FLOP *** [2c 5c Kc]
+Mahu2021: checks 
+Plis22: checks 
+*** TURN *** [2c 5c Kc] [Kh]
+Mahu2021: checks 
+Plis22: checks 
+*** RIVER *** [2c 5c Kc Kh] [7h]
+Mahu2021: bets 60
+Plis22: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [2c 5c Kc Kh 7h]
+Seat 1: Mahu2021 (big blind) collected (120)
+Seat 2: Plis22 (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #249090487429: Tournament #3721144853, $4.60+$0.40 USD Hold'em No Limit - Level IV (30/60) - 2024/02/25 20:28:51 CET [2024/02/25 14:28:51 ET]
+Table '3721144853 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (445 in chips) 
+Seat 2: Plis22 (1055 in chips) 
+Mahu2021: posts small blind 30
+Plis22: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s 4s]
+Mahu2021: calls 30
+Plis22: checks 
+*** FLOP *** [Ac 3s 9h]
+Plis22: checks 
+Mahu2021: bets 60
+Plis22: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Ac 3s 9h]
+Seat 1: Mahu2021 (button) (small blind) collected (120)
+Seat 2: Plis22 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #249090495659: Tournament #3721144853, $4.60+$0.40 USD Hold'em No Limit - Level IV (30/60) - 2024/02/25 20:29:10 CET [2024/02/25 14:29:10 ET]
+Table '3721144853 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (505 in chips) 
+Seat 2: Plis22 (995 in chips) 
+Plis22: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts Qh]
+Plis22: calls 30
+Mahu2021: checks 
+*** FLOP *** [Kd 5c Ac]
+Mahu2021: checks 
+Plis22: bets 60
+Mahu2021: calls 60
+*** TURN *** [Kd 5c Ac] [Kh]
+Mahu2021: checks 
+Plis22: checks 
+*** RIVER *** [Kd 5c Ac Kh] [7d]
+Mahu2021: checks 
+Plis22: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [Ts Qh] (a pair of Kings)
+Plis22: shows [Td 7c] (two pair, Kings and Sevens)
+Plis22 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Kd 5c Ac Kh 7d]
+Seat 1: Mahu2021 (big blind) showed [Ts Qh] and lost with a pair of Kings
+Seat 2: Plis22 (button) (small blind) showed [Td 7c] and won (240) with two pair, Kings and Sevens
+
+
+

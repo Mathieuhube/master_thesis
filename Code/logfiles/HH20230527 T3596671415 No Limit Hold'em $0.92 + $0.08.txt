@@ -1,0 +1,631 @@
+﻿PokerStars Hand #243930889577: Tournament #3596671415, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/05/27 9:58:16 CET [2023/05/27 3:58:16 ET]
+Table '3596671415 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: tpt_deg (500 in chips) 
+Seat 3: Tobilinho748 (500 in chips) 
+tpt_deg: posts small blind 10
+Tobilinho748: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d 8c]
+Mahu2021: folds 
+tpt_deg: calls 10
+Tobilinho748: checks 
+*** FLOP *** [Ks 5d Kd]
+tpt_deg: bets 20
+Tobilinho748: folds 
+Uncalled bet (20) returned to tpt_deg
+tpt_deg collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Ks 5d Kd]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: tpt_deg (small blind) collected (40)
+Seat 3: Tobilinho748 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #243930891730: Tournament #3596671415, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/05/27 9:58:37 CET [2023/05/27 3:58:37 ET]
+Table '3596671415 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: tpt_deg (520 in chips) 
+Seat 3: Tobilinho748 (480 in chips) 
+Tobilinho748: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js 9c]
+tpt_deg: raises 50 to 70
+Tobilinho748: calls 60
+Mahu2021: folds 
+*** FLOP *** [Kc 6c 5h]
+Tobilinho748: bets 80
+tpt_deg: calls 80
+*** TURN *** [Kc 6c 5h] [7d]
+Tobilinho748: bets 160
+tpt_deg: calls 160
+*** RIVER *** [Kc 6c 5h 7d] [9s]
+Tobilinho748: checks 
+tpt_deg: checks 
+*** SHOW DOWN ***
+Tobilinho748: shows [As 3s] (high card Ace)
+tpt_deg: shows [Ts Td] (a pair of Tens)
+tpt_deg collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | Rake 0 
+Board [Kc 6c 5h 7d 9s]
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: tpt_deg (button) showed [Ts Td] and won (640) with a pair of Tens
+Seat 3: Tobilinho748 (small blind) showed [As 3s] and lost with high card Ace
+
+
+
+PokerStars Hand #243930894846: Tournament #3596671415, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/05/27 9:59:06 CET [2023/05/27 3:59:06 ET]
+Table '3596671415 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (480 in chips) 
+Seat 2: tpt_deg (850 in chips) 
+Seat 3: Tobilinho748 (170 in chips) 
+Mahu2021: posts small blind 10
+tpt_deg: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd Td]
+Tobilinho748: raises 150 to 170 and is all-in
+Mahu2021: folds 
+tpt_deg: calls 150
+*** FLOP *** [4d 2d Th]
+*** TURN *** [4d 2d Th] [9h]
+*** RIVER *** [4d 2d Th 9h] [Kh]
+*** SHOW DOWN ***
+tpt_deg: shows [6c Ad] (high card Ace)
+Tobilinho748: shows [Qs 4s] (a pair of Fours)
+Tobilinho748 collected 350 from pot
+*** SUMMARY ***
+Total pot 350 | Rake 0 
+Board [4d 2d Th 9h Kh]
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: tpt_deg (big blind) showed [6c Ad] and lost with high card Ace
+Seat 3: Tobilinho748 (button) showed [Qs 4s] and won (350) with a pair of Fours
+
+
+
+PokerStars Hand #243930896368: Tournament #3596671415, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/05/27 9:59:21 CET [2023/05/27 3:59:21 ET]
+Table '3596671415 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (470 in chips) 
+Seat 2: tpt_deg (680 in chips) 
+Seat 3: Tobilinho748 (350 in chips) 
+tpt_deg: posts small blind 10
+Tobilinho748: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qd 3c]
+Mahu2021: folds 
+tpt_deg: raises 60 to 80
+Tobilinho748: folds 
+Uncalled bet (60) returned to tpt_deg
+tpt_deg collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: tpt_deg (small blind) collected (40)
+Seat 3: Tobilinho748 (big blind) folded before Flop
+
+
+
+PokerStars Hand #243930897533: Tournament #3596671415, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/05/27 9:59:32 CET [2023/05/27 3:59:32 ET]
+Table '3596671415 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (470 in chips) 
+Seat 2: tpt_deg (700 in chips) 
+Seat 3: Tobilinho748 (330 in chips) 
+Tobilinho748: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8s Qd]
+tpt_deg: folds 
+Tobilinho748: folds 
+Uncalled bet (10) returned to Mahu2021
+Mahu2021 collected 20 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (20)
+Seat 2: tpt_deg (button) folded before Flop (didn't bet)
+Seat 3: Tobilinho748 (small blind) folded before Flop
+
+
+
+PokerStars Hand #243930898163: Tournament #3596671415, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/05/27 9:59:38 CET [2023/05/27 3:59:38 ET]
+Table '3596671415 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (480 in chips) 
+Seat 2: tpt_deg (700 in chips) 
+Seat 3: Tobilinho748 (320 in chips) 
+Mahu2021: posts small blind 10
+tpt_deg: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh Qs]
+Tobilinho748: folds 
+Mahu2021: calls 10
+tpt_deg: checks 
+*** FLOP *** [6s 9d 7s]
+Mahu2021: bets 20
+tpt_deg: calls 20
+*** TURN *** [6s 9d 7s] [Qd]
+Mahu2021: checks 
+tpt_deg: checks 
+*** RIVER *** [6s 9d 7s Qd] [Jc]
+Mahu2021: bets 80
+tpt_deg: folds 
+Uncalled bet (80) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [6s 9d 7s Qd Jc]
+Seat 1: Mahu2021 (small blind) collected (80)
+Seat 2: tpt_deg (big blind) folded on the River
+Seat 3: Tobilinho748 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #243930900831: Tournament #3596671415, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/05/27 10:00:04 CET [2023/05/27 4:00:04 ET]
+Table '3596671415 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (520 in chips) 
+Seat 2: tpt_deg (660 in chips) 
+Seat 3: Tobilinho748 (320 in chips) 
+tpt_deg: posts small blind 10
+Tobilinho748: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Th Td]
+Mahu2021: raises 20 to 40
+tpt_deg: raises 20 to 60
+Tobilinho748: raises 20 to 80
+Mahu2021: calls 40
+tpt_deg: calls 20
+*** FLOP *** [6s 5d 2d]
+tpt_deg: checks 
+Tobilinho748: checks 
+Mahu2021: bets 240
+tpt_deg: folds 
+Tobilinho748: calls 240 and is all-in
+*** TURN *** [6s 5d 2d] [2c]
+*** RIVER *** [6s 5d 2d 2c] [6h]
+*** SHOW DOWN ***
+Tobilinho748: shows [2s 2h] (four of a kind, Deuces)
+Mahu2021: shows [Th Td] (two pair, Tens and Sixes)
+Tobilinho748 collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | Rake 0 
+Board [6s 5d 2d 2c 6h]
+Seat 1: Mahu2021 (button) showed [Th Td] and lost with two pair, Tens and Sixes
+Seat 2: tpt_deg (small blind) folded on the Flop
+Seat 3: Tobilinho748 (big blind) showed [2s 2h] and won (720) with four of a kind, Deuces
+
+
+
+PokerStars Hand #243930904407: Tournament #3596671415, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/05/27 10:00:37 CET [2023/05/27 4:00:37 ET]
+Table '3596671415 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (200 in chips) 
+Seat 2: tpt_deg (580 in chips) 
+Seat 3: Tobilinho748 (720 in chips) 
+Tobilinho748: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8c 3h]
+tpt_deg: raises 20 to 40
+Tobilinho748: folds 
+Mahu2021: folds 
+Uncalled bet (20) returned to tpt_deg
+tpt_deg collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: tpt_deg (button) collected (50)
+Seat 3: Tobilinho748 (small blind) folded before Flop
+
+
+
+PokerStars Hand #243930905006: Tournament #3596671415, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/05/27 10:00:42 CET [2023/05/27 4:00:42 ET]
+Table '3596671415 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (180 in chips) 
+Seat 2: tpt_deg (610 in chips) 
+Seat 3: Tobilinho748 (710 in chips) 
+Mahu2021: posts small blind 10
+tpt_deg: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d 9h]
+Tobilinho748: folds 
+Mahu2021: folds 
+Uncalled bet (10) returned to tpt_deg
+tpt_deg collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: tpt_deg (big blind) collected (20)
+Seat 3: Tobilinho748 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #243930905850: Tournament #3596671415, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/05/27 10:00:49 CET [2023/05/27 4:00:49 ET]
+Table '3596671415 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (170 in chips) 
+Seat 2: tpt_deg (620 in chips) 
+Seat 3: Tobilinho748 (710 in chips) 
+tpt_deg: posts small blind 10
+Tobilinho748: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h 2s]
+Mahu2021: folds 
+tpt_deg: calls 10
+Tobilinho748: checks 
+*** FLOP *** [4h 2c 9c]
+tpt_deg: checks 
+Tobilinho748: bets 40
+tpt_deg: calls 40
+*** TURN *** [4h 2c 9c] [Qh]
+tpt_deg: checks 
+Tobilinho748: bets 60
+tpt_deg: raises 500 to 560 and is all-in
+Tobilinho748: folds 
+Uncalled bet (500) returned to tpt_deg
+tpt_deg collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [4h 2c 9c Qh]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: tpt_deg (small blind) collected (240)
+Seat 3: Tobilinho748 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #243930910222: Tournament #3596671415, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/05/27 10:01:27 CET [2023/05/27 4:01:27 ET]
+Table '3596671415 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (170 in chips) 
+Seat 2: tpt_deg (740 in chips) 
+Seat 3: Tobilinho748 (590 in chips) 
+Tobilinho748: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h Ks]
+tpt_deg: calls 30
+Tobilinho748: folds 
+Mahu2021: checks 
+*** FLOP *** [6c As 9d]
+Mahu2021: checks 
+tpt_deg: bets 30
+Mahu2021: folds 
+Uncalled bet (30) returned to tpt_deg
+tpt_deg collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Board [6c As 9d]
+Seat 1: Mahu2021 (big blind) folded on the Flop
+Seat 2: tpt_deg (button) collected (75)
+Seat 3: Tobilinho748 (small blind) folded before Flop
+
+
+
+PokerStars Hand #243930911879: Tournament #3596671415, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/05/27 10:01:41 CET [2023/05/27 4:01:41 ET]
+Table '3596671415 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (140 in chips) 
+Seat 2: tpt_deg (785 in chips) 
+Seat 3: Tobilinho748 (575 in chips) 
+Mahu2021: posts small blind 15
+tpt_deg: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js 7d]
+Tobilinho748: folds 
+Mahu2021: folds 
+Uncalled bet (15) returned to tpt_deg
+tpt_deg collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: tpt_deg (big blind) collected (30)
+Seat 3: Tobilinho748 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #243930912527: Tournament #3596671415, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/05/27 10:01:47 CET [2023/05/27 4:01:47 ET]
+Table '3596671415 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (125 in chips) 
+Seat 2: tpt_deg (800 in chips) 
+Seat 3: Tobilinho748 (575 in chips) 
+tpt_deg: posts small blind 15
+Tobilinho748: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Tc 9h]
+Mahu2021: folds 
+tpt_deg: calls 15
+Tobilinho748: raises 60 to 90
+tpt_deg: calls 60
+*** FLOP *** [7c 2h 5h]
+tpt_deg: checks 
+Tobilinho748: bets 485 and is all-in
+tpt_deg: folds 
+Uncalled bet (485) returned to Tobilinho748
+Tobilinho748 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [7c 2h 5h]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: tpt_deg (small blind) folded on the Flop
+Seat 3: Tobilinho748 (big blind) collected (180)
+
+
+
+PokerStars Hand #243930915226: Tournament #3596671415, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/05/27 10:02:11 CET [2023/05/27 4:02:11 ET]
+Table '3596671415 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (125 in chips) 
+Seat 2: tpt_deg (710 in chips) 
+Seat 3: Tobilinho748 (665 in chips) 
+Tobilinho748: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8d 4s]
+tpt_deg: raises 30 to 60
+Tobilinho748: calls 45
+Mahu2021: folds 
+*** FLOP *** [8s 9s 9d]
+Tobilinho748: checks 
+tpt_deg: bets 150
+Tobilinho748: folds 
+Uncalled bet (150) returned to tpt_deg
+tpt_deg collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Board [8s 9s 9d]
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: tpt_deg (button) collected (150)
+Seat 3: Tobilinho748 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #243930916664: Tournament #3596671415, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/05/27 10:02:22 CET [2023/05/27 4:02:22 ET]
+Table '3596671415 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (95 in chips) 
+Seat 2: tpt_deg (800 in chips) 
+Seat 3: Tobilinho748 (605 in chips) 
+Mahu2021: posts small blind 15
+tpt_deg: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h Qc]
+Tobilinho748: raises 30 to 60
+Mahu2021: raises 35 to 95 and is all-in
+tpt_deg: folds 
+Tobilinho748: calls 35
+*** FLOP *** [Js 8d 3c]
+*** TURN *** [Js 8d 3c] [Tc]
+*** RIVER *** [Js 8d 3c Tc] [7d]
+*** SHOW DOWN ***
+Mahu2021: shows [9h Qc] (a straight, Eight to Queen)
+Tobilinho748: shows [Qd Td] (a pair of Tens)
+Mahu2021 collected 220 from pot
+*** SUMMARY ***
+Total pot 220 | Rake 0 
+Board [Js 8d 3c Tc 7d]
+Seat 1: Mahu2021 (small blind) showed [9h Qc] and won (220) with a straight, Eight to Queen
+Seat 2: tpt_deg (big blind) folded before Flop
+Seat 3: Tobilinho748 (button) showed [Qd Td] and lost with a pair of Tens
+
+
+
+PokerStars Hand #243930918359: Tournament #3596671415, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/05/27 10:02:37 CET [2023/05/27 4:02:37 ET]
+Table '3596671415 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (220 in chips) 
+Seat 2: tpt_deg (770 in chips) 
+Seat 3: Tobilinho748 (510 in chips) 
+tpt_deg: posts small blind 15
+Tobilinho748: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c 4d]
+Mahu2021: folds 
+tpt_deg: calls 15
+Tobilinho748: checks 
+*** FLOP *** [8h 5d Td]
+tpt_deg: checks 
+Tobilinho748: bets 60
+tpt_deg: calls 60
+*** TURN *** [8h 5d Td] [2c]
+tpt_deg: checks 
+Tobilinho748: bets 180
+tpt_deg: calls 180
+*** RIVER *** [8h 5d Td 2c] [Kc]
+tpt_deg: bets 500 and is all-in
+Tobilinho748: folds 
+Uncalled bet (500) returned to tpt_deg
+tpt_deg collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | Rake 0 
+Board [8h 5d Td 2c Kc]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: tpt_deg (small blind) collected (540)
+Seat 3: Tobilinho748 (big blind) folded on the River
+
+
+
+PokerStars Hand #243930922808: Tournament #3596671415, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/05/27 10:03:14 CET [2023/05/27 4:03:14 ET]
+Table '3596671415 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (220 in chips) 
+Seat 2: tpt_deg (1040 in chips) 
+Seat 3: Tobilinho748 (240 in chips) 
+Tobilinho748: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh 6d]
+tpt_deg: calls 30
+Tobilinho748: folds 
+Mahu2021: checks 
+*** FLOP *** [3d 5d 8d]
+Mahu2021: checks 
+tpt_deg: checks 
+*** TURN *** [3d 5d 8d] [4c]
+Mahu2021: bets 30
+tpt_deg: calls 30
+*** RIVER *** [3d 5d 8d 4c] [3h]
+Mahu2021: checks 
+tpt_deg: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [Qh 6d] (a pair of Threes)
+tpt_deg: shows [Ah 9s] (a pair of Threes - Ace kicker)
+tpt_deg collected 135 from pot
+*** SUMMARY ***
+Total pot 135 | Rake 0 
+Board [3d 5d 8d 4c 3h]
+Seat 1: Mahu2021 (big blind) showed [Qh 6d] and lost with a pair of Threes
+Seat 2: tpt_deg (button) showed [Ah 9s] and won (135) with a pair of Threes
+Seat 3: Tobilinho748 (small blind) folded before Flop
+
+
+
+PokerStars Hand #243930925457: Tournament #3596671415, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/05/27 10:03:36 CET [2023/05/27 4:03:36 ET]
+Table '3596671415 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (160 in chips) 
+Seat 2: tpt_deg (1115 in chips) 
+Seat 3: Tobilinho748 (225 in chips) 
+Mahu2021: posts small blind 15
+tpt_deg: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd Ks]
+Tobilinho748: folds 
+Mahu2021: raises 30 to 60
+tpt_deg: calls 30
+*** FLOP *** [4c Jc 7c]
+Mahu2021: bets 100 and is all-in
+tpt_deg: calls 100
+*** TURN *** [4c Jc 7c] [9s]
+*** RIVER *** [4c Jc 7c 9s] [Ts]
+*** SHOW DOWN ***
+Mahu2021: shows [Jd Ks] (a pair of Jacks)
+tpt_deg: shows [6h 7h] (a pair of Sevens)
+Mahu2021 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [4c Jc 7c 9s Ts]
+Seat 1: Mahu2021 (small blind) showed [Jd Ks] and won (320) with a pair of Jacks
+Seat 2: tpt_deg (big blind) showed [6h 7h] and lost with a pair of Sevens
+Seat 3: Tobilinho748 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #243930927705: Tournament #3596671415, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/05/27 10:03:55 CET [2023/05/27 4:03:55 ET]
+Table '3596671415 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (320 in chips) 
+Seat 2: tpt_deg (955 in chips) 
+Seat 3: Tobilinho748 (225 in chips) 
+tpt_deg: posts small blind 15
+Tobilinho748: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d 8d]
+Mahu2021: folds 
+tpt_deg: folds 
+Uncalled bet (15) returned to Tobilinho748
+Tobilinho748 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: tpt_deg (small blind) folded before Flop
+Seat 3: Tobilinho748 (big blind) collected (30)
+
+
+
+PokerStars Hand #243930928590: Tournament #3596671415, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/05/27 10:04:02 CET [2023/05/27 4:04:02 ET]
+Table '3596671415 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (320 in chips) 
+Seat 2: tpt_deg (940 in chips) 
+Seat 3: Tobilinho748 (240 in chips) 
+Tobilinho748: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Th Js]
+tpt_deg: folds 
+Tobilinho748: calls 15
+Mahu2021: checks 
+*** FLOP *** [9s 3d 4h]
+Tobilinho748: bets 210 and is all-in
+Mahu2021: folds 
+Uncalled bet (210) returned to Tobilinho748
+Tobilinho748 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [9s 3d 4h]
+Seat 1: Mahu2021 (big blind) folded on the Flop
+Seat 2: tpt_deg (button) folded before Flop (didn't bet)
+Seat 3: Tobilinho748 (small blind) collected (60)
+
+
+
+PokerStars Hand #243930930186: Tournament #3596671415, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/05/27 10:04:15 CET [2023/05/27 4:04:15 ET]
+Table '3596671415 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (290 in chips) 
+Seat 2: tpt_deg (940 in chips) 
+Seat 3: Tobilinho748 (270 in chips) 
+Mahu2021: posts small blind 15
+tpt_deg: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd Td]
+Tobilinho748: calls 30
+Mahu2021: calls 15
+tpt_deg: checks 
+*** FLOP *** [7s 7h Tc]
+Mahu2021: bets 260 and is all-in
+tpt_deg: folds 
+Tobilinho748: folds 
+Uncalled bet (260) returned to Mahu2021
+Mahu2021 collected 90 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [7s 7h Tc]
+Seat 1: Mahu2021 (small blind) collected (90)
+Seat 2: tpt_deg (big blind) folded on the Flop
+Seat 3: Tobilinho748 (button) folded on the Flop
+
+
+
+PokerStars Hand #243930932172: Tournament #3596671415, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/05/27 10:04:31 CET [2023/05/27 4:04:31 ET]
+Table '3596671415 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (350 in chips) 
+Seat 2: tpt_deg (910 in chips) 
+Seat 3: Tobilinho748 (240 in chips) 
+tpt_deg: posts small blind 20
+Tobilinho748: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4d Qd]
+Mahu2021: folds 
+tpt_deg: folds 
+Uncalled bet (20) returned to Tobilinho748
+Tobilinho748 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: tpt_deg (small blind) folded before Flop
+Seat 3: Tobilinho748 (big blind) collected (40)
+
+
+
+PokerStars Hand #243930932980: Tournament #3596671415, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/05/27 10:04:38 CET [2023/05/27 4:04:38 ET]
+Table '3596671415 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (350 in chips) 
+Seat 2: tpt_deg (890 in chips) 
+Seat 3: Tobilinho748 (260 in chips) 
+Tobilinho748: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh Jc]
+tpt_deg: raises 100 to 140
+Tobilinho748: folds 
+Mahu2021: raises 210 to 350 and is all-in
+tpt_deg: calls 210
+*** FLOP *** [8h 8d 5h]
+*** TURN *** [8h 8d 5h] [5c]
+*** RIVER *** [8h 8d 5h 5c] [Qh]
+*** SHOW DOWN ***
+Mahu2021: shows [Jh Jc] (two pair, Jacks and Eights)
+tpt_deg: shows [Tc Qs] (two pair, Queens and Eights)
+tpt_deg collected 720 from pot
+Mahu2021 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 720 | Rake 0 
+Board [8h 8d 5h 5c Qh]
+Seat 1: Mahu2021 (big blind) showed [Jh Jc] and lost with two pair, Jacks and Eights
+Seat 2: tpt_deg (button) showed [Tc Qs] and won (720) with two pair, Queens and Eights
+Seat 3: Tobilinho748 (small blind) folded before Flop
+
+
+

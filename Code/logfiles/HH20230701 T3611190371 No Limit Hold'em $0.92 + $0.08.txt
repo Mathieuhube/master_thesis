@@ -1,0 +1,499 @@
+﻿PokerStars Hand #244561876268: Tournament #3611190371, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/07/01 13:12:25 CET [2023/07/01 7:12:25 ET]
+Table '3611190371 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: Petrashkev (500 in chips) 
+Seat 3: LautitaKO (500 in chips) 
+Petrashkev: posts small blind 10
+LautitaKO: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc Jh]
+Mahu2021: calls 20
+Petrashkev: calls 10
+LautitaKO: checks 
+*** FLOP *** [4d Tc 2s]
+Petrashkev: bets 20
+LautitaKO: folds 
+Mahu2021: calls 20
+*** TURN *** [4d Tc 2s] [8s]
+Petrashkev: bets 40
+Mahu2021: calls 40
+*** RIVER *** [4d Tc 2s 8s] [9h]
+Petrashkev: bets 60
+Mahu2021: raises 300 to 360
+Petrashkev: folds 
+Uncalled bet (300) returned to Mahu2021
+Mahu2021 collected 300 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [4d Tc 2s 8s 9h]
+Seat 1: Mahu2021 (button) collected (300)
+Seat 2: Petrashkev (small blind) folded on the River
+Seat 3: LautitaKO (big blind) folded on the Flop
+
+
+
+PokerStars Hand #244561880512: Tournament #3611190371, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/07/01 13:12:51 CET [2023/07/01 7:12:51 ET]
+Table '3611190371 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (660 in chips) 
+Seat 2: Petrashkev (360 in chips) 
+Seat 3: LautitaKO (480 in chips) 
+LautitaKO: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2s 3c]
+Petrashkev: folds 
+LautitaKO: raises 20 to 40
+Mahu2021: calls 20
+*** FLOP *** [4s 5d 8c]
+LautitaKO: bets 40
+Mahu2021: calls 40
+*** TURN *** [4s 5d 8c] [9d]
+LautitaKO: bets 160
+Mahu2021: calls 160
+*** RIVER *** [4s 5d 8c 9d] [8d]
+LautitaKO: bets 240 and is all-in
+Mahu2021: folds 
+Uncalled bet (240) returned to LautitaKO
+LautitaKO collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Board [4s 5d 8c 9d 8d]
+Seat 1: Mahu2021 (big blind) folded on the River
+Seat 2: Petrashkev (button) folded before Flop (didn't bet)
+Seat 3: LautitaKO (small blind) collected (480)
+
+
+
+PokerStars Hand #244561884526: Tournament #3611190371, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/07/01 13:13:15 CET [2023/07/01 7:13:15 ET]
+Table '3611190371 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (420 in chips) 
+Seat 2: Petrashkev (360 in chips) 
+Seat 3: LautitaKO (720 in chips) 
+Mahu2021: posts small blind 10
+Petrashkev: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks Jc]
+LautitaKO: folds 
+Mahu2021: calls 10
+Petrashkev: checks 
+*** FLOP *** [Js 5c 4s]
+Mahu2021: bets 20
+Petrashkev: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Js 5c 4s]
+Seat 1: Mahu2021 (small blind) collected (40)
+Seat 2: Petrashkev (big blind) folded on the Flop
+Seat 3: LautitaKO (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #244561886649: Tournament #3611190371, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/07/01 13:13:27 CET [2023/07/01 7:13:27 ET]
+Table '3611190371 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (440 in chips) 
+Seat 2: Petrashkev (340 in chips) 
+Seat 3: LautitaKO (720 in chips) 
+Petrashkev: posts small blind 10
+LautitaKO: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d 2d]
+Mahu2021: folds 
+Petrashkev: raises 20 to 40
+LautitaKO: calls 20
+*** FLOP *** [2s 4h Jc]
+Petrashkev: checks 
+LautitaKO: checks 
+*** TURN *** [2s 4h Jc] [9d]
+Petrashkev: bets 20
+LautitaKO: folds 
+Uncalled bet (20) returned to Petrashkev
+Petrashkev collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [2s 4h Jc 9d]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: Petrashkev (small blind) collected (80)
+Seat 3: LautitaKO (big blind) folded on the Turn
+
+
+
+PokerStars Hand #244561889110: Tournament #3611190371, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/07/01 13:13:42 CET [2023/07/01 7:13:42 ET]
+Table '3611190371 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (440 in chips) 
+Seat 2: Petrashkev (380 in chips) 
+Seat 3: LautitaKO (680 in chips) 
+LautitaKO: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d 3c]
+Petrashkev: folds 
+LautitaKO: raises 40 to 60
+Mahu2021: folds 
+Uncalled bet (40) returned to LautitaKO
+LautitaKO collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: Petrashkev (button) folded before Flop (didn't bet)
+Seat 3: LautitaKO (small blind) collected (40)
+
+
+
+PokerStars Hand #244561890586: Tournament #3611190371, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/07/01 13:13:51 CET [2023/07/01 7:13:51 ET]
+Table '3611190371 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (420 in chips) 
+Seat 2: Petrashkev (380 in chips) 
+Seat 3: LautitaKO (700 in chips) 
+Mahu2021: posts small blind 10
+Petrashkev: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh 7d]
+LautitaKO: raises 20 to 40
+Mahu2021: folds 
+Petrashkev: calls 20
+*** FLOP *** [Qc 4h Jh]
+Petrashkev: checks 
+LautitaKO: checks 
+*** TURN *** [Qc 4h Jh] [8h]
+Petrashkev: checks 
+LautitaKO: checks 
+*** RIVER *** [Qc 4h Jh 8h] [6h]
+Petrashkev: bets 20
+LautitaKO: calls 20
+*** SHOW DOWN ***
+Petrashkev: shows [Kc Th] (a flush, Jack high)
+LautitaKO: mucks hand 
+Petrashkev collected 130 from pot
+*** SUMMARY ***
+Total pot 130 | Rake 0 
+Board [Qc 4h Jh 8h 6h]
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: Petrashkev (big blind) showed [Kc Th] and won (130) with a flush, Jack high
+Seat 3: LautitaKO (button) mucked [6c Kd]
+
+
+
+PokerStars Hand #244561895075: Tournament #3611190371, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/07/01 13:14:17 CET [2023/07/01 7:14:17 ET]
+Table '3611190371 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (410 in chips) 
+Seat 2: Petrashkev (450 in chips) 
+Seat 3: LautitaKO (640 in chips) 
+Petrashkev: posts small blind 10
+LautitaKO: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h 9s]
+Mahu2021: folds 
+Petrashkev: raises 20 to 40
+LautitaKO: calls 20
+*** FLOP *** [7c 4c Qs]
+Petrashkev: bets 62
+LautitaKO: folds 
+Uncalled bet (62) returned to Petrashkev
+Petrashkev collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [7c 4c Qs]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: Petrashkev (small blind) collected (80)
+Seat 3: LautitaKO (big blind) folded on the Flop
+
+
+
+PokerStars Hand #244561897785: Tournament #3611190371, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/07/01 13:14:33 CET [2023/07/01 7:14:33 ET]
+Table '3611190371 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (410 in chips) 
+Seat 2: Petrashkev (490 in chips) 
+Seat 3: LautitaKO (600 in chips) 
+LautitaKO: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4d As]
+Petrashkev: folds 
+LautitaKO: raises 30 to 60
+Mahu2021: calls 30
+*** FLOP *** [Ts 8d 5h]
+LautitaKO: bets 60
+Mahu2021: folds 
+Uncalled bet (60) returned to LautitaKO
+LautitaKO collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Ts 8d 5h]
+Seat 1: Mahu2021 (big blind) folded on the Flop
+Seat 2: Petrashkev (button) folded before Flop (didn't bet)
+Seat 3: LautitaKO (small blind) collected (120)
+
+
+
+PokerStars Hand #244561899703: Tournament #3611190371, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/07/01 13:14:45 CET [2023/07/01 7:14:45 ET]
+Table '3611190371 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (350 in chips) 
+Seat 2: Petrashkev (490 in chips) 
+Seat 3: LautitaKO (660 in chips) 
+Mahu2021: posts small blind 15
+Petrashkev: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd 6d]
+LautitaKO: raises 30 to 60
+Mahu2021: calls 45
+Petrashkev: folds 
+*** FLOP *** [5h As Js]
+Mahu2021: checks 
+LautitaKO: bets 75
+Mahu2021: folds 
+Uncalled bet (75) returned to LautitaKO
+LautitaKO collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Board [5h As Js]
+Seat 1: Mahu2021 (small blind) folded on the Flop
+Seat 2: Petrashkev (big blind) folded before Flop
+Seat 3: LautitaKO (button) collected (150)
+
+
+
+PokerStars Hand #244561902035: Tournament #3611190371, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/07/01 13:14:59 CET [2023/07/01 7:14:59 ET]
+Table '3611190371 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (290 in chips) 
+Seat 2: Petrashkev (460 in chips) 
+Seat 3: LautitaKO (750 in chips) 
+Petrashkev: posts small blind 15
+LautitaKO: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h 9s]
+Mahu2021: raises 30 to 60
+Petrashkev: calls 45
+LautitaKO: raises 690 to 750 and is all-in
+Mahu2021: calls 230 and is all-in
+Petrashkev: folds 
+Uncalled bet (460) returned to LautitaKO
+*** FLOP *** [4h 7d 4s]
+*** TURN *** [4h 7d 4s] [6s]
+*** RIVER *** [4h 7d 4s 6s] [3s]
+*** SHOW DOWN ***
+LautitaKO: shows [Qc Ks] (a pair of Fours)
+Mahu2021: shows [9h 9s] (two pair, Nines and Fours)
+Mahu2021 collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | Rake 0 
+Board [4h 7d 4s 6s 3s]
+Seat 1: Mahu2021 (button) showed [9h 9s] and won (640) with two pair, Nines and Fours
+Seat 2: Petrashkev (small blind) folded before Flop
+Seat 3: LautitaKO (big blind) showed [Qc Ks] and lost with a pair of Fours
+
+
+
+PokerStars Hand #244561905017: Tournament #3611190371, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/07/01 13:15:17 CET [2023/07/01 7:15:17 ET]
+Table '3611190371 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (640 in chips) 
+Seat 2: Petrashkev (400 in chips) 
+Seat 3: LautitaKO (460 in chips) 
+LautitaKO: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js Kh]
+Petrashkev: raises 30 to 60
+LautitaKO: calls 45
+Mahu2021: calls 30
+*** FLOP *** [4h Jc 2c]
+LautitaKO: checks 
+Mahu2021: bets 60
+Petrashkev: calls 60
+LautitaKO: folds 
+*** TURN *** [4h Jc 2c] [Ts]
+Mahu2021: checks 
+Petrashkev: checks 
+*** RIVER *** [4h Jc 2c Ts] [2h]
+Mahu2021: checks 
+Petrashkev: bets 60
+Mahu2021: calls 60
+*** SHOW DOWN ***
+Petrashkev: shows [4s As] (two pair, Fours and Deuces)
+Mahu2021: shows [Js Kh] (two pair, Jacks and Deuces)
+Mahu2021 collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | Rake 0 
+Board [4h Jc 2c Ts 2h]
+Seat 1: Mahu2021 (big blind) showed [Js Kh] and won (420) with two pair, Jacks and Deuces
+Seat 2: Petrashkev (button) showed [4s As] and lost with two pair, Fours and Deuces
+Seat 3: LautitaKO (small blind) folded on the Flop
+
+
+
+PokerStars Hand #244561908684: Tournament #3611190371, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/07/01 13:15:39 CET [2023/07/01 7:15:39 ET]
+Table '3611190371 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (880 in chips) 
+Seat 2: Petrashkev (220 in chips) 
+Seat 3: LautitaKO (400 in chips) 
+Mahu2021: posts small blind 15
+Petrashkev: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h 8d]
+LautitaKO: raises 30 to 60
+Mahu2021: calls 45
+Petrashkev: folds 
+*** FLOP *** [Kh Ac Th]
+Mahu2021: checks 
+LautitaKO: bets 75
+Mahu2021: folds 
+Uncalled bet (75) returned to LautitaKO
+LautitaKO collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Board [Kh Ac Th]
+Seat 1: Mahu2021 (small blind) folded on the Flop
+Seat 2: Petrashkev (big blind) folded before Flop
+Seat 3: LautitaKO (button) collected (150)
+
+
+
+PokerStars Hand #244561911545: Tournament #3611190371, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/07/01 13:15:57 CET [2023/07/01 7:15:57 ET]
+Table '3611190371 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (820 in chips) 
+Seat 2: Petrashkev (190 in chips) 
+Seat 3: LautitaKO (490 in chips) 
+Petrashkev: posts small blind 15
+LautitaKO: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d Ac]
+Mahu2021: folds 
+Petrashkev: raises 160 to 190 and is all-in
+LautitaKO: folds 
+Uncalled bet (160) returned to Petrashkev
+Petrashkev collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: Petrashkev (small blind) collected (60)
+Seat 3: LautitaKO (big blind) folded before Flop
+
+
+
+PokerStars Hand #244561913381: Tournament #3611190371, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/07/01 13:16:08 CET [2023/07/01 7:16:08 ET]
+Table '3611190371 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (820 in chips) 
+Seat 2: Petrashkev (220 in chips) 
+Seat 3: LautitaKO (460 in chips) 
+LautitaKO: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks Kh]
+Petrashkev: raises 190 to 220 and is all-in
+LautitaKO: raises 240 to 460 and is all-in
+Mahu2021: calls 430
+*** FLOP *** [3c 8d Ad]
+*** TURN *** [3c 8d Ad] [9s]
+*** RIVER *** [3c 8d Ad 9s] [8s]
+*** SHOW DOWN ***
+LautitaKO: shows [Td Qh] (a pair of Eights)
+Mahu2021: shows [Ks Kh] (two pair, Kings and Eights)
+Mahu2021 collected 480 from side pot
+Petrashkev: shows [Ah Tc] (two pair, Aces and Eights)
+Petrashkev collected 660 from main pot
+LautitaKO finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1140 Main pot 660. Side pot 480. | Rake 0 
+Board [3c 8d Ad 9s 8s]
+Seat 1: Mahu2021 (big blind) showed [Ks Kh] and won (480) with two pair, Kings and Eights
+Seat 2: Petrashkev (button) showed [Ah Tc] and won (660) with two pair, Aces and Eights
+Seat 3: LautitaKO (small blind) showed [Td Qh] and lost with a pair of Eights
+
+
+
+PokerStars Hand #244561916586: Tournament #3611190371, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/07/01 13:16:27 CET [2023/07/01 7:16:27 ET]
+Table '3611190371 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (840 in chips) 
+Seat 2: Petrashkev (660 in chips) 
+Mahu2021: posts small blind 15
+Petrashkev: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c Jd]
+Mahu2021: calls 15
+Petrashkev: checks 
+*** FLOP *** [9d 8d 9h]
+Petrashkev: checks 
+Mahu2021: bets 30
+Petrashkev: calls 30
+*** TURN *** [9d 8d 9h] [6s]
+Petrashkev: checks 
+Mahu2021: checks 
+*** RIVER *** [9d 8d 9h 6s] [7d]
+Petrashkev: bets 60
+Mahu2021: calls 60
+*** SHOW DOWN ***
+Petrashkev: shows [6h Tc] (a straight, Six to Ten)
+Mahu2021: mucks hand 
+Petrashkev collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [9d 8d 9h 6s 7d]
+Seat 1: Mahu2021 (button) (small blind) mucked [5c Jd]
+Seat 2: Petrashkev (big blind) showed [6h Tc] and won (240) with a straight, Six to Ten
+
+
+
+PokerStars Hand #244561920794: Tournament #3611190371, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/07/01 13:16:52 CET [2023/07/01 7:16:52 ET]
+Table '3611190371 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (720 in chips) 
+Seat 2: Petrashkev (780 in chips) 
+Petrashkev: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4c 5c]
+Petrashkev: raises 40 to 80
+Mahu2021: calls 40
+*** FLOP *** [Qc 3c 4h]
+Mahu2021: checks 
+Petrashkev: bets 80
+Mahu2021: calls 80
+*** TURN *** [Qc 3c 4h] [Qh]
+Mahu2021: checks 
+Petrashkev: bets 120
+Mahu2021: calls 120
+*** RIVER *** [Qc 3c 4h Qh] [8h]
+Mahu2021: checks 
+Petrashkev: bets 500 and is all-in
+Mahu2021: folds 
+Uncalled bet (500) returned to Petrashkev
+Petrashkev collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | Rake 0 
+Board [Qc 3c 4h Qh 8h]
+Seat 1: Mahu2021 (big blind) folded on the River
+Seat 2: Petrashkev (button) (small blind) collected (560)
+
+
+
+PokerStars Hand #244561924199: Tournament #3611190371, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/07/01 13:17:13 CET [2023/07/01 7:17:13 ET]
+Table '3611190371 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (440 in chips) 
+Seat 2: Petrashkev (1060 in chips) 
+Mahu2021: posts small blind 20
+Petrashkev: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc Qs]
+Mahu2021: raises 40 to 80
+Petrashkev: raises 980 to 1060 and is all-in
+Mahu2021: calls 360 and is all-in
+Uncalled bet (620) returned to Petrashkev
+*** FLOP *** [7c 6d Js]
+*** TURN *** [7c 6d Js] [6c]
+*** RIVER *** [7c 6d Js 6c] [9h]
+*** SHOW DOWN ***
+Petrashkev: shows [Kd Kh] (two pair, Kings and Sixes)
+Mahu2021: shows [Qc Qs] (two pair, Queens and Sixes)
+Petrashkev collected 880 from pot
+Mahu2021 finished the tournament in 2nd place
+Petrashkev wins the tournament and receives $2.00 - congratulations!
+*** SUMMARY ***
+Total pot 880 | Rake 0 
+Board [7c 6d Js 6c 9h]
+Seat 1: Mahu2021 (button) (small blind) showed [Qc Qs] and lost with two pair, Queens and Sixes
+Seat 2: Petrashkev (big blind) showed [Kd Kh] and won (880) with two pair, Kings and Sixes
+
+
+

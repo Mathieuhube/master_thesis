@@ -1,0 +1,487 @@
+﻿PokerStars Hand #243267941558: Tournament #3581559734, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/23 16:15:45 CET [2023/04/23 10:15:45 ET]
+Table '3581559734 1' 3-max Seat #1 is the button
+Seat 1: tomusg8 (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: goby77 (500 in chips) 
+Mahu2021: posts small blind 10
+goby77: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8s 7d]
+tomusg8: raises 50 to 70
+Mahu2021: folds 
+goby77: calls 50
+*** FLOP *** [Qd 3h 5h]
+goby77: checks 
+tomusg8: bets 150
+goby77: calls 150
+*** TURN *** [Qd 3h 5h] [9h]
+goby77: checks 
+tomusg8: checks 
+*** RIVER *** [Qd 3h 5h 9h] [As]
+goby77: bets 280 and is all-in
+tomusg8: calls 280 and is all-in
+*** SHOW DOWN ***
+goby77: shows [2d 4d] (a straight, Ace to Five)
+tomusg8: shows [Ad 5c] (two pair, Aces and Fives)
+goby77 collected 1010 from pot
+tomusg8 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1010 | Rake 0 
+Board [Qd 3h 5h 9h As]
+Seat 1: tomusg8 (button) showed [Ad 5c] and lost with two pair, Aces and Fives
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: goby77 (big blind) showed [2d 4d] and won (1010) with a straight, Ace to Five
+
+
+
+PokerStars Hand #243267949696: Tournament #3581559734, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/23 16:16:14 CET [2023/04/23 10:16:14 ET]
+Table '3581559734 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (490 in chips) 
+Seat 3: goby77 (1010 in chips) 
+goby77: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d 9s]
+goby77: raises 40 to 60
+Mahu2021: raises 430 to 490 and is all-in
+goby77: calls 430
+*** FLOP *** [Jd Js 8c]
+*** TURN *** [Jd Js 8c] [5d]
+*** RIVER *** [Jd Js 8c 5d] [Qc]
+*** SHOW DOWN ***
+Mahu2021: shows [9d 9s] (two pair, Jacks and Nines)
+goby77: shows [7s 7c] (two pair, Jacks and Sevens)
+Mahu2021 collected 980 from pot
+*** SUMMARY ***
+Total pot 980 | Rake 0 
+Board [Jd Js 8c 5d Qc]
+Seat 2: Mahu2021 (big blind) showed [9d 9s] and won (980) with two pair, Jacks and Nines
+Seat 3: goby77 (button) (small blind) showed [7s 7c] and lost with two pair, Jacks and Sevens
+
+
+
+PokerStars Hand #243267953993: Tournament #3581559734, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/23 16:16:29 CET [2023/04/23 10:16:29 ET]
+Table '3581559734 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (980 in chips) 
+Seat 3: goby77 (520 in chips) 
+Mahu2021: posts small blind 10
+goby77: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h 3d]
+Mahu2021: raises 40 to 60
+goby77: raises 120 to 180
+Mahu2021: raises 800 to 980 and is all-in
+goby77: calls 340 and is all-in
+Uncalled bet (460) returned to Mahu2021
+*** FLOP *** [Kd 9d Ah]
+*** TURN *** [Kd 9d Ah] [5h]
+*** RIVER *** [Kd 9d Ah 5h] [Qd]
+*** SHOW DOWN ***
+goby77: shows [Ts Ks] (a pair of Kings)
+Mahu2021: shows [3h 3d] (a pair of Threes)
+goby77 collected 1040 from pot
+*** SUMMARY ***
+Total pot 1040 | Rake 0 
+Board [Kd 9d Ah 5h Qd]
+Seat 2: Mahu2021 (button) (small blind) showed [3h 3d] and lost with a pair of Threes
+Seat 3: goby77 (big blind) showed [Ts Ks] and won (1040) with a pair of Kings
+
+
+
+PokerStars Hand #243267958789: Tournament #3581559734, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/23 16:16:46 CET [2023/04/23 10:16:46 ET]
+Table '3581559734 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (460 in chips) 
+Seat 3: goby77 (1040 in chips) 
+goby77: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8s Ah]
+goby77: calls 10
+Mahu2021: checks 
+*** FLOP *** [5s 5d Qs]
+Mahu2021: checks 
+goby77: bets 20
+Mahu2021: calls 20
+*** TURN *** [5s 5d Qs] [6s]
+Mahu2021: checks 
+goby77: checks 
+*** RIVER *** [5s 5d Qs 6s] [Kd]
+Mahu2021: bets 80
+goby77: folds 
+Uncalled bet (80) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [5s 5d Qs 6s Kd]
+Seat 2: Mahu2021 (big blind) collected (80)
+Seat 3: goby77 (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #243267963615: Tournament #3581559734, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/23 16:17:03 CET [2023/04/23 10:17:03 ET]
+Table '3581559734 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: goby77 (1000 in chips) 
+Mahu2021: posts small blind 10
+goby77: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh 9d]
+Mahu2021: raises 20 to 40
+goby77: calls 20
+*** FLOP *** [Th Kd Jd]
+goby77: checks 
+Mahu2021: bets 80
+goby77: folds 
+Uncalled bet (80) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Th Kd Jd]
+Seat 2: Mahu2021 (button) (small blind) collected (80)
+Seat 3: goby77 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #243267967315: Tournament #3581559734, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/23 16:17:16 CET [2023/04/23 10:17:16 ET]
+Table '3581559734 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (540 in chips) 
+Seat 3: goby77 (960 in chips) 
+goby77: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad 9d]
+goby77: raises 20 to 40
+Mahu2021: calls 20
+*** FLOP *** [Qs 4h 7d]
+Mahu2021: checks 
+goby77: checks 
+*** TURN *** [Qs 4h 7d] [2d]
+Mahu2021: bets 80
+goby77: calls 80
+*** RIVER *** [Qs 4h 7d 2d] [Jd]
+Mahu2021: bets 240
+goby77: calls 240
+*** SHOW DOWN ***
+Mahu2021: shows [Ad 9d] (a flush, Ace high)
+goby77: mucks hand 
+Mahu2021 collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | Rake 0 
+Board [Qs 4h 7d 2d Jd]
+Seat 2: Mahu2021 (big blind) showed [Ad 9d] and won (720) with a flush, Ace high
+Seat 3: goby77 (button) (small blind) mucked [Jc As]
+
+
+
+PokerStars Hand #243267972850: Tournament #3581559734, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/23 16:17:35 CET [2023/04/23 10:17:35 ET]
+Table '3581559734 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (900 in chips) 
+Seat 3: goby77 (600 in chips) 
+Mahu2021: posts small blind 10
+goby77: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d 7h]
+Mahu2021: folds 
+Uncalled bet (10) returned to goby77
+goby77 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: goby77 (big blind) collected (20)
+
+
+
+PokerStars Hand #243267974173: Tournament #3581559734, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/23 16:17:40 CET [2023/04/23 10:17:40 ET]
+Table '3581559734 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (890 in chips) 
+Seat 3: goby77 (610 in chips) 
+goby77: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts Js]
+goby77: folds 
+Uncalled bet (10) returned to Mahu2021
+Mahu2021 collected 20 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 2: Mahu2021 (big blind) collected (20)
+Seat 3: goby77 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #243267975506: Tournament #3581559734, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/23 16:17:45 CET [2023/04/23 10:17:45 ET]
+Table '3581559734 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (900 in chips) 
+Seat 3: goby77 (600 in chips) 
+Mahu2021: posts small blind 10
+goby77: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Tc 6h]
+Mahu2021: folds 
+Uncalled bet (10) returned to goby77
+goby77 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: goby77 (big blind) collected (20)
+
+
+
+PokerStars Hand #243267977567: Tournament #3581559734, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/23 16:17:52 CET [2023/04/23 10:17:52 ET]
+Table '3581559734 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (890 in chips) 
+Seat 3: goby77 (610 in chips) 
+goby77: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Tc 5h]
+goby77: raises 30 to 60
+Mahu2021: folds 
+Uncalled bet (30) returned to goby77
+goby77 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: goby77 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #243267979385: Tournament #3581559734, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/23 16:17:59 CET [2023/04/23 10:17:59 ET]
+Table '3581559734 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (860 in chips) 
+Seat 3: goby77 (640 in chips) 
+Mahu2021: posts small blind 15
+goby77: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac 7h]
+Mahu2021: raises 30 to 60
+goby77: raises 120 to 180
+Mahu2021: calls 120
+*** FLOP *** [6c Qd 8d]
+goby77: checks 
+Mahu2021: checks 
+*** TURN *** [6c Qd 8d] [9s]
+goby77: bets 90
+Mahu2021: calls 90
+*** RIVER *** [6c Qd 8d 9s] [3s]
+goby77: checks 
+Mahu2021: bets 180
+goby77: folds 
+Uncalled bet (180) returned to Mahu2021
+Mahu2021 collected 540 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 540 | Rake 0 
+Board [6c Qd 8d 9s 3s]
+Seat 2: Mahu2021 (button) (small blind) collected (540)
+Seat 3: goby77 (big blind) folded on the River
+
+
+
+PokerStars Hand #243267985876: Tournament #3581559734, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/23 16:18:22 CET [2023/04/23 10:18:22 ET]
+Table '3581559734 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (1130 in chips) 
+Seat 3: goby77 (370 in chips) 
+goby77: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh Qd]
+goby77: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 2: Mahu2021 (big blind) collected (30)
+Seat 3: goby77 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #243267987185: Tournament #3581559734, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/23 16:18:27 CET [2023/04/23 10:18:27 ET]
+Table '3581559734 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (1145 in chips) 
+Seat 3: goby77 (355 in chips) 
+Mahu2021: posts small blind 15
+goby77: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4d 6h]
+Mahu2021: folds 
+Uncalled bet (15) returned to goby77
+goby77 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: goby77 (big blind) collected (30)
+
+
+
+PokerStars Hand #243267988543: Tournament #3581559734, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/23 16:18:32 CET [2023/04/23 10:18:32 ET]
+Table '3581559734 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (1130 in chips) 
+Seat 3: goby77 (370 in chips) 
+goby77: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kc 2d]
+goby77: raises 60 to 90
+Mahu2021: calls 60
+*** FLOP *** [4d Th 6s]
+Mahu2021: checks 
+goby77: checks 
+*** TURN *** [4d Th 6s] [9c]
+Mahu2021: checks 
+goby77: bets 90
+Mahu2021: folds 
+Uncalled bet (90) returned to goby77
+goby77 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [4d Th 6s 9c]
+Seat 2: Mahu2021 (big blind) folded on the Turn
+Seat 3: goby77 (button) (small blind) collected (180)
+
+
+
+PokerStars Hand #243267992898: Tournament #3581559734, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/23 16:18:47 CET [2023/04/23 10:18:47 ET]
+Table '3581559734 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (1040 in chips) 
+Seat 3: goby77 (460 in chips) 
+Mahu2021: posts small blind 15
+goby77: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8c Ad]
+Mahu2021: raises 30 to 60
+goby77: raises 120 to 180
+Mahu2021: calls 120
+*** FLOP *** [Qs 3d 9s]
+goby77: checks 
+Mahu2021: checks 
+*** TURN *** [Qs 3d 9s] [4h]
+goby77: bets 90
+Mahu2021: calls 90
+*** RIVER *** [Qs 3d 9s 4h] [Jh]
+goby77: checks 
+Mahu2021: bets 150
+goby77: raises 40 to 190 and is all-in
+Mahu2021: calls 40
+*** SHOW DOWN ***
+goby77: shows [Qc As] (a pair of Queens)
+Mahu2021: shows [8c Ad] (high card Ace)
+goby77 collected 920 from pot
+*** SUMMARY ***
+Total pot 920 | Rake 0 
+Board [Qs 3d 9s 4h Jh]
+Seat 2: Mahu2021 (button) (small blind) showed [8c Ad] and lost with high card Ace
+Seat 3: goby77 (big blind) showed [Qc As] and won (920) with a pair of Queens
+
+
+
+PokerStars Hand #243267999627: Tournament #3581559734, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/23 16:19:10 CET [2023/04/23 10:19:10 ET]
+Table '3581559734 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (580 in chips) 
+Seat 3: goby77 (920 in chips) 
+goby77: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s 6h]
+goby77: raises 30 to 60
+Mahu2021: calls 30
+*** FLOP *** [Jc 4d 2d]
+Mahu2021: checks 
+goby77: bets 30
+Mahu2021: calls 30
+*** TURN *** [Jc 4d 2d] [3h]
+Mahu2021: checks 
+goby77: bets 30
+Mahu2021: calls 30
+*** RIVER *** [Jc 4d 2d 3h] [8h]
+Mahu2021: checks 
+goby77: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [3s 6h] (a pair of Threes)
+goby77: shows [Ks 8s] (a pair of Eights)
+goby77 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Jc 4d 2d 3h 8h]
+Seat 2: Mahu2021 (big blind) showed [3s 6h] and lost with a pair of Threes
+Seat 3: goby77 (button) (small blind) showed [Ks 8s] and won (240) with a pair of Eights
+
+
+
+PokerStars Hand #243268004323: Tournament #3581559734, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/23 16:19:27 CET [2023/04/23 10:19:27 ET]
+Table '3581559734 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (460 in chips) 
+Seat 3: goby77 (1040 in chips) 
+Mahu2021: posts small blind 15
+goby77: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qs 7c]
+Mahu2021: calls 15
+goby77: checks 
+*** FLOP *** [Jh 2s 5d]
+goby77: bets 30
+Mahu2021: folds 
+Uncalled bet (30) returned to goby77
+goby77 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Jh 2s 5d]
+Seat 2: Mahu2021 (button) (small blind) folded on the Flop
+Seat 3: goby77 (big blind) collected (60)
+
+
+
+PokerStars Hand #243268007185: Tournament #3581559734, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/23 16:19:37 CET [2023/04/23 10:19:37 ET]
+Table '3581559734 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (430 in chips) 
+Seat 3: goby77 (1070 in chips) 
+goby77: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd Jd]
+goby77: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 2: Mahu2021 (big blind) collected (30)
+Seat 3: goby77 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #243268008766: Tournament #3581559734, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/23 16:19:43 CET [2023/04/23 10:19:43 ET]
+Table '3581559734 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (445 in chips) 
+Seat 3: goby77 (1055 in chips) 
+Mahu2021: posts small blind 15
+goby77: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d 7s]
+Mahu2021: calls 15
+goby77: raises 60 to 90
+Mahu2021: calls 60
+*** FLOP *** [7d 6s Js]
+goby77: checks 
+Mahu2021: bets 355 and is all-in
+goby77: calls 355
+*** TURN *** [7d 6s Js] [4d]
+*** RIVER *** [7d 6s Js 4d] [2d]
+*** SHOW DOWN ***
+goby77: shows [8h 8d] (a pair of Eights)
+Mahu2021: shows [9d 7s] (a pair of Sevens)
+goby77 collected 890 from pot
+Mahu2021 finished the tournament in 2nd place
+goby77 wins the tournament and receives $2.00 - congratulations!
+*** SUMMARY ***
+Total pot 890 | Rake 0 
+Board [7d 6s Js 4d 2d]
+Seat 2: Mahu2021 (button) (small blind) showed [9d 7s] and lost with a pair of Sevens
+Seat 3: goby77 (big blind) showed [8h 8d] and won (890) with a pair of Eights
+
+
+

@@ -1,0 +1,74 @@
+﻿PokerStars Hand #242995652128: Tournament #3575285359, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/10 1:28:01 CET [2023/04/09 19:28:01 ET]
+Table '3575285359 1' 3-max Seat #1 is the button
+Seat 1: alan5591 (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: K_Alfa2018 (500 in chips) 
+Mahu2021: posts small blind 10
+K_Alfa2018: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d Qh]
+alan5591: folds 
+Mahu2021: folds 
+Uncalled bet (10) returned to K_Alfa2018
+K_Alfa2018 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: alan5591 (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: K_Alfa2018 (big blind) collected (20)
+
+
+
+PokerStars Hand #242995653529: Tournament #3575285359, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/10 1:28:07 CET [2023/04/09 19:28:07 ET]
+Table '3575285359 1' 3-max Seat #2 is the button
+Seat 1: alan5591 (500 in chips) 
+Seat 2: Mahu2021 (490 in chips) 
+Seat 3: K_Alfa2018 (510 in chips) 
+K_Alfa2018: posts small blind 10
+alan5591: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc 5c]
+Mahu2021: calls 20
+K_Alfa2018: raises 490 to 510 and is all-in
+alan5591: folds 
+Mahu2021: folds 
+Uncalled bet (490) returned to K_Alfa2018
+K_Alfa2018 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: alan5591 (big blind) folded before Flop
+Seat 2: Mahu2021 (button) folded before Flop
+Seat 3: K_Alfa2018 (small blind) collected (60)
+
+
+
+PokerStars Hand #242995656854: Tournament #3575285359, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/10 1:28:19 CET [2023/04/09 19:28:19 ET]
+Table '3575285359 1' 3-max Seat #3 is the button
+Seat 1: alan5591 (480 in chips) 
+Seat 2: Mahu2021 (470 in chips) 
+Seat 3: K_Alfa2018 (550 in chips) 
+alan5591: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts As]
+K_Alfa2018: raises 530 to 550 and is all-in
+alan5591: folds 
+Mahu2021: calls 450 and is all-in
+Uncalled bet (80) returned to K_Alfa2018
+*** FLOP *** [7d 5h 6s]
+*** TURN *** [7d 5h 6s] [9c]
+*** RIVER *** [7d 5h 6s 9c] [6c]
+*** SHOW DOWN ***
+Mahu2021: shows [Ts As] (a pair of Sixes)
+K_Alfa2018: shows [8h 8d] (a straight, Five to Nine)
+K_Alfa2018 collected 950 from pot
+Mahu2021 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 950 | Rake 0 
+Board [7d 5h 6s 9c 6c]
+Seat 1: alan5591 (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) showed [Ts As] and lost with a pair of Sixes
+Seat 3: K_Alfa2018 (button) showed [8h 8d] and won (950) with a straight, Five to Nine
+
+
+

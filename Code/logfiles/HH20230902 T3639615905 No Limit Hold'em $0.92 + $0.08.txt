@@ -1,0 +1,222 @@
+﻿PokerStars Hand #245736220015: Tournament #3639615905, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/09/02 22:16:45 CET [2023/09/02 16:16:45 ET]
+Table '3639615905 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: ZLOYBB25 (500 in chips) 
+Seat 3: Snuffkiwi (500 in chips) 
+ZLOYBB25: posts small blind 10
+Snuffkiwi: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h 5c]
+Mahu2021: folds 
+ZLOYBB25: calls 10
+Snuffkiwi: checks 
+*** FLOP *** [6h 4d 7h]
+ZLOYBB25: bets 20
+Snuffkiwi: calls 20
+*** TURN *** [6h 4d 7h] [2c]
+ZLOYBB25: bets 20
+Snuffkiwi: folds 
+Uncalled bet (20) returned to ZLOYBB25
+ZLOYBB25 collected 80 from pot
+ZLOYBB25: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [6h 4d 7h 2c]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: ZLOYBB25 (small blind) collected (80)
+Seat 3: Snuffkiwi (big blind) folded on the Turn
+
+
+
+PokerStars Hand #245736226958: Tournament #3639615905, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/09/02 22:17:05 CET [2023/09/02 16:17:05 ET]
+Table '3639615905 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: ZLOYBB25 (540 in chips) 
+Seat 3: Snuffkiwi (460 in chips) 
+Snuffkiwi: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd 3d]
+ZLOYBB25: folds 
+Snuffkiwi: raises 20 to 40
+Mahu2021: calls 20
+*** FLOP *** [6d Js Kc]
+Snuffkiwi: checks 
+Mahu2021: bets 40
+Snuffkiwi: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [6d Js Kc]
+Seat 1: Mahu2021 (big blind) collected (80)
+Seat 2: ZLOYBB25 (button) folded before Flop (didn't bet)
+Seat 3: Snuffkiwi (small blind) folded on the Flop
+
+
+
+PokerStars Hand #245736232746: Tournament #3639615905, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/09/02 22:17:22 CET [2023/09/02 16:17:22 ET]
+Table '3639615905 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (540 in chips) 
+Seat 2: ZLOYBB25 (540 in chips) 
+Seat 3: Snuffkiwi (420 in chips) 
+Mahu2021: posts small blind 10
+ZLOYBB25: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s 3c]
+Snuffkiwi: raises 40 to 60
+Mahu2021: calls 50
+ZLOYBB25: folds 
+*** FLOP *** [2d As 6h]
+Mahu2021: checks 
+Snuffkiwi: bets 70
+Mahu2021: calls 70
+*** TURN *** [2d As 6h] [5d]
+Mahu2021: checks 
+Snuffkiwi: bets 140
+Mahu2021: calls 140
+*** RIVER *** [2d As 6h 5d] [5h]
+Mahu2021: bets 270 and is all-in
+Snuffkiwi: calls 150 and is all-in
+Uncalled bet (120) returned to Mahu2021
+*** SHOW DOWN ***
+Mahu2021: shows [3s 3c] (two pair, Fives and Threes)
+Snuffkiwi: shows [Ah 8h] (two pair, Aces and Fives)
+Snuffkiwi collected 860 from pot
+*** SUMMARY ***
+Total pot 860 | Rake 0 
+Board [2d As 6h 5d 5h]
+Seat 1: Mahu2021 (small blind) showed [3s 3c] and lost with two pair, Fives and Threes
+Seat 2: ZLOYBB25 (big blind) folded before Flop
+Seat 3: Snuffkiwi (button) showed [Ah 8h] and won (860) with two pair, Aces and Fives
+
+
+
+PokerStars Hand #245736245686: Tournament #3639615905, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/09/02 22:17:59 CET [2023/09/02 16:17:59 ET]
+Table '3639615905 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (120 in chips) 
+Seat 2: ZLOYBB25 (520 in chips) 
+Seat 3: Snuffkiwi (860 in chips) 
+ZLOYBB25: posts small blind 10
+Snuffkiwi: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh Jd]
+Mahu2021: raises 100 to 120 and is all-in
+ZLOYBB25: raises 100 to 220
+Snuffkiwi: calls 200
+*** FLOP *** [Jc 2d Ac]
+ZLOYBB25: bets 300 and is all-in
+Snuffkiwi: folds 
+Uncalled bet (300) returned to ZLOYBB25
+*** TURN *** [Jc 2d Ac] [Kh]
+*** RIVER *** [Jc 2d Ac Kh] [2c]
+*** SHOW DOWN ***
+ZLOYBB25: shows [Ts Qs] (a straight, Ten to Ace)
+ZLOYBB25 collected 200 from side pot
+Mahu2021: shows [Jh Jd] (a full house, Jacks full of Deuces)
+Mahu2021 collected 360 from main pot
+*** SUMMARY ***
+Total pot 560 Main pot 360. Side pot 200. | Rake 0 
+Board [Jc 2d Ac Kh 2c]
+Seat 1: Mahu2021 (button) showed [Jh Jd] and won (360) with a full house, Jacks full of Deuces
+Seat 2: ZLOYBB25 (small blind) showed [Ts Qs] and won (200) with a straight, Ten to Ace
+Seat 3: Snuffkiwi (big blind) folded on the Flop
+
+
+
+PokerStars Hand #245736254456: Tournament #3639615905, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/09/02 22:18:25 CET [2023/09/02 16:18:25 ET]
+Table '3639615905 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (360 in chips) 
+Seat 2: ZLOYBB25 (500 in chips) 
+Seat 3: Snuffkiwi (640 in chips) 
+Snuffkiwi: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d 2c]
+ZLOYBB25: raises 50 to 70
+Snuffkiwi: calls 60
+Mahu2021: folds 
+*** FLOP *** [7d Js 8d]
+Snuffkiwi: checks 
+ZLOYBB25: checks 
+*** TURN *** [7d Js 8d] [Jd]
+Snuffkiwi: bets 160
+ZLOYBB25: calls 160
+*** RIVER *** [7d Js 8d Jd] [Kh]
+Snuffkiwi: checks 
+ZLOYBB25: bets 270 and is all-in
+Snuffkiwi: folds 
+Uncalled bet (270) returned to ZLOYBB25
+ZLOYBB25 collected 480 from pot
+ZLOYBB25: doesn't show hand 
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Board [7d Js 8d Jd Kh]
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: ZLOYBB25 (button) collected (480)
+Seat 3: Snuffkiwi (small blind) folded on the River
+
+
+
+PokerStars Hand #245736267732: Tournament #3639615905, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/09/02 22:19:05 CET [2023/09/02 16:19:05 ET]
+Table '3639615905 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (340 in chips) 
+Seat 2: ZLOYBB25 (750 in chips) 
+Seat 3: Snuffkiwi (410 in chips) 
+Mahu2021: posts small blind 15
+ZLOYBB25: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js 9h]
+Snuffkiwi: folds 
+Mahu2021: calls 15
+ZLOYBB25: checks 
+*** FLOP *** [Qh 7s Qd]
+Mahu2021: checks 
+ZLOYBB25: bets 30
+Mahu2021: folds 
+Uncalled bet (30) returned to ZLOYBB25
+ZLOYBB25 collected 60 from pot
+ZLOYBB25: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Qh 7s Qd]
+Seat 1: Mahu2021 (small blind) folded on the Flop
+Seat 2: ZLOYBB25 (big blind) collected (60)
+Seat 3: Snuffkiwi (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245736271606: Tournament #3639615905, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/09/02 22:19:16 CET [2023/09/02 16:19:16 ET]
+Table '3639615905 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (310 in chips) 
+Seat 2: ZLOYBB25 (780 in chips) 
+Seat 3: Snuffkiwi (410 in chips) 
+ZLOYBB25: posts small blind 15
+Snuffkiwi: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks Td]
+Mahu2021: raises 30 to 60
+ZLOYBB25: raises 30 to 90
+Snuffkiwi: folds 
+Mahu2021: calls 30
+*** FLOP *** [Qd 9h 7h]
+ZLOYBB25: bets 105
+Mahu2021: raises 115 to 220 and is all-in
+ZLOYBB25: calls 115
+*** TURN *** [Qd 9h 7h] [Tc]
+*** RIVER *** [Qd 9h 7h Tc] [Ts]
+*** SHOW DOWN ***
+ZLOYBB25: shows [Jd Kh] (a straight, Nine to King)
+Mahu2021: shows [Ks Td] (three of a kind, Tens)
+ZLOYBB25 collected 650 from pot
+Mahu2021 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 650 | Rake 0 
+Board [Qd 9h 7h Tc Ts]
+Seat 1: Mahu2021 (button) showed [Ks Td] and lost with three of a kind, Tens
+Seat 2: ZLOYBB25 (small blind) showed [Jd Kh] and won (650) with a straight, Nine to King
+Seat 3: Snuffkiwi (big blind) folded before Flop
+
+
+

@@ -1,0 +1,663 @@
+﻿PokerStars Hand #244756100610: Tournament #3615657533, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/07/11 20:22:14 CET [2023/07/11 14:22:14 ET]
+Table '3615657533 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: Vakidzashi (500 in chips) 
+Seat 3: ronsini (500 in chips) 
+Vakidzashi: posts small blind 10
+ronsini: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8s 2s]
+Mahu2021: folds 
+Vakidzashi: calls 10
+ronsini: checks 
+*** FLOP *** [9d 4c 3c]
+Vakidzashi: bets 480 and is all-in
+ronsini: folds 
+Uncalled bet (480) returned to Vakidzashi
+Vakidzashi collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [9d 4c 3c]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: Vakidzashi (small blind) collected (40)
+Seat 3: ronsini (big blind) folded on the Flop
+
+
+
+PokerStars Hand #244756105749: Tournament #3615657533, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/07/11 20:22:29 CET [2023/07/11 14:22:29 ET]
+Table '3615657533 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: Vakidzashi (520 in chips) 
+Seat 3: ronsini (480 in chips) 
+ronsini: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Tc Jh]
+Vakidzashi: calls 20
+ronsini: folds 
+Mahu2021: checks 
+*** FLOP *** [7d 5h 2s]
+Mahu2021: checks 
+Vakidzashi: checks 
+*** TURN *** [7d 5h 2s] [Qc]
+Mahu2021: checks 
+Vakidzashi: checks 
+*** RIVER *** [7d 5h 2s Qc] [4h]
+Mahu2021: checks 
+Vakidzashi: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [Tc Jh] (high card Queen)
+Vakidzashi: shows [Kh Jd] (high card King)
+Vakidzashi collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [7d 5h 2s Qc 4h]
+Seat 1: Mahu2021 (big blind) showed [Tc Jh] and lost with high card Queen
+Seat 2: Vakidzashi (button) showed [Kh Jd] and won (50) with high card King
+Seat 3: ronsini (small blind) folded before Flop
+
+
+
+PokerStars Hand #244756111136: Tournament #3615657533, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/07/11 20:22:45 CET [2023/07/11 14:22:45 ET]
+Table '3615657533 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (480 in chips) 
+Seat 2: Vakidzashi (550 in chips) 
+Seat 3: ronsini (470 in chips) 
+Mahu2021: posts small blind 10
+Vakidzashi: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c 3h]
+ronsini: raises 20 to 40
+Mahu2021: folds 
+Vakidzashi: folds 
+Uncalled bet (20) returned to ronsini
+ronsini collected 50 from pot
+ronsini: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: Vakidzashi (big blind) folded before Flop
+Seat 3: ronsini (button) collected (50)
+
+
+
+PokerStars Hand #244756113517: Tournament #3615657533, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/07/11 20:22:52 CET [2023/07/11 14:22:52 ET]
+Table '3615657533 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (470 in chips) 
+Seat 2: Vakidzashi (530 in chips) 
+Seat 3: ronsini (500 in chips) 
+Vakidzashi: posts small blind 10
+ronsini: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah 9h]
+Mahu2021: raises 20 to 40
+Vakidzashi: calls 30
+ronsini: folds 
+*** FLOP *** [Qs Jh 3c]
+Vakidzashi: checks 
+Mahu2021: checks 
+*** TURN *** [Qs Jh 3c] [Jd]
+Vakidzashi: checks 
+Mahu2021: checks 
+*** RIVER *** [Qs Jh 3c Jd] [8s]
+Vakidzashi: bets 20
+Mahu2021: calls 20
+*** SHOW DOWN ***
+Vakidzashi: shows [8c Kd] (two pair, Jacks and Eights)
+Mahu2021: mucks hand 
+Vakidzashi collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | Rake 0 
+Board [Qs Jh 3c Jd 8s]
+Seat 1: Mahu2021 (button) mucked [Ah 9h]
+Seat 2: Vakidzashi (small blind) showed [8c Kd] and won (140) with two pair, Jacks and Eights
+Seat 3: ronsini (big blind) folded before Flop
+
+
+
+PokerStars Hand #244756118445: Tournament #3615657533, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/07/11 20:23:06 CET [2023/07/11 14:23:06 ET]
+Table '3615657533 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (410 in chips) 
+Seat 2: Vakidzashi (610 in chips) 
+Seat 3: ronsini (480 in chips) 
+ronsini: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kc 9d]
+Vakidzashi: calls 20
+ronsini: raises 460 to 480 and is all-in
+Mahu2021: folds 
+Vakidzashi: folds 
+Uncalled bet (460) returned to ronsini
+ronsini collected 60 from pot
+ronsini: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: Vakidzashi (button) folded before Flop
+Seat 3: ronsini (small blind) collected (60)
+
+
+
+PokerStars Hand #244756122076: Tournament #3615657533, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/07/11 20:23:17 CET [2023/07/11 14:23:17 ET]
+Table '3615657533 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (390 in chips) 
+Seat 2: Vakidzashi (590 in chips) 
+Seat 3: ronsini (520 in chips) 
+Mahu2021: posts small blind 10
+Vakidzashi: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad 7s]
+ronsini: raises 20 to 40
+Mahu2021: calls 30
+Vakidzashi: calls 20
+*** FLOP *** [2c Jc Kd]
+Mahu2021: checks 
+Vakidzashi: checks 
+ronsini: checks 
+*** TURN *** [2c Jc Kd] [6s]
+Mahu2021: checks 
+Vakidzashi: checks 
+ronsini: checks 
+*** RIVER *** [2c Jc Kd 6s] [2h]
+Mahu2021: bets 40
+Vakidzashi: calls 40
+ronsini: folds 
+*** SHOW DOWN ***
+Mahu2021: shows [Ad 7s] (a pair of Deuces)
+Vakidzashi: shows [As 6c] (two pair, Sixes and Deuces)
+Vakidzashi collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [2c Jc Kd 6s 2h]
+Seat 1: Mahu2021 (small blind) showed [Ad 7s] and lost with a pair of Deuces
+Seat 2: Vakidzashi (big blind) showed [As 6c] and won (200) with two pair, Sixes and Deuces
+Seat 3: ronsini (button) folded on the River
+
+
+
+PokerStars Hand #244756133766: Tournament #3615657533, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/07/11 20:23:51 CET [2023/07/11 14:23:51 ET]
+Table '3615657533 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (310 in chips) 
+Seat 2: Vakidzashi (710 in chips) 
+Seat 3: ronsini (480 in chips) 
+Vakidzashi: posts small blind 10
+ronsini: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c 4h]
+Mahu2021: folds 
+Vakidzashi: calls 10
+ronsini: raises 460 to 480 and is all-in
+Vakidzashi: folds 
+Uncalled bet (460) returned to ronsini
+ronsini collected 40 from pot
+ronsini: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: Vakidzashi (small blind) folded before Flop
+Seat 3: ronsini (big blind) collected (40)
+
+
+
+PokerStars Hand #244756137999: Tournament #3615657533, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/07/11 20:24:04 CET [2023/07/11 14:24:04 ET]
+Table '3615657533 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (310 in chips) 
+Seat 2: Vakidzashi (690 in chips) 
+Seat 3: ronsini (500 in chips) 
+ronsini: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s 5h]
+Vakidzashi: folds 
+ronsini: calls 10
+Mahu2021: checks 
+*** FLOP *** [8c Kh 4c]
+ronsini: checks 
+Mahu2021: bets 40
+ronsini: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [8c Kh 4c]
+Seat 1: Mahu2021 (big blind) collected (40)
+Seat 2: Vakidzashi (button) folded before Flop (didn't bet)
+Seat 3: ronsini (small blind) folded on the Flop
+
+
+
+PokerStars Hand #244756144605: Tournament #3615657533, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/07/11 20:24:23 CET [2023/07/11 14:24:23 ET]
+Table '3615657533 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (330 in chips) 
+Seat 2: Vakidzashi (690 in chips) 
+Seat 3: ronsini (480 in chips) 
+Mahu2021: posts small blind 15
+Vakidzashi: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s Ac]
+ronsini: folds 
+Mahu2021: raises 30 to 60
+Vakidzashi: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (small blind) collected (60)
+Seat 2: Vakidzashi (big blind) folded before Flop
+Seat 3: ronsini (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #244756147245: Tournament #3615657533, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/07/11 20:24:31 CET [2023/07/11 14:24:31 ET]
+Table '3615657533 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (360 in chips) 
+Seat 2: Vakidzashi (660 in chips) 
+Seat 3: ronsini (480 in chips) 
+Vakidzashi: posts small blind 15
+ronsini: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6h 3s]
+Mahu2021: folds 
+Vakidzashi: calls 15
+ronsini: raises 60 to 90
+Vakidzashi: folds 
+Uncalled bet (60) returned to ronsini
+ronsini collected 60 from pot
+ronsini: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: Vakidzashi (small blind) folded before Flop
+Seat 3: ronsini (big blind) collected (60)
+
+
+
+PokerStars Hand #244756150498: Tournament #3615657533, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/07/11 20:24:41 CET [2023/07/11 14:24:41 ET]
+Table '3615657533 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (360 in chips) 
+Seat 2: Vakidzashi (630 in chips) 
+Seat 3: ronsini (510 in chips) 
+ronsini: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h 2c]
+Vakidzashi: calls 30
+ronsini: calls 15
+Mahu2021: checks 
+*** FLOP *** [6s 3h Jc]
+ronsini: checks 
+Mahu2021: checks 
+Vakidzashi: checks 
+*** TURN *** [6s 3h Jc] [Qh]
+ronsini: checks 
+Mahu2021: checks 
+Vakidzashi: checks 
+*** RIVER *** [6s 3h Jc Qh] [5c]
+ronsini: bets 90
+Mahu2021: raises 240 to 330 and is all-in
+Vakidzashi: folds 
+ronsini: folds 
+Uncalled bet (240) returned to Mahu2021
+Mahu2021 collected 270 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 270 | Rake 0 
+Board [6s 3h Jc Qh 5c]
+Seat 1: Mahu2021 (big blind) collected (270)
+Seat 2: Vakidzashi (button) folded on the River
+Seat 3: ronsini (small blind) folded on the River
+
+
+
+PokerStars Hand #244756160639: Tournament #3615657533, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/07/11 20:25:11 CET [2023/07/11 14:25:11 ET]
+Table '3615657533 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (510 in chips) 
+Seat 2: Vakidzashi (600 in chips) 
+Seat 3: ronsini (390 in chips) 
+Mahu2021: posts small blind 15
+Vakidzashi: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s 8h]
+ronsini: folds 
+Mahu2021: folds 
+Uncalled bet (15) returned to Vakidzashi
+Vakidzashi collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: Vakidzashi (big blind) collected (30)
+Seat 3: ronsini (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #244756162383: Tournament #3615657533, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/07/11 20:25:16 CET [2023/07/11 14:25:16 ET]
+Table '3615657533 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (495 in chips) 
+Seat 2: Vakidzashi (615 in chips) 
+Seat 3: ronsini (390 in chips) 
+Vakidzashi: posts small blind 15
+ronsini: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah 2h]
+Mahu2021: raises 30 to 60
+Vakidzashi: calls 45
+ronsini: calls 30
+*** FLOP *** [Tc 8d 6h]
+Vakidzashi: checks 
+ronsini: bets 330 and is all-in
+Mahu2021: folds 
+Vakidzashi: folds 
+Uncalled bet (330) returned to ronsini
+ronsini collected 180 from pot
+ronsini: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [Tc 8d 6h]
+Seat 1: Mahu2021 (button) folded on the Flop
+Seat 2: Vakidzashi (small blind) folded on the Flop
+Seat 3: ronsini (big blind) collected (180)
+
+
+
+PokerStars Hand #244756167301: Tournament #3615657533, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/07/11 20:25:30 CET [2023/07/11 14:25:30 ET]
+Table '3615657533 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (435 in chips) 
+Seat 2: Vakidzashi (555 in chips) 
+Seat 3: ronsini (510 in chips) 
+ronsini: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s 3h]
+Vakidzashi: calls 30
+ronsini: folds 
+Mahu2021: checks 
+*** FLOP *** [Tc Jc Ac]
+Mahu2021: checks 
+Vakidzashi: bets 30
+Mahu2021: folds 
+Uncalled bet (30) returned to Vakidzashi
+Vakidzashi collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Board [Tc Jc Ac]
+Seat 1: Mahu2021 (big blind) folded on the Flop
+Seat 2: Vakidzashi (button) collected (75)
+Seat 3: ronsini (small blind) folded before Flop
+
+
+
+PokerStars Hand #244756172038: Tournament #3615657533, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/07/11 20:25:44 CET [2023/07/11 14:25:44 ET]
+Table '3615657533 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (405 in chips) 
+Seat 2: Vakidzashi (600 in chips) 
+Seat 3: ronsini (495 in chips) 
+Mahu2021: posts small blind 15
+Vakidzashi: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Tc 4s]
+ronsini: raises 30 to 60
+Mahu2021: folds 
+Vakidzashi: calls 30
+*** FLOP *** [6s Jd 8d]
+Vakidzashi: checks 
+ronsini: checks 
+*** TURN *** [6s Jd 8d] [7c]
+Vakidzashi: checks 
+ronsini: bets 68
+Vakidzashi: calls 68
+*** RIVER *** [6s Jd 8d 7c] [7h]
+Vakidzashi: checks 
+ronsini: bets 367 and is all-in
+Vakidzashi: folds 
+Uncalled bet (367) returned to ronsini
+ronsini collected 271 from pot
+ronsini: doesn't show hand 
+*** SUMMARY ***
+Total pot 271 | Rake 0 
+Board [6s Jd 8d 7c 7h]
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: Vakidzashi (big blind) folded on the River
+Seat 3: ronsini (button) collected (271)
+
+
+
+PokerStars Hand #244756182116: Tournament #3615657533, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/07/11 20:26:14 CET [2023/07/11 14:26:14 ET]
+Table '3615657533 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (390 in chips) 
+Seat 2: Vakidzashi (472 in chips) 
+Seat 3: ronsini (638 in chips) 
+Vakidzashi: posts small blind 15
+ronsini: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s Ah]
+Mahu2021: calls 30
+Vakidzashi: calls 15
+ronsini: checks 
+*** FLOP *** [4s Jd 3c]
+Vakidzashi: checks 
+ronsini: bets 608 and is all-in
+Mahu2021: folds 
+Vakidzashi: folds 
+Uncalled bet (608) returned to ronsini
+ronsini collected 90 from pot
+ronsini: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [4s Jd 3c]
+Seat 1: Mahu2021 (button) folded on the Flop
+Seat 2: Vakidzashi (small blind) folded on the Flop
+Seat 3: ronsini (big blind) collected (90)
+
+
+
+PokerStars Hand #244756190084: Tournament #3615657533, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/07/11 20:26:37 CET [2023/07/11 14:26:37 ET]
+Table '3615657533 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (360 in chips) 
+Seat 2: Vakidzashi (442 in chips) 
+Seat 3: ronsini (698 in chips) 
+ronsini: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d 7c]
+Vakidzashi: calls 40
+ronsini: folds 
+Mahu2021: checks 
+*** FLOP *** [Qh 2d Ks]
+Mahu2021: checks 
+Vakidzashi: bets 40
+Mahu2021: folds 
+Uncalled bet (40) returned to Vakidzashi
+Vakidzashi collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [Qh 2d Ks]
+Seat 1: Mahu2021 (big blind) folded on the Flop
+Seat 2: Vakidzashi (button) collected (100)
+Seat 3: ronsini (small blind) folded before Flop
+
+
+
+PokerStars Hand #244756197439: Tournament #3615657533, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/07/11 20:26:59 CET [2023/07/11 14:26:59 ET]
+Table '3615657533 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (320 in chips) 
+Seat 2: Vakidzashi (502 in chips) 
+Seat 3: ronsini (678 in chips) 
+Mahu2021: posts small blind 20
+Vakidzashi: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d 3c]
+ronsini: folds 
+Mahu2021: raises 280 to 320 and is all-in
+Vakidzashi: folds 
+Uncalled bet (280) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Mahu2021 (small blind) collected (80)
+Seat 2: Vakidzashi (big blind) folded before Flop
+Seat 3: ronsini (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #244756200138: Tournament #3615657533, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/07/11 20:27:07 CET [2023/07/11 14:27:07 ET]
+Table '3615657533 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (360 in chips) 
+Seat 2: Vakidzashi (462 in chips) 
+Seat 3: ronsini (678 in chips) 
+Vakidzashi: posts small blind 20
+ronsini: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8s 2c]
+Mahu2021: folds 
+Vakidzashi: calls 20
+ronsini: checks 
+*** FLOP *** [Qd 4c 8c]
+Vakidzashi: checks 
+ronsini: checks 
+*** TURN *** [Qd 4c 8c] [9h]
+Vakidzashi: checks 
+ronsini: bets 80
+Vakidzashi: folds 
+Uncalled bet (80) returned to ronsini
+ronsini collected 80 from pot
+ronsini: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Qd 4c 8c 9h]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: Vakidzashi (small blind) folded on the Turn
+Seat 3: ronsini (big blind) collected (80)
+
+
+
+PokerStars Hand #244756207995: Tournament #3615657533, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/07/11 20:27:30 CET [2023/07/11 14:27:30 ET]
+Table '3615657533 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (360 in chips) 
+Seat 2: Vakidzashi (422 in chips) 
+Seat 3: ronsini (718 in chips) 
+ronsini: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah Tc]
+Vakidzashi: raises 382 to 422 and is all-in
+ronsini: raises 296 to 718 and is all-in
+Mahu2021: folds 
+Uncalled bet (296) returned to ronsini
+*** FLOP *** [Kd 8d Th]
+*** TURN *** [Kd 8d Th] [4h]
+*** RIVER *** [Kd 8d Th 4h] [5d]
+*** SHOW DOWN ***
+ronsini: shows [Qh Ad] (high card Ace)
+Vakidzashi: shows [6h 6c] (a pair of Sixes)
+Vakidzashi collected 884 from pot
+*** SUMMARY ***
+Total pot 884 | Rake 0 
+Board [Kd 8d Th 4h 5d]
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: Vakidzashi (button) showed [6h 6c] and won (884) with a pair of Sixes
+Seat 3: ronsini (small blind) showed [Qh Ad] and lost with high card Ace
+
+
+
+PokerStars Hand #244756213103: Tournament #3615657533, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/07/11 20:27:45 CET [2023/07/11 14:27:45 ET]
+Table '3615657533 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (320 in chips) 
+Seat 2: Vakidzashi (884 in chips) 
+Seat 3: ronsini (296 in chips) 
+Mahu2021: posts small blind 20
+Vakidzashi: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8d 7d]
+ronsini: folds 
+Mahu2021: calls 20
+Vakidzashi: checks 
+*** FLOP *** [2c Jh As]
+Mahu2021: checks 
+Vakidzashi: bets 40
+Mahu2021: folds 
+Uncalled bet (40) returned to Vakidzashi
+Vakidzashi collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [2c Jh As]
+Seat 1: Mahu2021 (small blind) folded on the Flop
+Seat 2: Vakidzashi (big blind) collected (80)
+Seat 3: ronsini (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #244756217570: Tournament #3615657533, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/07/11 20:27:59 CET [2023/07/11 14:27:59 ET]
+Table '3615657533 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (280 in chips) 
+Seat 2: Vakidzashi (924 in chips) 
+Seat 3: ronsini (296 in chips) 
+Vakidzashi: posts small blind 20
+ronsini: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks 9h]
+Mahu2021: raises 40 to 80
+Vakidzashi: folds 
+ronsini: calls 40
+*** FLOP *** [7c Qd Jd]
+ronsini: checks 
+Mahu2021: checks 
+*** TURN *** [7c Qd Jd] [7d]
+ronsini: checks 
+Mahu2021: bets 40
+ronsini: calls 40
+*** RIVER *** [7c Qd Jd 7d] [Qh]
+ronsini: checks 
+Mahu2021: bets 80
+ronsini: folds 
+Uncalled bet (80) returned to Mahu2021
+Mahu2021 collected 260 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 260 | Rake 0 
+Board [7c Qd Jd 7d Qh]
+Seat 1: Mahu2021 (button) collected (260)
+Seat 2: Vakidzashi (small blind) folded before Flop
+Seat 3: ronsini (big blind) folded on the River
+
+
+
+PokerStars Hand #244756230672: Tournament #3615657533, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/07/11 20:28:37 CET [2023/07/11 14:28:37 ET]
+Table '3615657533 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (420 in chips) 
+Seat 2: Vakidzashi (904 in chips) 
+Seat 3: ronsini (176 in chips) 
+ronsini: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah 8c]
+Vakidzashi: calls 60
+ronsini: raises 116 to 176 and is all-in
+Mahu2021: calls 116
+Vakidzashi: raises 728 to 904 and is all-in
+Mahu2021: calls 244 and is all-in
+Uncalled bet (484) returned to Vakidzashi
+*** FLOP *** [5d Td 4h]
+*** TURN *** [5d Td 4h] [6s]
+*** RIVER *** [5d Td 4h 6s] [Kh]
+*** SHOW DOWN ***
+Mahu2021: shows [Ah 8c] (high card Ace)
+Vakidzashi: shows [6d Ad] (a pair of Sixes)
+Vakidzashi collected 488 from side pot
+ronsini: shows [As Qh] (high card Ace)
+Vakidzashi collected 528 from main pot
+Mahu2021 finished the tournament in 2nd place
+ronsini finished the tournament in 3rd place
+Vakidzashi wins the tournament and receives $2.00 - congratulations!
+*** SUMMARY ***
+Total pot 1016 Main pot 528. Side pot 488. | Rake 0 
+Board [5d Td 4h 6s Kh]
+Seat 1: Mahu2021 (big blind) showed [Ah 8c] and lost with high card Ace
+Seat 2: Vakidzashi (button) showed [6d Ad] and won (1016) with a pair of Sixes
+Seat 3: ronsini (small blind) showed [As Qh] and lost with high card Ace
+
+
+

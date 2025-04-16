@@ -1,0 +1,99 @@
+﻿PokerStars Hand #246976053080: Tournament #3669521406, $9.30+$0.70 USD Hold'em No Limit - Level I (10/20) - 2023/11/07 12:43:28 CET [2023/11/07 6:43:28 ET]
+Table '3669521406 1' 3-max Seat #1 is the button
+Seat 1: dinama267 (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: kryu615 (500 in chips) 
+Mahu2021: posts small blind 10
+kryu615: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Th 7h]
+dinama267: folds 
+Mahu2021: calls 10
+kryu615: checks 
+*** FLOP *** [Kh Qs 4s]
+Mahu2021: checks 
+kryu615: checks 
+*** TURN *** [Kh Qs 4s] [Js]
+Mahu2021: checks 
+kryu615: checks 
+*** RIVER *** [Kh Qs 4s Js] [2c]
+Mahu2021: bets 20
+kryu615: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Kh Qs 4s Js 2c]
+Seat 1: dinama267 (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) collected (40)
+Seat 3: kryu615 (big blind) folded on the River
+
+
+
+PokerStars Hand #246976056293: Tournament #3669521406, $9.30+$0.70 USD Hold'em No Limit - Level I (10/20) - 2023/11/07 12:43:48 CET [2023/11/07 6:43:48 ET]
+Table '3669521406 1' 3-max Seat #2 is the button
+Seat 1: dinama267 (500 in chips) 
+Seat 2: Mahu2021 (520 in chips) 
+Seat 3: kryu615 (480 in chips) 
+kryu615: posts small blind 10
+dinama267: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh 6h]
+Mahu2021: raises 40 to 60
+kryu615: folds 
+dinama267: calls 40
+*** FLOP *** [9h 3c 5d]
+dinama267: checks 
+Mahu2021: checks 
+*** TURN *** [9h 3c 5d] [3s]
+dinama267: checks 
+Mahu2021: bets 60
+dinama267: calls 60
+*** RIVER *** [9h 3c 5d 3s] [7c]
+dinama267: checks 
+Mahu2021: bets 100
+dinama267: calls 100
+*** SHOW DOWN ***
+Mahu2021: shows [Kh 6h] (a pair of Threes)
+dinama267: shows [2s As] (a pair of Threes - Ace kicker)
+dinama267 collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | Rake 0 
+Board [9h 3c 5d 3s 7c]
+Seat 1: dinama267 (big blind) showed [2s As] and won (450) with a pair of Threes
+Seat 2: Mahu2021 (button) showed [Kh 6h] and lost with a pair of Threes
+Seat 3: kryu615 (small blind) folded before Flop
+
+
+
+PokerStars Hand #246976061692: Tournament #3669521406, $9.30+$0.70 USD Hold'em No Limit - Level I (10/20) - 2023/11/07 12:44:22 CET [2023/11/07 6:44:22 ET]
+Table '3669521406 1' 3-max Seat #3 is the button
+Seat 1: dinama267 (730 in chips) 
+Seat 2: Mahu2021 (300 in chips) 
+Seat 3: kryu615 (470 in chips) 
+dinama267: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s 5d]
+kryu615: folds 
+dinama267: raises 40 to 60
+Mahu2021: raises 240 to 300 and is all-in
+dinama267: calls 240
+*** FLOP *** [Kd 2d 9c]
+*** TURN *** [Kd 2d 9c] [9s]
+*** RIVER *** [Kd 2d 9c 9s] [6c]
+*** SHOW DOWN ***
+dinama267: shows [As Ac] (two pair, Aces and Nines)
+Mahu2021: shows [5s 5d] (two pair, Nines and Fives)
+dinama267 collected 600 from pot
+Mahu2021 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 600 | Rake 0 
+Board [Kd 2d 9c 9s 6c]
+Seat 1: dinama267 (small blind) showed [As Ac] and won (600) with two pair, Aces and Nines
+Seat 2: Mahu2021 (big blind) showed [5s 5d] and lost with two pair, Nines and Fives
+Seat 3: kryu615 (button) folded before Flop (didn't bet)
+
+
+

@@ -1,0 +1,32 @@
+﻿PokerStars Hand #249871240062: Tournament #3739391075, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/04/08 22:21:05 CET [2024/04/08 16:21:05 ET]
+Table '3739391075 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: Heronsp (500 in chips) 
+Seat 3: Soundryder (500 in chips) 
+Heronsp: posts small blind 10
+Soundryder: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac Kh]
+Mahu2021: calls 20
+Heronsp: folds 
+Soundryder: raises 80 to 100
+Mahu2021: calls 80
+*** FLOP *** [9h Th 8h]
+Soundryder: bets 400 and is all-in
+Mahu2021: calls 400 and is all-in
+*** TURN *** [9h Th 8h] [6d]
+*** RIVER *** [9h Th 8h 6d] [5s]
+*** SHOW DOWN ***
+Soundryder: shows [6h 7h] (a straight flush, Six to Ten)
+Mahu2021: shows [Ac Kh] (high card Ace)
+Soundryder collected 1010 from pot
+Mahu2021 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1010 | Rake 0 
+Board [9h Th 8h 6d 5s]
+Seat 1: Mahu2021 (button) showed [Ac Kh] and lost with high card Ace
+Seat 2: Heronsp (small blind) folded before Flop
+Seat 3: Soundryder (big blind) showed [6h 7h] and won (1010) with a straight flush, Six to Ten
+
+
+

@@ -1,0 +1,656 @@
+﻿PokerStars Hand #253442860982: Tournament #3824449652, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/17 12:27:06 CET [2024/11/17 6:27:06 ET]
+Table '3824449652 1' 3-max Seat #1 is the button
+Seat 1: kamilsan83 (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: J.A. Thelot (500 in chips) 
+Mahu2021: posts small blind 10
+J.A. Thelot: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac 4s]
+kamilsan83: raises 20 to 40
+Mahu2021: calls 30
+J.A. Thelot: calls 20
+*** FLOP *** [Ts 6h 9c]
+Mahu2021: checks 
+J.A. Thelot: checks 
+kamilsan83: bets 40
+Mahu2021: folds 
+J.A. Thelot: folds 
+Uncalled bet (40) returned to kamilsan83
+kamilsan83 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Ts 6h 9c]
+Seat 1: kamilsan83 (button) collected (120)
+Seat 2: Mahu2021 (small blind) folded on the Flop
+Seat 3: J.A. Thelot (big blind) folded on the Flop
+
+
+
+PokerStars Hand #253442863453: Tournament #3824449652, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/17 12:27:25 CET [2024/11/17 6:27:25 ET]
+Table '3824449652 1' 3-max Seat #2 is the button
+Seat 1: kamilsan83 (580 in chips) 
+Seat 2: Mahu2021 (460 in chips) 
+Seat 3: J.A. Thelot (460 in chips) 
+J.A. Thelot: posts small blind 10
+kamilsan83: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kc As]
+Mahu2021: raises 40 to 60
+J.A. Thelot: folds 
+kamilsan83: calls 40
+*** FLOP *** [Jh 8c 4c]
+kamilsan83: bets 20
+Mahu2021: calls 20
+*** TURN *** [Jh 8c 4c] [Ad]
+kamilsan83: checks 
+Mahu2021: bets 20
+kamilsan83: calls 20
+*** RIVER *** [Jh 8c 4c Ad] [3h]
+kamilsan83: checks 
+Mahu2021: bets 80
+kamilsan83: folds 
+Uncalled bet (80) returned to Mahu2021
+Mahu2021 collected 210 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 210 | Rake 0 
+Board [Jh 8c 4c Ad 3h]
+Seat 1: kamilsan83 (big blind) folded on the River
+Seat 2: Mahu2021 (button) collected (210)
+Seat 3: J.A. Thelot (small blind) folded before Flop
+
+
+
+PokerStars Hand #253442866975: Tournament #3824449652, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/17 12:27:52 CET [2024/11/17 6:27:52 ET]
+Table '3824449652 1' 3-max Seat #3 is the button
+Seat 1: kamilsan83 (480 in chips) 
+Seat 2: Mahu2021 (570 in chips) 
+Seat 3: J.A. Thelot (450 in chips) 
+kamilsan83: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc 8d]
+J.A. Thelot: folds 
+kamilsan83: calls 10
+Mahu2021: checks 
+*** FLOP *** [Ah 7c 4c]
+kamilsan83: checks 
+Mahu2021: checks 
+*** TURN *** [Ah 7c 4c] [4h]
+kamilsan83: checks 
+Mahu2021: checks 
+*** RIVER *** [Ah 7c 4c 4h] [Td]
+kamilsan83: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+kamilsan83: shows [8s Jh] (a pair of Fours)
+Mahu2021: shows [Qc 8d] (a pair of Fours - Ace+Queen kicker)
+Mahu2021 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Ah 7c 4c 4h Td]
+Seat 1: kamilsan83 (small blind) showed [8s Jh] and lost with a pair of Fours
+Seat 2: Mahu2021 (big blind) showed [Qc 8d] and won (40) with a pair of Fours
+Seat 3: J.A. Thelot (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253442869303: Tournament #3824449652, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/17 12:28:10 CET [2024/11/17 6:28:10 ET]
+Table '3824449652 1' 3-max Seat #1 is the button
+Seat 1: kamilsan83 (460 in chips) 
+Seat 2: Mahu2021 (590 in chips) 
+Seat 3: J.A. Thelot (450 in chips) 
+Mahu2021: posts small blind 10
+J.A. Thelot: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Td 3h]
+kamilsan83: raises 40 to 60
+Mahu2021: folds 
+J.A. Thelot: calls 40
+*** FLOP *** [4h 2c 4s]
+J.A. Thelot: checks 
+kamilsan83: bets 40
+J.A. Thelot: calls 40
+*** TURN *** [4h 2c 4s] [6s]
+J.A. Thelot: checks 
+kamilsan83: checks 
+*** RIVER *** [4h 2c 4s 6s] [3c]
+J.A. Thelot: bets 210
+kamilsan83: folds 
+Uncalled bet (210) returned to J.A. Thelot
+J.A. Thelot collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | Rake 0 
+Board [4h 2c 4s 6s 3c]
+Seat 1: kamilsan83 (button) folded on the River
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: J.A. Thelot (big blind) collected (210)
+
+
+
+PokerStars Hand #253442874716: Tournament #3824449652, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/17 12:28:51 CET [2024/11/17 6:28:51 ET]
+Table '3824449652 1' 3-max Seat #2 is the button
+Seat 1: kamilsan83 (360 in chips) 
+Seat 2: Mahu2021 (580 in chips) 
+Seat 3: J.A. Thelot (560 in chips) 
+J.A. Thelot: posts small blind 10
+kamilsan83: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2s 5h]
+Mahu2021: folds 
+J.A. Thelot: calls 10
+kamilsan83: raises 20 to 40
+J.A. Thelot: calls 20
+*** FLOP *** [Qs Kh As]
+J.A. Thelot: checks 
+kamilsan83: checks 
+*** TURN *** [Qs Kh As] [6s]
+J.A. Thelot: checks 
+kamilsan83: checks 
+*** RIVER *** [Qs Kh As 6s] [8s]
+J.A. Thelot: bets 40
+kamilsan83: folds 
+Uncalled bet (40) returned to J.A. Thelot
+J.A. Thelot collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Qs Kh As 6s 8s]
+Seat 1: kamilsan83 (big blind) folded on the River
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: J.A. Thelot (small blind) collected (80)
+
+
+
+PokerStars Hand #253442878646: Tournament #3824449652, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/17 12:29:21 CET [2024/11/17 6:29:21 ET]
+Table '3824449652 1' 3-max Seat #3 is the button
+Seat 1: kamilsan83 (320 in chips) 
+Seat 2: Mahu2021 (580 in chips) 
+Seat 3: J.A. Thelot (600 in chips) 
+kamilsan83: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah Kh]
+J.A. Thelot: folds 
+kamilsan83: calls 15
+Mahu2021: raises 90 to 120
+kamilsan83: calls 90
+*** FLOP *** [2s Jh Js]
+kamilsan83: checks 
+Mahu2021: bets 460 and is all-in
+kamilsan83: folds 
+Uncalled bet (460) returned to Mahu2021
+Mahu2021 collected 240 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [2s Jh Js]
+Seat 1: kamilsan83 (small blind) folded on the Flop
+Seat 2: Mahu2021 (big blind) collected (240)
+Seat 3: J.A. Thelot (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253442881763: Tournament #3824449652, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/17 12:29:45 CET [2024/11/17 6:29:45 ET]
+Table '3824449652 1' 3-max Seat #1 is the button
+Seat 1: kamilsan83 (200 in chips) 
+Seat 2: Mahu2021 (700 in chips) 
+Seat 3: J.A. Thelot (600 in chips) 
+Mahu2021: posts small blind 15
+J.A. Thelot: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2s Jd]
+kamilsan83: calls 30
+Mahu2021: folds 
+J.A. Thelot: checks 
+*** FLOP *** [4h Qd 9s]
+J.A. Thelot: checks 
+kamilsan83: bets 90
+J.A. Thelot: folds 
+Uncalled bet (90) returned to kamilsan83
+kamilsan83 collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Board [4h Qd 9s]
+Seat 1: kamilsan83 (button) collected (75)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: J.A. Thelot (big blind) folded on the Flop
+
+
+
+PokerStars Hand #253442883893: Tournament #3824449652, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/17 12:30:01 CET [2024/11/17 6:30:01 ET]
+Table '3824449652 1' 3-max Seat #2 is the button
+Seat 1: kamilsan83 (245 in chips) 
+Seat 2: Mahu2021 (685 in chips) 
+Seat 3: J.A. Thelot (570 in chips) 
+J.A. Thelot: posts small blind 15
+kamilsan83: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd Tc]
+Mahu2021: calls 30
+J.A. Thelot: raises 90 to 120
+kamilsan83: calls 90
+Mahu2021: folds 
+*** FLOP *** [Qh 3d 6s]
+J.A. Thelot: checks 
+kamilsan83: bets 60
+J.A. Thelot: folds 
+Uncalled bet (60) returned to kamilsan83
+kamilsan83 collected 270 from pot
+*** SUMMARY ***
+Total pot 270 | Rake 0 
+Board [Qh 3d 6s]
+Seat 1: kamilsan83 (big blind) collected (270)
+Seat 2: Mahu2021 (button) folded before Flop
+Seat 3: J.A. Thelot (small blind) folded on the Flop
+
+
+
+PokerStars Hand #253442886517: Tournament #3824449652, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/17 12:30:21 CET [2024/11/17 6:30:21 ET]
+Table '3824449652 1' 3-max Seat #3 is the button
+Seat 1: kamilsan83 (395 in chips) 
+Seat 2: Mahu2021 (655 in chips) 
+Seat 3: J.A. Thelot (450 in chips) 
+kamilsan83: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah Qd]
+J.A. Thelot: raises 60 to 90
+kamilsan83: folds 
+Mahu2021: calls 60
+*** FLOP *** [8h 5h 4h]
+Mahu2021: checks 
+J.A. Thelot: checks 
+*** TURN *** [8h 5h 4h] [2h]
+Mahu2021: checks 
+J.A. Thelot: bets 90
+Mahu2021: calls 90
+*** RIVER *** [8h 5h 4h 2h] [4s]
+Mahu2021: checks 
+J.A. Thelot: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [Ah Qd] (a flush, Ace high)
+J.A. Thelot: mucks hand 
+Mahu2021 collected 375 from pot
+*** SUMMARY ***
+Total pot 375 | Rake 0 
+Board [8h 5h 4h 2h 4s]
+Seat 1: kamilsan83 (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) showed [Ah Qd] and won (375) with a flush, Ace high
+Seat 3: J.A. Thelot (button) mucked [Ac Kd]
+
+
+
+PokerStars Hand #253442889637: Tournament #3824449652, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/17 12:30:45 CET [2024/11/17 6:30:45 ET]
+Table '3824449652 1' 3-max Seat #1 is the button
+Seat 1: kamilsan83 (380 in chips) 
+Seat 2: Mahu2021 (850 in chips) 
+Seat 3: J.A. Thelot (270 in chips) 
+Mahu2021: posts small blind 15
+J.A. Thelot: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc 4h]
+kamilsan83: calls 30
+Mahu2021: calls 15
+J.A. Thelot: raises 240 to 270 and is all-in
+kamilsan83: folds 
+Mahu2021: folds 
+Uncalled bet (240) returned to J.A. Thelot
+J.A. Thelot collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Seat 1: kamilsan83 (button) folded before Flop
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: J.A. Thelot (big blind) collected (90)
+
+
+
+PokerStars Hand #253442891475: Tournament #3824449652, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/17 12:30:59 CET [2024/11/17 6:30:59 ET]
+Table '3824449652 1' 3-max Seat #2 is the button
+Seat 1: kamilsan83 (350 in chips) 
+Seat 2: Mahu2021 (820 in chips) 
+Seat 3: J.A. Thelot (330 in chips) 
+J.A. Thelot: posts small blind 15
+kamilsan83: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s 5h]
+Mahu2021: calls 30
+J.A. Thelot: folds 
+kamilsan83: raises 60 to 90
+Mahu2021: raises 730 to 820 and is all-in
+kamilsan83: calls 260 and is all-in
+Uncalled bet (470) returned to Mahu2021
+*** FLOP *** [8s 7h Js]
+*** TURN *** [8s 7h Js] [5c]
+*** RIVER *** [8s 7h Js 5c] [Qh]
+*** SHOW DOWN ***
+kamilsan83: shows [9d 9s] (a pair of Nines)
+Mahu2021: shows [5s 5h] (three of a kind, Fives)
+Mahu2021 collected 715 from pot
+kamilsan83 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 715 | Rake 0 
+Board [8s 7h Js 5c Qh]
+Seat 1: kamilsan83 (big blind) showed [9d 9s] and lost with a pair of Nines
+Seat 2: Mahu2021 (button) showed [5s 5h] and won (715) with three of a kind, Fives
+Seat 3: J.A. Thelot (small blind) folded before Flop
+
+
+
+PokerStars Hand #253442894103: Tournament #3824449652, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/17 12:31:20 CET [2024/11/17 6:31:20 ET]
+Table '3824449652 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (1185 in chips) 
+Seat 3: J.A. Thelot (315 in chips) 
+J.A. Thelot: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2c Jc]
+J.A. Thelot: raises 80 to 120
+Mahu2021: calls 80
+*** FLOP *** [Tc 4d 6h]
+Mahu2021: checks 
+J.A. Thelot: bets 195 and is all-in
+Mahu2021: folds 
+Uncalled bet (195) returned to J.A. Thelot
+J.A. Thelot collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Tc 4d 6h]
+Seat 2: Mahu2021 (big blind) folded on the Flop
+Seat 3: J.A. Thelot (button) (small blind) collected (240)
+
+
+
+PokerStars Hand #253442895559: Tournament #3824449652, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/17 12:31:31 CET [2024/11/17 6:31:31 ET]
+Table '3824449652 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (1065 in chips) 
+Seat 3: J.A. Thelot (435 in chips) 
+Mahu2021: posts small blind 20
+J.A. Thelot: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh 3h]
+Mahu2021: raises 40 to 80
+J.A. Thelot: calls 40
+*** FLOP *** [Ac Ad 4h]
+J.A. Thelot: checks 
+Mahu2021: checks 
+*** TURN *** [Ac Ad 4h] [5h]
+J.A. Thelot: checks 
+Mahu2021: bets 80
+J.A. Thelot: folds 
+Uncalled bet (80) returned to Mahu2021
+Mahu2021 collected 160 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Ac Ad 4h 5h]
+Seat 2: Mahu2021 (button) (small blind) collected (160)
+Seat 3: J.A. Thelot (big blind) folded on the Turn
+
+
+
+PokerStars Hand #253442897580: Tournament #3824449652, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/17 12:31:46 CET [2024/11/17 6:31:46 ET]
+Table '3824449652 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (1145 in chips) 
+Seat 3: J.A. Thelot (355 in chips) 
+J.A. Thelot: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c 7h]
+J.A. Thelot: calls 20
+Mahu2021: checks 
+*** FLOP *** [Th 3d 8c]
+Mahu2021: checks 
+J.A. Thelot: checks 
+*** TURN *** [Th 3d 8c] [5s]
+Mahu2021: bets 40
+J.A. Thelot: calls 40
+*** RIVER *** [Th 3d 8c 5s] [Ac]
+Mahu2021: checks 
+J.A. Thelot: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [5c 7h] (a pair of Fives)
+J.A. Thelot: shows [5d Jc] (a pair of Fives - Ace+Jack kicker)
+J.A. Thelot collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Th 3d 8c 5s Ac]
+Seat 2: Mahu2021 (big blind) showed [5c 7h] and lost with a pair of Fives
+Seat 3: J.A. Thelot (button) (small blind) showed [5d Jc] and won (160) with a pair of Fives
+
+
+
+PokerStars Hand #253442899483: Tournament #3824449652, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/17 12:32:01 CET [2024/11/17 6:32:01 ET]
+Table '3824449652 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (1065 in chips) 
+Seat 3: J.A. Thelot (435 in chips) 
+Mahu2021: posts small blind 20
+J.A. Thelot: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h Kc]
+Mahu2021: raises 40 to 80
+J.A. Thelot: calls 40
+*** FLOP *** [Td 9d 3c]
+J.A. Thelot: bets 40
+Mahu2021: folds 
+Uncalled bet (40) returned to J.A. Thelot
+J.A. Thelot collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Td 9d 3c]
+Seat 2: Mahu2021 (button) (small blind) folded on the Flop
+Seat 3: J.A. Thelot (big blind) collected (160)
+
+
+
+PokerStars Hand #253442900608: Tournament #3824449652, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/17 12:32:10 CET [2024/11/17 6:32:10 ET]
+Table '3824449652 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (985 in chips) 
+Seat 3: J.A. Thelot (515 in chips) 
+J.A. Thelot: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d Th]
+J.A. Thelot: raises 80 to 120
+Mahu2021: folds 
+Uncalled bet (80) returned to J.A. Thelot
+J.A. Thelot collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: J.A. Thelot (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #253442901486: Tournament #3824449652, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/17 12:32:16 CET [2024/11/17 6:32:16 ET]
+Table '3824449652 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (945 in chips) 
+Seat 3: J.A. Thelot (555 in chips) 
+Mahu2021: posts small blind 20
+J.A. Thelot: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks Qh]
+Mahu2021: raises 40 to 80
+J.A. Thelot: calls 40
+*** FLOP *** [2h 7d 9d]
+J.A. Thelot: bets 40
+Mahu2021: calls 40
+*** TURN *** [2h 7d 9d] [3h]
+J.A. Thelot: bets 40
+Mahu2021: calls 40
+*** RIVER *** [2h 7d 9d 3h] [5d]
+J.A. Thelot: checks 
+Mahu2021: bets 785 and is all-in
+J.A. Thelot: folds 
+Uncalled bet (785) returned to Mahu2021
+Mahu2021 collected 320 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [2h 7d 9d 3h 5d]
+Seat 2: Mahu2021 (button) (small blind) collected (320)
+Seat 3: J.A. Thelot (big blind) folded on the River
+
+
+
+PokerStars Hand #253442904050: Tournament #3824449652, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/17 12:32:37 CET [2024/11/17 6:32:37 ET]
+Table '3824449652 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (1105 in chips) 
+Seat 3: J.A. Thelot (395 in chips) 
+J.A. Thelot: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6h 2d]
+J.A. Thelot: calls 20
+Mahu2021: checks 
+*** FLOP *** [Qh 5c Jh]
+Mahu2021: checks 
+J.A. Thelot: bets 80
+Mahu2021: folds 
+Uncalled bet (80) returned to J.A. Thelot
+J.A. Thelot collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Qh 5c Jh]
+Seat 2: Mahu2021 (big blind) folded on the Flop
+Seat 3: J.A. Thelot (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #253442905404: Tournament #3824449652, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/17 12:32:47 CET [2024/11/17 6:32:47 ET]
+Table '3824449652 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (1065 in chips) 
+Seat 3: J.A. Thelot (435 in chips) 
+Mahu2021: posts small blind 20
+J.A. Thelot: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d 2h]
+Mahu2021: raises 40 to 80
+J.A. Thelot: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) collected (80)
+Seat 3: J.A. Thelot (big blind) folded before Flop
+
+
+
+PokerStars Hand #253442906314: Tournament #3824449652, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/17 12:32:54 CET [2024/11/17 6:32:54 ET]
+Table '3824449652 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (1105 in chips) 
+Seat 3: J.A. Thelot (395 in chips) 
+J.A. Thelot: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6h Qs]
+J.A. Thelot: raises 80 to 120
+Mahu2021: folds 
+Uncalled bet (80) returned to J.A. Thelot
+J.A. Thelot collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: J.A. Thelot (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #253442907186: Tournament #3824449652, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/17 12:33:01 CET [2024/11/17 6:33:01 ET]
+Table '3824449652 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (1065 in chips) 
+Seat 3: J.A. Thelot (435 in chips) 
+Mahu2021: posts small blind 20
+J.A. Thelot: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd Ah]
+Mahu2021: raises 40 to 80
+J.A. Thelot: calls 40
+*** FLOP *** [7d 6h Kd]
+J.A. Thelot: bets 40
+Mahu2021: calls 40
+*** TURN *** [7d 6h Kd] [Qh]
+J.A. Thelot: bets 80
+Mahu2021: calls 80
+*** RIVER *** [7d 6h Kd Qh] [9c]
+J.A. Thelot: checks 
+Mahu2021: bets 865 and is all-in
+J.A. Thelot: folds 
+Uncalled bet (865) returned to Mahu2021
+Mahu2021 collected 400 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Board [7d 6h Kd Qh 9c]
+Seat 2: Mahu2021 (button) (small blind) collected (400)
+Seat 3: J.A. Thelot (big blind) folded on the River
+
+
+
+PokerStars Hand #253442910621: Tournament #3824449652, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/11/17 12:33:26 CET [2024/11/17 6:33:26 ET]
+Table '3824449652 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (1265 in chips) 
+Seat 3: J.A. Thelot (235 in chips) 
+J.A. Thelot: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d Ad]
+J.A. Thelot: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: Mahu2021 (big blind) collected (60)
+Seat 3: J.A. Thelot (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #253442911249: Tournament #3824449652, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/11/17 12:33:31 CET [2024/11/17 6:33:31 ET]
+Table '3824449652 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (1295 in chips) 
+Seat 3: J.A. Thelot (205 in chips) 
+Mahu2021: posts small blind 30
+J.A. Thelot: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h 6d]
+Mahu2021: folds 
+Uncalled bet (30) returned to J.A. Thelot
+J.A. Thelot collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: J.A. Thelot (big blind) collected (60)
+
+
+
+PokerStars Hand #253442911824: Tournament #3824449652, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/11/17 12:33:35 CET [2024/11/17 6:33:35 ET]
+Table '3824449652 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (1265 in chips) 
+Seat 3: J.A. Thelot (235 in chips) 
+J.A. Thelot: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2s Qd]
+J.A. Thelot: calls 30
+Mahu2021: checks 
+*** FLOP *** [Qc 4s 8h]
+Mahu2021: checks 
+J.A. Thelot: bets 175 and is all-in
+Mahu2021: calls 175
+*** TURN *** [Qc 4s 8h] [9h]
+*** RIVER *** [Qc 4s 8h 9h] [As]
+*** SHOW DOWN ***
+Mahu2021: shows [2s Qd] (a pair of Queens)
+J.A. Thelot: shows [5c 4h] (a pair of Fours)
+Mahu2021 collected 470 from pot
+J.A. Thelot finished the tournament in 2nd place
+Mahu2021 wins the tournament and receives $4.00 - congratulations!
+*** SUMMARY ***
+Total pot 470 | Rake 0 
+Board [Qc 4s 8h 9h As]
+Seat 2: Mahu2021 (big blind) showed [2s Qd] and won (470) with a pair of Queens
+Seat 3: J.A. Thelot (button) (small blind) showed [5c 4h] and lost with a pair of Fours
+
+
+

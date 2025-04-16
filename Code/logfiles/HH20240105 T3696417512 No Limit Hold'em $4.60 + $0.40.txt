@@ -1,0 +1,922 @@
+﻿PokerStars Hand #248076273852: Tournament #3696417512, $4.60+$0.40 USD Hold'em No Limit - Level I (10/20) - 2024/01/05 13:16:04 CET [2024/01/05 7:16:04 ET]
+Table '3696417512 1' 3-max Seat #1 is the button
+Seat 1: SeanKozak (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: dimYLiaK (500 in chips) 
+Mahu2021: posts small blind 10
+dimYLiaK: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts 8s]
+SeanKozak: folds 
+Mahu2021: raises 20 to 40
+dimYLiaK: calls 20
+*** FLOP *** [5s 5h 5d]
+Mahu2021: checks 
+dimYLiaK: checks 
+*** TURN *** [5s 5h 5d] [3c]
+Mahu2021: checks 
+dimYLiaK: checks 
+*** RIVER *** [5s 5h 5d 3c] [Jd]
+Mahu2021: bets 40
+dimYLiaK: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [5s 5h 5d 3c Jd]
+Seat 1: SeanKozak (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) collected (80)
+Seat 3: dimYLiaK (big blind) folded on the River
+
+
+
+PokerStars Hand #248076277901: Tournament #3696417512, $4.60+$0.40 USD Hold'em No Limit - Level I (10/20) - 2024/01/05 13:16:26 CET [2024/01/05 7:16:26 ET]
+Table '3696417512 1' 3-max Seat #2 is the button
+Seat 1: SeanKozak (500 in chips) 
+Seat 2: Mahu2021 (540 in chips) 
+Seat 3: dimYLiaK (460 in chips) 
+dimYLiaK: posts small blind 10
+SeanKozak: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d 3c]
+Mahu2021: folds 
+dimYLiaK: raises 40 to 60
+SeanKozak: calls 40
+*** FLOP *** [Jh Jd 3d]
+dimYLiaK: bets 30
+SeanKozak: folds 
+Uncalled bet (30) returned to dimYLiaK
+dimYLiaK collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Jh Jd 3d]
+Seat 1: SeanKozak (big blind) folded on the Flop
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: dimYLiaK (small blind) collected (120)
+
+
+
+PokerStars Hand #248076281058: Tournament #3696417512, $4.60+$0.40 USD Hold'em No Limit - Level I (10/20) - 2024/01/05 13:16:42 CET [2024/01/05 7:16:42 ET]
+Table '3696417512 1' 3-max Seat #3 is the button
+Seat 1: SeanKozak (440 in chips) 
+Seat 2: Mahu2021 (540 in chips) 
+Seat 3: dimYLiaK (520 in chips) 
+SeanKozak: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad Td]
+dimYLiaK: folds 
+SeanKozak: raises 40 to 60
+Mahu2021: calls 40
+*** FLOP *** [6s 6d 4d]
+SeanKozak: bets 60
+Mahu2021: calls 60
+*** TURN *** [6s 6d 4d] [As]
+SeanKozak: checks 
+Mahu2021: bets 80
+SeanKozak: calls 80
+*** RIVER *** [6s 6d 4d As] [8s]
+SeanKozak: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+SeanKozak: shows [Qd 7d] (a pair of Sixes)
+Mahu2021: shows [Ad Td] (two pair, Aces and Sixes)
+Mahu2021 collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Board [6s 6d 4d As 8s]
+Seat 1: SeanKozak (small blind) showed [Qd 7d] and lost with a pair of Sixes
+Seat 2: Mahu2021 (big blind) showed [Ad Td] and won (400) with two pair, Aces and Sixes
+Seat 3: dimYLiaK (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #248076285674: Tournament #3696417512, $4.60+$0.40 USD Hold'em No Limit - Level I (10/20) - 2024/01/05 13:17:07 CET [2024/01/05 7:17:07 ET]
+Table '3696417512 1' 3-max Seat #1 is the button
+Seat 1: SeanKozak (240 in chips) 
+Seat 2: Mahu2021 (740 in chips) 
+Seat 3: dimYLiaK (520 in chips) 
+Mahu2021: posts small blind 10
+dimYLiaK: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As Kc]
+SeanKozak: folds 
+Mahu2021: raises 40 to 60
+dimYLiaK: calls 40
+*** FLOP *** [5d 6d 2h]
+Mahu2021: checks 
+dimYLiaK: bets 120
+Mahu2021: folds 
+Uncalled bet (120) returned to dimYLiaK
+dimYLiaK collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [5d 6d 2h]
+Seat 1: SeanKozak (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) folded on the Flop
+Seat 3: dimYLiaK (big blind) collected (120)
+
+
+
+PokerStars Hand #248076288915: Tournament #3696417512, $4.60+$0.40 USD Hold'em No Limit - Level I (10/20) - 2024/01/05 13:17:24 CET [2024/01/05 7:17:24 ET]
+Table '3696417512 1' 3-max Seat #2 is the button
+Seat 1: SeanKozak (240 in chips) 
+Seat 2: Mahu2021 (680 in chips) 
+Seat 3: dimYLiaK (580 in chips) 
+dimYLiaK: posts small blind 10
+SeanKozak: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s 3s]
+Mahu2021: folds 
+dimYLiaK: folds 
+Uncalled bet (10) returned to SeanKozak
+SeanKozak collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: SeanKozak (big blind) collected (20)
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: dimYLiaK (small blind) folded before Flop
+
+
+
+PokerStars Hand #248076289924: Tournament #3696417512, $4.60+$0.40 USD Hold'em No Limit - Level I (10/20) - 2024/01/05 13:17:30 CET [2024/01/05 7:17:30 ET]
+Table '3696417512 1' 3-max Seat #3 is the button
+Seat 1: SeanKozak (250 in chips) 
+Seat 2: Mahu2021 (680 in chips) 
+Seat 3: dimYLiaK (570 in chips) 
+SeanKozak: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts 4h]
+dimYLiaK: raises 20 to 40
+SeanKozak: raises 210 to 250 and is all-in
+Mahu2021: folds 
+dimYLiaK: folds 
+Uncalled bet (210) returned to SeanKozak
+SeanKozak collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: SeanKozak (small blind) collected (100)
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: dimYLiaK (button) folded before Flop
+
+
+
+PokerStars Hand #248076291630: Tournament #3696417512, $4.60+$0.40 USD Hold'em No Limit - Level I (10/20) - 2024/01/05 13:17:39 CET [2024/01/05 7:17:39 ET]
+Table '3696417512 1' 3-max Seat #1 is the button
+Seat 1: SeanKozak (310 in chips) 
+Seat 2: Mahu2021 (660 in chips) 
+Seat 3: dimYLiaK (530 in chips) 
+Mahu2021: posts small blind 10
+dimYLiaK: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d Ah]
+SeanKozak: folds 
+Mahu2021: raises 20 to 40
+dimYLiaK: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: SeanKozak (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) collected (40)
+Seat 3: dimYLiaK (big blind) folded before Flop
+
+
+
+PokerStars Hand #248076293153: Tournament #3696417512, $4.60+$0.40 USD Hold'em No Limit - Level I (10/20) - 2024/01/05 13:17:47 CET [2024/01/05 7:17:47 ET]
+Table '3696417512 1' 3-max Seat #2 is the button
+Seat 1: SeanKozak (310 in chips) 
+Seat 2: Mahu2021 (680 in chips) 
+Seat 3: dimYLiaK (510 in chips) 
+dimYLiaK: posts small blind 10
+SeanKozak: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h Jd]
+Mahu2021: folds 
+dimYLiaK: folds 
+Uncalled bet (10) returned to SeanKozak
+SeanKozak collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: SeanKozak (big blind) collected (20)
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: dimYLiaK (small blind) folded before Flop
+
+
+
+PokerStars Hand #248076294472: Tournament #3696417512, $4.60+$0.40 USD Hold'em No Limit - Level I (10/20) - 2024/01/05 13:17:54 CET [2024/01/05 7:17:54 ET]
+Table '3696417512 1' 3-max Seat #3 is the button
+Seat 1: SeanKozak (320 in chips) 
+Seat 2: Mahu2021 (680 in chips) 
+Seat 3: dimYLiaK (500 in chips) 
+SeanKozak: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s 2h]
+dimYLiaK: folds 
+SeanKozak: raises 40 to 60
+Mahu2021: folds 
+Uncalled bet (40) returned to SeanKozak
+SeanKozak collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: SeanKozak (small blind) collected (40)
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: dimYLiaK (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #248076296017: Tournament #3696417512, $4.60+$0.40 USD Hold'em No Limit - Level I (10/20) - 2024/01/05 13:18:02 CET [2024/01/05 7:18:02 ET]
+Table '3696417512 1' 3-max Seat #1 is the button
+Seat 1: SeanKozak (340 in chips) 
+Seat 2: Mahu2021 (660 in chips) 
+Seat 3: dimYLiaK (500 in chips) 
+Mahu2021: posts small blind 10
+dimYLiaK: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Tc 3h]
+SeanKozak: folds 
+Mahu2021: folds 
+Uncalled bet (10) returned to dimYLiaK
+dimYLiaK collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: SeanKozak (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: dimYLiaK (big blind) collected (20)
+
+
+
+PokerStars Hand #248076297250: Tournament #3696417512, $4.60+$0.40 USD Hold'em No Limit - Level I (10/20) - 2024/01/05 13:18:09 CET [2024/01/05 7:18:09 ET]
+Table '3696417512 1' 3-max Seat #2 is the button
+Seat 1: SeanKozak (340 in chips) 
+Seat 2: Mahu2021 (650 in chips) 
+Seat 3: dimYLiaK (510 in chips) 
+dimYLiaK: posts small blind 10
+SeanKozak: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc Jd]
+Mahu2021: raises 20 to 40
+dimYLiaK: folds 
+SeanKozak: raises 60 to 100
+Mahu2021: calls 60
+*** FLOP *** [2h 6s 8s]
+SeanKozak: bets 240 and is all-in
+Mahu2021: folds 
+Uncalled bet (240) returned to SeanKozak
+SeanKozak collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | Rake 0 
+Board [2h 6s 8s]
+Seat 1: SeanKozak (big blind) collected (210)
+Seat 2: Mahu2021 (button) folded on the Flop
+Seat 3: dimYLiaK (small blind) folded before Flop
+
+
+
+PokerStars Hand #248076300591: Tournament #3696417512, $4.60+$0.40 USD Hold'em No Limit - Level I (10/20) - 2024/01/05 13:18:27 CET [2024/01/05 7:18:27 ET]
+Table '3696417512 1' 3-max Seat #3 is the button
+Seat 1: SeanKozak (450 in chips) 
+Seat 2: Mahu2021 (550 in chips) 
+Seat 3: dimYLiaK (500 in chips) 
+SeanKozak: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Th 4c]
+dimYLiaK: raises 20 to 40
+SeanKozak: calls 30
+Mahu2021: folds 
+*** FLOP *** [9d Ad 9c]
+SeanKozak: checks 
+dimYLiaK: checks 
+*** TURN *** [9d Ad 9c] [6s]
+SeanKozak: bets 70
+dimYLiaK: folds 
+Uncalled bet (70) returned to SeanKozak
+SeanKozak collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [9d Ad 9c 6s]
+Seat 1: SeanKozak (small blind) collected (100)
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: dimYLiaK (button) folded on the Turn
+
+
+
+PokerStars Hand #248076304673: Tournament #3696417512, $4.60+$0.40 USD Hold'em No Limit - Level I (10/20) - 2024/01/05 13:18:49 CET [2024/01/05 7:18:49 ET]
+Table '3696417512 1' 3-max Seat #1 is the button
+Seat 1: SeanKozak (510 in chips) 
+Seat 2: Mahu2021 (530 in chips) 
+Seat 3: dimYLiaK (460 in chips) 
+Mahu2021: posts small blind 10
+dimYLiaK: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6h Ad]
+SeanKozak: folds 
+Mahu2021: raises 20 to 40
+dimYLiaK: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: SeanKozak (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) collected (40)
+Seat 3: dimYLiaK (big blind) folded before Flop
+
+
+
+PokerStars Hand #248076307772: Tournament #3696417512, $4.60+$0.40 USD Hold'em No Limit - Level I (10/20) - 2024/01/05 13:19:05 CET [2024/01/05 7:19:05 ET]
+Table '3696417512 1' 3-max Seat #2 is the button
+Seat 1: SeanKozak (510 in chips) 
+Seat 2: Mahu2021 (550 in chips) 
+Seat 3: dimYLiaK (440 in chips) 
+dimYLiaK: posts small blind 10
+SeanKozak: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh 9h]
+Mahu2021: raises 20 to 40
+dimYLiaK: folds 
+SeanKozak: raises 470 to 510 and is all-in
+Mahu2021: folds 
+Uncalled bet (470) returned to SeanKozak
+SeanKozak collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Seat 1: SeanKozak (big blind) collected (90)
+Seat 2: Mahu2021 (button) folded before Flop
+Seat 3: dimYLiaK (small blind) folded before Flop
+
+
+
+PokerStars Hand #248076311409: Tournament #3696417512, $4.60+$0.40 USD Hold'em No Limit - Level II (15/30) - 2024/01/05 13:19:24 CET [2024/01/05 7:19:24 ET]
+Table '3696417512 1' 3-max Seat #3 is the button
+Seat 1: SeanKozak (560 in chips) 
+Seat 2: Mahu2021 (510 in chips) 
+Seat 3: dimYLiaK (430 in chips) 
+SeanKozak: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Tc Kc]
+dimYLiaK: folds 
+SeanKozak: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: SeanKozak (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (30)
+Seat 3: dimYLiaK (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #248076313533: Tournament #3696417512, $4.60+$0.40 USD Hold'em No Limit - Level II (15/30) - 2024/01/05 13:19:35 CET [2024/01/05 7:19:35 ET]
+Table '3696417512 1' 3-max Seat #1 is the button
+Seat 1: SeanKozak (545 in chips) 
+Seat 2: Mahu2021 (525 in chips) 
+Seat 3: dimYLiaK (430 in chips) 
+Mahu2021: posts small blind 15
+dimYLiaK: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks Jh]
+SeanKozak: folds 
+Mahu2021: raises 30 to 60
+dimYLiaK: calls 30
+*** FLOP *** [Kd 9d Qd]
+Mahu2021: bets 60
+dimYLiaK: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Kd 9d Qd]
+Seat 1: SeanKozak (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) collected (120)
+Seat 3: dimYLiaK (big blind) folded on the Flop
+
+
+
+PokerStars Hand #248076316702: Tournament #3696417512, $4.60+$0.40 USD Hold'em No Limit - Level II (15/30) - 2024/01/05 13:19:52 CET [2024/01/05 7:19:52 ET]
+Table '3696417512 1' 3-max Seat #2 is the button
+Seat 1: SeanKozak (545 in chips) 
+Seat 2: Mahu2021 (585 in chips) 
+Seat 3: dimYLiaK (370 in chips) 
+dimYLiaK: posts small blind 15
+SeanKozak: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah 7d]
+Mahu2021: folds 
+dimYLiaK: folds 
+Uncalled bet (15) returned to SeanKozak
+SeanKozak collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: SeanKozak (big blind) collected (30)
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: dimYLiaK (small blind) folded before Flop
+
+
+
+PokerStars Hand #248076317741: Tournament #3696417512, $4.60+$0.40 USD Hold'em No Limit - Level II (15/30) - 2024/01/05 13:19:57 CET [2024/01/05 7:19:57 ET]
+Table '3696417512 1' 3-max Seat #3 is the button
+Seat 1: SeanKozak (560 in chips) 
+Seat 2: Mahu2021 (585 in chips) 
+Seat 3: dimYLiaK (355 in chips) 
+SeanKozak: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah 4d]
+dimYLiaK: folds 
+SeanKozak: raises 60 to 90
+Mahu2021: folds 
+Uncalled bet (60) returned to SeanKozak
+SeanKozak collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: SeanKozak (small blind) collected (60)
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: dimYLiaK (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #248076320901: Tournament #3696417512, $4.60+$0.40 USD Hold'em No Limit - Level II (15/30) - 2024/01/05 13:20:14 CET [2024/01/05 7:20:14 ET]
+Table '3696417512 1' 3-max Seat #1 is the button
+Seat 1: SeanKozak (590 in chips) 
+Seat 2: Mahu2021 (555 in chips) 
+Seat 3: dimYLiaK (355 in chips) 
+Mahu2021: posts small blind 15
+dimYLiaK: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d Qs]
+SeanKozak: folds 
+Mahu2021: calls 15
+dimYLiaK: checks 
+*** FLOP *** [4d 8s 8d]
+Mahu2021: checks 
+dimYLiaK: bets 30
+Mahu2021: folds 
+Uncalled bet (30) returned to dimYLiaK
+dimYLiaK collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [4d 8s 8d]
+Seat 1: SeanKozak (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) folded on the Flop
+Seat 3: dimYLiaK (big blind) collected (60)
+
+
+
+PokerStars Hand #248076323212: Tournament #3696417512, $4.60+$0.40 USD Hold'em No Limit - Level II (15/30) - 2024/01/05 13:20:26 CET [2024/01/05 7:20:26 ET]
+Table '3696417512 1' 3-max Seat #2 is the button
+Seat 1: SeanKozak (590 in chips) 
+Seat 2: Mahu2021 (525 in chips) 
+Seat 3: dimYLiaK (385 in chips) 
+dimYLiaK: posts small blind 15
+SeanKozak: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d 6s]
+Mahu2021: folds 
+dimYLiaK: folds 
+Uncalled bet (15) returned to SeanKozak
+SeanKozak collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: SeanKozak (big blind) collected (30)
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: dimYLiaK (small blind) folded before Flop
+
+
+
+PokerStars Hand #248076324163: Tournament #3696417512, $4.60+$0.40 USD Hold'em No Limit - Level II (15/30) - 2024/01/05 13:20:30 CET [2024/01/05 7:20:30 ET]
+Table '3696417512 1' 3-max Seat #3 is the button
+Seat 1: SeanKozak (605 in chips) 
+Seat 2: Mahu2021 (525 in chips) 
+Seat 3: dimYLiaK (370 in chips) 
+SeanKozak: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c 3d]
+dimYLiaK: folds 
+SeanKozak: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: SeanKozak (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (30)
+Seat 3: dimYLiaK (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #248076325082: Tournament #3696417512, $4.60+$0.40 USD Hold'em No Limit - Level II (15/30) - 2024/01/05 13:20:35 CET [2024/01/05 7:20:35 ET]
+Table '3696417512 1' 3-max Seat #1 is the button
+Seat 1: SeanKozak (590 in chips) 
+Seat 2: Mahu2021 (540 in chips) 
+Seat 3: dimYLiaK (370 in chips) 
+Mahu2021: posts small blind 15
+dimYLiaK: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks 4s]
+SeanKozak: folds 
+Mahu2021: raises 30 to 60
+dimYLiaK: calls 30
+*** FLOP *** [Qs Kh Tc]
+Mahu2021: checks 
+dimYLiaK: checks 
+*** TURN *** [Qs Kh Tc] [5s]
+Mahu2021: bets 120
+dimYLiaK: folds 
+Uncalled bet (120) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Qs Kh Tc 5s]
+Seat 1: SeanKozak (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) collected (120)
+Seat 3: dimYLiaK (big blind) folded on the Turn
+
+
+
+PokerStars Hand #248076327650: Tournament #3696417512, $4.60+$0.40 USD Hold'em No Limit - Level II (15/30) - 2024/01/05 13:20:49 CET [2024/01/05 7:20:49 ET]
+Table '3696417512 1' 3-max Seat #2 is the button
+Seat 1: SeanKozak (590 in chips) 
+Seat 2: Mahu2021 (600 in chips) 
+Seat 3: dimYLiaK (310 in chips) 
+dimYLiaK: posts small blind 15
+SeanKozak: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c 3h]
+Mahu2021: folds 
+dimYLiaK: raises 280 to 310 and is all-in
+SeanKozak: folds 
+Uncalled bet (280) returned to dimYLiaK
+dimYLiaK collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: SeanKozak (big blind) folded before Flop
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: dimYLiaK (small blind) collected (60)
+
+
+
+PokerStars Hand #248076328955: Tournament #3696417512, $4.60+$0.40 USD Hold'em No Limit - Level II (15/30) - 2024/01/05 13:20:56 CET [2024/01/05 7:20:56 ET]
+Table '3696417512 1' 3-max Seat #3 is the button
+Seat 1: SeanKozak (560 in chips) 
+Seat 2: Mahu2021 (600 in chips) 
+Seat 3: dimYLiaK (340 in chips) 
+SeanKozak: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8s Kd]
+dimYLiaK: folds 
+SeanKozak: raises 30 to 60
+Mahu2021: calls 30
+*** FLOP *** [As 9h 2d]
+SeanKozak: bets 60
+Mahu2021: folds 
+Uncalled bet (60) returned to SeanKozak
+SeanKozak collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [As 9h 2d]
+Seat 1: SeanKozak (small blind) collected (120)
+Seat 2: Mahu2021 (big blind) folded on the Flop
+Seat 3: dimYLiaK (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #248076332086: Tournament #3696417512, $4.60+$0.40 USD Hold'em No Limit - Level II (15/30) - 2024/01/05 13:21:12 CET [2024/01/05 7:21:12 ET]
+Table '3696417512 1' 3-max Seat #1 is the button
+Seat 1: SeanKozak (620 in chips) 
+Seat 2: Mahu2021 (540 in chips) 
+Seat 3: dimYLiaK (340 in chips) 
+Mahu2021: posts small blind 15
+dimYLiaK: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8c 3s]
+SeanKozak: folds 
+Mahu2021: folds 
+Uncalled bet (15) returned to dimYLiaK
+dimYLiaK collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: SeanKozak (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: dimYLiaK (big blind) collected (30)
+
+
+
+PokerStars Hand #248076333090: Tournament #3696417512, $4.60+$0.40 USD Hold'em No Limit - Level II (15/30) - 2024/01/05 13:21:17 CET [2024/01/05 7:21:17 ET]
+Table '3696417512 1' 3-max Seat #2 is the button
+Seat 1: SeanKozak (620 in chips) 
+Seat 2: Mahu2021 (525 in chips) 
+Seat 3: dimYLiaK (355 in chips) 
+dimYLiaK: posts small blind 15
+SeanKozak: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As Ah]
+Mahu2021: calls 30
+dimYLiaK: raises 325 to 355 and is all-in
+SeanKozak: folds 
+Mahu2021: calls 325
+*** FLOP *** [6h Ac Kd]
+*** TURN *** [6h Ac Kd] [Ad]
+*** RIVER *** [6h Ac Kd Ad] [4d]
+*** SHOW DOWN ***
+dimYLiaK: shows [Jh Kh] (two pair, Aces and Kings)
+Mahu2021: shows [As Ah] (four of a kind, Aces)
+Mahu2021 collected 740 from pot
+dimYLiaK finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 740 | Rake 0 
+Board [6h Ac Kd Ad 4d]
+Seat 1: SeanKozak (big blind) folded before Flop
+Seat 2: Mahu2021 (button) showed [As Ah] and won (740) with four of a kind, Aces
+Seat 3: dimYLiaK (small blind) showed [Jh Kh] and lost with two pair, Aces and Kings
+
+
+
+PokerStars Hand #248076336724: Tournament #3696417512, $4.60+$0.40 USD Hold'em No Limit - Level II (15/30) - 2024/01/05 13:21:36 CET [2024/01/05 7:21:36 ET]
+Table '3696417512 1' 3-max Seat #1 is the button
+Seat 1: SeanKozak (590 in chips) 
+Seat 2: Mahu2021 (910 in chips) 
+SeanKozak: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d 2d]
+SeanKozak: raises 60 to 90
+Mahu2021: folds 
+Uncalled bet (60) returned to SeanKozak
+SeanKozak collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: SeanKozak (button) (small blind) collected (60)
+Seat 2: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #248076338132: Tournament #3696417512, $4.60+$0.40 USD Hold'em No Limit - Level II (15/30) - 2024/01/05 13:21:43 CET [2024/01/05 7:21:43 ET]
+Table '3696417512 1' 3-max Seat #2 is the button
+Seat 1: SeanKozak (620 in chips) 
+Seat 2: Mahu2021 (880 in chips) 
+Mahu2021: posts small blind 15
+SeanKozak: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh 9d]
+Mahu2021: calls 15
+SeanKozak: checks 
+*** FLOP *** [4s Tc 3h]
+SeanKozak: checks 
+Mahu2021: checks 
+*** TURN *** [4s Tc 3h] [4h]
+SeanKozak: checks 
+Mahu2021: checks 
+*** RIVER *** [4s Tc 3h 4h] [2s]
+SeanKozak: checks 
+Mahu2021: bets 60
+SeanKozak: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [4s Tc 3h 4h 2s]
+Seat 1: SeanKozak (big blind) folded on the River
+Seat 2: Mahu2021 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #248076341351: Tournament #3696417512, $4.60+$0.40 USD Hold'em No Limit - Level II (15/30) - 2024/01/05 13:21:59 CET [2024/01/05 7:21:59 ET]
+Table '3696417512 1' 3-max Seat #1 is the button
+Seat 1: SeanKozak (590 in chips) 
+Seat 2: Mahu2021 (910 in chips) 
+SeanKozak: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As Ah]
+SeanKozak: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: SeanKozak (button) (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (30)
+
+
+
+PokerStars Hand #248076342196: Tournament #3696417512, $4.60+$0.40 USD Hold'em No Limit - Level II (15/30) - 2024/01/05 13:22:04 CET [2024/01/05 7:22:04 ET]
+Table '3696417512 1' 3-max Seat #2 is the button
+Seat 1: SeanKozak (575 in chips) 
+Seat 2: Mahu2021 (925 in chips) 
+Mahu2021: posts small blind 15
+SeanKozak: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s Jd]
+Mahu2021: folds 
+Uncalled bet (15) returned to SeanKozak
+SeanKozak collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: SeanKozak (big blind) collected (30)
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #248076343635: Tournament #3696417512, $4.60+$0.40 USD Hold'em No Limit - Level III (20/40) - 2024/01/05 13:22:11 CET [2024/01/05 7:22:11 ET]
+Table '3696417512 1' 3-max Seat #1 is the button
+Seat 1: SeanKozak (590 in chips) 
+Seat 2: Mahu2021 (910 in chips) 
+SeanKozak: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts 4c]
+SeanKozak: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: SeanKozak (button) (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (40)
+
+
+
+PokerStars Hand #248076344378: Tournament #3696417512, $4.60+$0.40 USD Hold'em No Limit - Level III (20/40) - 2024/01/05 13:22:16 CET [2024/01/05 7:22:16 ET]
+Table '3696417512 1' 3-max Seat #2 is the button
+Seat 1: SeanKozak (570 in chips) 
+Seat 2: Mahu2021 (930 in chips) 
+Mahu2021: posts small blind 20
+SeanKozak: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s 7s]
+Mahu2021: raises 40 to 80
+SeanKozak: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: SeanKozak (big blind) folded before Flop
+Seat 2: Mahu2021 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #248076345492: Tournament #3696417512, $4.60+$0.40 USD Hold'em No Limit - Level III (20/40) - 2024/01/05 13:22:22 CET [2024/01/05 7:22:22 ET]
+Table '3696417512 1' 3-max Seat #1 is the button
+Seat 1: SeanKozak (530 in chips) 
+Seat 2: Mahu2021 (970 in chips) 
+SeanKozak: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc 8h]
+SeanKozak: raises 80 to 120
+Mahu2021: folds 
+Uncalled bet (80) returned to SeanKozak
+SeanKozak collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: SeanKozak (button) (small blind) collected (80)
+Seat 2: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #248076347352: Tournament #3696417512, $4.60+$0.40 USD Hold'em No Limit - Level III (20/40) - 2024/01/05 13:22:31 CET [2024/01/05 7:22:31 ET]
+Table '3696417512 1' 3-max Seat #2 is the button
+Seat 1: SeanKozak (570 in chips) 
+Seat 2: Mahu2021 (930 in chips) 
+Mahu2021: posts small blind 20
+SeanKozak: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c As]
+Mahu2021: raises 40 to 80
+SeanKozak: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: SeanKozak (big blind) folded before Flop
+Seat 2: Mahu2021 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #248076348589: Tournament #3696417512, $4.60+$0.40 USD Hold'em No Limit - Level III (20/40) - 2024/01/05 13:22:38 CET [2024/01/05 7:22:38 ET]
+Table '3696417512 1' 3-max Seat #1 is the button
+Seat 1: SeanKozak (530 in chips) 
+Seat 2: Mahu2021 (970 in chips) 
+SeanKozak: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s 2c]
+SeanKozak: calls 20
+Mahu2021: checks 
+*** FLOP *** [4d 9h Qc]
+Mahu2021: checks 
+SeanKozak: checks 
+*** TURN *** [4d 9h Qc] [3h]
+Mahu2021: checks 
+SeanKozak: bets 40
+Mahu2021: folds 
+Uncalled bet (40) returned to SeanKozak
+SeanKozak collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [4d 9h Qc 3h]
+Seat 1: SeanKozak (button) (small blind) collected (80)
+Seat 2: Mahu2021 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #248076351544: Tournament #3696417512, $4.60+$0.40 USD Hold'em No Limit - Level III (20/40) - 2024/01/05 13:22:53 CET [2024/01/05 7:22:53 ET]
+Table '3696417512 1' 3-max Seat #2 is the button
+Seat 1: SeanKozak (570 in chips) 
+Seat 2: Mahu2021 (930 in chips) 
+Mahu2021: posts small blind 20
+SeanKozak: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c 9d]
+Mahu2021: raises 40 to 80
+SeanKozak: calls 40
+*** FLOP *** [5h Js Td]
+SeanKozak: checks 
+Mahu2021: bets 80
+SeanKozak: folds 
+Uncalled bet (80) returned to Mahu2021
+Mahu2021 collected 160 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [5h Js Td]
+Seat 1: SeanKozak (big blind) folded on the Flop
+Seat 2: Mahu2021 (button) (small blind) collected (160)
+
+
+
+PokerStars Hand #248076353999: Tournament #3696417512, $4.60+$0.40 USD Hold'em No Limit - Level III (20/40) - 2024/01/05 13:23:05 CET [2024/01/05 7:23:05 ET]
+Table '3696417512 1' 3-max Seat #1 is the button
+Seat 1: SeanKozak (490 in chips) 
+Seat 2: Mahu2021 (1010 in chips) 
+SeanKozak: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d 6h]
+SeanKozak: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: SeanKozak (button) (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (40)
+
+
+
+PokerStars Hand #248076354815: Tournament #3696417512, $4.60+$0.40 USD Hold'em No Limit - Level III (20/40) - 2024/01/05 13:23:09 CET [2024/01/05 7:23:09 ET]
+Table '3696417512 1' 3-max Seat #2 is the button
+Seat 1: SeanKozak (470 in chips) 
+Seat 2: Mahu2021 (1030 in chips) 
+Mahu2021: posts small blind 20
+SeanKozak: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qs 4h]
+Mahu2021: calls 20
+SeanKozak: raises 80 to 120
+Mahu2021: folds 
+Uncalled bet (80) returned to SeanKozak
+SeanKozak collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: SeanKozak (big blind) collected (80)
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #248076356310: Tournament #3696417512, $4.60+$0.40 USD Hold'em No Limit - Level III (20/40) - 2024/01/05 13:23:17 CET [2024/01/05 7:23:17 ET]
+Table '3696417512 1' 3-max Seat #1 is the button
+Seat 1: SeanKozak (510 in chips) 
+Seat 2: Mahu2021 (990 in chips) 
+SeanKozak: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc Kc]
+SeanKozak: calls 20
+Mahu2021: raises 80 to 120
+SeanKozak: folds 
+Uncalled bet (80) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: SeanKozak (button) (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (80)
+
+
+

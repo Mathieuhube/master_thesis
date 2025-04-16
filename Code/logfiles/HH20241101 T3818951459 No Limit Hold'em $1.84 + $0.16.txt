@@ -1,0 +1,905 @@
+﻿PokerStars Hand #253206446845: Tournament #3818951459, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/01 21:24:47 CET [2024/11/01 16:24:47 ET]
+Table '3818951459 1' 3-max Seat #1 is the button
+Seat 1: ruby12340 (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: Impetigo_666 (500 in chips) 
+Mahu2021: posts small blind 10
+Impetigo_666: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8s 5h]
+ruby12340: folds 
+Mahu2021: folds 
+Uncalled bet (10) returned to Impetigo_666
+Impetigo_666 collected 20 from pot
+Impetigo_666: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: ruby12340 (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: Impetigo_666 (big blind) collected (20)
+
+
+
+PokerStars Hand #253206450202: Tournament #3818951459, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/01 21:24:58 CET [2024/11/01 16:24:58 ET]
+Table '3818951459 1' 3-max Seat #2 is the button
+Seat 1: ruby12340 (500 in chips) 
+Seat 2: Mahu2021 (490 in chips) 
+Seat 3: Impetigo_666 (510 in chips) 
+Impetigo_666: posts small blind 10
+ruby12340: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h 3h]
+Mahu2021: calls 20
+Impetigo_666: calls 10
+ruby12340: checks 
+*** FLOP *** [Kh 9h 9c]
+Impetigo_666: checks 
+ruby12340: checks 
+Mahu2021: bets 60
+Impetigo_666: folds 
+ruby12340: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Kh 9h 9c]
+Seat 1: ruby12340 (big blind) folded on the Flop
+Seat 2: Mahu2021 (button) collected (60)
+Seat 3: Impetigo_666 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #253206456635: Tournament #3818951459, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/01 21:25:19 CET [2024/11/01 16:25:19 ET]
+Table '3818951459 1' 3-max Seat #3 is the button
+Seat 1: ruby12340 (480 in chips) 
+Seat 2: Mahu2021 (530 in chips) 
+Seat 3: Impetigo_666 (490 in chips) 
+ruby12340: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc Ts]
+Impetigo_666: folds 
+ruby12340: calls 10
+Mahu2021: checks 
+*** FLOP *** [3s Js 7d]
+ruby12340: checks 
+Mahu2021: checks 
+*** TURN *** [3s Js 7d] [Qd]
+ruby12340: bets 20
+Mahu2021: calls 20
+*** RIVER *** [3s Js 7d Qd] [7h]
+ruby12340: bets 80
+Mahu2021: calls 80
+*** SHOW DOWN ***
+ruby12340: shows [Kd 9s] (a pair of Sevens)
+Mahu2021: shows [Qc Ts] (two pair, Queens and Sevens)
+Mahu2021 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [3s Js 7d Qd 7h]
+Seat 1: ruby12340 (small blind) showed [Kd 9s] and lost with a pair of Sevens
+Seat 2: Mahu2021 (big blind) showed [Qc Ts] and won (240) with two pair, Queens and Sevens
+Seat 3: Impetigo_666 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253206464442: Tournament #3818951459, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/01 21:25:45 CET [2024/11/01 16:25:45 ET]
+Table '3818951459 1' 3-max Seat #1 is the button
+Seat 1: ruby12340 (360 in chips) 
+Seat 2: Mahu2021 (650 in chips) 
+Seat 3: Impetigo_666 (490 in chips) 
+Mahu2021: posts small blind 10
+Impetigo_666: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h Qh]
+ruby12340: raises 20 to 40
+Mahu2021: calls 30
+Impetigo_666: folds 
+*** FLOP *** [3s Qc 7s]
+Mahu2021: checks 
+ruby12340: bets 100
+Mahu2021: calls 100
+*** TURN *** [3s Qc 7s] [Ac]
+Mahu2021: checks 
+ruby12340: bets 220 and is all-in
+Mahu2021: calls 220
+*** RIVER *** [3s Qc 7s Ac] [Td]
+*** SHOW DOWN ***
+Mahu2021: shows [7h Qh] (two pair, Queens and Sevens)
+ruby12340: shows [6s 6d] (a pair of Sixes)
+Mahu2021 collected 740 from pot
+ruby12340 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 740 | Rake 0 
+Board [3s Qc 7s Ac Td]
+Seat 1: ruby12340 (button) showed [6s 6d] and lost with a pair of Sixes
+Seat 2: Mahu2021 (small blind) showed [7h Qh] and won (740) with two pair, Queens and Sevens
+Seat 3: Impetigo_666 (big blind) folded before Flop
+
+
+
+PokerStars Hand #253206471899: Tournament #3818951459, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/01 21:26:10 CET [2024/11/01 16:26:10 ET]
+Table '3818951459 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (1030 in chips) 
+Seat 3: Impetigo_666 (470 in chips) 
+Impetigo_666: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2c Jh]
+Impetigo_666: raises 20 to 40
+Mahu2021: calls 20
+*** FLOP *** [4s 3c Ts]
+Mahu2021: checks 
+Impetigo_666: bets 40
+Mahu2021: folds 
+Uncalled bet (40) returned to Impetigo_666
+Impetigo_666 collected 80 from pot
+Impetigo_666: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [4s 3c Ts]
+Seat 2: Mahu2021 (big blind) folded on the Flop
+Seat 3: Impetigo_666 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #253206475848: Tournament #3818951459, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/01 21:26:23 CET [2024/11/01 16:26:23 ET]
+Table '3818951459 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (990 in chips) 
+Seat 3: Impetigo_666 (510 in chips) 
+Mahu2021: posts small blind 10
+Impetigo_666: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6h 6s]
+Mahu2021: raises 20 to 40
+Impetigo_666: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) collected (40)
+Seat 3: Impetigo_666 (big blind) folded before Flop
+
+
+
+PokerStars Hand #253206478394: Tournament #3818951459, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/01 21:26:32 CET [2024/11/01 16:26:32 ET]
+Table '3818951459 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (1010 in chips) 
+Seat 3: Impetigo_666 (490 in chips) 
+Impetigo_666: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8s Ah]
+Impetigo_666: calls 10
+Mahu2021: checks 
+*** FLOP *** [9d Js 9s]
+Mahu2021: checks 
+Impetigo_666: bets 20
+Mahu2021: calls 20
+*** TURN *** [9d Js 9s] [5h]
+Mahu2021: checks 
+Impetigo_666: checks 
+*** RIVER *** [9d Js 9s 5h] [2d]
+Mahu2021: bets 40
+Impetigo_666: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [9d Js 9s 5h 2d]
+Seat 2: Mahu2021 (big blind) collected (80)
+Seat 3: Impetigo_666 (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #253206484243: Tournament #3818951459, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/01 21:26:51 CET [2024/11/01 16:26:51 ET]
+Table '3818951459 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (1050 in chips) 
+Seat 3: Impetigo_666 (450 in chips) 
+Mahu2021: posts small blind 15
+Impetigo_666: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc 6d]
+Mahu2021: raises 30 to 60
+Impetigo_666: calls 30
+*** FLOP *** [5s Ts 3c]
+Impetigo_666: checks 
+Mahu2021: checks 
+*** TURN *** [5s Ts 3c] [As]
+Impetigo_666: checks 
+Mahu2021: bets 60
+Impetigo_666: calls 60
+*** RIVER *** [5s Ts 3c As] [Ad]
+Impetigo_666: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+Impetigo_666: shows [Th 9s] (two pair, Aces and Tens)
+Mahu2021: mucks hand 
+Impetigo_666 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [5s Ts 3c As Ad]
+Seat 2: Mahu2021 (button) (small blind) mucked [Jc 6d]
+Seat 3: Impetigo_666 (big blind) showed [Th 9s] and won (240) with two pair, Aces and Tens
+
+
+
+PokerStars Hand #253206490194: Tournament #3818951459, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/01 21:27:11 CET [2024/11/01 16:27:11 ET]
+Table '3818951459 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (930 in chips) 
+Seat 3: Impetigo_666 (570 in chips) 
+Impetigo_666: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d Kc]
+Impetigo_666: calls 15
+Mahu2021: checks 
+*** FLOP *** [5h Qd Kh]
+Mahu2021: checks 
+Impetigo_666: bets 30
+Mahu2021: calls 30
+*** TURN *** [5h Qd Kh] [8h]
+Mahu2021: checks 
+Impetigo_666: bets 90
+Mahu2021: raises 90 to 180
+Impetigo_666: calls 90
+*** RIVER *** [5h Qd Kh 8h] [7d]
+Mahu2021: bets 480
+Impetigo_666: calls 330 and is all-in
+Uncalled bet (150) returned to Mahu2021
+*** SHOW DOWN ***
+Mahu2021: shows [5d Kc] (two pair, Kings and Fives)
+Impetigo_666: shows [3h 9h] (a flush, King high)
+Impetigo_666 collected 1140 from pot
+*** SUMMARY ***
+Total pot 1140 | Rake 0 
+Board [5h Qd Kh 8h 7d]
+Seat 2: Mahu2021 (big blind) showed [5d Kc] and lost with two pair, Kings and Fives
+Seat 3: Impetigo_666 (button) (small blind) showed [3h 9h] and won (1140) with a flush, King high
+
+
+
+PokerStars Hand #253206497392: Tournament #3818951459, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/01 21:27:35 CET [2024/11/01 16:27:35 ET]
+Table '3818951459 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (360 in chips) 
+Seat 3: Impetigo_666 (1140 in chips) 
+Mahu2021: posts small blind 15
+Impetigo_666: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d 9s]
+Mahu2021: folds 
+Uncalled bet (15) returned to Impetigo_666
+Impetigo_666 collected 30 from pot
+Impetigo_666: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: Impetigo_666 (big blind) collected (30)
+
+
+
+PokerStars Hand #253206498762: Tournament #3818951459, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/01 21:27:40 CET [2024/11/01 16:27:40 ET]
+Table '3818951459 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (345 in chips) 
+Seat 3: Impetigo_666 (1155 in chips) 
+Impetigo_666: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d Qd]
+Impetigo_666: calls 15
+Mahu2021: checks 
+*** FLOP *** [4c Kd 7h]
+Mahu2021: checks 
+Impetigo_666: bets 30
+Mahu2021: calls 30
+*** TURN *** [4c Kd 7h] [2c]
+Mahu2021: checks 
+Impetigo_666: bets 30
+Mahu2021: calls 30
+*** RIVER *** [4c Kd 7h 2c] [Ac]
+Mahu2021: checks 
+Impetigo_666: bets 30
+Mahu2021: calls 30
+*** SHOW DOWN ***
+Impetigo_666: shows [7s 6s] (a pair of Sevens)
+Mahu2021: shows [7d Qd] (a pair of Sevens - Ace+King+Queen kicker)
+Mahu2021 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [4c Kd 7h 2c Ac]
+Seat 2: Mahu2021 (big blind) showed [7d Qd] and won (240) with a pair of Sevens
+Seat 3: Impetigo_666 (button) (small blind) showed [7s 6s] and lost with a pair of Sevens
+
+
+
+PokerStars Hand #253206505023: Tournament #3818951459, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/01 21:28:01 CET [2024/11/01 16:28:01 ET]
+Table '3818951459 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (465 in chips) 
+Seat 3: Impetigo_666 (1035 in chips) 
+Mahu2021: posts small blind 15
+Impetigo_666: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s 7s]
+Mahu2021: raises 30 to 60
+Impetigo_666: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) collected (60)
+Seat 3: Impetigo_666 (big blind) folded before Flop
+
+
+
+PokerStars Hand #253206506878: Tournament #3818951459, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/01 21:28:07 CET [2024/11/01 16:28:07 ET]
+Table '3818951459 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (495 in chips) 
+Seat 3: Impetigo_666 (1005 in chips) 
+Impetigo_666: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6h 3s]
+Impetigo_666: calls 15
+Mahu2021: checks 
+*** FLOP *** [Th 2d 8h]
+Mahu2021: checks 
+Impetigo_666: checks 
+*** TURN *** [Th 2d 8h] [2s]
+Mahu2021: checks 
+Impetigo_666: bets 90
+Mahu2021: folds 
+Uncalled bet (90) returned to Impetigo_666
+Impetigo_666 collected 60 from pot
+Impetigo_666: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Th 2d 8h 2s]
+Seat 2: Mahu2021 (big blind) folded on the Turn
+Seat 3: Impetigo_666 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #253206512083: Tournament #3818951459, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/01 21:28:25 CET [2024/11/01 16:28:25 ET]
+Table '3818951459 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (465 in chips) 
+Seat 3: Impetigo_666 (1035 in chips) 
+Mahu2021: posts small blind 15
+Impetigo_666: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c 9c]
+Mahu2021: raises 30 to 60
+Impetigo_666: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) collected (60)
+Seat 3: Impetigo_666 (big blind) folded before Flop
+
+
+
+PokerStars Hand #253206514004: Tournament #3818951459, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/01 21:28:31 CET [2024/11/01 16:28:31 ET]
+Table '3818951459 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (495 in chips) 
+Seat 3: Impetigo_666 (1005 in chips) 
+Impetigo_666: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8d 4d]
+Impetigo_666: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 2: Mahu2021 (big blind) collected (30)
+Seat 3: Impetigo_666 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #253206515413: Tournament #3818951459, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/01 21:28:36 CET [2024/11/01 16:28:36 ET]
+Table '3818951459 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (510 in chips) 
+Seat 3: Impetigo_666 (990 in chips) 
+Mahu2021: posts small blind 15
+Impetigo_666: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d Js]
+Mahu2021: calls 15
+Impetigo_666: raises 960 to 990 and is all-in
+Mahu2021: folds 
+Uncalled bet (960) returned to Impetigo_666
+Impetigo_666 collected 60 from pot
+Impetigo_666: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: Impetigo_666 (big blind) collected (60)
+
+
+
+PokerStars Hand #253206517356: Tournament #3818951459, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/01 21:28:42 CET [2024/11/01 16:28:42 ET]
+Table '3818951459 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (480 in chips) 
+Seat 3: Impetigo_666 (1020 in chips) 
+Impetigo_666: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c 7d]
+Impetigo_666: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 2: Mahu2021 (big blind) collected (30)
+Seat 3: Impetigo_666 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #253206518773: Tournament #3818951459, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/01 21:28:47 CET [2024/11/01 16:28:47 ET]
+Table '3818951459 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (495 in chips) 
+Seat 3: Impetigo_666 (1005 in chips) 
+Mahu2021: posts small blind 15
+Impetigo_666: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kc 6h]
+Mahu2021: raises 30 to 60
+Impetigo_666: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) collected (60)
+Seat 3: Impetigo_666 (big blind) folded before Flop
+
+
+
+PokerStars Hand #253206521293: Tournament #3818951459, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/01 21:28:56 CET [2024/11/01 16:28:56 ET]
+Table '3818951459 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (525 in chips) 
+Seat 3: Impetigo_666 (975 in chips) 
+Impetigo_666: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2s Js]
+Impetigo_666: raises 40 to 80
+Mahu2021: calls 40
+*** FLOP *** [8s 8c Qh]
+Mahu2021: checks 
+Impetigo_666: bets 52
+Mahu2021: folds 
+Uncalled bet (52) returned to Impetigo_666
+Impetigo_666 collected 160 from pot
+Impetigo_666: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [8s 8c Qh]
+Seat 2: Mahu2021 (big blind) folded on the Flop
+Seat 3: Impetigo_666 (button) (small blind) collected (160)
+
+
+
+PokerStars Hand #253206524644: Tournament #3818951459, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/01 21:29:07 CET [2024/11/01 16:29:07 ET]
+Table '3818951459 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (445 in chips) 
+Seat 3: Impetigo_666 (1055 in chips) 
+Mahu2021: posts small blind 20
+Impetigo_666: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc 3c]
+Mahu2021: raises 40 to 80
+Impetigo_666: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) collected (80)
+Seat 3: Impetigo_666 (big blind) folded before Flop
+
+
+
+PokerStars Hand #253206526466: Tournament #3818951459, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/01 21:29:13 CET [2024/11/01 16:29:13 ET]
+Table '3818951459 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (485 in chips) 
+Seat 3: Impetigo_666 (1015 in chips) 
+Impetigo_666: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5h 6s]
+Impetigo_666: calls 20
+Mahu2021: checks 
+*** FLOP *** [Qh Ts 8d]
+Mahu2021: checks 
+Impetigo_666: bets 44
+Mahu2021: folds 
+Uncalled bet (44) returned to Impetigo_666
+Impetigo_666 collected 80 from pot
+Impetigo_666: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Qh Ts 8d]
+Seat 2: Mahu2021 (big blind) folded on the Flop
+Seat 3: Impetigo_666 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #253206529794: Tournament #3818951459, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/01 21:29:24 CET [2024/11/01 16:29:24 ET]
+Table '3818951459 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (445 in chips) 
+Seat 3: Impetigo_666 (1055 in chips) 
+Mahu2021: posts small blind 20
+Impetigo_666: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad 6d]
+Mahu2021: raises 40 to 80
+Impetigo_666: calls 40
+*** FLOP *** [3s Jc 2d]
+Impetigo_666: checks 
+Mahu2021: checks 
+*** TURN *** [3s Jc 2d] [9s]
+Impetigo_666: bets 120
+Mahu2021: folds 
+Uncalled bet (120) returned to Impetigo_666
+Impetigo_666 collected 160 from pot
+Impetigo_666: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [3s Jc 2d 9s]
+Seat 2: Mahu2021 (button) (small blind) folded on the Turn
+Seat 3: Impetigo_666 (big blind) collected (160)
+
+
+
+PokerStars Hand #253206535368: Tournament #3818951459, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/01 21:29:43 CET [2024/11/01 16:29:43 ET]
+Table '3818951459 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (365 in chips) 
+Seat 3: Impetigo_666 (1135 in chips) 
+Impetigo_666: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s Ts]
+Impetigo_666: raises 1095 to 1135 and is all-in
+Mahu2021: folds 
+Uncalled bet (1095) returned to Impetigo_666
+Impetigo_666 collected 80 from pot
+Impetigo_666: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: Impetigo_666 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #253206536949: Tournament #3818951459, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/01 21:29:48 CET [2024/11/01 16:29:48 ET]
+Table '3818951459 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (325 in chips) 
+Seat 3: Impetigo_666 (1175 in chips) 
+Mahu2021: posts small blind 20
+Impetigo_666: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts 5s]
+Mahu2021: calls 20
+Impetigo_666: raises 1135 to 1175 and is all-in
+Mahu2021: folds 
+Uncalled bet (1135) returned to Impetigo_666
+Impetigo_666 collected 80 from pot
+Impetigo_666: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: Impetigo_666 (big blind) collected (80)
+
+
+
+PokerStars Hand #253206538871: Tournament #3818951459, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/01 21:29:54 CET [2024/11/01 16:29:54 ET]
+Table '3818951459 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (285 in chips) 
+Seat 3: Impetigo_666 (1215 in chips) 
+Impetigo_666: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h Qs]
+Impetigo_666: raises 1175 to 1215 and is all-in
+Mahu2021: folds 
+Uncalled bet (1175) returned to Impetigo_666
+Impetigo_666 collected 80 from pot
+Impetigo_666: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: Impetigo_666 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #253206540845: Tournament #3818951459, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/01 21:30:01 CET [2024/11/01 16:30:01 ET]
+Table '3818951459 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (245 in chips) 
+Seat 3: Impetigo_666 (1255 in chips) 
+Mahu2021: posts small blind 20
+Impetigo_666: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s 6h]
+Mahu2021: calls 20
+Impetigo_666: raises 1215 to 1255 and is all-in
+Mahu2021: calls 205 and is all-in
+Uncalled bet (1010) returned to Impetigo_666
+*** FLOP *** [Kd Td 2h]
+*** TURN *** [Kd Td 2h] [Qh]
+*** RIVER *** [Kd Td 2h Qh] [8d]
+*** SHOW DOWN ***
+Impetigo_666: shows [Ac 4d] (high card Ace)
+Mahu2021: shows [6s 6h] (a pair of Sixes)
+Mahu2021 collected 490 from pot
+*** SUMMARY ***
+Total pot 490 | Rake 0 
+Board [Kd Td 2h Qh 8d]
+Seat 2: Mahu2021 (button) (small blind) showed [6s 6h] and won (490) with a pair of Sixes
+Seat 3: Impetigo_666 (big blind) showed [Ac 4d] and lost with high card Ace
+
+
+
+PokerStars Hand #253206544874: Tournament #3818951459, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/01 21:30:14 CET [2024/11/01 16:30:14 ET]
+Table '3818951459 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (490 in chips) 
+Seat 3: Impetigo_666 (1010 in chips) 
+Impetigo_666: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Tc 2h]
+Impetigo_666: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: Mahu2021 (big blind) collected (40)
+Seat 3: Impetigo_666 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #253206546437: Tournament #3818951459, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/01 21:30:20 CET [2024/11/01 16:30:20 ET]
+Table '3818951459 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (510 in chips) 
+Seat 3: Impetigo_666 (990 in chips) 
+Mahu2021: posts small blind 20
+Impetigo_666: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qd 2d]
+Mahu2021: raises 40 to 80
+Impetigo_666: raises 910 to 990 and is all-in
+Mahu2021: folds 
+Uncalled bet (910) returned to Impetigo_666
+Impetigo_666 collected 160 from pot
+Impetigo_666: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: Impetigo_666 (big blind) collected (160)
+
+
+
+PokerStars Hand #253206548914: Tournament #3818951459, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/01 21:30:28 CET [2024/11/01 16:30:28 ET]
+Table '3818951459 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (430 in chips) 
+Seat 3: Impetigo_666 (1070 in chips) 
+Impetigo_666: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd 2h]
+Impetigo_666: calls 20
+Mahu2021: raises 390 to 430 and is all-in
+Impetigo_666: folds 
+Uncalled bet (390) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: Mahu2021 (big blind) collected (80)
+Seat 3: Impetigo_666 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #253206551107: Tournament #3818951459, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/01 21:30:35 CET [2024/11/01 16:30:35 ET]
+Table '3818951459 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (470 in chips) 
+Seat 3: Impetigo_666 (1030 in chips) 
+Mahu2021: posts small blind 20
+Impetigo_666: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qd 6c]
+Mahu2021: calls 20
+Impetigo_666: checks 
+*** FLOP *** [7d Jc 2h]
+Impetigo_666: checks 
+Mahu2021: bets 40
+Impetigo_666: calls 40
+*** TURN *** [7d Jc 2h] [8c]
+Impetigo_666: checks 
+Mahu2021: checks 
+*** RIVER *** [7d Jc 2h 8c] [5c]
+Impetigo_666: bets 160
+Mahu2021: folds 
+Uncalled bet (160) returned to Impetigo_666
+Impetigo_666 collected 160 from pot
+Impetigo_666: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [7d Jc 2h 8c 5c]
+Seat 2: Mahu2021 (button) (small blind) folded on the River
+Seat 3: Impetigo_666 (big blind) collected (160)
+
+
+
+PokerStars Hand #253206556703: Tournament #3818951459, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/11/01 21:30:54 CET [2024/11/01 16:30:54 ET]
+Table '3818951459 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (390 in chips) 
+Seat 3: Impetigo_666 (1110 in chips) 
+Impetigo_666: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c Ah]
+Impetigo_666: raises 1050 to 1110 and is all-in
+Mahu2021: calls 330 and is all-in
+Uncalled bet (720) returned to Impetigo_666
+*** FLOP *** [Kd 4s 5h]
+*** TURN *** [Kd 4s 5h] [3d]
+*** RIVER *** [Kd 4s 5h 3d] [2c]
+*** SHOW DOWN ***
+Mahu2021: shows [6c Ah] (a straight, Deuce to Six)
+Impetigo_666: shows [7h Ac] (a straight, Ace to Five)
+Mahu2021 collected 780 from pot
+*** SUMMARY ***
+Total pot 780 | Rake 0 
+Board [Kd 4s 5h 3d 2c]
+Seat 2: Mahu2021 (big blind) showed [6c Ah] and won (780) with a straight, Deuce to Six
+Seat 3: Impetigo_666 (button) (small blind) showed [7h Ac] and lost with a straight, Ace to Five
+
+
+
+PokerStars Hand #253206560133: Tournament #3818951459, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/11/01 21:31:06 CET [2024/11/01 16:31:06 ET]
+Table '3818951459 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (780 in chips) 
+Seat 3: Impetigo_666 (720 in chips) 
+Mahu2021: posts small blind 30
+Impetigo_666: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d Ts]
+Mahu2021: calls 30
+Impetigo_666: checks 
+*** FLOP *** [Kc Kh Th]
+Impetigo_666: checks 
+Mahu2021: bets 60
+Impetigo_666: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Kc Kh Th]
+Seat 2: Mahu2021 (button) (small blind) collected (120)
+Seat 3: Impetigo_666 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #253206564556: Tournament #3818951459, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/11/01 21:31:20 CET [2024/11/01 16:31:20 ET]
+Table '3818951459 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (840 in chips) 
+Seat 3: Impetigo_666 (660 in chips) 
+Impetigo_666: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h Th]
+Impetigo_666: raises 600 to 660 and is all-in
+Mahu2021: folds 
+Uncalled bet (600) returned to Impetigo_666
+Impetigo_666 collected 120 from pot
+Impetigo_666: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: Impetigo_666 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #253206566345: Tournament #3818951459, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/11/01 21:31:26 CET [2024/11/01 16:31:26 ET]
+Table '3818951459 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (780 in chips) 
+Seat 3: Impetigo_666 (720 in chips) 
+Mahu2021: posts small blind 30
+Impetigo_666: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kc Jc]
+Mahu2021: raises 60 to 120
+Impetigo_666: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) collected (120)
+Seat 3: Impetigo_666 (big blind) folded before Flop
+
+
+
+PokerStars Hand #253206568203: Tournament #3818951459, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/11/01 21:31:33 CET [2024/11/01 16:31:33 ET]
+Table '3818951459 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (840 in chips) 
+Seat 3: Impetigo_666 (660 in chips) 
+Impetigo_666: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c 7s]
+Impetigo_666: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: Mahu2021 (big blind) collected (60)
+Seat 3: Impetigo_666 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #253206569339: Tournament #3818951459, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/11/01 21:31:36 CET [2024/11/01 16:31:36 ET]
+Table '3818951459 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (870 in chips) 
+Seat 3: Impetigo_666 (630 in chips) 
+Mahu2021: posts small blind 30
+Impetigo_666: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h 6c]
+Mahu2021: folds 
+Uncalled bet (30) returned to Impetigo_666
+Impetigo_666 collected 60 from pot
+Impetigo_666: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: Impetigo_666 (big blind) collected (60)
+
+
+
+PokerStars Hand #253206570672: Tournament #3818951459, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/11/01 21:31:41 CET [2024/11/01 16:31:41 ET]
+Table '3818951459 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (840 in chips) 
+Seat 3: Impetigo_666 (660 in chips) 
+Impetigo_666: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d 4s]
+Impetigo_666: calls 30
+Mahu2021: checks 
+*** FLOP *** [Ts Kc 4h]
+Mahu2021: checks 
+Impetigo_666: bets 60
+Mahu2021: calls 60
+*** TURN *** [Ts Kc 4h] [2s]
+Mahu2021: checks 
+Impetigo_666: bets 120
+Mahu2021: raises 600 to 720 and is all-in
+Impetigo_666: calls 420 and is all-in
+Uncalled bet (180) returned to Mahu2021
+*** RIVER *** [Ts Kc 4h 2s] [8s]
+*** SHOW DOWN ***
+Mahu2021: shows [2d 4s] (two pair, Fours and Deuces)
+Impetigo_666: shows [Ah Kh] (a pair of Kings)
+Mahu2021 collected 1320 from pot
+Impetigo_666 finished the tournament in 2nd place
+Mahu2021 wins the tournament and receives $4.00 - congratulations!
+*** SUMMARY ***
+Total pot 1320 | Rake 0 
+Board [Ts Kc 4h 2s 8s]
+Seat 2: Mahu2021 (big blind) showed [2d 4s] and won (1320) with two pair, Fours and Deuces
+Seat 3: Impetigo_666 (button) (small blind) showed [Ah Kh] and lost with a pair of Kings
+
+
+

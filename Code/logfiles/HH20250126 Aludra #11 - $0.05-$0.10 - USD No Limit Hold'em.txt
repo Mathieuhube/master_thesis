@@ -1,0 +1,827 @@
+﻿PokerStars Zoom Hand #254567486795:  Hold'em No Limit ($0.05/$0.10) - 2025/01/26 20:41:11 CET [2025/01/26 14:41:11 ET]
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: Jean-paul905 ($21.04 in chips) 
+Seat 2: kox44x ($44.50 in chips) 
+Seat 3: Mahu2021 ($10 in chips) 
+Seat 4: bebasket066 ($15.08 in chips) 
+Seat 5: Emilu95 ($20.73 in chips) 
+Seat 6: MrFibstar ($25.87 in chips) 
+kox44x: posts small blind $0.05
+Mahu2021: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d Js]
+bebasket066: folds 
+Emilu95: folds 
+MrFibstar: folds 
+Jean-paul905: folds 
+kox44x: folds 
+Uncalled bet ($0.05) returned to Mahu2021
+Mahu2021 collected $0.10 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Jean-paul905 (button) folded before Flop (didn't bet)
+Seat 2: kox44x (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected ($0.10)
+Seat 4: bebasket066 folded before Flop (didn't bet)
+Seat 5: Emilu95 folded before Flop (didn't bet)
+Seat 6: MrFibstar folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #254567493203:  Hold'em No Limit ($0.05/$0.10) - 2025/01/26 20:41:28 CET [2025/01/26 14:41:28 ET]
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: Sognimodstar ($10.06 in chips) 
+Seat 2: Mahu2021 ($10.05 in chips) 
+Seat 3: jksgoodgz ($10.01 in chips) 
+Seat 4: bebasket066 ($7.08 in chips) 
+Seat 5: homiesaces85 ($10.83 in chips) 
+Seat 6: kuif99 ($9.61 in chips) 
+Mahu2021: posts small blind $0.05
+jksgoodgz: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c Kc]
+Sognimodstar is disconnected 
+bebasket066: folds 
+homiesaces85: raises $0.10 to $0.20
+kuif99: folds 
+Sognimodstar has timed out while disconnected
+Sognimodstar: folds 
+Mahu2021: calls $0.15
+jksgoodgz: calls $0.10
+*** FLOP *** [6c 4h 5d]
+Mahu2021: checks 
+jksgoodgz: checks 
+homiesaces85: checks 
+*** TURN *** [6c 4h 5d] [9h]
+Mahu2021: bets $0.20
+jksgoodgz: folds 
+homiesaces85: calls $0.20
+*** RIVER *** [6c 4h 5d 9h] [Ac]
+Mahu2021: checks 
+homiesaces85: bets $0.29
+Mahu2021: raises $0.71 to $1
+homiesaces85: calls $0.71
+*** SHOW DOWN ***
+Mahu2021: shows [9c Kc] (a pair of Nines)
+homiesaces85: shows [8s As] (a pair of Aces)
+homiesaces85 collected $2.82 from pot
+*** SUMMARY ***
+Total pot $3 | Rake $0.18 
+Board [6c 4h 5d 9h Ac]
+Seat 1: Sognimodstar (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) showed [9c Kc] and lost with a pair of Nines
+Seat 3: jksgoodgz (big blind) folded on the Turn
+Seat 4: bebasket066 folded before Flop (didn't bet)
+Seat 5: homiesaces85 showed [8s As] and won ($2.82) with a pair of Aces
+Seat 6: kuif99 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #254567524110:  Hold'em No Limit ($0.05/$0.10) - 2025/01/26 20:42:51 CET [2025/01/26 14:42:51 ET]
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: Mahu2021 ($8.65 in chips) 
+Seat 2: QKJope ($9.85 in chips) 
+Seat 3: Maxim_Otto13 ($18.28 in chips) 
+Seat 4: vovo4kapooh ($16.56 in chips) 
+Seat 5: bojimat ($12.46 in chips) 
+Seat 6: karenmg90 ($10.20 in chips) 
+QKJope: posts small blind $0.05
+Maxim_Otto13: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh Qh]
+vovo4kapooh: raises $0.15 to $0.25
+bojimat: folds 
+karenmg90: folds 
+Mahu2021: calls $0.25
+QKJope: folds 
+Maxim_Otto13: folds 
+*** FLOP *** [9d Qd 6h]
+vovo4kapooh: checks 
+Mahu2021: bets $0.30
+vovo4kapooh: calls $0.30
+*** TURN *** [9d Qd 6h] [Ts]
+vovo4kapooh: checks 
+Mahu2021: bets $1.19
+vovo4kapooh: folds 
+Uncalled bet ($1.19) returned to Mahu2021
+Mahu2021 collected $1.19 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.06 
+Board [9d Qd 6h Ts]
+Seat 1: Mahu2021 (button) collected ($1.19)
+Seat 2: QKJope (small blind) folded before Flop
+Seat 3: Maxim_Otto13 (big blind) folded before Flop
+Seat 4: vovo4kapooh folded on the Turn
+Seat 5: bojimat folded before Flop (didn't bet)
+Seat 6: karenmg90 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #254567535830:  Hold'em No Limit ($0.05/$0.10) - 2025/01/26 20:43:23 CET [2025/01/26 14:43:23 ET]
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: hello2123 ($14.02 in chips) 
+Seat 2: Sognimodstar ($5.08 in chips) 
+Seat 3: honEybOOx ($18.98 in chips) 
+Seat 4: Jezterscap ($13.36 in chips) 
+Seat 5: Mahu2021 ($9.29 in chips) 
+Seat 6: wheresdaluck ($12.79 in chips) 
+Sognimodstar: posts small blind $0.05
+honEybOOx: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4c Td]
+Jezterscap: folds 
+Mahu2021: folds 
+wheresdaluck: folds 
+hello2123: folds 
+Sognimodstar: folds 
+Uncalled bet ($0.05) returned to honEybOOx
+honEybOOx collected $0.10 from pot
+honEybOOx: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: hello2123 (button) folded before Flop (didn't bet)
+Seat 2: Sognimodstar (small blind) folded before Flop
+Seat 3: honEybOOx (big blind) collected ($0.10)
+Seat 4: Jezterscap folded before Flop (didn't bet)
+Seat 5: Mahu2021 folded before Flop (didn't bet)
+Seat 6: wheresdaluck folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #254567537346:  Hold'em No Limit ($0.05/$0.10) - 2025/01/26 20:43:27 CET [2025/01/26 14:43:27 ET]
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: jksgoodgz ($16.97 in chips) 
+Seat 2: kox44x ($16.70 in chips) 
+Seat 3: ProjectPokerPro ($15.82 in chips) 
+Seat 4: offodds ($10 in chips) 
+Seat 5: assuncaogu ($11.07 in chips) 
+Seat 6: Mahu2021 ($9.29 in chips) 
+kox44x: posts small blind $0.05
+ProjectPokerPro: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2s Js]
+offodds: folds 
+assuncaogu: folds 
+Mahu2021: folds 
+jksgoodgz: raises $0.15 to $0.25
+kox44x: folds 
+ProjectPokerPro: folds 
+Uncalled bet ($0.15) returned to jksgoodgz
+jksgoodgz collected $0.25 from pot
+jksgoodgz: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: jksgoodgz (button) collected ($0.25)
+Seat 2: kox44x (small blind) folded before Flop
+Seat 3: ProjectPokerPro (big blind) folded before Flop
+Seat 4: offodds folded before Flop (didn't bet)
+Seat 5: assuncaogu folded before Flop (didn't bet)
+Seat 6: Mahu2021 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #254567541380:  Hold'em No Limit ($0.05/$0.10) - 2025/01/26 20:43:38 CET [2025/01/26 14:43:38 ET]
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: mOberdan ($10.34 in chips) 
+Seat 2: VoltaireReplica ($13.10 in chips) 
+Seat 3: Mahu2021 ($9.29 in chips) 
+Seat 4: Sognimodstar ($5.03 in chips) 
+Seat 5: wdb124036 ($7.98 in chips) 
+Seat 6: putzkedudu ($14.46 in chips) 
+VoltaireReplica: posts small blind $0.05
+Mahu2021: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s Ts]
+Sognimodstar: folds 
+wdb124036: raises $0.10 to $0.20
+putzkedudu: folds 
+mOberdan: folds 
+VoltaireReplica: folds 
+Mahu2021: calls $0.10
+*** FLOP *** [Qs 2c Qc]
+Mahu2021: checks 
+wdb124036: checks 
+*** TURN *** [Qs 2c Qc] [4c]
+Mahu2021: checks 
+wdb124036: bets $0.22
+Mahu2021: folds 
+Uncalled bet ($0.22) returned to wdb124036
+wdb124036 collected $0.43 from pot
+wdb124036: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [Qs 2c Qc 4c]
+Seat 1: mOberdan (button) folded before Flop (didn't bet)
+Seat 2: VoltaireReplica (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) folded on the Turn
+Seat 4: Sognimodstar folded before Flop (didn't bet)
+Seat 5: wdb124036 collected ($0.43)
+Seat 6: putzkedudu folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #254567551559:  Hold'em No Limit ($0.05/$0.10) - 2025/01/26 20:44:06 CET [2025/01/26 14:44:06 ET]
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: Mahu2021 ($9.09 in chips) 
+Seat 2: Sognimodstar ($5.08 in chips) 
+Seat 3: WhiteMike905 ($8.73 in chips) 
+Seat 4: Allvisa ($14.26 in chips) 
+Seat 5: nikcat7 ($12.53 in chips) 
+Seat 6: mrfreaky1989 ($10.15 in chips) 
+Sognimodstar: posts small blind $0.05
+WhiteMike905: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc Qc]
+Allvisa: folds 
+nikcat7: folds 
+mrfreaky1989: folds 
+Mahu2021: raises $0.20 to $0.30
+Sognimodstar: calls $0.25
+WhiteMike905: folds 
+*** FLOP *** [3h 8h Js]
+Sognimodstar: checks 
+Mahu2021: bets $0.30
+Sognimodstar: folds 
+Uncalled bet ($0.30) returned to Mahu2021
+Mahu2021 collected $0.67 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.70 | Rake $0.03 
+Board [3h 8h Js]
+Seat 1: Mahu2021 (button) collected ($0.67)
+Seat 2: Sognimodstar (small blind) folded on the Flop
+Seat 3: WhiteMike905 (big blind) folded before Flop
+Seat 4: Allvisa folded before Flop (didn't bet)
+Seat 5: nikcat7 folded before Flop (didn't bet)
+Seat 6: mrfreaky1989 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #254567561284:  Hold'em No Limit ($0.05/$0.10) - 2025/01/26 20:44:32 CET [2025/01/26 14:44:32 ET]
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: lokomotywa80 ($10 in chips) 
+Seat 2: Mahu2021 ($9.46 in chips) 
+Seat 3: mrfreaky1989 ($10 in chips) 
+Seat 4: khrisanfov ($11.10 in chips) 
+Seat 5: WideMonkaW ($20 in chips) 
+Seat 6: YourDonKay ($23.18 in chips) 
+Mahu2021: posts small blind $0.05
+mrfreaky1989: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kc 3h]
+khrisanfov: folds 
+WideMonkaW: folds 
+YourDonKay: folds 
+lokomotywa80: folds 
+Mahu2021: folds 
+Uncalled bet ($0.05) returned to mrfreaky1989
+mrfreaky1989 collected $0.10 from pot
+mrfreaky1989: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: lokomotywa80 (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: mrfreaky1989 (big blind) collected ($0.10)
+Seat 4: khrisanfov folded before Flop (didn't bet)
+Seat 5: WideMonkaW folded before Flop (didn't bet)
+Seat 6: YourDonKay folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #254567562852:  Hold'em No Limit ($0.05/$0.10) - 2025/01/26 20:44:36 CET [2025/01/26 14:44:36 ET]
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: szabarna ($10.80 in chips) 
+Seat 2: Don Patato's ($10 in chips) 
+Seat 3: Allvisa ($14.36 in chips) 
+Seat 4: ProjectPokerPro ($17.33 in chips) 
+Seat 5: Mahu2021 ($9.41 in chips) 
+Seat 6: assuncaogu ($11.23 in chips) 
+Don Patato's: posts small blind $0.05
+Allvisa: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8d Th]
+ProjectPokerPro: raises $0.10 to $0.20
+Mahu2021: folds 
+assuncaogu: raises $0.50 to $0.70
+szabarna: folds 
+Don Patato's: folds 
+Allvisa: folds 
+ProjectPokerPro: folds 
+Uncalled bet ($0.50) returned to assuncaogu
+assuncaogu collected $0.55 from pot
+assuncaogu: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.55 | Rake $0 
+Seat 1: szabarna (button) folded before Flop (didn't bet)
+Seat 2: Don Patato's (small blind) folded before Flop
+Seat 3: Allvisa (big blind) folded before Flop
+Seat 4: ProjectPokerPro folded before Flop
+Seat 5: Mahu2021 folded before Flop (didn't bet)
+Seat 6: assuncaogu collected ($0.55)
+
+
+
+PokerStars Zoom Hand #254567564463:  Hold'em No Limit ($0.05/$0.10) - 2025/01/26 20:44:40 CET [2025/01/26 14:44:40 ET]
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: nikcat7 ($10.12 in chips) 
+Seat 2: am4z!ng ($12 in chips) 
+Seat 3: szabarna ($10.80 in chips) 
+Seat 4: mrfreaky1989 ($10.15 in chips) 
+Seat 5: ji6413 ($10.20 in chips) 
+Seat 6: Mahu2021 ($9.41 in chips) 
+am4z!ng: posts small blind $0.05
+szabarna: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As Kc]
+mrfreaky1989: raises $0.12 to $0.22
+ji6413: folds 
+Mahu2021: raises $0.58 to $0.80
+nikcat7: folds 
+am4z!ng: folds 
+szabarna: folds 
+mrfreaky1989: calls $0.58
+*** FLOP *** [6h Js Kh]
+mrfreaky1989: checks 
+Mahu2021: bets $1.67
+mrfreaky1989: folds 
+Uncalled bet ($1.67) returned to Mahu2021
+Mahu2021 collected $1.67 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.75 | Rake $0.08 
+Board [6h Js Kh]
+Seat 1: nikcat7 (button) folded before Flop (didn't bet)
+Seat 2: am4z!ng (small blind) folded before Flop
+Seat 3: szabarna (big blind) folded before Flop
+Seat 4: mrfreaky1989 folded on the Flop
+Seat 5: ji6413 folded before Flop (didn't bet)
+Seat 6: Mahu2021 collected ($1.67)
+
+
+
+PokerStars Zoom Hand #254567559924:  Hold'em No Limit ($0.05/$0.10) - 2025/01/26 20:44:28 CET [2025/01/26 14:44:28 ET]
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: khrisanfov ($11.10 in chips) 
+Seat 2: bortoluzzo01 ($14.64 in chips) 
+Seat 3: PampaSeba ($1.53 in chips) 
+Seat 4: Mahu2021 ($9.46 in chips) 
+Seat 5: ppapandppap ($10.57 in chips) 
+Seat 6: WideMonkaW ($20 in chips) 
+bortoluzzo01: posts small blind $0.05
+PampaSeba: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d 8s]
+Mahu2021: folds 
+ppapandppap: folds 
+WideMonkaW: folds 
+khrisanfov: folds 
+bortoluzzo01: calls $0.05
+PampaSeba: raises $1.43 to $1.53 and is all-in
+bortoluzzo01: calls $1.43
+*** FLOP *** [8h 4s Jc]
+*** TURN *** [8h 4s Jc] [Ad]
+*** RIVER *** [8h 4s Jc Ad] [Ts]
+*** SHOW DOWN ***
+bortoluzzo01: shows [Tc Jh] (two pair, Jacks and Tens)
+PampaSeba: shows [As 6c] (a pair of Aces)
+bortoluzzo01 collected $2.92 from pot
+*** SUMMARY ***
+Total pot $3.06 | Rake $0.14 
+Board [8h 4s Jc Ad Ts]
+Seat 1: khrisanfov (button) folded before Flop (didn't bet)
+Seat 2: bortoluzzo01 (small blind) showed [Tc Jh] and won ($2.92) with two pair, Jacks and Tens
+Seat 3: PampaSeba (big blind) showed [As 6c] and lost with a pair of Aces
+Seat 4: Mahu2021 folded before Flop (didn't bet)
+Seat 5: ppapandppap folded before Flop (didn't bet)
+Seat 6: WideMonkaW folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #254567578936:  Hold'em No Limit ($0.05/$0.10) - 2025/01/26 20:45:20 CET [2025/01/26 14:45:20 ET]
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: Maxim_Otto13 ($17.58 in chips) 
+Seat 2: baddyby ($22.38 in chips) 
+Seat 3: Mahu2021 ($10.28 in chips) 
+Seat 4: mOberdan ($11.74 in chips) 
+Seat 5: pericotete ($10.81 in chips) 
+Seat 6: kox44x ($12.78 in chips) 
+baddyby: posts small blind $0.05
+Mahu2021: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h 7c]
+mOberdan: raises $0.10 to $0.20
+pericotete: folds 
+kox44x: folds 
+Maxim_Otto13: folds 
+baddyby: folds 
+Mahu2021: folds 
+Uncalled bet ($0.10) returned to mOberdan
+mOberdan collected $0.25 from pot
+mOberdan: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Maxim_Otto13 (button) folded before Flop (didn't bet)
+Seat 2: baddyby (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) folded before Flop
+Seat 4: mOberdan collected ($0.25)
+Seat 5: pericotete folded before Flop (didn't bet)
+Seat 6: kox44x folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #254567574531:  Hold'em No Limit ($0.05/$0.10) - 2025/01/26 20:45:07 CET [2025/01/26 14:45:07 ET]
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: OeTen101 ($18.21 in chips) 
+Seat 2: ppapandppap ($14.18 in chips) 
+Seat 3: lichistoria ($19.08 in chips) 
+Seat 4: Mahu2021 ($10.28 in chips) 
+Seat 5: liebhabär ($19.51 in chips) 
+Seat 6: VêPeres ($10.58 in chips) 
+ppapandppap: posts small blind $0.05
+lichistoria: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Th 2s]
+Mahu2021: folds 
+liebhabär: folds 
+VêPeres: folds 
+OeTen101: raises $0.15 to $0.25
+ppapandppap: raises $0.75 to $1
+lichistoria: folds 
+OeTen101: calls $0.75
+*** FLOP *** [5h Ks 6h]
+ppapandppap: bets $0.80
+OeTen101: folds 
+Uncalled bet ($0.80) returned to ppapandppap
+ppapandppap collected $2.01 from pot
+ppapandppap: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.10 | Rake $0.09 
+Board [5h Ks 6h]
+Seat 1: OeTen101 (button) folded on the Flop
+Seat 2: ppapandppap (small blind) collected ($2.01)
+Seat 3: lichistoria (big blind) folded before Flop
+Seat 4: Mahu2021 folded before Flop (didn't bet)
+Seat 5: liebhabär folded before Flop (didn't bet)
+Seat 6: VêPeres folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #254567583408:  Hold'em No Limit ($0.05/$0.10) - 2025/01/26 20:45:31 CET [2025/01/26 14:45:31 ET]
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: Mahu2021 ($10.13 in chips) 
+Seat 2: kox44x ($12.78 in chips) 
+Seat 3: hello2123 ($13.87 in chips) 
+Seat 4: jksgoodgz ($19.04 in chips) 
+Seat 5: Oscar__62176 ($29.64 in chips) 
+Seat 6: Bbyoda79 ($10 in chips) 
+kox44x: posts small blind $0.05
+hello2123: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s 3d]
+jksgoodgz: folds 
+Oscar__62176: folds 
+Bbyoda79: folds 
+Mahu2021: folds 
+kox44x: folds 
+Uncalled bet ($0.05) returned to hello2123
+hello2123 collected $0.10 from pot
+hello2123: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: kox44x (small blind) folded before Flop
+Seat 3: hello2123 (big blind) collected ($0.10)
+Seat 4: jksgoodgz folded before Flop (didn't bet)
+Seat 5: Oscar__62176 folded before Flop (didn't bet)
+Seat 6: Bbyoda79 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #254567581910:  Hold'em No Limit ($0.05/$0.10) - 2025/01/26 20:45:27 CET [2025/01/26 14:45:27 ET]
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: VêPeres ($10.08 in chips) 
+Seat 2: Mahu2021 ($10.18 in chips) 
+Seat 3: PampaSeba ($4.77 in chips) 
+Seat 4: aegla ($8.69 in chips) 
+Seat 5: assuncaogu ($11.60 in chips) 
+Seat 6: Underbart424 ($9.66 in chips) 
+Mahu2021: posts small blind $0.05
+PampaSeba: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2s Ah]
+aegla: folds 
+assuncaogu: folds 
+Underbart424: folds 
+VêPeres: raises $0.15 to $0.25
+Mahu2021: folds 
+PampaSeba: raises $0.55 to $0.80
+VêPeres: folds 
+Uncalled bet ($0.55) returned to PampaSeba
+PampaSeba collected $0.55 from pot
+PampaSeba: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.55 | Rake $0 
+Seat 1: VêPeres (button) folded before Flop
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: PampaSeba (big blind) collected ($0.55)
+Seat 4: aegla folded before Flop (didn't bet)
+Seat 5: assuncaogu folded before Flop (didn't bet)
+Seat 6: Underbart424 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #254567588192:  Hold'em No Limit ($0.05/$0.10) - 2025/01/26 20:45:44 CET [2025/01/26 14:45:44 ET]
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: Mahu2021 ($10.13 in chips) 
+Seat 2: jksgoodgz ($10.29 in chips) 
+Seat 3: ppapandppap ($15.19 in chips) 
+Seat 4: kuif99 ($6.76 in chips) 
+Seat 5: cucubau96 ($10 in chips) 
+Seat 6: DreebJSP ($10.15 in chips) 
+jksgoodgz: posts small blind $0.05
+ppapandppap: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qs 6s]
+kuif99: raises $0.25 to $0.35
+cucubau96: folds 
+DreebJSP: folds 
+Mahu2021: folds 
+jksgoodgz: folds 
+ppapandppap: folds 
+Uncalled bet ($0.25) returned to kuif99
+kuif99 collected $0.25 from pot
+kuif99: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: jksgoodgz (small blind) folded before Flop
+Seat 3: ppapandppap (big blind) folded before Flop
+Seat 4: kuif99 collected ($0.25)
+Seat 5: cucubau96 folded before Flop (didn't bet)
+Seat 6: DreebJSP folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #254567593562:  Hold'em No Limit ($0.05/$0.10) - 2025/01/26 20:45:59 CET [2025/01/26 14:45:59 ET]
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: mOberdan ($10.25 in chips) 
+Seat 2: RealN4p ($12.65 in chips) 
+Seat 3: Mahu2021 ($10.13 in chips) 
+Seat 4: k1w12 ($18 in chips) 
+Seat 5: D.shadoww ($10.05 in chips) 
+Seat 6: WideMonkaW ($10 in chips) 
+RealN4p: posts small blind $0.05
+Mahu2021: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac 7c]
+k1w12: folds 
+D.shadoww: folds 
+WideMonkaW: folds 
+mOberdan: folds 
+RealN4p: folds 
+Uncalled bet ($0.05) returned to Mahu2021
+Mahu2021 collected $0.10 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: mOberdan (button) folded before Flop (didn't bet)
+Seat 2: RealN4p (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected ($0.10)
+Seat 4: k1w12 folded before Flop (didn't bet)
+Seat 5: D.shadoww folded before Flop (didn't bet)
+Seat 6: WideMonkaW folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #254567585992:  Hold'em No Limit ($0.05/$0.10) - 2025/01/26 20:45:38 CET [2025/01/26 14:45:38 ET]
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: DreebJSP ($20.40 in chips) 
+Seat 2: Siul0619 ($13.46 in chips) 
+Seat 3: WideMonkaW ($20.37 in chips) 
+Seat 4: firebird293 ($5.27 in chips) 
+Seat 5: Blast4Sure ($20.29 in chips) 
+Seat 6: Mahu2021 ($10.13 in chips) 
+Siul0619: posts small blind $0.05
+WideMonkaW: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah 3c]
+firebird293: calls $0.10
+Blast4Sure: folds 
+Mahu2021: folds 
+DreebJSP: folds 
+Siul0619: folds 
+WideMonkaW: checks 
+*** FLOP *** [Tc 3d 6h]
+WideMonkaW: checks 
+firebird293: checks 
+*** TURN *** [Tc 3d 6h] [9c]
+WideMonkaW: checks 
+firebird293: checks 
+*** RIVER *** [Tc 3d 6h 9c] [4s]
+WideMonkaW: checks 
+firebird293: bets $0.10
+WideMonkaW: folds 
+Uncalled bet ($0.10) returned to firebird293
+firebird293 collected $0.24 from pot
+firebird293: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Tc 3d 6h 9c 4s]
+Seat 1: DreebJSP (button) folded before Flop (didn't bet)
+Seat 2: Siul0619 (small blind) folded before Flop
+Seat 3: WideMonkaW (big blind) folded on the River
+Seat 4: firebird293 collected ($0.24)
+Seat 5: Blast4Sure folded before Flop (didn't bet)
+Seat 6: Mahu2021 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #254567600121:  Hold'em No Limit ($0.05/$0.10) - 2025/01/26 20:46:17 CET [2025/01/26 14:46:17 ET]
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: Andrey458 ($10 in chips) 
+Seat 2: dlna09 ($9.92 in chips) 
+Seat 3: QKJope ($10 in chips) 
+Seat 4: DreebJSP ($18.06 in chips) 
+Seat 5: Mahu2021 ($10.18 in chips) 
+Seat 6: Master205 ($10.43 in chips) 
+dlna09: posts small blind $0.05
+QKJope: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad 2s]
+DreebJSP: folds 
+Mahu2021: folds 
+Master205: raises $0.13 to $0.23
+Andrey458: folds 
+dlna09: folds 
+QKJope: folds 
+Uncalled bet ($0.13) returned to Master205
+Master205 collected $0.25 from pot
+Master205: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Andrey458 (button) folded before Flop (didn't bet)
+Seat 2: dlna09 (small blind) folded before Flop
+Seat 3: QKJope (big blind) folded before Flop
+Seat 4: DreebJSP folded before Flop (didn't bet)
+Seat 5: Mahu2021 folded before Flop (didn't bet)
+Seat 6: Master205 collected ($0.25)
+
+
+
+PokerStars Zoom Hand #254567603113:  Hold'em No Limit ($0.05/$0.10) - 2025/01/26 20:46:25 CET [2025/01/26 14:46:25 ET]
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: nikcat7 ($11.06 in chips) 
+Seat 2: Tfu3tfu ($15.53 in chips) 
+Seat 3: k1w12 ($17.95 in chips) 
+Seat 4: WideMonkaW ($20.27 in chips) 
+Seat 5: Bonditten ($5.73 in chips) 
+Seat 6: Mahu2021 ($10.13 in chips) 
+Tfu3tfu: posts small blind $0.05
+k1w12: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah 4s]
+WideMonkaW: folds 
+Bonditten: folds 
+Mahu2021: folds 
+nikcat7: raises $0.15 to $0.25
+Tfu3tfu: folds 
+k1w12: folds 
+Uncalled bet ($0.15) returned to nikcat7
+nikcat7 collected $0.25 from pot
+nikcat7: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: nikcat7 (button) collected ($0.25)
+Seat 2: Tfu3tfu (small blind) folded before Flop
+Seat 3: k1w12 (big blind) folded before Flop
+Seat 4: WideMonkaW folded before Flop (didn't bet)
+Seat 5: Bonditten folded before Flop (didn't bet)
+Seat 6: Mahu2021 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #254567577425:  Hold'em No Limit ($0.05/$0.10) - 2025/01/26 20:45:15 CET [2025/01/26 14:45:15 ET]
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: kar4tune ($9.65 in chips) 
+Seat 2: Ironhelt ($32.94 in chips) 
+Seat 3: Braghinn ($20.49 in chips) 
+Seat 4: Izabyx ($11.48 in chips) 
+Seat 5: Mahu2021 ($10.28 in chips) 
+Seat 6: k1w12 ($18.32 in chips) 
+Ironhelt: posts small blind $0.05
+Braghinn: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks 7d]
+Izabyx: folds 
+Mahu2021: folds 
+k1w12: folds 
+kar4tune: raises $0.10 to $0.20
+Ironhelt: folds 
+Braghinn: calls $0.10
+*** FLOP *** [Jd Td 4h]
+Braghinn: checks 
+kar4tune: checks 
+*** TURN *** [Jd Td 4h] [3c]
+Braghinn: checks 
+kar4tune: bets $0.43
+Braghinn: calls $0.43
+*** RIVER *** [Jd Td 4h 3c] [5c]
+Braghinn: checks 
+kar4tune: bets $1.40
+Braghinn: folds 
+Uncalled bet ($1.40) returned to kar4tune
+kar4tune collected $1.25 from pot
+kar4tune: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.31 | Rake $0.06 
+Board [Jd Td 4h 3c 5c]
+Seat 1: kar4tune (button) collected ($1.25)
+Seat 2: Ironhelt (small blind) folded before Flop
+Seat 3: Braghinn (big blind) folded on the River
+Seat 4: Izabyx folded before Flop (didn't bet)
+Seat 5: Mahu2021 folded before Flop (didn't bet)
+Seat 6: k1w12 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #254567601801:  Hold'em No Limit ($0.05/$0.10) - 2025/01/26 20:46:21 CET [2025/01/26 14:46:21 ET]
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: RoWw23 ($12.15 in chips) 
+Seat 2: Mahu2021 ($10.18 in chips) 
+Seat 3: cucubau96 ($10.34 in chips) 
+Seat 4: Master205 ($10 in chips) 
+Seat 5: VêPeres ($9.83 in chips) 
+Seat 6: tallist_jm ($11.17 in chips) 
+Mahu2021: posts small blind $0.05
+cucubau96: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h 4s]
+Master205: folds 
+VêPeres: folds 
+tallist_jm: folds 
+RoWw23: raises $0.15 to $0.25
+Mahu2021: folds 
+cucubau96: calls $0.15
+*** FLOP *** [Jd Th Tc]
+cucubau96: checks 
+RoWw23: checks 
+*** TURN *** [Jd Th Tc] [9h]
+cucubau96: checks 
+RoWw23: bets $0.28
+cucubau96: folds 
+Uncalled bet ($0.28) returned to RoWw23
+RoWw23 collected $0.53 from pot
+RoWw23: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [Jd Th Tc 9h]
+Seat 1: RoWw23 (button) collected ($0.53)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: cucubau96 (big blind) folded on the Turn
+Seat 4: Master205 folded before Flop (didn't bet)
+Seat 5: VêPeres folded before Flop (didn't bet)
+Seat 6: tallist_jm folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #254567606344:  Hold'em No Limit ($0.05/$0.10) - 2025/01/26 20:46:34 CET [2025/01/26 14:46:34 ET]
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: YourDonKay ($23.13 in chips) 
+Seat 2: DreebJSP ($17.96 in chips) 
+Seat 3: COZZA-K97 ($8.67 in chips) 
+Seat 4: jts2011 ($14.47 in chips) 
+Seat 5: Mahu2021 ($10.13 in chips) 
+Seat 6: Bestology ($10 in chips) 
+DreebJSP: posts small blind $0.05
+COZZA-K97: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad As]
+jts2011: raises $0.10 to $0.20
+Mahu2021: raises $9.93 to $10.13 and is all-in
+Bestology: calls $10 and is all-in
+YourDonKay: folds 
+DreebJSP: folds 
+COZZA-K97: folds 
+jts2011: folds 
+Uncalled bet ($0.13) returned to Mahu2021
+*** FLOP *** [4s 3h 4c]
+*** TURN *** [4s 3h 4c] [Ac]
+*** RIVER *** [4s 3h 4c Ac] [8c]
+*** SHOW DOWN ***
+Mahu2021: shows [Ad As] (a full house, Aces full of Fours)
+Bestology: shows [Qh Ah] (two pair, Aces and Fours)
+Mahu2021 cashed out the hand for $16.66 | Cash Out Fee $0.34
+*** SUMMARY ***
+Total pot $20.35 | Rake $0.92 
+Board [4s 3h 4c Ac 8c]
+Seat 1: YourDonKay (button) folded before Flop (didn't bet)
+Seat 2: DreebJSP (small blind) folded before Flop
+Seat 3: COZZA-K97 (big blind) folded before Flop
+Seat 4: jts2011 folded before Flop
+Seat 5: Mahu2021 showed [Ad As] and won ($19.43) with a full house, Aces full of Fours (pot not awarded as player cashed out)
+Seat 6: Bestology showed [Qh Ah] and lost with two pair, Aces and Fours
+
+
+

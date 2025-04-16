@@ -1,0 +1,694 @@
+﻿PokerStars Hand #252587501714: Tournament #3804131190, $0.96+$0.04 USD Hold'em No Limit - Match Round I, Level I (25/50) - 2024/09/23 12:02:21 CET [2024/09/23 6:02:21 ET]
+Table '3804131190 2' 4-max Seat #1 is the button
+Seat 1: limavrik (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: G0rillaglue (500 in chips) 
+Seat 4: maiksenmika (500 in chips) 
+limavrik: posts the ante 10
+Mahu2021: posts the ante 10
+G0rillaglue: posts the ante 10
+maiksenmika: posts the ante 10
+Mahu2021: posts small blind 25
+G0rillaglue: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h Jd]
+maiksenmika: folds 
+limavrik: folds 
+Mahu2021: folds 
+Uncalled bet (25) returned to G0rillaglue
+G0rillaglue collected 90 from pot
+G0rillaglue: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Seat 1: limavrik (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: G0rillaglue (big blind) collected (90)
+Seat 4: maiksenmika folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #252587502470: Tournament #3804131190, $0.96+$0.04 USD Hold'em No Limit - Match Round I, Level I (25/50) - 2024/09/23 12:02:28 CET [2024/09/23 6:02:28 ET]
+Table '3804131190 2' 4-max Seat #2 is the button
+Seat 1: limavrik (490 in chips) 
+Seat 2: Mahu2021 (465 in chips) 
+Seat 3: G0rillaglue (555 in chips) 
+Seat 4: maiksenmika (490 in chips) 
+limavrik: posts the ante 10
+Mahu2021: posts the ante 10
+G0rillaglue: posts the ante 10
+maiksenmika: posts the ante 10
+G0rillaglue: posts small blind 25
+maiksenmika: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5h Tc]
+limavrik: folds 
+Mahu2021: folds 
+G0rillaglue: calls 25
+maiksenmika: raises 430 to 480 and is all-in
+G0rillaglue: calls 430
+*** FLOP *** [4s 8s 9d]
+*** TURN *** [4s 8s 9d] [7d]
+*** RIVER *** [4s 8s 9d 7d] [4c]
+*** SHOW DOWN ***
+G0rillaglue: shows [Ad Ks] (a pair of Fours)
+maiksenmika: shows [Kc 8c] (two pair, Eights and Fours)
+maiksenmika collected 1000 from pot
+*** SUMMARY ***
+Total pot 1000 | Rake 0 
+Board [4s 8s 9d 7d 4c]
+Seat 1: limavrik folded before Flop (didn't bet)
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: G0rillaglue (small blind) showed [Ad Ks] and lost with a pair of Fours
+Seat 4: maiksenmika (big blind) showed [Kc 8c] and won (1000) with two pair, Eights and Fours
+
+
+
+PokerStars Hand #252587506021: Tournament #3804131190, $0.96+$0.04 USD Hold'em No Limit - Match Round I, Level I (25/50) - 2024/09/23 12:03:01 CET [2024/09/23 6:03:01 ET]
+Table '3804131190 2' 4-max Seat #3 is the button
+Seat 1: limavrik (480 in chips) 
+Seat 2: Mahu2021 (455 in chips) 
+Seat 3: G0rillaglue (65 in chips) 
+Seat 4: maiksenmika (1000 in chips) 
+limavrik: posts the ante 10
+Mahu2021: posts the ante 10
+G0rillaglue: posts the ante 10
+maiksenmika: posts the ante 10
+maiksenmika: posts small blind 25
+limavrik: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c 6d]
+Mahu2021: folds 
+G0rillaglue: folds 
+maiksenmika: raises 50 to 100
+limavrik: folds 
+Uncalled bet (50) returned to maiksenmika
+maiksenmika collected 140 from pot
+maiksenmika: doesn't show hand 
+*** SUMMARY ***
+Total pot 140 | Rake 0 
+Seat 1: limavrik (big blind) folded before Flop
+Seat 2: Mahu2021 folded before Flop (didn't bet)
+Seat 3: G0rillaglue (button) folded before Flop (didn't bet)
+Seat 4: maiksenmika (small blind) collected (140)
+
+
+
+PokerStars Hand #252587507398: Tournament #3804131190, $0.96+$0.04 USD Hold'em No Limit - Match Round I, Level I (25/50) - 2024/09/23 12:03:13 CET [2024/09/23 6:03:13 ET]
+Table '3804131190 2' 4-max Seat #4 is the button
+Seat 1: limavrik (420 in chips) 
+Seat 2: Mahu2021 (445 in chips) 
+Seat 3: G0rillaglue (55 in chips) 
+Seat 4: maiksenmika (1080 in chips) 
+limavrik: posts the ante 10
+Mahu2021: posts the ante 10
+G0rillaglue: posts the ante 10
+maiksenmika: posts the ante 10
+limavrik: posts small blind 25
+Mahu2021: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c 5h]
+G0rillaglue: folds 
+maiksenmika: folds 
+limavrik: folds 
+Uncalled bet (25) returned to Mahu2021
+Mahu2021 collected 90 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Seat 1: limavrik (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (90)
+Seat 3: G0rillaglue folded before Flop (didn't bet)
+Seat 4: maiksenmika (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #252587508561: Tournament #3804131190, $0.96+$0.04 USD Hold'em No Limit - Match Round I, Level I (25/50) - 2024/09/23 12:03:23 CET [2024/09/23 6:03:23 ET]
+Table '3804131190 2' 4-max Seat #1 is the button
+Seat 1: limavrik (385 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: G0rillaglue (45 in chips) 
+Seat 4: maiksenmika (1070 in chips) 
+limavrik: posts the ante 10
+Mahu2021: posts the ante 10
+G0rillaglue: posts the ante 10
+maiksenmika: posts the ante 10
+Mahu2021: posts small blind 25
+G0rillaglue: posts big blind 35 and is all-in
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As 4h]
+maiksenmika: raises 65 to 100
+limavrik: folds 
+Mahu2021: calls 75
+*** FLOP *** [2h Qs 5d]
+Mahu2021: checks 
+maiksenmika: checks 
+*** TURN *** [2h Qs 5d] [8c]
+Mahu2021: checks 
+maiksenmika: checks 
+*** RIVER *** [2h Qs 5d 8c] [Kd]
+Mahu2021: checks 
+maiksenmika: bets 50
+Mahu2021: folds 
+Uncalled bet (50) returned to maiksenmika
+*** SHOW DOWN ***
+maiksenmika: shows [Kc 7d] (a pair of Kings)
+maiksenmika collected 130 from side pot
+G0rillaglue: shows [6h 4d] (high card King)
+maiksenmika collected 145 from main pot
+G0rillaglue finished the tournament in 15th place
+*** SUMMARY ***
+Total pot 275 Main pot 145. Side pot 130. | Rake 0 
+Board [2h Qs 5d 8c Kd]
+Seat 1: limavrik (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) folded on the River
+Seat 3: G0rillaglue (big blind) showed [6h 4d] and lost with high card King
+Seat 4: maiksenmika showed [Kc 7d] and won (275) with a pair of Kings
+
+
+
+PokerStars Hand #252587511384: Tournament #3804131190, $0.96+$0.04 USD Hold'em No Limit - Match Round I, Level I (25/50) - 2024/09/23 12:03:48 CET [2024/09/23 6:03:48 ET]
+Table '3804131190 2' 4-max Seat #2 is the button
+Seat 1: limavrik (375 in chips) 
+Seat 2: Mahu2021 (390 in chips) 
+Seat 4: maiksenmika (1235 in chips) 
+limavrik: posts the ante 10
+Mahu2021: posts the ante 10
+maiksenmika: posts the ante 10
+maiksenmika: posts small blind 25
+limavrik: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d Ac]
+Mahu2021: raises 50 to 100
+maiksenmika: folds 
+limavrik: calls 50
+*** FLOP *** [6c Ad 3s]
+limavrik: checks 
+Mahu2021: bets 50
+limavrik: folds 
+Uncalled bet (50) returned to Mahu2021
+Mahu2021 collected 255 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 255 | Rake 0 
+Board [6c Ad 3s]
+Seat 1: limavrik (big blind) folded on the Flop
+Seat 2: Mahu2021 (button) collected (255)
+Seat 4: maiksenmika (small blind) folded before Flop
+
+
+
+PokerStars Hand #252587513581: Tournament #3804131190, $0.96+$0.04 USD Hold'em No Limit - Match Round I, Level I (25/50) - 2024/09/23 12:04:08 CET [2024/09/23 6:04:08 ET]
+Table '3804131190 2' 4-max Seat #4 is the button
+Seat 1: limavrik (265 in chips) 
+Seat 2: Mahu2021 (535 in chips) 
+Seat 4: maiksenmika (1200 in chips) 
+limavrik: posts the ante 10
+Mahu2021: posts the ante 10
+maiksenmika: posts the ante 10
+limavrik: posts small blind 25
+Mahu2021: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s 6c]
+maiksenmika: folds 
+limavrik: folds 
+Uncalled bet (25) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: limavrik (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (80)
+Seat 4: maiksenmika (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #252587515872: Tournament #3804131190, $0.96+$0.04 USD Hold'em No Limit - Match Round I, Level I (25/50) - 2024/09/23 12:04:29 CET [2024/09/23 6:04:29 ET]
+Table '3804131190 2' 4-max Seat #1 is the button
+Seat 1: limavrik (230 in chips) 
+Seat 2: Mahu2021 (580 in chips) 
+Seat 4: maiksenmika (1190 in chips) 
+limavrik: posts the ante 10
+Mahu2021: posts the ante 10
+maiksenmika: posts the ante 10
+Mahu2021: posts small blind 25
+maiksenmika: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad 2c]
+limavrik: folds 
+Mahu2021: raises 520 to 570 and is all-in
+maiksenmika: calls 520
+*** FLOP *** [Ah As 5h]
+*** TURN *** [Ah As 5h] [Kc]
+*** RIVER *** [Ah As 5h Kc] [2d]
+*** SHOW DOWN ***
+Mahu2021: shows [Ad 2c] (a full house, Aces full of Deuces)
+maiksenmika: shows [7d Kh] (two pair, Aces and Kings)
+Mahu2021 collected 1170 from pot
+*** SUMMARY ***
+Total pot 1170 | Rake 0 
+Board [Ah As 5h Kc 2d]
+Seat 1: limavrik (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) showed [Ad 2c] and won (1170) with a full house, Aces full of Deuces
+Seat 4: maiksenmika (big blind) showed [7d Kh] and lost with two pair, Aces and Kings
+
+
+
+PokerStars Hand #252587517403: Tournament #3804131190, $0.96+$0.04 USD Hold'em No Limit - Match Round I, Level I (25/50) - 2024/09/23 12:04:42 CET [2024/09/23 6:04:42 ET]
+Table '3804131190 2' 4-max Seat #2 is the button
+Seat 1: limavrik (220 in chips) 
+Seat 2: Mahu2021 (1170 in chips) 
+Seat 4: maiksenmika (610 in chips) 
+limavrik: posts the ante 10
+Mahu2021: posts the ante 10
+maiksenmika: posts the ante 10
+maiksenmika: posts small blind 25
+limavrik: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4d 4s]
+Mahu2021: raises 1110 to 1160 and is all-in
+maiksenmika: calls 575 and is all-in
+limavrik: calls 160 and is all-in
+Uncalled bet (560) returned to Mahu2021
+*** FLOP *** [2s 2c 8d]
+*** TURN *** [2s 2c 8d] [Qc]
+*** RIVER *** [2s 2c 8d Qc] [2d]
+*** SHOW DOWN ***
+maiksenmika: shows [As Tc] (three of a kind, Deuces)
+Mahu2021: shows [4d 4s] (a full house, Deuces full of Fours)
+Mahu2021 collected 780 from side pot
+limavrik: shows [8s 8h] (a full house, Eights full of Deuces)
+limavrik collected 660 from main pot
+maiksenmika finished the tournament in 8th place
+*** SUMMARY ***
+Total pot 1440 Main pot 660. Side pot 780. | Rake 0 
+Board [2s 2c 8d Qc 2d]
+Seat 1: limavrik (big blind) showed [8s 8h] and won (660) with a full house, Eights full of Deuces
+Seat 2: Mahu2021 (button) showed [4d 4s] and won (780) with a full house, Deuces full of Fours
+Seat 4: maiksenmika (small blind) showed [As Tc] and lost with three of a kind, Deuces
+
+
+
+PokerStars Hand #252587519648: Tournament #3804131190, $0.96+$0.04 USD Hold'em No Limit - Match Round I, Level I (25/50) - 2024/09/23 12:05:02 CET [2024/09/23 6:05:02 ET]
+Table '3804131190 2' 4-max Seat #1 is the button
+Seat 1: limavrik (660 in chips) 
+Seat 2: Mahu2021 (1340 in chips) 
+limavrik: posts the ante 10
+Mahu2021: posts the ante 10
+limavrik: posts small blind 25
+Mahu2021: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h 5s]
+limavrik: raises 50 to 100
+Mahu2021: folds 
+Uncalled bet (50) returned to limavrik
+limavrik collected 120 from pot
+limavrik: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: limavrik (button) (small blind) collected (120)
+Seat 2: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #252587521524: Tournament #3804131190, $0.96+$0.04 USD Hold'em No Limit - Match Round I, Level I (25/50) - 2024/09/23 12:05:19 CET [2024/09/23 6:05:19 ET]
+Table '3804131190 2' 4-max Seat #2 is the button
+Seat 1: limavrik (720 in chips) 
+Seat 2: Mahu2021 (1280 in chips) 
+limavrik: posts the ante 10
+Mahu2021: posts the ante 10
+Mahu2021: posts small blind 25
+limavrik: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh Ks]
+Mahu2021: raises 1220 to 1270 and is all-in
+limavrik: folds 
+Uncalled bet (1220) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: limavrik (big blind) folded before Flop
+Seat 2: Mahu2021 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #252587522592: Tournament #3804131190, $0.96+$0.04 USD Hold'em No Limit - Match Round I, Level II (50/100) - 2024/09/23 12:05:29 CET [2024/09/23 6:05:29 ET]
+Table '3804131190 2' 4-max Seat #1 is the button
+Seat 1: limavrik (660 in chips) 
+Seat 2: Mahu2021 (1340 in chips) 
+limavrik: posts the ante 20
+Mahu2021: posts the ante 20
+limavrik: posts small blind 50
+Mahu2021: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h 2s]
+limavrik: raises 540 to 640 and is all-in
+Mahu2021: folds 
+Uncalled bet (540) returned to limavrik
+limavrik collected 240 from pot
+limavrik: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Seat 1: limavrik (button) (small blind) collected (240)
+Seat 2: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #252587523225: Tournament #3804131190, $0.96+$0.04 USD Hold'em No Limit - Match Round I, Level II (50/100) - 2024/09/23 12:05:34 CET [2024/09/23 6:05:34 ET]
+Table '3804131190 2' 4-max Seat #2 is the button
+Seat 1: limavrik (780 in chips) 
+Seat 2: Mahu2021 (1220 in chips) 
+limavrik: posts the ante 20
+Mahu2021: posts the ante 20
+Mahu2021: posts small blind 50
+limavrik: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac 8c]
+Mahu2021: raises 1100 to 1200 and is all-in
+limavrik: calls 660 and is all-in
+Uncalled bet (440) returned to Mahu2021
+*** FLOP *** [As Ts 7h]
+*** TURN *** [As Ts 7h] [3s]
+*** RIVER *** [As Ts 7h 3s] [3d]
+*** SHOW DOWN ***
+limavrik: shows [Jh Jd] (two pair, Jacks and Threes)
+Mahu2021: shows [Ac 8c] (two pair, Aces and Threes)
+Mahu2021 collected 1560 from pot
+limavrik finished the tournament in 6th place
+*** SUMMARY ***
+Total pot 1560 | Rake 0 
+Board [As Ts 7h 3s 3d]
+Seat 1: limavrik (big blind) showed [Jh Jd] and lost with two pair, Jacks and Threes
+Seat 2: Mahu2021 (button) (small blind) showed [Ac 8c] and won (1560) with two pair, Aces and Threes
+
+
+
+PokerStars Hand #252587537682: Tournament #3804131190, $0.96+$0.04 USD Hold'em No Limit - Match Round II, Level I (25/50) - 2024/09/23 12:07:43 CET [2024/09/23 6:07:43 ET]
+Table '3804131190 1' 4-max Seat #1 is the button
+Seat 1: Tontonel3G (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: iq_unknown (500 in chips) 
+Seat 4: Yury965 (500 in chips) 
+Tontonel3G: posts the ante 10
+Mahu2021: posts the ante 10
+iq_unknown: posts the ante 10
+Yury965: posts the ante 10
+Mahu2021: posts small blind 25
+iq_unknown: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s 2d]
+Yury965: folds 
+Tontonel3G: folds 
+Mahu2021: raises 440 to 490 and is all-in
+iq_unknown: folds 
+Uncalled bet (440) returned to Mahu2021
+Mahu2021 collected 140 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 140 | Rake 0 
+Seat 1: Tontonel3G (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) collected (140)
+Seat 3: iq_unknown (big blind) folded before Flop
+Seat 4: Yury965 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #252587538593: Tournament #3804131190, $0.96+$0.04 USD Hold'em No Limit - Match Round II, Level I (25/50) - 2024/09/23 12:07:52 CET [2024/09/23 6:07:52 ET]
+Table '3804131190 1' 4-max Seat #2 is the button
+Seat 1: Tontonel3G (490 in chips) 
+Seat 2: Mahu2021 (580 in chips) 
+Seat 3: iq_unknown (440 in chips) 
+Seat 4: Yury965 (490 in chips) 
+Tontonel3G: posts the ante 10
+Mahu2021: posts the ante 10
+iq_unknown: posts the ante 10
+Yury965: posts the ante 10
+iq_unknown: posts small blind 25
+Yury965: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s 4c]
+Tontonel3G: folds 
+Mahu2021: raises 520 to 570 and is all-in
+iq_unknown: folds 
+Yury965: folds 
+Uncalled bet (520) returned to Mahu2021
+Mahu2021 collected 165 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 165 | Rake 0 
+Seat 1: Tontonel3G folded before Flop (didn't bet)
+Seat 2: Mahu2021 (button) collected (165)
+Seat 3: iq_unknown (small blind) folded before Flop
+Seat 4: Yury965 (big blind) folded before Flop
+
+
+
+PokerStars Hand #252587540021: Tournament #3804131190, $0.96+$0.04 USD Hold'em No Limit - Match Round II, Level I (25/50) - 2024/09/23 12:08:05 CET [2024/09/23 6:08:05 ET]
+Table '3804131190 1' 4-max Seat #3 is the button
+Seat 1: Tontonel3G (480 in chips) 
+Seat 2: Mahu2021 (685 in chips) 
+Seat 3: iq_unknown (405 in chips) 
+Seat 4: Yury965 (430 in chips) 
+Tontonel3G: posts the ante 10
+Mahu2021: posts the ante 10
+iq_unknown: posts the ante 10
+Yury965: posts the ante 10
+Yury965: posts small blind 25
+Tontonel3G: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4c 5h]
+Mahu2021: raises 625 to 675 and is all-in
+iq_unknown: folds 
+Yury965: folds 
+Tontonel3G: folds 
+Uncalled bet (625) returned to Mahu2021
+Mahu2021 collected 165 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 165 | Rake 0 
+Seat 1: Tontonel3G (big blind) folded before Flop
+Seat 2: Mahu2021 collected (165)
+Seat 3: iq_unknown (button) folded before Flop (didn't bet)
+Seat 4: Yury965 (small blind) folded before Flop
+
+
+
+PokerStars Hand #252587541696: Tournament #3804131190, $0.96+$0.04 USD Hold'em No Limit - Match Round II, Level I (25/50) - 2024/09/23 12:08:20 CET [2024/09/23 6:08:20 ET]
+Table '3804131190 1' 4-max Seat #4 is the button
+Seat 1: Tontonel3G (420 in chips) 
+Seat 2: Mahu2021 (790 in chips) 
+Seat 3: iq_unknown (395 in chips) 
+Seat 4: Yury965 (395 in chips) 
+Tontonel3G: posts the ante 10
+Mahu2021: posts the ante 10
+iq_unknown: posts the ante 10
+Yury965: posts the ante 10
+Tontonel3G: posts small blind 25
+Mahu2021: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As 9c]
+iq_unknown: folds 
+Yury965: folds 
+Tontonel3G: raises 360 to 410 and is all-in
+Mahu2021: calls 360
+*** FLOP *** [Td Ah 5s]
+*** TURN *** [Td Ah 5s] [4s]
+*** RIVER *** [Td Ah 5s 4s] [7d]
+*** SHOW DOWN ***
+Tontonel3G: shows [7h 8c] (a pair of Sevens)
+Mahu2021: shows [As 9c] (a pair of Aces)
+Mahu2021 collected 860 from pot
+Tontonel3G finished the tournament in 4th place and received $1.36.
+*** SUMMARY ***
+Total pot 860 | Rake 0 
+Board [Td Ah 5s 4s 7d]
+Seat 1: Tontonel3G (small blind) showed [7h 8c] and lost with a pair of Sevens
+Seat 2: Mahu2021 (big blind) showed [As 9c] and won (860) with a pair of Aces
+Seat 3: iq_unknown folded before Flop (didn't bet)
+Seat 4: Yury965 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #252587544835: Tournament #3804131190, $0.96+$0.04 USD Hold'em No Limit - Match Round II, Level I (25/50) - 2024/09/23 12:08:48 CET [2024/09/23 6:08:48 ET]
+Table '3804131190 1' 4-max Seat #2 is the button
+Seat 2: Mahu2021 (1230 in chips) 
+Seat 3: iq_unknown (385 in chips) 
+Seat 4: Yury965 (385 in chips) 
+Mahu2021: posts the ante 10
+iq_unknown: posts the ante 10
+Yury965: posts the ante 10
+iq_unknown: posts small blind 25
+Yury965: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc 7s]
+Mahu2021: raises 1170 to 1220 and is all-in
+iq_unknown: calls 350 and is all-in
+Yury965: calls 325 and is all-in
+Uncalled bet (845) returned to Mahu2021
+*** FLOP *** [5c Qh 8h]
+*** TURN *** [5c Qh 8h] [4c]
+*** RIVER *** [5c Qh 8h 4c] [3s]
+*** SHOW DOWN ***
+iq_unknown: shows [As 3d] (a pair of Threes)
+Yury965: shows [Qs Ah] (a pair of Queens)
+Mahu2021: shows [Jc 7s] (high card Queen)
+Yury965 collected 1155 from pot
+iq_unknown finished the tournament in 3rd place
+iq_unknown wins a '$1.50 Step 2 - Power Path' ticket
+*** SUMMARY ***
+Total pot 1155 | Rake 0 
+Board [5c Qh 8h 4c 3s]
+Seat 2: Mahu2021 (button) showed [Jc 7s] and lost with high card Queen
+Seat 3: iq_unknown (small blind) showed [As 3d] and lost with a pair of Threes
+Seat 4: Yury965 (big blind) showed [Qs Ah] and won (1155) with a pair of Queens
+
+
+
+PokerStars Hand #252587547087: Tournament #3804131190, $0.96+$0.04 USD Hold'em No Limit - Match Round II, Level I (25/50) - 2024/09/23 12:09:08 CET [2024/09/23 6:09:08 ET]
+Table '3804131190 1' 4-max Seat #4 is the button
+Seat 2: Mahu2021 (845 in chips) 
+Seat 4: Yury965 (1155 in chips) 
+Mahu2021: posts the ante 10
+Yury965: posts the ante 10
+Yury965: posts small blind 25
+Mahu2021: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d 2s]
+Yury965: calls 25
+Mahu2021: checks 
+*** FLOP *** [4s Ad 6d]
+Mahu2021: checks 
+Yury965: checks 
+*** TURN *** [4s Ad 6d] [6h]
+Mahu2021: checks 
+Yury965: checks 
+*** RIVER *** [4s Ad 6d 6h] [7s]
+Mahu2021: bets 50
+Yury965: calls 50
+*** SHOW DOWN ***
+Mahu2021: shows [7d 2s] (two pair, Sevens and Sixes)
+Yury965: mucks hand 
+Mahu2021 collected 220 from pot
+*** SUMMARY ***
+Total pot 220 | Rake 0 
+Board [4s Ad 6d 6h 7s]
+Seat 2: Mahu2021 (big blind) showed [7d 2s] and won (220) with two pair, Sevens and Sixes
+Seat 4: Yury965 (button) (small blind) mucked [Qs 9h]
+
+
+
+PokerStars Hand #252587548492: Tournament #3804131190, $0.96+$0.04 USD Hold'em No Limit - Match Round II, Level I (25/50) - 2024/09/23 12:09:21 CET [2024/09/23 6:09:21 ET]
+Table '3804131190 1' 4-max Seat #2 is the button
+Seat 2: Mahu2021 (955 in chips) 
+Seat 4: Yury965 (1045 in chips) 
+Mahu2021: posts the ante 10
+Yury965: posts the ante 10
+Mahu2021: posts small blind 25
+Yury965: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h 5s]
+Mahu2021: folds 
+Uncalled bet (25) returned to Yury965
+Yury965 collected 70 from pot
+Yury965: doesn't show hand 
+*** SUMMARY ***
+Total pot 70 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 4: Yury965 (big blind) collected (70)
+
+
+
+PokerStars Hand #252587549007: Tournament #3804131190, $0.96+$0.04 USD Hold'em No Limit - Match Round II, Level I (25/50) - 2024/09/23 12:09:26 CET [2024/09/23 6:09:26 ET]
+Table '3804131190 1' 4-max Seat #4 is the button
+Seat 2: Mahu2021 (920 in chips) 
+Seat 4: Yury965 (1080 in chips) 
+Mahu2021: posts the ante 10
+Yury965: posts the ante 10
+Yury965: posts small blind 25
+Mahu2021: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d 7h]
+Yury965: calls 25
+Mahu2021: checks 
+*** FLOP *** [4d 2h 3h]
+Mahu2021: checks 
+Yury965: bets 50
+Mahu2021: folds 
+Uncalled bet (50) returned to Yury965
+Yury965 collected 120 from pot
+Yury965: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [4d 2h 3h]
+Seat 2: Mahu2021 (big blind) folded on the Flop
+Seat 4: Yury965 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #252587550220: Tournament #3804131190, $0.96+$0.04 USD Hold'em No Limit - Match Round II, Level I (25/50) - 2024/09/23 12:09:37 CET [2024/09/23 6:09:37 ET]
+Table '3804131190 1' 4-max Seat #2 is the button
+Seat 2: Mahu2021 (860 in chips) 
+Seat 4: Yury965 (1140 in chips) 
+Mahu2021: posts the ante 10
+Yury965: posts the ante 10
+Mahu2021: posts small blind 25
+Yury965: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h As]
+Mahu2021: raises 50 to 100
+Yury965: raises 1030 to 1130 and is all-in
+Mahu2021: calls 750 and is all-in
+Uncalled bet (280) returned to Yury965
+*** FLOP *** [5h Jc Ks]
+*** TURN *** [5h Jc Ks] [Jh]
+*** RIVER *** [5h Jc Ks Jh] [6s]
+*** SHOW DOWN ***
+Yury965: shows [Ad 2h] (a pair of Jacks)
+Mahu2021: shows [7h As] (a pair of Jacks - Ace+King+Seven kicker)
+Mahu2021 collected 1720 from pot
+*** SUMMARY ***
+Total pot 1720 | Rake 0 
+Board [5h Jc Ks Jh 6s]
+Seat 2: Mahu2021 (button) (small blind) showed [7h As] and won (1720) with a pair of Jacks
+Seat 4: Yury965 (big blind) showed [Ad 2h] and lost with a pair of Jacks
+
+
+
+PokerStars Hand #252587551950: Tournament #3804131190, $0.96+$0.04 USD Hold'em No Limit - Match Round II, Level I (25/50) - 2024/09/23 12:09:52 CET [2024/09/23 6:09:52 ET]
+Table '3804131190 1' 4-max Seat #4 is the button
+Seat 2: Mahu2021 (1720 in chips) 
+Seat 4: Yury965 (280 in chips) 
+Mahu2021: posts the ante 10
+Yury965: posts the ante 10
+Yury965: posts small blind 25
+Mahu2021: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8c 7s]
+Yury965: calls 25
+Mahu2021: checks 
+*** FLOP *** [Qs 5d 4c]
+Mahu2021: checks 
+Yury965: checks 
+*** TURN *** [Qs 5d 4c] [6s]
+Mahu2021: bets 50
+Yury965: calls 50
+*** RIVER *** [Qs 5d 4c 6s] [9d]
+Mahu2021: bets 100
+Yury965: raises 70 to 170 and is all-in
+Mahu2021: calls 70
+*** SHOW DOWN ***
+Yury965: shows [2d Qc] (a pair of Queens)
+Mahu2021: shows [8c 7s] (a straight, Five to Nine)
+Mahu2021 collected 560 from pot
+Yury965 finished the tournament in 2nd place
+Yury965 wins a '$1.50 Step 2 - Power Path' ticket
+Mahu2021 wins the tournament - congratulations!
+Mahu2021 wins a '$11 Step 3 - Power Path' ticket
+*** SUMMARY ***
+Total pot 560 | Rake 0 
+Board [Qs 5d 4c 6s 9d]
+Seat 2: Mahu2021 (big blind) showed [8c 7s] and won (560) with a straight, Five to Nine
+Seat 4: Yury965 (button) (small blind) showed [2d Qc] and lost with a pair of Queens
+
+
+

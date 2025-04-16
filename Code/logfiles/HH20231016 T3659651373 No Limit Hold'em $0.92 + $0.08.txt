@@ -1,0 +1,36 @@
+﻿PokerStars Hand #246563337777: Tournament #3659651373, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/10/16 10:50:30 CET [2023/10/16 4:50:30 ET]
+Table '3659651373 1' 3-max Seat #1 is the button
+Seat 1: malo26 wales (500 in chips) 
+Seat 2: Roman_Drhog (500 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+Roman_Drhog: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d 3s]
+malo26 wales: raises 50 to 70
+Roman_Drhog: folds 
+Mahu2021: calls 50
+*** FLOP *** [Jh Jc 5d]
+Mahu2021: checks 
+malo26 wales: bets 75
+Mahu2021: calls 75
+*** TURN *** [Jh Jc 5d] [2d]
+Mahu2021: checks 
+malo26 wales: bets 150
+Mahu2021: raises 205 to 355 and is all-in
+malo26 wales: calls 205 and is all-in
+*** RIVER *** [Jh Jc 5d 2d] [9h]
+*** SHOW DOWN ***
+Mahu2021: shows [3d 3s] (two pair, Jacks and Threes)
+malo26 wales: shows [Kc Ks] (two pair, Kings and Jacks)
+malo26 wales collected 1010 from pot
+Mahu2021 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1010 | Rake 0 
+Board [Jh Jc 5d 2d 9h]
+Seat 1: malo26 wales (button) showed [Kc Ks] and won (1010) with two pair, Kings and Jacks
+Seat 2: Roman_Drhog (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) showed [3d 3s] and lost with two pair, Jacks and Threes
+
+
+

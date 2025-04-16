@@ -1,0 +1,799 @@
+﻿PokerStars Hand #246542673670: Tournament #3659198981, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/10/15 8:50:11 CET [2023/10/15 2:50:11 ET]
+Table '3659198981 1' 3-max Seat #1 is the button
+Seat 1: vov4iK24 (500 in chips) 
+Seat 2: dansch1977 (500 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+dansch1977: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d Qs]
+vov4iK24: folds 
+dansch1977: calls 10
+Mahu2021: checks 
+*** FLOP *** [5h 9c 8c]
+dansch1977: checks 
+Mahu2021: bets 20
+dansch1977: calls 20
+*** TURN *** [5h 9c 8c] [5c]
+dansch1977: bets 40
+Mahu2021: folds 
+Uncalled bet (40) returned to dansch1977
+dansch1977 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [5h 9c 8c 5c]
+Seat 1: vov4iK24 (button) folded before Flop (didn't bet)
+Seat 2: dansch1977 (small blind) collected (80)
+Seat 3: Mahu2021 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #246542675290: Tournament #3659198981, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/10/15 8:50:26 CET [2023/10/15 2:50:26 ET]
+Table '3659198981 1' 3-max Seat #2 is the button
+Seat 1: vov4iK24 (500 in chips) 
+Seat 2: dansch1977 (540 in chips) 
+Seat 3: Mahu2021 (460 in chips) 
+Mahu2021: posts small blind 10
+vov4iK24: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s Td]
+dansch1977: calls 20
+Mahu2021: folds 
+vov4iK24: checks 
+*** FLOP *** [4s 9s Ks]
+vov4iK24: checks 
+dansch1977: checks 
+*** TURN *** [4s 9s Ks] [2h]
+vov4iK24: checks 
+dansch1977: checks 
+*** RIVER *** [4s 9s Ks 2h] [Qd]
+vov4iK24: bets 40
+dansch1977: folds 
+Uncalled bet (40) returned to vov4iK24
+vov4iK24 collected 50 from pot
+vov4iK24: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [4s 9s Ks 2h Qd]
+Seat 1: vov4iK24 (big blind) collected (50)
+Seat 2: dansch1977 (button) folded on the River
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #246542677073: Tournament #3659198981, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/10/15 8:50:43 CET [2023/10/15 2:50:43 ET]
+Table '3659198981 1' 3-max Seat #3 is the button
+Seat 1: vov4iK24 (530 in chips) 
+Seat 2: dansch1977 (520 in chips) 
+Seat 3: Mahu2021 (450 in chips) 
+vov4iK24: posts small blind 10
+dansch1977: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4d 8s]
+Mahu2021: folds 
+vov4iK24: folds 
+Uncalled bet (10) returned to dansch1977
+dansch1977 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: vov4iK24 (small blind) folded before Flop
+Seat 2: dansch1977 (big blind) collected (20)
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #246542677976: Tournament #3659198981, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/10/15 8:50:51 CET [2023/10/15 2:50:51 ET]
+Table '3659198981 1' 3-max Seat #1 is the button
+Seat 1: vov4iK24 (520 in chips) 
+Seat 2: dansch1977 (530 in chips) 
+Seat 3: Mahu2021 (450 in chips) 
+dansch1977: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qd 3s]
+vov4iK24: calls 20
+dansch1977: folds 
+Mahu2021: checks 
+*** FLOP *** [Kc Ks 9d]
+Mahu2021: checks 
+vov4iK24: bets 20
+Mahu2021: calls 20
+*** TURN *** [Kc Ks 9d] [9c]
+Mahu2021: checks 
+vov4iK24: bets 20
+Mahu2021: calls 20
+*** RIVER *** [Kc Ks 9d 9c] [2d]
+Mahu2021: checks 
+vov4iK24: bets 20
+Mahu2021: calls 20
+*** SHOW DOWN ***
+vov4iK24: shows [9h Jd] (a full house, Nines full of Kings)
+Mahu2021: mucks hand 
+vov4iK24 collected 170 from pot
+*** SUMMARY ***
+Total pot 170 | Rake 0 
+Board [Kc Ks 9d 9c 2d]
+Seat 1: vov4iK24 (button) showed [9h Jd] and won (170) with a full house, Nines full of Kings
+Seat 2: dansch1977 (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) mucked [Qd 3s]
+
+
+
+PokerStars Hand #246542679821: Tournament #3659198981, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/10/15 8:51:09 CET [2023/10/15 2:51:09 ET]
+Table '3659198981 1' 3-max Seat #2 is the button
+Seat 1: vov4iK24 (610 in chips) 
+Seat 2: dansch1977 (520 in chips) 
+Seat 3: Mahu2021 (370 in chips) 
+Mahu2021: posts small blind 10
+vov4iK24: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4d 8s]
+dansch1977: raises 20 to 40
+Mahu2021: folds 
+vov4iK24: calls 20
+*** FLOP *** [Ac 7d Ah]
+vov4iK24: checks 
+dansch1977: checks 
+*** TURN *** [Ac 7d Ah] [3s]
+vov4iK24: checks 
+dansch1977: checks 
+*** RIVER *** [Ac 7d Ah 3s] [9s]
+vov4iK24: checks 
+dansch1977: checks 
+*** SHOW DOWN ***
+vov4iK24: shows [Kh Td] (a pair of Aces)
+dansch1977: mucks hand 
+vov4iK24 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [Ac 7d Ah 3s 9s]
+Seat 1: vov4iK24 (big blind) showed [Kh Td] and won (90) with a pair of Aces
+Seat 2: dansch1977 (button) mucked [2h Kc]
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #246542681945: Tournament #3659198981, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/10/15 8:51:29 CET [2023/10/15 2:51:29 ET]
+Table '3659198981 1' 3-max Seat #3 is the button
+Seat 1: vov4iK24 (660 in chips) 
+Seat 2: dansch1977 (480 in chips) 
+Seat 3: Mahu2021 (360 in chips) 
+vov4iK24: posts small blind 10
+dansch1977: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s Qh]
+Mahu2021: folds 
+vov4iK24: folds 
+Uncalled bet (10) returned to dansch1977
+dansch1977 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: vov4iK24 (small blind) folded before Flop
+Seat 2: dansch1977 (big blind) collected (20)
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #246542682890: Tournament #3659198981, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/10/15 8:51:38 CET [2023/10/15 2:51:38 ET]
+Table '3659198981 1' 3-max Seat #1 is the button
+Seat 1: vov4iK24 (650 in chips) 
+Seat 2: dansch1977 (490 in chips) 
+Seat 3: Mahu2021 (360 in chips) 
+dansch1977: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js 4h]
+vov4iK24: folds 
+dansch1977: calls 10
+Mahu2021: checks 
+*** FLOP *** [9h Th Qh]
+dansch1977: bets 20
+Mahu2021: calls 20
+*** TURN *** [9h Th Qh] [2s]
+dansch1977: bets 40
+Mahu2021: calls 40
+*** RIVER *** [9h Th Qh 2s] [4c]
+dansch1977: checks 
+Mahu2021: bets 280 and is all-in
+dansch1977: folds 
+Uncalled bet (280) returned to Mahu2021
+Mahu2021 collected 160 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [9h Th Qh 2s 4c]
+Seat 1: vov4iK24 (button) folded before Flop (didn't bet)
+Seat 2: dansch1977 (small blind) folded on the River
+Seat 3: Mahu2021 (big blind) collected (160)
+
+
+
+PokerStars Hand #246542684664: Tournament #3659198981, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/10/15 8:51:55 CET [2023/10/15 2:51:55 ET]
+Table '3659198981 1' 3-max Seat #2 is the button
+Seat 1: vov4iK24 (650 in chips) 
+Seat 2: dansch1977 (410 in chips) 
+Seat 3: Mahu2021 (440 in chips) 
+Mahu2021: posts small blind 10
+vov4iK24: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h 5c]
+dansch1977: calls 20
+Mahu2021: folds 
+vov4iK24: checks 
+*** FLOP *** [4d 7s 7h]
+vov4iK24: checks 
+dansch1977: bets 20
+vov4iK24: folds 
+Uncalled bet (20) returned to dansch1977
+dansch1977 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [4d 7s 7h]
+Seat 1: vov4iK24 (big blind) folded on the Flop
+Seat 2: dansch1977 (button) collected (50)
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #246542686111: Tournament #3659198981, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/10/15 8:52:09 CET [2023/10/15 2:52:09 ET]
+Table '3659198981 1' 3-max Seat #3 is the button
+Seat 1: vov4iK24 (630 in chips) 
+Seat 2: dansch1977 (440 in chips) 
+Seat 3: Mahu2021 (430 in chips) 
+vov4iK24: posts small blind 10
+dansch1977: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s 3h]
+Mahu2021: raises 20 to 40
+vov4iK24: folds 
+dansch1977: calls 20
+*** FLOP *** [2d 6c Jd]
+dansch1977: checks 
+Mahu2021: checks 
+*** TURN *** [2d 6c Jd] [7d]
+dansch1977: checks 
+Mahu2021: checks 
+*** RIVER *** [2d 6c Jd 7d] [As]
+dansch1977: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+dansch1977: shows [9c Ad] (a pair of Aces)
+Mahu2021: mucks hand 
+dansch1977 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [2d 6c Jd 7d As]
+Seat 1: vov4iK24 (small blind) folded before Flop
+Seat 2: dansch1977 (big blind) showed [9c Ad] and won (90) with a pair of Aces
+Seat 3: Mahu2021 (button) mucked [3s 3h]
+
+
+
+PokerStars Hand #246542688141: Tournament #3659198981, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/10/15 8:52:28 CET [2023/10/15 2:52:28 ET]
+Table '3659198981 1' 3-max Seat #1 is the button
+Seat 1: vov4iK24 (620 in chips) 
+Seat 2: dansch1977 (490 in chips) 
+Seat 3: Mahu2021 (390 in chips) 
+dansch1977: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Th 2c]
+vov4iK24: raises 30 to 60
+dansch1977: calls 45
+Mahu2021: folds 
+*** FLOP *** [9s 8h 6h]
+dansch1977: checks 
+vov4iK24: bets 45
+dansch1977: calls 45
+*** TURN *** [9s 8h 6h] [9d]
+dansch1977: checks 
+vov4iK24: bets 60
+dansch1977: raises 60 to 120
+vov4iK24: calls 60
+*** RIVER *** [9s 8h 6h 9d] [Qc]
+dansch1977: checks 
+vov4iK24: bets 144
+dansch1977: folds 
+Uncalled bet (144) returned to vov4iK24
+vov4iK24 collected 480 from pot
+vov4iK24: doesn't show hand 
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Board [9s 8h 6h 9d Qc]
+Seat 1: vov4iK24 (button) collected (480)
+Seat 2: dansch1977 (small blind) folded on the River
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #246542691818: Tournament #3659198981, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/10/15 8:53:03 CET [2023/10/15 2:53:03 ET]
+Table '3659198981 1' 3-max Seat #2 is the button
+Seat 1: vov4iK24 (875 in chips) 
+Seat 2: dansch1977 (265 in chips) 
+Seat 3: Mahu2021 (360 in chips) 
+Mahu2021: posts small blind 15
+vov4iK24: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh 4d]
+dansch1977: raises 30 to 60
+Mahu2021: folds 
+vov4iK24: folds 
+Uncalled bet (30) returned to dansch1977
+dansch1977 collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: vov4iK24 (big blind) folded before Flop
+Seat 2: dansch1977 (button) collected (75)
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #246542692559: Tournament #3659198981, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/10/15 8:53:10 CET [2023/10/15 2:53:10 ET]
+Table '3659198981 1' 3-max Seat #3 is the button
+Seat 1: vov4iK24 (845 in chips) 
+Seat 2: dansch1977 (310 in chips) 
+Seat 3: Mahu2021 (345 in chips) 
+vov4iK24: posts small blind 15
+dansch1977: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Tc 3c]
+Mahu2021: folds 
+vov4iK24: calls 15
+dansch1977: checks 
+*** FLOP *** [Ad 5h 2c]
+vov4iK24: checks 
+dansch1977: checks 
+*** TURN *** [Ad 5h 2c] [Qd]
+vov4iK24: checks 
+dansch1977: bets 30
+vov4iK24: calls 30
+*** RIVER *** [Ad 5h 2c Qd] [5s]
+vov4iK24: checks 
+dansch1977: bets 120
+vov4iK24: calls 120
+*** SHOW DOWN ***
+dansch1977: shows [6d 3d] (a pair of Fives)
+vov4iK24: shows [9h Qc] (two pair, Queens and Fives)
+vov4iK24 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [Ad 5h 2c Qd 5s]
+Seat 1: vov4iK24 (small blind) showed [9h Qc] and won (360) with two pair, Queens and Fives
+Seat 2: dansch1977 (big blind) showed [6d 3d] and lost with a pair of Fives
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #246542695447: Tournament #3659198981, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/10/15 8:53:37 CET [2023/10/15 2:53:37 ET]
+Table '3659198981 1' 3-max Seat #1 is the button
+Seat 1: vov4iK24 (1025 in chips) 
+Seat 2: dansch1977 (130 in chips) 
+Seat 3: Mahu2021 (345 in chips) 
+dansch1977: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s Th]
+vov4iK24: folds 
+dansch1977: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: vov4iK24 (button) folded before Flop (didn't bet)
+Seat 2: dansch1977 (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (30)
+
+
+
+PokerStars Hand #246542695838: Tournament #3659198981, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/10/15 8:53:41 CET [2023/10/15 2:53:41 ET]
+Table '3659198981 1' 3-max Seat #2 is the button
+Seat 1: vov4iK24 (1025 in chips) 
+Seat 2: dansch1977 (115 in chips) 
+Seat 3: Mahu2021 (360 in chips) 
+Mahu2021: posts small blind 15
+vov4iK24: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2s 4h]
+dansch1977: raises 85 to 115 and is all-in
+Mahu2021: folds 
+vov4iK24: folds 
+Uncalled bet (85) returned to dansch1977
+dansch1977 collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: vov4iK24 (big blind) folded before Flop
+Seat 2: dansch1977 (button) collected (75)
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #246542696590: Tournament #3659198981, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/10/15 8:53:48 CET [2023/10/15 2:53:48 ET]
+Table '3659198981 1' 3-max Seat #3 is the button
+Seat 1: vov4iK24 (995 in chips) 
+Seat 2: dansch1977 (160 in chips) 
+Seat 3: Mahu2021 (345 in chips) 
+vov4iK24: posts small blind 15
+dansch1977: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d 6d]
+Mahu2021: folds 
+vov4iK24: calls 15
+dansch1977: checks 
+*** FLOP *** [4h 4d Qs]
+vov4iK24: checks 
+dansch1977: checks 
+*** TURN *** [4h 4d Qs] [7h]
+vov4iK24: bets 60
+dansch1977: folds 
+Uncalled bet (60) returned to vov4iK24
+vov4iK24 collected 60 from pot
+vov4iK24: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [4h 4d Qs 7h]
+Seat 1: vov4iK24 (small blind) collected (60)
+Seat 2: dansch1977 (big blind) folded on the Turn
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #246542698021: Tournament #3659198981, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/10/15 8:54:02 CET [2023/10/15 2:54:02 ET]
+Table '3659198981 1' 3-max Seat #1 is the button
+Seat 1: vov4iK24 (1025 in chips) 
+Seat 2: dansch1977 (130 in chips) 
+Seat 3: Mahu2021 (345 in chips) 
+dansch1977: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d 8c]
+vov4iK24: folds 
+dansch1977: calls 15
+Mahu2021: checks 
+*** FLOP *** [Tc 7s Kd]
+dansch1977: bets 60
+Mahu2021: folds 
+Uncalled bet (60) returned to dansch1977
+dansch1977 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Tc 7s Kd]
+Seat 1: vov4iK24 (button) folded before Flop (didn't bet)
+Seat 2: dansch1977 (small blind) collected (60)
+Seat 3: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #246542699639: Tournament #3659198981, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/10/15 8:54:17 CET [2023/10/15 2:54:17 ET]
+Table '3659198981 1' 3-max Seat #2 is the button
+Seat 1: vov4iK24 (1025 in chips) 
+Seat 2: dansch1977 (160 in chips) 
+Seat 3: Mahu2021 (315 in chips) 
+Mahu2021: posts small blind 20
+vov4iK24: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d Ts]
+dansch1977: raises 120 to 160 and is all-in
+Mahu2021: folds 
+vov4iK24: calls 120
+*** FLOP *** [4h 5s 4s]
+*** TURN *** [4h 5s 4s] [3c]
+*** RIVER *** [4h 5s 4s 3c] [3s]
+*** SHOW DOWN ***
+vov4iK24: shows [Jc Tc] (two pair, Fours and Threes)
+dansch1977: shows [4d Kc] (a full house, Fours full of Threes)
+dansch1977 collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | Rake 0 
+Board [4h 5s 4s 3c 3s]
+Seat 1: vov4iK24 (big blind) showed [Jc Tc] and lost with two pair, Fours and Threes
+Seat 2: dansch1977 (button) showed [4d Kc] and won (340) with a full house, Fours full of Threes
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #246542701089: Tournament #3659198981, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/10/15 8:54:30 CET [2023/10/15 2:54:30 ET]
+Table '3659198981 1' 3-max Seat #3 is the button
+Seat 1: vov4iK24 (865 in chips) 
+Seat 2: dansch1977 (340 in chips) 
+Seat 3: Mahu2021 (295 in chips) 
+vov4iK24: posts small blind 20
+dansch1977: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qd 2c]
+Mahu2021: folds 
+vov4iK24: calls 20
+dansch1977: checks 
+*** FLOP *** [5c 9h 7d]
+vov4iK24: checks 
+dansch1977: bets 80
+vov4iK24: calls 80
+*** TURN *** [5c 9h 7d] [6c]
+vov4iK24: checks 
+dansch1977: bets 120
+vov4iK24: folds 
+Uncalled bet (120) returned to dansch1977
+dansch1977 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [5c 9h 7d 6c]
+Seat 1: vov4iK24 (small blind) folded on the Turn
+Seat 2: dansch1977 (big blind) collected (240)
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #246542702854: Tournament #3659198981, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/10/15 8:54:47 CET [2023/10/15 2:54:47 ET]
+Table '3659198981 1' 3-max Seat #1 is the button
+Seat 1: vov4iK24 (745 in chips) 
+Seat 2: dansch1977 (460 in chips) 
+Seat 3: Mahu2021 (295 in chips) 
+dansch1977: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d 8s]
+vov4iK24: folds 
+dansch1977: calls 20
+Mahu2021: checks 
+*** FLOP *** [Qc 7s Jd]
+dansch1977: checks 
+Mahu2021: checks 
+*** TURN *** [Qc 7s Jd] [Kc]
+dansch1977: bets 40
+Mahu2021: folds 
+Uncalled bet (40) returned to dansch1977
+dansch1977 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Qc 7s Jd Kc]
+Seat 1: vov4iK24 (button) folded before Flop (didn't bet)
+Seat 2: dansch1977 (small blind) collected (80)
+Seat 3: Mahu2021 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #246542703913: Tournament #3659198981, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/10/15 8:54:57 CET [2023/10/15 2:54:57 ET]
+Table '3659198981 1' 3-max Seat #2 is the button
+Seat 1: vov4iK24 (745 in chips) 
+Seat 2: dansch1977 (500 in chips) 
+Seat 3: Mahu2021 (255 in chips) 
+Mahu2021: posts small blind 20
+vov4iK24: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c 6d]
+dansch1977: raises 460 to 500 and is all-in
+Mahu2021: calls 235 and is all-in
+vov4iK24: folds 
+Uncalled bet (245) returned to dansch1977
+*** FLOP *** [9c 7c Tc]
+*** TURN *** [9c 7c Tc] [Qs]
+*** RIVER *** [9c 7c Tc Qs] [3d]
+*** SHOW DOWN ***
+Mahu2021: shows [6c 6d] (a pair of Sixes)
+dansch1977: shows [Ac 6h] (high card Ace)
+Mahu2021 collected 550 from pot
+*** SUMMARY ***
+Total pot 550 | Rake 0 
+Board [9c 7c Tc Qs 3d]
+Seat 1: vov4iK24 (big blind) folded before Flop
+Seat 2: dansch1977 (button) showed [Ac 6h] and lost with high card Ace
+Seat 3: Mahu2021 (small blind) showed [6c 6d] and won (550) with a pair of Sixes
+
+
+
+PokerStars Hand #246542705354: Tournament #3659198981, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/10/15 8:55:11 CET [2023/10/15 2:55:11 ET]
+Table '3659198981 1' 3-max Seat #3 is the button
+Seat 1: vov4iK24 (705 in chips) 
+Seat 2: dansch1977 (245 in chips) 
+Seat 3: Mahu2021 (550 in chips) 
+vov4iK24: posts small blind 20
+dansch1977: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d 7s]
+Mahu2021: folds 
+vov4iK24: folds 
+Uncalled bet (20) returned to dansch1977
+dansch1977 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: vov4iK24 (small blind) folded before Flop
+Seat 2: dansch1977 (big blind) collected (40)
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #246542705928: Tournament #3659198981, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/10/15 8:55:17 CET [2023/10/15 2:55:17 ET]
+Table '3659198981 1' 3-max Seat #1 is the button
+Seat 1: vov4iK24 (685 in chips) 
+Seat 2: dansch1977 (265 in chips) 
+Seat 3: Mahu2021 (550 in chips) 
+dansch1977: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc 5h]
+vov4iK24: calls 40
+dansch1977: calls 20
+Mahu2021: checks 
+*** FLOP *** [4c 2s 3c]
+dansch1977: bets 225 and is all-in
+Mahu2021: folds 
+vov4iK24: folds 
+Uncalled bet (225) returned to dansch1977
+dansch1977 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [4c 2s 3c]
+Seat 1: vov4iK24 (button) folded on the Flop
+Seat 2: dansch1977 (small blind) collected (120)
+Seat 3: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #246542707902: Tournament #3659198981, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/10/15 8:55:38 CET [2023/10/15 2:55:38 ET]
+Table '3659198981 1' 3-max Seat #2 is the button
+Seat 1: vov4iK24 (645 in chips) 
+Seat 2: dansch1977 (345 in chips) 
+Seat 3: Mahu2021 (510 in chips) 
+Mahu2021: posts small blind 20
+vov4iK24: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac 7s]
+dansch1977: calls 40
+Mahu2021: calls 20
+vov4iK24: checks 
+*** FLOP *** [5d 5c Qs]
+Mahu2021: checks 
+vov4iK24: checks 
+dansch1977: checks 
+*** TURN *** [5d 5c Qs] [7c]
+Mahu2021: bets 40
+vov4iK24: calls 40
+dansch1977: folds 
+*** RIVER *** [5d 5c Qs 7c] [4s]
+Mahu2021: checks 
+vov4iK24: bets 100
+Mahu2021: folds 
+Uncalled bet (100) returned to vov4iK24
+vov4iK24 collected 200 from pot
+vov4iK24: doesn't show hand 
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [5d 5c Qs 7c 4s]
+Seat 1: vov4iK24 (big blind) collected (200)
+Seat 2: dansch1977 (button) folded on the Turn
+Seat 3: Mahu2021 (small blind) folded on the River
+
+
+
+PokerStars Hand #246542709669: Tournament #3659198981, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/10/15 8:55:58 CET [2023/10/15 2:55:58 ET]
+Table '3659198981 1' 3-max Seat #3 is the button
+Seat 1: vov4iK24 (765 in chips) 
+Seat 2: dansch1977 (305 in chips) 
+Seat 3: Mahu2021 (430 in chips) 
+vov4iK24: posts small blind 20
+dansch1977: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Tc Th]
+Mahu2021: raises 390 to 430 and is all-in
+vov4iK24: folds 
+dansch1977: calls 265 and is all-in
+Uncalled bet (125) returned to Mahu2021
+*** FLOP *** [Qc 4d 9c]
+*** TURN *** [Qc 4d 9c] [5d]
+*** RIVER *** [Qc 4d 9c 5d] [Ah]
+*** SHOW DOWN ***
+dansch1977: shows [Ks 5s] (a pair of Fives)
+Mahu2021: shows [Tc Th] (a pair of Tens)
+Mahu2021 collected 630 from pot
+dansch1977 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 630 | Rake 0 
+Board [Qc 4d 9c 5d Ah]
+Seat 1: vov4iK24 (small blind) folded before Flop
+Seat 2: dansch1977 (big blind) showed [Ks 5s] and lost with a pair of Fives
+Seat 3: Mahu2021 (button) showed [Tc Th] and won (630) with a pair of Tens
+
+
+
+PokerStars Hand #246542711218: Tournament #3659198981, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/10/15 8:56:15 CET [2023/10/15 2:56:15 ET]
+Table '3659198981 1' 3-max Seat #1 is the button
+Seat 1: vov4iK24 (745 in chips) 
+Seat 3: Mahu2021 (755 in chips) 
+vov4iK24: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc Kc]
+vov4iK24: calls 30
+Mahu2021: raises 120 to 180
+vov4iK24: raises 565 to 745 and is all-in
+Mahu2021: calls 565
+*** FLOP *** [5c 3h 4s]
+*** TURN *** [5c 3h 4s] [Jd]
+*** RIVER *** [5c 3h 4s Jd] [9h]
+*** SHOW DOWN ***
+Mahu2021: shows [Jc Kc] (a pair of Jacks)
+vov4iK24: shows [Ac Jh] (a pair of Jacks - Ace kicker)
+vov4iK24 collected 1490 from pot
+*** SUMMARY ***
+Total pot 1490 | Rake 0 
+Board [5c 3h 4s Jd 9h]
+Seat 1: vov4iK24 (button) (small blind) showed [Ac Jh] and won (1490) with a pair of Jacks
+Seat 3: Mahu2021 (big blind) showed [Jc Kc] and lost with a pair of Jacks
+
+
+
+PokerStars Hand #246542712842: Tournament #3659198981, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/10/15 8:56:33 CET [2023/10/15 2:56:33 ET]
+Table '3659198981 1' 3-max Seat #3 is the button
+Seat 1: vov4iK24 (1490 in chips) 
+Seat 3: Mahu2021 (10 in chips) 
+Mahu2021: posts small blind 10 and is all-in
+vov4iK24: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s Tc]
+Uncalled bet (50) returned to vov4iK24
+*** FLOP *** [2c 9c Ts]
+*** TURN *** [2c 9c Ts] [5c]
+*** RIVER *** [2c 9c Ts 5c] [8d]
+*** SHOW DOWN ***
+vov4iK24: shows [2s Ad] (a pair of Deuces)
+Mahu2021: shows [6s Tc] (a pair of Tens)
+Mahu2021 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Board [2c 9c Ts 5c 8d]
+Seat 1: vov4iK24 (big blind) showed [2s Ad] and lost with a pair of Deuces
+Seat 3: Mahu2021 (button) (small blind) showed [6s Tc] and won (20) with a pair of Tens
+
+
+
+PokerStars Hand #246542713656: Tournament #3659198981, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/10/15 8:56:41 CET [2023/10/15 2:56:41 ET]
+Table '3659198981 1' 3-max Seat #1 is the button
+Seat 1: vov4iK24 (1480 in chips) 
+Seat 3: Mahu2021 (20 in chips) 
+vov4iK24: posts small blind 30
+Mahu2021: posts big blind 20 and is all-in
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd 7c]
+Uncalled bet (10) returned to vov4iK24
+*** FLOP *** [8d Tc 8c]
+*** TURN *** [8d Tc 8c] [Jh]
+*** RIVER *** [8d Tc 8c Jh] [6d]
+*** SHOW DOWN ***
+Mahu2021: shows [Jd 7c] (two pair, Jacks and Eights)
+vov4iK24: shows [Js 5h] (two pair, Jacks and Eights)
+Mahu2021 collected 20 from pot
+vov4iK24 collected 20 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [8d Tc 8c Jh 6d]
+Seat 1: vov4iK24 (button) (small blind) showed [Js 5h] and won (20) with two pair, Jacks and Eights
+Seat 3: Mahu2021 (big blind) showed [Jd 7c] and won (20) with two pair, Jacks and Eights
+
+
+
+PokerStars Hand #246542714413: Tournament #3659198981, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/10/15 8:56:49 CET [2023/10/15 2:56:49 ET]
+Table '3659198981 1' 3-max Seat #3 is the button
+Seat 1: vov4iK24 (1480 in chips) 
+Seat 3: Mahu2021 (20 in chips) 
+Mahu2021: posts small blind 20 and is all-in
+vov4iK24: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d 2h]
+Uncalled bet (40) returned to vov4iK24
+*** FLOP *** [Tc 3h 2s]
+*** TURN *** [Tc 3h 2s] [7c]
+*** RIVER *** [Tc 3h 2s 7c] [8h]
+*** SHOW DOWN ***
+vov4iK24: shows [8s 6c] (a pair of Eights)
+Mahu2021: shows [6d 2h] (a pair of Deuces)
+vov4iK24 collected 40 from pot
+Mahu2021 finished the tournament in 2nd place
+vov4iK24 wins the tournament and receives $2.00 - congratulations!
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Tc 3h 2s 7c 8h]
+Seat 1: vov4iK24 (big blind) showed [8s 6c] and won (40) with a pair of Eights
+Seat 3: Mahu2021 (button) (small blind) showed [6d 2h] and lost with a pair of Deuces
+
+
+

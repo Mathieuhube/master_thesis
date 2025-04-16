@@ -1,0 +1,1077 @@
+﻿PokerStars Hand #242817611619: Tournament #3570702431, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/01 17:18:32 CET [2023/04/01 11:18:32 ET]
+Table '3570702431 1' 3-max Seat #1 is the button
+Seat 1: regulara (500 in chips) 
+Seat 2: ProwockatoR (500 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+ProwockatoR: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8s 4h]
+regulara: folds 
+ProwockatoR: folds 
+Uncalled bet (10) returned to Mahu2021
+Mahu2021 collected 20 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: regulara (button) folded before Flop (didn't bet)
+Seat 2: ProwockatoR (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (20)
+
+
+
+PokerStars Hand #242817616706: Tournament #3570702431, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/01 17:18:50 CET [2023/04/01 11:18:50 ET]
+Table '3570702431 1' 3-max Seat #2 is the button
+Seat 1: regulara (500 in chips) 
+Seat 2: ProwockatoR (490 in chips) 
+Seat 3: Mahu2021 (510 in chips) 
+Mahu2021: posts small blind 10
+regulara: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d Qs]
+ProwockatoR: folds 
+Mahu2021: calls 10
+regulara: checks 
+*** FLOP *** [8c As 9c]
+Mahu2021: checks 
+regulara: bets 20
+Mahu2021: calls 20
+*** TURN *** [8c As 9c] [Kh]
+Mahu2021: checks 
+regulara: checks 
+*** RIVER *** [8c As 9c Kh] [8s]
+Mahu2021: checks 
+regulara: bets 40
+Mahu2021: calls 40
+*** SHOW DOWN ***
+regulara: shows [3c Qc] (a pair of Eights)
+Mahu2021: shows [9d Qs] (two pair, Nines and Eights)
+Mahu2021 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [8c As 9c Kh 8s]
+Seat 1: regulara (big blind) showed [3c Qc] and lost with a pair of Eights
+Seat 2: ProwockatoR (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) showed [9d Qs] and won (160) with two pair, Nines and Eights
+
+
+
+PokerStars Hand #242817623796: Tournament #3570702431, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/01 17:19:13 CET [2023/04/01 11:19:13 ET]
+Table '3570702431 1' 3-max Seat #3 is the button
+Seat 1: regulara (420 in chips) 
+Seat 2: ProwockatoR (490 in chips) 
+Seat 3: Mahu2021 (590 in chips) 
+regulara: posts small blind 10
+ProwockatoR: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h Qh]
+Mahu2021: raises 20 to 40
+regulara: folds 
+ProwockatoR: calls 20
+*** FLOP *** [As 8c 2d]
+ProwockatoR: checks 
+Mahu2021: bets 40
+ProwockatoR: calls 40
+*** TURN *** [As 8c 2d] [7c]
+ProwockatoR: checks 
+Mahu2021: checks 
+*** RIVER *** [As 8c 2d 7c] [3d]
+ProwockatoR: bets 85
+Mahu2021: calls 85
+*** SHOW DOWN ***
+ProwockatoR: shows [Ad 4d] (a pair of Aces)
+Mahu2021: mucks hand 
+ProwockatoR collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | Rake 0 
+Board [As 8c 2d 7c 3d]
+Seat 1: regulara (small blind) folded before Flop
+Seat 2: ProwockatoR (big blind) showed [Ad 4d] and won (340) with a pair of Aces
+Seat 3: Mahu2021 (button) mucked [3h Qh]
+
+
+
+PokerStars Hand #242817630732: Tournament #3570702431, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/01 17:19:36 CET [2023/04/01 11:19:36 ET]
+Table '3570702431 1' 3-max Seat #1 is the button
+Seat 1: regulara (410 in chips) 
+Seat 2: ProwockatoR (665 in chips) 
+Seat 3: Mahu2021 (425 in chips) 
+ProwockatoR: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh 7s]
+regulara: folds 
+ProwockatoR: raises 30 to 50
+Mahu2021: calls 30
+*** FLOP *** [8h 3h 7h]
+ProwockatoR: bets 30
+Mahu2021: calls 30
+*** TURN *** [8h 3h 7h] [6d]
+ProwockatoR: bets 48
+Mahu2021: calls 48
+*** RIVER *** [8h 3h 7h 6d] [5c]
+ProwockatoR: bets 77
+Mahu2021: calls 77
+*** SHOW DOWN ***
+ProwockatoR: shows [8c Tc] (a pair of Eights)
+Mahu2021: mucks hand 
+ProwockatoR collected 410 from pot
+*** SUMMARY ***
+Total pot 410 | Rake 0 
+Board [8h 3h 7h 6d 5c]
+Seat 1: regulara (button) folded before Flop (didn't bet)
+Seat 2: ProwockatoR (small blind) showed [8c Tc] and won (410) with a pair of Eights
+Seat 3: Mahu2021 (big blind) mucked [Jh 7s]
+
+
+
+PokerStars Hand #242817637402: Tournament #3570702431, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/01 17:19:59 CET [2023/04/01 11:19:59 ET]
+Table '3570702431 1' 3-max Seat #2 is the button
+Seat 1: regulara (410 in chips) 
+Seat 2: ProwockatoR (870 in chips) 
+Seat 3: Mahu2021 (220 in chips) 
+Mahu2021: posts small blind 10
+regulara: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h 3s]
+ProwockatoR: folds 
+Mahu2021: folds 
+Uncalled bet (10) returned to regulara
+regulara collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: regulara (big blind) collected (20)
+Seat 2: ProwockatoR (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #242817639134: Tournament #3570702431, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/01 17:20:05 CET [2023/04/01 11:20:05 ET]
+Table '3570702431 1' 3-max Seat #3 is the button
+Seat 1: regulara (420 in chips) 
+Seat 2: ProwockatoR (870 in chips) 
+Seat 3: Mahu2021 (210 in chips) 
+regulara: posts small blind 10
+ProwockatoR: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2s Jd]
+Mahu2021: folds 
+regulara: raises 20 to 40
+ProwockatoR: folds 
+Uncalled bet (20) returned to regulara
+regulara collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: regulara (small blind) collected (40)
+Seat 2: ProwockatoR (big blind) folded before Flop
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #242817641974: Tournament #3570702431, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/01 17:20:14 CET [2023/04/01 11:20:14 ET]
+Table '3570702431 1' 3-max Seat #1 is the button
+Seat 1: regulara (440 in chips) 
+Seat 2: ProwockatoR (850 in chips) 
+Seat 3: Mahu2021 (210 in chips) 
+ProwockatoR: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd 8c]
+regulara: raises 20 to 40
+ProwockatoR: folds 
+Mahu2021: raises 170 to 210 and is all-in
+regulara: calls 170
+*** FLOP *** [Qd Ah Js]
+*** TURN *** [Qd Ah Js] [4h]
+*** RIVER *** [Qd Ah Js 4h] [3s]
+*** SHOW DOWN ***
+Mahu2021: shows [Kd 8c] (high card Ace)
+regulara: shows [8d 9s] (high card Ace - lower kicker)
+Mahu2021 collected 430 from pot
+*** SUMMARY ***
+Total pot 430 | Rake 0 
+Board [Qd Ah Js 4h 3s]
+Seat 1: regulara (button) showed [8d 9s] and lost with high card Ace
+Seat 2: ProwockatoR (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) showed [Kd 8c] and won (430) with high card Ace
+
+
+
+PokerStars Hand #242817647660: Tournament #3570702431, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/01 17:20:33 CET [2023/04/01 11:20:33 ET]
+Table '3570702431 1' 3-max Seat #2 is the button
+Seat 1: regulara (230 in chips) 
+Seat 2: ProwockatoR (840 in chips) 
+Seat 3: Mahu2021 (430 in chips) 
+Mahu2021: posts small blind 10
+regulara: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Th Qc]
+ProwockatoR: raises 20 to 40
+Mahu2021: calls 30
+regulara: calls 20
+*** FLOP *** [Qh Jc 8s]
+Mahu2021: bets 390 and is all-in
+regulara: folds 
+ProwockatoR: calls 390
+*** TURN *** [Qh Jc 8s] [6h]
+*** RIVER *** [Qh Jc 8s 6h] [5d]
+*** SHOW DOWN ***
+Mahu2021: shows [Th Qc] (a pair of Queens)
+ProwockatoR: shows [Tc Ad] (high card Ace)
+Mahu2021 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | Rake 0 
+Board [Qh Jc 8s 6h 5d]
+Seat 1: regulara (big blind) folded on the Flop
+Seat 2: ProwockatoR (button) showed [Tc Ad] and lost with high card Ace
+Seat 3: Mahu2021 (small blind) showed [Th Qc] and won (900) with a pair of Queens
+
+
+
+PokerStars Hand #242817656049: Tournament #3570702431, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/01 17:21:01 CET [2023/04/01 11:21:01 ET]
+Table '3570702431 1' 3-max Seat #3 is the button
+Seat 1: regulara (190 in chips) 
+Seat 2: ProwockatoR (410 in chips) 
+Seat 3: Mahu2021 (900 in chips) 
+regulara: posts small blind 15
+ProwockatoR: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4c Qd]
+Mahu2021: folds 
+regulara: raises 160 to 190 and is all-in
+ProwockatoR: folds 
+Uncalled bet (160) returned to regulara
+regulara collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: regulara (small blind) collected (60)
+Seat 2: ProwockatoR (big blind) folded before Flop
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #242817659156: Tournament #3570702431, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/01 17:21:11 CET [2023/04/01 11:21:11 ET]
+Table '3570702431 1' 3-max Seat #1 is the button
+Seat 1: regulara (220 in chips) 
+Seat 2: ProwockatoR (380 in chips) 
+Seat 3: Mahu2021 (900 in chips) 
+ProwockatoR: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh 8c]
+regulara: raises 30 to 60
+ProwockatoR: folds 
+Mahu2021: calls 30
+*** FLOP *** [2s Kc 9h]
+Mahu2021: checks 
+regulara: bets 160 and is all-in
+Mahu2021: folds 
+Uncalled bet (160) returned to regulara
+regulara collected 135 from pot
+*** SUMMARY ***
+Total pot 135 | Rake 0 
+Board [2s Kc 9h]
+Seat 1: regulara (button) collected (135)
+Seat 2: ProwockatoR (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #242817665787: Tournament #3570702431, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/01 17:21:34 CET [2023/04/01 11:21:34 ET]
+Table '3570702431 1' 3-max Seat #2 is the button
+Seat 1: regulara (295 in chips) 
+Seat 2: ProwockatoR (365 in chips) 
+Seat 3: Mahu2021 (840 in chips) 
+Mahu2021: posts small blind 15
+regulara: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s Kc]
+ProwockatoR: folds 
+Mahu2021: calls 15
+regulara: checks 
+*** FLOP *** [6c Jc 7h]
+Mahu2021: bets 30
+regulara: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [6c Jc 7h]
+Seat 1: regulara (big blind) folded on the Flop
+Seat 2: ProwockatoR (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) collected (60)
+
+
+
+PokerStars Hand #242817669553: Tournament #3570702431, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/01 17:21:46 CET [2023/04/01 11:21:46 ET]
+Table '3570702431 1' 3-max Seat #3 is the button
+Seat 1: regulara (265 in chips) 
+Seat 2: ProwockatoR (365 in chips) 
+Seat 3: Mahu2021 (870 in chips) 
+regulara: posts small blind 15
+ProwockatoR: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c Qh]
+Mahu2021: folds 
+regulara: folds 
+Uncalled bet (15) returned to ProwockatoR
+ProwockatoR collected 30 from pot
+ProwockatoR: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: regulara (small blind) folded before Flop
+Seat 2: ProwockatoR (big blind) collected (30)
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #242817673255: Tournament #3570702431, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/01 17:21:58 CET [2023/04/01 11:21:58 ET]
+Table '3570702431 1' 3-max Seat #1 is the button
+Seat 1: regulara (250 in chips) 
+Seat 2: ProwockatoR (380 in chips) 
+Seat 3: Mahu2021 (870 in chips) 
+ProwockatoR: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4c 9h]
+regulara: folds 
+ProwockatoR: raises 350 to 380 and is all-in
+Mahu2021: folds 
+Uncalled bet (350) returned to ProwockatoR
+ProwockatoR collected 60 from pot
+ProwockatoR: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: regulara (button) folded before Flop (didn't bet)
+Seat 2: ProwockatoR (small blind) collected (60)
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #242817675229: Tournament #3570702431, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/01 17:22:05 CET [2023/04/01 11:22:05 ET]
+Table '3570702431 1' 3-max Seat #2 is the button
+Seat 1: regulara (250 in chips) 
+Seat 2: ProwockatoR (410 in chips) 
+Seat 3: Mahu2021 (840 in chips) 
+Mahu2021: posts small blind 15
+regulara: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks 4h]
+ProwockatoR: raises 380 to 410 and is all-in
+Mahu2021: folds 
+regulara: folds 
+Uncalled bet (380) returned to ProwockatoR
+ProwockatoR collected 75 from pot
+ProwockatoR: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: regulara (big blind) folded before Flop
+Seat 2: ProwockatoR (button) collected (75)
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #242817677886: Tournament #3570702431, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/01 17:22:14 CET [2023/04/01 11:22:14 ET]
+Table '3570702431 1' 3-max Seat #3 is the button
+Seat 1: regulara (220 in chips) 
+Seat 2: ProwockatoR (455 in chips) 
+Seat 3: Mahu2021 (825 in chips) 
+regulara: posts small blind 15
+ProwockatoR: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc 4h]
+Mahu2021: folds 
+regulara: folds 
+Uncalled bet (15) returned to ProwockatoR
+ProwockatoR collected 30 from pot
+ProwockatoR: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: regulara (small blind) folded before Flop
+Seat 2: ProwockatoR (big blind) collected (30)
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #242817681238: Tournament #3570702431, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/01 17:22:25 CET [2023/04/01 11:22:25 ET]
+Table '3570702431 1' 3-max Seat #1 is the button
+Seat 1: regulara (205 in chips) 
+Seat 2: ProwockatoR (470 in chips) 
+Seat 3: Mahu2021 (825 in chips) 
+ProwockatoR: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h Td]
+regulara: folds 
+ProwockatoR: raises 440 to 470 and is all-in
+Mahu2021: folds 
+Uncalled bet (440) returned to ProwockatoR
+ProwockatoR collected 60 from pot
+ProwockatoR: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: regulara (button) folded before Flop (didn't bet)
+Seat 2: ProwockatoR (small blind) collected (60)
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #242817685222: Tournament #3570702431, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/01 17:22:38 CET [2023/04/01 11:22:38 ET]
+Table '3570702431 1' 3-max Seat #2 is the button
+Seat 1: regulara (205 in chips) 
+Seat 2: ProwockatoR (500 in chips) 
+Seat 3: Mahu2021 (795 in chips) 
+Mahu2021: posts small blind 20
+regulara: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh 7c]
+ProwockatoR: folds 
+Mahu2021: raises 755 to 795 and is all-in
+regulara: folds 
+Uncalled bet (755) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: regulara (big blind) folded before Flop
+Seat 2: ProwockatoR (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) collected (80)
+
+
+
+PokerStars Hand #242817687431: Tournament #3570702431, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/01 17:22:45 CET [2023/04/01 11:22:45 ET]
+Table '3570702431 1' 3-max Seat #3 is the button
+Seat 1: regulara (165 in chips) 
+Seat 2: ProwockatoR (500 in chips) 
+Seat 3: Mahu2021 (835 in chips) 
+regulara: posts small blind 20
+ProwockatoR: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6h Qc]
+Mahu2021: folds 
+regulara: raises 40 to 80
+ProwockatoR: calls 40
+*** FLOP *** [Td Jd 3s]
+regulara: bets 85 and is all-in
+ProwockatoR: calls 85
+*** TURN *** [Td Jd 3s] [3d]
+*** RIVER *** [Td Jd 3s 3d] [Ac]
+*** SHOW DOWN ***
+regulara: shows [8h Ts] (two pair, Tens and Threes)
+ProwockatoR: shows [4s Js] (two pair, Jacks and Threes)
+ProwockatoR collected 330 from pot
+regulara finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 330 | Rake 0 
+Board [Td Jd 3s 3d Ac]
+Seat 1: regulara (small blind) showed [8h Ts] and lost with two pair, Tens and Threes
+Seat 2: ProwockatoR (big blind) showed [4s Js] and won (330) with two pair, Jacks and Threes
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #242817695946: Tournament #3570702431, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/01 17:23:13 CET [2023/04/01 11:23:13 ET]
+Table '3570702431 1' 3-max Seat #2 is the button
+Seat 2: ProwockatoR (665 in chips) 
+Seat 3: Mahu2021 (835 in chips) 
+ProwockatoR: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s Jd]
+ProwockatoR: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: ProwockatoR (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (40)
+
+
+
+PokerStars Hand #242817697433: Tournament #3570702431, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/01 17:23:18 CET [2023/04/01 11:23:18 ET]
+Table '3570702431 1' 3-max Seat #3 is the button
+Seat 2: ProwockatoR (645 in chips) 
+Seat 3: Mahu2021 (855 in chips) 
+Mahu2021: posts small blind 20
+ProwockatoR: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qs 4d]
+Mahu2021: folds 
+Uncalled bet (20) returned to ProwockatoR
+ProwockatoR collected 40 from pot
+ProwockatoR: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: ProwockatoR (big blind) collected (40)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #242817698783: Tournament #3570702431, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/01 17:23:22 CET [2023/04/01 11:23:22 ET]
+Table '3570702431 1' 3-max Seat #2 is the button
+Seat 2: ProwockatoR (665 in chips) 
+Seat 3: Mahu2021 (835 in chips) 
+ProwockatoR: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js 2s]
+ProwockatoR: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: ProwockatoR (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (40)
+
+
+
+PokerStars Hand #242817700226: Tournament #3570702431, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/01 17:23:27 CET [2023/04/01 11:23:27 ET]
+Table '3570702431 1' 3-max Seat #3 is the button
+Seat 2: ProwockatoR (645 in chips) 
+Seat 3: Mahu2021 (855 in chips) 
+Mahu2021: posts small blind 20
+ProwockatoR: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Tc 7s]
+Mahu2021: calls 20
+ProwockatoR: checks 
+*** FLOP *** [4h Qh 3c]
+ProwockatoR: checks 
+Mahu2021: bets 40
+ProwockatoR: calls 40
+*** TURN *** [4h Qh 3c] [2d]
+ProwockatoR: checks 
+Mahu2021: checks 
+*** RIVER *** [4h Qh 3c 2d] [3s]
+ProwockatoR: bets 80
+Mahu2021: folds 
+Uncalled bet (80) returned to ProwockatoR
+ProwockatoR collected 160 from pot
+ProwockatoR: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [4h Qh 3c 2d 3s]
+Seat 2: ProwockatoR (big blind) collected (160)
+Seat 3: Mahu2021 (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #242817705815: Tournament #3570702431, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/01 17:23:46 CET [2023/04/01 11:23:46 ET]
+Table '3570702431 1' 3-max Seat #2 is the button
+Seat 2: ProwockatoR (725 in chips) 
+Seat 3: Mahu2021 (775 in chips) 
+ProwockatoR: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s Ks]
+ProwockatoR: calls 20
+Mahu2021: checks 
+*** FLOP *** [5c 2d 8d]
+Mahu2021: checks 
+ProwockatoR: bets 40
+Mahu2021: calls 40
+*** TURN *** [5c 2d 8d] [9d]
+Mahu2021: checks 
+ProwockatoR: checks 
+*** RIVER *** [5c 2d 8d 9d] [Ad]
+Mahu2021: bets 160
+ProwockatoR: folds 
+Uncalled bet (160) returned to Mahu2021
+Mahu2021 collected 160 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [5c 2d 8d 9d Ad]
+Seat 2: ProwockatoR (button) (small blind) folded on the River
+Seat 3: Mahu2021 (big blind) collected (160)
+
+
+
+PokerStars Hand #242817710728: Tournament #3570702431, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/01 17:24:02 CET [2023/04/01 11:24:02 ET]
+Table '3570702431 1' 3-max Seat #3 is the button
+Seat 2: ProwockatoR (645 in chips) 
+Seat 3: Mahu2021 (855 in chips) 
+Mahu2021: posts small blind 20
+ProwockatoR: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd 5s]
+Mahu2021: calls 20
+ProwockatoR: checks 
+*** FLOP *** [9s Jh 8h]
+ProwockatoR: checks 
+Mahu2021: checks 
+*** TURN *** [9s Jh 8h] [Qd]
+ProwockatoR: checks 
+Mahu2021: checks 
+*** RIVER *** [9s Jh 8h Qd] [8d]
+ProwockatoR: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+ProwockatoR: shows [4d 3d] (a pair of Eights)
+Mahu2021: shows [Kd 5s] (a pair of Eights - King kicker)
+Mahu2021 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [9s Jh 8h Qd 8d]
+Seat 2: ProwockatoR (big blind) showed [4d 3d] and lost with a pair of Eights
+Seat 3: Mahu2021 (button) (small blind) showed [Kd 5s] and won (80) with a pair of Eights
+
+
+
+PokerStars Hand #242817714890: Tournament #3570702431, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/01 17:24:16 CET [2023/04/01 11:24:16 ET]
+Table '3570702431 1' 3-max Seat #2 is the button
+Seat 2: ProwockatoR (605 in chips) 
+Seat 3: Mahu2021 (895 in chips) 
+ProwockatoR: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts 3d]
+ProwockatoR: raises 40 to 80
+Mahu2021: folds 
+Uncalled bet (40) returned to ProwockatoR
+ProwockatoR collected 80 from pot
+ProwockatoR: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: ProwockatoR (button) (small blind) collected (80)
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #242817716626: Tournament #3570702431, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/01 17:24:21 CET [2023/04/01 11:24:21 ET]
+Table '3570702431 1' 3-max Seat #3 is the button
+Seat 2: ProwockatoR (645 in chips) 
+Seat 3: Mahu2021 (855 in chips) 
+Mahu2021: posts small blind 20
+ProwockatoR: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh 8h]
+Mahu2021: calls 20
+ProwockatoR: raises 605 to 645 and is all-in
+Mahu2021: folds 
+Uncalled bet (605) returned to ProwockatoR
+ProwockatoR collected 80 from pot
+ProwockatoR: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: ProwockatoR (big blind) collected (80)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #242817719073: Tournament #3570702431, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/01 17:24:29 CET [2023/04/01 11:24:29 ET]
+Table '3570702431 1' 3-max Seat #2 is the button
+Seat 2: ProwockatoR (685 in chips) 
+Seat 3: Mahu2021 (815 in chips) 
+ProwockatoR: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h 5s]
+ProwockatoR: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: ProwockatoR (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (40)
+
+
+
+PokerStars Hand #242817721751: Tournament #3570702431, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/04/01 17:24:38 CET [2023/04/01 11:24:38 ET]
+Table '3570702431 1' 3-max Seat #3 is the button
+Seat 2: ProwockatoR (665 in chips) 
+Seat 3: Mahu2021 (835 in chips) 
+Mahu2021: posts small blind 30
+ProwockatoR: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c 3h]
+Mahu2021: calls 30
+ProwockatoR: checks 
+*** FLOP *** [7s As 8s]
+ProwockatoR: checks 
+Mahu2021: bets 60
+ProwockatoR: calls 60
+*** TURN *** [7s As 8s] [Kd]
+ProwockatoR: checks 
+Mahu2021: checks 
+*** RIVER *** [7s As 8s Kd] [Qd]
+ProwockatoR: checks 
+Mahu2021: bets 240
+ProwockatoR: folds 
+Uncalled bet (240) returned to Mahu2021
+Mahu2021 collected 240 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [7s As 8s Kd Qd]
+Seat 2: ProwockatoR (big blind) folded on the River
+Seat 3: Mahu2021 (button) (small blind) collected (240)
+
+
+
+PokerStars Hand #242817727130: Tournament #3570702431, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/04/01 17:24:56 CET [2023/04/01 11:24:56 ET]
+Table '3570702431 1' 3-max Seat #2 is the button
+Seat 2: ProwockatoR (545 in chips) 
+Seat 3: Mahu2021 (955 in chips) 
+ProwockatoR: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c As]
+ProwockatoR: raises 485 to 545 and is all-in
+Mahu2021: calls 485
+*** FLOP *** [8d Ks 4h]
+*** TURN *** [8d Ks 4h] [8s]
+*** RIVER *** [8d Ks 4h 8s] [Jh]
+*** SHOW DOWN ***
+Mahu2021: shows [5c As] (a pair of Eights)
+ProwockatoR: shows [9h Kd] (two pair, Kings and Eights)
+ProwockatoR collected 1090 from pot
+*** SUMMARY ***
+Total pot 1090 | Rake 0 
+Board [8d Ks 4h 8s Jh]
+Seat 2: ProwockatoR (button) (small blind) showed [9h Kd] and won (1090) with two pair, Kings and Eights
+Seat 3: Mahu2021 (big blind) showed [5c As] and lost with a pair of Eights
+
+
+
+PokerStars Hand #242817730982: Tournament #3570702431, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/04/01 17:25:09 CET [2023/04/01 11:25:09 ET]
+Table '3570702431 1' 3-max Seat #3 is the button
+Seat 2: ProwockatoR (1090 in chips) 
+Seat 3: Mahu2021 (410 in chips) 
+Mahu2021: posts small blind 30
+ProwockatoR: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h 8d]
+Mahu2021: raises 350 to 410 and is all-in
+ProwockatoR: folds 
+Uncalled bet (350) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: ProwockatoR (big blind) folded before Flop
+Seat 3: Mahu2021 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #242817732893: Tournament #3570702431, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/04/01 17:25:15 CET [2023/04/01 11:25:15 ET]
+Table '3570702431 1' 3-max Seat #2 is the button
+Seat 2: ProwockatoR (1030 in chips) 
+Seat 3: Mahu2021 (470 in chips) 
+ProwockatoR: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s 4s]
+ProwockatoR: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: ProwockatoR (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (60)
+
+
+
+PokerStars Hand #242817734654: Tournament #3570702431, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/04/01 17:25:21 CET [2023/04/01 11:25:21 ET]
+Table '3570702431 1' 3-max Seat #3 is the button
+Seat 2: ProwockatoR (1000 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+Mahu2021: posts small blind 30
+ProwockatoR: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js Jd]
+Mahu2021: raises 440 to 500 and is all-in
+ProwockatoR: calls 440
+*** FLOP *** [7s 7h Ah]
+*** TURN *** [7s 7h Ah] [4d]
+*** RIVER *** [7s 7h Ah 4d] [4h]
+*** SHOW DOWN ***
+ProwockatoR: shows [Qc Kh] (two pair, Sevens and Fours)
+Mahu2021: shows [Js Jd] (two pair, Jacks and Sevens)
+Mahu2021 collected 1000 from pot
+*** SUMMARY ***
+Total pot 1000 | Rake 0 
+Board [7s 7h Ah 4d 4h]
+Seat 2: ProwockatoR (big blind) showed [Qc Kh] and lost with two pair, Sevens and Fours
+Seat 3: Mahu2021 (button) (small blind) showed [Js Jd] and won (1000) with two pair, Jacks and Sevens
+
+
+
+PokerStars Hand #242817738258: Tournament #3570702431, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/04/01 17:25:33 CET [2023/04/01 11:25:33 ET]
+Table '3570702431 1' 3-max Seat #2 is the button
+Seat 2: ProwockatoR (500 in chips) 
+Seat 3: Mahu2021 (1000 in chips) 
+ProwockatoR: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh 3h]
+ProwockatoR: raises 440 to 500 and is all-in
+Mahu2021: folds 
+Uncalled bet (440) returned to ProwockatoR
+ProwockatoR collected 120 from pot
+ProwockatoR: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: ProwockatoR (button) (small blind) collected (120)
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #242817740038: Tournament #3570702431, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/04/01 17:25:39 CET [2023/04/01 11:25:39 ET]
+Table '3570702431 1' 3-max Seat #3 is the button
+Seat 2: ProwockatoR (560 in chips) 
+Seat 3: Mahu2021 (940 in chips) 
+Mahu2021: posts small blind 30
+ProwockatoR: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js 8s]
+Mahu2021: calls 30
+ProwockatoR: raises 500 to 560 and is all-in
+Mahu2021: folds 
+Uncalled bet (500) returned to ProwockatoR
+ProwockatoR collected 120 from pot
+ProwockatoR: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: ProwockatoR (big blind) collected (120)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #242817742097: Tournament #3570702431, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/04/01 17:25:46 CET [2023/04/01 11:25:46 ET]
+Table '3570702431 1' 3-max Seat #2 is the button
+Seat 2: ProwockatoR (620 in chips) 
+Seat 3: Mahu2021 (880 in chips) 
+ProwockatoR: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c 5s]
+ProwockatoR: raises 560 to 620 and is all-in
+Mahu2021: folds 
+Uncalled bet (560) returned to ProwockatoR
+ProwockatoR collected 120 from pot
+ProwockatoR: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: ProwockatoR (button) (small blind) collected (120)
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #242817743639: Tournament #3570702431, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/04/01 17:25:51 CET [2023/04/01 11:25:51 ET]
+Table '3570702431 1' 3-max Seat #3 is the button
+Seat 2: ProwockatoR (680 in chips) 
+Seat 3: Mahu2021 (820 in chips) 
+Mahu2021: posts small blind 30
+ProwockatoR: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c 6h]
+Mahu2021: calls 30
+ProwockatoR: checks 
+*** FLOP *** [Ks 2c 9d]
+ProwockatoR: checks 
+Mahu2021: checks 
+*** TURN *** [Ks 2c 9d] [3s]
+ProwockatoR: bets 60
+Mahu2021: folds 
+Uncalled bet (60) returned to ProwockatoR
+ProwockatoR collected 120 from pot
+ProwockatoR: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Ks 2c 9d 3s]
+Seat 2: ProwockatoR (big blind) collected (120)
+Seat 3: Mahu2021 (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #242817746850: Tournament #3570702431, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/04/01 17:26:01 CET [2023/04/01 11:26:01 ET]
+Table '3570702431 1' 3-max Seat #2 is the button
+Seat 2: ProwockatoR (740 in chips) 
+Seat 3: Mahu2021 (760 in chips) 
+ProwockatoR: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh 8c]
+ProwockatoR: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: ProwockatoR (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (60)
+
+
+
+PokerStars Hand #242817748330: Tournament #3570702431, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/04/01 17:26:06 CET [2023/04/01 11:26:06 ET]
+Table '3570702431 1' 3-max Seat #3 is the button
+Seat 2: ProwockatoR (710 in chips) 
+Seat 3: Mahu2021 (790 in chips) 
+Mahu2021: posts small blind 30
+ProwockatoR: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h Ac]
+Mahu2021: raises 730 to 790 and is all-in
+ProwockatoR: folds 
+Uncalled bet (730) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: ProwockatoR (big blind) folded before Flop
+Seat 3: Mahu2021 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #242817750405: Tournament #3570702431, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/04/01 17:26:13 CET [2023/04/01 11:26:13 ET]
+Table '3570702431 1' 3-max Seat #2 is the button
+Seat 2: ProwockatoR (650 in chips) 
+Seat 3: Mahu2021 (850 in chips) 
+ProwockatoR: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s 6d]
+ProwockatoR: raises 590 to 650 and is all-in
+Mahu2021: folds 
+Uncalled bet (590) returned to ProwockatoR
+ProwockatoR collected 120 from pot
+ProwockatoR: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: ProwockatoR (button) (small blind) collected (120)
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #242817752154: Tournament #3570702431, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/04/01 17:26:19 CET [2023/04/01 11:26:19 ET]
+Table '3570702431 1' 3-max Seat #3 is the button
+Seat 2: ProwockatoR (710 in chips) 
+Seat 3: Mahu2021 (790 in chips) 
+Mahu2021: posts small blind 30
+ProwockatoR: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc Ks]
+Mahu2021: calls 30
+ProwockatoR: checks 
+*** FLOP *** [5s 9h 7s]
+ProwockatoR: checks 
+Mahu2021: bets 60
+ProwockatoR: calls 60
+*** TURN *** [5s 9h 7s] [Kc]
+ProwockatoR: checks 
+Mahu2021: bets 60
+ProwockatoR: raises 180 to 240
+Mahu2021: raises 430 to 670 and is all-in
+ProwockatoR: folds 
+Uncalled bet (430) returned to Mahu2021
+Mahu2021 collected 720 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 720 | Rake 0 
+Board [5s 9h 7s Kc]
+Seat 2: ProwockatoR (big blind) folded on the Turn
+Seat 3: Mahu2021 (button) (small blind) collected (720)
+
+
+
+PokerStars Hand #242817757862: Tournament #3570702431, $0.92+$0.08 USD Hold'em No Limit - Level V (40/80) - 2023/04/01 17:26:38 CET [2023/04/01 11:26:38 ET]
+Table '3570702431 1' 3-max Seat #2 is the button
+Seat 2: ProwockatoR (350 in chips) 
+Seat 3: Mahu2021 (1150 in chips) 
+ProwockatoR: posts small blind 40
+Mahu2021: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh 5c]
+ProwockatoR: raises 270 to 350 and is all-in
+Mahu2021: calls 270
+*** FLOP *** [4h 5d 7s]
+*** TURN *** [4h 5d 7s] [Ac]
+*** RIVER *** [4h 5d 7s Ac] [Jh]
+*** SHOW DOWN ***
+Mahu2021: shows [Kh 5c] (a pair of Fives)
+ProwockatoR: shows [3s As] (a pair of Aces)
+ProwockatoR collected 700 from pot
+*** SUMMARY ***
+Total pot 700 | Rake 0 
+Board [4h 5d 7s Ac Jh]
+Seat 2: ProwockatoR (button) (small blind) showed [3s As] and won (700) with a pair of Aces
+Seat 3: Mahu2021 (big blind) showed [Kh 5c] and lost with a pair of Fives
+
+
+
+PokerStars Hand #242817761510: Tournament #3570702431, $0.92+$0.08 USD Hold'em No Limit - Level V (40/80) - 2023/04/01 17:26:50 CET [2023/04/01 11:26:50 ET]
+Table '3570702431 1' 3-max Seat #3 is the button
+Seat 2: ProwockatoR (700 in chips) 
+Seat 3: Mahu2021 (800 in chips) 
+Mahu2021: posts small blind 40
+ProwockatoR: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2c Th]
+Mahu2021: folds 
+Uncalled bet (40) returned to ProwockatoR
+ProwockatoR collected 80 from pot
+ProwockatoR: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: ProwockatoR (big blind) collected (80)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #242817762781: Tournament #3570702431, $0.92+$0.08 USD Hold'em No Limit - Level V (40/80) - 2023/04/01 17:26:54 CET [2023/04/01 11:26:54 ET]
+Table '3570702431 1' 3-max Seat #2 is the button
+Seat 2: ProwockatoR (740 in chips) 
+Seat 3: Mahu2021 (760 in chips) 
+ProwockatoR: posts small blind 40
+Mahu2021: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh Jh]
+ProwockatoR: raises 660 to 740 and is all-in
+Mahu2021: calls 660
+*** FLOP *** [3d 7s As]
+*** TURN *** [3d 7s As] [8s]
+*** RIVER *** [3d 7s As 8s] [4h]
+*** SHOW DOWN ***
+Mahu2021: shows [Kh Jh] (high card Ace)
+ProwockatoR: shows [8h Ah] (two pair, Aces and Eights)
+ProwockatoR collected 1480 from pot
+*** SUMMARY ***
+Total pot 1480 | Rake 0 
+Board [3d 7s As 8s 4h]
+Seat 2: ProwockatoR (button) (small blind) showed [8h Ah] and won (1480) with two pair, Aces and Eights
+Seat 3: Mahu2021 (big blind) showed [Kh Jh] and lost with high card Ace
+
+
+
+PokerStars Hand #242817766376: Tournament #3570702431, $0.92+$0.08 USD Hold'em No Limit - Level V (40/80) - 2023/04/01 17:27:06 CET [2023/04/01 11:27:06 ET]
+Table '3570702431 1' 3-max Seat #3 is the button
+Seat 2: ProwockatoR (1480 in chips) 
+Seat 3: Mahu2021 (20 in chips) 
+Mahu2021: posts small blind 20 and is all-in
+ProwockatoR: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd As]
+Uncalled bet (60) returned to ProwockatoR
+*** FLOP *** [6s 7d 9d]
+*** TURN *** [6s 7d 9d] [4h]
+*** RIVER *** [6s 7d 9d 4h] [9s]
+*** SHOW DOWN ***
+ProwockatoR: shows [2h 9c] (three of a kind, Nines)
+Mahu2021: shows [Jd As] (a pair of Nines)
+ProwockatoR collected 40 from pot
+Mahu2021 finished the tournament in 2nd place
+ProwockatoR wins the tournament and receives $2.00 - congratulations!
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [6s 7d 9d 4h 9s]
+Seat 2: ProwockatoR (big blind) showed [2h 9c] and won (40) with three of a kind, Nines
+Seat 3: Mahu2021 (button) (small blind) showed [Jd As] and lost with a pair of Nines
+
+
+

@@ -1,0 +1,946 @@
+﻿PokerStars Hand #242835940866: Tournament #3571114757, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/02 14:04:26 CET [2023/04/02 8:04:26 ET]
+Table '3571114757 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: Apoleon97 (500 in chips) 
+Seat 3: Juselis (500 in chips) 
+Apoleon97: posts small blind 10
+Juselis: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js 6h]
+Mahu2021: folds 
+Apoleon97: calls 10
+Juselis: checks 
+*** FLOP *** [2d 6c 8d]
+Apoleon97: checks 
+Juselis: checks 
+*** TURN *** [2d 6c 8d] [5h]
+Apoleon97: checks 
+Juselis: bets 20
+Apoleon97: calls 20
+*** RIVER *** [2d 6c 8d 5h] [3d]
+Apoleon97: checks 
+Juselis: checks 
+*** SHOW DOWN ***
+Apoleon97: shows [Kc 5s] (a pair of Fives)
+Juselis: mucks hand 
+Apoleon97 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [2d 6c 8d 5h 3d]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: Apoleon97 (small blind) showed [Kc 5s] and won (80) with a pair of Fives
+Seat 3: Juselis (big blind) mucked [7h 3h]
+
+
+
+PokerStars Hand #242835949250: Tournament #3571114757, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/02 14:05:06 CET [2023/04/02 8:05:06 ET]
+Table '3571114757 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: Apoleon97 (540 in chips) 
+Seat 3: Juselis (460 in chips) 
+Juselis: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h 2h]
+Apoleon97: folds 
+Juselis: calls 10
+Mahu2021: checks 
+*** FLOP *** [2d 3s 5s]
+Juselis: checks 
+Mahu2021: bets 40
+Juselis: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [2d 3s 5s]
+Seat 1: Mahu2021 (big blind) collected (40)
+Seat 2: Apoleon97 (button) folded before Flop (didn't bet)
+Seat 3: Juselis (small blind) folded on the Flop
+
+
+
+PokerStars Hand #242835954349: Tournament #3571114757, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/02 14:05:30 CET [2023/04/02 8:05:30 ET]
+Table '3571114757 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (520 in chips) 
+Seat 2: Apoleon97 (540 in chips) 
+Seat 3: Juselis (440 in chips) 
+Mahu2021: posts small blind 10
+Apoleon97: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d 5d]
+Juselis: raises 20 to 40
+Mahu2021: folds 
+Apoleon97: folds 
+Uncalled bet (20) returned to Juselis
+Juselis collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: Apoleon97 (big blind) folded before Flop
+Seat 3: Juselis (button) collected (50)
+
+
+
+PokerStars Hand #242835957327: Tournament #3571114757, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/02 14:05:43 CET [2023/04/02 8:05:43 ET]
+Table '3571114757 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (510 in chips) 
+Seat 2: Apoleon97 (520 in chips) 
+Seat 3: Juselis (470 in chips) 
+Apoleon97: posts small blind 10
+Juselis: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h 6h]
+Mahu2021: folds 
+Apoleon97: raises 40 to 60
+Juselis: calls 40
+*** FLOP *** [Qs 5d As]
+Apoleon97: checks 
+Juselis: bets 60
+Apoleon97: folds 
+Uncalled bet (60) returned to Juselis
+Juselis collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Qs 5d As]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: Apoleon97 (small blind) folded on the Flop
+Seat 3: Juselis (big blind) collected (120)
+
+
+
+PokerStars Hand #242835962334: Tournament #3571114757, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/02 14:06:07 CET [2023/04/02 8:06:07 ET]
+Table '3571114757 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (510 in chips) 
+Seat 2: Apoleon97 (460 in chips) 
+Seat 3: Juselis (530 in chips) 
+Juselis: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2s 5c]
+Apoleon97: raises 20 to 40
+Juselis: raises 490 to 530 and is all-in
+Mahu2021: folds 
+Apoleon97: folds 
+Uncalled bet (490) returned to Juselis
+Juselis collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: Apoleon97 (button) folded before Flop
+Seat 3: Juselis (small blind) collected (100)
+
+
+
+PokerStars Hand #242835966373: Tournament #3571114757, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/02 14:06:26 CET [2023/04/02 8:06:26 ET]
+Table '3571114757 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (490 in chips) 
+Seat 2: Apoleon97 (420 in chips) 
+Seat 3: Juselis (590 in chips) 
+Mahu2021: posts small blind 10
+Apoleon97: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac 6d]
+Juselis: raises 20 to 40
+Mahu2021: calls 30
+Apoleon97: calls 20
+*** FLOP *** [Qh Ah 7h]
+Mahu2021: checks 
+Apoleon97: checks 
+Juselis: checks 
+*** TURN *** [Qh Ah 7h] [Jc]
+Mahu2021: bets 40
+Apoleon97: folds 
+Juselis: calls 40
+*** RIVER *** [Qh Ah 7h Jc] [7d]
+Mahu2021: checks 
+Juselis: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [Ac 6d] (two pair, Aces and Sevens)
+Juselis: mucks hand 
+Mahu2021 collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [Qh Ah 7h Jc 7d]
+Seat 1: Mahu2021 (small blind) showed [Ac 6d] and won (200) with two pair, Aces and Sevens
+Seat 2: Apoleon97 (big blind) folded on the Turn
+Seat 3: Juselis (button) mucked [8d Js]
+
+
+
+PokerStars Hand #242835973692: Tournament #3571114757, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/02 14:07:00 CET [2023/04/02 8:07:00 ET]
+Table '3571114757 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (610 in chips) 
+Seat 2: Apoleon97 (380 in chips) 
+Seat 3: Juselis (510 in chips) 
+Apoleon97: posts small blind 10
+Juselis: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d Qd]
+Mahu2021: folds 
+Apoleon97: calls 10
+Juselis: checks 
+*** FLOP *** [Ts Qh 4h]
+Apoleon97: checks 
+Juselis: bets 20
+Apoleon97: calls 20
+*** TURN *** [Ts Qh 4h] [2s]
+Apoleon97: checks 
+Juselis: bets 20
+Apoleon97: folds 
+Uncalled bet (20) returned to Juselis
+Juselis collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Ts Qh 4h 2s]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: Apoleon97 (small blind) folded on the Turn
+Seat 3: Juselis (big blind) collected (80)
+
+
+
+PokerStars Hand #242835980132: Tournament #3571114757, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/02 14:07:30 CET [2023/04/02 8:07:30 ET]
+Table '3571114757 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (610 in chips) 
+Seat 2: Apoleon97 (340 in chips) 
+Seat 3: Juselis (550 in chips) 
+Juselis: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Td 3h]
+Apoleon97: folds 
+Juselis: raises 30 to 60
+Mahu2021: folds 
+Uncalled bet (30) returned to Juselis
+Juselis collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: Apoleon97 (button) folded before Flop (didn't bet)
+Seat 3: Juselis (small blind) collected (60)
+
+
+
+PokerStars Hand #242835981881: Tournament #3571114757, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/02 14:07:38 CET [2023/04/02 8:07:38 ET]
+Table '3571114757 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (580 in chips) 
+Seat 2: Apoleon97 (340 in chips) 
+Seat 3: Juselis (580 in chips) 
+Mahu2021: posts small blind 15
+Apoleon97: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h 5c]
+Juselis: folds 
+Mahu2021: calls 15
+Apoleon97: raises 310 to 340 and is all-in
+Mahu2021: folds 
+Uncalled bet (310) returned to Apoleon97
+Apoleon97 collected 60 from pot
+Apoleon97: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: Apoleon97 (big blind) collected (60)
+Seat 3: Juselis (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #242835985412: Tournament #3571114757, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/02 14:07:54 CET [2023/04/02 8:07:54 ET]
+Table '3571114757 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (550 in chips) 
+Seat 2: Apoleon97 (370 in chips) 
+Seat 3: Juselis (580 in chips) 
+Apoleon97: posts small blind 15
+Juselis: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5h 8d]
+Mahu2021: folds 
+Apoleon97: folds 
+Uncalled bet (15) returned to Juselis
+Juselis collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: Apoleon97 (small blind) folded before Flop
+Seat 3: Juselis (big blind) collected (30)
+
+
+
+PokerStars Hand #242835986607: Tournament #3571114757, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/02 14:08:00 CET [2023/04/02 8:08:00 ET]
+Table '3571114757 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (550 in chips) 
+Seat 2: Apoleon97 (355 in chips) 
+Seat 3: Juselis (595 in chips) 
+Juselis: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c 7c]
+Apoleon97: folds 
+Juselis: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (30)
+Seat 2: Apoleon97 (button) folded before Flop (didn't bet)
+Seat 3: Juselis (small blind) folded before Flop
+
+
+
+PokerStars Hand #242835989026: Tournament #3571114757, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/02 14:08:11 CET [2023/04/02 8:08:11 ET]
+Table '3571114757 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (565 in chips) 
+Seat 2: Apoleon97 (355 in chips) 
+Seat 3: Juselis (580 in chips) 
+Mahu2021: posts small blind 15
+Apoleon97: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Tc 6h]
+Juselis: folds 
+Mahu2021: calls 15
+Apoleon97: checks 
+*** FLOP *** [3c 3s As]
+Mahu2021: checks 
+Apoleon97: bets 30
+Mahu2021: folds 
+Uncalled bet (30) returned to Apoleon97
+Apoleon97 collected 60 from pot
+Apoleon97: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [3c 3s As]
+Seat 1: Mahu2021 (small blind) folded on the Flop
+Seat 2: Apoleon97 (big blind) collected (60)
+Seat 3: Juselis (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #242835991900: Tournament #3571114757, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/02 14:08:25 CET [2023/04/02 8:08:25 ET]
+Table '3571114757 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (535 in chips) 
+Seat 2: Apoleon97 (385 in chips) 
+Seat 3: Juselis (580 in chips) 
+Apoleon97: posts small blind 15
+Juselis: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qs 9c]
+Mahu2021: calls 30
+Apoleon97: folds 
+Juselis: checks 
+*** FLOP *** [7h 8c 5c]
+Juselis: checks 
+Mahu2021: bets 30
+Juselis: calls 30
+*** TURN *** [7h 8c 5c] [5d]
+Juselis: checks 
+Mahu2021: checks 
+*** RIVER *** [7h 8c 5c 5d] [As]
+Juselis: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+Juselis: shows [9h 2d] (a pair of Fives)
+Mahu2021: shows [Qs 9c] (a pair of Fives - Ace+Queen kicker)
+Mahu2021 collected 135 from pot
+*** SUMMARY ***
+Total pot 135 | Rake 0 
+Board [7h 8c 5c 5d As]
+Seat 1: Mahu2021 (button) showed [Qs 9c] and won (135) with a pair of Fives
+Seat 2: Apoleon97 (small blind) folded before Flop
+Seat 3: Juselis (big blind) showed [9h 2d] and lost with a pair of Fives
+
+
+
+PokerStars Hand #242835998014: Tournament #3571114757, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/02 14:08:53 CET [2023/04/02 8:08:53 ET]
+Table '3571114757 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (610 in chips) 
+Seat 2: Apoleon97 (370 in chips) 
+Seat 3: Juselis (520 in chips) 
+Juselis: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c 8d]
+Apoleon97: folds 
+Juselis: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (30)
+Seat 2: Apoleon97 (button) folded before Flop (didn't bet)
+Seat 3: Juselis (small blind) folded before Flop
+
+
+
+PokerStars Hand #242835999244: Tournament #3571114757, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/02 14:08:59 CET [2023/04/02 8:08:59 ET]
+Table '3571114757 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (625 in chips) 
+Seat 2: Apoleon97 (370 in chips) 
+Seat 3: Juselis (505 in chips) 
+Mahu2021: posts small blind 15
+Apoleon97: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6h 6c]
+Juselis: raises 30 to 60
+Mahu2021: raises 565 to 625 and is all-in
+Apoleon97: folds 
+Juselis: folds 
+Uncalled bet (565) returned to Mahu2021
+Mahu2021 collected 150 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Seat 1: Mahu2021 (small blind) collected (150)
+Seat 2: Apoleon97 (big blind) folded before Flop
+Seat 3: Juselis (button) folded before Flop
+
+
+
+PokerStars Hand #242836001640: Tournament #3571114757, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/02 14:09:10 CET [2023/04/02 8:09:10 ET]
+Table '3571114757 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (715 in chips) 
+Seat 2: Apoleon97 (340 in chips) 
+Seat 3: Juselis (445 in chips) 
+Apoleon97: posts small blind 15
+Juselis: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h 2d]
+Mahu2021: folds 
+Apoleon97: raises 310 to 340 and is all-in
+Juselis: calls 310
+*** FLOP *** [Ts 4d Js]
+*** TURN *** [Ts 4d Js] [2h]
+*** RIVER *** [Ts 4d Js 2h] [5s]
+*** SHOW DOWN ***
+Apoleon97: shows [Kh 9d] (high card King)
+Juselis: shows [As 7c] (high card Ace)
+Juselis collected 680 from pot
+Apoleon97 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 680 | Rake 0 
+Board [Ts 4d Js 2h 5s]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: Apoleon97 (small blind) showed [Kh 9d] and lost with high card King
+Seat 3: Juselis (big blind) showed [As 7c] and won (680) with high card Ace
+
+
+
+PokerStars Hand #242836006873: Tournament #3571114757, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/02 14:09:34 CET [2023/04/02 8:09:34 ET]
+Table '3571114757 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (715 in chips) 
+Seat 3: Juselis (785 in chips) 
+Juselis: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c 8d]
+Juselis: calls 15
+Mahu2021: checks 
+*** FLOP *** [9s 8h Kc]
+Mahu2021: checks 
+Juselis: checks 
+*** TURN *** [9s 8h Kc] [5d]
+Mahu2021: checks 
+Juselis: bets 30
+Mahu2021: calls 30
+*** RIVER *** [9s 8h Kc 5d] [Ac]
+Mahu2021: checks 
+Juselis: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [9c 8d] (two pair, Nines and Eights)
+Juselis: mucks hand 
+Mahu2021 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [9s 8h Kc 5d Ac]
+Seat 1: Mahu2021 (big blind) showed [9c 8d] and won (120) with two pair, Nines and Eights
+Seat 3: Juselis (button) (small blind) mucked [6s Td]
+
+
+
+PokerStars Hand #242836011693: Tournament #3571114757, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/02 14:09:56 CET [2023/04/02 8:09:56 ET]
+Table '3571114757 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (775 in chips) 
+Seat 3: Juselis (725 in chips) 
+Mahu2021: posts small blind 15
+Juselis: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h 9s]
+Mahu2021: folds 
+Uncalled bet (15) returned to Juselis
+Juselis collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: Juselis (big blind) collected (30)
+
+
+
+PokerStars Hand #242836012843: Tournament #3571114757, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/02 14:10:02 CET [2023/04/02 8:10:02 ET]
+Table '3571114757 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (760 in chips) 
+Seat 3: Juselis (740 in chips) 
+Juselis: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac 9d]
+Juselis: calls 15
+Mahu2021: checks 
+*** FLOP *** [Jc Jd 8c]
+Mahu2021: checks 
+Juselis: bets 30
+Mahu2021: calls 30
+*** TURN *** [Jc Jd 8c] [Ts]
+Mahu2021: checks 
+Juselis: bets 30
+Mahu2021: calls 30
+*** RIVER *** [Jc Jd 8c Ts] [Td]
+Mahu2021: checks 
+Juselis: bets 30
+Mahu2021: calls 30
+*** SHOW DOWN ***
+Juselis: shows [8h Ad] (two pair, Jacks and Tens)
+Mahu2021: shows [Ac 9d] (two pair, Jacks and Tens)
+Mahu2021 collected 120 from pot
+Juselis collected 120 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Jc Jd 8c Ts Td]
+Seat 1: Mahu2021 (big blind) showed [Ac 9d] and won (120) with two pair, Jacks and Tens
+Seat 3: Juselis (button) (small blind) showed [8h Ad] and won (120) with two pair, Jacks and Tens
+
+
+
+PokerStars Hand #242836017155: Tournament #3571114757, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/02 14:10:22 CET [2023/04/02 8:10:22 ET]
+Table '3571114757 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (760 in chips) 
+Seat 3: Juselis (740 in chips) 
+Mahu2021: posts small blind 15
+Juselis: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks 7h]
+Mahu2021: calls 15
+Juselis: checks 
+*** FLOP *** [2h 8d 6c]
+Juselis: bets 30
+Mahu2021: calls 30
+*** TURN *** [2h 8d 6c] [Ac]
+Juselis: checks 
+Mahu2021: checks 
+*** RIVER *** [2h 8d 6c Ac] [Jd]
+Juselis: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+Juselis: shows [2d 5s] (a pair of Deuces)
+Mahu2021: mucks hand 
+Juselis collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [2h 8d 6c Ac Jd]
+Seat 1: Mahu2021 (button) (small blind) mucked [Ks 7h]
+Seat 3: Juselis (big blind) showed [2d 5s] and won (120) with a pair of Deuces
+
+
+
+PokerStars Hand #242836022026: Tournament #3571114757, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/02 14:10:45 CET [2023/04/02 8:10:45 ET]
+Table '3571114757 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (700 in chips) 
+Seat 3: Juselis (800 in chips) 
+Juselis: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8s 9d]
+Juselis: raises 40 to 80
+Mahu2021: calls 40
+*** FLOP *** [2c Ac Ad]
+Mahu2021: checks 
+Juselis: bets 40
+Mahu2021: folds 
+Uncalled bet (40) returned to Juselis
+Juselis collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [2c Ac Ad]
+Seat 1: Mahu2021 (big blind) folded on the Flop
+Seat 3: Juselis (button) (small blind) collected (160)
+
+
+
+PokerStars Hand #242836024794: Tournament #3571114757, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/02 14:10:58 CET [2023/04/02 8:10:58 ET]
+Table '3571114757 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (620 in chips) 
+Seat 3: Juselis (880 in chips) 
+Mahu2021: posts small blind 20
+Juselis: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8c 8s]
+Mahu2021: raises 580 to 620 and is all-in
+Juselis: folds 
+Uncalled bet (580) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) collected (80)
+Seat 3: Juselis (big blind) folded before Flop
+
+
+
+PokerStars Hand #242836026257: Tournament #3571114757, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/02 14:11:05 CET [2023/04/02 8:11:05 ET]
+Table '3571114757 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (660 in chips) 
+Seat 3: Juselis (840 in chips) 
+Juselis: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Th 3c]
+Juselis: calls 20
+Mahu2021: checks 
+*** FLOP *** [6s Qc 5h]
+Mahu2021: checks 
+Juselis: bets 40
+Mahu2021: folds 
+Uncalled bet (40) returned to Juselis
+Juselis collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [6s Qc 5h]
+Seat 1: Mahu2021 (big blind) folded on the Flop
+Seat 3: Juselis (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #242836028743: Tournament #3571114757, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/02 14:11:17 CET [2023/04/02 8:11:17 ET]
+Table '3571114757 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (620 in chips) 
+Seat 3: Juselis (880 in chips) 
+Mahu2021: posts small blind 20
+Juselis: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2s Qc]
+Mahu2021: folds 
+Uncalled bet (20) returned to Juselis
+Juselis collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: Juselis (big blind) collected (40)
+
+
+
+PokerStars Hand #242836029689: Tournament #3571114757, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/02 14:11:21 CET [2023/04/02 8:11:21 ET]
+Table '3571114757 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (600 in chips) 
+Seat 3: Juselis (900 in chips) 
+Juselis: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad 3d]
+Juselis: calls 20
+Mahu2021: checks 
+*** FLOP *** [9c 6h Ah]
+Mahu2021: checks 
+Juselis: bets 40
+Mahu2021: calls 40
+*** TURN *** [9c 6h Ah] [2h]
+Mahu2021: checks 
+Juselis: bets 40
+Mahu2021: calls 40
+*** RIVER *** [9c 6h Ah 2h] [Th]
+Mahu2021: checks 
+Juselis: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [Ad 3d] (a pair of Aces)
+Juselis: mucks hand 
+Mahu2021 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [9c 6h Ah 2h Th]
+Seat 1: Mahu2021 (big blind) showed [Ad 3d] and won (240) with a pair of Aces
+Seat 3: Juselis (button) (small blind) mucked [Kd 9s]
+
+
+
+PokerStars Hand #242836033429: Tournament #3571114757, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/02 14:11:39 CET [2023/04/02 8:11:39 ET]
+Table '3571114757 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (720 in chips) 
+Seat 3: Juselis (780 in chips) 
+Mahu2021: posts small blind 20
+Juselis: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4c 8c]
+Mahu2021: calls 20
+Juselis: checks 
+*** FLOP *** [9d 5c Jd]
+Juselis: checks 
+Mahu2021: checks 
+*** TURN *** [9d 5c Jd] [5d]
+Juselis: bets 40
+Mahu2021: folds 
+Uncalled bet (40) returned to Juselis
+Juselis collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [9d 5c Jd 5d]
+Seat 1: Mahu2021 (button) (small blind) folded on the Turn
+Seat 3: Juselis (big blind) collected (80)
+
+
+
+PokerStars Hand #242836036312: Tournament #3571114757, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/02 14:11:52 CET [2023/04/02 8:11:52 ET]
+Table '3571114757 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (680 in chips) 
+Seat 3: Juselis (820 in chips) 
+Juselis: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c 5d]
+Juselis: calls 20
+Mahu2021: checks 
+*** FLOP *** [8s 9c 9h]
+Mahu2021: checks 
+Juselis: checks 
+*** TURN *** [8s 9c 9h] [6s]
+Mahu2021: bets 40
+Juselis: calls 40
+*** RIVER *** [8s 9c 9h 6s] [9d]
+Mahu2021: bets 160
+Juselis: folds 
+Uncalled bet (160) returned to Mahu2021
+Mahu2021 collected 160 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [8s 9c 9h 6s 9d]
+Seat 1: Mahu2021 (big blind) collected (160)
+Seat 3: Juselis (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #242836040327: Tournament #3571114757, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/02 14:12:10 CET [2023/04/02 8:12:10 ET]
+Table '3571114757 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (760 in chips) 
+Seat 3: Juselis (740 in chips) 
+Mahu2021: posts small blind 20
+Juselis: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c 5s]
+Mahu2021: folds 
+Uncalled bet (20) returned to Juselis
+Juselis collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: Juselis (big blind) collected (40)
+
+
+
+PokerStars Hand #242836041452: Tournament #3571114757, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/02 14:12:15 CET [2023/04/02 8:12:15 ET]
+Table '3571114757 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (740 in chips) 
+Seat 3: Juselis (760 in chips) 
+Juselis: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h Ts]
+Juselis: calls 20
+Mahu2021: checks 
+*** FLOP *** [8c Td Ad]
+Mahu2021: checks 
+Juselis: bets 40
+Mahu2021: calls 40
+*** TURN *** [8c Td Ad] [As]
+Mahu2021: checks 
+Juselis: checks 
+*** RIVER *** [8c Td Ad As] [Jh]
+Mahu2021: checks 
+Juselis: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [8h Ts] (two pair, Aces and Tens)
+Juselis: mucks hand 
+Mahu2021 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [8c Td Ad As Jh]
+Seat 1: Mahu2021 (big blind) showed [8h Ts] and won (160) with two pair, Aces and Tens
+Seat 3: Juselis (button) (small blind) mucked [Kh 2d]
+
+
+
+PokerStars Hand #242836045399: Tournament #3571114757, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/02 14:12:33 CET [2023/04/02 8:12:33 ET]
+Table '3571114757 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (820 in chips) 
+Seat 3: Juselis (680 in chips) 
+Mahu2021: posts small blind 20
+Juselis: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d 5h]
+Mahu2021: folds 
+Uncalled bet (20) returned to Juselis
+Juselis collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: Juselis (big blind) collected (40)
+
+
+
+PokerStars Hand #242836046776: Tournament #3571114757, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/02 14:12:40 CET [2023/04/02 8:12:40 ET]
+Table '3571114757 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (800 in chips) 
+Seat 3: Juselis (700 in chips) 
+Juselis: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4d 9c]
+Juselis: raises 40 to 80
+Mahu2021: folds 
+Uncalled bet (40) returned to Juselis
+Juselis collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 3: Juselis (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #242836049034: Tournament #3571114757, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/02 14:12:50 CET [2023/04/02 8:12:50 ET]
+Table '3571114757 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (760 in chips) 
+Seat 3: Juselis (740 in chips) 
+Mahu2021: posts small blind 20
+Juselis: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s Qc]
+Mahu2021: folds 
+Uncalled bet (20) returned to Juselis
+Juselis collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: Juselis (big blind) collected (40)
+
+
+
+PokerStars Hand #242836050409: Tournament #3571114757, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/02 14:12:56 CET [2023/04/02 8:12:56 ET]
+Table '3571114757 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (740 in chips) 
+Seat 3: Juselis (760 in chips) 
+Juselis: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s 5d]
+Juselis: calls 20
+Mahu2021: checks 
+*** FLOP *** [7h Ad Ts]
+Mahu2021: checks 
+Juselis: bets 80
+Mahu2021: folds 
+Uncalled bet (80) returned to Juselis
+Juselis collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [7h Ad Ts]
+Seat 1: Mahu2021 (big blind) folded on the Flop
+Seat 3: Juselis (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #242836054287: Tournament #3571114757, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/02 14:13:14 CET [2023/04/02 8:13:14 ET]
+Table '3571114757 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (700 in chips) 
+Seat 3: Juselis (800 in chips) 
+Mahu2021: posts small blind 20
+Juselis: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd 7c]
+Mahu2021: calls 20
+Juselis: checks 
+*** FLOP *** [2h Qh 6h]
+Juselis: checks 
+Mahu2021: checks 
+*** TURN *** [2h Qh 6h] [8d]
+Juselis: bets 40
+Mahu2021: folds 
+Uncalled bet (40) returned to Juselis
+Juselis collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [2h Qh 6h 8d]
+Seat 1: Mahu2021 (button) (small blind) folded on the Turn
+Seat 3: Juselis (big blind) collected (80)
+
+
+
+PokerStars Hand #242836058059: Tournament #3571114757, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/04/02 14:13:31 CET [2023/04/02 8:13:31 ET]
+Table '3571114757 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (660 in chips) 
+Seat 3: Juselis (840 in chips) 
+Juselis: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s 2h]
+Juselis: raises 60 to 120
+Mahu2021: folds 
+Uncalled bet (60) returned to Juselis
+Juselis collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 3: Juselis (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #242836059397: Tournament #3571114757, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/04/02 14:13:37 CET [2023/04/02 8:13:37 ET]
+Table '3571114757 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (600 in chips) 
+Seat 3: Juselis (900 in chips) 
+Mahu2021: posts small blind 30
+Juselis: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s Ks]
+Mahu2021: raises 540 to 600 and is all-in
+Juselis: calls 540
+*** FLOP *** [3c Jd Ts]
+*** TURN *** [3c Jd Ts] [Js]
+*** RIVER *** [3c Jd Ts Js] [7c]
+*** SHOW DOWN ***
+Juselis: shows [9d Qd] (a pair of Jacks)
+Mahu2021: shows [3s Ks] (two pair, Jacks and Threes)
+Mahu2021 collected 1200 from pot
+*** SUMMARY ***
+Total pot 1200 | Rake 0 
+Board [3c Jd Ts Js 7c]
+Seat 1: Mahu2021 (button) (small blind) showed [3s Ks] and won (1200) with two pair, Jacks and Threes
+Seat 3: Juselis (big blind) showed [9d Qd] and lost with a pair of Jacks
+
+
+
+PokerStars Hand #242836062606: Tournament #3571114757, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/04/02 14:13:52 CET [2023/04/02 8:13:52 ET]
+Table '3571114757 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (1200 in chips) 
+Seat 3: Juselis (300 in chips) 
+Juselis: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks 8s]
+Juselis: raises 240 to 300 and is all-in
+Mahu2021: calls 240
+*** FLOP *** [Ad 8c Kh]
+*** TURN *** [Ad 8c Kh] [8d]
+*** RIVER *** [Ad 8c Kh 8d] [8h]
+*** SHOW DOWN ***
+Mahu2021: shows [Ks 8s] (four of a kind, Eights)
+Juselis: shows [Js 9h] (three of a kind, Eights)
+Mahu2021 collected 600 from pot
+Juselis finished the tournament in 2nd place
+Mahu2021 wins the tournament and receives $3.00 - congratulations!
+*** SUMMARY ***
+Total pot 600 | Rake 0 
+Board [Ad 8c Kh 8d 8h]
+Seat 1: Mahu2021 (big blind) showed [Ks 8s] and won (600) with four of a kind, Eights
+Seat 3: Juselis (button) (small blind) showed [Js 9h] and lost with three of a kind, Eights
+
+
+

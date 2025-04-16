@@ -1,0 +1,227 @@
+﻿PokerStars Hand #243126411257: Tournament #3578341823, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/16 15:20:38 CET [2023/04/16 9:20:38 ET]
+Table '3578341823 1' 3-max Seat #1 is the button
+Seat 1: Kuemmi1988 (500 in chips) 
+Seat 2: Resig5561 (500 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+Resig5561: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8d Ts]
+Kuemmi1988: calls 20
+Resig5561: raises 480 to 500 and is all-in
+Mahu2021: folds 
+Kuemmi1988: folds 
+Uncalled bet (480) returned to Resig5561
+Resig5561 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Kuemmi1988 (button) folded before Flop
+Seat 2: Resig5561 (small blind) collected (60)
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #243126412904: Tournament #3578341823, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/16 15:20:44 CET [2023/04/16 9:20:44 ET]
+Table '3578341823 1' 3-max Seat #2 is the button
+Seat 1: Kuemmi1988 (480 in chips) 
+Seat 2: Resig5561 (540 in chips) 
+Seat 3: Mahu2021 (480 in chips) 
+Mahu2021: posts small blind 10
+Kuemmi1988: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Td 8s]
+Resig5561: calls 20
+Mahu2021: folds 
+Kuemmi1988: checks 
+*** FLOP *** [Ks Js 6h]
+Kuemmi1988: checks 
+Resig5561: checks 
+*** TURN *** [Ks Js 6h] [Qh]
+Kuemmi1988: checks 
+Resig5561: checks 
+*** RIVER *** [Ks Js 6h Qh] [6c]
+Kuemmi1988: bets 20
+Resig5561: folds 
+Uncalled bet (20) returned to Kuemmi1988
+Kuemmi1988 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [Ks Js 6h Qh 6c]
+Seat 1: Kuemmi1988 (big blind) collected (50)
+Seat 2: Resig5561 (button) folded on the River
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #243126416919: Tournament #3578341823, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/16 15:21:01 CET [2023/04/16 9:21:01 ET]
+Table '3578341823 1' 3-max Seat #3 is the button
+Seat 1: Kuemmi1988 (510 in chips) 
+Seat 2: Resig5561 (520 in chips) 
+Seat 3: Mahu2021 (470 in chips) 
+Kuemmi1988: posts small blind 10
+Resig5561: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s Tc]
+Mahu2021: folds 
+Kuemmi1988: calls 10
+Resig5561: checks 
+*** FLOP *** [8s 3d Js]
+Kuemmi1988: checks 
+Resig5561: checks 
+*** TURN *** [8s 3d Js] [Ah]
+Kuemmi1988: checks 
+Resig5561: checks 
+*** RIVER *** [8s 3d Js Ah] [Ad]
+Kuemmi1988: checks 
+Resig5561: bets 20
+Kuemmi1988: folds 
+Uncalled bet (20) returned to Resig5561
+Resig5561 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [8s 3d Js Ah Ad]
+Seat 1: Kuemmi1988 (small blind) folded on the River
+Seat 2: Resig5561 (big blind) collected (40)
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #243126421175: Tournament #3578341823, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/16 15:21:18 CET [2023/04/16 9:21:18 ET]
+Table '3578341823 1' 3-max Seat #1 is the button
+Seat 1: Kuemmi1988 (490 in chips) 
+Seat 2: Resig5561 (540 in chips) 
+Seat 3: Mahu2021 (470 in chips) 
+Resig5561: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6h Kc]
+Kuemmi1988: raises 20 to 40
+Resig5561: raises 20 to 60
+Mahu2021: folds 
+Kuemmi1988: raises 430 to 490 and is all-in
+Resig5561: calls 430
+*** FLOP *** [2d Kh 3h]
+*** TURN *** [2d Kh 3h] [Ts]
+*** RIVER *** [2d Kh 3h Ts] [Tc]
+*** SHOW DOWN ***
+Resig5561: shows [8d 8s] (two pair, Tens and Eights)
+Kuemmi1988: shows [7c 7h] (two pair, Tens and Sevens)
+Resig5561 collected 1000 from pot
+Kuemmi1988 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1000 | Rake 0 
+Board [2d Kh 3h Ts Tc]
+Seat 1: Kuemmi1988 (button) showed [7c 7h] and lost with two pair, Tens and Sevens
+Seat 2: Resig5561 (small blind) showed [8d 8s] and won (1000) with two pair, Tens and Eights
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #243126426150: Tournament #3578341823, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/16 15:21:38 CET [2023/04/16 9:21:38 ET]
+Table '3578341823 1' 3-max Seat #3 is the button
+Seat 2: Resig5561 (1050 in chips) 
+Seat 3: Mahu2021 (450 in chips) 
+Mahu2021: posts small blind 10
+Resig5561: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8d 6h]
+Mahu2021: folds 
+Uncalled bet (10) returned to Resig5561
+Resig5561 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 2: Resig5561 (big blind) collected (20)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #243126427500: Tournament #3578341823, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/16 15:21:43 CET [2023/04/16 9:21:43 ET]
+Table '3578341823 1' 3-max Seat #2 is the button
+Seat 2: Resig5561 (1060 in chips) 
+Seat 3: Mahu2021 (440 in chips) 
+Resig5561: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2c 7c]
+Resig5561: folds 
+Uncalled bet (10) returned to Mahu2021
+Mahu2021 collected 20 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 2: Resig5561 (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (20)
+
+
+
+PokerStars Hand #243126429505: Tournament #3578341823, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/16 15:21:51 CET [2023/04/16 9:21:51 ET]
+Table '3578341823 1' 3-max Seat #3 is the button
+Seat 2: Resig5561 (1050 in chips) 
+Seat 3: Mahu2021 (450 in chips) 
+Mahu2021: posts small blind 10
+Resig5561: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c 3s]
+Mahu2021: folds 
+Uncalled bet (10) returned to Resig5561
+Resig5561 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 2: Resig5561 (big blind) collected (20)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #243126430580: Tournament #3578341823, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/16 15:21:56 CET [2023/04/16 9:21:56 ET]
+Table '3578341823 1' 3-max Seat #2 is the button
+Seat 2: Resig5561 (1060 in chips) 
+Seat 3: Mahu2021 (440 in chips) 
+Resig5561: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2c 8h]
+Resig5561: calls 10
+Mahu2021: checks 
+*** FLOP *** [Ks 4h 9h]
+Mahu2021: checks 
+Resig5561: bets 20
+Mahu2021: folds 
+Uncalled bet (20) returned to Resig5561
+Resig5561 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Ks 4h 9h]
+Seat 2: Resig5561 (button) (small blind) collected (40)
+Seat 3: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #243126436540: Tournament #3578341823, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/16 15:22:20 CET [2023/04/16 9:22:20 ET]
+Table '3578341823 1' 3-max Seat #3 is the button
+Seat 2: Resig5561 (1080 in chips) 
+Seat 3: Mahu2021 (420 in chips) 
+Mahu2021: posts small blind 10
+Resig5561: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad Th]
+Mahu2021: calls 10
+Resig5561: raises 20 to 40
+Mahu2021: raises 380 to 420 and is all-in
+Resig5561: calls 380
+*** FLOP *** [Js 5s Ks]
+*** TURN *** [Js 5s Ks] [Td]
+*** RIVER *** [Js 5s Ks Td] [Kd]
+*** SHOW DOWN ***
+Resig5561: shows [4h Kc] (three of a kind, Kings)
+Mahu2021: shows [Ad Th] (two pair, Kings and Tens)
+Resig5561 collected 840 from pot
+Mahu2021 finished the tournament in 2nd place
+Resig5561 wins the tournament and receives $2.00 - congratulations!
+*** SUMMARY ***
+Total pot 840 | Rake 0 
+Board [Js 5s Ks Td Kd]
+Seat 2: Resig5561 (big blind) showed [4h Kc] and won (840) with three of a kind, Kings
+Seat 3: Mahu2021 (button) (small blind) showed [Ad Th] and lost with two pair, Kings and Tens
+
+
+

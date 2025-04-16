@@ -1,0 +1,410 @@
+﻿PokerStars Hand #247568938139: Tournament #3684278497, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/09 20:47:45 CET [2023/12/09 14:47:45 ET]
+Table '3684278497 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: Dylanjaco (500 in chips) 
+Seat 3: MitsuMare510 (500 in chips) 
+Dylanjaco: posts small blind 10
+MitsuMare510: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c Kh]
+Mahu2021: folds 
+Dylanjaco: folds 
+Uncalled bet (10) returned to MitsuMare510
+MitsuMare510 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: Dylanjaco (small blind) folded before Flop
+Seat 3: MitsuMare510 (big blind) collected (20)
+
+
+
+PokerStars Hand #247568940138: Tournament #3684278497, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/09 20:47:51 CET [2023/12/09 14:47:51 ET]
+Table '3684278497 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: Dylanjaco (490 in chips) 
+Seat 3: MitsuMare510 (510 in chips) 
+MitsuMare510: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4c 6h]
+Dylanjaco: raises 20 to 40
+MitsuMare510: calls 30
+Mahu2021: calls 20
+*** FLOP *** [9h Td 8h]
+MitsuMare510: bets 20
+Mahu2021: folds 
+Dylanjaco: raises 60 to 80
+MitsuMare510: calls 60
+*** TURN *** [9h Td 8h] [Ks]
+MitsuMare510: bets 20
+Dylanjaco: raises 80 to 100
+MitsuMare510: calls 80
+*** RIVER *** [9h Td 8h Ks] [Ts]
+MitsuMare510: bets 20
+Dylanjaco: raises 250 to 270 and is all-in
+MitsuMare510: calls 250
+*** SHOW DOWN ***
+Dylanjaco: shows [7d 6d] (a straight, Six to Ten)
+MitsuMare510: shows [Qd 8s] (two pair, Tens and Eights)
+Dylanjaco collected 1020 from pot
+*** SUMMARY ***
+Total pot 1020 | Rake 0 
+Board [9h Td 8h Ks Ts]
+Seat 1: Mahu2021 (big blind) folded on the Flop
+Seat 2: Dylanjaco (button) showed [7d 6d] and won (1020) with a straight, Six to Ten
+Seat 3: MitsuMare510 (small blind) showed [Qd 8s] and lost with two pair, Tens and Eights
+
+
+
+PokerStars Hand #247568950241: Tournament #3684278497, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/09 20:48:22 CET [2023/12/09 14:48:22 ET]
+Table '3684278497 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (460 in chips) 
+Seat 2: Dylanjaco (1020 in chips) 
+Seat 3: MitsuMare510 (20 in chips) 
+Mahu2021: posts small blind 10
+Dylanjaco: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d 4d]
+MitsuMare510: calls 20 and is all-in
+Mahu2021: calls 10
+Dylanjaco: raises 60 to 80
+Mahu2021: folds 
+Uncalled bet (60) returned to Dylanjaco
+*** FLOP *** [Ks 4h Ts]
+*** TURN *** [Ks 4h Ts] [Kh]
+*** RIVER *** [Ks 4h Ts Kh] [Th]
+*** SHOW DOWN ***
+Dylanjaco: shows [Ah Js] (two pair, Kings and Tens)
+MitsuMare510: shows [8s Ac] (two pair, Kings and Tens)
+Dylanjaco collected 30 from pot
+MitsuMare510 collected 30 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Ks 4h Ts Kh Th]
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: Dylanjaco (big blind) showed [Ah Js] and won (30) with two pair, Kings and Tens
+Seat 3: MitsuMare510 (button) showed [8s Ac] and won (30) with two pair, Kings and Tens
+
+
+
+PokerStars Hand #247568955378: Tournament #3684278497, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/09 20:48:38 CET [2023/12/09 14:48:38 ET]
+Table '3684278497 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (440 in chips) 
+Seat 2: Dylanjaco (1030 in chips) 
+Seat 3: MitsuMare510 (30 in chips) 
+Dylanjaco: posts small blind 10
+MitsuMare510: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc Qh]
+Mahu2021: raises 20 to 40
+Dylanjaco: calls 30
+MitsuMare510: calls 10 and is all-in
+*** FLOP *** [Jd Td 6s]
+Dylanjaco: checks 
+Mahu2021: bets 40
+Dylanjaco: calls 40
+*** TURN *** [Jd Td 6s] [9h]
+Dylanjaco: checks 
+Mahu2021: checks 
+*** RIVER *** [Jd Td 6s 9h] [Kh]
+Dylanjaco: bets 80
+Mahu2021: raises 280 to 360 and is all-in
+Dylanjaco: folds 
+Uncalled bet (280) returned to Mahu2021
+*** SHOW DOWN ***
+Mahu2021: shows [Jc Qh] (a straight, Nine to King)
+Mahu2021 collected 260 from side pot
+MitsuMare510: shows [3d Ts] (a pair of Tens)
+Mahu2021 collected 90 from main pot
+MitsuMare510 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 350 Main pot 90. Side pot 260. | Rake 0 
+Board [Jd Td 6s 9h Kh]
+Seat 1: Mahu2021 (button) showed [Jc Qh] and won (350) with a straight, Nine to King
+Seat 2: Dylanjaco (small blind) folded on the River
+Seat 3: MitsuMare510 (big blind) showed [3d Ts] and lost with a pair of Tens
+
+
+
+PokerStars Hand #247568966100: Tournament #3684278497, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/09 20:49:11 CET [2023/12/09 14:49:11 ET]
+Table '3684278497 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (630 in chips) 
+Seat 2: Dylanjaco (870 in chips) 
+Dylanjaco: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As 3s]
+Dylanjaco: raises 20 to 40
+Mahu2021: calls 20
+*** FLOP *** [5h Tc 7c]
+Mahu2021: checks 
+Dylanjaco: bets 60
+Mahu2021: folds 
+Uncalled bet (60) returned to Dylanjaco
+Dylanjaco collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [5h Tc 7c]
+Seat 1: Mahu2021 (big blind) folded on the Flop
+Seat 2: Dylanjaco (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #247568970628: Tournament #3684278497, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/09 20:49:25 CET [2023/12/09 14:49:25 ET]
+Table '3684278497 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (590 in chips) 
+Seat 2: Dylanjaco (910 in chips) 
+Mahu2021: posts small blind 10
+Dylanjaco: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d Ts]
+Mahu2021: calls 10
+Dylanjaco: checks 
+*** FLOP *** [4h 4c 6d]
+Dylanjaco: bets 20
+Mahu2021: folds 
+Uncalled bet (20) returned to Dylanjaco
+Dylanjaco collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [4h 4c 6d]
+Seat 1: Mahu2021 (button) (small blind) folded on the Flop
+Seat 2: Dylanjaco (big blind) collected (40)
+
+
+
+PokerStars Hand #247568973838: Tournament #3684278497, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/09 20:49:35 CET [2023/12/09 14:49:35 ET]
+Table '3684278497 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (570 in chips) 
+Seat 2: Dylanjaco (930 in chips) 
+Dylanjaco: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8s 6d]
+Dylanjaco: folds 
+Uncalled bet (10) returned to Mahu2021
+Mahu2021 collected 20 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (20)
+Seat 2: Dylanjaco (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #247568975204: Tournament #3684278497, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/09 20:49:39 CET [2023/12/09 14:49:39 ET]
+Table '3684278497 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (580 in chips) 
+Seat 2: Dylanjaco (920 in chips) 
+Mahu2021: posts small blind 10
+Dylanjaco: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qs 9c]
+Mahu2021: calls 10
+Dylanjaco: raises 20 to 40
+Mahu2021: calls 20
+*** FLOP *** [Jh 7s 2s]
+Dylanjaco: bets 40
+Mahu2021: folds 
+Uncalled bet (40) returned to Dylanjaco
+Dylanjaco collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Jh 7s 2s]
+Seat 1: Mahu2021 (button) (small blind) folded on the Flop
+Seat 2: Dylanjaco (big blind) collected (80)
+
+
+
+PokerStars Hand #247568979518: Tournament #3684278497, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/09 20:49:52 CET [2023/12/09 14:49:52 ET]
+Table '3684278497 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (540 in chips) 
+Seat 2: Dylanjaco (960 in chips) 
+Dylanjaco: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s 8s]
+Dylanjaco: raises 20 to 40
+Mahu2021: calls 20
+*** FLOP *** [6s Qh 8d]
+Mahu2021: bets 40
+Dylanjaco: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [6s Qh 8d]
+Seat 1: Mahu2021 (big blind) collected (80)
+Seat 2: Dylanjaco (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #247568983278: Tournament #3684278497, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/09 20:50:04 CET [2023/12/09 14:50:04 ET]
+Table '3684278497 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (580 in chips) 
+Seat 2: Dylanjaco (920 in chips) 
+Mahu2021: posts small blind 10
+Dylanjaco: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h 7c]
+Mahu2021: folds 
+Uncalled bet (10) returned to Dylanjaco
+Dylanjaco collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 2: Dylanjaco (big blind) collected (20)
+
+
+
+PokerStars Hand #247568984800: Tournament #3684278497, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/09 20:50:08 CET [2023/12/09 14:50:08 ET]
+Table '3684278497 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (570 in chips) 
+Seat 2: Dylanjaco (930 in chips) 
+Dylanjaco: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3c 5c]
+Dylanjaco: raises 20 to 40
+Mahu2021: calls 20
+*** FLOP *** [5d Js 9c]
+Mahu2021: checks 
+Dylanjaco: checks 
+*** TURN *** [5d Js 9c] [2c]
+Mahu2021: bets 40
+Dylanjaco: raises 80 to 120
+Mahu2021: calls 80
+*** RIVER *** [5d Js 9c 2c] [6s]
+Mahu2021: checks 
+Dylanjaco: bets 200
+Mahu2021: calls 200
+*** SHOW DOWN ***
+Dylanjaco: shows [Qh 4c] (high card Queen)
+Mahu2021: shows [3c 5c] (a pair of Fives)
+Mahu2021 collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | Rake 0 
+Board [5d Js 9c 2c 6s]
+Seat 1: Mahu2021 (big blind) showed [3c 5c] and won (720) with a pair of Fives
+Seat 2: Dylanjaco (button) (small blind) showed [Qh 4c] and lost with high card Queen
+
+
+
+PokerStars Hand #247568991343: Tournament #3684278497, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/09 20:50:29 CET [2023/12/09 14:50:29 ET]
+Table '3684278497 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (930 in chips) 
+Seat 2: Dylanjaco (570 in chips) 
+Mahu2021: posts small blind 10
+Dylanjaco: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c 8s]
+Mahu2021: folds 
+Uncalled bet (10) returned to Dylanjaco
+Dylanjaco collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 2: Dylanjaco (big blind) collected (20)
+
+
+
+PokerStars Hand #247568992811: Tournament #3684278497, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/09 20:50:34 CET [2023/12/09 14:50:34 ET]
+Table '3684278497 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (920 in chips) 
+Seat 2: Dylanjaco (580 in chips) 
+Dylanjaco: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c 7c]
+Dylanjaco: raises 40 to 60
+Mahu2021: calls 40
+*** FLOP *** [5d 8h 2d]
+Mahu2021: checks 
+Dylanjaco: checks 
+*** TURN *** [5d 8h 2d] [Ts]
+Mahu2021: bets 40
+Dylanjaco: calls 40
+*** RIVER *** [5d 8h 2d Ts] [2s]
+Mahu2021: checks 
+Dylanjaco: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [9c 7c] (a pair of Deuces)
+Dylanjaco: shows [Ad Jh] (a pair of Deuces - Ace kicker)
+Dylanjaco collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [5d 8h 2d Ts 2s]
+Seat 1: Mahu2021 (big blind) showed [9c 7c] and lost with a pair of Deuces
+Seat 2: Dylanjaco (button) (small blind) showed [Ad Jh] and won (200) with a pair of Deuces
+
+
+
+PokerStars Hand #247569000172: Tournament #3684278497, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/12/09 20:50:57 CET [2023/12/09 14:50:57 ET]
+Table '3684278497 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (820 in chips) 
+Seat 2: Dylanjaco (680 in chips) 
+Mahu2021: posts small blind 15
+Dylanjaco: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kc Qs]
+Mahu2021: raises 60 to 90
+Dylanjaco: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) collected (60)
+Seat 2: Dylanjaco (big blind) folded before Flop
+
+
+
+PokerStars Hand #247569002553: Tournament #3684278497, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/12/09 20:51:04 CET [2023/12/09 14:51:04 ET]
+Table '3684278497 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (850 in chips) 
+Seat 2: Dylanjaco (650 in chips) 
+Dylanjaco: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3c 9c]
+Dylanjaco: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (30)
+Seat 2: Dylanjaco (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #247569003947: Tournament #3684278497, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/12/09 20:51:08 CET [2023/12/09 14:51:08 ET]
+Table '3684278497 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (865 in chips) 
+Seat 2: Dylanjaco (635 in chips) 
+Mahu2021: posts small blind 15
+Dylanjaco: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d 6h]
+Mahu2021: raises 835 to 865 and is all-in
+Dylanjaco: calls 605 and is all-in
+Uncalled bet (230) returned to Mahu2021
+*** FLOP *** [Kd 4s 2h]
+*** TURN *** [Kd 4s 2h] [2d]
+*** RIVER *** [Kd 4s 2h 2d] [6c]
+*** SHOW DOWN ***
+Dylanjaco: shows [Jd Td] (a pair of Deuces)
+Mahu2021: shows [6d 6h] (a full house, Sixes full of Deuces)
+Mahu2021 collected 1270 from pot
+Dylanjaco finished the tournament in 2nd place
+Mahu2021 wins the tournament and receives $6.00 - congratulations!
+*** SUMMARY ***
+Total pot 1270 | Rake 0 
+Board [Kd 4s 2h 2d 6c]
+Seat 1: Mahu2021 (button) (small blind) showed [6d 6h] and won (1270) with a full house, Sixes full of Deuces
+Seat 2: Dylanjaco (big blind) showed [Jd Td] and lost with a pair of Deuces
+
+
+

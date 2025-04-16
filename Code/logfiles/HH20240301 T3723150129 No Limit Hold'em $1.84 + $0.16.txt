@@ -1,0 +1,832 @@
+﻿PokerStars Hand #249177047545: Tournament #3723150129, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/03/01 17:45:06 CET [2024/03/01 11:45:06 ET]
+Table '3723150129 1' 3-max Seat #1 is the button
+Seat 1: mauroc711 (500 in chips) 
+Seat 2: gustavhedberg (500 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+gustavhedberg: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh Kh]
+mauroc711: raises 20 to 40
+gustavhedberg: folds 
+Mahu2021: calls 20
+*** FLOP *** [8c 2d 7c]
+Mahu2021: checks 
+mauroc711: bets 20
+Mahu2021: calls 20
+*** TURN *** [8c 2d 7c] [4h]
+Mahu2021: checks 
+mauroc711: bets 40
+Mahu2021: calls 40
+*** RIVER *** [8c 2d 7c 4h] [As]
+Mahu2021: checks 
+mauroc711: bets 60
+Mahu2021: folds 
+Uncalled bet (60) returned to mauroc711
+mauroc711 collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | Rake 0 
+Board [8c 2d 7c 4h As]
+Seat 1: mauroc711 (button) collected (210)
+Seat 2: gustavhedberg (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) folded on the River
+
+
+
+PokerStars Hand #249177054207: Tournament #3723150129, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/03/01 17:45:31 CET [2024/03/01 11:45:31 ET]
+Table '3723150129 1' 3-max Seat #2 is the button
+Seat 1: mauroc711 (610 in chips) 
+Seat 2: gustavhedberg (490 in chips) 
+Seat 3: Mahu2021 (400 in chips) 
+Mahu2021: posts small blind 10
+mauroc711: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h 3c]
+gustavhedberg: calls 20
+Mahu2021: folds 
+mauroc711: checks 
+*** FLOP *** [2c 5c Ad]
+mauroc711: checks 
+gustavhedberg: bets 20
+mauroc711: folds 
+Uncalled bet (20) returned to gustavhedberg
+gustavhedberg collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [2c 5c Ad]
+Seat 1: mauroc711 (big blind) folded on the Flop
+Seat 2: gustavhedberg (button) collected (50)
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #249177058484: Tournament #3723150129, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/03/01 17:45:47 CET [2024/03/01 11:45:47 ET]
+Table '3723150129 1' 3-max Seat #3 is the button
+Seat 1: mauroc711 (590 in chips) 
+Seat 2: gustavhedberg (520 in chips) 
+Seat 3: Mahu2021 (390 in chips) 
+mauroc711: posts small blind 10
+gustavhedberg: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As Qd]
+Mahu2021: raises 20 to 40
+mauroc711: folds 
+gustavhedberg: raises 20 to 60
+Mahu2021: raises 60 to 120
+gustavhedberg: calls 60
+*** FLOP *** [3s 6s 3d]
+gustavhedberg: bets 400 and is all-in
+Mahu2021: folds 
+Uncalled bet (400) returned to gustavhedberg
+gustavhedberg collected 250 from pot
+*** SUMMARY ***
+Total pot 250 | Rake 0 
+Board [3s 6s 3d]
+Seat 1: mauroc711 (small blind) folded before Flop
+Seat 2: gustavhedberg (big blind) collected (250)
+Seat 3: Mahu2021 (button) folded on the Flop
+
+
+
+PokerStars Hand #249177064412: Tournament #3723150129, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/03/01 17:46:10 CET [2024/03/01 11:46:10 ET]
+Table '3723150129 1' 3-max Seat #1 is the button
+Seat 1: mauroc711 (580 in chips) 
+Seat 2: gustavhedberg (650 in chips) 
+Seat 3: Mahu2021 (270 in chips) 
+gustavhedberg: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd Td]
+mauroc711: folds 
+gustavhedberg: folds 
+Uncalled bet (10) returned to Mahu2021
+Mahu2021 collected 20 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mauroc711 (button) folded before Flop (didn't bet)
+Seat 2: gustavhedberg (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (20)
+
+
+
+PokerStars Hand #249177066771: Tournament #3723150129, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/03/01 17:46:19 CET [2024/03/01 11:46:19 ET]
+Table '3723150129 1' 3-max Seat #2 is the button
+Seat 1: mauroc711 (580 in chips) 
+Seat 2: gustavhedberg (640 in chips) 
+Seat 3: Mahu2021 (280 in chips) 
+Mahu2021: posts small blind 10
+mauroc711: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts 8s]
+gustavhedberg: calls 20
+Mahu2021: calls 10
+mauroc711: raises 560 to 580 and is all-in
+gustavhedberg: folds 
+Mahu2021: folds 
+Uncalled bet (560) returned to mauroc711
+mauroc711 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mauroc711 (big blind) collected (60)
+Seat 2: gustavhedberg (button) folded before Flop
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #249177070527: Tournament #3723150129, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/03/01 17:46:33 CET [2024/03/01 11:46:33 ET]
+Table '3723150129 1' 3-max Seat #3 is the button
+Seat 1: mauroc711 (620 in chips) 
+Seat 2: gustavhedberg (620 in chips) 
+Seat 3: Mahu2021 (260 in chips) 
+mauroc711: posts small blind 10
+gustavhedberg: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s 7d]
+Mahu2021: folds 
+mauroc711: calls 10
+gustavhedberg: checks 
+*** FLOP *** [2c Qc 2d]
+mauroc711: bets 40
+gustavhedberg: calls 40
+*** TURN *** [2c Qc 2d] [7c]
+mauroc711: bets 60
+gustavhedberg: folds 
+Uncalled bet (60) returned to mauroc711
+mauroc711 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [2c Qc 2d 7c]
+Seat 1: mauroc711 (small blind) collected (120)
+Seat 2: gustavhedberg (big blind) folded on the Turn
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #249177078762: Tournament #3723150129, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/03/01 17:47:04 CET [2024/03/01 11:47:04 ET]
+Table '3723150129 1' 3-max Seat #1 is the button
+Seat 1: mauroc711 (680 in chips) 
+Seat 2: gustavhedberg (560 in chips) 
+Seat 3: Mahu2021 (260 in chips) 
+gustavhedberg: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4c Jd]
+mauroc711: raises 20 to 40
+gustavhedberg: folds 
+Mahu2021: calls 20
+*** FLOP *** [6s As 8s]
+Mahu2021: checks 
+mauroc711: checks 
+*** TURN *** [6s As 8s] [3c]
+Mahu2021: checks 
+mauroc711: checks 
+*** RIVER *** [6s As 8s 3c] [Ks]
+Mahu2021: checks 
+mauroc711: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [4c Jd] (high card Ace)
+mauroc711: shows [Kd 3d] (two pair, Kings and Threes)
+mauroc711 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [6s As 8s 3c Ks]
+Seat 1: mauroc711 (button) showed [Kd 3d] and won (90) with two pair, Kings and Threes
+Seat 2: gustavhedberg (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) showed [4c Jd] and lost with high card Ace
+
+
+
+PokerStars Hand #249177085855: Tournament #3723150129, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/01 17:47:31 CET [2024/03/01 11:47:31 ET]
+Table '3723150129 1' 3-max Seat #2 is the button
+Seat 1: mauroc711 (730 in chips) 
+Seat 2: gustavhedberg (550 in chips) 
+Seat 3: Mahu2021 (220 in chips) 
+Mahu2021: posts small blind 15
+mauroc711: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah 3s]
+gustavhedberg: calls 30
+Mahu2021: raises 190 to 220 and is all-in
+mauroc711: folds 
+gustavhedberg: folds 
+Uncalled bet (190) returned to Mahu2021
+Mahu2021 collected 90 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Seat 1: mauroc711 (big blind) folded before Flop
+Seat 2: gustavhedberg (button) folded before Flop
+Seat 3: Mahu2021 (small blind) collected (90)
+
+
+
+PokerStars Hand #249177089783: Tournament #3723150129, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/01 17:47:46 CET [2024/03/01 11:47:46 ET]
+Table '3723150129 1' 3-max Seat #3 is the button
+Seat 1: mauroc711 (700 in chips) 
+Seat 2: gustavhedberg (520 in chips) 
+Seat 3: Mahu2021 (280 in chips) 
+mauroc711: posts small blind 15
+gustavhedberg: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2s 9s]
+Mahu2021: folds 
+mauroc711: raises 30 to 60
+gustavhedberg: folds 
+Uncalled bet (30) returned to mauroc711
+mauroc711 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mauroc711 (small blind) collected (60)
+Seat 2: gustavhedberg (big blind) folded before Flop
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #249177092588: Tournament #3723150129, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/01 17:47:56 CET [2024/03/01 11:47:56 ET]
+Table '3723150129 1' 3-max Seat #1 is the button
+Seat 1: mauroc711 (730 in chips) 
+Seat 2: gustavhedberg (490 in chips) 
+Seat 3: Mahu2021 (280 in chips) 
+gustavhedberg: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Td 2s]
+mauroc711: raises 700 to 730 and is all-in
+gustavhedberg: folds 
+Mahu2021: folds 
+Uncalled bet (700) returned to mauroc711
+mauroc711 collected 75 from pot
+mauroc711: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: mauroc711 (button) collected (75)
+Seat 2: gustavhedberg (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #249177094221: Tournament #3723150129, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/01 17:48:02 CET [2024/03/01 11:48:02 ET]
+Table '3723150129 1' 3-max Seat #2 is the button
+Seat 1: mauroc711 (775 in chips) 
+Seat 2: gustavhedberg (475 in chips) 
+Seat 3: Mahu2021 (250 in chips) 
+Mahu2021: posts small blind 15
+mauroc711: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c 4c]
+gustavhedberg: raises 30 to 60
+Mahu2021: folds 
+mauroc711: calls 30
+*** FLOP *** [3c 7s 9d]
+mauroc711: checks 
+gustavhedberg: bets 30
+mauroc711: raises 685 to 715 and is all-in
+gustavhedberg: folds 
+Uncalled bet (685) returned to mauroc711
+mauroc711 collected 195 from pot
+*** SUMMARY ***
+Total pot 195 | Rake 0 
+Board [3c 7s 9d]
+Seat 1: mauroc711 (big blind) collected (195)
+Seat 2: gustavhedberg (button) folded on the Flop
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #249177101229: Tournament #3723150129, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/01 17:48:29 CET [2024/03/01 11:48:29 ET]
+Table '3723150129 1' 3-max Seat #3 is the button
+Seat 1: mauroc711 (880 in chips) 
+Seat 2: gustavhedberg (385 in chips) 
+Seat 3: Mahu2021 (235 in chips) 
+mauroc711: posts small blind 15
+gustavhedberg: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h 6h]
+Mahu2021: calls 30
+mauroc711: raises 850 to 880 and is all-in
+gustavhedberg: calls 355 and is all-in
+Mahu2021: folds 
+Uncalled bet (495) returned to mauroc711
+*** FLOP *** [4s Jd 2c]
+*** TURN *** [4s Jd 2c] [8d]
+*** RIVER *** [4s Jd 2c 8d] [8h]
+*** SHOW DOWN ***
+mauroc711: shows [9d 9c] (two pair, Nines and Eights)
+gustavhedberg: shows [Qs Jc] (two pair, Jacks and Eights)
+gustavhedberg collected 800 from pot
+*** SUMMARY ***
+Total pot 800 | Rake 0 
+Board [4s Jd 2c 8d 8h]
+Seat 1: mauroc711 (small blind) showed [9d 9c] and lost with two pair, Nines and Eights
+Seat 2: gustavhedberg (big blind) showed [Qs Jc] and won (800) with two pair, Jacks and Eights
+Seat 3: Mahu2021 (button) folded before Flop
+
+
+
+PokerStars Hand #249177105854: Tournament #3723150129, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/01 17:48:46 CET [2024/03/01 11:48:46 ET]
+Table '3723150129 1' 3-max Seat #1 is the button
+Seat 1: mauroc711 (495 in chips) 
+Seat 2: gustavhedberg (800 in chips) 
+Seat 3: Mahu2021 (205 in chips) 
+gustavhedberg: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2s 4s]
+mauroc711: raises 30 to 60
+gustavhedberg: calls 45
+Mahu2021: folds 
+*** FLOP *** [Ad 4c 5d]
+gustavhedberg: bets 30
+mauroc711: calls 30
+*** TURN *** [Ad 4c 5d] [7c]
+gustavhedberg: bets 30
+mauroc711: calls 30
+*** RIVER *** [Ad 4c 5d 7c] [3s]
+gustavhedberg: bets 90
+mauroc711: raises 240 to 330
+gustavhedberg: folds 
+Uncalled bet (240) returned to mauroc711
+mauroc711 collected 450 from pot
+mauroc711: doesn't show hand 
+*** SUMMARY ***
+Total pot 450 | Rake 0 
+Board [Ad 4c 5d 7c 3s]
+Seat 1: mauroc711 (button) collected (450)
+Seat 2: gustavhedberg (small blind) folded on the River
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #249177114755: Tournament #3723150129, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/03/01 17:49:20 CET [2024/03/01 11:49:20 ET]
+Table '3723150129 1' 3-max Seat #2 is the button
+Seat 1: mauroc711 (735 in chips) 
+Seat 2: gustavhedberg (590 in chips) 
+Seat 3: Mahu2021 (175 in chips) 
+Mahu2021: posts small blind 20
+mauroc711: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh 9d]
+gustavhedberg: folds 
+Mahu2021: raises 135 to 175 and is all-in
+mauroc711: calls 135
+*** FLOP *** [2c Qd Kc]
+*** TURN *** [2c Qd Kc] [6d]
+*** RIVER *** [2c Qd Kc 6d] [8d]
+*** SHOW DOWN ***
+Mahu2021: shows [Qh 9d] (a pair of Queens)
+mauroc711: shows [7c Ah] (high card Ace)
+Mahu2021 collected 350 from pot
+*** SUMMARY ***
+Total pot 350 | Rake 0 
+Board [2c Qd Kc 6d 8d]
+Seat 1: mauroc711 (big blind) showed [7c Ah] and lost with high card Ace
+Seat 2: gustavhedberg (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) showed [Qh 9d] and won (350) with a pair of Queens
+
+
+
+PokerStars Hand #249177119604: Tournament #3723150129, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/03/01 17:49:39 CET [2024/03/01 11:49:39 ET]
+Table '3723150129 1' 3-max Seat #3 is the button
+Seat 1: mauroc711 (560 in chips) 
+Seat 2: gustavhedberg (590 in chips) 
+Seat 3: Mahu2021 (350 in chips) 
+mauroc711: posts small blind 20
+gustavhedberg: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h Tc]
+Mahu2021: folds 
+mauroc711: raises 520 to 560 and is all-in
+gustavhedberg: calls 520
+*** FLOP *** [2s 5h 9h]
+*** TURN *** [2s 5h 9h] [5d]
+*** RIVER *** [2s 5h 9h 5d] [7h]
+*** SHOW DOWN ***
+mauroc711: shows [Ah 8s] (a pair of Fives)
+gustavhedberg: shows [Qd 9d] (two pair, Nines and Fives)
+gustavhedberg collected 1120 from pot
+mauroc711 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1120 | Rake 0 
+Board [2s 5h 9h 5d 7h]
+Seat 1: mauroc711 (small blind) showed [Ah 8s] and lost with a pair of Fives
+Seat 2: gustavhedberg (big blind) showed [Qd 9d] and won (1120) with two pair, Nines and Fives
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #249177126672: Tournament #3723150129, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/03/01 17:50:06 CET [2024/03/01 11:50:06 ET]
+Table '3723150129 1' 3-max Seat #2 is the button
+Seat 2: gustavhedberg (1150 in chips) 
+Seat 3: Mahu2021 (350 in chips) 
+gustavhedberg: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks 8d]
+gustavhedberg: calls 20
+Mahu2021: checks 
+*** FLOP *** [As 8c 5c]
+Mahu2021: checks 
+gustavhedberg: checks 
+*** TURN *** [As 8c 5c] [Tc]
+Mahu2021: checks 
+gustavhedberg: bets 40
+Mahu2021: calls 40
+*** RIVER *** [As 8c 5c Tc] [6c]
+Mahu2021: checks 
+gustavhedberg: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [Ks 8d] (a pair of Eights)
+gustavhedberg: mucks hand 
+Mahu2021 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [As 8c 5c Tc 6c]
+Seat 2: gustavhedberg (button) (small blind) mucked [9d 6d]
+Seat 3: Mahu2021 (big blind) showed [Ks 8d] and won (160) with a pair of Eights
+
+
+
+PokerStars Hand #249177132205: Tournament #3723150129, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/03/01 17:50:26 CET [2024/03/01 11:50:26 ET]
+Table '3723150129 1' 3-max Seat #3 is the button
+Seat 2: gustavhedberg (1070 in chips) 
+Seat 3: Mahu2021 (430 in chips) 
+Mahu2021: posts small blind 20
+gustavhedberg: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah 8h]
+Mahu2021: raises 40 to 80
+gustavhedberg: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: gustavhedberg (big blind) folded before Flop
+Seat 3: Mahu2021 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #249177133871: Tournament #3723150129, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/03/01 17:50:32 CET [2024/03/01 11:50:32 ET]
+Table '3723150129 1' 3-max Seat #2 is the button
+Seat 2: gustavhedberg (1030 in chips) 
+Seat 3: Mahu2021 (470 in chips) 
+gustavhedberg: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kc 5d]
+gustavhedberg: calls 20
+Mahu2021: checks 
+*** FLOP *** [4d Qs Jh]
+Mahu2021: checks 
+gustavhedberg: bets 40
+Mahu2021: folds 
+Uncalled bet (40) returned to gustavhedberg
+gustavhedberg collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [4d Qs Jh]
+Seat 2: gustavhedberg (button) (small blind) collected (80)
+Seat 3: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #249177137190: Tournament #3723150129, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/03/01 17:50:44 CET [2024/03/01 11:50:44 ET]
+Table '3723150129 1' 3-max Seat #3 is the button
+Seat 2: gustavhedberg (1070 in chips) 
+Seat 3: Mahu2021 (430 in chips) 
+Mahu2021: posts small blind 20
+gustavhedberg: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h Qs]
+Mahu2021: calls 20
+gustavhedberg: checks 
+*** FLOP *** [Ad 7c 6c]
+gustavhedberg: checks 
+Mahu2021: bets 40
+gustavhedberg: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Ad 7c 6c]
+Seat 2: gustavhedberg (big blind) folded on the Flop
+Seat 3: Mahu2021 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #249177141134: Tournament #3723150129, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/03/01 17:50:59 CET [2024/03/01 11:50:59 ET]
+Table '3723150129 1' 3-max Seat #2 is the button
+Seat 2: gustavhedberg (1030 in chips) 
+Seat 3: Mahu2021 (470 in chips) 
+gustavhedberg: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s 6h]
+gustavhedberg: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: gustavhedberg (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (40)
+
+
+
+PokerStars Hand #249177142512: Tournament #3723150129, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/03/01 17:51:04 CET [2024/03/01 11:51:04 ET]
+Table '3723150129 1' 3-max Seat #3 is the button
+Seat 2: gustavhedberg (1010 in chips) 
+Seat 3: Mahu2021 (490 in chips) 
+Mahu2021: posts small blind 20
+gustavhedberg: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad Ts]
+Mahu2021: calls 20
+gustavhedberg: checks 
+*** FLOP *** [3h 3c 5c]
+gustavhedberg: bets 40
+Mahu2021: folds 
+Uncalled bet (40) returned to gustavhedberg
+gustavhedberg collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [3h 3c 5c]
+Seat 2: gustavhedberg (big blind) collected (80)
+Seat 3: Mahu2021 (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #249177146150: Tournament #3723150129, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/03/01 17:51:18 CET [2024/03/01 11:51:18 ET]
+Table '3723150129 1' 3-max Seat #2 is the button
+Seat 2: gustavhedberg (1050 in chips) 
+Seat 3: Mahu2021 (450 in chips) 
+gustavhedberg: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d 8d]
+gustavhedberg: raises 60 to 120
+Mahu2021: calls 60
+*** FLOP *** [9d 3s 2h]
+Mahu2021: checks 
+gustavhedberg: bets 60
+Mahu2021: folds 
+Uncalled bet (60) returned to gustavhedberg
+gustavhedberg collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [9d 3s 2h]
+Seat 2: gustavhedberg (button) (small blind) collected (240)
+Seat 3: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #249177150388: Tournament #3723150129, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/03/01 17:51:34 CET [2024/03/01 11:51:34 ET]
+Table '3723150129 1' 3-max Seat #3 is the button
+Seat 2: gustavhedberg (1170 in chips) 
+Seat 3: Mahu2021 (330 in chips) 
+Mahu2021: posts small blind 30
+gustavhedberg: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks 9s]
+Mahu2021: raises 60 to 120
+gustavhedberg: calls 60
+*** FLOP *** [Th 3s 6c]
+gustavhedberg: bets 60
+Mahu2021: calls 60
+*** TURN *** [Th 3s 6c] [2c]
+gustavhedberg: bets 60
+Mahu2021: folds 
+Uncalled bet (60) returned to gustavhedberg
+gustavhedberg collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [Th 3s 6c 2c]
+Seat 2: gustavhedberg (big blind) collected (360)
+Seat 3: Mahu2021 (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #249177154868: Tournament #3723150129, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/03/01 17:51:50 CET [2024/03/01 11:51:50 ET]
+Table '3723150129 1' 3-max Seat #2 is the button
+Seat 2: gustavhedberg (1350 in chips) 
+Seat 3: Mahu2021 (150 in chips) 
+gustavhedberg: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3c Kc]
+gustavhedberg: raises 60 to 120
+Mahu2021: raises 30 to 150 and is all-in
+gustavhedberg: calls 30
+*** FLOP *** [Qs 6d Kd]
+*** TURN *** [Qs 6d Kd] [3h]
+*** RIVER *** [Qs 6d Kd 3h] [Td]
+*** SHOW DOWN ***
+Mahu2021: shows [3c Kc] (two pair, Kings and Threes)
+gustavhedberg: shows [9s Ts] (a pair of Tens)
+Mahu2021 collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [Qs 6d Kd 3h Td]
+Seat 2: gustavhedberg (button) (small blind) showed [9s Ts] and lost with a pair of Tens
+Seat 3: Mahu2021 (big blind) showed [3c Kc] and won (300) with two pair, Kings and Threes
+
+
+
+PokerStars Hand #249177158669: Tournament #3723150129, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/03/01 17:52:04 CET [2024/03/01 11:52:04 ET]
+Table '3723150129 1' 3-max Seat #3 is the button
+Seat 2: gustavhedberg (1200 in chips) 
+Seat 3: Mahu2021 (300 in chips) 
+Mahu2021: posts small blind 30
+gustavhedberg: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4c 7h]
+Mahu2021: folds 
+Uncalled bet (30) returned to gustavhedberg
+gustavhedberg collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: gustavhedberg (big blind) collected (60)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #249177159954: Tournament #3723150129, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/03/01 17:52:09 CET [2024/03/01 11:52:09 ET]
+Table '3723150129 1' 3-max Seat #2 is the button
+Seat 2: gustavhedberg (1230 in chips) 
+Seat 3: Mahu2021 (270 in chips) 
+gustavhedberg: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts 3d]
+gustavhedberg: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: gustavhedberg (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (60)
+
+
+
+PokerStars Hand #249177161470: Tournament #3723150129, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/03/01 17:52:15 CET [2024/03/01 11:52:15 ET]
+Table '3723150129 1' 3-max Seat #3 is the button
+Seat 2: gustavhedberg (1200 in chips) 
+Seat 3: Mahu2021 (300 in chips) 
+Mahu2021: posts small blind 30
+gustavhedberg: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad 8d]
+Mahu2021: raises 60 to 120
+gustavhedberg: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: gustavhedberg (big blind) folded before Flop
+Seat 3: Mahu2021 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #249177163258: Tournament #3723150129, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/03/01 17:52:21 CET [2024/03/01 11:52:21 ET]
+Table '3723150129 1' 3-max Seat #2 is the button
+Seat 2: gustavhedberg (1140 in chips) 
+Seat 3: Mahu2021 (360 in chips) 
+gustavhedberg: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5h 7h]
+gustavhedberg: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: gustavhedberg (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (60)
+
+
+
+PokerStars Hand #249177164865: Tournament #3723150129, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/03/01 17:52:28 CET [2024/03/01 11:52:28 ET]
+Table '3723150129 1' 3-max Seat #3 is the button
+Seat 2: gustavhedberg (1110 in chips) 
+Seat 3: Mahu2021 (390 in chips) 
+Mahu2021: posts small blind 30
+gustavhedberg: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d Ks]
+Mahu2021: calls 30
+gustavhedberg: checks 
+*** FLOP *** [8c 4c 9h]
+gustavhedberg: checks 
+Mahu2021: checks 
+*** TURN *** [8c 4c 9h] [Td]
+gustavhedberg: bets 60
+Mahu2021: folds 
+Uncalled bet (60) returned to gustavhedberg
+gustavhedberg collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [8c 4c 9h Td]
+Seat 2: gustavhedberg (big blind) collected (120)
+Seat 3: Mahu2021 (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #249177169025: Tournament #3723150129, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/03/01 17:52:43 CET [2024/03/01 11:52:43 ET]
+Table '3723150129 1' 3-max Seat #2 is the button
+Seat 2: gustavhedberg (1170 in chips) 
+Seat 3: Mahu2021 (330 in chips) 
+gustavhedberg: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As Th]
+gustavhedberg: calls 30
+Mahu2021: raises 120 to 180
+gustavhedberg: folds 
+Uncalled bet (120) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: gustavhedberg (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (120)
+
+
+
+PokerStars Hand #249177171449: Tournament #3723150129, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/03/01 17:52:52 CET [2024/03/01 11:52:52 ET]
+Table '3723150129 1' 3-max Seat #3 is the button
+Seat 2: gustavhedberg (1110 in chips) 
+Seat 3: Mahu2021 (390 in chips) 
+Mahu2021: posts small blind 30
+gustavhedberg: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h 5c]
+Mahu2021: raises 60 to 120
+gustavhedberg: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: gustavhedberg (big blind) folded before Flop
+Seat 3: Mahu2021 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #249177173276: Tournament #3723150129, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/03/01 17:52:59 CET [2024/03/01 11:52:59 ET]
+Table '3723150129 1' 3-max Seat #2 is the button
+Seat 2: gustavhedberg (1050 in chips) 
+Seat 3: Mahu2021 (450 in chips) 
+gustavhedberg: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c 6s]
+gustavhedberg: raises 60 to 120
+Mahu2021: folds 
+Uncalled bet (60) returned to gustavhedberg
+gustavhedberg collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: gustavhedberg (button) (small blind) collected (120)
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #249177174917: Tournament #3723150129, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/03/01 17:53:06 CET [2024/03/01 11:53:06 ET]
+Table '3723150129 1' 3-max Seat #3 is the button
+Seat 2: gustavhedberg (1110 in chips) 
+Seat 3: Mahu2021 (390 in chips) 
+Mahu2021: posts small blind 30
+gustavhedberg: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d 5s]
+Mahu2021: calls 30
+gustavhedberg: checks 
+*** FLOP *** [4h 6s 2s]
+gustavhedberg: checks 
+Mahu2021: checks 
+*** TURN *** [4h 6s 2s] [6h]
+gustavhedberg: checks 
+Mahu2021: checks 
+*** RIVER *** [4h 6s 2s 6h] [3h]
+gustavhedberg: bets 60
+Mahu2021: raises 270 to 330 and is all-in
+gustavhedberg: calls 270
+*** SHOW DOWN ***
+Mahu2021: shows [9d 5s] (a straight, Deuce to Six)
+gustavhedberg: shows [6d 4d] (a full house, Sixes full of Fours)
+gustavhedberg collected 780 from pot
+Mahu2021 finished the tournament in 2nd place
+gustavhedberg wins the tournament and receives $4.00 - congratulations!
+*** SUMMARY ***
+Total pot 780 | Rake 0 
+Board [4h 6s 2s 6h 3h]
+Seat 2: gustavhedberg (big blind) showed [6d 4d] and won (780) with a full house, Sixes full of Fours
+Seat 3: Mahu2021 (button) (small blind) showed [9d 5s] and lost with a straight, Deuce to Six
+
+
+

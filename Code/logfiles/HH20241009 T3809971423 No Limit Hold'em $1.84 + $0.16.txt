@@ -1,0 +1,536 @@
+﻿PokerStars Hand #252842646891: Tournament #3809971423, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/09 16:33:01 CET [2024/10/09 10:33:01 ET]
+Table '3809971423 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: LinasPovil (500 in chips) 
+Seat 3: hudybr1984 (500 in chips) 
+LinasPovil: posts small blind 10
+hudybr1984: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4d 8c]
+Mahu2021: folds 
+LinasPovil: raises 40 to 60
+hudybr1984: calls 40
+*** FLOP *** [9c 9s 9d]
+LinasPovil: bets 30
+hudybr1984: calls 30
+*** TURN *** [9c 9s 9d] [5d]
+LinasPovil: bets 90
+hudybr1984: calls 90
+*** RIVER *** [9c 9s 9d 5d] [8s]
+LinasPovil: bets 320 and is all-in
+hudybr1984: folds 
+Uncalled bet (320) returned to LinasPovil
+LinasPovil collected 360 from pot
+LinasPovil: doesn't show hand 
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [9c 9s 9d 5d 8s]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: LinasPovil (small blind) collected (360)
+Seat 3: hudybr1984 (big blind) folded on the River
+
+
+
+PokerStars Hand #252842653105: Tournament #3809971423, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/09 16:33:31 CET [2024/10/09 10:33:31 ET]
+Table '3809971423 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: LinasPovil (680 in chips) 
+Seat 3: hudybr1984 (320 in chips) 
+hudybr1984: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s 8d]
+LinasPovil: raises 20 to 40
+hudybr1984: raises 280 to 320 and is all-in
+Mahu2021: folds 
+LinasPovil: folds 
+Uncalled bet (280) returned to hudybr1984
+hudybr1984 collected 100 from pot
+hudybr1984: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: LinasPovil (button) folded before Flop
+Seat 3: hudybr1984 (small blind) collected (100)
+
+
+
+PokerStars Hand #252842655055: Tournament #3809971423, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/09 16:33:40 CET [2024/10/09 10:33:40 ET]
+Table '3809971423 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (480 in chips) 
+Seat 2: LinasPovil (640 in chips) 
+Seat 3: hudybr1984 (380 in chips) 
+Mahu2021: posts small blind 10
+LinasPovil: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh Kc]
+hudybr1984: raises 360 to 380 and is all-in
+Mahu2021: folds 
+LinasPovil: folds 
+Uncalled bet (360) returned to hudybr1984
+hudybr1984 collected 50 from pot
+hudybr1984: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: LinasPovil (big blind) folded before Flop
+Seat 3: hudybr1984 (button) collected (50)
+
+
+
+PokerStars Hand #252842656752: Tournament #3809971423, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/09 16:33:49 CET [2024/10/09 10:33:49 ET]
+Table '3809971423 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (470 in chips) 
+Seat 2: LinasPovil (620 in chips) 
+Seat 3: hudybr1984 (410 in chips) 
+LinasPovil: posts small blind 10
+hudybr1984: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qd 9d]
+Mahu2021: raises 20 to 40
+LinasPovil: folds 
+hudybr1984: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 50 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: Mahu2021 (button) collected (50)
+Seat 2: LinasPovil (small blind) folded before Flop
+Seat 3: hudybr1984 (big blind) folded before Flop
+
+
+
+PokerStars Hand #252842657959: Tournament #3809971423, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/09 16:33:55 CET [2024/10/09 10:33:55 ET]
+Table '3809971423 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: LinasPovil (610 in chips) 
+Seat 3: hudybr1984 (390 in chips) 
+hudybr1984: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5h Qs]
+LinasPovil: raises 20 to 40
+hudybr1984: calls 30
+Mahu2021: calls 20
+*** FLOP *** [Th Ts Ah]
+hudybr1984: bets 350 and is all-in
+Mahu2021: folds 
+LinasPovil: folds 
+Uncalled bet (350) returned to hudybr1984
+hudybr1984 collected 120 from pot
+hudybr1984: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Th Ts Ah]
+Seat 1: Mahu2021 (big blind) folded on the Flop
+Seat 2: LinasPovil (button) folded on the Flop
+Seat 3: hudybr1984 (small blind) collected (120)
+
+
+
+PokerStars Hand #252842663225: Tournament #3809971423, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/09 16:34:21 CET [2024/10/09 10:34:21 ET]
+Table '3809971423 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (460 in chips) 
+Seat 2: LinasPovil (570 in chips) 
+Seat 3: hudybr1984 (470 in chips) 
+Mahu2021: posts small blind 10
+LinasPovil: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8c 6h]
+hudybr1984: folds 
+Mahu2021: folds 
+Uncalled bet (10) returned to LinasPovil
+LinasPovil collected 20 from pot
+LinasPovil: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: LinasPovil (big blind) collected (20)
+Seat 3: hudybr1984 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #252842664337: Tournament #3809971423, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/09 16:34:26 CET [2024/10/09 10:34:26 ET]
+Table '3809971423 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (450 in chips) 
+Seat 2: LinasPovil (580 in chips) 
+Seat 3: hudybr1984 (470 in chips) 
+LinasPovil: posts small blind 10
+hudybr1984: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4d 9c]
+Mahu2021: folds 
+LinasPovil: raises 40 to 60
+hudybr1984: raises 410 to 470 and is all-in
+LinasPovil: calls 410
+*** FLOP *** [7c 3c 4h]
+*** TURN *** [7c 3c 4h] [5c]
+*** RIVER *** [7c 3c 4h 5c] [5d]
+*** SHOW DOWN ***
+LinasPovil: shows [Qs Ad] (a pair of Fives)
+hudybr1984: shows [Ac Kd] (a pair of Fives - Ace+King kicker)
+hudybr1984 collected 940 from pot
+*** SUMMARY ***
+Total pot 940 | Rake 0 
+Board [7c 3c 4h 5c 5d]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: LinasPovil (small blind) showed [Qs Ad] and lost with a pair of Fives
+Seat 3: hudybr1984 (big blind) showed [Ac Kd] and won (940) with a pair of Fives
+
+
+
+PokerStars Hand #252842668000: Tournament #3809971423, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/09 16:34:44 CET [2024/10/09 10:34:44 ET]
+Table '3809971423 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (450 in chips) 
+Seat 2: LinasPovil (110 in chips) 
+Seat 3: hudybr1984 (940 in chips) 
+hudybr1984: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s 6h]
+LinasPovil: folds 
+hudybr1984: raises 920 to 940 and is all-in
+Mahu2021: folds 
+Uncalled bet (920) returned to hudybr1984
+hudybr1984 collected 40 from pot
+hudybr1984: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: LinasPovil (button) folded before Flop (didn't bet)
+Seat 3: hudybr1984 (small blind) collected (40)
+
+
+
+PokerStars Hand #252842669533: Tournament #3809971423, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/09 16:34:52 CET [2024/10/09 10:34:52 ET]
+Table '3809971423 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (430 in chips) 
+Seat 2: LinasPovil (110 in chips) 
+Seat 3: hudybr1984 (960 in chips) 
+Mahu2021: posts small blind 10
+LinasPovil: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8c Jh]
+hudybr1984: calls 20
+Mahu2021: folds 
+LinasPovil: checks 
+*** FLOP *** [Js Th 4d]
+LinasPovil: checks 
+hudybr1984: checks 
+*** TURN *** [Js Th 4d] [9h]
+LinasPovil: checks 
+hudybr1984: checks 
+*** RIVER *** [Js Th 4d 9h] [5s]
+LinasPovil: checks 
+hudybr1984: bets 50
+LinasPovil: folds 
+Uncalled bet (50) returned to hudybr1984
+hudybr1984 collected 50 from pot
+hudybr1984: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [Js Th 4d 9h 5s]
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: LinasPovil (big blind) folded on the River
+Seat 3: hudybr1984 (button) collected (50)
+
+
+
+PokerStars Hand #252842674941: Tournament #3809971423, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/09 16:35:19 CET [2024/10/09 10:35:19 ET]
+Table '3809971423 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (420 in chips) 
+Seat 2: LinasPovil (90 in chips) 
+Seat 3: hudybr1984 (990 in chips) 
+LinasPovil: posts small blind 10
+hudybr1984: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Tc Kc]
+Mahu2021: raises 20 to 40
+LinasPovil: raises 50 to 90 and is all-in
+hudybr1984: raises 900 to 990 and is all-in
+Mahu2021: calls 380 and is all-in
+Uncalled bet (570) returned to hudybr1984
+*** FLOP *** [8d 5h 9d]
+*** TURN *** [8d 5h 9d] [5c]
+*** RIVER *** [8d 5h 9d 5c] [Kh]
+*** SHOW DOWN ***
+hudybr1984: shows [2h Ac] (a pair of Fives)
+Mahu2021: shows [Tc Kc] (two pair, Kings and Fives)
+Mahu2021 collected 660 from side pot
+LinasPovil: shows [Qd Th] (a pair of Fives)
+Mahu2021 collected 270 from main pot
+LinasPovil finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 930 Main pot 270. Side pot 660. | Rake 0 
+Board [8d 5h 9d 5c Kh]
+Seat 1: Mahu2021 (button) showed [Tc Kc] and won (930) with two pair, Kings and Fives
+Seat 2: LinasPovil (small blind) showed [Qd Th] and lost with a pair of Fives
+Seat 3: hudybr1984 (big blind) showed [2h Ac] and lost with a pair of Fives
+
+
+
+PokerStars Hand #252842679316: Tournament #3809971423, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/09 16:35:40 CET [2024/10/09 10:35:40 ET]
+Table '3809971423 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (930 in chips) 
+Seat 3: hudybr1984 (570 in chips) 
+hudybr1984: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d 9h]
+hudybr1984: raises 20 to 40
+Mahu2021: folds 
+Uncalled bet (20) returned to hudybr1984
+hudybr1984 collected 40 from pot
+hudybr1984: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 3: hudybr1984 (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #252842680267: Tournament #3809971423, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/09 16:35:45 CET [2024/10/09 10:35:45 ET]
+Table '3809971423 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (910 in chips) 
+Seat 3: hudybr1984 (590 in chips) 
+Mahu2021: posts small blind 10
+hudybr1984: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc 2c]
+Mahu2021: calls 10
+hudybr1984: checks 
+*** FLOP *** [Ac 4s 7s]
+hudybr1984: bets 570 and is all-in
+Mahu2021: folds 
+Uncalled bet (570) returned to hudybr1984
+hudybr1984 collected 40 from pot
+hudybr1984: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Ac 4s 7s]
+Seat 1: Mahu2021 (button) (small blind) folded on the Flop
+Seat 3: hudybr1984 (big blind) collected (40)
+
+
+
+PokerStars Hand #252842682238: Tournament #3809971423, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/09 16:35:54 CET [2024/10/09 10:35:54 ET]
+Table '3809971423 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (890 in chips) 
+Seat 3: hudybr1984 (610 in chips) 
+hudybr1984: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s Th]
+hudybr1984: raises 590 to 610 and is all-in
+Mahu2021: folds 
+Uncalled bet (590) returned to hudybr1984
+hudybr1984 collected 40 from pot
+hudybr1984: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 3: hudybr1984 (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #252842683251: Tournament #3809971423, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/09 16:35:59 CET [2024/10/09 10:35:59 ET]
+Table '3809971423 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (870 in chips) 
+Seat 3: hudybr1984 (630 in chips) 
+Mahu2021: posts small blind 10
+hudybr1984: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d 3s]
+Mahu2021: raises 840 to 860
+hudybr1984: folds 
+Uncalled bet (840) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) collected (40)
+Seat 3: hudybr1984 (big blind) folded before Flop
+
+
+
+PokerStars Hand #252842685186: Tournament #3809971423, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/09 16:36:09 CET [2024/10/09 10:36:09 ET]
+Table '3809971423 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (890 in chips) 
+Seat 3: hudybr1984 (610 in chips) 
+hudybr1984: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8c As]
+hudybr1984: calls 15
+Mahu2021: raises 860 to 890 and is all-in
+hudybr1984: folds 
+Uncalled bet (860) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (60)
+Seat 3: hudybr1984 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #252842687106: Tournament #3809971423, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/09 16:36:18 CET [2024/10/09 10:36:18 ET]
+Table '3809971423 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (920 in chips) 
+Seat 3: hudybr1984 (580 in chips) 
+Mahu2021: posts small blind 15
+hudybr1984: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d 9d]
+Mahu2021: calls 15
+hudybr1984: checks 
+*** FLOP *** [3s 6d Qh]
+hudybr1984: checks 
+Mahu2021: checks 
+*** TURN *** [3s 6d Qh] [Qc]
+hudybr1984: bets 30
+Mahu2021: folds 
+Uncalled bet (30) returned to hudybr1984
+hudybr1984 collected 60 from pot
+hudybr1984: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [3s 6d Qh Qc]
+Seat 1: Mahu2021 (button) (small blind) folded on the Turn
+Seat 3: hudybr1984 (big blind) collected (60)
+
+
+
+PokerStars Hand #252842689521: Tournament #3809971423, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/09 16:36:30 CET [2024/10/09 10:36:30 ET]
+Table '3809971423 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (890 in chips) 
+Seat 3: hudybr1984 (610 in chips) 
+hudybr1984: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4d 4s]
+hudybr1984: calls 15
+Mahu2021: checks 
+*** FLOP *** [As 6h Kh]
+Mahu2021: checks 
+hudybr1984: bets 60
+Mahu2021: calls 60
+*** TURN *** [As 6h Kh] [Jc]
+Mahu2021: checks 
+hudybr1984: checks 
+*** RIVER *** [As 6h Kh Jc] [8s]
+Mahu2021: bets 60
+hudybr1984: calls 60
+*** SHOW DOWN ***
+Mahu2021: shows [4d 4s] (a pair of Fours)
+hudybr1984: shows [Qs 6c] (a pair of Sixes)
+hudybr1984 collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [As 6h Kh Jc 8s]
+Seat 1: Mahu2021 (big blind) showed [4d 4s] and lost with a pair of Fours
+Seat 3: hudybr1984 (button) (small blind) showed [Qs 6c] and won (300) with a pair of Sixes
+
+
+
+PokerStars Hand #252842692763: Tournament #3809971423, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/09 16:36:46 CET [2024/10/09 10:36:46 ET]
+Table '3809971423 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (740 in chips) 
+Seat 3: hudybr1984 (760 in chips) 
+Mahu2021: posts small blind 15
+hudybr1984: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s Tc]
+Mahu2021: folds 
+Uncalled bet (15) returned to hudybr1984
+hudybr1984 collected 30 from pot
+hudybr1984: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: hudybr1984 (big blind) collected (30)
+
+
+
+PokerStars Hand #252842693589: Tournament #3809971423, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/09 16:36:50 CET [2024/10/09 10:36:50 ET]
+Table '3809971423 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (725 in chips) 
+Seat 3: hudybr1984 (775 in chips) 
+hudybr1984: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4c 4h]
+hudybr1984: calls 15
+Mahu2021: raises 90 to 120
+hudybr1984: calls 90
+*** FLOP *** [Jc 3c 5s]
+Mahu2021: bets 605 and is all-in
+hudybr1984: folds 
+Uncalled bet (605) returned to Mahu2021
+Mahu2021 collected 240 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Jc 3c 5s]
+Seat 1: Mahu2021 (big blind) collected (240)
+Seat 3: hudybr1984 (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #252842695822: Tournament #3809971423, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/09 16:37:00 CET [2024/10/09 10:37:00 ET]
+Table '3809971423 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (845 in chips) 
+Seat 3: hudybr1984 (655 in chips) 
+Mahu2021: posts small blind 15
+hudybr1984: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c 8c]
+Mahu2021: calls 15
+hudybr1984: raises 60 to 90
+Mahu2021: calls 60
+*** FLOP *** [6d 9c 3c]
+hudybr1984: bets 565 and is all-in
+Mahu2021: calls 565
+*** TURN *** [6d 9c 3c] [2s]
+*** RIVER *** [6d 9c 3c 2s] [Td]
+*** SHOW DOWN ***
+hudybr1984: shows [Js As] (high card Ace)
+Mahu2021: shows [5c 8c] (high card Ten)
+hudybr1984 collected 1310 from pot
+*** SUMMARY ***
+Total pot 1310 | Rake 0 
+Board [6d 9c 3c 2s Td]
+Seat 1: Mahu2021 (button) (small blind) showed [5c 8c] and lost with high card Ten
+Seat 3: hudybr1984 (big blind) showed [Js As] and won (1310) with high card Ace
+
+
+
+PokerStars Hand #252842699023: Tournament #3809971423, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/09 16:37:16 CET [2024/10/09 10:37:16 ET]
+Table '3809971423 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (190 in chips) 
+Seat 3: hudybr1984 (1310 in chips) 
+hudybr1984: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qd 7c]
+hudybr1984: raises 1280 to 1310 and is all-in
+Mahu2021: calls 160 and is all-in
+Uncalled bet (1120) returned to hudybr1984
+*** FLOP *** [2h Ah Th]
+*** TURN *** [2h Ah Th] [3d]
+*** RIVER *** [2h Ah Th 3d] [Js]
+*** SHOW DOWN ***
+Mahu2021: shows [Qd 7c] (high card Ace)
+hudybr1984: shows [7h 8h] (a flush, Ace high)
+hudybr1984 collected 380 from pot
+Mahu2021 finished the tournament in 2nd place
+hudybr1984 wins the tournament and receives $6.00 - congratulations!
+*** SUMMARY ***
+Total pot 380 | Rake 0 
+Board [2h Ah Th 3d Js]
+Seat 1: Mahu2021 (big blind) showed [Qd 7c] and lost with high card Ace
+Seat 3: hudybr1984 (button) (small blind) showed [7h 8h] and won (380) with a flush, Ace high
+
+
+

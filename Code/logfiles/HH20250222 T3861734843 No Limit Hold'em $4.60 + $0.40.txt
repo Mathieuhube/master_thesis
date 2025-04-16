@@ -1,0 +1,807 @@
+﻿PokerStars Hand #254983570997: Tournament #3861734843, $4.60+$0.40 USD Hold'em No Limit - Level I (10/20) - 2025/02/22 12:28:36 CET [2025/02/22 6:28:36 ET]
+Table '3861734843 1' 3-max Seat #1 is the button
+Seat 1: ch3rry_j3rry (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: pavelirinel (500 in chips) 
+Mahu2021: posts small blind 10
+pavelirinel: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4c Td]
+ch3rry_j3rry: folds 
+Mahu2021: folds 
+Uncalled bet (10) returned to pavelirinel
+pavelirinel collected 20 from pot
+pavelirinel: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: ch3rry_j3rry (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: pavelirinel (big blind) collected (20)
+
+
+
+PokerStars Hand #254983571651: Tournament #3861734843, $4.60+$0.40 USD Hold'em No Limit - Level I (10/20) - 2025/02/22 12:28:41 CET [2025/02/22 6:28:41 ET]
+Table '3861734843 1' 3-max Seat #2 is the button
+Seat 1: ch3rry_j3rry (500 in chips) 
+Seat 2: Mahu2021 (490 in chips) 
+Seat 3: pavelirinel (510 in chips) 
+pavelirinel: posts small blind 10
+ch3rry_j3rry: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h 2h]
+Mahu2021: folds 
+pavelirinel: calls 10
+ch3rry_j3rry: checks 
+*** FLOP *** [9d Kc 3d]
+pavelirinel: bets 20
+ch3rry_j3rry: calls 20
+*** TURN *** [9d Kc 3d] [2s]
+pavelirinel: bets 20
+ch3rry_j3rry: calls 20
+*** RIVER *** [9d Kc 3d 2s] [2c]
+pavelirinel: checks 
+ch3rry_j3rry: bets 80
+pavelirinel: raises 120 to 200
+ch3rry_j3rry: calls 120
+*** SHOW DOWN ***
+pavelirinel: shows [Jd 7c] (a pair of Deuces)
+ch3rry_j3rry: shows [Kd 4s] (two pair, Kings and Deuces)
+ch3rry_j3rry collected 520 from pot
+*** SUMMARY ***
+Total pot 520 | Rake 0 
+Board [9d Kc 3d 2s 2c]
+Seat 1: ch3rry_j3rry (big blind) showed [Kd 4s] and won (520) with two pair, Kings and Deuces
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: pavelirinel (small blind) showed [Jd 7c] and lost with a pair of Deuces
+
+
+
+PokerStars Hand #254983579550: Tournament #3861734843, $4.60+$0.40 USD Hold'em No Limit - Level I (10/20) - 2025/02/22 12:29:41 CET [2025/02/22 6:29:41 ET]
+Table '3861734843 1' 3-max Seat #3 is the button
+Seat 1: ch3rry_j3rry (760 in chips) 
+Seat 2: Mahu2021 (490 in chips) 
+Seat 3: pavelirinel (250 in chips) 
+ch3rry_j3rry: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8d Ac]
+pavelirinel: raises 20 to 40
+ch3rry_j3rry: folds 
+Mahu2021: calls 20
+*** FLOP *** [2d Qh Ts]
+Mahu2021: checks 
+pavelirinel: checks 
+*** TURN *** [2d Qh Ts] [4s]
+Mahu2021: checks 
+pavelirinel: bets 20
+Mahu2021: calls 20
+*** RIVER *** [2d Qh Ts 4s] [Th]
+Mahu2021: checks 
+pavelirinel: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [8d Ac] (a pair of Tens)
+pavelirinel: shows [4h 9h] (two pair, Tens and Fours)
+pavelirinel collected 130 from pot
+*** SUMMARY ***
+Total pot 130 | Rake 0 
+Board [2d Qh Ts 4s Th]
+Seat 1: ch3rry_j3rry (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) showed [8d Ac] and lost with a pair of Tens
+Seat 3: pavelirinel (button) showed [4h 9h] and won (130) with two pair, Tens and Fours
+
+
+
+PokerStars Hand #254983581993: Tournament #3861734843, $4.60+$0.40 USD Hold'em No Limit - Level I (10/20) - 2025/02/22 12:29:59 CET [2025/02/22 6:29:59 ET]
+Table '3861734843 1' 3-max Seat #1 is the button
+Seat 1: ch3rry_j3rry (750 in chips) 
+Seat 2: Mahu2021 (430 in chips) 
+Seat 3: pavelirinel (320 in chips) 
+Mahu2021: posts small blind 10
+pavelirinel: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc Jc]
+ch3rry_j3rry: folds 
+Mahu2021: raises 40 to 60
+pavelirinel: calls 40
+*** FLOP *** [9d Kc Ac]
+Mahu2021: checks 
+pavelirinel: bets 20
+Mahu2021: calls 20
+*** TURN *** [9d Kc Ac] [4c]
+Mahu2021: checks 
+pavelirinel: checks 
+*** RIVER *** [9d Kc Ac 4c] [Kd]
+Mahu2021: bets 40
+pavelirinel: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 160 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [9d Kc Ac 4c Kd]
+Seat 1: ch3rry_j3rry (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) collected (160)
+Seat 3: pavelirinel (big blind) folded on the River
+
+
+
+PokerStars Hand #254983584664: Tournament #3861734843, $4.60+$0.40 USD Hold'em No Limit - Level I (10/20) - 2025/02/22 12:30:20 CET [2025/02/22 6:30:20 ET]
+Table '3861734843 1' 3-max Seat #2 is the button
+Seat 1: ch3rry_j3rry (750 in chips) 
+Seat 2: Mahu2021 (510 in chips) 
+Seat 3: pavelirinel (240 in chips) 
+pavelirinel: posts small blind 10
+ch3rry_j3rry: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd 9c]
+Mahu2021: folds 
+pavelirinel: raises 220 to 240 and is all-in
+ch3rry_j3rry: folds 
+Uncalled bet (220) returned to pavelirinel
+pavelirinel collected 40 from pot
+pavelirinel: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: ch3rry_j3rry (big blind) folded before Flop
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: pavelirinel (small blind) collected (40)
+
+
+
+PokerStars Hand #254983586606: Tournament #3861734843, $4.60+$0.40 USD Hold'em No Limit - Level I (10/20) - 2025/02/22 12:30:35 CET [2025/02/22 6:30:35 ET]
+Table '3861734843 1' 3-max Seat #3 is the button
+Seat 1: ch3rry_j3rry (730 in chips) 
+Seat 2: Mahu2021 (510 in chips) 
+Seat 3: pavelirinel (260 in chips) 
+ch3rry_j3rry: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c 5s]
+pavelirinel: folds 
+ch3rry_j3rry: raises 20 to 40
+Mahu2021: calls 20
+*** FLOP *** [4h 9h 4d]
+ch3rry_j3rry: bets 26
+Mahu2021: raises 94 to 120
+ch3rry_j3rry: calls 94
+*** TURN *** [4h 9h 4d] [8h]
+ch3rry_j3rry: bets 106
+Mahu2021: folds 
+Uncalled bet (106) returned to ch3rry_j3rry
+ch3rry_j3rry collected 320 from pot
+ch3rry_j3rry: doesn't show hand 
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [4h 9h 4d 8h]
+Seat 1: ch3rry_j3rry (small blind) collected (320)
+Seat 2: Mahu2021 (big blind) folded on the Turn
+Seat 3: pavelirinel (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254983591159: Tournament #3861734843, $4.60+$0.40 USD Hold'em No Limit - Level I (10/20) - 2025/02/22 12:31:09 CET [2025/02/22 6:31:09 ET]
+Table '3861734843 1' 3-max Seat #1 is the button
+Seat 1: ch3rry_j3rry (890 in chips) 
+Seat 2: Mahu2021 (350 in chips) 
+Seat 3: pavelirinel (260 in chips) 
+Mahu2021: posts small blind 10
+pavelirinel: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s Jh]
+ch3rry_j3rry: folds 
+Mahu2021: calls 10
+pavelirinel: raises 60 to 80
+Mahu2021: folds 
+Uncalled bet (60) returned to pavelirinel
+pavelirinel collected 40 from pot
+pavelirinel: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: ch3rry_j3rry (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: pavelirinel (big blind) collected (40)
+
+
+
+PokerStars Hand #254983592734: Tournament #3861734843, $4.60+$0.40 USD Hold'em No Limit - Level I (10/20) - 2025/02/22 12:31:21 CET [2025/02/22 6:31:21 ET]
+Table '3861734843 1' 3-max Seat #2 is the button
+Seat 1: ch3rry_j3rry (890 in chips) 
+Seat 2: Mahu2021 (330 in chips) 
+Seat 3: pavelirinel (280 in chips) 
+pavelirinel: posts small blind 10
+ch3rry_j3rry: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3c Th]
+Mahu2021: folds 
+pavelirinel: raises 20 to 40
+ch3rry_j3rry: folds 
+Uncalled bet (20) returned to pavelirinel
+pavelirinel collected 40 from pot
+pavelirinel: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: ch3rry_j3rry (big blind) folded before Flop
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: pavelirinel (small blind) collected (40)
+
+
+
+PokerStars Hand #254983593849: Tournament #3861734843, $4.60+$0.40 USD Hold'em No Limit - Level I (10/20) - 2025/02/22 12:31:30 CET [2025/02/22 6:31:30 ET]
+Table '3861734843 1' 3-max Seat #3 is the button
+Seat 1: ch3rry_j3rry (870 in chips) 
+Seat 2: Mahu2021 (330 in chips) 
+Seat 3: pavelirinel (300 in chips) 
+ch3rry_j3rry: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc 6s]
+pavelirinel: folds 
+ch3rry_j3rry: raises 850 to 870 and is all-in
+Mahu2021: folds 
+Uncalled bet (850) returned to ch3rry_j3rry
+ch3rry_j3rry collected 40 from pot
+ch3rry_j3rry: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: ch3rry_j3rry (small blind) collected (40)
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: pavelirinel (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254983595501: Tournament #3861734843, $4.60+$0.40 USD Hold'em No Limit - Level II (15/30) - 2025/02/22 12:31:42 CET [2025/02/22 6:31:42 ET]
+Table '3861734843 1' 3-max Seat #1 is the button
+Seat 1: ch3rry_j3rry (890 in chips) 
+Seat 2: Mahu2021 (310 in chips) 
+Seat 3: pavelirinel (300 in chips) 
+Mahu2021: posts small blind 15
+pavelirinel: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh 7h]
+ch3rry_j3rry: folds 
+Mahu2021: raises 60 to 90
+pavelirinel: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: ch3rry_j3rry (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) collected (60)
+Seat 3: pavelirinel (big blind) folded before Flop
+
+
+
+PokerStars Hand #254983596605: Tournament #3861734843, $4.60+$0.40 USD Hold'em No Limit - Level II (15/30) - 2025/02/22 12:31:51 CET [2025/02/22 6:31:51 ET]
+Table '3861734843 1' 3-max Seat #2 is the button
+Seat 1: ch3rry_j3rry (890 in chips) 
+Seat 2: Mahu2021 (340 in chips) 
+Seat 3: pavelirinel (270 in chips) 
+pavelirinel: posts small blind 15
+ch3rry_j3rry: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4d Tc]
+Mahu2021: folds 
+pavelirinel: raises 39 to 69
+ch3rry_j3rry: folds 
+Uncalled bet (39) returned to pavelirinel
+pavelirinel collected 60 from pot
+pavelirinel: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: ch3rry_j3rry (big blind) folded before Flop
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: pavelirinel (small blind) collected (60)
+
+
+
+PokerStars Hand #254983598608: Tournament #3861734843, $4.60+$0.40 USD Hold'em No Limit - Level II (15/30) - 2025/02/22 12:32:06 CET [2025/02/22 6:32:06 ET]
+Table '3861734843 1' 3-max Seat #3 is the button
+Seat 1: ch3rry_j3rry (860 in chips) 
+Seat 2: Mahu2021 (340 in chips) 
+Seat 3: pavelirinel (300 in chips) 
+ch3rry_j3rry: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2c 8c]
+pavelirinel: raises 30 to 60
+ch3rry_j3rry: folds 
+Mahu2021: folds 
+Uncalled bet (30) returned to pavelirinel
+pavelirinel collected 75 from pot
+pavelirinel: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: ch3rry_j3rry (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: pavelirinel (button) collected (75)
+
+
+
+PokerStars Hand #254983599757: Tournament #3861734843, $4.60+$0.40 USD Hold'em No Limit - Level II (15/30) - 2025/02/22 12:32:15 CET [2025/02/22 6:32:15 ET]
+Table '3861734843 1' 3-max Seat #1 is the button
+Seat 1: ch3rry_j3rry (845 in chips) 
+Seat 2: Mahu2021 (310 in chips) 
+Seat 3: pavelirinel (345 in chips) 
+Mahu2021: posts small blind 15
+pavelirinel: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d 6h]
+ch3rry_j3rry: raises 815 to 845 and is all-in
+Mahu2021: folds 
+pavelirinel: folds 
+Uncalled bet (815) returned to ch3rry_j3rry
+ch3rry_j3rry collected 75 from pot
+ch3rry_j3rry: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: ch3rry_j3rry (button) collected (75)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: pavelirinel (big blind) folded before Flop
+
+
+
+PokerStars Hand #254983600888: Tournament #3861734843, $4.60+$0.40 USD Hold'em No Limit - Level II (15/30) - 2025/02/22 12:32:24 CET [2025/02/22 6:32:24 ET]
+Table '3861734843 1' 3-max Seat #2 is the button
+Seat 1: ch3rry_j3rry (890 in chips) 
+Seat 2: Mahu2021 (295 in chips) 
+Seat 3: pavelirinel (315 in chips) 
+pavelirinel: posts small blind 15
+ch3rry_j3rry: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h 3d]
+Mahu2021: folds 
+pavelirinel: folds 
+Uncalled bet (15) returned to ch3rry_j3rry
+ch3rry_j3rry collected 30 from pot
+ch3rry_j3rry: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: ch3rry_j3rry (big blind) collected (30)
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: pavelirinel (small blind) folded before Flop
+
+
+
+PokerStars Hand #254983602600: Tournament #3861734843, $4.60+$0.40 USD Hold'em No Limit - Level II (15/30) - 2025/02/22 12:32:37 CET [2025/02/22 6:32:37 ET]
+Table '3861734843 1' 3-max Seat #3 is the button
+Seat 1: ch3rry_j3rry (905 in chips) 
+Seat 2: Mahu2021 (295 in chips) 
+Seat 3: pavelirinel (300 in chips) 
+ch3rry_j3rry: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d Ah]
+pavelirinel has timed out
+pavelirinel: folds 
+pavelirinel is sitting out
+ch3rry_j3rry: raises 30 to 60
+pavelirinel has returned
+Mahu2021: raises 235 to 295 and is all-in
+ch3rry_j3rry: folds 
+Uncalled bet (235) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: ch3rry_j3rry (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (120)
+Seat 3: pavelirinel (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254983605319: Tournament #3861734843, $4.60+$0.40 USD Hold'em No Limit - Level II (15/30) - 2025/02/22 12:32:58 CET [2025/02/22 6:32:58 ET]
+Table '3861734843 1' 3-max Seat #1 is the button
+Seat 1: ch3rry_j3rry (845 in chips) 
+Seat 2: Mahu2021 (355 in chips) 
+Seat 3: pavelirinel (300 in chips) 
+Mahu2021: posts small blind 15
+pavelirinel: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8d 5d]
+ch3rry_j3rry: folds 
+Mahu2021: folds 
+Uncalled bet (15) returned to pavelirinel
+pavelirinel collected 30 from pot
+pavelirinel: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: ch3rry_j3rry (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: pavelirinel (big blind) collected (30)
+
+
+
+PokerStars Hand #254983606324: Tournament #3861734843, $4.60+$0.40 USD Hold'em No Limit - Level II (15/30) - 2025/02/22 12:33:05 CET [2025/02/22 6:33:05 ET]
+Table '3861734843 1' 3-max Seat #2 is the button
+Seat 1: ch3rry_j3rry (845 in chips) 
+Seat 2: Mahu2021 (340 in chips) 
+Seat 3: pavelirinel (315 in chips) 
+pavelirinel: posts small blind 15
+ch3rry_j3rry: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c 6d]
+Mahu2021: raises 310 to 340 and is all-in
+pavelirinel: folds 
+ch3rry_j3rry: folds 
+Uncalled bet (310) returned to Mahu2021
+Mahu2021 collected 75 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: ch3rry_j3rry (big blind) folded before Flop
+Seat 2: Mahu2021 (button) collected (75)
+Seat 3: pavelirinel (small blind) folded before Flop
+
+
+
+PokerStars Hand #254983607908: Tournament #3861734843, $4.60+$0.40 USD Hold'em No Limit - Level II (15/30) - 2025/02/22 12:33:18 CET [2025/02/22 6:33:18 ET]
+Table '3861734843 1' 3-max Seat #3 is the button
+Seat 1: ch3rry_j3rry (815 in chips) 
+Seat 2: Mahu2021 (385 in chips) 
+Seat 3: pavelirinel (300 in chips) 
+ch3rry_j3rry: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh Kc]
+pavelirinel: folds 
+ch3rry_j3rry: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: ch3rry_j3rry (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (30)
+Seat 3: pavelirinel (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254983609025: Tournament #3861734843, $4.60+$0.40 USD Hold'em No Limit - Level II (15/30) - 2025/02/22 12:33:26 CET [2025/02/22 6:33:26 ET]
+Table '3861734843 1' 3-max Seat #1 is the button
+Seat 1: ch3rry_j3rry (800 in chips) 
+Seat 2: Mahu2021 (400 in chips) 
+Seat 3: pavelirinel (300 in chips) 
+Mahu2021: posts small blind 15
+pavelirinel: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c 9d]
+ch3rry_j3rry: folds 
+Mahu2021: folds 
+Uncalled bet (15) returned to pavelirinel
+pavelirinel collected 30 from pot
+pavelirinel: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: ch3rry_j3rry (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: pavelirinel (big blind) collected (30)
+
+
+
+PokerStars Hand #254983609856: Tournament #3861734843, $4.60+$0.40 USD Hold'em No Limit - Level II (15/30) - 2025/02/22 12:33:32 CET [2025/02/22 6:33:32 ET]
+Table '3861734843 1' 3-max Seat #2 is the button
+Seat 1: ch3rry_j3rry (800 in chips) 
+Seat 2: Mahu2021 (385 in chips) 
+Seat 3: pavelirinel (315 in chips) 
+pavelirinel: posts small blind 15
+ch3rry_j3rry: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c Qd]
+Mahu2021: folds 
+pavelirinel: raises 150 to 180
+ch3rry_j3rry: folds 
+Uncalled bet (150) returned to pavelirinel
+pavelirinel collected 60 from pot
+pavelirinel: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: ch3rry_j3rry (big blind) folded before Flop
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: pavelirinel (small blind) collected (60)
+
+
+
+PokerStars Hand #254983611296: Tournament #3861734843, $4.60+$0.40 USD Hold'em No Limit - Level II (15/30) - 2025/02/22 12:33:43 CET [2025/02/22 6:33:43 ET]
+Table '3861734843 1' 3-max Seat #3 is the button
+Seat 1: ch3rry_j3rry (770 in chips) 
+Seat 2: Mahu2021 (385 in chips) 
+Seat 3: pavelirinel (345 in chips) 
+ch3rry_j3rry: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3c 6d]
+pavelirinel: folds 
+ch3rry_j3rry: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: ch3rry_j3rry (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (30)
+Seat 3: pavelirinel (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254983612508: Tournament #3861734843, $4.60+$0.40 USD Hold'em No Limit - Level II (15/30) - 2025/02/22 12:33:52 CET [2025/02/22 6:33:52 ET]
+Table '3861734843 1' 3-max Seat #1 is the button
+Seat 1: ch3rry_j3rry (755 in chips) 
+Seat 2: Mahu2021 (400 in chips) 
+Seat 3: pavelirinel (345 in chips) 
+Mahu2021: posts small blind 15
+pavelirinel: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8s Kd]
+ch3rry_j3rry: folds 
+Mahu2021: raises 30 to 60
+pavelirinel: calls 30
+*** FLOP *** [7c 5s 4d]
+Mahu2021: checks 
+pavelirinel: bets 285 and is all-in
+Mahu2021: folds 
+Uncalled bet (285) returned to pavelirinel
+pavelirinel collected 120 from pot
+pavelirinel: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [7c 5s 4d]
+Seat 1: ch3rry_j3rry (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) folded on the Flop
+Seat 3: pavelirinel (big blind) collected (120)
+
+
+
+PokerStars Hand #254983614965: Tournament #3861734843, $4.60+$0.40 USD Hold'em No Limit - Level II (15/30) - 2025/02/22 12:34:10 CET [2025/02/22 6:34:10 ET]
+Table '3861734843 1' 3-max Seat #2 is the button
+Seat 1: ch3rry_j3rry (755 in chips) 
+Seat 2: Mahu2021 (340 in chips) 
+Seat 3: pavelirinel (405 in chips) 
+pavelirinel: posts small blind 15
+ch3rry_j3rry: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s 2s]
+Mahu2021: folds 
+pavelirinel: raises 90 to 120
+ch3rry_j3rry: folds 
+Uncalled bet (90) returned to pavelirinel
+pavelirinel collected 60 from pot
+pavelirinel: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: ch3rry_j3rry (big blind) folded before Flop
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: pavelirinel (small blind) collected (60)
+
+
+
+PokerStars Hand #254983616400: Tournament #3861734843, $4.60+$0.40 USD Hold'em No Limit - Level II (15/30) - 2025/02/22 12:34:21 CET [2025/02/22 6:34:21 ET]
+Table '3861734843 1' 3-max Seat #3 is the button
+Seat 1: ch3rry_j3rry (725 in chips) 
+Seat 2: Mahu2021 (340 in chips) 
+Seat 3: pavelirinel (435 in chips) 
+ch3rry_j3rry: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d 3s]
+pavelirinel: raises 30 to 60
+ch3rry_j3rry: folds 
+Mahu2021: folds 
+Uncalled bet (30) returned to pavelirinel
+pavelirinel collected 75 from pot
+pavelirinel: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: ch3rry_j3rry (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: pavelirinel (button) collected (75)
+
+
+
+PokerStars Hand #254983617319: Tournament #3861734843, $4.60+$0.40 USD Hold'em No Limit - Level II (15/30) - 2025/02/22 12:34:27 CET [2025/02/22 6:34:27 ET]
+Table '3861734843 1' 3-max Seat #1 is the button
+Seat 1: ch3rry_j3rry (710 in chips) 
+Seat 2: Mahu2021 (310 in chips) 
+Seat 3: pavelirinel (480 in chips) 
+Mahu2021: posts small blind 15
+pavelirinel: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d Ks]
+ch3rry_j3rry: raises 30 to 60
+Mahu2021: calls 45
+pavelirinel: calls 30
+*** FLOP *** [Th Ac Tc]
+Mahu2021: checks 
+pavelirinel: checks 
+ch3rry_j3rry: checks 
+*** TURN *** [Th Ac Tc] [5h]
+Mahu2021: checks 
+pavelirinel: bets 30
+ch3rry_j3rry: calls 30
+Mahu2021: folds 
+*** RIVER *** [Th Ac Tc 5h] [2h]
+pavelirinel: bets 30
+ch3rry_j3rry: raises 84 to 114
+pavelirinel: folds 
+Uncalled bet (84) returned to ch3rry_j3rry
+ch3rry_j3rry collected 300 from pot
+ch3rry_j3rry: doesn't show hand 
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [Th Ac Tc 5h 2h]
+Seat 1: ch3rry_j3rry (button) collected (300)
+Seat 2: Mahu2021 (small blind) folded on the Turn
+Seat 3: pavelirinel (big blind) folded on the River
+
+
+
+PokerStars Hand #254983624398: Tournament #3861734843, $4.60+$0.40 USD Hold'em No Limit - Level III (20/40) - 2025/02/22 12:35:18 CET [2025/02/22 6:35:18 ET]
+Table '3861734843 1' 3-max Seat #2 is the button
+Seat 1: ch3rry_j3rry (890 in chips) 
+Seat 2: Mahu2021 (250 in chips) 
+Seat 3: pavelirinel (360 in chips) 
+pavelirinel: posts small blind 20
+ch3rry_j3rry: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h 4d]
+Mahu2021: folds 
+pavelirinel: raises 120 to 160
+ch3rry_j3rry: folds 
+Uncalled bet (120) returned to pavelirinel
+pavelirinel collected 80 from pot
+pavelirinel: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: ch3rry_j3rry (big blind) folded before Flop
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: pavelirinel (small blind) collected (80)
+
+
+
+PokerStars Hand #254983625790: Tournament #3861734843, $4.60+$0.40 USD Hold'em No Limit - Level III (20/40) - 2025/02/22 12:35:28 CET [2025/02/22 6:35:28 ET]
+Table '3861734843 1' 3-max Seat #3 is the button
+Seat 1: ch3rry_j3rry (850 in chips) 
+Seat 2: Mahu2021 (250 in chips) 
+Seat 3: pavelirinel (400 in chips) 
+ch3rry_j3rry: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Td 2h]
+pavelirinel: calls 40
+ch3rry_j3rry: folds 
+Mahu2021: checks 
+*** FLOP *** [9d 3h Qc]
+Mahu2021: checks 
+pavelirinel: bets 40
+Mahu2021: folds 
+Uncalled bet (40) returned to pavelirinel
+pavelirinel collected 100 from pot
+pavelirinel: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [9d 3h Qc]
+Seat 1: ch3rry_j3rry (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) folded on the Flop
+Seat 3: pavelirinel (button) collected (100)
+
+
+
+PokerStars Hand #254983628259: Tournament #3861734843, $4.60+$0.40 USD Hold'em No Limit - Level III (20/40) - 2025/02/22 12:35:46 CET [2025/02/22 6:35:46 ET]
+Table '3861734843 1' 3-max Seat #1 is the button
+Seat 1: ch3rry_j3rry (830 in chips) 
+Seat 2: Mahu2021 (210 in chips) 
+Seat 3: pavelirinel (460 in chips) 
+Mahu2021: posts small blind 20
+pavelirinel: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3c 7h]
+ch3rry_j3rry: raises 790 to 830 and is all-in
+Mahu2021: folds 
+pavelirinel: folds 
+Uncalled bet (790) returned to ch3rry_j3rry
+ch3rry_j3rry collected 100 from pot
+ch3rry_j3rry: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: ch3rry_j3rry (button) collected (100)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: pavelirinel (big blind) folded before Flop
+
+
+
+PokerStars Hand #254983629600: Tournament #3861734843, $4.60+$0.40 USD Hold'em No Limit - Level III (20/40) - 2025/02/22 12:35:56 CET [2025/02/22 6:35:56 ET]
+Table '3861734843 1' 3-max Seat #2 is the button
+Seat 1: ch3rry_j3rry (890 in chips) 
+Seat 2: Mahu2021 (190 in chips) 
+Seat 3: pavelirinel (420 in chips) 
+pavelirinel: posts small blind 20
+ch3rry_j3rry: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6h 2s]
+Mahu2021: folds 
+pavelirinel: raises 380 to 420 and is all-in
+ch3rry_j3rry: folds 
+Uncalled bet (380) returned to pavelirinel
+pavelirinel collected 80 from pot
+pavelirinel: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: ch3rry_j3rry (big blind) folded before Flop
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: pavelirinel (small blind) collected (80)
+
+
+
+PokerStars Hand #254983631226: Tournament #3861734843, $4.60+$0.40 USD Hold'em No Limit - Level III (20/40) - 2025/02/22 12:36:07 CET [2025/02/22 6:36:07 ET]
+Table '3861734843 1' 3-max Seat #3 is the button
+Seat 1: ch3rry_j3rry (850 in chips) 
+Seat 2: Mahu2021 (190 in chips) 
+Seat 3: pavelirinel (460 in chips) 
+ch3rry_j3rry: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Tc 2s]
+pavelirinel: folds 
+ch3rry_j3rry: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: ch3rry_j3rry (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (40)
+Seat 3: pavelirinel (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254983632516: Tournament #3861734843, $4.60+$0.40 USD Hold'em No Limit - Level III (20/40) - 2025/02/22 12:36:17 CET [2025/02/22 6:36:17 ET]
+Table '3861734843 1' 3-max Seat #1 is the button
+Seat 1: ch3rry_j3rry (830 in chips) 
+Seat 2: Mahu2021 (210 in chips) 
+Seat 3: pavelirinel (460 in chips) 
+Mahu2021: posts small blind 20
+pavelirinel: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s 8c]
+ch3rry_j3rry: folds 
+Mahu2021: folds 
+Uncalled bet (20) returned to pavelirinel
+pavelirinel collected 40 from pot
+pavelirinel: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: ch3rry_j3rry (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: pavelirinel (big blind) collected (40)
+
+
+
+PokerStars Hand #254983633200: Tournament #3861734843, $4.60+$0.40 USD Hold'em No Limit - Level III (20/40) - 2025/02/22 12:36:22 CET [2025/02/22 6:36:22 ET]
+Table '3861734843 1' 3-max Seat #2 is the button
+Seat 1: ch3rry_j3rry (830 in chips) 
+Seat 2: Mahu2021 (190 in chips) 
+Seat 3: pavelirinel (480 in chips) 
+pavelirinel: posts small blind 20
+ch3rry_j3rry: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8c Ks]
+Mahu2021: raises 150 to 190 and is all-in
+pavelirinel: folds 
+ch3rry_j3rry: calls 150
+*** FLOP *** [2c Jc 4h]
+*** TURN *** [2c Jc 4h] [Ah]
+*** RIVER *** [2c Jc 4h Ah] [Ts]
+*** SHOW DOWN ***
+ch3rry_j3rry: shows [Ad Qd] (a pair of Aces)
+Mahu2021: shows [8c Ks] (high card Ace)
+ch3rry_j3rry collected 400 from pot
+Mahu2021 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Board [2c Jc 4h Ah Ts]
+Seat 1: ch3rry_j3rry (big blind) showed [Ad Qd] and won (400) with a pair of Aces
+Seat 2: Mahu2021 (button) showed [8c Ks] and lost with high card Ace
+Seat 3: pavelirinel (small blind) folded before Flop
+
+
+

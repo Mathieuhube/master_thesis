@@ -1,0 +1,1473 @@
+﻿PokerStars Hand #246976074203: Tournament #3669521876, $9.30+$0.70 USD Hold'em No Limit - Level I (10/20) - 2023/11/07 12:45:40 CET [2023/11/07 6:45:40 ET]
+Table '3669521876 1' 3-max Seat #1 is the button
+Seat 1: rembo3 (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: sharanjeet (500 in chips) 
+Mahu2021: posts small blind 10
+sharanjeet: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d 6c]
+rembo3: calls 20
+Mahu2021: folds 
+sharanjeet: checks 
+*** FLOP *** [9s 3s 2h]
+sharanjeet: checks 
+rembo3: checks 
+*** TURN *** [9s 3s 2h] [As]
+sharanjeet: checks 
+rembo3: checks 
+*** RIVER *** [9s 3s 2h As] [Ah]
+sharanjeet: checks 
+rembo3: checks 
+*** SHOW DOWN ***
+sharanjeet: shows [6s 5h] (a pair of Aces)
+rembo3: shows [8c 4s] (a pair of Aces - Nine+Eight kicker)
+rembo3 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [9s 3s 2h As Ah]
+Seat 1: rembo3 (button) showed [8c 4s] and won (50) with a pair of Aces
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: sharanjeet (big blind) showed [6s 5h] and lost with a pair of Aces
+
+
+
+PokerStars Hand #246976076506: Tournament #3669521876, $9.30+$0.70 USD Hold'em No Limit - Level I (10/20) - 2023/11/07 12:45:54 CET [2023/11/07 6:45:54 ET]
+Table '3669521876 1' 3-max Seat #2 is the button
+Seat 1: rembo3 (530 in chips) 
+Seat 2: Mahu2021 (490 in chips) 
+Seat 3: sharanjeet (480 in chips) 
+sharanjeet: posts small blind 10
+rembo3: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s Ts]
+Mahu2021: folds 
+sharanjeet: calls 10
+rembo3: checks 
+*** FLOP *** [3d 8d Jc]
+sharanjeet: checks 
+rembo3: bets 20
+sharanjeet: calls 20
+*** TURN *** [3d 8d Jc] [5d]
+sharanjeet: checks 
+rembo3: bets 20
+sharanjeet: calls 20
+*** RIVER *** [3d 8d Jc 5d] [4h]
+sharanjeet: bets 20
+rembo3: calls 20
+*** SHOW DOWN ***
+sharanjeet: shows [Ac 5s] (a pair of Fives)
+rembo3: mucks hand 
+sharanjeet collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [3d 8d Jc 5d 4h]
+Seat 1: rembo3 (big blind) mucked [3h Ks]
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: sharanjeet (small blind) showed [Ac 5s] and won (160) with a pair of Fives
+
+
+
+PokerStars Hand #246976079476: Tournament #3669521876, $9.30+$0.70 USD Hold'em No Limit - Level I (10/20) - 2023/11/07 12:46:12 CET [2023/11/07 6:46:12 ET]
+Table '3669521876 1' 3-max Seat #3 is the button
+Seat 1: rembo3 (450 in chips) 
+Seat 2: Mahu2021 (490 in chips) 
+Seat 3: sharanjeet (560 in chips) 
+rembo3: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4d 2c]
+sharanjeet: calls 20
+rembo3: folds 
+Mahu2021: checks 
+*** FLOP *** [7c Ts 5c]
+Mahu2021: checks 
+sharanjeet: checks 
+*** TURN *** [7c Ts 5c] [8d]
+Mahu2021: checks 
+sharanjeet: checks 
+*** RIVER *** [7c Ts 5c 8d] [6h]
+Mahu2021: bets 20
+sharanjeet: calls 20
+*** SHOW DOWN ***
+Mahu2021: shows [4d 2c] (a straight, Four to Eight)
+sharanjeet: mucks hand 
+Mahu2021 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [7c Ts 5c 8d 6h]
+Seat 1: rembo3 (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) showed [4d 2c] and won (90) with a straight, Four to Eight
+Seat 3: sharanjeet (button) mucked [Qh 8h]
+
+
+
+PokerStars Hand #246976081761: Tournament #3669521876, $9.30+$0.70 USD Hold'em No Limit - Level I (10/20) - 2023/11/07 12:46:27 CET [2023/11/07 6:46:27 ET]
+Table '3669521876 1' 3-max Seat #1 is the button
+Seat 1: rembo3 (440 in chips) 
+Seat 2: Mahu2021 (540 in chips) 
+Seat 3: sharanjeet (520 in chips) 
+Mahu2021: posts small blind 10
+sharanjeet: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8s 7s]
+rembo3: folds 
+Mahu2021: raises 40 to 60
+sharanjeet: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: rembo3 (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) collected (40)
+Seat 3: sharanjeet (big blind) folded before Flop
+
+
+
+PokerStars Hand #246976083289: Tournament #3669521876, $9.30+$0.70 USD Hold'em No Limit - Level I (10/20) - 2023/11/07 12:46:36 CET [2023/11/07 6:46:36 ET]
+Table '3669521876 1' 3-max Seat #2 is the button
+Seat 1: rembo3 (440 in chips) 
+Seat 2: Mahu2021 (560 in chips) 
+Seat 3: sharanjeet (500 in chips) 
+sharanjeet: posts small blind 10
+rembo3: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8s 6h]
+Mahu2021: folds 
+sharanjeet: calls 10
+rembo3: raises 20 to 40
+sharanjeet: calls 20
+*** FLOP *** [Td Ac 8d]
+sharanjeet: checks 
+rembo3: bets 20
+sharanjeet: calls 20
+*** TURN *** [Td Ac 8d] [7c]
+sharanjeet: bets 40
+rembo3: raises 40 to 80
+sharanjeet: calls 40
+*** RIVER *** [Td Ac 8d 7c] [4s]
+sharanjeet: checks 
+rembo3: bets 300 and is all-in
+sharanjeet: calls 300
+*** SHOW DOWN ***
+rembo3: shows [Qs As] (a pair of Aces)
+sharanjeet: shows [5d Ah] (a pair of Aces - lower kicker)
+rembo3 collected 880 from pot
+*** SUMMARY ***
+Total pot 880 | Rake 0 
+Board [Td Ac 8d 7c 4s]
+Seat 1: rembo3 (big blind) showed [Qs As] and won (880) with a pair of Aces
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: sharanjeet (small blind) showed [5d Ah] and lost with a pair of Aces
+
+
+
+PokerStars Hand #246976088936: Tournament #3669521876, $9.30+$0.70 USD Hold'em No Limit - Level I (10/20) - 2023/11/07 12:47:11 CET [2023/11/07 6:47:11 ET]
+Table '3669521876 1' 3-max Seat #3 is the button
+Seat 1: rembo3 (880 in chips) 
+Seat 2: Mahu2021 (560 in chips) 
+Seat 3: sharanjeet (60 in chips) 
+rembo3: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Td Jh]
+sharanjeet: folds 
+rembo3: raises 20 to 40
+Mahu2021: calls 20
+*** FLOP *** [2c 6c 2h]
+rembo3: bets 20
+Mahu2021: folds 
+Uncalled bet (20) returned to rembo3
+rembo3 collected 80 from pot
+rembo3: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [2c 6c 2h]
+Seat 1: rembo3 (small blind) collected (80)
+Seat 2: Mahu2021 (big blind) folded on the Flop
+Seat 3: sharanjeet (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #246976090819: Tournament #3669521876, $9.30+$0.70 USD Hold'em No Limit - Level I (10/20) - 2023/11/07 12:47:22 CET [2023/11/07 6:47:22 ET]
+Table '3669521876 1' 3-max Seat #1 is the button
+Seat 1: rembo3 (920 in chips) 
+Seat 2: Mahu2021 (520 in chips) 
+Seat 3: sharanjeet (60 in chips) 
+Mahu2021: posts small blind 10
+sharanjeet: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd Qd]
+rembo3: raises 20 to 40
+Mahu2021: calls 30
+sharanjeet: raises 20 to 60 and is all-in
+rembo3: calls 20
+Mahu2021: calls 20
+*** FLOP *** [7s Ts 4c]
+Mahu2021: checks 
+rembo3: bets 100
+Mahu2021: folds 
+Uncalled bet (100) returned to rembo3
+*** TURN *** [7s Ts 4c] [8s]
+*** RIVER *** [7s Ts 4c 8s] [Kc]
+*** SHOW DOWN ***
+sharanjeet: shows [5h 8h] (a pair of Eights)
+rembo3: shows [Ac 7h] (a pair of Sevens)
+sharanjeet collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [7s Ts 4c 8s Kc]
+Seat 1: rembo3 (button) showed [Ac 7h] and lost with a pair of Sevens
+Seat 2: Mahu2021 (small blind) folded on the Flop
+Seat 3: sharanjeet (big blind) showed [5h 8h] and won (180) with a pair of Eights
+
+
+
+PokerStars Hand #246976094487: Tournament #3669521876, $9.30+$0.70 USD Hold'em No Limit - Level I (10/20) - 2023/11/07 12:47:45 CET [2023/11/07 6:47:45 ET]
+Table '3669521876 1' 3-max Seat #2 is the button
+Seat 1: rembo3 (860 in chips) 
+Seat 2: Mahu2021 (460 in chips) 
+Seat 3: sharanjeet (180 in chips) 
+sharanjeet: posts small blind 10
+rembo3: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh Th]
+Mahu2021: raises 20 to 40
+sharanjeet: folds 
+rembo3: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 50 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: rembo3 (big blind) folded before Flop
+Seat 2: Mahu2021 (button) collected (50)
+Seat 3: sharanjeet (small blind) folded before Flop
+
+
+
+PokerStars Hand #246976095534: Tournament #3669521876, $9.30+$0.70 USD Hold'em No Limit - Level I (10/20) - 2023/11/07 12:47:51 CET [2023/11/07 6:47:51 ET]
+Table '3669521876 1' 3-max Seat #3 is the button
+Seat 1: rembo3 (840 in chips) 
+Seat 2: Mahu2021 (490 in chips) 
+Seat 3: sharanjeet (170 in chips) 
+rembo3: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd Jh]
+sharanjeet: folds 
+rembo3: raises 20 to 40
+Mahu2021: raises 450 to 490 and is all-in
+rembo3: calls 450
+*** FLOP *** [8h 2h 5d]
+*** TURN *** [8h 2h 5d] [3d]
+*** RIVER *** [8h 2h 5d 3d] [Ts]
+*** SHOW DOWN ***
+rembo3: shows [Js 8s] (a pair of Eights)
+Mahu2021: shows [Jd Jh] (a pair of Jacks)
+Mahu2021 collected 980 from pot
+*** SUMMARY ***
+Total pot 980 | Rake 0 
+Board [8h 2h 5d 3d Ts]
+Seat 1: rembo3 (small blind) showed [Js 8s] and lost with a pair of Eights
+Seat 2: Mahu2021 (big blind) showed [Jd Jh] and won (980) with a pair of Jacks
+Seat 3: sharanjeet (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #246976098028: Tournament #3669521876, $9.30+$0.70 USD Hold'em No Limit - Level I (10/20) - 2023/11/07 12:48:06 CET [2023/11/07 6:48:06 ET]
+Table '3669521876 1' 3-max Seat #1 is the button
+Seat 1: rembo3 (350 in chips) 
+Seat 2: Mahu2021 (980 in chips) 
+Seat 3: sharanjeet (170 in chips) 
+Mahu2021: posts small blind 10
+sharanjeet: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6h Qd]
+rembo3: raises 330 to 350 and is all-in
+Mahu2021: folds 
+sharanjeet: folds [Tc 9h]
+Uncalled bet (330) returned to rembo3
+rembo3 collected 50 from pot
+rembo3: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: rembo3 (button) collected (50)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: sharanjeet (big blind) folded before Flop
+
+
+
+PokerStars Hand #246976099705: Tournament #3669521876, $9.30+$0.70 USD Hold'em No Limit - Level I (10/20) - 2023/11/07 12:48:17 CET [2023/11/07 6:48:17 ET]
+Table '3669521876 1' 3-max Seat #2 is the button
+Seat 1: rembo3 (380 in chips) 
+Seat 2: Mahu2021 (970 in chips) 
+Seat 3: sharanjeet (150 in chips) 
+sharanjeet: posts small blind 10
+rembo3: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h 5c]
+Mahu2021: folds 
+sharanjeet: raises 130 to 150 and is all-in
+rembo3: calls 130
+*** FLOP *** [7h 4d 7d]
+*** TURN *** [7h 4d 7d] [5s]
+*** RIVER *** [7h 4d 7d 5s] [3s]
+*** SHOW DOWN ***
+sharanjeet: shows [Ad 7c] (three of a kind, Sevens)
+rembo3: shows [9c 8h] (a pair of Sevens)
+sharanjeet collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [7h 4d 7d 5s 3s]
+Seat 1: rembo3 (big blind) showed [9c 8h] and lost with a pair of Sevens
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: sharanjeet (small blind) showed [Ad 7c] and won (300) with three of a kind, Sevens
+
+
+
+PokerStars Hand #246976101942: Tournament #3669521876, $9.30+$0.70 USD Hold'em No Limit - Level I (10/20) - 2023/11/07 12:48:31 CET [2023/11/07 6:48:31 ET]
+Table '3669521876 1' 3-max Seat #3 is the button
+Seat 1: rembo3 (230 in chips) 
+Seat 2: Mahu2021 (970 in chips) 
+Seat 3: sharanjeet (300 in chips) 
+rembo3: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s Qs]
+sharanjeet: folds 
+rembo3: folds 
+Uncalled bet (10) returned to Mahu2021
+Mahu2021 collected 20 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: rembo3 (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (20)
+Seat 3: sharanjeet (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #246976102895: Tournament #3669521876, $9.30+$0.70 USD Hold'em No Limit - Level I (10/20) - 2023/11/07 12:48:37 CET [2023/11/07 6:48:37 ET]
+Table '3669521876 1' 3-max Seat #1 is the button
+Seat 1: rembo3 (220 in chips) 
+Seat 2: Mahu2021 (980 in chips) 
+Seat 3: sharanjeet (300 in chips) 
+Mahu2021: posts small blind 10
+sharanjeet: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js 9d]
+rembo3: raises 200 to 220 and is all-in
+Mahu2021: folds 
+sharanjeet: calls 200
+*** FLOP *** [Jh 4s Ad]
+*** TURN *** [Jh 4s Ad] [7s]
+*** RIVER *** [Jh 4s Ad 7s] [Th]
+*** SHOW DOWN ***
+sharanjeet: shows [2h As] (a pair of Aces)
+rembo3: shows [7d Kd] (a pair of Sevens)
+sharanjeet collected 450 from pot
+rembo3 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 450 | Rake 0 
+Board [Jh 4s Ad 7s Th]
+Seat 1: rembo3 (button) showed [7d Kd] and lost with a pair of Sevens
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: sharanjeet (big blind) showed [2h As] and won (450) with a pair of Aces
+
+
+
+PokerStars Hand #246976105796: Tournament #3669521876, $9.30+$0.70 USD Hold'em No Limit - Level II (15/30) - 2023/11/07 12:48:55 CET [2023/11/07 6:48:55 ET]
+Table '3669521876 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (970 in chips) 
+Seat 3: sharanjeet (530 in chips) 
+sharanjeet: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h Td]
+sharanjeet: calls 15
+Mahu2021: checks 
+*** FLOP *** [Kd As 8c]
+Mahu2021: checks 
+sharanjeet: checks 
+*** TURN *** [Kd As 8c] [5h]
+Mahu2021: checks 
+sharanjeet: bets 30
+Mahu2021: calls 30
+*** RIVER *** [Kd As 8c 5h] [9c]
+Mahu2021: checks 
+sharanjeet: bets 30
+Mahu2021: calls 30
+*** SHOW DOWN ***
+sharanjeet: shows [6s Ah] (a pair of Aces)
+Mahu2021: mucks hand 
+sharanjeet collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [Kd As 8c 5h 9c]
+Seat 2: Mahu2021 (big blind) mucked [8h Td]
+Seat 3: sharanjeet (button) (small blind) showed [6s Ah] and won (180) with a pair of Aces
+
+
+
+PokerStars Hand #246976108332: Tournament #3669521876, $9.30+$0.70 USD Hold'em No Limit - Level II (15/30) - 2023/11/07 12:49:10 CET [2023/11/07 6:49:10 ET]
+Table '3669521876 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (880 in chips) 
+Seat 3: sharanjeet (620 in chips) 
+Mahu2021: posts small blind 15
+sharanjeet: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh 8d]
+Mahu2021: calls 15
+sharanjeet: checks 
+*** FLOP *** [9h Ks 2h]
+sharanjeet: checks 
+Mahu2021: bets 30
+sharanjeet: calls 30
+*** TURN *** [9h Ks 2h] [Ac]
+sharanjeet: checks 
+Mahu2021: bets 120
+sharanjeet: calls 120
+*** RIVER *** [9h Ks 2h Ac] [7d]
+sharanjeet: checks 
+Mahu2021: bets 120
+sharanjeet: calls 120
+*** SHOW DOWN ***
+Mahu2021: shows [Jh 8d] (high card Ace)
+sharanjeet: shows [8c 9c] (a pair of Nines)
+sharanjeet collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | Rake 0 
+Board [9h Ks 2h Ac 7d]
+Seat 2: Mahu2021 (button) (small blind) showed [Jh 8d] and lost with high card Ace
+Seat 3: sharanjeet (big blind) showed [8c 9c] and won (600) with a pair of Nines
+
+
+
+PokerStars Hand #246976111728: Tournament #3669521876, $9.30+$0.70 USD Hold'em No Limit - Level II (15/30) - 2023/11/07 12:49:31 CET [2023/11/07 6:49:31 ET]
+Table '3669521876 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (580 in chips) 
+Seat 3: sharanjeet (920 in chips) 
+sharanjeet: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s 9h]
+sharanjeet: calls 15
+Mahu2021: checks 
+*** FLOP *** [Ac 7s 3h]
+Mahu2021: checks 
+sharanjeet: checks 
+*** TURN *** [Ac 7s 3h] [2h]
+Mahu2021: checks 
+sharanjeet: bets 30
+Mahu2021: folds 
+Uncalled bet (30) returned to sharanjeet
+sharanjeet collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Ac 7s 3h 2h]
+Seat 2: Mahu2021 (big blind) folded on the Turn
+Seat 3: sharanjeet (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #246976113549: Tournament #3669521876, $9.30+$0.70 USD Hold'em No Limit - Level II (15/30) - 2023/11/07 12:49:43 CET [2023/11/07 6:49:43 ET]
+Table '3669521876 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (550 in chips) 
+Seat 3: sharanjeet (950 in chips) 
+Mahu2021: posts small blind 15
+sharanjeet: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c 4c]
+Mahu2021: raises 30 to 60
+sharanjeet: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) collected (60)
+Seat 3: sharanjeet (big blind) folded before Flop
+
+
+
+PokerStars Hand #246976114601: Tournament #3669521876, $9.30+$0.70 USD Hold'em No Limit - Level II (15/30) - 2023/11/07 12:49:49 CET [2023/11/07 6:49:49 ET]
+Table '3669521876 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (580 in chips) 
+Seat 3: sharanjeet (920 in chips) 
+sharanjeet: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d Js]
+sharanjeet: calls 15
+Mahu2021: checks 
+*** FLOP *** [5d 2c 9d]
+Mahu2021: checks 
+sharanjeet: bets 30
+Mahu2021: folds 
+Uncalled bet (30) returned to sharanjeet
+sharanjeet collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [5d 2c 9d]
+Seat 2: Mahu2021 (big blind) folded on the Flop
+Seat 3: sharanjeet (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #246976116283: Tournament #3669521876, $9.30+$0.70 USD Hold'em No Limit - Level II (15/30) - 2023/11/07 12:49:59 CET [2023/11/07 6:49:59 ET]
+Table '3669521876 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (550 in chips) 
+Seat 3: sharanjeet (950 in chips) 
+Mahu2021: posts small blind 15
+sharanjeet: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As Tc]
+Mahu2021: raises 60 to 90
+sharanjeet: calls 60
+*** FLOP *** [5c 8c Ks]
+sharanjeet: checks 
+Mahu2021: checks 
+*** TURN *** [5c 8c Ks] [Qs]
+sharanjeet: checks 
+Mahu2021: checks 
+*** RIVER *** [5c 8c Ks Qs] [Jd]
+sharanjeet: checks 
+Mahu2021: bets 180
+sharanjeet: calls 180
+*** SHOW DOWN ***
+Mahu2021: shows [As Tc] (a straight, Ten to Ace)
+sharanjeet: mucks hand 
+Mahu2021 collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | Rake 0 
+Board [5c 8c Ks Qs Jd]
+Seat 2: Mahu2021 (button) (small blind) showed [As Tc] and won (540) with a straight, Ten to Ace
+Seat 3: sharanjeet (big blind) mucked [Js 6h]
+
+
+
+PokerStars Hand #246976119315: Tournament #3669521876, $9.30+$0.70 USD Hold'em No Limit - Level II (15/30) - 2023/11/07 12:50:17 CET [2023/11/07 6:50:17 ET]
+Table '3669521876 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (820 in chips) 
+Seat 3: sharanjeet (680 in chips) 
+sharanjeet: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Td Jh]
+sharanjeet: calls 15
+Mahu2021: checks 
+*** FLOP *** [8d 5d 5h]
+Mahu2021: checks 
+sharanjeet: checks 
+*** TURN *** [8d 5d 5h] [6c]
+Mahu2021: bets 30
+sharanjeet: calls 30
+*** RIVER *** [8d 5d 5h 6c] [8s]
+Mahu2021: checks 
+sharanjeet: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [Td Jh] (two pair, Eights and Fives)
+sharanjeet: shows [9h 6s] (two pair, Eights and Sixes)
+sharanjeet collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [8d 5d 5h 6c 8s]
+Seat 2: Mahu2021 (big blind) showed [Td Jh] and lost with two pair, Eights and Fives
+Seat 3: sharanjeet (button) (small blind) showed [9h 6s] and won (120) with two pair, Eights and Sixes
+
+
+
+PokerStars Hand #246976121533: Tournament #3669521876, $9.30+$0.70 USD Hold'em No Limit - Level II (15/30) - 2023/11/07 12:50:31 CET [2023/11/07 6:50:31 ET]
+Table '3669521876 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (760 in chips) 
+Seat 3: sharanjeet (740 in chips) 
+Mahu2021: posts small blind 15
+sharanjeet: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c 4d]
+Mahu2021: folds 
+Uncalled bet (15) returned to sharanjeet
+sharanjeet collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: sharanjeet (big blind) collected (30)
+
+
+
+PokerStars Hand #246976122380: Tournament #3669521876, $9.30+$0.70 USD Hold'em No Limit - Level II (15/30) - 2023/11/07 12:50:36 CET [2023/11/07 6:50:36 ET]
+Table '3669521876 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (745 in chips) 
+Seat 3: sharanjeet (755 in chips) 
+sharanjeet: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh 7h]
+sharanjeet: calls 15
+Mahu2021: checks 
+*** FLOP *** [Jc Ad 2c]
+Mahu2021: checks 
+sharanjeet: checks 
+*** TURN *** [Jc Ad 2c] [5d]
+Mahu2021: checks 
+sharanjeet: checks 
+*** RIVER *** [Jc Ad 2c 5d] [Kh]
+Mahu2021: checks 
+sharanjeet: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [Qh 7h] (high card Ace)
+sharanjeet: mucks hand 
+Mahu2021 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Jc Ad 2c 5d Kh]
+Seat 2: Mahu2021 (big blind) showed [Qh 7h] and won (60) with high card Ace
+Seat 3: sharanjeet (button) (small blind) mucked [6d 3d]
+
+
+
+PokerStars Hand #246976124578: Tournament #3669521876, $9.30+$0.70 USD Hold'em No Limit - Level II (15/30) - 2023/11/07 12:50:50 CET [2023/11/07 6:50:50 ET]
+Table '3669521876 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (775 in chips) 
+Seat 3: sharanjeet (725 in chips) 
+Mahu2021: posts small blind 15
+sharanjeet: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad 7c]
+Mahu2021: calls 15
+sharanjeet: raises 30 to 60
+Mahu2021: calls 30
+*** FLOP *** [3h Qs 4d]
+sharanjeet: bets 60
+Mahu2021: folds 
+Uncalled bet (60) returned to sharanjeet
+sharanjeet collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [3h Qs 4d]
+Seat 2: Mahu2021 (button) (small blind) folded on the Flop
+Seat 3: sharanjeet (big blind) collected (120)
+
+
+
+PokerStars Hand #246976126692: Tournament #3669521876, $9.30+$0.70 USD Hold'em No Limit - Level II (15/30) - 2023/11/07 12:51:02 CET [2023/11/07 6:51:02 ET]
+Table '3669521876 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (715 in chips) 
+Seat 3: sharanjeet (785 in chips) 
+sharanjeet: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2c 9d]
+sharanjeet: calls 15
+Mahu2021: checks 
+*** FLOP *** [7h Ts 8s]
+Mahu2021: bets 30
+sharanjeet: calls 30
+*** TURN *** [7h Ts 8s] [3s]
+Mahu2021: checks 
+sharanjeet: bets 60
+Mahu2021: calls 60
+*** RIVER *** [7h Ts 8s 3s] [Th]
+Mahu2021: checks 
+sharanjeet: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [2c 9d] (a pair of Tens)
+sharanjeet: shows [Qc 7d] (two pair, Tens and Sevens)
+sharanjeet collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [7h Ts 8s 3s Th]
+Seat 2: Mahu2021 (big blind) showed [2c 9d] and lost with a pair of Tens
+Seat 3: sharanjeet (button) (small blind) showed [Qc 7d] and won (240) with two pair, Tens and Sevens
+
+
+
+PokerStars Hand #246976129823: Tournament #3669521876, $9.30+$0.70 USD Hold'em No Limit - Level II (15/30) - 2023/11/07 12:51:21 CET [2023/11/07 6:51:21 ET]
+Table '3669521876 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (595 in chips) 
+Seat 3: sharanjeet (905 in chips) 
+Mahu2021: posts small blind 15
+sharanjeet: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac 2h]
+Mahu2021: raises 60 to 90
+sharanjeet: calls 60
+*** FLOP *** [4h 3d 3h]
+sharanjeet: bets 60
+Mahu2021: calls 60
+*** TURN *** [4h 3d 3h] [6d]
+sharanjeet: bets 60
+Mahu2021: calls 60
+*** RIVER *** [4h 3d 3h 6d] [4c]
+sharanjeet: bets 30
+Mahu2021: calls 30
+*** SHOW DOWN ***
+sharanjeet: shows [Kd 8c] (two pair, Fours and Threes)
+Mahu2021: shows [Ac 2h] (two pair, Fours and Threes - Ace kicker)
+Mahu2021 collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Board [4h 3d 3h 6d 4c]
+Seat 2: Mahu2021 (button) (small blind) showed [Ac 2h] and won (480) with two pair, Fours and Threes
+Seat 3: sharanjeet (big blind) showed [Kd 8c] and lost with two pair, Fours and Threes
+
+
+
+PokerStars Hand #246976132732: Tournament #3669521876, $9.30+$0.70 USD Hold'em No Limit - Level II (15/30) - 2023/11/07 12:51:39 CET [2023/11/07 6:51:39 ET]
+Table '3669521876 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (835 in chips) 
+Seat 3: sharanjeet (665 in chips) 
+sharanjeet: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s 9s]
+sharanjeet: calls 15
+Mahu2021: checks 
+*** FLOP *** [5d Jh Qs]
+Mahu2021: checks 
+sharanjeet: bets 60
+Mahu2021: folds 
+Uncalled bet (60) returned to sharanjeet
+sharanjeet collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [5d Jh Qs]
+Seat 2: Mahu2021 (big blind) folded on the Flop
+Seat 3: sharanjeet (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #246976134794: Tournament #3669521876, $9.30+$0.70 USD Hold'em No Limit - Level III (20/40) - 2023/11/07 12:51:51 CET [2023/11/07 6:51:51 ET]
+Table '3669521876 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (805 in chips) 
+Seat 3: sharanjeet (695 in chips) 
+Mahu2021: posts small blind 20
+sharanjeet: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h 9c]
+Mahu2021: folds 
+Uncalled bet (20) returned to sharanjeet
+sharanjeet collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: sharanjeet (big blind) collected (40)
+
+
+
+PokerStars Hand #246976135613: Tournament #3669521876, $9.30+$0.70 USD Hold'em No Limit - Level III (20/40) - 2023/11/07 12:51:56 CET [2023/11/07 6:51:56 ET]
+Table '3669521876 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (785 in chips) 
+Seat 3: sharanjeet (715 in chips) 
+sharanjeet: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h Ks]
+sharanjeet: calls 20
+Mahu2021: checks 
+*** FLOP *** [9c 8s 9d]
+Mahu2021: checks 
+sharanjeet: checks 
+*** TURN *** [9c 8s 9d] [6h]
+Mahu2021: checks 
+sharanjeet: checks 
+*** RIVER *** [9c 8s 9d 6h] [2d]
+Mahu2021: bets 40
+sharanjeet: calls 40
+*** SHOW DOWN ***
+Mahu2021: shows [3h Ks] (a pair of Nines)
+sharanjeet: mucks hand 
+Mahu2021 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [9c 8s 9d 6h 2d]
+Seat 2: Mahu2021 (big blind) showed [3h Ks] and won (160) with a pair of Nines
+Seat 3: sharanjeet (button) (small blind) mucked [Qd 5d]
+
+
+
+PokerStars Hand #246976139019: Tournament #3669521876, $9.30+$0.70 USD Hold'em No Limit - Level III (20/40) - 2023/11/07 12:52:16 CET [2023/11/07 6:52:16 ET]
+Table '3669521876 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (865 in chips) 
+Seat 3: sharanjeet (635 in chips) 
+Mahu2021: posts small blind 20
+sharanjeet: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5h Qs]
+Mahu2021: folds 
+Uncalled bet (20) returned to sharanjeet
+sharanjeet collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: sharanjeet (big blind) collected (40)
+
+
+
+PokerStars Hand #246976139943: Tournament #3669521876, $9.30+$0.70 USD Hold'em No Limit - Level III (20/40) - 2023/11/07 12:52:22 CET [2023/11/07 6:52:22 ET]
+Table '3669521876 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (845 in chips) 
+Seat 3: sharanjeet (655 in chips) 
+sharanjeet: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h 4d]
+sharanjeet: calls 20
+Mahu2021: checks 
+*** FLOP *** [9d 2s Th]
+Mahu2021: checks 
+sharanjeet: bets 40
+Mahu2021: calls 40
+*** TURN *** [9d 2s Th] [3d]
+Mahu2021: checks 
+sharanjeet: checks 
+*** RIVER *** [9d 2s Th 3d] [4h]
+Mahu2021: bets 160
+sharanjeet: calls 160
+*** SHOW DOWN ***
+Mahu2021: shows [2h 4d] (two pair, Fours and Deuces)
+sharanjeet: mucks hand 
+Mahu2021 collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Board [9d 2s Th 3d 4h]
+Seat 2: Mahu2021 (big blind) showed [2h 4d] and won (480) with two pair, Fours and Deuces
+Seat 3: sharanjeet (button) (small blind) mucked [Ac Jc]
+
+
+
+PokerStars Hand #246976142707: Tournament #3669521876, $9.30+$0.70 USD Hold'em No Limit - Level III (20/40) - 2023/11/07 12:52:39 CET [2023/11/07 6:52:39 ET]
+Table '3669521876 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (1085 in chips) 
+Seat 3: sharanjeet (415 in chips) 
+Mahu2021: posts small blind 20
+sharanjeet: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qs 4s]
+Mahu2021: raises 80 to 120
+sharanjeet: calls 80
+*** FLOP *** [2d 8h 7s]
+sharanjeet: checks 
+Mahu2021: checks 
+*** TURN *** [2d 8h 7s] [Ah]
+sharanjeet: checks 
+Mahu2021: bets 120
+sharanjeet: folds 
+Uncalled bet (120) returned to Mahu2021
+Mahu2021 collected 240 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [2d 8h 7s Ah]
+Seat 2: Mahu2021 (button) (small blind) collected (240)
+Seat 3: sharanjeet (big blind) folded on the Turn
+
+
+
+PokerStars Hand #246976145145: Tournament #3669521876, $9.30+$0.70 USD Hold'em No Limit - Level III (20/40) - 2023/11/07 12:52:54 CET [2023/11/07 6:52:54 ET]
+Table '3669521876 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (1205 in chips) 
+Seat 3: sharanjeet (295 in chips) 
+sharanjeet: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2c 6d]
+sharanjeet: calls 20
+Mahu2021: checks 
+*** FLOP *** [9s 7s Tc]
+Mahu2021: checks 
+sharanjeet: bets 80
+Mahu2021: folds 
+Uncalled bet (80) returned to sharanjeet
+sharanjeet collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [9s 7s Tc]
+Seat 2: Mahu2021 (big blind) folded on the Flop
+Seat 3: sharanjeet (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #246976146938: Tournament #3669521876, $9.30+$0.70 USD Hold'em No Limit - Level III (20/40) - 2023/11/07 12:53:04 CET [2023/11/07 6:53:04 ET]
+Table '3669521876 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (1165 in chips) 
+Seat 3: sharanjeet (335 in chips) 
+Mahu2021: posts small blind 20
+sharanjeet: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Td 2c]
+Mahu2021: folds 
+Uncalled bet (20) returned to sharanjeet
+sharanjeet collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: sharanjeet (big blind) collected (40)
+
+
+
+PokerStars Hand #246976147817: Tournament #3669521876, $9.30+$0.70 USD Hold'em No Limit - Level III (20/40) - 2023/11/07 12:53:09 CET [2023/11/07 6:53:09 ET]
+Table '3669521876 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (1145 in chips) 
+Seat 3: sharanjeet (355 in chips) 
+sharanjeet: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h 7s]
+sharanjeet: calls 20
+Mahu2021: checks 
+*** FLOP *** [Js 2h 8h]
+Mahu2021: checks 
+sharanjeet: bets 40
+Mahu2021: folds 
+Uncalled bet (40) returned to sharanjeet
+sharanjeet collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Js 2h 8h]
+Seat 2: Mahu2021 (big blind) folded on the Flop
+Seat 3: sharanjeet (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #246976149442: Tournament #3669521876, $9.30+$0.70 USD Hold'em No Limit - Level III (20/40) - 2023/11/07 12:53:19 CET [2023/11/07 6:53:19 ET]
+Table '3669521876 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (1105 in chips) 
+Seat 3: sharanjeet (395 in chips) 
+Mahu2021: posts small blind 20
+sharanjeet: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d 8h]
+Mahu2021: raises 40 to 80
+sharanjeet: calls 40
+*** FLOP *** [2s Kh 3c]
+sharanjeet: bets 40
+Mahu2021: calls 40
+*** TURN *** [2s Kh 3c] [3h]
+sharanjeet: checks 
+Mahu2021: bets 120
+sharanjeet: raises 155 to 275 and is all-in
+Mahu2021: folds 
+Uncalled bet (155) returned to sharanjeet
+sharanjeet collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Board [2s Kh 3c 3h]
+Seat 2: Mahu2021 (button) (small blind) folded on the Turn
+Seat 3: sharanjeet (big blind) collected (480)
+
+
+
+PokerStars Hand #246976152846: Tournament #3669521876, $9.30+$0.70 USD Hold'em No Limit - Level III (20/40) - 2023/11/07 12:53:40 CET [2023/11/07 6:53:40 ET]
+Table '3669521876 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (865 in chips) 
+Seat 3: sharanjeet (635 in chips) 
+sharanjeet: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4d Qh]
+sharanjeet: raises 595 to 635 and is all-in
+Mahu2021: folds 
+Uncalled bet (595) returned to sharanjeet
+sharanjeet collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: sharanjeet (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #246976153897: Tournament #3669521876, $9.30+$0.70 USD Hold'em No Limit - Level III (20/40) - 2023/11/07 12:53:47 CET [2023/11/07 6:53:47 ET]
+Table '3669521876 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (825 in chips) 
+Seat 3: sharanjeet (675 in chips) 
+Mahu2021: posts small blind 20
+sharanjeet: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h 5s]
+Mahu2021: folds 
+Uncalled bet (20) returned to sharanjeet
+sharanjeet collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: sharanjeet (big blind) collected (40)
+
+
+
+PokerStars Hand #246976154776: Tournament #3669521876, $9.30+$0.70 USD Hold'em No Limit - Level III (20/40) - 2023/11/07 12:53:52 CET [2023/11/07 6:53:52 ET]
+Table '3669521876 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (805 in chips) 
+Seat 3: sharanjeet (695 in chips) 
+sharanjeet: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8s 7d]
+sharanjeet: calls 20
+Mahu2021: checks 
+*** FLOP *** [4c 5h Jh]
+Mahu2021: checks 
+sharanjeet: bets 40
+Mahu2021: calls 40
+*** TURN *** [4c 5h Jh] [7h]
+Mahu2021: checks 
+sharanjeet: checks 
+*** RIVER *** [4c 5h Jh 7h] [Ad]
+Mahu2021: checks 
+sharanjeet: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [8s 7d] (a pair of Sevens)
+sharanjeet: mucks hand 
+Mahu2021 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [4c 5h Jh 7h Ad]
+Seat 2: Mahu2021 (big blind) showed [8s 7d] and won (160) with a pair of Sevens
+Seat 3: sharanjeet (button) (small blind) mucked [5d Qd]
+
+
+
+PokerStars Hand #246976157307: Tournament #3669521876, $9.30+$0.70 USD Hold'em No Limit - Level III (20/40) - 2023/11/07 12:54:07 CET [2023/11/07 6:54:07 ET]
+Table '3669521876 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (885 in chips) 
+Seat 3: sharanjeet (615 in chips) 
+Mahu2021: posts small blind 20
+sharanjeet: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d 7c]
+Mahu2021: folds 
+Uncalled bet (20) returned to sharanjeet
+sharanjeet collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: sharanjeet (big blind) collected (40)
+
+
+
+PokerStars Hand #246976158083: Tournament #3669521876, $9.30+$0.70 USD Hold'em No Limit - Level III (20/40) - 2023/11/07 12:54:12 CET [2023/11/07 6:54:12 ET]
+Table '3669521876 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (865 in chips) 
+Seat 3: sharanjeet (635 in chips) 
+sharanjeet: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h 9d]
+sharanjeet: calls 20
+Mahu2021: checks 
+*** FLOP *** [6h 2d 9s]
+Mahu2021: bets 40
+sharanjeet: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [6h 2d 9s]
+Seat 2: Mahu2021 (big blind) collected (80)
+Seat 3: sharanjeet (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #246976159695: Tournament #3669521876, $9.30+$0.70 USD Hold'em No Limit - Level III (20/40) - 2023/11/07 12:54:22 CET [2023/11/07 6:54:22 ET]
+Table '3669521876 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (905 in chips) 
+Seat 3: sharanjeet (595 in chips) 
+Mahu2021: posts small blind 20
+sharanjeet: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h Jc]
+Mahu2021: calls 20
+sharanjeet: checks 
+*** FLOP *** [8d Ad 8s]
+sharanjeet: checks 
+Mahu2021: checks 
+*** TURN *** [8d Ad 8s] [3d]
+sharanjeet: checks 
+Mahu2021: checks 
+*** RIVER *** [8d Ad 8s 3d] [4h]
+sharanjeet: bets 40
+Mahu2021: raises 80 to 120
+sharanjeet: calls 80
+*** SHOW DOWN ***
+Mahu2021: shows [8h Jc] (three of a kind, Eights)
+sharanjeet: mucks hand 
+Mahu2021 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [8d Ad 8s 3d 4h]
+Seat 2: Mahu2021 (button) (small blind) showed [8h Jc] and won (320) with three of a kind, Eights
+Seat 3: sharanjeet (big blind) mucked [7h 4d]
+
+
+
+PokerStars Hand #246976162385: Tournament #3669521876, $9.30+$0.70 USD Hold'em No Limit - Level III (20/40) - 2023/11/07 12:54:39 CET [2023/11/07 6:54:39 ET]
+Table '3669521876 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (1065 in chips) 
+Seat 3: sharanjeet (435 in chips) 
+sharanjeet: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d 6d]
+sharanjeet: calls 20
+Mahu2021: checks 
+*** FLOP *** [Th 3h 4h]
+Mahu2021: checks 
+sharanjeet: checks 
+*** TURN *** [Th 3h 4h] [3d]
+Mahu2021: bets 40
+sharanjeet: calls 40
+*** RIVER *** [Th 3h 4h 3d] [9h]
+Mahu2021: checks 
+sharanjeet: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [7d 6d] (a pair of Threes)
+sharanjeet: shows [6c Ad] (a pair of Threes - Ace kicker)
+sharanjeet collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Th 3h 4h 3d 9h]
+Seat 2: Mahu2021 (big blind) showed [7d 6d] and lost with a pair of Threes
+Seat 3: sharanjeet (button) (small blind) showed [6c Ad] and won (160) with a pair of Threes
+
+
+
+PokerStars Hand #246976165483: Tournament #3669521876, $9.30+$0.70 USD Hold'em No Limit - Level IV (30/60) - 2023/11/07 12:54:58 CET [2023/11/07 6:54:58 ET]
+Table '3669521876 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (985 in chips) 
+Seat 3: sharanjeet (515 in chips) 
+Mahu2021: posts small blind 30
+sharanjeet: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c 9d]
+Mahu2021: folds 
+Uncalled bet (30) returned to sharanjeet
+sharanjeet collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: sharanjeet (big blind) collected (60)
+
+
+
+PokerStars Hand #246976166323: Tournament #3669521876, $9.30+$0.70 USD Hold'em No Limit - Level IV (30/60) - 2023/11/07 12:55:03 CET [2023/11/07 6:55:03 ET]
+Table '3669521876 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (955 in chips) 
+Seat 3: sharanjeet (545 in chips) 
+sharanjeet: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8s 7c]
+sharanjeet: calls 30
+Mahu2021: checks 
+*** FLOP *** [9h Th 3c]
+Mahu2021: checks 
+sharanjeet: checks 
+*** TURN *** [9h Th 3c] [5d]
+Mahu2021: checks 
+sharanjeet: checks 
+*** RIVER *** [9h Th 3c 5d] [3h]
+Mahu2021: bets 120
+sharanjeet: folds 
+Uncalled bet (120) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [9h Th 3c 5d 3h]
+Seat 2: Mahu2021 (big blind) collected (120)
+Seat 3: sharanjeet (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #246976168339: Tournament #3669521876, $9.30+$0.70 USD Hold'em No Limit - Level IV (30/60) - 2023/11/07 12:55:17 CET [2023/11/07 6:55:17 ET]
+Table '3669521876 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (1015 in chips) 
+Seat 3: sharanjeet (485 in chips) 
+Mahu2021: posts small blind 30
+sharanjeet: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h 4d]
+Mahu2021: folds 
+Uncalled bet (30) returned to sharanjeet
+sharanjeet collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: sharanjeet (big blind) collected (60)
+
+
+
+PokerStars Hand #246976169031: Tournament #3669521876, $9.30+$0.70 USD Hold'em No Limit - Level IV (30/60) - 2023/11/07 12:55:22 CET [2023/11/07 6:55:22 ET]
+Table '3669521876 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (985 in chips) 
+Seat 3: sharanjeet (515 in chips) 
+sharanjeet: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s Kh]
+sharanjeet: calls 30
+Mahu2021: checks 
+*** FLOP *** [8d 6h Kd]
+Mahu2021: checks 
+sharanjeet: checks 
+*** TURN *** [8d 6h Kd] [7s]
+Mahu2021: checks 
+sharanjeet: checks 
+*** RIVER *** [8d 6h Kd 7s] [4h]
+Mahu2021: bets 120
+sharanjeet: calls 120
+*** SHOW DOWN ***
+Mahu2021: shows [5s Kh] (a straight, Four to Eight)
+sharanjeet: mucks hand 
+Mahu2021 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [8d 6h Kd 7s 4h]
+Seat 2: Mahu2021 (big blind) showed [5s Kh] and won (360) with a straight, Four to Eight
+Seat 3: sharanjeet (button) (small blind) mucked [Jd Ah]
+
+
+
+PokerStars Hand #246976171225: Tournament #3669521876, $9.30+$0.70 USD Hold'em No Limit - Level IV (30/60) - 2023/11/07 12:55:38 CET [2023/11/07 6:55:38 ET]
+Table '3669521876 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (1165 in chips) 
+Seat 3: sharanjeet (335 in chips) 
+Mahu2021: posts small blind 30
+sharanjeet: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh 2h]
+Mahu2021: raises 1105 to 1165 and is all-in
+sharanjeet: calls 275 and is all-in
+Uncalled bet (830) returned to Mahu2021
+*** FLOP *** [9h Qd 8c]
+*** TURN *** [9h Qd 8c] [Ac]
+*** RIVER *** [9h Qd 8c Ac] [5c]
+*** SHOW DOWN ***
+sharanjeet: shows [Ad 6c] (a pair of Aces)
+Mahu2021: shows [Kh 2h] (high card Ace)
+sharanjeet collected 670 from pot
+*** SUMMARY ***
+Total pot 670 | Rake 0 
+Board [9h Qd 8c Ac 5c]
+Seat 2: Mahu2021 (button) (small blind) showed [Kh 2h] and lost with high card Ace
+Seat 3: sharanjeet (big blind) showed [Ad 6c] and won (670) with a pair of Aces
+
+
+
+PokerStars Hand #246976173011: Tournament #3669521876, $9.30+$0.70 USD Hold'em No Limit - Level IV (30/60) - 2023/11/07 12:55:51 CET [2023/11/07 6:55:51 ET]
+Table '3669521876 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (830 in chips) 
+Seat 3: sharanjeet (670 in chips) 
+sharanjeet: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4c Jd]
+sharanjeet: calls 30
+Mahu2021: checks 
+*** FLOP *** [Kd 6h 5c]
+Mahu2021: checks 
+sharanjeet: checks 
+*** TURN *** [Kd 6h 5c] [6c]
+Mahu2021: checks 
+sharanjeet: checks 
+*** RIVER *** [Kd 6h 5c 6c] [4d]
+Mahu2021: checks 
+sharanjeet: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [4c Jd] (two pair, Sixes and Fours)
+sharanjeet: mucks hand 
+Mahu2021 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Kd 6h 5c 6c 4d]
+Seat 2: Mahu2021 (big blind) showed [4c Jd] and won (120) with two pair, Sixes and Fours
+Seat 3: sharanjeet (button) (small blind) mucked [7d Tc]
+
+
+
+PokerStars Hand #246976175011: Tournament #3669521876, $9.30+$0.70 USD Hold'em No Limit - Level IV (30/60) - 2023/11/07 12:56:06 CET [2023/11/07 6:56:06 ET]
+Table '3669521876 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (890 in chips) 
+Seat 3: sharanjeet (610 in chips) 
+Mahu2021: posts small blind 30
+sharanjeet: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks Qc]
+Mahu2021: raises 120 to 180
+sharanjeet: calls 120
+*** FLOP *** [2h 6c 6h]
+sharanjeet: checks 
+Mahu2021: bets 710 and is all-in
+sharanjeet: folds 
+Uncalled bet (710) returned to Mahu2021
+Mahu2021 collected 360 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [2h 6c 6h]
+Seat 2: Mahu2021 (button) (small blind) collected (360)
+Seat 3: sharanjeet (big blind) folded on the Flop
+
+
+
+PokerStars Hand #246976176757: Tournament #3669521876, $9.30+$0.70 USD Hold'em No Limit - Level IV (30/60) - 2023/11/07 12:56:18 CET [2023/11/07 6:56:18 ET]
+Table '3669521876 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (1070 in chips) 
+Seat 3: sharanjeet (430 in chips) 
+sharanjeet: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s 4h]
+sharanjeet: calls 30
+Mahu2021: checks 
+*** FLOP *** [Qc 9c Tc]
+Mahu2021: checks 
+sharanjeet: checks 
+*** TURN *** [Qc 9c Tc] [Qh]
+Mahu2021: checks 
+sharanjeet: checks 
+*** RIVER *** [Qc 9c Tc Qh] [2s]
+Mahu2021: checks 
+sharanjeet: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [6s 4h] (a pair of Queens)
+sharanjeet: shows [Ah 3d] (a pair of Queens - Ace kicker)
+sharanjeet collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Qc 9c Tc Qh 2s]
+Seat 2: Mahu2021 (big blind) showed [6s 4h] and lost with a pair of Queens
+Seat 3: sharanjeet (button) (small blind) showed [Ah 3d] and won (120) with a pair of Queens
+
+
+
+PokerStars Hand #246976178448: Tournament #3669521876, $9.30+$0.70 USD Hold'em No Limit - Level IV (30/60) - 2023/11/07 12:56:31 CET [2023/11/07 6:56:31 ET]
+Table '3669521876 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (1010 in chips) 
+Seat 3: sharanjeet (490 in chips) 
+Mahu2021: posts small blind 30
+sharanjeet: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh 5h]
+Mahu2021: calls 30
+sharanjeet: raises 430 to 490 and is all-in
+Mahu2021: folds 
+Uncalled bet (430) returned to sharanjeet
+sharanjeet collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: sharanjeet (big blind) collected (120)
+
+
+
+PokerStars Hand #246976179477: Tournament #3669521876, $9.30+$0.70 USD Hold'em No Limit - Level IV (30/60) - 2023/11/07 12:56:39 CET [2023/11/07 6:56:39 ET]
+Table '3669521876 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (950 in chips) 
+Seat 3: sharanjeet (550 in chips) 
+sharanjeet: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d 7s]
+sharanjeet: calls 30
+Mahu2021: checks 
+*** FLOP *** [Js 6c 3d]
+Mahu2021: checks 
+sharanjeet: checks 
+*** TURN *** [Js 6c 3d] [4s]
+Mahu2021: checks 
+sharanjeet: checks 
+*** RIVER *** [Js 6c 3d 4s] [3s]
+Mahu2021: bets 60
+sharanjeet: calls 60
+*** SHOW DOWN ***
+Mahu2021: shows [6d 7s] (two pair, Sixes and Threes)
+sharanjeet: mucks hand 
+Mahu2021 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Js 6c 3d 4s 3s]
+Seat 2: Mahu2021 (big blind) showed [6d 7s] and won (240) with two pair, Sixes and Threes
+Seat 3: sharanjeet (button) (small blind) mucked [Kd 5s]
+
+
+
+PokerStars Hand #246976181514: Tournament #3669521876, $9.30+$0.70 USD Hold'em No Limit - Level IV (30/60) - 2023/11/07 12:56:53 CET [2023/11/07 6:56:53 ET]
+Table '3669521876 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (1070 in chips) 
+Seat 3: sharanjeet (430 in chips) 
+Mahu2021: posts small blind 30
+sharanjeet: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s Tc]
+Mahu2021: folds 
+Uncalled bet (30) returned to sharanjeet
+sharanjeet collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: sharanjeet (big blind) collected (60)
+
+
+
+PokerStars Hand #246976182192: Tournament #3669521876, $9.30+$0.70 USD Hold'em No Limit - Level IV (30/60) - 2023/11/07 12:56:58 CET [2023/11/07 6:56:58 ET]
+Table '3669521876 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (1040 in chips) 
+Seat 3: sharanjeet (460 in chips) 
+sharanjeet: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h 5c]
+sharanjeet: calls 30
+Mahu2021: checks 
+*** FLOP *** [4s Ts Jh]
+Mahu2021: checks 
+sharanjeet: checks 
+*** TURN *** [4s Ts Jh] [2s]
+Mahu2021: checks 
+sharanjeet: bets 60
+Mahu2021: folds 
+Uncalled bet (60) returned to sharanjeet
+sharanjeet collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [4s Ts Jh 2s]
+Seat 2: Mahu2021 (big blind) folded on the Turn
+Seat 3: sharanjeet (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #246976183697: Tournament #3669521876, $9.30+$0.70 USD Hold'em No Limit - Level IV (30/60) - 2023/11/07 12:57:09 CET [2023/11/07 6:57:09 ET]
+Table '3669521876 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (980 in chips) 
+Seat 3: sharanjeet (520 in chips) 
+Mahu2021: posts small blind 30
+sharanjeet: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8s Js]
+Mahu2021: raises 60 to 120
+sharanjeet: calls 60
+*** FLOP *** [7h 6d 8d]
+sharanjeet: bets 180
+Mahu2021: raises 680 to 860 and is all-in
+sharanjeet: calls 220 and is all-in
+Uncalled bet (460) returned to Mahu2021
+*** TURN *** [7h 6d 8d] [4s]
+*** RIVER *** [7h 6d 8d 4s] [3d]
+*** SHOW DOWN ***
+sharanjeet: shows [6s 2h] (a pair of Sixes)
+Mahu2021: shows [8s Js] (a pair of Eights)
+Mahu2021 collected 1040 from pot
+sharanjeet finished the tournament in 2nd place
+Mahu2021 wins the tournament and receives $40.00 - congratulations!
+*** SUMMARY ***
+Total pot 1040 | Rake 0 
+Board [7h 6d 8d 4s 3d]
+Seat 2: Mahu2021 (button) (small blind) showed [8s Js] and won (1040) with a pair of Eights
+Seat 3: sharanjeet (big blind) showed [6s 2h] and lost with a pair of Sixes
+
+
+

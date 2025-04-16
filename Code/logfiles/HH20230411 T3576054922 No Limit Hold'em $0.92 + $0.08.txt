@@ -1,0 +1,1012 @@
+﻿PokerStars Hand #243029183766: Tournament #3576054922, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/11 19:52:02 CET [2023/04/11 13:52:02 ET]
+Table '3576054922 1' 3-max Seat #1 is the button
+Seat 1: Dr Eaton Who (500 in chips) 
+Seat 2: sarmiento51 (500 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+sarmiento51: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8d Qh]
+Dr Eaton Who: calls 20
+sarmiento51: raises 100 to 120
+Mahu2021: folds 
+Dr Eaton Who: calls 100
+*** FLOP *** [Ad 4d Qc]
+sarmiento51: checks 
+Dr Eaton Who: bets 20
+sarmiento51: calls 20
+*** TURN *** [Ad 4d Qc] [2h]
+sarmiento51: checks 
+Dr Eaton Who: bets 20
+sarmiento51: calls 20
+*** RIVER *** [Ad 4d Qc 2h] [4s]
+sarmiento51: bets 20
+Dr Eaton Who: calls 20
+*** SHOW DOWN ***
+sarmiento51: shows [Tc Ks] (a pair of Fours)
+Dr Eaton Who: shows [Qs 7c] (two pair, Queens and Fours)
+Dr Eaton Who collected 380 from pot
+*** SUMMARY ***
+Total pot 380 | Rake 0 
+Board [Ad 4d Qc 2h 4s]
+Seat 1: Dr Eaton Who (button) showed [Qs 7c] and won (380) with two pair, Queens and Fours
+Seat 2: sarmiento51 (small blind) showed [Tc Ks] and lost with a pair of Fours
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #243029206989: Tournament #3576054922, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/11 19:53:07 CET [2023/04/11 13:53:07 ET]
+Table '3576054922 1' 3-max Seat #2 is the button
+Seat 1: Dr Eaton Who (700 in chips) 
+Seat 2: sarmiento51 (320 in chips) 
+Seat 3: Mahu2021 (480 in chips) 
+Mahu2021: posts small blind 10
+Dr Eaton Who: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c Qd]
+sarmiento51: raises 80 to 100
+Mahu2021: folds 
+Dr Eaton Who: calls 80
+*** FLOP *** [2c 9s Ks]
+Dr Eaton Who: checks 
+sarmiento51: bets 220 and is all-in
+Dr Eaton Who: folds 
+Uncalled bet (220) returned to sarmiento51
+sarmiento51 collected 210 from pot
+sarmiento51: doesn't show hand 
+*** SUMMARY ***
+Total pot 210 | Rake 0 
+Board [2c 9s Ks]
+Seat 1: Dr Eaton Who (big blind) folded on the Flop
+Seat 2: sarmiento51 (button) collected (210)
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #243029213448: Tournament #3576054922, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/11 19:53:25 CET [2023/04/11 13:53:25 ET]
+Table '3576054922 1' 3-max Seat #3 is the button
+Seat 1: Dr Eaton Who (600 in chips) 
+Seat 2: sarmiento51 (430 in chips) 
+Seat 3: Mahu2021 (470 in chips) 
+Dr Eaton Who: posts small blind 10
+sarmiento51: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d Qs]
+Mahu2021: folds 
+Dr Eaton Who: calls 10
+sarmiento51: raises 60 to 80
+Dr Eaton Who: calls 60
+*** FLOP *** [Ad Tc 6h]
+Dr Eaton Who: checks 
+sarmiento51: checks 
+*** TURN *** [Ad Tc 6h] [Kh]
+Dr Eaton Who: checks 
+sarmiento51: bets 200
+Dr Eaton Who: calls 200
+*** RIVER *** [Ad Tc 6h Kh] [9d]
+Dr Eaton Who: bets 280
+sarmiento51: calls 150 and is all-in
+Uncalled bet (130) returned to Dr Eaton Who
+*** SHOW DOWN ***
+Dr Eaton Who: shows [Kc 4d] (a pair of Kings)
+sarmiento51: shows [Th Ks] (two pair, Kings and Tens)
+sarmiento51 collected 860 from pot
+*** SUMMARY ***
+Total pot 860 | Rake 0 
+Board [Ad Tc 6h Kh 9d]
+Seat 1: Dr Eaton Who (small blind) showed [Kc 4d] and lost with a pair of Kings
+Seat 2: sarmiento51 (big blind) showed [Th Ks] and won (860) with two pair, Kings and Tens
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #243029224628: Tournament #3576054922, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/11 19:53:56 CET [2023/04/11 13:53:56 ET]
+Table '3576054922 1' 3-max Seat #1 is the button
+Seat 1: Dr Eaton Who (170 in chips) 
+Seat 2: sarmiento51 (860 in chips) 
+Seat 3: Mahu2021 (470 in chips) 
+sarmiento51: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d 8d]
+Dr Eaton Who: raises 20 to 40
+sarmiento51: calls 30
+Mahu2021: folds 
+*** FLOP *** [9c 7c 4s]
+sarmiento51: checks 
+Dr Eaton Who: checks 
+*** TURN *** [9c 7c 4s] [3c]
+sarmiento51: checks 
+Dr Eaton Who: checks 
+*** RIVER *** [9c 7c 4s 3c] [5s]
+sarmiento51: checks 
+Dr Eaton Who: bets 50
+sarmiento51: calls 50
+*** SHOW DOWN ***
+Dr Eaton Who: shows [5h Ks] (a pair of Fives)
+sarmiento51: mucks hand 
+Dr Eaton Who collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [9c 7c 4s 3c 5s]
+Seat 1: Dr Eaton Who (button) showed [5h Ks] and won (200) with a pair of Fives
+Seat 2: sarmiento51 (small blind) mucked [5c Qd]
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #243029235634: Tournament #3576054922, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/11 19:54:26 CET [2023/04/11 13:54:26 ET]
+Table '3576054922 1' 3-max Seat #2 is the button
+Seat 1: Dr Eaton Who (280 in chips) 
+Seat 2: sarmiento51 (770 in chips) 
+Seat 3: Mahu2021 (450 in chips) 
+Mahu2021: posts small blind 15
+Dr Eaton Who: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d 9h]
+sarmiento51: raises 30 to 60
+Mahu2021: folds 
+Dr Eaton Who: folds 
+Uncalled bet (30) returned to sarmiento51
+sarmiento51 collected 75 from pot
+sarmiento51: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: Dr Eaton Who (big blind) folded before Flop
+Seat 2: sarmiento51 (button) collected (75)
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #243029238357: Tournament #3576054922, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/11 19:54:34 CET [2023/04/11 13:54:34 ET]
+Table '3576054922 1' 3-max Seat #3 is the button
+Seat 1: Dr Eaton Who (250 in chips) 
+Seat 2: sarmiento51 (815 in chips) 
+Seat 3: Mahu2021 (435 in chips) 
+Dr Eaton Who: posts small blind 15
+sarmiento51: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2s 5c]
+Mahu2021: folds 
+Dr Eaton Who: calls 15
+sarmiento51: checks 
+*** FLOP *** [9d 8d Ts]
+Dr Eaton Who: bets 30
+sarmiento51: raises 30 to 60
+Dr Eaton Who: calls 30
+*** TURN *** [9d 8d Ts] [6c]
+Dr Eaton Who: bets 30
+sarmiento51: raises 240 to 270
+Dr Eaton Who: calls 130 and is all-in
+Uncalled bet (110) returned to sarmiento51
+*** RIVER *** [9d 8d Ts 6c] [Jd]
+*** SHOW DOWN ***
+Dr Eaton Who: shows [Qd 9h] (a straight, Eight to Queen)
+sarmiento51: shows [Jh 7d] (a straight, Seven to Jack)
+Dr Eaton Who collected 500 from pot
+*** SUMMARY ***
+Total pot 500 | Rake 0 
+Board [9d 8d Ts 6c Jd]
+Seat 1: Dr Eaton Who (small blind) showed [Qd 9h] and won (500) with a straight, Eight to Queen
+Seat 2: sarmiento51 (big blind) showed [Jh 7d] and lost with a straight, Seven to Jack
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #243029247440: Tournament #3576054922, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/11 19:54:59 CET [2023/04/11 13:54:59 ET]
+Table '3576054922 1' 3-max Seat #1 is the button
+Seat 1: Dr Eaton Who (500 in chips) 
+Seat 2: sarmiento51 (565 in chips) 
+Seat 3: Mahu2021 (435 in chips) 
+sarmiento51: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s Ad]
+Dr Eaton Who: calls 30
+sarmiento51: raises 535 to 565 and is all-in
+Mahu2021: folds 
+Dr Eaton Who: folds 
+Uncalled bet (535) returned to sarmiento51
+sarmiento51 collected 90 from pot
+sarmiento51: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Seat 1: Dr Eaton Who (button) folded before Flop
+Seat 2: sarmiento51 (small blind) collected (90)
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #243029251313: Tournament #3576054922, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/11 19:55:10 CET [2023/04/11 13:55:10 ET]
+Table '3576054922 1' 3-max Seat #2 is the button
+Seat 1: Dr Eaton Who (470 in chips) 
+Seat 2: sarmiento51 (625 in chips) 
+Seat 3: Mahu2021 (405 in chips) 
+Mahu2021: posts small blind 15
+Dr Eaton Who: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c Ad]
+sarmiento51: folds 
+Mahu2021: calls 15
+Dr Eaton Who: checks 
+*** FLOP *** [Kc 6h Ah]
+Mahu2021: checks 
+Dr Eaton Who: checks 
+*** TURN *** [Kc 6h Ah] [Th]
+Mahu2021: bets 60
+Dr Eaton Who: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Kc 6h Ah Th]
+Seat 1: Dr Eaton Who (big blind) folded on the Turn
+Seat 2: sarmiento51 (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) collected (60)
+
+
+
+PokerStars Hand #243029255819: Tournament #3576054922, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/11 19:55:26 CET [2023/04/11 13:55:26 ET]
+Table '3576054922 1' 3-max Seat #3 is the button
+Seat 1: Dr Eaton Who (440 in chips) 
+Seat 2: sarmiento51 (625 in chips) 
+Seat 3: Mahu2021 (435 in chips) 
+Dr Eaton Who: posts small blind 15
+sarmiento51: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s 2c]
+Mahu2021: folds 
+Dr Eaton Who: folds 
+Uncalled bet (15) returned to sarmiento51
+sarmiento51 collected 30 from pot
+sarmiento51: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Dr Eaton Who (small blind) folded before Flop
+Seat 2: sarmiento51 (big blind) collected (30)
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #243029257684: Tournament #3576054922, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/11 19:55:33 CET [2023/04/11 13:55:33 ET]
+Table '3576054922 1' 3-max Seat #1 is the button
+Seat 1: Dr Eaton Who (425 in chips) 
+Seat 2: sarmiento51 (640 in chips) 
+Seat 3: Mahu2021 (435 in chips) 
+sarmiento51: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As 5h]
+Dr Eaton Who: calls 30
+sarmiento51: calls 15
+Mahu2021: checks 
+*** FLOP *** [Jc 5d 7c]
+sarmiento51: checks 
+Mahu2021: bets 60
+Dr Eaton Who: calls 60
+sarmiento51: folds 
+*** TURN *** [Jc 5d 7c] [3d]
+Mahu2021: checks 
+Dr Eaton Who: bets 30
+Mahu2021: calls 30
+*** RIVER *** [Jc 5d 7c 3d] [8d]
+Mahu2021: checks 
+Dr Eaton Who: bets 30
+Mahu2021: calls 30
+*** SHOW DOWN ***
+Dr Eaton Who: shows [Jh Ts] (a pair of Jacks)
+Mahu2021: mucks hand 
+Dr Eaton Who collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | Rake 0 
+Board [Jc 5d 7c 3d 8d]
+Seat 1: Dr Eaton Who (button) showed [Jh Ts] and won (330) with a pair of Jacks
+Seat 2: sarmiento51 (small blind) folded on the Flop
+Seat 3: Mahu2021 (big blind) mucked [As 5h]
+
+
+
+PokerStars Hand #243029268133: Tournament #3576054922, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/11 19:56:13 CET [2023/04/11 13:56:13 ET]
+Table '3576054922 1' 3-max Seat #2 is the button
+Seat 1: Dr Eaton Who (605 in chips) 
+Seat 2: sarmiento51 (610 in chips) 
+Seat 3: Mahu2021 (285 in chips) 
+Mahu2021: posts small blind 20
+Dr Eaton Who: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As 4d]
+sarmiento51: calls 40
+Mahu2021: raises 245 to 285 and is all-in
+Dr Eaton Who: folds 
+sarmiento51: folds 
+Uncalled bet (245) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: Dr Eaton Who (big blind) folded before Flop
+Seat 2: sarmiento51 (button) folded before Flop
+Seat 3: Mahu2021 (small blind) collected (120)
+
+
+
+PokerStars Hand #243029271479: Tournament #3576054922, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/11 19:56:26 CET [2023/04/11 13:56:26 ET]
+Table '3576054922 1' 3-max Seat #3 is the button
+Seat 1: Dr Eaton Who (565 in chips) 
+Seat 2: sarmiento51 (570 in chips) 
+Seat 3: Mahu2021 (365 in chips) 
+Dr Eaton Who: posts small blind 20
+sarmiento51: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kc 5c]
+Mahu2021: calls 40
+Dr Eaton Who: calls 20
+sarmiento51: raises 40 to 80
+Mahu2021: calls 40
+Dr Eaton Who: folds 
+*** FLOP *** [6s Qh Th]
+sarmiento51: checks 
+Mahu2021: checks 
+*** TURN *** [6s Qh Th] [9d]
+sarmiento51: checks 
+Mahu2021: checks 
+*** RIVER *** [6s Qh Th 9d] [7h]
+sarmiento51: checks 
+Mahu2021: bets 80
+sarmiento51: folds 
+Uncalled bet (80) returned to Mahu2021
+Mahu2021 collected 200 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [6s Qh Th 9d 7h]
+Seat 1: Dr Eaton Who (small blind) folded before Flop
+Seat 2: sarmiento51 (big blind) folded on the River
+Seat 3: Mahu2021 (button) collected (200)
+
+
+
+PokerStars Hand #243029283116: Tournament #3576054922, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/11 19:57:10 CET [2023/04/11 13:57:10 ET]
+Table '3576054922 1' 3-max Seat #1 is the button
+Seat 1: Dr Eaton Who (525 in chips) 
+Seat 2: sarmiento51 (490 in chips) 
+Seat 3: Mahu2021 (485 in chips) 
+sarmiento51: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s 7d]
+Dr Eaton Who: folds 
+sarmiento51: calls 20
+Mahu2021: checks 
+*** FLOP *** [2d Kh Jh]
+sarmiento51: bets 40
+Mahu2021: folds 
+Uncalled bet (40) returned to sarmiento51
+sarmiento51 collected 80 from pot
+sarmiento51: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [2d Kh Jh]
+Seat 1: Dr Eaton Who (button) folded before Flop (didn't bet)
+Seat 2: sarmiento51 (small blind) collected (80)
+Seat 3: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #243029287530: Tournament #3576054922, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/11 19:57:27 CET [2023/04/11 13:57:27 ET]
+Table '3576054922 1' 3-max Seat #2 is the button
+Seat 1: Dr Eaton Who (525 in chips) 
+Seat 2: sarmiento51 (530 in chips) 
+Seat 3: Mahu2021 (445 in chips) 
+Mahu2021: posts small blind 20
+Dr Eaton Who: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d 2d]
+sarmiento51: calls 40
+Mahu2021: folds 
+Dr Eaton Who: raises 40 to 80
+sarmiento51: calls 40
+*** FLOP *** [Qd Ks Td]
+Dr Eaton Who: bets 40
+sarmiento51: calls 40
+*** TURN *** [Qd Ks Td] [Ac]
+Dr Eaton Who: bets 40
+sarmiento51: calls 40
+*** RIVER *** [Qd Ks Td Ac] [7h]
+Dr Eaton Who: bets 40
+sarmiento51: folds 
+Uncalled bet (40) returned to Dr Eaton Who
+Dr Eaton Who collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | Rake 0 
+Board [Qd Ks Td Ac 7h]
+Seat 1: Dr Eaton Who (big blind) collected (340)
+Seat 2: sarmiento51 (button) folded on the River
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #243029300328: Tournament #3576054922, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/04/11 19:58:16 CET [2023/04/11 13:58:16 ET]
+Table '3576054922 1' 3-max Seat #3 is the button
+Seat 1: Dr Eaton Who (705 in chips) 
+Seat 2: sarmiento51 (370 in chips) 
+Seat 3: Mahu2021 (425 in chips) 
+Dr Eaton Who: posts small blind 30
+sarmiento51: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac 2d]
+Mahu2021: folds 
+Dr Eaton Who: calls 30
+sarmiento51: raises 180 to 240
+Dr Eaton Who: folds 
+Uncalled bet (180) returned to sarmiento51
+sarmiento51 collected 120 from pot
+sarmiento51: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: Dr Eaton Who (small blind) folded before Flop
+Seat 2: sarmiento51 (big blind) collected (120)
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #243029303108: Tournament #3576054922, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/04/11 19:58:26 CET [2023/04/11 13:58:26 ET]
+Table '3576054922 1' 3-max Seat #1 is the button
+Seat 1: Dr Eaton Who (645 in chips) 
+Seat 2: sarmiento51 (430 in chips) 
+Seat 3: Mahu2021 (425 in chips) 
+sarmiento51: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah Kd]
+Dr Eaton Who: folds 
+sarmiento51: calls 30
+Mahu2021: raises 365 to 425 and is all-in
+sarmiento51: calls 365
+*** FLOP *** [9d Jh Qs]
+*** TURN *** [9d Jh Qs] [4h]
+*** RIVER *** [9d Jh Qs 4h] [Jd]
+*** SHOW DOWN ***
+sarmiento51: shows [5s Ad] (a pair of Jacks)
+Mahu2021: shows [Ah Kd] (a pair of Jacks - Ace+King kicker)
+Mahu2021 collected 850 from pot
+*** SUMMARY ***
+Total pot 850 | Rake 0 
+Board [9d Jh Qs 4h Jd]
+Seat 1: Dr Eaton Who (button) folded before Flop (didn't bet)
+Seat 2: sarmiento51 (small blind) showed [5s Ad] and lost with a pair of Jacks
+Seat 3: Mahu2021 (big blind) showed [Ah Kd] and won (850) with a pair of Jacks
+
+
+
+PokerStars Hand #243029309201: Tournament #3576054922, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/04/11 19:58:50 CET [2023/04/11 13:58:50 ET]
+Table '3576054922 1' 3-max Seat #2 is the button
+Seat 1: Dr Eaton Who (645 in chips) 
+Seat 2: sarmiento51 (5 in chips) 
+Seat 3: Mahu2021 (850 in chips) 
+Mahu2021: posts small blind 30
+Dr Eaton Who: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad 7h]
+sarmiento51: calls 5 and is all-in
+Mahu2021: calls 30
+Dr Eaton Who: checks 
+*** FLOP *** [4s Kd 8d]
+Mahu2021: checks 
+Dr Eaton Who: checks 
+*** TURN *** [4s Kd 8d] [Qs]
+Mahu2021: checks 
+Dr Eaton Who: checks 
+*** RIVER *** [4s Kd 8d Qs] [Jh]
+Mahu2021: checks 
+Dr Eaton Who: bets 60
+Mahu2021: folds 
+Uncalled bet (60) returned to Dr Eaton Who
+*** SHOW DOWN ***
+Dr Eaton Who: shows [5c Jd] (a pair of Jacks)
+Dr Eaton Who collected 110 from side pot
+sarmiento51: shows [3s 3c] (a pair of Threes)
+Dr Eaton Who collected 15 from main pot
+sarmiento51 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 125 Main pot 15. Side pot 110. | Rake 0 
+Board [4s Kd 8d Qs Jh]
+Seat 1: Dr Eaton Who (big blind) showed [5c Jd] and won (125) with a pair of Jacks
+Seat 2: sarmiento51 (button) showed [3s 3c] and lost with a pair of Threes
+Seat 3: Mahu2021 (small blind) folded on the River
+
+
+
+PokerStars Hand #243029315206: Tournament #3576054922, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/04/11 19:59:12 CET [2023/04/11 13:59:12 ET]
+Table '3576054922 1' 3-max Seat #1 is the button
+Seat 1: Dr Eaton Who (710 in chips) 
+Seat 3: Mahu2021 (790 in chips) 
+Dr Eaton Who: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h 9d]
+Dr Eaton Who: calls 30
+Mahu2021: checks 
+*** FLOP *** [Ts Ks As]
+Mahu2021: checks 
+Dr Eaton Who: checks 
+*** TURN *** [Ts Ks As] [2c]
+Mahu2021: checks 
+Dr Eaton Who: checks 
+*** RIVER *** [Ts Ks As 2c] [Qc]
+Mahu2021: checks 
+Dr Eaton Who: bets 60
+Mahu2021: folds 
+Uncalled bet (60) returned to Dr Eaton Who
+Dr Eaton Who collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Ts Ks As 2c Qc]
+Seat 1: Dr Eaton Who (button) (small blind) collected (120)
+Seat 3: Mahu2021 (big blind) folded on the River
+
+
+
+PokerStars Hand #243029319915: Tournament #3576054922, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/04/11 19:59:30 CET [2023/04/11 13:59:30 ET]
+Table '3576054922 1' 3-max Seat #3 is the button
+Seat 1: Dr Eaton Who (770 in chips) 
+Seat 3: Mahu2021 (730 in chips) 
+Mahu2021: posts small blind 30
+Dr Eaton Who: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts 8c]
+Mahu2021: calls 30
+Dr Eaton Who: checks 
+*** FLOP *** [Qh 8h 6c]
+Dr Eaton Who: checks 
+Mahu2021: bets 60
+Dr Eaton Who: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Qh 8h 6c]
+Seat 1: Dr Eaton Who (big blind) folded on the Flop
+Seat 3: Mahu2021 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #243029324108: Tournament #3576054922, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/04/11 19:59:46 CET [2023/04/11 13:59:46 ET]
+Table '3576054922 1' 3-max Seat #1 is the button
+Seat 1: Dr Eaton Who (710 in chips) 
+Seat 3: Mahu2021 (790 in chips) 
+Dr Eaton Who: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d Jh]
+Dr Eaton Who: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Dr Eaton Who (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (60)
+
+
+
+PokerStars Hand #243029325240: Tournament #3576054922, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/04/11 19:59:50 CET [2023/04/11 13:59:50 ET]
+Table '3576054922 1' 3-max Seat #3 is the button
+Seat 1: Dr Eaton Who (680 in chips) 
+Seat 3: Mahu2021 (820 in chips) 
+Mahu2021: posts small blind 30
+Dr Eaton Who: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts Qc]
+Mahu2021: calls 30
+Dr Eaton Who: checks 
+*** FLOP *** [Th Jh 6s]
+Dr Eaton Who: checks 
+Mahu2021: bets 60
+Dr Eaton Who: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Th Jh 6s]
+Seat 1: Dr Eaton Who (big blind) folded on the Flop
+Seat 3: Mahu2021 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #243029332761: Tournament #3576054922, $0.92+$0.08 USD Hold'em No Limit - Level V (40/80) - 2023/04/11 20:00:18 CET [2023/04/11 14:00:18 ET]
+Table '3576054922 1' 3-max Seat #1 is the button
+Seat 1: Dr Eaton Who (620 in chips) 
+Seat 3: Mahu2021 (880 in chips) 
+Dr Eaton Who: posts small blind 40
+Mahu2021: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h 8s]
+Dr Eaton Who: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Dr Eaton Who (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (80)
+
+
+
+PokerStars Hand #243029334317: Tournament #3576054922, $0.92+$0.08 USD Hold'em No Limit - Level V (40/80) - 2023/04/11 20:00:24 CET [2023/04/11 14:00:24 ET]
+Table '3576054922 1' 3-max Seat #3 is the button
+Seat 1: Dr Eaton Who (580 in chips) 
+Seat 3: Mahu2021 (920 in chips) 
+Mahu2021: posts small blind 40
+Dr Eaton Who: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c Td]
+Mahu2021: calls 40
+Dr Eaton Who: checks 
+*** FLOP *** [6c 8d 4d]
+Dr Eaton Who: checks 
+Mahu2021: checks 
+*** TURN *** [6c 8d 4d] [Jd]
+Dr Eaton Who: checks 
+Mahu2021: bets 160
+Dr Eaton Who: calls 160
+*** RIVER *** [6c 8d 4d Jd] [Tc]
+Dr Eaton Who: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+Dr Eaton Who: shows [5c Ad] (high card Ace)
+Mahu2021: shows [9c Td] (a pair of Tens)
+Mahu2021 collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Board [6c 8d 4d Jd Tc]
+Seat 1: Dr Eaton Who (big blind) showed [5c Ad] and lost with high card Ace
+Seat 3: Mahu2021 (button) (small blind) showed [9c Td] and won (480) with a pair of Tens
+
+
+
+PokerStars Hand #243029340031: Tournament #3576054922, $0.92+$0.08 USD Hold'em No Limit - Level V (40/80) - 2023/04/11 20:00:44 CET [2023/04/11 14:00:44 ET]
+Table '3576054922 1' 3-max Seat #1 is the button
+Seat 1: Dr Eaton Who (340 in chips) 
+Seat 3: Mahu2021 (1160 in chips) 
+Dr Eaton Who: posts small blind 40
+Mahu2021: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js 3c]
+Dr Eaton Who: calls 40
+Mahu2021: checks 
+*** FLOP *** [6c 4c Qs]
+Mahu2021: checks 
+Dr Eaton Who: checks 
+*** TURN *** [6c 4c Qs] [Ac]
+Mahu2021: checks 
+Dr Eaton Who: bets 80
+Mahu2021: folds 
+Uncalled bet (80) returned to Dr Eaton Who
+Dr Eaton Who collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [6c 4c Qs Ac]
+Seat 1: Dr Eaton Who (button) (small blind) collected (160)
+Seat 3: Mahu2021 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #243029344198: Tournament #3576054922, $0.92+$0.08 USD Hold'em No Limit - Level V (40/80) - 2023/04/11 20:00:59 CET [2023/04/11 14:00:59 ET]
+Table '3576054922 1' 3-max Seat #3 is the button
+Seat 1: Dr Eaton Who (420 in chips) 
+Seat 3: Mahu2021 (1080 in chips) 
+Mahu2021: posts small blind 40
+Dr Eaton Who: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc 2d]
+Mahu2021: folds 
+Uncalled bet (40) returned to Dr Eaton Who
+Dr Eaton Who collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Dr Eaton Who (big blind) collected (80)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #243029345847: Tournament #3576054922, $0.92+$0.08 USD Hold'em No Limit - Level V (40/80) - 2023/04/11 20:01:04 CET [2023/04/11 14:01:04 ET]
+Table '3576054922 1' 3-max Seat #1 is the button
+Seat 1: Dr Eaton Who (460 in chips) 
+Seat 3: Mahu2021 (1040 in chips) 
+Dr Eaton Who: posts small blind 40
+Mahu2021: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d Ad]
+Dr Eaton Who: calls 40
+Mahu2021: raises 960 to 1040 and is all-in
+Dr Eaton Who: folds 
+Uncalled bet (960) returned to Mahu2021
+Mahu2021 collected 160 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Seat 1: Dr Eaton Who (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (160)
+
+
+
+PokerStars Hand #243029348335: Tournament #3576054922, $0.92+$0.08 USD Hold'em No Limit - Level V (40/80) - 2023/04/11 20:01:13 CET [2023/04/11 14:01:13 ET]
+Table '3576054922 1' 3-max Seat #3 is the button
+Seat 1: Dr Eaton Who (380 in chips) 
+Seat 3: Mahu2021 (1120 in chips) 
+Mahu2021: posts small blind 40
+Dr Eaton Who: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Tc Ah]
+Mahu2021: raises 1040 to 1120 and is all-in
+Dr Eaton Who: folds 
+Uncalled bet (1040) returned to Mahu2021
+Mahu2021 collected 160 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Seat 1: Dr Eaton Who (big blind) folded before Flop
+Seat 3: Mahu2021 (button) (small blind) collected (160)
+
+
+
+PokerStars Hand #243029350903: Tournament #3576054922, $0.92+$0.08 USD Hold'em No Limit - Level V (40/80) - 2023/04/11 20:01:20 CET [2023/04/11 14:01:20 ET]
+Table '3576054922 1' 3-max Seat #1 is the button
+Seat 1: Dr Eaton Who (300 in chips) 
+Seat 3: Mahu2021 (1200 in chips) 
+Dr Eaton Who: posts small blind 40
+Mahu2021: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts 8c]
+Dr Eaton Who: raises 220 to 300 and is all-in
+Mahu2021: folds 
+Uncalled bet (220) returned to Dr Eaton Who
+Dr Eaton Who collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Seat 1: Dr Eaton Who (button) (small blind) collected (160)
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #243029352982: Tournament #3576054922, $0.92+$0.08 USD Hold'em No Limit - Level V (40/80) - 2023/04/11 20:01:27 CET [2023/04/11 14:01:27 ET]
+Table '3576054922 1' 3-max Seat #3 is the button
+Seat 1: Dr Eaton Who (380 in chips) 
+Seat 3: Mahu2021 (1120 in chips) 
+Mahu2021: posts small blind 40
+Dr Eaton Who: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h Qd]
+Mahu2021: calls 40
+Dr Eaton Who: checks 
+*** FLOP *** [8h 6s 9d]
+Dr Eaton Who: checks 
+Mahu2021: bets 80
+Dr Eaton Who: folds 
+Uncalled bet (80) returned to Mahu2021
+Mahu2021 collected 160 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [8h 6s 9d]
+Seat 1: Dr Eaton Who (big blind) folded on the Flop
+Seat 3: Mahu2021 (button) (small blind) collected (160)
+
+
+
+PokerStars Hand #243029359718: Tournament #3576054922, $0.92+$0.08 USD Hold'em No Limit - Level V (40/80) - 2023/04/11 20:01:47 CET [2023/04/11 14:01:47 ET]
+Table '3576054922 1' 3-max Seat #1 is the button
+Seat 1: Dr Eaton Who (300 in chips) 
+Seat 3: Mahu2021 (1200 in chips) 
+Dr Eaton Who: posts small blind 40
+Mahu2021: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah Jc]
+Dr Eaton Who: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Dr Eaton Who (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (80)
+
+
+
+PokerStars Hand #243029363698: Tournament #3576054922, $0.92+$0.08 USD Hold'em No Limit - Level V (40/80) - 2023/04/11 20:01:59 CET [2023/04/11 14:01:59 ET]
+Table '3576054922 1' 3-max Seat #3 is the button
+Seat 1: Dr Eaton Who (260 in chips) 
+Seat 3: Mahu2021 (1240 in chips) 
+Mahu2021: posts small blind 40
+Dr Eaton Who: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s 7h]
+Mahu2021: folds 
+Uncalled bet (40) returned to Dr Eaton Who
+Dr Eaton Who collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Dr Eaton Who (big blind) collected (80)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #243029367168: Tournament #3576054922, $0.92+$0.08 USD Hold'em No Limit - Level VI (50/100) - 2023/04/11 20:02:09 CET [2023/04/11 14:02:09 ET]
+Table '3576054922 1' 3-max Seat #1 is the button
+Seat 1: Dr Eaton Who (300 in chips) 
+Seat 3: Mahu2021 (1200 in chips) 
+Dr Eaton Who: posts small blind 50
+Mahu2021: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c Ad]
+Dr Eaton Who: folds 
+Uncalled bet (50) returned to Mahu2021
+Mahu2021 collected 100 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: Dr Eaton Who (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (100)
+
+
+
+PokerStars Hand #243029368966: Tournament #3576054922, $0.92+$0.08 USD Hold'em No Limit - Level VI (50/100) - 2023/04/11 20:02:15 CET [2023/04/11 14:02:15 ET]
+Table '3576054922 1' 3-max Seat #3 is the button
+Seat 1: Dr Eaton Who (250 in chips) 
+Seat 3: Mahu2021 (1250 in chips) 
+Mahu2021: posts small blind 50
+Dr Eaton Who: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s 4d]
+Mahu2021: folds 
+Uncalled bet (50) returned to Dr Eaton Who
+Dr Eaton Who collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: Dr Eaton Who (big blind) collected (100)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #243029370768: Tournament #3576054922, $0.92+$0.08 USD Hold'em No Limit - Level VI (50/100) - 2023/04/11 20:02:20 CET [2023/04/11 14:02:20 ET]
+Table '3576054922 1' 3-max Seat #1 is the button
+Seat 1: Dr Eaton Who (300 in chips) 
+Seat 3: Mahu2021 (1200 in chips) 
+Dr Eaton Who: posts small blind 50
+Mahu2021: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d 5c]
+Dr Eaton Who: calls 50
+Mahu2021: checks 
+*** FLOP *** [Ks 7c 3c]
+Mahu2021: checks 
+Dr Eaton Who: bets 100
+Mahu2021: folds 
+Uncalled bet (100) returned to Dr Eaton Who
+Dr Eaton Who collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [Ks 7c 3c]
+Seat 1: Dr Eaton Who (button) (small blind) collected (200)
+Seat 3: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #243029375065: Tournament #3576054922, $0.92+$0.08 USD Hold'em No Limit - Level VI (50/100) - 2023/04/11 20:02:32 CET [2023/04/11 14:02:32 ET]
+Table '3576054922 1' 3-max Seat #3 is the button
+Seat 1: Dr Eaton Who (400 in chips) 
+Seat 3: Mahu2021 (1100 in chips) 
+Mahu2021: posts small blind 50
+Dr Eaton Who: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h 7c]
+Mahu2021: calls 50
+Dr Eaton Who: checks 
+*** FLOP *** [4h As 6d]
+Dr Eaton Who: bets 100
+Mahu2021: folds 
+Uncalled bet (100) returned to Dr Eaton Who
+Dr Eaton Who collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [4h As 6d]
+Seat 1: Dr Eaton Who (big blind) collected (200)
+Seat 3: Mahu2021 (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #243029378476: Tournament #3576054922, $0.92+$0.08 USD Hold'em No Limit - Level VI (50/100) - 2023/04/11 20:02:42 CET [2023/04/11 14:02:42 ET]
+Table '3576054922 1' 3-max Seat #1 is the button
+Seat 1: Dr Eaton Who (500 in chips) 
+Seat 3: Mahu2021 (1000 in chips) 
+Dr Eaton Who: posts small blind 50
+Mahu2021: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Tc 7d]
+Dr Eaton Who: raises 100 to 200
+Mahu2021: folds 
+Uncalled bet (100) returned to Dr Eaton Who
+Dr Eaton Who collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Seat 1: Dr Eaton Who (button) (small blind) collected (200)
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #243029380789: Tournament #3576054922, $0.92+$0.08 USD Hold'em No Limit - Level VI (50/100) - 2023/04/11 20:02:49 CET [2023/04/11 14:02:49 ET]
+Table '3576054922 1' 3-max Seat #3 is the button
+Seat 1: Dr Eaton Who (600 in chips) 
+Seat 3: Mahu2021 (900 in chips) 
+Mahu2021: posts small blind 50
+Dr Eaton Who: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s 7c]
+Mahu2021: folds 
+Uncalled bet (50) returned to Dr Eaton Who
+Dr Eaton Who collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: Dr Eaton Who (big blind) collected (100)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #243029382555: Tournament #3576054922, $0.92+$0.08 USD Hold'em No Limit - Level VI (50/100) - 2023/04/11 20:02:54 CET [2023/04/11 14:02:54 ET]
+Table '3576054922 1' 3-max Seat #1 is the button
+Seat 1: Dr Eaton Who (650 in chips) 
+Seat 3: Mahu2021 (850 in chips) 
+Dr Eaton Who: posts small blind 50
+Mahu2021: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s Ad]
+Dr Eaton Who: raises 100 to 200
+Mahu2021: raises 650 to 850 and is all-in
+Dr Eaton Who: calls 450 and is all-in
+Uncalled bet (200) returned to Mahu2021
+*** FLOP *** [4h Js 2h]
+*** TURN *** [4h Js 2h] [7d]
+*** RIVER *** [4h Js 2h 7d] [Kc]
+*** SHOW DOWN ***
+Mahu2021: shows [4s Ad] (a pair of Fours)
+Dr Eaton Who: shows [Ac Jh] (a pair of Jacks)
+Dr Eaton Who collected 1300 from pot
+*** SUMMARY ***
+Total pot 1300 | Rake 0 
+Board [4h Js 2h 7d Kc]
+Seat 1: Dr Eaton Who (button) (small blind) showed [Ac Jh] and won (1300) with a pair of Jacks
+Seat 3: Mahu2021 (big blind) showed [4s Ad] and lost with a pair of Fours
+
+
+
+PokerStars Hand #243029387975: Tournament #3576054922, $0.92+$0.08 USD Hold'em No Limit - Level VI (50/100) - 2023/04/11 20:03:09 CET [2023/04/11 14:03:09 ET]
+Table '3576054922 1' 3-max Seat #3 is the button
+Seat 1: Dr Eaton Who (1300 in chips) 
+Seat 3: Mahu2021 (200 in chips) 
+Mahu2021: posts small blind 50
+Dr Eaton Who: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c Ts]
+Mahu2021: raises 100 to 200 and is all-in
+Dr Eaton Who: calls 100
+*** FLOP *** [6c 8c 2s]
+*** TURN *** [6c 8c 2s] [8d]
+*** RIVER *** [6c 8c 2s 8d] [Js]
+*** SHOW DOWN ***
+Dr Eaton Who: shows [Qs Qd] (two pair, Queens and Eights)
+Mahu2021: shows [9c Ts] (a pair of Eights)
+Dr Eaton Who collected 400 from pot
+Mahu2021 finished the tournament in 2nd place
+Dr Eaton Who wins the tournament and receives $2.00 - congratulations!
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Board [6c 8c 2s 8d Js]
+Seat 1: Dr Eaton Who (big blind) showed [Qs Qd] and won (400) with two pair, Queens and Eights
+Seat 3: Mahu2021 (button) (small blind) showed [9c Ts] and lost with a pair of Eights
+
+
+

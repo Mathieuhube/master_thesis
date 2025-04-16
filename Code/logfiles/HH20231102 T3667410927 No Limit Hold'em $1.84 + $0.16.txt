@@ -1,0 +1,583 @@
+﻿PokerStars Hand #246888520169: Tournament #3667410927, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/02 20:56:42 CET [2023/11/02 15:56:42 ET]
+Table '3667410927 1' 3-max Seat #1 is the button
+Seat 1: qphilipp6 (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: Cosmin16091983 (500 in chips) 
+Mahu2021: posts small blind 10
+Cosmin16091983: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc Kd]
+qphilipp6: raises 20 to 40
+Mahu2021: calls 30
+Cosmin16091983: folds 
+*** FLOP *** [9s As Qc]
+Mahu2021: checks 
+qphilipp6: checks 
+*** TURN *** [9s As Qc] [Th]
+Mahu2021: checks 
+qphilipp6: checks 
+*** RIVER *** [9s As Qc Th] [Td]
+Mahu2021: bets 100
+qphilipp6: calls 100
+*** SHOW DOWN ***
+Mahu2021: shows [Jc Kd] (a straight, Ten to Ace)
+qphilipp6: mucks hand 
+Mahu2021 collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [9s As Qc Th Td]
+Seat 1: qphilipp6 (button) mucked [9h Ad]
+Seat 2: Mahu2021 (small blind) showed [Jc Kd] and won (300) with a straight, Ten to Ace
+Seat 3: Cosmin16091983 (big blind) folded before Flop
+
+
+
+PokerStars Hand #246888526218: Tournament #3667410927, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/02 20:57:04 CET [2023/11/02 15:57:04 ET]
+Table '3667410927 1' 3-max Seat #2 is the button
+Seat 1: qphilipp6 (360 in chips) 
+Seat 2: Mahu2021 (660 in chips) 
+Seat 3: Cosmin16091983 (480 in chips) 
+Cosmin16091983: posts small blind 10
+qphilipp6: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c 3h]
+Mahu2021: folds 
+Cosmin16091983: calls 10
+qphilipp6: raises 20 to 40
+Cosmin16091983: calls 20
+*** FLOP *** [Qs Th 2h]
+Cosmin16091983: checks 
+qphilipp6: checks 
+*** TURN *** [Qs Th 2h] [9h]
+Cosmin16091983: bets 20
+qphilipp6: calls 20
+*** RIVER *** [Qs Th 2h 9h] [Ah]
+Cosmin16091983: bets 60
+qphilipp6: calls 60
+*** SHOW DOWN ***
+Cosmin16091983: shows [Jh 3s] (a flush, Ace high)
+qphilipp6: mucks hand 
+Cosmin16091983 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Qs Th 2h 9h Ah]
+Seat 1: qphilipp6 (big blind) mucked [7h Ac]
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: Cosmin16091983 (small blind) showed [Jh 3s] and won (240) with a flush, Ace high
+
+
+
+PokerStars Hand #246888533367: Tournament #3667410927, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/02 20:57:31 CET [2023/11/02 15:57:31 ET]
+Table '3667410927 1' 3-max Seat #3 is the button
+Seat 1: qphilipp6 (240 in chips) 
+Seat 2: Mahu2021 (660 in chips) 
+Seat 3: Cosmin16091983 (600 in chips) 
+qphilipp6: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2c 4h]
+Cosmin16091983: calls 20
+qphilipp6: folds 
+Mahu2021: checks 
+*** FLOP *** [Kd Qs Qh]
+Mahu2021: checks 
+Cosmin16091983: checks 
+*** TURN *** [Kd Qs Qh] [As]
+Mahu2021: checks 
+Cosmin16091983: bets 40
+Mahu2021: folds 
+Uncalled bet (40) returned to Cosmin16091983
+Cosmin16091983 collected 50 from pot
+Cosmin16091983: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [Kd Qs Qh As]
+Seat 1: qphilipp6 (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) folded on the Turn
+Seat 3: Cosmin16091983 (button) collected (50)
+
+
+
+PokerStars Hand #246888538505: Tournament #3667410927, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/02 20:57:50 CET [2023/11/02 15:57:50 ET]
+Table '3667410927 1' 3-max Seat #1 is the button
+Seat 1: qphilipp6 (230 in chips) 
+Seat 2: Mahu2021 (640 in chips) 
+Seat 3: Cosmin16091983 (630 in chips) 
+Mahu2021: posts small blind 10
+Cosmin16091983: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h 7h]
+qphilipp6: folds 
+Mahu2021: calls 10
+Cosmin16091983: checks 
+*** FLOP *** [Kc 2d 5d]
+Mahu2021: checks 
+Cosmin16091983: checks 
+*** TURN *** [Kc 2d 5d] [6d]
+Mahu2021: bets 20
+Cosmin16091983: calls 20
+*** RIVER *** [Kc 2d 5d 6d] [Ts]
+Mahu2021: checks 
+Cosmin16091983: bets 20
+Mahu2021: folds 
+Uncalled bet (20) returned to Cosmin16091983
+Cosmin16091983 collected 80 from pot
+Cosmin16091983: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Kc 2d 5d 6d Ts]
+Seat 1: qphilipp6 (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) folded on the River
+Seat 3: Cosmin16091983 (big blind) collected (80)
+
+
+
+PokerStars Hand #246888543237: Tournament #3667410927, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/02 20:58:07 CET [2023/11/02 15:58:07 ET]
+Table '3667410927 1' 3-max Seat #2 is the button
+Seat 1: qphilipp6 (230 in chips) 
+Seat 2: Mahu2021 (600 in chips) 
+Seat 3: Cosmin16091983 (670 in chips) 
+Cosmin16091983: posts small blind 10
+qphilipp6: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc Kd]
+Mahu2021: raises 20 to 40
+Cosmin16091983: raises 60 to 100
+qphilipp6: folds 
+Mahu2021: calls 60
+*** FLOP *** [8d Ac 5s]
+Cosmin16091983: bets 570 and is all-in
+Mahu2021: folds 
+Uncalled bet (570) returned to Cosmin16091983
+Cosmin16091983 collected 220 from pot
+Cosmin16091983: doesn't show hand 
+*** SUMMARY ***
+Total pot 220 | Rake 0 
+Board [8d Ac 5s]
+Seat 1: qphilipp6 (big blind) folded before Flop
+Seat 2: Mahu2021 (button) folded on the Flop
+Seat 3: Cosmin16091983 (small blind) collected (220)
+
+
+
+PokerStars Hand #246888547047: Tournament #3667410927, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/02 20:58:21 CET [2023/11/02 15:58:21 ET]
+Table '3667410927 1' 3-max Seat #3 is the button
+Seat 1: qphilipp6 (210 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: Cosmin16091983 (790 in chips) 
+qphilipp6: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2s As]
+Cosmin16091983: folds 
+qphilipp6: calls 10
+Mahu2021: checks 
+*** FLOP *** [Ac Jd 5d]
+qphilipp6: checks 
+Mahu2021: bets 20
+qphilipp6: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Ac Jd 5d]
+Seat 1: qphilipp6 (small blind) folded on the Flop
+Seat 2: Mahu2021 (big blind) collected (40)
+Seat 3: Cosmin16091983 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #246888550207: Tournament #3667410927, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/02 20:58:33 CET [2023/11/02 15:58:33 ET]
+Table '3667410927 1' 3-max Seat #1 is the button
+Seat 1: qphilipp6 (190 in chips) 
+Seat 2: Mahu2021 (520 in chips) 
+Seat 3: Cosmin16091983 (790 in chips) 
+Mahu2021: posts small blind 10
+Cosmin16091983: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6h 8c]
+qphilipp6: folds 
+Mahu2021: folds 
+Uncalled bet (10) returned to Cosmin16091983
+Cosmin16091983 collected 20 from pot
+Cosmin16091983: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: qphilipp6 (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: Cosmin16091983 (big blind) collected (20)
+
+
+
+PokerStars Hand #246888551439: Tournament #3667410927, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/02 20:58:38 CET [2023/11/02 15:58:38 ET]
+Table '3667410927 1' 3-max Seat #2 is the button
+Seat 1: qphilipp6 (190 in chips) 
+Seat 2: Mahu2021 (510 in chips) 
+Seat 3: Cosmin16091983 (800 in chips) 
+Cosmin16091983: posts small blind 10
+qphilipp6: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2s Kd]
+Mahu2021: folds 
+Cosmin16091983: calls 10
+qphilipp6: checks 
+*** FLOP *** [Qs 2h 8s]
+Cosmin16091983: checks 
+qphilipp6: checks 
+*** TURN *** [Qs 2h 8s] [6h]
+Cosmin16091983: checks 
+qphilipp6: bets 40
+Cosmin16091983: calls 40
+*** RIVER *** [Qs 2h 8s 6h] [Jh]
+Cosmin16091983: checks 
+qphilipp6: bets 120
+Cosmin16091983: folds 
+Uncalled bet (120) returned to qphilipp6
+qphilipp6 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Qs 2h 8s 6h Jh]
+Seat 1: qphilipp6 (big blind) collected (120)
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: Cosmin16091983 (small blind) folded on the River
+
+
+
+PokerStars Hand #246888558025: Tournament #3667410927, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/02 20:59:02 CET [2023/11/02 15:59:02 ET]
+Table '3667410927 1' 3-max Seat #3 is the button
+Seat 1: qphilipp6 (250 in chips) 
+Seat 2: Mahu2021 (510 in chips) 
+Seat 3: Cosmin16091983 (740 in chips) 
+qphilipp6: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s Kh]
+Cosmin16091983: raises 30 to 60
+qphilipp6: folds 
+Mahu2021: calls 30
+*** FLOP *** [4d Js Ah]
+Mahu2021: checks 
+Cosmin16091983: bets 680 and is all-in
+Mahu2021: folds 
+Uncalled bet (680) returned to Cosmin16091983
+Cosmin16091983 collected 135 from pot
+Cosmin16091983: doesn't show hand 
+*** SUMMARY ***
+Total pot 135 | Rake 0 
+Board [4d Js Ah]
+Seat 1: qphilipp6 (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) folded on the Flop
+Seat 3: Cosmin16091983 (button) collected (135)
+
+
+
+PokerStars Hand #246888563103: Tournament #3667410927, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/02 20:59:21 CET [2023/11/02 15:59:21 ET]
+Table '3667410927 1' 3-max Seat #1 is the button
+Seat 1: qphilipp6 (235 in chips) 
+Seat 2: Mahu2021 (450 in chips) 
+Seat 3: Cosmin16091983 (815 in chips) 
+Mahu2021: posts small blind 15
+Cosmin16091983: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks 8c]
+qphilipp6: folds 
+Mahu2021: calls 15
+Cosmin16091983: checks 
+*** FLOP *** [Kd 8s Th]
+Mahu2021: checks 
+Cosmin16091983: bets 30
+Mahu2021: calls 30
+*** TURN *** [Kd 8s Th] [Ts]
+Mahu2021: checks 
+Cosmin16091983: checks 
+*** RIVER *** [Kd 8s Th Ts] [2c]
+Mahu2021: bets 120
+Cosmin16091983: folds 
+Uncalled bet (120) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Kd 8s Th Ts 2c]
+Seat 1: qphilipp6 (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) collected (120)
+Seat 3: Cosmin16091983 (big blind) folded on the River
+
+
+
+PokerStars Hand #246888568549: Tournament #3667410927, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/02 20:59:40 CET [2023/11/02 15:59:40 ET]
+Table '3667410927 1' 3-max Seat #2 is the button
+Seat 1: qphilipp6 (235 in chips) 
+Seat 2: Mahu2021 (510 in chips) 
+Seat 3: Cosmin16091983 (755 in chips) 
+Cosmin16091983: posts small blind 15
+qphilipp6: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8d Td]
+Mahu2021: calls 30
+Cosmin16091983: raises 30 to 60
+qphilipp6: raises 175 to 235 and is all-in
+Mahu2021: folds 
+Cosmin16091983: calls 175
+*** FLOP *** [4d 8c 8s]
+*** TURN *** [4d 8c 8s] [5h]
+*** RIVER *** [4d 8c 8s 5h] [Kd]
+*** SHOW DOWN ***
+Cosmin16091983: shows [Qh Ad] (a pair of Eights)
+qphilipp6: shows [2c 2d] (two pair, Eights and Deuces)
+qphilipp6 collected 500 from pot
+*** SUMMARY ***
+Total pot 500 | Rake 0 
+Board [4d 8c 8s 5h Kd]
+Seat 1: qphilipp6 (big blind) showed [2c 2d] and won (500) with two pair, Eights and Deuces
+Seat 2: Mahu2021 (button) folded before Flop
+Seat 3: Cosmin16091983 (small blind) showed [Qh Ad] and lost with a pair of Eights
+
+
+
+PokerStars Hand #246888572883: Tournament #3667410927, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/02 20:59:56 CET [2023/11/02 15:59:56 ET]
+Table '3667410927 1' 3-max Seat #3 is the button
+Seat 1: qphilipp6 (500 in chips) 
+Seat 2: Mahu2021 (480 in chips) 
+Seat 3: Cosmin16091983 (520 in chips) 
+qphilipp6: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac 5d]
+Cosmin16091983: raises 490 to 520 and is all-in
+qphilipp6: calls 485 and is all-in
+Mahu2021: folds 
+Uncalled bet (20) returned to Cosmin16091983
+*** FLOP *** [Jh 6d Ks]
+*** TURN *** [Jh 6d Ks] [2c]
+*** RIVER *** [Jh 6d Ks 2c] [7s]
+*** SHOW DOWN ***
+qphilipp6: shows [Kd Kh] (three of a kind, Kings)
+Cosmin16091983: shows [As 9c] (high card Ace)
+qphilipp6 collected 1030 from pot
+*** SUMMARY ***
+Total pot 1030 | Rake 0 
+Board [Jh 6d Ks 2c 7s]
+Seat 1: qphilipp6 (small blind) showed [Kd Kh] and won (1030) with three of a kind, Kings
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: Cosmin16091983 (button) showed [As 9c] and lost with high card Ace
+
+
+
+PokerStars Hand #246888577328: Tournament #3667410927, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/02 21:00:12 CET [2023/11/02 16:00:12 ET]
+Table '3667410927 1' 3-max Seat #1 is the button
+Seat 1: qphilipp6 (1030 in chips) 
+Seat 2: Mahu2021 (450 in chips) 
+Seat 3: Cosmin16091983 (20 in chips) 
+Mahu2021: posts small blind 15
+Cosmin16091983: posts big blind 20 and is all-in
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8s 3s]
+qphilipp6: raises 100 to 120
+Mahu2021: folds 
+Uncalled bet (100) returned to qphilipp6
+*** FLOP *** [8c 3c 4d]
+*** TURN *** [8c 3c 4d] [9c]
+*** RIVER *** [8c 3c 4d 9c] [6d]
+*** SHOW DOWN ***
+Cosmin16091983: shows [4s Jc] (a pair of Fours)
+qphilipp6: shows [Tc Ts] (a pair of Tens)
+qphilipp6 collected 55 from pot
+Cosmin16091983 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 55 | Rake 0 
+Board [8c 3c 4d 9c 6d]
+Seat 1: qphilipp6 (button) showed [Tc Ts] and won (55) with a pair of Tens
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: Cosmin16091983 (big blind) showed [4s Jc] and lost with a pair of Fours
+
+
+
+PokerStars Hand #246888582423: Tournament #3667410927, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/02 21:00:30 CET [2023/11/02 16:00:30 ET]
+Table '3667410927 1' 3-max Seat #2 is the button
+Seat 1: qphilipp6 (1065 in chips) 
+Seat 2: Mahu2021 (435 in chips) 
+Mahu2021: posts small blind 15
+qphilipp6: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Th 4s]
+Mahu2021: folds 
+Uncalled bet (15) returned to qphilipp6
+qphilipp6 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: qphilipp6 (big blind) collected (30)
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #246888583654: Tournament #3667410927, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/02 21:00:34 CET [2023/11/02 16:00:34 ET]
+Table '3667410927 1' 3-max Seat #1 is the button
+Seat 1: qphilipp6 (1080 in chips) 
+Seat 2: Mahu2021 (420 in chips) 
+qphilipp6: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc 2s]
+qphilipp6: calls 15
+Mahu2021: checks 
+*** FLOP *** [6c 2c Kh]
+Mahu2021: checks 
+qphilipp6: checks 
+*** TURN *** [6c 2c Kh] [Qs]
+Mahu2021: checks 
+qphilipp6: checks 
+*** RIVER *** [6c 2c Kh Qs] [Ts]
+Mahu2021: bets 60
+qphilipp6: calls 60
+*** SHOW DOWN ***
+Mahu2021: shows [Qc 2s] (two pair, Queens and Deuces)
+qphilipp6: mucks hand 
+Mahu2021 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [6c 2c Kh Qs Ts]
+Seat 1: qphilipp6 (button) (small blind) mucked [Td 5h]
+Seat 2: Mahu2021 (big blind) showed [Qc 2s] and won (180) with two pair, Queens and Deuces
+
+
+
+PokerStars Hand #246888588859: Tournament #3667410927, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/11/02 21:00:51 CET [2023/11/02 16:00:51 ET]
+Table '3667410927 1' 3-max Seat #2 is the button
+Seat 1: qphilipp6 (990 in chips) 
+Seat 2: Mahu2021 (510 in chips) 
+Mahu2021: posts small blind 20
+qphilipp6: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Th 4d]
+Mahu2021: folds 
+Uncalled bet (20) returned to qphilipp6
+qphilipp6 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: qphilipp6 (big blind) collected (40)
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #246888590255: Tournament #3667410927, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/11/02 21:00:56 CET [2023/11/02 16:00:56 ET]
+Table '3667410927 1' 3-max Seat #1 is the button
+Seat 1: qphilipp6 (1010 in chips) 
+Seat 2: Mahu2021 (490 in chips) 
+qphilipp6: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h 2c]
+qphilipp6: raises 40 to 80
+Mahu2021: folds 
+Uncalled bet (40) returned to qphilipp6
+qphilipp6 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: qphilipp6 (button) (small blind) collected (80)
+Seat 2: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #246888591767: Tournament #3667410927, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/11/02 21:01:01 CET [2023/11/02 16:01:01 ET]
+Table '3667410927 1' 3-max Seat #2 is the button
+Seat 1: qphilipp6 (1050 in chips) 
+Seat 2: Mahu2021 (450 in chips) 
+Mahu2021: posts small blind 20
+qphilipp6: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6h 8h]
+Mahu2021: calls 20
+qphilipp6: raises 80 to 120
+Mahu2021: folds 
+Uncalled bet (80) returned to qphilipp6
+qphilipp6 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: qphilipp6 (big blind) collected (80)
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #246888594039: Tournament #3667410927, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/11/02 21:01:08 CET [2023/11/02 16:01:08 ET]
+Table '3667410927 1' 3-max Seat #1 is the button
+Seat 1: qphilipp6 (1090 in chips) 
+Seat 2: Mahu2021 (410 in chips) 
+qphilipp6: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h 4c]
+qphilipp6: raises 40 to 80
+Mahu2021: raises 330 to 410 and is all-in
+qphilipp6: folds 
+Uncalled bet (330) returned to Mahu2021
+Mahu2021 collected 160 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Seat 1: qphilipp6 (button) (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (160)
+
+
+
+PokerStars Hand #246888596666: Tournament #3667410927, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/11/02 21:01:16 CET [2023/11/02 16:01:16 ET]
+Table '3667410927 1' 3-max Seat #2 is the button
+Seat 1: qphilipp6 (1010 in chips) 
+Seat 2: Mahu2021 (490 in chips) 
+Mahu2021: posts small blind 20
+qphilipp6: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh Kd]
+Mahu2021: raises 40 to 80
+qphilipp6: calls 40
+*** FLOP *** [Jd 2s 8c]
+qphilipp6: bets 160
+Mahu2021: raises 250 to 410 and is all-in
+qphilipp6: calls 250
+*** TURN *** [Jd 2s 8c] [Qd]
+*** RIVER *** [Jd 2s 8c Qd] [4s]
+*** SHOW DOWN ***
+qphilipp6: shows [Tc Ks] (high card King)
+Mahu2021: shows [Jh Kd] (a pair of Jacks)
+Mahu2021 collected 980 from pot
+*** SUMMARY ***
+Total pot 980 | Rake 0 
+Board [Jd 2s 8c Qd 4s]
+Seat 1: qphilipp6 (big blind) showed [Tc Ks] and lost with high card King
+Seat 2: Mahu2021 (button) (small blind) showed [Jh Kd] and won (980) with a pair of Jacks
+
+
+
+PokerStars Hand #246888602790: Tournament #3667410927, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/11/02 21:01:35 CET [2023/11/02 16:01:35 ET]
+Table '3667410927 1' 3-max Seat #1 is the button
+Seat 1: qphilipp6 (520 in chips) 
+Seat 2: Mahu2021 (980 in chips) 
+qphilipp6: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8d 7h]
+qphilipp6: raises 40 to 80
+Mahu2021: calls 40
+*** FLOP *** [Qd 7c 6h]
+Mahu2021: checks 
+qphilipp6: bets 160
+Mahu2021: raises 740 to 900 and is all-in
+qphilipp6: calls 280 and is all-in
+Uncalled bet (460) returned to Mahu2021
+*** TURN *** [Qd 7c 6h] [Ah]
+*** RIVER *** [Qd 7c 6h Ah] [Qh]
+*** SHOW DOWN ***
+Mahu2021: shows [8d 7h] (two pair, Queens and Sevens)
+qphilipp6: shows [Tc Jd] (a pair of Queens)
+Mahu2021 collected 1040 from pot
+qphilipp6 finished the tournament in 2nd place
+Mahu2021 wins the tournament and receives $4.00 - congratulations!
+*** SUMMARY ***
+Total pot 1040 | Rake 0 
+Board [Qd 7c 6h Ah Qh]
+Seat 1: qphilipp6 (button) (small blind) showed [Tc Jd] and lost with a pair of Queens
+Seat 2: Mahu2021 (big blind) showed [8d 7h] and won (1040) with two pair, Queens and Sevens
+
+
+

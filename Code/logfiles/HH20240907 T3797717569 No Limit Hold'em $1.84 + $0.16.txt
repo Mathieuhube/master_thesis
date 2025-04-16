@@ -1,0 +1,608 @@
+﻿PokerStars Hand #252330480722: Tournament #3797717569, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/09/07 14:42:16 CET [2024/09/07 8:42:16 ET]
+Table '3797717569 1' 3-max Seat #1 is the button
+Seat 1: ferka 65 (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: miko_delarco (500 in chips) 
+Mahu2021: posts small blind 10
+miko_delarco: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c Ad]
+ferka 65: folds 
+Mahu2021: calls 10
+miko_delarco: checks 
+*** FLOP *** [2h 3h 6h]
+Mahu2021: bets 80
+miko_delarco: folds 
+Uncalled bet (80) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [2h 3h 6h]
+Seat 1: ferka 65 (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) collected (40)
+Seat 3: miko_delarco (big blind) folded on the Flop
+
+
+
+PokerStars Hand #252330484040: Tournament #3797717569, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/09/07 14:42:36 CET [2024/09/07 8:42:36 ET]
+Table '3797717569 1' 3-max Seat #2 is the button
+Seat 1: ferka 65 (500 in chips) 
+Seat 2: Mahu2021 (520 in chips) 
+Seat 3: miko_delarco (480 in chips) 
+miko_delarco: posts small blind 10
+ferka 65: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qd 6c]
+Mahu2021: folds 
+miko_delarco: folds 
+Uncalled bet (10) returned to ferka 65
+ferka 65 collected 20 from pot
+ferka 65: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: ferka 65 (big blind) collected (20)
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: miko_delarco (small blind) folded before Flop
+
+
+
+PokerStars Hand #252330485214: Tournament #3797717569, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/09/07 14:42:42 CET [2024/09/07 8:42:42 ET]
+Table '3797717569 1' 3-max Seat #3 is the button
+Seat 1: ferka 65 (510 in chips) 
+Seat 2: Mahu2021 (520 in chips) 
+Seat 3: miko_delarco (470 in chips) 
+ferka 65: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c Jc]
+miko_delarco: raises 20 to 40
+ferka 65: raises 80 to 120
+Mahu2021: folds 
+miko_delarco: calls 80
+*** FLOP *** [6c Kc 8d]
+ferka 65: checks 
+miko_delarco: bets 80
+ferka 65: calls 80
+*** TURN *** [6c Kc 8d] [9s]
+ferka 65: checks 
+miko_delarco: bets 270 and is all-in
+ferka 65: calls 270
+*** RIVER *** [6c Kc 8d 9s] [Ah]
+*** SHOW DOWN ***
+ferka 65: shows [Qc Qs] (a pair of Queens)
+miko_delarco: shows [Kh Jh] (a pair of Kings)
+miko_delarco collected 960 from pot
+*** SUMMARY ***
+Total pot 960 | Rake 0 
+Board [6c Kc 8d 9s Ah]
+Seat 1: ferka 65 (small blind) showed [Qc Qs] and lost with a pair of Queens
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: miko_delarco (button) showed [Kh Jh] and won (960) with a pair of Kings
+
+
+
+PokerStars Hand #252330492828: Tournament #3797717569, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/09/07 14:43:27 CET [2024/09/07 8:43:27 ET]
+Table '3797717569 1' 3-max Seat #1 is the button
+Seat 1: ferka 65 (40 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: miko_delarco (960 in chips) 
+Mahu2021: posts small blind 10
+miko_delarco: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h 3d]
+ferka 65: folds 
+Mahu2021: folds 
+Uncalled bet (10) returned to miko_delarco
+miko_delarco collected 20 from pot
+miko_delarco: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: ferka 65 (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: miko_delarco (big blind) collected (20)
+
+
+
+PokerStars Hand #252330493811: Tournament #3797717569, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/09/07 14:43:32 CET [2024/09/07 8:43:32 ET]
+Table '3797717569 1' 3-max Seat #2 is the button
+Seat 1: ferka 65 (40 in chips) 
+Seat 2: Mahu2021 (490 in chips) 
+Seat 3: miko_delarco (970 in chips) 
+miko_delarco: posts small blind 10
+ferka 65: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5h 6h]
+Mahu2021: raises 20 to 40
+miko_delarco: folds 
+ferka 65: calls 20 and is all-in
+*** FLOP *** [Qd 4d 7s]
+*** TURN *** [Qd 4d 7s] [6d]
+*** RIVER *** [Qd 4d 7s 6d] [8d]
+*** SHOW DOWN ***
+ferka 65: shows [4s 8c] (two pair, Eights and Fours)
+Mahu2021: shows [5h 6h] (a straight, Four to Eight)
+Mahu2021 collected 90 from pot
+ferka 65 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [Qd 4d 7s 6d 8d]
+Seat 1: ferka 65 (big blind) showed [4s 8c] and lost with two pair, Eights and Fours
+Seat 2: Mahu2021 (button) showed [5h 6h] and won (90) with a straight, Four to Eight
+Seat 3: miko_delarco (small blind) folded before Flop
+
+
+
+PokerStars Hand #252330496701: Tournament #3797717569, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/09/07 14:43:48 CET [2024/09/07 8:43:48 ET]
+Table '3797717569 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (540 in chips) 
+Seat 3: miko_delarco (960 in chips) 
+miko_delarco: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c 3c]
+miko_delarco: calls 10
+Mahu2021: checks 
+*** FLOP *** [8h 6c Ks]
+Mahu2021: checks 
+miko_delarco: bets 20
+Mahu2021: calls 20
+*** TURN *** [8h 6c Ks] [5s]
+Mahu2021: checks 
+miko_delarco: bets 53
+Mahu2021: folds 
+Uncalled bet (53) returned to miko_delarco
+miko_delarco collected 80 from pot
+miko_delarco: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [8h 6c Ks 5s]
+Seat 2: Mahu2021 (big blind) folded on the Turn
+Seat 3: miko_delarco (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #252330501436: Tournament #3797717569, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/09/07 14:44:16 CET [2024/09/07 8:44:16 ET]
+Table '3797717569 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: miko_delarco (1000 in chips) 
+Mahu2021: posts small blind 10
+miko_delarco: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2s 8h]
+Mahu2021: folds 
+Uncalled bet (10) returned to miko_delarco
+miko_delarco collected 20 from pot
+miko_delarco: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: miko_delarco (big blind) collected (20)
+
+
+
+PokerStars Hand #252330502790: Tournament #3797717569, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/09/07 14:44:23 CET [2024/09/07 8:44:23 ET]
+Table '3797717569 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (490 in chips) 
+Seat 3: miko_delarco (1010 in chips) 
+miko_delarco: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c 4s]
+miko_delarco: calls 15
+Mahu2021: checks 
+*** FLOP *** [7s Ks 2d]
+Mahu2021: checks 
+miko_delarco: bets 30
+Mahu2021: folds 
+Uncalled bet (30) returned to miko_delarco
+miko_delarco collected 60 from pot
+miko_delarco: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [7s Ks 2d]
+Seat 2: Mahu2021 (big blind) folded on the Flop
+Seat 3: miko_delarco (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #252330505316: Tournament #3797717569, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/09/07 14:44:38 CET [2024/09/07 8:44:38 ET]
+Table '3797717569 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (460 in chips) 
+Seat 3: miko_delarco (1040 in chips) 
+Mahu2021: posts small blind 15
+miko_delarco: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s 3d]
+Mahu2021: folds 
+Uncalled bet (15) returned to miko_delarco
+miko_delarco collected 30 from pot
+miko_delarco: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: miko_delarco (big blind) collected (30)
+
+
+
+PokerStars Hand #252330506117: Tournament #3797717569, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/09/07 14:44:42 CET [2024/09/07 8:44:42 ET]
+Table '3797717569 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (445 in chips) 
+Seat 3: miko_delarco (1055 in chips) 
+miko_delarco: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qs 6d]
+miko_delarco: raises 30 to 60
+Mahu2021: calls 30
+*** FLOP *** [Qd 2s Ks]
+Mahu2021: checks 
+miko_delarco: checks 
+*** TURN *** [Qd 2s Ks] [2c]
+Mahu2021: checks 
+miko_delarco: checks 
+*** RIVER *** [Qd 2s Ks 2c] [Kd]
+Mahu2021: bets 60
+miko_delarco: calls 60
+*** SHOW DOWN ***
+Mahu2021: shows [Qs 6d] (two pair, Kings and Queens)
+miko_delarco: mucks hand 
+Mahu2021 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Qd 2s Ks 2c Kd]
+Seat 2: Mahu2021 (big blind) showed [Qs 6d] and won (240) with two pair, Kings and Queens
+Seat 3: miko_delarco (button) (small blind) mucked [Td Th]
+
+
+
+PokerStars Hand #252330511575: Tournament #3797717569, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/09/07 14:45:14 CET [2024/09/07 8:45:14 ET]
+Table '3797717569 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (565 in chips) 
+Seat 3: miko_delarco (935 in chips) 
+Mahu2021: posts small blind 15
+miko_delarco: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h 9c]
+Mahu2021: folds 
+Uncalled bet (15) returned to miko_delarco
+miko_delarco collected 30 from pot
+miko_delarco: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: miko_delarco (big blind) collected (30)
+
+
+
+PokerStars Hand #252330512662: Tournament #3797717569, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/09/07 14:45:21 CET [2024/09/07 8:45:21 ET]
+Table '3797717569 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (550 in chips) 
+Seat 3: miko_delarco (950 in chips) 
+miko_delarco: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s Kc]
+miko_delarco: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 2: Mahu2021 (big blind) collected (30)
+Seat 3: miko_delarco (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #252330514033: Tournament #3797717569, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/09/07 14:45:28 CET [2024/09/07 8:45:28 ET]
+Table '3797717569 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (565 in chips) 
+Seat 3: miko_delarco (935 in chips) 
+Mahu2021: posts small blind 15
+miko_delarco: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh 6d]
+Mahu2021: raises 30 to 60
+miko_delarco: raises 120 to 180
+Mahu2021: folds 
+Uncalled bet (120) returned to miko_delarco
+miko_delarco collected 120 from pot
+miko_delarco: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: miko_delarco (big blind) collected (120)
+
+
+
+PokerStars Hand #252330516061: Tournament #3797717569, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/09/07 14:45:40 CET [2024/09/07 8:45:40 ET]
+Table '3797717569 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (505 in chips) 
+Seat 3: miko_delarco (995 in chips) 
+miko_delarco: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Th 3h]
+miko_delarco: calls 15
+Mahu2021: checks 
+*** FLOP *** [5d 3s 6h]
+Mahu2021: checks 
+miko_delarco: checks 
+*** TURN *** [5d 3s 6h] [Tc]
+Mahu2021: bets 30
+miko_delarco: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [5d 3s 6h Tc]
+Seat 2: Mahu2021 (big blind) collected (60)
+Seat 3: miko_delarco (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #252330520389: Tournament #3797717569, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/09/07 14:46:05 CET [2024/09/07 8:46:05 ET]
+Table '3797717569 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (535 in chips) 
+Seat 3: miko_delarco (965 in chips) 
+Mahu2021: posts small blind 15
+miko_delarco: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac Tc]
+Mahu2021: raises 30 to 60
+miko_delarco: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) collected (60)
+Seat 3: miko_delarco (big blind) folded before Flop
+
+
+
+PokerStars Hand #252330521564: Tournament #3797717569, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/09/07 14:46:11 CET [2024/09/07 8:46:11 ET]
+Table '3797717569 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (565 in chips) 
+Seat 3: miko_delarco (935 in chips) 
+miko_delarco: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh 6h]
+miko_delarco: calls 15
+Mahu2021: checks 
+*** FLOP *** [9d Jd 8c]
+Mahu2021: checks 
+miko_delarco: bets 30
+Mahu2021: folds 
+Uncalled bet (30) returned to miko_delarco
+miko_delarco collected 60 from pot
+miko_delarco: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [9d Jd 8c]
+Seat 2: Mahu2021 (big blind) folded on the Flop
+Seat 3: miko_delarco (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #252330525586: Tournament #3797717569, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/09/07 14:46:35 CET [2024/09/07 8:46:35 ET]
+Table '3797717569 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (535 in chips) 
+Seat 3: miko_delarco (965 in chips) 
+Mahu2021: posts small blind 20
+miko_delarco: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s 5d]
+Mahu2021: raises 495 to 535 and is all-in
+miko_delarco: folds 
+Uncalled bet (495) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) collected (80)
+Seat 3: miko_delarco (big blind) folded before Flop
+
+
+
+PokerStars Hand #252330527437: Tournament #3797717569, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/09/07 14:46:45 CET [2024/09/07 8:46:45 ET]
+Table '3797717569 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (575 in chips) 
+Seat 3: miko_delarco (925 in chips) 
+miko_delarco: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h 2d]
+miko_delarco: calls 20
+Mahu2021: checks 
+*** FLOP *** [6h 3d Td]
+Mahu2021: checks 
+miko_delarco: bets 40
+Mahu2021: folds 
+Uncalled bet (40) returned to miko_delarco
+miko_delarco collected 80 from pot
+miko_delarco: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [6h 3d Td]
+Seat 2: Mahu2021 (big blind) folded on the Flop
+Seat 3: miko_delarco (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #252330530447: Tournament #3797717569, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/09/07 14:47:03 CET [2024/09/07 8:47:03 ET]
+Table '3797717569 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (535 in chips) 
+Seat 3: miko_delarco (965 in chips) 
+Mahu2021: posts small blind 20
+miko_delarco: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h Qs]
+Mahu2021: raises 40 to 80
+miko_delarco: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) collected (80)
+Seat 3: miko_delarco (big blind) folded before Flop
+
+
+
+PokerStars Hand #252330531714: Tournament #3797717569, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/09/07 14:47:10 CET [2024/09/07 8:47:10 ET]
+Table '3797717569 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (575 in chips) 
+Seat 3: miko_delarco (925 in chips) 
+miko_delarco: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s 3c]
+miko_delarco: calls 20
+Mahu2021: checks 
+*** FLOP *** [7s Ad Ks]
+Mahu2021: checks 
+miko_delarco: bets 40
+Mahu2021: folds 
+Uncalled bet (40) returned to miko_delarco
+miko_delarco collected 80 from pot
+miko_delarco: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [7s Ad Ks]
+Seat 2: Mahu2021 (big blind) folded on the Flop
+Seat 3: miko_delarco (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #252330534920: Tournament #3797717569, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/09/07 14:47:29 CET [2024/09/07 8:47:29 ET]
+Table '3797717569 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (535 in chips) 
+Seat 3: miko_delarco (965 in chips) 
+Mahu2021: posts small blind 20
+miko_delarco: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2c Kh]
+Mahu2021: calls 20
+miko_delarco: raises 70 to 110
+Mahu2021: calls 70
+*** FLOP *** [As 2s Ah]
+miko_delarco: bets 80
+Mahu2021: raises 80 to 160
+miko_delarco: folds 
+Uncalled bet (80) returned to Mahu2021
+Mahu2021 collected 380 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 380 | Rake 0 
+Board [As 2s Ah]
+Seat 2: Mahu2021 (button) (small blind) collected (380)
+Seat 3: miko_delarco (big blind) folded on the Flop
+
+
+
+PokerStars Hand #252330540771: Tournament #3797717569, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/09/07 14:48:03 CET [2024/09/07 8:48:03 ET]
+Table '3797717569 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (725 in chips) 
+Seat 3: miko_delarco (775 in chips) 
+miko_delarco: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah 6c]
+miko_delarco: calls 20
+Mahu2021: checks 
+*** FLOP *** [Qc Js 4d]
+Mahu2021: checks 
+miko_delarco: bets 40
+Mahu2021: folds 
+Uncalled bet (40) returned to miko_delarco
+miko_delarco collected 80 from pot
+miko_delarco: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Qc Js 4d]
+Seat 2: Mahu2021 (big blind) folded on the Flop
+Seat 3: miko_delarco (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #252330544181: Tournament #3797717569, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/09/07 14:48:23 CET [2024/09/07 8:48:23 ET]
+Table '3797717569 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (685 in chips) 
+Seat 3: miko_delarco (815 in chips) 
+Mahu2021: posts small blind 30
+miko_delarco: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s 5h]
+Mahu2021: calls 30
+miko_delarco: raises 755 to 815 and is all-in
+Mahu2021: folds 
+Uncalled bet (755) returned to miko_delarco
+miko_delarco collected 120 from pot
+miko_delarco: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: miko_delarco (big blind) collected (120)
+
+
+
+PokerStars Hand #252330545932: Tournament #3797717569, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/09/07 14:48:34 CET [2024/09/07 8:48:34 ET]
+Table '3797717569 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (625 in chips) 
+Seat 3: miko_delarco (875 in chips) 
+miko_delarco: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d Qd]
+miko_delarco: calls 30
+Mahu2021: checks 
+*** FLOP *** [Kc 7h 5h]
+Mahu2021: checks 
+miko_delarco: bets 60
+Mahu2021: folds 
+Uncalled bet (60) returned to miko_delarco
+miko_delarco collected 120 from pot
+miko_delarco: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Kc 7h 5h]
+Seat 2: Mahu2021 (big blind) folded on the Flop
+Seat 3: miko_delarco (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #252330549654: Tournament #3797717569, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/09/07 14:48:55 CET [2024/09/07 8:48:55 ET]
+Table '3797717569 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (565 in chips) 
+Seat 3: miko_delarco (935 in chips) 
+Mahu2021: posts small blind 30
+miko_delarco: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4c 2c]
+Mahu2021: raises 60 to 120
+miko_delarco: calls 60
+*** FLOP *** [5c 8c 3c]
+miko_delarco: checks 
+Mahu2021: bets 120
+miko_delarco: raises 695 to 815 and is all-in
+Mahu2021: calls 325 and is all-in
+Uncalled bet (370) returned to miko_delarco
+*** TURN *** [5c 8c 3c] [5h]
+*** RIVER *** [5c 8c 3c 5h] [9c]
+*** SHOW DOWN ***
+miko_delarco: shows [7c Tc] (a flush, Ten high)
+Mahu2021: shows [4c 2c] (a flush, Nine high)
+miko_delarco collected 1130 from pot
+Mahu2021 finished the tournament in 2nd place
+miko_delarco wins the tournament and receives $4.00 - congratulations!
+*** SUMMARY ***
+Total pot 1130 | Rake 0 
+Board [5c 8c 3c 5h 9c]
+Seat 2: Mahu2021 (button) (small blind) showed [4c 2c] and lost with a flush, Nine high
+Seat 3: miko_delarco (big blind) showed [7c Tc] and won (1130) with a flush, Ten high
+
+
+

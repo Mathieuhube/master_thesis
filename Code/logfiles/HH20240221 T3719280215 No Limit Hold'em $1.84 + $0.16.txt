@@ -1,0 +1,268 @@
+﻿PokerStars Hand #249010532874: Tournament #3719280215, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/02/21 18:07:53 CET [2024/02/21 12:07:53 ET]
+Table '3719280215 1' 3-max Seat #1 is the button
+Seat 1: zozpit (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: portos8 (500 in chips) 
+Mahu2021: posts small blind 10
+portos8: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh Qs]
+zozpit: calls 20
+Mahu2021: calls 10
+portos8: raises 40 to 60
+zozpit: calls 40
+Mahu2021: calls 40
+*** FLOP *** [Ts 4c Ks]
+Mahu2021: checks 
+portos8: checks 
+zozpit: bets 110
+Mahu2021: calls 110
+portos8: folds 
+*** TURN *** [Ts 4c Ks] [Ad]
+Mahu2021: checks 
+zozpit: bets 200
+Mahu2021: raises 130 to 330 and is all-in
+zozpit: folds 
+Uncalled bet (130) returned to Mahu2021
+Mahu2021 collected 800 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 800 | Rake 0 
+Board [Ts 4c Ks Ad]
+Seat 1: zozpit (button) folded on the Turn
+Seat 2: Mahu2021 (small blind) collected (800)
+Seat 3: portos8 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #249010544313: Tournament #3719280215, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/02/21 18:08:35 CET [2024/02/21 12:08:35 ET]
+Table '3719280215 1' 3-max Seat #2 is the button
+Seat 1: zozpit (130 in chips) 
+Seat 2: Mahu2021 (930 in chips) 
+Seat 3: portos8 (440 in chips) 
+portos8: posts small blind 10
+zozpit: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts Qd]
+Mahu2021: raises 20 to 40
+portos8: folds 
+zozpit: raises 90 to 130 and is all-in
+Mahu2021: calls 90
+*** FLOP *** [9d 3h Jc]
+*** TURN *** [9d 3h Jc] [4h]
+*** RIVER *** [9d 3h Jc 4h] [Ac]
+*** SHOW DOWN ***
+zozpit: shows [2c As] (a pair of Aces)
+Mahu2021: shows [Ts Qd] (high card Ace)
+zozpit collected 270 from pot
+*** SUMMARY ***
+Total pot 270 | Rake 0 
+Board [9d 3h Jc 4h Ac]
+Seat 1: zozpit (big blind) showed [2c As] and won (270) with a pair of Aces
+Seat 2: Mahu2021 (button) showed [Ts Qd] and lost with high card Ace
+Seat 3: portos8 (small blind) folded before Flop
+
+
+
+PokerStars Hand #249010549776: Tournament #3719280215, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/02/21 18:08:55 CET [2024/02/21 12:08:55 ET]
+Table '3719280215 1' 3-max Seat #3 is the button
+Seat 1: zozpit (270 in chips) 
+Seat 2: Mahu2021 (800 in chips) 
+Seat 3: portos8 (430 in chips) 
+zozpit: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As 8h]
+portos8: folds 
+zozpit: calls 10
+Mahu2021: raises 40 to 60
+zozpit: calls 40
+*** FLOP *** [2h Ts 7c]
+zozpit: bets 120
+Mahu2021: folds 
+Uncalled bet (120) returned to zozpit
+zozpit collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [2h Ts 7c]
+Seat 1: zozpit (small blind) collected (120)
+Seat 2: Mahu2021 (big blind) folded on the Flop
+Seat 3: portos8 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #249010558369: Tournament #3719280215, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/02/21 18:09:27 CET [2024/02/21 12:09:27 ET]
+Table '3719280215 1' 3-max Seat #1 is the button
+Seat 1: zozpit (330 in chips) 
+Seat 2: Mahu2021 (740 in chips) 
+Seat 3: portos8 (430 in chips) 
+Mahu2021: posts small blind 10
+portos8: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js As]
+zozpit: raises 20 to 40
+Mahu2021: raises 60 to 100
+portos8: calls 80
+zozpit: calls 60
+*** FLOP *** [6d 3d 4s]
+Mahu2021: checks 
+portos8: checks 
+zozpit: bets 230 and is all-in
+Mahu2021: calls 230
+portos8: folds 
+*** TURN *** [6d 3d 4s] [Tc]
+*** RIVER *** [6d 3d 4s Tc] [Ks]
+*** SHOW DOWN ***
+Mahu2021: shows [Js As] (high card Ace)
+zozpit: shows [Ah 2s] (high card Ace - lower kicker)
+Mahu2021 collected 760 from pot
+zozpit finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 760 | Rake 0 
+Board [6d 3d 4s Tc Ks]
+Seat 1: zozpit (button) showed [Ah 2s] and lost with high card Ace
+Seat 2: Mahu2021 (small blind) showed [Js As] and won (760) with high card Ace
+Seat 3: portos8 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #249010569341: Tournament #3719280215, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/02/21 18:10:08 CET [2024/02/21 12:10:08 ET]
+Table '3719280215 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (1170 in chips) 
+Seat 3: portos8 (330 in chips) 
+portos8: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h 9s]
+portos8: calls 15
+Mahu2021: raises 90 to 120
+portos8: calls 90
+*** FLOP *** [Ts Qd Jc]
+Mahu2021: bets 1050 and is all-in
+portos8: calls 210 and is all-in
+Uncalled bet (840) returned to Mahu2021
+*** TURN *** [Ts Qd Jc] [8c]
+*** RIVER *** [Ts Qd Jc 8c] [Jh]
+*** SHOW DOWN ***
+Mahu2021: shows [9h 9s] (a straight, Eight to Queen)
+portos8: shows [9c Th] (a straight, Eight to Queen)
+Mahu2021 collected 330 from pot
+portos8 collected 330 from pot
+*** SUMMARY ***
+Total pot 660 | Rake 0 
+Board [Ts Qd Jc 8c Jh]
+Seat 2: Mahu2021 (big blind) showed [9h 9s] and won (330) with a straight, Eight to Queen
+Seat 3: portos8 (button) (small blind) showed [9c Th] and won (330) with a straight, Eight to Queen
+
+
+
+PokerStars Hand #249010578116: Tournament #3719280215, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/02/21 18:10:39 CET [2024/02/21 12:10:39 ET]
+Table '3719280215 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (1170 in chips) 
+Seat 3: portos8 (330 in chips) 
+Mahu2021: posts small blind 15
+portos8: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s 7c]
+Mahu2021: folds 
+Uncalled bet (15) returned to portos8
+portos8 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: portos8 (big blind) collected (30)
+
+
+
+PokerStars Hand #249010579417: Tournament #3719280215, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/02/21 18:10:44 CET [2024/02/21 12:10:44 ET]
+Table '3719280215 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (1155 in chips) 
+Seat 3: portos8 (345 in chips) 
+portos8: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2s Ts]
+portos8: raises 60 to 90
+Mahu2021: folds 
+Uncalled bet (60) returned to portos8
+portos8 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: portos8 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #249010581123: Tournament #3719280215, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/02/21 18:10:50 CET [2024/02/21 12:10:50 ET]
+Table '3719280215 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (1125 in chips) 
+Seat 3: portos8 (375 in chips) 
+Mahu2021: posts small blind 15
+portos8: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah 6h]
+Mahu2021: raises 60 to 90
+portos8: calls 60
+*** FLOP *** [As 9s Ks]
+portos8: bets 180
+Mahu2021: folds 
+Uncalled bet (180) returned to portos8
+portos8 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [As 9s Ks]
+Seat 2: Mahu2021 (button) (small blind) folded on the Flop
+Seat 3: portos8 (big blind) collected (180)
+
+
+
+PokerStars Hand #249010587529: Tournament #3719280215, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/02/21 18:11:12 CET [2024/02/21 12:11:12 ET]
+Table '3719280215 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (1035 in chips) 
+Seat 3: portos8 (465 in chips) 
+portos8: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4c 8h]
+portos8: raises 60 to 90
+Mahu2021: folds 
+Uncalled bet (60) returned to portos8
+portos8 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: portos8 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #249010589572: Tournament #3719280215, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/02/21 18:11:19 CET [2024/02/21 12:11:19 ET]
+Table '3719280215 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (1005 in chips) 
+Seat 3: portos8 (495 in chips) 
+Mahu2021: posts small blind 15
+portos8: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh 4s]
+Mahu2021: raises 60 to 90
+portos8: calls 60
+*** FLOP *** [4c 2d 9d]
+portos8: bets 90
+Mahu2021: raises 825 to 915 and is all-in
+portos8: calls 315 and is all-in
+Uncalled bet (510) returned to Mahu2021
+*** TURN *** [4c 2d 9d] [7d]
+*** RIVER *** [4c 2d 9d 7d] [3h]
+*** SHOW DOWN ***
+portos8: shows [Ac Jh] (high card Ace)
+Mahu2021: shows [Kh 4s] (a pair of Fours)
+Mahu2021 collected 990 from pot
+portos8 finished the tournament in 2nd place
+Mahu2021 wins the tournament and receives $4.00 - congratulations!
+*** SUMMARY ***
+Total pot 990 | Rake 0 
+Board [4c 2d 9d 7d 3h]
+Seat 2: Mahu2021 (button) (small blind) showed [Kh 4s] and won (990) with a pair of Fours
+Seat 3: portos8 (big blind) showed [Ac Jh] and lost with high card Ace
+
+
+

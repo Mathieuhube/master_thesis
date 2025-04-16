@@ -1,0 +1,349 @@
+﻿PokerStars Hand #249526543565: Tournament #3731325060, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/03/20 18:12:54 CET [2024/03/20 13:12:54 ET]
+Table '3731325060 1' 3-max Seat #1 is the button
+Seat 1: sneglen45 (500 in chips) 
+Seat 2: 006dk (500 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+006dk: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6h Jc]
+sneglen45: folds 
+006dk: folds 
+Uncalled bet (10) returned to Mahu2021
+Mahu2021 collected 20 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: sneglen45 (button) folded before Flop (didn't bet)
+Seat 2: 006dk (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (20)
+
+
+
+PokerStars Hand #249526545052: Tournament #3731325060, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/03/20 18:13:00 CET [2024/03/20 13:13:00 ET]
+Table '3731325060 1' 3-max Seat #2 is the button
+Seat 1: sneglen45 (500 in chips) 
+Seat 2: 006dk (490 in chips) 
+Seat 3: Mahu2021 (510 in chips) 
+Mahu2021: posts small blind 10
+sneglen45: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h Ac]
+006dk: raises 24 to 44
+Mahu2021: folds 
+sneglen45: raises 456 to 500 and is all-in
+006dk: folds 
+Uncalled bet (456) returned to sneglen45
+sneglen45 collected 98 from pot
+*** SUMMARY ***
+Total pot 98 | Rake 0 
+Seat 1: sneglen45 (big blind) collected (98)
+Seat 2: 006dk (button) folded before Flop
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #249526549347: Tournament #3731325060, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/03/20 18:13:16 CET [2024/03/20 13:13:16 ET]
+Table '3731325060 1' 3-max Seat #3 is the button
+Seat 1: sneglen45 (554 in chips) 
+Seat 2: 006dk (446 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+sneglen45: posts small blind 10
+006dk: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4d 8s]
+Mahu2021: folds 
+sneglen45: folds 
+Uncalled bet (10) returned to 006dk
+006dk collected 20 from pot
+006dk: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: sneglen45 (small blind) folded before Flop
+Seat 2: 006dk (big blind) collected (20)
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #249526556037: Tournament #3731325060, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/03/20 18:13:40 CET [2024/03/20 13:13:40 ET]
+Table '3731325060 1' 3-max Seat #1 is the button
+Seat 1: sneglen45 (544 in chips) 
+Seat 2: 006dk (456 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+006dk: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qs As]
+sneglen45: folds 
+006dk: raises 20 to 40
+Mahu2021: calls 20
+*** FLOP *** [Ts Ad Tc]
+006dk: checks 
+Mahu2021: bets 40
+006dk: calls 40
+*** TURN *** [Ts Ad Tc] [5c]
+006dk: checks 
+Mahu2021: checks 
+*** RIVER *** [Ts Ad Tc 5c] [Jd]
+006dk: bets 80
+Mahu2021: calls 80
+*** SHOW DOWN ***
+006dk: shows [7h Th] (three of a kind, Tens)
+Mahu2021: mucks hand 
+006dk collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [Ts Ad Tc 5c Jd]
+Seat 1: sneglen45 (button) folded before Flop (didn't bet)
+Seat 2: 006dk (small blind) showed [7h Th] and won (320) with three of a kind, Tens
+Seat 3: Mahu2021 (big blind) mucked [Qs As]
+
+
+
+PokerStars Hand #249526565079: Tournament #3731325060, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/03/20 18:14:13 CET [2024/03/20 13:14:13 ET]
+Table '3731325060 1' 3-max Seat #2 is the button
+Seat 1: sneglen45 (544 in chips) 
+Seat 2: 006dk (616 in chips) 
+Seat 3: Mahu2021 (340 in chips) 
+Mahu2021: posts small blind 10
+sneglen45: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h 6h]
+006dk: folds 
+Mahu2021: calls 10
+sneglen45: checks 
+*** FLOP *** [Ks 8s 5s]
+Mahu2021: checks 
+sneglen45: checks 
+*** TURN *** [Ks 8s 5s] [9d]
+Mahu2021: checks 
+sneglen45: checks 
+*** RIVER *** [Ks 8s 5s 9d] [7s]
+Mahu2021: bets 40
+sneglen45: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Ks 8s 5s 9d 7s]
+Seat 1: sneglen45 (big blind) folded on the River
+Seat 2: 006dk (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) collected (40)
+
+
+
+PokerStars Hand #249526571577: Tournament #3731325060, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/03/20 18:14:37 CET [2024/03/20 13:14:37 ET]
+Table '3731325060 1' 3-max Seat #3 is the button
+Seat 1: sneglen45 (524 in chips) 
+Seat 2: 006dk (616 in chips) 
+Seat 3: Mahu2021 (360 in chips) 
+sneglen45: posts small blind 10
+006dk: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac 8d]
+Mahu2021: raises 20 to 40
+sneglen45: folds 
+006dk: calls 20
+*** FLOP *** [Kc 3s 9h]
+006dk: checks 
+Mahu2021: checks 
+*** TURN *** [Kc 3s 9h] [4c]
+006dk: bets 56
+Mahu2021: folds 
+Uncalled bet (56) returned to 006dk
+006dk collected 90 from pot
+006dk: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [Kc 3s 9h 4c]
+Seat 1: sneglen45 (small blind) folded before Flop
+Seat 2: 006dk (big blind) collected (90)
+Seat 3: Mahu2021 (button) folded on the Turn
+
+
+
+PokerStars Hand #249526578144: Tournament #3731325060, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/20 18:15:01 CET [2024/03/20 13:15:01 ET]
+Table '3731325060 1' 3-max Seat #1 is the button
+Seat 1: sneglen45 (514 in chips) 
+Seat 2: 006dk (666 in chips) 
+Seat 3: Mahu2021 (320 in chips) 
+006dk: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d 4c]
+sneglen45: raises 30 to 60
+006dk: folds 
+Mahu2021: folds 
+Uncalled bet (30) returned to sneglen45
+sneglen45 collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: sneglen45 (button) collected (75)
+Seat 2: 006dk (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #249526580007: Tournament #3731325060, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/20 18:15:08 CET [2024/03/20 13:15:08 ET]
+Table '3731325060 1' 3-max Seat #2 is the button
+Seat 1: sneglen45 (559 in chips) 
+Seat 2: 006dk (651 in chips) 
+Seat 3: Mahu2021 (290 in chips) 
+Mahu2021: posts small blind 15
+sneglen45: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c 6s]
+006dk: calls 30
+Mahu2021: folds 
+sneglen45: checks 
+*** FLOP *** [Kc 3c 2d]
+sneglen45: checks 
+006dk: checks 
+*** TURN *** [Kc 3c 2d] [9h]
+sneglen45: checks 
+006dk: checks 
+*** RIVER *** [Kc 3c 2d 9h] [7d]
+sneglen45: checks 
+006dk: checks 
+*** SHOW DOWN ***
+sneglen45: shows [4c Tc] (high card King)
+006dk: shows [Js Qh] (high card King - Queen kicker)
+006dk collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Board [Kc 3c 2d 9h 7d]
+Seat 1: sneglen45 (big blind) showed [4c Tc] and lost with high card King
+Seat 2: 006dk (button) showed [Js Qh] and won (75) with high card King
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #249526584762: Tournament #3731325060, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/20 18:15:25 CET [2024/03/20 13:15:25 ET]
+Table '3731325060 1' 3-max Seat #3 is the button
+Seat 1: sneglen45 (529 in chips) 
+Seat 2: 006dk (696 in chips) 
+Seat 3: Mahu2021 (275 in chips) 
+sneglen45: posts small blind 15
+006dk: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s 5c]
+Mahu2021: folds 
+sneglen45: folds 
+Uncalled bet (15) returned to 006dk
+006dk collected 30 from pot
+006dk: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: sneglen45 (small blind) folded before Flop
+Seat 2: 006dk (big blind) collected (30)
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #249526586135: Tournament #3731325060, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/20 18:15:30 CET [2024/03/20 13:15:30 ET]
+Table '3731325060 1' 3-max Seat #1 is the button
+Seat 1: sneglen45 (514 in chips) 
+Seat 2: 006dk (711 in chips) 
+Seat 3: Mahu2021 (275 in chips) 
+006dk: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js 8d]
+sneglen45: folds 
+006dk: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: sneglen45 (button) folded before Flop (didn't bet)
+Seat 2: 006dk (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (30)
+
+
+
+PokerStars Hand #249526587588: Tournament #3731325060, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/20 18:15:36 CET [2024/03/20 13:15:36 ET]
+Table '3731325060 1' 3-max Seat #2 is the button
+Seat 1: sneglen45 (514 in chips) 
+Seat 2: 006dk (696 in chips) 
+Seat 3: Mahu2021 (290 in chips) 
+Mahu2021: posts small blind 15
+sneglen45: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d 4h]
+006dk: raises 36 to 66
+Mahu2021: folds 
+sneglen45: calls 36
+*** FLOP *** [Qh 2h Ac]
+sneglen45: checks 
+006dk: bets 30
+sneglen45: folds 
+Uncalled bet (30) returned to 006dk
+006dk collected 147 from pot
+006dk: doesn't show hand 
+*** SUMMARY ***
+Total pot 147 | Rake 0 
+Board [Qh 2h Ac]
+Seat 1: sneglen45 (big blind) folded on the Flop
+Seat 2: 006dk (button) collected (147)
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #249526592456: Tournament #3731325060, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/20 18:15:54 CET [2024/03/20 13:15:54 ET]
+Table '3731325060 1' 3-max Seat #3 is the button
+Seat 1: sneglen45 (448 in chips) 
+Seat 2: 006dk (777 in chips) 
+Seat 3: Mahu2021 (275 in chips) 
+sneglen45: posts small blind 15
+006dk: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d 5d]
+Mahu2021: folds 
+sneglen45: calls 15
+006dk: raises 60 to 90
+sneglen45: folds 
+Uncalled bet (60) returned to 006dk
+006dk collected 60 from pot
+006dk: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: sneglen45 (small blind) folded before Flop
+Seat 2: 006dk (big blind) collected (60)
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #249526595205: Tournament #3731325060, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/20 18:16:04 CET [2024/03/20 13:16:04 ET]
+Table '3731325060 1' 3-max Seat #1 is the button
+Seat 1: sneglen45 (418 in chips) 
+Seat 2: 006dk (807 in chips) 
+Seat 3: Mahu2021 (275 in chips) 
+006dk: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc Kc]
+sneglen45: folds 
+006dk: raises 36 to 66
+Mahu2021: calls 36
+*** FLOP *** [Ts 8s Qh]
+006dk: bets 51
+Mahu2021: raises 158 to 209 and is all-in
+006dk: calls 158
+*** TURN *** [Ts 8s Qh] [Qc]
+*** RIVER *** [Ts 8s Qh Qc] [8c]
+*** SHOW DOWN ***
+006dk: shows [Jh Th] (two pair, Queens and Tens)
+Mahu2021: shows [Jc Kc] (two pair, Queens and Eights)
+006dk collected 550 from pot
+Mahu2021 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 550 | Rake 0 
+Board [Ts 8s Qh Qc 8c]
+Seat 1: sneglen45 (button) folded before Flop (didn't bet)
+Seat 2: 006dk (small blind) showed [Jh Th] and won (550) with two pair, Queens and Tens
+Seat 3: Mahu2021 (big blind) showed [Jc Kc] and lost with two pair, Queens and Eights
+
+
+

@@ -1,0 +1,44 @@
+﻿PokerStars Zoom Hand #254605541664:  Hold'em No Limit ($0.05/$0.10) - 2025/01/29 13:48:38 CET [2025/01/29 7:48:38 ET]
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: taka736 ($10.50 in chips) 
+Seat 2: kostil383 ($11 in chips) 
+Seat 3: Mahu2021 ($10 in chips) 
+Seat 4: siim55 ($11.18 in chips) 
+Seat 5: Cle0patr4 ($10 in chips) 
+Seat 6: keirin459 ($11.23 in chips) 
+kostil383: posts small blind $0.05
+Mahu2021: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d Kd]
+siim55: folds 
+Cle0patr4 has timed out
+Cle0patr4: folds 
+keirin459: folds 
+taka736: folds 
+kostil383: raises $0.10 to $0.20
+Mahu2021: calls $0.10
+*** FLOP *** [Kc 5c 8h]
+kostil383: bets $0.19
+Mahu2021: calls $0.19
+*** TURN *** [Kc 5c 8h] [Qh]
+kostil383: bets $0.37
+Mahu2021: calls $0.37
+*** RIVER *** [Kc 5c 8h Qh] [Ks]
+kostil383: bets $1.50
+Mahu2021: calls $1.50
+*** SHOW DOWN ***
+kostil383: shows [As 6h] (a pair of Kings)
+Mahu2021: shows [9d Kd] (three of a kind, Kings)
+Mahu2021 collected $4.32 from pot
+*** SUMMARY ***
+Total pot $4.52 | Rake $0.20 
+Board [Kc 5c 8h Qh Ks]
+Seat 1: taka736 (button) folded before Flop (didn't bet)
+Seat 2: kostil383 (small blind) showed [As 6h] and lost with a pair of Kings
+Seat 3: Mahu2021 (big blind) showed [9d Kd] and won ($4.32) with three of a kind, Kings
+Seat 4: siim55 folded before Flop (didn't bet)
+Seat 5: Cle0patr4 folded before Flop (didn't bet)
+Seat 6: keirin459 folded before Flop (didn't bet)
+
+
+

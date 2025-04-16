@@ -1,0 +1,992 @@
+﻿PokerStars Hand #253148378104: Tournament #3817552773, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/28 22:45:12 CET [2024/10/28 17:45:12 ET]
+Table '3817552773 1' 3-max Seat #1 is the button
+Seat 1: rares_241 (500 in chips) 
+Seat 2: rrockrr (500 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+rrockrr: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h Ks]
+rares_241: raises 480 to 500 and is all-in
+rrockrr: folds 
+Mahu2021: folds 
+Uncalled bet (480) returned to rares_241
+rares_241 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: rares_241 (button) collected (50)
+Seat 2: rrockrr (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #253148380720: Tournament #3817552773, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/28 22:45:22 CET [2024/10/28 17:45:22 ET]
+Table '3817552773 1' 3-max Seat #2 is the button
+Seat 1: rares_241 (530 in chips) 
+Seat 2: rrockrr (490 in chips) 
+Seat 3: Mahu2021 (480 in chips) 
+Mahu2021: posts small blind 10
+rares_241: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h 3c]
+rrockrr: calls 20
+Mahu2021: folds 
+rares_241: raises 510 to 530 and is all-in
+rrockrr: calls 470 and is all-in
+Uncalled bet (40) returned to rares_241
+*** FLOP *** [8s Qd Ts]
+*** TURN *** [8s Qd Ts] [3s]
+*** RIVER *** [8s Qd Ts 3s] [Jc]
+*** SHOW DOWN ***
+rares_241: shows [Kh Ad] (a straight, Ten to Ace)
+rrockrr: shows [Js Jh] (three of a kind, Jacks)
+rares_241 collected 990 from pot
+rrockrr finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 990 | Rake 0 
+Board [8s Qd Ts 3s Jc]
+Seat 1: rares_241 (big blind) showed [Kh Ad] and won (990) with a straight, Ten to Ace
+Seat 2: rrockrr (button) showed [Js Jh] and lost with three of a kind, Jacks
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #253148385555: Tournament #3817552773, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/28 22:45:41 CET [2024/10/28 17:45:41 ET]
+Table '3817552773 1' 3-max Seat #1 is the button
+Seat 1: rares_241 (1030 in chips) 
+Seat 3: Mahu2021 (470 in chips) 
+rares_241: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc Ks]
+rares_241: raises 20 to 40
+Mahu2021: calls 20
+*** FLOP *** [2c 5c Ah]
+Mahu2021: checks 
+rares_241: bets 40
+Mahu2021: folds 
+Uncalled bet (40) returned to rares_241
+rares_241 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [2c 5c Ah]
+Seat 1: rares_241 (button) (small blind) collected (80)
+Seat 3: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #253148388634: Tournament #3817552773, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/28 22:45:53 CET [2024/10/28 17:45:53 ET]
+Table '3817552773 1' 3-max Seat #3 is the button
+Seat 1: rares_241 (1070 in chips) 
+Seat 3: Mahu2021 (430 in chips) 
+Mahu2021: posts small blind 10
+rares_241: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h 5c]
+Mahu2021: folds 
+Uncalled bet (10) returned to rares_241
+rares_241 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: rares_241 (big blind) collected (20)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #253148389871: Tournament #3817552773, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/28 22:45:57 CET [2024/10/28 17:45:57 ET]
+Table '3817552773 1' 3-max Seat #1 is the button
+Seat 1: rares_241 (1080 in chips) 
+Seat 3: Mahu2021 (420 in chips) 
+rares_241: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c 7d]
+rares_241: raises 20 to 40
+Mahu2021: calls 20
+*** FLOP *** [4c 2h 2d]
+Mahu2021: checks 
+rares_241: checks 
+*** TURN *** [4c 2h 2d] [Td]
+Mahu2021: checks 
+rares_241: checks 
+*** RIVER *** [4c 2h 2d Td] [Qs]
+Mahu2021: checks 
+rares_241: bets 20
+Mahu2021: folds 
+Uncalled bet (20) returned to rares_241
+rares_241 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [4c 2h 2d Td Qs]
+Seat 1: rares_241 (button) (small blind) collected (80)
+Seat 3: Mahu2021 (big blind) folded on the River
+
+
+
+PokerStars Hand #253148393824: Tournament #3817552773, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/28 22:46:12 CET [2024/10/28 17:46:12 ET]
+Table '3817552773 1' 3-max Seat #3 is the button
+Seat 1: rares_241 (1120 in chips) 
+Seat 3: Mahu2021 (380 in chips) 
+Mahu2021: posts small blind 10
+rares_241: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h 2d]
+Mahu2021: folds 
+Uncalled bet (10) returned to rares_241
+rares_241 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: rares_241 (big blind) collected (20)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #253148395055: Tournament #3817552773, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/28 22:46:17 CET [2024/10/28 17:46:17 ET]
+Table '3817552773 1' 3-max Seat #1 is the button
+Seat 1: rares_241 (1130 in chips) 
+Seat 3: Mahu2021 (370 in chips) 
+rares_241: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8d Qc]
+rares_241: calls 10
+Mahu2021: checks 
+*** FLOP *** [2s 7h 3c]
+Mahu2021: checks 
+rares_241: checks 
+*** TURN *** [2s 7h 3c] [2h]
+Mahu2021: checks 
+rares_241: checks 
+*** RIVER *** [2s 7h 3c 2h] [9c]
+Mahu2021: checks 
+rares_241: bets 20
+Mahu2021: folds 
+Uncalled bet (20) returned to rares_241
+rares_241 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [2s 7h 3c 2h 9c]
+Seat 1: rares_241 (button) (small blind) collected (40)
+Seat 3: Mahu2021 (big blind) folded on the River
+
+
+
+PokerStars Hand #253148399157: Tournament #3817552773, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/28 22:46:33 CET [2024/10/28 17:46:33 ET]
+Table '3817552773 1' 3-max Seat #3 is the button
+Seat 1: rares_241 (1150 in chips) 
+Seat 3: Mahu2021 (350 in chips) 
+Mahu2021: posts small blind 10
+rares_241: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8d Jc]
+Mahu2021: raises 20 to 40
+rares_241: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: rares_241 (big blind) folded before Flop
+Seat 3: Mahu2021 (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #253148400875: Tournament #3817552773, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/28 22:46:40 CET [2024/10/28 17:46:40 ET]
+Table '3817552773 1' 3-max Seat #1 is the button
+Seat 1: rares_241 (1130 in chips) 
+Seat 3: Mahu2021 (370 in chips) 
+rares_241: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d Qc]
+rares_241: raises 20 to 40
+Mahu2021: calls 20
+*** FLOP *** [6d 8d Ks]
+Mahu2021: checks 
+rares_241: bets 20
+Mahu2021: folds 
+Uncalled bet (20) returned to rares_241
+rares_241 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [6d 8d Ks]
+Seat 1: rares_241 (button) (small blind) collected (80)
+Seat 3: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #253148403482: Tournament #3817552773, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/28 22:46:50 CET [2024/10/28 17:46:50 ET]
+Table '3817552773 1' 3-max Seat #3 is the button
+Seat 1: rares_241 (1170 in chips) 
+Seat 3: Mahu2021 (330 in chips) 
+Mahu2021: posts small blind 10
+rares_241: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5h 9c]
+Mahu2021: folds 
+Uncalled bet (10) returned to rares_241
+rares_241 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: rares_241 (big blind) collected (20)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #253148404672: Tournament #3817552773, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/28 22:46:54 CET [2024/10/28 17:46:54 ET]
+Table '3817552773 1' 3-max Seat #1 is the button
+Seat 1: rares_241 (1180 in chips) 
+Seat 3: Mahu2021 (320 in chips) 
+rares_241: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h 8d]
+rares_241: raises 20 to 40
+Mahu2021: folds 
+Uncalled bet (20) returned to rares_241
+rares_241 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: rares_241 (button) (small blind) collected (40)
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #253148406077: Tournament #3817552773, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/28 22:47:00 CET [2024/10/28 17:47:00 ET]
+Table '3817552773 1' 3-max Seat #3 is the button
+Seat 1: rares_241 (1200 in chips) 
+Seat 3: Mahu2021 (300 in chips) 
+Mahu2021: posts small blind 10
+rares_241: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h 6c]
+Mahu2021: folds 
+Uncalled bet (10) returned to rares_241
+rares_241 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: rares_241 (big blind) collected (20)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #253148407201: Tournament #3817552773, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/28 22:47:04 CET [2024/10/28 17:47:04 ET]
+Table '3817552773 1' 3-max Seat #1 is the button
+Seat 1: rares_241 (1210 in chips) 
+Seat 3: Mahu2021 (290 in chips) 
+rares_241: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts 6d]
+rares_241: calls 10
+Mahu2021: checks 
+*** FLOP *** [Jc Ac 4s]
+Mahu2021: checks 
+rares_241: bets 20
+Mahu2021: folds 
+Uncalled bet (20) returned to rares_241
+rares_241 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Jc Ac 4s]
+Seat 1: rares_241 (button) (small blind) collected (40)
+Seat 3: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #253148410630: Tournament #3817552773, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/28 22:47:17 CET [2024/10/28 17:47:17 ET]
+Table '3817552773 1' 3-max Seat #3 is the button
+Seat 1: rares_241 (1230 in chips) 
+Seat 3: Mahu2021 (270 in chips) 
+Mahu2021: posts small blind 15
+rares_241: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc As]
+Mahu2021: raises 30 to 60
+rares_241: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: rares_241 (big blind) folded before Flop
+Seat 3: Mahu2021 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #253148412303: Tournament #3817552773, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/28 22:47:24 CET [2024/10/28 17:47:24 ET]
+Table '3817552773 1' 3-max Seat #1 is the button
+Seat 1: rares_241 (1200 in chips) 
+Seat 3: Mahu2021 (300 in chips) 
+rares_241: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac 4h]
+rares_241: calls 15
+Mahu2021: raises 270 to 300 and is all-in
+rares_241: folds 
+Uncalled bet (270) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: rares_241 (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (60)
+
+
+
+PokerStars Hand #253148414376: Tournament #3817552773, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/28 22:47:32 CET [2024/10/28 17:47:32 ET]
+Table '3817552773 1' 3-max Seat #3 is the button
+Seat 1: rares_241 (1170 in chips) 
+Seat 3: Mahu2021 (330 in chips) 
+Mahu2021: posts small blind 15
+rares_241: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4c Jh]
+Mahu2021: raises 30 to 60
+rares_241: raises 1110 to 1170 and is all-in
+Mahu2021: folds 
+Uncalled bet (1110) returned to rares_241
+rares_241 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: rares_241 (big blind) collected (120)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #253148416601: Tournament #3817552773, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/28 22:47:40 CET [2024/10/28 17:47:40 ET]
+Table '3817552773 1' 3-max Seat #1 is the button
+Seat 1: rares_241 (1230 in chips) 
+Seat 3: Mahu2021 (270 in chips) 
+rares_241: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h Jh]
+rares_241: calls 15
+Mahu2021: checks 
+*** FLOP *** [6s 9h 9s]
+Mahu2021: checks 
+rares_241: checks 
+*** TURN *** [6s 9h 9s] [2d]
+Mahu2021: checks 
+rares_241: checks 
+*** RIVER *** [6s 9h 9s 2d] [Qd]
+Mahu2021: checks 
+rares_241: bets 60
+Mahu2021: folds 
+Uncalled bet (60) returned to rares_241
+rares_241 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [6s 9h 9s 2d Qd]
+Seat 1: rares_241 (button) (small blind) collected (60)
+Seat 3: Mahu2021 (big blind) folded on the River
+
+
+
+PokerStars Hand #253148421079: Tournament #3817552773, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/28 22:47:57 CET [2024/10/28 17:47:57 ET]
+Table '3817552773 1' 3-max Seat #3 is the button
+Seat 1: rares_241 (1260 in chips) 
+Seat 3: Mahu2021 (240 in chips) 
+Mahu2021: posts small blind 15
+rares_241: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd Ac]
+Mahu2021: raises 30 to 60
+rares_241: calls 30
+*** FLOP *** [6s Kh 6h]
+rares_241: checks 
+Mahu2021: checks 
+*** TURN *** [6s Kh 6h] [Qs]
+rares_241: checks 
+Mahu2021: checks 
+*** RIVER *** [6s Kh 6h Qs] [Th]
+rares_241: checks 
+Mahu2021: bets 60
+rares_241: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [6s Kh 6h Qs Th]
+Seat 1: rares_241 (big blind) folded on the River
+Seat 3: Mahu2021 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #253148426872: Tournament #3817552773, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/28 22:48:20 CET [2024/10/28 17:48:20 ET]
+Table '3817552773 1' 3-max Seat #1 is the button
+Seat 1: rares_241 (1200 in chips) 
+Seat 3: Mahu2021 (300 in chips) 
+rares_241: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s 2d]
+rares_241: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: rares_241 (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (30)
+
+
+
+PokerStars Hand #253148428071: Tournament #3817552773, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/28 22:48:24 CET [2024/10/28 17:48:24 ET]
+Table '3817552773 1' 3-max Seat #3 is the button
+Seat 1: rares_241 (1185 in chips) 
+Seat 3: Mahu2021 (315 in chips) 
+Mahu2021: posts small blind 15
+rares_241: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s Td]
+Mahu2021: calls 15
+rares_241: checks 
+*** FLOP *** [Th 3s Jc]
+rares_241: bets 30
+Mahu2021: calls 30
+*** TURN *** [Th 3s Jc] [Jh]
+rares_241: checks 
+Mahu2021: checks 
+*** RIVER *** [Th 3s Jc Jh] [8c]
+rares_241: checks 
+Mahu2021: bets 60
+rares_241: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Th 3s Jc Jh 8c]
+Seat 1: rares_241 (big blind) folded on the River
+Seat 3: Mahu2021 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #253148432424: Tournament #3817552773, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/28 22:48:42 CET [2024/10/28 17:48:42 ET]
+Table '3817552773 1' 3-max Seat #1 is the button
+Seat 1: rares_241 (1125 in chips) 
+Seat 3: Mahu2021 (375 in chips) 
+rares_241: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qd Qh]
+rares_241: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: rares_241 (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (30)
+
+
+
+PokerStars Hand #253148433607: Tournament #3817552773, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/28 22:48:46 CET [2024/10/28 17:48:46 ET]
+Table '3817552773 1' 3-max Seat #3 is the button
+Seat 1: rares_241 (1110 in chips) 
+Seat 3: Mahu2021 (390 in chips) 
+Mahu2021: posts small blind 15
+rares_241: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d 2h]
+Mahu2021: raises 30 to 60
+rares_241: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: rares_241 (big blind) folded before Flop
+Seat 3: Mahu2021 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #253148435309: Tournament #3817552773, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/28 22:48:53 CET [2024/10/28 17:48:53 ET]
+Table '3817552773 1' 3-max Seat #1 is the button
+Seat 1: rares_241 (1080 in chips) 
+Seat 3: Mahu2021 (420 in chips) 
+rares_241: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s 6s]
+rares_241: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: rares_241 (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (30)
+
+
+
+PokerStars Hand #253148436449: Tournament #3817552773, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/28 22:48:57 CET [2024/10/28 17:48:57 ET]
+Table '3817552773 1' 3-max Seat #3 is the button
+Seat 1: rares_241 (1065 in chips) 
+Seat 3: Mahu2021 (435 in chips) 
+Mahu2021: posts small blind 15
+rares_241: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h 7s]
+Mahu2021: raises 30 to 60
+rares_241: raises 1005 to 1065 and is all-in
+Mahu2021: calls 375 and is all-in
+Uncalled bet (630) returned to rares_241
+*** FLOP *** [5d 6h Qc]
+*** TURN *** [5d 6h Qc] [8c]
+*** RIVER *** [5d 6h Qc 8c] [Qs]
+*** SHOW DOWN ***
+rares_241: shows [Ah Jh] (a pair of Queens)
+Mahu2021: shows [7h 7s] (two pair, Queens and Sevens)
+Mahu2021 collected 870 from pot
+*** SUMMARY ***
+Total pot 870 | Rake 0 
+Board [5d 6h Qc 8c Qs]
+Seat 1: rares_241 (big blind) showed [Ah Jh] and lost with a pair of Queens
+Seat 3: Mahu2021 (button) (small blind) showed [7h 7s] and won (870) with two pair, Queens and Sevens
+
+
+
+PokerStars Hand #253148440102: Tournament #3817552773, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/28 22:49:11 CET [2024/10/28 17:49:11 ET]
+Table '3817552773 1' 3-max Seat #1 is the button
+Seat 1: rares_241 (630 in chips) 
+Seat 3: Mahu2021 (870 in chips) 
+rares_241: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks 4d]
+rares_241: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: rares_241 (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (30)
+
+
+
+PokerStars Hand #253148442568: Tournament #3817552773, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/10/28 22:49:21 CET [2024/10/28 17:49:21 ET]
+Table '3817552773 1' 3-max Seat #3 is the button
+Seat 1: rares_241 (615 in chips) 
+Seat 3: Mahu2021 (885 in chips) 
+Mahu2021: posts small blind 20
+rares_241: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h 5c]
+Mahu2021: raises 40 to 80
+rares_241: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: rares_241 (big blind) folded before Flop
+Seat 3: Mahu2021 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #253148444371: Tournament #3817552773, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/10/28 22:49:28 CET [2024/10/28 17:49:28 ET]
+Table '3817552773 1' 3-max Seat #1 is the button
+Seat 1: rares_241 (575 in chips) 
+Seat 3: Mahu2021 (925 in chips) 
+rares_241: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js 4c]
+rares_241: raises 40 to 80
+Mahu2021: calls 40
+*** FLOP *** [Qd Ks Ad]
+Mahu2021: checks 
+rares_241: bets 40
+Mahu2021: calls 40
+*** TURN *** [Qd Ks Ad] [5s]
+Mahu2021: checks 
+rares_241: bets 40
+Mahu2021: raises 120 to 160
+rares_241: calls 120
+*** RIVER *** [Qd Ks Ad 5s] [Th]
+Mahu2021: bets 645 and is all-in
+rares_241: folds 
+Uncalled bet (645) returned to Mahu2021
+Mahu2021 collected 560 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 560 | Rake 0 
+Board [Qd Ks Ad 5s Th]
+Seat 1: rares_241 (button) (small blind) folded on the River
+Seat 3: Mahu2021 (big blind) collected (560)
+
+
+
+PokerStars Hand #253148450229: Tournament #3817552773, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/10/28 22:49:51 CET [2024/10/28 17:49:51 ET]
+Table '3817552773 1' 3-max Seat #3 is the button
+Seat 1: rares_241 (295 in chips) 
+Seat 3: Mahu2021 (1205 in chips) 
+Mahu2021: posts small blind 20
+rares_241: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s Ks]
+Mahu2021: raises 40 to 80
+rares_241: raises 215 to 295 and is all-in
+Mahu2021: calls 215
+*** FLOP *** [Js 4c 2s]
+*** TURN *** [Js 4c 2s] [Ad]
+*** RIVER *** [Js 4c 2s Ad] [4d]
+*** SHOW DOWN ***
+rares_241: shows [Ah Kh] (two pair, Aces and Fours)
+Mahu2021: shows [3s Ks] (a pair of Fours)
+rares_241 collected 590 from pot
+*** SUMMARY ***
+Total pot 590 | Rake 0 
+Board [Js 4c 2s Ad 4d]
+Seat 1: rares_241 (big blind) showed [Ah Kh] and won (590) with two pair, Aces and Fours
+Seat 3: Mahu2021 (button) (small blind) showed [3s Ks] and lost with a pair of Fours
+
+
+
+PokerStars Hand #253148453821: Tournament #3817552773, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/10/28 22:50:04 CET [2024/10/28 17:50:04 ET]
+Table '3817552773 1' 3-max Seat #1 is the button
+Seat 1: rares_241 (590 in chips) 
+Seat 3: Mahu2021 (910 in chips) 
+rares_241: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h 9d]
+rares_241: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: rares_241 (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (40)
+
+
+
+PokerStars Hand #253148455578: Tournament #3817552773, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/10/28 22:50:11 CET [2024/10/28 17:50:11 ET]
+Table '3817552773 1' 3-max Seat #3 is the button
+Seat 1: rares_241 (570 in chips) 
+Seat 3: Mahu2021 (930 in chips) 
+Mahu2021: posts small blind 20
+rares_241: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s 8d]
+Mahu2021: raises 40 to 80
+rares_241: raises 490 to 570 and is all-in
+Mahu2021: folds 
+Uncalled bet (490) returned to rares_241
+rares_241 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Seat 1: rares_241 (big blind) collected (160)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #253148457584: Tournament #3817552773, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/10/28 22:50:19 CET [2024/10/28 17:50:19 ET]
+Table '3817552773 1' 3-max Seat #1 is the button
+Seat 1: rares_241 (650 in chips) 
+Seat 3: Mahu2021 (850 in chips) 
+rares_241: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d Td]
+rares_241: raises 610 to 650 and is all-in
+Mahu2021: folds 
+Uncalled bet (610) returned to rares_241
+rares_241 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: rares_241 (button) (small blind) collected (80)
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #253148459240: Tournament #3817552773, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/10/28 22:50:25 CET [2024/10/28 17:50:25 ET]
+Table '3817552773 1' 3-max Seat #3 is the button
+Seat 1: rares_241 (690 in chips) 
+Seat 3: Mahu2021 (810 in chips) 
+Mahu2021: posts small blind 20
+rares_241: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c 8s]
+Mahu2021: raises 40 to 80
+rares_241: calls 40
+*** FLOP *** [Kc 8d 5c]
+rares_241: checks 
+Mahu2021: bets 80
+rares_241: folds 
+Uncalled bet (80) returned to Mahu2021
+Mahu2021 collected 160 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Kc 8d 5c]
+Seat 1: rares_241 (big blind) folded on the Flop
+Seat 3: Mahu2021 (button) (small blind) collected (160)
+
+
+
+PokerStars Hand #253148462232: Tournament #3817552773, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/10/28 22:50:37 CET [2024/10/28 17:50:37 ET]
+Table '3817552773 1' 3-max Seat #1 is the button
+Seat 1: rares_241 (610 in chips) 
+Seat 3: Mahu2021 (890 in chips) 
+rares_241: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s Qc]
+rares_241: calls 20
+Mahu2021: checks 
+*** FLOP *** [8d As 2s]
+Mahu2021: checks 
+rares_241: checks 
+*** TURN *** [8d As 2s] [Ts]
+Mahu2021: checks 
+rares_241: checks 
+*** RIVER *** [8d As 2s Ts] [Tc]
+Mahu2021: checks 
+rares_241: bets 40
+Mahu2021: folds 
+Uncalled bet (40) returned to rares_241
+rares_241 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [8d As 2s Ts Tc]
+Seat 1: rares_241 (button) (small blind) collected (80)
+Seat 3: Mahu2021 (big blind) folded on the River
+
+
+
+PokerStars Hand #253148466286: Tournament #3817552773, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/10/28 22:50:52 CET [2024/10/28 17:50:52 ET]
+Table '3817552773 1' 3-max Seat #3 is the button
+Seat 1: rares_241 (650 in chips) 
+Seat 3: Mahu2021 (850 in chips) 
+Mahu2021: posts small blind 20
+rares_241: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc 3d]
+Mahu2021: raises 40 to 80
+rares_241: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: rares_241 (big blind) folded before Flop
+Seat 3: Mahu2021 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #253148467872: Tournament #3817552773, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/10/28 22:50:59 CET [2024/10/28 17:50:59 ET]
+Table '3817552773 1' 3-max Seat #1 is the button
+Seat 1: rares_241 (610 in chips) 
+Seat 3: Mahu2021 (890 in chips) 
+rares_241: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d Qh]
+rares_241: raises 40 to 80
+Mahu2021: calls 40
+*** FLOP *** [Qc 5s 8h]
+Mahu2021: checks 
+rares_241: bets 40
+Mahu2021: calls 40
+*** TURN *** [Qc 5s 8h] [4c]
+Mahu2021: checks 
+rares_241: checks 
+*** RIVER *** [Qc 5s 8h 4c] [2h]
+Mahu2021: bets 40
+rares_241: raises 160 to 200
+Mahu2021: calls 160
+*** SHOW DOWN ***
+rares_241: shows [4h 4s] (three of a kind, Fours)
+Mahu2021: mucks hand 
+rares_241 collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | Rake 0 
+Board [Qc 5s 8h 4c 2h]
+Seat 1: rares_241 (button) (small blind) showed [4h 4s] and won (640) with three of a kind, Fours
+Seat 3: Mahu2021 (big blind) mucked [5d Qh]
+
+
+
+PokerStars Hand #253148473372: Tournament #3817552773, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/10/28 22:51:20 CET [2024/10/28 17:51:20 ET]
+Table '3817552773 1' 3-max Seat #3 is the button
+Seat 1: rares_241 (930 in chips) 
+Seat 3: Mahu2021 (570 in chips) 
+Mahu2021: posts small blind 30
+rares_241: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d 3c]
+Mahu2021: folds 
+Uncalled bet (30) returned to rares_241
+rares_241 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: rares_241 (big blind) collected (60)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #253148474588: Tournament #3817552773, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/10/28 22:51:25 CET [2024/10/28 17:51:25 ET]
+Table '3817552773 1' 3-max Seat #1 is the button
+Seat 1: rares_241 (960 in chips) 
+Seat 3: Mahu2021 (540 in chips) 
+rares_241: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c Jh]
+rares_241: calls 30
+Mahu2021: checks 
+*** FLOP *** [Qs 7d 8h]
+Mahu2021: checks 
+rares_241: checks 
+*** TURN *** [Qs 7d 8h] [Ts]
+Mahu2021: checks 
+rares_241: checks 
+*** RIVER *** [Qs 7d 8h Ts] [9h]
+Mahu2021: bets 120
+rares_241: calls 120
+*** SHOW DOWN ***
+Mahu2021: shows [5c Jh] (a straight, Eight to Queen)
+rares_241: mucks hand 
+Mahu2021 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [Qs 7d 8h Ts 9h]
+Seat 1: rares_241 (button) (small blind) mucked [4h 6d]
+Seat 3: Mahu2021 (big blind) showed [5c Jh] and won (360) with a straight, Eight to Queen
+
+
+
+PokerStars Hand #253148480020: Tournament #3817552773, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/10/28 22:51:46 CET [2024/10/28 17:51:46 ET]
+Table '3817552773 1' 3-max Seat #3 is the button
+Seat 1: rares_241 (780 in chips) 
+Seat 3: Mahu2021 (720 in chips) 
+Mahu2021: posts small blind 30
+rares_241: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h 6h]
+Mahu2021: calls 30
+rares_241: checks 
+*** FLOP *** [Qd 7c 2s]
+rares_241: checks 
+Mahu2021: checks 
+*** TURN *** [Qd 7c 2s] [8s]
+rares_241: checks 
+Mahu2021: bets 60
+rares_241: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Qd 7c 2s 8s]
+Seat 1: rares_241 (big blind) folded on the Turn
+Seat 3: Mahu2021 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #253148483667: Tournament #3817552773, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/10/28 22:52:00 CET [2024/10/28 17:52:00 ET]
+Table '3817552773 1' 3-max Seat #1 is the button
+Seat 1: rares_241 (720 in chips) 
+Seat 3: Mahu2021 (780 in chips) 
+rares_241: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kc 4d]
+rares_241: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: rares_241 (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (60)
+
+
+
+PokerStars Hand #253148485121: Tournament #3817552773, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/10/28 22:52:05 CET [2024/10/28 17:52:05 ET]
+Table '3817552773 1' 3-max Seat #3 is the button
+Seat 1: rares_241 (690 in chips) 
+Seat 3: Mahu2021 (810 in chips) 
+Mahu2021: posts small blind 30
+rares_241: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh 4s]
+Mahu2021: raises 60 to 120
+rares_241: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: rares_241 (big blind) folded before Flop
+Seat 3: Mahu2021 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #253148486636: Tournament #3817552773, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/10/28 22:52:11 CET [2024/10/28 17:52:11 ET]
+Table '3817552773 1' 3-max Seat #1 is the button
+Seat 1: rares_241 (630 in chips) 
+Seat 3: Mahu2021 (870 in chips) 
+rares_241: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s 5c]
+rares_241: raises 60 to 120
+Mahu2021: calls 60
+*** FLOP *** [Js 7c Qs]
+Mahu2021: checks 
+rares_241: bets 120
+Mahu2021: calls 120
+*** TURN *** [Js 7c Qs] [4s]
+Mahu2021: checks 
+rares_241: checks 
+*** RIVER *** [Js 7c Qs 4s] [4c]
+Mahu2021: bets 630 and is all-in
+rares_241: folds 
+Uncalled bet (630) returned to Mahu2021
+Mahu2021 collected 480 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Board [Js 7c Qs 4s 4c]
+Seat 1: rares_241 (button) (small blind) folded on the River
+Seat 3: Mahu2021 (big blind) collected (480)
+
+
+
+PokerStars Hand #253148491247: Tournament #3817552773, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/10/28 22:52:30 CET [2024/10/28 17:52:30 ET]
+Table '3817552773 1' 3-max Seat #3 is the button
+Seat 1: rares_241 (390 in chips) 
+Seat 3: Mahu2021 (1110 in chips) 
+Mahu2021: posts small blind 30
+rares_241: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh Qc]
+Mahu2021: raises 60 to 120
+rares_241: raises 270 to 390 and is all-in
+Mahu2021: calls 270
+*** FLOP *** [Ad 5c 9d]
+*** TURN *** [Ad 5c 9d] [8h]
+*** RIVER *** [Ad 5c 9d 8h] [Qh]
+*** SHOW DOWN ***
+rares_241: shows [Kh Th] (high card Ace)
+Mahu2021: shows [Jh Qc] (a pair of Queens)
+Mahu2021 collected 780 from pot
+rares_241 finished the tournament in 2nd place
+Mahu2021 wins the tournament and receives $4.00 - congratulations!
+*** SUMMARY ***
+Total pot 780 | Rake 0 
+Board [Ad 5c 9d 8h Qh]
+Seat 1: rares_241 (big blind) showed [Kh Th] and lost with high card Ace
+Seat 3: Mahu2021 (button) (small blind) showed [Jh Qc] and won (780) with a pair of Queens
+
+
+

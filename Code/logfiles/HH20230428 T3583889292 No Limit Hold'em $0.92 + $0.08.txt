@@ -1,0 +1,492 @@
+﻿PokerStars Hand #243370231749: Tournament #3583889292, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/28 20:53:47 CET [2023/04/28 14:53:47 ET]
+Table '3583889292 1' 3-max Seat #1 is the button
+Seat 1: mind.mac (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: Sincler2 (500 in chips) 
+Mahu2021: posts small blind 10
+Sincler2: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qs 7d]
+mind.mac: folds 
+Mahu2021: calls 10
+Sincler2: checks 
+*** FLOP *** [8c 3c 5h]
+Mahu2021: checks 
+Sincler2: bets 40
+Mahu2021: folds 
+Uncalled bet (40) returned to Sincler2
+Sincler2 collected 40 from pot
+Sincler2: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [8c 3c 5h]
+Seat 1: mind.mac (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) folded on the Flop
+Seat 3: Sincler2 (big blind) collected (40)
+
+
+
+PokerStars Hand #243370236749: Tournament #3583889292, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/28 20:54:02 CET [2023/04/28 14:54:02 ET]
+Table '3583889292 1' 3-max Seat #2 is the button
+Seat 1: mind.mac (500 in chips) 
+Seat 2: Mahu2021 (480 in chips) 
+Seat 3: Sincler2 (520 in chips) 
+Sincler2: posts small blind 10
+mind.mac: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8d 6c]
+Mahu2021: folds 
+Sincler2: calls 10
+mind.mac: raises 20 to 40
+Sincler2: calls 20
+*** FLOP *** [4c 8c 5s]
+Sincler2: checks 
+mind.mac: bets 20
+Sincler2: calls 20
+*** TURN *** [4c 8c 5s] [8h]
+Sincler2: bets 60
+mind.mac: calls 60
+*** RIVER *** [4c 8c 5s 8h] [Qs]
+Sincler2: bets 120
+mind.mac: calls 120
+*** SHOW DOWN ***
+Sincler2: shows [Tc Kd] (a pair of Eights)
+mind.mac: shows [Ac 5d] (two pair, Eights and Fives)
+mind.mac collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Board [4c 8c 5s 8h Qs]
+Seat 1: mind.mac (big blind) showed [Ac 5d] and won (480) with two pair, Eights and Fives
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: Sincler2 (small blind) showed [Tc Kd] and lost with a pair of Eights
+
+
+
+PokerStars Hand #243370248581: Tournament #3583889292, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/28 20:54:36 CET [2023/04/28 14:54:36 ET]
+Table '3583889292 1' 3-max Seat #3 is the button
+Seat 1: mind.mac (740 in chips) 
+Seat 2: Mahu2021 (480 in chips) 
+Seat 3: Sincler2 (280 in chips) 
+mind.mac: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah 9d]
+Sincler2: folds 
+mind.mac: raises 20 to 40
+Mahu2021: calls 20
+*** FLOP *** [5c 2h 6c]
+mind.mac: checks 
+Mahu2021: checks 
+*** TURN *** [5c 2h 6c] [7s]
+mind.mac: bets 40
+Mahu2021: calls 40
+*** RIVER *** [5c 2h 6c 7s] [9h]
+mind.mac: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+mind.mac: shows [Kd 7c] (a pair of Sevens)
+Mahu2021: shows [Ah 9d] (a pair of Nines)
+Mahu2021 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [5c 2h 6c 7s 9h]
+Seat 1: mind.mac (small blind) showed [Kd 7c] and lost with a pair of Sevens
+Seat 2: Mahu2021 (big blind) showed [Ah 9d] and won (160) with a pair of Nines
+Seat 3: Sincler2 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #243370256173: Tournament #3583889292, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/28 20:54:59 CET [2023/04/28 14:54:59 ET]
+Table '3583889292 1' 3-max Seat #1 is the button
+Seat 1: mind.mac (660 in chips) 
+Seat 2: Mahu2021 (560 in chips) 
+Seat 3: Sincler2 (280 in chips) 
+Mahu2021: posts small blind 10
+Sincler2: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6h Qs]
+mind.mac: raises 20 to 40
+Mahu2021: folds 
+Sincler2: calls 20
+*** FLOP *** [9h 2h 4s]
+Sincler2: checks 
+mind.mac: bets 20
+Sincler2: calls 20
+*** TURN *** [9h 2h 4s] [Kh]
+Sincler2: checks 
+mind.mac: checks 
+*** RIVER *** [9h 2h 4s Kh] [3d]
+Sincler2: checks 
+mind.mac: bets 80
+Sincler2: folds 
+Uncalled bet (80) returned to mind.mac
+mind.mac collected 130 from pot
+mind.mac: doesn't show hand 
+*** SUMMARY ***
+Total pot 130 | Rake 0 
+Board [9h 2h 4s Kh 3d]
+Seat 1: mind.mac (button) collected (130)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: Sincler2 (big blind) folded on the River
+
+
+
+PokerStars Hand #243370263387: Tournament #3583889292, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/28 20:55:22 CET [2023/04/28 14:55:22 ET]
+Table '3583889292 1' 3-max Seat #2 is the button
+Seat 1: mind.mac (730 in chips) 
+Seat 2: Mahu2021 (550 in chips) 
+Seat 3: Sincler2 (220 in chips) 
+Sincler2: posts small blind 10
+mind.mac: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4c Qh]
+Mahu2021: folds 
+Sincler2: calls 10
+mind.mac: checks 
+*** FLOP *** [As Ac 9c]
+Sincler2: bets 20
+mind.mac: folds 
+Uncalled bet (20) returned to Sincler2
+Sincler2 collected 40 from pot
+Sincler2: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [As Ac 9c]
+Seat 1: mind.mac (big blind) folded on the Flop
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: Sincler2 (small blind) collected (40)
+
+
+
+PokerStars Hand #243370267308: Tournament #3583889292, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/28 20:55:38 CET [2023/04/28 14:55:38 ET]
+Table '3583889292 1' 3-max Seat #3 is the button
+Seat 1: mind.mac (710 in chips) 
+Seat 2: Mahu2021 (550 in chips) 
+Seat 3: Sincler2 (240 in chips) 
+mind.mac: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As 4c]
+Sincler2: calls 20
+mind.mac: calls 10
+Mahu2021: checks 
+*** FLOP *** [Js Qc 7d]
+mind.mac: checks 
+Mahu2021: checks 
+Sincler2: checks 
+*** TURN *** [Js Qc 7d] [6d]
+mind.mac: bets 20
+Mahu2021: folds 
+Sincler2: folds 
+Uncalled bet (20) returned to mind.mac
+mind.mac collected 60 from pot
+mind.mac: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Js Qc 7d 6d]
+Seat 1: mind.mac (small blind) collected (60)
+Seat 2: Mahu2021 (big blind) folded on the Turn
+Seat 3: Sincler2 (button) folded on the Turn
+
+
+
+PokerStars Hand #243370273260: Tournament #3583889292, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/28 20:56:03 CET [2023/04/28 14:56:03 ET]
+Table '3583889292 1' 3-max Seat #1 is the button
+Seat 1: mind.mac (750 in chips) 
+Seat 2: Mahu2021 (530 in chips) 
+Seat 3: Sincler2 (220 in chips) 
+Mahu2021: posts small blind 15
+Sincler2: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d Th]
+mind.mac: folds 
+Mahu2021: folds 
+Uncalled bet (15) returned to Sincler2
+Sincler2 collected 30 from pot
+Sincler2: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: mind.mac (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: Sincler2 (big blind) collected (30)
+
+
+
+PokerStars Hand #243370274490: Tournament #3583889292, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/28 20:56:08 CET [2023/04/28 14:56:08 ET]
+Table '3583889292 1' 3-max Seat #2 is the button
+Seat 1: mind.mac (750 in chips) 
+Seat 2: Mahu2021 (515 in chips) 
+Seat 3: Sincler2 (235 in chips) 
+Sincler2: posts small blind 15
+mind.mac: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac Jd]
+Mahu2021: raises 30 to 60
+Sincler2: folds 
+mind.mac: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 75 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: mind.mac (big blind) folded before Flop
+Seat 2: Mahu2021 (button) collected (75)
+Seat 3: Sincler2 (small blind) folded before Flop
+
+
+
+PokerStars Hand #243370276463: Tournament #3583889292, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/28 20:56:16 CET [2023/04/28 14:56:16 ET]
+Table '3583889292 1' 3-max Seat #3 is the button
+Seat 1: mind.mac (720 in chips) 
+Seat 2: Mahu2021 (560 in chips) 
+Seat 3: Sincler2 (220 in chips) 
+mind.mac: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8c 5d]
+Sincler2: calls 30
+mind.mac: folds 
+Mahu2021: checks 
+*** FLOP *** [8d Jd 2h]
+Mahu2021: checks 
+Sincler2: bets 75
+Mahu2021: folds 
+Uncalled bet (75) returned to Sincler2
+Sincler2 collected 75 from pot
+Sincler2: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Board [8d Jd 2h]
+Seat 1: mind.mac (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) folded on the Flop
+Seat 3: Sincler2 (button) collected (75)
+
+
+
+PokerStars Hand #243370279926: Tournament #3583889292, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/28 20:56:30 CET [2023/04/28 14:56:30 ET]
+Table '3583889292 1' 3-max Seat #1 is the button
+Seat 1: mind.mac (705 in chips) 
+Seat 2: Mahu2021 (530 in chips) 
+Seat 3: Sincler2 (265 in chips) 
+Mahu2021: posts small blind 15
+Sincler2: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h 5s]
+mind.mac: raises 30 to 60
+Mahu2021: folds 
+Sincler2: raises 205 to 265 and is all-in
+mind.mac: calls 205
+*** FLOP *** [Js 8h 8s]
+*** TURN *** [Js 8h 8s] [9h]
+*** RIVER *** [Js 8h 8s 9h] [2s]
+*** SHOW DOWN ***
+Sincler2: shows [Qh Ac] (a pair of Eights)
+mind.mac: shows [Ks 6s] (a flush, King high)
+mind.mac collected 545 from pot
+Sincler2 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 545 | Rake 0 
+Board [Js 8h 8s 9h 2s]
+Seat 1: mind.mac (button) showed [Ks 6s] and won (545) with a flush, King high
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: Sincler2 (big blind) showed [Qh Ac] and lost with a pair of Eights
+
+
+
+PokerStars Hand #243370286576: Tournament #3583889292, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/28 20:56:57 CET [2023/04/28 14:56:57 ET]
+Table '3583889292 1' 3-max Seat #2 is the button
+Seat 1: mind.mac (985 in chips) 
+Seat 2: Mahu2021 (515 in chips) 
+Mahu2021: posts small blind 15
+mind.mac: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d 7h]
+Mahu2021: folds 
+Uncalled bet (15) returned to mind.mac
+mind.mac collected 30 from pot
+mind.mac: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: mind.mac (big blind) collected (30)
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #243370287602: Tournament #3583889292, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/28 20:57:01 CET [2023/04/28 14:57:01 ET]
+Table '3583889292 1' 3-max Seat #1 is the button
+Seat 1: mind.mac (1000 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+mind.mac: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh Jh]
+mind.mac: calls 15
+Mahu2021: checks 
+*** FLOP *** [Ts 4h Qd]
+Mahu2021: checks 
+mind.mac: checks 
+*** TURN *** [Ts 4h Qd] [6h]
+Mahu2021: checks 
+mind.mac: checks 
+*** RIVER *** [Ts 4h Qd 6h] [2s]
+Mahu2021: bets 60
+mind.mac: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Ts 4h Qd 6h 2s]
+Seat 1: mind.mac (button) (small blind) folded on the River
+Seat 2: Mahu2021 (big blind) collected (60)
+
+
+
+PokerStars Hand #243370292013: Tournament #3583889292, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/28 20:57:19 CET [2023/04/28 14:57:19 ET]
+Table '3583889292 1' 3-max Seat #2 is the button
+Seat 1: mind.mac (970 in chips) 
+Seat 2: Mahu2021 (530 in chips) 
+Mahu2021: posts small blind 15
+mind.mac: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c Qh]
+Mahu2021: calls 15
+mind.mac: checks 
+*** FLOP *** [Ah 2c 4d]
+mind.mac: checks 
+Mahu2021: checks 
+*** TURN *** [Ah 2c 4d] [3h]
+mind.mac: checks 
+Mahu2021: checks 
+*** RIVER *** [Ah 2c 4d 3h] [As]
+mind.mac: checks 
+Mahu2021: bets 60
+mind.mac: calls 60
+*** SHOW DOWN ***
+Mahu2021: shows [6c Qh] (a pair of Aces)
+mind.mac: shows [8d Kc] (a pair of Aces - King kicker)
+mind.mac collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [Ah 2c 4d 3h As]
+Seat 1: mind.mac (big blind) showed [8d Kc] and won (180) with a pair of Aces
+Seat 2: Mahu2021 (button) (small blind) showed [6c Qh] and lost with a pair of Aces
+
+
+
+PokerStars Hand #243370297769: Tournament #3583889292, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/28 20:57:42 CET [2023/04/28 14:57:42 ET]
+Table '3583889292 1' 3-max Seat #1 is the button
+Seat 1: mind.mac (1060 in chips) 
+Seat 2: Mahu2021 (440 in chips) 
+mind.mac: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh 5d]
+mind.mac: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: mind.mac (button) (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (30)
+
+
+
+PokerStars Hand #243370299284: Tournament #3583889292, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/28 20:57:48 CET [2023/04/28 14:57:48 ET]
+Table '3583889292 1' 3-max Seat #2 is the button
+Seat 1: mind.mac (1045 in chips) 
+Seat 2: Mahu2021 (455 in chips) 
+Mahu2021: posts small blind 15
+mind.mac: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts 4d]
+Mahu2021: folds 
+Uncalled bet (15) returned to mind.mac
+mind.mac collected 30 from pot
+mind.mac: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: mind.mac (big blind) collected (30)
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #243370301086: Tournament #3583889292, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/28 20:57:55 CET [2023/04/28 14:57:55 ET]
+Table '3583889292 1' 3-max Seat #1 is the button
+Seat 1: mind.mac (1060 in chips) 
+Seat 2: Mahu2021 (440 in chips) 
+mind.mac: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd 7c]
+mind.mac: raises 40 to 80
+Mahu2021: calls 40
+*** FLOP *** [Ah Ad 2c]
+Mahu2021: checks 
+mind.mac: bets 80
+Mahu2021: folds 
+Uncalled bet (80) returned to mind.mac
+mind.mac collected 160 from pot
+mind.mac: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Ah Ad 2c]
+Seat 1: mind.mac (button) (small blind) collected (160)
+Seat 2: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #243370303977: Tournament #3583889292, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/28 20:58:06 CET [2023/04/28 14:58:06 ET]
+Table '3583889292 1' 3-max Seat #2 is the button
+Seat 1: mind.mac (1140 in chips) 
+Seat 2: Mahu2021 (360 in chips) 
+Mahu2021: posts small blind 20
+mind.mac: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d As]
+Mahu2021: calls 20
+mind.mac: checks 
+*** FLOP *** [6h 7s Qs]
+mind.mac: bets 40
+Mahu2021: folds 
+Uncalled bet (40) returned to mind.mac
+mind.mac collected 80 from pot
+mind.mac: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [6h 7s Qs]
+Seat 1: mind.mac (big blind) collected (80)
+Seat 2: Mahu2021 (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #243370306977: Tournament #3583889292, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/28 20:58:18 CET [2023/04/28 14:58:18 ET]
+Table '3583889292 1' 3-max Seat #1 is the button
+Seat 1: mind.mac (1180 in chips) 
+Seat 2: Mahu2021 (320 in chips) 
+mind.mac: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qs 4s]
+mind.mac: raises 40 to 80
+Mahu2021: calls 40
+*** FLOP *** [9s 6s Kc]
+Mahu2021: bets 240 and is all-in
+mind.mac: calls 240
+*** TURN *** [9s 6s Kc] [Jc]
+*** RIVER *** [9s 6s Kc Jc] [2d]
+*** SHOW DOWN ***
+Mahu2021: shows [Qs 4s] (high card King)
+mind.mac: shows [As 6d] (a pair of Sixes)
+mind.mac collected 640 from pot
+Mahu2021 finished the tournament in 2nd place
+mind.mac wins the tournament and receives $2.00 - congratulations!
+*** SUMMARY ***
+Total pot 640 | Rake 0 
+Board [9s 6s Kc Jc 2d]
+Seat 1: mind.mac (button) (small blind) showed [As 6d] and won (640) with a pair of Sixes
+Seat 2: Mahu2021 (big blind) showed [Qs 4s] and lost with high card King
+
+
+

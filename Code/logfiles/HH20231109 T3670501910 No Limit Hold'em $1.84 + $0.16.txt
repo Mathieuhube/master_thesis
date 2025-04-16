@@ -1,0 +1,214 @@
+﻿PokerStars Hand #247016085920: Tournament #3670501910, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/09 21:52:04 CET [2023/11/09 15:52:04 ET]
+Table '3670501910 1' 3-max Seat #1 is the button
+Seat 1: gocastar (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: ColmiOne (500 in chips) 
+Mahu2021: posts small blind 10
+ColmiOne: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3c Kh]
+gocastar: folds 
+Mahu2021: folds 
+Uncalled bet (10) returned to ColmiOne
+ColmiOne collected 20 from pot
+ColmiOne: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: gocastar (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: ColmiOne (big blind) collected (20)
+
+
+
+PokerStars Hand #247016087652: Tournament #3670501910, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/09 21:52:08 CET [2023/11/09 15:52:08 ET]
+Table '3670501910 1' 3-max Seat #2 is the button
+Seat 1: gocastar (500 in chips) 
+Seat 2: Mahu2021 (490 in chips) 
+Seat 3: ColmiOne (510 in chips) 
+ColmiOne: posts small blind 10
+gocastar: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc 9s]
+Mahu2021: calls 20
+ColmiOne: calls 10
+gocastar: checks 
+*** FLOP *** [Td 2d 4s]
+ColmiOne: checks 
+gocastar: bets 60
+Mahu2021: folds 
+ColmiOne: folds 
+Uncalled bet (60) returned to gocastar
+gocastar collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Td 2d 4s]
+Seat 1: gocastar (big blind) collected (60)
+Seat 2: Mahu2021 (button) folded on the Flop
+Seat 3: ColmiOne (small blind) folded on the Flop
+
+
+
+PokerStars Hand #247016093891: Tournament #3670501910, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/09 21:52:25 CET [2023/11/09 15:52:25 ET]
+Table '3670501910 1' 3-max Seat #3 is the button
+Seat 1: gocastar (540 in chips) 
+Seat 2: Mahu2021 (470 in chips) 
+Seat 3: ColmiOne (490 in chips) 
+gocastar: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4d Kd]
+ColmiOne: folds 
+gocastar: raises 20 to 40
+Mahu2021: calls 20
+*** FLOP *** [2h Qd 5d]
+gocastar: checks 
+Mahu2021: bets 40
+gocastar: calls 40
+*** TURN *** [2h Qd 5d] [Jc]
+gocastar: checks 
+Mahu2021: checks 
+*** RIVER *** [2h Qd 5d Jc] [6d]
+gocastar: bets 80
+Mahu2021: raises 120 to 200
+gocastar: calls 120
+*** SHOW DOWN ***
+Mahu2021: shows [4d Kd] (a flush, King high)
+gocastar: mucks hand 
+Mahu2021 collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | Rake 0 
+Board [2h Qd 5d Jc 6d]
+Seat 1: gocastar (small blind) mucked [2d 2c]
+Seat 2: Mahu2021 (big blind) showed [4d Kd] and won (560) with a flush, King high
+Seat 3: ColmiOne (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #247016106732: Tournament #3670501910, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/09 21:52:59 CET [2023/11/09 15:52:59 ET]
+Table '3670501910 1' 3-max Seat #1 is the button
+Seat 1: gocastar (260 in chips) 
+Seat 2: Mahu2021 (750 in chips) 
+Seat 3: ColmiOne (490 in chips) 
+Mahu2021: posts small blind 10
+ColmiOne: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh Qc]
+gocastar: calls 20
+Mahu2021: calls 10
+ColmiOne: checks 
+*** FLOP *** [2s Ac 7s]
+Mahu2021: checks 
+ColmiOne: checks 
+gocastar: bets 30
+Mahu2021: folds 
+ColmiOne: folds 
+Uncalled bet (30) returned to gocastar
+gocastar collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [2s Ac 7s]
+Seat 1: gocastar (button) collected (60)
+Seat 2: Mahu2021 (small blind) folded on the Flop
+Seat 3: ColmiOne (big blind) folded on the Flop
+
+
+
+PokerStars Hand #247016113300: Tournament #3670501910, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/09 21:53:16 CET [2023/11/09 15:53:16 ET]
+Table '3670501910 1' 3-max Seat #2 is the button
+Seat 1: gocastar (300 in chips) 
+Seat 2: Mahu2021 (730 in chips) 
+Seat 3: ColmiOne (470 in chips) 
+ColmiOne: posts small blind 10
+gocastar: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d 3d]
+Mahu2021: calls 20
+ColmiOne: raises 227 to 247
+gocastar: folds 
+Mahu2021: folds 
+Uncalled bet (227) returned to ColmiOne
+ColmiOne collected 60 from pot
+ColmiOne: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: gocastar (big blind) folded before Flop
+Seat 2: Mahu2021 (button) folded before Flop
+Seat 3: ColmiOne (small blind) collected (60)
+
+
+
+PokerStars Hand #247016117450: Tournament #3670501910, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/09 21:53:27 CET [2023/11/09 15:53:27 ET]
+Table '3670501910 1' 3-max Seat #3 is the button
+Seat 1: gocastar (280 in chips) 
+Seat 2: Mahu2021 (710 in chips) 
+Seat 3: ColmiOne (510 in chips) 
+gocastar: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h Kd]
+ColmiOne: raises 20 to 40
+gocastar: folds 
+Mahu2021: calls 20
+*** FLOP *** [Th 2s Kc]
+Mahu2021: checks 
+ColmiOne: bets 30
+Mahu2021: calls 30
+*** TURN *** [Th 2s Kc] [4c]
+Mahu2021: checks 
+ColmiOne: bets 80
+Mahu2021: calls 80
+*** RIVER *** [Th 2s Kc 4c] [Kh]
+Mahu2021: checks 
+ColmiOne: bets 160
+Mahu2021: raises 400 to 560 and is all-in
+ColmiOne: calls 200 and is all-in
+Uncalled bet (200) returned to Mahu2021
+*** SHOW DOWN ***
+Mahu2021: shows [9h Kd] (three of a kind, Kings)
+ColmiOne: shows [8h Ks] (three of a kind, Kings - lower kicker)
+Mahu2021 collected 1030 from pot
+ColmiOne finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1030 | Rake 0 
+Board [Th 2s Kc 4c Kh]
+Seat 1: gocastar (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) showed [9h Kd] and won (1030) with three of a kind, Kings
+Seat 3: ColmiOne (button) showed [8h Ks] and lost with three of a kind, Kings
+
+
+
+PokerStars Hand #247016134066: Tournament #3670501910, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/09 21:54:10 CET [2023/11/09 15:54:10 ET]
+Table '3670501910 1' 3-max Seat #2 is the button
+Seat 1: gocastar (270 in chips) 
+Seat 2: Mahu2021 (1230 in chips) 
+Mahu2021: posts small blind 15
+gocastar: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6h 5d]
+Mahu2021: calls 15
+gocastar: checks 
+*** FLOP *** [Ks 6s 5c]
+gocastar: checks 
+Mahu2021: checks 
+*** TURN *** [Ks 6s 5c] [3c]
+gocastar: bets 30
+Mahu2021: calls 30
+*** RIVER *** [Ks 6s 5c 3c] [8c]
+gocastar: bets 60
+Mahu2021: raises 1110 to 1170 and is all-in
+gocastar: calls 150 and is all-in
+Uncalled bet (960) returned to Mahu2021
+*** SHOW DOWN ***
+Mahu2021: shows [6h 5d] (two pair, Sixes and Fives)
+gocastar: shows [Th 8s] (a pair of Eights)
+Mahu2021 collected 540 from pot
+gocastar finished the tournament in 2nd place
+Mahu2021 wins the tournament and receives $4.00 - congratulations!
+*** SUMMARY ***
+Total pot 540 | Rake 0 
+Board [Ks 6s 5c 3c 8c]
+Seat 1: gocastar (big blind) showed [Th 8s] and lost with a pair of Eights
+Seat 2: Mahu2021 (button) (small blind) showed [6h 5d] and won (540) with two pair, Sixes and Fives
+
+
+

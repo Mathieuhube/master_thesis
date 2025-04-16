@@ -1,0 +1,307 @@
+﻿PokerStars Hand #243225903485: Tournament #3580610668, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/21 15:10:36 CET [2023/04/21 9:10:36 ET]
+Table '3580610668 1' 3-max Seat #1 is the button
+Seat 1: xTransparent (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: petersande (500 in chips) 
+Mahu2021: posts small blind 10
+petersande: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd Js]
+xTransparent: folds 
+Mahu2021: raises 480 to 500 and is all-in
+petersande: folds 
+Uncalled bet (480) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: xTransparent (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) collected (40)
+Seat 3: petersande (big blind) folded before Flop
+
+
+
+PokerStars Hand #243225906796: Tournament #3580610668, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/21 15:10:50 CET [2023/04/21 9:10:50 ET]
+Table '3580610668 1' 3-max Seat #2 is the button
+Seat 1: xTransparent (500 in chips) 
+Seat 2: Mahu2021 (520 in chips) 
+Seat 3: petersande (480 in chips) 
+petersande: posts small blind 10
+xTransparent: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2c Qc]
+Mahu2021: folds 
+petersande: folds 
+Uncalled bet (10) returned to xTransparent
+xTransparent collected 20 from pot
+xTransparent: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: xTransparent (big blind) collected (20)
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: petersande (small blind) folded before Flop
+
+
+
+PokerStars Hand #243225908318: Tournament #3580610668, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/21 15:10:57 CET [2023/04/21 9:10:57 ET]
+Table '3580610668 1' 3-max Seat #3 is the button
+Seat 1: xTransparent (510 in chips) 
+Seat 2: Mahu2021 (520 in chips) 
+Seat 3: petersande (470 in chips) 
+xTransparent: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d 2d]
+petersande: folds 
+xTransparent: calls 10
+Mahu2021: checks 
+*** FLOP *** [Qd Jc 4s]
+xTransparent: bets 490 and is all-in
+Mahu2021: folds 
+Uncalled bet (490) returned to xTransparent
+xTransparent collected 40 from pot
+xTransparent: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Qd Jc 4s]
+Seat 1: xTransparent (small blind) collected (40)
+Seat 2: Mahu2021 (big blind) folded on the Flop
+Seat 3: petersande (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #243225911124: Tournament #3580610668, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/21 15:11:10 CET [2023/04/21 9:11:10 ET]
+Table '3580610668 1' 3-max Seat #1 is the button
+Seat 1: xTransparent (530 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: petersande (470 in chips) 
+Mahu2021: posts small blind 10
+petersande: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh 5s]
+xTransparent: folds 
+Mahu2021: calls 10
+petersande: checks 
+*** FLOP *** [4c Ac 5d]
+Mahu2021: bets 20
+petersande: raises 20 to 40
+Mahu2021: calls 20
+*** TURN *** [4c Ac 5d] [Kc]
+Mahu2021: checks 
+petersande: bets 60
+Mahu2021: folds 
+Uncalled bet (60) returned to petersande
+petersande collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [4c Ac 5d Kc]
+Seat 1: xTransparent (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) folded on the Turn
+Seat 3: petersande (big blind) collected (120)
+
+
+
+PokerStars Hand #243225917056: Tournament #3580610668, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/21 15:11:38 CET [2023/04/21 9:11:38 ET]
+Table '3580610668 1' 3-max Seat #2 is the button
+Seat 1: xTransparent (530 in chips) 
+Seat 2: Mahu2021 (440 in chips) 
+Seat 3: petersande (530 in chips) 
+petersande: posts small blind 10
+xTransparent: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c 6h]
+Mahu2021: folds 
+petersande: calls 10
+xTransparent: checks 
+*** FLOP *** [Qh 8h 8s]
+petersande: checks 
+xTransparent: checks 
+*** TURN *** [Qh 8h 8s] [9h]
+petersande: bets 40
+xTransparent: raises 40 to 80
+petersande: calls 40
+*** RIVER *** [Qh 8h 8s 9h] [Js]
+petersande: checks 
+xTransparent: checks 
+*** SHOW DOWN ***
+petersande: shows [9d Ac] (two pair, Nines and Eights)
+xTransparent: mucks hand 
+petersande collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [Qh 8h 8s 9h Js]
+Seat 1: xTransparent (big blind) mucked [6s 9s]
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: petersande (small blind) showed [9d Ac] and won (200) with two pair, Nines and Eights
+
+
+
+PokerStars Hand #243225923315: Tournament #3580610668, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/21 15:12:06 CET [2023/04/21 9:12:06 ET]
+Table '3580610668 1' 3-max Seat #3 is the button
+Seat 1: xTransparent (430 in chips) 
+Seat 2: Mahu2021 (440 in chips) 
+Seat 3: petersande (630 in chips) 
+xTransparent: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d 3h]
+petersande: folds 
+xTransparent: folds 
+Uncalled bet (10) returned to Mahu2021
+Mahu2021 collected 20 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: xTransparent (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (20)
+Seat 3: petersande (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #243225925078: Tournament #3580610668, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/21 15:12:14 CET [2023/04/21 9:12:14 ET]
+Table '3580610668 1' 3-max Seat #1 is the button
+Seat 1: xTransparent (420 in chips) 
+Seat 2: Mahu2021 (450 in chips) 
+Seat 3: petersande (630 in chips) 
+Mahu2021: posts small blind 10
+petersande: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h Ts]
+xTransparent: raises 40 to 60
+Mahu2021: folds 
+petersande: folds 
+Uncalled bet (40) returned to xTransparent
+xTransparent collected 50 from pot
+xTransparent: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: xTransparent (button) collected (50)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: petersande (big blind) folded before Flop
+
+
+
+PokerStars Hand #243225926815: Tournament #3580610668, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/21 15:12:22 CET [2023/04/21 9:12:22 ET]
+Table '3580610668 1' 3-max Seat #2 is the button
+Seat 1: xTransparent (450 in chips) 
+Seat 2: Mahu2021 (440 in chips) 
+Seat 3: petersande (610 in chips) 
+petersande: posts small blind 10
+xTransparent: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8d 9s]
+Mahu2021: calls 20
+petersande: calls 10
+xTransparent: checks 
+*** FLOP *** [7d 6d 3h]
+petersande: checks 
+xTransparent: checks 
+Mahu2021: bets 40
+petersande: folds 
+xTransparent: calls 40
+*** TURN *** [7d 6d 3h] [9c]
+xTransparent: checks 
+Mahu2021: checks 
+*** RIVER *** [7d 6d 3h 9c] [4d]
+xTransparent: bets 140
+Mahu2021: calls 140
+*** SHOW DOWN ***
+xTransparent: shows [5s Qc] (a straight, Three to Seven)
+Mahu2021: mucks hand 
+xTransparent collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | Rake 0 
+Board [7d 6d 3h 9c 4d]
+Seat 1: xTransparent (big blind) showed [5s Qc] and won (420) with a straight, Three to Seven
+Seat 2: Mahu2021 (button) mucked [8d 9s]
+Seat 3: petersande (small blind) folded on the Flop
+
+
+
+PokerStars Hand #243225936091: Tournament #3580610668, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/21 15:13:05 CET [2023/04/21 9:13:05 ET]
+Table '3580610668 1' 3-max Seat #3 is the button
+Seat 1: xTransparent (670 in chips) 
+Seat 2: Mahu2021 (240 in chips) 
+Seat 3: petersande (590 in chips) 
+xTransparent: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c 9s]
+petersande: folds 
+xTransparent: calls 10
+Mahu2021: checks 
+*** FLOP *** [8d Kd 3c]
+xTransparent: bets 40
+Mahu2021: folds 
+Uncalled bet (40) returned to xTransparent
+xTransparent collected 40 from pot
+xTransparent: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [8d Kd 3c]
+Seat 1: xTransparent (small blind) collected (40)
+Seat 2: Mahu2021 (big blind) folded on the Flop
+Seat 3: petersande (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #243225939903: Tournament #3580610668, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/21 15:13:22 CET [2023/04/21 9:13:22 ET]
+Table '3580610668 1' 3-max Seat #1 is the button
+Seat 1: xTransparent (690 in chips) 
+Seat 2: Mahu2021 (220 in chips) 
+Seat 3: petersande (590 in chips) 
+Mahu2021: posts small blind 10
+petersande: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d 8s]
+xTransparent: calls 20
+Mahu2021: folds 
+petersande: checks 
+*** FLOP *** [3h 6s 6d]
+petersande: checks 
+xTransparent: checks 
+*** TURN *** [3h 6s 6d] [Qh]
+petersande: checks 
+xTransparent: bets 50
+petersande: folds 
+Uncalled bet (50) returned to xTransparent
+xTransparent collected 50 from pot
+xTransparent: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [3h 6s 6d Qh]
+Seat 1: xTransparent (button) collected (50)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: petersande (big blind) folded on the Turn
+
+
+
+PokerStars Hand #243225949615: Tournament #3580610668, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/21 15:14:07 CET [2023/04/21 9:14:07 ET]
+Table '3580610668 1' 3-max Seat #2 is the button
+Seat 1: xTransparent (720 in chips) 
+Seat 2: Mahu2021 (210 in chips) 
+Seat 3: petersande (570 in chips) 
+petersande: posts small blind 15
+xTransparent: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qs 3s]
+Mahu2021: raises 180 to 210 and is all-in
+petersande: folds 
+xTransparent: calls 180
+*** FLOP *** [5s 6h 9s]
+*** TURN *** [5s 6h 9s] [Kc]
+*** RIVER *** [5s 6h 9s Kc] [2c]
+*** SHOW DOWN ***
+xTransparent: shows [Ah 8d] (high card Ace)
+Mahu2021: shows [Qs 3s] (high card King)
+xTransparent collected 435 from pot
+Mahu2021 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 435 | Rake 0 
+Board [5s 6h 9s Kc 2c]
+Seat 1: xTransparent (big blind) showed [Ah 8d] and won (435) with high card Ace
+Seat 2: Mahu2021 (button) showed [Qs 3s] and lost with high card King
+Seat 3: petersande (small blind) folded before Flop
+
+
+

@@ -1,0 +1,553 @@
+﻿PokerStars Hand #253324667130: Tournament #3821726940, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/09 13:51:43 CET [2024/11/09 7:51:43 ET]
+Table '3821726940 1' 3-max Seat #1 is the button
+Seat 1: MooseLórd (500 in chips) is sitting out
+Seat 2: Ed$_Net_BR (500 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+Ed$_Net_BR: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6h 2d]
+MooseLórd: folds 
+Ed$_Net_BR: raises 480 to 500 and is all-in
+Mahu2021: folds 
+Uncalled bet (480) returned to Ed$_Net_BR
+Ed$_Net_BR collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: MooseLórd (button) folded before Flop (didn't bet)
+Seat 2: Ed$_Net_BR (small blind) collected (40)
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #253324668158: Tournament #3821726940, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/09 13:51:50 CET [2024/11/09 7:51:50 ET]
+Table '3821726940 1' 3-max Seat #2 is the button
+Seat 1: MooseLórd (500 in chips) is sitting out
+Seat 2: Ed$_Net_BR (520 in chips) 
+Seat 3: Mahu2021 (480 in chips) 
+Mahu2021: posts small blind 10
+MooseLórd: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc Jd]
+Ed$_Net_BR: raises 500 to 520 and is all-in
+Mahu2021: calls 470 and is all-in
+MooseLórd: folds 
+Uncalled bet (40) returned to Ed$_Net_BR
+*** FLOP *** [4s 6d Ks]
+MooseLórd is disconnected 
+MooseLórd has returned
+*** TURN *** [4s 6d Ks] [3d]
+*** RIVER *** [4s 6d Ks 3d] [Js]
+*** SHOW DOWN ***
+Mahu2021: shows [Qc Jd] (a pair of Jacks)
+Ed$_Net_BR: shows [Ad 5s] (high card Ace)
+Mahu2021 collected 980 from pot
+*** SUMMARY ***
+Total pot 980 | Rake 0 
+Board [4s 6d Ks 3d Js]
+Seat 1: MooseLórd (big blind) folded before Flop
+Seat 2: Ed$_Net_BR (button) showed [Ad 5s] and lost with high card Ace
+Seat 3: Mahu2021 (small blind) showed [Qc Jd] and won (980) with a pair of Jacks
+
+
+
+PokerStars Hand #253324670214: Tournament #3821726940, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/09 13:52:03 CET [2024/11/09 7:52:03 ET]
+Table '3821726940 1' 3-max Seat #3 is the button
+Seat 1: MooseLórd (480 in chips) 
+Seat 2: Ed$_Net_BR (40 in chips) 
+Seat 3: Mahu2021 (980 in chips) 
+MooseLórd: posts small blind 10
+Ed$_Net_BR: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d Ac]
+Mahu2021: raises 20 to 40
+MooseLórd: folds 
+Ed$_Net_BR: calls 20 and is all-in
+*** FLOP *** [8c 8d Ad]
+*** TURN *** [8c 8d Ad] [Qc]
+*** RIVER *** [8c 8d Ad Qc] [6h]
+*** SHOW DOWN ***
+Ed$_Net_BR: shows [Jd Qs] (two pair, Queens and Eights)
+Mahu2021: shows [7d Ac] (two pair, Aces and Eights)
+Mahu2021 collected 90 from pot
+Ed$_Net_BR finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [8c 8d Ad Qc 6h]
+Seat 1: MooseLórd (small blind) folded before Flop
+Seat 2: Ed$_Net_BR (big blind) showed [Jd Qs] and lost with two pair, Queens and Eights
+Seat 3: Mahu2021 (button) showed [7d Ac] and won (90) with two pair, Aces and Eights
+
+
+
+PokerStars Hand #253324673113: Tournament #3821726940, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/09 13:52:21 CET [2024/11/09 7:52:21 ET]
+Table '3821726940 1' 3-max Seat #1 is the button
+Seat 1: MooseLórd (470 in chips) 
+Seat 3: Mahu2021 (1030 in chips) 
+MooseLórd: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8c 8h]
+MooseLórd: calls 10
+Mahu2021: raises 40 to 60
+MooseLórd: calls 40
+*** FLOP *** [4c Kh 6d]
+Mahu2021: checks 
+MooseLórd: checks 
+*** TURN *** [4c Kh 6d] [4s]
+Mahu2021: checks 
+MooseLórd: checks 
+*** RIVER *** [4c Kh 6d 4s] [6s]
+Mahu2021: bets 40
+MooseLórd: calls 40
+*** SHOW DOWN ***
+Mahu2021: shows [8c 8h] (two pair, Eights and Sixes)
+MooseLórd: mucks hand 
+Mahu2021 collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [4c Kh 6d 4s 6s]
+Seat 1: MooseLórd (button) (small blind) mucked [3s 5s]
+Seat 3: Mahu2021 (big blind) showed [8c 8h] and won (200) with two pair, Eights and Sixes
+
+
+
+PokerStars Hand #253324675582: Tournament #3821726940, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/09 13:52:37 CET [2024/11/09 7:52:37 ET]
+Table '3821726940 1' 3-max Seat #3 is the button
+Seat 1: MooseLórd (370 in chips) 
+Seat 3: Mahu2021 (1130 in chips) 
+Mahu2021: posts small blind 10
+MooseLórd: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qd 6h]
+Mahu2021: raises 20 to 40
+MooseLórd: calls 20
+*** FLOP *** [9c Jh 4d]
+MooseLórd: checks 
+Mahu2021: checks 
+*** TURN *** [9c Jh 4d] [2d]
+MooseLórd: checks 
+Mahu2021: checks 
+*** RIVER *** [9c Jh 4d 2d] [As]
+MooseLórd: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+MooseLórd: shows [8c 7h] (high card Ace)
+Mahu2021: shows [Qd 6h] (high card Ace - Queen kicker)
+Mahu2021 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [9c Jh 4d 2d As]
+Seat 1: MooseLórd (big blind) showed [8c 7h] and lost with high card Ace
+Seat 3: Mahu2021 (button) (small blind) showed [Qd 6h] and won (80) with high card Ace
+
+
+
+PokerStars Hand #253324678381: Tournament #3821726940, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/09 13:52:54 CET [2024/11/09 7:52:54 ET]
+Table '3821726940 1' 3-max Seat #1 is the button
+Seat 1: MooseLórd (330 in chips) 
+Seat 3: Mahu2021 (1170 in chips) 
+MooseLórd: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh 4c]
+MooseLórd: calls 10
+Mahu2021: checks 
+*** FLOP *** [6s 3s Ac]
+Mahu2021: checks 
+MooseLórd: bets 20
+Mahu2021: folds 
+Uncalled bet (20) returned to MooseLórd
+MooseLórd collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [6s 3s Ac]
+Seat 1: MooseLórd (button) (small blind) collected (40)
+Seat 3: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #253324680044: Tournament #3821726940, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/09 13:53:05 CET [2024/11/09 7:53:05 ET]
+Table '3821726940 1' 3-max Seat #3 is the button
+Seat 1: MooseLórd (350 in chips) 
+Seat 3: Mahu2021 (1150 in chips) 
+Mahu2021: posts small blind 10
+MooseLórd: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h 2h]
+Mahu2021: raises 20 to 40
+MooseLórd: calls 20
+*** FLOP *** [Th 7c Kd]
+MooseLórd: checks 
+Mahu2021: bets 40
+MooseLórd: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Th 7c Kd]
+Seat 1: MooseLórd (big blind) folded on the Flop
+Seat 3: Mahu2021 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #253324683010: Tournament #3821726940, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/09 13:53:24 CET [2024/11/09 7:53:24 ET]
+Table '3821726940 1' 3-max Seat #1 is the button
+Seat 1: MooseLórd (310 in chips) 
+Seat 3: Mahu2021 (1190 in chips) 
+MooseLórd: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d 2c]
+MooseLórd: calls 10
+Mahu2021: checks 
+*** FLOP *** [Ts 8c 5c]
+Mahu2021: checks 
+MooseLórd: checks 
+*** TURN *** [Ts 8c 5c] [Ac]
+Mahu2021: checks 
+MooseLórd: checks 
+*** RIVER *** [Ts 8c 5c Ac] [7d]
+Mahu2021: checks 
+MooseLórd: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [5d 2c] (a pair of Fives)
+MooseLórd: mucks hand 
+Mahu2021 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Ts 8c 5c Ac 7d]
+Seat 1: MooseLórd (button) (small blind) mucked [Ks 6s]
+Seat 3: Mahu2021 (big blind) showed [5d 2c] and won (40) with a pair of Fives
+
+
+
+PokerStars Hand #253324685043: Tournament #3821726940, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/09 13:53:37 CET [2024/11/09 7:53:37 ET]
+Table '3821726940 1' 3-max Seat #3 is the button
+Seat 1: MooseLórd (290 in chips) 
+Seat 3: Mahu2021 (1210 in chips) 
+Mahu2021: posts small blind 10
+MooseLórd: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Td 6s]
+Mahu2021: raises 20 to 40
+MooseLórd: calls 20
+*** FLOP *** [4c 4h 5h]
+MooseLórd: checks 
+Mahu2021: checks 
+*** TURN *** [4c 4h 5h] [4s]
+MooseLórd: checks 
+Mahu2021: checks 
+*** RIVER *** [4c 4h 5h 4s] [3h]
+MooseLórd: bets 40
+Mahu2021: folds 
+Uncalled bet (40) returned to MooseLórd
+MooseLórd collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [4c 4h 5h 4s 3h]
+Seat 1: MooseLórd (big blind) collected (80)
+Seat 3: Mahu2021 (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #253324687635: Tournament #3821726940, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/09 13:53:54 CET [2024/11/09 7:53:54 ET]
+Table '3821726940 1' 3-max Seat #1 is the button
+Seat 1: MooseLórd (330 in chips) 
+Seat 3: Mahu2021 (1170 in chips) 
+MooseLórd: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Td Ah]
+MooseLórd: calls 15
+Mahu2021: raises 1140 to 1170 and is all-in
+MooseLórd: folds 
+Uncalled bet (1140) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: MooseLórd (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (60)
+
+
+
+PokerStars Hand #253324689238: Tournament #3821726940, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/09 13:54:04 CET [2024/11/09 7:54:04 ET]
+Table '3821726940 1' 3-max Seat #3 is the button
+Seat 1: MooseLórd (300 in chips) 
+Seat 3: Mahu2021 (1200 in chips) 
+Mahu2021: posts small blind 15
+MooseLórd: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h 9h]
+Mahu2021: raises 30 to 60
+MooseLórd: calls 30
+*** FLOP *** [8h Kh 6s]
+MooseLórd: checks 
+Mahu2021: bets 60
+MooseLórd: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [8h Kh 6s]
+Seat 1: MooseLórd (big blind) folded on the Flop
+Seat 3: Mahu2021 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #253324690829: Tournament #3821726940, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/09 13:54:14 CET [2024/11/09 7:54:14 ET]
+Table '3821726940 1' 3-max Seat #1 is the button
+Seat 1: MooseLórd (240 in chips) 
+Seat 3: Mahu2021 (1260 in chips) 
+MooseLórd: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad 6c]
+MooseLórd: raises 210 to 240 and is all-in
+Mahu2021: calls 210
+*** FLOP *** [9c Ts 8s]
+*** TURN *** [9c Ts 8s] [Js]
+*** RIVER *** [9c Ts 8s Js] [Jd]
+*** SHOW DOWN ***
+Mahu2021: shows [Ad 6c] (a pair of Jacks)
+MooseLórd: shows [Jh 7d] (a straight, Seven to Jack)
+MooseLórd collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Board [9c Ts 8s Js Jd]
+Seat 1: MooseLórd (button) (small blind) showed [Jh 7d] and won (480) with a straight, Seven to Jack
+Seat 3: Mahu2021 (big blind) showed [Ad 6c] and lost with a pair of Jacks
+
+
+
+PokerStars Hand #253324692883: Tournament #3821726940, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/09 13:54:27 CET [2024/11/09 7:54:27 ET]
+Table '3821726940 1' 3-max Seat #3 is the button
+Seat 1: MooseLórd (480 in chips) 
+Seat 3: Mahu2021 (1020 in chips) 
+Mahu2021: posts small blind 15
+MooseLórd: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d 3h]
+Mahu2021: folds 
+Uncalled bet (15) returned to MooseLórd
+MooseLórd collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: MooseLórd (big blind) collected (30)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #253324693617: Tournament #3821726940, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/09 13:54:32 CET [2024/11/09 7:54:32 ET]
+Table '3821726940 1' 3-max Seat #1 is the button
+Seat 1: MooseLórd (495 in chips) 
+Seat 3: Mahu2021 (1005 in chips) 
+MooseLórd: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d 4s]
+MooseLórd: calls 15
+Mahu2021: checks 
+*** FLOP *** [8c Ks 7d]
+Mahu2021: checks 
+MooseLórd: bets 30
+Mahu2021: calls 30
+*** TURN *** [8c Ks 7d] [7h]
+Mahu2021: checks 
+MooseLórd: checks 
+*** RIVER *** [8c Ks 7d 7h] [5s]
+Mahu2021: bets 120
+MooseLórd: folds 
+Uncalled bet (120) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [8c Ks 7d 7h 5s]
+Seat 1: MooseLórd (button) (small blind) folded on the River
+Seat 3: Mahu2021 (big blind) collected (120)
+
+
+
+PokerStars Hand #253324697248: Tournament #3821726940, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/09 13:54:55 CET [2024/11/09 7:54:55 ET]
+Table '3821726940 1' 3-max Seat #3 is the button
+Seat 1: MooseLórd (435 in chips) 
+Seat 3: Mahu2021 (1065 in chips) 
+Mahu2021: posts small blind 15
+MooseLórd: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d 7s]
+Mahu2021: raises 30 to 60
+MooseLórd: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: MooseLórd (big blind) folded before Flop
+Seat 3: Mahu2021 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #253324698560: Tournament #3821726940, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/09 13:55:03 CET [2024/11/09 7:55:03 ET]
+Table '3821726940 1' 3-max Seat #1 is the button
+Seat 1: MooseLórd (405 in chips) 
+Seat 3: Mahu2021 (1095 in chips) 
+MooseLórd: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc Qd]
+MooseLórd: calls 15
+Mahu2021: raises 60 to 90
+MooseLórd: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: MooseLórd (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (60)
+
+
+
+PokerStars Hand #253324700061: Tournament #3821726940, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/09 13:55:12 CET [2024/11/09 7:55:12 ET]
+Table '3821726940 1' 3-max Seat #3 is the button
+Seat 1: MooseLórd (375 in chips) 
+Seat 3: Mahu2021 (1125 in chips) 
+Mahu2021: posts small blind 15
+MooseLórd: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s 5h]
+Mahu2021: folds 
+Uncalled bet (15) returned to MooseLórd
+MooseLórd collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: MooseLórd (big blind) collected (30)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #253324700696: Tournament #3821726940, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/09 13:55:17 CET [2024/11/09 7:55:17 ET]
+Table '3821726940 1' 3-max Seat #1 is the button
+Seat 1: MooseLórd (390 in chips) 
+Seat 3: Mahu2021 (1110 in chips) 
+MooseLórd: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2c Qs]
+MooseLórd: calls 15
+Mahu2021: checks 
+*** FLOP *** [9h As 7c]
+Mahu2021: checks 
+MooseLórd: bets 30
+Mahu2021: folds 
+Uncalled bet (30) returned to MooseLórd
+MooseLórd collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [9h As 7c]
+Seat 1: MooseLórd (button) (small blind) collected (60)
+Seat 3: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #253324701942: Tournament #3821726940, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/09 13:55:27 CET [2024/11/09 7:55:27 ET]
+Table '3821726940 1' 3-max Seat #3 is the button
+Seat 1: MooseLórd (420 in chips) 
+Seat 3: Mahu2021 (1080 in chips) 
+Mahu2021: posts small blind 15
+MooseLórd: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc 8d]
+Mahu2021: raises 30 to 60
+MooseLórd: raises 75 to 135
+Mahu2021: calls 75
+*** FLOP *** [Jh 4s 6c]
+MooseLórd: bets 90
+Mahu2021: folds 
+Uncalled bet (90) returned to MooseLórd
+MooseLórd collected 270 from pot
+*** SUMMARY ***
+Total pot 270 | Rake 0 
+Board [Jh 4s 6c]
+Seat 1: MooseLórd (big blind) collected (270)
+Seat 3: Mahu2021 (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #253324703561: Tournament #3821726940, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/09 13:55:40 CET [2024/11/09 7:55:40 ET]
+Table '3821726940 1' 3-max Seat #1 is the button
+Seat 1: MooseLórd (555 in chips) 
+Seat 3: Mahu2021 (945 in chips) 
+MooseLórd: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kc Qd]
+MooseLórd: calls 15
+Mahu2021: raises 60 to 90
+MooseLórd: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: MooseLórd (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (60)
+
+
+
+PokerStars Hand #253324705892: Tournament #3821726940, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/09 13:55:59 CET [2024/11/09 7:55:59 ET]
+Table '3821726940 1' 3-max Seat #3 is the button
+Seat 1: MooseLórd (525 in chips) 
+Seat 3: Mahu2021 (975 in chips) 
+Mahu2021: posts small blind 20
+MooseLórd: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Td Js]
+Mahu2021: raises 40 to 80
+MooseLórd: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: MooseLórd (big blind) folded before Flop
+Seat 3: Mahu2021 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #253324707053: Tournament #3821726940, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/09 13:56:08 CET [2024/11/09 7:56:08 ET]
+Table '3821726940 1' 3-max Seat #1 is the button
+Seat 1: MooseLórd (485 in chips) 
+Seat 3: Mahu2021 (1015 in chips) 
+MooseLórd: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc As]
+MooseLórd: calls 20
+Mahu2021: raises 80 to 120
+MooseLórd: calls 80
+*** FLOP *** [2d Jh 6s]
+Mahu2021: bets 120
+MooseLórd: raises 245 to 365 and is all-in
+Mahu2021: calls 245
+*** TURN *** [2d Jh 6s] [Ks]
+*** RIVER *** [2d Jh 6s Ks] [5h]
+*** SHOW DOWN ***
+Mahu2021: shows [Jc As] (a pair of Jacks)
+MooseLórd: shows [8h Js] (a pair of Jacks - lower kicker)
+Mahu2021 collected 970 from pot
+MooseLórd finished the tournament in 2nd place
+Mahu2021 wins the tournament and receives $4.00 - congratulations!
+*** SUMMARY ***
+Total pot 970 | Rake 0 
+Board [2d Jh 6s Ks 5h]
+Seat 1: MooseLórd (button) (small blind) showed [8h Js] and lost with a pair of Jacks
+Seat 3: Mahu2021 (big blind) showed [Jc As] and won (970) with a pair of Jacks
+
+
+

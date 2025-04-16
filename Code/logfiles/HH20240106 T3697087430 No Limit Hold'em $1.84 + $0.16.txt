@@ -1,0 +1,108 @@
+﻿PokerStars Hand #248104767478: Tournament #3697087430, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/06 19:57:20 CET [2024/01/06 13:57:20 ET]
+Table '3697087430 1' 3-max Seat #1 is the button
+Seat 1: melwilt (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: Apeninja (500 in chips) 
+Mahu2021: posts small blind 10
+Apeninja: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh 6c]
+melwilt: folds 
+Mahu2021: calls 10
+Apeninja: checks 
+*** FLOP *** [Kc 7d 5h]
+Mahu2021: bets 20
+Apeninja: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Kc 7d 5h]
+Seat 1: melwilt (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) collected (40)
+Seat 3: Apeninja (big blind) folded on the Flop
+
+
+
+PokerStars Hand #248104774100: Tournament #3697087430, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/06 19:57:46 CET [2024/01/06 13:57:46 ET]
+Table '3697087430 1' 3-max Seat #2 is the button
+Seat 1: melwilt (500 in chips) 
+Seat 2: Mahu2021 (520 in chips) 
+Seat 3: Apeninja (480 in chips) 
+Apeninja: posts small blind 10
+melwilt: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d Qh]
+Mahu2021: folds 
+Apeninja: raises 40 to 60
+melwilt: folds 
+Uncalled bet (40) returned to Apeninja
+Apeninja collected 40 from pot
+Apeninja: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: melwilt (big blind) folded before Flop
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: Apeninja (small blind) collected (40)
+
+
+
+PokerStars Hand #248104779828: Tournament #3697087430, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/06 19:58:08 CET [2024/01/06 13:58:08 ET]
+Table '3697087430 1' 3-max Seat #3 is the button
+Seat 1: melwilt (480 in chips) 
+Seat 2: Mahu2021 (520 in chips) 
+Seat 3: Apeninja (500 in chips) 
+melwilt: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah Jc]
+Apeninja: folds 
+melwilt: raises 460 to 480 and is all-in
+Mahu2021: calls 460
+*** FLOP *** [2h Td Kh]
+*** TURN *** [2h Td Kh] [3h]
+*** RIVER *** [2h Td Kh 3h] [8c]
+*** SHOW DOWN ***
+melwilt: shows [Ks Jh] (a pair of Kings)
+Mahu2021: shows [Ah Jc] (high card Ace)
+melwilt collected 960 from pot
+*** SUMMARY ***
+Total pot 960 | Rake 0 
+Board [2h Td Kh 3h 8c]
+Seat 1: melwilt (small blind) showed [Ks Jh] and won (960) with a pair of Kings
+Seat 2: Mahu2021 (big blind) showed [Ah Jc] and lost with high card Ace
+Seat 3: Apeninja (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #248104783467: Tournament #3697087430, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/06 19:58:23 CET [2024/01/06 13:58:23 ET]
+Table '3697087430 1' 3-max Seat #1 is the button
+Seat 1: melwilt (960 in chips) 
+Seat 2: Mahu2021 (40 in chips) 
+Seat 3: Apeninja (500 in chips) 
+Mahu2021: posts small blind 10
+Apeninja: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c Ac]
+melwilt: raises 940 to 960 and is all-in
+Mahu2021: calls 30 and is all-in
+Apeninja: folds 
+Uncalled bet (920) returned to melwilt
+*** FLOP *** [4s 4d 2d]
+*** TURN *** [4s 4d 2d] [Js]
+*** RIVER *** [4s 4d 2d Js] [7h]
+*** SHOW DOWN ***
+Mahu2021: shows [5c Ac] (a pair of Fours)
+melwilt: shows [Qh Ah] (a pair of Fours - Ace+Queen kicker)
+melwilt collected 100 from pot
+Mahu2021 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [4s 4d 2d Js 7h]
+Seat 1: melwilt (button) showed [Qh Ah] and won (100) with a pair of Fours
+Seat 2: Mahu2021 (small blind) showed [5c Ac] and lost with a pair of Fours
+Seat 3: Apeninja (big blind) folded before Flop
+
+
+

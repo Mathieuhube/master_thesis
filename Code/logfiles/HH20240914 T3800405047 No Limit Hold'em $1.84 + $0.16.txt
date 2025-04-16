@@ -1,0 +1,65 @@
+﻿PokerStars Hand #252443488711: Tournament #3800405047, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/09/14 15:34:04 CET [2024/09/14 9:34:04 ET]
+Table '3800405047 1' 3-max Seat #1 is the button
+Seat 1: o_siro (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: merimiespapu (500 in chips) 
+Mahu2021: posts small blind 10
+merimiespapu: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c 8s]
+o_siro: folds 
+Mahu2021: calls 10
+merimiespapu: checks 
+*** FLOP *** [8h 2h Qc]
+Mahu2021: bets 20
+merimiespapu: calls 20
+*** TURN *** [8h 2h Qc] [7h]
+Mahu2021: checks 
+merimiespapu: bets 40
+Mahu2021: calls 40
+*** RIVER *** [8h 2h Qc 7h] [5c]
+Mahu2021: checks 
+merimiespapu: bets 80
+Mahu2021: calls 80
+*** SHOW DOWN ***
+merimiespapu: shows [8d As] (a pair of Eights)
+Mahu2021: mucks hand 
+merimiespapu collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [8h 2h Qc 7h 5c]
+Seat 1: o_siro (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) mucked [9c 8s]
+Seat 3: merimiespapu (big blind) showed [8d As] and won (320) with a pair of Eights
+
+
+
+PokerStars Hand #252443496220: Tournament #3800405047, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/09/14 15:34:44 CET [2024/09/14 9:34:44 ET]
+Table '3800405047 1' 3-max Seat #2 is the button
+Seat 1: o_siro (500 in chips) 
+Seat 2: Mahu2021 (340 in chips) 
+Seat 3: merimiespapu (660 in chips) 
+merimiespapu: posts small blind 10
+o_siro: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h 4c]
+Mahu2021: raises 320 to 340 and is all-in
+merimiespapu: calls 330
+o_siro: folds 
+*** FLOP *** [Js Qc 6c]
+*** TURN *** [Js Qc 6c] [Kd]
+*** RIVER *** [Js Qc 6c Kd] [6d]
+*** SHOW DOWN ***
+merimiespapu: shows [7s 7c] (two pair, Sevens and Sixes)
+Mahu2021: shows [4h 4c] (two pair, Sixes and Fours)
+merimiespapu collected 700 from pot
+Mahu2021 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 700 | Rake 0 
+Board [Js Qc 6c Kd 6d]
+Seat 1: o_siro (big blind) folded before Flop
+Seat 2: Mahu2021 (button) showed [4h 4c] and lost with two pair, Sixes and Fours
+Seat 3: merimiespapu (small blind) showed [7s 7c] and won (700) with two pair, Sevens and Sixes
+
+
+

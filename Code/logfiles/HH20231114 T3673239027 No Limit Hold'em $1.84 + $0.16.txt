@@ -1,0 +1,619 @@
+﻿PokerStars Hand #247110486339: Tournament #3673239027, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/14 21:31:32 CET [2023/11/14 15:31:32 ET]
+Table '3673239027 1' 3-max Seat #1 is the button
+Seat 1: loewe_murti (500 in chips) 
+Seat 2: JJOKKAA (500 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+JJOKKAA: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8s 7d]
+loewe_murti: folds 
+JJOKKAA: raises 20 to 40
+Mahu2021: calls 20
+*** FLOP *** [5s 2c 3c]
+JJOKKAA: checks 
+Mahu2021: checks 
+*** TURN *** [5s 2c 3c] [Ad]
+JJOKKAA: checks 
+Mahu2021: bets 40
+JJOKKAA: calls 40
+*** RIVER *** [5s 2c 3c Ad] [2d]
+JJOKKAA: checks 
+Mahu2021: bets 160
+JJOKKAA: calls 160
+*** SHOW DOWN ***
+Mahu2021: shows [8s 7d] (a pair of Deuces)
+JJOKKAA: shows [6c Ah] (two pair, Aces and Deuces)
+JJOKKAA collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Board [5s 2c 3c Ad 2d]
+Seat 1: loewe_murti (button) folded before Flop (didn't bet)
+Seat 2: JJOKKAA (small blind) showed [6c Ah] and won (480) with two pair, Aces and Deuces
+Seat 3: Mahu2021 (big blind) showed [8s 7d] and lost with a pair of Deuces
+
+
+
+PokerStars Hand #247110496790: Tournament #3673239027, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/14 21:32:01 CET [2023/11/14 15:32:01 ET]
+Table '3673239027 1' 3-max Seat #2 is the button
+Seat 1: loewe_murti (500 in chips) 
+Seat 2: JJOKKAA (740 in chips) 
+Seat 3: Mahu2021 (260 in chips) 
+Mahu2021: posts small blind 10
+loewe_murti: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Tc 2s]
+JJOKKAA: folds 
+Mahu2021: folds 
+Uncalled bet (10) returned to loewe_murti
+loewe_murti collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: loewe_murti (big blind) collected (20)
+Seat 2: JJOKKAA (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #247110498653: Tournament #3673239027, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/14 21:32:06 CET [2023/11/14 15:32:06 ET]
+Table '3673239027 1' 3-max Seat #3 is the button
+Seat 1: loewe_murti (510 in chips) 
+Seat 2: JJOKKAA (740 in chips) 
+Seat 3: Mahu2021 (250 in chips) 
+loewe_murti: posts small blind 10
+JJOKKAA: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac Ks]
+Mahu2021: raises 20 to 40
+loewe_murti: folds 
+JJOKKAA: calls 20
+*** FLOP *** [3c 4d 3d]
+JJOKKAA: checks 
+Mahu2021: bets 210 and is all-in
+JJOKKAA: folds 
+Uncalled bet (210) returned to Mahu2021
+Mahu2021 collected 90 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [3c 4d 3d]
+Seat 1: loewe_murti (small blind) folded before Flop
+Seat 2: JJOKKAA (big blind) folded on the Flop
+Seat 3: Mahu2021 (button) collected (90)
+
+
+
+PokerStars Hand #247110504030: Tournament #3673239027, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/14 21:32:22 CET [2023/11/14 15:32:22 ET]
+Table '3673239027 1' 3-max Seat #1 is the button
+Seat 1: loewe_murti (500 in chips) 
+Seat 2: JJOKKAA (700 in chips) 
+Seat 3: Mahu2021 (300 in chips) 
+JJOKKAA: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As Ac]
+loewe_murti: raises 20 to 40
+JJOKKAA: folds 
+Mahu2021: raises 260 to 300 and is all-in
+loewe_murti: calls 260
+*** FLOP *** [9h Qs 4s]
+*** TURN *** [9h Qs 4s] [4h]
+*** RIVER *** [9h Qs 4s 4h] [6c]
+*** SHOW DOWN ***
+Mahu2021: shows [As Ac] (two pair, Aces and Fours)
+loewe_murti: shows [8d 8c] (two pair, Eights and Fours)
+Mahu2021 collected 610 from pot
+*** SUMMARY ***
+Total pot 610 | Rake 0 
+Board [9h Qs 4s 4h 6c]
+Seat 1: loewe_murti (button) showed [8d 8c] and lost with two pair, Eights and Fours
+Seat 2: JJOKKAA (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) showed [As Ac] and won (610) with two pair, Aces and Fours
+
+
+
+PokerStars Hand #247110512190: Tournament #3673239027, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/14 21:32:44 CET [2023/11/14 15:32:44 ET]
+Table '3673239027 1' 3-max Seat #2 is the button
+Seat 1: loewe_murti (200 in chips) 
+Seat 2: JJOKKAA (690 in chips) 
+Seat 3: Mahu2021 (610 in chips) 
+Mahu2021: posts small blind 10
+loewe_murti: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c Jd]
+JJOKKAA: folds 
+Mahu2021: folds 
+Uncalled bet (10) returned to loewe_murti
+loewe_murti collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: loewe_murti (big blind) collected (20)
+Seat 2: JJOKKAA (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #247110514082: Tournament #3673239027, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/14 21:32:50 CET [2023/11/14 15:32:50 ET]
+Table '3673239027 1' 3-max Seat #3 is the button
+Seat 1: loewe_murti (210 in chips) 
+Seat 2: JJOKKAA (690 in chips) 
+Seat 3: Mahu2021 (600 in chips) 
+loewe_murti: posts small blind 10
+JJOKKAA: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d 6c]
+Mahu2021: folds 
+loewe_murti: raises 190 to 210 and is all-in
+JJOKKAA: folds 
+Uncalled bet (190) returned to loewe_murti
+loewe_murti collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: loewe_murti (small blind) collected (40)
+Seat 2: JJOKKAA (big blind) folded before Flop
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #247110517152: Tournament #3673239027, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/14 21:32:58 CET [2023/11/14 15:32:58 ET]
+Table '3673239027 1' 3-max Seat #1 is the button
+Seat 1: loewe_murti (230 in chips) 
+Seat 2: JJOKKAA (670 in chips) 
+Seat 3: Mahu2021 (600 in chips) 
+JJOKKAA: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2c Ad]
+loewe_murti: folds 
+JJOKKAA: folds 
+Uncalled bet (10) returned to Mahu2021
+Mahu2021 collected 20 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: loewe_murti (button) folded before Flop (didn't bet)
+Seat 2: JJOKKAA (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (20)
+
+
+
+PokerStars Hand #247110519219: Tournament #3673239027, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/14 21:33:04 CET [2023/11/14 15:33:04 ET]
+Table '3673239027 1' 3-max Seat #2 is the button
+Seat 1: loewe_murti (230 in chips) 
+Seat 2: JJOKKAA (660 in chips) 
+Seat 3: Mahu2021 (610 in chips) 
+Mahu2021: posts small blind 10
+loewe_murti: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d As]
+JJOKKAA: raises 20 to 40
+Mahu2021: folds 
+loewe_murti: raises 190 to 230 and is all-in
+JJOKKAA: calls 190
+*** FLOP *** [Qs 9d Td]
+*** TURN *** [Qs 9d Td] [Js]
+*** RIVER *** [Qs 9d Td Js] [Ac]
+*** SHOW DOWN ***
+loewe_murti: shows [Ah 6c] (a pair of Aces)
+JJOKKAA: shows [Ad 8d] (a straight, Eight to Queen)
+JJOKKAA collected 470 from pot
+loewe_murti finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 470 | Rake 0 
+Board [Qs 9d Td Js Ac]
+Seat 1: loewe_murti (big blind) showed [Ah 6c] and lost with a pair of Aces
+Seat 2: JJOKKAA (button) showed [Ad 8d] and won (470) with a straight, Eight to Queen
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #247110526027: Tournament #3673239027, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/14 21:33:23 CET [2023/11/14 15:33:23 ET]
+Table '3673239027 1' 3-max Seat #3 is the button
+Seat 2: JJOKKAA (900 in chips) 
+Seat 3: Mahu2021 (600 in chips) 
+Mahu2021: posts small blind 10
+JJOKKAA: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3c 6h]
+Mahu2021: folds 
+Uncalled bet (10) returned to JJOKKAA
+JJOKKAA collected 20 from pot
+JJOKKAA: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 2: JJOKKAA (big blind) collected (20)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #247110528025: Tournament #3673239027, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/14 21:33:28 CET [2023/11/14 15:33:28 ET]
+Table '3673239027 1' 3-max Seat #2 is the button
+Seat 2: JJOKKAA (910 in chips) 
+Seat 3: Mahu2021 (590 in chips) 
+JJOKKAA: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qs Ks]
+JJOKKAA: folds 
+Uncalled bet (10) returned to Mahu2021
+Mahu2021 collected 20 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 2: JJOKKAA (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (20)
+
+
+
+PokerStars Hand #247110529454: Tournament #3673239027, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/14 21:33:32 CET [2023/11/14 15:33:32 ET]
+Table '3673239027 1' 3-max Seat #3 is the button
+Seat 2: JJOKKAA (900 in chips) 
+Seat 3: Mahu2021 (600 in chips) 
+Mahu2021: posts small blind 10
+JJOKKAA: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks 5h]
+Mahu2021: calls 10
+JJOKKAA: checks 
+*** FLOP *** [Qs Ah 6c]
+JJOKKAA: checks 
+Mahu2021: bets 20
+JJOKKAA: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Qs Ah 6c]
+Seat 2: JJOKKAA (big blind) folded on the Flop
+Seat 3: Mahu2021 (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #247110534588: Tournament #3673239027, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/14 21:33:47 CET [2023/11/14 15:33:47 ET]
+Table '3673239027 1' 3-max Seat #2 is the button
+Seat 2: JJOKKAA (880 in chips) 
+Seat 3: Mahu2021 (620 in chips) 
+JJOKKAA: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd Th]
+JJOKKAA: folds 
+Uncalled bet (10) returned to Mahu2021
+Mahu2021 collected 20 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 2: JJOKKAA (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (20)
+
+
+
+PokerStars Hand #247110536119: Tournament #3673239027, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/14 21:33:51 CET [2023/11/14 15:33:51 ET]
+Table '3673239027 1' 3-max Seat #3 is the button
+Seat 2: JJOKKAA (870 in chips) 
+Seat 3: Mahu2021 (630 in chips) 
+Mahu2021: posts small blind 10
+JJOKKAA: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s 7d]
+Mahu2021: calls 10
+JJOKKAA: checks 
+*** FLOP *** [Js 8h 9c]
+JJOKKAA: checks 
+Mahu2021: bets 20
+JJOKKAA: calls 20
+*** TURN *** [Js 8h 9c] [6h]
+JJOKKAA: bets 40
+Mahu2021: calls 40
+*** RIVER *** [Js 8h 9c 6h] [5c]
+JJOKKAA: bets 80
+Mahu2021: raises 470 to 550 and is all-in
+JJOKKAA: folds 
+Uncalled bet (470) returned to Mahu2021
+Mahu2021 collected 320 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [Js 8h 9c 6h 5c]
+Seat 2: JJOKKAA (big blind) folded on the River
+Seat 3: Mahu2021 (button) (small blind) collected (320)
+
+
+
+PokerStars Hand #247110546154: Tournament #3673239027, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/14 21:34:20 CET [2023/11/14 15:34:20 ET]
+Table '3673239027 1' 3-max Seat #2 is the button
+Seat 2: JJOKKAA (710 in chips) 
+Seat 3: Mahu2021 (790 in chips) 
+JJOKKAA: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c Ad]
+JJOKKAA: raises 20 to 40
+Mahu2021: calls 20
+*** FLOP *** [4c Jh 2h]
+Mahu2021: checks 
+JJOKKAA: bets 20
+Mahu2021: calls 20
+*** TURN *** [4c Jh 2h] [3h]
+Mahu2021: checks 
+JJOKKAA: checks 
+*** RIVER *** [4c Jh 2h 3h] [2s]
+Mahu2021: checks 
+JJOKKAA: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [7c Ad] (a pair of Deuces)
+JJOKKAA: mucks hand 
+Mahu2021 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [4c Jh 2h 3h 2s]
+Seat 2: JJOKKAA (button) (small blind) mucked [Qs 8h]
+Seat 3: Mahu2021 (big blind) showed [7c Ad] and won (120) with a pair of Deuces
+
+
+
+PokerStars Hand #247110553652: Tournament #3673239027, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/14 21:34:40 CET [2023/11/14 15:34:40 ET]
+Table '3673239027 1' 3-max Seat #3 is the button
+Seat 2: JJOKKAA (650 in chips) 
+Seat 3: Mahu2021 (850 in chips) 
+Mahu2021: posts small blind 10
+JJOKKAA: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts 3s]
+Mahu2021: calls 10
+JJOKKAA: checks 
+*** FLOP *** [6s As 8h]
+JJOKKAA: checks 
+Mahu2021: checks 
+*** TURN *** [6s As 8h] [4c]
+JJOKKAA: checks 
+Mahu2021: checks 
+*** RIVER *** [6s As 8h 4c] [3c]
+JJOKKAA: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+JJOKKAA: shows [3h Jd] (a pair of Threes)
+Mahu2021: mucks hand 
+JJOKKAA collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [6s As 8h 4c 3c]
+Seat 2: JJOKKAA (big blind) showed [3h Jd] and won (40) with a pair of Threes
+Seat 3: Mahu2021 (button) (small blind) mucked [Ts 3s]
+
+
+
+PokerStars Hand #247110559846: Tournament #3673239027, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/14 21:34:57 CET [2023/11/14 15:34:57 ET]
+Table '3673239027 1' 3-max Seat #2 is the button
+Seat 2: JJOKKAA (670 in chips) 
+Seat 3: Mahu2021 (830 in chips) 
+JJOKKAA: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d Ac]
+JJOKKAA: calls 10
+Mahu2021: raises 40 to 60
+JJOKKAA: calls 40
+*** FLOP *** [2h 8c 7d]
+Mahu2021: checks 
+JJOKKAA: checks 
+*** TURN *** [2h 8c 7d] [7s]
+Mahu2021: checks 
+JJOKKAA: checks 
+*** RIVER *** [2h 8c 7d 7s] [2c]
+Mahu2021: checks 
+JJOKKAA: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [9d Ac] (two pair, Sevens and Deuces)
+JJOKKAA: mucks hand 
+Mahu2021 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [2h 8c 7d 7s 2c]
+Seat 2: JJOKKAA (button) (small blind) mucked [3s 4s]
+Seat 3: Mahu2021 (big blind) showed [9d Ac] and won (120) with two pair, Sevens and Deuces
+
+
+
+PokerStars Hand #247110567570: Tournament #3673239027, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/14 21:35:19 CET [2023/11/14 15:35:19 ET]
+Table '3673239027 1' 3-max Seat #3 is the button
+Seat 2: JJOKKAA (610 in chips) 
+Seat 3: Mahu2021 (890 in chips) 
+Mahu2021: posts small blind 10
+JJOKKAA: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c 2s]
+Mahu2021: folds 
+Uncalled bet (10) returned to JJOKKAA
+JJOKKAA collected 20 from pot
+JJOKKAA: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 2: JJOKKAA (big blind) collected (20)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #247110569242: Tournament #3673239027, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/14 21:35:23 CET [2023/11/14 15:35:23 ET]
+Table '3673239027 1' 3-max Seat #2 is the button
+Seat 2: JJOKKAA (620 in chips) 
+Seat 3: Mahu2021 (880 in chips) 
+JJOKKAA: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8d 4s]
+JJOKKAA: calls 10
+Mahu2021: checks 
+*** FLOP *** [4h 2d 2c]
+Mahu2021: checks 
+JJOKKAA: checks 
+*** TURN *** [4h 2d 2c] [7h]
+Mahu2021: checks 
+JJOKKAA: checks 
+*** RIVER *** [4h 2d 2c 7h] [Qh]
+Mahu2021: checks 
+JJOKKAA: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [8d 4s] (two pair, Fours and Deuces)
+JJOKKAA: mucks hand 
+Mahu2021 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [4h 2d 2c 7h Qh]
+Seat 2: JJOKKAA (button) (small blind) mucked [5s Kd]
+Seat 3: Mahu2021 (big blind) showed [8d 4s] and won (40) with two pair, Fours and Deuces
+
+
+
+PokerStars Hand #247110579374: Tournament #3673239027, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/14 21:35:51 CET [2023/11/14 15:35:51 ET]
+Table '3673239027 1' 3-max Seat #3 is the button
+Seat 2: JJOKKAA (600 in chips) 
+Seat 3: Mahu2021 (900 in chips) 
+Mahu2021: posts small blind 15
+JJOKKAA: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Th Jh]
+Mahu2021: raises 30 to 60
+JJOKKAA: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: JJOKKAA (big blind) folded before Flop
+Seat 3: Mahu2021 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #247110582270: Tournament #3673239027, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/14 21:35:59 CET [2023/11/14 15:35:59 ET]
+Table '3673239027 1' 3-max Seat #2 is the button
+Seat 2: JJOKKAA (570 in chips) 
+Seat 3: Mahu2021 (930 in chips) 
+JJOKKAA: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qs 5d]
+JJOKKAA: raises 30 to 60
+Mahu2021: calls 30
+*** FLOP *** [4d 8c Tc]
+Mahu2021: checks 
+JJOKKAA: bets 60
+Mahu2021: folds 
+Uncalled bet (60) returned to JJOKKAA
+JJOKKAA collected 120 from pot
+JJOKKAA: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [4d 8c Tc]
+Seat 2: JJOKKAA (button) (small blind) collected (120)
+Seat 3: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #247110588479: Tournament #3673239027, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/14 21:36:16 CET [2023/11/14 15:36:16 ET]
+Table '3673239027 1' 3-max Seat #3 is the button
+Seat 2: JJOKKAA (630 in chips) 
+Seat 3: Mahu2021 (870 in chips) 
+Mahu2021: posts small blind 15
+JJOKKAA: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh Ts]
+Mahu2021: raises 30 to 60
+JJOKKAA: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: JJOKKAA (big blind) folded before Flop
+Seat 3: Mahu2021 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #247110590918: Tournament #3673239027, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/14 21:36:23 CET [2023/11/14 15:36:23 ET]
+Table '3673239027 1' 3-max Seat #2 is the button
+Seat 2: JJOKKAA (600 in chips) 
+Seat 3: Mahu2021 (900 in chips) 
+JJOKKAA: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts Js]
+JJOKKAA: raises 30 to 60
+Mahu2021: calls 30
+*** FLOP *** [4h Ac Jd]
+Mahu2021: checks 
+JJOKKAA: bets 60
+Mahu2021: calls 60
+*** TURN *** [4h Ac Jd] [9h]
+Mahu2021: checks 
+JJOKKAA: checks 
+*** RIVER *** [4h Ac Jd 9h] [4d]
+Mahu2021: checks 
+JJOKKAA: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [Ts Js] (two pair, Jacks and Fours)
+JJOKKAA: mucks hand 
+Mahu2021 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [4h Ac Jd 9h 4d]
+Seat 2: JJOKKAA (button) (small blind) mucked [8s Th]
+Seat 3: Mahu2021 (big blind) showed [Ts Js] and won (240) with two pair, Jacks and Fours
+
+
+
+PokerStars Hand #247110598586: Tournament #3673239027, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/14 21:36:44 CET [2023/11/14 15:36:44 ET]
+Table '3673239027 1' 3-max Seat #3 is the button
+Seat 2: JJOKKAA (480 in chips) 
+Seat 3: Mahu2021 (1020 in chips) 
+Mahu2021: posts small blind 15
+JJOKKAA: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h Th]
+Mahu2021: calls 15
+JJOKKAA: checks 
+*** FLOP *** [Qd Jc 6d]
+JJOKKAA: checks 
+Mahu2021: bets 30
+JJOKKAA: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Qd Jc 6d]
+Seat 2: JJOKKAA (big blind) folded on the Flop
+Seat 3: Mahu2021 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #247110603399: Tournament #3673239027, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/14 21:36:57 CET [2023/11/14 15:36:57 ET]
+Table '3673239027 1' 3-max Seat #2 is the button
+Seat 2: JJOKKAA (450 in chips) 
+Seat 3: Mahu2021 (1050 in chips) 
+JJOKKAA: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd Kc]
+JJOKKAA: raises 30 to 60
+Mahu2021: raises 990 to 1050 and is all-in
+JJOKKAA: calls 390 and is all-in
+Uncalled bet (600) returned to Mahu2021
+*** FLOP *** [Jd Jc 5s]
+*** TURN *** [Jd Jc 5s] [Qd]
+*** RIVER *** [Jd Jc 5s Qd] [9d]
+*** SHOW DOWN ***
+Mahu2021: shows [Kd Kc] (two pair, Kings and Jacks)
+JJOKKAA: shows [Th 9h] (two pair, Jacks and Nines)
+Mahu2021 collected 900 from pot
+JJOKKAA finished the tournament in 2nd place and received $4.00.
+Mahu2021 wins the tournament and receives $16.00 - congratulations!
+*** SUMMARY ***
+Total pot 900 | Rake 0 
+Board [Jd Jc 5s Qd 9d]
+Seat 2: JJOKKAA (button) (small blind) showed [Th 9h] and lost with two pair, Jacks and Nines
+Seat 3: Mahu2021 (big blind) showed [Kd Kc] and won (900) with two pair, Kings and Jacks
+
+
+

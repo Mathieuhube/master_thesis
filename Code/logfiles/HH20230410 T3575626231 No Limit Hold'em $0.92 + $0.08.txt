@@ -1,0 +1,67 @@
+﻿PokerStars Hand #243010362188: Tournament #3575626231, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/10 21:05:56 CET [2023/04/10 15:05:56 ET]
+Table '3575626231 1' 3-max Seat #1 is the button
+Seat 1: Ullo_Ela (500 in chips) 
+Seat 2: #Diamonds682 (500 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+#Diamonds682: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Th Qd]
+Ullo_Ela: raises 20 to 40
+#Diamonds682: calls 30
+Mahu2021: calls 20
+*** FLOP *** [4h 7d Ts]
+#Diamonds682: checks 
+Mahu2021: bets 40
+Ullo_Ela: calls 40
+#Diamonds682: folds 
+*** TURN *** [4h 7d Ts] [7h]
+Mahu2021: checks 
+Ullo_Ela: checks 
+*** RIVER *** [4h 7d Ts 7h] [Ah]
+Mahu2021: checks 
+Ullo_Ela: bets 200
+Mahu2021: folds 
+Uncalled bet (200) returned to Ullo_Ela
+Ullo_Ela collected 200 from pot
+Ullo_Ela: doesn't show hand 
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [4h 7d Ts 7h Ah]
+Seat 1: Ullo_Ela (button) collected (200)
+Seat 2: #Diamonds682 (small blind) folded on the Flop
+Seat 3: Mahu2021 (big blind) folded on the River
+
+
+
+PokerStars Hand #243010373558: Tournament #3575626231, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/10 21:06:23 CET [2023/04/10 15:06:23 ET]
+Table '3575626231 1' 3-max Seat #2 is the button
+Seat 1: Ullo_Ela (620 in chips) 
+Seat 2: #Diamonds682 (460 in chips) 
+Seat 3: Mahu2021 (420 in chips) 
+Mahu2021: posts small blind 10
+Ullo_Ela: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4c 4s]
+#Diamonds682: folds 
+Mahu2021: calls 10
+Ullo_Ela: raises 40 to 60
+Mahu2021: raises 360 to 420 and is all-in
+Ullo_Ela: calls 360
+*** FLOP *** [Qh 8h 7h]
+*** TURN *** [Qh 8h 7h] [Tc]
+*** RIVER *** [Qh 8h 7h Tc] [4h]
+*** SHOW DOWN ***
+Mahu2021: shows [4c 4s] (three of a kind, Fours)
+Ullo_Ela: shows [3c 3h] (a flush, Queen high)
+Ullo_Ela collected 840 from pot
+Mahu2021 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 840 | Rake 0 
+Board [Qh 8h 7h Tc 4h]
+Seat 1: Ullo_Ela (big blind) showed [3c 3h] and won (840) with a flush, Queen high
+Seat 2: #Diamonds682 (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) showed [4c 4s] and lost with three of a kind, Fours
+
+
+

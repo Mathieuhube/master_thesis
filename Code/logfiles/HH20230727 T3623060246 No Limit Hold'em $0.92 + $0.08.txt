@@ -1,0 +1,135 @@
+﻿PokerStars Hand #245047680096: Tournament #3623060246, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/07/27 15:34:13 CET [2023/07/27 9:34:13 ET]
+Table '3623060246 1' 3-max Seat #1 is the button
+Seat 1: Mojittoo (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: chaulky1979 (500 in chips) 
+Mahu2021: posts small blind 10
+chaulky1979: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s 5s]
+Mojittoo: folds 
+Mahu2021: raises 20 to 40
+chaulky1979: calls 20
+*** FLOP *** [3c 7s 3d]
+Mahu2021: checks 
+chaulky1979: checks 
+*** TURN *** [3c 7s 3d] [Kh]
+Mahu2021: checks 
+chaulky1979: checks 
+*** RIVER *** [3c 7s 3d Kh] [Ts]
+Mahu2021: checks 
+chaulky1979: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [6s 5s] (a pair of Threes)
+chaulky1979: shows [9c 6d] (a pair of Threes - King+Ten+Nine kicker)
+chaulky1979 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [3c 7s 3d Kh Ts]
+Seat 1: Mojittoo (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) showed [6s 5s] and lost with a pair of Threes
+Seat 3: chaulky1979 (big blind) showed [9c 6d] and won (80) with a pair of Threes
+
+
+
+PokerStars Hand #245047684002: Tournament #3623060246, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/07/27 15:34:33 CET [2023/07/27 9:34:33 ET]
+Table '3623060246 1' 3-max Seat #2 is the button
+Seat 1: Mojittoo (500 in chips) 
+Seat 2: Mahu2021 (460 in chips) 
+Seat 3: chaulky1979 (540 in chips) 
+chaulky1979: posts small blind 10
+Mojittoo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h 9c]
+Mahu2021: folds 
+chaulky1979: calls 10
+Mojittoo: checks 
+*** FLOP *** [Td 3h Qh]
+chaulky1979: checks 
+Mojittoo: checks 
+*** TURN *** [Td 3h Qh] [8c]
+chaulky1979: checks 
+Mojittoo: checks 
+*** RIVER *** [Td 3h Qh 8c] [3d]
+chaulky1979: checks 
+Mojittoo: checks 
+*** SHOW DOWN ***
+chaulky1979: shows [6s 7s] (a pair of Threes)
+Mojittoo: shows [4h 6c] (a pair of Threes)
+chaulky1979 collected 20 from pot
+Mojittoo collected 20 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Td 3h Qh 8c 3d]
+Seat 1: Mojittoo (big blind) showed [4h 6c] and won (20) with a pair of Threes
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: chaulky1979 (small blind) showed [6s 7s] and won (20) with a pair of Threes
+
+
+
+PokerStars Hand #245047687828: Tournament #3623060246, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/07/27 15:34:51 CET [2023/07/27 9:34:51 ET]
+Table '3623060246 1' 3-max Seat #3 is the button
+Seat 1: Mojittoo (500 in chips) 
+Seat 2: Mahu2021 (460 in chips) 
+Seat 3: chaulky1979 (540 in chips) 
+Mojittoo: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h Qs]
+chaulky1979: folds 
+Mojittoo: raises 40 to 60
+Mahu2021: calls 40
+*** FLOP *** [4c Kc Ts]
+Mojittoo: checks 
+Mahu2021: checks 
+*** TURN *** [4c Kc Ts] [2h]
+Mojittoo: checks 
+Mahu2021: bets 60
+Mojittoo: calls 60
+*** RIVER *** [4c Kc Ts 2h] [Th]
+Mojittoo: checks 
+Mahu2021: bets 240
+Mojittoo: raises 140 to 380 and is all-in
+Mahu2021: folds 
+Uncalled bet (140) returned to Mojittoo
+Mojittoo collected 720 from pot
+Mojittoo: doesn't show hand 
+*** SUMMARY ***
+Total pot 720 | Rake 0 
+Board [4c Kc Ts 2h Th]
+Seat 1: Mojittoo (small blind) collected (720)
+Seat 2: Mahu2021 (big blind) folded on the River
+Seat 3: chaulky1979 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245047693766: Tournament #3623060246, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/07/27 15:35:20 CET [2023/07/27 9:35:20 ET]
+Table '3623060246 1' 3-max Seat #1 is the button
+Seat 1: Mojittoo (860 in chips) 
+Seat 2: Mahu2021 (100 in chips) 
+Seat 3: chaulky1979 (540 in chips) 
+Mahu2021: posts small blind 10
+chaulky1979: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h 2c]
+Mojittoo: raises 20 to 40
+Mahu2021: raises 60 to 100 and is all-in
+chaulky1979: folds 
+Mojittoo: calls 60
+*** FLOP *** [Qs 7c Ac]
+*** TURN *** [Qs 7c Ac] [9h]
+*** RIVER *** [Qs 7c Ac 9h] [Kc]
+*** SHOW DOWN ***
+Mahu2021: shows [2h 2c] (a pair of Deuces)
+Mojittoo: shows [As 9c] (two pair, Aces and Nines)
+Mojittoo collected 220 from pot
+Mahu2021 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 220 | Rake 0 
+Board [Qs 7c Ac 9h Kc]
+Seat 1: Mojittoo (button) showed [As 9c] and won (220) with two pair, Aces and Nines
+Seat 2: Mahu2021 (small blind) showed [2h 2c] and lost with a pair of Deuces
+Seat 3: chaulky1979 (big blind) folded before Flop
+
+
+

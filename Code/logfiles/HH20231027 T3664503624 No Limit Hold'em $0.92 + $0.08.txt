@@ -1,0 +1,799 @@
+﻿PokerStars Hand #246767244101: Tournament #3664503624, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/10/27 11:05:45 CET [2023/10/27 5:05:45 ET]
+Table '3664503624 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: hackerupper (500 in chips) 
+Seat 3: tomsworks (500 in chips) 
+hackerupper: posts small blind 10
+tomsworks: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h 2s]
+Mahu2021: folds 
+hackerupper: calls 10
+tomsworks: raises 20 to 40
+hackerupper: folds 
+Uncalled bet (20) returned to tomsworks
+tomsworks collected 40 from pot
+tomsworks: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: hackerupper (small blind) folded before Flop
+Seat 3: tomsworks (big blind) collected (40)
+
+
+
+PokerStars Hand #246767245453: Tournament #3664503624, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/10/27 11:05:56 CET [2023/10/27 5:05:56 ET]
+Table '3664503624 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: hackerupper (480 in chips) 
+Seat 3: tomsworks (520 in chips) 
+tomsworks: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks 9c]
+hackerupper: calls 20
+tomsworks: raises 20 to 40
+Mahu2021: calls 20
+hackerupper: folds 
+*** FLOP *** [7c Qc Qh]
+tomsworks: bets 480 and is all-in
+Mahu2021: folds 
+Uncalled bet (480) returned to tomsworks
+tomsworks collected 100 from pot
+tomsworks: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [7c Qc Qh]
+Seat 1: Mahu2021 (big blind) folded on the Flop
+Seat 2: hackerupper (button) folded before Flop
+Seat 3: tomsworks (small blind) collected (100)
+
+
+
+PokerStars Hand #246767247056: Tournament #3664503624, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/10/27 11:06:09 CET [2023/10/27 5:06:09 ET]
+Table '3664503624 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (460 in chips) 
+Seat 2: hackerupper (460 in chips) 
+Seat 3: tomsworks (580 in chips) 
+Mahu2021: posts small blind 10
+hackerupper: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c 7h]
+tomsworks: raises 20 to 40
+Mahu2021: calls 30
+hackerupper: calls 20
+*** FLOP *** [3c 9d 8s]
+Mahu2021: bets 420 and is all-in
+hackerupper: folds 
+tomsworks: folds 
+Uncalled bet (420) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [3c 9d 8s]
+Seat 1: Mahu2021 (small blind) collected (120)
+Seat 2: hackerupper (big blind) folded on the Flop
+Seat 3: tomsworks (button) folded on the Flop
+
+
+
+PokerStars Hand #246767248628: Tournament #3664503624, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/10/27 11:06:21 CET [2023/10/27 5:06:21 ET]
+Table '3664503624 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (540 in chips) 
+Seat 2: hackerupper (420 in chips) 
+Seat 3: tomsworks (540 in chips) 
+hackerupper: posts small blind 10
+tomsworks: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d Tc]
+Mahu2021: folds 
+hackerupper: folds 
+Uncalled bet (10) returned to tomsworks
+tomsworks collected 20 from pot
+tomsworks: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: hackerupper (small blind) folded before Flop
+Seat 3: tomsworks (big blind) collected (20)
+
+
+
+PokerStars Hand #246767249309: Tournament #3664503624, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/10/27 11:06:27 CET [2023/10/27 5:06:27 ET]
+Table '3664503624 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (540 in chips) 
+Seat 2: hackerupper (410 in chips) 
+Seat 3: tomsworks (550 in chips) 
+tomsworks: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h Ks]
+hackerupper: calls 20
+tomsworks: raises 20 to 40
+Mahu2021: calls 20
+hackerupper: calls 20
+*** FLOP *** [4s Qd Qh]
+tomsworks: bets 120
+Mahu2021: folds 
+hackerupper: raises 250 to 370 and is all-in
+tomsworks: calls 250
+*** TURN *** [4s Qd Qh] [Ac]
+*** RIVER *** [4s Qd Qh Ac] [Kd]
+*** SHOW DOWN ***
+tomsworks: shows [2c 4h] (two pair, Queens and Fours)
+hackerupper: shows [6s Qs] (three of a kind, Queens)
+hackerupper collected 860 from pot
+*** SUMMARY ***
+Total pot 860 | Rake 0 
+Board [4s Qd Qh Ac Kd]
+Seat 1: Mahu2021 (big blind) folded on the Flop
+Seat 2: hackerupper (button) showed [6s Qs] and won (860) with three of a kind, Queens
+Seat 3: tomsworks (small blind) showed [2c 4h] and lost with two pair, Queens and Fours
+
+
+
+PokerStars Hand #246767252177: Tournament #3664503624, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/10/27 11:06:50 CET [2023/10/27 5:06:50 ET]
+Table '3664503624 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: hackerupper (860 in chips) 
+Seat 3: tomsworks (140 in chips) 
+Mahu2021: posts small blind 10
+hackerupper: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d 5s]
+tomsworks: raises 120 to 140 and is all-in
+Mahu2021: calls 130
+hackerupper: folds 
+*** FLOP *** [Js Th 4c]
+*** TURN *** [Js Th 4c] [Qs]
+*** RIVER *** [Js Th 4c Qs] [6c]
+*** SHOW DOWN ***
+Mahu2021: shows [5d 5s] (a pair of Fives)
+tomsworks: shows [9h Ah] (high card Ace)
+Mahu2021 collected 300 from pot
+tomsworks finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [Js Th 4c Qs 6c]
+Seat 1: Mahu2021 (small blind) showed [5d 5s] and won (300) with a pair of Fives
+Seat 2: hackerupper (big blind) folded before Flop
+Seat 3: tomsworks (button) showed [9h Ah] and lost with high card Ace
+
+
+
+PokerStars Hand #246767254309: Tournament #3664503624, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/10/27 11:07:08 CET [2023/10/27 5:07:08 ET]
+Table '3664503624 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (660 in chips) 
+Seat 2: hackerupper (840 in chips) 
+hackerupper: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kc 2d]
+hackerupper: calls 10
+Mahu2021: checks 
+*** FLOP *** [5d 8d Th]
+Mahu2021: checks 
+hackerupper: bets 20
+Mahu2021: folds 
+Uncalled bet (20) returned to hackerupper
+hackerupper collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [5d 8d Th]
+Seat 1: Mahu2021 (big blind) folded on the Flop
+Seat 2: hackerupper (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #246767255673: Tournament #3664503624, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/10/27 11:07:19 CET [2023/10/27 5:07:19 ET]
+Table '3664503624 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (640 in chips) 
+Seat 2: hackerupper (860 in chips) 
+Mahu2021: posts small blind 10
+hackerupper: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h 3d]
+Mahu2021: raises 40 to 60
+hackerupper: calls 40
+*** FLOP *** [8h 5d Qc]
+hackerupper: checks 
+Mahu2021: bets 80
+hackerupper: raises 80 to 160
+Mahu2021: raises 100 to 260
+hackerupper: calls 100
+*** TURN *** [8h 5d Qc] [3c]
+hackerupper: bets 20
+Mahu2021: raises 300 to 320 and is all-in
+hackerupper: calls 300
+*** RIVER *** [8h 5d Qc 3c] [8s]
+*** SHOW DOWN ***
+hackerupper: shows [Th 8d] (three of a kind, Eights)
+Mahu2021: shows [3h 3d] (a full house, Threes full of Eights)
+Mahu2021 collected 1280 from pot
+*** SUMMARY ***
+Total pot 1280 | Rake 0 
+Board [8h 5d Qc 3c 8s]
+Seat 1: Mahu2021 (button) (small blind) showed [3h 3d] and won (1280) with a full house, Threes full of Eights
+Seat 2: hackerupper (big blind) showed [Th 8d] and lost with three of a kind, Eights
+
+
+
+PokerStars Hand #246767259646: Tournament #3664503624, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/10/27 11:07:51 CET [2023/10/27 5:07:51 ET]
+Table '3664503624 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (1280 in chips) 
+Seat 2: hackerupper (220 in chips) 
+hackerupper: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s 3s]
+hackerupper: raises 200 to 220 and is all-in
+Mahu2021: folds 
+Uncalled bet (200) returned to hackerupper
+hackerupper collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: hackerupper (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #246767260524: Tournament #3664503624, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/10/27 11:07:58 CET [2023/10/27 5:07:58 ET]
+Table '3664503624 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1260 in chips) 
+Seat 2: hackerupper (240 in chips) 
+Mahu2021: posts small blind 10
+hackerupper: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c 6c]
+Mahu2021: calls 10
+hackerupper: checks 
+*** FLOP *** [Kc Jd 2s]
+hackerupper: checks 
+Mahu2021: bets 20
+hackerupper: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Kc Jd 2s]
+Seat 1: Mahu2021 (button) (small blind) collected (40)
+Seat 2: hackerupper (big blind) folded on the Flop
+
+
+
+PokerStars Hand #246767262194: Tournament #3664503624, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/10/27 11:08:12 CET [2023/10/27 5:08:12 ET]
+Table '3664503624 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (1280 in chips) 
+Seat 2: hackerupper (220 in chips) 
+hackerupper: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s Tc]
+hackerupper: folds 
+Uncalled bet (10) returned to Mahu2021
+Mahu2021 collected 20 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (20)
+Seat 2: hackerupper (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #246767262801: Tournament #3664503624, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/10/27 11:08:16 CET [2023/10/27 5:08:16 ET]
+Table '3664503624 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1290 in chips) 
+Seat 2: hackerupper (210 in chips) 
+Mahu2021: posts small blind 10
+hackerupper: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qd Tc]
+Mahu2021: raises 40 to 60
+hackerupper: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) collected (40)
+Seat 2: hackerupper (big blind) folded before Flop
+
+
+
+PokerStars Hand #246767263515: Tournament #3664503624, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/10/27 11:08:22 CET [2023/10/27 5:08:22 ET]
+Table '3664503624 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (1310 in chips) 
+Seat 2: hackerupper (190 in chips) 
+hackerupper: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8s 8c]
+hackerupper: folds 
+Uncalled bet (10) returned to Mahu2021
+Mahu2021 collected 20 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (20)
+Seat 2: hackerupper (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #246767264284: Tournament #3664503624, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/10/27 11:08:28 CET [2023/10/27 5:08:28 ET]
+Table '3664503624 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1320 in chips) 
+Seat 2: hackerupper (180 in chips) 
+Mahu2021: posts small blind 10
+hackerupper: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Td Ac]
+Mahu2021: raises 40 to 60
+hackerupper: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) collected (40)
+Seat 2: hackerupper (big blind) folded before Flop
+
+
+
+PokerStars Hand #246767264979: Tournament #3664503624, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/10/27 11:08:34 CET [2023/10/27 5:08:34 ET]
+Table '3664503624 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (1340 in chips) 
+Seat 2: hackerupper (160 in chips) 
+hackerupper: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s 9s]
+hackerupper: raises 140 to 160 and is all-in
+Mahu2021: folds 
+Uncalled bet (140) returned to hackerupper
+hackerupper collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: hackerupper (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #246767265747: Tournament #3664503624, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/10/27 11:08:40 CET [2023/10/27 5:08:40 ET]
+Table '3664503624 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1320 in chips) 
+Seat 2: hackerupper (180 in chips) 
+Mahu2021: posts small blind 10
+hackerupper: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4d 5c]
+Mahu2021: calls 10
+hackerupper: checks 
+*** FLOP *** [Jc Ac 6c]
+hackerupper: checks 
+Mahu2021: bets 20
+hackerupper: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Jc Ac 6c]
+Seat 1: Mahu2021 (button) (small blind) collected (40)
+Seat 2: hackerupper (big blind) folded on the Flop
+
+
+
+PokerStars Hand #246767267283: Tournament #3664503624, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/10/27 11:08:52 CET [2023/10/27 5:08:52 ET]
+Table '3664503624 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (1340 in chips) 
+Seat 2: hackerupper (160 in chips) 
+hackerupper: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d 7d]
+hackerupper: raises 130 to 160 and is all-in
+Mahu2021: folds 
+Uncalled bet (130) returned to hackerupper
+hackerupper collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: hackerupper (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #246767268021: Tournament #3664503624, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/10/27 11:08:58 CET [2023/10/27 5:08:58 ET]
+Table '3664503624 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1310 in chips) 
+Seat 2: hackerupper (190 in chips) 
+Mahu2021: posts small blind 15
+hackerupper: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd 2h]
+Mahu2021: calls 15
+hackerupper: raises 160 to 190 and is all-in
+Mahu2021: folds 
+Uncalled bet (160) returned to hackerupper
+hackerupper collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 2: hackerupper (big blind) collected (60)
+
+
+
+PokerStars Hand #246767269042: Tournament #3664503624, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/10/27 11:09:06 CET [2023/10/27 5:09:06 ET]
+Table '3664503624 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (1280 in chips) 
+Seat 2: hackerupper (220 in chips) 
+hackerupper: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8c 6h]
+hackerupper: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (30)
+Seat 2: hackerupper (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #246767269757: Tournament #3664503624, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/10/27 11:09:12 CET [2023/10/27 5:09:12 ET]
+Table '3664503624 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1295 in chips) 
+Seat 2: hackerupper (205 in chips) 
+Mahu2021: posts small blind 15
+hackerupper: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s 8c]
+Mahu2021: calls 15
+hackerupper: raises 175 to 205 and is all-in
+Mahu2021: folds 
+Uncalled bet (175) returned to hackerupper
+hackerupper collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 2: hackerupper (big blind) collected (60)
+
+
+
+PokerStars Hand #246767270670: Tournament #3664503624, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/10/27 11:09:19 CET [2023/10/27 5:09:19 ET]
+Table '3664503624 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (1265 in chips) 
+Seat 2: hackerupper (235 in chips) 
+hackerupper: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d 3h]
+hackerupper: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (30)
+Seat 2: hackerupper (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #246767271625: Tournament #3664503624, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/10/27 11:09:27 CET [2023/10/27 5:09:27 ET]
+Table '3664503624 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1280 in chips) 
+Seat 2: hackerupper (220 in chips) 
+Mahu2021: posts small blind 15
+hackerupper: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h 8s]
+Mahu2021: calls 15
+hackerupper: raises 190 to 220 and is all-in
+Mahu2021: folds 
+Uncalled bet (190) returned to hackerupper
+hackerupper collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 2: hackerupper (big blind) collected (60)
+
+
+
+PokerStars Hand #246767272620: Tournament #3664503624, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/10/27 11:09:35 CET [2023/10/27 5:09:35 ET]
+Table '3664503624 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (1250 in chips) 
+Seat 2: hackerupper (250 in chips) 
+hackerupper: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h 2c]
+hackerupper: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (30)
+Seat 2: hackerupper (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #246767273359: Tournament #3664503624, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/10/27 11:09:41 CET [2023/10/27 5:09:41 ET]
+Table '3664503624 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1265 in chips) 
+Seat 2: hackerupper (235 in chips) 
+Mahu2021: posts small blind 15
+hackerupper: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd 2s]
+Mahu2021: calls 15
+hackerupper: raises 205 to 235 and is all-in
+Mahu2021: folds 
+Uncalled bet (205) returned to hackerupper
+hackerupper collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 2: hackerupper (big blind) collected (60)
+
+
+
+PokerStars Hand #246767274310: Tournament #3664503624, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/10/27 11:09:48 CET [2023/10/27 5:09:48 ET]
+Table '3664503624 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (1235 in chips) 
+Seat 2: hackerupper (265 in chips) 
+hackerupper: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s 5c]
+hackerupper: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (30)
+Seat 2: hackerupper (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #246767274946: Tournament #3664503624, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/10/27 11:09:53 CET [2023/10/27 5:09:53 ET]
+Table '3664503624 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1250 in chips) 
+Seat 2: hackerupper (250 in chips) 
+Mahu2021: posts small blind 15
+hackerupper: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd 9s]
+Mahu2021: calls 15
+hackerupper: checks 
+*** FLOP *** [2d 6h 8d]
+hackerupper: bets 220 and is all-in
+Mahu2021: folds 
+Uncalled bet (220) returned to hackerupper
+hackerupper collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [2d 6h 8d]
+Seat 1: Mahu2021 (button) (small blind) folded on the Flop
+Seat 2: hackerupper (big blind) collected (60)
+
+
+
+PokerStars Hand #246767276520: Tournament #3664503624, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/10/27 11:10:05 CET [2023/10/27 5:10:05 ET]
+Table '3664503624 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (1220 in chips) 
+Seat 2: hackerupper (280 in chips) 
+hackerupper: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2s 4s]
+hackerupper: raises 250 to 280 and is all-in
+Mahu2021: folds 
+Uncalled bet (250) returned to hackerupper
+hackerupper collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: hackerupper (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #246767277427: Tournament #3664503624, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/10/27 11:10:12 CET [2023/10/27 5:10:12 ET]
+Table '3664503624 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1190 in chips) 
+Seat 2: hackerupper (310 in chips) 
+Mahu2021: posts small blind 15
+hackerupper: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d Kc]
+Mahu2021: calls 15
+hackerupper: checks 
+*** FLOP *** [4d 3h 5h]
+hackerupper: bets 280 and is all-in
+Mahu2021: folds 
+Uncalled bet (280) returned to hackerupper
+hackerupper collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [4d 3h 5h]
+Seat 1: Mahu2021 (button) (small blind) folded on the Flop
+Seat 2: hackerupper (big blind) collected (60)
+
+
+
+PokerStars Hand #246767278797: Tournament #3664503624, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/10/27 11:10:23 CET [2023/10/27 5:10:23 ET]
+Table '3664503624 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (1160 in chips) 
+Seat 2: hackerupper (340 in chips) 
+hackerupper: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d 3c]
+hackerupper: raises 310 to 340 and is all-in
+Mahu2021: folds 
+Uncalled bet (310) returned to hackerupper
+hackerupper collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: hackerupper (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #246767279461: Tournament #3664503624, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/10/27 11:10:28 CET [2023/10/27 5:10:28 ET]
+Table '3664503624 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1130 in chips) 
+Seat 2: hackerupper (370 in chips) 
+Mahu2021: posts small blind 15
+hackerupper: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s 2d]
+Mahu2021: folds 
+Uncalled bet (15) returned to hackerupper
+hackerupper collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 2: hackerupper (big blind) collected (30)
+
+
+
+PokerStars Hand #246767280030: Tournament #3664503624, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/10/27 11:10:33 CET [2023/10/27 5:10:33 ET]
+Table '3664503624 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (1115 in chips) 
+Seat 2: hackerupper (385 in chips) 
+hackerupper: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd 6c]
+hackerupper: raises 355 to 385 and is all-in
+Mahu2021: folds 
+Uncalled bet (355) returned to hackerupper
+hackerupper collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: hackerupper (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #246767281085: Tournament #3664503624, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/10/27 11:10:41 CET [2023/10/27 5:10:41 ET]
+Table '3664503624 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1085 in chips) 
+Seat 2: hackerupper (415 in chips) 
+Mahu2021: posts small blind 15
+hackerupper: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Td Ks]
+Mahu2021: calls 15
+hackerupper: checks 
+*** FLOP *** [6h 6c 2s]
+hackerupper: checks 
+Mahu2021: bets 60
+hackerupper: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [6h 6c 2s]
+Seat 1: Mahu2021 (button) (small blind) collected (60)
+Seat 2: hackerupper (big blind) folded on the Flop
+
+
+
+PokerStars Hand #246767282464: Tournament #3664503624, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/10/27 11:10:52 CET [2023/10/27 5:10:52 ET]
+Table '3664503624 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (1115 in chips) 
+Seat 2: hackerupper (385 in chips) 
+hackerupper: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac 6c]
+hackerupper: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (30)
+Seat 2: hackerupper (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #246767283133: Tournament #3664503624, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/10/27 11:10:57 CET [2023/10/27 5:10:57 ET]
+Table '3664503624 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1130 in chips) 
+Seat 2: hackerupper (370 in chips) 
+Mahu2021: posts small blind 15
+hackerupper: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4c 3s]
+Mahu2021: calls 15
+hackerupper: checks 
+*** FLOP *** [8d 2d 6s]
+hackerupper: checks 
+Mahu2021: bets 30
+hackerupper: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [8d 2d 6s]
+Seat 1: Mahu2021 (button) (small blind) collected (60)
+Seat 2: hackerupper (big blind) folded on the Flop
+
+
+
+PokerStars Hand #246767284355: Tournament #3664503624, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/10/27 11:11:07 CET [2023/10/27 5:11:07 ET]
+Table '3664503624 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (1160 in chips) 
+Seat 2: hackerupper (340 in chips) 
+hackerupper: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As 8s]
+hackerupper: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (30)
+Seat 2: hackerupper (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #246767284877: Tournament #3664503624, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/10/27 11:11:11 CET [2023/10/27 5:11:11 ET]
+Table '3664503624 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1175 in chips) 
+Seat 2: hackerupper (325 in chips) 
+Mahu2021: posts small blind 15
+hackerupper: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d 2s]
+Mahu2021: raises 1145 to 1175 and is all-in
+hackerupper: calls 295 and is all-in
+Uncalled bet (850) returned to Mahu2021
+*** FLOP *** [Jh 4d Kd]
+*** TURN *** [Jh 4d Kd] [7d]
+*** RIVER *** [Jh 4d Kd 7d] [4c]
+*** SHOW DOWN ***
+hackerupper: shows [Ac Qh] (a pair of Fours)
+Mahu2021: shows [2d 2s] (two pair, Fours and Deuces)
+Mahu2021 collected 650 from pot
+hackerupper finished the tournament in 2nd place
+Mahu2021 wins the tournament and receives $3.00 - congratulations!
+*** SUMMARY ***
+Total pot 650 | Rake 0 
+Board [Jh 4d Kd 7d 4c]
+Seat 1: Mahu2021 (button) (small blind) showed [2d 2s] and won (650) with two pair, Fours and Deuces
+Seat 2: hackerupper (big blind) showed [Ac Qh] and lost with a pair of Fours
+
+
+

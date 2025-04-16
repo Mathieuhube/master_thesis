@@ -1,0 +1,129 @@
+﻿PokerStars Hand #249083968207: Tournament #3721011074, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/02/25 14:47:26 CET [2024/02/25 8:47:26 ET]
+Table '3721011074 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: Joker901001 (500 in chips) 
+Seat 3: micdik (500 in chips) 
+Joker901001: posts small blind 10
+micdik: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h 3c]
+Mahu2021: folds 
+Joker901001: folds 
+Uncalled bet (10) returned to micdik
+micdik collected 20 from pot
+micdik: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: Joker901001 (small blind) folded before Flop
+Seat 3: micdik (big blind) collected (20)
+
+
+
+PokerStars Hand #249083969430: Tournament #3721011074, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/02/25 14:47:31 CET [2024/02/25 8:47:31 ET]
+Table '3721011074 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: Joker901001 (490 in chips) 
+Seat 3: micdik (510 in chips) 
+micdik: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h Qd]
+Joker901001: folds 
+micdik: calls 10
+Mahu2021: checks 
+*** FLOP *** [Qc 6s Qh]
+micdik: checks 
+Mahu2021: bets 20
+micdik: calls 20
+*** TURN *** [Qc 6s Qh] [4d]
+micdik: checks 
+Mahu2021: bets 40
+micdik: calls 40
+*** RIVER *** [Qc 6s Qh 4d] [8d]
+micdik: bets 110
+Mahu2021: raises 310 to 420 and is all-in
+micdik: calls 310
+*** SHOW DOWN ***
+Mahu2021: shows [7h Qd] (three of a kind, Queens)
+micdik: shows [2d Qs] (three of a kind, Queens - lower kicker)
+Mahu2021 collected 1000 from pot
+*** SUMMARY ***
+Total pot 1000 | Rake 0 
+Board [Qc 6s Qh 4d 8d]
+Seat 1: Mahu2021 (big blind) showed [7h Qd] and won (1000) with three of a kind, Queens
+Seat 2: Joker901001 (button) folded before Flop (didn't bet)
+Seat 3: micdik (small blind) showed [2d Qs] and lost with three of a kind, Queens
+
+
+
+PokerStars Hand #249083977523: Tournament #3721011074, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/02/25 14:48:06 CET [2024/02/25 8:48:06 ET]
+Table '3721011074 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (1000 in chips) 
+Seat 2: Joker901001 (490 in chips) 
+Seat 3: micdik (10 in chips) 
+Mahu2021: posts small blind 10
+Joker901001: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s 5c]
+micdik: calls 10 and is all-in
+Mahu2021: calls 10
+Joker901001: checks 
+*** FLOP *** [6d As Qc]
+Mahu2021: checks 
+Joker901001: bets 20
+Mahu2021: folds 
+Uncalled bet (20) returned to Joker901001
+*** TURN *** [6d As Qc] [Tc]
+*** RIVER *** [6d As Qc Tc] [5h]
+*** SHOW DOWN ***
+Joker901001: shows [Qd 3d] (a pair of Queens)
+Joker901001 collected 20 from side pot
+micdik: shows [6c Kc] (a pair of Sixes)
+Joker901001 collected 30 from main pot
+micdik finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 50 Main pot 30. Side pot 20. | Rake 0 
+Board [6d As Qc Tc 5h]
+Seat 1: Mahu2021 (small blind) folded on the Flop
+Seat 2: Joker901001 (big blind) showed [Qd 3d] and won (50) with a pair of Queens
+Seat 3: micdik (button) showed [6c Kc] and lost with a pair of Sixes
+
+
+
+PokerStars Hand #249083983233: Tournament #3721011074, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/02/25 14:48:31 CET [2024/02/25 8:48:31 ET]
+Table '3721011074 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (980 in chips) 
+Seat 2: Joker901001 (520 in chips) 
+Joker901001: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js 6d]
+Joker901001: raises 20 to 40
+Mahu2021: calls 20
+*** FLOP *** [3h 4s 2c]
+Mahu2021: checks 
+Joker901001: bets 50
+Mahu2021: calls 50
+*** TURN *** [3h 4s 2c] [5c]
+Mahu2021: checks 
+Joker901001: bets 90
+Mahu2021: calls 90
+*** RIVER *** [3h 4s 2c 5c] [Ac]
+Mahu2021: bets 360
+Joker901001: calls 340 and is all-in
+Uncalled bet (20) returned to Mahu2021
+*** SHOW DOWN ***
+Mahu2021: shows [Js 6d] (a straight, Deuce to Six)
+Joker901001: shows [Ad As] (a straight, Ace to Five)
+Mahu2021 collected 1040 from pot
+Joker901001 finished the tournament in 2nd place
+Mahu2021 wins the tournament and receives $6.00 - congratulations!
+*** SUMMARY ***
+Total pot 1040 | Rake 0 
+Board [3h 4s 2c 5c Ac]
+Seat 1: Mahu2021 (big blind) showed [Js 6d] and won (1040) with a straight, Deuce to Six
+Seat 2: Joker901001 (button) (small blind) showed [Ad As] and lost with a straight, Ace to Five
+
+
+

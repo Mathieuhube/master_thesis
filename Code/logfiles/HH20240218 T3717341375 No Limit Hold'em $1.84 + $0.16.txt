@@ -1,0 +1,83 @@
+﻿PokerStars Hand #248947232441: Tournament #3717341375, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/02/18 10:36:15 CET [2024/02/18 4:36:15 ET]
+Table '3717341375 1' 3-max Seat #1 is the button
+Seat 1: Michal1331 (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: RM6991 (500 in chips) 
+Mahu2021: posts small blind 10
+RM6991: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s 7s]
+Michal1331 has timed out
+Michal1331: folds 
+Michal1331 is sitting out
+Mahu2021: folds 
+Uncalled bet (10) returned to RM6991
+RM6991 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Michal1331 (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: RM6991 (big blind) collected (20)
+
+
+
+PokerStars Hand #248947234421: Tournament #3717341375, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/02/18 10:36:30 CET [2024/02/18 4:36:30 ET]
+Table '3717341375 1' 3-max Seat #2 is the button
+Seat 1: Michal1331 (500 in chips) is sitting out
+Seat 2: Mahu2021 (490 in chips) 
+Seat 3: RM6991 (510 in chips) 
+RM6991: posts small blind 10
+Michal1331: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As 2s]
+Michal1331 has returned
+Mahu2021: raises 20 to 40
+RM6991: calls 30
+Michal1331: folds 
+*** FLOP *** [8h 7d 4s]
+RM6991: checks 
+Mahu2021: checks 
+*** TURN *** [8h 7d 4s] [Jh]
+RM6991: bets 60
+Mahu2021: folds 
+Uncalled bet (60) returned to RM6991
+RM6991 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [8h 7d 4s Jh]
+Seat 1: Michal1331 (big blind) folded before Flop
+Seat 2: Mahu2021 (button) folded on the Turn
+Seat 3: RM6991 (small blind) collected (100)
+
+
+
+PokerStars Hand #248947236759: Tournament #3717341375, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/02/18 10:36:49 CET [2024/02/18 4:36:49 ET]
+Table '3717341375 1' 3-max Seat #3 is the button
+Seat 1: Michal1331 (480 in chips) 
+Seat 2: Mahu2021 (450 in chips) 
+Seat 3: RM6991 (570 in chips) 
+Michal1331: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh Kc]
+RM6991: raises 26 to 46
+Michal1331: folds 
+Mahu2021: raises 404 to 450 and is all-in
+RM6991: calls 404
+*** FLOP *** [9c Ad 2c]
+*** TURN *** [9c Ad 2c] [8d]
+*** RIVER *** [9c Ad 2c 8d] [6d]
+*** SHOW DOWN ***
+Mahu2021: shows [Kh Kc] (a pair of Kings)
+RM6991: shows [Ah Jd] (a pair of Aces)
+RM6991 collected 910 from pot
+Mahu2021 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 910 | Rake 0 
+Board [9c Ad 2c 8d 6d]
+Seat 1: Michal1331 (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) showed [Kh Kc] and lost with a pair of Kings
+Seat 3: RM6991 (button) showed [Ah Jd] and won (910) with a pair of Aces
+
+
+

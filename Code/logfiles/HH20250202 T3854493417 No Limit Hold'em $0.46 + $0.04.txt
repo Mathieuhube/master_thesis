@@ -1,0 +1,808 @@
+﻿PokerStars Hand #254676157027: Tournament #3854493417, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2025/02/02 21:21:54 CET [2025/02/02 15:21:54 ET]
+Table '3854493417 1' 3-max Seat #1 is the button
+Seat 1: Heller643 (500 in chips) 
+Seat 2: WolfPurdy9 (500 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+WolfPurdy9: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s 9h]
+Heller643: calls 20
+WolfPurdy9: raises 20 to 40
+Mahu2021: folds 
+Heller643: calls 20
+*** FLOP *** [Th Kh Qd]
+WolfPurdy9: checks 
+Heller643: checks 
+*** TURN *** [Th Kh Qd] [Ah]
+WolfPurdy9: bets 120
+Heller643: calls 120
+*** RIVER *** [Th Kh Qd Ah] [8c]
+WolfPurdy9: checks 
+Heller643: checks 
+*** SHOW DOWN ***
+WolfPurdy9: shows [Qc Qs] (three of a kind, Queens)
+Heller643: mucks hand 
+WolfPurdy9 collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | Rake 0 
+Board [Th Kh Qd Ah 8c]
+Seat 1: Heller643 (button) mucked [Ac 7c]
+Seat 2: WolfPurdy9 (small blind) showed [Qc Qs] and won (340) with three of a kind, Queens
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254676171266: Tournament #3854493417, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2025/02/02 21:22:30 CET [2025/02/02 15:22:30 ET]
+Table '3854493417 1' 3-max Seat #2 is the button
+Seat 1: Heller643 (340 in chips) 
+Seat 2: WolfPurdy9 (680 in chips) 
+Seat 3: Mahu2021 (480 in chips) 
+Mahu2021: posts small blind 10
+Heller643: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd 7h]
+WolfPurdy9: raises 20 to 40
+Mahu2021: calls 30
+Heller643: calls 20
+*** FLOP *** [9s 5s 7c]
+Mahu2021: bets 40
+Heller643: folds 
+WolfPurdy9: calls 40
+*** TURN *** [9s 5s 7c] [4s]
+Mahu2021: checks 
+WolfPurdy9: checks 
+*** RIVER *** [9s 5s 7c 4s] [5h]
+Mahu2021: checks 
+WolfPurdy9: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [Kd 7h] (two pair, Sevens and Fives)
+WolfPurdy9: mucks hand 
+Mahu2021 collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [9s 5s 7c 4s 5h]
+Seat 1: Heller643 (big blind) folded on the Flop
+Seat 2: WolfPurdy9 (button) mucked [Th Ac]
+Seat 3: Mahu2021 (small blind) showed [Kd 7h] and won (200) with two pair, Sevens and Fives
+
+
+
+PokerStars Hand #254676181527: Tournament #3854493417, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2025/02/02 21:22:56 CET [2025/02/02 15:22:56 ET]
+Table '3854493417 1' 3-max Seat #3 is the button
+Seat 1: Heller643 (300 in chips) 
+Seat 2: WolfPurdy9 (600 in chips) 
+Seat 3: Mahu2021 (600 in chips) 
+Heller643: posts small blind 10
+WolfPurdy9: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As 7c]
+Mahu2021: folds 
+Heller643: calls 10
+WolfPurdy9: checks 
+*** FLOP *** [9c 3c 7s]
+Heller643: checks 
+WolfPurdy9: bets 40
+Heller643: calls 40
+*** TURN *** [9c 3c 7s] [4s]
+Heller643: checks 
+WolfPurdy9: bets 100
+Heller643: calls 100
+*** RIVER *** [9c 3c 7s 4s] [8s]
+Heller643: bets 80
+WolfPurdy9: calls 80
+*** SHOW DOWN ***
+Heller643: shows [7h 8h] (two pair, Eights and Sevens)
+WolfPurdy9: shows [9s 8d] (two pair, Nines and Eights)
+WolfPurdy9 collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Board [9c 3c 7s 4s 8s]
+Seat 1: Heller643 (small blind) showed [7h 8h] and lost with two pair, Eights and Sevens
+Seat 2: WolfPurdy9 (big blind) showed [9s 8d] and won (480) with two pair, Nines and Eights
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254676196603: Tournament #3854493417, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2025/02/02 21:23:34 CET [2025/02/02 15:23:34 ET]
+Table '3854493417 1' 3-max Seat #1 is the button
+Seat 1: Heller643 (60 in chips) 
+Seat 2: WolfPurdy9 (840 in chips) 
+Seat 3: Mahu2021 (600 in chips) 
+WolfPurdy9: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d Js]
+Heller643: folds 
+WolfPurdy9: calls 10
+Mahu2021: checks 
+*** FLOP *** [2h 7d 2d]
+WolfPurdy9: checks 
+Mahu2021: checks 
+*** TURN *** [2h 7d 2d] [7h]
+WolfPurdy9: checks 
+Mahu2021: checks 
+*** RIVER *** [2h 7d 2d 7h] [2s]
+WolfPurdy9: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+WolfPurdy9: shows [4s 3d] (a full house, Deuces full of Sevens)
+Mahu2021: shows [6d Js] (a full house, Deuces full of Sevens)
+WolfPurdy9 collected 20 from pot
+Mahu2021 collected 20 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [2h 7d 2d 7h 2s]
+Seat 1: Heller643 (button) folded before Flop (didn't bet)
+Seat 2: WolfPurdy9 (small blind) showed [4s 3d] and won (20) with a full house, Deuces full of Sevens
+Seat 3: Mahu2021 (big blind) showed [6d Js] and won (20) with a full house, Deuces full of Sevens
+
+
+
+PokerStars Hand #254676205006: Tournament #3854493417, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2025/02/02 21:23:55 CET [2025/02/02 15:23:55 ET]
+Table '3854493417 1' 3-max Seat #2 is the button
+Seat 1: Heller643 (60 in chips) 
+Seat 2: WolfPurdy9 (840 in chips) 
+Seat 3: Mahu2021 (600 in chips) 
+Mahu2021: posts small blind 10
+Heller643: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Th 3c]
+WolfPurdy9: calls 20
+Mahu2021: folds 
+Heller643: checks 
+*** FLOP *** [Jd 3h Qh]
+Heller643: checks 
+WolfPurdy9: checks 
+*** TURN *** [Jd 3h Qh] [As]
+Heller643: checks 
+WolfPurdy9: checks 
+*** RIVER *** [Jd 3h Qh As] [Qs]
+Heller643: checks 
+WolfPurdy9: checks 
+*** SHOW DOWN ***
+Heller643: shows [Kh 8s] (a pair of Queens)
+WolfPurdy9: shows [Kd 3s] (two pair, Queens and Threes)
+WolfPurdy9 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [Jd 3h Qh As Qs]
+Seat 1: Heller643 (big blind) showed [Kh 8s] and lost with a pair of Queens
+Seat 2: WolfPurdy9 (button) showed [Kd 3s] and won (50) with two pair, Queens and Threes
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254676218605: Tournament #3854493417, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2025/02/02 21:24:29 CET [2025/02/02 15:24:29 ET]
+Table '3854493417 1' 3-max Seat #3 is the button
+Seat 1: Heller643 (40 in chips) 
+Seat 2: WolfPurdy9 (870 in chips) 
+Seat 3: Mahu2021 (590 in chips) 
+Heller643: posts small blind 15
+WolfPurdy9: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h 8c]
+Mahu2021: raises 30 to 60
+Heller643: calls 25 and is all-in
+WolfPurdy9: calls 30
+*** FLOP *** [5s 5h 8s]
+WolfPurdy9: checks 
+Mahu2021: bets 60
+WolfPurdy9: folds 
+Uncalled bet (60) returned to Mahu2021
+*** TURN *** [5s 5h 8s] [6c]
+*** RIVER *** [5s 5h 8s 6c] [9s]
+*** SHOW DOWN ***
+Mahu2021: shows [9h 8c] (two pair, Nines and Eights)
+Mahu2021 collected 40 from side pot
+Heller643: shows [As Ad] (two pair, Aces and Fives)
+Heller643 collected 120 from main pot
+*** SUMMARY ***
+Total pot 160 Main pot 120. Side pot 40. | Rake 0 
+Board [5s 5h 8s 6c 9s]
+Seat 1: Heller643 (small blind) showed [As Ad] and won (120) with two pair, Aces and Fives
+Seat 2: WolfPurdy9 (big blind) folded on the Flop
+Seat 3: Mahu2021 (button) showed [9h 8c] and won (40) with two pair, Nines and Eights
+
+
+
+PokerStars Hand #254676226018: Tournament #3854493417, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2025/02/02 21:24:48 CET [2025/02/02 15:24:48 ET]
+Table '3854493417 1' 3-max Seat #1 is the button
+Seat 1: Heller643 (120 in chips) 
+Seat 2: WolfPurdy9 (810 in chips) 
+Seat 3: Mahu2021 (570 in chips) 
+WolfPurdy9: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s Jh]
+Heller643: folds 
+WolfPurdy9: calls 15
+Mahu2021: checks 
+*** FLOP *** [Kh Ah 7c]
+WolfPurdy9: bets 30
+Mahu2021: folds 
+Uncalled bet (30) returned to WolfPurdy9
+WolfPurdy9 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Kh Ah 7c]
+Seat 1: Heller643 (button) folded before Flop (didn't bet)
+Seat 2: WolfPurdy9 (small blind) collected (60)
+Seat 3: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254676232721: Tournament #3854493417, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2025/02/02 21:25:05 CET [2025/02/02 15:25:05 ET]
+Table '3854493417 1' 3-max Seat #2 is the button
+Seat 1: Heller643 (120 in chips) 
+Seat 2: WolfPurdy9 (840 in chips) 
+Seat 3: Mahu2021 (540 in chips) 
+Mahu2021: posts small blind 15
+Heller643: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8s 8h]
+WolfPurdy9: folds 
+Mahu2021: raises 90 to 120
+Heller643: folds 
+Uncalled bet (90) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Heller643 (big blind) folded before Flop
+Seat 2: WolfPurdy9 (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) collected (60)
+
+
+
+PokerStars Hand #254676236834: Tournament #3854493417, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2025/02/02 21:25:15 CET [2025/02/02 15:25:15 ET]
+Table '3854493417 1' 3-max Seat #3 is the button
+Seat 1: Heller643 (90 in chips) 
+Seat 2: WolfPurdy9 (840 in chips) 
+Seat 3: Mahu2021 (570 in chips) 
+Heller643: posts small blind 15
+WolfPurdy9: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h 5s]
+Mahu2021: folds 
+Heller643: folds 
+Uncalled bet (15) returned to WolfPurdy9
+WolfPurdy9 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Heller643 (small blind) folded before Flop
+Seat 2: WolfPurdy9 (big blind) collected (30)
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254676239452: Tournament #3854493417, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2025/02/02 21:25:22 CET [2025/02/02 15:25:22 ET]
+Table '3854493417 1' 3-max Seat #1 is the button
+Seat 1: Heller643 (75 in chips) 
+Seat 2: WolfPurdy9 (855 in chips) 
+Seat 3: Mahu2021 (570 in chips) 
+WolfPurdy9: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d Jh]
+Heller643: folds 
+WolfPurdy9: calls 15
+Mahu2021: checks 
+*** FLOP *** [Tc 7d 7c]
+WolfPurdy9: checks 
+Mahu2021: checks 
+*** TURN *** [Tc 7d 7c] [2s]
+WolfPurdy9: checks 
+Mahu2021: checks 
+*** RIVER *** [Tc 7d 7c 2s] [7h]
+WolfPurdy9: bets 30
+Mahu2021: folds 
+Uncalled bet (30) returned to WolfPurdy9
+WolfPurdy9 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Tc 7d 7c 2s 7h]
+Seat 1: Heller643 (button) folded before Flop (didn't bet)
+Seat 2: WolfPurdy9 (small blind) collected (60)
+Seat 3: Mahu2021 (big blind) folded on the River
+
+
+
+PokerStars Hand #254676248619: Tournament #3854493417, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2025/02/02 21:25:45 CET [2025/02/02 15:25:45 ET]
+Table '3854493417 1' 3-max Seat #2 is the button
+Seat 1: Heller643 (75 in chips) 
+Seat 2: WolfPurdy9 (885 in chips) 
+Seat 3: Mahu2021 (540 in chips) 
+Mahu2021: posts small blind 15
+Heller643: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2c 7h]
+WolfPurdy9: folds 
+Mahu2021: folds 
+Uncalled bet (15) returned to Heller643
+Heller643 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Heller643 (big blind) collected (30)
+Seat 2: WolfPurdy9 (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254676251163: Tournament #3854493417, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2025/02/02 21:25:51 CET [2025/02/02 15:25:51 ET]
+Table '3854493417 1' 3-max Seat #3 is the button
+Seat 1: Heller643 (90 in chips) 
+Seat 2: WolfPurdy9 (885 in chips) 
+Seat 3: Mahu2021 (525 in chips) 
+Heller643: posts small blind 15
+WolfPurdy9: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6h Kd]
+Mahu2021: folds 
+Heller643: calls 15
+WolfPurdy9: checks 
+*** FLOP *** [Qh 2c Qs]
+Heller643: checks 
+WolfPurdy9: checks 
+*** TURN *** [Qh 2c Qs] [7h]
+Heller643: bets 60 and is all-in
+WolfPurdy9: folds 
+Uncalled bet (60) returned to Heller643
+Heller643 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Qh 2c Qs 7h]
+Seat 1: Heller643 (small blind) collected (60)
+Seat 2: WolfPurdy9 (big blind) folded on the Turn
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254676260858: Tournament #3854493417, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2025/02/02 21:26:16 CET [2025/02/02 15:26:16 ET]
+Table '3854493417 1' 3-max Seat #1 is the button
+Seat 1: Heller643 (120 in chips) 
+Seat 2: WolfPurdy9 (855 in chips) 
+Seat 3: Mahu2021 (525 in chips) 
+WolfPurdy9: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h 4c]
+Heller643: folds 
+WolfPurdy9: calls 20
+Mahu2021: raises 485 to 525 and is all-in
+WolfPurdy9: folds 
+Uncalled bet (485) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Heller643 (button) folded before Flop (didn't bet)
+Seat 2: WolfPurdy9 (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (80)
+
+
+
+PokerStars Hand #254676264927: Tournament #3854493417, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2025/02/02 21:26:27 CET [2025/02/02 15:26:27 ET]
+Table '3854493417 1' 3-max Seat #2 is the button
+Seat 1: Heller643 (120 in chips) 
+Seat 2: WolfPurdy9 (815 in chips) 
+Seat 3: Mahu2021 (565 in chips) 
+Mahu2021: posts small blind 20
+Heller643: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h 2h]
+WolfPurdy9: calls 40
+Mahu2021: folds 
+Heller643: checks 
+*** FLOP *** [3h Jd 7s]
+Heller643: checks 
+WolfPurdy9: checks 
+*** TURN *** [3h Jd 7s] [8s]
+Heller643: checks 
+WolfPurdy9: checks 
+*** RIVER *** [3h Jd 7s 8s] [8h]
+Heller643: bets 40
+WolfPurdy9: calls 40
+*** SHOW DOWN ***
+Heller643: shows [Ts 8c] (three of a kind, Eights)
+WolfPurdy9: mucks hand 
+Heller643 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [3h Jd 7s 8s 8h]
+Seat 1: Heller643 (big blind) showed [Ts 8c] and won (180) with three of a kind, Eights
+Seat 2: WolfPurdy9 (button) mucked [Td Ad]
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254676274737: Tournament #3854493417, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2025/02/02 21:26:51 CET [2025/02/02 15:26:51 ET]
+Table '3854493417 1' 3-max Seat #3 is the button
+Seat 1: Heller643 (220 in chips) 
+Seat 2: WolfPurdy9 (735 in chips) 
+Seat 3: Mahu2021 (545 in chips) 
+Heller643: posts small blind 20
+WolfPurdy9: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h 4c]
+Mahu2021: folds 
+Heller643: calls 20
+WolfPurdy9: checks 
+*** FLOP *** [5c Qs 3c]
+Heller643: checks 
+WolfPurdy9: checks 
+*** TURN *** [5c Qs 3c] [9c]
+Heller643: bets 40
+WolfPurdy9: folds 
+Uncalled bet (40) returned to Heller643
+Heller643 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [5c Qs 3c 9c]
+Seat 1: Heller643 (small blind) collected (80)
+Seat 2: WolfPurdy9 (big blind) folded on the Turn
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254676282602: Tournament #3854493417, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2025/02/02 21:27:11 CET [2025/02/02 15:27:11 ET]
+Table '3854493417 1' 3-max Seat #1 is the button
+Seat 1: Heller643 (260 in chips) 
+Seat 2: WolfPurdy9 (695 in chips) 
+Seat 3: Mahu2021 (545 in chips) 
+WolfPurdy9: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh 4d]
+Heller643: calls 40
+WolfPurdy9: calls 20
+Mahu2021: checks 
+*** FLOP *** [Qc 2s 6s]
+WolfPurdy9: checks 
+Mahu2021: bets 40
+Heller643: calls 40
+WolfPurdy9: folds 
+*** TURN *** [Qc 2s 6s] [Ah]
+Mahu2021: bets 40
+Heller643: calls 40
+*** RIVER *** [Qc 2s 6s Ah] [2h]
+Mahu2021: bets 40
+Heller643: calls 40
+*** SHOW DOWN ***
+Mahu2021: shows [Qh 4d] (two pair, Queens and Deuces)
+Heller643: mucks hand 
+Mahu2021 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [Qc 2s 6s Ah 2h]
+Seat 1: Heller643 (button) mucked [8h 8c]
+Seat 2: WolfPurdy9 (small blind) folded on the Flop
+Seat 3: Mahu2021 (big blind) showed [Qh 4d] and won (360) with two pair, Queens and Deuces
+
+
+
+PokerStars Hand #254676294470: Tournament #3854493417, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2025/02/02 21:27:42 CET [2025/02/02 15:27:42 ET]
+Table '3854493417 1' 3-max Seat #2 is the button
+Seat 1: Heller643 (100 in chips) 
+Seat 2: WolfPurdy9 (655 in chips) 
+Seat 3: Mahu2021 (745 in chips) 
+Mahu2021: posts small blind 20
+Heller643: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h 5s]
+WolfPurdy9: calls 40
+Mahu2021: calls 20
+Heller643: raises 40 to 80
+WolfPurdy9: raises 575 to 655 and is all-in
+Mahu2021: folds 
+Heller643: calls 20 and is all-in
+Uncalled bet (555) returned to WolfPurdy9
+*** FLOP *** [Js Ts 8s]
+*** TURN *** [Js Ts 8s] [4c]
+*** RIVER *** [Js Ts 8s 4c] [9h]
+*** SHOW DOWN ***
+Heller643: shows [As Ac] (a pair of Aces)
+WolfPurdy9: shows [Kc Tc] (a pair of Tens)
+Heller643 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Js Ts 8s 4c 9h]
+Seat 1: Heller643 (big blind) showed [As Ac] and won (240) with a pair of Aces
+Seat 2: WolfPurdy9 (button) showed [Kc Tc] and lost with a pair of Tens
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254676307234: Tournament #3854493417, $0.46+$0.04 USD Hold'em No Limit - Level IV (30/60) - 2025/02/02 21:28:14 CET [2025/02/02 15:28:14 ET]
+Table '3854493417 1' 3-max Seat #3 is the button
+Seat 1: Heller643 (240 in chips) 
+Seat 2: WolfPurdy9 (555 in chips) 
+Seat 3: Mahu2021 (705 in chips) 
+Heller643: posts small blind 30
+WolfPurdy9: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh Js]
+Mahu2021: raises 60 to 120
+Heller643: folds 
+WolfPurdy9: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 150 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Seat 1: Heller643 (small blind) folded before Flop
+Seat 2: WolfPurdy9 (big blind) folded before Flop
+Seat 3: Mahu2021 (button) collected (150)
+
+
+
+PokerStars Hand #254676310674: Tournament #3854493417, $0.46+$0.04 USD Hold'em No Limit - Level IV (30/60) - 2025/02/02 21:28:23 CET [2025/02/02 15:28:23 ET]
+Table '3854493417 1' 3-max Seat #1 is the button
+Seat 1: Heller643 (210 in chips) 
+Seat 2: WolfPurdy9 (495 in chips) 
+Seat 3: Mahu2021 (795 in chips) 
+WolfPurdy9: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h 5s]
+Heller643: calls 60
+WolfPurdy9: calls 30
+Mahu2021: checks 
+*** FLOP *** [Ts Kd 7d]
+WolfPurdy9: checks 
+Mahu2021: checks 
+Heller643: checks 
+*** TURN *** [Ts Kd 7d] [Tc]
+WolfPurdy9: checks 
+Mahu2021: checks 
+Heller643: checks 
+*** RIVER *** [Ts Kd 7d Tc] [4c]
+WolfPurdy9: bets 120
+Mahu2021: folds 
+Heller643: folds 
+Uncalled bet (120) returned to WolfPurdy9
+WolfPurdy9 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [Ts Kd 7d Tc 4c]
+Seat 1: Heller643 (button) folded on the River
+Seat 2: WolfPurdy9 (small blind) collected (180)
+Seat 3: Mahu2021 (big blind) folded on the River
+
+
+
+PokerStars Hand #254676322699: Tournament #3854493417, $0.46+$0.04 USD Hold'em No Limit - Level IV (30/60) - 2025/02/02 21:28:54 CET [2025/02/02 15:28:54 ET]
+Table '3854493417 1' 3-max Seat #2 is the button
+Seat 1: Heller643 (150 in chips) 
+Seat 2: WolfPurdy9 (615 in chips) 
+Seat 3: Mahu2021 (735 in chips) 
+Mahu2021: posts small blind 30
+Heller643: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts 9c]
+WolfPurdy9: folds 
+Mahu2021: raises 120 to 180
+Heller643: folds 
+Uncalled bet (120) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: Heller643 (big blind) folded before Flop
+Seat 2: WolfPurdy9 (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) collected (120)
+
+
+
+PokerStars Hand #254676326489: Tournament #3854493417, $0.46+$0.04 USD Hold'em No Limit - Level IV (30/60) - 2025/02/02 21:29:04 CET [2025/02/02 15:29:04 ET]
+Table '3854493417 1' 3-max Seat #3 is the button
+Seat 1: Heller643 (90 in chips) 
+Seat 2: WolfPurdy9 (615 in chips) 
+Seat 3: Mahu2021 (795 in chips) 
+Heller643: posts small blind 30
+WolfPurdy9: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Th 9d]
+Mahu2021: folds 
+Heller643: calls 30
+WolfPurdy9: checks 
+*** FLOP *** [5d Qd Jh]
+Heller643: checks 
+WolfPurdy9: checks 
+*** TURN *** [5d Qd Jh] [Jd]
+Heller643: checks 
+WolfPurdy9: checks 
+*** RIVER *** [5d Qd Jh Jd] [6s]
+Heller643: bets 30 and is all-in
+WolfPurdy9: calls 30
+*** SHOW DOWN ***
+Heller643: shows [Ad Js] (three of a kind, Jacks)
+WolfPurdy9: shows [5s 2d] (two pair, Jacks and Fives)
+Heller643 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [5d Qd Jh Jd 6s]
+Seat 1: Heller643 (small blind) showed [Ad Js] and won (180) with three of a kind, Jacks
+Seat 2: WolfPurdy9 (big blind) showed [5s 2d] and lost with two pair, Jacks and Fives
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254676336163: Tournament #3854493417, $0.46+$0.04 USD Hold'em No Limit - Level IV (30/60) - 2025/02/02 21:29:28 CET [2025/02/02 15:29:28 ET]
+Table '3854493417 1' 3-max Seat #1 is the button
+Seat 1: Heller643 (180 in chips) 
+Seat 2: WolfPurdy9 (525 in chips) 
+Seat 3: Mahu2021 (795 in chips) 
+WolfPurdy9: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Td Qd]
+Heller643: folds 
+WolfPurdy9: calls 30
+Mahu2021: checks 
+*** FLOP *** [3c Qc 9c]
+WolfPurdy9: checks 
+Mahu2021: bets 60
+WolfPurdy9: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [3c Qc 9c]
+Seat 1: Heller643 (button) folded before Flop (didn't bet)
+Seat 2: WolfPurdy9 (small blind) folded on the Flop
+Seat 3: Mahu2021 (big blind) collected (120)
+
+
+
+PokerStars Hand #254676341824: Tournament #3854493417, $0.46+$0.04 USD Hold'em No Limit - Level IV (30/60) - 2025/02/02 21:29:43 CET [2025/02/02 15:29:43 ET]
+Table '3854493417 1' 3-max Seat #2 is the button
+Seat 1: Heller643 (180 in chips) 
+Seat 2: WolfPurdy9 (465 in chips) 
+Seat 3: Mahu2021 (855 in chips) 
+Mahu2021: posts small blind 30
+Heller643: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2c 3c]
+WolfPurdy9: folds 
+Mahu2021: calls 30
+Heller643: checks 
+*** FLOP *** [Qc Qh Jh]
+Mahu2021: checks 
+Heller643: checks 
+*** TURN *** [Qc Qh Jh] [Tc]
+Mahu2021: checks 
+Heller643: checks 
+*** RIVER *** [Qc Qh Jh Tc] [9s]
+Mahu2021: checks 
+Heller643: bets 60
+Mahu2021: folds 
+Uncalled bet (60) returned to Heller643
+Heller643 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Qc Qh Jh Tc 9s]
+Seat 1: Heller643 (big blind) collected (120)
+Seat 2: WolfPurdy9 (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) folded on the River
+
+
+
+PokerStars Hand #254676351644: Tournament #3854493417, $0.46+$0.04 USD Hold'em No Limit - Level V (40/80) - 2025/02/02 21:30:07 CET [2025/02/02 15:30:07 ET]
+Table '3854493417 1' 3-max Seat #3 is the button
+Seat 1: Heller643 (240 in chips) 
+Seat 2: WolfPurdy9 (465 in chips) 
+Seat 3: Mahu2021 (795 in chips) 
+Heller643: posts small blind 40
+WolfPurdy9: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8d Qd]
+Mahu2021: calls 80
+Heller643: calls 40
+WolfPurdy9: checks 
+*** FLOP *** [Js 9c 3h]
+Heller643: checks 
+WolfPurdy9: checks 
+Mahu2021: checks 
+*** TURN *** [Js 9c 3h] [2c]
+Heller643: checks 
+WolfPurdy9: checks 
+Mahu2021: checks 
+*** RIVER *** [Js 9c 3h 2c] [Td]
+Heller643: checks 
+WolfPurdy9: checks 
+Mahu2021: bets 80
+Heller643: calls 80
+WolfPurdy9: folds 
+*** SHOW DOWN ***
+Mahu2021: shows [8d Qd] (a straight, Eight to Queen)
+Heller643: mucks hand 
+Mahu2021 collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Board [Js 9c 3h 2c Td]
+Seat 1: Heller643 (small blind) mucked [3c Qc]
+Seat 2: WolfPurdy9 (big blind) folded on the River
+Seat 3: Mahu2021 (button) showed [8d Qd] and won (400) with a straight, Eight to Queen
+
+
+
+PokerStars Hand #254676366616: Tournament #3854493417, $0.46+$0.04 USD Hold'em No Limit - Level V (40/80) - 2025/02/02 21:30:46 CET [2025/02/02 15:30:46 ET]
+Table '3854493417 1' 3-max Seat #1 is the button
+Seat 1: Heller643 (80 in chips) 
+Seat 2: WolfPurdy9 (385 in chips) 
+Seat 3: Mahu2021 (1035 in chips) 
+WolfPurdy9: posts small blind 40
+Mahu2021: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts 4s]
+Heller643: calls 80 and is all-in
+WolfPurdy9: folds 
+*** FLOP *** [4c 8h 3h]
+*** TURN *** [4c 8h 3h] [6h]
+*** RIVER *** [4c 8h 3h 6h] [6c]
+*** SHOW DOWN ***
+Mahu2021: shows [Ts 4s] (two pair, Sixes and Fours)
+Heller643: shows [5s Ah] (a pair of Sixes)
+Mahu2021 collected 200 from pot
+Heller643 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [4c 8h 3h 6h 6c]
+Seat 1: Heller643 (button) showed [5s Ah] and lost with a pair of Sixes
+Seat 2: WolfPurdy9 (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) showed [Ts 4s] and won (200) with two pair, Sixes and Fours
+
+
+
+PokerStars Hand #254676374435: Tournament #3854493417, $0.46+$0.04 USD Hold'em No Limit - Level V (40/80) - 2025/02/02 21:31:05 CET [2025/02/02 15:31:05 ET]
+Table '3854493417 1' 3-max Seat #3 is the button
+Seat 2: WolfPurdy9 (345 in chips) 
+Seat 3: Mahu2021 (1155 in chips) 
+Mahu2021: posts small blind 40
+WolfPurdy9: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc Ad]
+Mahu2021: raises 80 to 160
+WolfPurdy9: folds 
+Uncalled bet (80) returned to Mahu2021
+Mahu2021 collected 160 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Seat 2: WolfPurdy9 (big blind) folded before Flop
+Seat 3: Mahu2021 (button) (small blind) collected (160)
+
+
+
+PokerStars Hand #254676377403: Tournament #3854493417, $0.46+$0.04 USD Hold'em No Limit - Level V (40/80) - 2025/02/02 21:31:12 CET [2025/02/02 15:31:12 ET]
+Table '3854493417 1' 3-max Seat #2 is the button
+Seat 2: WolfPurdy9 (265 in chips) 
+Seat 3: Mahu2021 (1235 in chips) 
+WolfPurdy9: posts small blind 40
+Mahu2021: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2s 2d]
+WolfPurdy9: calls 40
+Mahu2021: raises 1155 to 1235 and is all-in
+WolfPurdy9: calls 185 and is all-in
+Uncalled bet (970) returned to Mahu2021
+*** FLOP *** [4h 7d 4s]
+*** TURN *** [4h 7d 4s] [6h]
+*** RIVER *** [4h 7d 4s 6h] [9c]
+*** SHOW DOWN ***
+Mahu2021: shows [2s 2d] (two pair, Fours and Deuces)
+WolfPurdy9: shows [Qc Jd] (a pair of Fours)
+Mahu2021 collected 530 from pot
+WolfPurdy9 finished the tournament in 2nd place
+Mahu2021 wins the tournament - congratulations!
+Mahu2021 wins a '$1.50 Power Path Step 2 Ticket' ticket
+*** SUMMARY ***
+Total pot 530 | Rake 0 
+Board [4h 7d 4s 6h 9c]
+Seat 2: WolfPurdy9 (button) (small blind) showed [Qc Jd] and lost with a pair of Fours
+Seat 3: Mahu2021 (big blind) showed [2s 2d] and won (530) with two pair, Fours and Deuces
+
+
+

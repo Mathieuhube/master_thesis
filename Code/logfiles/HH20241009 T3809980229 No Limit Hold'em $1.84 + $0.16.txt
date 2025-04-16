@@ -1,0 +1,530 @@
+﻿PokerStars Hand #252842998297: Tournament #3809980229, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/09 17:02:46 CET [2024/10/09 11:02:46 ET]
+Table '3809980229 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: bokkki11 (500 in chips) 
+Seat 3: Almentativo (500 in chips) 
+bokkki11: posts small blind 10
+Almentativo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As Kc]
+Mahu2021: raises 20 to 40
+bokkki11: calls 30
+Almentativo: calls 20
+*** FLOP *** [6c 4d 9d]
+bokkki11: checks 
+Almentativo: checks 
+Mahu2021: bets 40
+bokkki11: folds 
+Almentativo: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [6c 4d 9d]
+Seat 1: Mahu2021 (button) collected (120)
+Seat 2: bokkki11 (small blind) folded on the Flop
+Seat 3: Almentativo (big blind) folded on the Flop
+
+
+
+PokerStars Hand #252843002356: Tournament #3809980229, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/09 17:03:05 CET [2024/10/09 11:03:05 ET]
+Table '3809980229 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (580 in chips) 
+Seat 2: bokkki11 (460 in chips) 
+Seat 3: Almentativo (460 in chips) 
+Almentativo: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h 8d]
+bokkki11: calls 20
+Almentativo: calls 10
+Mahu2021: checks 
+*** FLOP *** [4d 6h 4h]
+Almentativo: bets 20
+Mahu2021: folds 
+bokkki11: calls 20
+*** TURN *** [4d 6h 4h] [7s]
+Almentativo: checks 
+bokkki11: checks 
+*** RIVER *** [4d 6h 4h 7s] [As]
+Almentativo: bets 20
+bokkki11: calls 20
+*** SHOW DOWN ***
+Almentativo: shows [Ac Kh] (two pair, Aces and Fours)
+bokkki11: mucks hand 
+Almentativo collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | Rake 0 
+Board [4d 6h 4h 7s As]
+Seat 1: Mahu2021 (big blind) folded on the Flop
+Seat 2: bokkki11 (button) mucked [3s 6s]
+Seat 3: Almentativo (small blind) showed [Ac Kh] and won (140) with two pair, Aces and Fours
+
+
+
+PokerStars Hand #252843006945: Tournament #3809980229, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/09 17:03:28 CET [2024/10/09 11:03:28 ET]
+Table '3809980229 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (560 in chips) 
+Seat 2: bokkki11 (400 in chips) 
+Seat 3: Almentativo (540 in chips) 
+Mahu2021: posts small blind 10
+bokkki11: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s 5c]
+Almentativo: calls 20
+Mahu2021: calls 10
+bokkki11: checks 
+*** FLOP *** [4s 4c 9d]
+Mahu2021: checks 
+bokkki11: checks 
+Almentativo: checks 
+*** TURN *** [4s 4c 9d] [Tc]
+Mahu2021: checks 
+bokkki11: checks 
+Almentativo: checks 
+*** RIVER *** [4s 4c 9d Tc] [Kd]
+Mahu2021: checks 
+bokkki11: checks 
+Almentativo: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [3s 5c] (a pair of Fours)
+bokkki11: shows [8c Ad] (a pair of Fours - Ace kicker)
+Almentativo: mucks hand 
+bokkki11 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [4s 4c 9d Tc Kd]
+Seat 1: Mahu2021 (small blind) showed [3s 5c] and lost with a pair of Fours
+Seat 2: bokkki11 (big blind) showed [8c Ad] and won (60) with a pair of Fours
+Seat 3: Almentativo (button) mucked [5s 8h]
+
+
+
+PokerStars Hand #252843011179: Tournament #3809980229, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/09 17:03:49 CET [2024/10/09 11:03:49 ET]
+Table '3809980229 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (540 in chips) 
+Seat 2: bokkki11 (440 in chips) 
+Seat 3: Almentativo (520 in chips) 
+bokkki11: posts small blind 10
+Almentativo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d 5h]
+Mahu2021: folds 
+bokkki11: calls 10
+Almentativo: checks 
+*** FLOP *** [Js 8h Jc]
+bokkki11: checks 
+Almentativo: checks 
+*** TURN *** [Js 8h Jc] [Td]
+bokkki11: folds 
+Almentativo collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Js 8h Jc Td]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: bokkki11 (small blind) folded on the Turn
+Seat 3: Almentativo (big blind) collected (40)
+
+
+
+PokerStars Hand #252843013905: Tournament #3809980229, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/09 17:04:02 CET [2024/10/09 11:04:02 ET]
+Table '3809980229 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (540 in chips) 
+Seat 2: bokkki11 (420 in chips) 
+Seat 3: Almentativo (540 in chips) 
+Almentativo: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4d Ac]
+bokkki11: calls 20
+Almentativo: calls 10
+Mahu2021: checks 
+*** FLOP *** [Kc 7c 4c]
+Almentativo: bets 20
+Mahu2021: calls 20
+bokkki11: calls 20
+*** TURN *** [Kc 7c 4c] [Ad]
+Almentativo: checks 
+Mahu2021: bets 120
+bokkki11: folds 
+Almentativo: folds 
+Uncalled bet (120) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Kc 7c 4c Ad]
+Seat 1: Mahu2021 (big blind) collected (120)
+Seat 2: bokkki11 (button) folded on the Turn
+Seat 3: Almentativo (small blind) folded on the Turn
+
+
+
+PokerStars Hand #252843019761: Tournament #3809980229, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/09 17:04:30 CET [2024/10/09 11:04:30 ET]
+Table '3809980229 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (620 in chips) 
+Seat 2: bokkki11 (380 in chips) 
+Seat 3: Almentativo (500 in chips) 
+Mahu2021: posts small blind 10
+bokkki11: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd 6c]
+Almentativo: folds 
+Mahu2021: calls 10
+bokkki11: checks 
+*** FLOP *** [5h Qc 8c]
+Mahu2021: checks 
+bokkki11: checks 
+*** TURN *** [5h Qc 8c] [7s]
+Mahu2021: checks 
+bokkki11: checks 
+*** RIVER *** [5h Qc 8c 7s] [2d]
+Mahu2021: checks 
+bokkki11: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [Kd 6c] (high card King)
+bokkki11: shows [Kc 5d] (a pair of Fives)
+bokkki11 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [5h Qc 8c 7s 2d]
+Seat 1: Mahu2021 (small blind) showed [Kd 6c] and lost with high card King
+Seat 2: bokkki11 (big blind) showed [Kc 5d] and won (40) with a pair of Fives
+Seat 3: Almentativo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #252843022929: Tournament #3809980229, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/09 17:04:46 CET [2024/10/09 11:04:46 ET]
+Table '3809980229 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (600 in chips) 
+Seat 2: bokkki11 (400 in chips) 
+Seat 3: Almentativo (500 in chips) 
+bokkki11: posts small blind 10
+Almentativo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h As]
+Mahu2021: calls 20
+bokkki11: calls 10
+Almentativo: checks 
+*** FLOP *** [5s Kh 5c]
+bokkki11: bets 20
+Almentativo: calls 20
+Mahu2021: calls 20
+*** TURN *** [5s Kh 5c] [3s]
+bokkki11: bets 20
+Almentativo: calls 20
+Mahu2021: calls 20
+*** RIVER *** [5s Kh 5c 3s] [Th]
+bokkki11: bets 100
+Almentativo: folds 
+Mahu2021: folds 
+Uncalled bet (100) returned to bokkki11
+bokkki11 collected 180 from pot
+bokkki11: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [5s Kh 5c 3s Th]
+Seat 1: Mahu2021 (button) folded on the River
+Seat 2: bokkki11 (small blind) collected (180)
+Seat 3: Almentativo (big blind) folded on the River
+
+
+
+PokerStars Hand #252843028927: Tournament #3809980229, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/09 17:05:14 CET [2024/10/09 11:05:14 ET]
+Table '3809980229 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (540 in chips) 
+Seat 2: bokkki11 (520 in chips) 
+Seat 3: Almentativo (440 in chips) 
+Almentativo: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh 7d]
+bokkki11: raises 20 to 40
+Almentativo: calls 30
+Mahu2021: calls 20
+*** FLOP *** [9c 9h 5s]
+Almentativo: checks 
+Mahu2021: checks 
+bokkki11: checks 
+*** TURN *** [9c 9h 5s] [5c]
+Almentativo: checks 
+Mahu2021: checks 
+bokkki11: checks 
+*** RIVER *** [9c 9h 5s 5c] [Jc]
+Almentativo: checks 
+Mahu2021: bets 40
+bokkki11: calls 40
+Almentativo: folds 
+*** SHOW DOWN ***
+Mahu2021: shows [Qh 7d] (two pair, Nines and Fives)
+bokkki11: shows [As Kd] (two pair, Nines and Fives - Ace kicker)
+bokkki11 collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [9c 9h 5s 5c Jc]
+Seat 1: Mahu2021 (big blind) showed [Qh 7d] and lost with two pair, Nines and Fives
+Seat 2: bokkki11 (button) showed [As Kd] and won (200) with two pair, Nines and Fives
+Seat 3: Almentativo (small blind) folded on the River
+
+
+
+PokerStars Hand #252843037024: Tournament #3809980229, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/09 17:05:53 CET [2024/10/09 11:05:53 ET]
+Table '3809980229 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (460 in chips) 
+Seat 2: bokkki11 (640 in chips) 
+Seat 3: Almentativo (400 in chips) 
+Mahu2021: posts small blind 15
+bokkki11: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3c 6s]
+Almentativo: folds 
+Mahu2021: folds 
+Uncalled bet (15) returned to bokkki11
+bokkki11 collected 30 from pot
+bokkki11: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: bokkki11 (big blind) collected (30)
+Seat 3: Almentativo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #252843038356: Tournament #3809980229, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/09 17:06:00 CET [2024/10/09 11:06:00 ET]
+Table '3809980229 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (445 in chips) 
+Seat 2: bokkki11 (655 in chips) 
+Seat 3: Almentativo (400 in chips) 
+bokkki11: posts small blind 15
+Almentativo: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2s Qc]
+Mahu2021: folds 
+bokkki11: calls 15
+Almentativo: checks 
+*** FLOP *** [5s 5h 4c]
+bokkki11: bets 30
+Almentativo: calls 30
+*** TURN *** [5s 5h 4c] [Th]
+bokkki11: bets 30
+Almentativo: calls 30
+*** RIVER *** [5s 5h 4c Th] [Jc]
+bokkki11: bets 180
+Almentativo: folds 
+Uncalled bet (180) returned to bokkki11
+bokkki11 collected 180 from pot
+bokkki11: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [5s 5h 4c Th Jc]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: bokkki11 (small blind) collected (180)
+Seat 3: Almentativo (big blind) folded on the River
+
+
+
+PokerStars Hand #252843042800: Tournament #3809980229, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/09 17:06:21 CET [2024/10/09 11:06:21 ET]
+Table '3809980229 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (445 in chips) 
+Seat 2: bokkki11 (745 in chips) 
+Seat 3: Almentativo (310 in chips) 
+Almentativo: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh Td]
+bokkki11: calls 30
+Almentativo: calls 15
+Mahu2021: checks 
+*** FLOP *** [8d Ad Kh]
+Almentativo: checks 
+Mahu2021: bets 30
+bokkki11: folds 
+Almentativo: calls 30
+*** TURN *** [8d Ad Kh] [4s]
+Almentativo: checks 
+Mahu2021: checks 
+*** RIVER *** [8d Ad Kh 4s] [Th]
+Almentativo: bets 30
+Mahu2021: calls 30
+*** SHOW DOWN ***
+Almentativo: shows [8c 7s] (a pair of Eights)
+Mahu2021: shows [Qh Td] (a pair of Tens)
+Mahu2021 collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | Rake 0 
+Board [8d Ad Kh 4s Th]
+Seat 1: Mahu2021 (big blind) showed [Qh Td] and won (210) with a pair of Tens
+Seat 2: bokkki11 (button) folded on the Flop
+Seat 3: Almentativo (small blind) showed [8c 7s] and lost with a pair of Eights
+
+
+
+PokerStars Hand #252843049049: Tournament #3809980229, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/09 17:06:51 CET [2024/10/09 11:06:51 ET]
+Table '3809980229 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (565 in chips) 
+Seat 2: bokkki11 (715 in chips) 
+Seat 3: Almentativo (220 in chips) 
+Mahu2021: posts small blind 15
+bokkki11: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qs 2d]
+Almentativo: folds 
+Mahu2021: folds 
+Uncalled bet (15) returned to bokkki11
+bokkki11 collected 30 from pot
+bokkki11: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: bokkki11 (big blind) collected (30)
+Seat 3: Almentativo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #252843050383: Tournament #3809980229, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/09 17:06:57 CET [2024/10/09 11:06:57 ET]
+Table '3809980229 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (550 in chips) 
+Seat 2: bokkki11 (730 in chips) 
+Seat 3: Almentativo (220 in chips) 
+bokkki11: posts small blind 15
+Almentativo: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5h Qd]
+Mahu2021: folds 
+bokkki11: calls 15
+Almentativo: checks 
+*** FLOP *** [Qc 8h Tc]
+bokkki11: checks 
+Almentativo: checks 
+*** TURN *** [Qc 8h Tc] [6h]
+bokkki11: checks 
+Almentativo: checks 
+*** RIVER *** [Qc 8h Tc 6h] [Jh]
+bokkki11: bets 205
+Almentativo: folds 
+Uncalled bet (205) returned to bokkki11
+bokkki11 collected 60 from pot
+bokkki11: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Qc 8h Tc 6h Jh]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: bokkki11 (small blind) collected (60)
+Seat 3: Almentativo (big blind) folded on the River
+
+
+
+PokerStars Hand #252843055155: Tournament #3809980229, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/09 17:07:20 CET [2024/10/09 11:07:20 ET]
+Table '3809980229 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (550 in chips) 
+Seat 2: bokkki11 (760 in chips) 
+Seat 3: Almentativo (190 in chips) 
+Almentativo: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd Ks]
+bokkki11: raises 30 to 60
+Almentativo: calls 45
+Mahu2021: raises 490 to 550 and is all-in
+bokkki11: raises 210 to 760 and is all-in
+Almentativo: calls 130 and is all-in
+Uncalled bet (210) returned to bokkki11
+*** FLOP *** [4h 5c Th]
+*** TURN *** [4h 5c Th] [3d]
+*** RIVER *** [4h 5c Th 3d] [Qc]
+*** SHOW DOWN ***
+Mahu2021: shows [Kd Ks] (a pair of Kings)
+bokkki11: shows [Ad Ts] (a pair of Tens)
+Mahu2021 collected 720 from side pot
+Almentativo: shows [Jd 4d] (a pair of Fours)
+Mahu2021 collected 570 from main pot
+Almentativo finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1290 Main pot 570. Side pot 720. | Rake 0 
+Board [4h 5c Th 3d Qc]
+Seat 1: Mahu2021 (big blind) showed [Kd Ks] and won (1290) with a pair of Kings
+Seat 2: bokkki11 (button) showed [Ad Ts] and lost with a pair of Tens
+Seat 3: Almentativo (small blind) showed [Jd 4d] and lost with a pair of Fours
+
+
+
+PokerStars Hand #252843059633: Tournament #3809980229, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/09 17:07:42 CET [2024/10/09 11:07:42 ET]
+Table '3809980229 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1290 in chips) 
+Seat 2: bokkki11 (210 in chips) 
+Mahu2021: posts small blind 15
+bokkki11: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d 9d]
+Mahu2021: folds 
+Uncalled bet (15) returned to bokkki11
+bokkki11 collected 30 from pot
+bokkki11: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 2: bokkki11 (big blind) collected (30)
+
+
+
+PokerStars Hand #252843060741: Tournament #3809980229, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/09 17:07:47 CET [2024/10/09 11:07:47 ET]
+Table '3809980229 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (1275 in chips) 
+Seat 2: bokkki11 (225 in chips) 
+bokkki11: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s Ah]
+bokkki11: raises 30 to 60
+Mahu2021: raises 1215 to 1275 and is all-in
+bokkki11: calls 165 and is all-in
+Uncalled bet (1050) returned to Mahu2021
+*** FLOP *** [5d Jd Tc]
+*** TURN *** [5d Jd Tc] [Ts]
+*** RIVER *** [5d Jd Tc Ts] [4h]
+*** SHOW DOWN ***
+Mahu2021: shows [9s Ah] (a pair of Tens)
+bokkki11: shows [5c 8c] (two pair, Tens and Fives)
+bokkki11 collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | Rake 0 
+Board [5d Jd Tc Ts 4h]
+Seat 1: Mahu2021 (big blind) showed [9s Ah] and lost with a pair of Tens
+Seat 2: bokkki11 (button) (small blind) showed [5c 8c] and won (450) with two pair, Tens and Fives
+
+
+
+PokerStars Hand #252843063515: Tournament #3809980229, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/09 17:08:00 CET [2024/10/09 11:08:00 ET]
+Table '3809980229 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1050 in chips) 
+Seat 2: bokkki11 (450 in chips) 
+Mahu2021: posts small blind 15
+bokkki11: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh Qc]
+Mahu2021: raises 30 to 60
+bokkki11: calls 30
+*** FLOP *** [2c 6d Jd]
+bokkki11: checks 
+Mahu2021: bets 60
+bokkki11: raises 60 to 120
+Mahu2021: raises 870 to 990 and is all-in
+bokkki11: calls 270 and is all-in
+Uncalled bet (600) returned to Mahu2021
+*** TURN *** [2c 6d Jd] [9h]
+*** RIVER *** [2c 6d Jd 9h] [8s]
+*** SHOW DOWN ***
+bokkki11: shows [Kh 2h] (a pair of Deuces)
+Mahu2021: shows [Jh Qc] (a pair of Jacks)
+Mahu2021 collected 900 from pot
+bokkki11 finished the tournament in 2nd place
+Mahu2021 wins the tournament and receives $6.00 - congratulations!
+*** SUMMARY ***
+Total pot 900 | Rake 0 
+Board [2c 6d Jd 9h 8s]
+Seat 1: Mahu2021 (button) (small blind) showed [Jh Qc] and won (900) with a pair of Jacks
+Seat 2: bokkki11 (big blind) showed [Kh 2h] and lost with a pair of Deuces
+
+
+

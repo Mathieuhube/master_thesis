@@ -1,0 +1,174 @@
+﻿PokerStars Hand #243246779890: Tournament #3581090848, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/22 15:28:12 CET [2023/04/22 9:28:12 ET]
+Table '3581090848 1' 3-max Seat #1 is the button
+Seat 1: Tina2679 (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: Mafella (500 in chips) 
+Mahu2021: posts small blind 10
+Mafella: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h 7h]
+Tina2679: folds 
+Mahu2021: calls 10
+Mafella: checks 
+*** FLOP *** [Qs As Tc]
+Mahu2021: checks 
+Mafella: checks 
+*** TURN *** [Qs As Tc] [2h]
+Mahu2021: bets 40
+Mafella: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Qs As Tc 2h]
+Seat 1: Tina2679 (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) collected (40)
+Seat 3: Mafella (big blind) folded on the Turn
+
+
+
+PokerStars Hand #243246785375: Tournament #3581090848, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/22 15:28:35 CET [2023/04/22 9:28:35 ET]
+Table '3581090848 1' 3-max Seat #2 is the button
+Seat 1: Tina2679 (500 in chips) 
+Seat 2: Mahu2021 (520 in chips) 
+Seat 3: Mafella (480 in chips) 
+Mafella: posts small blind 10
+Tina2679: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5h Ts]
+Mahu2021: folds 
+Mafella: calls 10
+Tina2679: checks 
+*** FLOP *** [As 9c 8d]
+Mafella: checks 
+Tina2679: checks 
+*** TURN *** [As 9c 8d] [Qs]
+Mafella: bets 27
+Tina2679: calls 27
+*** RIVER *** [As 9c 8d Qs] [2d]
+Mafella: bets 67
+Tina2679: raises 228 to 295
+Mafella: calls 228
+*** SHOW DOWN ***
+Tina2679: shows [8h 2h] (two pair, Eights and Deuces)
+Mafella: shows [Ah Qh] (two pair, Aces and Queens)
+Mafella collected 684 from pot
+*** SUMMARY ***
+Total pot 684 | Rake 0 
+Board [As 9c 8d Qs 2d]
+Seat 1: Tina2679 (big blind) showed [8h 2h] and lost with two pair, Eights and Deuces
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: Mafella (small blind) showed [Ah Qh] and won (684) with two pair, Aces and Queens
+
+
+
+PokerStars Hand #243246795263: Tournament #3581090848, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/22 15:29:17 CET [2023/04/22 9:29:17 ET]
+Table '3581090848 1' 3-max Seat #3 is the button
+Seat 1: Tina2679 (158 in chips) 
+Seat 2: Mahu2021 (520 in chips) 
+Seat 3: Mafella (822 in chips) 
+Tina2679: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Tc Ts]
+Mafella: folds 
+Tina2679: raises 138 to 158 and is all-in
+Mahu2021: calls 138
+*** FLOP *** [5d 8d 9c]
+*** TURN *** [5d 8d 9c] [Ac]
+*** RIVER *** [5d 8d 9c Ac] [2c]
+*** SHOW DOWN ***
+Tina2679: shows [Ad 4s] (a pair of Aces)
+Mahu2021: shows [Tc Ts] (a pair of Tens)
+Tina2679 collected 316 from pot
+*** SUMMARY ***
+Total pot 316 | Rake 0 
+Board [5d 8d 9c Ac 2c]
+Seat 1: Tina2679 (small blind) showed [Ad 4s] and won (316) with a pair of Aces
+Seat 2: Mahu2021 (big blind) showed [Tc Ts] and lost with a pair of Tens
+Seat 3: Mafella (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #243246799061: Tournament #3581090848, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/22 15:29:33 CET [2023/04/22 9:29:33 ET]
+Table '3581090848 1' 3-max Seat #1 is the button
+Seat 1: Tina2679 (316 in chips) 
+Seat 2: Mahu2021 (362 in chips) 
+Seat 3: Mafella (822 in chips) 
+Mahu2021: posts small blind 10
+Mafella: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h 6s]
+Tina2679: raises 40 to 60
+Mahu2021: folds 
+Mafella: calls 40
+*** FLOP *** [5d 3s 9d]
+Mafella: checks 
+Tina2679: bets 130
+Mafella: folds 
+Uncalled bet (130) returned to Tina2679
+Tina2679 collected 130 from pot
+*** SUMMARY ***
+Total pot 130 | Rake 0 
+Board [5d 3s 9d]
+Seat 1: Tina2679 (button) collected (130)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: Mafella (big blind) folded on the Flop
+
+
+
+PokerStars Hand #243246806039: Tournament #3581090848, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/22 15:30:02 CET [2023/04/22 9:30:02 ET]
+Table '3581090848 1' 3-max Seat #2 is the button
+Seat 1: Tina2679 (386 in chips) 
+Seat 2: Mahu2021 (352 in chips) 
+Seat 3: Mafella (762 in chips) 
+Mafella: posts small blind 10
+Tina2679: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qd 4h]
+Mahu2021: folds 
+Mafella: folds 
+Uncalled bet (10) returned to Tina2679
+Tina2679 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Tina2679 (big blind) collected (20)
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: Mafella (small blind) folded before Flop
+
+
+
+PokerStars Hand #243246808078: Tournament #3581090848, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/22 15:30:11 CET [2023/04/22 9:30:11 ET]
+Table '3581090848 1' 3-max Seat #3 is the button
+Seat 1: Tina2679 (396 in chips) 
+Seat 2: Mahu2021 (352 in chips) 
+Seat 3: Mafella (752 in chips) 
+Tina2679: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc 5c]
+Mafella: raises 20 to 40
+Tina2679: folds 
+Mahu2021: calls 20
+*** FLOP *** [9c 4c 8h]
+Mahu2021: bets 40
+Mafella: calls 40
+*** TURN *** [9c 4c 8h] [3d]
+Mahu2021: bets 272 and is all-in
+Mafella: calls 272
+*** RIVER *** [9c 4c 8h 3d] [6h]
+*** SHOW DOWN ***
+Mahu2021: shows [Jc 5c] (high card Jack)
+Mafella: shows [Ad Ts] (high card Ace)
+Mafella collected 714 from pot
+Mahu2021 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 714 | Rake 0 
+Board [9c 4c 8h 3d 6h]
+Seat 1: Tina2679 (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) showed [Jc 5c] and lost with high card Jack
+Seat 3: Mafella (button) showed [Ad Ts] and won (714) with high card Ace
+
+
+

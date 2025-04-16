@@ -1,0 +1,357 @@
+﻿PokerStars Hand #253473331584: Tournament #3825122459, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/19 10:13:11 CET [2024/11/19 4:13:11 ET]
+Table '3825122459 1' 3-max Seat #1 is the button
+Seat 1: InMyOwn (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: bea-knee (500 in chips) 
+Mahu2021: posts small blind 10
+bea-knee: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8s Qc]
+InMyOwn: folds 
+Mahu2021: raises 20 to 40
+bea-knee: calls 20
+*** FLOP *** [Ts 4d 5c]
+Mahu2021: checks 
+bea-knee: checks 
+*** TURN *** [Ts 4d 5c] [3s]
+Mahu2021: checks 
+bea-knee: bets 20
+Mahu2021: folds 
+Uncalled bet (20) returned to bea-knee
+bea-knee collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Ts 4d 5c 3s]
+Seat 1: InMyOwn (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) folded on the Turn
+Seat 3: bea-knee (big blind) collected (80)
+
+
+
+PokerStars Hand #253473332721: Tournament #3825122459, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/19 10:13:24 CET [2024/11/19 4:13:24 ET]
+Table '3825122459 1' 3-max Seat #2 is the button
+Seat 1: InMyOwn (500 in chips) 
+Seat 2: Mahu2021 (460 in chips) 
+Seat 3: bea-knee (540 in chips) 
+bea-knee: posts small blind 10
+InMyOwn: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h Qh]
+Mahu2021: folds 
+bea-knee: calls 10
+InMyOwn: checks 
+*** FLOP *** [5h Kd Td]
+bea-knee: bets 20
+InMyOwn: calls 20
+*** TURN *** [5h Kd Td] [8d]
+bea-knee: checks 
+InMyOwn: checks 
+*** RIVER *** [5h Kd Td 8d] [3c]
+bea-knee: checks 
+InMyOwn: bets 40
+bea-knee: folds 
+Uncalled bet (40) returned to InMyOwn
+InMyOwn collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [5h Kd Td 8d 3c]
+Seat 1: InMyOwn (big blind) collected (80)
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: bea-knee (small blind) folded on the River
+
+
+
+PokerStars Hand #253473334647: Tournament #3825122459, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/19 10:13:48 CET [2024/11/19 4:13:48 ET]
+Table '3825122459 1' 3-max Seat #3 is the button
+Seat 1: InMyOwn (540 in chips) 
+Seat 2: Mahu2021 (460 in chips) 
+Seat 3: bea-knee (500 in chips) 
+InMyOwn: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4d Js]
+bea-knee: calls 20
+InMyOwn: calls 10
+Mahu2021: checks 
+*** FLOP *** [Jd 9s 3s]
+InMyOwn: bets 20
+Mahu2021: calls 20
+bea-knee: calls 20
+*** TURN *** [Jd 9s 3s] [8h]
+InMyOwn: bets 41
+Mahu2021: calls 41
+bea-knee: folds 
+*** RIVER *** [Jd 9s 3s 8h] [5d]
+InMyOwn: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+InMyOwn: shows [Tc 9d] (a pair of Nines)
+Mahu2021: shows [4d Js] (a pair of Jacks)
+Mahu2021 collected 202 from pot
+*** SUMMARY ***
+Total pot 202 | Rake 0 
+Board [Jd 9s 3s 8h 5d]
+Seat 1: InMyOwn (small blind) showed [Tc 9d] and lost with a pair of Nines
+Seat 2: Mahu2021 (big blind) showed [4d Js] and won (202) with a pair of Jacks
+Seat 3: bea-knee (button) folded on the Turn
+
+
+
+PokerStars Hand #253473337057: Tournament #3825122459, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/19 10:14:16 CET [2024/11/19 4:14:16 ET]
+Table '3825122459 1' 3-max Seat #1 is the button
+Seat 1: InMyOwn (459 in chips) 
+Seat 2: Mahu2021 (581 in chips) 
+Seat 3: bea-knee (460 in chips) 
+Mahu2021: posts small blind 10
+bea-knee: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d 3h]
+InMyOwn: raises 22 to 42
+Mahu2021: folds 
+bea-knee: calls 22
+*** FLOP *** [5s Th 2s]
+bea-knee: bets 94
+InMyOwn: raises 323 to 417 and is all-in
+bea-knee: calls 323
+*** TURN *** [5s Th 2s] [Kh]
+*** RIVER *** [5s Th 2s Kh] [Qs]
+*** SHOW DOWN ***
+bea-knee: shows [Tc Qh] (two pair, Queens and Tens)
+InMyOwn: shows [Js Ts] (a flush, Queen high)
+InMyOwn collected 928 from pot
+*** SUMMARY ***
+Total pot 928 | Rake 0 
+Board [5s Th 2s Kh Qs]
+Seat 1: InMyOwn (button) showed [Js Ts] and won (928) with a flush, Queen high
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: bea-knee (big blind) showed [Tc Qh] and lost with two pair, Queens and Tens
+
+
+
+PokerStars Hand #253473339290: Tournament #3825122459, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/19 10:14:41 CET [2024/11/19 4:14:41 ET]
+Table '3825122459 1' 3-max Seat #2 is the button
+Seat 1: InMyOwn (928 in chips) 
+Seat 2: Mahu2021 (571 in chips) 
+Seat 3: bea-knee (1 in chips) 
+bea-knee: posts small blind 1 and is all-in
+InMyOwn: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8s 6c]
+Mahu2021: folds 
+Uncalled bet (19) returned to InMyOwn
+*** FLOP *** [8d 5d Ah]
+*** TURN *** [8d 5d Ah] [3h]
+*** RIVER *** [8d 5d Ah 3h] [9d]
+*** SHOW DOWN ***
+bea-knee: shows [9h 8h] (two pair, Nines and Eights)
+InMyOwn: shows [2d 9c] (a pair of Nines)
+bea-knee collected 2 from pot
+*** SUMMARY ***
+Total pot 2 | Rake 0 
+Board [8d 5d Ah 3h 9d]
+Seat 1: InMyOwn (big blind) showed [2d 9c] and lost with a pair of Nines
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: bea-knee (small blind) showed [9h 8h] and won (2) with two pair, Nines and Eights
+
+
+
+PokerStars Hand #253473340449: Tournament #3825122459, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/19 10:14:54 CET [2024/11/19 4:14:54 ET]
+Table '3825122459 1' 3-max Seat #3 is the button
+Seat 1: InMyOwn (927 in chips) 
+Seat 2: Mahu2021 (571 in chips) 
+Seat 3: bea-knee (2 in chips) 
+InMyOwn: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c Td]
+bea-knee: calls 2 and is all-in
+InMyOwn: raises 20 to 40
+Mahu2021: calls 20
+*** FLOP *** [2d 7h 2h]
+InMyOwn: checks 
+Mahu2021: checks 
+*** TURN *** [2d 7h 2h] [Qd]
+InMyOwn: checks 
+Mahu2021: checks 
+*** RIVER *** [2d 7h 2h Qd] [Ks]
+InMyOwn: checks 
+Mahu2021: bets 20
+InMyOwn: calls 20
+*** SHOW DOWN ***
+Mahu2021: shows [9c Td] (a pair of Deuces)
+InMyOwn: shows [As 5c] (a pair of Deuces - Ace kicker)
+InMyOwn collected 116 from side pot
+bea-knee: shows [9h 9d] (two pair, Nines and Deuces)
+bea-knee collected 6 from main pot
+*** SUMMARY ***
+Total pot 122 Main pot 6. Side pot 116. | Rake 0 
+Board [2d 7h 2h Qd Ks]
+Seat 1: InMyOwn (small blind) showed [As 5c] and won (116) with a pair of Deuces
+Seat 2: Mahu2021 (big blind) showed [9c Td] and lost with a pair of Deuces
+Seat 3: bea-knee (button) showed [9h 9d] and won (6) with two pair, Nines and Deuces
+
+
+
+PokerStars Hand #253473342271: Tournament #3825122459, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/19 10:15:15 CET [2024/11/19 4:15:15 ET]
+Table '3825122459 1' 3-max Seat #1 is the button
+Seat 1: InMyOwn (983 in chips) 
+Seat 2: Mahu2021 (511 in chips) 
+Seat 3: bea-knee (6 in chips) 
+Mahu2021: posts small blind 10
+bea-knee: posts big blind 6 and is all-in
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h Qh]
+InMyOwn: raises 40 to 50
+Mahu2021: calls 40
+*** FLOP *** [9d 4h 5s]
+Mahu2021: checks 
+InMyOwn: checks 
+*** TURN *** [9d 4h 5s] [6h]
+Mahu2021: checks 
+InMyOwn: checks 
+*** RIVER *** [9d 4h 5s 6h] [Qd]
+Mahu2021: bets 106
+InMyOwn: folds 
+Uncalled bet (106) returned to Mahu2021
+*** SHOW DOWN ***
+Mahu2021: shows [3h Qh] (a pair of Queens)
+Mahu2021 collected 88 from side pot
+bea-knee: shows [5h Td] (a pair of Fives)
+Mahu2021 collected 18 from main pot
+bea-knee finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 106 Main pot 18. Side pot 88. | Rake 0 
+Board [9d 4h 5s 6h Qd]
+Seat 1: InMyOwn (button) folded on the River
+Seat 2: Mahu2021 (small blind) showed [3h Qh] and won (106) with a pair of Queens
+Seat 3: bea-knee (big blind) showed [5h Td] and lost with a pair of Fives
+
+
+
+PokerStars Hand #253473344878: Tournament #3825122459, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/19 10:15:46 CET [2024/11/19 4:15:46 ET]
+Table '3825122459 1' 3-max Seat #2 is the button
+Seat 1: InMyOwn (933 in chips) 
+Seat 2: Mahu2021 (567 in chips) 
+Mahu2021: posts small blind 10
+InMyOwn: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd 7d]
+Mahu2021: raises 20 to 40
+InMyOwn: calls 20
+*** FLOP *** [3h Kc 8h]
+InMyOwn: checks 
+Mahu2021: checks 
+*** TURN *** [3h Kc 8h] [9c]
+InMyOwn: bets 40
+Mahu2021: calls 40
+*** RIVER *** [3h Kc 8h 9c] [5s]
+InMyOwn: checks 
+Mahu2021: bets 80
+InMyOwn: calls 80
+*** SHOW DOWN ***
+Mahu2021: shows [Jd 7d] (high card King)
+InMyOwn: shows [3c Ac] (a pair of Threes)
+InMyOwn collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [3h Kc 8h 9c 5s]
+Seat 1: InMyOwn (big blind) showed [3c Ac] and won (320) with a pair of Threes
+Seat 2: Mahu2021 (button) (small blind) showed [Jd 7d] and lost with high card King
+
+
+
+PokerStars Hand #253473346535: Tournament #3825122459, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/19 10:16:05 CET [2024/11/19 4:16:05 ET]
+Table '3825122459 1' 3-max Seat #1 is the button
+Seat 1: InMyOwn (1093 in chips) 
+Seat 2: Mahu2021 (407 in chips) 
+InMyOwn: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qd Ad]
+InMyOwn: folds 
+Uncalled bet (10) returned to Mahu2021
+Mahu2021 collected 20 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: InMyOwn (button) (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (20)
+
+
+
+PokerStars Hand #253473347094: Tournament #3825122459, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/19 10:16:11 CET [2024/11/19 4:16:11 ET]
+Table '3825122459 1' 3-max Seat #2 is the button
+Seat 1: InMyOwn (1083 in chips) 
+Seat 2: Mahu2021 (417 in chips) 
+Mahu2021: posts small blind 10
+InMyOwn: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8d 3h]
+Mahu2021: folds 
+Uncalled bet (10) returned to InMyOwn
+InMyOwn collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: InMyOwn (big blind) collected (20)
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #253473347721: Tournament #3825122459, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/19 10:16:19 CET [2024/11/19 4:16:19 ET]
+Table '3825122459 1' 3-max Seat #1 is the button
+Seat 1: InMyOwn (1093 in chips) 
+Seat 2: Mahu2021 (407 in chips) 
+InMyOwn: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh 2s]
+InMyOwn: calls 15
+Mahu2021: checks 
+*** FLOP *** [Ks 5s 8c]
+Mahu2021: checks 
+InMyOwn: bets 30
+Mahu2021: raises 90 to 120
+InMyOwn: folds 
+Uncalled bet (90) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Ks 5s 8c]
+Seat 1: InMyOwn (button) (small blind) folded on the Flop
+Seat 2: Mahu2021 (big blind) collected (120)
+
+
+
+PokerStars Hand #253473348864: Tournament #3825122459, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/19 10:16:32 CET [2024/11/19 4:16:32 ET]
+Table '3825122459 1' 3-max Seat #2 is the button
+Seat 1: InMyOwn (1033 in chips) 
+Seat 2: Mahu2021 (467 in chips) 
+Mahu2021: posts small blind 15
+InMyOwn: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks 8s]
+Mahu2021: raises 30 to 60
+InMyOwn: calls 30
+*** FLOP *** [7s 2s 4d]
+InMyOwn: checks 
+Mahu2021: bets 120
+InMyOwn: raises 853 to 973 and is all-in
+Mahu2021: calls 287 and is all-in
+Uncalled bet (566) returned to InMyOwn
+*** TURN *** [7s 2s 4d] [Ac]
+*** RIVER *** [7s 2s 4d Ac] [6h]
+*** SHOW DOWN ***
+InMyOwn: shows [4s Ts] (a pair of Fours)
+Mahu2021: shows [Ks 8s] (high card Ace)
+InMyOwn collected 934 from pot
+Mahu2021 finished the tournament in 2nd place
+InMyOwn wins the tournament and receives $6.00 - congratulations!
+*** SUMMARY ***
+Total pot 934 | Rake 0 
+Board [7s 2s 4d Ac 6h]
+Seat 1: InMyOwn (big blind) showed [4s Ts] and won (934) with a pair of Fours
+Seat 2: Mahu2021 (button) (small blind) showed [Ks 8s] and lost with high card Ace
+
+
+

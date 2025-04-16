@@ -1,0 +1,373 @@
+﻿PokerStars Hand #251448928482: Tournament #3776965274, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/07/12 11:43:52 CET [2024/07/12 5:43:52 ET]
+Table '3776965274 1' 3-max Seat #1 is the button
+Seat 1: alesagawa (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: DarkJedi60 (500 in chips) 
+Mahu2021: posts small blind 10
+DarkJedi60: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h 3s]
+alesagawa: calls 20
+Mahu2021: folds 
+DarkJedi60: checks 
+*** FLOP *** [3h Jd 3d]
+DarkJedi60: bets 50
+alesagawa: folds 
+Uncalled bet (50) returned to DarkJedi60
+DarkJedi60 collected 50 from pot
+DarkJedi60: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [3h Jd 3d]
+Seat 1: alesagawa (button) folded on the Flop
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: DarkJedi60 (big blind) collected (50)
+
+
+
+PokerStars Hand #251448929593: Tournament #3776965274, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/07/12 11:44:02 CET [2024/07/12 5:44:02 ET]
+Table '3776965274 1' 3-max Seat #2 is the button
+Seat 1: alesagawa (480 in chips) 
+Seat 2: Mahu2021 (490 in chips) 
+Seat 3: DarkJedi60 (530 in chips) 
+DarkJedi60: posts small blind 10
+alesagawa: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh 5c]
+Mahu2021: folds 
+DarkJedi60: calls 10
+alesagawa: checks 
+*** FLOP *** [7h 2s As]
+DarkJedi60: checks 
+alesagawa: checks 
+*** TURN *** [7h 2s As] [2c]
+DarkJedi60: checks 
+alesagawa: checks 
+*** RIVER *** [7h 2s As 2c] [3d]
+DarkJedi60: bets 40
+alesagawa: folds 
+Uncalled bet (40) returned to DarkJedi60
+DarkJedi60 collected 40 from pot
+DarkJedi60: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [7h 2s As 2c 3d]
+Seat 1: alesagawa (big blind) folded on the River
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: DarkJedi60 (small blind) collected (40)
+
+
+
+PokerStars Hand #251448932333: Tournament #3776965274, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/07/12 11:44:26 CET [2024/07/12 5:44:26 ET]
+Table '3776965274 1' 3-max Seat #3 is the button
+Seat 1: alesagawa (460 in chips) 
+Seat 2: Mahu2021 (490 in chips) 
+Seat 3: DarkJedi60 (550 in chips) 
+alesagawa: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2s Kd]
+DarkJedi60: calls 20
+alesagawa: calls 10
+Mahu2021: checks 
+*** FLOP *** [Kc 5h 7h]
+alesagawa: checks 
+Mahu2021: bets 20
+DarkJedi60: calls 20
+alesagawa: folds 
+*** TURN *** [Kc 5h 7h] [9d]
+Mahu2021: bets 20
+DarkJedi60: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 100 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [Kc 5h 7h 9d]
+Seat 1: alesagawa (small blind) folded on the Flop
+Seat 2: Mahu2021 (big blind) collected (100)
+Seat 3: DarkJedi60 (button) folded on the Turn
+
+
+
+PokerStars Hand #251448934164: Tournament #3776965274, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/07/12 11:44:42 CET [2024/07/12 5:44:42 ET]
+Table '3776965274 1' 3-max Seat #1 is the button
+Seat 1: alesagawa (440 in chips) 
+Seat 2: Mahu2021 (550 in chips) 
+Seat 3: DarkJedi60 (510 in chips) 
+Mahu2021: posts small blind 10
+DarkJedi60: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d 2h]
+alesagawa: calls 20
+Mahu2021: calls 10
+DarkJedi60: checks 
+*** FLOP *** [As 5h 6s]
+Mahu2021: checks 
+DarkJedi60: checks 
+alesagawa: checks 
+*** TURN *** [As 5h 6s] [5c]
+Mahu2021: checks 
+DarkJedi60: bets 20
+alesagawa: folds 
+Mahu2021: calls 20
+*** RIVER *** [As 5h 6s 5c] [9s]
+Mahu2021: checks 
+DarkJedi60: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [2d 2h] (two pair, Fives and Deuces)
+DarkJedi60: mucks hand 
+Mahu2021 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [As 5h 6s 5c 9s]
+Seat 1: alesagawa (button) folded on the Turn
+Seat 2: Mahu2021 (small blind) showed [2d 2h] and won (100) with two pair, Fives and Deuces
+Seat 3: DarkJedi60 (big blind) mucked [Js 8c]
+
+
+
+PokerStars Hand #251448935950: Tournament #3776965274, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/07/12 11:44:58 CET [2024/07/12 5:44:58 ET]
+Table '3776965274 1' 3-max Seat #2 is the button
+Seat 1: alesagawa (420 in chips) 
+Seat 2: Mahu2021 (610 in chips) 
+Seat 3: DarkJedi60 (470 in chips) 
+DarkJedi60: posts small blind 10
+alesagawa: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2s 8s]
+Mahu2021: folds 
+DarkJedi60: folds 
+Uncalled bet (10) returned to alesagawa
+alesagawa collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: alesagawa (big blind) collected (20)
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: DarkJedi60 (small blind) folded before Flop
+
+
+
+PokerStars Hand #251448936554: Tournament #3776965274, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/07/12 11:45:04 CET [2024/07/12 5:45:04 ET]
+Table '3776965274 1' 3-max Seat #3 is the button
+Seat 1: alesagawa (430 in chips) 
+Seat 2: Mahu2021 (610 in chips) 
+Seat 3: DarkJedi60 (460 in chips) 
+alesagawa: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s 3c]
+DarkJedi60: raises 50 to 70
+alesagawa: folds 
+Mahu2021: folds 
+Uncalled bet (50) returned to DarkJedi60
+DarkJedi60 collected 50 from pot
+DarkJedi60: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: alesagawa (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: DarkJedi60 (button) collected (50)
+
+
+
+PokerStars Hand #251448937494: Tournament #3776965274, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/07/12 11:45:11 CET [2024/07/12 5:45:11 ET]
+Table '3776965274 1' 3-max Seat #1 is the button
+Seat 1: alesagawa (420 in chips) 
+Seat 2: Mahu2021 (590 in chips) 
+Seat 3: DarkJedi60 (490 in chips) 
+Mahu2021: posts small blind 10
+DarkJedi60: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad 6h]
+alesagawa: raises 20 to 40
+Mahu2021: calls 30
+DarkJedi60: folds 
+*** FLOP *** [8c Th 2s]
+Mahu2021: checks 
+alesagawa: bets 100
+Mahu2021: folds 
+Uncalled bet (100) returned to alesagawa
+alesagawa collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [8c Th 2s]
+Seat 1: alesagawa (button) collected (100)
+Seat 2: Mahu2021 (small blind) folded on the Flop
+Seat 3: DarkJedi60 (big blind) folded before Flop
+
+
+
+PokerStars Hand #251448938998: Tournament #3776965274, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/07/12 11:45:24 CET [2024/07/12 5:45:24 ET]
+Table '3776965274 1' 3-max Seat #2 is the button
+Seat 1: alesagawa (480 in chips) 
+Seat 2: Mahu2021 (550 in chips) 
+Seat 3: DarkJedi60 (470 in chips) 
+DarkJedi60: posts small blind 10
+alesagawa: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad Td]
+Mahu2021: raises 20 to 40
+DarkJedi60: folds 
+alesagawa: calls 20
+*** FLOP *** [4h 3s 4s]
+alesagawa: checks 
+Mahu2021: checks 
+*** TURN *** [4h 3s 4s] [7c]
+alesagawa: bets 45
+Mahu2021: calls 45
+*** RIVER *** [4h 3s 4s 7c] [5h]
+alesagawa: bets 120
+Mahu2021: folds 
+Uncalled bet (120) returned to alesagawa
+alesagawa collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [4h 3s 4s 7c 5h]
+Seat 1: alesagawa (big blind) collected (180)
+Seat 2: Mahu2021 (button) folded on the River
+Seat 3: DarkJedi60 (small blind) folded before Flop
+
+
+
+PokerStars Hand #251448941893: Tournament #3776965274, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/07/12 11:45:49 CET [2024/07/12 5:45:49 ET]
+Table '3776965274 1' 3-max Seat #3 is the button
+Seat 1: alesagawa (575 in chips) 
+Seat 2: Mahu2021 (465 in chips) 
+Seat 3: DarkJedi60 (460 in chips) 
+alesagawa: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c 9h]
+DarkJedi60: calls 20
+alesagawa: calls 10
+Mahu2021: checks 
+*** FLOP *** [6d 3h Ks]
+alesagawa: checks 
+Mahu2021: checks 
+DarkJedi60: checks 
+*** TURN *** [6d 3h Ks] [4h]
+alesagawa: bets 20
+Mahu2021: calls 20
+DarkJedi60: calls 20
+*** RIVER *** [6d 3h Ks 4h] [Js]
+alesagawa: checks 
+Mahu2021: bets 40
+DarkJedi60: calls 40
+alesagawa: folds 
+*** SHOW DOWN ***
+Mahu2021: shows [6c 9h] (a pair of Sixes)
+DarkJedi60: shows [Jc 6h] (two pair, Jacks and Sixes)
+DarkJedi60 collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [6d 3h Ks 4h Js]
+Seat 1: alesagawa (small blind) folded on the River
+Seat 2: Mahu2021 (big blind) showed [6c 9h] and lost with a pair of Sixes
+Seat 3: DarkJedi60 (button) showed [Jc 6h] and won (200) with two pair, Jacks and Sixes
+
+
+
+PokerStars Hand #251448944438: Tournament #3776965274, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/07/12 11:46:11 CET [2024/07/12 5:46:11 ET]
+Table '3776965274 1' 3-max Seat #1 is the button
+Seat 1: alesagawa (535 in chips) 
+Seat 2: Mahu2021 (385 in chips) 
+Seat 3: DarkJedi60 (580 in chips) 
+Mahu2021: posts small blind 10
+DarkJedi60: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc Js]
+alesagawa: calls 20
+Mahu2021: calls 10
+DarkJedi60: checks 
+*** FLOP *** [Ah 3s 6d]
+Mahu2021: checks 
+DarkJedi60: checks 
+alesagawa: checks 
+*** TURN *** [Ah 3s 6d] [7d]
+Mahu2021: checks 
+DarkJedi60: bets 20
+alesagawa: folds 
+Mahu2021: folds 
+Uncalled bet (20) returned to DarkJedi60
+DarkJedi60 collected 60 from pot
+DarkJedi60: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Ah 3s 6d 7d]
+Seat 1: alesagawa (button) folded on the Turn
+Seat 2: Mahu2021 (small blind) folded on the Turn
+Seat 3: DarkJedi60 (big blind) collected (60)
+
+
+
+PokerStars Hand #251448946135: Tournament #3776965274, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/07/12 11:46:26 CET [2024/07/12 5:46:26 ET]
+Table '3776965274 1' 3-max Seat #2 is the button
+Seat 1: alesagawa (515 in chips) 
+Seat 2: Mahu2021 (365 in chips) 
+Seat 3: DarkJedi60 (620 in chips) 
+DarkJedi60: posts small blind 10
+alesagawa: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As 4d]
+Mahu2021: calls 20
+DarkJedi60: calls 10
+alesagawa: checks 
+*** FLOP *** [Ts 9d 6d]
+DarkJedi60: checks 
+alesagawa: checks 
+Mahu2021: checks 
+*** TURN *** [Ts 9d 6d] [8c]
+DarkJedi60: bets 20
+alesagawa: folds 
+Mahu2021: folds 
+Uncalled bet (20) returned to DarkJedi60
+DarkJedi60 collected 60 from pot
+DarkJedi60: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Ts 9d 6d 8c]
+Seat 1: alesagawa (big blind) folded on the Turn
+Seat 2: Mahu2021 (button) folded on the Turn
+Seat 3: DarkJedi60 (small blind) collected (60)
+
+
+
+PokerStars Hand #251448947773: Tournament #3776965274, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/07/12 11:46:40 CET [2024/07/12 5:46:40 ET]
+Table '3776965274 1' 3-max Seat #3 is the button
+Seat 1: alesagawa (495 in chips) 
+Seat 2: Mahu2021 (345 in chips) 
+Seat 3: DarkJedi60 (660 in chips) 
+alesagawa: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4c Kc]
+DarkJedi60: calls 20
+alesagawa: raises 20 to 40
+Mahu2021: calls 20
+DarkJedi60: calls 20
+*** FLOP *** [Ks 8c 3h]
+alesagawa: bets 60
+Mahu2021: calls 60
+DarkJedi60: folds 
+*** TURN *** [Ks 8c 3h] [Kh]
+alesagawa: bets 80
+Mahu2021: raises 80 to 160
+alesagawa: raises 235 to 395 and is all-in
+Mahu2021: calls 85 and is all-in
+Uncalled bet (150) returned to alesagawa
+*** RIVER *** [Ks 8c 3h Kh] [7s]
+*** SHOW DOWN ***
+alesagawa: shows [Ac Kd] (three of a kind, Kings)
+Mahu2021: shows [4c Kc] (three of a kind, Kings - lower kicker)
+alesagawa collected 730 from pot
+Mahu2021 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 730 | Rake 0 
+Board [Ks 8c 3h Kh 7s]
+Seat 1: alesagawa (small blind) showed [Ac Kd] and won (730) with three of a kind, Kings
+Seat 2: Mahu2021 (big blind) showed [4c Kc] and lost with three of a kind, Kings
+Seat 3: DarkJedi60 (button) folded on the Flop
+
+
+

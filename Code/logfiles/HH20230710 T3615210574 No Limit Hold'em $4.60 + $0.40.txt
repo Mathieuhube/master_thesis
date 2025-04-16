@@ -1,0 +1,351 @@
+﻿PokerStars Hand #244737838488: Tournament #3615210574, $4.60+$0.40 USD Hold'em No Limit - Level I (10/20) - 2023/07/10 20:36:52 CET [2023/07/10 14:36:52 ET]
+Table '3615210574 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: lmRike (500 in chips) 
+Seat 3: DiiinhoP (500 in chips) 
+lmRike: posts small blind 10
+DiiinhoP: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd 8c]
+Mahu2021: folds 
+lmRike: calls 10
+DiiinhoP: raises 480 to 500 and is all-in
+lmRike: folds 
+Uncalled bet (480) returned to DiiinhoP
+DiiinhoP collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: lmRike (small blind) folded before Flop
+Seat 3: DiiinhoP (big blind) collected (40)
+
+
+
+PokerStars Hand #244737842435: Tournament #3615210574, $4.60+$0.40 USD Hold'em No Limit - Level I (10/20) - 2023/07/10 20:37:04 CET [2023/07/10 14:37:04 ET]
+Table '3615210574 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: lmRike (480 in chips) 
+Seat 3: DiiinhoP (520 in chips) 
+DiiinhoP: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As Ad]
+lmRike: folds 
+DiiinhoP: raises 40 to 60
+Mahu2021: raises 440 to 500 and is all-in
+DiiinhoP: calls 440
+*** FLOP *** [5d Kc 8c]
+*** TURN *** [5d Kc 8c] [5c]
+*** RIVER *** [5d Kc 8c 5c] [6d]
+*** SHOW DOWN ***
+DiiinhoP: shows [Jh Ks] (two pair, Kings and Fives)
+Mahu2021: shows [As Ad] (two pair, Aces and Fives)
+Mahu2021 collected 1000 from pot
+*** SUMMARY ***
+Total pot 1000 | Rake 0 
+Board [5d Kc 8c 5c 6d]
+Seat 1: Mahu2021 (big blind) showed [As Ad] and won (1000) with two pair, Aces and Fives
+Seat 2: lmRike (button) folded before Flop (didn't bet)
+Seat 3: DiiinhoP (small blind) showed [Jh Ks] and lost with two pair, Kings and Fives
+
+
+
+PokerStars Hand #244737848991: Tournament #3615210574, $4.60+$0.40 USD Hold'em No Limit - Level I (10/20) - 2023/07/10 20:37:23 CET [2023/07/10 14:37:23 ET]
+Table '3615210574 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (1000 in chips) 
+Seat 2: lmRike (480 in chips) 
+Seat 3: DiiinhoP (20 in chips) 
+Mahu2021: posts small blind 10
+lmRike: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Th Kc]
+DiiinhoP: calls 20 and is all-in
+Mahu2021: calls 10
+lmRike: raises 50 to 70
+Mahu2021: calls 50
+*** FLOP *** [9s Qs 5s]
+Mahu2021: checks 
+lmRike: bets 40
+Mahu2021: folds 
+Uncalled bet (40) returned to lmRike
+*** TURN *** [9s Qs 5s] [Jc]
+*** RIVER *** [9s Qs 5s Jc] [4h]
+*** SHOW DOWN ***
+lmRike: shows [Ks Ac] (high card Ace)
+lmRike collected 100 from side pot
+DiiinhoP: shows [Jd 7h] (a pair of Jacks)
+DiiinhoP collected 60 from main pot
+*** SUMMARY ***
+Total pot 160 Main pot 60. Side pot 100. | Rake 0 
+Board [9s Qs 5s Jc 4h]
+Seat 1: Mahu2021 (small blind) folded on the Flop
+Seat 2: lmRike (big blind) showed [Ks Ac] and won (100) with high card Ace
+Seat 3: DiiinhoP (button) showed [Jd 7h] and won (60) with a pair of Jacks
+
+
+
+PokerStars Hand #244737861379: Tournament #3615210574, $4.60+$0.40 USD Hold'em No Limit - Level I (10/20) - 2023/07/10 20:37:59 CET [2023/07/10 14:37:59 ET]
+Table '3615210574 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (930 in chips) 
+Seat 2: lmRike (510 in chips) 
+Seat 3: DiiinhoP (60 in chips) 
+lmRike: posts small blind 10
+DiiinhoP: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As Th]
+Mahu2021: raises 40 to 60
+lmRike: folds 
+DiiinhoP: calls 40 and is all-in
+*** FLOP *** [8c 7d Qh]
+*** TURN *** [8c 7d Qh] [Td]
+*** RIVER *** [8c 7d Qh Td] [Jc]
+*** SHOW DOWN ***
+DiiinhoP: shows [2h 6h] (high card Queen)
+Mahu2021: shows [As Th] (a pair of Tens)
+Mahu2021 collected 130 from pot
+DiiinhoP finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 130 | Rake 0 
+Board [8c 7d Qh Td Jc]
+Seat 1: Mahu2021 (button) showed [As Th] and won (130) with a pair of Tens
+Seat 2: lmRike (small blind) folded before Flop
+Seat 3: DiiinhoP (big blind) showed [2h 6h] and lost with high card Queen
+
+
+
+PokerStars Hand #244737867628: Tournament #3615210574, $4.60+$0.40 USD Hold'em No Limit - Level I (10/20) - 2023/07/10 20:38:17 CET [2023/07/10 14:38:17 ET]
+Table '3615210574 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (1000 in chips) 
+Seat 2: lmRike (500 in chips) 
+lmRike: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5h Kh]
+lmRike: calls 10
+Mahu2021: checks 
+*** FLOP *** [3c 7h 6s]
+Mahu2021: checks 
+lmRike: checks 
+*** TURN *** [3c 7h 6s] [8s]
+Mahu2021: bets 20
+lmRike: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [3c 7h 6s 8s]
+Seat 1: Mahu2021 (big blind) collected (40)
+Seat 2: lmRike (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #244737877400: Tournament #3615210574, $4.60+$0.40 USD Hold'em No Limit - Level I (10/20) - 2023/07/10 20:38:46 CET [2023/07/10 14:38:46 ET]
+Table '3615210574 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1020 in chips) 
+Seat 2: lmRike (480 in chips) 
+Mahu2021: posts small blind 10
+lmRike: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js 8d]
+Mahu2021: calls 10
+lmRike: checks 
+*** FLOP *** [Kd 2c Qh]
+lmRike: checks 
+Mahu2021: checks 
+*** TURN *** [Kd 2c Qh] [2s]
+lmRike: bets 20
+Mahu2021: folds 
+Uncalled bet (20) returned to lmRike
+lmRike collected 40 from pot
+lmRike: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Kd 2c Qh 2s]
+Seat 1: Mahu2021 (button) (small blind) folded on the Turn
+Seat 2: lmRike (big blind) collected (40)
+
+
+
+PokerStars Hand #244737884261: Tournament #3615210574, $4.60+$0.40 USD Hold'em No Limit - Level II (15/30) - 2023/07/10 20:39:06 CET [2023/07/10 14:39:06 ET]
+Table '3615210574 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (1000 in chips) 
+Seat 2: lmRike (500 in chips) 
+lmRike: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah 2h]
+lmRike: calls 15
+Mahu2021: raises 60 to 90
+lmRike: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (60)
+Seat 2: lmRike (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #244737887412: Tournament #3615210574, $4.60+$0.40 USD Hold'em No Limit - Level II (15/30) - 2023/07/10 20:39:15 CET [2023/07/10 14:39:15 ET]
+Table '3615210574 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1030 in chips) 
+Seat 2: lmRike (470 in chips) 
+Mahu2021: posts small blind 15
+lmRike: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8d 4c]
+Mahu2021: folds 
+Uncalled bet (15) returned to lmRike
+lmRike collected 30 from pot
+lmRike: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 2: lmRike (big blind) collected (30)
+
+
+
+PokerStars Hand #244737889063: Tournament #3615210574, $4.60+$0.40 USD Hold'em No Limit - Level II (15/30) - 2023/07/10 20:39:20 CET [2023/07/10 14:39:20 ET]
+Table '3615210574 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (1015 in chips) 
+Seat 2: lmRike (485 in chips) 
+lmRike: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d 7h]
+lmRike: calls 15
+Mahu2021: checks 
+*** FLOP *** [8h 2c 2d]
+Mahu2021: checks 
+lmRike: bets 30
+Mahu2021: folds 
+Uncalled bet (30) returned to lmRike
+lmRike collected 60 from pot
+lmRike: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [8h 2c 2d]
+Seat 1: Mahu2021 (big blind) folded on the Flop
+Seat 2: lmRike (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #244737893542: Tournament #3615210574, $4.60+$0.40 USD Hold'em No Limit - Level II (15/30) - 2023/07/10 20:39:33 CET [2023/07/10 14:39:33 ET]
+Table '3615210574 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (985 in chips) 
+Seat 2: lmRike (515 in chips) 
+Mahu2021: posts small blind 15
+lmRike: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4d 4h]
+Mahu2021: raises 30 to 60
+lmRike: calls 30
+*** FLOP *** [Js 7d Kh]
+lmRike: checks 
+Mahu2021: bets 60
+lmRike: calls 60
+*** TURN *** [Js 7d Kh] [Jh]
+lmRike: checks 
+Mahu2021: checks 
+*** RIVER *** [Js 7d Kh Jh] [5c]
+lmRike: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+lmRike: shows [9c Kd] (two pair, Kings and Jacks)
+Mahu2021: mucks hand 
+lmRike collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Js 7d Kh Jh 5c]
+Seat 1: Mahu2021 (button) (small blind) mucked [4d 4h]
+Seat 2: lmRike (big blind) showed [9c Kd] and won (240) with two pair, Kings and Jacks
+
+
+
+PokerStars Hand #244737902582: Tournament #3615210574, $4.60+$0.40 USD Hold'em No Limit - Level II (15/30) - 2023/07/10 20:39:59 CET [2023/07/10 14:39:59 ET]
+Table '3615210574 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (865 in chips) 
+Seat 2: lmRike (635 in chips) 
+lmRike: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd 2d]
+lmRike: calls 15
+Mahu2021: checks 
+*** FLOP *** [4d 6h Jh]
+Mahu2021: checks 
+lmRike: bets 30
+Mahu2021: folds 
+Uncalled bet (30) returned to lmRike
+lmRike collected 60 from pot
+lmRike: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [4d 6h Jh]
+Seat 1: Mahu2021 (big blind) folded on the Flop
+Seat 2: lmRike (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #244737906754: Tournament #3615210574, $4.60+$0.40 USD Hold'em No Limit - Level II (15/30) - 2023/07/10 20:40:11 CET [2023/07/10 14:40:11 ET]
+Table '3615210574 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (835 in chips) 
+Seat 2: lmRike (665 in chips) 
+Mahu2021: posts small blind 15
+lmRike: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d Jc]
+Mahu2021: raises 30 to 60
+lmRike: calls 30
+*** FLOP *** [Ah Th 7h]
+lmRike: checks 
+Mahu2021: checks 
+*** TURN *** [Ah Th 7h] [2s]
+lmRike: checks 
+Mahu2021: checks 
+*** RIVER *** [Ah Th 7h 2s] [Jd]
+lmRike: bets 30
+Mahu2021: calls 30
+*** SHOW DOWN ***
+lmRike: shows [8h 7d] (a pair of Sevens)
+Mahu2021: shows [9d Jc] (a pair of Jacks)
+Mahu2021 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [Ah Th 7h 2s Jd]
+Seat 1: Mahu2021 (button) (small blind) showed [9d Jc] and won (180) with a pair of Jacks
+Seat 2: lmRike (big blind) showed [8h 7d] and lost with a pair of Sevens
+
+
+
+PokerStars Hand #244737914480: Tournament #3615210574, $4.60+$0.40 USD Hold'em No Limit - Level II (15/30) - 2023/07/10 20:40:33 CET [2023/07/10 14:40:33 ET]
+Table '3615210574 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (925 in chips) 
+Seat 2: lmRike (575 in chips) 
+lmRike: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc Js]
+lmRike: calls 15
+Mahu2021: raises 895 to 925 and is all-in
+lmRike: calls 545 and is all-in
+Uncalled bet (350) returned to Mahu2021
+*** FLOP *** [9s Qc Ks]
+*** TURN *** [9s Qc Ks] [Tc]
+*** RIVER *** [9s Qc Ks Tc] [8h]
+*** SHOW DOWN ***
+Mahu2021: shows [Jc Js] (a straight, Nine to King)
+lmRike: shows [8c As] (a pair of Eights)
+Mahu2021 collected 1150 from pot
+lmRike finished the tournament in 2nd place
+Mahu2021 wins the tournament and receives $10.00 - congratulations!
+*** SUMMARY ***
+Total pot 1150 | Rake 0 
+Board [9s Qc Ks Tc 8h]
+Seat 1: Mahu2021 (big blind) showed [Jc Js] and won (1150) with a straight, Nine to King
+Seat 2: lmRike (button) (small blind) showed [8c As] and lost with a pair of Eights
+
+
+

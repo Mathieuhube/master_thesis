@@ -1,0 +1,128 @@
+﻿PokerStars Hand #246936285904: Tournament #3668608353, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/05 10:08:36 CET [2023/11/05 4:08:36 ET]
+Table '3668608353 1' 3-max Seat #1 is the button
+Seat 1: rouge thndr (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: kanzer10 (500 in chips) 
+Mahu2021: posts small blind 10
+kanzer10: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc 4h]
+rouge thndr: calls 20
+Mahu2021: folds 
+kanzer10: raises 20 to 40
+rouge thndr: calls 20
+*** FLOP *** [6s 7s 8c]
+kanzer10: checks 
+rouge thndr: checks 
+*** TURN *** [6s 7s 8c] [2d]
+kanzer10: checks 
+rouge thndr: checks 
+*** RIVER *** [6s 7s 8c 2d] [2h]
+kanzer10: bets 60
+rouge thndr: folds 
+Uncalled bet (60) returned to kanzer10
+kanzer10 collected 90 from pot
+kanzer10: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [6s 7s 8c 2d 2h]
+Seat 1: rouge thndr (button) folded on the River
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: kanzer10 (big blind) collected (90)
+
+
+
+PokerStars Hand #246936291051: Tournament #3668608353, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/05 10:09:16 CET [2023/11/05 4:09:16 ET]
+Table '3668608353 1' 3-max Seat #2 is the button
+Seat 1: rouge thndr (460 in chips) 
+Seat 2: Mahu2021 (490 in chips) 
+Seat 3: kanzer10 (550 in chips) 
+kanzer10: posts small blind 10
+rouge thndr: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As 6d]
+Mahu2021: raises 20 to 40
+kanzer10: raises 40 to 80
+rouge thndr: folds 
+Mahu2021: calls 40
+*** FLOP *** [8s 2h Qh]
+kanzer10: bets 120
+Mahu2021: folds 
+Uncalled bet (120) returned to kanzer10
+kanzer10 collected 180 from pot
+kanzer10: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [8s 2h Qh]
+Seat 1: rouge thndr (big blind) folded before Flop
+Seat 2: Mahu2021 (button) folded on the Flop
+Seat 3: kanzer10 (small blind) collected (180)
+
+
+
+PokerStars Hand #246936293387: Tournament #3668608353, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/05 10:09:34 CET [2023/11/05 4:09:34 ET]
+Table '3668608353 1' 3-max Seat #3 is the button
+Seat 1: rouge thndr (440 in chips) 
+Seat 2: Mahu2021 (410 in chips) 
+Seat 3: kanzer10 (650 in chips) 
+rouge thndr: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js 5h]
+kanzer10: calls 20
+rouge thndr: calls 10
+Mahu2021: checks 
+*** FLOP *** [2h 8s 8h]
+rouge thndr: checks 
+Mahu2021: checks 
+kanzer10: bets 60
+rouge thndr: folds 
+Mahu2021: folds 
+Uncalled bet (60) returned to kanzer10
+kanzer10 collected 60 from pot
+kanzer10: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [2h 8s 8h]
+Seat 1: rouge thndr (small blind) folded on the Flop
+Seat 2: Mahu2021 (big blind) folded on the Flop
+Seat 3: kanzer10 (button) collected (60)
+
+
+
+PokerStars Hand #246936297310: Tournament #3668608353, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/05 10:10:04 CET [2023/11/05 4:10:04 ET]
+Table '3668608353 1' 3-max Seat #1 is the button
+Seat 1: rouge thndr (420 in chips) 
+Seat 2: Mahu2021 (390 in chips) 
+Seat 3: kanzer10 (690 in chips) 
+Mahu2021: posts small blind 10
+kanzer10: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad Td]
+rouge thndr: calls 20
+Mahu2021: calls 10
+kanzer10: checks 
+*** FLOP *** [3d 6s 2d]
+Mahu2021: bets 40
+kanzer10: raises 40 to 80
+rouge thndr: folds 
+Mahu2021: raises 120 to 200
+kanzer10: raises 120 to 320
+Mahu2021: raises 50 to 370 and is all-in
+kanzer10: calls 50
+*** TURN *** [3d 6s 2d] [Jh]
+*** RIVER *** [3d 6s 2d Jh] [8s]
+*** SHOW DOWN ***
+Mahu2021: shows [Ad Td] (high card Ace)
+kanzer10: shows [3h 2c] (two pair, Threes and Deuces)
+kanzer10 collected 800 from pot
+Mahu2021 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 800 | Rake 0 
+Board [3d 6s 2d Jh 8s]
+Seat 1: rouge thndr (button) folded on the Flop
+Seat 2: Mahu2021 (small blind) showed [Ad Td] and lost with high card Ace
+Seat 3: kanzer10 (big blind) showed [3h 2c] and won (800) with two pair, Threes and Deuces
+
+
+

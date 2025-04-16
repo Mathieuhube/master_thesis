@@ -1,0 +1,424 @@
+﻿PokerStars Hand #249089758236: Tournament #3721134304, $4.60+$0.40 USD Hold'em No Limit - Level I (10/20) - 2024/02/25 19:58:25 CET [2024/02/25 13:58:25 ET]
+Table '3721134304 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: Jekatatarin (500 in chips) 
+Seat 3: Vaaad1k (500 in chips) 
+Jekatatarin: posts small blind 10
+Vaaad1k: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h Ad]
+Mahu2021: folds 
+Jekatatarin: calls 10
+Vaaad1k: checks 
+*** FLOP *** [5c 4c Ah]
+Jekatatarin: checks 
+Vaaad1k: checks 
+*** TURN *** [5c 4c Ah] [5h]
+Jekatatarin: bets 20
+Vaaad1k: folds 
+Uncalled bet (20) returned to Jekatatarin
+Jekatatarin collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [5c 4c Ah 5h]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: Jekatatarin (small blind) collected (40)
+Seat 3: Vaaad1k (big blind) folded on the Turn
+
+
+
+PokerStars Hand #249089764732: Tournament #3721134304, $4.60+$0.40 USD Hold'em No Limit - Level I (10/20) - 2024/02/25 19:58:50 CET [2024/02/25 13:58:50 ET]
+Table '3721134304 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: Jekatatarin (520 in chips) 
+Seat 3: Vaaad1k (480 in chips) 
+Vaaad1k: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c Ad]
+Jekatatarin: calls 20
+Vaaad1k: folds 
+Mahu2021: checks 
+*** FLOP *** [5c 9s 4d]
+Mahu2021: bets 40
+Jekatatarin: calls 40
+*** TURN *** [5c 9s 4d] [6h]
+Mahu2021: checks 
+Jekatatarin: checks 
+*** RIVER *** [5c 9s 4d 6h] [8h]
+Mahu2021: checks 
+Jekatatarin: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [9c Ad] (a pair of Nines)
+Jekatatarin: mucks hand 
+Mahu2021 collected 130 from pot
+*** SUMMARY ***
+Total pot 130 | Rake 0 
+Board [5c 9s 4d 6h 8h]
+Seat 1: Mahu2021 (big blind) showed [9c Ad] and won (130) with a pair of Nines
+Seat 2: Jekatatarin (button) mucked [3c As]
+Seat 3: Vaaad1k (small blind) folded before Flop
+
+
+
+PokerStars Hand #249089770789: Tournament #3721134304, $4.60+$0.40 USD Hold'em No Limit - Level I (10/20) - 2024/02/25 19:59:15 CET [2024/02/25 13:59:15 ET]
+Table '3721134304 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (570 in chips) 
+Seat 2: Jekatatarin (460 in chips) 
+Seat 3: Vaaad1k (470 in chips) 
+Mahu2021: posts small blind 10
+Jekatatarin: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d 9c]
+Vaaad1k: raises 20 to 40
+Mahu2021: folds 
+Jekatatarin: calls 20
+*** FLOP *** [6s 4s Td]
+Jekatatarin: checks 
+Vaaad1k: bets 40
+Jekatatarin: calls 40
+*** TURN *** [6s 4s Td] [4h]
+Jekatatarin: checks 
+Vaaad1k: checks 
+*** RIVER *** [6s 4s Td 4h] [Kh]
+Jekatatarin: checks 
+Vaaad1k: bets 128
+Jekatatarin: folds 
+Uncalled bet (128) returned to Vaaad1k
+Vaaad1k collected 170 from pot
+Vaaad1k: doesn't show hand 
+*** SUMMARY ***
+Total pot 170 | Rake 0 
+Board [6s 4s Td 4h Kh]
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: Jekatatarin (big blind) folded on the River
+Seat 3: Vaaad1k (button) collected (170)
+
+
+
+PokerStars Hand #249089782104: Tournament #3721134304, $4.60+$0.40 USD Hold'em No Limit - Level I (10/20) - 2024/02/25 20:00:00 CET [2024/02/25 14:00:00 ET]
+Table '3721134304 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (560 in chips) 
+Seat 2: Jekatatarin (380 in chips) 
+Seat 3: Vaaad1k (560 in chips) 
+Jekatatarin: posts small blind 10
+Vaaad1k: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h Kh]
+Mahu2021: raises 20 to 40
+Jekatatarin: folds 
+Vaaad1k: calls 20
+*** FLOP *** [9c 4s Td]
+Vaaad1k: checks 
+Mahu2021: checks 
+*** TURN *** [9c 4s Td] [6d]
+Vaaad1k: checks 
+Mahu2021: bets 40
+Vaaad1k: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 90 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [9c 4s Td 6d]
+Seat 1: Mahu2021 (button) collected (90)
+Seat 2: Jekatatarin (small blind) folded before Flop
+Seat 3: Vaaad1k (big blind) folded on the Turn
+
+
+
+PokerStars Hand #249089788208: Tournament #3721134304, $4.60+$0.40 USD Hold'em No Limit - Level I (10/20) - 2024/02/25 20:00:21 CET [2024/02/25 14:00:21 ET]
+Table '3721134304 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (610 in chips) 
+Seat 2: Jekatatarin (370 in chips) 
+Seat 3: Vaaad1k (520 in chips) 
+Vaaad1k: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As 9h]
+Jekatatarin: calls 20
+Vaaad1k: calls 10
+Mahu2021: checks 
+*** FLOP *** [3d Qc Jd]
+Vaaad1k: checks 
+Mahu2021: checks 
+Jekatatarin: checks 
+*** TURN *** [3d Qc Jd] [Qh]
+Vaaad1k: bets 40
+Mahu2021: folds 
+Jekatatarin: folds 
+Uncalled bet (40) returned to Vaaad1k
+Vaaad1k collected 60 from pot
+Vaaad1k: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [3d Qc Jd Qh]
+Seat 1: Mahu2021 (big blind) folded on the Turn
+Seat 2: Jekatatarin (button) folded on the Turn
+Seat 3: Vaaad1k (small blind) collected (60)
+
+
+
+PokerStars Hand #249089802260: Tournament #3721134304, $4.60+$0.40 USD Hold'em No Limit - Level I (10/20) - 2024/02/25 20:01:10 CET [2024/02/25 14:01:10 ET]
+Table '3721134304 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (590 in chips) 
+Seat 2: Jekatatarin (350 in chips) 
+Seat 3: Vaaad1k (560 in chips) 
+Mahu2021: posts small blind 10
+Jekatatarin: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s 6d]
+Vaaad1k: folds 
+Mahu2021: folds 
+Uncalled bet (10) returned to Jekatatarin
+Jekatatarin collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: Jekatatarin (big blind) collected (20)
+Seat 3: Vaaad1k (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #249089804445: Tournament #3721134304, $4.60+$0.40 USD Hold'em No Limit - Level I (10/20) - 2024/02/25 20:01:17 CET [2024/02/25 14:01:17 ET]
+Table '3721134304 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (580 in chips) 
+Seat 2: Jekatatarin (360 in chips) 
+Seat 3: Vaaad1k (560 in chips) 
+Jekatatarin: posts small blind 10
+Vaaad1k: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s 8s]
+Mahu2021: folds 
+Jekatatarin: calls 10
+Vaaad1k: checks 
+*** FLOP *** [Td 2c Ks]
+Jekatatarin: bets 80
+Vaaad1k: folds 
+Uncalled bet (80) returned to Jekatatarin
+Jekatatarin collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Td 2c Ks]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: Jekatatarin (small blind) collected (40)
+Seat 3: Vaaad1k (big blind) folded on the Flop
+
+
+
+PokerStars Hand #249089810370: Tournament #3721134304, $4.60+$0.40 USD Hold'em No Limit - Level II (15/30) - 2024/02/25 20:01:35 CET [2024/02/25 14:01:35 ET]
+Table '3721134304 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (580 in chips) 
+Seat 2: Jekatatarin (380 in chips) 
+Seat 3: Vaaad1k (540 in chips) 
+Vaaad1k: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d 7d]
+Jekatatarin: calls 30
+Vaaad1k: folds 
+Mahu2021: checks 
+*** FLOP *** [Qc 2d 3h]
+Mahu2021: checks 
+Jekatatarin: checks 
+*** TURN *** [Qc 2d 3h] [Ad]
+Mahu2021: checks 
+Jekatatarin: checks 
+*** RIVER *** [Qc 2d 3h Ad] [8h]
+Mahu2021: checks 
+Jekatatarin: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [9d 7d] (high card Ace)
+Jekatatarin: shows [7s Td] (high card Ace - Queen+Ten kicker)
+Jekatatarin collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Board [Qc 2d 3h Ad 8h]
+Seat 1: Mahu2021 (big blind) showed [9d 7d] and lost with high card Ace
+Seat 2: Jekatatarin (button) showed [7s Td] and won (75) with high card Ace
+Seat 3: Vaaad1k (small blind) folded before Flop
+
+
+
+PokerStars Hand #249089818708: Tournament #3721134304, $4.60+$0.40 USD Hold'em No Limit - Level II (15/30) - 2024/02/25 20:01:58 CET [2024/02/25 14:01:58 ET]
+Table '3721134304 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (550 in chips) 
+Seat 2: Jekatatarin (425 in chips) 
+Seat 3: Vaaad1k (525 in chips) 
+Mahu2021: posts small blind 15
+Jekatatarin: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s 4h]
+Vaaad1k: folds 
+Mahu2021: folds 
+Uncalled bet (15) returned to Jekatatarin
+Jekatatarin collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: Jekatatarin (big blind) collected (30)
+Seat 3: Vaaad1k (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #249089821022: Tournament #3721134304, $4.60+$0.40 USD Hold'em No Limit - Level II (15/30) - 2024/02/25 20:02:03 CET [2024/02/25 14:02:03 ET]
+Table '3721134304 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (535 in chips) 
+Seat 2: Jekatatarin (440 in chips) 
+Seat 3: Vaaad1k (525 in chips) 
+Jekatatarin: posts small blind 15
+Vaaad1k: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5h Qc]
+Mahu2021: folds 
+Jekatatarin: calls 15
+Vaaad1k: raises 60 to 90
+Jekatatarin: calls 60
+*** FLOP *** [Ac Qh 7c]
+Jekatatarin: checks 
+Vaaad1k: bets 90
+Jekatatarin: calls 90
+*** TURN *** [Ac Qh 7c] [7h]
+Jekatatarin: bets 260 and is all-in
+Vaaad1k: folds 
+Uncalled bet (260) returned to Jekatatarin
+Jekatatarin collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [Ac Qh 7c 7h]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: Jekatatarin (small blind) collected (360)
+Seat 3: Vaaad1k (big blind) folded on the Turn
+
+
+
+PokerStars Hand #249089833317: Tournament #3721134304, $4.60+$0.40 USD Hold'em No Limit - Level II (15/30) - 2024/02/25 20:02:36 CET [2024/02/25 14:02:36 ET]
+Table '3721134304 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (535 in chips) 
+Seat 2: Jekatatarin (620 in chips) 
+Seat 3: Vaaad1k (345 in chips) 
+Vaaad1k: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d 3d]
+Jekatatarin: folds 
+Vaaad1k: calls 15
+Mahu2021: checks 
+*** FLOP *** [Ah 7s Ad]
+Vaaad1k: bets 30
+Mahu2021: folds 
+Uncalled bet (30) returned to Vaaad1k
+Vaaad1k collected 60 from pot
+Vaaad1k: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Ah 7s Ad]
+Seat 1: Mahu2021 (big blind) folded on the Flop
+Seat 2: Jekatatarin (button) folded before Flop (didn't bet)
+Seat 3: Vaaad1k (small blind) collected (60)
+
+
+
+PokerStars Hand #249089839223: Tournament #3721134304, $4.60+$0.40 USD Hold'em No Limit - Level II (15/30) - 2024/02/25 20:02:51 CET [2024/02/25 14:02:51 ET]
+Table '3721134304 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (505 in chips) 
+Seat 2: Jekatatarin (620 in chips) 
+Seat 3: Vaaad1k (375 in chips) 
+Mahu2021: posts small blind 15
+Jekatatarin: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s 4h]
+Vaaad1k: folds 
+Mahu2021: folds 
+Uncalled bet (15) returned to Jekatatarin
+Jekatatarin collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: Jekatatarin (big blind) collected (30)
+Seat 3: Vaaad1k (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #249089841266: Tournament #3721134304, $4.60+$0.40 USD Hold'em No Limit - Level II (15/30) - 2024/02/25 20:02:57 CET [2024/02/25 14:02:57 ET]
+Table '3721134304 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (490 in chips) 
+Seat 2: Jekatatarin (635 in chips) 
+Seat 3: Vaaad1k (375 in chips) 
+Jekatatarin: posts small blind 15
+Vaaad1k: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4d 7h]
+Mahu2021: folds 
+Jekatatarin: calls 15
+Vaaad1k: raises 345 to 375 and is all-in
+Jekatatarin: folds 
+Uncalled bet (345) returned to Vaaad1k
+Vaaad1k collected 60 from pot
+Vaaad1k: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: Jekatatarin (small blind) folded before Flop
+Seat 3: Vaaad1k (big blind) collected (60)
+
+
+
+PokerStars Hand #249089845921: Tournament #3721134304, $4.60+$0.40 USD Hold'em No Limit - Level II (15/30) - 2024/02/25 20:03:10 CET [2024/02/25 14:03:10 ET]
+Table '3721134304 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (490 in chips) 
+Seat 2: Jekatatarin (605 in chips) 
+Seat 3: Vaaad1k (405 in chips) 
+Vaaad1k: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd As]
+Jekatatarin: folds 
+Vaaad1k: raises 375 to 405 and is all-in
+Mahu2021: calls 375
+*** FLOP *** [4s 7s Qh]
+*** TURN *** [4s 7s Qh] [Ts]
+*** RIVER *** [4s 7s Qh Ts] [8c]
+*** SHOW DOWN ***
+Vaaad1k: shows [3c 3d] (a pair of Threes)
+Mahu2021: shows [Jd As] (high card Ace)
+Vaaad1k collected 810 from pot
+*** SUMMARY ***
+Total pot 810 | Rake 0 
+Board [4s 7s Qh Ts 8c]
+Seat 1: Mahu2021 (big blind) showed [Jd As] and lost with high card Ace
+Seat 2: Jekatatarin (button) folded before Flop (didn't bet)
+Seat 3: Vaaad1k (small blind) showed [3c 3d] and won (810) with a pair of Threes
+
+
+
+PokerStars Hand #249089855983: Tournament #3721134304, $4.60+$0.40 USD Hold'em No Limit - Level II (15/30) - 2024/02/25 20:03:34 CET [2024/02/25 14:03:34 ET]
+Table '3721134304 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (85 in chips) 
+Seat 2: Jekatatarin (605 in chips) 
+Seat 3: Vaaad1k (810 in chips) 
+Mahu2021: posts small blind 15
+Jekatatarin: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h Jd]
+Vaaad1k: raises 45 to 75
+Mahu2021: raises 10 to 85 and is all-in
+Jekatatarin: folds 
+Vaaad1k: calls 10
+*** FLOP *** [7h 4h 6h]
+*** TURN *** [7h 4h 6h] [6c]
+*** RIVER *** [7h 4h 6h 6c] [5s]
+*** SHOW DOWN ***
+Mahu2021: shows [9h Jd] (a pair of Sixes)
+Vaaad1k: shows [4d 4c] (a full house, Fours full of Sixes)
+Vaaad1k collected 200 from pot
+Mahu2021 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [7h 4h 6h 6c 5s]
+Seat 1: Mahu2021 (small blind) showed [9h Jd] and lost with a pair of Sixes
+Seat 2: Jekatatarin (big blind) folded before Flop
+Seat 3: Vaaad1k (button) showed [4d 4c] and won (200) with a full house, Fours full of Sixes
+
+
+

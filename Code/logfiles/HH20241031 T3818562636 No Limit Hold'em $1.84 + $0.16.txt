@@ -1,0 +1,725 @@
+﻿PokerStars Hand #253191322506: Tournament #3818562636, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/31 21:17:58 CET [2024/10/31 16:17:58 ET]
+Table '3818562636 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: BJJD (500 in chips) 
+Seat 3: iustin1004 (500 in chips) 
+BJJD: posts small blind 10
+iustin1004: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d Qh]
+Mahu2021: folds 
+BJJD: calls 10
+iustin1004: checks 
+*** FLOP *** [Qs 2c Js]
+BJJD: bets 20
+iustin1004: calls 20
+*** TURN *** [Qs 2c Js] [6h]
+BJJD: checks 
+iustin1004: checks 
+*** RIVER *** [Qs 2c Js 6h] [9c]
+BJJD: bets 60
+iustin1004: folds 
+Uncalled bet (60) returned to BJJD
+BJJD collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Qs 2c Js 6h 9c]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: BJJD (small blind) collected (80)
+Seat 3: iustin1004 (big blind) folded on the River
+
+
+
+PokerStars Hand #253191329801: Tournament #3818562636, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/31 21:18:24 CET [2024/10/31 16:18:24 ET]
+Table '3818562636 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: BJJD (540 in chips) 
+Seat 3: iustin1004 (460 in chips) 
+iustin1004: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qs 3d]
+BJJD: folds 
+iustin1004: calls 10
+Mahu2021: checks 
+*** FLOP *** [8c Jd 6c]
+iustin1004: bets 20
+Mahu2021: folds 
+Uncalled bet (20) returned to iustin1004
+iustin1004 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [8c Jd 6c]
+Seat 1: Mahu2021 (big blind) folded on the Flop
+Seat 2: BJJD (button) folded before Flop (didn't bet)
+Seat 3: iustin1004 (small blind) collected (40)
+
+
+
+PokerStars Hand #253191333210: Tournament #3818562636, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/31 21:18:36 CET [2024/10/31 16:18:36 ET]
+Table '3818562636 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (480 in chips) 
+Seat 2: BJJD (540 in chips) 
+Seat 3: iustin1004 (480 in chips) 
+Mahu2021: posts small blind 10
+BJJD: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c Tc]
+iustin1004: raises 40 to 60
+Mahu2021: calls 50
+BJJD: calls 40
+*** FLOP *** [3h Kc Ks]
+Mahu2021: checks 
+BJJD: bets 20
+iustin1004: calls 20
+Mahu2021: folds 
+*** TURN *** [3h Kc Ks] [Qs]
+BJJD: checks 
+iustin1004: checks 
+*** RIVER *** [3h Kc Ks Qs] [Jh]
+BJJD: bets 80
+iustin1004: raises 190 to 270
+BJJD: calls 190
+*** SHOW DOWN ***
+iustin1004: shows [Qd Kh] (a full house, Kings full of Queens)
+BJJD: mucks hand 
+iustin1004 collected 760 from pot
+*** SUMMARY ***
+Total pot 760 | Rake 0 
+Board [3h Kc Ks Qs Jh]
+Seat 1: Mahu2021 (small blind) folded on the Flop
+Seat 2: BJJD (big blind) mucked [Kd Jc]
+Seat 3: iustin1004 (button) showed [Qd Kh] and won (760) with a full house, Kings full of Queens
+
+
+
+PokerStars Hand #253191343419: Tournament #3818562636, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/31 21:19:13 CET [2024/10/31 16:19:13 ET]
+Table '3818562636 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (420 in chips) 
+Seat 2: BJJD (190 in chips) 
+Seat 3: iustin1004 (890 in chips) 
+BJJD: posts small blind 10
+iustin1004: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8s Js]
+Mahu2021: raises 20 to 40
+BJJD: folds 
+iustin1004: calls 20
+*** FLOP *** [2h 6d 4s]
+iustin1004: checks 
+Mahu2021: checks 
+*** TURN *** [2h 6d 4s] [Jh]
+iustin1004: checks 
+Mahu2021: bets 40
+iustin1004: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 90 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [2h 6d 4s Jh]
+Seat 1: Mahu2021 (button) collected (90)
+Seat 2: BJJD (small blind) folded before Flop
+Seat 3: iustin1004 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #253191348261: Tournament #3818562636, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/31 21:19:30 CET [2024/10/31 16:19:30 ET]
+Table '3818562636 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (470 in chips) 
+Seat 2: BJJD (180 in chips) 
+Seat 3: iustin1004 (850 in chips) 
+iustin1004: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h Kd]
+BJJD: raises 160 to 180 and is all-in
+iustin1004: folds 
+Mahu2021: folds 
+Uncalled bet (160) returned to BJJD
+BJJD collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: BJJD (button) collected (50)
+Seat 3: iustin1004 (small blind) folded before Flop
+
+
+
+PokerStars Hand #253191350493: Tournament #3818562636, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/31 21:19:37 CET [2024/10/31 16:19:37 ET]
+Table '3818562636 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (450 in chips) 
+Seat 2: BJJD (210 in chips) 
+Seat 3: iustin1004 (840 in chips) 
+Mahu2021: posts small blind 10
+BJJD: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d 3d]
+iustin1004: calls 20
+Mahu2021: calls 10
+BJJD: checks 
+*** FLOP *** [3h Kh 9d]
+Mahu2021: checks 
+BJJD: checks 
+iustin1004: checks 
+*** TURN *** [3h Kh 9d] [2d]
+Mahu2021: bets 40
+BJJD: folds 
+iustin1004: calls 40
+*** RIVER *** [3h Kh 9d 2d] [2s]
+Mahu2021: checks 
+iustin1004: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [6d 3d] (two pair, Threes and Deuces)
+iustin1004: mucks hand 
+Mahu2021 collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | Rake 0 
+Board [3h Kh 9d 2d 2s]
+Seat 1: Mahu2021 (small blind) showed [6d 3d] and won (140) with two pair, Threes and Deuces
+Seat 2: BJJD (big blind) folded on the Turn
+Seat 3: iustin1004 (button) mucked [Jd 8d]
+
+
+
+PokerStars Hand #253191361235: Tournament #3818562636, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/31 21:20:15 CET [2024/10/31 16:20:15 ET]
+Table '3818562636 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (530 in chips) 
+Seat 2: BJJD (190 in chips) 
+Seat 3: iustin1004 (780 in chips) 
+BJJD: posts small blind 10
+iustin1004: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s 5d]
+Mahu2021: folds 
+BJJD: raises 40 to 60
+iustin1004: calls 40
+*** FLOP *** [5c Th 5s]
+BJJD: bets 130 and is all-in
+iustin1004: folds 
+Uncalled bet (130) returned to BJJD
+BJJD collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [5c Th 5s]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: BJJD (small blind) collected (120)
+Seat 3: iustin1004 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #253191365702: Tournament #3818562636, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/31 21:20:31 CET [2024/10/31 16:20:31 ET]
+Table '3818562636 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (530 in chips) 
+Seat 2: BJJD (250 in chips) 
+Seat 3: iustin1004 (720 in chips) 
+iustin1004: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h 8c]
+BJJD: folds 
+iustin1004: calls 10
+Mahu2021: checks 
+*** FLOP *** [Ts 4h 8h]
+iustin1004: bets 20
+Mahu2021: calls 20
+*** TURN *** [Ts 4h 8h] [Qh]
+iustin1004: checks 
+Mahu2021: checks 
+*** RIVER *** [Ts 4h 8h Qh] [9c]
+iustin1004: bets 80
+Mahu2021: calls 80
+*** SHOW DOWN ***
+iustin1004: shows [Jh 6h] (a flush, Queen high)
+Mahu2021: mucks hand 
+iustin1004 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Ts 4h 8h Qh 9c]
+Seat 1: Mahu2021 (big blind) mucked [9h 8c]
+Seat 2: BJJD (button) folded before Flop (didn't bet)
+Seat 3: iustin1004 (small blind) showed [Jh 6h] and won (240) with a flush, Queen high
+
+
+
+PokerStars Hand #253191374823: Tournament #3818562636, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/31 21:21:04 CET [2024/10/31 16:21:04 ET]
+Table '3818562636 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (410 in chips) 
+Seat 2: BJJD (250 in chips) 
+Seat 3: iustin1004 (840 in chips) 
+Mahu2021: posts small blind 15
+BJJD: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c 4h]
+iustin1004: folds 
+Mahu2021: folds 
+Uncalled bet (15) returned to BJJD
+BJJD collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: BJJD (big blind) collected (30)
+Seat 3: iustin1004 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253191376153: Tournament #3818562636, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/31 21:21:08 CET [2024/10/31 16:21:08 ET]
+Table '3818562636 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (395 in chips) 
+Seat 2: BJJD (265 in chips) 
+Seat 3: iustin1004 (840 in chips) 
+BJJD: posts small blind 15
+iustin1004: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s 2h]
+Mahu2021: folds 
+BJJD: calls 15
+iustin1004: checks 
+*** FLOP *** [Qs 8h Qc]
+BJJD: bets 210
+iustin1004: folds 
+Uncalled bet (210) returned to BJJD
+BJJD collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Qs 8h Qc]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: BJJD (small blind) collected (60)
+Seat 3: iustin1004 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #253191383238: Tournament #3818562636, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/31 21:21:34 CET [2024/10/31 16:21:34 ET]
+Table '3818562636 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (395 in chips) 
+Seat 2: BJJD (295 in chips) 
+Seat 3: iustin1004 (810 in chips) 
+iustin1004: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d 8c]
+BJJD: raises 265 to 295 and is all-in
+iustin1004: folds 
+Mahu2021: folds 
+Uncalled bet (265) returned to BJJD
+BJJD collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: BJJD (button) collected (75)
+Seat 3: iustin1004 (small blind) folded before Flop
+
+
+
+PokerStars Hand #253191386435: Tournament #3818562636, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/31 21:21:45 CET [2024/10/31 16:21:45 ET]
+Table '3818562636 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (365 in chips) 
+Seat 2: BJJD (340 in chips) 
+Seat 3: iustin1004 (795 in chips) 
+Mahu2021: posts small blind 15
+BJJD: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh 9d]
+iustin1004: folds 
+Mahu2021: calls 15
+BJJD: checks 
+*** FLOP *** [3h 2d 8h]
+Mahu2021: checks 
+BJJD: checks 
+*** TURN *** [3h 2d 8h] [8c]
+Mahu2021: checks 
+BJJD: checks 
+*** RIVER *** [3h 2d 8h 8c] [5h]
+Mahu2021: checks 
+BJJD: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [Qh 9d] (a pair of Eights)
+BJJD: mucks hand 
+Mahu2021 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [3h 2d 8h 8c 5h]
+Seat 1: Mahu2021 (small blind) showed [Qh 9d] and won (60) with a pair of Eights
+Seat 2: BJJD (big blind) mucked [4d 7h]
+Seat 3: iustin1004 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253191391874: Tournament #3818562636, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/31 21:22:05 CET [2024/10/31 16:22:05 ET]
+Table '3818562636 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (395 in chips) 
+Seat 2: BJJD (310 in chips) 
+Seat 3: iustin1004 (795 in chips) 
+BJJD: posts small blind 15
+iustin1004: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qs 6h]
+Mahu2021: folds 
+BJJD: calls 15
+iustin1004: checks 
+*** FLOP *** [As 6s Ts]
+BJJD: bets 60
+iustin1004: folds 
+Uncalled bet (60) returned to BJJD
+BJJD collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [As 6s Ts]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: BJJD (small blind) collected (60)
+Seat 3: iustin1004 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #253191395454: Tournament #3818562636, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/31 21:22:17 CET [2024/10/31 16:22:17 ET]
+Table '3818562636 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (395 in chips) 
+Seat 2: BJJD (340 in chips) 
+Seat 3: iustin1004 (765 in chips) 
+iustin1004: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc Jd]
+BJJD: calls 30
+iustin1004: folds 
+Mahu2021: raises 365 to 395 and is all-in
+BJJD: folds 
+Uncalled bet (365) returned to Mahu2021
+Mahu2021 collected 75 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (75)
+Seat 2: BJJD (button) folded before Flop
+Seat 3: iustin1004 (small blind) folded before Flop
+
+
+
+PokerStars Hand #253191397891: Tournament #3818562636, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/31 21:22:26 CET [2024/10/31 16:22:26 ET]
+Table '3818562636 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (440 in chips) 
+Seat 2: BJJD (310 in chips) 
+Seat 3: iustin1004 (750 in chips) 
+Mahu2021: posts small blind 15
+BJJD: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4d Jh]
+iustin1004: raises 30 to 60
+Mahu2021: folds 
+BJJD: raises 30 to 90
+iustin1004: calls 30
+*** FLOP *** [7h 4c 5c]
+BJJD: bets 220 and is all-in
+iustin1004: calls 220
+*** TURN *** [7h 4c 5c] [3c]
+*** RIVER *** [7h 4c 5c 3c] [4h]
+*** SHOW DOWN ***
+BJJD: shows [Jd As] (a pair of Fours)
+iustin1004: shows [Kh Qc] (a pair of Fours - lower kicker)
+BJJD collected 635 from pot
+*** SUMMARY ***
+Total pot 635 | Rake 0 
+Board [7h 4c 5c 3c 4h]
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: BJJD (big blind) showed [Jd As] and won (635) with a pair of Fours
+Seat 3: iustin1004 (button) showed [Kh Qc] and lost with a pair of Fours
+
+
+
+PokerStars Hand #253191404997: Tournament #3818562636, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/31 21:22:51 CET [2024/10/31 16:22:51 ET]
+Table '3818562636 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (425 in chips) 
+Seat 2: BJJD (635 in chips) 
+Seat 3: iustin1004 (440 in chips) 
+BJJD: posts small blind 15
+iustin1004: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s 3d]
+Mahu2021: folds 
+BJJD: folds 
+Uncalled bet (15) returned to iustin1004
+iustin1004 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: BJJD (small blind) folded before Flop
+Seat 3: iustin1004 (big blind) collected (30)
+
+
+
+PokerStars Hand #253191407722: Tournament #3818562636, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/31 21:23:01 CET [2024/10/31 16:23:01 ET]
+Table '3818562636 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (425 in chips) 
+Seat 2: BJJD (620 in chips) 
+Seat 3: iustin1004 (455 in chips) 
+iustin1004: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h Kd]
+BJJD: calls 30
+iustin1004: folds 
+Mahu2021: checks 
+*** FLOP *** [7c 2h Js]
+Mahu2021: checks 
+BJJD: checks 
+*** TURN *** [7c 2h Js] [9d]
+Mahu2021: checks 
+BJJD: bets 30
+Mahu2021: folds 
+Uncalled bet (30) returned to BJJD
+BJJD collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Board [7c 2h Js 9d]
+Seat 1: Mahu2021 (big blind) folded on the Turn
+Seat 2: BJJD (button) collected (75)
+Seat 3: iustin1004 (small blind) folded before Flop
+
+
+
+PokerStars Hand #253191412697: Tournament #3818562636, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/31 21:23:19 CET [2024/10/31 16:23:19 ET]
+Table '3818562636 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (395 in chips) 
+Seat 2: BJJD (665 in chips) 
+Seat 3: iustin1004 (440 in chips) 
+Mahu2021: posts small blind 15
+BJJD: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js 5d]
+iustin1004: calls 30
+Mahu2021: calls 15
+BJJD: checks 
+*** FLOP *** [Ad 8s Ah]
+Mahu2021: checks 
+BJJD: checks 
+iustin1004: checks 
+*** TURN *** [Ad 8s Ah] [9c]
+Mahu2021: checks 
+BJJD: checks 
+iustin1004: checks 
+*** RIVER *** [Ad 8s Ah 9c] [Kc]
+Mahu2021: checks 
+BJJD: checks 
+iustin1004: bets 90
+Mahu2021: folds 
+BJJD: calls 90
+*** SHOW DOWN ***
+iustin1004: shows [Kh 7h] (two pair, Aces and Kings)
+BJJD: mucks hand 
+iustin1004 collected 270 from pot
+*** SUMMARY ***
+Total pot 270 | Rake 0 
+Board [Ad 8s Ah 9c Kc]
+Seat 1: Mahu2021 (small blind) folded on the River
+Seat 2: BJJD (big blind) mucked [3s Qc]
+Seat 3: iustin1004 (button) showed [Kh 7h] and won (270) with two pair, Aces and Kings
+
+
+
+PokerStars Hand #253191423497: Tournament #3818562636, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/31 21:23:57 CET [2024/10/31 16:23:57 ET]
+Table '3818562636 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (365 in chips) 
+Seat 2: BJJD (545 in chips) 
+Seat 3: iustin1004 (590 in chips) 
+BJJD: posts small blind 15
+iustin1004: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c 5s]
+Mahu2021: raises 30 to 60
+BJJD: folds 
+iustin1004: calls 30
+*** FLOP *** [Ah 4d 4s]
+iustin1004: bets 530 and is all-in
+Mahu2021: folds 
+Uncalled bet (530) returned to iustin1004
+iustin1004 collected 135 from pot
+*** SUMMARY ***
+Total pot 135 | Rake 0 
+Board [Ah 4d 4s]
+Seat 1: Mahu2021 (button) folded on the Flop
+Seat 2: BJJD (small blind) folded before Flop
+Seat 3: iustin1004 (big blind) collected (135)
+
+
+
+PokerStars Hand #253191428601: Tournament #3818562636, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/10/31 21:24:16 CET [2024/10/31 16:24:16 ET]
+Table '3818562636 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (305 in chips) 
+Seat 2: BJJD (530 in chips) 
+Seat 3: iustin1004 (665 in chips) 
+iustin1004: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Tc 4d]
+BJJD: calls 40
+iustin1004: calls 20
+Mahu2021: checks 
+*** FLOP *** [Kd 6h 4s]
+iustin1004: checks 
+Mahu2021: checks 
+BJJD: bets 160
+iustin1004: folds 
+Mahu2021: folds 
+Uncalled bet (160) returned to BJJD
+BJJD collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Kd 6h 4s]
+Seat 1: Mahu2021 (big blind) folded on the Flop
+Seat 2: BJJD (button) collected (120)
+Seat 3: iustin1004 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #253191433859: Tournament #3818562636, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/10/31 21:24:34 CET [2024/10/31 16:24:34 ET]
+Table '3818562636 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (265 in chips) 
+Seat 2: BJJD (610 in chips) 
+Seat 3: iustin1004 (625 in chips) 
+Mahu2021: posts small blind 20
+BJJD: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks Qh]
+iustin1004: folds 
+Mahu2021: raises 40 to 80
+BJJD: calls 40
+*** FLOP *** [Js 6c Ts]
+Mahu2021: bets 185 and is all-in
+BJJD: calls 185
+*** TURN *** [Js 6c Ts] [Qd]
+*** RIVER *** [Js 6c Ts Qd] [Kh]
+*** SHOW DOWN ***
+Mahu2021: shows [Ks Qh] (two pair, Kings and Queens)
+BJJD: shows [Jc 5c] (a pair of Jacks)
+Mahu2021 collected 530 from pot
+*** SUMMARY ***
+Total pot 530 | Rake 0 
+Board [Js 6c Ts Qd Kh]
+Seat 1: Mahu2021 (small blind) showed [Ks Qh] and won (530) with two pair, Kings and Queens
+Seat 2: BJJD (big blind) showed [Jc 5c] and lost with a pair of Jacks
+Seat 3: iustin1004 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253191438348: Tournament #3818562636, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/10/31 21:24:50 CET [2024/10/31 16:24:50 ET]
+Table '3818562636 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (530 in chips) 
+Seat 2: BJJD (345 in chips) 
+Seat 3: iustin1004 (625 in chips) 
+BJJD: posts small blind 20
+iustin1004: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd 7s]
+Mahu2021: calls 40
+BJJD: calls 20
+iustin1004: checks 
+*** FLOP *** [9s Js 2d]
+BJJD: checks 
+iustin1004: checks 
+Mahu2021: checks 
+*** TURN *** [9s Js 2d] [4h]
+BJJD: checks 
+iustin1004: checks 
+Mahu2021: bets 40
+BJJD: calls 40
+iustin1004: folds 
+*** RIVER *** [9s Js 2d 4h] [2c]
+BJJD: checks 
+Mahu2021: bets 200
+BJJD: folds 
+Uncalled bet (200) returned to Mahu2021
+Mahu2021 collected 200 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [9s Js 2d 4h 2c]
+Seat 1: Mahu2021 (button) collected (200)
+Seat 2: BJJD (small blind) folded on the River
+Seat 3: iustin1004 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #253191445830: Tournament #3818562636, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/10/31 21:25:17 CET [2024/10/31 16:25:17 ET]
+Table '3818562636 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (650 in chips) 
+Seat 2: BJJD (265 in chips) 
+Seat 3: iustin1004 (585 in chips) 
+iustin1004: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5h Ks]
+BJJD: raises 40 to 80
+iustin1004: folds 
+Mahu2021: calls 40
+*** FLOP *** [4h Kh 4s]
+Mahu2021: checks 
+BJJD: bets 185 and is all-in
+Mahu2021: calls 185
+*** TURN *** [4h Kh 4s] [5c]
+*** RIVER *** [4h Kh 4s 5c] [2h]
+*** SHOW DOWN ***
+Mahu2021: shows [5h Ks] (two pair, Kings and Fives)
+BJJD: shows [As 9s] (a pair of Fours)
+Mahu2021 collected 550 from pot
+BJJD finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 550 | Rake 0 
+Board [4h Kh 4s 5c 2h]
+Seat 1: Mahu2021 (big blind) showed [5h Ks] and won (550) with two pair, Kings and Fives
+Seat 2: BJJD (button) showed [As 9s] and lost with a pair of Fours
+Seat 3: iustin1004 (small blind) folded before Flop
+
+
+
+PokerStars Hand #253191451721: Tournament #3818562636, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/10/31 21:25:39 CET [2024/10/31 16:25:39 ET]
+Table '3818562636 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (935 in chips) 
+Seat 3: iustin1004 (565 in chips) 
+Mahu2021: posts small blind 20
+iustin1004: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Th Jh]
+Mahu2021: raises 40 to 80
+iustin1004: calls 40
+*** FLOP *** [9c Jd Td]
+iustin1004: checks 
+Mahu2021: bets 160
+iustin1004: folds 
+Uncalled bet (160) returned to Mahu2021
+Mahu2021 collected 160 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [9c Jd Td]
+Seat 1: Mahu2021 (button) (small blind) collected (160)
+Seat 3: iustin1004 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #253191454739: Tournament #3818562636, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/10/31 21:25:50 CET [2024/10/31 16:25:50 ET]
+Table '3818562636 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (1015 in chips) 
+Seat 3: iustin1004 (485 in chips) 
+iustin1004: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac Ad]
+iustin1004: raises 445 to 485 and is all-in
+Mahu2021: calls 445
+*** FLOP *** [Kc 9d Ah]
+*** TURN *** [Kc 9d Ah] [Qc]
+*** RIVER *** [Kc 9d Ah Qc] [2h]
+*** SHOW DOWN ***
+Mahu2021: shows [Ac Ad] (three of a kind, Aces)
+iustin1004: shows [7d As] (a pair of Aces)
+Mahu2021 collected 970 from pot
+iustin1004 finished the tournament in 2nd place
+Mahu2021 wins the tournament and receives $6.00 - congratulations!
+*** SUMMARY ***
+Total pot 970 | Rake 0 
+Board [Kc 9d Ah Qc 2h]
+Seat 1: Mahu2021 (big blind) showed [Ac Ad] and won (970) with three of a kind, Aces
+Seat 3: iustin1004 (button) (small blind) showed [7d As] and lost with a pair of Aces
+
+
+

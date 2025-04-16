@@ -1,0 +1,652 @@
+﻿PokerStars Hand #249025387388: Tournament #3719640738, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/02/22 14:34:47 CET [2024/02/22 8:34:47 ET]
+Table '3719640738 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: s4mmy777 (500 in chips) 
+Seat 3: jonyik (500 in chips) 
+s4mmy777: posts small blind 10
+jonyik: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kc Tc]
+Mahu2021: calls 20
+s4mmy777: calls 10
+jonyik: checks 
+*** FLOP *** [Qs 2h 5c]
+s4mmy777: checks 
+jonyik: checks 
+Mahu2021: checks 
+*** TURN *** [Qs 2h 5c] [7s]
+s4mmy777: checks 
+jonyik: checks 
+Mahu2021: checks 
+*** RIVER *** [Qs 2h 5c 7s] [5s]
+s4mmy777: checks 
+jonyik: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+s4mmy777: shows [4c Ad] (a pair of Fives)
+jonyik: mucks hand 
+Mahu2021: mucks hand 
+s4mmy777 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Qs 2h 5c 7s 5s]
+Seat 1: Mahu2021 (button) mucked [Kc Tc]
+Seat 2: s4mmy777 (small blind) showed [4c Ad] and won (60) with a pair of Fives
+Seat 3: jonyik (big blind) mucked [4h Js]
+
+
+
+PokerStars Hand #249025392910: Tournament #3719640738, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/02/22 14:35:15 CET [2024/02/22 8:35:15 ET]
+Table '3719640738 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (480 in chips) 
+Seat 2: s4mmy777 (540 in chips) 
+Seat 3: jonyik (480 in chips) 
+jonyik: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s 9h]
+s4mmy777: raises 20 to 40
+jonyik: calls 30
+Mahu2021: folds 
+*** FLOP *** [5d 8s 3d]
+jonyik: checks 
+s4mmy777: checks 
+*** TURN *** [5d 8s 3d] [Qc]
+jonyik: checks 
+s4mmy777: checks 
+*** RIVER *** [5d 8s 3d Qc] [2s]
+jonyik: checks 
+s4mmy777: checks 
+*** SHOW DOWN ***
+jonyik: shows [Jc 9c] (high card Queen)
+s4mmy777: shows [Ts Kd] (high card King)
+s4mmy777 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [5d 8s 3d Qc 2s]
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: s4mmy777 (button) showed [Ts Kd] and won (100) with high card King
+Seat 3: jonyik (small blind) showed [Jc 9c] and lost with high card Queen
+
+
+
+PokerStars Hand #249025395232: Tournament #3719640738, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/02/22 14:35:26 CET [2024/02/22 8:35:26 ET]
+Table '3719640738 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (460 in chips) 
+Seat 2: s4mmy777 (600 in chips) 
+Seat 3: jonyik (440 in chips) 
+Mahu2021: posts small blind 10
+s4mmy777: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8c Td]
+jonyik: calls 20
+Mahu2021: folds 
+s4mmy777: raises 40 to 60
+jonyik: calls 40
+*** FLOP *** [4h Kc 2d]
+s4mmy777: checks 
+jonyik: bets 40
+s4mmy777: calls 40
+*** TURN *** [4h Kc 2d] [3h]
+s4mmy777: checks 
+jonyik: bets 40
+s4mmy777: calls 40
+*** RIVER *** [4h Kc 2d 3h] [Ah]
+s4mmy777: checks 
+jonyik: bets 60
+s4mmy777: raises 60 to 120
+jonyik: calls 60
+*** SHOW DOWN ***
+s4mmy777: shows [As Kd] (two pair, Aces and Kings)
+jonyik: mucks hand 
+s4mmy777 collected 530 from pot
+*** SUMMARY ***
+Total pot 530 | Rake 0 
+Board [4h Kc 2d 3h Ah]
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: s4mmy777 (big blind) showed [As Kd] and won (530) with two pair, Aces and Kings
+Seat 3: jonyik (button) mucked [Ad 4c]
+
+
+
+PokerStars Hand #249025400514: Tournament #3719640738, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/02/22 14:35:52 CET [2024/02/22 8:35:52 ET]
+Table '3719640738 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (450 in chips) 
+Seat 2: s4mmy777 (870 in chips) 
+Seat 3: jonyik (180 in chips) 
+s4mmy777: posts small blind 10
+jonyik: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8c 9d]
+Mahu2021: folds 
+s4mmy777: calls 10
+jonyik: checks 
+*** FLOP *** [4c 2c 4s]
+s4mmy777: checks 
+jonyik: bets 40
+s4mmy777: raises 810 to 850 and is all-in
+jonyik: calls 120 and is all-in
+Uncalled bet (690) returned to s4mmy777
+*** TURN *** [4c 2c 4s] [7d]
+*** RIVER *** [4c 2c 4s 7d] [Th]
+*** SHOW DOWN ***
+s4mmy777: shows [Ad 2h] (two pair, Fours and Deuces)
+jonyik: shows [Tc 7c] (two pair, Tens and Sevens)
+jonyik collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [4c 2c 4s 7d Th]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: s4mmy777 (small blind) showed [Ad 2h] and lost with two pair, Fours and Deuces
+Seat 3: jonyik (big blind) showed [Tc 7c] and won (360) with two pair, Tens and Sevens
+
+
+
+PokerStars Hand #249025406602: Tournament #3719640738, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/02/22 14:36:22 CET [2024/02/22 8:36:22 ET]
+Table '3719640738 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (450 in chips) 
+Seat 2: s4mmy777 (690 in chips) 
+Seat 3: jonyik (360 in chips) 
+jonyik: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4d Ad]
+s4mmy777: raises 20 to 40
+jonyik: folds 
+Mahu2021: calls 20
+*** FLOP *** [6d Qs Kh]
+Mahu2021: checks 
+s4mmy777: checks 
+*** TURN *** [6d Qs Kh] [Kd]
+Mahu2021: checks 
+s4mmy777: bets 20
+Mahu2021: calls 20
+*** RIVER *** [6d Qs Kh Kd] [7c]
+Mahu2021: checks 
+s4mmy777: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [4d Ad] (a pair of Kings)
+s4mmy777: shows [4s Ac] (a pair of Kings)
+Mahu2021 collected 65 from pot
+s4mmy777 collected 65 from pot
+*** SUMMARY ***
+Total pot 130 | Rake 0 
+Board [6d Qs Kh Kd 7c]
+Seat 1: Mahu2021 (big blind) showed [4d Ad] and won (65) with a pair of Kings
+Seat 2: s4mmy777 (button) showed [4s Ac] and won (65) with a pair of Kings
+Seat 3: jonyik (small blind) folded before Flop
+
+
+
+PokerStars Hand #249025409498: Tournament #3719640738, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/02/22 14:36:37 CET [2024/02/22 8:36:37 ET]
+Table '3719640738 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (455 in chips) 
+Seat 2: s4mmy777 (695 in chips) 
+Seat 3: jonyik (350 in chips) 
+Mahu2021: posts small blind 10
+s4mmy777: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h 3c]
+jonyik: calls 20
+Mahu2021: folds 
+s4mmy777: checks 
+*** FLOP *** [3d 7d Jc]
+s4mmy777: checks 
+jonyik: checks 
+*** TURN *** [3d 7d Jc] [9c]
+s4mmy777: checks 
+jonyik: checks 
+*** RIVER *** [3d 7d Jc 9c] [Ts]
+s4mmy777: checks 
+jonyik: checks 
+*** SHOW DOWN ***
+s4mmy777: shows [As 5h] (high card Ace)
+jonyik: shows [7h Qc] (a pair of Sevens)
+jonyik collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [3d 7d Jc 9c Ts]
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: s4mmy777 (big blind) showed [As 5h] and lost with high card Ace
+Seat 3: jonyik (button) showed [7h Qc] and won (50) with a pair of Sevens
+
+
+
+PokerStars Hand #249025413197: Tournament #3719640738, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/02/22 14:36:55 CET [2024/02/22 8:36:55 ET]
+Table '3719640738 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (445 in chips) 
+Seat 2: s4mmy777 (675 in chips) 
+Seat 3: jonyik (380 in chips) 
+s4mmy777: posts small blind 10
+jonyik: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d 9s]
+Mahu2021: folds 
+s4mmy777: calls 10
+jonyik: raises 20 to 40
+s4mmy777: calls 20
+*** FLOP *** [Qh Kd Qs]
+s4mmy777: checks 
+jonyik: bets 20
+s4mmy777: folds 
+Uncalled bet (20) returned to jonyik
+jonyik collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Qh Kd Qs]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: s4mmy777 (small blind) folded on the Flop
+Seat 3: jonyik (big blind) collected (80)
+
+
+
+PokerStars Hand #249025415527: Tournament #3719640738, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/02/22 14:37:06 CET [2024/02/22 8:37:06 ET]
+Table '3719640738 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (445 in chips) 
+Seat 2: s4mmy777 (635 in chips) 
+Seat 3: jonyik (420 in chips) 
+jonyik: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As Jc]
+s4mmy777: folds 
+jonyik: calls 10
+Mahu2021: raises 60 to 80
+jonyik: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (40)
+Seat 2: s4mmy777 (button) folded before Flop (didn't bet)
+Seat 3: jonyik (small blind) folded before Flop
+
+
+
+PokerStars Hand #249025417293: Tournament #3719640738, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/02/22 14:37:15 CET [2024/02/22 8:37:15 ET]
+Table '3719640738 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (465 in chips) 
+Seat 2: s4mmy777 (635 in chips) 
+Seat 3: jonyik (400 in chips) 
+Mahu2021: posts small blind 10
+s4mmy777: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Td 9c]
+jonyik: folds 
+Mahu2021: calls 10
+s4mmy777: checks 
+*** FLOP *** [6h 3s 5s]
+Mahu2021: checks 
+s4mmy777: checks 
+*** TURN *** [6h 3s 5s] [Qh]
+Mahu2021: checks 
+s4mmy777: checks 
+*** RIVER *** [6h 3s 5s Qh] [Qs]
+Mahu2021: bets 20
+s4mmy777: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [6h 3s 5s Qh Qs]
+Seat 1: Mahu2021 (small blind) collected (40)
+Seat 2: s4mmy777 (big blind) folded on the River
+Seat 3: jonyik (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #249025420059: Tournament #3719640738, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/02/22 14:37:28 CET [2024/02/22 8:37:28 ET]
+Table '3719640738 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (485 in chips) 
+Seat 2: s4mmy777 (615 in chips) 
+Seat 3: jonyik (400 in chips) 
+s4mmy777: posts small blind 10
+jonyik: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h 2d]
+Mahu2021: raises 20 to 40
+s4mmy777: folds 
+jonyik: calls 20
+*** FLOP *** [9s 5c 9d]
+jonyik: checks 
+Mahu2021: bets 40
+jonyik: calls 40
+*** TURN *** [9s 5c 9d] [Qs]
+jonyik: checks 
+Mahu2021: checks 
+*** RIVER *** [9s 5c 9d Qs] [Js]
+jonyik: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+jonyik: shows [6c 7h] (a pair of Nines)
+Mahu2021: shows [2h 2d] (two pair, Nines and Deuces)
+Mahu2021 collected 170 from pot
+*** SUMMARY ***
+Total pot 170 | Rake 0 
+Board [9s 5c 9d Qs Js]
+Seat 1: Mahu2021 (button) showed [2h 2d] and won (170) with two pair, Nines and Deuces
+Seat 2: s4mmy777 (small blind) folded before Flop
+Seat 3: jonyik (big blind) showed [6c 7h] and lost with a pair of Nines
+
+
+
+PokerStars Hand #249025424903: Tournament #3719640738, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/02/22 14:37:52 CET [2024/02/22 8:37:52 ET]
+Table '3719640738 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (575 in chips) 
+Seat 2: s4mmy777 (605 in chips) 
+Seat 3: jonyik (320 in chips) 
+jonyik: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2s 3s]
+s4mmy777: folds 
+jonyik: raises 30 to 60
+Mahu2021: calls 30
+*** FLOP *** [Ks Qc Th]
+jonyik: bets 120
+Mahu2021: folds 
+Uncalled bet (120) returned to jonyik
+jonyik collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Ks Qc Th]
+Seat 1: Mahu2021 (big blind) folded on the Flop
+Seat 2: s4mmy777 (button) folded before Flop (didn't bet)
+Seat 3: jonyik (small blind) collected (120)
+
+
+
+PokerStars Hand #249025427103: Tournament #3719640738, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/02/22 14:38:02 CET [2024/02/22 8:38:02 ET]
+Table '3719640738 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (515 in chips) 
+Seat 2: s4mmy777 (605 in chips) 
+Seat 3: jonyik (380 in chips) 
+Mahu2021: posts small blind 15
+s4mmy777: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d 7d]
+jonyik: folds 
+Mahu2021: folds 
+Uncalled bet (15) returned to s4mmy777
+s4mmy777 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: s4mmy777 (big blind) collected (30)
+Seat 3: jonyik (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #249025427963: Tournament #3719640738, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/02/22 14:38:07 CET [2024/02/22 8:38:07 ET]
+Table '3719640738 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: s4mmy777 (620 in chips) 
+Seat 3: jonyik (380 in chips) 
+s4mmy777: posts small blind 15
+jonyik: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d Ad]
+Mahu2021: raises 30 to 60
+s4mmy777: folds 
+jonyik: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 75 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: Mahu2021 (button) collected (75)
+Seat 2: s4mmy777 (small blind) folded before Flop
+Seat 3: jonyik (big blind) folded before Flop
+
+
+
+PokerStars Hand #249025429173: Tournament #3719640738, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/02/22 14:38:12 CET [2024/02/22 8:38:12 ET]
+Table '3719640738 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (545 in chips) 
+Seat 2: s4mmy777 (605 in chips) 
+Seat 3: jonyik (350 in chips) 
+jonyik: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Th 2h]
+s4mmy777: raises 30 to 60
+jonyik: raises 290 to 350 and is all-in
+Mahu2021: folds 
+s4mmy777: calls 290
+*** FLOP *** [8d 2d 3s]
+*** TURN *** [8d 2d 3s] [5s]
+*** RIVER *** [8d 2d 3s 5s] [8h]
+*** SHOW DOWN ***
+jonyik: shows [9d 9s] (two pair, Nines and Eights)
+s4mmy777: shows [9c As] (a pair of Eights)
+jonyik collected 730 from pot
+*** SUMMARY ***
+Total pot 730 | Rake 0 
+Board [8d 2d 3s 5s 8h]
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: s4mmy777 (button) showed [9c As] and lost with a pair of Eights
+Seat 3: jonyik (small blind) showed [9d 9s] and won (730) with two pair, Nines and Eights
+
+
+
+PokerStars Hand #249025432377: Tournament #3719640738, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/02/22 14:38:28 CET [2024/02/22 8:38:28 ET]
+Table '3719640738 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (515 in chips) 
+Seat 2: s4mmy777 (255 in chips) 
+Seat 3: jonyik (730 in chips) 
+Mahu2021: posts small blind 15
+s4mmy777: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As Jd]
+jonyik: raises 30 to 60
+Mahu2021: calls 45
+s4mmy777: calls 30
+*** FLOP *** [Ts Tc 9s]
+Mahu2021: checks 
+s4mmy777: checks 
+jonyik: bets 90
+Mahu2021: calls 90
+s4mmy777: folds 
+*** TURN *** [Ts Tc 9s] [6d]
+Mahu2021: checks 
+jonyik: bets 360
+Mahu2021: folds 
+Uncalled bet (360) returned to jonyik
+jonyik collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [Ts Tc 9s 6d]
+Seat 1: Mahu2021 (small blind) folded on the Turn
+Seat 2: s4mmy777 (big blind) folded on the Flop
+Seat 3: jonyik (button) collected (360)
+
+
+
+PokerStars Hand #249025436814: Tournament #3719640738, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/02/22 14:38:49 CET [2024/02/22 8:38:49 ET]
+Table '3719640738 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (365 in chips) 
+Seat 2: s4mmy777 (195 in chips) 
+Seat 3: jonyik (940 in chips) 
+s4mmy777: posts small blind 15
+jonyik: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d 8h]
+Mahu2021: folds 
+s4mmy777: calls 15
+jonyik: checks 
+*** FLOP *** [3d 3c 8c]
+s4mmy777: checks 
+jonyik: bets 150
+s4mmy777: folds 
+Uncalled bet (150) returned to jonyik
+jonyik collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [3d 3c 8c]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: s4mmy777 (small blind) folded on the Flop
+Seat 3: jonyik (big blind) collected (60)
+
+
+
+PokerStars Hand #249025440121: Tournament #3719640738, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/02/22 14:39:06 CET [2024/02/22 8:39:06 ET]
+Table '3719640738 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (365 in chips) 
+Seat 2: s4mmy777 (165 in chips) 
+Seat 3: jonyik (970 in chips) 
+jonyik: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s Ad]
+s4mmy777: raises 30 to 60
+jonyik: raises 60 to 120
+Mahu2021: folds 
+s4mmy777: raises 45 to 165 and is all-in
+jonyik: calls 45
+*** FLOP *** [2h 2c Td]
+*** TURN *** [2h 2c Td] [3c]
+*** RIVER *** [2h 2c Td 3c] [Ah]
+*** SHOW DOWN ***
+jonyik: shows [Ks Kc] (two pair, Kings and Deuces)
+s4mmy777: shows [Qd Kh] (a pair of Deuces)
+jonyik collected 360 from pot
+s4mmy777 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [2h 2c Td 3c Ah]
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: s4mmy777 (button) showed [Qd Kh] and lost with a pair of Deuces
+Seat 3: jonyik (small blind) showed [Ks Kc] and won (360) with two pair, Kings and Deuces
+
+
+
+PokerStars Hand #249025444971: Tournament #3719640738, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/02/22 14:39:29 CET [2024/02/22 8:39:29 ET]
+Table '3719640738 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (335 in chips) 
+Seat 3: jonyik (1165 in chips) 
+Mahu2021: posts small blind 15
+jonyik: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd Ks]
+Mahu2021: raises 30 to 60
+jonyik: raises 1105 to 1165 and is all-in
+Mahu2021: calls 275 and is all-in
+Uncalled bet (830) returned to jonyik
+*** FLOP *** [4d Qh 8c]
+*** TURN *** [4d Qh 8c] [6c]
+*** RIVER *** [4d Qh 8c 6c] [Kh]
+*** SHOW DOWN ***
+jonyik: shows [9h 9c] (a pair of Nines)
+Mahu2021: shows [Jd Ks] (a pair of Kings)
+Mahu2021 collected 670 from pot
+*** SUMMARY ***
+Total pot 670 | Rake 0 
+Board [4d Qh 8c 6c Kh]
+Seat 1: Mahu2021 (button) (small blind) showed [Jd Ks] and won (670) with a pair of Kings
+Seat 3: jonyik (big blind) showed [9h 9c] and lost with a pair of Nines
+
+
+
+PokerStars Hand #249025448030: Tournament #3719640738, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/02/22 14:39:44 CET [2024/02/22 8:39:44 ET]
+Table '3719640738 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (670 in chips) 
+Seat 3: jonyik (830 in chips) 
+jonyik: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c 4d]
+jonyik: raises 800 to 830 and is all-in
+Mahu2021: folds 
+Uncalled bet (800) returned to jonyik
+jonyik collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 3: jonyik (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #249025448951: Tournament #3719640738, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/02/22 14:39:49 CET [2024/02/22 8:39:49 ET]
+Table '3719640738 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (640 in chips) 
+Seat 3: jonyik (860 in chips) 
+Mahu2021: posts small blind 15
+jonyik: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks Kh]
+Mahu2021: raises 30 to 60
+jonyik: calls 30
+*** FLOP *** [4s Ah 2h]
+jonyik: checks 
+Mahu2021: bets 60
+jonyik: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [4s Ah 2h]
+Seat 1: Mahu2021 (button) (small blind) collected (120)
+Seat 3: jonyik (big blind) folded on the Flop
+
+
+
+PokerStars Hand #249025451450: Tournament #3719640738, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/02/22 14:40:01 CET [2024/02/22 8:40:01 ET]
+Table '3719640738 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (700 in chips) 
+Seat 3: jonyik (800 in chips) 
+jonyik: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Td Kh]
+jonyik: calls 15
+Mahu2021: raises 90 to 120
+jonyik: calls 90
+*** FLOP *** [4s Ks Qc]
+Mahu2021: bets 120
+jonyik: calls 120
+*** TURN *** [4s Ks Qc] [Js]
+Mahu2021: bets 460 and is all-in
+jonyik: calls 460
+*** RIVER *** [4s Ks Qc Js] [Th]
+*** SHOW DOWN ***
+Mahu2021: shows [Td Kh] (two pair, Kings and Tens)
+jonyik: shows [Ts Jd] (two pair, Jacks and Tens)
+Mahu2021 collected 1400 from pot
+*** SUMMARY ***
+Total pot 1400 | Rake 0 
+Board [4s Ks Qc Js Th]
+Seat 1: Mahu2021 (big blind) showed [Td Kh] and won (1400) with two pair, Kings and Tens
+Seat 3: jonyik (button) (small blind) showed [Ts Jd] and lost with two pair, Jacks and Tens
+
+
+
+PokerStars Hand #249025455079: Tournament #3719640738, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/02/22 14:40:18 CET [2024/02/22 8:40:18 ET]
+Table '3719640738 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1400 in chips) 
+Seat 3: jonyik (100 in chips) 
+Mahu2021: posts small blind 15
+jonyik: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh Kh]
+Mahu2021: raises 90 to 120
+jonyik: calls 70 and is all-in
+Uncalled bet (20) returned to Mahu2021
+*** FLOP *** [5h Ah 2c]
+*** TURN *** [5h Ah 2c] [3c]
+*** RIVER *** [5h Ah 2c 3c] [4s]
+*** SHOW DOWN ***
+jonyik: shows [9c Js] (a straight, Ace to Five)
+Mahu2021: shows [Qh Kh] (a straight, Ace to Five)
+jonyik collected 100 from pot
+Mahu2021 collected 100 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [5h Ah 2c 3c 4s]
+Seat 1: Mahu2021 (button) (small blind) showed [Qh Kh] and won (100) with a straight, Ace to Five
+Seat 3: jonyik (big blind) showed [9c Js] and won (100) with a straight, Ace to Five
+
+
+

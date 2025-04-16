@@ -1,0 +1,740 @@
+﻿PokerStars Hand #251595872394: Tournament #3780302435, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/07/21 16:59:20 CET [2024/07/21 10:59:20 ET]
+Table '3780302435 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: RoninS77 (500 in chips) 
+Seat 3: RohB97 (500 in chips) 
+RoninS77: posts small blind 10
+RohB97: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh 2c]
+Mahu2021: folds 
+RoninS77: raises 20 to 40
+RohB97: folds 
+Uncalled bet (20) returned to RoninS77
+RoninS77 collected 40 from pot
+RoninS77: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: RoninS77 (small blind) collected (40)
+Seat 3: RohB97 (big blind) folded before Flop
+
+
+
+PokerStars Hand #251595873908: Tournament #3780302435, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/07/21 16:59:29 CET [2024/07/21 10:59:29 ET]
+Table '3780302435 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: RoninS77 (520 in chips) 
+Seat 3: RohB97 (480 in chips) 
+RohB97: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qs 2s]
+RoninS77: calls 20
+RohB97: calls 10
+Mahu2021: checks 
+*** FLOP *** [Jh 3c 7c]
+RohB97: checks 
+Mahu2021: checks 
+RoninS77: bets 40
+RohB97: calls 40
+Mahu2021: folds 
+*** TURN *** [Jh 3c 7c] [6d]
+RohB97: checks 
+RoninS77: bets 70
+RohB97: folds 
+Uncalled bet (70) returned to RoninS77
+RoninS77 collected 140 from pot
+RoninS77: doesn't show hand 
+*** SUMMARY ***
+Total pot 140 | Rake 0 
+Board [Jh 3c 7c 6d]
+Seat 1: Mahu2021 (big blind) folded on the Flop
+Seat 2: RoninS77 (button) collected (140)
+Seat 3: RohB97 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #251595880694: Tournament #3780302435, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/07/21 17:00:10 CET [2024/07/21 11:00:10 ET]
+Table '3780302435 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (480 in chips) 
+Seat 2: RoninS77 (600 in chips) 
+Seat 3: RohB97 (420 in chips) 
+Mahu2021: posts small blind 10
+RoninS77: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5h 6c]
+RohB97: folds 
+Mahu2021: calls 10
+RoninS77: checks 
+*** FLOP *** [2d 6h 3d]
+Mahu2021: bets 20
+RoninS77: calls 20
+*** TURN *** [2d 6h 3d] [9c]
+Mahu2021: bets 20
+RoninS77: calls 20
+*** RIVER *** [2d 6h 3d 9c] [Qc]
+Mahu2021: bets 20
+RoninS77: raises 520 to 540 and is all-in
+Mahu2021: folds 
+Uncalled bet (520) returned to RoninS77
+RoninS77 collected 160 from pot
+RoninS77: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [2d 6h 3d 9c Qc]
+Seat 1: Mahu2021 (small blind) folded on the River
+Seat 2: RoninS77 (big blind) collected (160)
+Seat 3: RohB97 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #251595886165: Tournament #3780302435, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/07/21 17:00:41 CET [2024/07/21 11:00:41 ET]
+Table '3780302435 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (400 in chips) 
+Seat 2: RoninS77 (680 in chips) 
+Seat 3: RohB97 (420 in chips) 
+RoninS77: posts small blind 10
+RohB97: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s Qs]
+Mahu2021: calls 20
+RoninS77: calls 10
+RohB97: checks 
+*** FLOP *** [4h 2c Ah]
+RoninS77: checks 
+RohB97: checks 
+Mahu2021: checks 
+*** TURN *** [4h 2c Ah] [5s]
+RoninS77: bets 60
+RohB97: calls 60
+Mahu2021: folds 
+*** RIVER *** [4h 2c Ah 5s] [3c]
+RoninS77: checks 
+RohB97: bets 340 and is all-in
+RoninS77: calls 340
+*** SHOW DOWN ***
+RohB97: shows [4s Jh] (a straight, Ace to Five)
+RoninS77: shows [2s 3h] (a straight, Ace to Five)
+RoninS77 collected 430 from pot
+RohB97 collected 430 from pot
+*** SUMMARY ***
+Total pot 860 | Rake 0 
+Board [4h 2c Ah 5s 3c]
+Seat 1: Mahu2021 (button) folded on the Turn
+Seat 2: RoninS77 (small blind) showed [2s 3h] and won (430) with a straight, Ace to Five
+Seat 3: RohB97 (big blind) showed [4s Jh] and won (430) with a straight, Ace to Five
+
+
+
+PokerStars Hand #251595892979: Tournament #3780302435, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/07/21 17:01:14 CET [2024/07/21 11:01:14 ET]
+Table '3780302435 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (380 in chips) 
+Seat 2: RoninS77 (690 in chips) 
+Seat 3: RohB97 (430 in chips) 
+RohB97: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d As]
+RoninS77: raises 670 to 690 and is all-in
+RohB97: folds 
+Mahu2021: folds 
+Uncalled bet (670) returned to RoninS77
+RoninS77 collected 50 from pot
+RoninS77: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: RoninS77 (button) collected (50)
+Seat 3: RohB97 (small blind) folded before Flop
+
+
+
+PokerStars Hand #251595894878: Tournament #3780302435, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/07/21 17:01:22 CET [2024/07/21 11:01:22 ET]
+Table '3780302435 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (360 in chips) 
+Seat 2: RoninS77 (720 in chips) 
+Seat 3: RohB97 (420 in chips) 
+Mahu2021: posts small blind 10
+RoninS77: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc Qs]
+RohB97: raises 20 to 40
+Mahu2021: calls 30
+RoninS77: calls 20
+*** FLOP *** [Kc 6d 3h]
+Mahu2021: checks 
+RoninS77: checks 
+RohB97: bets 40
+Mahu2021: folds 
+RoninS77: calls 40
+*** TURN *** [Kc 6d 3h] [3s]
+RoninS77: checks 
+RohB97: checks 
+*** RIVER *** [Kc 6d 3h 3s] [Th]
+RoninS77: checks 
+RohB97: bets 120
+RoninS77: calls 120
+*** SHOW DOWN ***
+RohB97: shows [5h As] (a pair of Threes)
+RoninS77: mucks hand 
+RohB97 collected 440 from pot
+*** SUMMARY ***
+Total pot 440 | Rake 0 
+Board [Kc 6d 3h 3s Th]
+Seat 1: Mahu2021 (small blind) folded on the Flop
+Seat 2: RoninS77 (big blind) mucked [Qc 2c]
+Seat 3: RohB97 (button) showed [5h As] and won (440) with a pair of Threes
+
+
+
+PokerStars Hand #251595905068: Tournament #3780302435, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/07/21 17:02:08 CET [2024/07/21 11:02:08 ET]
+Table '3780302435 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (320 in chips) 
+Seat 2: RoninS77 (520 in chips) 
+Seat 3: RohB97 (660 in chips) 
+RoninS77: posts small blind 10
+RohB97: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc Th]
+Mahu2021: raises 20 to 40
+RoninS77: folds 
+RohB97: calls 20
+*** FLOP *** [4d 5c Jc]
+RohB97: checks 
+Mahu2021: checks 
+*** TURN *** [4d 5c Jc] [Td]
+RohB97: checks 
+Mahu2021: bets 40
+RohB97: calls 40
+*** RIVER *** [4d 5c Jc Td] [Js]
+RohB97: checks 
+Mahu2021: bets 240 and is all-in
+RohB97: folds 
+Uncalled bet (240) returned to Mahu2021
+Mahu2021 collected 170 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 170 | Rake 0 
+Board [4d 5c Jc Td Js]
+Seat 1: Mahu2021 (button) collected (170)
+Seat 2: RoninS77 (small blind) folded before Flop
+Seat 3: RohB97 (big blind) folded on the River
+
+
+
+PokerStars Hand #251595914932: Tournament #3780302435, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/07/21 17:02:50 CET [2024/07/21 11:02:50 ET]
+Table '3780302435 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (410 in chips) 
+Seat 2: RoninS77 (510 in chips) 
+Seat 3: RohB97 (580 in chips) 
+RohB97: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As Tc]
+RoninS77: raises 30 to 60
+RohB97: folds 
+Mahu2021: raises 350 to 410 and is all-in
+RoninS77: folds 
+Uncalled bet (350) returned to Mahu2021
+Mahu2021 collected 135 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 135 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (135)
+Seat 2: RoninS77 (button) folded before Flop
+Seat 3: RohB97 (small blind) folded before Flop
+
+
+
+PokerStars Hand #251595918594: Tournament #3780302435, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/07/21 17:03:06 CET [2024/07/21 11:03:06 ET]
+Table '3780302435 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (485 in chips) 
+Seat 2: RoninS77 (450 in chips) 
+Seat 3: RohB97 (565 in chips) 
+Mahu2021: posts small blind 15
+RoninS77: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4c Js]
+RohB97: folds 
+Mahu2021: folds 
+Uncalled bet (15) returned to RoninS77
+RoninS77 collected 30 from pot
+RoninS77: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: RoninS77 (big blind) collected (30)
+Seat 3: RohB97 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #251595921085: Tournament #3780302435, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/07/21 17:03:17 CET [2024/07/21 11:03:17 ET]
+Table '3780302435 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (470 in chips) 
+Seat 2: RoninS77 (465 in chips) 
+Seat 3: RohB97 (565 in chips) 
+RoninS77: posts small blind 15
+RohB97: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c 7s]
+Mahu2021: folds 
+RoninS77: folds 
+Uncalled bet (15) returned to RohB97
+RohB97 collected 30 from pot
+RohB97: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: RoninS77 (small blind) folded before Flop
+Seat 3: RohB97 (big blind) collected (30)
+
+
+
+PokerStars Hand #251595922388: Tournament #3780302435, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/07/21 17:03:22 CET [2024/07/21 11:03:22 ET]
+Table '3780302435 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (470 in chips) 
+Seat 2: RoninS77 (450 in chips) 
+Seat 3: RohB97 (580 in chips) 
+RohB97: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h As]
+RoninS77: raises 75 to 105
+RohB97: folds 
+Mahu2021: folds 
+Uncalled bet (75) returned to RoninS77
+RoninS77 collected 75 from pot
+RoninS77: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: RoninS77 (button) collected (75)
+Seat 3: RohB97 (small blind) folded before Flop
+
+
+
+PokerStars Hand #251595925089: Tournament #3780302435, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/07/21 17:03:33 CET [2024/07/21 11:03:33 ET]
+Table '3780302435 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (440 in chips) 
+Seat 2: RoninS77 (495 in chips) 
+Seat 3: RohB97 (565 in chips) 
+Mahu2021: posts small blind 15
+RoninS77: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd 7c]
+RohB97: folds 
+Mahu2021: calls 15
+RoninS77: checks 
+*** FLOP *** [3c 3s 5d]
+Mahu2021: checks 
+RoninS77: checks 
+*** TURN *** [3c 3s 5d] [4h]
+Mahu2021: checks 
+RoninS77: checks 
+*** RIVER *** [3c 3s 5d 4h] [7s]
+Mahu2021: bets 60
+RoninS77: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [3c 3s 5d 4h 7s]
+Seat 1: Mahu2021 (small blind) collected (60)
+Seat 2: RoninS77 (big blind) folded on the River
+Seat 3: RohB97 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #251595929398: Tournament #3780302435, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/07/21 17:03:51 CET [2024/07/21 11:03:51 ET]
+Table '3780302435 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (470 in chips) 
+Seat 2: RoninS77 (465 in chips) 
+Seat 3: RohB97 (565 in chips) 
+RoninS77: posts small blind 15
+RohB97: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8d 2s]
+Mahu2021: folds 
+RoninS77: calls 15
+RohB97: raises 60 to 90
+RoninS77: calls 60
+*** FLOP *** [2c As 8s]
+RoninS77: checks 
+RohB97: bets 59
+RoninS77: calls 59
+*** TURN *** [2c As 8s] [Ks]
+RoninS77: checks 
+RohB97: bets 135
+RoninS77: raises 181 to 316 and is all-in
+RohB97: folds 
+Uncalled bet (181) returned to RoninS77
+RoninS77 collected 568 from pot
+RoninS77: doesn't show hand 
+*** SUMMARY ***
+Total pot 568 | Rake 0 
+Board [2c As 8s Ks]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: RoninS77 (small blind) collected (568)
+Seat 3: RohB97 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #251595939343: Tournament #3780302435, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/07/21 17:04:32 CET [2024/07/21 11:04:32 ET]
+Table '3780302435 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (470 in chips) 
+Seat 2: RoninS77 (749 in chips) 
+Seat 3: RohB97 (281 in chips) 
+RohB97: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc 9h]
+RoninS77: raises 75 to 105
+RohB97: raises 176 to 281 and is all-in
+Mahu2021: folds 
+RoninS77: calls 176
+*** FLOP *** [Js 5d Jh]
+*** TURN *** [Js 5d Jh] [6c]
+*** RIVER *** [Js 5d Jh 6c] [9s]
+*** SHOW DOWN ***
+RohB97: shows [Ac As] (two pair, Aces and Jacks)
+RoninS77: shows [Td Kd] (a pair of Jacks)
+RohB97 collected 592 from pot
+*** SUMMARY ***
+Total pot 592 | Rake 0 
+Board [Js 5d Jh 6c 9s]
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: RoninS77 (button) showed [Td Kd] and lost with a pair of Jacks
+Seat 3: RohB97 (small blind) showed [Ac As] and won (592) with two pair, Aces and Jacks
+
+
+
+PokerStars Hand #251595943103: Tournament #3780302435, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/07/21 17:04:48 CET [2024/07/21 11:04:48 ET]
+Table '3780302435 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (440 in chips) 
+Seat 2: RoninS77 (468 in chips) 
+Seat 3: RohB97 (592 in chips) 
+Mahu2021: posts small blind 15
+RoninS77: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s Qh]
+RohB97: folds 
+Mahu2021: calls 15
+RoninS77: raises 438 to 468 and is all-in
+Mahu2021: folds 
+Uncalled bet (438) returned to RoninS77
+RoninS77 collected 60 from pot
+RoninS77: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: RoninS77 (big blind) collected (60)
+Seat 3: RohB97 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #251595945654: Tournament #3780302435, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/07/21 17:04:59 CET [2024/07/21 11:04:59 ET]
+Table '3780302435 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (410 in chips) 
+Seat 2: RoninS77 (498 in chips) 
+Seat 3: RohB97 (592 in chips) 
+RoninS77: posts small blind 15
+RohB97: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac Ah]
+Mahu2021: raises 30 to 60
+RoninS77: folds 
+RohB97: calls 30
+*** FLOP *** [3d Js 5c]
+RohB97: checks 
+Mahu2021: bets 350 and is all-in
+RohB97: folds 
+Uncalled bet (350) returned to Mahu2021
+Mahu2021 collected 135 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 135 | Rake 0 
+Board [3d Js 5c]
+Seat 1: Mahu2021 (button) collected (135)
+Seat 2: RoninS77 (small blind) folded before Flop
+Seat 3: RohB97 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #251595951092: Tournament #3780302435, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/07/21 17:05:20 CET [2024/07/21 11:05:20 ET]
+Table '3780302435 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (485 in chips) 
+Seat 2: RoninS77 (483 in chips) 
+Seat 3: RohB97 (532 in chips) 
+RohB97: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js Kd]
+RoninS77: raises 453 to 483 and is all-in
+RohB97: folds 
+Mahu2021: folds 
+Uncalled bet (453) returned to RoninS77
+RoninS77 collected 75 from pot
+RoninS77: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: RoninS77 (button) collected (75)
+Seat 3: RohB97 (small blind) folded before Flop
+
+
+
+PokerStars Hand #251595953982: Tournament #3780302435, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/07/21 17:05:32 CET [2024/07/21 11:05:32 ET]
+Table '3780302435 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (455 in chips) 
+Seat 2: RoninS77 (528 in chips) 
+Seat 3: RohB97 (517 in chips) 
+Mahu2021: posts small blind 20
+RoninS77: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s 2h]
+RohB97: raises 40 to 80
+Mahu2021: folds 
+RoninS77: raises 448 to 528 and is all-in
+RohB97: calls 437 and is all-in
+Uncalled bet (11) returned to RoninS77
+*** FLOP *** [Th 8c Td]
+*** TURN *** [Th 8c Td] [5c]
+*** RIVER *** [Th 8c Td 5c] [Tc]
+*** SHOW DOWN ***
+RoninS77: shows [Ac As] (a full house, Tens full of Aces)
+RohB97: shows [9s Ks] (three of a kind, Tens)
+RoninS77 collected 1054 from pot
+RohB97 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1054 | Rake 0 
+Board [Th 8c Td 5c Tc]
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: RoninS77 (big blind) showed [Ac As] and won (1054) with a full house, Tens full of Aces
+Seat 3: RohB97 (button) showed [9s Ks] and lost with three of a kind, Tens
+
+
+
+PokerStars Hand #251595961410: Tournament #3780302435, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/07/21 17:06:03 CET [2024/07/21 11:06:03 ET]
+Table '3780302435 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (435 in chips) 
+Seat 2: RoninS77 (1065 in chips) 
+RoninS77: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d 5s]
+RoninS77: calls 20
+Mahu2021: checks 
+*** FLOP *** [6s Th Qh]
+Mahu2021: checks 
+RoninS77: bets 80
+Mahu2021: calls 80
+*** TURN *** [6s Th Qh] [9d]
+Mahu2021: checks 
+RoninS77: bets 945 and is all-in
+Mahu2021: folds 
+Uncalled bet (945) returned to RoninS77
+RoninS77 collected 240 from pot
+RoninS77: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [6s Th Qh 9d]
+Seat 1: Mahu2021 (big blind) folded on the Turn
+Seat 2: RoninS77 (button) (small blind) collected (240)
+
+
+
+PokerStars Hand #251595965661: Tournament #3780302435, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/07/21 17:06:20 CET [2024/07/21 11:06:20 ET]
+Table '3780302435 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (315 in chips) 
+Seat 2: RoninS77 (1185 in chips) 
+Mahu2021: posts small blind 20
+RoninS77: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c Qh]
+Mahu2021: folds 
+Uncalled bet (20) returned to RoninS77
+RoninS77 collected 40 from pot
+RoninS77: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 2: RoninS77 (big blind) collected (40)
+
+
+
+PokerStars Hand #251595966774: Tournament #3780302435, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/07/21 17:06:25 CET [2024/07/21 11:06:25 ET]
+Table '3780302435 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (295 in chips) 
+Seat 2: RoninS77 (1205 in chips) 
+RoninS77: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h 2d]
+RoninS77: calls 20
+Mahu2021: checks 
+*** FLOP *** [8d 5d 2s]
+Mahu2021: bets 255 and is all-in
+RoninS77: folds 
+Uncalled bet (255) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [8d 5d 2s]
+Seat 1: Mahu2021 (big blind) collected (80)
+Seat 2: RoninS77 (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #251595969249: Tournament #3780302435, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/07/21 17:06:35 CET [2024/07/21 11:06:35 ET]
+Table '3780302435 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (335 in chips) 
+Seat 2: RoninS77 (1165 in chips) 
+Mahu2021: posts small blind 20
+RoninS77: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad 2h]
+Mahu2021: raises 295 to 335 and is all-in
+RoninS77: folds 
+Uncalled bet (295) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) collected (80)
+Seat 2: RoninS77 (big blind) folded before Flop
+
+
+
+PokerStars Hand #251595970862: Tournament #3780302435, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/07/21 17:06:41 CET [2024/07/21 11:06:41 ET]
+Table '3780302435 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (375 in chips) 
+Seat 2: RoninS77 (1125 in chips) 
+RoninS77: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8c Th]
+RoninS77: raises 1085 to 1125 and is all-in
+Mahu2021: folds 
+Uncalled bet (1085) returned to RoninS77
+RoninS77 collected 80 from pot
+RoninS77: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: RoninS77 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #251595972547: Tournament #3780302435, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/07/21 17:06:48 CET [2024/07/21 11:06:48 ET]
+Table '3780302435 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (335 in chips) 
+Seat 2: RoninS77 (1165 in chips) 
+Mahu2021: posts small blind 20
+RoninS77: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s 3d]
+Mahu2021: folds 
+Uncalled bet (20) returned to RoninS77
+RoninS77 collected 40 from pot
+RoninS77: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 2: RoninS77 (big blind) collected (40)
+
+
+
+PokerStars Hand #251595973637: Tournament #3780302435, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/07/21 17:06:52 CET [2024/07/21 11:06:52 ET]
+Table '3780302435 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (315 in chips) 
+Seat 2: RoninS77 (1185 in chips) 
+RoninS77: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd 6c]
+RoninS77: raises 1145 to 1185 and is all-in
+Mahu2021: folds 
+Uncalled bet (1145) returned to RoninS77
+RoninS77 collected 80 from pot
+RoninS77: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: RoninS77 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #251595975291: Tournament #3780302435, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/07/21 17:06:59 CET [2024/07/21 11:06:59 ET]
+Table '3780302435 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (275 in chips) 
+Seat 2: RoninS77 (1225 in chips) 
+Mahu2021: posts small blind 20
+RoninS77: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d Ks]
+Mahu2021: calls 20
+RoninS77: checks 
+*** FLOP *** [3c Ac Kh]
+RoninS77: checks 
+Mahu2021: bets 80
+RoninS77: folds 
+Uncalled bet (80) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [3c Ac Kh]
+Seat 1: Mahu2021 (button) (small blind) collected (80)
+Seat 2: RoninS77 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #251595978051: Tournament #3780302435, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/07/21 17:07:10 CET [2024/07/21 11:07:10 ET]
+Table '3780302435 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (315 in chips) 
+Seat 2: RoninS77 (1185 in chips) 
+RoninS77: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c 4s]
+RoninS77: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (40)
+Seat 2: RoninS77 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #251595979283: Tournament #3780302435, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/07/21 17:07:15 CET [2024/07/21 11:07:15 ET]
+Table '3780302435 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (335 in chips) 
+Seat 2: RoninS77 (1165 in chips) 
+Mahu2021: posts small blind 20
+RoninS77: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s 3d]
+Mahu2021: raises 295 to 335 and is all-in
+RoninS77: calls 295
+*** FLOP *** [7h Td 2s]
+*** TURN *** [7h Td 2s] [Jc]
+*** RIVER *** [7h Td 2s Jc] [As]
+*** SHOW DOWN ***
+RoninS77: shows [4s 4d] (a pair of Fours)
+Mahu2021: shows [3s 3d] (a pair of Threes)
+RoninS77 collected 670 from pot
+Mahu2021 finished the tournament in 2nd place
+RoninS77 wins the tournament and receives $6.00 - congratulations!
+*** SUMMARY ***
+Total pot 670 | Rake 0 
+Board [7h Td 2s Jc As]
+Seat 1: Mahu2021 (button) (small blind) showed [3s 3d] and lost with a pair of Threes
+Seat 2: RoninS77 (big blind) showed [4s 4d] and won (670) with a pair of Fours
+
+
+

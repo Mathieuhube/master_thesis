@@ -1,0 +1,199 @@
+﻿PokerStars Hand #248412685531: Tournament #3704366307, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/21 17:59:51 CET [2024/01/21 11:59:51 ET]
+Table '3704366307 1' 3-max Seat #1 is the button
+Seat 1: deyous (500 in chips) 
+Seat 2: bitautas (500 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+bitautas: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d 3s]
+deyous: folds 
+bitautas: folds 
+Uncalled bet (10) returned to Mahu2021
+Mahu2021 collected 20 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: deyous (button) folded before Flop (didn't bet)
+Seat 2: bitautas (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (20)
+
+
+
+PokerStars Hand #248412688695: Tournament #3704366307, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/21 18:00:03 CET [2024/01/21 12:00:03 ET]
+Table '3704366307 1' 3-max Seat #2 is the button
+Seat 1: deyous (500 in chips) 
+Seat 2: bitautas (490 in chips) 
+Seat 3: Mahu2021 (510 in chips) 
+Mahu2021: posts small blind 10
+deyous: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h 9d]
+bitautas: folds 
+Mahu2021: calls 10
+deyous: checks 
+*** FLOP *** [Ad 6s Ac]
+Mahu2021: checks 
+deyous: checks 
+*** TURN *** [Ad 6s Ac] [9h]
+Mahu2021: checks 
+deyous: bets 40
+Mahu2021: calls 40
+*** RIVER *** [Ad 6s Ac 9h] [9c]
+Mahu2021: bets 120
+deyous: raises 320 to 440 and is all-in
+Mahu2021: calls 320
+*** SHOW DOWN ***
+deyous: shows [Ah 7c] (a full house, Aces full of Nines)
+Mahu2021: shows [8h 9d] (a full house, Nines full of Aces)
+deyous collected 1000 from pot
+*** SUMMARY ***
+Total pot 1000 | Rake 0 
+Board [Ad 6s Ac 9h 9c]
+Seat 1: deyous (big blind) showed [Ah 7c] and won (1000) with a full house, Aces full of Nines
+Seat 2: bitautas (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) showed [8h 9d] and lost with a full house, Nines full of Aces
+
+
+
+PokerStars Hand #248412697242: Tournament #3704366307, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/21 18:00:36 CET [2024/01/21 12:00:36 ET]
+Table '3704366307 1' 3-max Seat #3 is the button
+Seat 1: deyous (1000 in chips) 
+Seat 2: bitautas (490 in chips) 
+Seat 3: Mahu2021 (10 in chips) 
+deyous: posts small blind 10
+bitautas: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd Jd]
+Mahu2021: calls 10 and is all-in
+deyous: calls 10
+bitautas: checks 
+*** FLOP *** [Kc 5c 5d]
+deyous: checks 
+bitautas: bets 25
+deyous: calls 25
+*** TURN *** [Kc 5c 5d] [6h]
+deyous: checks 
+bitautas: checks 
+*** RIVER *** [Kc 5c 5d 6h] [2d]
+deyous: checks 
+bitautas: checks 
+*** SHOW DOWN ***
+deyous: shows [Ks 9h] (two pair, Kings and Fives)
+bitautas: mucks hand 
+deyous collected 70 from side pot
+Mahu2021: shows [Kd Jd] (two pair, Kings and Fives - Jack kicker)
+Mahu2021 collected 30 from main pot
+*** SUMMARY ***
+Total pot 100 Main pot 30. Side pot 70. | Rake 0 
+Board [Kc 5c 5d 6h 2d]
+Seat 1: deyous (small blind) showed [Ks 9h] and won (70) with two pair, Kings and Fives
+Seat 2: bitautas (big blind) mucked [Td Qs]
+Seat 3: Mahu2021 (button) showed [Kd Jd] and won (30) with two pair, Kings and Fives
+
+
+
+PokerStars Hand #248412707554: Tournament #3704366307, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/21 18:01:12 CET [2024/01/21 12:01:12 ET]
+Table '3704366307 1' 3-max Seat #1 is the button
+Seat 1: deyous (1025 in chips) 
+Seat 2: bitautas (445 in chips) 
+Seat 3: Mahu2021 (30 in chips) 
+bitautas: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As 6c]
+deyous: calls 20
+bitautas: folds 
+Mahu2021: raises 10 to 30 and is all-in
+deyous: calls 10
+*** FLOP *** [Th Ad 6d]
+*** TURN *** [Th Ad 6d] [7c]
+*** RIVER *** [Th Ad 6d 7c] [Ac]
+*** SHOW DOWN ***
+Mahu2021: shows [As 6c] (a full house, Aces full of Sixes)
+deyous: shows [Ah Qh] (three of a kind, Aces)
+Mahu2021 collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | Rake 0 
+Board [Th Ad 6d 7c Ac]
+Seat 1: deyous (button) showed [Ah Qh] and lost with three of a kind, Aces
+Seat 2: bitautas (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) showed [As 6c] and won (70) with a full house, Aces full of Sixes
+
+
+
+PokerStars Hand #248412713475: Tournament #3704366307, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/21 18:01:31 CET [2024/01/21 12:01:31 ET]
+Table '3704366307 1' 3-max Seat #2 is the button
+Seat 1: deyous (995 in chips) 
+Seat 2: bitautas (435 in chips) 
+Seat 3: Mahu2021 (70 in chips) 
+Mahu2021: posts small blind 10
+deyous: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s Qh]
+bitautas: raises 20 to 40
+Mahu2021: folds 
+deyous: folds 
+Uncalled bet (20) returned to bitautas
+bitautas collected 50 from pot
+bitautas: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: deyous (big blind) folded before Flop
+Seat 2: bitautas (button) collected (50)
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #248412716298: Tournament #3704366307, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/21 18:01:40 CET [2024/01/21 12:01:40 ET]
+Table '3704366307 1' 3-max Seat #3 is the button
+Seat 1: deyous (975 in chips) 
+Seat 2: bitautas (465 in chips) 
+Seat 3: Mahu2021 (60 in chips) 
+deyous: posts small blind 10
+bitautas: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c Jc]
+Mahu2021: folds 
+deyous: folds 
+Uncalled bet (10) returned to bitautas
+bitautas collected 20 from pot
+bitautas: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: deyous (small blind) folded before Flop
+Seat 2: bitautas (big blind) collected (20)
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #248412718688: Tournament #3704366307, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/21 18:01:47 CET [2024/01/21 12:01:47 ET]
+Table '3704366307 1' 3-max Seat #1 is the button
+Seat 1: deyous (965 in chips) 
+Seat 2: bitautas (475 in chips) 
+Seat 3: Mahu2021 (60 in chips) 
+bitautas: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d Kc]
+deyous: calls 20
+bitautas: folds 
+Mahu2021: raises 40 to 60 and is all-in
+deyous: calls 40
+*** FLOP *** [Ad 4s 9h]
+*** TURN *** [Ad 4s 9h] [2d]
+*** RIVER *** [Ad 4s 9h 2d] [8d]
+*** SHOW DOWN ***
+Mahu2021: shows [5d Kc] (high card Ace)
+deyous: shows [9d Qd] (a flush, Ace high)
+deyous collected 130 from pot
+Mahu2021 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 130 | Rake 0 
+Board [Ad 4s 9h 2d 8d]
+Seat 1: deyous (button) showed [9d Qd] and won (130) with a flush, Ace high
+Seat 2: bitautas (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) showed [5d Kc] and lost with high card Ace
+
+
+

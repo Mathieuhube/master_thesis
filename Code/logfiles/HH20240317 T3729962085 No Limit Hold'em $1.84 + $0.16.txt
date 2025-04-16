@@ -1,0 +1,405 @@
+﻿PokerStars Hand #249467505987: Tournament #3729962085, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/03/17 11:49:58 CET [2024/03/17 6:49:58 ET]
+Table '3729962085 1' 3-max Seat #1 is the button
+Seat 1: justin2299 (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: Panamars061 (500 in chips) 
+Mahu2021: posts small blind 10
+Panamars061: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8c Ks]
+justin2299: folds 
+Mahu2021: calls 10
+Panamars061: checks 
+*** FLOP *** [3d Td 9h]
+Mahu2021: checks 
+Panamars061: checks 
+*** TURN *** [3d Td 9h] [8h]
+Mahu2021: bets 20
+Panamars061: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [3d Td 9h 8h]
+Seat 1: justin2299 (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) collected (40)
+Seat 3: Panamars061 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #249467508822: Tournament #3729962085, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/03/17 11:50:15 CET [2024/03/17 6:50:15 ET]
+Table '3729962085 1' 3-max Seat #2 is the button
+Seat 1: justin2299 (500 in chips) 
+Seat 2: Mahu2021 (520 in chips) 
+Seat 3: Panamars061 (480 in chips) 
+Panamars061: posts small blind 10
+justin2299: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d As]
+Mahu2021: raises 20 to 40
+Panamars061: calls 30
+justin2299: raises 20 to 60
+Mahu2021: calls 20
+Panamars061: calls 20
+*** FLOP *** [7s 2c 6s]
+Panamars061: checks 
+justin2299: checks 
+Mahu2021: checks 
+*** TURN *** [7s 2c 6s] [9s]
+Panamars061: checks 
+justin2299: checks 
+Mahu2021: bets 60
+Panamars061: calls 60
+justin2299: folds 
+*** RIVER *** [7s 2c 6s 9s] [5h]
+Panamars061: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+Panamars061: shows [Qs Kd] (high card King)
+Mahu2021: shows [9d As] (a pair of Nines)
+Mahu2021 collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [7s 2c 6s 9s 5h]
+Seat 1: justin2299 (big blind) folded on the Turn
+Seat 2: Mahu2021 (button) showed [9d As] and won (300) with a pair of Nines
+Seat 3: Panamars061 (small blind) showed [Qs Kd] and lost with high card King
+
+
+
+PokerStars Hand #249467513525: Tournament #3729962085, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/03/17 11:50:45 CET [2024/03/17 6:50:45 ET]
+Table '3729962085 1' 3-max Seat #3 is the button
+Seat 1: justin2299 (440 in chips) 
+Seat 2: Mahu2021 (700 in chips) 
+Seat 3: Panamars061 (360 in chips) 
+justin2299: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c 5h]
+Panamars061: calls 20
+justin2299: calls 10
+Mahu2021: checks 
+*** FLOP *** [2s 6h Ac]
+justin2299: checks 
+Mahu2021: checks 
+Panamars061: checks 
+*** TURN *** [2s 6h Ac] [3c]
+justin2299: checks 
+Mahu2021: bets 20
+Panamars061: calls 20
+justin2299: folds 
+*** RIVER *** [2s 6h Ac 3c] [3d]
+Mahu2021: checks 
+Panamars061: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [5c 5h] (two pair, Fives and Threes)
+Panamars061: shows [6d Ks] (two pair, Sixes and Threes)
+Panamars061 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [2s 6h Ac 3c 3d]
+Seat 1: justin2299 (small blind) folded on the Turn
+Seat 2: Mahu2021 (big blind) showed [5c 5h] and lost with two pair, Fives and Threes
+Seat 3: Panamars061 (button) showed [6d Ks] and won (100) with two pair, Sixes and Threes
+
+
+
+PokerStars Hand #249467517310: Tournament #3729962085, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/03/17 11:51:08 CET [2024/03/17 6:51:08 ET]
+Table '3729962085 1' 3-max Seat #1 is the button
+Seat 1: justin2299 (420 in chips) 
+Seat 2: Mahu2021 (660 in chips) 
+Seat 3: Panamars061 (420 in chips) 
+Mahu2021: posts small blind 10
+Panamars061: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h Tc]
+justin2299: calls 20
+Mahu2021: folds 
+Panamars061: checks 
+*** FLOP *** [8d As Ac]
+Panamars061: bets 50
+justin2299: calls 50
+*** TURN *** [8d As Ac] [9h]
+Panamars061: bets 40
+justin2299: folds 
+Uncalled bet (40) returned to Panamars061
+Panamars061 collected 150 from pot
+Panamars061: doesn't show hand 
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Board [8d As Ac 9h]
+Seat 1: justin2299 (button) folded on the Turn
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: Panamars061 (big blind) collected (150)
+
+
+
+PokerStars Hand #249467521772: Tournament #3729962085, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/03/17 11:51:35 CET [2024/03/17 6:51:35 ET]
+Table '3729962085 1' 3-max Seat #2 is the button
+Seat 1: justin2299 (350 in chips) 
+Seat 2: Mahu2021 (650 in chips) 
+Seat 3: Panamars061 (500 in chips) 
+Panamars061: posts small blind 10
+justin2299: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd 9s]
+Mahu2021: calls 20
+Panamars061: calls 10
+justin2299: checks 
+*** FLOP *** [7s 4h 9h]
+Panamars061: checks 
+justin2299: checks 
+Mahu2021: bets 60
+Panamars061: calls 60
+justin2299: folds 
+*** TURN *** [7s 4h 9h] [Th]
+Panamars061: checks 
+Mahu2021: checks 
+*** RIVER *** [7s 4h 9h Th] [7c]
+Panamars061: bets 90
+Mahu2021: folds 
+Uncalled bet (90) returned to Panamars061
+Panamars061 collected 180 from pot
+Panamars061: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [7s 4h 9h Th 7c]
+Seat 1: justin2299 (big blind) folded on the Flop
+Seat 2: Mahu2021 (button) folded on the River
+Seat 3: Panamars061 (small blind) collected (180)
+
+
+
+PokerStars Hand #249467527079: Tournament #3729962085, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/17 11:52:08 CET [2024/03/17 6:52:08 ET]
+Table '3729962085 1' 3-max Seat #3 is the button
+Seat 1: justin2299 (330 in chips) 
+Seat 2: Mahu2021 (570 in chips) 
+Seat 3: Panamars061 (600 in chips) 
+justin2299: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd 8s]
+Panamars061: calls 30
+justin2299: calls 15
+Mahu2021: checks 
+*** FLOP *** [Ad 5s Jc]
+justin2299: bets 30
+Mahu2021: folds 
+Panamars061: calls 30
+*** TURN *** [Ad 5s Jc] [3h]
+justin2299: checks 
+Panamars061: checks 
+*** RIVER *** [Ad 5s Jc 3h] [3d]
+justin2299: bets 75
+Panamars061: folds 
+Uncalled bet (75) returned to justin2299
+justin2299 collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Board [Ad 5s Jc 3h 3d]
+Seat 1: justin2299 (small blind) collected (150)
+Seat 2: Mahu2021 (big blind) folded on the Flop
+Seat 3: Panamars061 (button) folded on the River
+
+
+
+PokerStars Hand #249467530729: Tournament #3729962085, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/17 11:52:31 CET [2024/03/17 6:52:31 ET]
+Table '3729962085 1' 3-max Seat #1 is the button
+Seat 1: justin2299 (420 in chips) 
+Seat 2: Mahu2021 (540 in chips) 
+Seat 3: Panamars061 (540 in chips) 
+Mahu2021: posts small blind 15
+Panamars061: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2c 6h]
+justin2299: raises 60 to 90
+Mahu2021: folds 
+Panamars061: folds 
+Uncalled bet (60) returned to justin2299
+justin2299 collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: justin2299 (button) collected (75)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: Panamars061 (big blind) folded before Flop
+
+
+
+PokerStars Hand #249467532025: Tournament #3729962085, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/17 11:52:39 CET [2024/03/17 6:52:39 ET]
+Table '3729962085 1' 3-max Seat #2 is the button
+Seat 1: justin2299 (465 in chips) 
+Seat 2: Mahu2021 (525 in chips) 
+Seat 3: Panamars061 (510 in chips) 
+Panamars061: posts small blind 15
+justin2299: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js 9s]
+Mahu2021: calls 30
+Panamars061: calls 15
+justin2299: raises 435 to 465 and is all-in
+Mahu2021: folds 
+Panamars061: folds 
+Uncalled bet (435) returned to justin2299
+justin2299 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Seat 1: justin2299 (big blind) collected (90)
+Seat 2: Mahu2021 (button) folded before Flop
+Seat 3: Panamars061 (small blind) folded before Flop
+
+
+
+PokerStars Hand #249467534934: Tournament #3729962085, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/17 11:52:56 CET [2024/03/17 6:52:56 ET]
+Table '3729962085 1' 3-max Seat #3 is the button
+Seat 1: justin2299 (525 in chips) 
+Seat 2: Mahu2021 (495 in chips) 
+Seat 3: Panamars061 (480 in chips) 
+justin2299: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d 9h]
+Panamars061: raises 30 to 60
+justin2299: raises 465 to 525 and is all-in
+Mahu2021: folds 
+Panamars061: calls 420 and is all-in
+Uncalled bet (45) returned to justin2299
+*** FLOP *** [3c As 5c]
+*** TURN *** [3c As 5c] [Kd]
+*** RIVER *** [3c As 5c Kd] [4d]
+*** SHOW DOWN ***
+justin2299: shows [6c 2d] (a straight, Deuce to Six)
+Panamars061: shows [7c 9c] (high card Ace)
+justin2299 collected 990 from pot
+Panamars061 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 990 | Rake 0 
+Board [3c As 5c Kd 4d]
+Seat 1: justin2299 (small blind) showed [6c 2d] and won (990) with a straight, Deuce to Six
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: Panamars061 (button) showed [7c 9c] and lost with high card Ace
+
+
+
+PokerStars Hand #249467538006: Tournament #3729962085, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/17 11:53:16 CET [2024/03/17 6:53:16 ET]
+Table '3729962085 1' 3-max Seat #2 is the button
+Seat 1: justin2299 (1035 in chips) 
+Seat 2: Mahu2021 (465 in chips) 
+Mahu2021: posts small blind 15
+justin2299: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Tc Qd]
+Mahu2021: calls 15
+justin2299: raises 1005 to 1035 and is all-in
+Mahu2021: folds 
+Uncalled bet (1005) returned to justin2299
+justin2299 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: justin2299 (big blind) collected (60)
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #249467539399: Tournament #3729962085, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/17 11:53:24 CET [2024/03/17 6:53:24 ET]
+Table '3729962085 1' 3-max Seat #1 is the button
+Seat 1: justin2299 (1065 in chips) 
+Seat 2: Mahu2021 (435 in chips) 
+justin2299: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Th 5d]
+justin2299: raises 1035 to 1065 and is all-in
+Mahu2021: folds 
+Uncalled bet (1035) returned to justin2299
+justin2299 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: justin2299 (button) (small blind) collected (60)
+Seat 2: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #249467540407: Tournament #3729962085, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/17 11:53:31 CET [2024/03/17 6:53:31 ET]
+Table '3729962085 1' 3-max Seat #2 is the button
+Seat 1: justin2299 (1095 in chips) 
+Seat 2: Mahu2021 (405 in chips) 
+Mahu2021: posts small blind 15
+justin2299: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c 6c]
+Mahu2021: folds 
+Uncalled bet (15) returned to justin2299
+justin2299 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: justin2299 (big blind) collected (30)
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #249467541087: Tournament #3729962085, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/17 11:53:35 CET [2024/03/17 6:53:35 ET]
+Table '3729962085 1' 3-max Seat #1 is the button
+Seat 1: justin2299 (1110 in chips) 
+Seat 2: Mahu2021 (390 in chips) 
+justin2299: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c 8h]
+justin2299: raises 1080 to 1110 and is all-in
+Mahu2021: folds 
+Uncalled bet (1080) returned to justin2299
+justin2299 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: justin2299 (button) (small blind) collected (60)
+Seat 2: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #249467542007: Tournament #3729962085, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/17 11:53:41 CET [2024/03/17 6:53:41 ET]
+Table '3729962085 1' 3-max Seat #2 is the button
+Seat 1: justin2299 (1140 in chips) 
+Seat 2: Mahu2021 (360 in chips) 
+Mahu2021: posts small blind 15
+justin2299: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5h 6c]
+Mahu2021: folds 
+Uncalled bet (15) returned to justin2299
+justin2299 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: justin2299 (big blind) collected (30)
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #249467542669: Tournament #3729962085, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/17 11:53:45 CET [2024/03/17 6:53:45 ET]
+Table '3729962085 1' 3-max Seat #1 is the button
+Seat 1: justin2299 (1155 in chips) 
+Seat 2: Mahu2021 (345 in chips) 
+justin2299: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh Qd]
+justin2299: raises 1125 to 1155 and is all-in
+Mahu2021: calls 315 and is all-in
+Uncalled bet (810) returned to justin2299
+*** FLOP *** [9h Ac 5s]
+*** TURN *** [9h Ac 5s] [6s]
+*** RIVER *** [9h Ac 5s 6s] [9c]
+*** SHOW DOWN ***
+Mahu2021: shows [Jh Qd] (a pair of Nines)
+justin2299: shows [Th 5h] (two pair, Nines and Fives)
+justin2299 collected 690 from pot
+Mahu2021 finished the tournament in 2nd place
+justin2299 wins the tournament and receives $4.00 - congratulations!
+*** SUMMARY ***
+Total pot 690 | Rake 0 
+Board [9h Ac 5s 6s 9c]
+Seat 1: justin2299 (button) (small blind) showed [Th 5h] and won (690) with two pair, Nines and Fives
+Seat 2: Mahu2021 (big blind) showed [Jh Qd] and lost with a pair of Nines
+
+
+

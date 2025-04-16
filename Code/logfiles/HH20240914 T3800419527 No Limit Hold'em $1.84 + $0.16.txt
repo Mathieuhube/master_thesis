@@ -1,0 +1,300 @@
+﻿PokerStars Hand #252444081879: Tournament #3800419527, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/09/14 16:24:38 CET [2024/09/14 10:24:38 ET]
+Table '3800419527 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: RMGons (500 in chips) 
+Seat 3: jesss150403 (500 in chips) 
+RMGons: posts small blind 10
+jesss150403: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c 3d]
+Mahu2021: folds 
+RMGons: folds 
+Uncalled bet (10) returned to jesss150403
+jesss150403 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: RMGons (small blind) folded before Flop
+Seat 3: jesss150403 (big blind) collected (20)
+
+
+
+PokerStars Hand #252444083335: Tournament #3800419527, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/09/14 16:24:45 CET [2024/09/14 10:24:45 ET]
+Table '3800419527 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: RMGons (490 in chips) 
+Seat 3: jesss150403 (510 in chips) 
+jesss150403: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c Ts]
+RMGons: folds 
+jesss150403: raises 20 to 40
+Mahu2021: folds 
+Uncalled bet (20) returned to jesss150403
+jesss150403 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: RMGons (button) folded before Flop (didn't bet)
+Seat 3: jesss150403 (small blind) collected (40)
+
+
+
+PokerStars Hand #252444084970: Tournament #3800419527, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/09/14 16:24:52 CET [2024/09/14 10:24:52 ET]
+Table '3800419527 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (480 in chips) 
+Seat 2: RMGons (490 in chips) 
+Seat 3: jesss150403 (530 in chips) 
+Mahu2021: posts small blind 10
+RMGons: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d 4s]
+jesss150403: raises 20 to 40
+Mahu2021: folds 
+RMGons: raises 40 to 80
+jesss150403: raises 40 to 120
+RMGons: calls 40
+*** FLOP *** [3c 9s Ah]
+RMGons: checks 
+jesss150403: bets 120
+RMGons: folds 
+Uncalled bet (120) returned to jesss150403
+jesss150403 collected 250 from pot
+*** SUMMARY ***
+Total pot 250 | Rake 0 
+Board [3c 9s Ah]
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: RMGons (big blind) folded on the Flop
+Seat 3: jesss150403 (button) collected (250)
+
+
+
+PokerStars Hand #252444090953: Tournament #3800419527, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/09/14 16:25:19 CET [2024/09/14 10:25:19 ET]
+Table '3800419527 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (470 in chips) 
+Seat 2: RMGons (370 in chips) 
+Seat 3: jesss150403 (660 in chips) 
+RMGons: posts small blind 10
+jesss150403: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks Th]
+Mahu2021: raises 20 to 40
+RMGons: calls 30
+jesss150403: calls 20
+*** FLOP *** [Tc Js 8c]
+RMGons: checks 
+jesss150403: bets 80
+Mahu2021: calls 80
+RMGons: raises 250 to 330 and is all-in
+jesss150403: folds 
+Mahu2021: folds 
+Uncalled bet (250) returned to RMGons
+RMGons collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [Tc Js 8c]
+Seat 1: Mahu2021 (button) folded on the Flop
+Seat 2: RMGons (small blind) collected (360)
+Seat 3: jesss150403 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #252444097058: Tournament #3800419527, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/09/14 16:25:46 CET [2024/09/14 10:25:46 ET]
+Table '3800419527 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (350 in chips) 
+Seat 2: RMGons (610 in chips) 
+Seat 3: jesss150403 (540 in chips) 
+jesss150403: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qs 4h]
+RMGons: folds 
+jesss150403: calls 10
+Mahu2021: checks 
+*** FLOP *** [4c 2d 6h]
+jesss150403: bets 40
+Mahu2021: raises 290 to 330 and is all-in
+jesss150403: calls 290
+*** TURN *** [4c 2d 6h] [9s]
+*** RIVER *** [4c 2d 6h 9s] [Qd]
+*** SHOW DOWN ***
+jesss150403: shows [6d Ts] (a pair of Sixes)
+Mahu2021: shows [Qs 4h] (two pair, Queens and Fours)
+Mahu2021 collected 700 from pot
+*** SUMMARY ***
+Total pot 700 | Rake 0 
+Board [4c 2d 6h 9s Qd]
+Seat 1: Mahu2021 (big blind) showed [Qs 4h] and won (700) with two pair, Queens and Fours
+Seat 2: RMGons (button) folded before Flop (didn't bet)
+Seat 3: jesss150403 (small blind) showed [6d Ts] and lost with a pair of Sixes
+
+
+
+PokerStars Hand #252444101627: Tournament #3800419527, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/09/14 16:26:07 CET [2024/09/14 10:26:07 ET]
+Table '3800419527 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (700 in chips) 
+Seat 2: RMGons (610 in chips) 
+Seat 3: jesss150403 (190 in chips) 
+Mahu2021: posts small blind 10
+RMGons: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c Jc]
+jesss150403: calls 20
+Mahu2021: calls 10
+RMGons: checks 
+*** FLOP *** [7s 6c 2s]
+Mahu2021: checks 
+RMGons: checks 
+jesss150403: bets 20
+Mahu2021: folds 
+RMGons: calls 20
+*** TURN *** [7s 6c 2s] [Jd]
+RMGons: checks 
+jesss150403: bets 20
+RMGons: calls 20
+*** RIVER *** [7s 6c 2s Jd] [9d]
+RMGons: bets 60
+jesss150403: calls 60
+*** SHOW DOWN ***
+RMGons: shows [6h Th] (a pair of Sixes)
+jesss150403: shows [Qd 6s] (a pair of Sixes - Queen kicker)
+jesss150403 collected 260 from pot
+*** SUMMARY ***
+Total pot 260 | Rake 0 
+Board [7s 6c 2s Jd 9d]
+Seat 1: Mahu2021 (small blind) folded on the Flop
+Seat 2: RMGons (big blind) showed [6h Th] and lost with a pair of Sixes
+Seat 3: jesss150403 (button) showed [Qd 6s] and won (260) with a pair of Sixes
+
+
+
+PokerStars Hand #252444108449: Tournament #3800419527, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/09/14 16:26:38 CET [2024/09/14 10:26:38 ET]
+Table '3800419527 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (680 in chips) 
+Seat 2: RMGons (490 in chips) 
+Seat 3: jesss150403 (330 in chips) 
+RMGons: posts small blind 10
+jesss150403: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c 4h]
+Mahu2021: calls 20
+RMGons: folds 
+jesss150403: checks 
+*** FLOP *** [5d 3c 8s]
+jesss150403: bets 60
+Mahu2021: folds 
+Uncalled bet (60) returned to jesss150403
+jesss150403 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [5d 3c 8s]
+Seat 1: Mahu2021 (button) folded on the Flop
+Seat 2: RMGons (small blind) folded before Flop
+Seat 3: jesss150403 (big blind) collected (50)
+
+
+
+PokerStars Hand #252444111708: Tournament #3800419527, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/09/14 16:26:52 CET [2024/09/14 10:26:52 ET]
+Table '3800419527 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (660 in chips) 
+Seat 2: RMGons (480 in chips) 
+Seat 3: jesss150403 (360 in chips) 
+jesss150403: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d 3h]
+RMGons: raises 40 to 60
+jesss150403: calls 50
+Mahu2021: folds 
+*** FLOP *** [Ac Jd 6h]
+jesss150403: checks 
+RMGons: checks 
+*** TURN *** [Ac Jd 6h] [9s]
+jesss150403: checks 
+RMGons: bets 60
+jesss150403: calls 60
+*** RIVER *** [Ac Jd 6h 9s] [3c]
+jesss150403: checks 
+RMGons: bets 180
+jesss150403: folds 
+Uncalled bet (180) returned to RMGons
+RMGons collected 260 from pot
+*** SUMMARY ***
+Total pot 260 | Rake 0 
+Board [Ac Jd 6h 9s 3c]
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: RMGons (button) collected (260)
+Seat 3: jesss150403 (small blind) folded on the River
+
+
+
+PokerStars Hand #252444119067: Tournament #3800419527, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/09/14 16:27:25 CET [2024/09/14 10:27:25 ET]
+Table '3800419527 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (640 in chips) 
+Seat 2: RMGons (620 in chips) 
+Seat 3: jesss150403 (240 in chips) 
+Mahu2021: posts small blind 10
+RMGons: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d 6h]
+jesss150403: calls 20
+Mahu2021: calls 10
+RMGons: checks 
+*** FLOP *** [3s 8h 6s]
+Mahu2021: checks 
+RMGons: checks 
+jesss150403: bets 20
+Mahu2021: calls 20
+RMGons: calls 20
+*** TURN *** [3s 8h 6s] [2h]
+Mahu2021: checks 
+RMGons: checks 
+jesss150403: bets 60
+Mahu2021: raises 540 to 600 and is all-in
+RMGons: calls 580 and is all-in
+jesss150403: folds 
+Uncalled bet (20) returned to Mahu2021
+*** RIVER *** [3s 8h 6s 2h] [3d]
+*** SHOW DOWN ***
+Mahu2021: shows [7d 6h] (two pair, Sixes and Threes)
+RMGons: shows [2s Ts] (two pair, Threes and Deuces)
+Mahu2021 collected 1340 from pot
+RMGons finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1340 | Rake 0 
+Board [3s 8h 6s 2h 3d]
+Seat 1: Mahu2021 (small blind) showed [7d 6h] and won (1340) with two pair, Sixes and Threes
+Seat 2: RMGons (big blind) showed [2s Ts] and lost with two pair, Threes and Deuces
+Seat 3: jesss150403 (button) folded on the Turn
+
+
+
+PokerStars Hand #252444127144: Tournament #3800419527, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/09/14 16:28:01 CET [2024/09/14 10:28:01 ET]
+Table '3800419527 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1360 in chips) 
+Seat 3: jesss150403 (140 in chips) 
+Mahu2021: posts small blind 15
+jesss150403: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc 7d]
+Mahu2021: raises 1330 to 1360 and is all-in
+jesss150403: calls 110 and is all-in
+Uncalled bet (1220) returned to Mahu2021
+*** FLOP *** [Ks Ts As]
+*** TURN *** [Ks Ts As] [4h]
+*** RIVER *** [Ks Ts As 4h] [3c]
+*** SHOW DOWN ***
+jesss150403: shows [Jh 9d] (high card Ace)
+Mahu2021: shows [Qc 7d] (high card Ace - King+Queen kicker)
+Mahu2021 collected 280 from pot
+jesss150403 finished the tournament in 2nd place
+Mahu2021 wins the tournament and receives $6.00 - congratulations!
+*** SUMMARY ***
+Total pot 280 | Rake 0 
+Board [Ks Ts As 4h 3c]
+Seat 1: Mahu2021 (button) (small blind) showed [Qc 7d] and won (280) with high card Ace
+Seat 3: jesss150403 (big blind) showed [Jh 9d] and lost with high card Ace
+
+
+

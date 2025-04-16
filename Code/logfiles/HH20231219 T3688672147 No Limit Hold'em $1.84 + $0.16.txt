@@ -1,0 +1,104 @@
+﻿PokerStars Hand #247753567911: Tournament #3688672147, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/19 20:49:21 CET [2023/12/19 14:49:21 ET]
+Table '3688672147 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: CincoTresOff (500 in chips) 
+Seat 3: J-BOY7 (500 in chips) 
+CincoTresOff: posts small blind 10
+J-BOY7: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s 2d]
+Mahu2021: folds 
+CincoTresOff: raises 40 to 60
+J-BOY7: raises 40 to 100
+CincoTresOff: calls 40
+*** FLOP *** [4s 9d 4h]
+CincoTresOff: checks 
+J-BOY7: checks 
+*** TURN *** [4s 9d 4h] [Ts]
+CincoTresOff: checks 
+J-BOY7: bets 100
+CincoTresOff: folds 
+Uncalled bet (100) returned to J-BOY7
+J-BOY7 collected 200 from pot
+J-BOY7: doesn't show hand 
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [4s 9d 4h Ts]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: CincoTresOff (small blind) folded on the Turn
+Seat 3: J-BOY7 (big blind) collected (200)
+
+
+
+PokerStars Hand #247753576293: Tournament #3688672147, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/19 20:49:45 CET [2023/12/19 14:49:45 ET]
+Table '3688672147 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: CincoTresOff (400 in chips) 
+Seat 3: J-BOY7 (600 in chips) 
+J-BOY7: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh 5c]
+CincoTresOff: folds 
+J-BOY7: calls 10
+Mahu2021: checks 
+*** FLOP *** [9c 5s 4c]
+J-BOY7: bets 40
+Mahu2021: calls 40
+*** TURN *** [9c 5s 4c] [9h]
+J-BOY7: bets 40
+Mahu2021: calls 40
+*** RIVER *** [9c 5s 4c 9h] [Jc]
+J-BOY7: bets 200
+Mahu2021: calls 200
+*** SHOW DOWN ***
+J-BOY7: shows [8c 6c] (a flush, Jack high)
+Mahu2021: mucks hand 
+J-BOY7 collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | Rake 0 
+Board [9c 5s 4c 9h Jc]
+Seat 1: Mahu2021 (big blind) mucked [Jh 5c]
+Seat 2: CincoTresOff (button) folded before Flop (didn't bet)
+Seat 3: J-BOY7 (small blind) showed [8c 6c] and won (600) with a flush, Jack high
+
+
+
+PokerStars Hand #247753584271: Tournament #3688672147, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/19 20:50:09 CET [2023/12/19 14:50:09 ET]
+Table '3688672147 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (200 in chips) 
+Seat 2: CincoTresOff (400 in chips) 
+Seat 3: J-BOY7 (900 in chips) 
+Mahu2021: posts small blind 10
+CincoTresOff: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h 2d]
+J-BOY7: raises 40 to 60
+Mahu2021: raises 140 to 200 and is all-in
+CincoTresOff: calls 180
+J-BOY7: calls 140
+*** FLOP *** [3c As Qh]
+CincoTresOff: checks 
+J-BOY7: bets 700 and is all-in
+CincoTresOff: calls 200 and is all-in
+Uncalled bet (500) returned to J-BOY7
+*** TURN *** [3c As Qh] [Tc]
+*** RIVER *** [3c As Qh Tc] [9c]
+*** SHOW DOWN ***
+CincoTresOff: shows [Kh Kd] (a pair of Kings)
+J-BOY7: shows [5c Qc] (a flush, Queen high)
+J-BOY7 collected 400 from side pot
+Mahu2021: shows [2h 2d] (a pair of Deuces)
+J-BOY7 collected 600 from main pot
+CincoTresOff finished the tournament in 2nd place
+Mahu2021 finished the tournament in 3rd place
+J-BOY7 wins the tournament and receives $6.00 - congratulations!
+*** SUMMARY ***
+Total pot 1000 Main pot 600. Side pot 400. | Rake 0 
+Board [3c As Qh Tc 9c]
+Seat 1: Mahu2021 (small blind) showed [2h 2d] and lost with a pair of Deuces
+Seat 2: CincoTresOff (big blind) showed [Kh Kd] and lost with a pair of Kings
+Seat 3: J-BOY7 (button) showed [5c Qc] and won (1000) with a flush, Queen high
+
+
+

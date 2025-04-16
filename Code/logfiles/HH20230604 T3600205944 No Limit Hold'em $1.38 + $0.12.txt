@@ -1,0 +1,605 @@
+﻿PokerStars Hand #244088560407: Tournament #3600205944, $1.38+$0.12 USD Hold'em No Limit - Level I (10/20) - 2023/06/04 19:12:32 CET [2023/06/04 13:12:32 ET]
+Table '3600205944 1' 3-max Seat #1 is the button
+Seat 1: HaydonCardew (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: aceglenn (500 in chips) 
+Mahu2021: posts small blind 10
+aceglenn: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h 7h]
+HaydonCardew: raises 40 to 60
+Mahu2021: folds 
+aceglenn: calls 40
+*** FLOP *** [2c 5h 5d]
+aceglenn: checks 
+HaydonCardew: bets 65
+aceglenn: folds 
+Uncalled bet (65) returned to HaydonCardew
+HaydonCardew collected 130 from pot
+*** SUMMARY ***
+Total pot 130 | Rake 0 
+Board [2c 5h 5d]
+Seat 1: HaydonCardew (button) collected (130)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: aceglenn (big blind) folded on the Flop
+
+
+
+PokerStars Hand #244088565995: Tournament #3600205944, $1.38+$0.12 USD Hold'em No Limit - Level I (10/20) - 2023/06/04 19:12:49 CET [2023/06/04 13:12:49 ET]
+Table '3600205944 1' 3-max Seat #2 is the button
+Seat 1: HaydonCardew (570 in chips) 
+Seat 2: Mahu2021 (490 in chips) 
+Seat 3: aceglenn (440 in chips) 
+aceglenn: posts small blind 10
+HaydonCardew: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kc Ah]
+Mahu2021: raises 20 to 40
+aceglenn: calls 30
+HaydonCardew: calls 20
+*** FLOP *** [8c 6h 8s]
+aceglenn: checks 
+HaydonCardew: checks 
+Mahu2021: checks 
+*** TURN *** [8c 6h 8s] [2c]
+aceglenn: bets 20
+HaydonCardew: folds 
+Mahu2021: calls 20
+*** RIVER *** [8c 6h 8s 2c] [Jc]
+aceglenn: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+aceglenn: shows [9h Kd] (a pair of Eights)
+Mahu2021: shows [Kc Ah] (a pair of Eights - Ace kicker)
+Mahu2021 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [8c 6h 8s 2c Jc]
+Seat 1: HaydonCardew (big blind) folded on the Turn
+Seat 2: Mahu2021 (button) showed [Kc Ah] and won (160) with a pair of Eights
+Seat 3: aceglenn (small blind) showed [9h Kd] and lost with a pair of Eights
+
+
+
+PokerStars Hand #244088575725: Tournament #3600205944, $1.38+$0.12 USD Hold'em No Limit - Level I (10/20) - 2023/06/04 19:13:17 CET [2023/06/04 13:13:17 ET]
+Table '3600205944 1' 3-max Seat #3 is the button
+Seat 1: HaydonCardew (530 in chips) 
+Seat 2: Mahu2021 (590 in chips) 
+Seat 3: aceglenn (380 in chips) 
+HaydonCardew: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4d Ts]
+aceglenn: calls 20
+HaydonCardew: raises 40 to 60
+Mahu2021: folds 
+aceglenn: calls 40
+*** FLOP *** [9d Kc 3c]
+HaydonCardew: bets 70
+aceglenn: folds 
+Uncalled bet (70) returned to HaydonCardew
+HaydonCardew collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | Rake 0 
+Board [9d Kc 3c]
+Seat 1: HaydonCardew (small blind) collected (140)
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: aceglenn (button) folded on the Flop
+
+
+
+PokerStars Hand #244088580727: Tournament #3600205944, $1.38+$0.12 USD Hold'em No Limit - Level I (10/20) - 2023/06/04 19:13:32 CET [2023/06/04 13:13:32 ET]
+Table '3600205944 1' 3-max Seat #1 is the button
+Seat 1: HaydonCardew (610 in chips) 
+Seat 2: Mahu2021 (570 in chips) 
+Seat 3: aceglenn (320 in chips) 
+Mahu2021: posts small blind 10
+aceglenn: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c 9h]
+HaydonCardew: folds 
+Mahu2021: folds 
+Uncalled bet (10) returned to aceglenn
+aceglenn collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: HaydonCardew (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: aceglenn (big blind) collected (20)
+
+
+
+PokerStars Hand #244088583739: Tournament #3600205944, $1.38+$0.12 USD Hold'em No Limit - Level I (10/20) - 2023/06/04 19:13:40 CET [2023/06/04 13:13:40 ET]
+Table '3600205944 1' 3-max Seat #2 is the button
+Seat 1: HaydonCardew (610 in chips) 
+Seat 2: Mahu2021 (560 in chips) 
+Seat 3: aceglenn (330 in chips) 
+aceglenn: posts small blind 10
+HaydonCardew: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d Ah]
+Mahu2021: folds 
+aceglenn: raises 20 to 40
+HaydonCardew: calls 20
+*** FLOP *** [Tc 3d 5d]
+aceglenn: bets 20
+HaydonCardew: calls 20
+*** TURN *** [Tc 3d 5d] [7h]
+aceglenn: bets 60
+HaydonCardew: calls 60
+*** RIVER *** [Tc 3d 5d 7h] [3s]
+aceglenn: checks 
+HaydonCardew: bets 240
+aceglenn: folds 
+Uncalled bet (240) returned to HaydonCardew
+HaydonCardew collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Tc 3d 5d 7h 3s]
+Seat 1: HaydonCardew (big blind) collected (240)
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: aceglenn (small blind) folded on the River
+
+
+
+PokerStars Hand #244088592031: Tournament #3600205944, $1.38+$0.12 USD Hold'em No Limit - Level I (10/20) - 2023/06/04 19:14:04 CET [2023/06/04 13:14:04 ET]
+Table '3600205944 1' 3-max Seat #3 is the button
+Seat 1: HaydonCardew (730 in chips) 
+Seat 2: Mahu2021 (560 in chips) 
+Seat 3: aceglenn (210 in chips) 
+HaydonCardew: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h Jc]
+aceglenn: raises 20 to 40
+HaydonCardew: folds 
+Mahu2021: calls 20
+*** FLOP *** [6d 9d Kh]
+Mahu2021: checks 
+aceglenn: checks 
+*** TURN *** [6d 9d Kh] [Th]
+Mahu2021: bets 20
+aceglenn: calls 20
+*** RIVER *** [6d 9d Kh Th] [Ad]
+Mahu2021: checks 
+aceglenn: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [9h Jc] (a pair of Nines)
+aceglenn: mucks hand 
+Mahu2021 collected 130 from pot
+*** SUMMARY ***
+Total pot 130 | Rake 0 
+Board [6d 9d Kh Th Ad]
+Seat 1: HaydonCardew (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) showed [9h Jc] and won (130) with a pair of Nines
+Seat 3: aceglenn (button) mucked [2h 2c]
+
+
+
+PokerStars Hand #244088599334: Tournament #3600205944, $1.38+$0.12 USD Hold'em No Limit - Level I (10/20) - 2023/06/04 19:14:26 CET [2023/06/04 13:14:26 ET]
+Table '3600205944 1' 3-max Seat #1 is the button
+Seat 1: HaydonCardew (720 in chips) 
+Seat 2: Mahu2021 (630 in chips) 
+Seat 3: aceglenn (150 in chips) 
+Mahu2021: posts small blind 10
+aceglenn: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Th 7d]
+HaydonCardew: folds 
+Mahu2021: folds 
+Uncalled bet (10) returned to aceglenn
+aceglenn collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: HaydonCardew (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: aceglenn (big blind) collected (20)
+
+
+
+PokerStars Hand #244088601153: Tournament #3600205944, $1.38+$0.12 USD Hold'em No Limit - Level I (10/20) - 2023/06/04 19:14:31 CET [2023/06/04 13:14:31 ET]
+Table '3600205944 1' 3-max Seat #2 is the button
+Seat 1: HaydonCardew (720 in chips) 
+Seat 2: Mahu2021 (620 in chips) 
+Seat 3: aceglenn (160 in chips) 
+aceglenn: posts small blind 10
+HaydonCardew: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As 9s]
+Mahu2021: calls 20
+aceglenn: raises 20 to 40
+HaydonCardew: raises 60 to 100
+Mahu2021: folds 
+aceglenn: raises 60 to 160 and is all-in
+HaydonCardew: calls 60
+*** FLOP *** [7s 3s 9h]
+*** TURN *** [7s 3s 9h] [Td]
+*** RIVER *** [7s 3s 9h Td] [8c]
+*** SHOW DOWN ***
+aceglenn: shows [2s Kh] (high card King)
+HaydonCardew: shows [5s 5h] (a pair of Fives)
+HaydonCardew collected 340 from pot
+aceglenn finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 340 | Rake 0 
+Board [7s 3s 9h Td 8c]
+Seat 1: HaydonCardew (big blind) showed [5s 5h] and won (340) with a pair of Fives
+Seat 2: Mahu2021 (button) folded before Flop
+Seat 3: aceglenn (small blind) showed [2s Kh] and lost with high card King
+
+
+
+PokerStars Hand #244088609523: Tournament #3600205944, $1.38+$0.12 USD Hold'em No Limit - Level II (15/30) - 2023/06/04 19:14:56 CET [2023/06/04 13:14:56 ET]
+Table '3600205944 1' 3-max Seat #1 is the button
+Seat 1: HaydonCardew (900 in chips) 
+Seat 2: Mahu2021 (600 in chips) 
+HaydonCardew: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Tc 2d]
+HaydonCardew: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: HaydonCardew (button) (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (30)
+
+
+
+PokerStars Hand #244088610631: Tournament #3600205944, $1.38+$0.12 USD Hold'em No Limit - Level II (15/30) - 2023/06/04 19:14:59 CET [2023/06/04 13:14:59 ET]
+Table '3600205944 1' 3-max Seat #2 is the button
+Seat 1: HaydonCardew (885 in chips) 
+Seat 2: Mahu2021 (615 in chips) 
+Mahu2021: posts small blind 15
+HaydonCardew: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d Ks]
+Mahu2021: folds 
+Uncalled bet (15) returned to HaydonCardew
+HaydonCardew collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: HaydonCardew (big blind) collected (30)
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #244088612239: Tournament #3600205944, $1.38+$0.12 USD Hold'em No Limit - Level II (15/30) - 2023/06/04 19:15:04 CET [2023/06/04 13:15:04 ET]
+Table '3600205944 1' 3-max Seat #1 is the button
+Seat 1: HaydonCardew (900 in chips) 
+Seat 2: Mahu2021 (600 in chips) 
+HaydonCardew: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s 2s]
+HaydonCardew: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: HaydonCardew (button) (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (30)
+
+
+
+PokerStars Hand #244088613326: Tournament #3600205944, $1.38+$0.12 USD Hold'em No Limit - Level II (15/30) - 2023/06/04 19:15:07 CET [2023/06/04 13:15:07 ET]
+Table '3600205944 1' 3-max Seat #2 is the button
+Seat 1: HaydonCardew (885 in chips) 
+Seat 2: Mahu2021 (615 in chips) 
+Mahu2021: posts small blind 15
+HaydonCardew: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h 3h]
+Mahu2021: calls 15
+HaydonCardew: checks 
+*** FLOP *** [5d 9s Qc]
+HaydonCardew: checks 
+Mahu2021: bets 30
+HaydonCardew: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [5d 9s Qc]
+Seat 1: HaydonCardew (big blind) folded on the Flop
+Seat 2: Mahu2021 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #244088620481: Tournament #3600205944, $1.38+$0.12 USD Hold'em No Limit - Level II (15/30) - 2023/06/04 19:15:28 CET [2023/06/04 13:15:28 ET]
+Table '3600205944 1' 3-max Seat #1 is the button
+Seat 1: HaydonCardew (855 in chips) 
+Seat 2: Mahu2021 (645 in chips) 
+HaydonCardew: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2s 8d]
+HaydonCardew: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: HaydonCardew (button) (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (30)
+
+
+
+PokerStars Hand #244088621712: Tournament #3600205944, $1.38+$0.12 USD Hold'em No Limit - Level II (15/30) - 2023/06/04 19:15:31 CET [2023/06/04 13:15:31 ET]
+Table '3600205944 1' 3-max Seat #2 is the button
+Seat 1: HaydonCardew (840 in chips) 
+Seat 2: Mahu2021 (660 in chips) 
+Mahu2021: posts small blind 15
+HaydonCardew: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd Kd]
+Mahu2021: raises 30 to 60
+HaydonCardew: calls 30
+*** FLOP *** [3c 2s Td]
+HaydonCardew: checks 
+Mahu2021: bets 30
+HaydonCardew: calls 30
+*** TURN *** [3c 2s Td] [Qc]
+HaydonCardew: checks 
+Mahu2021: checks 
+*** RIVER *** [3c 2s Td Qc] [3d]
+HaydonCardew: bets 180
+Mahu2021: folds 
+Uncalled bet (180) returned to HaydonCardew
+HaydonCardew collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [3c 2s Td Qc 3d]
+Seat 1: HaydonCardew (big blind) collected (180)
+Seat 2: Mahu2021 (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #244088629119: Tournament #3600205944, $1.38+$0.12 USD Hold'em No Limit - Level II (15/30) - 2023/06/04 19:15:53 CET [2023/06/04 13:15:53 ET]
+Table '3600205944 1' 3-max Seat #1 is the button
+Seat 1: HaydonCardew (930 in chips) 
+Seat 2: Mahu2021 (570 in chips) 
+HaydonCardew: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s 4d]
+HaydonCardew: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: HaydonCardew (button) (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (30)
+
+
+
+PokerStars Hand #244088630055: Tournament #3600205944, $1.38+$0.12 USD Hold'em No Limit - Level II (15/30) - 2023/06/04 19:15:56 CET [2023/06/04 13:15:56 ET]
+Table '3600205944 1' 3-max Seat #2 is the button
+Seat 1: HaydonCardew (915 in chips) 
+Seat 2: Mahu2021 (585 in chips) 
+Mahu2021: posts small blind 15
+HaydonCardew: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8s Kd]
+Mahu2021: calls 15
+HaydonCardew: raises 60 to 90
+Mahu2021: folds 
+Uncalled bet (60) returned to HaydonCardew
+HaydonCardew collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: HaydonCardew (big blind) collected (60)
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #244088636514: Tournament #3600205944, $1.38+$0.12 USD Hold'em No Limit - Level II (15/30) - 2023/06/04 19:16:14 CET [2023/06/04 13:16:14 ET]
+Table '3600205944 1' 3-max Seat #1 is the button
+Seat 1: HaydonCardew (945 in chips) 
+Seat 2: Mahu2021 (555 in chips) 
+HaydonCardew: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d Kc]
+HaydonCardew: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: HaydonCardew (button) (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (30)
+
+
+
+PokerStars Hand #244088637529: Tournament #3600205944, $1.38+$0.12 USD Hold'em No Limit - Level II (15/30) - 2023/06/04 19:16:17 CET [2023/06/04 13:16:17 ET]
+Table '3600205944 1' 3-max Seat #2 is the button
+Seat 1: HaydonCardew (930 in chips) 
+Seat 2: Mahu2021 (570 in chips) 
+Mahu2021: posts small blind 15
+HaydonCardew: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js Qs]
+Mahu2021: raises 30 to 60
+HaydonCardew: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: HaydonCardew (big blind) folded before Flop
+Seat 2: Mahu2021 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #244088639657: Tournament #3600205944, $1.38+$0.12 USD Hold'em No Limit - Level II (15/30) - 2023/06/04 19:16:23 CET [2023/06/04 13:16:23 ET]
+Table '3600205944 1' 3-max Seat #1 is the button
+Seat 1: HaydonCardew (900 in chips) 
+Seat 2: Mahu2021 (600 in chips) 
+HaydonCardew: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2c 5d]
+HaydonCardew: raises 60 to 90
+Mahu2021: folds 
+Uncalled bet (60) returned to HaydonCardew
+HaydonCardew collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: HaydonCardew (button) (small blind) collected (60)
+Seat 2: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #244088641526: Tournament #3600205944, $1.38+$0.12 USD Hold'em No Limit - Level II (15/30) - 2023/06/04 19:16:29 CET [2023/06/04 13:16:29 ET]
+Table '3600205944 1' 3-max Seat #2 is the button
+Seat 1: HaydonCardew (930 in chips) 
+Seat 2: Mahu2021 (570 in chips) 
+Mahu2021: posts small blind 15
+HaydonCardew: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kc 4d]
+Mahu2021: folds 
+Uncalled bet (15) returned to HaydonCardew
+HaydonCardew collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: HaydonCardew (big blind) collected (30)
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #244088644168: Tournament #3600205944, $1.38+$0.12 USD Hold'em No Limit - Level III (20/40) - 2023/06/04 19:16:37 CET [2023/06/04 13:16:37 ET]
+Table '3600205944 1' 3-max Seat #1 is the button
+Seat 1: HaydonCardew (945 in chips) 
+Seat 2: Mahu2021 (555 in chips) 
+HaydonCardew: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s 8c]
+HaydonCardew: raises 80 to 120
+Mahu2021: folds 
+Uncalled bet (80) returned to HaydonCardew
+HaydonCardew collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: HaydonCardew (button) (small blind) collected (80)
+Seat 2: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #244088645864: Tournament #3600205944, $1.38+$0.12 USD Hold'em No Limit - Level III (20/40) - 2023/06/04 19:16:42 CET [2023/06/04 13:16:42 ET]
+Table '3600205944 1' 3-max Seat #2 is the button
+Seat 1: HaydonCardew (985 in chips) 
+Seat 2: Mahu2021 (515 in chips) 
+Mahu2021: posts small blind 20
+HaydonCardew: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c 8d]
+Mahu2021: folds 
+Uncalled bet (20) returned to HaydonCardew
+HaydonCardew collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: HaydonCardew (big blind) collected (40)
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #244088647501: Tournament #3600205944, $1.38+$0.12 USD Hold'em No Limit - Level III (20/40) - 2023/06/04 19:16:46 CET [2023/06/04 13:16:46 ET]
+Table '3600205944 1' 3-max Seat #1 is the button
+Seat 1: HaydonCardew (1005 in chips) 
+Seat 2: Mahu2021 (495 in chips) 
+HaydonCardew: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s 8s]
+HaydonCardew: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: HaydonCardew (button) (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (40)
+
+
+
+PokerStars Hand #244088648616: Tournament #3600205944, $1.38+$0.12 USD Hold'em No Limit - Level III (20/40) - 2023/06/04 19:16:50 CET [2023/06/04 13:16:50 ET]
+Table '3600205944 1' 3-max Seat #2 is the button
+Seat 1: HaydonCardew (985 in chips) 
+Seat 2: Mahu2021 (515 in chips) 
+Mahu2021: posts small blind 20
+HaydonCardew: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts 5h]
+Mahu2021: folds 
+Uncalled bet (20) returned to HaydonCardew
+HaydonCardew collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: HaydonCardew (big blind) collected (40)
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #244088650441: Tournament #3600205944, $1.38+$0.12 USD Hold'em No Limit - Level III (20/40) - 2023/06/04 19:16:55 CET [2023/06/04 13:16:55 ET]
+Table '3600205944 1' 3-max Seat #1 is the button
+Seat 1: HaydonCardew (1005 in chips) 
+Seat 2: Mahu2021 (495 in chips) 
+HaydonCardew: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qs 7h]
+HaydonCardew: raises 80 to 120
+Mahu2021: folds 
+Uncalled bet (80) returned to HaydonCardew
+HaydonCardew collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: HaydonCardew (button) (small blind) collected (80)
+Seat 2: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #244088651973: Tournament #3600205944, $1.38+$0.12 USD Hold'em No Limit - Level III (20/40) - 2023/06/04 19:17:00 CET [2023/06/04 13:17:00 ET]
+Table '3600205944 1' 3-max Seat #2 is the button
+Seat 1: HaydonCardew (1045 in chips) 
+Seat 2: Mahu2021 (455 in chips) 
+Mahu2021: posts small blind 20
+HaydonCardew: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s 8s]
+Mahu2021: calls 20
+HaydonCardew: raises 80 to 120
+Mahu2021: calls 80
+*** FLOP *** [Th 6c 6s]
+HaydonCardew: checks 
+Mahu2021: bets 120
+HaydonCardew: calls 120
+*** TURN *** [Th 6c 6s] [4d]
+HaydonCardew: checks 
+Mahu2021: checks 
+*** RIVER *** [Th 6c 6s 4d] [Ac]
+HaydonCardew: checks 
+Mahu2021: bets 215 and is all-in
+HaydonCardew: calls 215
+*** SHOW DOWN ***
+Mahu2021: shows [9s 8s] (a pair of Sixes)
+HaydonCardew: shows [Qd Qh] (two pair, Queens and Sixes)
+HaydonCardew collected 910 from pot
+Mahu2021 finished the tournament in 2nd place
+HaydonCardew wins the tournament and receives $3.00 - congratulations!
+*** SUMMARY ***
+Total pot 910 | Rake 0 
+Board [Th 6c 6s 4d Ac]
+Seat 1: HaydonCardew (big blind) showed [Qd Qh] and won (910) with two pair, Queens and Sixes
+Seat 2: Mahu2021 (button) (small blind) showed [9s 8s] and lost with a pair of Sixes
+
+
+

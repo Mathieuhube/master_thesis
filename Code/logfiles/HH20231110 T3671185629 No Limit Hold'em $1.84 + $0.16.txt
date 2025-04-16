@@ -1,0 +1,682 @@
+﻿PokerStars Hand #247024012868: Tournament #3671185629, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/10 7:10:57 CET [2023/11/10 1:10:57 ET]
+Table '3671185629 1' 3-max Seat #1 is the button
+Seat 1: Traian987 (500 in chips) 
+Seat 2: dead.quant (500 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+dead.quant: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h Jd]
+Traian987: calls 20
+dead.quant: folds 
+Mahu2021: checks 
+*** FLOP *** [8s Js 9s]
+Mahu2021: checks 
+Traian987: bets 20
+Mahu2021: calls 20
+*** TURN *** [8s Js 9s] [2d]
+Mahu2021: checks 
+Traian987: bets 20
+Mahu2021: calls 20
+*** RIVER *** [8s Js 9s 2d] [4d]
+Mahu2021: checks 
+Traian987: bets 65
+Mahu2021: calls 65
+*** SHOW DOWN ***
+Traian987: shows [Ts 9c] (a pair of Nines)
+Mahu2021: shows [4h Jd] (two pair, Jacks and Fours)
+Mahu2021 collected 260 from pot
+*** SUMMARY ***
+Total pot 260 | Rake 0 
+Board [8s Js 9s 2d 4d]
+Seat 1: Traian987 (button) showed [Ts 9c] and lost with a pair of Nines
+Seat 2: dead.quant (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) showed [4h Jd] and won (260) with two pair, Jacks and Fours
+
+
+
+PokerStars Hand #247024015065: Tournament #3671185629, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/10 7:11:20 CET [2023/11/10 1:11:20 ET]
+Table '3671185629 1' 3-max Seat #2 is the button
+Seat 1: Traian987 (375 in chips) 
+Seat 2: dead.quant (490 in chips) 
+Seat 3: Mahu2021 (635 in chips) 
+Mahu2021: posts small blind 10
+Traian987: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c 7d]
+dead.quant: raises 60 to 80
+Mahu2021: folds 
+Traian987: calls 60
+*** FLOP *** [Ac Ts 4s]
+Traian987: checks 
+dead.quant: bets 100
+Traian987: calls 100
+*** TURN *** [Ac Ts 4s] [Qh]
+Traian987: checks 
+dead.quant: bets 200
+Traian987: calls 195 and is all-in
+Uncalled bet (5) returned to dead.quant
+*** RIVER *** [Ac Ts 4s Qh] [Jc]
+*** SHOW DOWN ***
+Traian987: shows [9s Kc] (a straight, Ten to Ace)
+dead.quant: shows [As Td] (two pair, Aces and Tens)
+Traian987 collected 760 from pot
+*** SUMMARY ***
+Total pot 760 | Rake 0 
+Board [Ac Ts 4s Qh Jc]
+Seat 1: Traian987 (big blind) showed [9s Kc] and won (760) with a straight, Ten to Ace
+Seat 2: dead.quant (button) showed [As Td] and lost with two pair, Aces and Tens
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #247024017720: Tournament #3671185629, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/10 7:11:48 CET [2023/11/10 1:11:48 ET]
+Table '3671185629 1' 3-max Seat #3 is the button
+Seat 1: Traian987 (760 in chips) 
+Seat 2: dead.quant (115 in chips) 
+Seat 3: Mahu2021 (625 in chips) 
+Traian987: posts small blind 10
+dead.quant: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h 5h]
+Mahu2021: folds 
+Traian987: raises 40 to 60
+dead.quant: calls 40
+*** FLOP *** [3c 8d 7d]
+Traian987: bets 60
+dead.quant: calls 55 and is all-in
+Uncalled bet (5) returned to Traian987
+*** TURN *** [3c 8d 7d] [Jh]
+*** RIVER *** [3c 8d 7d Jh] [Qh]
+*** SHOW DOWN ***
+Traian987: shows [Td Ts] (a pair of Tens)
+dead.quant: shows [2d Qc] (a pair of Queens)
+dead.quant collected 230 from pot
+*** SUMMARY ***
+Total pot 230 | Rake 0 
+Board [3c 8d 7d Jh Qh]
+Seat 1: Traian987 (small blind) showed [Td Ts] and lost with a pair of Tens
+Seat 2: dead.quant (big blind) showed [2d Qc] and won (230) with a pair of Queens
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #247024019353: Tournament #3671185629, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/10 7:12:05 CET [2023/11/10 1:12:05 ET]
+Table '3671185629 1' 3-max Seat #1 is the button
+Seat 1: Traian987 (645 in chips) 
+Seat 2: dead.quant (230 in chips) 
+Seat 3: Mahu2021 (625 in chips) 
+dead.quant: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc Qs]
+Traian987: calls 20
+dead.quant: folds 
+Mahu2021: checks 
+*** FLOP *** [Qc 5s 4c]
+Mahu2021: checks 
+Traian987: checks 
+*** TURN *** [Qc 5s 4c] [9s]
+Mahu2021: bets 40
+Traian987: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 50 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [Qc 5s 4c 9s]
+Seat 1: Traian987 (button) folded on the Turn
+Seat 2: dead.quant (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (50)
+
+
+
+PokerStars Hand #247024020686: Tournament #3671185629, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/10 7:12:19 CET [2023/11/10 1:12:19 ET]
+Table '3671185629 1' 3-max Seat #2 is the button
+Seat 1: Traian987 (625 in chips) 
+Seat 2: dead.quant (220 in chips) 
+Seat 3: Mahu2021 (655 in chips) 
+Mahu2021: posts small blind 10
+Traian987: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h Ac]
+dead.quant: raises 40 to 60
+Mahu2021: folds 
+Traian987: calls 40
+*** FLOP *** [Td Kc 6c]
+Traian987: checks 
+dead.quant: checks 
+*** TURN *** [Td Kc 6c] [8d]
+Traian987: checks 
+dead.quant: checks 
+*** RIVER *** [Td Kc 6c 8d] [Jh]
+Traian987: checks 
+dead.quant: bets 40
+Traian987: folds 
+Uncalled bet (40) returned to dead.quant
+dead.quant collected 130 from pot
+dead.quant: doesn't show hand 
+*** SUMMARY ***
+Total pot 130 | Rake 0 
+Board [Td Kc 6c 8d Jh]
+Seat 1: Traian987 (big blind) folded on the River
+Seat 2: dead.quant (button) collected (130)
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #247024023382: Tournament #3671185629, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/10 7:12:47 CET [2023/11/10 1:12:47 ET]
+Table '3671185629 1' 3-max Seat #3 is the button
+Seat 1: Traian987 (565 in chips) 
+Seat 2: dead.quant (290 in chips) 
+Seat 3: Mahu2021 (645 in chips) 
+Traian987: posts small blind 10
+dead.quant: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d Kd]
+Mahu2021: raises 20 to 40
+Traian987: calls 30
+dead.quant: raises 60 to 100
+Mahu2021: folds 
+Traian987: calls 60
+*** FLOP *** [Ks 8s 5s]
+Traian987: checks 
+dead.quant: bets 60
+Traian987: calls 60
+*** TURN *** [Ks 8s 5s] [9d]
+Traian987: checks 
+dead.quant: bets 130 and is all-in
+Traian987: calls 130
+*** RIVER *** [Ks 8s 5s 9d] [9c]
+*** SHOW DOWN ***
+Traian987: shows [Jc Td] (a pair of Nines)
+dead.quant: shows [Ah 9h] (three of a kind, Nines)
+dead.quant collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | Rake 0 
+Board [Ks 8s 5s 9d 9c]
+Seat 1: Traian987 (small blind) showed [Jc Td] and lost with a pair of Nines
+Seat 2: dead.quant (big blind) showed [Ah 9h] and won (620) with three of a kind, Nines
+Seat 3: Mahu2021 (button) folded before Flop
+
+
+
+PokerStars Hand #247024025998: Tournament #3671185629, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/10 7:13:14 CET [2023/11/10 1:13:14 ET]
+Table '3671185629 1' 3-max Seat #1 is the button
+Seat 1: Traian987 (275 in chips) 
+Seat 2: dead.quant (620 in chips) 
+Seat 3: Mahu2021 (605 in chips) 
+dead.quant: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c 8s]
+Traian987: calls 20
+dead.quant: folds 
+Mahu2021: checks 
+*** FLOP *** [Jd 3c 5d]
+Mahu2021: checks 
+Traian987: bets 20
+Mahu2021: folds 
+Uncalled bet (20) returned to Traian987
+Traian987 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [Jd 3c 5d]
+Seat 1: Traian987 (button) collected (50)
+Seat 2: dead.quant (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #247024027747: Tournament #3671185629, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/10 7:13:33 CET [2023/11/10 1:13:33 ET]
+Table '3671185629 1' 3-max Seat #2 is the button
+Seat 1: Traian987 (305 in chips) 
+Seat 2: dead.quant (610 in chips) 
+Seat 3: Mahu2021 (585 in chips) 
+Mahu2021: posts small blind 10
+Traian987: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c 4s]
+dead.quant: raises 60 to 80
+Mahu2021: folds 
+Traian987: folds 
+Uncalled bet (60) returned to dead.quant
+dead.quant collected 50 from pot
+dead.quant: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: Traian987 (big blind) folded before Flop
+Seat 2: dead.quant (button) collected (50)
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #247024028404: Tournament #3671185629, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/10 7:13:40 CET [2023/11/10 1:13:40 ET]
+Table '3671185629 1' 3-max Seat #3 is the button
+Seat 1: Traian987 (285 in chips) 
+Seat 2: dead.quant (640 in chips) 
+Seat 3: Mahu2021 (575 in chips) 
+Traian987: posts small blind 10
+dead.quant: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4d 5c]
+Mahu2021: folds 
+Traian987: calls 10
+dead.quant: checks 
+*** FLOP *** [8c 4h 8s]
+Traian987: checks 
+dead.quant: checks 
+*** TURN *** [8c 4h 8s] [8h]
+Traian987: checks 
+dead.quant: bets 60
+Traian987: folds 
+Uncalled bet (60) returned to dead.quant
+dead.quant collected 40 from pot
+dead.quant: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [8c 4h 8s 8h]
+Seat 1: Traian987 (small blind) folded on the Turn
+Seat 2: dead.quant (big blind) collected (40)
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #247024030931: Tournament #3671185629, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/10 7:14:07 CET [2023/11/10 1:14:07 ET]
+Table '3671185629 1' 3-max Seat #1 is the button
+Seat 1: Traian987 (265 in chips) 
+Seat 2: dead.quant (660 in chips) 
+Seat 3: Mahu2021 (575 in chips) 
+dead.quant: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8c Kd]
+Traian987: folds 
+dead.quant: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Traian987 (button) folded before Flop (didn't bet)
+Seat 2: dead.quant (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (30)
+
+
+
+PokerStars Hand #247024031585: Tournament #3671185629, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/10 7:14:13 CET [2023/11/10 1:14:13 ET]
+Table '3671185629 1' 3-max Seat #2 is the button
+Seat 1: Traian987 (265 in chips) 
+Seat 2: dead.quant (645 in chips) 
+Seat 3: Mahu2021 (590 in chips) 
+Mahu2021: posts small blind 15
+Traian987: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c 7c]
+dead.quant: folds 
+Mahu2021: calls 15
+Traian987: checks 
+*** FLOP *** [2d Ks 9s]
+Mahu2021: bets 30
+Traian987: calls 30
+*** TURN *** [2d Ks 9s] [2s]
+Mahu2021: bets 30
+Traian987: calls 30
+*** RIVER *** [2d Ks 9s 2s] [3h]
+Mahu2021: bets 30
+Traian987: raises 120 to 150
+Mahu2021: calls 120
+*** SHOW DOWN ***
+Traian987: shows [2h Qc] (three of a kind, Deuces)
+Mahu2021: mucks hand 
+Traian987 collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Board [2d Ks 9s 2s 3h]
+Seat 1: Traian987 (big blind) showed [2h Qc] and won (480) with three of a kind, Deuces
+Seat 2: dead.quant (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) mucked [9c 7c]
+
+
+
+PokerStars Hand #247024033591: Tournament #3671185629, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/10 7:14:35 CET [2023/11/10 1:14:35 ET]
+Table '3671185629 1' 3-max Seat #3 is the button
+Seat 1: Traian987 (505 in chips) 
+Seat 2: dead.quant (645 in chips) 
+Seat 3: Mahu2021 (350 in chips) 
+Traian987: posts small blind 15
+dead.quant: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d 6h]
+Mahu2021: folds 
+Traian987: calls 15
+dead.quant: checks 
+*** FLOP *** [Th Tc Ts]
+Traian987: checks 
+dead.quant: checks 
+*** TURN *** [Th Tc Ts] [8c]
+Traian987: bets 30
+dead.quant: raises 60 to 90
+Traian987: calls 60
+*** RIVER *** [Th Tc Ts 8c] [9s]
+Traian987: bets 30
+dead.quant: calls 30
+*** SHOW DOWN ***
+Traian987: shows [Ad Kd] (three of a kind, Tens)
+dead.quant: shows [Jh 9d] (a full house, Tens full of Nines)
+dead.quant collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [Th Tc Ts 8c 9s]
+Seat 1: Traian987 (small blind) showed [Ad Kd] and lost with three of a kind, Tens
+Seat 2: dead.quant (big blind) showed [Jh 9d] and won (300) with a full house, Tens full of Nines
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #247024035849: Tournament #3671185629, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/10 7:14:59 CET [2023/11/10 1:14:59 ET]
+Table '3671185629 1' 3-max Seat #1 is the button
+Seat 1: Traian987 (355 in chips) 
+Seat 2: dead.quant (795 in chips) 
+Seat 3: Mahu2021 (350 in chips) 
+dead.quant: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qd 4c]
+Traian987: folds 
+dead.quant: raises 90 to 120
+Mahu2021: folds 
+Uncalled bet (90) returned to dead.quant
+dead.quant collected 60 from pot
+dead.quant: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Traian987 (button) folded before Flop (didn't bet)
+Seat 2: dead.quant (small blind) collected (60)
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #247024036691: Tournament #3671185629, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/10 7:15:08 CET [2023/11/10 1:15:08 ET]
+Table '3671185629 1' 3-max Seat #2 is the button
+Seat 1: Traian987 (355 in chips) 
+Seat 2: dead.quant (825 in chips) 
+Seat 3: Mahu2021 (320 in chips) 
+Mahu2021: posts small blind 15
+Traian987: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c 4c]
+dead.quant: folds 
+Mahu2021: folds 
+Uncalled bet (15) returned to Traian987
+Traian987 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Traian987 (big blind) collected (30)
+Seat 2: dead.quant (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #247024037224: Tournament #3671185629, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/10 7:15:13 CET [2023/11/10 1:15:13 ET]
+Table '3671185629 1' 3-max Seat #3 is the button
+Seat 1: Traian987 (370 in chips) 
+Seat 2: dead.quant (825 in chips) 
+Seat 3: Mahu2021 (305 in chips) 
+Traian987: posts small blind 15
+dead.quant: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc Tc]
+Mahu2021: raises 60 to 90
+Traian987: folds 
+dead.quant: calls 60
+*** FLOP *** [8c 9s 2d]
+dead.quant: checks 
+Mahu2021: bets 215 and is all-in
+dead.quant: folds 
+Uncalled bet (215) returned to Mahu2021
+Mahu2021 collected 195 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 195 | Rake 0 
+Board [8c 9s 2d]
+Seat 1: Traian987 (small blind) folded before Flop
+Seat 2: dead.quant (big blind) folded on the Flop
+Seat 3: Mahu2021 (button) collected (195)
+
+
+
+PokerStars Hand #247024038464: Tournament #3671185629, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/10 7:15:26 CET [2023/11/10 1:15:26 ET]
+Table '3671185629 1' 3-max Seat #1 is the button
+Seat 1: Traian987 (355 in chips) 
+Seat 2: dead.quant (735 in chips) 
+Seat 3: Mahu2021 (410 in chips) 
+dead.quant: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h 2d]
+Traian987: calls 30
+dead.quant: folds 
+Mahu2021: checks 
+*** FLOP *** [8s Jd 5d]
+Mahu2021: checks 
+Traian987: bets 30
+Mahu2021: folds 
+Uncalled bet (30) returned to Traian987
+Traian987 collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Board [8s Jd 5d]
+Seat 1: Traian987 (button) collected (75)
+Seat 2: dead.quant (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #247024039432: Tournament #3671185629, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/10 7:15:37 CET [2023/11/10 1:15:37 ET]
+Table '3671185629 1' 3-max Seat #2 is the button
+Seat 1: Traian987 (400 in chips) 
+Seat 2: dead.quant (720 in chips) 
+Seat 3: Mahu2021 (380 in chips) 
+Mahu2021: posts small blind 15
+Traian987: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd Kh]
+dead.quant: folds 
+Mahu2021: raises 60 to 90
+Traian987: calls 60
+*** FLOP *** [6d Ah Ts]
+Mahu2021: checks 
+Traian987: checks 
+*** TURN *** [6d Ah Ts] [Jh]
+Mahu2021: checks 
+Traian987: checks 
+*** RIVER *** [6d Ah Ts Jh] [8h]
+Mahu2021: checks 
+Traian987: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [Jd Kh] (a pair of Jacks)
+Traian987: mucks hand 
+Mahu2021 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [6d Ah Ts Jh 8h]
+Seat 1: Traian987 (big blind) mucked [8s Kc]
+Seat 2: dead.quant (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) showed [Jd Kh] and won (180) with a pair of Jacks
+
+
+
+PokerStars Hand #247024041430: Tournament #3671185629, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/10 7:15:58 CET [2023/11/10 1:15:58 ET]
+Table '3671185629 1' 3-max Seat #3 is the button
+Seat 1: Traian987 (310 in chips) 
+Seat 2: dead.quant (720 in chips) 
+Seat 3: Mahu2021 (470 in chips) 
+Traian987: posts small blind 15
+dead.quant: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh Qd]
+Mahu2021: raises 30 to 60
+Traian987: folds 
+dead.quant: calls 30
+*** FLOP *** [Ah 3h 7d]
+dead.quant: bets 90
+Mahu2021: folds 
+Uncalled bet (90) returned to dead.quant
+dead.quant collected 135 from pot
+dead.quant: doesn't show hand 
+*** SUMMARY ***
+Total pot 135 | Rake 0 
+Board [Ah 3h 7d]
+Seat 1: Traian987 (small blind) folded before Flop
+Seat 2: dead.quant (big blind) collected (135)
+Seat 3: Mahu2021 (button) folded on the Flop
+
+
+
+PokerStars Hand #247024042612: Tournament #3671185629, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/10 7:16:11 CET [2023/11/10 1:16:11 ET]
+Table '3671185629 1' 3-max Seat #1 is the button
+Seat 1: Traian987 (295 in chips) 
+Seat 2: dead.quant (795 in chips) 
+Seat 3: Mahu2021 (410 in chips) 
+dead.quant: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As 5s]
+Traian987: raises 60 to 90
+dead.quant: folds 
+Mahu2021: calls 60
+*** FLOP *** [7c 5d 2d]
+Mahu2021: bets 320 and is all-in
+Traian987: calls 205 and is all-in
+Uncalled bet (115) returned to Mahu2021
+*** TURN *** [7c 5d 2d] [9d]
+*** RIVER *** [7c 5d 2d 9d] [Qc]
+*** SHOW DOWN ***
+Mahu2021: shows [As 5s] (a pair of Fives)
+Traian987: shows [Kh Ah] (high card Ace)
+Mahu2021 collected 605 from pot
+Traian987 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 605 | Rake 0 
+Board [7c 5d 2d 9d Qc]
+Seat 1: Traian987 (button) showed [Kh Ah] and lost with high card Ace
+Seat 2: dead.quant (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) showed [As 5s] and won (605) with a pair of Fives
+
+
+
+PokerStars Hand #247024045280: Tournament #3671185629, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/10 7:16:38 CET [2023/11/10 1:16:38 ET]
+Table '3671185629 1' 3-max Seat #3 is the button
+Seat 2: dead.quant (780 in chips) 
+Seat 3: Mahu2021 (720 in chips) 
+Mahu2021: posts small blind 15
+dead.quant: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d Jh]
+Mahu2021: calls 15
+dead.quant: raises 90 to 120
+Mahu2021: folds 
+Uncalled bet (90) returned to dead.quant
+dead.quant collected 60 from pot
+dead.quant: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: dead.quant (big blind) collected (60)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #247024046019: Tournament #3671185629, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/10 7:16:46 CET [2023/11/10 1:16:46 ET]
+Table '3671185629 1' 3-max Seat #2 is the button
+Seat 2: dead.quant (810 in chips) 
+Seat 3: Mahu2021 (690 in chips) 
+dead.quant: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s 6s]
+dead.quant: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 2: dead.quant (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (30)
+
+
+
+PokerStars Hand #247024046467: Tournament #3671185629, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/10 7:16:51 CET [2023/11/10 1:16:51 ET]
+Table '3671185629 1' 3-max Seat #3 is the button
+Seat 2: dead.quant (795 in chips) 
+Seat 3: Mahu2021 (705 in chips) 
+Mahu2021: posts small blind 15
+dead.quant: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh 9d]
+Mahu2021: calls 15
+dead.quant: checks 
+*** FLOP *** [7d Ah 9h]
+dead.quant: checks 
+Mahu2021: bets 30
+dead.quant: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [7d Ah 9h]
+Seat 2: dead.quant (big blind) folded on the Flop
+Seat 3: Mahu2021 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #247024047752: Tournament #3671185629, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/11/10 7:17:03 CET [2023/11/10 1:17:03 ET]
+Table '3671185629 1' 3-max Seat #2 is the button
+Seat 2: dead.quant (765 in chips) 
+Seat 3: Mahu2021 (735 in chips) 
+dead.quant: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qd 4h]
+dead.quant: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: dead.quant (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (40)
+
+
+
+PokerStars Hand #247024048184: Tournament #3671185629, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/11/10 7:17:08 CET [2023/11/10 1:17:08 ET]
+Table '3671185629 1' 3-max Seat #3 is the button
+Seat 2: dead.quant (745 in chips) 
+Seat 3: Mahu2021 (755 in chips) 
+Mahu2021: posts small blind 20
+dead.quant: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d Qd]
+Mahu2021: raises 40 to 80
+dead.quant: raises 120 to 200
+Mahu2021: calls 120
+*** FLOP *** [4c 5c 6h]
+dead.quant: bets 545 and is all-in
+Mahu2021: calls 545
+*** TURN *** [4c 5c 6h] [8c]
+*** RIVER *** [4c 5c 6h 8c] [5d]
+*** SHOW DOWN ***
+dead.quant: shows [Ad Qh] (a pair of Fives)
+Mahu2021: shows [6d Qd] (two pair, Sixes and Fives)
+Mahu2021 collected 1490 from pot
+dead.quant finished the tournament in 2nd place
+Mahu2021 wins the tournament and receives $6.00 - congratulations!
+*** SUMMARY ***
+Total pot 1490 | Rake 0 
+Board [4c 5c 6h 8c 5d]
+Seat 2: dead.quant (big blind) showed [Ad Qh] and lost with a pair of Fives
+Seat 3: Mahu2021 (button) (small blind) showed [6d Qd] and won (1490) with two pair, Sixes and Fives
+
+
+

@@ -1,0 +1,420 @@
+﻿PokerStars Hand #244604769121: Tournament #3612134093, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/07/03 18:47:24 CET [2023/07/03 12:47:24 ET]
+Table '3612134093 1' 3-max Seat #1 is the button
+Seat 1: Awuem (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: EisteePeach90 (500 in chips) 
+Mahu2021: posts small blind 10
+EisteePeach90: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h 7c]
+Awuem: calls 20
+Mahu2021: folds 
+EisteePeach90: checks 
+*** FLOP *** [3c Ks 7d]
+EisteePeach90: bets 20
+Awuem: calls 20
+*** TURN *** [3c Ks 7d] [5s]
+EisteePeach90: bets 20
+Awuem: calls 20
+*** RIVER *** [3c Ks 7d 5s] [9c]
+EisteePeach90: checks 
+Awuem: bets 65
+EisteePeach90: folds 
+Uncalled bet (65) returned to Awuem
+Awuem collected 130 from pot
+*** SUMMARY ***
+Total pot 130 | Rake 0 
+Board [3c Ks 7d 5s 9c]
+Seat 1: Awuem (button) collected (130)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: EisteePeach90 (big blind) folded on the River
+
+
+
+PokerStars Hand #244604775866: Tournament #3612134093, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/07/03 18:47:47 CET [2023/07/03 12:47:47 ET]
+Table '3612134093 1' 3-max Seat #2 is the button
+Seat 1: Awuem (570 in chips) 
+Seat 2: Mahu2021 (490 in chips) 
+Seat 3: EisteePeach90 (440 in chips) 
+EisteePeach90: posts small blind 10
+Awuem: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4d Ts]
+Mahu2021: folds 
+EisteePeach90: calls 10
+Awuem: checks 
+*** FLOP *** [3d 8d 6h]
+EisteePeach90: checks 
+Awuem: checks 
+*** TURN *** [3d 8d 6h] [Ah]
+EisteePeach90: checks 
+Awuem: checks 
+*** RIVER *** [3d 8d 6h Ah] [As]
+EisteePeach90: checks 
+Awuem: checks 
+*** SHOW DOWN ***
+EisteePeach90: shows [Jc 9s] (a pair of Aces)
+Awuem: shows [Qc 9c] (a pair of Aces - Queen kicker)
+Awuem collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [3d 8d 6h Ah As]
+Seat 1: Awuem (big blind) showed [Qc 9c] and won (40) with a pair of Aces
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: EisteePeach90 (small blind) showed [Jc 9s] and lost with a pair of Aces
+
+
+
+PokerStars Hand #244604780722: Tournament #3612134093, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/07/03 18:48:03 CET [2023/07/03 12:48:03 ET]
+Table '3612134093 1' 3-max Seat #3 is the button
+Seat 1: Awuem (590 in chips) 
+Seat 2: Mahu2021 (490 in chips) 
+Seat 3: EisteePeach90 (420 in chips) 
+Awuem: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As 6h]
+EisteePeach90: calls 20
+Awuem: calls 10
+Mahu2021: checks 
+*** FLOP *** [Th 9h Qc]
+Awuem: bets 30
+Mahu2021: folds 
+EisteePeach90: raises 30 to 60
+Awuem: calls 30
+*** TURN *** [Th 9h Qc] [2d]
+Awuem: checks 
+EisteePeach90: bets 20
+Awuem: calls 20
+*** RIVER *** [Th 9h Qc 2d] [7d]
+Awuem: checks 
+EisteePeach90: checks 
+*** SHOW DOWN ***
+Awuem: shows [Jc 7c] (a pair of Sevens)
+EisteePeach90: mucks hand 
+Awuem collected 220 from pot
+*** SUMMARY ***
+Total pot 220 | Rake 0 
+Board [Th 9h Qc 2d 7d]
+Seat 1: Awuem (small blind) showed [Jc 7c] and won (220) with a pair of Sevens
+Seat 2: Mahu2021 (big blind) folded on the Flop
+Seat 3: EisteePeach90 (button) mucked [4h Kh]
+
+
+
+PokerStars Hand #244604788801: Tournament #3612134093, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/07/03 18:48:30 CET [2023/07/03 12:48:30 ET]
+Table '3612134093 1' 3-max Seat #1 is the button
+Seat 1: Awuem (710 in chips) 
+Seat 2: Mahu2021 (470 in chips) 
+Seat 3: EisteePeach90 (320 in chips) 
+Mahu2021: posts small blind 10
+EisteePeach90: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2c Jc]
+Awuem: folds 
+Mahu2021: calls 10
+EisteePeach90: checks 
+*** FLOP *** [4h Jd 9c]
+Mahu2021: bets 20
+EisteePeach90: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [4h Jd 9c]
+Seat 1: Awuem (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) collected (40)
+Seat 3: EisteePeach90 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #244604792084: Tournament #3612134093, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/07/03 18:48:42 CET [2023/07/03 12:48:42 ET]
+Table '3612134093 1' 3-max Seat #2 is the button
+Seat 1: Awuem (710 in chips) 
+Seat 2: Mahu2021 (490 in chips) 
+Seat 3: EisteePeach90 (300 in chips) 
+EisteePeach90: posts small blind 10
+Awuem: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js Jc]
+Mahu2021: raises 470 to 490 and is all-in
+EisteePeach90: calls 290 and is all-in
+Awuem: calls 470
+*** FLOP *** [4s 6s 9s]
+*** TURN *** [4s 6s 9s] [2h]
+*** RIVER *** [4s 6s 9s 2h] [As]
+*** SHOW DOWN ***
+Awuem: shows [Kc Ad] (a pair of Aces)
+Mahu2021: shows [Js Jc] (a flush, Ace high)
+Mahu2021 collected 380 from side pot
+EisteePeach90: shows [Kd Qs] (a flush, Ace high - Queen higher)
+EisteePeach90 collected 900 from main pot
+*** SUMMARY ***
+Total pot 1280 Main pot 900. Side pot 380. | Rake 0 
+Board [4s 6s 9s 2h As]
+Seat 1: Awuem (big blind) showed [Kc Ad] and lost with a pair of Aces
+Seat 2: Mahu2021 (button) showed [Js Jc] and won (380) with a flush, Ace high
+Seat 3: EisteePeach90 (small blind) showed [Kd Qs] and won (900) with a flush, Ace high
+
+
+
+PokerStars Hand #244604796537: Tournament #3612134093, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/07/03 18:48:56 CET [2023/07/03 12:48:56 ET]
+Table '3612134093 1' 3-max Seat #3 is the button
+Seat 1: Awuem (220 in chips) 
+Seat 2: Mahu2021 (380 in chips) 
+Seat 3: EisteePeach90 (900 in chips) 
+Awuem: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5h Ah]
+EisteePeach90: raises 20 to 40
+Awuem: raises 100 to 140
+Mahu2021: raises 240 to 380 and is all-in
+EisteePeach90: calls 340
+Awuem: calls 80 and is all-in
+*** FLOP *** [Qh 3s 3d]
+*** TURN *** [Qh 3s 3d] [2c]
+*** RIVER *** [Qh 3s 3d 2c] [9s]
+*** SHOW DOWN ***
+Mahu2021: shows [5h Ah] (a pair of Threes)
+EisteePeach90: shows [Jc Tc] (a pair of Threes - lower kicker)
+Mahu2021 collected 320 from side pot
+Awuem: shows [Ks Jd] (a pair of Threes - lower kicker)
+Mahu2021 collected 660 from main pot
+Awuem finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 980 Main pot 660. Side pot 320. | Rake 0 
+Board [Qh 3s 3d 2c 9s]
+Seat 1: Awuem (small blind) showed [Ks Jd] and lost with a pair of Threes
+Seat 2: Mahu2021 (big blind) showed [5h Ah] and won (980) with a pair of Threes
+Seat 3: EisteePeach90 (button) showed [Jc Tc] and lost with a pair of Threes
+
+
+
+PokerStars Hand #244604804213: Tournament #3612134093, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/07/03 18:49:22 CET [2023/07/03 12:49:22 ET]
+Table '3612134093 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (980 in chips) 
+Seat 3: EisteePeach90 (520 in chips) 
+Mahu2021: posts small blind 10
+EisteePeach90: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d Ac]
+Mahu2021: calls 10
+EisteePeach90: checks 
+*** FLOP *** [Kc 4h 7h]
+EisteePeach90: checks 
+Mahu2021: bets 40
+EisteePeach90: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Kc 4h 7h]
+Seat 2: Mahu2021 (button) (small blind) collected (40)
+Seat 3: EisteePeach90 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #244604807294: Tournament #3612134093, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/07/03 18:49:33 CET [2023/07/03 12:49:33 ET]
+Table '3612134093 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (1000 in chips) 
+Seat 3: EisteePeach90 (500 in chips) 
+EisteePeach90: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd 3c]
+EisteePeach90: raises 20 to 40
+Mahu2021: folds 
+Uncalled bet (20) returned to EisteePeach90
+EisteePeach90 collected 40 from pot
+EisteePeach90: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: EisteePeach90 (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #244604809450: Tournament #3612134093, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/07/03 18:49:40 CET [2023/07/03 12:49:40 ET]
+Table '3612134093 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (980 in chips) 
+Seat 3: EisteePeach90 (520 in chips) 
+Mahu2021: posts small blind 10
+EisteePeach90: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh As]
+Mahu2021: raises 40 to 60
+EisteePeach90: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) collected (40)
+Seat 3: EisteePeach90 (big blind) folded before Flop
+
+
+
+PokerStars Hand #244604811418: Tournament #3612134093, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/07/03 18:49:47 CET [2023/07/03 12:49:47 ET]
+Table '3612134093 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (1000 in chips) 
+Seat 3: EisteePeach90 (500 in chips) 
+EisteePeach90: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d Qs]
+EisteePeach90: raises 20 to 40
+Mahu2021: folds 
+Uncalled bet (20) returned to EisteePeach90
+EisteePeach90 collected 40 from pot
+EisteePeach90: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: EisteePeach90 (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #244604813206: Tournament #3612134093, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/07/03 18:49:53 CET [2023/07/03 12:49:53 ET]
+Table '3612134093 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (980 in chips) 
+Seat 3: EisteePeach90 (520 in chips) 
+Mahu2021: posts small blind 10
+EisteePeach90: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d 3h]
+Mahu2021: calls 10
+EisteePeach90: raises 20 to 40
+Mahu2021: calls 20
+*** FLOP *** [Ad Qd 3d]
+EisteePeach90: bets 80
+Mahu2021: calls 80
+*** TURN *** [Ad Qd 3d] [Tc]
+EisteePeach90: bets 240
+Mahu2021: raises 620 to 860 and is all-in
+EisteePeach90: calls 160 and is all-in
+Uncalled bet (460) returned to Mahu2021
+*** RIVER *** [Ad Qd 3d Tc] [2h]
+*** SHOW DOWN ***
+EisteePeach90: shows [As Qs] (two pair, Aces and Queens)
+Mahu2021: shows [2d 3h] (two pair, Threes and Deuces)
+EisteePeach90 collected 1040 from pot
+*** SUMMARY ***
+Total pot 1040 | Rake 0 
+Board [Ad Qd 3d Tc 2h]
+Seat 2: Mahu2021 (button) (small blind) showed [2d 3h] and lost with two pair, Threes and Deuces
+Seat 3: EisteePeach90 (big blind) showed [As Qs] and won (1040) with two pair, Aces and Queens
+
+
+
+PokerStars Hand #244604820284: Tournament #3612134093, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/07/03 18:50:17 CET [2023/07/03 12:50:17 ET]
+Table '3612134093 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (460 in chips) 
+Seat 3: EisteePeach90 (1040 in chips) 
+EisteePeach90: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c Th]
+EisteePeach90: calls 10
+Mahu2021: checks 
+*** FLOP *** [Kh 8d 8c]
+Mahu2021: checks 
+EisteePeach90: checks 
+*** TURN *** [Kh 8d 8c] [4d]
+Mahu2021: checks 
+EisteePeach90: checks 
+*** RIVER *** [Kh 8d 8c 4d] [Ah]
+Mahu2021: checks 
+EisteePeach90: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [7c Th] (a pair of Eights)
+EisteePeach90: shows [Js 2c] (a pair of Eights - Ace+King+Jack kicker)
+EisteePeach90 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Kh 8d 8c 4d Ah]
+Seat 2: Mahu2021 (big blind) showed [7c Th] and lost with a pair of Eights
+Seat 3: EisteePeach90 (button) (small blind) showed [Js 2c] and won (40) with a pair of Eights
+
+
+
+PokerStars Hand #244604825222: Tournament #3612134093, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/07/03 18:50:34 CET [2023/07/03 12:50:34 ET]
+Table '3612134093 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (440 in chips) 
+Seat 3: EisteePeach90 (1060 in chips) 
+Mahu2021: posts small blind 15
+EisteePeach90: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h Qc]
+Mahu2021: folds 
+Uncalled bet (15) returned to EisteePeach90
+EisteePeach90 collected 30 from pot
+EisteePeach90: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: EisteePeach90 (big blind) collected (30)
+
+
+
+PokerStars Hand #244604826429: Tournament #3612134093, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/07/03 18:50:38 CET [2023/07/03 12:50:38 ET]
+Table '3612134093 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (425 in chips) 
+Seat 3: EisteePeach90 (1075 in chips) 
+EisteePeach90: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8s 6h]
+EisteePeach90: calls 15
+Mahu2021: checks 
+*** FLOP *** [Ac Qc Jh]
+Mahu2021: checks 
+EisteePeach90: checks 
+*** TURN *** [Ac Qc Jh] [7d]
+Mahu2021: checks 
+EisteePeach90: bets 30
+Mahu2021: folds 
+Uncalled bet (30) returned to EisteePeach90
+EisteePeach90 collected 60 from pot
+EisteePeach90: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Ac Qc Jh 7d]
+Seat 2: Mahu2021 (big blind) folded on the Turn
+Seat 3: EisteePeach90 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #244604829780: Tournament #3612134093, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/07/03 18:50:50 CET [2023/07/03 12:50:50 ET]
+Table '3612134093 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (395 in chips) 
+Seat 3: EisteePeach90 (1105 in chips) 
+Mahu2021: posts small blind 15
+EisteePeach90: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h 8d]
+Mahu2021: calls 15
+EisteePeach90: raises 30 to 60
+Mahu2021: calls 30
+*** FLOP *** [9s Qc 4h]
+EisteePeach90: bets 30
+Mahu2021: raises 305 to 335 and is all-in
+EisteePeach90: calls 305
+*** TURN *** [9s Qc 4h] [2s]
+*** RIVER *** [9s Qc 4h 2s] [5d]
+*** SHOW DOWN ***
+EisteePeach90: shows [Ad As] (a pair of Aces)
+Mahu2021: shows [9h 8d] (a pair of Nines)
+EisteePeach90 collected 790 from pot
+Mahu2021 finished the tournament in 2nd place
+EisteePeach90 wins the tournament and receives $3.00 - congratulations!
+*** SUMMARY ***
+Total pot 790 | Rake 0 
+Board [9s Qc 4h 2s 5d]
+Seat 2: Mahu2021 (button) (small blind) showed [9h 8d] and lost with a pair of Nines
+Seat 3: EisteePeach90 (big blind) showed [Ad As] and won (790) with a pair of Aces
+
+
+

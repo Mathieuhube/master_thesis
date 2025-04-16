@@ -1,0 +1,834 @@
+﻿PokerStars Hand #250498594690: Tournament #3754437519, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/05/14 20:50:18 CET [2024/05/14 14:50:18 ET]
+Table '3754437519 1' 3-max Seat #1 is the button
+Seat 1: huaso725 (500 in chips) 
+Seat 2: cascavel2008 (500 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+cascavel2008: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac 5d]
+huaso725: folds 
+cascavel2008: raises 20 to 40
+Mahu2021: calls 20
+*** FLOP *** [6c Js 7c]
+cascavel2008: checks 
+Mahu2021: checks 
+*** TURN *** [6c Js 7c] [Qs]
+cascavel2008: checks 
+Mahu2021: checks 
+*** RIVER *** [6c Js 7c Qs] [3s]
+cascavel2008: bets 140
+Mahu2021: folds 
+Uncalled bet (140) returned to cascavel2008
+cascavel2008 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [6c Js 7c Qs 3s]
+Seat 1: huaso725 (button) folded before Flop (didn't bet)
+Seat 2: cascavel2008 (small blind) collected (80)
+Seat 3: Mahu2021 (big blind) folded on the River
+
+
+
+PokerStars Hand #250498603338: Tournament #3754437519, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/05/14 20:50:44 CET [2024/05/14 14:50:44 ET]
+Table '3754437519 1' 3-max Seat #2 is the button
+Seat 1: huaso725 (500 in chips) 
+Seat 2: cascavel2008 (540 in chips) 
+Seat 3: Mahu2021 (460 in chips) 
+Mahu2021: posts small blind 10
+huaso725: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Tc Qh]
+cascavel2008: folds 
+Mahu2021: raises 20 to 40
+huaso725: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: huaso725 (big blind) folded before Flop
+Seat 2: cascavel2008 (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) collected (40)
+
+
+
+PokerStars Hand #250498606364: Tournament #3754437519, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/05/14 20:50:52 CET [2024/05/14 14:50:52 ET]
+Table '3754437519 1' 3-max Seat #3 is the button
+Seat 1: huaso725 (480 in chips) 
+Seat 2: cascavel2008 (540 in chips) 
+Seat 3: Mahu2021 (480 in chips) 
+huaso725: posts small blind 10
+cascavel2008: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c Qd]
+Mahu2021: folds 
+huaso725: raises 40 to 60
+cascavel2008: folds 
+Uncalled bet (40) returned to huaso725
+huaso725 collected 40 from pot
+huaso725: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: huaso725 (small blind) collected (40)
+Seat 2: cascavel2008 (big blind) folded before Flop
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #250498609773: Tournament #3754437519, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/05/14 20:51:03 CET [2024/05/14 14:51:03 ET]
+Table '3754437519 1' 3-max Seat #1 is the button
+Seat 1: huaso725 (500 in chips) 
+Seat 2: cascavel2008 (520 in chips) 
+Seat 3: Mahu2021 (480 in chips) 
+cascavel2008: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d 9h]
+huaso725: folds 
+cascavel2008: raises 20 to 40
+Mahu2021: folds 
+Uncalled bet (20) returned to cascavel2008
+cascavel2008 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: huaso725 (button) folded before Flop (didn't bet)
+Seat 2: cascavel2008 (small blind) collected (40)
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #250498612980: Tournament #3754437519, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/05/14 20:51:12 CET [2024/05/14 14:51:12 ET]
+Table '3754437519 1' 3-max Seat #2 is the button
+Seat 1: huaso725 (500 in chips) 
+Seat 2: cascavel2008 (540 in chips) 
+Seat 3: Mahu2021 (460 in chips) 
+Mahu2021: posts small blind 10
+huaso725: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h Qh]
+cascavel2008: folds 
+Mahu2021: raises 20 to 40
+huaso725: calls 20
+*** FLOP *** [5h 8h 8d]
+Mahu2021: checks 
+huaso725: checks 
+*** TURN *** [5h 8h 8d] [9d]
+Mahu2021: bets 40
+huaso725: calls 40
+*** RIVER *** [5h 8h 8d 9d] [7d]
+Mahu2021: bets 160
+huaso725: folds 
+Uncalled bet (160) returned to Mahu2021
+Mahu2021 collected 160 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [5h 8h 8d 9d 7d]
+Seat 1: huaso725 (big blind) folded on the River
+Seat 2: cascavel2008 (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) collected (160)
+
+
+
+PokerStars Hand #250498632071: Tournament #3754437519, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/05/14 20:52:09 CET [2024/05/14 14:52:09 ET]
+Table '3754437519 1' 3-max Seat #3 is the button
+Seat 1: huaso725 (420 in chips) 
+Seat 2: cascavel2008 (540 in chips) 
+Seat 3: Mahu2021 (540 in chips) 
+huaso725: posts small blind 10
+cascavel2008: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s 5s]
+Mahu2021: folds 
+huaso725: calls 10
+cascavel2008: checks 
+*** FLOP *** [Kc Kd 7h]
+huaso725: checks 
+cascavel2008: bets 20
+huaso725: folds 
+Uncalled bet (20) returned to cascavel2008
+cascavel2008 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Kc Kd 7h]
+Seat 1: huaso725 (small blind) folded on the Flop
+Seat 2: cascavel2008 (big blind) collected (40)
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #250498637828: Tournament #3754437519, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/05/14 20:52:26 CET [2024/05/14 14:52:26 ET]
+Table '3754437519 1' 3-max Seat #1 is the button
+Seat 1: huaso725 (400 in chips) 
+Seat 2: cascavel2008 (560 in chips) 
+Seat 3: Mahu2021 (540 in chips) 
+cascavel2008: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Th 3s]
+huaso725: calls 20
+cascavel2008: calls 10
+Mahu2021: checks 
+*** FLOP *** [Js Ah Qh]
+cascavel2008: checks 
+Mahu2021: checks 
+huaso725: checks 
+*** TURN *** [Js Ah Qh] [9s]
+cascavel2008: checks 
+Mahu2021: checks 
+huaso725: checks 
+*** RIVER *** [Js Ah Qh 9s] [9c]
+cascavel2008: checks 
+Mahu2021: checks 
+huaso725: bets 20
+cascavel2008: folds 
+Mahu2021: folds 
+Uncalled bet (20) returned to huaso725
+huaso725 collected 60 from pot
+huaso725: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Js Ah Qh 9s 9c]
+Seat 1: huaso725 (button) collected (60)
+Seat 2: cascavel2008 (small blind) folded on the River
+Seat 3: Mahu2021 (big blind) folded on the River
+
+
+
+PokerStars Hand #250498648624: Tournament #3754437519, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/05/14 20:52:58 CET [2024/05/14 14:52:58 ET]
+Table '3754437519 1' 3-max Seat #2 is the button
+Seat 1: huaso725 (440 in chips) 
+Seat 2: cascavel2008 (540 in chips) 
+Seat 3: Mahu2021 (520 in chips) 
+Mahu2021: posts small blind 10
+huaso725: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc 3h]
+cascavel2008: raises 20 to 40
+Mahu2021: folds 
+huaso725: folds 
+Uncalled bet (20) returned to cascavel2008
+cascavel2008 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: huaso725 (big blind) folded before Flop
+Seat 2: cascavel2008 (button) collected (50)
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #250498650958: Tournament #3754437519, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/05/14 20:53:05 CET [2024/05/14 14:53:05 ET]
+Table '3754437519 1' 3-max Seat #3 is the button
+Seat 1: huaso725 (420 in chips) 
+Seat 2: cascavel2008 (570 in chips) 
+Seat 3: Mahu2021 (510 in chips) 
+huaso725: posts small blind 10
+cascavel2008: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Td 5d]
+Mahu2021: folds 
+huaso725: folds 
+Uncalled bet (10) returned to cascavel2008
+cascavel2008 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: huaso725 (small blind) folded before Flop
+Seat 2: cascavel2008 (big blind) collected (20)
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #250498652694: Tournament #3754437519, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/05/14 20:53:10 CET [2024/05/14 14:53:10 ET]
+Table '3754437519 1' 3-max Seat #1 is the button
+Seat 1: huaso725 (410 in chips) 
+Seat 2: cascavel2008 (580 in chips) 
+Seat 3: Mahu2021 (510 in chips) 
+cascavel2008: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s 3h]
+huaso725: folds 
+cascavel2008: raises 20 to 40
+Mahu2021: folds 
+Uncalled bet (20) returned to cascavel2008
+cascavel2008 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: huaso725 (button) folded before Flop (didn't bet)
+Seat 2: cascavel2008 (small blind) collected (40)
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #250498655519: Tournament #3754437519, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/05/14 20:53:19 CET [2024/05/14 14:53:19 ET]
+Table '3754437519 1' 3-max Seat #2 is the button
+Seat 1: huaso725 (410 in chips) 
+Seat 2: cascavel2008 (600 in chips) 
+Seat 3: Mahu2021 (490 in chips) 
+Mahu2021: posts small blind 10
+huaso725: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts 7h]
+cascavel2008: folds 
+Mahu2021: folds 
+Uncalled bet (10) returned to huaso725
+huaso725 collected 20 from pot
+huaso725: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: huaso725 (big blind) collected (20)
+Seat 2: cascavel2008 (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #250498658610: Tournament #3754437519, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/05/14 20:53:28 CET [2024/05/14 14:53:28 ET]
+Table '3754437519 1' 3-max Seat #3 is the button
+Seat 1: huaso725 (420 in chips) 
+Seat 2: cascavel2008 (600 in chips) 
+Seat 3: Mahu2021 (480 in chips) 
+huaso725: posts small blind 15
+cascavel2008: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s 2c]
+Mahu2021: folds 
+huaso725: calls 15
+cascavel2008: checks 
+*** FLOP *** [7h 3c Kh]
+huaso725: checks 
+cascavel2008: checks 
+*** TURN *** [7h 3c Kh] [9c]
+huaso725: checks 
+cascavel2008: checks 
+*** RIVER *** [7h 3c Kh 9c] [Kd]
+huaso725: checks 
+cascavel2008: bets 90
+huaso725: folds 
+Uncalled bet (90) returned to cascavel2008
+cascavel2008 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [7h 3c Kh 9c Kd]
+Seat 1: huaso725 (small blind) folded on the River
+Seat 2: cascavel2008 (big blind) collected (60)
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #250498666588: Tournament #3754437519, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/05/14 20:53:52 CET [2024/05/14 14:53:52 ET]
+Table '3754437519 1' 3-max Seat #1 is the button
+Seat 1: huaso725 (390 in chips) 
+Seat 2: cascavel2008 (630 in chips) 
+Seat 3: Mahu2021 (480 in chips) 
+cascavel2008: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5h Jh]
+huaso725: calls 30
+cascavel2008: calls 15
+Mahu2021: checks 
+*** FLOP *** [Tc 7c 7d]
+cascavel2008: checks 
+Mahu2021: checks 
+huaso725: checks 
+*** TURN *** [Tc 7c 7d] [Qs]
+cascavel2008: checks 
+Mahu2021: checks 
+huaso725: checks 
+*** RIVER *** [Tc 7c 7d Qs] [Ah]
+cascavel2008: checks 
+Mahu2021: checks 
+huaso725: checks 
+*** SHOW DOWN ***
+cascavel2008: shows [6d Qd] (two pair, Queens and Sevens)
+Mahu2021: mucks hand 
+huaso725: mucks hand 
+cascavel2008 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [Tc 7c 7d Qs Ah]
+Seat 1: huaso725 (button) mucked [Js 5s]
+Seat 2: cascavel2008 (small blind) showed [6d Qd] and won (90) with two pair, Queens and Sevens
+Seat 3: Mahu2021 (big blind) mucked [5h Jh]
+
+
+
+PokerStars Hand #250498676144: Tournament #3754437519, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/05/14 20:54:21 CET [2024/05/14 14:54:21 ET]
+Table '3754437519 1' 3-max Seat #2 is the button
+Seat 1: huaso725 (360 in chips) 
+Seat 2: cascavel2008 (690 in chips) 
+Seat 3: Mahu2021 (450 in chips) 
+Mahu2021: posts small blind 15
+huaso725: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d 3d]
+cascavel2008: raises 30 to 60
+Mahu2021: folds 
+huaso725: folds 
+Uncalled bet (30) returned to cascavel2008
+cascavel2008 collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: huaso725 (big blind) folded before Flop
+Seat 2: cascavel2008 (button) collected (75)
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #250498678278: Tournament #3754437519, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/05/14 20:54:27 CET [2024/05/14 14:54:27 ET]
+Table '3754437519 1' 3-max Seat #3 is the button
+Seat 1: huaso725 (330 in chips) 
+Seat 2: cascavel2008 (735 in chips) 
+Seat 3: Mahu2021 (435 in chips) 
+huaso725: posts small blind 15
+cascavel2008: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s 9c]
+Mahu2021: raises 30 to 60
+huaso725: raises 60 to 120
+cascavel2008: folds 
+Mahu2021: raises 315 to 435 and is all-in
+huaso725: calls 210 and is all-in
+Uncalled bet (105) returned to Mahu2021
+*** FLOP *** [4d 3s 3h]
+*** TURN *** [4d 3s 3h] [9h]
+*** RIVER *** [4d 3s 3h 9h] [Ts]
+*** SHOW DOWN ***
+huaso725: shows [Ac Kh] (a pair of Threes)
+Mahu2021: shows [9s 9c] (a full house, Nines full of Threes)
+Mahu2021 collected 690 from pot
+huaso725 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 690 | Rake 0 
+Board [4d 3s 3h 9h Ts]
+Seat 1: huaso725 (small blind) showed [Ac Kh] and lost with a pair of Threes
+Seat 2: cascavel2008 (big blind) folded before Flop
+Seat 3: Mahu2021 (button) showed [9s 9c] and won (690) with a full house, Nines full of Threes
+
+
+
+PokerStars Hand #250498687088: Tournament #3754437519, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/05/14 20:54:53 CET [2024/05/14 14:54:53 ET]
+Table '3754437519 1' 3-max Seat #2 is the button
+Seat 2: cascavel2008 (705 in chips) 
+Seat 3: Mahu2021 (795 in chips) 
+cascavel2008: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kc 5h]
+cascavel2008: raises 30 to 60
+Mahu2021: calls 30
+*** FLOP *** [5s 2s 4h]
+Mahu2021: checks 
+cascavel2008: checks 
+*** TURN *** [5s 2s 4h] [2h]
+Mahu2021: bets 60
+cascavel2008: calls 60
+*** RIVER *** [5s 2s 4h 2h] [9h]
+Mahu2021: checks 
+cascavel2008: bets 300
+Mahu2021: calls 300
+*** SHOW DOWN ***
+cascavel2008: shows [Ts As] (a pair of Deuces)
+Mahu2021: shows [Kc 5h] (two pair, Fives and Deuces)
+Mahu2021 collected 840 from pot
+*** SUMMARY ***
+Total pot 840 | Rake 0 
+Board [5s 2s 4h 2h 9h]
+Seat 2: cascavel2008 (button) (small blind) showed [Ts As] and lost with a pair of Deuces
+Seat 3: Mahu2021 (big blind) showed [Kc 5h] and won (840) with two pair, Fives and Deuces
+
+
+
+PokerStars Hand #250498696552: Tournament #3754437519, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/05/14 20:55:27 CET [2024/05/14 14:55:27 ET]
+Table '3754437519 1' 3-max Seat #3 is the button
+Seat 2: cascavel2008 (285 in chips) 
+Seat 3: Mahu2021 (1215 in chips) 
+Mahu2021: posts small blind 15
+cascavel2008: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c 8s]
+Mahu2021: calls 15
+cascavel2008: raises 255 to 285 and is all-in
+Mahu2021: folds 
+Uncalled bet (255) returned to cascavel2008
+cascavel2008 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: cascavel2008 (big blind) collected (60)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #250498698390: Tournament #3754437519, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/05/14 20:55:35 CET [2024/05/14 14:55:35 ET]
+Table '3754437519 1' 3-max Seat #2 is the button
+Seat 2: cascavel2008 (315 in chips) 
+Seat 3: Mahu2021 (1185 in chips) 
+cascavel2008: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kc 7c]
+cascavel2008: raises 285 to 315 and is all-in
+Mahu2021: calls 285
+*** FLOP *** [2h Jd 6c]
+*** TURN *** [2h Jd 6c] [5c]
+*** RIVER *** [2h Jd 6c 5c] [2d]
+*** SHOW DOWN ***
+Mahu2021: shows [Kc 7c] (a pair of Deuces)
+cascavel2008: shows [8c 8d] (two pair, Eights and Deuces)
+cascavel2008 collected 630 from pot
+*** SUMMARY ***
+Total pot 630 | Rake 0 
+Board [2h Jd 6c 5c 2d]
+Seat 2: cascavel2008 (button) (small blind) showed [8c 8d] and won (630) with two pair, Eights and Deuces
+Seat 3: Mahu2021 (big blind) showed [Kc 7c] and lost with a pair of Deuces
+
+
+
+PokerStars Hand #250498701534: Tournament #3754437519, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/05/14 20:55:50 CET [2024/05/14 14:55:50 ET]
+Table '3754437519 1' 3-max Seat #3 is the button
+Seat 2: cascavel2008 (630 in chips) 
+Seat 3: Mahu2021 (870 in chips) 
+Mahu2021: posts small blind 15
+cascavel2008: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4c Ah]
+Mahu2021: raises 840 to 870 and is all-in
+cascavel2008: folds 
+Uncalled bet (840) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: cascavel2008 (big blind) folded before Flop
+Seat 3: Mahu2021 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #250498703225: Tournament #3754437519, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/05/14 20:55:58 CET [2024/05/14 14:55:58 ET]
+Table '3754437519 1' 3-max Seat #2 is the button
+Seat 2: cascavel2008 (600 in chips) 
+Seat 3: Mahu2021 (900 in chips) 
+cascavel2008: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8c 7h]
+cascavel2008: raises 30 to 60
+Mahu2021: calls 30
+*** FLOP *** [3h Kh 8s]
+Mahu2021: checks 
+cascavel2008: bets 60
+Mahu2021: calls 60
+*** TURN *** [3h Kh 8s] [Jh]
+Mahu2021: checks 
+cascavel2008: checks 
+*** RIVER *** [3h Kh 8s Jh] [7d]
+Mahu2021: bets 240
+cascavel2008: folds 
+Uncalled bet (240) returned to Mahu2021
+Mahu2021 collected 240 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [3h Kh 8s Jh 7d]
+Seat 2: cascavel2008 (button) (small blind) folded on the River
+Seat 3: Mahu2021 (big blind) collected (240)
+
+
+
+PokerStars Hand #250498709218: Tournament #3754437519, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/05/14 20:56:26 CET [2024/05/14 14:56:26 ET]
+Table '3754437519 1' 3-max Seat #3 is the button
+Seat 2: cascavel2008 (480 in chips) 
+Seat 3: Mahu2021 (1020 in chips) 
+Mahu2021: posts small blind 20
+cascavel2008: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c As]
+Mahu2021: raises 40 to 80
+cascavel2008: calls 40
+*** FLOP *** [6s Th Ks]
+cascavel2008: checks 
+Mahu2021: checks 
+*** TURN *** [6s Th Ks] [4d]
+cascavel2008: bets 120
+Mahu2021: folds 
+Uncalled bet (120) returned to cascavel2008
+cascavel2008 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [6s Th Ks 4d]
+Seat 2: cascavel2008 (big blind) collected (160)
+Seat 3: Mahu2021 (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #250498712829: Tournament #3754437519, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/05/14 20:56:42 CET [2024/05/14 14:56:42 ET]
+Table '3754437519 1' 3-max Seat #2 is the button
+Seat 2: cascavel2008 (560 in chips) 
+Seat 3: Mahu2021 (940 in chips) 
+cascavel2008: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h 8s]
+cascavel2008: raises 40 to 80
+Mahu2021: calls 40
+*** FLOP *** [2h Th Qd]
+Mahu2021: checks 
+cascavel2008: checks 
+*** TURN *** [2h Th Qd] [Js]
+Mahu2021: checks 
+cascavel2008: checks 
+*** RIVER *** [2h Th Qd Js] [Kh]
+Mahu2021: bets 80
+cascavel2008: folds 
+Uncalled bet (80) returned to Mahu2021
+Mahu2021 collected 160 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [2h Th Qd Js Kh]
+Seat 2: cascavel2008 (button) (small blind) folded on the River
+Seat 3: Mahu2021 (big blind) collected (160)
+
+
+
+PokerStars Hand #250498717657: Tournament #3754437519, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/05/14 20:57:04 CET [2024/05/14 14:57:04 ET]
+Table '3754437519 1' 3-max Seat #3 is the button
+Seat 2: cascavel2008 (480 in chips) 
+Seat 3: Mahu2021 (1020 in chips) 
+Mahu2021: posts small blind 20
+cascavel2008: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5h 9d]
+Mahu2021: folds 
+Uncalled bet (20) returned to cascavel2008
+cascavel2008 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: cascavel2008 (big blind) collected (40)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #250498718656: Tournament #3754437519, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/05/14 20:57:09 CET [2024/05/14 14:57:09 ET]
+Table '3754437519 1' 3-max Seat #2 is the button
+Seat 2: cascavel2008 (500 in chips) 
+Seat 3: Mahu2021 (1000 in chips) 
+cascavel2008: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4d As]
+cascavel2008: raises 460 to 500 and is all-in
+Mahu2021: folds 
+Uncalled bet (460) returned to cascavel2008
+cascavel2008 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: cascavel2008 (button) (small blind) collected (80)
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #250498720640: Tournament #3754437519, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/05/14 20:57:18 CET [2024/05/14 14:57:18 ET]
+Table '3754437519 1' 3-max Seat #3 is the button
+Seat 2: cascavel2008 (540 in chips) 
+Seat 3: Mahu2021 (960 in chips) 
+Mahu2021: posts small blind 20
+cascavel2008: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts 4c]
+Mahu2021: folds 
+Uncalled bet (20) returned to cascavel2008
+cascavel2008 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: cascavel2008 (big blind) collected (40)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #250498721652: Tournament #3754437519, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/05/14 20:57:22 CET [2024/05/14 14:57:22 ET]
+Table '3754437519 1' 3-max Seat #2 is the button
+Seat 2: cascavel2008 (560 in chips) 
+Seat 3: Mahu2021 (940 in chips) 
+cascavel2008: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Tc 6s]
+cascavel2008: raises 40 to 80
+Mahu2021: folds 
+Uncalled bet (40) returned to cascavel2008
+cascavel2008 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: cascavel2008 (button) (small blind) collected (80)
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #250498723052: Tournament #3754437519, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/05/14 20:57:29 CET [2024/05/14 14:57:29 ET]
+Table '3754437519 1' 3-max Seat #3 is the button
+Seat 2: cascavel2008 (600 in chips) 
+Seat 3: Mahu2021 (900 in chips) 
+Mahu2021: posts small blind 20
+cascavel2008: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad 8h]
+Mahu2021: raises 40 to 80
+cascavel2008: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: cascavel2008 (big blind) folded before Flop
+Seat 3: Mahu2021 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #250498724197: Tournament #3754437519, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/05/14 20:57:34 CET [2024/05/14 14:57:34 ET]
+Table '3754437519 1' 3-max Seat #2 is the button
+Seat 2: cascavel2008 (560 in chips) 
+Seat 3: Mahu2021 (940 in chips) 
+cascavel2008: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad 3c]
+cascavel2008: raises 40 to 80
+Mahu2021: calls 40
+*** FLOP *** [2h Qd 6h]
+Mahu2021: checks 
+cascavel2008: bets 75
+Mahu2021: folds 
+Uncalled bet (75) returned to cascavel2008
+cascavel2008 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [2h Qd 6h]
+Seat 2: cascavel2008 (button) (small blind) collected (160)
+Seat 3: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #250498727857: Tournament #3754437519, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/05/14 20:57:50 CET [2024/05/14 14:57:50 ET]
+Table '3754437519 1' 3-max Seat #3 is the button
+Seat 2: cascavel2008 (640 in chips) 
+Seat 3: Mahu2021 (860 in chips) 
+Mahu2021: posts small blind 20
+cascavel2008: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6h Kc]
+Mahu2021: raises 40 to 80
+cascavel2008: calls 40
+*** FLOP *** [3c 9c 9s]
+cascavel2008: bets 40
+Mahu2021: calls 40
+*** TURN *** [3c 9c 9s] [Tc]
+cascavel2008: checks 
+Mahu2021: bets 200
+cascavel2008: calls 200
+*** RIVER *** [3c 9c 9s Tc] [Kh]
+cascavel2008: bets 320 and is all-in
+Mahu2021: calls 320
+*** SHOW DOWN ***
+cascavel2008: shows [Jc 9h] (three of a kind, Nines)
+Mahu2021: shows [6h Kc] (two pair, Kings and Nines)
+cascavel2008 collected 1280 from pot
+*** SUMMARY ***
+Total pot 1280 | Rake 0 
+Board [3c 9c 9s Tc Kh]
+Seat 2: cascavel2008 (big blind) showed [Jc 9h] and won (1280) with three of a kind, Nines
+Seat 3: Mahu2021 (button) (small blind) showed [6h Kc] and lost with two pair, Kings and Nines
+
+
+
+PokerStars Hand #250498733296: Tournament #3754437519, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/05/14 20:58:14 CET [2024/05/14 14:58:14 ET]
+Table '3754437519 1' 3-max Seat #2 is the button
+Seat 2: cascavel2008 (1280 in chips) 
+Seat 3: Mahu2021 (220 in chips) 
+cascavel2008: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c 3c]
+cascavel2008: raises 80 to 120
+Mahu2021: raises 100 to 220 and is all-in
+cascavel2008: calls 100
+*** FLOP *** [8c 5h Ah]
+*** TURN *** [8c 5h Ah] [Td]
+*** RIVER *** [8c 5h Ah Td] [Tc]
+*** SHOW DOWN ***
+Mahu2021: shows [5c 3c] (two pair, Tens and Fives)
+cascavel2008: shows [Kd 9c] (a pair of Tens)
+Mahu2021 collected 440 from pot
+*** SUMMARY ***
+Total pot 440 | Rake 0 
+Board [8c 5h Ah Td Tc]
+Seat 2: cascavel2008 (button) (small blind) showed [Kd 9c] and lost with a pair of Tens
+Seat 3: Mahu2021 (big blind) showed [5c 3c] and won (440) with two pair, Tens and Fives
+
+
+
+PokerStars Hand #250498736425: Tournament #3754437519, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/05/14 20:58:29 CET [2024/05/14 14:58:29 ET]
+Table '3754437519 1' 3-max Seat #3 is the button
+Seat 2: cascavel2008 (1060 in chips) 
+Seat 3: Mahu2021 (440 in chips) 
+Mahu2021: posts small blind 20
+cascavel2008: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah Kc]
+Mahu2021: calls 20
+cascavel2008: checks 
+*** FLOP *** [7s Kd 4c]
+cascavel2008: checks 
+Mahu2021: checks 
+*** TURN *** [7s Kd 4c] [2s]
+cascavel2008: checks 
+Mahu2021: checks 
+*** RIVER *** [7s Kd 4c 2s] [4s]
+cascavel2008: checks 
+Mahu2021: bets 400 and is all-in
+cascavel2008: folds 
+Uncalled bet (400) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [7s Kd 4c 2s 4s]
+Seat 2: cascavel2008 (big blind) folded on the River
+Seat 3: Mahu2021 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #250498739985: Tournament #3754437519, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/05/14 20:58:44 CET [2024/05/14 14:58:44 ET]
+Table '3754437519 1' 3-max Seat #2 is the button
+Seat 2: cascavel2008 (1020 in chips) 
+Seat 3: Mahu2021 (480 in chips) 
+cascavel2008: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s 5d]
+cascavel2008: raises 40 to 80
+Mahu2021: calls 40
+*** FLOP *** [As Tc 6d]
+Mahu2021: checks 
+cascavel2008: checks 
+*** TURN *** [As Tc 6d] [Jd]
+Mahu2021: checks 
+cascavel2008: checks 
+*** RIVER *** [As Tc 6d Jd] [9s]
+Mahu2021: bets 400 and is all-in
+cascavel2008: calls 400
+*** SHOW DOWN ***
+Mahu2021: shows [4s 5d] (high card Ace)
+cascavel2008: shows [9c 9d] (three of a kind, Nines)
+cascavel2008 collected 960 from pot
+Mahu2021 finished the tournament in 2nd place
+cascavel2008 wins the tournament and receives $6.00 - congratulations!
+*** SUMMARY ***
+Total pot 960 | Rake 0 
+Board [As Tc 6d Jd 9s]
+Seat 2: cascavel2008 (button) (small blind) showed [9c 9d] and won (960) with three of a kind, Nines
+Seat 3: Mahu2021 (big blind) showed [4s 5d] and lost with high card Ace
+
+
+

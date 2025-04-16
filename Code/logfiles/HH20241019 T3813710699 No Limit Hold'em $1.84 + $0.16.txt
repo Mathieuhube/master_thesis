@@ -1,0 +1,700 @@
+﻿PokerStars Hand #253002000986: Tournament #3813710699, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/19 16:25:29 CET [2024/10/19 10:25:29 ET]
+Table '3813710699 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: Martchelus (500 in chips) 
+Seat 3: Saboniukas (500 in chips) 
+Martchelus: posts small blind 10
+Saboniukas: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h 6s]
+Mahu2021: folds 
+Martchelus: folds 
+Uncalled bet (10) returned to Saboniukas
+Saboniukas collected 20 from pot
+Saboniukas: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: Martchelus (small blind) folded before Flop
+Seat 3: Saboniukas (big blind) collected (20)
+
+
+
+PokerStars Hand #253002002299: Tournament #3813710699, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/19 16:25:35 CET [2024/10/19 10:25:35 ET]
+Table '3813710699 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: Martchelus (490 in chips) 
+Seat 3: Saboniukas (510 in chips) 
+Saboniukas: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d 6s]
+Martchelus: calls 20
+Saboniukas: calls 10
+Mahu2021: checks 
+*** FLOP *** [Kc 3c 5d]
+Saboniukas: checks 
+Mahu2021: checks 
+Martchelus: bets 60
+Saboniukas: raises 80 to 140
+Mahu2021: folds 
+Martchelus: calls 80
+*** TURN *** [Kc 3c 5d] [6h]
+Saboniukas: bets 170
+Martchelus: calls 170
+*** RIVER *** [Kc 3c 5d 6h] [4d]
+Saboniukas: bets 180 and is all-in
+Martchelus: calls 160 and is all-in
+Uncalled bet (20) returned to Saboniukas
+*** SHOW DOWN ***
+Saboniukas: shows [3d Kd] (two pair, Kings and Threes)
+Martchelus: shows [7c Tc] (a straight, Three to Seven)
+Martchelus collected 1000 from pot
+*** SUMMARY ***
+Total pot 1000 | Rake 0 
+Board [Kc 3c 5d 6h 4d]
+Seat 1: Mahu2021 (big blind) folded on the Flop
+Seat 2: Martchelus (button) showed [7c Tc] and won (1000) with a straight, Three to Seven
+Seat 3: Saboniukas (small blind) showed [3d Kd] and lost with two pair, Kings and Threes
+
+
+
+PokerStars Hand #253002009865: Tournament #3813710699, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/19 16:26:11 CET [2024/10/19 10:26:11 ET]
+Table '3813710699 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (480 in chips) 
+Seat 2: Martchelus (1000 in chips) 
+Seat 3: Saboniukas (20 in chips) 
+Mahu2021: posts small blind 10
+Martchelus: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s 2c]
+Saboniukas: calls 20 and is all-in
+Mahu2021: folds 
+*** FLOP *** [Jh 3h 4s]
+*** TURN *** [Jh 3h 4s] [8s]
+*** RIVER *** [Jh 3h 4s 8s] [Kd]
+*** SHOW DOWN ***
+Martchelus: shows [3d 8c] (two pair, Eights and Threes)
+Saboniukas: shows [3s Jd] (two pair, Jacks and Threes)
+Saboniukas collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [Jh 3h 4s 8s Kd]
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: Martchelus (big blind) showed [3d 8c] and lost with two pair, Eights and Threes
+Seat 3: Saboniukas (button) showed [3s Jd] and won (50) with two pair, Jacks and Threes
+
+
+
+PokerStars Hand #253002012197: Tournament #3813710699, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/19 16:26:22 CET [2024/10/19 10:26:22 ET]
+Table '3813710699 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (470 in chips) 
+Seat 2: Martchelus (980 in chips) 
+Seat 3: Saboniukas (50 in chips) 
+Martchelus: posts small blind 10
+Saboniukas: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2s 2h]
+Mahu2021: calls 20
+Martchelus: calls 10
+Saboniukas: raises 30 to 50 and is all-in
+Mahu2021: calls 30
+Martchelus: calls 30
+*** FLOP *** [8d 3s 6c]
+Martchelus: checks 
+Mahu2021: checks 
+*** TURN *** [8d 3s 6c] [7c]
+Martchelus: checks 
+Mahu2021: checks 
+*** RIVER *** [8d 3s 6c 7c] [Jc]
+Martchelus: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+Martchelus: shows [As Qh] (high card Ace)
+Saboniukas: shows [7d Qc] (a pair of Sevens)
+Mahu2021: mucks hand 
+Saboniukas collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Board [8d 3s 6c 7c Jc]
+Seat 1: Mahu2021 (button) mucked [2s 2h]
+Seat 2: Martchelus (small blind) showed [As Qh] and lost with high card Ace
+Seat 3: Saboniukas (big blind) showed [7d Qc] and won (150) with a pair of Sevens
+
+
+
+PokerStars Hand #253002016180: Tournament #3813710699, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/19 16:26:40 CET [2024/10/19 10:26:40 ET]
+Table '3813710699 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (420 in chips) 
+Seat 2: Martchelus (930 in chips) 
+Seat 3: Saboniukas (150 in chips) 
+Saboniukas: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc Ac]
+Martchelus: calls 20
+Saboniukas: folds 
+Mahu2021: raises 400 to 420 and is all-in
+Martchelus: folds 
+Uncalled bet (400) returned to Mahu2021
+Mahu2021 collected 50 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (50)
+Seat 2: Martchelus (button) folded before Flop
+Seat 3: Saboniukas (small blind) folded before Flop
+
+
+
+PokerStars Hand #253002018143: Tournament #3813710699, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/19 16:26:49 CET [2024/10/19 10:26:49 ET]
+Table '3813710699 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (450 in chips) 
+Seat 2: Martchelus (910 in chips) 
+Seat 3: Saboniukas (140 in chips) 
+Mahu2021: posts small blind 10
+Martchelus: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8s Qs]
+Saboniukas: folds 
+Mahu2021: calls 10
+Martchelus: checks 
+*** FLOP *** [Kc 8d 2h]
+Mahu2021: bets 20
+Martchelus: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Kc 8d 2h]
+Seat 1: Mahu2021 (small blind) collected (40)
+Seat 2: Martchelus (big blind) folded on the Flop
+Seat 3: Saboniukas (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253002021058: Tournament #3813710699, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/19 16:27:03 CET [2024/10/19 10:27:03 ET]
+Table '3813710699 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (470 in chips) 
+Seat 2: Martchelus (890 in chips) 
+Seat 3: Saboniukas (140 in chips) 
+Martchelus: posts small blind 10
+Saboniukas: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qs 3s]
+Mahu2021: raises 20 to 40
+Martchelus: folds 
+Saboniukas: raises 100 to 140 and is all-in
+Mahu2021: calls 100
+*** FLOP *** [6d Ts 8s]
+*** TURN *** [6d Ts 8s] [Tc]
+*** RIVER *** [6d Ts 8s Tc] [5c]
+*** SHOW DOWN ***
+Saboniukas: shows [As 9s] (a pair of Tens)
+Mahu2021: shows [Qs 3s] (a pair of Tens - lower kicker)
+Saboniukas collected 290 from pot
+*** SUMMARY ***
+Total pot 290 | Rake 0 
+Board [6d Ts 8s Tc 5c]
+Seat 1: Mahu2021 (button) showed [Qs 3s] and lost with a pair of Tens
+Seat 2: Martchelus (small blind) folded before Flop
+Seat 3: Saboniukas (big blind) showed [As 9s] and won (290) with a pair of Tens
+
+
+
+PokerStars Hand #253002024296: Tournament #3813710699, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/19 16:27:18 CET [2024/10/19 10:27:18 ET]
+Table '3813710699 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (330 in chips) 
+Seat 2: Martchelus (880 in chips) 
+Seat 3: Saboniukas (290 in chips) 
+Saboniukas: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh 5d]
+Martchelus: folds 
+Saboniukas: calls 10
+Mahu2021: checks 
+*** FLOP *** [9c 8d 9s]
+Saboniukas: checks 
+Mahu2021: checks 
+*** TURN *** [9c 8d 9s] [Qc]
+Saboniukas: checks 
+Mahu2021: checks 
+*** RIVER *** [9c 8d 9s Qc] [Jd]
+Saboniukas: bets 20
+Mahu2021: folds 
+Uncalled bet (20) returned to Saboniukas
+Saboniukas collected 40 from pot
+Saboniukas: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [9c 8d 9s Qc Jd]
+Seat 1: Mahu2021 (big blind) folded on the River
+Seat 2: Martchelus (button) folded before Flop (didn't bet)
+Seat 3: Saboniukas (small blind) collected (40)
+
+
+
+PokerStars Hand #253002028702: Tournament #3813710699, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/19 16:27:39 CET [2024/10/19 10:27:39 ET]
+Table '3813710699 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (310 in chips) 
+Seat 2: Martchelus (880 in chips) 
+Seat 3: Saboniukas (310 in chips) 
+Mahu2021: posts small blind 15
+Martchelus: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts 9s]
+Saboniukas: folds 
+Mahu2021: calls 15
+Martchelus: checks 
+*** FLOP *** [4s 9c Tc]
+Mahu2021: bets 30
+Martchelus: raises 120 to 150
+Mahu2021: raises 130 to 280 and is all-in
+Martchelus: calls 130
+*** TURN *** [4s 9c Tc] [8s]
+*** RIVER *** [4s 9c Tc 8s] [Kd]
+*** SHOW DOWN ***
+Mahu2021: shows [Ts 9s] (two pair, Tens and Nines)
+Martchelus: shows [Th 2d] (a pair of Tens)
+Mahu2021 collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | Rake 0 
+Board [4s 9c Tc 8s Kd]
+Seat 1: Mahu2021 (small blind) showed [Ts 9s] and won (620) with two pair, Tens and Nines
+Seat 2: Martchelus (big blind) showed [Th 2d] and lost with a pair of Tens
+Seat 3: Saboniukas (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253002032761: Tournament #3813710699, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/19 16:27:59 CET [2024/10/19 10:27:59 ET]
+Table '3813710699 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (620 in chips) 
+Seat 2: Martchelus (570 in chips) 
+Seat 3: Saboniukas (310 in chips) 
+Martchelus: posts small blind 15
+Saboniukas: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s 7h]
+Mahu2021: raises 30 to 60
+Martchelus: calls 45
+Saboniukas: calls 30
+*** FLOP *** [9d 5c 3s]
+Martchelus: checks 
+Saboniukas: checks 
+Mahu2021: bets 180
+Martchelus: folds 
+Saboniukas: folds 
+Uncalled bet (180) returned to Mahu2021
+Mahu2021 collected 180 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [9d 5c 3s]
+Seat 1: Mahu2021 (button) collected (180)
+Seat 2: Martchelus (small blind) folded on the Flop
+Seat 3: Saboniukas (big blind) folded on the Flop
+
+
+
+PokerStars Hand #253002035934: Tournament #3813710699, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/19 16:28:14 CET [2024/10/19 10:28:14 ET]
+Table '3813710699 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (740 in chips) 
+Seat 2: Martchelus (510 in chips) 
+Seat 3: Saboniukas (250 in chips) 
+Saboniukas: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah 6s]
+Martchelus: calls 30
+Saboniukas: raises 220 to 250 and is all-in
+Mahu2021: folds 
+Martchelus: folds 
+Uncalled bet (220) returned to Saboniukas
+Saboniukas collected 90 from pot
+Saboniukas: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: Martchelus (button) folded before Flop
+Seat 3: Saboniukas (small blind) collected (90)
+
+
+
+PokerStars Hand #253002038008: Tournament #3813710699, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/19 16:28:24 CET [2024/10/19 10:28:24 ET]
+Table '3813710699 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (710 in chips) 
+Seat 2: Martchelus (480 in chips) 
+Seat 3: Saboniukas (310 in chips) 
+Mahu2021: posts small blind 15
+Martchelus: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d 7d]
+Saboniukas: raises 280 to 310 and is all-in
+Mahu2021: folds 
+Martchelus: folds 
+Uncalled bet (280) returned to Saboniukas
+Saboniukas collected 75 from pot
+Saboniukas: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: Martchelus (big blind) folded before Flop
+Seat 3: Saboniukas (button) collected (75)
+
+
+
+PokerStars Hand #253002040014: Tournament #3813710699, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/19 16:28:33 CET [2024/10/19 10:28:33 ET]
+Table '3813710699 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (695 in chips) 
+Seat 2: Martchelus (450 in chips) 
+Seat 3: Saboniukas (355 in chips) 
+Martchelus: posts small blind 15
+Saboniukas: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah Kc]
+Mahu2021: raises 30 to 60
+Martchelus: calls 45
+Saboniukas: calls 30
+*** FLOP *** [3s Qh 2d]
+Martchelus: checks 
+Saboniukas: checks 
+Mahu2021: checks 
+*** TURN *** [3s Qh 2d] [4h]
+Martchelus: checks 
+Saboniukas: checks 
+Mahu2021: checks 
+*** RIVER *** [3s Qh 2d 4h] [6s]
+Martchelus: checks 
+Saboniukas: bets 90
+Mahu2021: folds 
+Martchelus: folds 
+Uncalled bet (90) returned to Saboniukas
+Saboniukas collected 180 from pot
+Saboniukas: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [3s Qh 2d 4h 6s]
+Seat 1: Mahu2021 (button) folded on the River
+Seat 2: Martchelus (small blind) folded on the River
+Seat 3: Saboniukas (big blind) collected (180)
+
+
+
+PokerStars Hand #253002046026: Tournament #3813710699, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/19 16:29:02 CET [2024/10/19 10:29:02 ET]
+Table '3813710699 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (635 in chips) 
+Seat 2: Martchelus (390 in chips) 
+Seat 3: Saboniukas (475 in chips) 
+Saboniukas: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Tc Th]
+Martchelus: folds 
+Saboniukas: calls 15
+Mahu2021: raises 605 to 635 and is all-in
+Saboniukas: folds 
+Uncalled bet (605) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (60)
+Seat 2: Martchelus (button) folded before Flop (didn't bet)
+Seat 3: Saboniukas (small blind) folded before Flop
+
+
+
+PokerStars Hand #253002048089: Tournament #3813710699, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/19 16:29:12 CET [2024/10/19 10:29:12 ET]
+Table '3813710699 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (665 in chips) 
+Seat 2: Martchelus (390 in chips) 
+Seat 3: Saboniukas (445 in chips) 
+Mahu2021: posts small blind 15
+Martchelus: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h Ts]
+Saboniukas: folds 
+Mahu2021: folds 
+Uncalled bet (15) returned to Martchelus
+Martchelus collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: Martchelus (big blind) collected (30)
+Seat 3: Saboniukas (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253002049307: Tournament #3813710699, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/19 16:29:18 CET [2024/10/19 10:29:18 ET]
+Table '3813710699 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (650 in chips) 
+Seat 2: Martchelus (405 in chips) 
+Seat 3: Saboniukas (445 in chips) 
+Martchelus: posts small blind 15
+Saboniukas: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d Ks]
+Mahu2021: folds 
+Martchelus: folds 
+Uncalled bet (15) returned to Saboniukas
+Saboniukas collected 30 from pot
+Saboniukas: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: Martchelus (small blind) folded before Flop
+Seat 3: Saboniukas (big blind) collected (30)
+
+
+
+PokerStars Hand #253002050514: Tournament #3813710699, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/19 16:29:23 CET [2024/10/19 10:29:23 ET]
+Table '3813710699 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (650 in chips) 
+Seat 2: Martchelus (390 in chips) 
+Seat 3: Saboniukas (460 in chips) 
+Saboniukas: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Td 2h]
+Martchelus: raises 360 to 390 and is all-in
+Saboniukas: folds 
+Mahu2021: folds 
+Uncalled bet (360) returned to Martchelus
+Martchelus collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: Martchelus (button) collected (75)
+Seat 3: Saboniukas (small blind) folded before Flop
+
+
+
+PokerStars Hand #253002052149: Tournament #3813710699, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/19 16:29:31 CET [2024/10/19 10:29:31 ET]
+Table '3813710699 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (620 in chips) 
+Seat 2: Martchelus (435 in chips) 
+Seat 3: Saboniukas (445 in chips) 
+Mahu2021: posts small blind 15
+Martchelus: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d 4c]
+Saboniukas: raises 30 to 60
+Mahu2021: folds 
+Martchelus: calls 30
+*** FLOP *** [7h 2s 6c]
+Martchelus: checks 
+Saboniukas: checks 
+*** TURN *** [7h 2s 6c] [7s]
+Martchelus: checks 
+Saboniukas: bets 60
+Martchelus: raises 315 to 375 and is all-in
+Saboniukas: folds 
+Uncalled bet (315) returned to Martchelus
+Martchelus collected 255 from pot
+*** SUMMARY ***
+Total pot 255 | Rake 0 
+Board [7h 2s 6c 7s]
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: Martchelus (big blind) collected (255)
+Seat 3: Saboniukas (button) folded on the Turn
+
+
+
+PokerStars Hand #253002057739: Tournament #3813710699, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/10/19 16:29:57 CET [2024/10/19 10:29:57 ET]
+Table '3813710699 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (605 in chips) 
+Seat 2: Martchelus (570 in chips) 
+Seat 3: Saboniukas (325 in chips) 
+Martchelus: posts small blind 20
+Saboniukas: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4c Kc]
+Mahu2021: raises 40 to 80
+Martchelus: folds 
+Saboniukas: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 100 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: Mahu2021 (button) collected (100)
+Seat 2: Martchelus (small blind) folded before Flop
+Seat 3: Saboniukas (big blind) folded before Flop
+
+
+
+PokerStars Hand #253002059161: Tournament #3813710699, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/10/19 16:30:03 CET [2024/10/19 10:30:03 ET]
+Table '3813710699 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (665 in chips) 
+Seat 2: Martchelus (550 in chips) 
+Seat 3: Saboniukas (285 in chips) 
+Saboniukas: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h 6h]
+Martchelus: folds 
+Saboniukas: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (40)
+Seat 2: Martchelus (button) folded before Flop (didn't bet)
+Seat 3: Saboniukas (small blind) folded before Flop
+
+
+
+PokerStars Hand #253002060226: Tournament #3813710699, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/10/19 16:30:08 CET [2024/10/19 10:30:08 ET]
+Table '3813710699 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (685 in chips) 
+Seat 2: Martchelus (550 in chips) 
+Seat 3: Saboniukas (265 in chips) 
+Mahu2021: posts small blind 20
+Martchelus: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s Ac]
+Saboniukas: raises 225 to 265 and is all-in
+Mahu2021: folds 
+Martchelus: folds 
+Uncalled bet (225) returned to Saboniukas
+Saboniukas collected 100 from pot
+Saboniukas: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: Martchelus (big blind) folded before Flop
+Seat 3: Saboniukas (button) collected (100)
+
+
+
+PokerStars Hand #253002061804: Tournament #3813710699, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/10/19 16:30:16 CET [2024/10/19 10:30:16 ET]
+Table '3813710699 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (665 in chips) 
+Seat 2: Martchelus (510 in chips) 
+Seat 3: Saboniukas (325 in chips) 
+Martchelus: posts small blind 20
+Saboniukas: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4c Qd]
+Mahu2021: folds 
+Martchelus: calls 20
+Saboniukas: raises 285 to 325 and is all-in
+Martchelus: folds 
+Uncalled bet (285) returned to Saboniukas
+Saboniukas collected 80 from pot
+Saboniukas: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: Martchelus (small blind) folded before Flop
+Seat 3: Saboniukas (big blind) collected (80)
+
+
+
+PokerStars Hand #253002063907: Tournament #3813710699, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/10/19 16:30:25 CET [2024/10/19 10:30:25 ET]
+Table '3813710699 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (665 in chips) 
+Seat 2: Martchelus (470 in chips) 
+Seat 3: Saboniukas (365 in chips) 
+Saboniukas: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s 7s]
+Martchelus: folds 
+Saboniukas: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (40)
+Seat 2: Martchelus (button) folded before Flop (didn't bet)
+Seat 3: Saboniukas (small blind) folded before Flop
+
+
+
+PokerStars Hand #253002065026: Tournament #3813710699, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/10/19 16:30:30 CET [2024/10/19 10:30:30 ET]
+Table '3813710699 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (685 in chips) 
+Seat 2: Martchelus (470 in chips) 
+Seat 3: Saboniukas (345 in chips) 
+Mahu2021: posts small blind 20
+Martchelus: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks 2c]
+Saboniukas: raises 40 to 80
+Mahu2021: folds 
+Martchelus: calls 40
+*** FLOP *** [Jd 8s 7s]
+Martchelus: bets 390 and is all-in
+Saboniukas: calls 265 and is all-in
+Uncalled bet (125) returned to Martchelus
+*** TURN *** [Jd 8s 7s] [7h]
+*** RIVER *** [Jd 8s 7s 7h] [8c]
+*** SHOW DOWN ***
+Martchelus: shows [6h 8h] (a full house, Eights full of Sevens)
+Saboniukas: shows [9c 9d] (two pair, Nines and Eights)
+Martchelus collected 710 from pot
+Saboniukas finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 710 | Rake 0 
+Board [Jd 8s 7s 7h 8c]
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: Martchelus (big blind) showed [6h 8h] and won (710) with a full house, Eights full of Sevens
+Seat 3: Saboniukas (button) showed [9c 9d] and lost with two pair, Nines and Eights
+
+
+
+PokerStars Hand #253002069362: Tournament #3813710699, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/10/19 16:30:51 CET [2024/10/19 10:30:51 ET]
+Table '3813710699 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (665 in chips) 
+Seat 2: Martchelus (835 in chips) 
+Martchelus: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8c Ah]
+Martchelus: calls 20
+Mahu2021: raises 120 to 160
+Martchelus: folds 
+Uncalled bet (120) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (80)
+Seat 2: Martchelus (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #253002071574: Tournament #3813710699, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/10/19 16:31:01 CET [2024/10/19 10:31:01 ET]
+Table '3813710699 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (705 in chips) 
+Seat 2: Martchelus (795 in chips) 
+Mahu2021: posts small blind 20
+Martchelus: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks As]
+Mahu2021: raises 40 to 80
+Martchelus: raises 715 to 795 and is all-in
+Mahu2021: calls 625 and is all-in
+Uncalled bet (90) returned to Martchelus
+*** FLOP *** [4d 5c 7c]
+*** TURN *** [4d 5c 7c] [5s]
+*** RIVER *** [4d 5c 7c 5s] [9d]
+*** SHOW DOWN ***
+Martchelus: shows [Tc Th] (two pair, Tens and Fives)
+Mahu2021: shows [Ks As] (a pair of Fives)
+Martchelus collected 1410 from pot
+Mahu2021 finished the tournament in 2nd place
+Martchelus wins the tournament and receives $4.00 - congratulations!
+*** SUMMARY ***
+Total pot 1410 | Rake 0 
+Board [4d 5c 7c 5s 9d]
+Seat 1: Mahu2021 (button) (small blind) showed [Ks As] and lost with a pair of Fives
+Seat 2: Martchelus (big blind) showed [Tc Th] and won (1410) with two pair, Tens and Fives
+
+
+

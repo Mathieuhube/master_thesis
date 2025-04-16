@@ -1,0 +1,694 @@
+﻿PokerStars Hand #243028906295: Tournament #3573540201, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level II (30/60) - 2023/04/11 19:39:01 CET [2023/04/11 13:39:01 ET]
+Table '3573540201 73' 8-max Seat #8 is the button
+Seat 1: u.sauer (10303 in chips, $2.25 bounty) 
+Seat 2: LocoDamian (1575 in chips, $1.50 bounty) 
+Seat 3: todor177 (5234 in chips, $1.50 bounty) 
+Seat 4: Mahu2021 (5000 in chips, $1.50 bounty) 
+Seat 5: oivan349 (4983 in chips, $1.50 bounty) 
+Seat 6: suroiu (5201 in chips, $1.50 bounty) 
+Seat 7: skorpion96maza (4081 in chips, $1.50 bounty) 
+Seat 8: AnDrE$.C85 (15690 in chips, $3 bounty) 
+u.sauer: posts the ante 9
+LocoDamian: posts the ante 9
+todor177: posts the ante 9
+Mahu2021: posts the ante 9
+oivan349: posts the ante 9
+suroiu: posts the ante 9
+skorpion96maza: posts the ante 9
+AnDrE$.C85: posts the ante 9
+u.sauer: posts small blind 30
+LocoDamian: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As Ts]
+todor177: calls 60
+Mahu2021: calls 60
+oivan349: folds 
+suroiu: folds 
+skorpion96maza: calls 60
+AnDrE$.C85: calls 60
+u.sauer: raises 240 to 300
+LocoDamian: folds 
+todor177: calls 240
+Mahu2021: calls 240
+skorpion96maza: calls 240
+AnDrE$.C85: calls 240
+*** FLOP *** [6d Qs Kc]
+u.sauer: checks 
+todor177: checks 
+Mahu2021: checks 
+skorpion96maza: checks 
+AnDrE$.C85: bets 816
+u.sauer: calls 816
+todor177: folds 
+Mahu2021: calls 816
+skorpion96maza: folds 
+*** TURN *** [6d Qs Kc] [Kh]
+u.sauer: checks 
+Mahu2021: checks 
+AnDrE$.C85: checks 
+*** RIVER *** [6d Qs Kc Kh] [5s]
+u.sauer: bets 2040
+Mahu2021: folds 
+AnDrE$.C85: folds 
+Uncalled bet (2040) returned to u.sauer
+u.sauer collected 4080 from pot
+u.sauer: doesn't show hand 
+*** SUMMARY ***
+Total pot 4080 | Rake 0 
+Board [6d Qs Kc Kh 5s]
+Seat 1: u.sauer (small blind) collected (4080)
+Seat 2: LocoDamian (big blind) folded before Flop
+Seat 3: todor177 folded on the Flop
+Seat 4: Mahu2021 folded on the River
+Seat 5: oivan349 folded before Flop (didn't bet)
+Seat 6: suroiu folded before Flop (didn't bet)
+Seat 7: skorpion96maza folded on the Flop
+Seat 8: AnDrE$.C85 (button) folded on the River
+
+
+
+PokerStars Hand #243028924021: Tournament #3573540201, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level II (30/60) - 2023/04/11 19:39:51 CET [2023/04/11 13:39:51 ET]
+Table '3573540201 73' 8-max Seat #1 is the button
+Seat 1: u.sauer (13258 in chips, $2.25 bounty) 
+Seat 2: LocoDamian (1506 in chips, $1.50 bounty) 
+Seat 3: todor177 (4925 in chips, $1.50 bounty) 
+Seat 4: Mahu2021 (3875 in chips, $1.50 bounty) 
+Seat 5: oivan349 (4974 in chips, $1.50 bounty) 
+Seat 6: suroiu (5192 in chips, $1.50 bounty) 
+Seat 7: skorpion96maza (3772 in chips, $1.50 bounty) 
+Seat 8: AnDrE$.C85 (14565 in chips, $3 bounty) 
+u.sauer: posts the ante 9
+LocoDamian: posts the ante 9
+todor177: posts the ante 9
+Mahu2021: posts the ante 9
+oivan349: posts the ante 9
+suroiu: posts the ante 9
+skorpion96maza: posts the ante 9
+AnDrE$.C85: posts the ante 9
+LocoDamian: posts small blind 30
+todor177: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d 3h]
+Mahu2021: folds 
+oivan349: folds 
+suroiu: raises 60 to 120
+skorpion96maza: calls 120
+AnDrE$.C85: raises 522 to 642
+u.sauer: folds 
+LocoDamian: folds 
+todor177: calls 582
+suroiu: folds 
+skorpion96maza: folds 
+*** FLOP *** [4s 7s 6h]
+todor177: checks 
+AnDrE$.C85: bets 813
+todor177: calls 813
+*** TURN *** [4s 7s 6h] [2h]
+todor177: checks 
+AnDrE$.C85: bets 13101 and is all-in
+todor177: calls 3461 and is all-in
+Uncalled bet (9640) returned to AnDrE$.C85
+*** RIVER *** [4s 7s 6h 2h] [Ah]
+*** SHOW DOWN ***
+todor177: shows [2s 5s] (a pair of Deuces)
+AnDrE$.C85: shows [7d Ad] (two pair, Aces and Sevens)
+AnDrE$.C85 collected 10174 from pot
+AnDrE$.C85 wins $0.75 for eliminating todor177 and their own bounty increases by $0.75 to $3.75
+todor177 finished the tournament
+*** SUMMARY ***
+Total pot 10174 | Rake 0 
+Board [4s 7s 6h 2h Ah]
+Seat 1: u.sauer (button) folded before Flop (didn't bet)
+Seat 2: LocoDamian (small blind) folded before Flop
+Seat 3: todor177 (big blind) showed [2s 5s] and lost with a pair of Deuces
+Seat 4: Mahu2021 folded before Flop (didn't bet)
+Seat 5: oivan349 folded before Flop (didn't bet)
+Seat 6: suroiu folded before Flop
+Seat 7: skorpion96maza folded before Flop
+Seat 8: AnDrE$.C85 showed [7d Ad] and won (10174) with two pair, Aces and Sevens
+
+
+
+PokerStars Hand #243028943285: Tournament #3573540201, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level II (30/60) - 2023/04/11 19:40:45 CET [2023/04/11 13:40:45 ET]
+Table '3573540201 73' 8-max Seat #2 is the button
+Seat 1: u.sauer (13249 in chips, $2.25 bounty) 
+Seat 2: LocoDamian (1467 in chips, $1.50 bounty) 
+Seat 4: Mahu2021 (3866 in chips, $1.50 bounty) 
+Seat 5: oivan349 (4965 in chips, $1.50 bounty) 
+Seat 6: suroiu (5063 in chips, $1.50 bounty) 
+Seat 7: skorpion96maza (3643 in chips, $1.50 bounty) 
+Seat 8: AnDrE$.C85 (19814 in chips, $3.75 bounty) 
+u.sauer: posts the ante 9
+LocoDamian: posts the ante 9
+Mahu2021: posts the ante 9
+oivan349: posts the ante 9
+suroiu: posts the ante 9
+skorpion96maza: posts the ante 9
+AnDrE$.C85: posts the ante 9
+Mahu2021: posts small blind 30
+oivan349: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8d 6d]
+Pascariu-M is disconnected 
+suroiu: folds 
+skorpion96maza: calls 60
+AnDrE$.C85: calls 60
+u.sauer: raises 180 to 240
+LocoDamian: folds 
+Mahu2021: folds 
+oivan349: calls 180
+skorpion96maza: calls 180
+AnDrE$.C85: calls 180
+*** FLOP *** [Qh Qc 9c]
+oivan349: checks 
+skorpion96maza: checks 
+AnDrE$.C85: checks 
+u.sauer: checks 
+*** TURN *** [Qh Qc 9c] [Kc]
+oivan349: bets 579
+skorpion96maza: folds 
+AnDrE$.C85: folds 
+u.sauer: folds 
+Uncalled bet (579) returned to oivan349
+oivan349 collected 1053 from pot
+oivan349: doesn't show hand 
+*** SUMMARY ***
+Total pot 1053 | Rake 0 
+Board [Qh Qc 9c Kc]
+Seat 1: u.sauer folded on the Turn
+Seat 2: LocoDamian (button) folded before Flop (didn't bet)
+Seat 4: Mahu2021 (small blind) folded before Flop
+Seat 5: oivan349 (big blind) collected (1053)
+Seat 6: suroiu folded before Flop (didn't bet)
+Seat 7: skorpion96maza folded on the Turn
+Seat 8: AnDrE$.C85 folded on the Turn
+
+
+
+PokerStars Hand #243028962166: Tournament #3573540201, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level II (30/60) - 2023/04/11 19:41:37 CET [2023/04/11 13:41:37 ET]
+Table '3573540201 73' 8-max Seat #4 is the button
+Seat 1: u.sauer (13000 in chips, $2.25 bounty) 
+Seat 2: LocoDamian (1458 in chips, $1.50 bounty) 
+Seat 3: Pascariu-M (5000 in chips, $1.50 bounty) 
+Seat 4: Mahu2021 (3827 in chips, $1.50 bounty) 
+Seat 5: oivan349 (5769 in chips, $1.50 bounty) 
+Seat 6: suroiu (5054 in chips, $1.50 bounty) 
+Seat 7: skorpion96maza (3394 in chips, $1.50 bounty) 
+Seat 8: AnDrE$.C85 (19565 in chips, $3.75 bounty) 
+u.sauer: posts the ante 9
+LocoDamian: posts the ante 9
+Pascariu-M: posts the ante 9
+Mahu2021: posts the ante 9
+oivan349: posts the ante 9
+suroiu: posts the ante 9
+skorpion96maza: posts the ante 9
+AnDrE$.C85: posts the ante 9
+oivan349: posts small blind 30
+suroiu: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h 4d]
+skorpion96maza: folds 
+AnDrE$.C85: raises 180 to 240
+u.sauer: folds 
+LocoDamian: calls 240
+Pascariu-M: folds 
+Mahu2021: folds 
+oivan349: calls 210
+suroiu: calls 180
+*** FLOP *** [8s 2d 9s]
+oivan349: checks 
+suroiu: checks 
+AnDrE$.C85: bets 2052
+LocoDamian: folds 
+oivan349: raises 3468 to 5520 and is all-in
+suroiu: folds 
+AnDrE$.C85: calls 3468
+*** TURN *** [8s 2d 9s] [Ks]
+*** RIVER *** [8s 2d 9s Ks] [Qd]
+*** SHOW DOWN ***
+oivan349: shows [4s Js] (a flush, King high)
+AnDrE$.C85: shows [Ad 8h] (a pair of Eights)
+oivan349 collected 12072 from pot
+*** SUMMARY ***
+Total pot 12072 | Rake 0 
+Board [8s 2d 9s Ks Qd]
+Seat 1: u.sauer folded before Flop (didn't bet)
+Seat 2: LocoDamian folded on the Flop
+Seat 3: Pascariu-M folded before Flop (didn't bet)
+Seat 4: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 5: oivan349 (small blind) showed [4s Js] and won (12072) with a flush, King high
+Seat 6: suroiu (big blind) folded on the Flop
+Seat 7: skorpion96maza folded before Flop (didn't bet)
+Seat 8: AnDrE$.C85 showed [Ad 8h] and lost with a pair of Eights
+
+
+
+PokerStars Hand #243028986090: Tournament #3573540201, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level II (30/60) - 2023/04/11 19:42:44 CET [2023/04/11 13:42:44 ET]
+Table '3573540201 73' 8-max Seat #5 is the button
+Seat 1: u.sauer (12991 in chips, $2.25 bounty) 
+Seat 2: LocoDamian (1209 in chips, $1.50 bounty) 
+Seat 3: Pascariu-M (4991 in chips, $1.50 bounty) 
+Seat 4: Mahu2021 (3818 in chips, $1.50 bounty) 
+Seat 5: oivan349 (12072 in chips, $1.50 bounty) 
+Seat 6: suroiu (4805 in chips, $1.50 bounty) 
+Seat 7: skorpion96maza (3385 in chips, $1.50 bounty) 
+Seat 8: AnDrE$.C85 (13796 in chips, $3.75 bounty) 
+u.sauer: posts the ante 9
+LocoDamian: posts the ante 9
+Pascariu-M: posts the ante 9
+Mahu2021: posts the ante 9
+oivan349: posts the ante 9
+suroiu: posts the ante 9
+skorpion96maza: posts the ante 9
+AnDrE$.C85: posts the ante 9
+suroiu: posts small blind 30
+skorpion96maza: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s Tc]
+AnDrE$.C85: calls 60
+u.sauer: raises 60 to 120
+LocoDamian: folds 
+Pascariu-M: folds 
+Mahu2021: folds 
+oivan349: calls 120
+suroiu: calls 90
+skorpion96maza: calls 60
+AnDrE$.C85: calls 60
+*** FLOP *** [9d 6d 7c]
+suroiu: checks 
+skorpion96maza: checks 
+AnDrE$.C85: checks 
+u.sauer: bets 12862 and is all-in
+oivan349: folds 
+suroiu: folds 
+skorpion96maza: folds 
+AnDrE$.C85: folds 
+Uncalled bet (12862) returned to u.sauer
+u.sauer collected 672 from pot
+u.sauer: doesn't show hand 
+*** SUMMARY ***
+Total pot 672 | Rake 0 
+Board [9d 6d 7c]
+Seat 1: u.sauer collected (672)
+Seat 2: LocoDamian folded before Flop (didn't bet)
+Seat 3: Pascariu-M folded before Flop (didn't bet)
+Seat 4: Mahu2021 folded before Flop (didn't bet)
+Seat 5: oivan349 (button) folded on the Flop
+Seat 6: suroiu (small blind) folded on the Flop
+Seat 7: skorpion96maza (big blind) folded on the Flop
+Seat 8: AnDrE$.C85 folded on the Flop
+
+
+
+PokerStars Hand #243029003849: Tournament #3573540201, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level II (30/60) - 2023/04/11 19:43:34 CET [2023/04/11 13:43:34 ET]
+Table '3573540201 73' 8-max Seat #6 is the button
+Seat 1: u.sauer (13534 in chips, $2.25 bounty) 
+Seat 2: LocoDamian (1200 in chips, $1.50 bounty) 
+Seat 3: Pascariu-M (4982 in chips, $1.50 bounty) 
+Seat 4: Mahu2021 (3809 in chips, $1.50 bounty) 
+Seat 5: oivan349 (11943 in chips, $1.50 bounty) 
+Seat 6: suroiu (4676 in chips, $1.50 bounty) 
+Seat 7: skorpion96maza (3256 in chips, $1.50 bounty) 
+Seat 8: AnDrE$.C85 (13667 in chips, $3.75 bounty) 
+u.sauer: posts the ante 9
+LocoDamian: posts the ante 9
+Pascariu-M: posts the ante 9
+Mahu2021: posts the ante 9
+oivan349: posts the ante 9
+suroiu: posts the ante 9
+skorpion96maza: posts the ante 9
+AnDrE$.C85: posts the ante 9
+skorpion96maza: posts small blind 30
+AnDrE$.C85: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s 7d]
+u.sauer: calls 60
+LocoDamian: folds 
+Pascariu-M: folds 
+Mahu2021: folds 
+oivan349: folds 
+suroiu: calls 60
+skorpion96maza: folds 
+AnDrE$.C85: checks 
+*** FLOP *** [As 8d 3h]
+AnDrE$.C85: checks 
+u.sauer: checks 
+suroiu: checks 
+*** TURN *** [As 8d 3h] [Jd]
+AnDrE$.C85: checks 
+u.sauer: bets 120
+suroiu: calls 120
+AnDrE$.C85: folds 
+*** RIVER *** [As 8d 3h Jd] [Td]
+u.sauer: checks 
+suroiu: checks 
+*** SHOW DOWN ***
+u.sauer: shows [4c Qc] (high card Ace)
+suroiu: shows [Ts 9d] (a pair of Tens)
+suroiu collected 522 from pot
+*** SUMMARY ***
+Total pot 522 | Rake 0 
+Board [As 8d 3h Jd Td]
+Seat 1: u.sauer showed [4c Qc] and lost with high card Ace
+Seat 2: LocoDamian folded before Flop (didn't bet)
+Seat 3: Pascariu-M folded before Flop (didn't bet)
+Seat 4: Mahu2021 folded before Flop (didn't bet)
+Seat 5: oivan349 folded before Flop (didn't bet)
+Seat 6: suroiu (button) showed [Ts 9d] and won (522) with a pair of Tens
+Seat 7: skorpion96maza (small blind) folded before Flop
+Seat 8: AnDrE$.C85 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #243029014327: Tournament #3573540201, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level II (30/60) - 2023/04/11 19:44:03 CET [2023/04/11 13:44:03 ET]
+Table '3573540201 73' 8-max Seat #7 is the button
+Seat 1: u.sauer (13345 in chips, $2.25 bounty) 
+Seat 2: LocoDamian (1191 in chips, $1.50 bounty) 
+Seat 3: Pascariu-M (4973 in chips, $1.50 bounty) 
+Seat 4: Mahu2021 (3800 in chips, $1.50 bounty) 
+Seat 5: oivan349 (11934 in chips, $1.50 bounty) 
+Seat 6: suroiu (5009 in chips, $1.50 bounty) 
+Seat 7: skorpion96maza (3217 in chips, $1.50 bounty) 
+Seat 8: AnDrE$.C85 (13598 in chips, $3.75 bounty) 
+u.sauer: posts the ante 9
+LocoDamian: posts the ante 9
+Pascariu-M: posts the ante 9
+Mahu2021: posts the ante 9
+oivan349: posts the ante 9
+suroiu: posts the ante 9
+skorpion96maza: posts the ante 9
+AnDrE$.C85: posts the ante 9
+AnDrE$.C85: posts small blind 30
+u.sauer: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4d 5d]
+LocoDamian: folds 
+Pascariu-M: folds 
+Mahu2021: calls 60
+oivan349: folds 
+suroiu: folds 
+skorpion96maza: folds 
+AnDrE$.C85: raises 252 to 312
+u.sauer: folds 
+Mahu2021: folds 
+Uncalled bet (252) returned to AnDrE$.C85
+AnDrE$.C85 collected 252 from pot
+AnDrE$.C85: doesn't show hand 
+*** SUMMARY ***
+Total pot 252 | Rake 0 
+Seat 1: u.sauer (big blind) folded before Flop
+Seat 2: LocoDamian folded before Flop (didn't bet)
+Seat 3: Pascariu-M folded before Flop (didn't bet)
+Seat 4: Mahu2021 folded before Flop
+Seat 5: oivan349 folded before Flop (didn't bet)
+Seat 6: suroiu folded before Flop (didn't bet)
+Seat 7: skorpion96maza (button) folded before Flop (didn't bet)
+Seat 8: AnDrE$.C85 (small blind) collected (252)
+
+
+
+PokerStars Hand #243029022319: Tournament #3573540201, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level II (30/60) - 2023/04/11 19:44:26 CET [2023/04/11 13:44:26 ET]
+Table '3573540201 73' 8-max Seat #8 is the button
+Seat 1: u.sauer (13276 in chips, $2.25 bounty) 
+Seat 2: LocoDamian (1182 in chips, $1.50 bounty) 
+Seat 3: Pascariu-M (4964 in chips, $1.50 bounty) 
+Seat 4: Mahu2021 (3731 in chips, $1.50 bounty) 
+Seat 5: oivan349 (11925 in chips, $1.50 bounty) 
+Seat 6: suroiu (5000 in chips, $1.50 bounty) 
+Seat 7: skorpion96maza (3208 in chips, $1.50 bounty) 
+Seat 8: AnDrE$.C85 (13781 in chips, $3.75 bounty) 
+u.sauer: posts the ante 9
+LocoDamian: posts the ante 9
+Pascariu-M: posts the ante 9
+Mahu2021: posts the ante 9
+oivan349: posts the ante 9
+suroiu: posts the ante 9
+skorpion96maza: posts the ante 9
+AnDrE$.C85: posts the ante 9
+u.sauer: posts small blind 30
+LocoDamian: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s 5d]
+Pascariu-M: folds 
+Mahu2021: folds 
+oivan349: folds 
+suroiu: folds 
+skorpion96maza: folds 
+AnDrE$.C85: calls 60
+u.sauer: calls 30
+LocoDamian: checks 
+*** FLOP *** [Ah Jh 4c]
+u.sauer: bets 120
+LocoDamian: folds 
+AnDrE$.C85: calls 120
+*** TURN *** [Ah Jh 4c] [As]
+u.sauer: checks 
+AnDrE$.C85: bets 246
+u.sauer: calls 246
+*** RIVER *** [Ah Jh 4c As] [2h]
+u.sauer: checks 
+AnDrE$.C85: checks 
+*** SHOW DOWN ***
+u.sauer: shows [6h Ks] (a pair of Aces)
+AnDrE$.C85: shows [4h Qs] (two pair, Aces and Fours)
+AnDrE$.C85 collected 984 from pot
+*** SUMMARY ***
+Total pot 984 | Rake 0 
+Board [Ah Jh 4c As 2h]
+Seat 1: u.sauer (small blind) showed [6h Ks] and lost with a pair of Aces
+Seat 2: LocoDamian (big blind) folded on the Flop
+Seat 3: Pascariu-M folded before Flop (didn't bet)
+Seat 4: Mahu2021 folded before Flop (didn't bet)
+Seat 5: oivan349 folded before Flop (didn't bet)
+Seat 6: suroiu folded before Flop (didn't bet)
+Seat 7: skorpion96maza folded before Flop (didn't bet)
+Seat 8: AnDrE$.C85 (button) showed [4h Qs] and won (984) with two pair, Aces and Fours
+
+
+
+PokerStars Hand #243029032945: Tournament #3573540201, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level II (30/60) - 2023/04/11 19:44:55 CET [2023/04/11 13:44:55 ET]
+Table '3573540201 73' 8-max Seat #1 is the button
+Seat 1: u.sauer (12841 in chips, $2.25 bounty) 
+Seat 2: LocoDamian (1113 in chips, $1.50 bounty) 
+Seat 3: Pascariu-M (4955 in chips, $1.50 bounty) 
+Seat 4: Mahu2021 (3722 in chips, $1.50 bounty) 
+Seat 5: oivan349 (11916 in chips, $1.50 bounty) 
+Seat 6: suroiu (4991 in chips, $1.50 bounty) 
+Seat 7: skorpion96maza (3199 in chips, $1.50 bounty) 
+Seat 8: AnDrE$.C85 (14330 in chips, $3.75 bounty) 
+u.sauer: posts the ante 9
+LocoDamian: posts the ante 9
+Pascariu-M: posts the ante 9
+Mahu2021: posts the ante 9
+oivan349: posts the ante 9
+suroiu: posts the ante 9
+skorpion96maza: posts the ante 9
+AnDrE$.C85: posts the ante 9
+LocoDamian: posts small blind 30
+Pascariu-M: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d 5c]
+Mahu2021: folds 
+oivan349: folds 
+suroiu: folds 
+skorpion96maza: folds 
+AnDrE$.C85: raises 222 to 282
+u.sauer: raises 12550 to 12832 and is all-in
+LocoDamian: folds 
+Pascariu-M: folds 
+AnDrE$.C85: folds 
+Uncalled bet (12550) returned to u.sauer
+u.sauer collected 726 from pot
+u.sauer: doesn't show hand 
+*** SUMMARY ***
+Total pot 726 | Rake 0 
+Seat 1: u.sauer (button) collected (726)
+Seat 2: LocoDamian (small blind) folded before Flop
+Seat 3: Pascariu-M (big blind) folded before Flop
+Seat 4: Mahu2021 folded before Flop (didn't bet)
+Seat 5: oivan349 folded before Flop (didn't bet)
+Seat 6: suroiu folded before Flop (didn't bet)
+Seat 7: skorpion96maza folded before Flop (didn't bet)
+Seat 8: AnDrE$.C85 folded before Flop
+
+
+
+PokerStars Hand #243029045380: Tournament #3573540201, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level II (30/60) - 2023/04/11 19:45:30 CET [2023/04/11 13:45:30 ET]
+Table '3573540201 73' 8-max Seat #2 is the button
+Seat 1: u.sauer (13276 in chips, $2.25 bounty) 
+Seat 2: LocoDamian (1074 in chips, $1.50 bounty) 
+Seat 3: Pascariu-M (4886 in chips, $1.50 bounty) 
+Seat 4: Mahu2021 (3713 in chips, $1.50 bounty) 
+Seat 5: oivan349 (11907 in chips, $1.50 bounty) 
+Seat 6: suroiu (4982 in chips, $1.50 bounty) 
+Seat 7: skorpion96maza (3190 in chips, $1.50 bounty) 
+Seat 8: AnDrE$.C85 (14039 in chips, $3.75 bounty) 
+u.sauer: posts the ante 9
+LocoDamian: posts the ante 9
+Pascariu-M: posts the ante 9
+Mahu2021: posts the ante 9
+oivan349: posts the ante 9
+suroiu: posts the ante 9
+skorpion96maza: posts the ante 9
+AnDrE$.C85: posts the ante 9
+Pascariu-M: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s 3s]
+oivan349: folds 
+suroiu: folds 
+skorpion96maza: folds 
+AnDrE$.C85: raises 222 to 282
+u.sauer: calls 282
+LocoDamian: folds 
+Pascariu-M: raises 858 to 1140
+Mahu2021: folds 
+AnDrE$.C85: calls 858
+u.sauer: folds 
+*** FLOP *** [6h 7d 5d]
+Pascariu-M: bets 3737 and is all-in
+AnDrE$.C85: calls 3737
+*** TURN *** [6h 7d 5d] [2c]
+*** RIVER *** [6h 7d 5d 2c] [4h]
+*** SHOW DOWN ***
+Pascariu-M: shows [As Ac] (a pair of Aces)
+AnDrE$.C85: shows [Qs Kd] (high card King)
+Pascariu-M collected 10168 from pot
+*** SUMMARY ***
+Total pot 10168 | Rake 0 
+Board [6h 7d 5d 2c 4h]
+Seat 1: u.sauer folded before Flop
+Seat 2: LocoDamian (button) folded before Flop (didn't bet)
+Seat 3: Pascariu-M (small blind) showed [As Ac] and won (10168) with a pair of Aces
+Seat 4: Mahu2021 (big blind) folded before Flop
+Seat 5: oivan349 folded before Flop (didn't bet)
+Seat 6: suroiu folded before Flop (didn't bet)
+Seat 7: skorpion96maza folded before Flop (didn't bet)
+Seat 8: AnDrE$.C85 showed [Qs Kd] and lost with high card King
+
+
+
+PokerStars Hand #243029060195: Tournament #3573540201, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level III (35/70) - 2023/04/11 19:46:12 CET [2023/04/11 13:46:12 ET]
+Table '3573540201 73' 8-max Seat #3 is the button
+Seat 1: u.sauer (12985 in chips, $2.25 bounty) 
+Seat 2: LocoDamian (1065 in chips, $1.50 bounty) 
+Seat 3: Pascariu-M (10168 in chips, $1.50 bounty) 
+Seat 4: Mahu2021 (3644 in chips, $1.50 bounty) 
+Seat 5: oivan349 (11898 in chips, $1.50 bounty) 
+Seat 6: suroiu (4973 in chips, $1.50 bounty) 
+Seat 7: skorpion96maza (3181 in chips, $1.50 bounty) 
+Seat 8: AnDrE$.C85 (9153 in chips, $3.75 bounty) 
+u.sauer: posts the ante 11
+LocoDamian: posts the ante 11
+Pascariu-M: posts the ante 11
+Mahu2021: posts the ante 11
+oivan349: posts the ante 11
+suroiu: posts the ante 11
+skorpion96maza: posts the ante 11
+AnDrE$.C85: posts the ante 11
+Mahu2021: posts small blind 35
+oivan349: posts big blind 70
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c Jh]
+suroiu: folds 
+skorpion96maza: raises 70 to 140
+AnDrE$.C85: folds 
+u.sauer: folds 
+LocoDamian: folds 
+Pascariu-M: folds 
+Mahu2021: calls 105
+oivan349: calls 70
+*** FLOP *** [Ah 5s 2s]
+Mahu2021: checks 
+oivan349: checks 
+skorpion96maza: checks 
+*** TURN *** [Ah 5s 2s] [Jd]
+Mahu2021: checks 
+oivan349: bets 279
+skorpion96maza: calls 279
+Mahu2021: folds 
+*** RIVER *** [Ah 5s 2s Jd] [8c]
+oivan349: checks 
+skorpion96maza: bets 420
+oivan349: calls 420
+*** SHOW DOWN ***
+skorpion96maza: shows [Qc Kd] (high card Ace)
+oivan349: shows [5d 8d] (two pair, Eights and Fives)
+oivan349 collected 1906 from pot
+*** SUMMARY ***
+Total pot 1906 | Rake 0 
+Board [Ah 5s 2s Jd 8c]
+Seat 1: u.sauer folded before Flop (didn't bet)
+Seat 2: LocoDamian folded before Flop (didn't bet)
+Seat 3: Pascariu-M (button) folded before Flop (didn't bet)
+Seat 4: Mahu2021 (small blind) folded on the Turn
+Seat 5: oivan349 (big blind) showed [5d 8d] and won (1906) with two pair, Eights and Fives
+Seat 6: suroiu folded before Flop (didn't bet)
+Seat 7: skorpion96maza showed [Qc Kd] and lost with high card Ace
+Seat 8: AnDrE$.C85 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #243029076688: Tournament #3573540201, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level III (35/70) - 2023/04/11 19:46:59 CET [2023/04/11 13:46:59 ET]
+Table '3573540201 73' 8-max Seat #4 is the button
+Seat 1: u.sauer (12974 in chips, $2.25 bounty) 
+Seat 2: LocoDamian (1054 in chips, $1.50 bounty) 
+Seat 3: Pascariu-M (10157 in chips, $1.50 bounty) 
+Seat 4: Mahu2021 (3493 in chips, $1.50 bounty) 
+Seat 5: oivan349 (12954 in chips, $1.50 bounty) 
+Seat 6: suroiu (4962 in chips, $1.50 bounty) 
+Seat 7: skorpion96maza (2331 in chips, $1.50 bounty) 
+Seat 8: AnDrE$.C85 (9142 in chips, $3.75 bounty) 
+u.sauer: posts the ante 11
+LocoDamian: posts the ante 11
+Pascariu-M: posts the ante 11
+Mahu2021: posts the ante 11
+oivan349: posts the ante 11
+suroiu: posts the ante 11
+skorpion96maza: posts the ante 11
+AnDrE$.C85: posts the ante 11
+oivan349: posts small blind 35
+suroiu: posts big blind 70
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc Tc]
+skorpion96maza: folds 
+AnDrE$.C85: calls 70
+u.sauer: folds 
+LocoDamian: folds 
+Pascariu-M: folds 
+Mahu2021: calls 70
+oivan349: raises 70 to 140
+suroiu: calls 70
+AnDrE$.C85: calls 70
+Mahu2021: calls 70
+*** FLOP *** [Kc 8c As]
+oivan349: checks 
+suroiu: checks 
+AnDrE$.C85: checks 
+Mahu2021: bets 3342 and is all-in
+oivan349: raises 3342 to 6684
+suroiu: folds 
+AnDrE$.C85: folds 
+Uncalled bet (3342) returned to oivan349
+*** TURN *** [Kc 8c As] [3s]
+*** RIVER *** [Kc 8c As 3s] [Ac]
+*** SHOW DOWN ***
+oivan349: shows [Ks Ah] (a full house, Aces full of Kings)
+Mahu2021: shows [Qc Tc] (a flush, Ace high)
+oivan349 collected 7332 from pot
+oivan349 wins $0.75 for eliminating Mahu2021 and their own bounty increases by $0.75 to $2.25
+Mahu2021 finished the tournament
+*** SUMMARY ***
+Total pot 7332 | Rake 0 
+Board [Kc 8c As 3s Ac]
+Seat 1: u.sauer folded before Flop (didn't bet)
+Seat 2: LocoDamian folded before Flop (didn't bet)
+Seat 3: Pascariu-M folded before Flop (didn't bet)
+Seat 4: Mahu2021 (button) showed [Qc Tc] and lost with a flush, Ace high
+Seat 5: oivan349 (small blind) showed [Ks Ah] and won (7332) with a full house, Aces full of Kings
+Seat 6: suroiu (big blind) folded on the Flop
+Seat 7: skorpion96maza folded before Flop (didn't bet)
+Seat 8: AnDrE$.C85 folded on the Flop
+
+
+

@@ -1,0 +1,854 @@
+﻿PokerStars Hand #251455430192: Tournament #3777129121, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/07/12 21:08:31 CET [2024/07/12 15:08:31 ET]
+Table '3777129121 1' 3-max Seat #1 is the button
+Seat 1: ReyTaco (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: mazz.464 (500 in chips) 
+Mahu2021: posts small blind 10
+mazz.464: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Th 4h]
+ReyTaco: raises 20 to 40
+Mahu2021: calls 30
+mazz.464: folds 
+*** FLOP *** [7s 2s 8s]
+Mahu2021: checks 
+ReyTaco: checks 
+*** TURN *** [7s 2s 8s] [9c]
+Mahu2021: checks 
+ReyTaco: checks 
+*** RIVER *** [7s 2s 8s 9c] [4s]
+Mahu2021: bets 40
+ReyTaco: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 100 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [7s 2s 8s 9c 4s]
+Seat 1: ReyTaco (button) folded on the River
+Seat 2: Mahu2021 (small blind) collected (100)
+Seat 3: mazz.464 (big blind) folded before Flop
+
+
+
+PokerStars Hand #251455440168: Tournament #3777129121, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/07/12 21:09:01 CET [2024/07/12 15:09:01 ET]
+Table '3777129121 1' 3-max Seat #2 is the button
+Seat 1: ReyTaco (460 in chips) 
+Seat 2: Mahu2021 (560 in chips) 
+Seat 3: mazz.464 (480 in chips) 
+mazz.464: posts small blind 10
+ReyTaco: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s Kh]
+Mahu2021: folds 
+mazz.464: calls 10
+ReyTaco: checks 
+*** FLOP *** [2c Qd Ah]
+mazz.464: bets 20
+ReyTaco: folds 
+Uncalled bet (20) returned to mazz.464
+mazz.464 collected 40 from pot
+mazz.464: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [2c Qd Ah]
+Seat 1: ReyTaco (big blind) folded on the Flop
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: mazz.464 (small blind) collected (40)
+
+
+
+PokerStars Hand #251455444698: Tournament #3777129121, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/07/12 21:09:15 CET [2024/07/12 15:09:15 ET]
+Table '3777129121 1' 3-max Seat #3 is the button
+Seat 1: ReyTaco (440 in chips) 
+Seat 2: Mahu2021 (560 in chips) 
+Seat 3: mazz.464 (500 in chips) 
+ReyTaco: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks Kc]
+mazz.464: raises 20 to 40
+ReyTaco: folds 
+Mahu2021: raises 520 to 560 and is all-in
+mazz.464: folds 
+Uncalled bet (520) returned to Mahu2021
+Mahu2021 collected 90 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Seat 1: ReyTaco (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (90)
+Seat 3: mazz.464 (button) folded before Flop
+
+
+
+PokerStars Hand #251455447462: Tournament #3777129121, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/07/12 21:09:24 CET [2024/07/12 15:09:24 ET]
+Table '3777129121 1' 3-max Seat #1 is the button
+Seat 1: ReyTaco (430 in chips) 
+Seat 2: Mahu2021 (610 in chips) 
+Seat 3: mazz.464 (460 in chips) 
+Mahu2021: posts small blind 10
+mazz.464: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh Th]
+ReyTaco: raises 20 to 40
+Mahu2021: calls 30
+mazz.464: folds 
+*** FLOP *** [8d 9s Jd]
+Mahu2021: checks 
+ReyTaco: checks 
+*** TURN *** [8d 9s Jd] [3s]
+Mahu2021: checks 
+ReyTaco: checks 
+*** RIVER *** [8d 9s Jd 3s] [7c]
+Mahu2021: bets 570 and is all-in
+ReyTaco: calls 390 and is all-in
+Uncalled bet (180) returned to Mahu2021
+*** SHOW DOWN ***
+Mahu2021: shows [Qh Th] (a straight, Eight to Queen)
+ReyTaco: shows [Ts Ks] (a straight, Seven to Jack)
+Mahu2021 collected 880 from pot
+ReyTaco finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 880 | Rake 0 
+Board [8d 9s Jd 3s 7c]
+Seat 1: ReyTaco (button) showed [Ts Ks] and lost with a straight, Seven to Jack
+Seat 2: Mahu2021 (small blind) showed [Qh Th] and won (880) with a straight, Eight to Queen
+Seat 3: mazz.464 (big blind) folded before Flop
+
+
+
+PokerStars Hand #251455458672: Tournament #3777129121, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/07/12 21:09:58 CET [2024/07/12 15:09:58 ET]
+Table '3777129121 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (1060 in chips) 
+Seat 3: mazz.464 (440 in chips) 
+mazz.464: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s 7c]
+mazz.464: calls 10
+Mahu2021: checks 
+*** FLOP *** [Ks 7d Ah]
+Mahu2021: checks 
+mazz.464: bets 20
+Mahu2021: calls 20
+*** TURN *** [Ks 7d Ah] [6s]
+Mahu2021: checks 
+mazz.464: checks 
+*** RIVER *** [Ks 7d Ah 6s] [5h]
+Mahu2021: bets 40
+mazz.464: raises 40 to 80
+Mahu2021: folds 
+Uncalled bet (40) returned to mazz.464
+mazz.464 collected 160 from pot
+mazz.464: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Ks 7d Ah 6s 5h]
+Seat 2: Mahu2021 (big blind) folded on the River
+Seat 3: mazz.464 (button) (small blind) collected (160)
+
+
+
+PokerStars Hand #251455468941: Tournament #3777129121, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/07/12 21:10:29 CET [2024/07/12 15:10:29 ET]
+Table '3777129121 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (980 in chips) 
+Seat 3: mazz.464 (520 in chips) 
+Mahu2021: posts small blind 10
+mazz.464: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s 9d]
+Mahu2021: raises 960 to 980 and is all-in
+mazz.464: folds 
+Uncalled bet (960) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) collected (40)
+Seat 3: mazz.464 (big blind) folded before Flop
+
+
+
+PokerStars Hand #251455471391: Tournament #3777129121, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/07/12 21:10:36 CET [2024/07/12 15:10:36 ET]
+Table '3777129121 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (1000 in chips) 
+Seat 3: mazz.464 (500 in chips) 
+mazz.464: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h 9s]
+mazz.464: raises 20 to 40
+Mahu2021: folds 
+Uncalled bet (20) returned to mazz.464
+mazz.464 collected 40 from pot
+mazz.464: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: mazz.464 (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #251455473572: Tournament #3777129121, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/07/12 21:10:43 CET [2024/07/12 15:10:43 ET]
+Table '3777129121 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (980 in chips) 
+Seat 3: mazz.464 (520 in chips) 
+Mahu2021: posts small blind 10
+mazz.464: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3c 4s]
+Mahu2021: calls 10
+mazz.464: checks 
+*** FLOP *** [6d 6c 3d]
+mazz.464: checks 
+Mahu2021: bets 20
+mazz.464: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [6d 6c 3d]
+Seat 2: Mahu2021 (button) (small blind) collected (40)
+Seat 3: mazz.464 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #251455477645: Tournament #3777129121, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/07/12 21:10:56 CET [2024/07/12 15:10:56 ET]
+Table '3777129121 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (1000 in chips) 
+Seat 3: mazz.464 (500 in chips) 
+mazz.464: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c 9s]
+mazz.464: folds 
+Uncalled bet (10) returned to Mahu2021
+Mahu2021 collected 20 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 2: Mahu2021 (big blind) collected (20)
+Seat 3: mazz.464 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #251455479466: Tournament #3777129121, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/07/12 21:11:01 CET [2024/07/12 15:11:01 ET]
+Table '3777129121 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (1010 in chips) 
+Seat 3: mazz.464 (490 in chips) 
+Mahu2021: posts small blind 10
+mazz.464: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts 9d]
+Mahu2021: raises 20 to 40
+mazz.464: calls 20
+*** FLOP *** [Ad 6c Qc]
+mazz.464: checks 
+Mahu2021: checks 
+*** TURN *** [Ad 6c Qc] [8d]
+mazz.464: checks 
+Mahu2021: bets 40
+mazz.464: calls 40
+*** RIVER *** [Ad 6c Qc 8d] [2h]
+mazz.464: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+mazz.464: shows [7h 6h] (a pair of Sixes)
+Mahu2021: mucks hand 
+mazz.464 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Ad 6c Qc 8d 2h]
+Seat 2: Mahu2021 (button) (small blind) mucked [Ts 9d]
+Seat 3: mazz.464 (big blind) showed [7h 6h] and won (160) with a pair of Sixes
+
+
+
+PokerStars Hand #251455486764: Tournament #3777129121, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/07/12 21:11:23 CET [2024/07/12 15:11:23 ET]
+Table '3777129121 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (930 in chips) 
+Seat 3: mazz.464 (570 in chips) 
+mazz.464: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc 9s]
+mazz.464: calls 10
+Mahu2021: checks 
+*** FLOP *** [9d Qs 3h]
+Mahu2021: bets 40
+mazz.464: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [9d Qs 3h]
+Seat 2: Mahu2021 (big blind) collected (40)
+Seat 3: mazz.464 (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #251455492416: Tournament #3777129121, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/07/12 21:11:40 CET [2024/07/12 15:11:40 ET]
+Table '3777129121 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (950 in chips) 
+Seat 3: mazz.464 (550 in chips) 
+Mahu2021: posts small blind 15
+mazz.464: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h Jc]
+Mahu2021: calls 15
+mazz.464: checks 
+*** FLOP *** [6c 9h 4c]
+mazz.464: checks 
+Mahu2021: bets 30
+mazz.464: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [6c 9h 4c]
+Seat 2: Mahu2021 (button) (small blind) collected (60)
+Seat 3: mazz.464 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #251455496924: Tournament #3777129121, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/07/12 21:11:53 CET [2024/07/12 15:11:53 ET]
+Table '3777129121 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (980 in chips) 
+Seat 3: mazz.464 (520 in chips) 
+mazz.464: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac 7c]
+mazz.464: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 2: Mahu2021 (big blind) collected (30)
+Seat 3: mazz.464 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #251455498362: Tournament #3777129121, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/07/12 21:11:58 CET [2024/07/12 15:11:58 ET]
+Table '3777129121 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (995 in chips) 
+Seat 3: mazz.464 (505 in chips) 
+Mahu2021: posts small blind 15
+mazz.464: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks 5s]
+Mahu2021: raises 30 to 60
+mazz.464: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) collected (60)
+Seat 3: mazz.464 (big blind) folded before Flop
+
+
+
+PokerStars Hand #251455500308: Tournament #3777129121, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/07/12 21:12:04 CET [2024/07/12 15:12:04 ET]
+Table '3777129121 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (1025 in chips) 
+Seat 3: mazz.464 (475 in chips) 
+mazz.464: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c Js]
+mazz.464: calls 15
+Mahu2021: checks 
+*** FLOP *** [Ad 2s 7c]
+Mahu2021: checks 
+mazz.464: bets 30
+Mahu2021: folds 
+Uncalled bet (30) returned to mazz.464
+mazz.464 collected 60 from pot
+mazz.464: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Ad 2s 7c]
+Seat 2: Mahu2021 (big blind) folded on the Flop
+Seat 3: mazz.464 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #251455505691: Tournament #3777129121, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/07/12 21:12:20 CET [2024/07/12 15:12:20 ET]
+Table '3777129121 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (995 in chips) 
+Seat 3: mazz.464 (505 in chips) 
+Mahu2021: posts small blind 15
+mazz.464: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s 3s]
+Mahu2021: raises 30 to 60
+mazz.464: calls 30
+*** FLOP *** [2h 8c Qd]
+mazz.464: checks 
+Mahu2021: checks 
+*** TURN *** [2h 8c Qd] [7c]
+mazz.464: checks 
+Mahu2021: checks 
+*** RIVER *** [2h 8c Qd 7c] [Jh]
+mazz.464: bets 30
+Mahu2021: raises 90 to 120
+mazz.464: calls 90
+*** SHOW DOWN ***
+Mahu2021: shows [5s 3s] (high card Queen)
+mazz.464: shows [Ks Jd] (a pair of Jacks)
+mazz.464 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [2h 8c Qd 7c Jh]
+Seat 2: Mahu2021 (button) (small blind) showed [5s 3s] and lost with high card Queen
+Seat 3: mazz.464 (big blind) showed [Ks Jd] and won (360) with a pair of Jacks
+
+
+
+PokerStars Hand #251455514345: Tournament #3777129121, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/07/12 21:12:45 CET [2024/07/12 15:12:45 ET]
+Table '3777129121 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (815 in chips) 
+Seat 3: mazz.464 (685 in chips) 
+mazz.464: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3c Qc]
+mazz.464: calls 15
+Mahu2021: checks 
+*** FLOP *** [3h 7c 6h]
+Mahu2021: checks 
+mazz.464: checks 
+*** TURN *** [3h 7c 6h] [Kh]
+Mahu2021: checks 
+mazz.464: bets 30
+Mahu2021: calls 30
+*** RIVER *** [3h 7c 6h Kh] [3d]
+Mahu2021: checks 
+mazz.464: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [3c Qc] (three of a kind, Threes)
+mazz.464: mucks hand 
+Mahu2021 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [3h 7c 6h Kh 3d]
+Seat 2: Mahu2021 (big blind) showed [3c Qc] and won (120) with three of a kind, Threes
+Seat 3: mazz.464 (button) (small blind) mucked [8d Td]
+
+
+
+PokerStars Hand #251455519597: Tournament #3777129121, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/07/12 21:13:01 CET [2024/07/12 15:13:01 ET]
+Table '3777129121 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (875 in chips) 
+Seat 3: mazz.464 (625 in chips) 
+Mahu2021: posts small blind 15
+mazz.464: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h Kh]
+Mahu2021: raises 30 to 60
+mazz.464: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) collected (60)
+Seat 3: mazz.464 (big blind) folded before Flop
+
+
+
+PokerStars Hand #251455521459: Tournament #3777129121, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/07/12 21:13:07 CET [2024/07/12 15:13:07 ET]
+Table '3777129121 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (905 in chips) 
+Seat 3: mazz.464 (595 in chips) 
+mazz.464: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd 2c]
+mazz.464: calls 15
+Mahu2021: checks 
+*** FLOP *** [7h Ac Qc]
+Mahu2021: checks 
+mazz.464: checks 
+*** TURN *** [7h Ac Qc] [3s]
+Mahu2021: checks 
+mazz.464: bets 30
+Mahu2021: folds 
+Uncalled bet (30) returned to mazz.464
+mazz.464 collected 60 from pot
+mazz.464: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [7h Ac Qc 3s]
+Seat 2: Mahu2021 (big blind) folded on the Turn
+Seat 3: mazz.464 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #251455526034: Tournament #3777129121, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/07/12 21:13:21 CET [2024/07/12 15:13:21 ET]
+Table '3777129121 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (875 in chips) 
+Seat 3: mazz.464 (625 in chips) 
+Mahu2021: posts small blind 15
+mazz.464: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s 9s]
+Mahu2021: raises 30 to 60
+mazz.464: calls 30
+*** FLOP *** [Ac 8s 4h]
+mazz.464: checks 
+Mahu2021: bets 60
+mazz.464: calls 60
+*** TURN *** [Ac 8s 4h] [Kc]
+mazz.464: checks 
+Mahu2021: bets 755 and is all-in
+mazz.464: calls 505 and is all-in
+Uncalled bet (250) returned to Mahu2021
+*** RIVER *** [Ac 8s 4h Kc] [Qh]
+*** SHOW DOWN ***
+mazz.464: shows [Ah 7h] (a pair of Aces)
+Mahu2021: shows [6s 9s] (high card Ace)
+mazz.464 collected 1250 from pot
+*** SUMMARY ***
+Total pot 1250 | Rake 0 
+Board [Ac 8s 4h Kc Qh]
+Seat 2: Mahu2021 (button) (small blind) showed [6s 9s] and lost with high card Ace
+Seat 3: mazz.464 (big blind) showed [Ah 7h] and won (1250) with a pair of Aces
+
+
+
+PokerStars Hand #251455534288: Tournament #3777129121, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/07/12 21:13:45 CET [2024/07/12 15:13:45 ET]
+Table '3777129121 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (250 in chips) 
+Seat 3: mazz.464 (1250 in chips) 
+mazz.464: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js 4s]
+mazz.464: calls 15
+Mahu2021: raises 220 to 250 and is all-in
+mazz.464: folds 
+Uncalled bet (220) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: Mahu2021 (big blind) collected (60)
+Seat 3: mazz.464 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #251455536767: Tournament #3777129121, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/07/12 21:13:53 CET [2024/07/12 15:13:53 ET]
+Table '3777129121 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (280 in chips) 
+Seat 3: mazz.464 (1220 in chips) 
+Mahu2021: posts small blind 15
+mazz.464: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qs Kh]
+Mahu2021: calls 15
+mazz.464: checks 
+*** FLOP *** [4c 3h Ah]
+mazz.464: checks 
+Mahu2021: bets 30
+mazz.464: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [4c 3h Ah]
+Seat 2: Mahu2021 (button) (small blind) collected (60)
+Seat 3: mazz.464 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #251455541281: Tournament #3777129121, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/07/12 21:14:07 CET [2024/07/12 15:14:07 ET]
+Table '3777129121 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (310 in chips) 
+Seat 3: mazz.464 (1190 in chips) 
+mazz.464: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d 7s]
+mazz.464: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 2: Mahu2021 (big blind) collected (30)
+Seat 3: mazz.464 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #251455542853: Tournament #3777129121, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/07/12 21:14:11 CET [2024/07/12 15:14:11 ET]
+Table '3777129121 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (325 in chips) 
+Seat 3: mazz.464 (1175 in chips) 
+Mahu2021: posts small blind 15
+mazz.464: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc 7h]
+Mahu2021: raises 30 to 60
+mazz.464: raises 1115 to 1175 and is all-in
+Mahu2021: calls 265 and is all-in
+Uncalled bet (850) returned to mazz.464
+*** FLOP *** [3d Qh 8h]
+*** TURN *** [3d Qh 8h] [Tc]
+*** RIVER *** [3d Qh 8h Tc] [9s]
+*** SHOW DOWN ***
+mazz.464: shows [Ad 2c] (high card Ace)
+Mahu2021: shows [Qc 7h] (a pair of Queens)
+Mahu2021 collected 650 from pot
+*** SUMMARY ***
+Total pot 650 | Rake 0 
+Board [3d Qh 8h Tc 9s]
+Seat 2: Mahu2021 (button) (small blind) showed [Qc 7h] and won (650) with a pair of Queens
+Seat 3: mazz.464 (big blind) showed [Ad 2c] and lost with high card Ace
+
+
+
+PokerStars Hand #251455547682: Tournament #3777129121, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/07/12 21:14:26 CET [2024/07/12 15:14:26 ET]
+Table '3777129121 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (650 in chips) 
+Seat 3: mazz.464 (850 in chips) 
+mazz.464: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3c 3d]
+mazz.464: raises 820 to 850 and is all-in
+Mahu2021: calls 620 and is all-in
+Uncalled bet (200) returned to mazz.464
+*** FLOP *** [9c 8d 6c]
+*** TURN *** [9c 8d 6c] [3h]
+*** RIVER *** [9c 8d 6c 3h] [Tc]
+*** SHOW DOWN ***
+Mahu2021: shows [3c 3d] (three of a kind, Threes)
+mazz.464: shows [8h As] (a pair of Eights)
+Mahu2021 collected 1300 from pot
+*** SUMMARY ***
+Total pot 1300 | Rake 0 
+Board [9c 8d 6c 3h Tc]
+Seat 2: Mahu2021 (big blind) showed [3c 3d] and won (1300) with three of a kind, Threes
+Seat 3: mazz.464 (button) (small blind) showed [8h As] and lost with a pair of Eights
+
+
+
+PokerStars Hand #251455553274: Tournament #3777129121, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/07/12 21:14:42 CET [2024/07/12 15:14:42 ET]
+Table '3777129121 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (1300 in chips) 
+Seat 3: mazz.464 (200 in chips) 
+Mahu2021: posts small blind 20
+mazz.464: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c Tc]
+Mahu2021: folds 
+Uncalled bet (20) returned to mazz.464
+mazz.464 collected 40 from pot
+mazz.464: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: mazz.464 (big blind) collected (40)
+
+
+
+PokerStars Hand #251455554737: Tournament #3777129121, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/07/12 21:14:47 CET [2024/07/12 15:14:47 ET]
+Table '3777129121 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (1280 in chips) 
+Seat 3: mazz.464 (220 in chips) 
+mazz.464: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d Qc]
+mazz.464: raises 180 to 220 and is all-in
+Mahu2021: folds 
+Uncalled bet (180) returned to mazz.464
+mazz.464 collected 80 from pot
+mazz.464: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: mazz.464 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #251455556554: Tournament #3777129121, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/07/12 21:14:52 CET [2024/07/12 15:14:52 ET]
+Table '3777129121 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (1240 in chips) 
+Seat 3: mazz.464 (260 in chips) 
+Mahu2021: posts small blind 20
+mazz.464: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h Td]
+Mahu2021: calls 20
+mazz.464: raises 220 to 260 and is all-in
+Mahu2021: folds 
+Uncalled bet (220) returned to mazz.464
+mazz.464 collected 80 from pot
+mazz.464: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: mazz.464 (big blind) collected (80)
+
+
+
+PokerStars Hand #251455558915: Tournament #3777129121, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/07/12 21:14:59 CET [2024/07/12 15:14:59 ET]
+Table '3777129121 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (1200 in chips) 
+Seat 3: mazz.464 (300 in chips) 
+mazz.464: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s 9c]
+mazz.464: calls 20
+Mahu2021: raises 80 to 120
+mazz.464: folds 
+Uncalled bet (80) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: Mahu2021 (big blind) collected (80)
+Seat 3: mazz.464 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #251455561665: Tournament #3777129121, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/07/12 21:15:07 CET [2024/07/12 15:15:07 ET]
+Table '3777129121 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (1240 in chips) 
+Seat 3: mazz.464 (260 in chips) 
+Mahu2021: posts small blind 20
+mazz.464: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2s 2d]
+Mahu2021: raises 1200 to 1240 and is all-in
+mazz.464: folds 
+Uncalled bet (1200) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) collected (80)
+Seat 3: mazz.464 (big blind) folded before Flop
+
+
+
+PokerStars Hand #251455563557: Tournament #3777129121, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/07/12 21:15:13 CET [2024/07/12 15:15:13 ET]
+Table '3777129121 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (1280 in chips) 
+Seat 3: mazz.464 (220 in chips) 
+mazz.464: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d 2d]
+mazz.464: raises 180 to 220 and is all-in
+Mahu2021: folds 
+Uncalled bet (180) returned to mazz.464
+mazz.464 collected 80 from pot
+mazz.464: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: mazz.464 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #251455565607: Tournament #3777129121, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/07/12 21:15:19 CET [2024/07/12 15:15:19 ET]
+Table '3777129121 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (1240 in chips) 
+Seat 3: mazz.464 (260 in chips) 
+Mahu2021: posts small blind 20
+mazz.464: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh 5d]
+Mahu2021: calls 20
+mazz.464: checks 
+*** FLOP *** [9c 6s Th]
+mazz.464: checks 
+Mahu2021: bets 40
+mazz.464: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [9c 6s Th]
+Seat 2: Mahu2021 (button) (small blind) collected (80)
+Seat 3: mazz.464 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #251455571189: Tournament #3777129121, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/07/12 21:15:36 CET [2024/07/12 15:15:36 ET]
+Table '3777129121 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (1280 in chips) 
+Seat 3: mazz.464 (220 in chips) 
+mazz.464: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3c Qc]
+mazz.464: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: Mahu2021 (big blind) collected (40)
+Seat 3: mazz.464 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #251455572844: Tournament #3777129121, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/07/12 21:15:41 CET [2024/07/12 15:15:41 ET]
+Table '3777129121 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (1300 in chips) 
+Seat 3: mazz.464 (200 in chips) 
+Mahu2021: posts small blind 20
+mazz.464: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d 7s]
+Mahu2021: folds 
+Uncalled bet (20) returned to mazz.464
+mazz.464 collected 40 from pot
+mazz.464: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: mazz.464 (big blind) collected (40)
+
+
+
+PokerStars Hand #251455574265: Tournament #3777129121, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/07/12 21:15:45 CET [2024/07/12 15:15:45 ET]
+Table '3777129121 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (1280 in chips) 
+Seat 3: mazz.464 (220 in chips) 
+mazz.464: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js Ac]
+mazz.464: raises 180 to 220 and is all-in
+Mahu2021: calls 180
+*** FLOP *** [As Th 8c]
+*** TURN *** [As Th 8c] [Kh]
+*** RIVER *** [As Th 8c Kh] [9c]
+*** SHOW DOWN ***
+Mahu2021: shows [Js Ac] (a pair of Aces)
+mazz.464: shows [7s Td] (a pair of Tens)
+Mahu2021 collected 440 from pot
+mazz.464 finished the tournament in 2nd place
+Mahu2021 wins the tournament and receives $6.00 - congratulations!
+*** SUMMARY ***
+Total pot 440 | Rake 0 
+Board [As Th 8c Kh 9c]
+Seat 2: Mahu2021 (big blind) showed [Js Ac] and won (440) with a pair of Aces
+Seat 3: mazz.464 (button) (small blind) showed [7s Td] and lost with a pair of Tens
+
+
+

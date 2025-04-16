@@ -1,0 +1,440 @@
+﻿PokerStars Hand #247036755834: Tournament #3671518071, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/10 23:20:16 CET [2023/11/10 17:20:16 ET]
+Table '3671518071 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: TheOrphan29 (500 in chips) 
+Seat 3: busted_chick (500 in chips) 
+TheOrphan29: posts small blind 10
+busted_chick: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks 2s]
+Mahu2021: calls 20
+TheOrphan29: folds 
+busted_chick: checks 
+*** FLOP *** [8h 9c 4h]
+busted_chick: bets 50
+Mahu2021: folds 
+Uncalled bet (50) returned to busted_chick
+busted_chick collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [8h 9c 4h]
+Seat 1: Mahu2021 (button) folded on the Flop
+Seat 2: TheOrphan29 (small blind) folded before Flop
+Seat 3: busted_chick (big blind) collected (50)
+
+
+
+PokerStars Hand #247036762235: Tournament #3671518071, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/10 23:20:34 CET [2023/11/10 17:20:34 ET]
+Table '3671518071 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (480 in chips) 
+Seat 2: TheOrphan29 (490 in chips) 
+Seat 3: busted_chick (530 in chips) 
+busted_chick: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd 2d]
+TheOrphan29: raises 20 to 40
+busted_chick: calls 30
+Mahu2021: calls 20
+*** FLOP *** [9c 7s Ah]
+busted_chick: checks 
+Mahu2021: checks 
+TheOrphan29: bets 66
+busted_chick: calls 66
+Mahu2021: folds 
+*** TURN *** [9c 7s Ah] [Th]
+busted_chick: checks 
+TheOrphan29: bets 169
+busted_chick: calls 169
+*** RIVER *** [9c 7s Ah Th] [Qd]
+busted_chick: checks 
+TheOrphan29: bets 215 and is all-in
+busted_chick: folds 
+Uncalled bet (215) returned to TheOrphan29
+TheOrphan29 collected 590 from pot
+TheOrphan29: doesn't show hand 
+*** SUMMARY ***
+Total pot 590 | Rake 0 
+Board [9c 7s Ah Th Qd]
+Seat 1: Mahu2021 (big blind) folded on the Flop
+Seat 2: TheOrphan29 (button) collected (590)
+Seat 3: busted_chick (small blind) folded on the River
+
+
+
+PokerStars Hand #247036781246: Tournament #3671518071, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/10 23:21:27 CET [2023/11/10 17:21:27 ET]
+Table '3671518071 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (440 in chips) 
+Seat 2: TheOrphan29 (805 in chips) 
+Seat 3: busted_chick (255 in chips) 
+Mahu2021: posts small blind 10
+TheOrphan29: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h 3d]
+busted_chick: calls 20
+Mahu2021: folds 
+TheOrphan29: checks 
+*** FLOP *** [6s 6h Kc]
+TheOrphan29: checks 
+busted_chick: bets 20
+TheOrphan29: folds 
+Uncalled bet (20) returned to busted_chick
+busted_chick collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [6s 6h Kc]
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: TheOrphan29 (big blind) folded on the Flop
+Seat 3: busted_chick (button) collected (50)
+
+
+
+PokerStars Hand #247036786807: Tournament #3671518071, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/10 23:21:43 CET [2023/11/10 17:21:43 ET]
+Table '3671518071 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (430 in chips) 
+Seat 2: TheOrphan29 (785 in chips) 
+Seat 3: busted_chick (285 in chips) 
+TheOrphan29: posts small blind 10
+busted_chick: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h Kc]
+Mahu2021: folds 
+TheOrphan29: raises 40 to 60
+busted_chick: calls 40
+*** FLOP *** [7s 9c 4d]
+TheOrphan29: bets 725 and is all-in
+busted_chick: calls 225 and is all-in
+Uncalled bet (500) returned to TheOrphan29
+*** TURN *** [7s 9c 4d] [Jd]
+*** RIVER *** [7s 9c 4d Jd] [Qc]
+*** SHOW DOWN ***
+TheOrphan29: shows [Kh Ad] (high card Ace)
+busted_chick: shows [7d 6d] (a pair of Sevens)
+busted_chick collected 570 from pot
+*** SUMMARY ***
+Total pot 570 | Rake 0 
+Board [7s 9c 4d Jd Qc]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: TheOrphan29 (small blind) showed [Kh Ad] and lost with high card Ace
+Seat 3: busted_chick (big blind) showed [7d 6d] and won (570) with a pair of Sevens
+
+
+
+PokerStars Hand #247036796364: Tournament #3671518071, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/10 23:22:10 CET [2023/11/10 17:22:10 ET]
+Table '3671518071 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (430 in chips) 
+Seat 2: TheOrphan29 (500 in chips) 
+Seat 3: busted_chick (570 in chips) 
+busted_chick: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc 9c]
+TheOrphan29: folds 
+busted_chick: calls 10
+Mahu2021: checks 
+*** FLOP *** [4h Qh Ks]
+busted_chick: bets 20
+Mahu2021: calls 20
+*** TURN *** [4h Qh Ks] [4s]
+busted_chick: checks 
+Mahu2021: bets 60
+busted_chick: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [4h Qh Ks 4s]
+Seat 1: Mahu2021 (big blind) collected (80)
+Seat 2: TheOrphan29 (button) folded before Flop (didn't bet)
+Seat 3: busted_chick (small blind) folded on the Turn
+
+
+
+PokerStars Hand #247036806739: Tournament #3671518071, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/10 23:22:39 CET [2023/11/10 17:22:39 ET]
+Table '3671518071 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (470 in chips) 
+Seat 2: TheOrphan29 (500 in chips) 
+Seat 3: busted_chick (530 in chips) 
+Mahu2021: posts small blind 15
+TheOrphan29: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8s Qh]
+busted_chick: folds 
+Mahu2021: calls 15
+TheOrphan29: raises 60 to 90
+Mahu2021: calls 60
+*** FLOP *** [6h 5d 8d]
+Mahu2021: bets 380 and is all-in
+TheOrphan29: folds 
+Uncalled bet (380) returned to Mahu2021
+Mahu2021 collected 180 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [6h 5d 8d]
+Seat 1: Mahu2021 (small blind) collected (180)
+Seat 2: TheOrphan29 (big blind) folded on the Flop
+Seat 3: busted_chick (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #247036812553: Tournament #3671518071, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/10 23:22:55 CET [2023/11/10 17:22:55 ET]
+Table '3671518071 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (560 in chips) 
+Seat 2: TheOrphan29 (410 in chips) 
+Seat 3: busted_chick (530 in chips) 
+TheOrphan29: posts small blind 15
+busted_chick: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d 5h]
+Mahu2021: folds 
+TheOrphan29: raises 380 to 410 and is all-in
+busted_chick: calls 380
+*** FLOP *** [Kc Qd 9c]
+*** TURN *** [Kc Qd 9c] [3d]
+*** RIVER *** [Kc Qd 9c 3d] [Ts]
+*** SHOW DOWN ***
+TheOrphan29: shows [5s 5d] (a pair of Fives)
+busted_chick: shows [Ad Jd] (a straight, Ten to Ace)
+busted_chick collected 820 from pot
+TheOrphan29 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 820 | Rake 0 
+Board [Kc Qd 9c 3d Ts]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: TheOrphan29 (small blind) showed [5s 5d] and lost with a pair of Fives
+Seat 3: busted_chick (big blind) showed [Ad Jd] and won (820) with a straight, Ten to Ace
+
+
+
+PokerStars Hand #247036819040: Tournament #3671518071, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/10 23:23:14 CET [2023/11/10 17:23:14 ET]
+Table '3671518071 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (560 in chips) 
+Seat 3: busted_chick (940 in chips) 
+busted_chick: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js 9d]
+busted_chick: calls 15
+Mahu2021: checks 
+*** FLOP *** [4s 2c Ts]
+Mahu2021: checks 
+busted_chick: bets 30
+Mahu2021: folds 
+Uncalled bet (30) returned to busted_chick
+busted_chick collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [4s 2c Ts]
+Seat 1: Mahu2021 (big blind) folded on the Flop
+Seat 3: busted_chick (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #247036824557: Tournament #3671518071, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/10 23:23:30 CET [2023/11/10 17:23:30 ET]
+Table '3671518071 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (530 in chips) 
+Seat 3: busted_chick (970 in chips) 
+Mahu2021: posts small blind 15
+busted_chick: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qs 4c]
+Mahu2021: calls 15
+busted_chick: raises 120 to 150
+Mahu2021: folds 
+Uncalled bet (120) returned to busted_chick
+busted_chick collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: busted_chick (big blind) collected (60)
+
+
+
+PokerStars Hand #247036828895: Tournament #3671518071, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/10 23:23:42 CET [2023/11/10 17:23:42 ET]
+Table '3671518071 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 3: busted_chick (1000 in chips) 
+busted_chick: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qs 5h]
+busted_chick: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (30)
+Seat 3: busted_chick (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #247036830542: Tournament #3671518071, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/10 23:23:47 CET [2023/11/10 17:23:47 ET]
+Table '3671518071 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (515 in chips) 
+Seat 3: busted_chick (985 in chips) 
+Mahu2021: posts small blind 15
+busted_chick: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd Jd]
+Mahu2021: raises 30 to 60
+busted_chick: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) collected (60)
+Seat 3: busted_chick (big blind) folded before Flop
+
+
+
+PokerStars Hand #247036832738: Tournament #3671518071, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/10 23:23:53 CET [2023/11/10 17:23:53 ET]
+Table '3671518071 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (545 in chips) 
+Seat 3: busted_chick (955 in chips) 
+busted_chick: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d Jh]
+busted_chick: calls 15
+Mahu2021: checks 
+*** FLOP *** [Kh Ad 2c]
+Mahu2021: checks 
+busted_chick: bets 30
+Mahu2021: folds 
+Uncalled bet (30) returned to busted_chick
+busted_chick collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Kh Ad 2c]
+Seat 1: Mahu2021 (big blind) folded on the Flop
+Seat 3: busted_chick (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #247036837802: Tournament #3671518071, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/10 23:24:07 CET [2023/11/10 17:24:07 ET]
+Table '3671518071 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (515 in chips) 
+Seat 3: busted_chick (985 in chips) 
+Mahu2021: posts small blind 15
+busted_chick: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts 3h]
+Mahu2021: folds 
+Uncalled bet (15) returned to busted_chick
+busted_chick collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: busted_chick (big blind) collected (30)
+
+
+
+PokerStars Hand #247036839390: Tournament #3671518071, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/10 23:24:11 CET [2023/11/10 17:24:11 ET]
+Table '3671518071 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 3: busted_chick (1000 in chips) 
+busted_chick: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h 7c]
+busted_chick: calls 15
+Mahu2021: checks 
+*** FLOP *** [3c Qc Th]
+Mahu2021: checks 
+busted_chick: bets 30
+Mahu2021: folds 
+Uncalled bet (30) returned to busted_chick
+busted_chick collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [3c Qc Th]
+Seat 1: Mahu2021 (big blind) folded on the Flop
+Seat 3: busted_chick (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #247036845398: Tournament #3671518071, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/11/10 23:24:29 CET [2023/11/10 17:24:29 ET]
+Table '3671518071 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (470 in chips) 
+Seat 3: busted_chick (1030 in chips) 
+Mahu2021: posts small blind 20
+busted_chick: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s 5c]
+Mahu2021: raises 430 to 470 and is all-in
+busted_chick: folds 
+Uncalled bet (430) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) collected (80)
+Seat 3: busted_chick (big blind) folded before Flop
+
+
+
+PokerStars Hand #247036848338: Tournament #3671518071, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/11/10 23:24:37 CET [2023/11/10 17:24:37 ET]
+Table '3671518071 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (510 in chips) 
+Seat 3: busted_chick (990 in chips) 
+busted_chick: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s 2h]
+busted_chick: raises 40 to 80
+Mahu2021: calls 40
+*** FLOP *** [7h 4d 5h]
+Mahu2021: checks 
+busted_chick: bets 40
+Mahu2021: calls 40
+*** TURN *** [7h 4d 5h] [Ts]
+Mahu2021: checks 
+busted_chick: checks 
+*** RIVER *** [7h 4d 5h Ts] [Ks]
+Mahu2021: checks 
+busted_chick: bets 200
+Mahu2021: folds 
+Uncalled bet (200) returned to busted_chick
+busted_chick collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [7h 4d 5h Ts Ks]
+Seat 1: Mahu2021 (big blind) folded on the River
+Seat 3: busted_chick (button) (small blind) collected (240)
+
+
+
+PokerStars Hand #247036862122: Tournament #3671518071, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/11/10 23:25:16 CET [2023/11/10 17:25:16 ET]
+Table '3671518071 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (390 in chips) 
+Seat 3: busted_chick (1110 in chips) 
+Mahu2021: posts small blind 20
+busted_chick: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad Jh]
+Mahu2021: raises 40 to 80
+busted_chick: calls 40
+*** FLOP *** [Kh 4h Tc]
+busted_chick: checks 
+Mahu2021: bets 310 and is all-in
+busted_chick: calls 310
+*** TURN *** [Kh 4h Tc] [8d]
+*** RIVER *** [Kh 4h Tc 8d] [4d]
+*** SHOW DOWN ***
+busted_chick: shows [5h Ks] (two pair, Kings and Fours)
+Mahu2021: shows [Ad Jh] (a pair of Fours)
+busted_chick collected 780 from pot
+Mahu2021 finished the tournament in 2nd place
+busted_chick wins the tournament and receives $4.00 - congratulations!
+*** SUMMARY ***
+Total pot 780 | Rake 0 
+Board [Kh 4h Tc 8d 4d]
+Seat 1: Mahu2021 (button) (small blind) showed [Ad Jh] and lost with a pair of Fours
+Seat 3: busted_chick (big blind) showed [5h Ks] and won (780) with two pair, Kings and Fours
+
+
+

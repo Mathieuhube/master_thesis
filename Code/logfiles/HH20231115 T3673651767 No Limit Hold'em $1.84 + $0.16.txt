@@ -1,0 +1,742 @@
+﻿PokerStars Hand #247127005920: Tournament #3673651767, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/15 20:45:51 CET [2023/11/15 14:45:51 ET]
+Table '3673651767 1' 3-max Seat #1 is the button
+Seat 1: JoaoFrangoC (500 in chips) 
+Seat 2: P.Fialho33 (500 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+P.Fialho33: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac 8s]
+JoaoFrangoC: folds 
+P.Fialho33: calls 10
+Mahu2021: checks 
+*** FLOP *** [Jc 8h Qs]
+P.Fialho33: checks 
+Mahu2021: bets 20
+P.Fialho33: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Jc 8h Qs]
+Seat 1: JoaoFrangoC (button) folded before Flop (didn't bet)
+Seat 2: P.Fialho33 (small blind) folded on the Flop
+Seat 3: Mahu2021 (big blind) collected (40)
+
+
+
+PokerStars Hand #247127012260: Tournament #3673651767, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/15 20:46:10 CET [2023/11/15 14:46:10 ET]
+Table '3673651767 1' 3-max Seat #2 is the button
+Seat 1: JoaoFrangoC (500 in chips) 
+Seat 2: P.Fialho33 (480 in chips) 
+Seat 3: Mahu2021 (520 in chips) 
+Mahu2021: posts small blind 10
+JoaoFrangoC: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Td Js]
+P.Fialho33: folds 
+Mahu2021: raises 20 to 40
+JoaoFrangoC: calls 20
+*** FLOP *** [Ac Qh 7s]
+Mahu2021: checks 
+JoaoFrangoC: checks 
+*** TURN *** [Ac Qh 7s] [Kd]
+Mahu2021: checks 
+JoaoFrangoC: checks 
+*** RIVER *** [Ac Qh 7s Kd] [9s]
+Mahu2021: bets 80
+JoaoFrangoC: folds 
+Uncalled bet (80) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Ac Qh 7s Kd 9s]
+Seat 1: JoaoFrangoC (big blind) folded on the River
+Seat 2: P.Fialho33 (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) collected (80)
+
+
+
+PokerStars Hand #247127023774: Tournament #3673651767, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/15 20:46:44 CET [2023/11/15 14:46:44 ET]
+Table '3673651767 1' 3-max Seat #3 is the button
+Seat 1: JoaoFrangoC (460 in chips) 
+Seat 2: P.Fialho33 (480 in chips) 
+Seat 3: Mahu2021 (560 in chips) 
+JoaoFrangoC: posts small blind 10
+P.Fialho33: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3c 4s]
+Mahu2021: folds 
+JoaoFrangoC: raises 20 to 40
+P.Fialho33: calls 20
+*** FLOP *** [2h 2c Ac]
+JoaoFrangoC: bets 29
+P.Fialho33: calls 29
+*** TURN *** [2h 2c Ac] [9h]
+JoaoFrangoC: bets 104
+P.Fialho33: folds 
+Uncalled bet (104) returned to JoaoFrangoC
+JoaoFrangoC collected 138 from pot
+JoaoFrangoC: doesn't show hand 
+*** SUMMARY ***
+Total pot 138 | Rake 0 
+Board [2h 2c Ac 9h]
+Seat 1: JoaoFrangoC (small blind) collected (138)
+Seat 2: P.Fialho33 (big blind) folded on the Turn
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #247127035629: Tournament #3673651767, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/15 20:47:19 CET [2023/11/15 14:47:19 ET]
+Table '3673651767 1' 3-max Seat #1 is the button
+Seat 1: JoaoFrangoC (529 in chips) 
+Seat 2: P.Fialho33 (411 in chips) 
+Seat 3: Mahu2021 (560 in chips) 
+P.Fialho33: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h Ts]
+JoaoFrangoC: folds 
+P.Fialho33: calls 10
+Mahu2021: checks 
+*** FLOP *** [Qd Td Qs]
+P.Fialho33: bets 60
+Mahu2021: calls 60
+*** TURN *** [Qd Td Qs] [5s]
+P.Fialho33: checks 
+Mahu2021: checks 
+*** RIVER *** [Qd Td Qs 5s] [4s]
+P.Fialho33: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+P.Fialho33: shows [6s Jh] (a pair of Queens)
+Mahu2021: shows [8h Ts] (two pair, Queens and Tens)
+Mahu2021 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Qd Td Qs 5s 4s]
+Seat 1: JoaoFrangoC (button) folded before Flop (didn't bet)
+Seat 2: P.Fialho33 (small blind) showed [6s Jh] and lost with a pair of Queens
+Seat 3: Mahu2021 (big blind) showed [8h Ts] and won (160) with two pair, Queens and Tens
+
+
+
+PokerStars Hand #247127043235: Tournament #3673651767, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/15 20:47:41 CET [2023/11/15 14:47:41 ET]
+Table '3673651767 1' 3-max Seat #2 is the button
+Seat 1: JoaoFrangoC (529 in chips) 
+Seat 2: P.Fialho33 (331 in chips) 
+Seat 3: Mahu2021 (640 in chips) 
+Mahu2021: posts small blind 10
+JoaoFrangoC: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah 8s]
+P.Fialho33: raises 20 to 40
+Mahu2021: calls 30
+JoaoFrangoC: folds 
+*** FLOP *** [4h 5s 6h]
+Mahu2021: checks 
+P.Fialho33: checks 
+*** TURN *** [4h 5s 6h] [Jd]
+Mahu2021: checks 
+P.Fialho33: checks 
+*** RIVER *** [4h 5s 6h Jd] [7h]
+Mahu2021: bets 100
+P.Fialho33: folds 
+Uncalled bet (100) returned to Mahu2021
+Mahu2021 collected 100 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [4h 5s 6h Jd 7h]
+Seat 1: JoaoFrangoC (big blind) folded before Flop
+Seat 2: P.Fialho33 (button) folded on the River
+Seat 3: Mahu2021 (small blind) collected (100)
+
+
+
+PokerStars Hand #247127049898: Tournament #3673651767, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/15 20:48:01 CET [2023/11/15 14:48:01 ET]
+Table '3673651767 1' 3-max Seat #3 is the button
+Seat 1: JoaoFrangoC (509 in chips) 
+Seat 2: P.Fialho33 (291 in chips) 
+Seat 3: Mahu2021 (700 in chips) 
+JoaoFrangoC: posts small blind 15
+P.Fialho33: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c 5s]
+Mahu2021: folds 
+JoaoFrangoC: calls 15
+P.Fialho33: checks 
+*** FLOP *** [4h 5c 6c]
+JoaoFrangoC: checks 
+P.Fialho33: bets 30
+JoaoFrangoC: calls 30
+*** TURN *** [4h 5c 6c] [Jc]
+JoaoFrangoC: checks 
+P.Fialho33: checks 
+*** RIVER *** [4h 5c 6c Jc] [Jh]
+JoaoFrangoC: checks 
+P.Fialho33: checks 
+*** SHOW DOWN ***
+JoaoFrangoC: shows [4d Qs] (two pair, Jacks and Fours)
+P.Fialho33: mucks hand 
+JoaoFrangoC collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [4h 5c 6c Jc Jh]
+Seat 1: JoaoFrangoC (small blind) showed [4d Qs] and won (120) with two pair, Jacks and Fours
+Seat 2: P.Fialho33 (big blind) mucked [8h 2s]
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #247127057742: Tournament #3673651767, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/15 20:48:24 CET [2023/11/15 14:48:24 ET]
+Table '3673651767 1' 3-max Seat #1 is the button
+Seat 1: JoaoFrangoC (569 in chips) 
+Seat 2: P.Fialho33 (231 in chips) 
+Seat 3: Mahu2021 (700 in chips) 
+P.Fialho33: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts 6s]
+JoaoFrangoC: folds 
+P.Fialho33: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: JoaoFrangoC (button) folded before Flop (didn't bet)
+Seat 2: P.Fialho33 (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (30)
+
+
+
+PokerStars Hand #247127059668: Tournament #3673651767, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/15 20:48:30 CET [2023/11/15 14:48:30 ET]
+Table '3673651767 1' 3-max Seat #2 is the button
+Seat 1: JoaoFrangoC (569 in chips) 
+Seat 2: P.Fialho33 (216 in chips) 
+Seat 3: Mahu2021 (715 in chips) 
+Mahu2021: posts small blind 15
+JoaoFrangoC: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qd Tc]
+P.Fialho33: folds 
+Mahu2021: raises 30 to 60
+JoaoFrangoC: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: JoaoFrangoC (big blind) folded before Flop
+Seat 2: P.Fialho33 (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) collected (60)
+
+
+
+PokerStars Hand #247127062867: Tournament #3673651767, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/15 20:48:39 CET [2023/11/15 14:48:39 ET]
+Table '3673651767 1' 3-max Seat #3 is the button
+Seat 1: JoaoFrangoC (539 in chips) 
+Seat 2: P.Fialho33 (216 in chips) 
+Seat 3: Mahu2021 (745 in chips) 
+JoaoFrangoC: posts small blind 15
+P.Fialho33: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4c 2h]
+Mahu2021: folds 
+JoaoFrangoC: raises 509 to 539 and is all-in
+P.Fialho33: folds 
+Uncalled bet (509) returned to JoaoFrangoC
+JoaoFrangoC collected 60 from pot
+JoaoFrangoC: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: JoaoFrangoC (small blind) collected (60)
+Seat 2: P.Fialho33 (big blind) folded before Flop
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #247127065382: Tournament #3673651767, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/15 20:48:47 CET [2023/11/15 14:48:47 ET]
+Table '3673651767 1' 3-max Seat #1 is the button
+Seat 1: JoaoFrangoC (569 in chips) 
+Seat 2: P.Fialho33 (186 in chips) 
+Seat 3: Mahu2021 (745 in chips) 
+P.Fialho33: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d 9s]
+JoaoFrangoC: folds 
+P.Fialho33: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: JoaoFrangoC (button) folded before Flop (didn't bet)
+Seat 2: P.Fialho33 (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (30)
+
+
+
+PokerStars Hand #247127067925: Tournament #3673651767, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/15 20:48:54 CET [2023/11/15 14:48:54 ET]
+Table '3673651767 1' 3-max Seat #2 is the button
+Seat 1: JoaoFrangoC (569 in chips) 
+Seat 2: P.Fialho33 (171 in chips) 
+Seat 3: Mahu2021 (760 in chips) 
+Mahu2021: posts small blind 15
+JoaoFrangoC: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s 5h]
+P.Fialho33: folds 
+Mahu2021: folds 
+Uncalled bet (15) returned to JoaoFrangoC
+JoaoFrangoC collected 30 from pot
+JoaoFrangoC: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: JoaoFrangoC (big blind) collected (30)
+Seat 2: P.Fialho33 (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #247127069468: Tournament #3673651767, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/15 20:48:59 CET [2023/11/15 14:48:59 ET]
+Table '3673651767 1' 3-max Seat #3 is the button
+Seat 1: JoaoFrangoC (584 in chips) 
+Seat 2: P.Fialho33 (171 in chips) 
+Seat 3: Mahu2021 (745 in chips) 
+JoaoFrangoC: posts small blind 15
+P.Fialho33: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h 7d]
+Mahu2021: folds 
+JoaoFrangoC: raises 554 to 584 and is all-in
+P.Fialho33: folds 
+Uncalled bet (554) returned to JoaoFrangoC
+JoaoFrangoC collected 60 from pot
+JoaoFrangoC: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: JoaoFrangoC (small blind) collected (60)
+Seat 2: P.Fialho33 (big blind) folded before Flop
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #247127072497: Tournament #3673651767, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/15 20:49:08 CET [2023/11/15 14:49:08 ET]
+Table '3673651767 1' 3-max Seat #1 is the button
+Seat 1: JoaoFrangoC (614 in chips) 
+Seat 2: P.Fialho33 (141 in chips) 
+Seat 3: Mahu2021 (745 in chips) 
+P.Fialho33: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks 4h]
+JoaoFrangoC: folds 
+P.Fialho33: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: JoaoFrangoC (button) folded before Flop (didn't bet)
+Seat 2: P.Fialho33 (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (30)
+
+
+
+PokerStars Hand #247127074425: Tournament #3673651767, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/15 20:49:14 CET [2023/11/15 14:49:14 ET]
+Table '3673651767 1' 3-max Seat #2 is the button
+Seat 1: JoaoFrangoC (614 in chips) 
+Seat 2: P.Fialho33 (126 in chips) 
+Seat 3: Mahu2021 (760 in chips) 
+Mahu2021: posts small blind 15
+JoaoFrangoC: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c 2h]
+P.Fialho33: raises 96 to 126 and is all-in
+Mahu2021: folds 
+JoaoFrangoC: folds 
+Uncalled bet (96) returned to P.Fialho33
+P.Fialho33 collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: JoaoFrangoC (big blind) folded before Flop
+Seat 2: P.Fialho33 (button) collected (75)
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #247127076858: Tournament #3673651767, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/15 20:49:21 CET [2023/11/15 14:49:21 ET]
+Table '3673651767 1' 3-max Seat #3 is the button
+Seat 1: JoaoFrangoC (584 in chips) 
+Seat 2: P.Fialho33 (171 in chips) 
+Seat 3: Mahu2021 (745 in chips) 
+JoaoFrangoC: posts small blind 15
+P.Fialho33: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5h Kc]
+Mahu2021: folds 
+JoaoFrangoC: raises 554 to 584 and is all-in
+P.Fialho33: folds 
+Uncalled bet (554) returned to JoaoFrangoC
+JoaoFrangoC collected 60 from pot
+JoaoFrangoC: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: JoaoFrangoC (small blind) collected (60)
+Seat 2: P.Fialho33 (big blind) folded before Flop
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #247127079421: Tournament #3673651767, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/15 20:49:28 CET [2023/11/15 14:49:28 ET]
+Table '3673651767 1' 3-max Seat #1 is the button
+Seat 1: JoaoFrangoC (614 in chips) 
+Seat 2: P.Fialho33 (141 in chips) 
+Seat 3: Mahu2021 (745 in chips) 
+P.Fialho33: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Th Qh]
+JoaoFrangoC: raises 30 to 60
+P.Fialho33: folds 
+Mahu2021: calls 30
+*** FLOP *** [2h 2d 3h]
+Mahu2021: checks 
+JoaoFrangoC: checks 
+*** TURN *** [2h 2d 3h] [3c]
+Mahu2021: bets 60
+JoaoFrangoC: calls 60
+*** RIVER *** [2h 2d 3h 3c] [Ac]
+Mahu2021: checks 
+JoaoFrangoC: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [Th Qh] (two pair, Threes and Deuces)
+JoaoFrangoC: shows [Jc Kh] (two pair, Threes and Deuces)
+Mahu2021 collected 128 from pot
+JoaoFrangoC collected 127 from pot
+*** SUMMARY ***
+Total pot 255 | Rake 0 
+Board [2h 2d 3h 3c Ac]
+Seat 1: JoaoFrangoC (button) showed [Jc Kh] and won (127) with two pair, Threes and Deuces
+Seat 2: P.Fialho33 (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) showed [Th Qh] and won (128) with two pair, Threes and Deuces
+
+
+
+PokerStars Hand #247127085776: Tournament #3673651767, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/15 20:49:47 CET [2023/11/15 14:49:47 ET]
+Table '3673651767 1' 3-max Seat #2 is the button
+Seat 1: JoaoFrangoC (621 in chips) 
+Seat 2: P.Fialho33 (126 in chips) 
+Seat 3: Mahu2021 (753 in chips) 
+Mahu2021: posts small blind 15
+JoaoFrangoC: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d 7h]
+P.Fialho33: folds 
+Mahu2021: folds 
+Uncalled bet (15) returned to JoaoFrangoC
+JoaoFrangoC collected 30 from pot
+JoaoFrangoC: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: JoaoFrangoC (big blind) collected (30)
+Seat 2: P.Fialho33 (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #247127087432: Tournament #3673651767, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/15 20:49:52 CET [2023/11/15 14:49:52 ET]
+Table '3673651767 1' 3-max Seat #3 is the button
+Seat 1: JoaoFrangoC (636 in chips) 
+Seat 2: P.Fialho33 (126 in chips) 
+Seat 3: Mahu2021 (738 in chips) 
+JoaoFrangoC: posts small blind 15
+P.Fialho33: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s Ks]
+Mahu2021: raises 30 to 60
+JoaoFrangoC: calls 45
+P.Fialho33: folds 
+*** FLOP *** [6s Jc 6c]
+JoaoFrangoC: checks 
+Mahu2021: checks 
+*** TURN *** [6s Jc 6c] [2s]
+JoaoFrangoC: bets 77
+Mahu2021: calls 77
+*** RIVER *** [6s Jc 6c 2s] [Jd]
+JoaoFrangoC: bets 499 and is all-in
+Mahu2021: folds 
+Uncalled bet (499) returned to JoaoFrangoC
+JoaoFrangoC collected 304 from pot
+JoaoFrangoC: doesn't show hand 
+*** SUMMARY ***
+Total pot 304 | Rake 0 
+Board [6s Jc 6c 2s Jd]
+Seat 1: JoaoFrangoC (small blind) collected (304)
+Seat 2: P.Fialho33 (big blind) folded before Flop
+Seat 3: Mahu2021 (button) folded on the River
+
+
+
+PokerStars Hand #247127097797: Tournament #3673651767, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/11/15 20:50:23 CET [2023/11/15 14:50:23 ET]
+Table '3673651767 1' 3-max Seat #1 is the button
+Seat 1: JoaoFrangoC (803 in chips) 
+Seat 2: P.Fialho33 (96 in chips) 
+Seat 3: Mahu2021 (601 in chips) 
+P.Fialho33: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s 8d]
+JoaoFrangoC: folds 
+P.Fialho33: raises 56 to 96 and is all-in
+Mahu2021: folds 
+Uncalled bet (56) returned to P.Fialho33
+P.Fialho33 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: JoaoFrangoC (button) folded before Flop (didn't bet)
+Seat 2: P.Fialho33 (small blind) collected (80)
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #247127100465: Tournament #3673651767, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/11/15 20:50:31 CET [2023/11/15 14:50:31 ET]
+Table '3673651767 1' 3-max Seat #2 is the button
+Seat 1: JoaoFrangoC (803 in chips) 
+Seat 2: P.Fialho33 (136 in chips) 
+Seat 3: Mahu2021 (561 in chips) 
+Mahu2021: posts small blind 20
+JoaoFrangoC: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h 7d]
+P.Fialho33: raises 96 to 136 and is all-in
+Mahu2021: folds 
+JoaoFrangoC: calls 96
+*** FLOP *** [5d Ah 2c]
+*** TURN *** [5d Ah 2c] [Tc]
+*** RIVER *** [5d Ah 2c Tc] [7h]
+*** SHOW DOWN ***
+JoaoFrangoC: shows [Kh Ts] (a pair of Tens)
+P.Fialho33: shows [Kc 7s] (a pair of Sevens)
+JoaoFrangoC collected 292 from pot
+P.Fialho33 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 292 | Rake 0 
+Board [5d Ah 2c Tc 7h]
+Seat 1: JoaoFrangoC (big blind) showed [Kh Ts] and won (292) with a pair of Tens
+Seat 2: P.Fialho33 (button) showed [Kc 7s] and lost with a pair of Sevens
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #247127106447: Tournament #3673651767, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/11/15 20:50:49 CET [2023/11/15 14:50:49 ET]
+Table '3673651767 1' 3-max Seat #1 is the button
+Seat 1: JoaoFrangoC (959 in chips) 
+Seat 3: Mahu2021 (541 in chips) 
+JoaoFrangoC: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qd 9s]
+JoaoFrangoC: raises 40 to 80
+Mahu2021: calls 40
+*** FLOP *** [3d 4c 6c]
+Mahu2021: checks 
+JoaoFrangoC: bets 58
+Mahu2021: calls 58
+*** TURN *** [3d 4c 6c] [8d]
+Mahu2021: checks 
+JoaoFrangoC: checks 
+*** RIVER *** [3d 4c 6c 8d] [3h]
+Mahu2021: checks 
+JoaoFrangoC: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [Qd 9s] (a pair of Threes)
+JoaoFrangoC: shows [Ad Qc] (a pair of Threes - Ace kicker)
+JoaoFrangoC collected 276 from pot
+*** SUMMARY ***
+Total pot 276 | Rake 0 
+Board [3d 4c 6c 8d 3h]
+Seat 1: JoaoFrangoC (button) (small blind) showed [Ad Qc] and won (276) with a pair of Threes
+Seat 3: Mahu2021 (big blind) showed [Qd 9s] and lost with a pair of Threes
+
+
+
+PokerStars Hand #247127116056: Tournament #3673651767, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/11/15 20:51:17 CET [2023/11/15 14:51:17 ET]
+Table '3673651767 1' 3-max Seat #3 is the button
+Seat 1: JoaoFrangoC (1097 in chips) 
+Seat 3: Mahu2021 (403 in chips) 
+Mahu2021: posts small blind 20
+JoaoFrangoC: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qs 2h]
+Mahu2021: folds 
+Uncalled bet (20) returned to JoaoFrangoC
+JoaoFrangoC collected 40 from pot
+JoaoFrangoC: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: JoaoFrangoC (big blind) collected (40)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #247127117499: Tournament #3673651767, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/11/15 20:51:21 CET [2023/11/15 14:51:21 ET]
+Table '3673651767 1' 3-max Seat #1 is the button
+Seat 1: JoaoFrangoC (1117 in chips) 
+Seat 3: Mahu2021 (383 in chips) 
+JoaoFrangoC: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c Qd]
+JoaoFrangoC: calls 20
+Mahu2021: checks 
+*** FLOP *** [7d Qs 5h]
+Mahu2021: checks 
+JoaoFrangoC: bets 40
+Mahu2021: raises 80 to 120
+JoaoFrangoC: calls 80
+*** TURN *** [7d Qs 5h] [Ks]
+Mahu2021: bets 223 and is all-in
+JoaoFrangoC: folds 
+Uncalled bet (223) returned to Mahu2021
+Mahu2021 collected 320 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [7d Qs 5h Ks]
+Seat 1: JoaoFrangoC (button) (small blind) folded on the Turn
+Seat 3: Mahu2021 (big blind) collected (320)
+
+
+
+PokerStars Hand #247127125785: Tournament #3673651767, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/11/15 20:51:46 CET [2023/11/15 14:51:46 ET]
+Table '3673651767 1' 3-max Seat #3 is the button
+Seat 1: JoaoFrangoC (957 in chips) 
+Seat 3: Mahu2021 (543 in chips) 
+Mahu2021: posts small blind 20
+JoaoFrangoC: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh 4s]
+Mahu2021: folds 
+Uncalled bet (20) returned to JoaoFrangoC
+JoaoFrangoC collected 40 from pot
+JoaoFrangoC: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: JoaoFrangoC (big blind) collected (40)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #247127127323: Tournament #3673651767, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/11/15 20:51:51 CET [2023/11/15 14:51:51 ET]
+Table '3673651767 1' 3-max Seat #1 is the button
+Seat 1: JoaoFrangoC (977 in chips) 
+Seat 3: Mahu2021 (523 in chips) 
+JoaoFrangoC: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s 9s]
+JoaoFrangoC: raises 40 to 80
+Mahu2021: folds 
+Uncalled bet (40) returned to JoaoFrangoC
+JoaoFrangoC collected 80 from pot
+JoaoFrangoC: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: JoaoFrangoC (button) (small blind) collected (80)
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #247127131014: Tournament #3673651767, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2023/11/15 20:52:02 CET [2023/11/15 14:52:02 ET]
+Table '3673651767 1' 3-max Seat #3 is the button
+Seat 1: JoaoFrangoC (1017 in chips) 
+Seat 3: Mahu2021 (483 in chips) 
+Mahu2021: posts small blind 30
+JoaoFrangoC: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d 3s]
+Mahu2021: raises 423 to 483 and is all-in
+JoaoFrangoC: folds 
+Uncalled bet (423) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: JoaoFrangoC (big blind) folded before Flop
+Seat 3: Mahu2021 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #247127134100: Tournament #3673651767, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2023/11/15 20:52:11 CET [2023/11/15 14:52:11 ET]
+Table '3673651767 1' 3-max Seat #1 is the button
+Seat 1: JoaoFrangoC (957 in chips) 
+Seat 3: Mahu2021 (543 in chips) 
+JoaoFrangoC: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d 6h]
+JoaoFrangoC: raises 897 to 957 and is all-in
+Mahu2021: folds 
+Uncalled bet (897) returned to JoaoFrangoC
+JoaoFrangoC collected 120 from pot
+JoaoFrangoC: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: JoaoFrangoC (button) (small blind) collected (120)
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #247127136476: Tournament #3673651767, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2023/11/15 20:52:18 CET [2023/11/15 14:52:18 ET]
+Table '3673651767 1' 3-max Seat #3 is the button
+Seat 1: JoaoFrangoC (1017 in chips) 
+Seat 3: Mahu2021 (483 in chips) 
+Mahu2021: posts small blind 30
+JoaoFrangoC: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2c 6d]
+Mahu2021: folds 
+Uncalled bet (30) returned to JoaoFrangoC
+JoaoFrangoC collected 60 from pot
+JoaoFrangoC: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: JoaoFrangoC (big blind) collected (60)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #247127137920: Tournament #3673651767, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2023/11/15 20:52:22 CET [2023/11/15 14:52:22 ET]
+Table '3673651767 1' 3-max Seat #1 is the button
+Seat 1: JoaoFrangoC (1047 in chips) 
+Seat 3: Mahu2021 (453 in chips) 
+JoaoFrangoC: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kc Qh]
+JoaoFrangoC: raises 987 to 1047 and is all-in
+Mahu2021: calls 393 and is all-in
+Uncalled bet (594) returned to JoaoFrangoC
+*** FLOP *** [Ac 9h Ad]
+*** TURN *** [Ac 9h Ad] [Js]
+*** RIVER *** [Ac 9h Ad Js] [7c]
+*** SHOW DOWN ***
+Mahu2021: shows [Kc Qh] (a pair of Aces)
+JoaoFrangoC: shows [9s Jc] (two pair, Aces and Jacks)
+JoaoFrangoC collected 906 from pot
+Mahu2021 finished the tournament in 2nd place
+JoaoFrangoC wins the tournament and receives $4.00 - congratulations!
+*** SUMMARY ***
+Total pot 906 | Rake 0 
+Board [Ac 9h Ad Js 7c]
+Seat 1: JoaoFrangoC (button) (small blind) showed [9s Jc] and won (906) with two pair, Aces and Jacks
+Seat 3: Mahu2021 (big blind) showed [Kc Qh] and lost with a pair of Aces
+
+
+

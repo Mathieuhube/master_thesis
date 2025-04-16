@@ -1,0 +1,914 @@
+﻿PokerStars Hand #247068301296: Tournament #3672269844, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/12 16:52:20 CET [2023/11/12 10:52:20 ET]
+Table '3672269844 1' 3-max Seat #1 is the button
+Seat 1: CRZZT (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: ricardorodd (500 in chips) 
+Mahu2021: posts small blind 10
+ricardorodd: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d Td]
+CRZZT: calls 20
+Mahu2021: calls 10
+ricardorodd: raises 40 to 60
+CRZZT: calls 40
+Mahu2021: folds 
+*** FLOP *** [7s 5c 6h]
+ricardorodd: bets 60
+CRZZT: calls 60
+*** TURN *** [7s 5c 6h] [Qs]
+ricardorodd: bets 380 and is all-in
+CRZZT: folds 
+Uncalled bet (380) returned to ricardorodd
+ricardorodd collected 260 from pot
+ricardorodd: doesn't show hand 
+*** SUMMARY ***
+Total pot 260 | Rake 0 
+Board [7s 5c 6h Qs]
+Seat 1: CRZZT (button) folded on the Turn
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: ricardorodd (big blind) collected (260)
+
+
+
+PokerStars Hand #247068310885: Tournament #3672269844, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/12 16:52:54 CET [2023/11/12 10:52:54 ET]
+Table '3672269844 1' 3-max Seat #2 is the button
+Seat 1: CRZZT (380 in chips) 
+Seat 2: Mahu2021 (480 in chips) 
+Seat 3: ricardorodd (640 in chips) 
+ricardorodd: posts small blind 10
+CRZZT: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h Td]
+Mahu2021: folds 
+ricardorodd: calls 10
+CRZZT: checks 
+*** FLOP *** [Jd Jh 6s]
+ricardorodd: checks 
+CRZZT: checks 
+*** TURN *** [Jd Jh 6s] [2h]
+ricardorodd: checks 
+CRZZT: checks 
+*** RIVER *** [Jd Jh 6s 2h] [Ad]
+ricardorodd: checks 
+CRZZT: checks 
+*** SHOW DOWN ***
+ricardorodd: shows [Qs 4d] (a pair of Jacks)
+CRZZT: mucks hand 
+ricardorodd collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Jd Jh 6s 2h Ad]
+Seat 1: CRZZT (big blind) mucked [7s 3s]
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: ricardorodd (small blind) showed [Qs 4d] and won (40) with a pair of Jacks
+
+
+
+PokerStars Hand #247068317256: Tournament #3672269844, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/12 16:53:16 CET [2023/11/12 10:53:16 ET]
+Table '3672269844 1' 3-max Seat #3 is the button
+Seat 1: CRZZT (360 in chips) 
+Seat 2: Mahu2021 (480 in chips) 
+Seat 3: ricardorodd (660 in chips) 
+CRZZT: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h Qc]
+ricardorodd: raises 20 to 40
+CRZZT: folds 
+Mahu2021: calls 20
+*** FLOP *** [4c 5c 9s]
+Mahu2021: checks 
+ricardorodd: checks 
+*** TURN *** [4c 5c 9s] [8h]
+Mahu2021: checks 
+ricardorodd: checks 
+*** RIVER *** [4c 5c 9s 8h] [Kc]
+Mahu2021: checks 
+ricardorodd: bets 40
+Mahu2021: folds 
+Uncalled bet (40) returned to ricardorodd
+ricardorodd collected 90 from pot
+ricardorodd: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [4c 5c 9s 8h Kc]
+Seat 1: CRZZT (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) folded on the River
+Seat 3: ricardorodd (button) collected (90)
+
+
+
+PokerStars Hand #247068322367: Tournament #3672269844, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/12 16:53:34 CET [2023/11/12 10:53:34 ET]
+Table '3672269844 1' 3-max Seat #1 is the button
+Seat 1: CRZZT (350 in chips) 
+Seat 2: Mahu2021 (440 in chips) 
+Seat 3: ricardorodd (710 in chips) 
+Mahu2021: posts small blind 10
+ricardorodd: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s 2d]
+CRZZT: raises 20 to 40
+Mahu2021: folds 
+ricardorodd: folds 
+Uncalled bet (20) returned to CRZZT
+CRZZT collected 50 from pot
+CRZZT: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: CRZZT (button) collected (50)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: ricardorodd (big blind) folded before Flop
+
+
+
+PokerStars Hand #247068324314: Tournament #3672269844, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/12 16:53:42 CET [2023/11/12 10:53:42 ET]
+Table '3672269844 1' 3-max Seat #2 is the button
+Seat 1: CRZZT (380 in chips) 
+Seat 2: Mahu2021 (430 in chips) 
+Seat 3: ricardorodd (690 in chips) 
+ricardorodd: posts small blind 10
+CRZZT: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah 8s]
+Mahu2021: raises 20 to 40
+ricardorodd: folds 
+CRZZT: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 50 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: CRZZT (big blind) folded before Flop
+Seat 2: Mahu2021 (button) collected (50)
+Seat 3: ricardorodd (small blind) folded before Flop
+
+
+
+PokerStars Hand #247068326457: Tournament #3672269844, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/12 16:53:49 CET [2023/11/12 10:53:49 ET]
+Table '3672269844 1' 3-max Seat #3 is the button
+Seat 1: CRZZT (360 in chips) 
+Seat 2: Mahu2021 (460 in chips) 
+Seat 3: ricardorodd (680 in chips) 
+CRZZT: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh 8c]
+ricardorodd: folds 
+CRZZT: raises 20 to 40
+Mahu2021: calls 20
+*** FLOP *** [As 5d Ah]
+CRZZT: bets 40
+Mahu2021: folds 
+Uncalled bet (40) returned to CRZZT
+CRZZT collected 80 from pot
+CRZZT: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [As 5d Ah]
+Seat 1: CRZZT (small blind) collected (80)
+Seat 2: Mahu2021 (big blind) folded on the Flop
+Seat 3: ricardorodd (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #247068331822: Tournament #3672269844, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/12 16:54:08 CET [2023/11/12 10:54:08 ET]
+Table '3672269844 1' 3-max Seat #1 is the button
+Seat 1: CRZZT (400 in chips) 
+Seat 2: Mahu2021 (420 in chips) 
+Seat 3: ricardorodd (680 in chips) 
+Mahu2021: posts small blind 10
+ricardorodd: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s Th]
+CRZZT: calls 20
+Mahu2021: calls 10
+ricardorodd: checks 
+*** FLOP *** [8d 9h 9c]
+Mahu2021: checks 
+ricardorodd: checks 
+CRZZT: checks 
+*** TURN *** [8d 9h 9c] [2c]
+Mahu2021: checks 
+ricardorodd: checks 
+CRZZT: bets 40
+Mahu2021: folds 
+ricardorodd: folds 
+Uncalled bet (40) returned to CRZZT
+CRZZT collected 60 from pot
+CRZZT: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [8d 9h 9c 2c]
+Seat 1: CRZZT (button) collected (60)
+Seat 2: Mahu2021 (small blind) folded on the Turn
+Seat 3: ricardorodd (big blind) folded on the Turn
+
+
+
+PokerStars Hand #247068337976: Tournament #3672269844, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/12 16:54:30 CET [2023/11/12 10:54:30 ET]
+Table '3672269844 1' 3-max Seat #2 is the button
+Seat 1: CRZZT (440 in chips) 
+Seat 2: Mahu2021 (400 in chips) 
+Seat 3: ricardorodd (660 in chips) 
+ricardorodd: posts small blind 10
+CRZZT: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd 7d]
+Mahu2021: raises 20 to 40
+ricardorodd: raises 20 to 60
+CRZZT: folds 
+Mahu2021: calls 20
+*** FLOP *** [6d 8c 6h]
+ricardorodd: bets 40
+Mahu2021: calls 40
+*** TURN *** [6d 8c 6h] [2h]
+ricardorodd: bets 60
+Mahu2021: folds 
+Uncalled bet (60) returned to ricardorodd
+ricardorodd collected 220 from pot
+ricardorodd: doesn't show hand 
+*** SUMMARY ***
+Total pot 220 | Rake 0 
+Board [6d 8c 6h 2h]
+Seat 1: CRZZT (big blind) folded before Flop
+Seat 2: Mahu2021 (button) folded on the Turn
+Seat 3: ricardorodd (small blind) collected (220)
+
+
+
+PokerStars Hand #247068343100: Tournament #3672269844, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/12 16:54:48 CET [2023/11/12 10:54:48 ET]
+Table '3672269844 1' 3-max Seat #3 is the button
+Seat 1: CRZZT (420 in chips) 
+Seat 2: Mahu2021 (300 in chips) 
+Seat 3: ricardorodd (780 in chips) 
+CRZZT: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h 5d]
+ricardorodd: folds 
+CRZZT: raises 20 to 40
+Mahu2021: folds 
+Uncalled bet (20) returned to CRZZT
+CRZZT collected 40 from pot
+CRZZT: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: CRZZT (small blind) collected (40)
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: ricardorodd (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #247068345267: Tournament #3672269844, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/12 16:54:56 CET [2023/11/12 10:54:56 ET]
+Table '3672269844 1' 3-max Seat #1 is the button
+Seat 1: CRZZT (440 in chips) 
+Seat 2: Mahu2021 (280 in chips) 
+Seat 3: ricardorodd (780 in chips) 
+Mahu2021: posts small blind 10
+ricardorodd: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h Ks]
+CRZZT: folds 
+Mahu2021: calls 10
+ricardorodd: checks 
+*** FLOP *** [Qd 4c As]
+Mahu2021: bets 20
+ricardorodd: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Qd 4c As]
+Seat 1: CRZZT (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) collected (40)
+Seat 3: ricardorodd (big blind) folded on the Flop
+
+
+
+PokerStars Hand #247068348036: Tournament #3672269844, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/12 16:55:05 CET [2023/11/12 10:55:05 ET]
+Table '3672269844 1' 3-max Seat #2 is the button
+Seat 1: CRZZT (440 in chips) 
+Seat 2: Mahu2021 (300 in chips) 
+Seat 3: ricardorodd (760 in chips) 
+ricardorodd: posts small blind 10
+CRZZT: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d Qs]
+Mahu2021: folds 
+ricardorodd: calls 10
+CRZZT: checks 
+*** FLOP *** [7c Ts 5c]
+ricardorodd: bets 20
+CRZZT: calls 20
+*** TURN *** [7c Ts 5c] [6s]
+ricardorodd: bets 20
+CRZZT: calls 20
+*** RIVER *** [7c Ts 5c 6s] [Jd]
+ricardorodd: bets 700 and is all-in
+CRZZT: folds 
+Uncalled bet (700) returned to ricardorodd
+ricardorodd collected 120 from pot
+ricardorodd: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [7c Ts 5c 6s Jd]
+Seat 1: CRZZT (big blind) folded on the River
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: ricardorodd (small blind) collected (120)
+
+
+
+PokerStars Hand #247068355055: Tournament #3672269844, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/12 16:55:39 CET [2023/11/12 10:55:39 ET]
+Table '3672269844 1' 3-max Seat #3 is the button
+Seat 1: CRZZT (380 in chips) 
+Seat 2: Mahu2021 (300 in chips) 
+Seat 3: ricardorodd (820 in chips) 
+CRZZT: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2s 8c]
+ricardorodd: folds 
+CRZZT: calls 15
+Mahu2021: checks 
+*** FLOP *** [Qd Th 6h]
+CRZZT: bets 60
+Mahu2021: folds 
+Uncalled bet (60) returned to CRZZT
+CRZZT collected 60 from pot
+CRZZT: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Qd Th 6h]
+Seat 1: CRZZT (small blind) collected (60)
+Seat 2: Mahu2021 (big blind) folded on the Flop
+Seat 3: ricardorodd (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #247068357614: Tournament #3672269844, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/12 16:55:53 CET [2023/11/12 10:55:53 ET]
+Table '3672269844 1' 3-max Seat #1 is the button
+Seat 1: CRZZT (410 in chips) 
+Seat 2: Mahu2021 (270 in chips) 
+Seat 3: ricardorodd (820 in chips) 
+Mahu2021: posts small blind 15
+ricardorodd: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h 4c]
+CRZZT: folds 
+Mahu2021: folds 
+Uncalled bet (15) returned to ricardorodd
+ricardorodd collected 30 from pot
+ricardorodd: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: CRZZT (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: ricardorodd (big blind) collected (30)
+
+
+
+PokerStars Hand #247068358601: Tournament #3672269844, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/12 16:55:58 CET [2023/11/12 10:55:58 ET]
+Table '3672269844 1' 3-max Seat #2 is the button
+Seat 1: CRZZT (410 in chips) 
+Seat 2: Mahu2021 (255 in chips) 
+Seat 3: ricardorodd (835 in chips) 
+ricardorodd: posts small blind 15
+CRZZT: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d 4s]
+Mahu2021: folds 
+ricardorodd: folds 
+Uncalled bet (15) returned to CRZZT
+CRZZT collected 30 from pot
+CRZZT: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: CRZZT (big blind) collected (30)
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: ricardorodd (small blind) folded before Flop
+
+
+
+PokerStars Hand #247068359561: Tournament #3672269844, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/12 16:56:03 CET [2023/11/12 10:56:03 ET]
+Table '3672269844 1' 3-max Seat #3 is the button
+Seat 1: CRZZT (425 in chips) 
+Seat 2: Mahu2021 (255 in chips) 
+Seat 3: ricardorodd (820 in chips) 
+CRZZT: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts 6h]
+ricardorodd: folds 
+CRZZT: calls 15
+Mahu2021: checks 
+*** FLOP *** [9h 7d Ah]
+CRZZT: checks 
+Mahu2021: bets 30
+CRZZT: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [9h 7d Ah]
+Seat 1: CRZZT (small blind) folded on the Flop
+Seat 2: Mahu2021 (big blind) collected (60)
+Seat 3: ricardorodd (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #247068363017: Tournament #3672269844, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/12 16:56:20 CET [2023/11/12 10:56:20 ET]
+Table '3672269844 1' 3-max Seat #1 is the button
+Seat 1: CRZZT (395 in chips) 
+Seat 2: Mahu2021 (285 in chips) 
+Seat 3: ricardorodd (820 in chips) 
+Mahu2021: posts small blind 15
+ricardorodd: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3c 6c]
+CRZZT: raises 30 to 60
+Mahu2021: folds 
+ricardorodd: calls 30
+*** FLOP *** [Ad Kd 4h]
+ricardorodd: bets 60
+CRZZT: calls 60
+*** TURN *** [Ad Kd 4h] [Js]
+ricardorodd: bets 60
+CRZZT: calls 60
+*** RIVER *** [Ad Kd 4h Js] [Kh]
+ricardorodd: bets 90
+CRZZT: calls 90
+*** SHOW DOWN ***
+ricardorodd: shows [Qs Jc] (two pair, Kings and Jacks)
+CRZZT: mucks hand 
+ricardorodd collected 555 from pot
+*** SUMMARY ***
+Total pot 555 | Rake 0 
+Board [Ad Kd 4h Js Kh]
+Seat 1: CRZZT (button) mucked [7h 7c]
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: ricardorodd (big blind) showed [Qs Jc] and won (555) with two pair, Kings and Jacks
+
+
+
+PokerStars Hand #247068370586: Tournament #3672269844, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/12 16:56:58 CET [2023/11/12 10:56:58 ET]
+Table '3672269844 1' 3-max Seat #2 is the button
+Seat 1: CRZZT (125 in chips) 
+Seat 2: Mahu2021 (270 in chips) 
+Seat 3: ricardorodd (1105 in chips) 
+ricardorodd: posts small blind 15
+CRZZT: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh Ks]
+Mahu2021: raises 240 to 270 and is all-in
+ricardorodd: folds 
+CRZZT: folds 
+Uncalled bet (240) returned to Mahu2021
+Mahu2021 collected 75 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: CRZZT (big blind) folded before Flop
+Seat 2: Mahu2021 (button) collected (75)
+Seat 3: ricardorodd (small blind) folded before Flop
+
+
+
+PokerStars Hand #247068372021: Tournament #3672269844, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/12 16:57:06 CET [2023/11/12 10:57:06 ET]
+Table '3672269844 1' 3-max Seat #3 is the button
+Seat 1: CRZZT (95 in chips) 
+Seat 2: Mahu2021 (315 in chips) 
+Seat 3: ricardorodd (1090 in chips) 
+CRZZT: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d 9h]
+ricardorodd: folds 
+CRZZT: raises 65 to 95 and is all-in
+Mahu2021: folds 
+Uncalled bet (65) returned to CRZZT
+CRZZT collected 60 from pot
+CRZZT: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: CRZZT (small blind) collected (60)
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: ricardorodd (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #247068373618: Tournament #3672269844, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/12 16:57:13 CET [2023/11/12 10:57:13 ET]
+Table '3672269844 1' 3-max Seat #1 is the button
+Seat 1: CRZZT (125 in chips) 
+Seat 2: Mahu2021 (285 in chips) 
+Seat 3: ricardorodd (1090 in chips) 
+Mahu2021: posts small blind 15
+ricardorodd: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s Qh]
+CRZZT: folds 
+Mahu2021: folds 
+Uncalled bet (15) returned to ricardorodd
+ricardorodd collected 30 from pot
+ricardorodd: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: CRZZT (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: ricardorodd (big blind) collected (30)
+
+
+
+PokerStars Hand #247068374797: Tournament #3672269844, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/12 16:57:19 CET [2023/11/12 10:57:19 ET]
+Table '3672269844 1' 3-max Seat #2 is the button
+Seat 1: CRZZT (125 in chips) 
+Seat 2: Mahu2021 (270 in chips) 
+Seat 3: ricardorodd (1105 in chips) 
+ricardorodd: posts small blind 15
+CRZZT: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h Js]
+Mahu2021: folds 
+ricardorodd: folds 
+Uncalled bet (15) returned to CRZZT
+CRZZT collected 30 from pot
+CRZZT: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: CRZZT (big blind) collected (30)
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: ricardorodd (small blind) folded before Flop
+
+
+
+PokerStars Hand #247068376245: Tournament #3672269844, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/12 16:57:27 CET [2023/11/12 10:57:27 ET]
+Table '3672269844 1' 3-max Seat #3 is the button
+Seat 1: CRZZT (140 in chips) 
+Seat 2: Mahu2021 (270 in chips) 
+Seat 3: ricardorodd (1090 in chips) 
+CRZZT: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh 8c]
+ricardorodd: folds 
+CRZZT: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: CRZZT (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (30)
+Seat 3: ricardorodd (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #247068377940: Tournament #3672269844, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/12 16:57:35 CET [2023/11/12 10:57:35 ET]
+Table '3672269844 1' 3-max Seat #1 is the button
+Seat 1: CRZZT (125 in chips) 
+Seat 2: Mahu2021 (285 in chips) 
+Seat 3: ricardorodd (1090 in chips) 
+Mahu2021: posts small blind 15
+ricardorodd: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Tc 9c]
+CRZZT: raises 95 to 125 and is all-in
+Mahu2021: folds 
+ricardorodd: calls 95
+*** FLOP *** [8s 9d Jh]
+*** TURN *** [8s 9d Jh] [As]
+*** RIVER *** [8s 9d Jh As] [7s]
+*** SHOW DOWN ***
+ricardorodd: shows [Qs Th] (a straight, Eight to Queen)
+CRZZT: shows [Ac 7d] (two pair, Aces and Sevens)
+ricardorodd collected 265 from pot
+CRZZT finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 265 | Rake 0 
+Board [8s 9d Jh As 7s]
+Seat 1: CRZZT (button) showed [Ac 7d] and lost with two pair, Aces and Sevens
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: ricardorodd (big blind) showed [Qs Th] and won (265) with a straight, Eight to Queen
+
+
+
+PokerStars Hand #247068381642: Tournament #3672269844, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/12 16:57:54 CET [2023/11/12 10:57:54 ET]
+Table '3672269844 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (270 in chips) 
+Seat 3: ricardorodd (1230 in chips) 
+ricardorodd: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8d Kh]
+ricardorodd: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 2: Mahu2021 (big blind) collected (30)
+Seat 3: ricardorodd (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #247068382715: Tournament #3672269844, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/12 16:57:59 CET [2023/11/12 10:57:59 ET]
+Table '3672269844 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (285 in chips) 
+Seat 3: ricardorodd (1215 in chips) 
+Mahu2021: posts small blind 15
+ricardorodd: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd 8h]
+Mahu2021: calls 15
+ricardorodd: checks 
+*** FLOP *** [6c 3d As]
+ricardorodd: checks 
+Mahu2021: bets 30
+ricardorodd: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [6c 3d As]
+Seat 2: Mahu2021 (button) (small blind) collected (60)
+Seat 3: ricardorodd (big blind) folded on the Flop
+
+
+
+PokerStars Hand #247068384855: Tournament #3672269844, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/12 16:58:10 CET [2023/11/12 10:58:10 ET]
+Table '3672269844 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (315 in chips) 
+Seat 3: ricardorodd (1185 in chips) 
+ricardorodd: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd 6h]
+ricardorodd: raises 30 to 60
+Mahu2021: calls 30
+*** FLOP *** [Jc 7c 7s]
+Mahu2021: checks 
+ricardorodd: bets 60
+Mahu2021: folds 
+Uncalled bet (60) returned to ricardorodd
+ricardorodd collected 120 from pot
+ricardorodd: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Jc 7c 7s]
+Seat 2: Mahu2021 (big blind) folded on the Flop
+Seat 3: ricardorodd (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #247068387093: Tournament #3672269844, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/12 16:58:21 CET [2023/11/12 10:58:21 ET]
+Table '3672269844 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (255 in chips) 
+Seat 3: ricardorodd (1245 in chips) 
+Mahu2021: posts small blind 15
+ricardorodd: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As 3c]
+Mahu2021: raises 30 to 60
+ricardorodd: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) collected (60)
+Seat 3: ricardorodd (big blind) folded before Flop
+
+
+
+PokerStars Hand #247068388722: Tournament #3672269844, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/11/12 16:58:29 CET [2023/11/12 10:58:29 ET]
+Table '3672269844 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (285 in chips) 
+Seat 3: ricardorodd (1215 in chips) 
+ricardorodd: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h Ks]
+ricardorodd: calls 20
+Mahu2021: checks 
+*** FLOP *** [7s 9c Qc]
+Mahu2021: checks 
+ricardorodd: checks 
+*** TURN *** [7s 9c Qc] [4d]
+Mahu2021: checks 
+ricardorodd: checks 
+*** RIVER *** [7s 9c Qc 4d] [6h]
+Mahu2021: checks 
+ricardorodd: bets 80
+Mahu2021: folds 
+Uncalled bet (80) returned to ricardorodd
+ricardorodd collected 80 from pot
+ricardorodd: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [7s 9c Qc 4d 6h]
+Seat 2: Mahu2021 (big blind) folded on the River
+Seat 3: ricardorodd (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #247068391702: Tournament #3672269844, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/11/12 16:58:44 CET [2023/11/12 10:58:44 ET]
+Table '3672269844 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (245 in chips) 
+Seat 3: ricardorodd (1255 in chips) 
+Mahu2021: posts small blind 20
+ricardorodd: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d 7c]
+Mahu2021: folds 
+Uncalled bet (20) returned to ricardorodd
+ricardorodd collected 40 from pot
+ricardorodd: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: ricardorodd (big blind) collected (40)
+
+
+
+PokerStars Hand #247068392619: Tournament #3672269844, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/11/12 16:58:48 CET [2023/11/12 10:58:48 ET]
+Table '3672269844 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (225 in chips) 
+Seat 3: ricardorodd (1275 in chips) 
+ricardorodd: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d 2d]
+ricardorodd: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: Mahu2021 (big blind) collected (40)
+Seat 3: ricardorodd (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #247068393487: Tournament #3672269844, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/11/12 16:58:53 CET [2023/11/12 10:58:53 ET]
+Table '3672269844 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (245 in chips) 
+Seat 3: ricardorodd (1255 in chips) 
+Mahu2021: posts small blind 20
+ricardorodd: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d Kd]
+Mahu2021: calls 20
+ricardorodd: checks 
+*** FLOP *** [Qc 9d 7c]
+ricardorodd: checks 
+Mahu2021: bets 40
+ricardorodd: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Qc 9d 7c]
+Seat 2: Mahu2021 (button) (small blind) collected (80)
+Seat 3: ricardorodd (big blind) folded on the Flop
+
+
+
+PokerStars Hand #247068395392: Tournament #3672269844, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/11/12 16:59:02 CET [2023/11/12 10:59:02 ET]
+Table '3672269844 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (285 in chips) 
+Seat 3: ricardorodd (1215 in chips) 
+ricardorodd: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d 3s]
+ricardorodd: calls 20
+Mahu2021: checks 
+*** FLOP *** [5d 8d Tc]
+Mahu2021: checks 
+ricardorodd: checks 
+*** TURN *** [5d 8d Tc] [9d]
+Mahu2021: bets 80
+ricardorodd: folds 
+Uncalled bet (80) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [5d 8d Tc 9d]
+Seat 2: Mahu2021 (big blind) collected (80)
+Seat 3: ricardorodd (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #247068398044: Tournament #3672269844, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/11/12 16:59:16 CET [2023/11/12 10:59:16 ET]
+Table '3672269844 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (325 in chips) 
+Seat 3: ricardorodd (1175 in chips) 
+Mahu2021: posts small blind 20
+ricardorodd: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h Kd]
+Mahu2021: calls 20
+ricardorodd: checks 
+*** FLOP *** [Jh 2d 3d]
+ricardorodd: checks 
+Mahu2021: bets 40
+ricardorodd: calls 40
+*** TURN *** [Jh 2d 3d] [Qd]
+ricardorodd: checks 
+Mahu2021: bets 245 and is all-in
+ricardorodd: calls 245
+*** RIVER *** [Jh 2d 3d Qd] [5d]
+*** SHOW DOWN ***
+ricardorodd: shows [Jd 5c] (a flush, Queen high)
+Mahu2021: shows [3h Kd] (a flush, King high)
+Mahu2021 collected 650 from pot
+*** SUMMARY ***
+Total pot 650 | Rake 0 
+Board [Jh 2d 3d Qd 5d]
+Seat 2: Mahu2021 (button) (small blind) showed [3h Kd] and won (650) with a flush, King high
+Seat 3: ricardorodd (big blind) showed [Jd 5c] and lost with a flush, Queen high
+
+
+
+PokerStars Hand #247068401737: Tournament #3672269844, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/11/12 16:59:34 CET [2023/11/12 10:59:34 ET]
+Table '3672269844 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (650 in chips) 
+Seat 3: ricardorodd (850 in chips) 
+ricardorodd: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac 4d]
+ricardorodd: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: Mahu2021 (big blind) collected (40)
+Seat 3: ricardorodd (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #247068402594: Tournament #3672269844, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/11/12 16:59:39 CET [2023/11/12 10:59:39 ET]
+Table '3672269844 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (670 in chips) 
+Seat 3: ricardorodd (830 in chips) 
+Mahu2021: posts small blind 20
+ricardorodd: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c 4c]
+Mahu2021: calls 20
+ricardorodd: checks 
+*** FLOP *** [Td 3h 8s]
+ricardorodd: checks 
+Mahu2021: checks 
+*** TURN *** [Td 3h 8s] [9s]
+ricardorodd: checks 
+Mahu2021: bets 40
+ricardorodd: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Td 3h 8s 9s]
+Seat 2: Mahu2021 (button) (small blind) collected (80)
+Seat 3: ricardorodd (big blind) folded on the Turn
+
+
+
+PokerStars Hand #247068405100: Tournament #3672269844, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/11/12 16:59:52 CET [2023/11/12 10:59:52 ET]
+Table '3672269844 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (710 in chips) 
+Seat 3: ricardorodd (790 in chips) 
+ricardorodd: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks Td]
+ricardorodd: calls 20
+Mahu2021: raises 80 to 120
+ricardorodd: raises 80 to 200
+Mahu2021: calls 80
+*** FLOP *** [6h Ts 2s]
+Mahu2021: bets 510 and is all-in
+ricardorodd: calls 510
+*** TURN *** [6h Ts 2s] [Qh]
+*** RIVER *** [6h Ts 2s Qh] [Jd]
+*** SHOW DOWN ***
+Mahu2021: shows [Ks Td] (a pair of Tens)
+ricardorodd: shows [As Ah] (a pair of Aces)
+ricardorodd collected 1420 from pot
+Mahu2021 finished the tournament in 2nd place
+ricardorodd wins the tournament and receives $6.00 - congratulations!
+*** SUMMARY ***
+Total pot 1420 | Rake 0 
+Board [6h Ts 2s Qh Jd]
+Seat 2: Mahu2021 (big blind) showed [Ks Td] and lost with a pair of Tens
+Seat 3: ricardorodd (button) (small blind) showed [As Ah] and won (1420) with a pair of Aces
+
+
+

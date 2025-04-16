@@ -1,0 +1,219 @@
+﻿PokerStars Hand #243174402139: Tournament #3579402687, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/18 21:17:08 CET [2023/04/18 15:17:08 ET]
+Table '3579402687 1' 3-max Seat #1 is the button
+Seat 1: chronisblue (500 in chips) 
+Seat 2: ZewZew0913 (500 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+ZewZew0913: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h 4s]
+chronisblue: folds 
+ZewZew0913: calls 10
+Mahu2021: checks 
+*** FLOP *** [5h Jc Kh]
+ZewZew0913: checks 
+Mahu2021: checks 
+*** TURN *** [5h Jc Kh] [7h]
+ZewZew0913: checks 
+Mahu2021: bets 40
+ZewZew0913: calls 40
+*** RIVER *** [5h Jc Kh 7h] [8c]
+ZewZew0913: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+ZewZew0913: shows [6h As] (high card Ace)
+Mahu2021: mucks hand 
+ZewZew0913 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [5h Jc Kh 7h 8c]
+Seat 1: chronisblue (button) folded before Flop (didn't bet)
+Seat 2: ZewZew0913 (small blind) showed [6h As] and won (120) with high card Ace
+Seat 3: Mahu2021 (big blind) mucked [9h 4s]
+
+
+
+PokerStars Hand #243174412894: Tournament #3579402687, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/18 21:17:38 CET [2023/04/18 15:17:38 ET]
+Table '3579402687 1' 3-max Seat #2 is the button
+Seat 1: chronisblue (500 in chips) 
+Seat 2: ZewZew0913 (560 in chips) 
+Seat 3: Mahu2021 (440 in chips) 
+Mahu2021: posts small blind 10
+chronisblue: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8d 3c]
+ZewZew0913: calls 20
+Mahu2021: folds 
+chronisblue: raises 20 to 40
+ZewZew0913: calls 20
+*** FLOP *** [Ah Jc 3h]
+chronisblue: bets 45
+ZewZew0913: calls 45
+*** TURN *** [Ah Jc 3h] [9c]
+chronisblue: bets 20
+ZewZew0913: calls 20
+*** RIVER *** [Ah Jc 3h 9c] [5c]
+chronisblue: checks 
+ZewZew0913: checks 
+*** SHOW DOWN ***
+chronisblue: shows [8s Ad] (a pair of Aces)
+ZewZew0913: mucks hand 
+chronisblue collected 220 from pot
+*** SUMMARY ***
+Total pot 220 | Rake 0 
+Board [Ah Jc 3h 9c 5c]
+Seat 1: chronisblue (big blind) showed [8s Ad] and won (220) with a pair of Aces
+Seat 2: ZewZew0913 (button) mucked [2h Qc]
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #243174426744: Tournament #3579402687, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/18 21:18:16 CET [2023/04/18 15:18:16 ET]
+Table '3579402687 1' 3-max Seat #3 is the button
+Seat 1: chronisblue (615 in chips) 
+Seat 2: ZewZew0913 (455 in chips) 
+Seat 3: Mahu2021 (430 in chips) 
+chronisblue: posts small blind 10
+ZewZew0913: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh 2d]
+Mahu2021: folds 
+chronisblue: calls 10
+ZewZew0913: checks 
+*** FLOP *** [Qh Ad 4c]
+chronisblue: checks 
+ZewZew0913: bets 20
+chronisblue: raises 20 to 40
+ZewZew0913: calls 20
+*** TURN *** [Qh Ad 4c] [4s]
+chronisblue: checks 
+ZewZew0913: bets 20
+chronisblue: calls 20
+*** RIVER *** [Qh Ad 4c 4s] [Kh]
+chronisblue: checks 
+ZewZew0913: bets 160
+chronisblue: folds 
+Uncalled bet (160) returned to ZewZew0913
+ZewZew0913 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Qh Ad 4c 4s Kh]
+Seat 1: chronisblue (small blind) folded on the River
+Seat 2: ZewZew0913 (big blind) collected (160)
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #243174440768: Tournament #3579402687, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/18 21:18:54 CET [2023/04/18 15:18:54 ET]
+Table '3579402687 1' 3-max Seat #1 is the button
+Seat 1: chronisblue (535 in chips) 
+Seat 2: ZewZew0913 (535 in chips) 
+Seat 3: Mahu2021 (430 in chips) 
+ZewZew0913: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks 4c]
+chronisblue: folds 
+ZewZew0913: calls 10
+Mahu2021: checks 
+*** FLOP *** [7s Jh Ah]
+ZewZew0913: checks 
+Mahu2021: checks 
+*** TURN *** [7s Jh Ah] [8h]
+ZewZew0913: checks 
+Mahu2021: checks 
+*** RIVER *** [7s Jh Ah 8h] [Kh]
+ZewZew0913: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+ZewZew0913: shows [9d 6c] (high card Ace)
+Mahu2021: shows [Ks 4c] (a pair of Kings)
+Mahu2021 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [7s Jh Ah 8h Kh]
+Seat 1: chronisblue (button) folded before Flop (didn't bet)
+Seat 2: ZewZew0913 (small blind) showed [9d 6c] and lost with high card Ace
+Seat 3: Mahu2021 (big blind) showed [Ks 4c] and won (40) with a pair of Kings
+
+
+
+PokerStars Hand #243174449565: Tournament #3579402687, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/18 21:19:19 CET [2023/04/18 15:19:19 ET]
+Table '3579402687 1' 3-max Seat #2 is the button
+Seat 1: chronisblue (535 in chips) 
+Seat 2: ZewZew0913 (515 in chips) 
+Seat 3: Mahu2021 (450 in chips) 
+Mahu2021: posts small blind 15
+chronisblue: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d 8d]
+ZewZew0913: folds 
+Mahu2021: raises 30 to 60
+chronisblue: raises 475 to 535 and is all-in
+Mahu2021: folds 
+Uncalled bet (475) returned to chronisblue
+chronisblue collected 120 from pot
+chronisblue: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: chronisblue (big blind) collected (120)
+Seat 2: ZewZew0913 (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #243174453440: Tournament #3579402687, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/18 21:19:29 CET [2023/04/18 15:19:29 ET]
+Table '3579402687 1' 3-max Seat #3 is the button
+Seat 1: chronisblue (595 in chips) 
+Seat 2: ZewZew0913 (515 in chips) 
+Seat 3: Mahu2021 (390 in chips) 
+chronisblue: posts small blind 15
+ZewZew0913: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts 2c]
+Mahu2021: folds 
+chronisblue: folds 
+Uncalled bet (15) returned to ZewZew0913
+ZewZew0913 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: chronisblue (small blind) folded before Flop
+Seat 2: ZewZew0913 (big blind) collected (30)
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #243174455611: Tournament #3579402687, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/18 21:19:35 CET [2023/04/18 15:19:35 ET]
+Table '3579402687 1' 3-max Seat #1 is the button
+Seat 1: chronisblue (580 in chips) 
+Seat 2: ZewZew0913 (530 in chips) 
+Seat 3: Mahu2021 (390 in chips) 
+ZewZew0913: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d Kd]
+chronisblue: folds 
+ZewZew0913: raises 30 to 60
+Mahu2021: calls 30
+*** FLOP *** [Qs 4d Js]
+ZewZew0913: bets 30
+Mahu2021: calls 30
+*** TURN *** [Qs 4d Js] [Kh]
+ZewZew0913: bets 30
+Mahu2021: raises 270 to 300 and is all-in
+ZewZew0913: calls 270
+*** RIVER *** [Qs 4d Js Kh] [6c]
+*** SHOW DOWN ***
+ZewZew0913: shows [Ks Qh] (two pair, Kings and Queens)
+Mahu2021: shows [6d Kd] (two pair, Kings and Sixes)
+ZewZew0913 collected 780 from pot
+Mahu2021 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 780 | Rake 0 
+Board [Qs 4d Js Kh 6c]
+Seat 1: chronisblue (button) folded before Flop (didn't bet)
+Seat 2: ZewZew0913 (small blind) showed [Ks Qh] and won (780) with two pair, Kings and Queens
+Seat 3: Mahu2021 (big blind) showed [6d Kd] and lost with two pair, Kings and Sixes
+
+
+

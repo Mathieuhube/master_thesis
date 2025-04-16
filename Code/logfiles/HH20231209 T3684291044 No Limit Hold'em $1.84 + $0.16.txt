@@ -1,0 +1,794 @@
+﻿PokerStars Hand #247569470223: Tournament #3684291044, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/09 21:16:25 CET [2023/12/09 15:16:25 ET]
+Table '3684291044 1' 3-max Seat #1 is the button
+Seat 1: ockner182 (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: octave98 (500 in chips) 
+Mahu2021: posts small blind 10
+octave98: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h 6s]
+ockner182: folds 
+Mahu2021: folds 
+Uncalled bet (10) returned to octave98
+octave98 collected 20 from pot
+octave98: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: ockner182 (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: octave98 (big blind) collected (20)
+
+
+
+PokerStars Hand #247569476220: Tournament #3684291044, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/09 21:16:43 CET [2023/12/09 15:16:43 ET]
+Table '3684291044 1' 3-max Seat #2 is the button
+Seat 1: ockner182 (500 in chips) 
+Seat 2: Mahu2021 (490 in chips) 
+Seat 3: octave98 (510 in chips) 
+octave98: posts small blind 10
+ockner182: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s 3d]
+Mahu2021: calls 20
+octave98: folds 
+ockner182: checks 
+*** FLOP *** [Ah 9d Qh]
+ockner182: bets 20
+Mahu2021: calls 20
+*** TURN *** [Ah 9d Qh] [Kd]
+ockner182: bets 20
+Mahu2021: raises 60 to 80
+ockner182: calls 60
+*** RIVER *** [Ah 9d Qh Kd] [8d]
+ockner182: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+ockner182: shows [Qd 4h] (a pair of Queens)
+Mahu2021: mucks hand 
+ockner182 collected 250 from pot
+*** SUMMARY ***
+Total pot 250 | Rake 0 
+Board [Ah 9d Qh Kd 8d]
+Seat 1: ockner182 (big blind) showed [Qd 4h] and won (250) with a pair of Queens
+Seat 2: Mahu2021 (button) mucked [3s 3d]
+Seat 3: octave98 (small blind) folded before Flop
+
+
+
+PokerStars Hand #247569484711: Tournament #3684291044, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/09 21:17:09 CET [2023/12/09 15:17:09 ET]
+Table '3684291044 1' 3-max Seat #3 is the button
+Seat 1: ockner182 (630 in chips) 
+Seat 2: Mahu2021 (370 in chips) 
+Seat 3: octave98 (500 in chips) 
+ockner182: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h 6c]
+octave98: folds 
+ockner182: folds 
+Uncalled bet (10) returned to Mahu2021
+Mahu2021 collected 20 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: ockner182 (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (20)
+Seat 3: octave98 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #247569488579: Tournament #3684291044, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/09 21:17:20 CET [2023/12/09 15:17:20 ET]
+Table '3684291044 1' 3-max Seat #1 is the button
+Seat 1: ockner182 (620 in chips) 
+Seat 2: Mahu2021 (380 in chips) 
+Seat 3: octave98 (500 in chips) 
+Mahu2021: posts small blind 10
+octave98: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4c 7h]
+ockner182: calls 20
+Mahu2021: folds 
+octave98: checks 
+*** FLOP *** [Kc 9h Qs]
+octave98: checks 
+ockner182: bets 25
+octave98: folds 
+Uncalled bet (25) returned to ockner182
+ockner182 collected 50 from pot
+ockner182: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [Kc 9h Qs]
+Seat 1: ockner182 (button) collected (50)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: octave98 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #247569494081: Tournament #3684291044, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/09 21:17:37 CET [2023/12/09 15:17:37 ET]
+Table '3684291044 1' 3-max Seat #2 is the button
+Seat 1: ockner182 (650 in chips) 
+Seat 2: Mahu2021 (370 in chips) 
+Seat 3: octave98 (480 in chips) 
+octave98: posts small blind 10
+ockner182: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2c Qd]
+Mahu2021: folds 
+octave98: calls 10
+ockner182: checks 
+*** FLOP *** [Ac 5d As]
+octave98: checks 
+ockner182: checks 
+*** TURN *** [Ac 5d As] [8d]
+octave98: checks 
+ockner182: checks 
+*** RIVER *** [Ac 5d As 8d] [Qh]
+octave98: checks 
+ockner182: checks 
+*** SHOW DOWN ***
+octave98: shows [Qs 4s] (two pair, Aces and Queens)
+ockner182: mucks hand 
+octave98 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Ac 5d As 8d Qh]
+Seat 1: ockner182 (big blind) mucked [2s Th]
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: octave98 (small blind) showed [Qs 4s] and won (40) with two pair, Aces and Queens
+
+
+
+PokerStars Hand #247569504670: Tournament #3684291044, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/09 21:18:09 CET [2023/12/09 15:18:09 ET]
+Table '3684291044 1' 3-max Seat #3 is the button
+Seat 1: ockner182 (630 in chips) 
+Seat 2: Mahu2021 (370 in chips) 
+Seat 3: octave98 (500 in chips) 
+ockner182: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s 9c]
+octave98: folds 
+ockner182: raises 20 to 40
+Mahu2021: folds 
+Uncalled bet (20) returned to ockner182
+ockner182 collected 40 from pot
+ockner182: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: ockner182 (small blind) collected (40)
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: octave98 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #247569507536: Tournament #3684291044, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/09 21:18:17 CET [2023/12/09 15:18:17 ET]
+Table '3684291044 1' 3-max Seat #1 is the button
+Seat 1: ockner182 (650 in chips) 
+Seat 2: Mahu2021 (350 in chips) 
+Seat 3: octave98 (500 in chips) 
+Mahu2021: posts small blind 10
+octave98: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qs 6h]
+ockner182: calls 20
+Mahu2021: calls 10
+octave98: checks 
+*** FLOP *** [Ks 3h Ah]
+Mahu2021: checks 
+octave98: checks 
+ockner182: checks 
+*** TURN *** [Ks 3h Ah] [4h]
+Mahu2021: checks 
+octave98: checks 
+ockner182: checks 
+*** RIVER *** [Ks 3h Ah 4h] [Tc]
+Mahu2021: checks 
+octave98: checks 
+ockner182: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [Qs 6h] (high card Ace)
+octave98: mucks hand 
+ockner182: mucks hand 
+Mahu2021 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Ks 3h Ah 4h Tc]
+Seat 1: ockner182 (button) mucked [Jc 9h]
+Seat 2: Mahu2021 (small blind) showed [Qs 6h] and won (60) with high card Ace
+Seat 3: octave98 (big blind) mucked [7h 6d]
+
+
+
+PokerStars Hand #247569515550: Tournament #3684291044, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/09 21:18:42 CET [2023/12/09 15:18:42 ET]
+Table '3684291044 1' 3-max Seat #2 is the button
+Seat 1: ockner182 (630 in chips) 
+Seat 2: Mahu2021 (390 in chips) 
+Seat 3: octave98 (480 in chips) 
+octave98: posts small blind 10
+ockner182: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js Qd]
+Mahu2021: raises 20 to 40
+octave98: folds 
+ockner182: calls 20
+*** FLOP *** [5s Jh 2d]
+ockner182: checks 
+Mahu2021: bets 90
+ockner182: folds 
+Uncalled bet (90) returned to Mahu2021
+Mahu2021 collected 90 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [5s Jh 2d]
+Seat 1: ockner182 (big blind) folded on the Flop
+Seat 2: Mahu2021 (button) collected (90)
+Seat 3: octave98 (small blind) folded before Flop
+
+
+
+PokerStars Hand #247569522183: Tournament #3684291044, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/09 21:19:01 CET [2023/12/09 15:19:01 ET]
+Table '3684291044 1' 3-max Seat #3 is the button
+Seat 1: ockner182 (590 in chips) 
+Seat 2: Mahu2021 (440 in chips) 
+Seat 3: octave98 (470 in chips) 
+ockner182: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d Jh]
+octave98: folds 
+ockner182: folds 
+Uncalled bet (10) returned to Mahu2021
+Mahu2021 collected 20 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: ockner182 (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (20)
+Seat 3: octave98 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #247569525005: Tournament #3684291044, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/09 21:19:10 CET [2023/12/09 15:19:10 ET]
+Table '3684291044 1' 3-max Seat #1 is the button
+Seat 1: ockner182 (580 in chips) 
+Seat 2: Mahu2021 (450 in chips) 
+Seat 3: octave98 (470 in chips) 
+Mahu2021: posts small blind 10
+octave98: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6h 2d]
+ockner182: folds 
+Mahu2021: folds 
+Uncalled bet (10) returned to octave98
+octave98 collected 20 from pot
+octave98: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: ockner182 (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: octave98 (big blind) collected (20)
+
+
+
+PokerStars Hand #247569526929: Tournament #3684291044, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/09 21:19:16 CET [2023/12/09 15:19:16 ET]
+Table '3684291044 1' 3-max Seat #2 is the button
+Seat 1: ockner182 (580 in chips) 
+Seat 2: Mahu2021 (440 in chips) 
+Seat 3: octave98 (480 in chips) 
+octave98: posts small blind 10
+ockner182: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3c Ks]
+Mahu2021: folds 
+octave98: raises 20 to 40
+ockner182: calls 20
+*** FLOP *** [8c Qh 7c]
+octave98: checks 
+ockner182: bets 20
+octave98: calls 20
+*** TURN *** [8c Qh 7c] [5d]
+octave98: checks 
+ockner182: bets 60
+octave98: folds 
+Uncalled bet (60) returned to ockner182
+ockner182 collected 120 from pot
+ockner182: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [8c Qh 7c 5d]
+Seat 1: ockner182 (big blind) collected (120)
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: octave98 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #247569536450: Tournament #3684291044, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/12/09 21:19:44 CET [2023/12/09 15:19:44 ET]
+Table '3684291044 1' 3-max Seat #3 is the button
+Seat 1: ockner182 (640 in chips) 
+Seat 2: Mahu2021 (440 in chips) 
+Seat 3: octave98 (420 in chips) 
+ockner182: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2c 2d]
+octave98: folds 
+ockner182: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: ockner182 (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (30)
+Seat 3: octave98 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #247569539242: Tournament #3684291044, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/12/09 21:19:53 CET [2023/12/09 15:19:53 ET]
+Table '3684291044 1' 3-max Seat #1 is the button
+Seat 1: ockner182 (625 in chips) 
+Seat 2: Mahu2021 (455 in chips) 
+Seat 3: octave98 (420 in chips) 
+Mahu2021: posts small blind 15
+octave98: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd Kh]
+ockner182: folds 
+Mahu2021: raises 60 to 90
+octave98: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: ockner182 (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) collected (60)
+Seat 3: octave98 (big blind) folded before Flop
+
+
+
+PokerStars Hand #247569544096: Tournament #3684291044, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/12/09 21:20:07 CET [2023/12/09 15:20:07 ET]
+Table '3684291044 1' 3-max Seat #2 is the button
+Seat 1: ockner182 (625 in chips) 
+Seat 2: Mahu2021 (485 in chips) 
+Seat 3: octave98 (390 in chips) 
+octave98: posts small blind 15
+ockner182: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4d Qs]
+Mahu2021: folds 
+octave98: folds 
+Uncalled bet (15) returned to ockner182
+ockner182 collected 30 from pot
+ockner182: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: ockner182 (big blind) collected (30)
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: octave98 (small blind) folded before Flop
+
+
+
+PokerStars Hand #247569545941: Tournament #3684291044, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/12/09 21:20:13 CET [2023/12/09 15:20:13 ET]
+Table '3684291044 1' 3-max Seat #3 is the button
+Seat 1: ockner182 (640 in chips) 
+Seat 2: Mahu2021 (485 in chips) 
+Seat 3: octave98 (375 in chips) 
+ockner182: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2s Qd]
+octave98: folds 
+ockner182: calls 15
+Mahu2021: checks 
+*** FLOP *** [6s Kh 9s]
+ockner182: bets 30
+Mahu2021: folds 
+Uncalled bet (30) returned to ockner182
+ockner182 collected 60 from pot
+ockner182: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [6s Kh 9s]
+Seat 1: ockner182 (small blind) collected (60)
+Seat 2: Mahu2021 (big blind) folded on the Flop
+Seat 3: octave98 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #247569550998: Tournament #3684291044, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/12/09 21:20:28 CET [2023/12/09 15:20:28 ET]
+Table '3684291044 1' 3-max Seat #1 is the button
+Seat 1: ockner182 (670 in chips) 
+Seat 2: Mahu2021 (455 in chips) 
+Seat 3: octave98 (375 in chips) 
+Mahu2021: posts small blind 15
+octave98: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qd Ks]
+ockner182: folds 
+Mahu2021: raises 60 to 90
+octave98: raises 285 to 375 and is all-in
+Mahu2021: calls 285
+*** FLOP *** [5c 8c Tc]
+*** TURN *** [5c 8c Tc] [Qh]
+*** RIVER *** [5c 8c Tc Qh] [3c]
+*** SHOW DOWN ***
+Mahu2021: shows [Qd Ks] (a pair of Queens)
+octave98: shows [6d 6s] (a pair of Sixes)
+Mahu2021 collected 750 from pot
+octave98 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 750 | Rake 0 
+Board [5c 8c Tc Qh 3c]
+Seat 1: ockner182 (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) showed [Qd Ks] and won (750) with a pair of Queens
+Seat 3: octave98 (big blind) showed [6d 6s] and lost with a pair of Sixes
+
+
+
+PokerStars Hand #247569557874: Tournament #3684291044, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/12/09 21:20:49 CET [2023/12/09 15:20:49 ET]
+Table '3684291044 1' 3-max Seat #2 is the button
+Seat 1: ockner182 (670 in chips) 
+Seat 2: Mahu2021 (830 in chips) 
+Mahu2021: posts small blind 15
+ockner182: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks 5d]
+Mahu2021: calls 15
+ockner182: checks 
+*** FLOP *** [8c Td Tc]
+ockner182: checks 
+Mahu2021: checks 
+*** TURN *** [8c Td Tc] [Qd]
+ockner182: checks 
+Mahu2021: checks 
+*** RIVER *** [8c Td Tc Qd] [Qh]
+ockner182: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+ockner182: shows [7s 2d] (two pair, Queens and Tens)
+Mahu2021: shows [Ks 5d] (two pair, Queens and Tens - King kicker)
+Mahu2021 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [8c Td Tc Qd Qh]
+Seat 1: ockner182 (big blind) showed [7s 2d] and lost with two pair, Queens and Tens
+Seat 2: Mahu2021 (button) (small blind) showed [Ks 5d] and won (60) with two pair, Queens and Tens
+
+
+
+PokerStars Hand #247569563946: Tournament #3684291044, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/12/09 21:21:07 CET [2023/12/09 15:21:07 ET]
+Table '3684291044 1' 3-max Seat #1 is the button
+Seat 1: ockner182 (640 in chips) 
+Seat 2: Mahu2021 (860 in chips) 
+ockner182: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d Ah]
+ockner182: calls 15
+Mahu2021: checks 
+*** FLOP *** [6d Kc Qd]
+Mahu2021: checks 
+ockner182: bets 30
+Mahu2021: folds 
+Uncalled bet (30) returned to ockner182
+ockner182 collected 60 from pot
+ockner182: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [6d Kc Qd]
+Seat 1: ockner182 (button) (small blind) collected (60)
+Seat 2: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #247569570186: Tournament #3684291044, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/12/09 21:21:26 CET [2023/12/09 15:21:26 ET]
+Table '3684291044 1' 3-max Seat #2 is the button
+Seat 1: ockner182 (670 in chips) 
+Seat 2: Mahu2021 (830 in chips) 
+Mahu2021: posts small blind 15
+ockner182: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2c 8d]
+Mahu2021: folds 
+Uncalled bet (15) returned to ockner182
+ockner182 collected 30 from pot
+ockner182: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: ockner182 (big blind) collected (30)
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #247569571890: Tournament #3684291044, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/12/09 21:21:31 CET [2023/12/09 15:21:31 ET]
+Table '3684291044 1' 3-max Seat #1 is the button
+Seat 1: ockner182 (685 in chips) 
+Seat 2: Mahu2021 (815 in chips) 
+ockner182: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qd 9s]
+ockner182: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: ockner182 (button) (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (30)
+
+
+
+PokerStars Hand #247569573765: Tournament #3684291044, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/12/09 21:21:36 CET [2023/12/09 15:21:36 ET]
+Table '3684291044 1' 3-max Seat #2 is the button
+Seat 1: ockner182 (670 in chips) 
+Seat 2: Mahu2021 (830 in chips) 
+Mahu2021: posts small blind 15
+ockner182: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd 2c]
+Mahu2021: folds 
+Uncalled bet (15) returned to ockner182
+ockner182 collected 30 from pot
+ockner182: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: ockner182 (big blind) collected (30)
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #247569576580: Tournament #3684291044, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/12/09 21:21:45 CET [2023/12/09 15:21:45 ET]
+Table '3684291044 1' 3-max Seat #1 is the button
+Seat 1: ockner182 (685 in chips) 
+Seat 2: Mahu2021 (815 in chips) 
+ockner182: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js 3s]
+ockner182: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: ockner182 (button) (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (30)
+
+
+
+PokerStars Hand #247569578214: Tournament #3684291044, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/12/09 21:21:49 CET [2023/12/09 15:21:49 ET]
+Table '3684291044 1' 3-max Seat #2 is the button
+Seat 1: ockner182 (670 in chips) 
+Seat 2: Mahu2021 (830 in chips) 
+Mahu2021: posts small blind 15
+ockner182: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc 3d]
+Mahu2021: calls 15
+ockner182: checks 
+*** FLOP *** [Jd Ts 8h]
+ockner182: checks 
+Mahu2021: bets 60
+ockner182: calls 60
+*** TURN *** [Jd Ts 8h] [Qh]
+ockner182: checks 
+Mahu2021: checks 
+*** RIVER *** [Jd Ts 8h Qh] [Th]
+ockner182: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+ockner182: shows [6d Qd] (two pair, Queens and Tens)
+Mahu2021: shows [Qc 3d] (two pair, Queens and Tens)
+ockner182 collected 90 from pot
+Mahu2021 collected 90 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [Jd Ts 8h Qh Th]
+Seat 1: ockner182 (big blind) showed [6d Qd] and won (90) with two pair, Queens and Tens
+Seat 2: Mahu2021 (button) (small blind) showed [Qc 3d] and won (90) with two pair, Queens and Tens
+
+
+
+PokerStars Hand #247569589240: Tournament #3684291044, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/12/09 21:22:22 CET [2023/12/09 15:22:22 ET]
+Table '3684291044 1' 3-max Seat #1 is the button
+Seat 1: ockner182 (670 in chips) 
+Seat 2: Mahu2021 (830 in chips) 
+ockner182: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kc Ad]
+ockner182: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: ockner182 (button) (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (30)
+
+
+
+PokerStars Hand #247569591938: Tournament #3684291044, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/12/09 21:22:31 CET [2023/12/09 15:22:31 ET]
+Table '3684291044 1' 3-max Seat #2 is the button
+Seat 1: ockner182 (655 in chips) 
+Seat 2: Mahu2021 (845 in chips) 
+Mahu2021: posts small blind 20
+ockner182: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qd 9d]
+Mahu2021: calls 20
+ockner182: checks 
+*** FLOP *** [3h Kh 4s]
+ockner182: checks 
+Mahu2021: checks 
+*** TURN *** [3h Kh 4s] [5d]
+ockner182: bets 40
+Mahu2021: folds 
+Uncalled bet (40) returned to ockner182
+ockner182 collected 80 from pot
+ockner182: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [3h Kh 4s 5d]
+Seat 1: ockner182 (big blind) collected (80)
+Seat 2: Mahu2021 (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #247569597120: Tournament #3684291044, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/12/09 21:22:46 CET [2023/12/09 15:22:46 ET]
+Table '3684291044 1' 3-max Seat #1 is the button
+Seat 1: ockner182 (695 in chips) 
+Seat 2: Mahu2021 (805 in chips) 
+ockner182: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h 7c]
+ockner182: calls 20
+Mahu2021: checks 
+*** FLOP *** [5d 6c 7h]
+Mahu2021: bets 40
+ockner182: calls 40
+*** TURN *** [5d 6c 7h] [3d]
+Mahu2021: bets 40
+ockner182: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 160 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [5d 6c 7h 3d]
+Seat 1: ockner182 (button) (small blind) folded on the Turn
+Seat 2: Mahu2021 (big blind) collected (160)
+
+
+
+PokerStars Hand #247569603977: Tournament #3684291044, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/12/09 21:23:07 CET [2023/12/09 15:23:07 ET]
+Table '3684291044 1' 3-max Seat #2 is the button
+Seat 1: ockner182 (615 in chips) 
+Seat 2: Mahu2021 (885 in chips) 
+Mahu2021: posts small blind 20
+ockner182: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s Kd]
+Mahu2021: calls 20
+ockner182: raises 80 to 120
+Mahu2021: calls 80
+*** FLOP *** [4d Kh 5d]
+ockner182: bets 120
+Mahu2021: raises 645 to 765 and is all-in
+ockner182: folds 
+Uncalled bet (645) returned to Mahu2021
+Mahu2021 collected 480 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Board [4d Kh 5d]
+Seat 1: ockner182 (big blind) folded on the Flop
+Seat 2: Mahu2021 (button) (small blind) collected (480)
+
+
+
+PokerStars Hand #247569610602: Tournament #3684291044, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/12/09 21:23:27 CET [2023/12/09 15:23:27 ET]
+Table '3684291044 1' 3-max Seat #1 is the button
+Seat 1: ockner182 (375 in chips) 
+Seat 2: Mahu2021 (1125 in chips) 
+ockner182: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h 7c]
+ockner182: raises 335 to 375 and is all-in
+Mahu2021: folds 
+Uncalled bet (335) returned to ockner182
+ockner182 collected 80 from pot
+ockner182: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: ockner182 (button) (small blind) collected (80)
+Seat 2: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #247569613592: Tournament #3684291044, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/12/09 21:23:35 CET [2023/12/09 15:23:35 ET]
+Table '3684291044 1' 3-max Seat #2 is the button
+Seat 1: ockner182 (415 in chips) 
+Seat 2: Mahu2021 (1085 in chips) 
+Mahu2021: posts small blind 20
+ockner182: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc 8d]
+Mahu2021: calls 20
+ockner182: checks 
+*** FLOP *** [Kc Th Ts]
+ockner182: checks 
+Mahu2021: bets 40
+ockner182: calls 40
+*** TURN *** [Kc Th Ts] [2c]
+ockner182: checks 
+Mahu2021: checks 
+*** RIVER *** [Kc Th Ts 2c] [4d]
+ockner182: bets 40
+Mahu2021: raises 80 to 120
+ockner182: raises 215 to 335 and is all-in
+Mahu2021: folds 
+Uncalled bet (215) returned to ockner182
+ockner182 collected 400 from pot
+ockner182: doesn't show hand 
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Board [Kc Th Ts 2c 4d]
+Seat 1: ockner182 (big blind) collected (400)
+Seat 2: Mahu2021 (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #247569623328: Tournament #3684291044, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/12/09 21:24:05 CET [2023/12/09 15:24:05 ET]
+Table '3684291044 1' 3-max Seat #1 is the button
+Seat 1: ockner182 (615 in chips) 
+Seat 2: Mahu2021 (885 in chips) 
+ockner182: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h 2s]
+ockner182: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: ockner182 (button) (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (40)
+
+
+
+PokerStars Hand #247569624924: Tournament #3684291044, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/12/09 21:24:09 CET [2023/12/09 15:24:09 ET]
+Table '3684291044 1' 3-max Seat #2 is the button
+Seat 1: ockner182 (595 in chips) 
+Seat 2: Mahu2021 (905 in chips) 
+Mahu2021: posts small blind 20
+ockner182: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Tc Th]
+Mahu2021: raises 865 to 905 and is all-in
+ockner182: calls 555 and is all-in
+Uncalled bet (310) returned to Mahu2021
+*** FLOP *** [7c 3d Qh]
+*** TURN *** [7c 3d Qh] [2d]
+*** RIVER *** [7c 3d Qh 2d] [As]
+*** SHOW DOWN ***
+ockner182: shows [Td Ks] (high card Ace)
+Mahu2021: shows [Tc Th] (a pair of Tens)
+Mahu2021 collected 1190 from pot
+ockner182 finished the tournament in 2nd place
+Mahu2021 wins the tournament and receives $6.00 - congratulations!
+*** SUMMARY ***
+Total pot 1190 | Rake 0 
+Board [7c 3d Qh 2d As]
+Seat 1: ockner182 (big blind) showed [Td Ks] and lost with high card Ace
+Seat 2: Mahu2021 (button) (small blind) showed [Tc Th] and won (1190) with a pair of Tens
+
+
+

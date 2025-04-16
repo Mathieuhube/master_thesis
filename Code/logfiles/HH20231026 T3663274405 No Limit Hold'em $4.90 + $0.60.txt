@@ -1,0 +1,1949 @@
+﻿PokerStars Hand #246753796930: Tournament #3663274405, $2.40+$2.50+$0.60 USD Hold'em No Limit - Level V (45/90) - 2023/10/26 18:11:30 CET [2023/10/26 12:11:30 ET]
+Table '3663274405 89' 8-max Seat #8 is the button
+Seat 1: Ketnetka (4505 in chips, $2.50 bounty) 
+Seat 2: adobeXreader (4646 in chips, $2.50 bounty) 
+Seat 3: DieTama (6446 in chips, $5 bounty) 
+Seat 4: BigBadBluff4 (17143 in chips, $3.75 bounty) 
+Seat 5: 1mspartacus (5000 in chips, $2.50 bounty) 
+Seat 6: vitek666912 (17179 in chips, $5 bounty) 
+Seat 7: Mahu2021 (5000 in chips, $2.50 bounty) 
+Seat 8: BigKoza4OK (6642 in chips, $2.50 bounty) 
+Ketnetka: posts the ante 14
+adobeXreader: posts the ante 14
+DieTama: posts the ante 14
+BigBadBluff4: posts the ante 14
+1mspartacus: posts the ante 14
+vitek666912: posts the ante 14
+Mahu2021: posts the ante 14
+BigKoza4OK: posts the ante 14
+Ketnetka: posts small blind 45
+adobeXreader: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h Qc]
+DieTama: folds 
+BigBadBluff4: folds 
+1mspartacus: calls 90
+vitek666912: folds 
+Mahu2021: folds 
+BigKoza4OK: folds 
+Ketnetka: raises 140 to 230
+adobeXreader: calls 140
+1mspartacus: calls 140
+*** FLOP *** [9h 6h 2s]
+Ketnetka: bets 450
+adobeXreader: folds 
+1mspartacus: calls 450
+*** TURN *** [9h 6h 2s] [As]
+Ketnetka: bets 900
+1mspartacus: calls 900
+*** RIVER *** [9h 6h 2s As] [2c]
+Ketnetka: bets 1751
+1mspartacus: calls 1751
+*** SHOW DOWN ***
+Ketnetka: shows [Ah 5d] (two pair, Aces and Deuces)
+1mspartacus: mucks hand 
+Ketnetka collected 7004 from pot
+*** SUMMARY ***
+Total pot 7004 | Rake 0 
+Board [9h 6h 2s As 2c]
+Seat 1: Ketnetka (small blind) showed [Ah 5d] and won (7004) with two pair, Aces and Deuces
+Seat 2: adobeXreader (big blind) folded on the Flop
+Seat 3: DieTama folded before Flop (didn't bet)
+Seat 4: BigBadBluff4 folded before Flop (didn't bet)
+Seat 5: 1mspartacus mucked [7c 9c]
+Seat 6: vitek666912 folded before Flop (didn't bet)
+Seat 7: Mahu2021 folded before Flop (didn't bet)
+Seat 8: BigKoza4OK (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #246753814115: Tournament #3663274405, $2.40+$2.50+$0.60 USD Hold'em No Limit - Level V (45/90) - 2023/10/26 18:12:35 CET [2023/10/26 12:12:35 ET]
+Table '3663274405 89' 8-max Seat #1 is the button
+Seat 1: Ketnetka (8164 in chips, $2.50 bounty) 
+Seat 2: adobeXreader (4402 in chips, $2.50 bounty) 
+Seat 3: DieTama (6432 in chips, $5 bounty) 
+Seat 4: BigBadBluff4 (17129 in chips, $3.75 bounty) 
+Seat 5: 1mspartacus (1655 in chips, $2.50 bounty) 
+Seat 6: vitek666912 (17165 in chips, $5 bounty) 
+Seat 7: Mahu2021 (4986 in chips, $2.50 bounty) 
+Seat 8: BigKoza4OK (6628 in chips, $2.50 bounty) 
+Ketnetka: posts the ante 14
+adobeXreader: posts the ante 14
+DieTama: posts the ante 14
+BigBadBluff4: posts the ante 14
+1mspartacus: posts the ante 14
+vitek666912: posts the ante 14
+Mahu2021: posts the ante 14
+BigKoza4OK: posts the ante 14
+adobeXreader: posts small blind 45
+DieTama: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h 6s]
+BigBadBluff4: folds 
+1mspartacus: calls 90
+vitek666912: raises 315 to 405
+Mahu2021: folds 
+BigKoza4OK: folds 
+Ketnetka: folds 
+adobeXreader: folds 
+DieTama: folds 
+1mspartacus: calls 315
+*** FLOP *** [8h Ts Jh]
+1mspartacus: checks 
+vitek666912: bets 465
+1mspartacus: calls 465
+*** TURN *** [8h Ts Jh] [7s]
+1mspartacus: checks 
+vitek666912: bets 874
+1mspartacus: calls 771 and is all-in
+Uncalled bet (103) returned to vitek666912
+*** RIVER *** [8h Ts Jh 7s] [5h]
+*** SHOW DOWN ***
+1mspartacus: shows [Qd 9c] (a straight, Eight to Queen)
+vitek666912: shows [Qh Ks] (high card King)
+1mspartacus collected 3529 from pot
+*** SUMMARY ***
+Total pot 3529 | Rake 0 
+Board [8h Ts Jh 7s 5h]
+Seat 1: Ketnetka (button) folded before Flop (didn't bet)
+Seat 2: adobeXreader (small blind) folded before Flop
+Seat 3: DieTama (big blind) folded before Flop
+Seat 4: BigBadBluff4 folded before Flop (didn't bet)
+Seat 5: 1mspartacus showed [Qd 9c] and won (3529) with a straight, Eight to Queen
+Seat 6: vitek666912 showed [Qh Ks] and lost with high card King
+Seat 7: Mahu2021 folded before Flop (didn't bet)
+Seat 8: BigKoza4OK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #246753827029: Tournament #3663274405, $2.40+$2.50+$0.60 USD Hold'em No Limit - Level V (45/90) - 2023/10/26 18:13:25 CET [2023/10/26 12:13:25 ET]
+Table '3663274405 89' 8-max Seat #2 is the button
+Seat 1: Ketnetka (8150 in chips, $2.50 bounty) 
+Seat 2: adobeXreader (4343 in chips, $2.50 bounty) 
+Seat 3: DieTama (6328 in chips, $5 bounty) 
+Seat 4: BigBadBluff4 (17115 in chips, $3.75 bounty) 
+Seat 5: 1mspartacus (3529 in chips, $2.50 bounty) 
+Seat 6: vitek666912 (15510 in chips, $5 bounty) 
+Seat 7: Mahu2021 (4972 in chips, $2.50 bounty) 
+Seat 8: BigKoza4OK (6614 in chips, $2.50 bounty) 
+Ketnetka: posts the ante 14
+adobeXreader: posts the ante 14
+DieTama: posts the ante 14
+BigBadBluff4: posts the ante 14
+1mspartacus: posts the ante 14
+vitek666912: posts the ante 14
+Mahu2021: posts the ante 14
+BigKoza4OK: posts the ante 14
+DieTama: posts small blind 45
+BigBadBluff4: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s As]
+1mspartacus: folds 
+vitek666912: folds 
+Mahu2021: raises 90 to 180
+BigKoza4OK: folds 
+Ketnetka: folds 
+adobeXreader: calls 180
+DieTama: calls 135
+BigBadBluff4: calls 90
+*** FLOP *** [4c 6c Qh]
+DieTama: checks 
+BigBadBluff4: checks 
+Mahu2021: checks 
+adobeXreader: bets 180
+DieTama: raises 811 to 991
+BigBadBluff4: folds 
+Mahu2021: folds 
+adobeXreader: folds 
+Uncalled bet (811) returned to DieTama
+DieTama collected 1192 from pot
+DieTama: doesn't show hand 
+*** SUMMARY ***
+Total pot 1192 | Rake 0 
+Board [4c 6c Qh]
+Seat 1: Ketnetka folded before Flop (didn't bet)
+Seat 2: adobeXreader (button) folded on the Flop
+Seat 3: DieTama (small blind) collected (1192)
+Seat 4: BigBadBluff4 (big blind) folded on the Flop
+Seat 5: 1mspartacus folded before Flop (didn't bet)
+Seat 6: vitek666912 folded before Flop (didn't bet)
+Seat 7: Mahu2021 folded on the Flop
+Seat 8: BigKoza4OK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #246753841708: Tournament #3663274405, $2.40+$2.50+$0.60 USD Hold'em No Limit - Level V (45/90) - 2023/10/26 18:14:20 CET [2023/10/26 12:14:20 ET]
+Table '3663274405 89' 8-max Seat #3 is the button
+Seat 1: Ketnetka (8136 in chips, $2.50 bounty) 
+Seat 2: adobeXreader (3969 in chips, $2.50 bounty) 
+Seat 3: DieTama (7146 in chips, $5 bounty) 
+Seat 4: BigBadBluff4 (16921 in chips, $3.75 bounty) 
+Seat 5: 1mspartacus (3515 in chips, $2.50 bounty) 
+Seat 6: vitek666912 (15496 in chips, $5 bounty) 
+Seat 7: Mahu2021 (4778 in chips, $2.50 bounty) 
+Seat 8: BigKoza4OK (6600 in chips, $2.50 bounty) 
+Ketnetka: posts the ante 14
+adobeXreader: posts the ante 14
+DieTama: posts the ante 14
+BigBadBluff4: posts the ante 14
+1mspartacus: posts the ante 14
+vitek666912: posts the ante 14
+Mahu2021: posts the ante 14
+BigKoza4OK: posts the ante 14
+BigBadBluff4: posts small blind 45
+1mspartacus: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js 3h]
+vitek666912: folds 
+Mahu2021: folds 
+BigKoza4OK: folds 
+Ketnetka: folds 
+adobeXreader: raises 180 to 270
+DieTama: folds 
+BigBadBluff4: folds 
+1mspartacus: raises 3231 to 3501 and is all-in
+adobeXreader: calls 3231
+*** FLOP *** [5d Ts 4s]
+*** TURN *** [5d Ts 4s] [2d]
+*** RIVER *** [5d Ts 4s 2d] [Kc]
+*** SHOW DOWN ***
+1mspartacus: shows [Qd Qs] (a pair of Queens)
+adobeXreader: shows [Ad Kh] (a pair of Kings)
+adobeXreader collected 7159 from pot
+adobeXreader wins $1.25 for eliminating 1mspartacus and their own bounty increases by $1.25 to $3.75
+1mspartacus finished the tournament
+*** SUMMARY ***
+Total pot 7159 | Rake 0 
+Board [5d Ts 4s 2d Kc]
+Seat 1: Ketnetka folded before Flop (didn't bet)
+Seat 2: adobeXreader showed [Ad Kh] and won (7159) with a pair of Kings
+Seat 3: DieTama (button) folded before Flop (didn't bet)
+Seat 4: BigBadBluff4 (small blind) folded before Flop
+Seat 5: 1mspartacus (big blind) showed [Qd Qs] and lost with a pair of Queens
+Seat 6: vitek666912 folded before Flop (didn't bet)
+Seat 7: Mahu2021 folded before Flop (didn't bet)
+Seat 8: BigKoza4OK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #246753857036: Tournament #3663274405, $2.40+$2.50+$0.60 USD Hold'em No Limit - Level V (45/90) - 2023/10/26 18:15:17 CET [2023/10/26 12:15:17 ET]
+Table '3663274405 4' 8-max Seat #1 is the button
+Seat 1: Janischke23 (3781 in chips, $2.50 bounty) 
+Seat 2: facki.77 (14887 in chips, $5.62 bounty) 
+Seat 3: Mahu2021 (4764 in chips, $2.50 bounty) 
+Seat 4: juanM@__1717 (5063 in chips, $2.50 bounty) 
+Seat 5: AQ im ALIN (12313 in chips, $2.50 bounty) 
+Seat 6: kamelot17 (3398 in chips, $2.50 bounty) 
+Seat 7: 90marinik90 (4253 in chips, $2.50 bounty) 
+Seat 8: jimfisk (4679 in chips, $2.50 bounty) 
+Janischke23: posts the ante 14
+facki.77: posts the ante 14
+Mahu2021: posts the ante 14
+juanM@__1717: posts the ante 14
+AQ im ALIN: posts the ante 14
+kamelot17: posts the ante 14
+90marinik90: posts the ante 14
+jimfisk: posts the ante 14
+facki.77: posts small blind 45
+Mahu2021: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h Th]
+juanM@__1717: folds 
+AQ im ALIN: folds 
+kamelot17: folds 
+90marinik90: folds 
+jimfisk: folds 
+Janischke23: folds 
+facki.77: raises 180 to 270
+Mahu2021: calls 180
+*** FLOP *** [6d 5c Tc]
+facki.77: bets 270
+Mahu2021: calls 270
+*** TURN *** [6d 5c Tc] [Ts]
+facki.77: bets 358
+Mahu2021: raises 3852 to 4210 and is all-in
+facki.77: folds 
+Uncalled bet (3852) returned to Mahu2021
+Mahu2021 collected 1908 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 1908 | Rake 0 
+Board [6d 5c Tc Ts]
+Seat 1: Janischke23 (button) folded before Flop (didn't bet)
+Seat 2: facki.77 (small blind) folded on the Turn
+Seat 3: Mahu2021 (big blind) collected (1908)
+Seat 4: juanM@__1717 folded before Flop (didn't bet)
+Seat 5: AQ im ALIN folded before Flop (didn't bet)
+Seat 6: kamelot17 folded before Flop (didn't bet)
+Seat 7: 90marinik90 folded before Flop (didn't bet)
+Seat 8: jimfisk folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #246753871962: Tournament #3663274405, $2.40+$2.50+$0.60 USD Hold'em No Limit - Level V (45/90) - 2023/10/26 18:16:13 CET [2023/10/26 12:16:13 ET]
+Table '3663274405 4' 8-max Seat #2 is the button
+Seat 1: Janischke23 (3767 in chips, $2.50 bounty) 
+Seat 2: facki.77 (13975 in chips, $5.62 bounty) 
+Seat 3: Mahu2021 (5760 in chips, $2.50 bounty) 
+Seat 4: juanM@__1717 (5049 in chips, $2.50 bounty) 
+Seat 5: AQ im ALIN (12299 in chips, $2.50 bounty) 
+Seat 6: kamelot17 (3384 in chips, $2.50 bounty) 
+Seat 7: 90marinik90 (4239 in chips, $2.50 bounty) 
+Seat 8: jimfisk (4665 in chips, $2.50 bounty) 
+Janischke23: posts the ante 14
+facki.77: posts the ante 14
+Mahu2021: posts the ante 14
+juanM@__1717: posts the ante 14
+AQ im ALIN: posts the ante 14
+kamelot17: posts the ante 14
+90marinik90: posts the ante 14
+jimfisk: posts the ante 14
+Mahu2021: posts small blind 45
+juanM@__1717: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah Jd]
+AQ im ALIN: raises 90 to 180
+kamelot17: folds 
+90marinik90: folds 
+jimfisk: folds 
+Janischke23: folds 
+facki.77: folds 
+Mahu2021: calls 135
+juanM@__1717: calls 90
+*** FLOP *** [3c 6c 2s]
+Mahu2021: checks 
+juanM@__1717: checks 
+AQ im ALIN: checks 
+*** TURN *** [3c 6c 2s] [Qs]
+Mahu2021: checks 
+juanM@__1717: checks 
+AQ im ALIN: bets 489
+Mahu2021: folds 
+juanM@__1717: folds 
+Uncalled bet (489) returned to AQ im ALIN
+AQ im ALIN collected 652 from pot
+AQ im ALIN: doesn't show hand 
+*** SUMMARY ***
+Total pot 652 | Rake 0 
+Board [3c 6c 2s Qs]
+Seat 1: Janischke23 folded before Flop (didn't bet)
+Seat 2: facki.77 (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) folded on the Turn
+Seat 4: juanM@__1717 (big blind) folded on the Turn
+Seat 5: AQ im ALIN collected (652)
+Seat 6: kamelot17 folded before Flop (didn't bet)
+Seat 7: 90marinik90 folded before Flop (didn't bet)
+Seat 8: jimfisk folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #246753886880: Tournament #3663274405, $2.40+$2.50+$0.60 USD Hold'em No Limit - Level V (45/90) - 2023/10/26 18:17:08 CET [2023/10/26 12:17:08 ET]
+Table '3663274405 4' 8-max Seat #3 is the button
+Seat 1: Janischke23 (3753 in chips, $2.50 bounty) 
+Seat 2: facki.77 (13961 in chips, $5.62 bounty) 
+Seat 3: Mahu2021 (5566 in chips, $2.50 bounty) 
+Seat 4: juanM@__1717 (4855 in chips, $2.50 bounty) 
+Seat 5: AQ im ALIN (12757 in chips, $2.50 bounty) 
+Seat 6: kamelot17 (3370 in chips, $2.50 bounty) 
+Seat 7: 90marinik90 (4225 in chips, $2.50 bounty) 
+Seat 8: jimfisk (4651 in chips, $2.50 bounty) 
+Janischke23: posts the ante 14
+facki.77: posts the ante 14
+Mahu2021: posts the ante 14
+juanM@__1717: posts the ante 14
+AQ im ALIN: posts the ante 14
+kamelot17: posts the ante 14
+90marinik90: posts the ante 14
+jimfisk: posts the ante 14
+juanM@__1717: posts small blind 45
+AQ im ALIN: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6h 5d]
+kamelot17: folds 
+90marinik90: raises 90 to 180
+jimfisk: folds 
+Janischke23: folds 
+facki.77: folds 
+Mahu2021: folds 
+juanM@__1717: folds 
+AQ im ALIN: calls 90
+*** FLOP *** [8h Jh 6d]
+AQ im ALIN: checks 
+90marinik90: bets 171
+AQ im ALIN: calls 171
+*** TURN *** [8h Jh 6d] [9c]
+AQ im ALIN: bets 855
+90marinik90: calls 855
+*** RIVER *** [8h Jh 6d 9c] [Tc]
+AQ im ALIN: bets 642
+90marinik90: folds 
+Uncalled bet (642) returned to AQ im ALIN
+AQ im ALIN collected 2569 from pot
+AQ im ALIN: doesn't show hand 
+*** SUMMARY ***
+Total pot 2569 | Rake 0 
+Board [8h Jh 6d 9c Tc]
+Seat 1: Janischke23 folded before Flop (didn't bet)
+Seat 2: facki.77 folded before Flop (didn't bet)
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 4: juanM@__1717 (small blind) folded before Flop
+Seat 5: AQ im ALIN (big blind) collected (2569)
+Seat 6: kamelot17 folded before Flop (didn't bet)
+Seat 7: 90marinik90 folded on the River
+Seat 8: jimfisk folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #246753911347: Tournament #3663274405, $2.40+$2.50+$0.60 USD Hold'em No Limit - Level VI (50/100) - 2023/10/26 18:18:39 CET [2023/10/26 12:18:39 ET]
+Table '3663274405 4' 8-max Seat #4 is the button
+Seat 1: Janischke23 (3739 in chips, $2.50 bounty) 
+Seat 2: facki.77 (13947 in chips, $5.62 bounty) 
+Seat 3: Mahu2021 (5552 in chips, $2.50 bounty) 
+Seat 4: juanM@__1717 (4796 in chips, $2.50 bounty) 
+Seat 5: AQ im ALIN (14106 in chips, $2.50 bounty) 
+Seat 6: kamelot17 (3356 in chips, $2.50 bounty) 
+Seat 7: 90marinik90 (3005 in chips, $2.50 bounty) 
+Seat 8: jimfisk (4637 in chips, $2.50 bounty) 
+Janischke23: posts the ante 15
+facki.77: posts the ante 15
+Mahu2021: posts the ante 15
+juanM@__1717: posts the ante 15
+AQ im ALIN: posts the ante 15
+kamelot17: posts the ante 15
+90marinik90: posts the ante 15
+jimfisk: posts the ante 15
+AQ im ALIN: posts small blind 50
+kamelot17: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h 8h]
+90marinik90: raises 100 to 200
+jimfisk: folds 
+Janischke23: folds 
+facki.77: raises 400 to 600
+Mahu2021: folds 
+juanM@__1717: calls 600
+AQ im ALIN: folds 
+kamelot17: folds 
+90marinik90: raises 2390 to 2990 and is all-in
+facki.77: raises 10942 to 13932 and is all-in
+juanM@__1717: folds 
+Uncalled bet (10942) returned to facki.77
+*** FLOP *** [3c 6h 7h]
+*** TURN *** [3c 6h 7h] [Jd]
+*** RIVER *** [3c 6h 7h Jd] [Jh]
+*** SHOW DOWN ***
+90marinik90: shows [Qc Qh] (two pair, Queens and Jacks)
+facki.77: shows [Ad Qs] (a pair of Jacks)
+90marinik90 collected 6850 from pot
+*** SUMMARY ***
+Total pot 6850 | Rake 0 
+Board [3c 6h 7h Jd Jh]
+Seat 1: Janischke23 folded before Flop (didn't bet)
+Seat 2: facki.77 showed [Ad Qs] and lost with a pair of Jacks
+Seat 3: Mahu2021 folded before Flop (didn't bet)
+Seat 4: juanM@__1717 (button) folded before Flop
+Seat 5: AQ im ALIN (small blind) folded before Flop
+Seat 6: kamelot17 (big blind) folded before Flop
+Seat 7: 90marinik90 showed [Qc Qh] and won (6850) with two pair, Queens and Jacks
+Seat 8: jimfisk folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #246753929245: Tournament #3663274405, $2.40+$2.50+$0.60 USD Hold'em No Limit - Level VI (50/100) - 2023/10/26 18:19:45 CET [2023/10/26 12:19:45 ET]
+Table '3663274405 4' 8-max Seat #5 is the button
+Seat 1: Janischke23 (3724 in chips, $2.50 bounty) 
+Seat 2: facki.77 (10942 in chips, $5.62 bounty) 
+Seat 3: Mahu2021 (5537 in chips, $2.50 bounty) 
+Seat 4: juanM@__1717 (4181 in chips, $2.50 bounty) 
+Seat 5: AQ im ALIN (14041 in chips, $2.50 bounty) 
+Seat 6: kamelot17 (3241 in chips, $2.50 bounty) 
+Seat 7: 90marinik90 (6850 in chips, $2.50 bounty) 
+Seat 8: jimfisk (4622 in chips, $2.50 bounty) 
+Janischke23: posts the ante 15
+facki.77: posts the ante 15
+Mahu2021: posts the ante 15
+juanM@__1717: posts the ante 15
+AQ im ALIN: posts the ante 15
+kamelot17: posts the ante 15
+90marinik90: posts the ante 15
+jimfisk: posts the ante 15
+kamelot17: posts small blind 50
+90marinik90: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h Ad]
+jimfisk: folds 
+Janischke23: folds 
+facki.77: folds 
+Mahu2021: folds 
+juanM@__1717: raises 100 to 200
+AQ im ALIN: folds 
+kamelot17: folds 
+90marinik90: calls 100
+*** FLOP *** [6d Td Ah]
+90marinik90: checks 
+juanM@__1717: bets 171
+90marinik90: raises 401 to 572
+juanM@__1717: calls 401
+*** TURN *** [6d Td Ah] [Js]
+90marinik90: bets 1200
+juanM@__1717: folds 
+Uncalled bet (1200) returned to 90marinik90
+90marinik90 collected 1714 from pot
+90marinik90: doesn't show hand 
+*** SUMMARY ***
+Total pot 1714 | Rake 0 
+Board [6d Td Ah Js]
+Seat 1: Janischke23 folded before Flop (didn't bet)
+Seat 2: facki.77 folded before Flop (didn't bet)
+Seat 3: Mahu2021 folded before Flop (didn't bet)
+Seat 4: juanM@__1717 folded on the Turn
+Seat 5: AQ im ALIN (button) folded before Flop (didn't bet)
+Seat 6: kamelot17 (small blind) folded before Flop
+Seat 7: 90marinik90 (big blind) collected (1714)
+Seat 8: jimfisk folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #246753961139: Tournament #3663274405, $2.40+$2.50+$0.60 USD Hold'em No Limit - Level VI (50/100) - 2023/10/26 18:21:43 CET [2023/10/26 12:21:43 ET]
+Table '3663274405 4' 8-max Seat #6 is the button
+Seat 1: Janischke23 (3709 in chips, $2.50 bounty) 
+Seat 2: facki.77 (10927 in chips, $5.62 bounty) 
+Seat 3: Mahu2021 (5522 in chips, $2.50 bounty) 
+Seat 4: juanM@__1717 (3394 in chips, $2.50 bounty) 
+Seat 5: AQ im ALIN (14026 in chips, $2.50 bounty) 
+Seat 6: kamelot17 (3176 in chips, $2.50 bounty) 
+Seat 7: 90marinik90 (7777 in chips, $2.50 bounty) 
+Seat 8: jimfisk (4607 in chips, $2.50 bounty) 
+Janischke23: posts the ante 15
+facki.77: posts the ante 15
+Mahu2021: posts the ante 15
+juanM@__1717: posts the ante 15
+AQ im ALIN: posts the ante 15
+kamelot17: posts the ante 15
+90marinik90: posts the ante 15
+jimfisk: posts the ante 15
+90marinik90: posts small blind 50
+jimfisk: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8c 3h]
+Janischke23: folds 
+facki.77: folds 
+Mahu2021: folds 
+juanM@__1717: folds 
+AQ im ALIN: folds 
+kamelot17: raises 110 to 210
+90marinik90: folds 
+jimfisk: calls 110
+*** FLOP *** [3s 9c Td]
+jimfisk: checks 
+kamelot17: checks 
+*** TURN *** [3s 9c Td] [6c]
+jimfisk: bets 100
+kamelot17: calls 100
+*** RIVER *** [3s 9c Td 6c] [6d]
+jimfisk: bets 100
+kamelot17: raises 400 to 500
+jimfisk: calls 400
+*** SHOW DOWN ***
+kamelot17: shows [Qh 7c] (a pair of Sixes)
+jimfisk: shows [4s 6s] (three of a kind, Sixes)
+jimfisk collected 1790 from pot
+*** SUMMARY ***
+Total pot 1790 | Rake 0 
+Board [3s 9c Td 6c 6d]
+Seat 1: Janischke23 folded before Flop (didn't bet)
+Seat 2: facki.77 folded before Flop (didn't bet)
+Seat 3: Mahu2021 folded before Flop (didn't bet)
+Seat 4: juanM@__1717 folded before Flop (didn't bet)
+Seat 5: AQ im ALIN folded before Flop (didn't bet)
+Seat 6: kamelot17 (button) showed [Qh 7c] and lost with a pair of Sixes
+Seat 7: 90marinik90 (small blind) folded before Flop
+Seat 8: jimfisk (big blind) showed [4s 6s] and won (1790) with three of a kind, Sixes
+
+
+
+PokerStars Hand #246753977244: Tournament #3663274405, $2.40+$2.50+$0.60 USD Hold'em No Limit - Level VI (50/100) - 2023/10/26 18:22:42 CET [2023/10/26 12:22:42 ET]
+Table '3663274405 4' 8-max Seat #7 is the button
+Seat 1: Janischke23 (3694 in chips, $2.50 bounty) 
+Seat 2: facki.77 (10912 in chips, $5.62 bounty) 
+Seat 3: Mahu2021 (5507 in chips, $2.50 bounty) 
+Seat 4: juanM@__1717 (3379 in chips, $2.50 bounty) 
+Seat 5: AQ im ALIN (14011 in chips, $2.50 bounty) 
+Seat 6: kamelot17 (2351 in chips, $2.50 bounty) 
+Seat 7: 90marinik90 (7712 in chips, $2.50 bounty) 
+Seat 8: jimfisk (5572 in chips, $2.50 bounty) 
+Janischke23: posts the ante 15
+facki.77: posts the ante 15
+Mahu2021: posts the ante 15
+juanM@__1717: posts the ante 15
+AQ im ALIN: posts the ante 15
+kamelot17: posts the ante 15
+90marinik90: posts the ante 15
+jimfisk: posts the ante 15
+jimfisk: posts small blind 50
+Janischke23: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c 9c]
+facki.77: raises 100 to 200
+Mahu2021: folds 
+juanM@__1717: folds 
+AQ im ALIN: folds 
+kamelot17: folds 
+90marinik90: folds 
+jimfisk: folds 
+Janischke23: folds 
+Uncalled bet (100) returned to facki.77
+facki.77 collected 370 from pot
+facki.77: doesn't show hand 
+*** SUMMARY ***
+Total pot 370 | Rake 0 
+Seat 1: Janischke23 (big blind) folded before Flop
+Seat 2: facki.77 collected (370)
+Seat 3: Mahu2021 folded before Flop (didn't bet)
+Seat 4: juanM@__1717 folded before Flop (didn't bet)
+Seat 5: AQ im ALIN folded before Flop (didn't bet)
+Seat 6: kamelot17 folded before Flop (didn't bet)
+Seat 7: 90marinik90 (button) folded before Flop (didn't bet)
+Seat 8: jimfisk (small blind) folded before Flop
+
+
+
+PokerStars Hand #246753986720: Tournament #3663274405, $2.40+$2.50+$0.60 USD Hold'em No Limit - Level VI (50/100) - 2023/10/26 18:23:17 CET [2023/10/26 12:23:17 ET]
+Table '3663274405 4' 8-max Seat #8 is the button
+Seat 1: Janischke23 (3579 in chips, $2.50 bounty) 
+Seat 2: facki.77 (11167 in chips, $5.62 bounty) 
+Seat 3: Mahu2021 (5492 in chips, $2.50 bounty) 
+Seat 4: juanM@__1717 (3364 in chips, $2.50 bounty) 
+Seat 5: AQ im ALIN (13996 in chips, $2.50 bounty) 
+Seat 6: kamelot17 (2336 in chips, $2.50 bounty) 
+Seat 7: 90marinik90 (7697 in chips, $2.50 bounty) 
+Seat 8: jimfisk (5507 in chips, $2.50 bounty) 
+Janischke23: posts the ante 15
+facki.77: posts the ante 15
+Mahu2021: posts the ante 15
+juanM@__1717: posts the ante 15
+AQ im ALIN: posts the ante 15
+kamelot17: posts the ante 15
+90marinik90: posts the ante 15
+jimfisk: posts the ante 15
+Janischke23: posts small blind 50
+facki.77: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd 5h]
+Mahu2021: folds 
+juanM@__1717: raises 100 to 200
+AQ im ALIN: folds 
+kamelot17: folds 
+90marinik90: folds 
+jimfisk: folds 
+Janischke23: folds 
+facki.77: raises 600 to 800
+juanM@__1717: raises 2549 to 3349 and is all-in
+facki.77: calls 2549
+*** FLOP *** [3d 3h 2h]
+*** TURN *** [3d 3h 2h] [4s]
+*** RIVER *** [3d 3h 2h 4s] [Ac]
+*** SHOW DOWN ***
+facki.77: shows [Ad Ah] (a full house, Aces full of Threes)
+juanM@__1717: shows [Jd Js] (two pair, Jacks and Threes)
+facki.77 collected 6868 from pot
+facki.77 wins $1.25 for eliminating juanM@__1717 and their own bounty increases by $1.25 to $6.87
+juanM@__1717 finished the tournament
+*** SUMMARY ***
+Total pot 6868 | Rake 0 
+Board [3d 3h 2h 4s Ac]
+Seat 1: Janischke23 (small blind) folded before Flop
+Seat 2: facki.77 (big blind) showed [Ad Ah] and won (6868) with a full house, Aces full of Threes
+Seat 3: Mahu2021 folded before Flop (didn't bet)
+Seat 4: juanM@__1717 showed [Jd Js] and lost with two pair, Jacks and Threes
+Seat 5: AQ im ALIN folded before Flop (didn't bet)
+Seat 6: kamelot17 folded before Flop (didn't bet)
+Seat 7: 90marinik90 folded before Flop (didn't bet)
+Seat 8: jimfisk (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #246754000150: Tournament #3663274405, $2.40+$2.50+$0.60 USD Hold'em No Limit - Level VI (50/100) - 2023/10/26 18:24:07 CET [2023/10/26 12:24:07 ET]
+Table '3663274405 4' 8-max Seat #1 is the button
+Seat 1: Janischke23 (3514 in chips, $2.50 bounty) 
+Seat 2: facki.77 (14671 in chips, $6.87 bounty) 
+Seat 3: Mahu2021 (5477 in chips, $2.50 bounty) 
+Seat 5: AQ im ALIN (13981 in chips, $2.50 bounty) 
+Seat 6: kamelot17 (2321 in chips, $2.50 bounty) 
+Seat 7: 90marinik90 (7682 in chips, $2.50 bounty) 
+Seat 8: jimfisk (5492 in chips, $2.50 bounty) 
+Janischke23: posts the ante 15
+facki.77: posts the ante 15
+Mahu2021: posts the ante 15
+AQ im ALIN: posts the ante 15
+kamelot17: posts the ante 15
+90marinik90: posts the ante 15
+jimfisk: posts the ante 15
+facki.77: posts small blind 50
+Mahu2021: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qs 9d]
+AQ im ALIN: raises 100 to 200
+fr4wtz is disconnected 
+kamelot17: folds 
+90marinik90: folds 
+jimfisk: folds 
+Janischke23: folds 
+facki.77: calls 150
+Mahu2021: calls 100
+*** FLOP *** [Ah 5c 8s]
+facki.77: checks 
+Mahu2021: checks 
+AQ im ALIN: bets 400
+facki.77: calls 400
+Mahu2021: folds 
+*** TURN *** [Ah 5c 8s] [Qd]
+facki.77: checks 
+AQ im ALIN: bets 3000
+facki.77: calls 3000
+*** RIVER *** [Ah 5c 8s Qd] [4d]
+facki.77: checks 
+AQ im ALIN: bets 5629
+facki.77: folds 
+Uncalled bet (5629) returned to AQ im ALIN
+AQ im ALIN collected 7505 from pot
+AQ im ALIN: doesn't show hand 
+*** SUMMARY ***
+Total pot 7505 | Rake 0 
+Board [Ah 5c 8s Qd 4d]
+Seat 1: Janischke23 (button) folded before Flop (didn't bet)
+Seat 2: facki.77 (small blind) folded on the River
+Seat 3: Mahu2021 (big blind) folded on the Flop
+Seat 5: AQ im ALIN collected (7505)
+Seat 6: kamelot17 folded before Flop (didn't bet)
+Seat 7: 90marinik90 folded before Flop (didn't bet)
+Seat 8: jimfisk folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #246754024416: Tournament #3663274405, $2.40+$2.50+$0.60 USD Hold'em No Limit - Level VII (60/120) - 2023/10/26 18:25:37 CET [2023/10/26 12:25:37 ET]
+Table '3663274405 4' 8-max Seat #2 is the button
+Seat 1: Janischke23 (3499 in chips, $2.50 bounty) 
+Seat 2: facki.77 (11056 in chips, $6.87 bounty) 
+Seat 3: Mahu2021 (5262 in chips, $2.50 bounty) 
+Seat 4: fr4wtz (5000 in chips, $2.50 bounty) 
+Seat 5: AQ im ALIN (17871 in chips, $2.50 bounty) 
+Seat 6: kamelot17 (2306 in chips, $2.50 bounty) 
+Seat 7: 90marinik90 (7667 in chips, $2.50 bounty) 
+Seat 8: jimfisk (5477 in chips, $2.50 bounty) 
+Janischke23: posts the ante 18
+facki.77: posts the ante 18
+Mahu2021: posts the ante 18
+fr4wtz: posts the ante 18
+AQ im ALIN: posts the ante 18
+kamelot17: posts the ante 18
+90marinik90: posts the ante 18
+jimfisk: posts the ante 18
+Mahu2021: posts small blind 60
+fr4wtz: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d 7s]
+AQ im ALIN: raises 120 to 240
+kamelot17: folds 
+90marinik90: folds 
+jimfisk: folds 
+Janischke23: folds 
+facki.77: folds 
+Mahu2021: folds 
+fr4wtz: calls 120
+*** FLOP *** [Td Jh 2s]
+fr4wtz: checks 
+AQ im ALIN: bets 226
+fr4wtz: raises 508 to 734
+AQ im ALIN: calls 508
+*** TURN *** [Td Jh 2s] [9d]
+fr4wtz: checks 
+AQ im ALIN: bets 710
+fr4wtz: raises 1179 to 1889
+AQ im ALIN: folds 
+Uncalled bet (1179) returned to fr4wtz
+fr4wtz collected 3572 from pot
+*** SUMMARY ***
+Total pot 3572 | Rake 0 
+Board [Td Jh 2s 9d]
+Seat 1: Janischke23 folded before Flop (didn't bet)
+Seat 2: facki.77 (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) folded before Flop
+Seat 4: fr4wtz (big blind) collected (3572)
+Seat 5: AQ im ALIN folded on the Turn
+Seat 6: kamelot17 folded before Flop (didn't bet)
+Seat 7: 90marinik90 folded before Flop (didn't bet)
+Seat 8: jimfisk folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #246754061451: Tournament #3663274405, $2.40+$2.50+$0.60 USD Hold'em No Limit - Level VII (60/120) - 2023/10/26 18:27:52 CET [2023/10/26 12:27:52 ET]
+Table '3663274405 4' 8-max Seat #3 is the button
+Seat 1: Janischke23 (3481 in chips, $2.50 bounty) 
+Seat 2: facki.77 (11038 in chips, $6.87 bounty) 
+Seat 3: Mahu2021 (5184 in chips, $2.50 bounty) 
+Seat 4: fr4wtz (6870 in chips, $2.50 bounty) 
+Seat 5: AQ im ALIN (16169 in chips, $2.50 bounty) 
+Seat 6: kamelot17 (2288 in chips, $2.50 bounty) 
+Seat 7: 90marinik90 (7649 in chips, $2.50 bounty) 
+Seat 8: jimfisk (5459 in chips, $2.50 bounty) 
+Janischke23: posts the ante 18
+facki.77: posts the ante 18
+Mahu2021: posts the ante 18
+fr4wtz: posts the ante 18
+AQ im ALIN: posts the ante 18
+kamelot17: posts the ante 18
+90marinik90: posts the ante 18
+jimfisk: posts the ante 18
+fr4wtz: posts small blind 60
+AQ im ALIN: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d Qd]
+kamelot17: folds 
+90marinik90: folds 
+jimfisk: folds 
+Janischke23: folds 
+facki.77: folds 
+Mahu2021: raises 120 to 240
+fr4wtz: folds 
+AQ im ALIN: calls 120
+*** FLOP *** [7h Ac 3d]
+AQ im ALIN: checks 
+Mahu2021: bets 240
+AQ im ALIN: raises 480 to 720
+Mahu2021: raises 600 to 1320
+AQ im ALIN: folds 
+Uncalled bet (600) returned to Mahu2021
+Mahu2021 collected 2124 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 2124 | Rake 0 
+Board [7h Ac 3d]
+Seat 1: Janischke23 folded before Flop (didn't bet)
+Seat 2: facki.77 folded before Flop (didn't bet)
+Seat 3: Mahu2021 (button) collected (2124)
+Seat 4: fr4wtz (small blind) folded before Flop
+Seat 5: AQ im ALIN (big blind) folded on the Flop
+Seat 6: kamelot17 folded before Flop (didn't bet)
+Seat 7: 90marinik90 folded before Flop (didn't bet)
+Seat 8: jimfisk folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #246754081051: Tournament #3663274405, $2.40+$2.50+$0.60 USD Hold'em No Limit - Level VII (60/120) - 2023/10/26 18:29:03 CET [2023/10/26 12:29:03 ET]
+Table '3663274405 4' 8-max Seat #4 is the button
+Seat 1: Janischke23 (3463 in chips, $2.50 bounty) 
+Seat 2: facki.77 (11020 in chips, $6.87 bounty) 
+Seat 3: Mahu2021 (6330 in chips, $2.50 bounty) 
+Seat 4: fr4wtz (6792 in chips, $2.50 bounty) 
+Seat 5: AQ im ALIN (15191 in chips, $2.50 bounty) 
+Seat 6: kamelot17 (2270 in chips, $2.50 bounty) 
+Seat 7: 90marinik90 (7631 in chips, $2.50 bounty) 
+Seat 8: jimfisk (5441 in chips, $2.50 bounty) 
+Janischke23: posts the ante 18
+facki.77: posts the ante 18
+Mahu2021: posts the ante 18
+fr4wtz: posts the ante 18
+AQ im ALIN: posts the ante 18
+kamelot17: posts the ante 18
+90marinik90: posts the ante 18
+jimfisk: posts the ante 18
+AQ im ALIN: posts small blind 60
+kamelot17: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d 3h]
+90marinik90: folds 
+jimfisk: folds 
+Janischke23: folds 
+facki.77: folds 
+Mahu2021: folds 
+fr4wtz: raises 156 to 276
+AQ im ALIN: folds 
+kamelot17: calls 156
+*** FLOP *** [4h Qh 7s]
+kamelot17: checks 
+fr4wtz: bets 249
+kamelot17: calls 249
+*** TURN *** [4h Qh 7s] [2s]
+kamelot17: checks 
+fr4wtz: bets 414
+kamelot17: calls 414
+*** RIVER *** [4h Qh 7s 2s] [8h]
+kamelot17: checks 
+fr4wtz: bets 5835 and is all-in
+kamelot17: calls 1313 and is all-in
+Uncalled bet (4522) returned to fr4wtz
+*** SHOW DOWN ***
+fr4wtz: shows [Js 8s] (a pair of Eights)
+kamelot17: shows [9s 7c] (a pair of Sevens)
+fr4wtz collected 4708 from pot
+fr4wtz wins $1.25 for eliminating kamelot17 and their own bounty increases by $1.25 to $3.75
+kamelot17 finished the tournament
+*** SUMMARY ***
+Total pot 4708 | Rake 0 
+Board [4h Qh 7s 2s 8h]
+Seat 1: Janischke23 folded before Flop (didn't bet)
+Seat 2: facki.77 folded before Flop (didn't bet)
+Seat 3: Mahu2021 folded before Flop (didn't bet)
+Seat 4: fr4wtz (button) showed [Js 8s] and won (4708) with a pair of Eights
+Seat 5: AQ im ALIN (small blind) folded before Flop
+Seat 6: kamelot17 (big blind) showed [9s 7c] and lost with a pair of Sevens
+Seat 7: 90marinik90 folded before Flop (didn't bet)
+Seat 8: jimfisk folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #246754105000: Tournament #3663274405, $2.40+$2.50+$0.60 USD Hold'em No Limit - Level VII (60/120) - 2023/10/26 18:30:29 CET [2023/10/26 12:30:29 ET]
+Table '3663274405 4' 8-max Seat #5 is the button
+Seat 1: Janischke23 (3445 in chips, $2.50 bounty) 
+Seat 2: facki.77 (11002 in chips, $6.87 bounty) 
+Seat 3: Mahu2021 (6312 in chips, $2.50 bounty) 
+Seat 4: fr4wtz (9230 in chips, $3.75 bounty) 
+Seat 5: AQ im ALIN (15113 in chips, $2.50 bounty) 
+Seat 7: 90marinik90 (7613 in chips, $2.50 bounty) 
+Seat 8: jimfisk (5423 in chips, $2.50 bounty) 
+Janischke23: posts the ante 18
+facki.77: posts the ante 18
+Mahu2021: posts the ante 18
+fr4wtz: posts the ante 18
+AQ im ALIN: posts the ante 18
+90marinik90: posts the ante 18
+jimfisk: posts the ante 18
+90marinik90: posts small blind 60
+jimfisk: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s 9h]
+Janischke23: folds 
+facki.77: raises 120 to 240
+Mahu2021: folds 
+fr4wtz: folds 
+AQ im ALIN: folds 
+90marinik90: folds 
+jimfisk: calls 120
+*** FLOP *** [6s Ah 4h]
+jimfisk: checks 
+facki.77: bets 200
+jimfisk: calls 200
+*** TURN *** [6s Ah 4h] [9d]
+jimfisk: checks 
+facki.77: checks 
+*** RIVER *** [6s Ah 4h 9d] [8c]
+jimfisk: checks 
+facki.77: checks 
+*** SHOW DOWN ***
+jimfisk: shows [Kd Jh] (high card Ace)
+facki.77: shows [Qs Ks] (high card Ace - King+Queen kicker)
+facki.77 collected 1066 from pot
+*** SUMMARY ***
+Total pot 1066 | Rake 0 
+Board [6s Ah 4h 9d 8c]
+Seat 1: Janischke23 folded before Flop (didn't bet)
+Seat 2: facki.77 showed [Qs Ks] and won (1066) with high card Ace
+Seat 3: Mahu2021 folded before Flop (didn't bet)
+Seat 4: fr4wtz folded before Flop (didn't bet)
+Seat 5: AQ im ALIN (button) folded before Flop (didn't bet)
+Seat 7: 90marinik90 (small blind) folded before Flop
+Seat 8: jimfisk (big blind) showed [Kd Jh] and lost with high card Ace
+
+
+
+PokerStars Hand #246754125347: Tournament #3663274405, $2.40+$2.50+$0.60 USD Hold'em No Limit - Level VII (60/120) - 2023/10/26 18:31:42 CET [2023/10/26 12:31:42 ET]
+Table '3663274405 4' 8-max Seat #7 is the button
+Seat 1: Janischke23 (3427 in chips, $2.50 bounty) 
+Seat 2: facki.77 (11610 in chips, $6.87 bounty) 
+Seat 3: Mahu2021 (6294 in chips, $2.50 bounty) 
+Seat 4: fr4wtz (9212 in chips, $3.75 bounty) 
+Seat 5: AQ im ALIN (15095 in chips, $2.50 bounty) 
+Seat 6: CoVe034 (5000 in chips, $2.50 bounty) 
+Seat 7: 90marinik90 (7535 in chips, $2.50 bounty) 
+Seat 8: jimfisk (4965 in chips, $2.50 bounty) 
+Janischke23: posts the ante 18
+facki.77: posts the ante 18
+Mahu2021: posts the ante 18
+fr4wtz: posts the ante 18
+AQ im ALIN: posts the ante 18
+CoVe034: posts the ante 18
+90marinik90: posts the ante 18
+jimfisk: posts the ante 18
+jimfisk: posts small blind 60
+Janischke23: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d 5h]
+facki.77: raises 120 to 240
+Mahu2021: folds 
+fr4wtz: folds 
+AQ im ALIN: calls 240
+CoVe034: folds 
+90marinik90: folds 
+jimfisk: calls 180
+Janischke23: calls 120
+*** FLOP *** [5d 4h 9d]
+jimfisk: checks 
+Janischke23: checks 
+facki.77: bets 331
+AQ im ALIN: calls 331
+jimfisk: calls 331
+Janischke23: folds 
+*** TURN *** [5d 4h 9d] [3s]
+jimfisk: checks 
+facki.77: bets 1049
+AQ im ALIN: calls 1049
+jimfisk: folds 
+*** RIVER *** [5d 4h 9d 3s] [2c]
+facki.77: checks 
+AQ im ALIN: checks 
+*** SHOW DOWN ***
+facki.77: shows [8c 8h] (a pair of Eights)
+AQ im ALIN: mucks hand 
+facki.77 collected 4195 from pot
+*** SUMMARY ***
+Total pot 4195 | Rake 0 
+Board [5d 4h 9d 3s 2c]
+Seat 1: Janischke23 (big blind) folded on the Flop
+Seat 2: facki.77 showed [8c 8h] and won (4195) with a pair of Eights
+Seat 3: Mahu2021 folded before Flop (didn't bet)
+Seat 4: fr4wtz folded before Flop (didn't bet)
+Seat 5: AQ im ALIN mucked [7h 7s]
+Seat 6: CoVe034 folded before Flop (didn't bet)
+Seat 7: 90marinik90 (button) folded before Flop (didn't bet)
+Seat 8: jimfisk (small blind) folded on the Turn
+
+
+
+PokerStars Hand #246754162441: Tournament #3663274405, $2.40+$2.50+$0.60 USD Hold'em No Limit - Level VIII (70/140) - 2023/10/26 18:33:52 CET [2023/10/26 12:33:52 ET]
+Table '3663274405 4' 8-max Seat #8 is the button
+Seat 1: Janischke23 (3169 in chips, $2.50 bounty) 
+Seat 2: facki.77 (14167 in chips, $6.87 bounty) 
+Seat 3: Mahu2021 (6276 in chips, $2.50 bounty) 
+Seat 4: fr4wtz (9194 in chips, $3.75 bounty) 
+Seat 5: AQ im ALIN (13457 in chips, $2.50 bounty) 
+Seat 6: CoVe034 (4982 in chips, $2.50 bounty) 
+Seat 7: 90marinik90 (7517 in chips, $2.50 bounty) 
+Seat 8: jimfisk (4376 in chips, $2.50 bounty) 
+Janischke23: posts the ante 21
+facki.77: posts the ante 21
+Mahu2021: posts the ante 21
+fr4wtz: posts the ante 21
+AQ im ALIN: posts the ante 21
+CoVe034: posts the ante 21
+90marinik90: posts the ante 21
+jimfisk: posts the ante 21
+Janischke23: posts small blind 70
+facki.77: posts big blind 140
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s 8s]
+Mahu2021: folds 
+fr4wtz: folds 
+AQ im ALIN: folds 
+CoVe034: folds 
+90marinik90: folds 
+jimfisk: folds 
+Janischke23: folds 
+Uncalled bet (70) returned to facki.77
+facki.77 collected 308 from pot
+*** SUMMARY ***
+Total pot 308 | Rake 0 
+Seat 1: Janischke23 (small blind) folded before Flop
+Seat 2: facki.77 (big blind) collected (308)
+Seat 3: Mahu2021 folded before Flop (didn't bet)
+Seat 4: fr4wtz folded before Flop (didn't bet)
+Seat 5: AQ im ALIN folded before Flop (didn't bet)
+Seat 6: CoVe034 folded before Flop (didn't bet)
+Seat 7: 90marinik90 folded before Flop (didn't bet)
+Seat 8: jimfisk (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #246754173411: Tournament #3663274405, $2.40+$2.50+$0.60 USD Hold'em No Limit - Level VIII (70/140) - 2023/10/26 18:34:31 CET [2023/10/26 12:34:31 ET]
+Table '3663274405 4' 8-max Seat #1 is the button
+Seat 1: Janischke23 (3078 in chips, $2.50 bounty) 
+Seat 2: facki.77 (14384 in chips, $6.87 bounty) 
+Seat 3: Mahu2021 (6255 in chips, $2.50 bounty) 
+Seat 4: fr4wtz (9173 in chips, $3.75 bounty) 
+Seat 5: AQ im ALIN (13436 in chips, $2.50 bounty) 
+Seat 6: CoVe034 (4961 in chips, $2.50 bounty) 
+Seat 7: 90marinik90 (7496 in chips, $2.50 bounty) 
+Seat 8: jimfisk (4355 in chips, $2.50 bounty) 
+Janischke23: posts the ante 21
+facki.77: posts the ante 21
+Mahu2021: posts the ante 21
+fr4wtz: posts the ante 21
+AQ im ALIN: posts the ante 21
+CoVe034: posts the ante 21
+90marinik90: posts the ante 21
+jimfisk: posts the ante 21
+facki.77: posts small blind 70
+Mahu2021: posts big blind 140
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As Tc]
+fr4wtz: folds 
+AQ im ALIN: folds 
+CoVe034: folds 
+90marinik90: folds 
+jimfisk: calls 140
+Janischke23: folds 
+facki.77: folds 
+Mahu2021: raises 280 to 420
+jimfisk: calls 280
+*** FLOP *** [3c Qc 5c]
+Mahu2021: checks 
+jimfisk: bets 140
+Mahu2021: calls 140
+*** TURN *** [3c Qc 5c] [Js]
+Mahu2021: checks 
+jimfisk: bets 280
+Mahu2021: calls 280
+*** RIVER *** [3c Qc 5c Js] [Kd]
+Mahu2021: bets 560
+jimfisk: calls 560
+*** SHOW DOWN ***
+Mahu2021: shows [As Tc] (a straight, Ten to Ace)
+jimfisk: mucks hand 
+Mahu2021 collected 3038 from pot
+*** SUMMARY ***
+Total pot 3038 | Rake 0 
+Board [3c Qc 5c Js Kd]
+Seat 1: Janischke23 (button) folded before Flop (didn't bet)
+Seat 2: facki.77 (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) showed [As Tc] and won (3038) with a straight, Ten to Ace
+Seat 4: fr4wtz folded before Flop (didn't bet)
+Seat 5: AQ im ALIN folded before Flop (didn't bet)
+Seat 6: CoVe034 folded before Flop (didn't bet)
+Seat 7: 90marinik90 folded before Flop (didn't bet)
+Seat 8: jimfisk mucked [8s Qs]
+
+
+
+PokerStars Hand #246754198219: Tournament #3663274405, $2.40+$2.50+$0.60 USD Hold'em No Limit - Level VIII (70/140) - 2023/10/26 18:35:59 CET [2023/10/26 12:35:59 ET]
+Table '3663274405 4' 8-max Seat #2 is the button
+Seat 1: Janischke23 (3057 in chips, $2.50 bounty) 
+Seat 2: facki.77 (14293 in chips, $6.87 bounty) 
+Seat 3: Mahu2021 (7872 in chips, $2.50 bounty) 
+Seat 4: fr4wtz (9152 in chips, $3.75 bounty) 
+Seat 5: AQ im ALIN (13415 in chips, $2.50 bounty) 
+Seat 6: CoVe034 (4940 in chips, $2.50 bounty) 
+Seat 7: 90marinik90 (7475 in chips, $2.50 bounty) 
+Seat 8: jimfisk (2934 in chips, $2.50 bounty) 
+Janischke23: posts the ante 21
+facki.77: posts the ante 21
+Mahu2021: posts the ante 21
+fr4wtz: posts the ante 21
+AQ im ALIN: posts the ante 21
+CoVe034: posts the ante 21
+90marinik90: posts the ante 21
+jimfisk: posts the ante 21
+Mahu2021: posts small blind 70
+fr4wtz: posts big blind 140
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s As]
+AQ im ALIN: folds 
+CoVe034: folds 
+90marinik90: folds 
+jimfisk: calls 140
+Janischke23: raises 280 to 420
+facki.77: calls 420
+Mahu2021: folds 
+fr4wtz: calls 280
+jimfisk: raises 1918 to 2338
+Janischke23: raises 698 to 3036 and is all-in
+facki.77: folds 
+fr4wtz: folds 
+jimfisk: calls 575 and is all-in
+Uncalled bet (123) returned to Janischke23
+*** FLOP *** [7s Qh Td]
+*** TURN *** [7s Qh Td] [Kh]
+*** RIVER *** [7s Qh Td Kh] [4h]
+*** SHOW DOWN ***
+jimfisk: shows [Ah Ac] (a pair of Aces)
+Janischke23: shows [Kc Kd] (three of a kind, Kings)
+Janischke23 collected 6904 from pot
+Janischke23 wins $1.25 for eliminating jimfisk and their own bounty increases by $1.25 to $3.75
+jimfisk finished the tournament
+*** SUMMARY ***
+Total pot 6904 | Rake 0 
+Board [7s Qh Td Kh 4h]
+Seat 1: Janischke23 showed [Kc Kd] and won (6904) with three of a kind, Kings
+Seat 2: facki.77 (button) folded before Flop
+Seat 3: Mahu2021 (small blind) folded before Flop
+Seat 4: fr4wtz (big blind) folded before Flop
+Seat 5: AQ im ALIN folded before Flop (didn't bet)
+Seat 6: CoVe034 folded before Flop (didn't bet)
+Seat 7: 90marinik90 folded before Flop (didn't bet)
+Seat 8: jimfisk showed [Ah Ac] and lost with a pair of Aces
+
+
+
+PokerStars Hand #246754223199: Tournament #3663274405, $2.40+$2.50+$0.60 USD Hold'em No Limit - Level VIII (70/140) - 2023/10/26 18:37:26 CET [2023/10/26 12:37:26 ET]
+Table '3663274405 4' 8-max Seat #3 is the button
+Seat 1: Janischke23 (7027 in chips, $3.75 bounty) 
+Seat 2: facki.77 (13852 in chips, $6.87 bounty) 
+Seat 3: Mahu2021 (7781 in chips, $2.50 bounty) 
+Seat 4: fr4wtz (8711 in chips, $3.75 bounty) 
+Seat 5: AQ im ALIN (13394 in chips, $2.50 bounty) 
+Seat 6: CoVe034 (4919 in chips, $2.50 bounty) 
+Seat 7: 90marinik90 (7454 in chips, $2.50 bounty) 
+Janischke23: posts the ante 21
+facki.77: posts the ante 21
+Mahu2021: posts the ante 21
+fr4wtz: posts the ante 21
+AQ im ALIN: posts the ante 21
+CoVe034: posts the ante 21
+90marinik90: posts the ante 21
+fr4wtz: posts small blind 70
+AQ im ALIN: posts big blind 140
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6h 3c]
+CoVe034: raises 140 to 280
+tanass23 is disconnected 
+90marinik90: folds 
+Janischke23: folds 
+facki.77: folds 
+Mahu2021: folds 
+fr4wtz: folds 
+AQ im ALIN: calls 140
+*** FLOP *** [Th 5d Kd]
+AQ im ALIN: checks 
+CoVe034: bets 389
+AQ im ALIN: calls 389
+*** TURN *** [Th 5d Kd] [Jc]
+AQ im ALIN: checks 
+CoVe034: bets 778
+AQ im ALIN: raises 11926 to 12704 and is all-in
+CoVe034: calls 3451 and is all-in
+Uncalled bet (8475) returned to AQ im ALIN
+*** RIVER *** [Th 5d Kd Jc] [7c]
+*** SHOW DOWN ***
+AQ im ALIN: shows [Tc Js] (two pair, Jacks and Tens)
+CoVe034: shows [Jh Ks] (two pair, Kings and Jacks)
+CoVe034 collected 10013 from pot
+*** SUMMARY ***
+Total pot 10013 | Rake 0 
+Board [Th 5d Kd Jc 7c]
+Seat 1: Janischke23 folded before Flop (didn't bet)
+Seat 2: facki.77 folded before Flop (didn't bet)
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 4: fr4wtz (small blind) folded before Flop
+Seat 5: AQ im ALIN (big blind) showed [Tc Js] and lost with two pair, Jacks and Tens
+Seat 6: CoVe034 showed [Jh Ks] and won (10013) with two pair, Kings and Jacks
+Seat 7: 90marinik90 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #246754239557: Tournament #3663274405, $2.40+$2.50+$0.60 USD Hold'em No Limit - Level VIII (70/140) - 2023/10/26 18:38:24 CET [2023/10/26 12:38:24 ET]
+Table '3663274405 4' 8-max Seat #4 is the button
+Seat 1: Janischke23 (7006 in chips, $3.75 bounty) 
+Seat 2: facki.77 (13831 in chips, $6.87 bounty) 
+Seat 3: Mahu2021 (7760 in chips, $2.50 bounty) 
+Seat 4: fr4wtz (8620 in chips, $3.75 bounty) 
+Seat 5: AQ im ALIN (8475 in chips, $2.50 bounty) 
+Seat 6: CoVe034 (10013 in chips, $2.50 bounty) 
+Seat 7: 90marinik90 (7433 in chips, $2.50 bounty) 
+Seat 8: tanass23 (5000 in chips, $2.50 bounty) 
+Janischke23: posts the ante 21
+facki.77: posts the ante 21
+Mahu2021: posts the ante 21
+fr4wtz: posts the ante 21
+AQ im ALIN: posts the ante 21
+CoVe034: posts the ante 21
+90marinik90: posts the ante 21
+tanass23: posts the ante 21
+AQ im ALIN: posts small blind 70
+CoVe034: posts big blind 140
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qd 4s]
+90marinik90: folds 
+tanass23: folds 
+Janischke23: raises 140 to 280
+facki.77: folds 
+Mahu2021: folds 
+fr4wtz: folds 
+AQ im ALIN: folds 
+CoVe034: folds 
+Uncalled bet (140) returned to Janischke23
+Janischke23 collected 518 from pot
+Janischke23: doesn't show hand 
+*** SUMMARY ***
+Total pot 518 | Rake 0 
+Seat 1: Janischke23 collected (518)
+Seat 2: facki.77 folded before Flop (didn't bet)
+Seat 3: Mahu2021 folded before Flop (didn't bet)
+Seat 4: fr4wtz (button) folded before Flop (didn't bet)
+Seat 5: AQ im ALIN (small blind) folded before Flop
+Seat 6: CoVe034 (big blind) folded before Flop
+Seat 7: 90marinik90 folded before Flop (didn't bet)
+Seat 8: tanass23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #246754249706: Tournament #3663274405, $2.40+$2.50+$0.60 USD Hold'em No Limit - Level VIII (70/140) - 2023/10/26 18:39:00 CET [2023/10/26 12:39:00 ET]
+Table '3663274405 4' 8-max Seat #5 is the button
+Seat 1: Janischke23 (7363 in chips, $3.75 bounty) 
+Seat 2: facki.77 (13810 in chips, $6.87 bounty) 
+Seat 3: Mahu2021 (7739 in chips, $2.50 bounty) 
+Seat 4: fr4wtz (8599 in chips, $3.75 bounty) 
+Seat 5: AQ im ALIN (8384 in chips, $2.50 bounty) 
+Seat 6: CoVe034 (9852 in chips, $2.50 bounty) 
+Seat 7: 90marinik90 (7412 in chips, $2.50 bounty) 
+Seat 8: tanass23 (4979 in chips, $2.50 bounty) 
+Janischke23: posts the ante 21
+facki.77: posts the ante 21
+Mahu2021: posts the ante 21
+fr4wtz: posts the ante 21
+AQ im ALIN: posts the ante 21
+CoVe034: posts the ante 21
+90marinik90: posts the ante 21
+tanass23: posts the ante 21
+CoVe034: posts small blind 70
+90marinik90: posts big blind 140
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s Jd]
+tanass23: folds 
+Janischke23: folds 
+facki.77: folds 
+Mahu2021: folds 
+fr4wtz: raises 182 to 322
+AQ im ALIN: folds 
+CoVe034: folds 
+90marinik90: folds 
+Uncalled bet (182) returned to fr4wtz
+fr4wtz collected 518 from pot
+*** SUMMARY ***
+Total pot 518 | Rake 0 
+Seat 1: Janischke23 folded before Flop (didn't bet)
+Seat 2: facki.77 folded before Flop (didn't bet)
+Seat 3: Mahu2021 folded before Flop (didn't bet)
+Seat 4: fr4wtz collected (518)
+Seat 5: AQ im ALIN (button) folded before Flop (didn't bet)
+Seat 6: CoVe034 (small blind) folded before Flop
+Seat 7: 90marinik90 (big blind) folded before Flop
+Seat 8: tanass23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #246754257222: Tournament #3663274405, $2.40+$2.50+$0.60 USD Hold'em No Limit - Level VIII (70/140) - 2023/10/26 18:39:26 CET [2023/10/26 12:39:26 ET]
+Table '3663274405 4' 8-max Seat #6 is the button
+Seat 1: Janischke23 (7342 in chips, $3.75 bounty) 
+Seat 2: facki.77 (13789 in chips, $6.87 bounty) 
+Seat 3: Mahu2021 (7718 in chips, $2.50 bounty) 
+Seat 4: fr4wtz (8956 in chips, $3.75 bounty) 
+Seat 5: AQ im ALIN (8363 in chips, $2.50 bounty) 
+Seat 6: CoVe034 (9761 in chips, $2.50 bounty) 
+Seat 7: 90marinik90 (7251 in chips, $2.50 bounty) 
+Seat 8: tanass23 (4958 in chips, $2.50 bounty) 
+Janischke23: posts the ante 21
+facki.77: posts the ante 21
+Mahu2021: posts the ante 21
+fr4wtz: posts the ante 21
+AQ im ALIN: posts the ante 21
+CoVe034: posts the ante 21
+90marinik90: posts the ante 21
+tanass23: posts the ante 21
+90marinik90: posts small blind 70
+tanass23: posts big blind 140
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8c 6h]
+Janischke23: folds 
+facki.77: folds 
+Mahu2021: folds 
+fr4wtz: folds 
+AQ im ALIN: raises 140 to 280
+CoVe034: calls 280
+90marinik90: calls 210
+tanass23: folds 
+*** FLOP *** [5c Ac 6c]
+90marinik90: checks 
+AQ im ALIN: checks 
+CoVe034: bets 574
+90marinik90: folds 
+AQ im ALIN: calls 574
+*** TURN *** [5c Ac 6c] [Ah]
+AQ im ALIN: checks 
+CoVe034: checks 
+*** RIVER *** [5c Ac 6c Ah] [Js]
+AQ im ALIN: checks 
+CoVe034: checks 
+*** SHOW DOWN ***
+AQ im ALIN: shows [Th Qc] (a pair of Aces)
+CoVe034: shows [7d As] (three of a kind, Aces)
+CoVe034 collected 2296 from pot
+*** SUMMARY ***
+Total pot 2296 | Rake 0 
+Board [5c Ac 6c Ah Js]
+Seat 1: Janischke23 folded before Flop (didn't bet)
+Seat 2: facki.77 folded before Flop (didn't bet)
+Seat 3: Mahu2021 folded before Flop (didn't bet)
+Seat 4: fr4wtz folded before Flop (didn't bet)
+Seat 5: AQ im ALIN showed [Th Qc] and lost with a pair of Aces
+Seat 6: CoVe034 (button) showed [7d As] and won (2296) with three of a kind, Aces
+Seat 7: 90marinik90 (small blind) folded on the Flop
+Seat 8: tanass23 (big blind) folded before Flop
+
+
+
+PokerStars Hand #246754282977: Tournament #3663274405, $2.40+$2.50+$0.60 USD Hold'em No Limit - Level VIII (70/140) - 2023/10/26 18:40:58 CET [2023/10/26 12:40:58 ET]
+Table '3663274405 4' 8-max Seat #7 is the button
+Seat 1: Janischke23 (7321 in chips, $3.75 bounty) 
+Seat 2: facki.77 (13768 in chips, $6.87 bounty) 
+Seat 3: Mahu2021 (7697 in chips, $2.50 bounty) 
+Seat 4: fr4wtz (8935 in chips, $3.75 bounty) 
+Seat 5: AQ im ALIN (7488 in chips, $2.50 bounty) 
+Seat 6: CoVe034 (11182 in chips, $2.50 bounty) 
+Seat 7: 90marinik90 (6950 in chips, $2.50 bounty) 
+Seat 8: tanass23 (4797 in chips, $2.50 bounty) 
+Janischke23: posts the ante 21
+facki.77: posts the ante 21
+Mahu2021: posts the ante 21
+fr4wtz: posts the ante 21
+AQ im ALIN: posts the ante 21
+CoVe034: posts the ante 21
+90marinik90: posts the ante 21
+tanass23: posts the ante 21
+tanass23: posts small blind 70
+Janischke23: posts big blind 140
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qs 6d]
+facki.77: folds 
+Mahu2021: folds 
+fr4wtz: folds 
+AQ im ALIN: raises 140 to 280
+CoVe034: folds 
+90marinik90: raises 840 to 1120
+tanass23: folds 
+Janischke23: folds 
+AQ im ALIN: folds 
+Uncalled bet (840) returned to 90marinik90
+90marinik90 collected 938 from pot
+90marinik90: doesn't show hand 
+*** SUMMARY ***
+Total pot 938 | Rake 0 
+Seat 1: Janischke23 (big blind) folded before Flop
+Seat 2: facki.77 folded before Flop (didn't bet)
+Seat 3: Mahu2021 folded before Flop (didn't bet)
+Seat 4: fr4wtz folded before Flop (didn't bet)
+Seat 5: AQ im ALIN folded before Flop
+Seat 6: CoVe034 folded before Flop (didn't bet)
+Seat 7: 90marinik90 (button) collected (938)
+Seat 8: tanass23 (small blind) folded before Flop
+
+
+
+PokerStars Hand #246754305016: Tournament #3663274405, $2.40+$2.50+$0.60 USD Hold'em No Limit - Level IX (80/160) - 2023/10/26 18:42:16 CET [2023/10/26 12:42:16 ET]
+Table '3663274405 4' 8-max Seat #8 is the button
+Seat 1: Janischke23 (7160 in chips, $3.75 bounty) 
+Seat 2: facki.77 (13747 in chips, $6.87 bounty) 
+Seat 3: Mahu2021 (7676 in chips, $2.50 bounty) 
+Seat 4: fr4wtz (8914 in chips, $3.75 bounty) 
+Seat 5: AQ im ALIN (7187 in chips, $2.50 bounty) 
+Seat 6: CoVe034 (11161 in chips, $2.50 bounty) 
+Seat 7: 90marinik90 (7587 in chips, $2.50 bounty) 
+Seat 8: tanass23 (4706 in chips, $2.50 bounty) 
+Janischke23: posts the ante 24
+facki.77: posts the ante 24
+Mahu2021: posts the ante 24
+fr4wtz: posts the ante 24
+AQ im ALIN: posts the ante 24
+CoVe034: posts the ante 24
+90marinik90: posts the ante 24
+tanass23: posts the ante 24
+Janischke23: posts small blind 80
+facki.77: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h 7d]
+Mahu2021: folds 
+fr4wtz: folds 
+AQ im ALIN: folds 
+CoVe034: raises 160 to 320
+90marinik90: folds 
+tanass23: folds 
+Janischke23: folds 
+facki.77: calls 160
+*** FLOP *** [7s 3h 5c]
+facki.77: checks 
+CoVe034: checks 
+*** TURN *** [7s 3h 5c] [Qs]
+facki.77: checks 
+CoVe034: bets 456
+facki.77: folds 
+Uncalled bet (456) returned to CoVe034
+CoVe034 collected 912 from pot
+*** SUMMARY ***
+Total pot 912 | Rake 0 
+Board [7s 3h 5c Qs]
+Seat 1: Janischke23 (small blind) folded before Flop
+Seat 2: facki.77 (big blind) folded on the Turn
+Seat 3: Mahu2021 folded before Flop (didn't bet)
+Seat 4: fr4wtz folded before Flop (didn't bet)
+Seat 5: AQ im ALIN folded before Flop (didn't bet)
+Seat 6: CoVe034 collected (912)
+Seat 7: 90marinik90 folded before Flop (didn't bet)
+Seat 8: tanass23 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #246754321273: Tournament #3663274405, $2.40+$2.50+$0.60 USD Hold'em No Limit - Level IX (80/160) - 2023/10/26 18:43:13 CET [2023/10/26 12:43:13 ET]
+Table '3663274405 4' 8-max Seat #1 is the button
+Seat 1: Janischke23 (7056 in chips, $3.75 bounty) 
+Seat 2: facki.77 (13403 in chips, $6.87 bounty) 
+Seat 3: Mahu2021 (7652 in chips, $2.50 bounty) 
+Seat 4: fr4wtz (8890 in chips, $3.75 bounty) 
+Seat 5: AQ im ALIN (7163 in chips, $2.50 bounty) 
+Seat 6: CoVe034 (11729 in chips, $2.50 bounty) 
+Seat 7: 90marinik90 (7563 in chips, $2.50 bounty) 
+Seat 8: tanass23 (4682 in chips, $2.50 bounty) 
+Janischke23: posts the ante 24
+facki.77: posts the ante 24
+Mahu2021: posts the ante 24
+fr4wtz: posts the ante 24
+AQ im ALIN: posts the ante 24
+CoVe034: posts the ante 24
+90marinik90: posts the ante 24
+tanass23: posts the ante 24
+facki.77: posts small blind 80
+Mahu2021: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8d 9h]
+fr4wtz: folds 
+AQ im ALIN: folds 
+CoVe034: folds 
+90marinik90: raises 160 to 320
+tanass23: raises 816 to 1136
+Janischke23: folds 
+facki.77: folds 
+Mahu2021: folds 
+90marinik90: folds 
+Uncalled bet (816) returned to tanass23
+tanass23 collected 1072 from pot
+tanass23: doesn't show hand 
+*** SUMMARY ***
+Total pot 1072 | Rake 0 
+Seat 1: Janischke23 (button) folded before Flop (didn't bet)
+Seat 2: facki.77 (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) folded before Flop
+Seat 4: fr4wtz folded before Flop (didn't bet)
+Seat 5: AQ im ALIN folded before Flop (didn't bet)
+Seat 6: CoVe034 folded before Flop (didn't bet)
+Seat 7: 90marinik90 folded before Flop
+Seat 8: tanass23 collected (1072)
+
+
+
+PokerStars Hand #246754331963: Tournament #3663274405, $2.40+$2.50+$0.60 USD Hold'em No Limit - Level IX (80/160) - 2023/10/26 18:43:51 CET [2023/10/26 12:43:51 ET]
+Table '3663274405 4' 8-max Seat #2 is the button
+Seat 1: Janischke23 (7032 in chips, $3.75 bounty) 
+Seat 2: facki.77 (13299 in chips, $6.87 bounty) 
+Seat 3: Mahu2021 (7468 in chips, $2.50 bounty) 
+Seat 4: fr4wtz (8866 in chips, $3.75 bounty) 
+Seat 5: AQ im ALIN (7139 in chips, $2.50 bounty) 
+Seat 6: CoVe034 (11705 in chips, $2.50 bounty) 
+Seat 7: 90marinik90 (7219 in chips, $2.50 bounty) 
+Seat 8: tanass23 (5410 in chips, $2.50 bounty) 
+Janischke23: posts the ante 24
+facki.77: posts the ante 24
+Mahu2021: posts the ante 24
+fr4wtz: posts the ante 24
+AQ im ALIN: posts the ante 24
+CoVe034: posts the ante 24
+90marinik90: posts the ante 24
+tanass23: posts the ante 24
+Mahu2021: posts small blind 80
+fr4wtz: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6h Qc]
+AQ im ALIN: folds 
+CoVe034: folds 
+90marinik90: raises 160 to 320
+tanass23: raises 832 to 1152
+Janischke23: folds 
+facki.77: folds 
+Mahu2021: folds 
+fr4wtz: folds 
+90marinik90: folds 
+Uncalled bet (832) returned to tanass23
+tanass23 collected 1072 from pot
+tanass23: doesn't show hand 
+*** SUMMARY ***
+Total pot 1072 | Rake 0 
+Seat 1: Janischke23 folded before Flop (didn't bet)
+Seat 2: facki.77 (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) folded before Flop
+Seat 4: fr4wtz (big blind) folded before Flop
+Seat 5: AQ im ALIN folded before Flop (didn't bet)
+Seat 6: CoVe034 folded before Flop (didn't bet)
+Seat 7: 90marinik90 folded before Flop
+Seat 8: tanass23 collected (1072)
+
+
+
+PokerStars Hand #246754344269: Tournament #3663274405, $2.40+$2.50+$0.60 USD Hold'em No Limit - Level IX (80/160) - 2023/10/26 18:44:34 CET [2023/10/26 12:44:34 ET]
+Table '3663274405 4' 8-max Seat #3 is the button
+Seat 1: Janischke23 (7008 in chips, $3.75 bounty) 
+Seat 2: facki.77 (13275 in chips, $6.87 bounty) 
+Seat 3: Mahu2021 (7364 in chips, $2.50 bounty) 
+Seat 4: fr4wtz (8682 in chips, $3.75 bounty) 
+Seat 5: AQ im ALIN (7115 in chips, $2.50 bounty) 
+Seat 6: CoVe034 (11681 in chips, $2.50 bounty) 
+Seat 7: 90marinik90 (6875 in chips, $2.50 bounty) 
+Seat 8: tanass23 (6138 in chips, $2.50 bounty) 
+Janischke23: posts the ante 24
+facki.77: posts the ante 24
+Mahu2021: posts the ante 24
+fr4wtz: posts the ante 24
+AQ im ALIN: posts the ante 24
+CoVe034: posts the ante 24
+90marinik90: posts the ante 24
+tanass23: posts the ante 24
+fr4wtz: posts small blind 80
+AQ im ALIN: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h 9c]
+CoVe034: folds 
+90marinik90: folds 
+tanass23: folds 
+Janischke23: calls 160
+facki.77: raises 320 to 480
+Mahu2021: folds 
+fr4wtz: folds 
+AQ im ALIN: folds 
+Janischke23: calls 320
+*** FLOP *** [Qh 9h Ad]
+Janischke23: checks 
+facki.77: bets 418
+Janischke23: calls 418
+*** TURN *** [Qh 9h Ad] [6s]
+Janischke23: checks 
+facki.77: bets 1114
+Janischke23: folds 
+Uncalled bet (1114) returned to facki.77
+facki.77 collected 2228 from pot
+facki.77: doesn't show hand 
+*** SUMMARY ***
+Total pot 2228 | Rake 0 
+Board [Qh 9h Ad 6s]
+Seat 1: Janischke23 folded on the Turn
+Seat 2: facki.77 collected (2228)
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 4: fr4wtz (small blind) folded before Flop
+Seat 5: AQ im ALIN (big blind) folded before Flop
+Seat 6: CoVe034 folded before Flop (didn't bet)
+Seat 7: 90marinik90 folded before Flop (didn't bet)
+Seat 8: tanass23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #246754359439: Tournament #3663274405, $2.40+$2.50+$0.60 USD Hold'em No Limit - Level IX (80/160) - 2023/10/26 18:45:28 CET [2023/10/26 12:45:28 ET]
+Table '3663274405 4' 8-max Seat #4 is the button
+Seat 1: Janischke23 (6086 in chips, $3.75 bounty) 
+Seat 2: facki.77 (14581 in chips, $6.87 bounty) 
+Seat 3: Mahu2021 (7340 in chips, $2.50 bounty) 
+Seat 4: fr4wtz (8578 in chips, $3.75 bounty) 
+Seat 5: AQ im ALIN (6931 in chips, $2.50 bounty) 
+Seat 6: CoVe034 (11657 in chips, $2.50 bounty) 
+Seat 7: 90marinik90 (6851 in chips, $2.50 bounty) 
+Seat 8: tanass23 (6114 in chips, $2.50 bounty) 
+Janischke23: posts the ante 24
+facki.77: posts the ante 24
+Mahu2021: posts the ante 24
+fr4wtz: posts the ante 24
+AQ im ALIN: posts the ante 24
+CoVe034: posts the ante 24
+90marinik90: posts the ante 24
+tanass23: posts the ante 24
+AQ im ALIN: posts small blind 80
+CoVe034: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h Ah]
+90marinik90: raises 160 to 320
+tanass23: raises 760 to 1080
+Janischke23: folds 
+facki.77: folds 
+Mahu2021: folds 
+fr4wtz: folds 
+AQ im ALIN: folds 
+CoVe034: folds 
+90marinik90: raises 5747 to 6827 and is all-in
+tanass23: folds 
+Uncalled bet (5747) returned to 90marinik90
+90marinik90 collected 2592 from pot
+90marinik90: doesn't show hand 
+*** SUMMARY ***
+Total pot 2592 | Rake 0 
+Seat 1: Janischke23 folded before Flop (didn't bet)
+Seat 2: facki.77 folded before Flop (didn't bet)
+Seat 3: Mahu2021 folded before Flop (didn't bet)
+Seat 4: fr4wtz (button) folded before Flop (didn't bet)
+Seat 5: AQ im ALIN (small blind) folded before Flop
+Seat 6: CoVe034 (big blind) folded before Flop
+Seat 7: 90marinik90 collected (2592)
+Seat 8: tanass23 folded before Flop
+
+
+
+PokerStars Hand #246754372302: Tournament #3663274405, $2.40+$2.50+$0.60 USD Hold'em No Limit - Level IX (80/160) - 2023/10/26 18:46:13 CET [2023/10/26 12:46:13 ET]
+Table '3663274405 4' 8-max Seat #5 is the button
+Seat 1: Janischke23 (6062 in chips, $3.75 bounty) 
+Seat 2: facki.77 (14557 in chips, $6.87 bounty) 
+Seat 3: Mahu2021 (7316 in chips, $2.50 bounty) 
+Seat 4: fr4wtz (8554 in chips, $3.75 bounty) 
+Seat 5: AQ im ALIN (6827 in chips, $2.50 bounty) 
+Seat 6: CoVe034 (11473 in chips, $2.50 bounty) 
+Seat 7: 90marinik90 (8339 in chips, $2.50 bounty) 
+Seat 8: tanass23 (5010 in chips, $2.50 bounty) 
+Janischke23: posts the ante 24
+facki.77: posts the ante 24
+Mahu2021: posts the ante 24
+fr4wtz: posts the ante 24
+AQ im ALIN: posts the ante 24
+CoVe034: posts the ante 24
+90marinik90: posts the ante 24
+tanass23: posts the ante 24
+CoVe034: posts small blind 80
+90marinik90: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h 5h]
+tanass23: folds 
+Janischke23: folds 
+facki.77: folds 
+Mahu2021: folds 
+fr4wtz: folds 
+AQ im ALIN: raises 160 to 320
+CoVe034: folds 
+90marinik90: calls 160
+*** FLOP *** [Js 2h 7d]
+90marinik90: checks 
+AQ im ALIN: bets 301
+90marinik90: folds 
+Uncalled bet (301) returned to AQ im ALIN
+AQ im ALIN collected 912 from pot
+AQ im ALIN: doesn't show hand 
+*** SUMMARY ***
+Total pot 912 | Rake 0 
+Board [Js 2h 7d]
+Seat 1: Janischke23 folded before Flop (didn't bet)
+Seat 2: facki.77 folded before Flop (didn't bet)
+Seat 3: Mahu2021 folded before Flop (didn't bet)
+Seat 4: fr4wtz folded before Flop (didn't bet)
+Seat 5: AQ im ALIN (button) collected (912)
+Seat 6: CoVe034 (small blind) folded before Flop
+Seat 7: 90marinik90 (big blind) folded on the Flop
+Seat 8: tanass23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #246754388781: Tournament #3663274405, $2.40+$2.50+$0.60 USD Hold'em No Limit - Level IX (80/160) - 2023/10/26 18:47:12 CET [2023/10/26 12:47:12 ET]
+Table '3663274405 4' 8-max Seat #6 is the button
+Seat 1: Janischke23 (6038 in chips, $3.75 bounty) 
+Seat 2: facki.77 (14533 in chips, $6.87 bounty) 
+Seat 3: Mahu2021 (7292 in chips, $2.50 bounty) 
+Seat 4: fr4wtz (8530 in chips, $3.75 bounty) 
+Seat 5: AQ im ALIN (7395 in chips, $2.50 bounty) 
+Seat 6: CoVe034 (11369 in chips, $2.50 bounty) 
+Seat 7: 90marinik90 (7995 in chips, $2.50 bounty) 
+Seat 8: tanass23 (4986 in chips, $2.50 bounty) 
+Janischke23: posts the ante 24
+facki.77: posts the ante 24
+Mahu2021: posts the ante 24
+fr4wtz: posts the ante 24
+AQ im ALIN: posts the ante 24
+CoVe034: posts the ante 24
+90marinik90: posts the ante 24
+tanass23: posts the ante 24
+90marinik90: posts small blind 80
+tanass23: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd Kc]
+Janischke23: folds 
+facki.77: raises 160 to 320
+Mahu2021: folds 
+fr4wtz: folds 
+AQ im ALIN: folds 
+CoVe034: folds 
+90marinik90: folds 
+tanass23: calls 160
+*** FLOP *** [Qc 4h Qs]
+tanass23: checks 
+facki.77: bets 274
+tanass23: raises 366 to 640
+facki.77: folds 
+Uncalled bet (366) returned to tanass23
+tanass23 collected 1460 from pot
+tanass23: doesn't show hand 
+*** SUMMARY ***
+Total pot 1460 | Rake 0 
+Board [Qc 4h Qs]
+Seat 1: Janischke23 folded before Flop (didn't bet)
+Seat 2: facki.77 folded on the Flop
+Seat 3: Mahu2021 folded before Flop (didn't bet)
+Seat 4: fr4wtz folded before Flop (didn't bet)
+Seat 5: AQ im ALIN folded before Flop (didn't bet)
+Seat 6: CoVe034 (button) folded before Flop (didn't bet)
+Seat 7: 90marinik90 (small blind) folded before Flop
+Seat 8: tanass23 (big blind) collected (1460)
+
+
+
+PokerStars Hand #246754401483: Tournament #3663274405, $2.40+$2.50+$0.60 USD Hold'em No Limit - Level IX (80/160) - 2023/10/26 18:47:57 CET [2023/10/26 12:47:57 ET]
+Table '3663274405 4' 8-max Seat #7 is the button
+Seat 1: Janischke23 (6014 in chips, $3.75 bounty) 
+Seat 2: facki.77 (13915 in chips, $6.87 bounty) 
+Seat 3: Mahu2021 (7268 in chips, $2.50 bounty) 
+Seat 4: fr4wtz (8506 in chips, $3.75 bounty) 
+Seat 5: AQ im ALIN (7371 in chips, $2.50 bounty) 
+Seat 6: CoVe034 (11345 in chips, $2.50 bounty) 
+Seat 7: 90marinik90 (7891 in chips, $2.50 bounty) 
+Seat 8: tanass23 (5828 in chips, $2.50 bounty) 
+Janischke23: posts the ante 24
+facki.77: posts the ante 24
+Mahu2021: posts the ante 24
+fr4wtz: posts the ante 24
+AQ im ALIN: posts the ante 24
+CoVe034: posts the ante 24
+90marinik90: posts the ante 24
+tanass23: posts the ante 24
+tanass23: posts small blind 80
+Janischke23: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c 7h]
+facki.77: raises 160 to 320
+Mahu2021: folds 
+fr4wtz: folds 
+AQ im ALIN: folds 
+CoVe034: folds 
+90marinik90: folds 
+tanass23: folds 
+Janischke23: folds 
+Uncalled bet (160) returned to facki.77
+facki.77 collected 592 from pot
+facki.77: doesn't show hand 
+*** SUMMARY ***
+Total pot 592 | Rake 0 
+Seat 1: Janischke23 (big blind) folded before Flop
+Seat 2: facki.77 collected (592)
+Seat 3: Mahu2021 folded before Flop (didn't bet)
+Seat 4: fr4wtz folded before Flop (didn't bet)
+Seat 5: AQ im ALIN folded before Flop (didn't bet)
+Seat 6: CoVe034 folded before Flop (didn't bet)
+Seat 7: 90marinik90 (button) folded before Flop (didn't bet)
+Seat 8: tanass23 (small blind) folded before Flop
+
+
+
+PokerStars Hand #246754410982: Tournament #3663274405, $2.40+$2.50+$0.60 USD Hold'em No Limit - Level IX (80/160) - 2023/10/26 18:48:31 CET [2023/10/26 12:48:31 ET]
+Table '3663274405 4' 8-max Seat #8 is the button
+Seat 1: Janischke23 (5830 in chips, $3.75 bounty) 
+Seat 2: facki.77 (14323 in chips, $6.87 bounty) 
+Seat 3: Mahu2021 (7244 in chips, $2.50 bounty) 
+Seat 4: fr4wtz (8482 in chips, $3.75 bounty) 
+Seat 5: AQ im ALIN (7347 in chips, $2.50 bounty) 
+Seat 6: CoVe034 (11321 in chips, $2.50 bounty) 
+Seat 7: 90marinik90 (7867 in chips, $2.50 bounty) 
+Seat 8: tanass23 (5724 in chips, $2.50 bounty) 
+Janischke23: posts the ante 24
+facki.77: posts the ante 24
+Mahu2021: posts the ante 24
+fr4wtz: posts the ante 24
+AQ im ALIN: posts the ante 24
+CoVe034: posts the ante 24
+90marinik90: posts the ante 24
+tanass23: posts the ante 24
+Janischke23: posts small blind 80
+facki.77: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks 9s]
+Mahu2021: folds 
+fr4wtz: folds 
+AQ im ALIN: folds 
+CoVe034: raises 160 to 320
+90marinik90: calls 320
+tanass23: raises 1240 to 1560
+Janischke23: folds 
+facki.77: folds 
+CoVe034: folds 
+90marinik90: raises 6283 to 7843 and is all-in
+tanass23: calls 4140 and is all-in
+Uncalled bet (2143) returned to 90marinik90
+*** FLOP *** [7c Kh Ad]
+*** TURN *** [7c Kh Ad] [5c]
+*** RIVER *** [7c Kh Ad 5c] [5s]
+*** SHOW DOWN ***
+90marinik90: shows [Kc Qs] (two pair, Kings and Fives)
+tanass23: shows [Qd Ac] (two pair, Aces and Fives)
+tanass23 collected 12152 from pot
+*** SUMMARY ***
+Total pot 12152 | Rake 0 
+Board [7c Kh Ad 5c 5s]
+Seat 1: Janischke23 (small blind) folded before Flop
+Seat 2: facki.77 (big blind) folded before Flop
+Seat 3: Mahu2021 folded before Flop (didn't bet)
+Seat 4: fr4wtz folded before Flop (didn't bet)
+Seat 5: AQ im ALIN folded before Flop (didn't bet)
+Seat 6: CoVe034 folded before Flop
+Seat 7: 90marinik90 showed [Kc Qs] and lost with two pair, Kings and Fives
+Seat 8: tanass23 (button) showed [Qd Ac] and won (12152) with two pair, Aces and Fives
+
+
+
+PokerStars Hand #246754431066: Tournament #3663274405, $2.40+$2.50+$0.60 USD Hold'em No Limit - Level X (90/180) - 2023/10/26 18:49:42 CET [2023/10/26 12:49:42 ET]
+Table '3663274405 4' 8-max Seat #1 is the button
+Seat 1: Janischke23 (5726 in chips, $3.75 bounty) 
+Seat 2: facki.77 (14139 in chips, $6.87 bounty) 
+Seat 3: Mahu2021 (7220 in chips, $2.50 bounty) 
+Seat 4: fr4wtz (8458 in chips, $3.75 bounty) 
+Seat 5: AQ im ALIN (7323 in chips, $2.50 bounty) 
+Seat 6: CoVe034 (10977 in chips, $2.50 bounty) 
+Seat 7: 90marinik90 (2143 in chips, $2.50 bounty) 
+Seat 8: tanass23 (12152 in chips, $2.50 bounty) 
+Janischke23: posts the ante 27
+facki.77: posts the ante 27
+Mahu2021: posts the ante 27
+fr4wtz: posts the ante 27
+AQ im ALIN: posts the ante 27
+CoVe034: posts the ante 27
+90marinik90: posts the ante 27
+tanass23: posts the ante 27
+facki.77: posts small blind 90
+Mahu2021: posts big blind 180
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5h Ad]
+fr4wtz: raises 234 to 414
+AQ im ALIN: folds 
+CoVe034: folds 
+90marinik90: folds 
+tanass23: calls 414
+Janischke23: folds 
+facki.77: folds 
+Mahu2021: calls 234
+*** FLOP *** [Kh 5s 5d]
+Mahu2021: checks 
+fr4wtz: bets 511
+tanass23: calls 511
+Mahu2021: raises 1469 to 1980
+fr4wtz: calls 1469
+tanass23: folds 
+*** TURN *** [Kh 5s 5d] [Kc]
+Mahu2021: checks 
+fr4wtz: checks 
+*** RIVER *** [Kh 5s 5d Kc] [6d]
+Mahu2021: checks 
+fr4wtz: bets 6037 and is all-in
+Mahu2021: calls 4799 and is all-in
+Uncalled bet (1238) returned to fr4wtz
+*** SHOW DOWN ***
+fr4wtz: shows [9d Kd] (a full house, Kings full of Fives)
+Mahu2021: shows [5h Ad] (a full house, Fives full of Kings)
+fr4wtz collected 15617 from pot
+fr4wtz wins $1.25 for eliminating Mahu2021 and their own bounty increases by $1.25 to $5
+Mahu2021 finished the tournament
+*** SUMMARY ***
+Total pot 15617 | Rake 0 
+Board [Kh 5s 5d Kc 6d]
+Seat 1: Janischke23 (button) folded before Flop (didn't bet)
+Seat 2: facki.77 (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) showed [5h Ad] and lost with a full house, Fives full of Kings
+Seat 4: fr4wtz showed [9d Kd] and won (15617) with a full house, Kings full of Fives
+Seat 5: AQ im ALIN folded before Flop (didn't bet)
+Seat 6: CoVe034 folded before Flop (didn't bet)
+Seat 7: 90marinik90 folded before Flop (didn't bet)
+Seat 8: tanass23 folded on the Flop
+
+
+

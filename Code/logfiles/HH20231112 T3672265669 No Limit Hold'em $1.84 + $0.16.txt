@@ -1,0 +1,766 @@
+﻿PokerStars Hand #247068104604: Tournament #3672265669, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/12 16:40:48 CET [2023/11/12 10:40:48 ET]
+Table '3672265669 1' 3-max Seat #1 is the button
+Seat 1: dezmond209 (500 in chips) 
+Seat 2: Heli_barra (500 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+Heli_barra: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d 6s]
+dezmond209: folds 
+Heli_barra: calls 10
+Mahu2021: checks 
+*** FLOP *** [Kh Jc 8d]
+Heli_barra: checks 
+Mahu2021: checks 
+*** TURN *** [Kh Jc 8d] [Qc]
+Heli_barra: checks 
+Mahu2021: checks 
+*** RIVER *** [Kh Jc 8d Qc] [4d]
+Heli_barra: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+Heli_barra: shows [7c Tc] (high card King)
+Mahu2021: mucks hand 
+Heli_barra collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Kh Jc 8d Qc 4d]
+Seat 1: dezmond209 (button) folded before Flop (didn't bet)
+Seat 2: Heli_barra (small blind) showed [7c Tc] and won (40) with high card King
+Seat 3: Mahu2021 (big blind) mucked [9d 6s]
+
+
+
+PokerStars Hand #247068115443: Tournament #3672265669, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/12 16:41:26 CET [2023/11/12 10:41:26 ET]
+Table '3672265669 1' 3-max Seat #2 is the button
+Seat 1: dezmond209 (500 in chips) 
+Seat 2: Heli_barra (520 in chips) 
+Seat 3: Mahu2021 (480 in chips) 
+Mahu2021: posts small blind 10
+dezmond209: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s 5h]
+Heli_barra: folds 
+Mahu2021: calls 10
+dezmond209: checks 
+*** FLOP *** [6d 4h Ts]
+Mahu2021: checks 
+dezmond209: checks 
+*** TURN *** [6d 4h Ts] [Jd]
+Mahu2021: bets 20
+dezmond209: calls 20
+*** RIVER *** [6d 4h Ts Jd] [3d]
+Mahu2021: checks 
+dezmond209: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [4s 5h] (a pair of Fours)
+dezmond209: mucks hand 
+Mahu2021 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [6d 4h Ts Jd 3d]
+Seat 1: dezmond209 (big blind) mucked [3c 2s]
+Seat 2: Heli_barra (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) showed [4s 5h] and won (80) with a pair of Fours
+
+
+
+PokerStars Hand #247068120880: Tournament #3672265669, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/12 16:41:45 CET [2023/11/12 10:41:45 ET]
+Table '3672265669 1' 3-max Seat #3 is the button
+Seat 1: dezmond209 (460 in chips) 
+Seat 2: Heli_barra (520 in chips) 
+Seat 3: Mahu2021 (520 in chips) 
+dezmond209: posts small blind 10
+Heli_barra: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad Kd]
+Mahu2021: raises 40 to 60
+dezmond209: calls 50
+Heli_barra: folds 
+*** FLOP *** [3d 5h Qd]
+dezmond209: checks 
+Mahu2021: bets 60
+dezmond209: calls 60
+*** TURN *** [3d 5h Qd] [6h]
+dezmond209: checks 
+Mahu2021: checks 
+*** RIVER *** [3d 5h Qd 6h] [7d]
+dezmond209: checks 
+Mahu2021: bets 80
+dezmond209: calls 80
+*** SHOW DOWN ***
+Mahu2021: shows [Ad Kd] (a flush, Ace high)
+dezmond209: mucks hand 
+Mahu2021 collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | Rake 0 
+Board [3d 5h Qd 6h 7d]
+Seat 1: dezmond209 (small blind) mucked [Ah 3s]
+Seat 2: Heli_barra (big blind) folded before Flop
+Seat 3: Mahu2021 (button) showed [Ad Kd] and won (420) with a flush, Ace high
+
+
+
+PokerStars Hand #247068128006: Tournament #3672265669, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/12 16:42:10 CET [2023/11/12 10:42:10 ET]
+Table '3672265669 1' 3-max Seat #1 is the button
+Seat 1: dezmond209 (260 in chips) 
+Seat 2: Heli_barra (500 in chips) 
+Seat 3: Mahu2021 (740 in chips) 
+Heli_barra: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kc Jh]
+dezmond209: calls 20
+Heli_barra: calls 10
+Mahu2021: checks 
+*** FLOP *** [2c 3h 7s]
+Heli_barra: bets 20
+Mahu2021: folds 
+dezmond209: raises 220 to 240 and is all-in
+Heli_barra: calls 220
+*** TURN *** [2c 3h 7s] [4c]
+*** RIVER *** [2c 3h 7s 4c] [5s]
+*** SHOW DOWN ***
+Heli_barra: shows [3d 3s] (three of a kind, Threes)
+dezmond209: shows [9c Jd] (high card Jack)
+Heli_barra collected 540 from pot
+dezmond209 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 540 | Rake 0 
+Board [2c 3h 7s 4c 5s]
+Seat 1: dezmond209 (button) showed [9c Jd] and lost with high card Jack
+Seat 2: Heli_barra (small blind) showed [3d 3s] and won (540) with three of a kind, Threes
+Seat 3: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #247068137638: Tournament #3672265669, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/12 16:42:44 CET [2023/11/12 10:42:44 ET]
+Table '3672265669 1' 3-max Seat #3 is the button
+Seat 2: Heli_barra (780 in chips) 
+Seat 3: Mahu2021 (720 in chips) 
+Mahu2021: posts small blind 10
+Heli_barra: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd Kc]
+Mahu2021: raises 20 to 40
+Heli_barra: calls 20
+*** FLOP *** [6d 4d 3c]
+Heli_barra: checks 
+Mahu2021: checks 
+*** TURN *** [6d 4d 3c] [4c]
+Heli_barra: checks 
+Mahu2021: checks 
+*** RIVER *** [6d 4d 3c 4c] [3s]
+Heli_barra: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+Heli_barra: shows [Tc 8c] (two pair, Fours and Threes)
+Mahu2021: shows [Jd Kc] (two pair, Fours and Threes - King kicker)
+Mahu2021 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [6d 4d 3c 4c 3s]
+Seat 2: Heli_barra (big blind) showed [Tc 8c] and lost with two pair, Fours and Threes
+Seat 3: Mahu2021 (button) (small blind) showed [Jd Kc] and won (80) with two pair, Fours and Threes
+
+
+
+PokerStars Hand #247068143987: Tournament #3672265669, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/12 16:43:06 CET [2023/11/12 10:43:06 ET]
+Table '3672265669 1' 3-max Seat #2 is the button
+Seat 2: Heli_barra (740 in chips) 
+Seat 3: Mahu2021 (760 in chips) 
+Heli_barra: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc As]
+Heli_barra: raises 30 to 60
+Mahu2021: calls 30
+*** FLOP *** [9h 4h Jh]
+Mahu2021: bets 120
+Heli_barra: calls 120
+*** TURN *** [9h 4h Jh] [7h]
+Mahu2021: checks 
+Heli_barra: checks 
+*** RIVER *** [9h 4h Jh 7h] [7s]
+Mahu2021: checks 
+Heli_barra: bets 30
+Mahu2021: calls 30
+*** SHOW DOWN ***
+Heli_barra: shows [Ts Qs] (a pair of Sevens)
+Mahu2021: shows [Jc As] (two pair, Jacks and Sevens)
+Mahu2021 collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | Rake 0 
+Board [9h 4h Jh 7h 7s]
+Seat 2: Heli_barra (button) (small blind) showed [Ts Qs] and lost with a pair of Sevens
+Seat 3: Mahu2021 (big blind) showed [Jc As] and won (420) with two pair, Jacks and Sevens
+
+
+
+PokerStars Hand #247068149409: Tournament #3672265669, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/12 16:43:26 CET [2023/11/12 10:43:26 ET]
+Table '3672265669 1' 3-max Seat #3 is the button
+Seat 2: Heli_barra (530 in chips) 
+Seat 3: Mahu2021 (970 in chips) 
+Mahu2021: posts small blind 15
+Heli_barra: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd 6s]
+Mahu2021: calls 15
+Heli_barra: raises 150 to 180
+Mahu2021: folds 
+Uncalled bet (150) returned to Heli_barra
+Heli_barra collected 60 from pot
+Heli_barra: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: Heli_barra (big blind) collected (60)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #247068152333: Tournament #3672265669, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/12 16:43:36 CET [2023/11/12 10:43:36 ET]
+Table '3672265669 1' 3-max Seat #2 is the button
+Seat 2: Heli_barra (560 in chips) 
+Seat 3: Mahu2021 (940 in chips) 
+Heli_barra: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s Ts]
+Heli_barra: raises 30 to 60
+Mahu2021: calls 30
+*** FLOP *** [Th 6d Kc]
+Mahu2021: checks 
+Heli_barra: checks 
+*** TURN *** [Th 6d Kc] [7s]
+Mahu2021: checks 
+Heli_barra: bets 30
+Mahu2021: raises 30 to 60
+Heli_barra: calls 30
+*** RIVER *** [Th 6d Kc 7s] [Ks]
+Mahu2021: bets 60
+Heli_barra: calls 60
+*** SHOW DOWN ***
+Mahu2021: shows [6s Ts] (two pair, Kings and Tens)
+Heli_barra: mucks hand 
+Mahu2021 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [Th 6d Kc 7s Ks]
+Seat 2: Heli_barra (button) (small blind) mucked [9s 9d]
+Seat 3: Mahu2021 (big blind) showed [6s Ts] and won (360) with two pair, Kings and Tens
+
+
+
+PokerStars Hand #247068158078: Tournament #3672265669, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/12 16:43:56 CET [2023/11/12 10:43:56 ET]
+Table '3672265669 1' 3-max Seat #3 is the button
+Seat 2: Heli_barra (380 in chips) 
+Seat 3: Mahu2021 (1120 in chips) 
+Mahu2021: posts small blind 15
+Heli_barra: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd 6s]
+Mahu2021: calls 15
+Heli_barra: checks 
+*** FLOP *** [7h 4h Td]
+Heli_barra: bets 350 and is all-in
+Mahu2021: folds 
+Uncalled bet (350) returned to Heli_barra
+Heli_barra collected 60 from pot
+Heli_barra: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [7h 4h Td]
+Seat 2: Heli_barra (big blind) collected (60)
+Seat 3: Mahu2021 (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #247068161080: Tournament #3672265669, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/12 16:44:07 CET [2023/11/12 10:44:07 ET]
+Table '3672265669 1' 3-max Seat #2 is the button
+Seat 2: Heli_barra (410 in chips) 
+Seat 3: Mahu2021 (1090 in chips) 
+Heli_barra: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s Td]
+Heli_barra: calls 15
+Mahu2021: checks 
+*** FLOP *** [Jh 9d Tc]
+Mahu2021: checks 
+Heli_barra: checks 
+*** TURN *** [Jh 9d Tc] [4c]
+Mahu2021: bets 30
+Heli_barra: calls 30
+*** RIVER *** [Jh 9d Tc 4c] [Js]
+Mahu2021: checks 
+Heli_barra: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [4s Td] (two pair, Jacks and Tens)
+Heli_barra: mucks hand 
+Mahu2021 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Jh 9d Tc 4c Js]
+Seat 2: Heli_barra (button) (small blind) mucked [2h 8h]
+Seat 3: Mahu2021 (big blind) showed [4s Td] and won (120) with two pair, Jacks and Tens
+
+
+
+PokerStars Hand #247068165754: Tournament #3672265669, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/12 16:44:23 CET [2023/11/12 10:44:23 ET]
+Table '3672265669 1' 3-max Seat #3 is the button
+Seat 2: Heli_barra (350 in chips) 
+Seat 3: Mahu2021 (1150 in chips) 
+Mahu2021: posts small blind 15
+Heli_barra: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c Kd]
+Mahu2021: raises 30 to 60
+Heli_barra: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: Heli_barra (big blind) folded before Flop
+Seat 3: Mahu2021 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #247068167498: Tournament #3672265669, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/12 16:44:29 CET [2023/11/12 10:44:29 ET]
+Table '3672265669 1' 3-max Seat #2 is the button
+Seat 2: Heli_barra (320 in chips) 
+Seat 3: Mahu2021 (1180 in chips) 
+Heli_barra: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Td 6c]
+Heli_barra: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 2: Heli_barra (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (30)
+
+
+
+PokerStars Hand #247068168891: Tournament #3672265669, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/12 16:44:34 CET [2023/11/12 10:44:34 ET]
+Table '3672265669 1' 3-max Seat #3 is the button
+Seat 2: Heli_barra (305 in chips) 
+Seat 3: Mahu2021 (1195 in chips) 
+Mahu2021: posts small blind 15
+Heli_barra: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s 5s]
+Mahu2021: calls 15
+Heli_barra: raises 275 to 305 and is all-in
+Mahu2021: folds 
+Uncalled bet (275) returned to Heli_barra
+Heli_barra collected 60 from pot
+Heli_barra: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: Heli_barra (big blind) collected (60)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #247068171504: Tournament #3672265669, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/12 16:44:44 CET [2023/11/12 10:44:44 ET]
+Table '3672265669 1' 3-max Seat #2 is the button
+Seat 2: Heli_barra (335 in chips) 
+Seat 3: Mahu2021 (1165 in chips) 
+Heli_barra: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts 6c]
+Heli_barra: raises 60 to 90
+Mahu2021: folds 
+Uncalled bet (60) returned to Heli_barra
+Heli_barra collected 60 from pot
+Heli_barra: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: Heli_barra (button) (small blind) collected (60)
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #247068174541: Tournament #3672265669, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/11/12 16:44:55 CET [2023/11/12 10:44:55 ET]
+Table '3672265669 1' 3-max Seat #3 is the button
+Seat 2: Heli_barra (365 in chips) 
+Seat 3: Mahu2021 (1135 in chips) 
+Mahu2021: posts small blind 20
+Heli_barra: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d 9c]
+Mahu2021: folds 
+Uncalled bet (20) returned to Heli_barra
+Heli_barra collected 40 from pot
+Heli_barra: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: Heli_barra (big blind) collected (40)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #247068175781: Tournament #3672265669, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/11/12 16:44:59 CET [2023/11/12 10:44:59 ET]
+Table '3672265669 1' 3-max Seat #2 is the button
+Seat 2: Heli_barra (385 in chips) 
+Seat 3: Mahu2021 (1115 in chips) 
+Heli_barra: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s As]
+Heli_barra: calls 20
+Mahu2021: raises 80 to 120
+Heli_barra: calls 80
+*** FLOP *** [Td Kc 2d]
+Mahu2021: checks 
+Heli_barra: bets 265 and is all-in
+Mahu2021: folds 
+Uncalled bet (265) returned to Heli_barra
+Heli_barra collected 240 from pot
+Heli_barra: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Td Kc 2d]
+Seat 2: Heli_barra (button) (small blind) collected (240)
+Seat 3: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #247068180269: Tournament #3672265669, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/11/12 16:45:14 CET [2023/11/12 10:45:14 ET]
+Table '3672265669 1' 3-max Seat #3 is the button
+Seat 2: Heli_barra (505 in chips) 
+Seat 3: Mahu2021 (995 in chips) 
+Mahu2021: posts small blind 20
+Heli_barra: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s 9h]
+Mahu2021: folds 
+Uncalled bet (20) returned to Heli_barra
+Heli_barra collected 40 from pot
+Heli_barra: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: Heli_barra (big blind) collected (40)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #247068181475: Tournament #3672265669, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/11/12 16:45:19 CET [2023/11/12 10:45:19 ET]
+Table '3672265669 1' 3-max Seat #2 is the button
+Seat 2: Heli_barra (525 in chips) 
+Seat 3: Mahu2021 (975 in chips) 
+Heli_barra: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2c Jh]
+Heli_barra: calls 20
+Mahu2021: checks 
+*** FLOP *** [3d 9d 5h]
+Mahu2021: checks 
+Heli_barra: checks 
+*** TURN *** [3d 9d 5h] [6d]
+Mahu2021: checks 
+Heli_barra: checks 
+*** RIVER *** [3d 9d 5h 6d] [8d]
+Mahu2021: checks 
+Heli_barra: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [2c Jh] (high card Jack)
+Heli_barra: shows [4s Kd] (a flush, King high)
+Heli_barra collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [3d 9d 5h 6d 8d]
+Seat 2: Heli_barra (button) (small blind) showed [4s Kd] and won (80) with a flush, King high
+Seat 3: Mahu2021 (big blind) showed [2c Jh] and lost with high card Jack
+
+
+
+PokerStars Hand #247068185987: Tournament #3672265669, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/11/12 16:45:34 CET [2023/11/12 10:45:34 ET]
+Table '3672265669 1' 3-max Seat #3 is the button
+Seat 2: Heli_barra (565 in chips) 
+Seat 3: Mahu2021 (935 in chips) 
+Mahu2021: posts small blind 20
+Heli_barra: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c Ks]
+Mahu2021: raises 40 to 80
+Heli_barra: calls 40
+*** FLOP *** [Jc Qs Kd]
+Heli_barra: checks 
+Mahu2021: bets 160
+Heli_barra: folds 
+Uncalled bet (160) returned to Mahu2021
+Mahu2021 collected 160 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Jc Qs Kd]
+Seat 2: Heli_barra (big blind) folded on the Flop
+Seat 3: Mahu2021 (button) (small blind) collected (160)
+
+
+
+PokerStars Hand #247068189487: Tournament #3672265669, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/11/12 16:45:47 CET [2023/11/12 10:45:47 ET]
+Table '3672265669 1' 3-max Seat #2 is the button
+Seat 2: Heli_barra (485 in chips) 
+Seat 3: Mahu2021 (1015 in chips) 
+Heli_barra: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c 2s]
+Heli_barra: raises 80 to 120
+Mahu2021: folds 
+Uncalled bet (80) returned to Heli_barra
+Heli_barra collected 80 from pot
+Heli_barra: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: Heli_barra (button) (small blind) collected (80)
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #247068191811: Tournament #3672265669, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/11/12 16:45:55 CET [2023/11/12 10:45:55 ET]
+Table '3672265669 1' 3-max Seat #3 is the button
+Seat 2: Heli_barra (525 in chips) 
+Seat 3: Mahu2021 (975 in chips) 
+Mahu2021: posts small blind 20
+Heli_barra: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac 8c]
+Mahu2021: raises 40 to 80
+Heli_barra: calls 40
+*** FLOP *** [Js 4c 6s]
+Heli_barra: checks 
+Mahu2021: checks 
+*** TURN *** [Js 4c 6s] [6h]
+Heli_barra: bets 40
+Mahu2021: calls 40
+*** RIVER *** [Js 4c 6s 6h] [9d]
+Heli_barra: bets 40
+Mahu2021: folds 
+Uncalled bet (40) returned to Heli_barra
+Heli_barra collected 240 from pot
+Heli_barra: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Js 4c 6s 6h 9d]
+Seat 2: Heli_barra (big blind) collected (240)
+Seat 3: Mahu2021 (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #247068197000: Tournament #3672265669, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/11/12 16:46:13 CET [2023/11/12 10:46:13 ET]
+Table '3672265669 1' 3-max Seat #2 is the button
+Seat 2: Heli_barra (645 in chips) 
+Seat 3: Mahu2021 (855 in chips) 
+Heli_barra: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s 7h]
+Heli_barra: raises 40 to 80
+Mahu2021: folds 
+Uncalled bet (40) returned to Heli_barra
+Heli_barra collected 80 from pot
+Heli_barra: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: Heli_barra (button) (small blind) collected (80)
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #247068199104: Tournament #3672265669, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/11/12 16:46:20 CET [2023/11/12 10:46:20 ET]
+Table '3672265669 1' 3-max Seat #3 is the button
+Seat 2: Heli_barra (685 in chips) 
+Seat 3: Mahu2021 (815 in chips) 
+Mahu2021: posts small blind 20
+Heli_barra: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc 5c]
+Mahu2021: raises 40 to 80
+Heli_barra: raises 40 to 120
+Mahu2021: calls 40
+*** FLOP *** [Tc 8c 6d]
+Heli_barra: bets 40
+Mahu2021: calls 40
+*** TURN *** [Tc 8c 6d] [6c]
+Heli_barra: bets 40
+Mahu2021: raises 80 to 120
+Heli_barra: calls 80
+*** RIVER *** [Tc 8c 6d 6c] [2c]
+Heli_barra: bets 40
+Mahu2021: calls 40
+*** SHOW DOWN ***
+Heli_barra: shows [Th As] (two pair, Tens and Sixes)
+Mahu2021: shows [Jc 5c] (a flush, Jack high)
+Mahu2021 collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | Rake 0 
+Board [Tc 8c 6d 6c 2c]
+Seat 2: Heli_barra (big blind) showed [Th As] and lost with two pair, Tens and Sixes
+Seat 3: Mahu2021 (button) (small blind) showed [Jc 5c] and won (640) with a flush, Jack high
+
+
+
+PokerStars Hand #247068205635: Tournament #3672265669, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/11/12 16:46:43 CET [2023/11/12 10:46:43 ET]
+Table '3672265669 1' 3-max Seat #2 is the button
+Seat 2: Heli_barra (365 in chips) 
+Seat 3: Mahu2021 (1135 in chips) 
+Heli_barra: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h Ks]
+Heli_barra: raises 200 to 240
+Mahu2021: folds 
+Uncalled bet (200) returned to Heli_barra
+Heli_barra collected 80 from pot
+Heli_barra: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: Heli_barra (button) (small blind) collected (80)
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #247068209439: Tournament #3672265669, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2023/11/12 16:46:56 CET [2023/11/12 10:46:56 ET]
+Table '3672265669 1' 3-max Seat #3 is the button
+Seat 2: Heli_barra (405 in chips) 
+Seat 3: Mahu2021 (1095 in chips) 
+Mahu2021: posts small blind 30
+Heli_barra: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h Ts]
+Mahu2021: calls 30
+Heli_barra: raises 60 to 120
+Mahu2021: calls 60
+*** FLOP *** [2h 2d Js]
+Heli_barra: bets 60
+Mahu2021: folds 
+Uncalled bet (60) returned to Heli_barra
+Heli_barra collected 240 from pot
+Heli_barra: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [2h 2d Js]
+Seat 2: Heli_barra (big blind) collected (240)
+Seat 3: Mahu2021 (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #247068212807: Tournament #3672265669, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2023/11/12 16:47:08 CET [2023/11/12 10:47:08 ET]
+Table '3672265669 1' 3-max Seat #2 is the button
+Seat 2: Heli_barra (525 in chips) 
+Seat 3: Mahu2021 (975 in chips) 
+Heli_barra: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qd 3h]
+Heli_barra: raises 60 to 120
+Mahu2021: calls 60
+*** FLOP *** [5s Ah 4h]
+Mahu2021: checks 
+Heli_barra: bets 60
+Mahu2021: calls 60
+*** TURN *** [5s Ah 4h] [5h]
+Mahu2021: checks 
+Heli_barra: bets 345 and is all-in
+Mahu2021: folds 
+Uncalled bet (345) returned to Heli_barra
+Heli_barra collected 360 from pot
+Heli_barra: doesn't show hand 
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [5s Ah 4h 5h]
+Seat 2: Heli_barra (button) (small blind) collected (360)
+Seat 3: Mahu2021 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #247068217719: Tournament #3672265669, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2023/11/12 16:47:26 CET [2023/11/12 10:47:26 ET]
+Table '3672265669 1' 3-max Seat #3 is the button
+Seat 2: Heli_barra (705 in chips) 
+Seat 3: Mahu2021 (795 in chips) 
+Mahu2021: posts small blind 30
+Heli_barra: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac 8h]
+Mahu2021: raises 60 to 120
+Heli_barra: calls 60
+*** FLOP *** [7h Jd 3s]
+Heli_barra: bets 60
+Mahu2021: calls 60
+*** TURN *** [7h Jd 3s] [Th]
+Heli_barra: checks 
+Mahu2021: bets 180
+Heli_barra: raises 180 to 360
+Mahu2021: folds 
+Uncalled bet (180) returned to Heli_barra
+Heli_barra collected 720 from pot
+Heli_barra: doesn't show hand 
+*** SUMMARY ***
+Total pot 720 | Rake 0 
+Board [7h Jd 3s Th]
+Seat 2: Heli_barra (big blind) collected (720)
+Seat 3: Mahu2021 (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #247068223371: Tournament #3672265669, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2023/11/12 16:47:46 CET [2023/11/12 10:47:46 ET]
+Table '3672265669 1' 3-max Seat #2 is the button
+Seat 2: Heli_barra (1065 in chips) 
+Seat 3: Mahu2021 (435 in chips) 
+Heli_barra: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks Jd]
+Heli_barra: calls 30
+Mahu2021: raises 375 to 435 and is all-in
+Heli_barra: folds 
+Uncalled bet (375) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: Heli_barra (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (120)
+
+
+
+PokerStars Hand #247068225866: Tournament #3672265669, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2023/11/12 16:47:54 CET [2023/11/12 10:47:54 ET]
+Table '3672265669 1' 3-max Seat #3 is the button
+Seat 2: Heli_barra (1005 in chips) 
+Seat 3: Mahu2021 (495 in chips) 
+Mahu2021: posts small blind 30
+Heli_barra: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd Kh]
+Mahu2021: raises 60 to 120
+Heli_barra: calls 60
+*** FLOP *** [8h Tc 5c]
+Heli_barra: checks 
+Mahu2021: bets 375 and is all-in
+Heli_barra: calls 375
+*** TURN *** [8h Tc 5c] [Ah]
+*** RIVER *** [8h Tc 5c Ah] [5d]
+*** SHOW DOWN ***
+Heli_barra: shows [Th 8s] (two pair, Tens and Eights)
+Mahu2021: shows [Jd Kh] (a pair of Fives)
+Heli_barra collected 990 from pot
+Mahu2021 finished the tournament in 2nd place
+Heli_barra wins the tournament and receives $4.00 - congratulations!
+*** SUMMARY ***
+Total pot 990 | Rake 0 
+Board [8h Tc 5c Ah 5d]
+Seat 2: Heli_barra (big blind) showed [Th 8s] and won (990) with two pair, Tens and Eights
+Seat 3: Mahu2021 (button) (small blind) showed [Jd Kh] and lost with a pair of Fives
+
+
+

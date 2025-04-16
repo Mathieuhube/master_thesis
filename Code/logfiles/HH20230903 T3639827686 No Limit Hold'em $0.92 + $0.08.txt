@@ -1,0 +1,293 @@
+﻿PokerStars Hand #245744897906: Tournament #3639827686, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/09/03 10:19:56 CET [2023/09/03 4:19:56 ET]
+Table '3639827686 1' 3-max Seat #1 is the button
+Seat 1: fiestarally (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: Rinat_ronik (500 in chips) 
+Mahu2021: posts small blind 10
+Rinat_ronik: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s 2h]
+fiestarally: folds 
+Mahu2021: folds 
+Uncalled bet (10) returned to Rinat_ronik
+Rinat_ronik collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: fiestarally (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: Rinat_ronik (big blind) collected (20)
+
+
+
+PokerStars Hand #245744898593: Tournament #3639827686, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/09/03 10:20:01 CET [2023/09/03 4:20:01 ET]
+Table '3639827686 1' 3-max Seat #2 is the button
+Seat 1: fiestarally (500 in chips) 
+Seat 2: Mahu2021 (490 in chips) 
+Seat 3: Rinat_ronik (510 in chips) 
+Rinat_ronik: posts small blind 10
+fiestarally: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d Ah]
+Mahu2021: raises 20 to 40
+Rinat_ronik: calls 30
+fiestarally: calls 20
+*** FLOP *** [Qc 4c 2s]
+Rinat_ronik: checks 
+fiestarally: checks 
+Mahu2021: checks 
+*** TURN *** [Qc 4c 2s] [3s]
+Rinat_ronik: checks 
+fiestarally: bets 60
+Mahu2021: raises 60 to 120
+Rinat_ronik: folds 
+fiestarally: raises 340 to 460 and is all-in
+Mahu2021: calls 330 and is all-in
+Uncalled bet (10) returned to fiestarally
+*** RIVER *** [Qc 4c 2s 3s] [Jd]
+*** SHOW DOWN ***
+fiestarally: shows [Qs Th] (a pair of Queens)
+Mahu2021: shows [5d Ah] (a straight, Ace to Five)
+Mahu2021 collected 1020 from pot
+*** SUMMARY ***
+Total pot 1020 | Rake 0 
+Board [Qc 4c 2s 3s Jd]
+Seat 1: fiestarally (big blind) showed [Qs Th] and lost with a pair of Queens
+Seat 2: Mahu2021 (button) showed [5d Ah] and won (1020) with a straight, Ace to Five
+Seat 3: Rinat_ronik (small blind) folded on the Turn
+
+
+
+PokerStars Hand #245744902421: Tournament #3639827686, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/09/03 10:20:31 CET [2023/09/03 4:20:31 ET]
+Table '3639827686 1' 3-max Seat #3 is the button
+Seat 1: fiestarally (10 in chips) 
+Seat 2: Mahu2021 (1020 in chips) 
+Seat 3: Rinat_ronik (470 in chips) 
+fiestarally: posts small blind 10 and is all-in
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s 2d]
+Rinat_ronik: calls 20
+Mahu2021: checks 
+*** FLOP *** [4d 6h 5c]
+Mahu2021: checks 
+Rinat_ronik: checks 
+*** TURN *** [4d 6h 5c] [7s]
+Mahu2021: checks 
+Rinat_ronik: checks 
+*** RIVER *** [4d 6h 5c 7s] [Jh]
+Mahu2021: checks 
+Rinat_ronik: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [4s 2d] (a pair of Fours)
+Rinat_ronik: mucks hand 
+Mahu2021 collected 20 from side pot
+fiestarally: shows [5d Ts] (a pair of Fives)
+fiestarally collected 30 from main pot
+*** SUMMARY ***
+Total pot 50 Main pot 30. Side pot 20. | Rake 0 
+Board [4d 6h 5c 7s Jh]
+Seat 1: fiestarally (small blind) showed [5d Ts] and won (30) with a pair of Fives
+Seat 2: Mahu2021 (big blind) showed [4s 2d] and won (20) with a pair of Fours
+Seat 3: Rinat_ronik (button) mucked [Th 9c]
+
+
+
+PokerStars Hand #245744904572: Tournament #3639827686, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/09/03 10:20:48 CET [2023/09/03 4:20:48 ET]
+Table '3639827686 1' 3-max Seat #1 is the button
+Seat 1: fiestarally (30 in chips) 
+Seat 2: Mahu2021 (1020 in chips) 
+Seat 3: Rinat_ronik (450 in chips) 
+Mahu2021: posts small blind 10
+Rinat_ronik: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd Ks]
+fiestarally: raises 10 to 30 and is all-in
+Mahu2021: calls 20
+Rinat_ronik: folds 
+*** FLOP *** [7s 6d 6s]
+*** TURN *** [7s 6d 6s] [4c]
+*** RIVER *** [7s 6d 6s 4c] [3d]
+*** SHOW DOWN ***
+Mahu2021: shows [Jd Ks] (a pair of Sixes)
+fiestarally: shows [5s 9s] (a straight, Three to Seven)
+fiestarally collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [7s 6d 6s 4c 3d]
+Seat 1: fiestarally (button) showed [5s 9s] and won (80) with a straight, Three to Seven
+Seat 2: Mahu2021 (small blind) showed [Jd Ks] and lost with a pair of Sixes
+Seat 3: Rinat_ronik (big blind) folded before Flop
+
+
+
+PokerStars Hand #245744906134: Tournament #3639827686, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/09/03 10:21:00 CET [2023/09/03 4:21:00 ET]
+Table '3639827686 1' 3-max Seat #2 is the button
+Seat 1: fiestarally (80 in chips) 
+Seat 2: Mahu2021 (990 in chips) 
+Seat 3: Rinat_ronik (430 in chips) 
+Rinat_ronik: posts small blind 10
+fiestarally: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d 2h]
+Mahu2021: folds 
+Rinat_ronik: calls 10
+fiestarally: raises 60 to 80 and is all-in
+Rinat_ronik: calls 60
+*** FLOP *** [6s 8c 3h]
+*** TURN *** [6s 8c 3h] [8s]
+*** RIVER *** [6s 8c 3h 8s] [Qc]
+*** SHOW DOWN ***
+Rinat_ronik: shows [6c Tc] (two pair, Eights and Sixes)
+fiestarally: shows [3c 2c] (two pair, Eights and Threes)
+Rinat_ronik collected 160 from pot
+fiestarally finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [6s 8c 3h 8s Qc]
+Seat 1: fiestarally (big blind) showed [3c 2c] and lost with two pair, Eights and Threes
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: Rinat_ronik (small blind) showed [6c Tc] and won (160) with two pair, Eights and Sixes
+
+
+
+PokerStars Hand #245744908348: Tournament #3639827686, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/09/03 10:21:19 CET [2023/09/03 4:21:19 ET]
+Table '3639827686 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (990 in chips) 
+Seat 3: Rinat_ronik (510 in chips) 
+Rinat_ronik: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac Qs]
+Rinat_ronik: calls 10
+Mahu2021: raises 40 to 60
+Rinat_ronik: calls 40
+*** FLOP *** [9h 4h 2c]
+Mahu2021: checks 
+Rinat_ronik: checks 
+*** TURN *** [9h 4h 2c] [Qc]
+Mahu2021: bets 40
+Rinat_ronik: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [9h 4h 2c Qc]
+Seat 2: Mahu2021 (big blind) collected (120)
+Seat 3: Rinat_ronik (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #245744910372: Tournament #3639827686, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/09/03 10:21:34 CET [2023/09/03 4:21:34 ET]
+Table '3639827686 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (1050 in chips) 
+Seat 3: Rinat_ronik (450 in chips) 
+Mahu2021: posts small blind 10
+Rinat_ronik: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah 7s]
+Mahu2021: calls 10
+Rinat_ronik: checks 
+*** FLOP *** [2h As 3c]
+Rinat_ronik: bets 20
+Mahu2021: calls 20
+*** TURN *** [2h As 3c] [7h]
+Rinat_ronik: bets 20
+Mahu2021: raises 60 to 80
+Rinat_ronik: calls 60
+*** RIVER *** [2h As 3c 7h] [Jd]
+Rinat_ronik: checks 
+Mahu2021: bets 930 and is all-in
+Rinat_ronik: folds 
+Uncalled bet (930) returned to Mahu2021
+Mahu2021 collected 240 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [2h As 3c 7h Jd]
+Seat 2: Mahu2021 (button) (small blind) collected (240)
+Seat 3: Rinat_ronik (big blind) folded on the River
+
+
+
+PokerStars Hand #245744913950: Tournament #3639827686, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/09/03 10:22:03 CET [2023/09/03 4:22:03 ET]
+Table '3639827686 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (1170 in chips) 
+Seat 3: Rinat_ronik (330 in chips) 
+Rinat_ronik: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad 9s]
+Rinat_ronik: calls 15
+Mahu2021: raises 60 to 90
+Rinat_ronik: calls 60
+*** FLOP *** [Jh Kd Jc]
+Mahu2021: checks 
+Rinat_ronik: checks 
+*** TURN *** [Jh Kd Jc] [6d]
+Mahu2021: checks 
+Rinat_ronik: checks 
+*** RIVER *** [Jh Kd Jc 6d] [Qc]
+Mahu2021: checks 
+Rinat_ronik: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [Ad 9s] (a pair of Jacks)
+Rinat_ronik: shows [6s Th] (two pair, Jacks and Sixes)
+Rinat_ronik collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [Jh Kd Jc 6d Qc]
+Seat 2: Mahu2021 (big blind) showed [Ad 9s] and lost with a pair of Jacks
+Seat 3: Rinat_ronik (button) (small blind) showed [6s Th] and won (180) with two pair, Jacks and Sixes
+
+
+
+PokerStars Hand #245744916199: Tournament #3639827686, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/09/03 10:22:21 CET [2023/09/03 4:22:21 ET]
+Table '3639827686 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (1080 in chips) 
+Seat 3: Rinat_ronik (420 in chips) 
+Mahu2021: posts small blind 15
+Rinat_ronik: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js 6d]
+Mahu2021: folds 
+Uncalled bet (15) returned to Rinat_ronik
+Rinat_ronik collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: Rinat_ronik (big blind) collected (30)
+
+
+
+PokerStars Hand #245744916823: Tournament #3639827686, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/09/03 10:22:25 CET [2023/09/03 4:22:25 ET]
+Table '3639827686 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (1065 in chips) 
+Seat 3: Rinat_ronik (435 in chips) 
+Rinat_ronik: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As Ac]
+Rinat_ronik: calls 15
+Mahu2021: raises 60 to 90
+Rinat_ronik: calls 60
+*** FLOP *** [Qc 8c 7s]
+Mahu2021: bets 975 and is all-in
+Rinat_ronik: calls 345 and is all-in
+Uncalled bet (630) returned to Mahu2021
+*** TURN *** [Qc 8c 7s] [7h]
+*** RIVER *** [Qc 8c 7s 7h] [9h]
+*** SHOW DOWN ***
+Mahu2021: shows [As Ac] (two pair, Aces and Sevens)
+Rinat_ronik: shows [Qd 4c] (two pair, Queens and Sevens)
+Mahu2021 collected 870 from pot
+Rinat_ronik finished the tournament in 2nd place
+Mahu2021 wins the tournament and receives $2.00 - congratulations!
+*** SUMMARY ***
+Total pot 870 | Rake 0 
+Board [Qc 8c 7s 7h 9h]
+Seat 2: Mahu2021 (big blind) showed [As Ac] and won (870) with two pair, Aces and Sevens
+Seat 3: Rinat_ronik (button) (small blind) showed [Qd 4c] and lost with two pair, Queens and Sevens
+
+
+

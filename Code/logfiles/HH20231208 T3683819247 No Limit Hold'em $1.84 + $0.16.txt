@@ -1,0 +1,61 @@
+﻿PokerStars Hand #247550671976: Tournament #3683819247, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/08 20:53:18 CET [2023/12/08 14:53:18 ET]
+Table '3683819247 1' 3-max Seat #1 is the button
+Seat 1: sargeant052 (500 in chips) 
+Seat 2: flatcallin (500 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+flatcallin: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h Td]
+sargeant052: calls 20
+flatcallin: calls 10
+Mahu2021: checks 
+*** FLOP *** [Kd 4c 3c]
+flatcallin: checks 
+Mahu2021: bets 20
+sargeant052: folds 
+flatcallin: raises 100 to 120
+Mahu2021: folds 
+Uncalled bet (100) returned to flatcallin
+flatcallin collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [Kd 4c 3c]
+Seat 1: sargeant052 (button) folded on the Flop
+Seat 2: flatcallin (small blind) collected (100)
+Seat 3: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #247550679028: Tournament #3683819247, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/08 20:53:41 CET [2023/12/08 14:53:41 ET]
+Table '3683819247 1' 3-max Seat #2 is the button
+Seat 1: sargeant052 (480 in chips) 
+Seat 2: flatcallin (560 in chips) 
+Seat 3: Mahu2021 (460 in chips) 
+Mahu2021: posts small blind 10
+sargeant052: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc Qh]
+flatcallin: calls 20
+Mahu2021: raises 60 to 80
+sargeant052: raises 180 to 260
+flatcallin: folds 
+Mahu2021: raises 200 to 460 and is all-in
+sargeant052: calls 200
+*** FLOP *** [6h 4c As]
+*** TURN *** [6h 4c As] [Th]
+*** RIVER *** [6h 4c As Th] [9s]
+*** SHOW DOWN ***
+Mahu2021: shows [Qc Qh] (a pair of Queens)
+sargeant052: shows [Td Ad] (two pair, Aces and Tens)
+sargeant052 collected 940 from pot
+Mahu2021 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 940 | Rake 0 
+Board [6h 4c As Th 9s]
+Seat 1: sargeant052 (big blind) showed [Td Ad] and won (940) with two pair, Aces and Tens
+Seat 2: flatcallin (button) folded before Flop
+Seat 3: Mahu2021 (small blind) showed [Qc Qh] and lost with a pair of Queens
+
+
+

@@ -1,0 +1,672 @@
+﻿PokerStars Hand #253434599578: Tournament #3824256504, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/16 22:00:39 CET [2024/11/16 16:00:39 ET]
+Table '3824256504 1' 3-max Seat #1 is the button
+Seat 1: keenonme (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: Safety20 (500 in chips) 
+Mahu2021: posts small blind 10
+Safety20: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Td 4s]
+keenonme: folds 
+Mahu2021: folds 
+Uncalled bet (10) returned to Safety20
+Safety20 collected 20 from pot
+Safety20: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: keenonme (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: Safety20 (big blind) collected (20)
+
+
+
+PokerStars Hand #253434600485: Tournament #3824256504, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/16 22:00:42 CET [2024/11/16 16:00:42 ET]
+Table '3824256504 1' 3-max Seat #2 is the button
+Seat 1: keenonme (500 in chips) 
+Seat 2: Mahu2021 (490 in chips) 
+Seat 3: Safety20 (510 in chips) 
+Safety20: posts small blind 10
+keenonme: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d Qs]
+Mahu2021: folds 
+Safety20: raises 20 to 40
+keenonme: calls 20
+*** FLOP *** [3d 4c 4h]
+Safety20: checks 
+keenonme: bets 60
+Safety20: calls 60
+*** TURN *** [3d 4c 4h] [Ad]
+Safety20: checks 
+keenonme: bets 60
+Safety20: calls 60
+*** RIVER *** [3d 4c 4h Ad] [Jh]
+Safety20: checks 
+keenonme: bets 60
+Safety20: raises 100 to 160
+keenonme: calls 100
+*** SHOW DOWN ***
+Safety20: shows [3h 3c] (a full house, Threes full of Fours)
+keenonme: mucks hand 
+Safety20 collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | Rake 0 
+Board [3d 4c 4h Ad Jh]
+Seat 1: keenonme (big blind) mucked [5c 5s]
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: Safety20 (small blind) showed [3h 3c] and won (640) with a full house, Threes full of Fours
+
+
+
+PokerStars Hand #253434617819: Tournament #3824256504, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/16 22:01:54 CET [2024/11/16 16:01:54 ET]
+Table '3824256504 1' 3-max Seat #3 is the button
+Seat 1: keenonme (180 in chips) 
+Seat 2: Mahu2021 (490 in chips) 
+Seat 3: Safety20 (830 in chips) 
+keenonme: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks 9h]
+Safety20: folds 
+keenonme: folds 
+Uncalled bet (10) returned to Mahu2021
+Mahu2021 collected 20 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: keenonme (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (20)
+Seat 3: Safety20 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253434619479: Tournament #3824256504, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/16 22:02:00 CET [2024/11/16 16:02:00 ET]
+Table '3824256504 1' 3-max Seat #1 is the button
+Seat 1: keenonme (170 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: Safety20 (830 in chips) 
+Mahu2021: posts small blind 10
+Safety20: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2s Tc]
+keenonme: raises 150 to 170 and is all-in
+Mahu2021: folds 
+Safety20: folds 
+Uncalled bet (150) returned to keenonme
+keenonme collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: keenonme (button) collected (50)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: Safety20 (big blind) folded before Flop
+
+
+
+PokerStars Hand #253434621500: Tournament #3824256504, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/16 22:02:07 CET [2024/11/16 16:02:07 ET]
+Table '3824256504 1' 3-max Seat #2 is the button
+Seat 1: keenonme (200 in chips) 
+Seat 2: Mahu2021 (490 in chips) 
+Seat 3: Safety20 (810 in chips) 
+Safety20: posts small blind 10
+keenonme: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h 2c]
+Mahu2021: folds 
+Safety20: raises 790 to 810 and is all-in
+keenonme: calls 180 and is all-in
+Uncalled bet (610) returned to Safety20
+*** FLOP *** [2h 8s 6c]
+*** TURN *** [2h 8s 6c] [Qs]
+*** RIVER *** [2h 8s 6c Qs] [Kd]
+*** SHOW DOWN ***
+Safety20: shows [Ks Tc] (a pair of Kings)
+keenonme: shows [3c As] (high card Ace)
+Safety20 collected 400 from pot
+keenonme finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Board [2h 8s 6c Qs Kd]
+Seat 1: keenonme (big blind) showed [3c As] and lost with high card Ace
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: Safety20 (small blind) showed [Ks Tc] and won (400) with a pair of Kings
+
+
+
+PokerStars Hand #253434626782: Tournament #3824256504, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/16 22:02:25 CET [2024/11/16 16:02:25 ET]
+Table '3824256504 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (490 in chips) 
+Seat 3: Safety20 (1010 in chips) 
+Safety20: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8c 3s]
+Safety20: folds 
+Uncalled bet (10) returned to Mahu2021
+Mahu2021 collected 20 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 2: Mahu2021 (big blind) collected (20)
+Seat 3: Safety20 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #253434629975: Tournament #3824256504, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/16 22:02:37 CET [2024/11/16 16:02:37 ET]
+Table '3824256504 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: Safety20 (1000 in chips) 
+Mahu2021: posts small blind 10
+Safety20: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Td Ah]
+Mahu2021: raises 40 to 60
+Safety20: calls 40
+*** FLOP *** [9c 5d 4c]
+Safety20: checks 
+Mahu2021: checks 
+*** TURN *** [9c 5d 4c] [5c]
+Safety20: checks 
+Mahu2021: checks 
+*** RIVER *** [9c 5d 4c 5c] [As]
+Safety20: checks 
+Mahu2021: bets 120
+Safety20: folds 
+Uncalled bet (120) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [9c 5d 4c 5c As]
+Seat 2: Mahu2021 (button) (small blind) collected (120)
+Seat 3: Safety20 (big blind) folded on the River
+
+
+
+PokerStars Hand #253434639964: Tournament #3824256504, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/16 22:03:12 CET [2024/11/16 16:03:12 ET]
+Table '3824256504 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (560 in chips) 
+Seat 3: Safety20 (940 in chips) 
+Safety20: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac 4d]
+Safety20: calls 10
+Mahu2021: checks 
+*** FLOP *** [Kh 5d 7d]
+Mahu2021: checks 
+Safety20: bets 20
+Mahu2021: folds 
+Uncalled bet (20) returned to Safety20
+Safety20 collected 40 from pot
+Safety20: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Kh 5d 7d]
+Seat 2: Mahu2021 (big blind) folded on the Flop
+Seat 3: Safety20 (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #253434643538: Tournament #3824256504, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/16 22:03:25 CET [2024/11/16 16:03:25 ET]
+Table '3824256504 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (540 in chips) 
+Seat 3: Safety20 (960 in chips) 
+Mahu2021: posts small blind 10
+Safety20: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks 9d]
+Mahu2021: raises 20 to 40
+Safety20: calls 20
+*** FLOP *** [Tc As 4s]
+Safety20: checks 
+Mahu2021: checks 
+*** TURN *** [Tc As 4s] [5d]
+Safety20: checks 
+Mahu2021: checks 
+*** RIVER *** [Tc As 4s 5d] [Ah]
+Safety20: checks 
+Mahu2021: bets 80
+Safety20: folds 
+Uncalled bet (80) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Tc As 4s 5d Ah]
+Seat 2: Mahu2021 (button) (small blind) collected (80)
+Seat 3: Safety20 (big blind) folded on the River
+
+
+
+PokerStars Hand #253434653231: Tournament #3824256504, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/16 22:03:59 CET [2024/11/16 16:03:59 ET]
+Table '3824256504 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (580 in chips) 
+Seat 3: Safety20 (920 in chips) 
+Safety20: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qd 2s]
+Safety20: raises 890 to 920 and is all-in
+Mahu2021: folds 
+Uncalled bet (890) returned to Safety20
+Safety20 collected 60 from pot
+Safety20: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: Safety20 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #253434655356: Tournament #3824256504, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/16 22:04:06 CET [2024/11/16 16:04:06 ET]
+Table '3824256504 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (550 in chips) 
+Seat 3: Safety20 (950 in chips) 
+Mahu2021: posts small blind 15
+Safety20: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4c 9h]
+Mahu2021: folds 
+Uncalled bet (15) returned to Safety20
+Safety20 collected 30 from pot
+Safety20: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: Safety20 (big blind) collected (30)
+
+
+
+PokerStars Hand #253434657583: Tournament #3824256504, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/16 22:04:14 CET [2024/11/16 16:04:14 ET]
+Table '3824256504 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (535 in chips) 
+Seat 3: Safety20 (965 in chips) 
+Safety20: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts Qs]
+Safety20: calls 15
+Mahu2021: raises 60 to 90
+Safety20: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: Mahu2021 (big blind) collected (60)
+Seat 3: Safety20 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #253434660233: Tournament #3824256504, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/16 22:04:23 CET [2024/11/16 16:04:23 ET]
+Table '3824256504 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (565 in chips) 
+Seat 3: Safety20 (935 in chips) 
+Mahu2021: posts small blind 15
+Safety20: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d Ks]
+Mahu2021: raises 30 to 60
+Safety20: raises 875 to 935 and is all-in
+Mahu2021: folds 
+Uncalled bet (875) returned to Safety20
+Safety20 collected 120 from pot
+Safety20: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: Safety20 (big blind) collected (120)
+
+
+
+PokerStars Hand #253434663308: Tournament #3824256504, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/16 22:04:34 CET [2024/11/16 16:04:34 ET]
+Table '3824256504 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (505 in chips) 
+Seat 3: Safety20 (995 in chips) 
+Safety20: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Tc 4h]
+Safety20: raises 45 to 75
+Mahu2021: folds 
+Uncalled bet (45) returned to Safety20
+Safety20 collected 60 from pot
+Safety20: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: Safety20 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #253434666443: Tournament #3824256504, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/16 22:04:45 CET [2024/11/16 16:04:45 ET]
+Table '3824256504 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (475 in chips) 
+Seat 3: Safety20 (1025 in chips) 
+Mahu2021: posts small blind 15
+Safety20: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6h 5d]
+Mahu2021: folds 
+Uncalled bet (15) returned to Safety20
+Safety20 collected 30 from pot
+Safety20: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: Safety20 (big blind) collected (30)
+
+
+
+PokerStars Hand #253434667748: Tournament #3824256504, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/16 22:04:49 CET [2024/11/16 16:04:49 ET]
+Table '3824256504 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (460 in chips) 
+Seat 3: Safety20 (1040 in chips) 
+Safety20: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qd 5h]
+Safety20: calls 15
+Mahu2021: checks 
+*** FLOP *** [Jd 8s Th]
+Mahu2021: checks 
+Safety20: checks 
+*** TURN *** [Jd 8s Th] [3s]
+Mahu2021: checks 
+Safety20: checks 
+*** RIVER *** [Jd 8s Th 3s] [Js]
+Mahu2021: bets 30
+Safety20: calls 30
+*** SHOW DOWN ***
+Mahu2021: shows [Qd 5h] (a pair of Jacks)
+Safety20: shows [7d Kh] (a pair of Jacks - King kicker)
+Safety20 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Jd 8s Th 3s Js]
+Seat 2: Mahu2021 (big blind) showed [Qd 5h] and lost with a pair of Jacks
+Seat 3: Safety20 (button) (small blind) showed [7d Kh] and won (120) with a pair of Jacks
+
+
+
+PokerStars Hand #253434675783: Tournament #3824256504, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/16 22:05:16 CET [2024/11/16 16:05:16 ET]
+Table '3824256504 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (400 in chips) 
+Seat 3: Safety20 (1100 in chips) 
+Mahu2021: posts small blind 15
+Safety20: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Td 6s]
+Mahu2021: folds 
+Uncalled bet (15) returned to Safety20
+Safety20 collected 30 from pot
+Safety20: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: Safety20 (big blind) collected (30)
+
+
+
+PokerStars Hand #253434677033: Tournament #3824256504, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/16 22:05:21 CET [2024/11/16 16:05:21 ET]
+Table '3824256504 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (385 in chips) 
+Seat 3: Safety20 (1115 in chips) 
+Safety20: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4c 8h]
+Safety20: calls 15
+Mahu2021: checks 
+*** FLOP *** [3c 6s Ts]
+Mahu2021: checks 
+Safety20: checks 
+*** TURN *** [3c 6s Ts] [8d]
+Mahu2021: bets 30
+Safety20: calls 30
+*** RIVER *** [3c 6s Ts 8d] [Kd]
+Mahu2021: checks 
+Safety20: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [4c 8h] (a pair of Eights)
+Safety20: mucks hand 
+Mahu2021 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [3c 6s Ts 8d Kd]
+Seat 2: Mahu2021 (big blind) showed [4c 8h] and won (120) with a pair of Eights
+Seat 3: Safety20 (button) (small blind) mucked [3h Qs]
+
+
+
+PokerStars Hand #253434684933: Tournament #3824256504, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/16 22:05:48 CET [2024/11/16 16:05:48 ET]
+Table '3824256504 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (445 in chips) 
+Seat 3: Safety20 (1055 in chips) 
+Mahu2021: posts small blind 15
+Safety20: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s 8s]
+Mahu2021: raises 30 to 60
+Safety20: calls 30
+*** FLOP *** [9s 9c Ac]
+Safety20: checks 
+Mahu2021: bets 60
+Safety20: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [9s 9c Ac]
+Seat 2: Mahu2021 (button) (small blind) collected (120)
+Seat 3: Safety20 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #253434688915: Tournament #3824256504, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/16 22:06:02 CET [2024/11/16 16:06:02 ET]
+Table '3824256504 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (505 in chips) 
+Seat 3: Safety20 (995 in chips) 
+Safety20: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c 2d]
+Safety20: calls 15
+Mahu2021: checks 
+*** FLOP *** [9c 5h 6c]
+Mahu2021: checks 
+Safety20: bets 30
+Mahu2021: calls 30
+*** TURN *** [9c 5h 6c] [Kd]
+Mahu2021: checks 
+Safety20: bets 90
+Mahu2021: folds 
+Uncalled bet (90) returned to Safety20
+Safety20 collected 120 from pot
+Safety20: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [9c 5h 6c Kd]
+Seat 2: Mahu2021 (big blind) folded on the Turn
+Seat 3: Safety20 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #253434694713: Tournament #3824256504, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/16 22:06:22 CET [2024/11/16 16:06:22 ET]
+Table '3824256504 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (445 in chips) 
+Seat 3: Safety20 (1055 in chips) 
+Mahu2021: posts small blind 15
+Safety20: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c Jh]
+Mahu2021: folds 
+Uncalled bet (15) returned to Safety20
+Safety20 collected 30 from pot
+Safety20: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: Safety20 (big blind) collected (30)
+
+
+
+PokerStars Hand #253434695939: Tournament #3824256504, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/16 22:06:26 CET [2024/11/16 16:06:26 ET]
+Table '3824256504 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (430 in chips) 
+Seat 3: Safety20 (1070 in chips) 
+Safety20: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac 2c]
+Safety20: calls 15
+Mahu2021: raises 400 to 430 and is all-in
+Safety20: folds 
+Uncalled bet (400) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: Mahu2021 (big blind) collected (60)
+Seat 3: Safety20 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #253434698663: Tournament #3824256504, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/16 22:06:35 CET [2024/11/16 16:06:35 ET]
+Table '3824256504 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (460 in chips) 
+Seat 3: Safety20 (1040 in chips) 
+Mahu2021: posts small blind 15
+Safety20: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s 8c]
+Mahu2021: calls 15
+Safety20: checks 
+*** FLOP *** [Tc Kh 3s]
+Safety20: checks 
+Mahu2021: bets 30
+Safety20: calls 30
+*** TURN *** [Tc Kh 3s] [Qs]
+Safety20: checks 
+Mahu2021: checks 
+*** RIVER *** [Tc Kh 3s Qs] [3c]
+Safety20: bets 120
+Mahu2021: folds 
+Uncalled bet (120) returned to Safety20
+Safety20 collected 120 from pot
+Safety20: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Tc Kh 3s Qs 3c]
+Seat 2: Mahu2021 (button) (small blind) folded on the River
+Seat 3: Safety20 (big blind) collected (120)
+
+
+
+PokerStars Hand #253434706512: Tournament #3824256504, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/16 22:07:02 CET [2024/11/16 16:07:02 ET]
+Table '3824256504 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (400 in chips) 
+Seat 3: Safety20 (1100 in chips) 
+Safety20: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc Tc]
+Safety20: calls 20
+Mahu2021: raises 360 to 400 and is all-in
+Safety20: folds 
+Uncalled bet (360) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: Mahu2021 (big blind) collected (80)
+Seat 3: Safety20 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #253434709538: Tournament #3824256504, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/16 22:07:12 CET [2024/11/16 16:07:12 ET]
+Table '3824256504 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (440 in chips) 
+Seat 3: Safety20 (1060 in chips) 
+Mahu2021: posts small blind 20
+Safety20: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d 3c]
+Mahu2021: folds 
+Uncalled bet (20) returned to Safety20
+Safety20 collected 40 from pot
+Safety20: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: Safety20 (big blind) collected (40)
+
+
+
+PokerStars Hand #253434710808: Tournament #3824256504, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/16 22:07:16 CET [2024/11/16 16:07:16 ET]
+Table '3824256504 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (420 in chips) 
+Seat 3: Safety20 (1080 in chips) 
+Safety20: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac 7s]
+Safety20: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: Mahu2021 (big blind) collected (40)
+Seat 3: Safety20 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #253434712875: Tournament #3824256504, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/16 22:07:23 CET [2024/11/16 16:07:23 ET]
+Table '3824256504 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (440 in chips) 
+Seat 3: Safety20 (1060 in chips) 
+Mahu2021: posts small blind 20
+Safety20: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Td 3s]
+Mahu2021: folds 
+Uncalled bet (20) returned to Safety20
+Safety20 collected 40 from pot
+Safety20: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: Safety20 (big blind) collected (40)
+
+
+
+PokerStars Hand #253434714103: Tournament #3824256504, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/16 22:07:28 CET [2024/11/16 16:07:28 ET]
+Table '3824256504 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (420 in chips) 
+Seat 3: Safety20 (1080 in chips) 
+Safety20: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks Tc]
+Safety20: raises 1040 to 1080 and is all-in
+Mahu2021: calls 380 and is all-in
+Uncalled bet (660) returned to Safety20
+*** FLOP *** [7s Jd 2s]
+*** TURN *** [7s Jd 2s] [4s]
+*** RIVER *** [7s Jd 2s 4s] [2h]
+*** SHOW DOWN ***
+Mahu2021: shows [Ks Tc] (a pair of Deuces)
+Safety20: shows [5c Ad] (a pair of Deuces - Ace kicker)
+Safety20 collected 840 from pot
+Mahu2021 finished the tournament in 2nd place
+Safety20 wins the tournament and receives $6.00 - congratulations!
+*** SUMMARY ***
+Total pot 840 | Rake 0 
+Board [7s Jd 2s 4s 2h]
+Seat 2: Mahu2021 (big blind) showed [Ks Tc] and lost with a pair of Deuces
+Seat 3: Safety20 (button) (small blind) showed [5c Ad] and won (840) with a pair of Deuces
+
+
+

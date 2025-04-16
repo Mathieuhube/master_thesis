@@ -1,0 +1,31 @@
+﻿PokerStars Hand #244297896894: Tournament #3605091059, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/06/16 10:58:27 CET [2023/06/16 4:58:27 ET]
+Table '3605091059 1' 3-max Seat #1 is the button
+Seat 1: Ickatahape87 (500 in chips) 
+Seat 2: art_relict (500 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+art_relict: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Td Ts]
+Ickatahape87: calls 20
+art_relict: raises 20 to 40
+Mahu2021: raises 460 to 500 and is all-in
+Ickatahape87: calls 480 and is all-in
+art_relict: folds 
+*** FLOP *** [Jh 2s Js]
+*** TURN *** [Jh 2s Js] [Qh]
+*** RIVER *** [Jh 2s Js Qh] [Ks]
+*** SHOW DOWN ***
+Mahu2021: shows [Td Ts] (two pair, Jacks and Tens)
+Ickatahape87: shows [9s 7s] (a flush, King high)
+Ickatahape87 collected 1040 from pot
+Mahu2021 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1040 | Rake 0 
+Board [Jh 2s Js Qh Ks]
+Seat 1: Ickatahape87 (button) showed [9s 7s] and won (1040) with a flush, King high
+Seat 2: art_relict (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) showed [Td Ts] and lost with two pair, Jacks and Tens
+
+
+

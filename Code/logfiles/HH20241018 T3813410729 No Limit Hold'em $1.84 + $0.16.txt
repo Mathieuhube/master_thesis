@@ -1,0 +1,203 @@
+﻿PokerStars Hand #252990026112: Tournament #3813410729, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/18 20:43:06 CET [2024/10/18 14:43:06 ET]
+Table '3813410729 1' 3-max Seat #1 is the button
+Seat 1: dim30071 (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: Lexa010 (500 in chips) 
+Mahu2021: posts small blind 10
+Lexa010: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Tc 8h]
+dim30071: raises 20 to 40
+Mahu2021: folds 
+Lexa010: calls 20
+*** FLOP *** [3s 5s Kd]
+Lexa010: bets 20
+dim30071: calls 20
+*** TURN *** [3s 5s Kd] [3c]
+Lexa010: bets 130
+dim30071: folds 
+Uncalled bet (130) returned to Lexa010
+Lexa010 collected 130 from pot
+*** SUMMARY ***
+Total pot 130 | Rake 0 
+Board [3s 5s Kd 3c]
+Seat 1: dim30071 (button) folded on the Turn
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: Lexa010 (big blind) collected (130)
+
+
+
+PokerStars Hand #252990030191: Tournament #3813410729, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/18 20:43:21 CET [2024/10/18 14:43:21 ET]
+Table '3813410729 1' 3-max Seat #2 is the button
+Seat 1: dim30071 (440 in chips) 
+Seat 2: Mahu2021 (490 in chips) 
+Seat 3: Lexa010 (570 in chips) 
+Lexa010: posts small blind 10
+dim30071: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s 6s]
+Mahu2021: calls 20
+Lexa010: calls 10
+dim30071: checks 
+*** FLOP *** [Ts 8c 6h]
+Lexa010: checks 
+dim30071: bets 20
+Mahu2021: calls 20
+Lexa010: calls 20
+*** TURN *** [Ts 8c 6h] [Qh]
+Lexa010: bets 40
+dim30071: folds 
+Mahu2021: folds 
+Uncalled bet (40) returned to Lexa010
+Lexa010 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Ts 8c 6h Qh]
+Seat 1: dim30071 (big blind) folded on the Turn
+Seat 2: Mahu2021 (button) folded on the Turn
+Seat 3: Lexa010 (small blind) collected (120)
+
+
+
+PokerStars Hand #252990035226: Tournament #3813410729, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/18 20:43:39 CET [2024/10/18 14:43:39 ET]
+Table '3813410729 1' 3-max Seat #3 is the button
+Seat 1: dim30071 (400 in chips) 
+Seat 2: Mahu2021 (450 in chips) 
+Seat 3: Lexa010 (650 in chips) 
+dim30071: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Th Qc]
+Lexa010: calls 20
+dim30071: calls 10
+Mahu2021: checks 
+*** FLOP *** [7d 8s 9c]
+dim30071: checks 
+Mahu2021: checks 
+Lexa010: bets 40
+dim30071: folds 
+Mahu2021: calls 40
+*** TURN *** [7d 8s 9c] [Td]
+Mahu2021: checks 
+Lexa010: checks 
+*** RIVER *** [7d 8s 9c Td] [7c]
+Mahu2021: bets 140
+Lexa010: folds 
+Uncalled bet (140) returned to Mahu2021
+Mahu2021 collected 140 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 140 | Rake 0 
+Board [7d 8s 9c Td 7c]
+Seat 1: dim30071 (small blind) folded on the Flop
+Seat 2: Mahu2021 (big blind) collected (140)
+Seat 3: Lexa010 (button) folded on the River
+
+
+
+PokerStars Hand #252990042351: Tournament #3813410729, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/18 20:44:05 CET [2024/10/18 14:44:05 ET]
+Table '3813410729 1' 3-max Seat #1 is the button
+Seat 1: dim30071 (380 in chips) 
+Seat 2: Mahu2021 (530 in chips) 
+Seat 3: Lexa010 (590 in chips) 
+Mahu2021: posts small blind 10
+Lexa010: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d 7s]
+dim30071: folds 
+Mahu2021: raises 20 to 40
+Lexa010: calls 20
+*** FLOP *** [Qh Qs Js]
+Mahu2021: checks 
+Lexa010: checks 
+*** TURN *** [Qh Qs Js] [Tc]
+Mahu2021: checks 
+Lexa010: checks 
+*** RIVER *** [Qh Qs Js Tc] [6d]
+Mahu2021: bets 40
+Lexa010: raises 80 to 120
+Mahu2021: calls 80
+*** SHOW DOWN ***
+Lexa010: shows [Qc Kd] (three of a kind, Queens)
+Mahu2021: mucks hand 
+Lexa010 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [Qh Qs Js Tc 6d]
+Seat 1: dim30071 (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) mucked [7d 7s]
+Seat 3: Lexa010 (big blind) showed [Qc Kd] and won (320) with three of a kind, Queens
+
+
+
+PokerStars Hand #252990047593: Tournament #3813410729, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/18 20:44:24 CET [2024/10/18 14:44:24 ET]
+Table '3813410729 1' 3-max Seat #2 is the button
+Seat 1: dim30071 (380 in chips) 
+Seat 2: Mahu2021 (370 in chips) 
+Seat 3: Lexa010 (750 in chips) 
+Lexa010: posts small blind 10
+dim30071: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2s 4d]
+Mahu2021: folds 
+Lexa010: calls 10
+dim30071: checks 
+*** FLOP *** [2c As 9d]
+Lexa010: checks 
+dim30071: checks 
+*** TURN *** [2c As 9d] [6c]
+Lexa010: checks 
+dim30071: checks 
+*** RIVER *** [2c As 9d 6c] [4h]
+Lexa010: bets 60
+dim30071: folds 
+Uncalled bet (60) returned to Lexa010
+Lexa010 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [2c As 9d 6c 4h]
+Seat 1: dim30071 (big blind) folded on the River
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: Lexa010 (small blind) collected (40)
+
+
+
+PokerStars Hand #252990053340: Tournament #3813410729, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/18 20:44:45 CET [2024/10/18 14:44:45 ET]
+Table '3813410729 1' 3-max Seat #3 is the button
+Seat 1: dim30071 (360 in chips) 
+Seat 2: Mahu2021 (370 in chips) 
+Seat 3: Lexa010 (770 in chips) 
+dim30071: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h Th]
+Lexa010: calls 20
+dim30071: calls 10
+Mahu2021: checks 
+*** FLOP *** [9c 6s 8d]
+dim30071: checks 
+Mahu2021: bets 40
+Lexa010: calls 40
+dim30071: calls 40
+*** TURN *** [9c 6s 8d] [3s]
+dim30071: checks 
+Mahu2021: checks 
+Lexa010: bets 60
+dim30071: folds 
+Mahu2021: raises 250 to 310 and is all-in
+Lexa010: calls 250
+*** RIVER *** [9c 6s 8d 3s] [8s]
+*** SHOW DOWN ***
+Mahu2021: shows [9h Th] (two pair, Nines and Eights)
+Lexa010: shows [8c 7s] (three of a kind, Eights)
+Lexa010 collected 800 from pot
+Mahu2021 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 800 | Rake 0 
+Board [9c 6s 8d 3s 8s]
+Seat 1: dim30071 (small blind) folded on the Turn
+Seat 2: Mahu2021 (big blind) showed [9h Th] and lost with two pair, Nines and Eights
+Seat 3: Lexa010 (button) showed [8c 7s] and won (800) with three of a kind, Eights
+
+
+
