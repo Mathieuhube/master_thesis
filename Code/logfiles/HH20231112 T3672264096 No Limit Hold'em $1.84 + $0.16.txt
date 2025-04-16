@@ -1,0 +1,517 @@
+﻿PokerStars Hand #247068025312: Tournament #3672264096, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/12 16:36:09 CET [2023/11/12 10:36:09 ET]
+Table '3672264096 1' 3-max Seat #1 is the button
+Seat 1: Finogolo (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: mengacafe (500 in chips) 
+Mahu2021: posts small blind 10
+mengacafe: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c 7c]
+Finogolo: folds 
+Mahu2021: calls 10
+mengacafe: raises 480 to 500 and is all-in
+Mahu2021: folds 
+Uncalled bet (480) returned to mengacafe
+mengacafe collected 40 from pot
+mengacafe: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Finogolo (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: mengacafe (big blind) collected (40)
+
+
+
+PokerStars Hand #247068027757: Tournament #3672264096, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/12 16:36:18 CET [2023/11/12 10:36:18 ET]
+Table '3672264096 1' 3-max Seat #2 is the button
+Seat 1: Finogolo (500 in chips) 
+Seat 2: Mahu2021 (480 in chips) 
+Seat 3: mengacafe (520 in chips) 
+mengacafe: posts small blind 10
+Finogolo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d 2c]
+Mahu2021: folds 
+mengacafe: calls 10
+Finogolo: raises 480 to 500 and is all-in
+mengacafe: folds 
+Uncalled bet (480) returned to Finogolo
+Finogolo collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Finogolo (big blind) collected (40)
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: mengacafe (small blind) folded before Flop
+
+
+
+PokerStars Hand #247068030060: Tournament #3672264096, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/12 16:36:26 CET [2023/11/12 10:36:26 ET]
+Table '3672264096 1' 3-max Seat #3 is the button
+Seat 1: Finogolo (520 in chips) 
+Seat 2: Mahu2021 (480 in chips) 
+Seat 3: mengacafe (500 in chips) 
+Finogolo: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s 3s]
+mengacafe: calls 20
+Finogolo: calls 10
+Mahu2021: checks 
+*** FLOP *** [9s 2d Td]
+Finogolo: checks 
+Mahu2021: checks 
+mengacafe: bets 40
+Finogolo: folds 
+Mahu2021: folds 
+Uncalled bet (40) returned to mengacafe
+mengacafe collected 60 from pot
+mengacafe: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [9s 2d Td]
+Seat 1: Finogolo (small blind) folded on the Flop
+Seat 2: Mahu2021 (big blind) folded on the Flop
+Seat 3: mengacafe (button) collected (60)
+
+
+
+PokerStars Hand #247068033950: Tournament #3672264096, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/12 16:36:40 CET [2023/11/12 10:36:40 ET]
+Table '3672264096 1' 3-max Seat #1 is the button
+Seat 1: Finogolo (500 in chips) 
+Seat 2: Mahu2021 (460 in chips) 
+Seat 3: mengacafe (540 in chips) 
+Mahu2021: posts small blind 10
+mengacafe: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2c 5s]
+Finogolo: folds 
+Mahu2021: folds 
+Uncalled bet (10) returned to mengacafe
+mengacafe collected 20 from pot
+mengacafe: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Finogolo (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: mengacafe (big blind) collected (20)
+
+
+
+PokerStars Hand #247068035395: Tournament #3672264096, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/12 16:36:45 CET [2023/11/12 10:36:45 ET]
+Table '3672264096 1' 3-max Seat #2 is the button
+Seat 1: Finogolo (500 in chips) 
+Seat 2: Mahu2021 (450 in chips) 
+Seat 3: mengacafe (550 in chips) 
+mengacafe: posts small blind 10
+Finogolo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc Jd]
+Mahu2021: raises 20 to 40
+mengacafe: folds 
+Finogolo: calls 20
+*** FLOP *** [Js 3h As]
+Finogolo: checks 
+Mahu2021: checks 
+*** TURN *** [Js 3h As] [Ah]
+Finogolo: bets 20
+Mahu2021: raises 20 to 40
+Finogolo: raises 20 to 60
+Mahu2021: raises 350 to 410 and is all-in
+Finogolo: calls 350
+*** RIVER *** [Js 3h As Ah] [2s]
+*** SHOW DOWN ***
+Finogolo: shows [8s 3d] (two pair, Aces and Threes)
+Mahu2021: shows [Jc Jd] (a full house, Jacks full of Aces)
+Mahu2021 collected 910 from pot
+*** SUMMARY ***
+Total pot 910 | Rake 0 
+Board [Js 3h As Ah 2s]
+Seat 1: Finogolo (big blind) showed [8s 3d] and lost with two pair, Aces and Threes
+Seat 2: Mahu2021 (button) showed [Jc Jd] and won (910) with a full house, Jacks full of Aces
+Seat 3: mengacafe (small blind) folded before Flop
+
+
+
+PokerStars Hand #247068041967: Tournament #3672264096, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/12 16:37:08 CET [2023/11/12 10:37:08 ET]
+Table '3672264096 1' 3-max Seat #3 is the button
+Seat 1: Finogolo (50 in chips) 
+Seat 2: Mahu2021 (910 in chips) 
+Seat 3: mengacafe (540 in chips) 
+Finogolo: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts 5c]
+mengacafe: folds 
+Finogolo: raises 30 to 50 and is all-in
+Mahu2021: folds 
+Uncalled bet (30) returned to Finogolo
+Finogolo collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Finogolo (small blind) collected (40)
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: mengacafe (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #247068044231: Tournament #3672264096, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/12 16:37:16 CET [2023/11/12 10:37:16 ET]
+Table '3672264096 1' 3-max Seat #1 is the button
+Seat 1: Finogolo (70 in chips) 
+Seat 2: Mahu2021 (890 in chips) 
+Seat 3: mengacafe (540 in chips) 
+Mahu2021: posts small blind 10
+mengacafe: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac 3s]
+Finogolo: raises 50 to 70 and is all-in
+Mahu2021: calls 60
+mengacafe: folds 
+*** FLOP *** [Kd Ah Js]
+*** TURN *** [Kd Ah Js] [Ks]
+*** RIVER *** [Kd Ah Js Ks] [4c]
+*** SHOW DOWN ***
+Mahu2021: shows [Ac 3s] (two pair, Aces and Kings)
+Finogolo: shows [9c 7h] (a pair of Kings)
+Mahu2021 collected 160 from pot
+Finogolo finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Kd Ah Js Ks 4c]
+Seat 1: Finogolo (button) showed [9c 7h] and lost with a pair of Kings
+Seat 2: Mahu2021 (small blind) showed [Ac 3s] and won (160) with two pair, Aces and Kings
+Seat 3: mengacafe (big blind) folded before Flop
+
+
+
+PokerStars Hand #247068049594: Tournament #3672264096, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/12 16:37:35 CET [2023/11/12 10:37:35 ET]
+Table '3672264096 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (980 in chips) 
+Seat 3: mengacafe (520 in chips) 
+mengacafe: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d 2h]
+mengacafe: calls 10
+Mahu2021: checks 
+*** FLOP *** [Ad Kd 6h]
+Mahu2021: checks 
+mengacafe: bets 20
+Mahu2021: calls 20
+*** TURN *** [Ad Kd 6h] [8c]
+Mahu2021: checks 
+mengacafe: checks 
+*** RIVER *** [Ad Kd 6h 8c] [Qs]
+Mahu2021: bets 20
+mengacafe: calls 20
+*** SHOW DOWN ***
+Mahu2021: shows [2d 2h] (a pair of Deuces)
+mengacafe: shows [Qh 5d] (a pair of Queens)
+mengacafe collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Ad Kd 6h 8c Qs]
+Seat 2: Mahu2021 (big blind) showed [2d 2h] and lost with a pair of Deuces
+Seat 3: mengacafe (button) (small blind) showed [Qh 5d] and won (120) with a pair of Queens
+
+
+
+PokerStars Hand #247068053506: Tournament #3672264096, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/12 16:37:49 CET [2023/11/12 10:37:49 ET]
+Table '3672264096 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (920 in chips) 
+Seat 3: mengacafe (580 in chips) 
+Mahu2021: posts small blind 10
+mengacafe: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc 2d]
+Mahu2021: folds 
+Uncalled bet (10) returned to mengacafe
+mengacafe collected 20 from pot
+mengacafe: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: mengacafe (big blind) collected (20)
+
+
+
+PokerStars Hand #247068054817: Tournament #3672264096, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/12 16:37:53 CET [2023/11/12 10:37:53 ET]
+Table '3672264096 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (910 in chips) 
+Seat 3: mengacafe (590 in chips) 
+mengacafe: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd Qh]
+mengacafe: calls 10
+Mahu2021: checks 
+*** FLOP *** [6s 7h 7s]
+Mahu2021: checks 
+mengacafe: bets 20
+Mahu2021: calls 20
+*** TURN *** [6s 7h 7s] [Ac]
+Mahu2021: checks 
+mengacafe: checks 
+*** RIVER *** [6s 7h 7s Ac] [7d]
+Mahu2021: checks 
+mengacafe: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [Kd Qh] (three of a kind, Sevens)
+mengacafe: mucks hand 
+Mahu2021 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [6s 7h 7s Ac 7d]
+Seat 2: Mahu2021 (big blind) showed [Kd Qh] and won (80) with three of a kind, Sevens
+Seat 3: mengacafe (button) (small blind) mucked [8d 5h]
+
+
+
+PokerStars Hand #247068058342: Tournament #3672264096, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/12 16:38:06 CET [2023/11/12 10:38:06 ET]
+Table '3672264096 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (950 in chips) 
+Seat 3: mengacafe (550 in chips) 
+Mahu2021: posts small blind 10
+mengacafe: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s 7d]
+Mahu2021: folds 
+Uncalled bet (10) returned to mengacafe
+mengacafe collected 20 from pot
+mengacafe: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: mengacafe (big blind) collected (20)
+
+
+
+PokerStars Hand #247068059585: Tournament #3672264096, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/12 16:38:10 CET [2023/11/12 10:38:10 ET]
+Table '3672264096 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (940 in chips) 
+Seat 3: mengacafe (560 in chips) 
+mengacafe: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d 5s]
+mengacafe: calls 10
+Mahu2021: checks 
+*** FLOP *** [Jc 2h 6s]
+Mahu2021: checks 
+mengacafe: bets 20
+Mahu2021: folds 
+Uncalled bet (20) returned to mengacafe
+mengacafe collected 40 from pot
+mengacafe: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Jc 2h 6s]
+Seat 2: Mahu2021 (big blind) folded on the Flop
+Seat 3: mengacafe (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #247068062158: Tournament #3672264096, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/12 16:38:19 CET [2023/11/12 10:38:19 ET]
+Table '3672264096 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (920 in chips) 
+Seat 3: mengacafe (580 in chips) 
+Mahu2021: posts small blind 10
+mengacafe: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh 9s]
+Mahu2021: raises 20 to 40
+mengacafe: calls 20
+*** FLOP *** [5h Tc Ad]
+mengacafe: checks 
+Mahu2021: checks 
+*** TURN *** [5h Tc Ad] [Ah]
+mengacafe: checks 
+Mahu2021: bets 40
+mengacafe: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [5h Tc Ad Ah]
+Seat 2: Mahu2021 (button) (small blind) collected (80)
+Seat 3: mengacafe (big blind) folded on the Turn
+
+
+
+PokerStars Hand #247068065823: Tournament #3672264096, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/12 16:38:32 CET [2023/11/12 10:38:32 ET]
+Table '3672264096 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (960 in chips) 
+Seat 3: mengacafe (540 in chips) 
+mengacafe: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h 3d]
+mengacafe: raises 520 to 540 and is all-in
+Mahu2021: folds 
+Uncalled bet (520) returned to mengacafe
+mengacafe collected 40 from pot
+mengacafe: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: mengacafe (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #247068067517: Tournament #3672264096, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/12 16:38:38 CET [2023/11/12 10:38:38 ET]
+Table '3672264096 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (940 in chips) 
+Seat 3: mengacafe (560 in chips) 
+Mahu2021: posts small blind 10
+mengacafe: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks Ad]
+Mahu2021: raises 20 to 40
+mengacafe: calls 20
+*** FLOP *** [3s 7s 6d]
+mengacafe: checks 
+Mahu2021: checks 
+*** TURN *** [3s 7s 6d] [Qs]
+mengacafe: checks 
+Mahu2021: checks 
+*** RIVER *** [3s 7s 6d Qs] [3h]
+mengacafe: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+mengacafe: shows [Kc Td] (a pair of Threes)
+Mahu2021: shows [Ks Ad] (a pair of Threes - Ace kicker)
+Mahu2021 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [3s 7s 6d Qs 3h]
+Seat 2: Mahu2021 (button) (small blind) showed [Ks Ad] and won (80) with a pair of Threes
+Seat 3: mengacafe (big blind) showed [Kc Td] and lost with a pair of Threes
+
+
+
+PokerStars Hand #247068071352: Tournament #3672264096, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/12 16:38:52 CET [2023/11/12 10:38:52 ET]
+Table '3672264096 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (980 in chips) 
+Seat 3: mengacafe (520 in chips) 
+mengacafe: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh 3s]
+mengacafe: calls 10
+Mahu2021: checks 
+*** FLOP *** [2d Jd Ad]
+Mahu2021: checks 
+mengacafe: bets 20
+Mahu2021: folds 
+Uncalled bet (20) returned to mengacafe
+mengacafe collected 40 from pot
+mengacafe: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [2d Jd Ad]
+Seat 2: Mahu2021 (big blind) folded on the Flop
+Seat 3: mengacafe (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #247068073781: Tournament #3672264096, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/12 16:39:00 CET [2023/11/12 10:39:00 ET]
+Table '3672264096 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (960 in chips) 
+Seat 3: mengacafe (540 in chips) 
+Mahu2021: posts small blind 10
+mengacafe: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c Jh]
+Mahu2021: calls 10
+mengacafe: checks 
+*** FLOP *** [3c 2c 9d]
+mengacafe: bets 20
+Mahu2021: folds 
+Uncalled bet (20) returned to mengacafe
+mengacafe collected 40 from pot
+mengacafe: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [3c 2c 9d]
+Seat 2: Mahu2021 (button) (small blind) folded on the Flop
+Seat 3: mengacafe (big blind) collected (40)
+
+
+
+PokerStars Hand #247068077545: Tournament #3672264096, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/12 16:39:14 CET [2023/11/12 10:39:14 ET]
+Table '3672264096 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (940 in chips) 
+Seat 3: mengacafe (560 in chips) 
+mengacafe: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c 2d]
+mengacafe: calls 15
+Mahu2021: checks 
+*** FLOP *** [5h 8d Kc]
+Mahu2021: checks 
+mengacafe: bets 30
+Mahu2021: folds 
+Uncalled bet (30) returned to mengacafe
+mengacafe collected 60 from pot
+mengacafe: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [5h 8d Kc]
+Seat 2: Mahu2021 (big blind) folded on the Flop
+Seat 3: mengacafe (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #247068080199: Tournament #3672264096, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/12 16:39:23 CET [2023/11/12 10:39:23 ET]
+Table '3672264096 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (910 in chips) 
+Seat 3: mengacafe (590 in chips) 
+Mahu2021: posts small blind 15
+mengacafe: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s 4c]
+Mahu2021: calls 15
+mengacafe: checks 
+*** FLOP *** [6d Td Ks]
+mengacafe: checks 
+Mahu2021: bets 30
+mengacafe: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [6d Td Ks]
+Seat 2: Mahu2021 (button) (small blind) collected (60)
+Seat 3: mengacafe (big blind) folded on the Flop
+
+
+
+PokerStars Hand #247068082953: Tournament #3672264096, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/12 16:39:32 CET [2023/11/12 10:39:32 ET]
+Table '3672264096 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (940 in chips) 
+Seat 3: mengacafe (560 in chips) 
+mengacafe: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd Kh]
+mengacafe: raises 530 to 560 and is all-in
+Mahu2021: calls 530
+*** FLOP *** [Jc Th 3s]
+*** TURN *** [Jc Th 3s] [Qd]
+*** RIVER *** [Jc Th 3s Qd] [3d]
+*** SHOW DOWN ***
+Mahu2021: shows [Kd Kh] (two pair, Kings and Threes)
+mengacafe: shows [7c 7d] (two pair, Sevens and Threes)
+Mahu2021 collected 1120 from pot
+mengacafe finished the tournament in 2nd place
+Mahu2021 wins the tournament and receives $6.00 - congratulations!
+*** SUMMARY ***
+Total pot 1120 | Rake 0 
+Board [Jc Th 3s Qd 3d]
+Seat 2: Mahu2021 (big blind) showed [Kd Kh] and won (1120) with two pair, Kings and Threes
+Seat 3: mengacafe (button) (small blind) showed [7c 7d] and lost with two pair, Sevens and Threes
+
+
+

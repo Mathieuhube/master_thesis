@@ -1,0 +1,557 @@
+﻿PokerStars Hand #253446601298: Tournament #3824536385, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/17 17:46:13 CET [2024/11/17 11:46:13 ET]
+Table '3824536385 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: Hotti07 (500 in chips) 
+Seat 3: Petruha.K (500 in chips) 
+Hotti07: posts small blind 10
+Petruha.K: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Tc 6d]
+Mahu2021: folds 
+Hotti07: calls 10
+Petruha.K: checks 
+*** FLOP *** [5d 9d Kh]
+Hotti07: checks 
+Petruha.K: bets 20
+Hotti07: calls 20
+*** TURN *** [5d 9d Kh] [2h]
+Hotti07: checks 
+Petruha.K: bets 48
+Hotti07: calls 48
+*** RIVER *** [5d 9d Kh 2h] [8d]
+Hotti07: bets 176
+Petruha.K: folds 
+Uncalled bet (176) returned to Hotti07
+Hotti07 collected 176 from pot
+Hotti07: doesn't show hand 
+*** SUMMARY ***
+Total pot 176 | Rake 0 
+Board [5d 9d Kh 2h 8d]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: Hotti07 (small blind) collected (176)
+Seat 3: Petruha.K (big blind) folded on the River
+
+
+
+PokerStars Hand #253446613135: Tournament #3824536385, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/17 17:46:55 CET [2024/11/17 11:46:55 ET]
+Table '3824536385 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: Hotti07 (588 in chips) 
+Seat 3: Petruha.K (412 in chips) 
+Petruha.K: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kc 2c]
+Hotti07: calls 20
+Petruha.K: folds 
+Mahu2021: checks 
+*** FLOP *** [Qc 9h 3d]
+Mahu2021: checks 
+Hotti07: checks 
+*** TURN *** [Qc 9h 3d] [Ad]
+Mahu2021: checks 
+Hotti07: checks 
+*** RIVER *** [Qc 9h 3d Ad] [Qh]
+Mahu2021: checks 
+Hotti07: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [Kc 2c] (a pair of Queens)
+Hotti07: mucks hand 
+Mahu2021 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [Qc 9h 3d Ad Qh]
+Seat 1: Mahu2021 (big blind) showed [Kc 2c] and won (50) with a pair of Queens
+Seat 2: Hotti07 (button) mucked [6d Js]
+Seat 3: Petruha.K (small blind) folded before Flop
+
+
+
+PokerStars Hand #253446618825: Tournament #3824536385, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/17 17:47:15 CET [2024/11/17 11:47:15 ET]
+Table '3824536385 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (530 in chips) 
+Seat 2: Hotti07 (568 in chips) 
+Seat 3: Petruha.K (402 in chips) 
+Mahu2021: posts small blind 10
+Hotti07: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Td 9c]
+Petruha.K: raises 20 to 40
+Mahu2021: calls 30
+Hotti07: calls 20
+*** FLOP *** [7d Ac 8c]
+Mahu2021: checks 
+Hotti07: checks 
+Petruha.K: bets 60
+Mahu2021: calls 60
+Hotti07: calls 60
+*** TURN *** [7d Ac 8c] [Qh]
+Mahu2021: checks 
+Hotti07: checks 
+Petruha.K: checks 
+*** RIVER *** [7d Ac 8c Qh] [4c]
+Mahu2021: checks 
+Hotti07: bets 300
+Petruha.K: folds 
+Mahu2021: folds 
+Uncalled bet (300) returned to Hotti07
+Hotti07 collected 300 from pot
+Hotti07: doesn't show hand 
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [7d Ac 8c Qh 4c]
+Seat 1: Mahu2021 (small blind) folded on the River
+Seat 2: Hotti07 (big blind) collected (300)
+Seat 3: Petruha.K (button) folded on the River
+
+
+
+PokerStars Hand #253446627462: Tournament #3824536385, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/17 17:47:45 CET [2024/11/17 11:47:45 ET]
+Table '3824536385 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (430 in chips) 
+Seat 2: Hotti07 (768 in chips) 
+Seat 3: Petruha.K (302 in chips) 
+Hotti07: posts small blind 10
+Petruha.K: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8c 4c]
+Mahu2021: calls 20
+Hotti07: raises 20 to 40
+Petruha.K: raises 60 to 100
+Mahu2021: folds 
+Hotti07: calls 60
+*** FLOP *** [Kc 5s Qd]
+Hotti07: checks 
+Petruha.K: bets 60
+Hotti07: folds 
+Uncalled bet (60) returned to Petruha.K
+Petruha.K collected 220 from pot
+*** SUMMARY ***
+Total pot 220 | Rake 0 
+Board [Kc 5s Qd]
+Seat 1: Mahu2021 (button) folded before Flop
+Seat 2: Hotti07 (small blind) folded on the Flop
+Seat 3: Petruha.K (big blind) collected (220)
+
+
+
+PokerStars Hand #253446637266: Tournament #3824536385, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/17 17:48:19 CET [2024/11/17 11:48:19 ET]
+Table '3824536385 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (410 in chips) 
+Seat 2: Hotti07 (668 in chips) 
+Seat 3: Petruha.K (422 in chips) 
+Petruha.K: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh Jh]
+Hotti07: calls 30
+Petruha.K: calls 15
+Mahu2021: raises 90 to 120
+Hotti07: calls 90
+Petruha.K: folds 
+*** FLOP *** [6c 2d 8s]
+Mahu2021: checks 
+Hotti07: checks 
+*** TURN *** [6c 2d 8s] [Qd]
+Mahu2021: bets 120
+Hotti07: folds 
+Uncalled bet (120) returned to Mahu2021
+Mahu2021 collected 270 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 270 | Rake 0 
+Board [6c 2d 8s Qd]
+Seat 1: Mahu2021 (big blind) collected (270)
+Seat 2: Hotti07 (button) folded on the Turn
+Seat 3: Petruha.K (small blind) folded before Flop
+
+
+
+PokerStars Hand #253446642377: Tournament #3824536385, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/17 17:48:37 CET [2024/11/17 11:48:37 ET]
+Table '3824536385 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (560 in chips) 
+Seat 2: Hotti07 (548 in chips) 
+Seat 3: Petruha.K (392 in chips) 
+Mahu2021: posts small blind 15
+Hotti07: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc 6s]
+Petruha.K: folds 
+Mahu2021: folds 
+Uncalled bet (15) returned to Hotti07
+Hotti07 collected 30 from pot
+Hotti07: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: Hotti07 (big blind) collected (30)
+Seat 3: Petruha.K (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253446643806: Tournament #3824536385, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/17 17:48:42 CET [2024/11/17 11:48:42 ET]
+Table '3824536385 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (545 in chips) 
+Seat 2: Hotti07 (563 in chips) 
+Seat 3: Petruha.K (392 in chips) 
+Hotti07: posts small blind 15
+Petruha.K: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c 5s]
+Mahu2021: folds 
+Hotti07: calls 15
+Petruha.K: raises 60 to 90
+Hotti07: calls 60
+*** FLOP *** [8d 3c 5c]
+Hotti07: checks 
+Petruha.K: bets 302 and is all-in
+Hotti07: calls 302
+*** TURN *** [8d 3c 5c] [Ts]
+*** RIVER *** [8d 3c 5c Ts] [2h]
+*** SHOW DOWN ***
+Hotti07: shows [9c 9h] (a pair of Nines)
+Petruha.K: shows [8c 2d] (two pair, Eights and Deuces)
+Petruha.K collected 784 from pot
+*** SUMMARY ***
+Total pot 784 | Rake 0 
+Board [8d 3c 5c Ts 2h]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: Hotti07 (small blind) showed [9c 9h] and lost with a pair of Nines
+Seat 3: Petruha.K (big blind) showed [8c 2d] and won (784) with two pair, Eights and Deuces
+
+
+
+PokerStars Hand #253446650224: Tournament #3824536385, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/17 17:49:04 CET [2024/11/17 11:49:04 ET]
+Table '3824536385 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (545 in chips) 
+Seat 2: Hotti07 (171 in chips) 
+Seat 3: Petruha.K (784 in chips) 
+Petruha.K: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c 9d]
+Hotti07: calls 30
+Petruha.K: folds 
+Mahu2021: checks 
+*** FLOP *** [Ad 2d 9c]
+Mahu2021: bets 150
+Hotti07: folds 
+Uncalled bet (150) returned to Mahu2021
+Mahu2021 collected 75 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Board [Ad 2d 9c]
+Seat 1: Mahu2021 (big blind) collected (75)
+Seat 2: Hotti07 (button) folded on the Flop
+Seat 3: Petruha.K (small blind) folded before Flop
+
+
+
+PokerStars Hand #253446654591: Tournament #3824536385, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/17 17:49:19 CET [2024/11/17 11:49:19 ET]
+Table '3824536385 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (590 in chips) 
+Seat 2: Hotti07 (141 in chips) 
+Seat 3: Petruha.K (769 in chips) 
+Mahu2021: posts small blind 15
+Hotti07: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh 4d]
+Petruha.K: raises 739 to 769 and is all-in
+Mahu2021: folds 
+Hotti07: calls 111 and is all-in
+Uncalled bet (628) returned to Petruha.K
+*** FLOP *** [Qs 4c 5s]
+*** TURN *** [Qs 4c 5s] [Js]
+*** RIVER *** [Qs 4c 5s Js] [7d]
+*** SHOW DOWN ***
+Hotti07: shows [5d Jh] (two pair, Jacks and Fives)
+Petruha.K: shows [5c 5h] (three of a kind, Fives)
+Petruha.K collected 297 from pot
+Hotti07 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 297 | Rake 0 
+Board [Qs 4c 5s Js 7d]
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: Hotti07 (big blind) showed [5d Jh] and lost with two pair, Jacks and Fives
+Seat 3: Petruha.K (button) showed [5c 5h] and won (297) with three of a kind, Fives
+
+
+
+PokerStars Hand #253446659671: Tournament #3824536385, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/17 17:49:37 CET [2024/11/17 11:49:37 ET]
+Table '3824536385 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (575 in chips) 
+Seat 3: Petruha.K (925 in chips) 
+Mahu2021: posts small blind 15
+Petruha.K: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c Kd]
+Mahu2021: raises 30 to 60
+Petruha.K: calls 30
+*** FLOP *** [2h 8d 4d]
+Petruha.K: checks 
+Mahu2021: checks 
+*** TURN *** [2h 8d 4d] [Qc]
+Petruha.K: bets 60
+Mahu2021: folds 
+Uncalled bet (60) returned to Petruha.K
+Petruha.K collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [2h 8d 4d Qc]
+Seat 1: Mahu2021 (button) (small blind) folded on the Turn
+Seat 3: Petruha.K (big blind) collected (120)
+
+
+
+PokerStars Hand #253446663107: Tournament #3824536385, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/17 17:49:49 CET [2024/11/17 11:49:49 ET]
+Table '3824536385 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (515 in chips) 
+Seat 3: Petruha.K (985 in chips) 
+Petruha.K: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s 9c]
+Petruha.K: calls 15
+Mahu2021: checks 
+*** FLOP *** [7s 8h 4h]
+Mahu2021: checks 
+Petruha.K: bets 90
+Mahu2021: folds 
+Uncalled bet (90) returned to Petruha.K
+Petruha.K collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [7s 8h 4h]
+Seat 1: Mahu2021 (big blind) folded on the Flop
+Seat 3: Petruha.K (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #253446666845: Tournament #3824536385, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/17 17:50:03 CET [2024/11/17 11:50:03 ET]
+Table '3824536385 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (485 in chips) 
+Seat 3: Petruha.K (1015 in chips) 
+Mahu2021: posts small blind 15
+Petruha.K: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5h 3h]
+Mahu2021: calls 15
+Petruha.K: checks 
+*** FLOP *** [5d Jh 6s]
+Petruha.K: checks 
+Mahu2021: bets 60
+Petruha.K: calls 60
+*** TURN *** [5d Jh 6s] [Kd]
+Petruha.K: checks 
+Mahu2021: bets 60
+Petruha.K: calls 60
+*** RIVER *** [5d Jh 6s Kd] [2c]
+Petruha.K: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+Petruha.K: shows [8s 6d] (a pair of Sixes)
+Mahu2021: mucks hand 
+Petruha.K collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [5d Jh 6s Kd 2c]
+Seat 1: Mahu2021 (button) (small blind) mucked [5h 3h]
+Seat 3: Petruha.K (big blind) showed [8s 6d] and won (300) with a pair of Sixes
+
+
+
+PokerStars Hand #253446673119: Tournament #3824536385, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/17 17:50:25 CET [2024/11/17 11:50:25 ET]
+Table '3824536385 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (335 in chips) 
+Seat 3: Petruha.K (1165 in chips) 
+Petruha.K: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As Ah]
+Petruha.K: calls 20
+Mahu2021: raises 295 to 335 and is all-in
+Petruha.K: folds 
+Uncalled bet (295) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (80)
+Seat 3: Petruha.K (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #253446675410: Tournament #3824536385, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/17 17:50:33 CET [2024/11/17 11:50:33 ET]
+Table '3824536385 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (375 in chips) 
+Seat 3: Petruha.K (1125 in chips) 
+Mahu2021: posts small blind 20
+Petruha.K: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad Qs]
+Mahu2021: raises 40 to 80
+Petruha.K: calls 40
+*** FLOP *** [3h Ks 5c]
+Petruha.K: checks 
+Mahu2021: checks 
+*** TURN *** [3h Ks 5c] [5s]
+Petruha.K: bets 40
+Mahu2021: raises 40 to 80
+Petruha.K: raises 40 to 120
+Mahu2021: folds 
+Uncalled bet (40) returned to Petruha.K
+Petruha.K collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [3h Ks 5c 5s]
+Seat 1: Mahu2021 (button) (small blind) folded on the Turn
+Seat 3: Petruha.K (big blind) collected (320)
+
+
+
+PokerStars Hand #253446680365: Tournament #3824536385, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/17 17:50:50 CET [2024/11/17 11:50:50 ET]
+Table '3824536385 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (215 in chips) 
+Seat 3: Petruha.K (1285 in chips) 
+Petruha.K: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h 2d]
+Petruha.K: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (40)
+Seat 3: Petruha.K (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #253446681626: Tournament #3824536385, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/17 17:50:54 CET [2024/11/17 11:50:54 ET]
+Table '3824536385 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (235 in chips) 
+Seat 3: Petruha.K (1265 in chips) 
+Mahu2021: posts small blind 20
+Petruha.K: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Th Kh]
+Mahu2021: raises 195 to 235 and is all-in
+Petruha.K: calls 195
+*** FLOP *** [8c 8h 3s]
+*** TURN *** [8c 8h 3s] [9h]
+*** RIVER *** [8c 8h 3s 9h] [Ah]
+*** SHOW DOWN ***
+Petruha.K: shows [Ts Td] (two pair, Tens and Eights)
+Mahu2021: shows [Th Kh] (a flush, Ace high)
+Mahu2021 collected 470 from pot
+*** SUMMARY ***
+Total pot 470 | Rake 0 
+Board [8c 8h 3s 9h Ah]
+Seat 1: Mahu2021 (button) (small blind) showed [Th Kh] and won (470) with a flush, Ace high
+Seat 3: Petruha.K (big blind) showed [Ts Td] and lost with two pair, Tens and Eights
+
+
+
+PokerStars Hand #253446684969: Tournament #3824536385, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/17 17:51:06 CET [2024/11/17 11:51:06 ET]
+Table '3824536385 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (470 in chips) 
+Seat 3: Petruha.K (1030 in chips) 
+Petruha.K: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d 2h]
+Petruha.K: calls 20
+Mahu2021: checks 
+*** FLOP *** [6c 8s Qd]
+Mahu2021: checks 
+Petruha.K: bets 40
+Mahu2021: folds 
+Uncalled bet (40) returned to Petruha.K
+Petruha.K collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [6c 8s Qd]
+Seat 1: Mahu2021 (big blind) folded on the Flop
+Seat 3: Petruha.K (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #253446687593: Tournament #3824536385, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/17 17:51:15 CET [2024/11/17 11:51:15 ET]
+Table '3824536385 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (430 in chips) 
+Seat 3: Petruha.K (1070 in chips) 
+Mahu2021: posts small blind 20
+Petruha.K: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4d 5d]
+Mahu2021: calls 20
+Petruha.K: checks 
+*** FLOP *** [Qd Td 7c]
+Petruha.K: checks 
+Mahu2021: bets 40
+Petruha.K: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Qd Td 7c]
+Seat 1: Mahu2021 (button) (small blind) collected (80)
+Seat 3: Petruha.K (big blind) folded on the Flop
+
+
+
+PokerStars Hand #253446690719: Tournament #3824536385, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/17 17:51:27 CET [2024/11/17 11:51:27 ET]
+Table '3824536385 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (470 in chips) 
+Seat 3: Petruha.K (1030 in chips) 
+Petruha.K: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac 3h]
+Petruha.K: calls 20
+Mahu2021: raises 430 to 470 and is all-in
+Petruha.K: folds 
+Uncalled bet (430) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (80)
+Seat 3: Petruha.K (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #253446692797: Tournament #3824536385, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/17 17:51:34 CET [2024/11/17 11:51:34 ET]
+Table '3824536385 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (510 in chips) 
+Seat 3: Petruha.K (990 in chips) 
+Mahu2021: posts small blind 20
+Petruha.K: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s Qd]
+Mahu2021: calls 20
+Petruha.K: raises 80 to 120
+Mahu2021: calls 80
+*** FLOP *** [6s 9h 7d]
+Petruha.K: bets 180
+Mahu2021: raises 210 to 390 and is all-in
+Petruha.K: calls 210
+*** TURN *** [6s 9h 7d] [Tc]
+*** RIVER *** [6s 9h 7d Tc] [5c]
+*** SHOW DOWN ***
+Petruha.K: shows [Jd Js] (a pair of Jacks)
+Mahu2021: shows [7s Qd] (a pair of Sevens)
+Petruha.K collected 1020 from pot
+Mahu2021 finished the tournament in 2nd place
+Petruha.K wins the tournament and receives $4.00 - congratulations!
+*** SUMMARY ***
+Total pot 1020 | Rake 0 
+Board [6s 9h 7d Tc 5c]
+Seat 1: Mahu2021 (button) (small blind) showed [7s Qd] and lost with a pair of Sevens
+Seat 3: Petruha.K (big blind) showed [Jd Js] and won (1020) with a pair of Jacks
+
+
+

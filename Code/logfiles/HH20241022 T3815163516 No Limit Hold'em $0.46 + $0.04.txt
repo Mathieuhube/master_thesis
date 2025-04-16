@@ -1,0 +1,284 @@
+﻿PokerStars Hand #253045143637: Tournament #3815163516, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2024/10/22 6:10:44 CET [2024/10/22 0:10:44 ET]
+Table '3815163516 1' 3-max Seat #1 is the button
+Seat 1: ChelseafcDan (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: ron1398 (500 in chips) 
+Mahu2021: posts small blind 10
+ron1398: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h 3c]
+ChelseafcDan: raises 40 to 60
+Mahu2021: folds 
+ron1398: raises 440 to 500 and is all-in
+ChelseafcDan: calls 440 and is all-in
+*** FLOP *** [Td Qd Th]
+*** TURN *** [Td Qd Th] [Ac]
+*** RIVER *** [Td Qd Th Ac] [7h]
+*** SHOW DOWN ***
+ron1398: shows [Ah 7c] (two pair, Aces and Tens)
+ChelseafcDan: shows [Js As] (two pair, Aces and Tens)
+ron1398 collected 505 from pot
+ChelseafcDan collected 505 from pot
+*** SUMMARY ***
+Total pot 1010 | Rake 0 
+Board [Td Qd Th Ac 7h]
+Seat 1: ChelseafcDan (button) showed [Js As] and won (505) with two pair, Aces and Tens
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: ron1398 (big blind) showed [Ah 7c] and won (505) with two pair, Aces and Tens
+
+
+
+PokerStars Hand #253045145604: Tournament #3815163516, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2024/10/22 6:11:05 CET [2024/10/22 0:11:05 ET]
+Table '3815163516 1' 3-max Seat #2 is the button
+Seat 1: ChelseafcDan (505 in chips) 
+Seat 2: Mahu2021 (490 in chips) 
+Seat 3: ron1398 (505 in chips) 
+ron1398: posts small blind 10
+ChelseafcDan: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac Ah]
+Mahu2021: raises 470 to 490 and is all-in
+ron1398: calls 480
+ChelseafcDan: folds 
+*** FLOP *** [Kd 3h 6c]
+*** TURN *** [Kd 3h 6c] [9s]
+*** RIVER *** [Kd 3h 6c 9s] [7d]
+*** SHOW DOWN ***
+ron1398: shows [Tc Jc] (high card King)
+Mahu2021: shows [Ac Ah] (a pair of Aces)
+Mahu2021 collected 1000 from pot
+*** SUMMARY ***
+Total pot 1000 | Rake 0 
+Board [Kd 3h 6c 9s 7d]
+Seat 1: ChelseafcDan (big blind) folded before Flop
+Seat 2: Mahu2021 (button) showed [Ac Ah] and won (1000) with a pair of Aces
+Seat 3: ron1398 (small blind) showed [Tc Jc] and lost with high card King
+
+
+
+PokerStars Hand #253045147157: Tournament #3815163516, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2024/10/22 6:11:22 CET [2024/10/22 0:11:22 ET]
+Table '3815163516 1' 3-max Seat #3 is the button
+Seat 1: ChelseafcDan (485 in chips) 
+Seat 2: Mahu2021 (1000 in chips) 
+Seat 3: ron1398 (15 in chips) 
+ChelseafcDan: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah 8h]
+ron1398: calls 15 and is all-in
+ChelseafcDan: raises 465 to 485 and is all-in
+Mahu2021: calls 465
+*** FLOP *** [Th 8s 5d]
+*** TURN *** [Th 8s 5d] [Js]
+*** RIVER *** [Th 8s 5d Js] [7s]
+*** SHOW DOWN ***
+ChelseafcDan: shows [5s 5c] (three of a kind, Fives)
+Mahu2021: shows [Ah 8h] (a pair of Eights)
+ChelseafcDan collected 940 from side pot
+ron1398: shows [9d 4c] (a straight, Seven to Jack)
+ron1398 collected 45 from main pot
+*** SUMMARY ***
+Total pot 985 Main pot 45. Side pot 940. | Rake 0 
+Board [Th 8s 5d Js 7s]
+Seat 1: ChelseafcDan (small blind) showed [5s 5c] and won (940) with three of a kind, Fives
+Seat 2: Mahu2021 (big blind) showed [Ah 8h] and lost with a pair of Eights
+Seat 3: ron1398 (button) showed [9d 4c] and won (45) with a straight, Seven to Jack
+
+
+
+PokerStars Hand #253045148722: Tournament #3815163516, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2024/10/22 6:11:38 CET [2024/10/22 0:11:38 ET]
+Table '3815163516 1' 3-max Seat #1 is the button
+Seat 1: ChelseafcDan (940 in chips) 
+Seat 2: Mahu2021 (515 in chips) 
+Seat 3: ron1398 (45 in chips) 
+Mahu2021: posts small blind 10
+ron1398: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c 8s]
+ChelseafcDan: folds 
+Mahu2021: folds 
+Uncalled bet (10) returned to ron1398
+ron1398 collected 20 from pot
+ron1398: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: ChelseafcDan (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: ron1398 (big blind) collected (20)
+
+
+
+PokerStars Hand #253045149160: Tournament #3815163516, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2024/10/22 6:11:43 CET [2024/10/22 0:11:43 ET]
+Table '3815163516 1' 3-max Seat #2 is the button
+Seat 1: ChelseafcDan (940 in chips) 
+Seat 2: Mahu2021 (505 in chips) 
+Seat 3: ron1398 (55 in chips) 
+ron1398: posts small blind 10
+ChelseafcDan: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh Ts]
+Mahu2021: raises 60 to 80
+ron1398: calls 45 and is all-in
+ChelseafcDan: calls 60
+*** FLOP *** [Ac 5d 9s]
+ChelseafcDan: checks 
+Mahu2021: checks 
+*** TURN *** [Ac 5d 9s] [Td]
+ChelseafcDan: checks 
+Mahu2021: bets 80
+ChelseafcDan: calls 80
+*** RIVER *** [Ac 5d 9s Td] [8s]
+ChelseafcDan: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+ChelseafcDan: shows [Th 4h] (a pair of Tens)
+Mahu2021: shows [Qh Ts] (a pair of Tens - Ace+Queen kicker)
+Mahu2021 collected 210 from side pot
+ron1398: mucks hand 
+Mahu2021 collected 165 from main pot
+ron1398 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 375 Main pot 165. Side pot 210. | Rake 0 
+Board [Ac 5d 9s Td 8s]
+Seat 1: ChelseafcDan (big blind) showed [Th 4h] and lost with a pair of Tens
+Seat 2: Mahu2021 (button) showed [Qh Ts] and won (375) with a pair of Tens
+Seat 3: ron1398 (small blind) mucked [8h 2h]
+
+
+
+PokerStars Hand #253045151716: Tournament #3815163516, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2024/10/22 6:12:10 CET [2024/10/22 0:12:10 ET]
+Table '3815163516 1' 3-max Seat #1 is the button
+Seat 1: ChelseafcDan (780 in chips) 
+Seat 2: Mahu2021 (720 in chips) 
+ChelseafcDan: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qs 8d]
+ChelseafcDan: raises 20 to 40
+Mahu2021: calls 20
+*** FLOP *** [Th 8c Ts]
+Mahu2021: checks 
+ChelseafcDan: checks 
+*** TURN *** [Th 8c Ts] [Js]
+Mahu2021: checks 
+ChelseafcDan: checks 
+*** RIVER *** [Th 8c Ts Js] [Tc]
+Mahu2021: bets 80
+ChelseafcDan: folds 
+Uncalled bet (80) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Th 8c Ts Js Tc]
+Seat 1: ChelseafcDan (button) (small blind) folded on the River
+Seat 2: Mahu2021 (big blind) collected (80)
+
+
+
+PokerStars Hand #253045153271: Tournament #3815163516, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2024/10/22 6:12:26 CET [2024/10/22 0:12:26 ET]
+Table '3815163516 1' 3-max Seat #2 is the button
+Seat 1: ChelseafcDan (740 in chips) 
+Seat 2: Mahu2021 (760 in chips) 
+Mahu2021: posts small blind 10
+ChelseafcDan: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As 5h]
+Mahu2021: raises 20 to 40
+ChelseafcDan: calls 20
+*** FLOP *** [4h 9s 2c]
+ChelseafcDan: checks 
+Mahu2021: checks 
+*** TURN *** [4h 9s 2c] [3d]
+ChelseafcDan: checks 
+Mahu2021: checks 
+*** RIVER *** [4h 9s 2c 3d] [8d]
+ChelseafcDan: bets 40
+Mahu2021: raises 40 to 80
+ChelseafcDan: calls 40
+*** SHOW DOWN ***
+Mahu2021: shows [As 5h] (a straight, Ace to Five)
+ChelseafcDan: mucks hand 
+Mahu2021 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [4h 9s 2c 3d 8d]
+Seat 1: ChelseafcDan (big blind) mucked [8c 5s]
+Seat 2: Mahu2021 (button) (small blind) showed [As 5h] and won (240) with a straight, Ace to Five
+
+
+
+PokerStars Hand #253045155378: Tournament #3815163516, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2024/10/22 6:12:49 CET [2024/10/22 0:12:49 ET]
+Table '3815163516 1' 3-max Seat #1 is the button
+Seat 1: ChelseafcDan (620 in chips) 
+Seat 2: Mahu2021 (880 in chips) 
+ChelseafcDan: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h 8d]
+ChelseafcDan: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: ChelseafcDan (button) (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (30)
+
+
+
+PokerStars Hand #253045155763: Tournament #3815163516, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2024/10/22 6:12:53 CET [2024/10/22 0:12:53 ET]
+Table '3815163516 1' 3-max Seat #2 is the button
+Seat 1: ChelseafcDan (605 in chips) 
+Seat 2: Mahu2021 (895 in chips) 
+Mahu2021: posts small blind 15
+ChelseafcDan: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Tc 7d]
+Mahu2021: raises 30 to 60
+ChelseafcDan: calls 30
+*** FLOP *** [Kc 3h 3s]
+ChelseafcDan: checks 
+Mahu2021: bets 60
+ChelseafcDan: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Kc 3h 3s]
+Seat 1: ChelseafcDan (big blind) folded on the Flop
+Seat 2: Mahu2021 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #253045156872: Tournament #3815163516, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2024/10/22 6:13:05 CET [2024/10/22 0:13:05 ET]
+Table '3815163516 1' 3-max Seat #1 is the button
+Seat 1: ChelseafcDan (545 in chips) 
+Seat 2: Mahu2021 (955 in chips) 
+ChelseafcDan: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd Kh]
+ChelseafcDan: raises 30 to 60
+Mahu2021: raises 895 to 955 and is all-in
+ChelseafcDan: calls 485 and is all-in
+Uncalled bet (410) returned to Mahu2021
+*** FLOP *** [8h 2h 7h]
+*** TURN *** [8h 2h 7h] [6s]
+*** RIVER *** [8h 2h 7h 6s] [3s]
+*** SHOW DOWN ***
+Mahu2021: shows [Kd Kh] (a pair of Kings)
+ChelseafcDan: shows [Qc Jh] (high card Queen)
+Mahu2021 collected 1090 from pot
+ChelseafcDan finished the tournament in 2nd place
+Mahu2021 wins the tournament - congratulations!
+Mahu2021 wins a '$1.50 Power Path Step 2 Ticket' ticket
+*** SUMMARY ***
+Total pot 1090 | Rake 0 
+Board [8h 2h 7h 6s 3s]
+Seat 1: ChelseafcDan (button) (small blind) showed [Qc Jh] and lost with high card Queen
+Seat 2: Mahu2021 (big blind) showed [Kd Kh] and won (1090) with a pair of Kings
+
+
+

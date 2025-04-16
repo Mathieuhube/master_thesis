@@ -1,0 +1,37 @@
+﻿PokerStars Hand #243069787354: Tournament #3577010021, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/13 20:54:17 CET [2023/04/13 14:54:17 ET]
+Table '3577010021 1' 3-max Seat #1 is the button
+Seat 1: Malishka320 (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: cal1234 (500 in chips) 
+Mahu2021: posts small blind 10
+cal1234: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s 7s]
+Malishka320: folds 
+Mahu2021: calls 10
+cal1234: checks 
+*** FLOP *** [4c 6d 9s]
+Mahu2021: bets 20
+cal1234: calls 20
+*** TURN *** [4c 6d 9s] [2s]
+Mahu2021: bets 40
+cal1234: calls 40
+*** RIVER *** [4c 6d 9s 2s] [6c]
+Mahu2021: bets 160
+cal1234: raises 160 to 320
+Mahu2021: raises 100 to 420 and is all-in
+cal1234: calls 100 and is all-in
+*** SHOW DOWN ***
+Mahu2021: shows [6s 7s] (three of a kind, Sixes)
+cal1234: shows [6h 8d] (three of a kind, Sixes - Nine+Eight kicker)
+cal1234 collected 1000 from pot
+Mahu2021 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1000 | Rake 0 
+Board [4c 6d 9s 2s 6c]
+Seat 1: Malishka320 (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) showed [6s 7s] and lost with three of a kind, Sixes
+Seat 3: cal1234 (big blind) showed [6h 8d] and won (1000) with three of a kind, Sixes
+
+
+

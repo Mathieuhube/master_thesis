@@ -1,0 +1,384 @@
+﻿PokerStars Hand #252877825352: Tournament #3810805713, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/11 20:30:01 CET [2024/10/11 14:30:01 ET]
+Table '3810805713 1' 3-max Seat #1 is the button
+Seat 1: anthox01 (500 in chips) 
+Seat 2: VarvaroiIonut (500 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+VarvaroiIonut: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d Ks]
+anthox01: calls 20
+VarvaroiIonut: calls 10
+Mahu2021: checks 
+*** FLOP *** [5c 4d Qh]
+VarvaroiIonut: checks 
+Mahu2021: checks 
+anthox01: checks 
+*** TURN *** [5c 4d Qh] [9c]
+VarvaroiIonut: checks 
+Mahu2021: bets 20
+anthox01: folds 
+VarvaroiIonut: calls 20
+*** RIVER *** [5c 4d Qh 9c] [7h]
+VarvaroiIonut: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+VarvaroiIonut: shows [Ah 9s] (a pair of Nines)
+Mahu2021: mucks hand 
+VarvaroiIonut collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [5c 4d Qh 9c 7h]
+Seat 1: anthox01 (button) folded on the Turn
+Seat 2: VarvaroiIonut (small blind) showed [Ah 9s] and won (100) with a pair of Nines
+Seat 3: Mahu2021 (big blind) mucked [9d Ks]
+
+
+
+PokerStars Hand #252877834587: Tournament #3810805713, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/11 20:30:36 CET [2024/10/11 14:30:36 ET]
+Table '3810805713 1' 3-max Seat #2 is the button
+Seat 1: anthox01 (480 in chips) 
+Seat 2: VarvaroiIonut (560 in chips) 
+Seat 3: Mahu2021 (460 in chips) 
+Mahu2021: posts small blind 10
+anthox01: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh Jd]
+VarvaroiIonut: calls 20
+Mahu2021: calls 10
+anthox01: checks 
+*** FLOP *** [3c 4s Jh]
+Mahu2021: bets 60
+anthox01: calls 60
+VarvaroiIonut: calls 60
+*** TURN *** [3c 4s Jh] [5c]
+Mahu2021: checks 
+anthox01: checks 
+VarvaroiIonut: checks 
+*** RIVER *** [3c 4s Jh 5c] [8s]
+Mahu2021: bets 60
+anthox01: raises 100 to 160
+VarvaroiIonut: folds 
+Mahu2021: calls 100
+*** SHOW DOWN ***
+anthox01: shows [Jc 3h] (two pair, Jacks and Threes)
+Mahu2021: mucks hand 
+anthox01 collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | Rake 0 
+Board [3c 4s Jh 5c 8s]
+Seat 1: anthox01 (big blind) showed [Jc 3h] and won (560) with two pair, Jacks and Threes
+Seat 2: VarvaroiIonut (button) folded on the River
+Seat 3: Mahu2021 (small blind) mucked [Qh Jd]
+
+
+
+PokerStars Hand #252877845256: Tournament #3810805713, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/11 20:31:15 CET [2024/10/11 14:31:15 ET]
+Table '3810805713 1' 3-max Seat #3 is the button
+Seat 1: anthox01 (800 in chips) 
+Seat 2: VarvaroiIonut (480 in chips) 
+Seat 3: Mahu2021 (220 in chips) 
+anthox01: posts small blind 10
+VarvaroiIonut: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Td Qc]
+Mahu2021: raises 20 to 40
+anthox01: folds 
+VarvaroiIonut: calls 20
+*** FLOP *** [9h 4h 6h]
+VarvaroiIonut: checks 
+Mahu2021: checks 
+*** TURN *** [9h 4h 6h] [6c]
+VarvaroiIonut: checks 
+Mahu2021: checks 
+*** RIVER *** [9h 4h 6h 6c] [Kh]
+VarvaroiIonut: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+VarvaroiIonut: shows [5c 4d] (two pair, Sixes and Fours)
+Mahu2021: mucks hand 
+VarvaroiIonut collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [9h 4h 6h 6c Kh]
+Seat 1: anthox01 (small blind) folded before Flop
+Seat 2: VarvaroiIonut (big blind) showed [5c 4d] and won (90) with two pair, Sixes and Fours
+Seat 3: Mahu2021 (button) mucked [Td Qc]
+
+
+
+PokerStars Hand #252877852611: Tournament #3810805713, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/11 20:31:42 CET [2024/10/11 14:31:42 ET]
+Table '3810805713 1' 3-max Seat #1 is the button
+Seat 1: anthox01 (790 in chips) 
+Seat 2: VarvaroiIonut (530 in chips) 
+Seat 3: Mahu2021 (180 in chips) 
+VarvaroiIonut: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h 5c]
+anthox01: calls 20
+VarvaroiIonut: calls 10
+Mahu2021: checks 
+*** FLOP *** [3h Jd Ad]
+VarvaroiIonut: checks 
+Mahu2021: checks 
+anthox01: checks 
+*** TURN *** [3h Jd Ad] [7c]
+VarvaroiIonut: checks 
+Mahu2021: checks 
+anthox01: checks 
+*** RIVER *** [3h Jd Ad 7c] [3s]
+VarvaroiIonut: checks 
+Mahu2021: checks 
+anthox01: checks 
+*** SHOW DOWN ***
+VarvaroiIonut: shows [8d Kc] (a pair of Threes)
+Mahu2021: mucks hand 
+anthox01: mucks hand 
+VarvaroiIonut collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [3h Jd Ad 7c 3s]
+Seat 1: anthox01 (button) mucked [Qh 8s]
+Seat 2: VarvaroiIonut (small blind) showed [8d Kc] and won (60) with a pair of Threes
+Seat 3: Mahu2021 (big blind) mucked [4h 5c]
+
+
+
+PokerStars Hand #252877861759: Tournament #3810805713, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/11 20:32:16 CET [2024/10/11 14:32:16 ET]
+Table '3810805713 1' 3-max Seat #2 is the button
+Seat 1: anthox01 (770 in chips) 
+Seat 2: VarvaroiIonut (570 in chips) 
+Seat 3: Mahu2021 (160 in chips) 
+Mahu2021: posts small blind 10
+anthox01: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s Js]
+VarvaroiIonut: calls 20
+Mahu2021: calls 10
+anthox01: checks 
+*** FLOP *** [3h Qc 9s]
+Mahu2021: checks 
+anthox01: bets 20
+VarvaroiIonut: calls 20
+Mahu2021: folds 
+*** TURN *** [3h Qc 9s] [4s]
+anthox01: bets 40
+VarvaroiIonut: calls 40
+*** RIVER *** [3h Qc 9s 4s] [2c]
+anthox01: bets 60
+VarvaroiIonut: calls 60
+*** SHOW DOWN ***
+anthox01: shows [8c Th] (high card Queen)
+VarvaroiIonut: shows [Ts 9h] (a pair of Nines)
+VarvaroiIonut collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [3h Qc 9s 4s 2c]
+Seat 1: anthox01 (big blind) showed [8c Th] and lost with high card Queen
+Seat 2: VarvaroiIonut (button) showed [Ts 9h] and won (300) with a pair of Nines
+Seat 3: Mahu2021 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #252877871121: Tournament #3810805713, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/11 20:32:50 CET [2024/10/11 14:32:50 ET]
+Table '3810805713 1' 3-max Seat #3 is the button
+Seat 1: anthox01 (630 in chips) 
+Seat 2: VarvaroiIonut (730 in chips) 
+Seat 3: Mahu2021 (140 in chips) 
+anthox01: posts small blind 10
+VarvaroiIonut: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4c Kh]
+Mahu2021: folds 
+anthox01: raises 40 to 60
+VarvaroiIonut: calls 40
+*** FLOP *** [9s 7h 5c]
+anthox01: bets 60
+VarvaroiIonut: calls 60
+*** TURN *** [9s 7h 5c] [Ks]
+anthox01: checks 
+VarvaroiIonut: checks 
+*** RIVER *** [9s 7h 5c Ks] [8c]
+anthox01: bets 60
+VarvaroiIonut: folds 
+Uncalled bet (60) returned to anthox01
+anthox01 collected 240 from pot
+anthox01: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [9s 7h 5c Ks 8c]
+Seat 1: anthox01 (small blind) collected (240)
+Seat 2: VarvaroiIonut (big blind) folded on the River
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #252877885108: Tournament #3810805713, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/11 20:33:41 CET [2024/10/11 14:33:41 ET]
+Table '3810805713 1' 3-max Seat #1 is the button
+Seat 1: anthox01 (750 in chips) 
+Seat 2: VarvaroiIonut (610 in chips) 
+Seat 3: Mahu2021 (140 in chips) 
+VarvaroiIonut: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d Qh]
+anthox01: raises 60 to 90
+VarvaroiIonut: calls 75
+Mahu2021: folds 
+*** FLOP *** [5s 8d Ah]
+VarvaroiIonut: checks 
+anthox01: checks 
+*** TURN *** [5s 8d Ah] [5h]
+VarvaroiIonut: checks 
+anthox01: bets 30
+VarvaroiIonut: calls 30
+*** RIVER *** [5s 8d Ah 5h] [Kc]
+VarvaroiIonut: checks 
+anthox01: bets 90
+VarvaroiIonut: folds 
+Uncalled bet (90) returned to anthox01
+anthox01 collected 270 from pot
+anthox01: doesn't show hand 
+*** SUMMARY ***
+Total pot 270 | Rake 0 
+Board [5s 8d Ah 5h Kc]
+Seat 1: anthox01 (button) collected (270)
+Seat 2: VarvaroiIonut (small blind) folded on the River
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #252877892356: Tournament #3810805713, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/11 20:34:08 CET [2024/10/11 14:34:08 ET]
+Table '3810805713 1' 3-max Seat #2 is the button
+Seat 1: anthox01 (900 in chips) 
+Seat 2: VarvaroiIonut (490 in chips) 
+Seat 3: Mahu2021 (110 in chips) 
+Mahu2021: posts small blind 15
+anthox01: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js 4d]
+VarvaroiIonut: raises 30 to 60
+Mahu2021: calls 45
+anthox01: folds 
+*** FLOP *** [2h 7s 5c]
+Mahu2021: checks 
+VarvaroiIonut: checks 
+*** TURN *** [2h 7s 5c] [Ad]
+Mahu2021: checks 
+VarvaroiIonut: bets 30
+Mahu2021: folds 
+Uncalled bet (30) returned to VarvaroiIonut
+VarvaroiIonut collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Board [2h 7s 5c Ad]
+Seat 1: anthox01 (big blind) folded before Flop
+Seat 2: VarvaroiIonut (button) collected (150)
+Seat 3: Mahu2021 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #252877897121: Tournament #3810805713, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/11 20:34:26 CET [2024/10/11 14:34:26 ET]
+Table '3810805713 1' 3-max Seat #3 is the button
+Seat 1: anthox01 (870 in chips) 
+Seat 2: VarvaroiIonut (580 in chips) 
+Seat 3: Mahu2021 (50 in chips) 
+anthox01: posts small blind 15
+VarvaroiIonut: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h 3s]
+Mahu2021: folds 
+anthox01: calls 15
+VarvaroiIonut: checks 
+*** FLOP *** [Jd 2s 6d]
+anthox01: bets 30
+VarvaroiIonut: calls 30
+*** TURN *** [Jd 2s 6d] [4d]
+anthox01: bets 60
+VarvaroiIonut: folds 
+Uncalled bet (60) returned to anthox01
+anthox01 collected 120 from pot
+anthox01: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Jd 2s 6d 4d]
+Seat 1: anthox01 (small blind) collected (120)
+Seat 2: VarvaroiIonut (big blind) folded on the Turn
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #252877903236: Tournament #3810805713, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/11 20:34:48 CET [2024/10/11 14:34:48 ET]
+Table '3810805713 1' 3-max Seat #1 is the button
+Seat 1: anthox01 (930 in chips) 
+Seat 2: VarvaroiIonut (520 in chips) 
+Seat 3: Mahu2021 (50 in chips) 
+VarvaroiIonut: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh 5s]
+anthox01: calls 30
+VarvaroiIonut: calls 15
+Mahu2021: checks 
+*** FLOP *** [Qs 4c 7c]
+VarvaroiIonut: checks 
+Mahu2021: checks 
+anthox01: checks 
+*** TURN *** [Qs 4c 7c] [8s]
+VarvaroiIonut: checks 
+Mahu2021: checks 
+anthox01: checks 
+*** RIVER *** [Qs 4c 7c 8s] [Ad]
+VarvaroiIonut: checks 
+Mahu2021: checks 
+anthox01: bets 30
+VarvaroiIonut: folds 
+Mahu2021: folds 
+Uncalled bet (30) returned to anthox01
+anthox01 collected 90 from pot
+anthox01: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [Qs 4c 7c 8s Ad]
+Seat 1: anthox01 (button) collected (90)
+Seat 2: VarvaroiIonut (small blind) folded on the River
+Seat 3: Mahu2021 (big blind) folded on the River
+
+
+
+PokerStars Hand #252877914050: Tournament #3810805713, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/11 20:35:28 CET [2024/10/11 14:35:28 ET]
+Table '3810805713 1' 3-max Seat #2 is the button
+Seat 1: anthox01 (990 in chips) 
+Seat 2: VarvaroiIonut (490 in chips) 
+Seat 3: Mahu2021 (20 in chips) 
+Mahu2021: posts small blind 15
+anthox01: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s Qs]
+VarvaroiIonut: raises 30 to 60
+Mahu2021: calls 5 and is all-in
+anthox01: raises 930 to 990 and is all-in
+VarvaroiIonut: calls 430 and is all-in
+Uncalled bet (500) returned to anthox01
+*** FLOP *** [6h 7d 8c]
+*** TURN *** [6h 7d 8c] [5d]
+*** RIVER *** [6h 7d 8c 5d] [7h]
+*** SHOW DOWN ***
+anthox01: shows [As 4h] (a straight, Four to Eight)
+VarvaroiIonut: shows [Qd Th] (a pair of Sevens)
+anthox01 collected 940 from side pot
+Mahu2021: shows [6s Qs] (two pair, Sevens and Sixes)
+anthox01 collected 60 from main pot
+VarvaroiIonut finished the tournament in 2nd place
+Mahu2021 finished the tournament in 3rd place
+anthox01 wins the tournament and receives $6.00 - congratulations!
+*** SUMMARY ***
+Total pot 1000 Main pot 60. Side pot 940. | Rake 0 
+Board [6h 7d 8c 5d 7h]
+Seat 1: anthox01 (big blind) showed [As 4h] and won (1000) with a straight, Four to Eight
+Seat 2: VarvaroiIonut (button) showed [Qd Th] and lost with a pair of Sevens
+Seat 3: Mahu2021 (small blind) showed [6s Qs] and lost with two pair, Sevens and Sixes
+
+
+

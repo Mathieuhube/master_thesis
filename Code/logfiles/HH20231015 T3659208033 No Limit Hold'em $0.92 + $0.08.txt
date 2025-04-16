@@ -1,0 +1,1343 @@
+﻿PokerStars Hand #246542987586: Tournament #3659208033, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/10/15 9:39:40 CET [2023/10/15 3:39:40 ET]
+Table '3659208033 1' 3-max Seat #1 is the button
+Seat 1: Braszinga (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: jrsebold (500 in chips) 
+Mahu2021: posts small blind 10
+jrsebold: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h 7d]
+Braszinga: raises 30 to 50
+Mahu2021: folds 
+jrsebold: calls 30
+*** FLOP *** [3h Ac Qd]
+jrsebold: checks 
+Braszinga: bets 36
+jrsebold: folds 
+Uncalled bet (36) returned to Braszinga
+Braszinga collected 110 from pot
+Braszinga: doesn't show hand 
+*** SUMMARY ***
+Total pot 110 | Rake 0 
+Board [3h Ac Qd]
+Seat 1: Braszinga (button) collected (110)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: jrsebold (big blind) folded on the Flop
+
+
+
+PokerStars Hand #246542989513: Tournament #3659208033, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/10/15 9:39:57 CET [2023/10/15 3:39:57 ET]
+Table '3659208033 1' 3-max Seat #2 is the button
+Seat 1: Braszinga (560 in chips) 
+Seat 2: Mahu2021 (490 in chips) 
+Seat 3: jrsebold (450 in chips) 
+jrsebold: posts small blind 10
+Braszinga: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js 9d]
+Mahu2021: calls 20
+jrsebold: raises 60 to 80
+Braszinga: folds 
+Mahu2021: folds 
+Uncalled bet (60) returned to jrsebold
+jrsebold collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Braszinga (big blind) folded before Flop
+Seat 2: Mahu2021 (button) folded before Flop
+Seat 3: jrsebold (small blind) collected (60)
+
+
+
+PokerStars Hand #246542990553: Tournament #3659208033, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/10/15 9:40:06 CET [2023/10/15 3:40:06 ET]
+Table '3659208033 1' 3-max Seat #3 is the button
+Seat 1: Braszinga (540 in chips) 
+Seat 2: Mahu2021 (470 in chips) 
+Seat 3: jrsebold (490 in chips) 
+Braszinga: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s Qc]
+jrsebold: raises 20 to 40
+Braszinga: folds 
+Mahu2021: calls 20
+*** FLOP *** [2c 7h Td]
+Mahu2021: checks 
+jrsebold: bets 45
+Mahu2021: calls 45
+*** TURN *** [2c 7h Td] [8c]
+Mahu2021: checks 
+jrsebold: checks 
+*** RIVER *** [2c 7h Td 8c] [2h]
+Mahu2021: checks 
+jrsebold: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [7s Qc] (two pair, Sevens and Deuces)
+jrsebold: mucks hand 
+Mahu2021 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [2c 7h Td 8c 2h]
+Seat 1: Braszinga (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) showed [7s Qc] and won (180) with two pair, Sevens and Deuces
+Seat 3: jrsebold (button) mucked [Kc 5s]
+
+
+
+PokerStars Hand #246542992655: Tournament #3659208033, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/10/15 9:40:25 CET [2023/10/15 3:40:25 ET]
+Table '3659208033 1' 3-max Seat #1 is the button
+Seat 1: Braszinga (530 in chips) 
+Seat 2: Mahu2021 (565 in chips) 
+Seat 3: jrsebold (405 in chips) 
+Mahu2021: posts small blind 10
+jrsebold: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8s 9h]
+Braszinga: folds 
+Mahu2021: calls 10
+jrsebold: checks 
+*** FLOP *** [7s 6d 5d]
+Mahu2021: checks 
+jrsebold: bets 40
+Mahu2021: raises 40 to 80
+jrsebold: calls 40
+*** TURN *** [7s 6d 5d] [2s]
+Mahu2021: checks 
+jrsebold: bets 100
+Mahu2021: raises 365 to 465 and is all-in
+jrsebold: calls 205 and is all-in
+Uncalled bet (160) returned to Mahu2021
+*** RIVER *** [7s 6d 5d 2s] [2h]
+*** SHOW DOWN ***
+Mahu2021: shows [8s 9h] (a straight, Five to Nine)
+jrsebold: shows [6c 7c] (two pair, Sevens and Sixes)
+Mahu2021 collected 810 from pot
+jrsebold finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 810 | Rake 0 
+Board [7s 6d 5d 2s 2h]
+Seat 1: Braszinga (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) showed [8s 9h] and won (810) with a straight, Five to Nine
+Seat 3: jrsebold (big blind) showed [6c 7c] and lost with two pair, Sevens and Sixes
+
+
+
+PokerStars Hand #246542995919: Tournament #3659208033, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/10/15 9:40:54 CET [2023/10/15 3:40:54 ET]
+Table '3659208033 1' 3-max Seat #2 is the button
+Seat 1: Braszinga (530 in chips) 
+Seat 2: Mahu2021 (970 in chips) 
+Mahu2021: posts small blind 10
+Braszinga: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd Td]
+Mahu2021: raises 20 to 40
+Braszinga: calls 20
+*** FLOP *** [Kd 8c Jc]
+Braszinga: checks 
+Mahu2021: checks 
+*** TURN *** [Kd 8c Jc] [5s]
+Braszinga: bets 60
+Mahu2021: calls 60
+*** RIVER *** [Kd 8c Jc 5s] [As]
+Braszinga: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+Braszinga: shows [Kc 9c] (a pair of Kings)
+Mahu2021: mucks hand 
+Braszinga collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [Kd 8c Jc 5s As]
+Seat 1: Braszinga (big blind) showed [Kc 9c] and won (200) with a pair of Kings
+Seat 2: Mahu2021 (button) (small blind) mucked [Jd Td]
+
+
+
+PokerStars Hand #246542998199: Tournament #3659208033, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/10/15 9:41:14 CET [2023/10/15 3:41:14 ET]
+Table '3659208033 1' 3-max Seat #1 is the button
+Seat 1: Braszinga (630 in chips) 
+Seat 2: Mahu2021 (870 in chips) 
+Braszinga: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6h 8c]
+Braszinga: calls 10
+Mahu2021: checks 
+*** FLOP *** [Ah 5h Ts]
+Mahu2021: checks 
+Braszinga: bets 20
+Mahu2021: folds 
+Uncalled bet (20) returned to Braszinga
+Braszinga collected 40 from pot
+Braszinga: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Ah 5h Ts]
+Seat 1: Braszinga (button) (small blind) collected (40)
+Seat 2: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #246542999324: Tournament #3659208033, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/10/15 9:41:24 CET [2023/10/15 3:41:24 ET]
+Table '3659208033 1' 3-max Seat #2 is the button
+Seat 1: Braszinga (650 in chips) 
+Seat 2: Mahu2021 (850 in chips) 
+Mahu2021: posts small blind 10
+Braszinga: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Th 7s]
+Mahu2021: folds 
+Uncalled bet (10) returned to Braszinga
+Braszinga collected 20 from pot
+Braszinga: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Braszinga (big blind) collected (20)
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #246542999784: Tournament #3659208033, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/10/15 9:41:28 CET [2023/10/15 3:41:28 ET]
+Table '3659208033 1' 3-max Seat #1 is the button
+Seat 1: Braszinga (660 in chips) 
+Seat 2: Mahu2021 (840 in chips) 
+Braszinga: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c 2c]
+Braszinga: raises 30 to 50
+Mahu2021: folds 
+Uncalled bet (30) returned to Braszinga
+Braszinga collected 40 from pot
+Braszinga: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Braszinga (button) (small blind) collected (40)
+Seat 2: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #246543000532: Tournament #3659208033, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/10/15 9:41:35 CET [2023/10/15 3:41:35 ET]
+Table '3659208033 1' 3-max Seat #2 is the button
+Seat 1: Braszinga (680 in chips) 
+Seat 2: Mahu2021 (820 in chips) 
+Mahu2021: posts small blind 10
+Braszinga: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d 7h]
+Mahu2021: calls 10
+Braszinga: checks 
+*** FLOP *** [6c 2h 5c]
+Braszinga: checks 
+Mahu2021: bets 20
+Braszinga: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [6c 2h 5c]
+Seat 1: Braszinga (big blind) folded on the Flop
+Seat 2: Mahu2021 (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #246543002084: Tournament #3659208033, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/10/15 9:41:49 CET [2023/10/15 3:41:49 ET]
+Table '3659208033 1' 3-max Seat #1 is the button
+Seat 1: Braszinga (660 in chips) 
+Seat 2: Mahu2021 (840 in chips) 
+Braszinga: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h Js]
+Braszinga: calls 10
+Mahu2021: checks 
+*** FLOP *** [4h Kc As]
+Mahu2021: checks 
+Braszinga: checks 
+*** TURN *** [4h Kc As] [2c]
+Mahu2021: bets 20
+Braszinga: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [4h Kc As 2c]
+Seat 1: Braszinga (button) (small blind) folded on the Turn
+Seat 2: Mahu2021 (big blind) collected (40)
+
+
+
+PokerStars Hand #246543003796: Tournament #3659208033, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/10/15 9:42:04 CET [2023/10/15 3:42:04 ET]
+Table '3659208033 1' 3-max Seat #2 is the button
+Seat 1: Braszinga (640 in chips) 
+Seat 2: Mahu2021 (860 in chips) 
+Mahu2021: posts small blind 10
+Braszinga: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Td 3d]
+Mahu2021: calls 10
+Braszinga: checks 
+*** FLOP *** [Js 4h 8c]
+Braszinga: checks 
+Mahu2021: bets 20
+Braszinga: calls 20
+*** TURN *** [Js 4h 8c] [9c]
+Braszinga: checks 
+Mahu2021: bets 80
+Braszinga: calls 80
+*** RIVER *** [Js 4h 8c 9c] [Ts]
+Braszinga: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+Braszinga: shows [6d Jd] (a pair of Jacks)
+Mahu2021: mucks hand 
+Braszinga collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Js 4h 8c 9c Ts]
+Seat 1: Braszinga (big blind) showed [6d Jd] and won (240) with a pair of Jacks
+Seat 2: Mahu2021 (button) (small blind) mucked [Td 3d]
+
+
+
+PokerStars Hand #246543006003: Tournament #3659208033, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/10/15 9:42:23 CET [2023/10/15 3:42:23 ET]
+Table '3659208033 1' 3-max Seat #1 is the button
+Seat 1: Braszinga (760 in chips) 
+Seat 2: Mahu2021 (740 in chips) 
+Braszinga: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5h 5c]
+Braszinga: calls 10
+Mahu2021: checks 
+*** FLOP *** [Kc 4s Jd]
+Mahu2021: checks 
+Braszinga: checks 
+*** TURN *** [Kc 4s Jd] [Js]
+Mahu2021: checks 
+Braszinga: checks 
+*** RIVER *** [Kc 4s Jd Js] [Tc]
+Mahu2021: checks 
+Braszinga: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [5h 5c] (two pair, Jacks and Fives)
+Braszinga: mucks hand 
+Mahu2021 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Kc 4s Jd Js Tc]
+Seat 1: Braszinga (button) (small blind) mucked [9c 6h]
+Seat 2: Mahu2021 (big blind) showed [5h 5c] and won (40) with two pair, Jacks and Fives
+
+
+
+PokerStars Hand #246543007831: Tournament #3659208033, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/10/15 9:42:40 CET [2023/10/15 3:42:40 ET]
+Table '3659208033 1' 3-max Seat #2 is the button
+Seat 1: Braszinga (740 in chips) 
+Seat 2: Mahu2021 (760 in chips) 
+Mahu2021: posts small blind 10
+Braszinga: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc 2s]
+Mahu2021: folds 
+Uncalled bet (10) returned to Braszinga
+Braszinga collected 20 from pot
+Braszinga: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Braszinga (big blind) collected (20)
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #246543008665: Tournament #3659208033, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/10/15 9:42:47 CET [2023/10/15 3:42:47 ET]
+Table '3659208033 1' 3-max Seat #1 is the button
+Seat 1: Braszinga (750 in chips) 
+Seat 2: Mahu2021 (750 in chips) 
+Braszinga: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d Kd]
+Braszinga: raises 30 to 60
+Mahu2021: calls 30
+*** FLOP *** [4c Qd Jh]
+Mahu2021: checks 
+Braszinga: bets 60
+Mahu2021: calls 60
+*** TURN *** [4c Qd Jh] [Jc]
+Mahu2021: checks 
+Braszinga: bets 120
+Mahu2021: folds 
+Uncalled bet (120) returned to Braszinga
+Braszinga collected 240 from pot
+Braszinga: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [4c Qd Jh Jc]
+Seat 1: Braszinga (button) (small blind) collected (240)
+Seat 2: Mahu2021 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #246543010854: Tournament #3659208033, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/10/15 9:43:07 CET [2023/10/15 3:43:07 ET]
+Table '3659208033 1' 3-max Seat #2 is the button
+Seat 1: Braszinga (870 in chips) 
+Seat 2: Mahu2021 (630 in chips) 
+Mahu2021: posts small blind 15
+Braszinga: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qd 9c]
+Mahu2021: raises 30 to 60
+Braszinga: calls 30
+*** FLOP *** [Jd 3c Jc]
+Braszinga: checks 
+Mahu2021: checks 
+*** TURN *** [Jd 3c Jc] [2s]
+Braszinga: checks 
+Mahu2021: checks 
+*** RIVER *** [Jd 3c Jc 2s] [Qc]
+Braszinga: checks 
+Mahu2021: bets 120
+Braszinga: folds 
+Uncalled bet (120) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Jd 3c Jc 2s Qc]
+Seat 1: Braszinga (big blind) folded on the River
+Seat 2: Mahu2021 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #246543012665: Tournament #3659208033, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/10/15 9:43:23 CET [2023/10/15 3:43:23 ET]
+Table '3659208033 1' 3-max Seat #1 is the button
+Seat 1: Braszinga (810 in chips) 
+Seat 2: Mahu2021 (690 in chips) 
+Braszinga: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c 2h]
+Braszinga: calls 15
+Mahu2021: checks 
+*** FLOP *** [Jd Js 3c]
+Mahu2021: checks 
+Braszinga: bets 30
+Mahu2021: folds 
+Uncalled bet (30) returned to Braszinga
+Braszinga collected 60 from pot
+Braszinga: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Jd Js 3c]
+Seat 1: Braszinga (button) (small blind) collected (60)
+Seat 2: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #246543013819: Tournament #3659208033, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/10/15 9:43:33 CET [2023/10/15 3:43:33 ET]
+Table '3659208033 1' 3-max Seat #2 is the button
+Seat 1: Braszinga (840 in chips) 
+Seat 2: Mahu2021 (660 in chips) 
+Mahu2021: posts small blind 15
+Braszinga: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh Jd]
+Mahu2021: raises 30 to 60
+Braszinga: calls 30
+*** FLOP *** [5h Qc Ah]
+Braszinga: checks 
+Mahu2021: checks 
+*** TURN *** [5h Qc Ah] [Kh]
+Braszinga: checks 
+Mahu2021: checks 
+*** RIVER *** [5h Qc Ah Kh] [Kd]
+Braszinga: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+Braszinga: shows [8h 7c] (a pair of Kings)
+Mahu2021: shows [Jh Jd] (two pair, Kings and Jacks)
+Mahu2021 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [5h Qc Ah Kh Kd]
+Seat 1: Braszinga (big blind) showed [8h 7c] and lost with a pair of Kings
+Seat 2: Mahu2021 (button) (small blind) showed [Jh Jd] and won (120) with two pair, Kings and Jacks
+
+
+
+PokerStars Hand #246543016076: Tournament #3659208033, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/10/15 9:43:53 CET [2023/10/15 3:43:53 ET]
+Table '3659208033 1' 3-max Seat #1 is the button
+Seat 1: Braszinga (780 in chips) 
+Seat 2: Mahu2021 (720 in chips) 
+Braszinga: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kc 4s]
+Braszinga: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Braszinga (button) (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (30)
+
+
+
+PokerStars Hand #246543017403: Tournament #3659208033, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/10/15 9:44:05 CET [2023/10/15 3:44:05 ET]
+Table '3659208033 1' 3-max Seat #2 is the button
+Seat 1: Braszinga (765 in chips) 
+Seat 2: Mahu2021 (735 in chips) 
+Mahu2021: posts small blind 15
+Braszinga: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s Ac]
+Mahu2021: calls 15
+Braszinga: checks 
+*** FLOP *** [Qc 5h Th]
+Braszinga: checks 
+Mahu2021: checks 
+*** TURN *** [Qc 5h Th] [Qd]
+Braszinga: checks 
+Mahu2021: checks 
+*** RIVER *** [Qc 5h Th Qd] [7d]
+Braszinga: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+Braszinga: shows [2c 7h] (two pair, Queens and Sevens)
+Mahu2021: mucks hand 
+Braszinga collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Qc 5h Th Qd 7d]
+Seat 1: Braszinga (big blind) showed [2c 7h] and won (60) with two pair, Queens and Sevens
+Seat 2: Mahu2021 (button) (small blind) mucked [3s Ac]
+
+
+
+PokerStars Hand #246543019298: Tournament #3659208033, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/10/15 9:44:21 CET [2023/10/15 3:44:21 ET]
+Table '3659208033 1' 3-max Seat #1 is the button
+Seat 1: Braszinga (795 in chips) 
+Seat 2: Mahu2021 (705 in chips) 
+Braszinga: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8d 6h]
+Braszinga: calls 15
+Mahu2021: checks 
+*** FLOP *** [4c 9h Ac]
+Mahu2021: checks 
+Braszinga: checks 
+*** TURN *** [4c 9h Ac] [4d]
+Mahu2021: bets 30
+Braszinga: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [4c 9h Ac 4d]
+Seat 1: Braszinga (button) (small blind) folded on the Turn
+Seat 2: Mahu2021 (big blind) collected (60)
+
+
+
+PokerStars Hand #246543021944: Tournament #3659208033, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/10/15 9:44:45 CET [2023/10/15 3:44:45 ET]
+Table '3659208033 1' 3-max Seat #2 is the button
+Seat 1: Braszinga (765 in chips) 
+Seat 2: Mahu2021 (735 in chips) 
+Mahu2021: posts small blind 15
+Braszinga: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d 6d]
+Mahu2021: calls 15
+Braszinga: checks 
+*** FLOP *** [6h Ah 2c]
+Braszinga: checks 
+Mahu2021: bets 30
+Braszinga: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [6h Ah 2c]
+Seat 1: Braszinga (big blind) folded on the Flop
+Seat 2: Mahu2021 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #246543023200: Tournament #3659208033, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/10/15 9:44:55 CET [2023/10/15 3:44:55 ET]
+Table '3659208033 1' 3-max Seat #1 is the button
+Seat 1: Braszinga (735 in chips) 
+Seat 2: Mahu2021 (765 in chips) 
+Braszinga: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c Qh]
+Braszinga: raises 30 to 60
+Mahu2021: folds 
+Uncalled bet (30) returned to Braszinga
+Braszinga collected 60 from pot
+Braszinga: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Braszinga (button) (small blind) collected (60)
+Seat 2: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #246543023807: Tournament #3659208033, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/10/15 9:45:01 CET [2023/10/15 3:45:01 ET]
+Table '3659208033 1' 3-max Seat #2 is the button
+Seat 1: Braszinga (765 in chips) 
+Seat 2: Mahu2021 (735 in chips) 
+Mahu2021: posts small blind 15
+Braszinga: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c 9d]
+Mahu2021: calls 15
+Braszinga: raises 45 to 75
+Mahu2021: folds 
+Uncalled bet (45) returned to Braszinga
+Braszinga collected 60 from pot
+Braszinga: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Braszinga (big blind) collected (60)
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #246543024726: Tournament #3659208033, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/10/15 9:45:09 CET [2023/10/15 3:45:09 ET]
+Table '3659208033 1' 3-max Seat #1 is the button
+Seat 1: Braszinga (795 in chips) 
+Seat 2: Mahu2021 (705 in chips) 
+Braszinga: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As 9s]
+Braszinga: raises 30 to 60
+Mahu2021: calls 30
+*** FLOP *** [7d Ks 8c]
+Mahu2021: checks 
+Braszinga: checks 
+*** TURN *** [7d Ks 8c] [7h]
+Mahu2021: checks 
+Braszinga: checks 
+*** RIVER *** [7d Ks 8c 7h] [4s]
+Mahu2021: bets 60
+Braszinga: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [7d Ks 8c 7h 4s]
+Seat 1: Braszinga (button) (small blind) folded on the River
+Seat 2: Mahu2021 (big blind) collected (120)
+
+
+
+PokerStars Hand #246543027026: Tournament #3659208033, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/10/15 9:45:29 CET [2023/10/15 3:45:29 ET]
+Table '3659208033 1' 3-max Seat #2 is the button
+Seat 1: Braszinga (735 in chips) 
+Seat 2: Mahu2021 (765 in chips) 
+Mahu2021: posts small blind 15
+Braszinga: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js Th]
+Mahu2021: raises 30 to 60
+Braszinga: folds [Kc]
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Braszinga (big blind) folded before Flop
+Seat 2: Mahu2021 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #246543029369: Tournament #3659208033, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/10/15 9:45:50 CET [2023/10/15 3:45:50 ET]
+Table '3659208033 1' 3-max Seat #1 is the button
+Seat 1: Braszinga (705 in chips) 
+Seat 2: Mahu2021 (795 in chips) 
+Braszinga: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qs 2s]
+Braszinga: raises 40 to 80
+Mahu2021: calls 40
+*** FLOP *** [4s 8c 5c]
+Mahu2021: checks 
+Braszinga: bets 53
+Mahu2021: folds 
+Uncalled bet (53) returned to Braszinga
+Braszinga collected 160 from pot
+Braszinga: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [4s 8c 5c]
+Seat 1: Braszinga (button) (small blind) collected (160)
+Seat 2: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #246543030646: Tournament #3659208033, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/10/15 9:46:00 CET [2023/10/15 3:46:00 ET]
+Table '3659208033 1' 3-max Seat #2 is the button
+Seat 1: Braszinga (785 in chips) 
+Seat 2: Mahu2021 (715 in chips) 
+Mahu2021: posts small blind 20
+Braszinga: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c 8d]
+Mahu2021: folds 
+Uncalled bet (20) returned to Braszinga
+Braszinga collected 40 from pot
+Braszinga: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Braszinga (big blind) collected (40)
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #246543031149: Tournament #3659208033, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/10/15 9:46:04 CET [2023/10/15 3:46:04 ET]
+Table '3659208033 1' 3-max Seat #1 is the button
+Seat 1: Braszinga (805 in chips) 
+Seat 2: Mahu2021 (695 in chips) 
+Braszinga: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc 8d]
+Braszinga: calls 20
+Mahu2021: checks 
+*** FLOP *** [4c Jh Th]
+Mahu2021: bets 40
+Braszinga: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [4c Jh Th]
+Seat 1: Braszinga (button) (small blind) folded on the Flop
+Seat 2: Mahu2021 (big blind) collected (80)
+
+
+
+PokerStars Hand #246543032242: Tournament #3659208033, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/10/15 9:46:14 CET [2023/10/15 3:46:14 ET]
+Table '3659208033 1' 3-max Seat #2 is the button
+Seat 1: Braszinga (765 in chips) 
+Seat 2: Mahu2021 (735 in chips) 
+Mahu2021: posts small blind 20
+Braszinga: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d Kh]
+Mahu2021: calls 20
+Braszinga: checks 
+*** FLOP *** [9s Qs As]
+Braszinga: checks 
+Mahu2021: bets 40
+Braszinga: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [9s Qs As]
+Seat 1: Braszinga (big blind) folded on the Flop
+Seat 2: Mahu2021 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #246543033511: Tournament #3659208033, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/10/15 9:46:25 CET [2023/10/15 3:46:25 ET]
+Table '3659208033 1' 3-max Seat #1 is the button
+Seat 1: Braszinga (725 in chips) 
+Seat 2: Mahu2021 (775 in chips) 
+Braszinga: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s Jd]
+Braszinga: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Braszinga (button) (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (40)
+
+
+
+PokerStars Hand #246543034017: Tournament #3659208033, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/10/15 9:46:29 CET [2023/10/15 3:46:29 ET]
+Table '3659208033 1' 3-max Seat #2 is the button
+Seat 1: Braszinga (705 in chips) 
+Seat 2: Mahu2021 (795 in chips) 
+Mahu2021: posts small blind 20
+Braszinga: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3c 2h]
+Mahu2021: calls 20
+Braszinga: raises 665 to 705 and is all-in
+Mahu2021: folds 
+Uncalled bet (665) returned to Braszinga
+Braszinga collected 80 from pot
+Braszinga: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Braszinga (big blind) collected (80)
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #246543034913: Tournament #3659208033, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/10/15 9:46:37 CET [2023/10/15 3:46:37 ET]
+Table '3659208033 1' 3-max Seat #1 is the button
+Seat 1: Braszinga (745 in chips) 
+Seat 2: Mahu2021 (755 in chips) 
+Braszinga: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s 4d]
+Braszinga: calls 20
+Mahu2021: checks 
+*** FLOP *** [4h Kd 6h]
+Mahu2021: checks 
+Braszinga: bets 40
+Mahu2021: calls 40
+*** TURN *** [4h Kd 6h] [2d]
+Mahu2021: checks 
+Braszinga: checks 
+*** RIVER *** [4h Kd 6h 2d] [As]
+Mahu2021: bets 120
+Braszinga: folds 
+Uncalled bet (120) returned to Mahu2021
+Mahu2021 collected 160 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [4h Kd 6h 2d As]
+Seat 1: Braszinga (button) (small blind) folded on the River
+Seat 2: Mahu2021 (big blind) collected (160)
+
+
+
+PokerStars Hand #246543036707: Tournament #3659208033, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/10/15 9:46:53 CET [2023/10/15 3:46:53 ET]
+Table '3659208033 1' 3-max Seat #2 is the button
+Seat 1: Braszinga (665 in chips) 
+Seat 2: Mahu2021 (835 in chips) 
+Mahu2021: posts small blind 20
+Braszinga: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d 9h]
+Mahu2021: raises 795 to 835 and is all-in
+Braszinga: folds 
+Uncalled bet (795) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Braszinga (big blind) folded before Flop
+Seat 2: Mahu2021 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #246543037429: Tournament #3659208033, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/10/15 9:46:59 CET [2023/10/15 3:46:59 ET]
+Table '3659208033 1' 3-max Seat #1 is the button
+Seat 1: Braszinga (625 in chips) 
+Seat 2: Mahu2021 (875 in chips) 
+Braszinga: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qs 3c]
+Braszinga: calls 20
+Mahu2021: checks 
+*** FLOP *** [6c 7d 7s]
+Mahu2021: checks 
+Braszinga: bets 40
+Mahu2021: folds 
+Uncalled bet (40) returned to Braszinga
+Braszinga collected 80 from pot
+Braszinga: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [6c 7d 7s]
+Seat 1: Braszinga (button) (small blind) collected (80)
+Seat 2: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #246543038497: Tournament #3659208033, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/10/15 9:47:08 CET [2023/10/15 3:47:08 ET]
+Table '3659208033 1' 3-max Seat #2 is the button
+Seat 1: Braszinga (665 in chips) 
+Seat 2: Mahu2021 (835 in chips) 
+Mahu2021: posts small blind 20
+Braszinga: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Td 7c]
+Mahu2021: calls 20
+Braszinga: checks 
+*** FLOP *** [2c 2d 4d]
+Braszinga: checks 
+Mahu2021: checks 
+*** TURN *** [2c 2d 4d] [4c]
+Braszinga: checks 
+Mahu2021: checks 
+*** RIVER *** [2c 2d 4d 4c] [As]
+Braszinga: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+Braszinga: shows [5c 8c] (two pair, Fours and Deuces)
+Mahu2021: shows [Td 7c] (two pair, Fours and Deuces)
+Braszinga collected 40 from pot
+Mahu2021 collected 40 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [2c 2d 4d 4c As]
+Seat 1: Braszinga (big blind) showed [5c 8c] and won (40) with two pair, Fours and Deuces
+Seat 2: Mahu2021 (button) (small blind) showed [Td 7c] and won (40) with two pair, Fours and Deuces
+
+
+
+PokerStars Hand #246543040045: Tournament #3659208033, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/10/15 9:47:21 CET [2023/10/15 3:47:21 ET]
+Table '3659208033 1' 3-max Seat #1 is the button
+Seat 1: Braszinga (665 in chips) 
+Seat 2: Mahu2021 (835 in chips) 
+Braszinga: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s 9h]
+Braszinga: raises 40 to 80
+Mahu2021: folds 
+Uncalled bet (40) returned to Braszinga
+Braszinga collected 80 from pot
+Braszinga: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Braszinga (button) (small blind) collected (80)
+Seat 2: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #246543040652: Tournament #3659208033, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/10/15 9:47:26 CET [2023/10/15 3:47:26 ET]
+Table '3659208033 1' 3-max Seat #2 is the button
+Seat 1: Braszinga (705 in chips) 
+Seat 2: Mahu2021 (795 in chips) 
+Mahu2021: posts small blind 20
+Braszinga: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2s 4c]
+Mahu2021: folds 
+Uncalled bet (20) returned to Braszinga
+Braszinga collected 40 from pot
+Braszinga: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Braszinga (big blind) collected (40)
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #246543041159: Tournament #3659208033, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/10/15 9:47:30 CET [2023/10/15 3:47:30 ET]
+Table '3659208033 1' 3-max Seat #1 is the button
+Seat 1: Braszinga (725 in chips) 
+Seat 2: Mahu2021 (775 in chips) 
+Braszinga: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h Qc]
+Braszinga: calls 20
+Mahu2021: checks 
+*** FLOP *** [4s 2d 6d]
+Mahu2021: checks 
+Braszinga: bets 60
+Mahu2021: folds 
+Uncalled bet (60) returned to Braszinga
+Braszinga collected 80 from pot
+Braszinga: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [4s 2d 6d]
+Seat 1: Braszinga (button) (small blind) collected (80)
+Seat 2: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #246543043745: Tournament #3659208033, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/10/15 9:47:53 CET [2023/10/15 3:47:53 ET]
+Table '3659208033 1' 3-max Seat #2 is the button
+Seat 1: Braszinga (765 in chips) 
+Seat 2: Mahu2021 (735 in chips) 
+Mahu2021: posts small blind 20
+Braszinga: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6h Qd]
+Mahu2021: calls 20
+Braszinga: checks 
+*** FLOP *** [9d 8c 3s]
+Braszinga: checks 
+Mahu2021: bets 40
+Braszinga: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [9d 8c 3s]
+Seat 1: Braszinga (big blind) folded on the Flop
+Seat 2: Mahu2021 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #246543044989: Tournament #3659208033, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/10/15 9:48:04 CET [2023/10/15 3:48:04 ET]
+Table '3659208033 1' 3-max Seat #1 is the button
+Seat 1: Braszinga (725 in chips) 
+Seat 2: Mahu2021 (775 in chips) 
+Braszinga: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As Ah]
+Braszinga: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Braszinga (button) (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (40)
+
+
+
+PokerStars Hand #246543045504: Tournament #3659208033, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/10/15 9:48:08 CET [2023/10/15 3:48:08 ET]
+Table '3659208033 1' 3-max Seat #2 is the button
+Seat 1: Braszinga (705 in chips) 
+Seat 2: Mahu2021 (795 in chips) 
+Mahu2021: posts small blind 20
+Braszinga: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s 8s]
+Mahu2021: calls 20
+Braszinga: raises 665 to 705 and is all-in
+Mahu2021: folds 
+Uncalled bet (665) returned to Braszinga
+Braszinga collected 80 from pot
+Braszinga: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Braszinga (big blind) collected (80)
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #246543046434: Tournament #3659208033, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/10/15 9:48:16 CET [2023/10/15 3:48:16 ET]
+Table '3659208033 1' 3-max Seat #1 is the button
+Seat 1: Braszinga (745 in chips) 
+Seat 2: Mahu2021 (755 in chips) 
+Braszinga: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh 8s]
+Braszinga: calls 20
+Mahu2021: checks 
+*** FLOP *** [Js 5d Qs]
+Mahu2021: checks 
+Braszinga: bets 60
+Mahu2021: calls 60
+*** TURN *** [Js 5d Qs] [9h]
+Mahu2021: checks 
+Braszinga: bets 120
+Mahu2021: calls 120
+*** RIVER *** [Js 5d Qs 9h] [4d]
+Mahu2021: checks 
+Braszinga: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [Jh 8s] (a pair of Jacks)
+Braszinga: mucks hand 
+Mahu2021 collected 440 from pot
+*** SUMMARY ***
+Total pot 440 | Rake 0 
+Board [Js 5d Qs 9h 4d]
+Seat 1: Braszinga (button) (small blind) mucked [6d 3d]
+Seat 2: Mahu2021 (big blind) showed [Jh 8s] and won (440) with a pair of Jacks
+
+
+
+PokerStars Hand #246543048388: Tournament #3659208033, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/10/15 9:48:33 CET [2023/10/15 3:48:33 ET]
+Table '3659208033 1' 3-max Seat #2 is the button
+Seat 1: Braszinga (525 in chips) 
+Seat 2: Mahu2021 (975 in chips) 
+Mahu2021: posts small blind 20
+Braszinga: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s 9s]
+Mahu2021: raises 40 to 80
+Braszinga: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Braszinga (big blind) folded before Flop
+Seat 2: Mahu2021 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #246543049006: Tournament #3659208033, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/10/15 9:48:39 CET [2023/10/15 3:48:39 ET]
+Table '3659208033 1' 3-max Seat #1 is the button
+Seat 1: Braszinga (485 in chips) 
+Seat 2: Mahu2021 (1015 in chips) 
+Braszinga: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h Qc]
+Braszinga: calls 20
+Mahu2021: checks 
+*** FLOP *** [Qs 7d 6s]
+Mahu2021: bets 40
+Braszinga: calls 40
+*** TURN *** [Qs 7d 6s] [Kh]
+Mahu2021: checks 
+Braszinga: checks 
+*** RIVER *** [Qs 7d 6s Kh] [9d]
+Mahu2021: checks 
+Braszinga: bets 216
+Mahu2021: folds 
+Uncalled bet (216) returned to Braszinga
+Braszinga collected 160 from pot
+Braszinga: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Qs 7d 6s Kh 9d]
+Seat 1: Braszinga (button) (small blind) collected (160)
+Seat 2: Mahu2021 (big blind) folded on the River
+
+
+
+PokerStars Hand #246543051192: Tournament #3659208033, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/10/15 9:48:58 CET [2023/10/15 3:48:58 ET]
+Table '3659208033 1' 3-max Seat #2 is the button
+Seat 1: Braszinga (565 in chips) 
+Seat 2: Mahu2021 (935 in chips) 
+Mahu2021: posts small blind 30
+Braszinga: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks 5h]
+Mahu2021: calls 30
+Braszinga: checks 
+*** FLOP *** [7c 5c Td]
+Braszinga: checks 
+Mahu2021: checks 
+*** TURN *** [7c 5c Td] [7h]
+Braszinga: checks 
+Mahu2021: checks 
+*** RIVER *** [7c 5c Td 7h] [3s]
+Braszinga: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+Braszinga: shows [4d 9d] (a pair of Sevens)
+Mahu2021: shows [Ks 5h] (two pair, Sevens and Fives)
+Mahu2021 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [7c 5c Td 7h 3s]
+Seat 1: Braszinga (big blind) showed [4d 9d] and lost with a pair of Sevens
+Seat 2: Mahu2021 (button) (small blind) showed [Ks 5h] and won (120) with two pair, Sevens and Fives
+
+
+
+PokerStars Hand #246543053055: Tournament #3659208033, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/10/15 9:49:15 CET [2023/10/15 3:49:15 ET]
+Table '3659208033 1' 3-max Seat #1 is the button
+Seat 1: Braszinga (505 in chips) 
+Seat 2: Mahu2021 (995 in chips) 
+Braszinga: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts 2s]
+Braszinga: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Braszinga (button) (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (60)
+
+
+
+PokerStars Hand #246543053603: Tournament #3659208033, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/10/15 9:49:19 CET [2023/10/15 3:49:19 ET]
+Table '3659208033 1' 3-max Seat #2 is the button
+Seat 1: Braszinga (475 in chips) 
+Seat 2: Mahu2021 (1025 in chips) 
+Mahu2021: posts small blind 30
+Braszinga: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4c 2d]
+Mahu2021: calls 30
+Braszinga: checks 
+*** FLOP *** [5d Kh 4d]
+Braszinga: checks 
+Mahu2021: bets 60
+Braszinga: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [5d Kh 4d]
+Seat 1: Braszinga (big blind) folded on the Flop
+Seat 2: Mahu2021 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #246543054836: Tournament #3659208033, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/10/15 9:49:30 CET [2023/10/15 3:49:30 ET]
+Table '3659208033 1' 3-max Seat #1 is the button
+Seat 1: Braszinga (415 in chips) 
+Seat 2: Mahu2021 (1085 in chips) 
+Braszinga: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6h 8h]
+Braszinga: raises 355 to 415 and is all-in
+Mahu2021: folds 
+Uncalled bet (355) returned to Braszinga
+Braszinga collected 120 from pot
+Braszinga: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: Braszinga (button) (small blind) collected (120)
+Seat 2: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #246543055619: Tournament #3659208033, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/10/15 9:49:36 CET [2023/10/15 3:49:36 ET]
+Table '3659208033 1' 3-max Seat #2 is the button
+Seat 1: Braszinga (475 in chips) 
+Seat 2: Mahu2021 (1025 in chips) 
+Mahu2021: posts small blind 30
+Braszinga: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s 7c]
+Mahu2021: raises 965 to 1025 and is all-in
+Braszinga: folds 
+Uncalled bet (965) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: Braszinga (big blind) folded before Flop
+Seat 2: Mahu2021 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #246543056332: Tournament #3659208033, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/10/15 9:49:42 CET [2023/10/15 3:49:42 ET]
+Table '3659208033 1' 3-max Seat #1 is the button
+Seat 1: Braszinga (415 in chips) 
+Seat 2: Mahu2021 (1085 in chips) 
+Braszinga: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4d 5s]
+Braszinga: raises 355 to 415 and is all-in
+Mahu2021: folds 
+Uncalled bet (355) returned to Braszinga
+Braszinga collected 120 from pot
+Braszinga: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: Braszinga (button) (small blind) collected (120)
+Seat 2: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #246543057016: Tournament #3659208033, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/10/15 9:49:48 CET [2023/10/15 3:49:48 ET]
+Table '3659208033 1' 3-max Seat #2 is the button
+Seat 1: Braszinga (475 in chips) 
+Seat 2: Mahu2021 (1025 in chips) 
+Mahu2021: posts small blind 30
+Braszinga: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d 2h]
+Mahu2021: raises 965 to 1025 and is all-in
+Braszinga: folds 
+Uncalled bet (965) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: Braszinga (big blind) folded before Flop
+Seat 2: Mahu2021 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #246543057654: Tournament #3659208033, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/10/15 9:49:54 CET [2023/10/15 3:49:54 ET]
+Table '3659208033 1' 3-max Seat #1 is the button
+Seat 1: Braszinga (415 in chips) 
+Seat 2: Mahu2021 (1085 in chips) 
+Braszinga: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2s Kc]
+Braszinga: raises 355 to 415 and is all-in
+Mahu2021: folds 
+Uncalled bet (355) returned to Braszinga
+Braszinga collected 120 from pot
+Braszinga: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: Braszinga (button) (small blind) collected (120)
+Seat 2: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #246543058322: Tournament #3659208033, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/10/15 9:50:00 CET [2023/10/15 3:50:00 ET]
+Table '3659208033 1' 3-max Seat #2 is the button
+Seat 1: Braszinga (475 in chips) 
+Seat 2: Mahu2021 (1025 in chips) 
+Mahu2021: posts small blind 30
+Braszinga: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c 5c]
+Mahu2021: calls 30
+Braszinga: checks 
+*** FLOP *** [6c Qh 2h]
+Braszinga: bets 60
+Mahu2021: folds 
+Uncalled bet (60) returned to Braszinga
+Braszinga collected 120 from pot
+Braszinga: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [6c Qh 2h]
+Seat 1: Braszinga (big blind) collected (120)
+Seat 2: Mahu2021 (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #246543059340: Tournament #3659208033, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/10/15 9:50:09 CET [2023/10/15 3:50:09 ET]
+Table '3659208033 1' 3-max Seat #1 is the button
+Seat 1: Braszinga (535 in chips) 
+Seat 2: Mahu2021 (965 in chips) 
+Braszinga: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s 9h]
+Braszinga: raises 475 to 535 and is all-in
+Mahu2021: calls 475
+*** FLOP *** [Kh Qd 2c]
+*** TURN *** [Kh Qd 2c] [Th]
+*** RIVER *** [Kh Qd 2c Th] [7s]
+*** SHOW DOWN ***
+Mahu2021: shows [9s 9h] (a pair of Nines)
+Braszinga: shows [3s As] (high card Ace)
+Mahu2021 collected 1070 from pot
+Braszinga finished the tournament in 2nd place
+Mahu2021 wins the tournament and receives $3.00 - congratulations!
+*** SUMMARY ***
+Total pot 1070 | Rake 0 
+Board [Kh Qd 2c Th 7s]
+Seat 1: Braszinga (button) (small blind) showed [3s As] and lost with high card Ace
+Seat 2: Mahu2021 (big blind) showed [9s 9h] and won (1070) with a pair of Nines
+
+
+

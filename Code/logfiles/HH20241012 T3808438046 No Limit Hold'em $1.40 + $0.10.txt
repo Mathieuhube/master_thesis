@@ -1,0 +1,54 @@
+﻿PokerStars Hand #252892346868: Tournament #3808438046, $1.40+$0.10 USD Hold'em No Limit - Level I (50/100) - 2024/10/12 19:04:48 CET [2024/10/12 13:04:48 ET]
+Table '3808438046 4' 8-max Seat #1 is the button
+Seat 1: TotallyWired (10000 in chips) 
+Seat 2: Aaran22 (10000 in chips) 
+Seat 3: Mahu2021 (10000 in chips) 
+Seat 4: HerrBasttian (10000 in chips) 
+Seat 5: Baia1977 (10000 in chips) is sitting out
+Seat 6: Rusyabest (10000 in chips) 
+Seat 7: dentaa (10000 in chips) 
+Seat 8: Liunas99 (10000 in chips) 
+TotallyWired: posts the ante 10
+Aaran22: posts the ante 10
+Mahu2021: posts the ante 10
+HerrBasttian: posts the ante 10
+Baia1977: posts the ante 10
+Rusyabest: posts the ante 10
+dentaa: posts the ante 10
+Liunas99: posts the ante 10
+Aaran22: posts small blind 50
+Mahu2021: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac As]
+HerrBasttian: folds 
+Baia1977: folds 
+Rusyabest: calls 100
+dentaa: folds 
+Liunas99: raises 430 to 530
+TotallyWired: folds 
+Aaran22: folds 
+Mahu2021: raises 9460 to 9990 and is all-in
+Rusyabest: folds 
+Liunas99: calls 9460 and is all-in
+*** FLOP *** [4d 6h 9d]
+*** TURN *** [4d 6h 9d] [8s]
+*** RIVER *** [4d 6h 9d 8s] [5s]
+*** SHOW DOWN ***
+Mahu2021: shows [Ac As] (a pair of Aces)
+Liunas99: shows [9s 9c] (three of a kind, Nines)
+Liunas99 collected 20210 from pot
+Mahu2021 finished the tournament
+*** SUMMARY ***
+Total pot 20210 | Rake 0 
+Board [4d 6h 9d 8s 5s]
+Seat 1: TotallyWired (button) folded before Flop (didn't bet)
+Seat 2: Aaran22 (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) showed [Ac As] and lost with a pair of Aces
+Seat 4: HerrBasttian folded before Flop (didn't bet)
+Seat 5: Baia1977 folded before Flop (didn't bet)
+Seat 6: Rusyabest folded before Flop
+Seat 7: dentaa folded before Flop (didn't bet)
+Seat 8: Liunas99 showed [9s 9c] and won (20210) with three of a kind, Nines
+
+
+

@@ -1,0 +1,981 @@
+﻿PokerStars Hand #248406220966: Tournament #3704206048, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/21 9:46:50 CET [2024/01/21 3:46:50 ET]
+Table '3704206048 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: shustrickAS (500 in chips) 
+Seat 3: Reen-Play (500 in chips) 
+shustrickAS: posts small blind 10
+Reen-Play: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6h Kd]
+Mahu2021: folds 
+shustrickAS: calls 10
+Reen-Play: checks 
+*** FLOP *** [8s 4d 3h]
+shustrickAS: checks 
+Reen-Play: bets 20
+shustrickAS: calls 20
+*** TURN *** [8s 4d 3h] [9c]
+shustrickAS: checks 
+Reen-Play: checks 
+*** RIVER *** [8s 4d 3h 9c] [2s]
+shustrickAS: checks 
+Reen-Play: checks 
+*** SHOW DOWN ***
+shustrickAS: shows [Th Kc] (high card King)
+Reen-Play: shows [5c 3c] (a pair of Threes)
+Reen-Play collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [8s 4d 3h 9c 2s]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: shustrickAS (small blind) showed [Th Kc] and lost with high card King
+Seat 3: Reen-Play (big blind) showed [5c 3c] and won (80) with a pair of Threes
+
+
+
+PokerStars Hand #248406224698: Tournament #3704206048, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/21 9:47:20 CET [2024/01/21 3:47:20 ET]
+Table '3704206048 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: shustrickAS (460 in chips) 
+Seat 3: Reen-Play (540 in chips) 
+Reen-Play: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d Kc]
+shustrickAS: folds 
+Reen-Play: calls 10
+Mahu2021: checks 
+*** FLOP *** [8s 3c 9d]
+Reen-Play: checks 
+Mahu2021: checks 
+*** TURN *** [8s 3c 9d] [Jd]
+Reen-Play: checks 
+Mahu2021: bets 20
+Reen-Play: calls 20
+*** RIVER *** [8s 3c 9d Jd] [Ts]
+Reen-Play: bets 20
+Mahu2021: folds 
+Uncalled bet (20) returned to Reen-Play
+Reen-Play collected 80 from pot
+Reen-Play: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [8s 3c 9d Jd Ts]
+Seat 1: Mahu2021 (big blind) folded on the River
+Seat 2: shustrickAS (button) folded before Flop (didn't bet)
+Seat 3: Reen-Play (small blind) collected (80)
+
+
+
+PokerStars Hand #248406227464: Tournament #3704206048, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/21 9:47:43 CET [2024/01/21 3:47:43 ET]
+Table '3704206048 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (460 in chips) 
+Seat 2: shustrickAS (460 in chips) 
+Seat 3: Reen-Play (580 in chips) 
+Mahu2021: posts small blind 10
+shustrickAS: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c 9d]
+Reen-Play: raises 20 to 40
+Mahu2021: raises 420 to 460 and is all-in
+shustrickAS: folds 
+Reen-Play: calls 420
+*** FLOP *** [6c 3d 5d]
+*** TURN *** [6c 3d 5d] [6s]
+*** RIVER *** [6c 3d 5d 6s] [3s]
+*** SHOW DOWN ***
+Mahu2021: shows [9c 9d] (two pair, Nines and Sixes)
+Reen-Play: shows [Jh Ad] (two pair, Sixes and Threes)
+Mahu2021 collected 940 from pot
+*** SUMMARY ***
+Total pot 940 | Rake 0 
+Board [6c 3d 5d 6s 3s]
+Seat 1: Mahu2021 (small blind) showed [9c 9d] and won (940) with two pair, Nines and Sixes
+Seat 2: shustrickAS (big blind) folded before Flop
+Seat 3: Reen-Play (button) showed [Jh Ad] and lost with two pair, Sixes and Threes
+
+
+
+PokerStars Hand #248406230615: Tournament #3704206048, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/21 9:48:09 CET [2024/01/21 3:48:09 ET]
+Table '3704206048 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (940 in chips) 
+Seat 2: shustrickAS (440 in chips) 
+Seat 3: Reen-Play (120 in chips) 
+shustrickAS: posts small blind 10
+Reen-Play: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d 7h]
+Mahu2021: calls 20
+shustrickAS: calls 10
+Reen-Play: checks 
+*** FLOP *** [8h 5h 5c]
+shustrickAS: checks 
+Reen-Play: checks 
+Mahu2021: bets 40
+shustrickAS: folds 
+Reen-Play: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [8h 5h 5c]
+Seat 1: Mahu2021 (button) collected (60)
+Seat 2: shustrickAS (small blind) folded on the Flop
+Seat 3: Reen-Play (big blind) folded on the Flop
+
+
+
+PokerStars Hand #248406234393: Tournament #3704206048, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/21 9:48:40 CET [2024/01/21 3:48:40 ET]
+Table '3704206048 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (980 in chips) 
+Seat 2: shustrickAS (420 in chips) 
+Seat 3: Reen-Play (100 in chips) 
+Reen-Play: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h 3c]
+shustrickAS: raises 20 to 40
+Reen-Play: raises 60 to 100 and is all-in
+Mahu2021: folds 
+shustrickAS: calls 60
+*** FLOP *** [5s 4h 8s]
+*** TURN *** [5s 4h 8s] [2d]
+*** RIVER *** [5s 4h 8s 2d] [6s]
+*** SHOW DOWN ***
+Reen-Play: shows [Th Ad] (high card Ace)
+shustrickAS: shows [9s Kh] (high card King)
+Reen-Play collected 220 from pot
+*** SUMMARY ***
+Total pot 220 | Rake 0 
+Board [5s 4h 8s 2d 6s]
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: shustrickAS (button) showed [9s Kh] and lost with high card King
+Seat 3: Reen-Play (small blind) showed [Th Ad] and won (220) with high card Ace
+
+
+
+PokerStars Hand #248406236707: Tournament #3704206048, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/21 9:48:58 CET [2024/01/21 3:48:58 ET]
+Table '3704206048 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (960 in chips) 
+Seat 2: shustrickAS (320 in chips) 
+Seat 3: Reen-Play (220 in chips) 
+Mahu2021: posts small blind 10
+shustrickAS: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h Qd]
+Reen-Play: folds 
+Mahu2021: calls 10
+shustrickAS: checks 
+*** FLOP *** [6c 7s 6s]
+Mahu2021: checks 
+shustrickAS: checks 
+*** TURN *** [6c 7s 6s] [Qc]
+Mahu2021: bets 20
+shustrickAS: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [6c 7s 6s Qc]
+Seat 1: Mahu2021 (small blind) collected (40)
+Seat 2: shustrickAS (big blind) folded on the Turn
+Seat 3: Reen-Play (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #248406239240: Tournament #3704206048, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/21 9:49:18 CET [2024/01/21 3:49:18 ET]
+Table '3704206048 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (980 in chips) 
+Seat 2: shustrickAS (300 in chips) 
+Seat 3: Reen-Play (220 in chips) 
+shustrickAS: posts small blind 10
+Reen-Play: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d 9c]
+Mahu2021: folds 
+shustrickAS: folds 
+Uncalled bet (10) returned to Reen-Play
+Reen-Play collected 20 from pot
+Reen-Play: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: shustrickAS (small blind) folded before Flop
+Seat 3: Reen-Play (big blind) collected (20)
+
+
+
+PokerStars Hand #248406239876: Tournament #3704206048, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/21 9:49:24 CET [2024/01/21 3:49:24 ET]
+Table '3704206048 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (980 in chips) 
+Seat 2: shustrickAS (290 in chips) 
+Seat 3: Reen-Play (230 in chips) 
+Reen-Play: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d 6d]
+shustrickAS: folds 
+Reen-Play: raises 210 to 230 and is all-in
+Mahu2021: folds 
+Uncalled bet (210) returned to Reen-Play
+Reen-Play collected 40 from pot
+Reen-Play: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: shustrickAS (button) folded before Flop (didn't bet)
+Seat 3: Reen-Play (small blind) collected (40)
+
+
+
+PokerStars Hand #248406241311: Tournament #3704206048, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/21 9:49:35 CET [2024/01/21 3:49:35 ET]
+Table '3704206048 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (960 in chips) 
+Seat 2: shustrickAS (290 in chips) 
+Seat 3: Reen-Play (250 in chips) 
+Mahu2021: posts small blind 10
+shustrickAS: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5h 3s]
+Reen-Play: folds 
+Mahu2021: folds 
+Uncalled bet (10) returned to shustrickAS
+shustrickAS collected 20 from pot
+shustrickAS: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: shustrickAS (big blind) collected (20)
+Seat 3: Reen-Play (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #248406242162: Tournament #3704206048, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/21 9:49:42 CET [2024/01/21 3:49:42 ET]
+Table '3704206048 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (950 in chips) 
+Seat 2: shustrickAS (300 in chips) 
+Seat 3: Reen-Play (250 in chips) 
+shustrickAS: posts small blind 10
+Reen-Play: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8d 7s]
+Mahu2021: folds 
+shustrickAS: calls 10
+Reen-Play: checks 
+*** FLOP *** [2c 5s 2d]
+shustrickAS: checks 
+Reen-Play: checks 
+*** TURN *** [2c 5s 2d] [9c]
+shustrickAS: bets 30
+Reen-Play: folds 
+Uncalled bet (30) returned to shustrickAS
+shustrickAS collected 40 from pot
+shustrickAS: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [2c 5s 2d 9c]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: shustrickAS (small blind) collected (40)
+Seat 3: Reen-Play (big blind) folded on the Turn
+
+
+
+PokerStars Hand #248406245455: Tournament #3704206048, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/01/21 9:50:09 CET [2024/01/21 3:50:09 ET]
+Table '3704206048 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (950 in chips) 
+Seat 2: shustrickAS (320 in chips) 
+Seat 3: Reen-Play (230 in chips) 
+Reen-Play: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s 4h]
+shustrickAS: folds 
+Reen-Play: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (30)
+Seat 2: shustrickAS (button) folded before Flop (didn't bet)
+Seat 3: Reen-Play (small blind) folded before Flop
+
+
+
+PokerStars Hand #248406246751: Tournament #3704206048, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/01/21 9:50:19 CET [2024/01/21 3:50:19 ET]
+Table '3704206048 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (965 in chips) 
+Seat 2: shustrickAS (320 in chips) 
+Seat 3: Reen-Play (215 in chips) 
+Mahu2021: posts small blind 15
+shustrickAS: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks As]
+Reen-Play: folds 
+Mahu2021: raises 60 to 90
+shustrickAS: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (small blind) collected (60)
+Seat 2: shustrickAS (big blind) folded before Flop
+Seat 3: Reen-Play (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #248406248274: Tournament #3704206048, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/01/21 9:50:31 CET [2024/01/21 3:50:31 ET]
+Table '3704206048 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (995 in chips) 
+Seat 2: shustrickAS (290 in chips) 
+Seat 3: Reen-Play (215 in chips) 
+shustrickAS: posts small blind 15
+Reen-Play: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h Td]
+Mahu2021: folds 
+shustrickAS: raises 260 to 290 and is all-in
+Reen-Play: folds 
+Uncalled bet (260) returned to shustrickAS
+shustrickAS collected 60 from pot
+shustrickAS: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: shustrickAS (small blind) collected (60)
+Seat 3: Reen-Play (big blind) folded before Flop
+
+
+
+PokerStars Hand #248406249703: Tournament #3704206048, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/01/21 9:50:43 CET [2024/01/21 3:50:43 ET]
+Table '3704206048 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (995 in chips) 
+Seat 2: shustrickAS (320 in chips) 
+Seat 3: Reen-Play (185 in chips) 
+Reen-Play: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc 3c]
+shustrickAS: folds 
+Reen-Play: raises 155 to 185 and is all-in
+Mahu2021: calls 155
+*** FLOP *** [5d 7h Qd]
+*** TURN *** [5d 7h Qd] [2h]
+*** RIVER *** [5d 7h Qd 2h] [Kc]
+*** SHOW DOWN ***
+Reen-Play: shows [7c 7d] (three of a kind, Sevens)
+Mahu2021: shows [Qc 3c] (a pair of Queens)
+Reen-Play collected 370 from pot
+*** SUMMARY ***
+Total pot 370 | Rake 0 
+Board [5d 7h Qd 2h Kc]
+Seat 1: Mahu2021 (big blind) showed [Qc 3c] and lost with a pair of Queens
+Seat 2: shustrickAS (button) folded before Flop (didn't bet)
+Seat 3: Reen-Play (small blind) showed [7c 7d] and won (370) with three of a kind, Sevens
+
+
+
+PokerStars Hand #248406251588: Tournament #3704206048, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/01/21 9:50:59 CET [2024/01/21 3:50:59 ET]
+Table '3704206048 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (810 in chips) 
+Seat 2: shustrickAS (320 in chips) 
+Seat 3: Reen-Play (370 in chips) 
+Mahu2021: posts small blind 15
+shustrickAS: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd Ah]
+Reen-Play: folds 
+Mahu2021: raises 60 to 90
+shustrickAS: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (small blind) collected (60)
+Seat 2: shustrickAS (big blind) folded before Flop
+Seat 3: Reen-Play (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #248406252932: Tournament #3704206048, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/01/21 9:51:09 CET [2024/01/21 3:51:09 ET]
+Table '3704206048 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (840 in chips) 
+Seat 2: shustrickAS (290 in chips) 
+Seat 3: Reen-Play (370 in chips) 
+shustrickAS: posts small blind 15
+Reen-Play: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad 2h]
+Mahu2021: folds 
+shustrickAS: folds 
+Uncalled bet (15) returned to Reen-Play
+Reen-Play collected 30 from pot
+Reen-Play: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: shustrickAS (small blind) folded before Flop
+Seat 3: Reen-Play (big blind) collected (30)
+
+
+
+PokerStars Hand #248406253742: Tournament #3704206048, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/01/21 9:51:16 CET [2024/01/21 3:51:16 ET]
+Table '3704206048 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (840 in chips) 
+Seat 2: shustrickAS (275 in chips) 
+Seat 3: Reen-Play (385 in chips) 
+Reen-Play: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d 3c]
+shustrickAS: folds 
+Reen-Play: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (30)
+Seat 2: shustrickAS (button) folded before Flop (didn't bet)
+Seat 3: Reen-Play (small blind) folded before Flop
+
+
+
+PokerStars Hand #248406255628: Tournament #3704206048, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/01/21 9:51:32 CET [2024/01/21 3:51:32 ET]
+Table '3704206048 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (855 in chips) 
+Seat 2: shustrickAS (275 in chips) 
+Seat 3: Reen-Play (370 in chips) 
+Mahu2021: posts small blind 15
+shustrickAS: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts 4h]
+Reen-Play: folds 
+Mahu2021: folds 
+Uncalled bet (15) returned to shustrickAS
+shustrickAS collected 30 from pot
+shustrickAS: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: shustrickAS (big blind) collected (30)
+Seat 3: Reen-Play (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #248406256377: Tournament #3704206048, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/01/21 9:51:38 CET [2024/01/21 3:51:38 ET]
+Table '3704206048 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (840 in chips) 
+Seat 2: shustrickAS (290 in chips) 
+Seat 3: Reen-Play (370 in chips) 
+shustrickAS: posts small blind 15
+Reen-Play: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s 8h]
+Mahu2021: folds 
+shustrickAS: folds 
+Uncalled bet (15) returned to Reen-Play
+Reen-Play collected 30 from pot
+Reen-Play: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: shustrickAS (small blind) folded before Flop
+Seat 3: Reen-Play (big blind) collected (30)
+
+
+
+PokerStars Hand #248406257359: Tournament #3704206048, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/01/21 9:51:46 CET [2024/01/21 3:51:46 ET]
+Table '3704206048 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (840 in chips) 
+Seat 2: shustrickAS (275 in chips) 
+Seat 3: Reen-Play (385 in chips) 
+Reen-Play: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c Qh]
+shustrickAS: folds 
+Reen-Play: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (30)
+Seat 2: shustrickAS (button) folded before Flop (didn't bet)
+Seat 3: Reen-Play (small blind) folded before Flop
+
+
+
+PokerStars Hand #248406258408: Tournament #3704206048, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/01/21 9:51:55 CET [2024/01/21 3:51:55 ET]
+Table '3704206048 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (855 in chips) 
+Seat 2: shustrickAS (275 in chips) 
+Seat 3: Reen-Play (370 in chips) 
+Mahu2021: posts small blind 15
+shustrickAS: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4d Qd]
+Reen-Play: folds 
+Mahu2021: raises 30 to 60
+shustrickAS: raises 215 to 275 and is all-in
+Mahu2021: folds 
+Uncalled bet (215) returned to shustrickAS
+shustrickAS collected 120 from pot
+shustrickAS: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: shustrickAS (big blind) collected (120)
+Seat 3: Reen-Play (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #248406260228: Tournament #3704206048, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/01/21 9:52:09 CET [2024/01/21 3:52:09 ET]
+Table '3704206048 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (795 in chips) 
+Seat 2: shustrickAS (335 in chips) 
+Seat 3: Reen-Play (370 in chips) 
+shustrickAS: posts small blind 15
+Reen-Play: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad 3d]
+Mahu2021: calls 30
+shustrickAS: calls 15
+Reen-Play: checks 
+*** FLOP *** [6d 7c Kd]
+shustrickAS: bets 81
+Reen-Play: folds 
+Mahu2021: raises 684 to 765 and is all-in
+shustrickAS: calls 224 and is all-in
+Uncalled bet (460) returned to Mahu2021
+*** TURN *** [6d 7c Kd] [Js]
+*** RIVER *** [6d 7c Kd Js] [6c]
+*** SHOW DOWN ***
+shustrickAS: shows [9h Ks] (two pair, Kings and Sixes)
+Mahu2021: shows [Ad 3d] (a pair of Sixes)
+shustrickAS collected 700 from pot
+*** SUMMARY ***
+Total pot 700 | Rake 0 
+Board [6d 7c Kd Js 6c]
+Seat 1: Mahu2021 (button) showed [Ad 3d] and lost with a pair of Sixes
+Seat 2: shustrickAS (small blind) showed [9h Ks] and won (700) with two pair, Kings and Sixes
+Seat 3: Reen-Play (big blind) folded on the Flop
+
+
+
+PokerStars Hand #248406265747: Tournament #3704206048, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/01/21 9:52:55 CET [2024/01/21 3:52:55 ET]
+Table '3704206048 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (460 in chips) 
+Seat 2: shustrickAS (700 in chips) 
+Seat 3: Reen-Play (340 in chips) 
+Reen-Play: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qs 8c]
+shustrickAS: raises 660 to 700 and is all-in
+Reen-Play: folds 
+Mahu2021: folds 
+Uncalled bet (660) returned to shustrickAS
+shustrickAS collected 100 from pot
+shustrickAS: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: shustrickAS (button) collected (100)
+Seat 3: Reen-Play (small blind) folded before Flop
+
+
+
+PokerStars Hand #248406267335: Tournament #3704206048, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/01/21 9:53:08 CET [2024/01/21 3:53:08 ET]
+Table '3704206048 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (420 in chips) 
+Seat 2: shustrickAS (760 in chips) 
+Seat 3: Reen-Play (320 in chips) 
+Mahu2021: posts small blind 20
+shustrickAS: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd 6c]
+Reen-Play: folds 
+Mahu2021: folds 
+Uncalled bet (20) returned to shustrickAS
+shustrickAS collected 40 from pot
+shustrickAS: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: shustrickAS (big blind) collected (40)
+Seat 3: Reen-Play (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #248406268141: Tournament #3704206048, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/01/21 9:53:14 CET [2024/01/21 3:53:14 ET]
+Table '3704206048 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (400 in chips) 
+Seat 2: shustrickAS (780 in chips) 
+Seat 3: Reen-Play (320 in chips) 
+shustrickAS: posts small blind 20
+Reen-Play: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s 8d]
+Mahu2021: folds 
+shustrickAS: raises 740 to 780 and is all-in
+Reen-Play: calls 280 and is all-in
+Uncalled bet (460) returned to shustrickAS
+*** FLOP *** [2h 5d Qh]
+*** TURN *** [2h 5d Qh] [4s]
+*** RIVER *** [2h 5d Qh 4s] [8s]
+*** SHOW DOWN ***
+shustrickAS: shows [5c 5h] (three of a kind, Fives)
+Reen-Play: shows [9h Th] (high card Queen)
+shustrickAS collected 640 from pot
+Reen-Play finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 640 | Rake 0 
+Board [2h 5d Qh 4s 8s]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: shustrickAS (small blind) showed [5c 5h] and won (640) with three of a kind, Fives
+Seat 3: Reen-Play (big blind) showed [9h Th] and lost with high card Queen
+
+
+
+PokerStars Hand #248406270511: Tournament #3704206048, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/01/21 9:53:34 CET [2024/01/21 3:53:34 ET]
+Table '3704206048 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (400 in chips) 
+Seat 2: shustrickAS (1100 in chips) 
+shustrickAS: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h 4h]
+shustrickAS: calls 20
+Mahu2021: checks 
+*** FLOP *** [8c 7c 8s]
+Mahu2021: checks 
+shustrickAS: bets 40
+Mahu2021: folds 
+Uncalled bet (40) returned to shustrickAS
+shustrickAS collected 80 from pot
+shustrickAS: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [8c 7c 8s]
+Seat 1: Mahu2021 (big blind) folded on the Flop
+Seat 2: shustrickAS (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #248406272876: Tournament #3704206048, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/01/21 9:53:54 CET [2024/01/21 3:53:54 ET]
+Table '3704206048 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (360 in chips) 
+Seat 2: shustrickAS (1140 in chips) 
+Mahu2021: posts small blind 20
+shustrickAS: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac Kd]
+Mahu2021: calls 20
+shustrickAS: checks 
+*** FLOP *** [5h 6s 8d]
+shustrickAS: checks 
+Mahu2021: checks 
+*** TURN *** [5h 6s 8d] [2d]
+shustrickAS: bets 40
+Mahu2021: calls 40
+*** RIVER *** [5h 6s 8d 2d] [Qh]
+shustrickAS: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+shustrickAS: shows [6d Tc] (a pair of Sixes)
+Mahu2021: mucks hand 
+shustrickAS collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [5h 6s 8d 2d Qh]
+Seat 1: Mahu2021 (button) (small blind) mucked [Ac Kd]
+Seat 2: shustrickAS (big blind) showed [6d Tc] and won (160) with a pair of Sixes
+
+
+
+PokerStars Hand #248406275685: Tournament #3704206048, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/01/21 9:54:16 CET [2024/01/21 3:54:16 ET]
+Table '3704206048 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (280 in chips) 
+Seat 2: shustrickAS (1220 in chips) 
+shustrickAS: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d Ad]
+shustrickAS: calls 20
+Mahu2021: raises 240 to 280 and is all-in
+shustrickAS: folds 
+Uncalled bet (240) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (80)
+Seat 2: shustrickAS (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #248406276870: Tournament #3704206048, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/01/21 9:54:25 CET [2024/01/21 3:54:25 ET]
+Table '3704206048 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (320 in chips) 
+Seat 2: shustrickAS (1180 in chips) 
+Mahu2021: posts small blind 20
+shustrickAS: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2c 8c]
+Mahu2021: folds 
+Uncalled bet (20) returned to shustrickAS
+shustrickAS collected 40 from pot
+shustrickAS: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 2: shustrickAS (big blind) collected (40)
+
+
+
+PokerStars Hand #248406277399: Tournament #3704206048, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/01/21 9:54:30 CET [2024/01/21 3:54:30 ET]
+Table '3704206048 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (300 in chips) 
+Seat 2: shustrickAS (1200 in chips) 
+shustrickAS: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad Kc]
+shustrickAS: calls 20
+Mahu2021: raises 260 to 300 and is all-in
+shustrickAS: folds 
+Uncalled bet (260) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (80)
+Seat 2: shustrickAS (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #248406278873: Tournament #3704206048, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/01/21 9:54:42 CET [2024/01/21 3:54:42 ET]
+Table '3704206048 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (340 in chips) 
+Seat 2: shustrickAS (1160 in chips) 
+Mahu2021: posts small blind 20
+shustrickAS: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8d 4d]
+Mahu2021: calls 20
+shustrickAS: raises 1120 to 1160 and is all-in
+Mahu2021: folds 
+Uncalled bet (1120) returned to shustrickAS
+shustrickAS collected 80 from pot
+shustrickAS: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 2: shustrickAS (big blind) collected (80)
+
+
+
+PokerStars Hand #248406279878: Tournament #3704206048, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/01/21 9:54:50 CET [2024/01/21 3:54:50 ET]
+Table '3704206048 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (300 in chips) 
+Seat 2: shustrickAS (1200 in chips) 
+shustrickAS: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c Ad]
+shustrickAS: calls 20
+Mahu2021: checks 
+*** FLOP *** [8d 9s 7d]
+Mahu2021: checks 
+shustrickAS: checks 
+*** TURN *** [8d 9s 7d] [Ah]
+Mahu2021: bets 40
+shustrickAS: calls 40
+*** RIVER *** [8d 9s 7d Ah] [Qh]
+Mahu2021: bets 40
+shustrickAS: calls 40
+*** SHOW DOWN ***
+Mahu2021: shows [6c Ad] (a pair of Aces)
+shustrickAS: mucks hand 
+Mahu2021 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [8d 9s 7d Ah Qh]
+Seat 1: Mahu2021 (big blind) showed [6c Ad] and won (240) with a pair of Aces
+Seat 2: shustrickAS (button) (small blind) mucked [Jh 7s]
+
+
+
+PokerStars Hand #248406283066: Tournament #3704206048, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/01/21 9:55:19 CET [2024/01/21 3:55:19 ET]
+Table '3704206048 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (420 in chips) 
+Seat 2: shustrickAS (1080 in chips) 
+Mahu2021: posts small blind 20
+shustrickAS: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2c Qs]
+Mahu2021: folds 
+Uncalled bet (20) returned to shustrickAS
+shustrickAS collected 40 from pot
+shustrickAS: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 2: shustrickAS (big blind) collected (40)
+
+
+
+PokerStars Hand #248406283560: Tournament #3704206048, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/01/21 9:55:24 CET [2024/01/21 3:55:24 ET]
+Table '3704206048 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (400 in chips) 
+Seat 2: shustrickAS (1100 in chips) 
+shustrickAS: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd 2c]
+shustrickAS: raises 1060 to 1100 and is all-in
+Mahu2021: folds 
+Uncalled bet (1060) returned to shustrickAS
+shustrickAS collected 80 from pot
+shustrickAS: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: shustrickAS (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #248406284278: Tournament #3704206048, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/01/21 9:55:30 CET [2024/01/21 3:55:30 ET]
+Table '3704206048 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (360 in chips) 
+Seat 2: shustrickAS (1140 in chips) 
+Mahu2021: posts small blind 20
+shustrickAS: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s As]
+Mahu2021: calls 20
+shustrickAS: checks 
+*** FLOP *** [4s 9c 8h]
+shustrickAS: bets 120
+Mahu2021: folds 
+Uncalled bet (120) returned to shustrickAS
+shustrickAS collected 80 from pot
+shustrickAS: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [4s 9c 8h]
+Seat 1: Mahu2021 (button) (small blind) folded on the Flop
+Seat 2: shustrickAS (big blind) collected (80)
+
+
+
+PokerStars Hand #248406286171: Tournament #3704206048, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/01/21 9:55:48 CET [2024/01/21 3:55:48 ET]
+Table '3704206048 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (320 in chips) 
+Seat 2: shustrickAS (1180 in chips) 
+shustrickAS: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As Jh]
+shustrickAS: calls 20
+Mahu2021: raises 280 to 320 and is all-in
+shustrickAS: calls 280
+*** FLOP *** [Ac 4h 4d]
+*** TURN *** [Ac 4h 4d] [5s]
+*** RIVER *** [Ac 4h 4d 5s] [4c]
+*** SHOW DOWN ***
+Mahu2021: shows [As Jh] (a full house, Fours full of Aces)
+shustrickAS: shows [7d Ad] (a full house, Fours full of Aces)
+Mahu2021 collected 320 from pot
+shustrickAS collected 320 from pot
+*** SUMMARY ***
+Total pot 640 | Rake 0 
+Board [Ac 4h 4d 5s 4c]
+Seat 1: Mahu2021 (big blind) showed [As Jh] and won (320) with a full house, Fours full of Aces
+Seat 2: shustrickAS (button) (small blind) showed [7d Ad] and won (320) with a full house, Fours full of Aces
+
+
+
+PokerStars Hand #248406288302: Tournament #3704206048, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/01/21 9:56:08 CET [2024/01/21 3:56:08 ET]
+Table '3704206048 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (320 in chips) 
+Seat 2: shustrickAS (1180 in chips) 
+Mahu2021: posts small blind 30
+shustrickAS: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s Ac]
+Mahu2021: raises 260 to 320 and is all-in
+shustrickAS: calls 260
+*** FLOP *** [Jh As 2c]
+*** TURN *** [Jh As 2c] [Qs]
+*** RIVER *** [Jh As 2c Qs] [Qc]
+*** SHOW DOWN ***
+shustrickAS: shows [Ah Ts] (two pair, Aces and Queens)
+Mahu2021: shows [5s Ac] (two pair, Aces and Queens)
+shustrickAS collected 320 from pot
+Mahu2021 collected 320 from pot
+*** SUMMARY ***
+Total pot 640 | Rake 0 
+Board [Jh As 2c Qs Qc]
+Seat 1: Mahu2021 (button) (small blind) showed [5s Ac] and won (320) with two pair, Aces and Queens
+Seat 2: shustrickAS (big blind) showed [Ah Ts] and won (320) with two pair, Aces and Queens
+
+
+
+PokerStars Hand #248406289781: Tournament #3704206048, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/01/21 9:56:21 CET [2024/01/21 3:56:21 ET]
+Table '3704206048 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (320 in chips) 
+Seat 2: shustrickAS (1180 in chips) 
+shustrickAS: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d 8h]
+shustrickAS: calls 30
+Mahu2021: checks 
+*** FLOP *** [9s Kh Td]
+Mahu2021: bets 260 and is all-in
+shustrickAS: folds 
+Uncalled bet (260) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [9s Kh Td]
+Seat 1: Mahu2021 (big blind) collected (120)
+Seat 2: shustrickAS (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #248406291583: Tournament #3704206048, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/01/21 9:56:39 CET [2024/01/21 3:56:39 ET]
+Table '3704206048 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (380 in chips) 
+Seat 2: shustrickAS (1120 in chips) 
+Mahu2021: posts small blind 30
+shustrickAS: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3c 3h]
+Mahu2021: raises 320 to 380 and is all-in
+shustrickAS: calls 320
+*** FLOP *** [2h Ac As]
+*** TURN *** [2h Ac As] [9h]
+*** RIVER *** [2h Ac As 9h] [9d]
+*** SHOW DOWN ***
+shustrickAS: shows [7h Kh] (two pair, Aces and Nines)
+Mahu2021: shows [3c 3h] (two pair, Aces and Nines - lower kicker)
+shustrickAS collected 760 from pot
+Mahu2021 finished the tournament in 2nd place
+shustrickAS wins the tournament and receives $6.00 - congratulations!
+*** SUMMARY ***
+Total pot 760 | Rake 0 
+Board [2h Ac As 9h 9d]
+Seat 1: Mahu2021 (button) (small blind) showed [3c 3h] and lost with two pair, Aces and Nines
+Seat 2: shustrickAS (big blind) showed [7h Kh] and won (760) with two pair, Aces and Nines
+
+
+

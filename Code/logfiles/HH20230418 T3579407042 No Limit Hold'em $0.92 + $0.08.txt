@@ -1,0 +1,582 @@
+﻿PokerStars Hand #243174619687: Tournament #3579407042, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/18 21:27:13 CET [2023/04/18 15:27:13 ET]
+Table '3579407042 1' 3-max Seat #1 is the button
+Seat 1: Jackson3390 (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: Fearedhel (500 in chips) 
+Mahu2021: posts small blind 10
+Fearedhel: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d 6d]
+Jackson3390: calls 20
+Mahu2021: calls 10
+Fearedhel: raises 20 to 40
+Jackson3390: calls 20
+Mahu2021: calls 20
+*** FLOP *** [Qd Kh 4h]
+Mahu2021: checks 
+Fearedhel: bets 40
+Jackson3390: calls 40
+Mahu2021: folds 
+*** TURN *** [Qd Kh 4h] [5s]
+Fearedhel: checks 
+Jackson3390: bets 140
+Fearedhel: folds 
+Uncalled bet (140) returned to Jackson3390
+Jackson3390 collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [Qd Kh 4h 5s]
+Seat 1: Jackson3390 (button) collected (200)
+Seat 2: Mahu2021 (small blind) folded on the Flop
+Seat 3: Fearedhel (big blind) folded on the Turn
+
+
+
+PokerStars Hand #243174628930: Tournament #3579407042, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/18 21:27:38 CET [2023/04/18 15:27:38 ET]
+Table '3579407042 1' 3-max Seat #2 is the button
+Seat 1: Jackson3390 (620 in chips) 
+Seat 2: Mahu2021 (460 in chips) 
+Seat 3: Fearedhel (420 in chips) 
+Fearedhel: posts small blind 10
+Jackson3390: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h 8d]
+Mahu2021: raises 440 to 460 and is all-in
+Fearedhel: folds 
+Jackson3390: calls 440
+*** FLOP *** [Ts 3s 9h]
+*** TURN *** [Ts 3s 9h] [6h]
+*** RIVER *** [Ts 3s 9h 6h] [6c]
+*** SHOW DOWN ***
+Jackson3390: shows [Qc Js] (a pair of Sixes)
+Mahu2021: shows [8h 8d] (two pair, Eights and Sixes)
+Mahu2021 collected 930 from pot
+*** SUMMARY ***
+Total pot 930 | Rake 0 
+Board [Ts 3s 9h 6h 6c]
+Seat 1: Jackson3390 (big blind) showed [Qc Js] and lost with a pair of Sixes
+Seat 2: Mahu2021 (button) showed [8h 8d] and won (930) with two pair, Eights and Sixes
+Seat 3: Fearedhel (small blind) folded before Flop
+
+
+
+PokerStars Hand #243174634131: Tournament #3579407042, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/18 21:27:52 CET [2023/04/18 15:27:52 ET]
+Table '3579407042 1' 3-max Seat #3 is the button
+Seat 1: Jackson3390 (160 in chips) 
+Seat 2: Mahu2021 (930 in chips) 
+Seat 3: Fearedhel (410 in chips) 
+Jackson3390: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s 6c]
+Fearedhel: raises 20 to 40
+Jackson3390: raises 120 to 160 and is all-in
+Mahu2021: folds 
+Fearedhel: calls 120
+*** FLOP *** [Jd Kc 4c]
+*** TURN *** [Jd Kc 4c] [5c]
+*** RIVER *** [Jd Kc 4c 5c] [Ts]
+*** SHOW DOWN ***
+Jackson3390: shows [Qd 2c] (high card King)
+Fearedhel: shows [8h 8d] (a pair of Eights)
+Fearedhel collected 340 from pot
+Jackson3390 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 340 | Rake 0 
+Board [Jd Kc 4c 5c Ts]
+Seat 1: Jackson3390 (small blind) showed [Qd 2c] and lost with high card King
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: Fearedhel (button) showed [8h 8d] and won (340) with a pair of Eights
+
+
+
+PokerStars Hand #243174641179: Tournament #3579407042, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/18 21:28:12 CET [2023/04/18 15:28:12 ET]
+Table '3579407042 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (910 in chips) 
+Seat 3: Fearedhel (590 in chips) 
+Mahu2021: posts small blind 10
+Fearedhel: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh Jh]
+Mahu2021: raises 20 to 40
+Fearedhel: raises 550 to 590 and is all-in
+Mahu2021: calls 550
+*** FLOP *** [Qd Kd 4h]
+*** TURN *** [Qd Kd 4h] [Th]
+*** RIVER *** [Qd Kd 4h Th] [2c]
+*** SHOW DOWN ***
+Fearedhel: shows [Td Ks] (two pair, Kings and Tens)
+Mahu2021: shows [Kh Jh] (a pair of Kings)
+Fearedhel collected 1180 from pot
+*** SUMMARY ***
+Total pot 1180 | Rake 0 
+Board [Qd Kd 4h Th 2c]
+Seat 2: Mahu2021 (button) (small blind) showed [Kh Jh] and lost with a pair of Kings
+Seat 3: Fearedhel (big blind) showed [Td Ks] and won (1180) with two pair, Kings and Tens
+
+
+
+PokerStars Hand #243174645980: Tournament #3579407042, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/18 21:28:26 CET [2023/04/18 15:28:26 ET]
+Table '3579407042 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (320 in chips) 
+Seat 3: Fearedhel (1180 in chips) 
+Fearedhel: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd 4d]
+Fearedhel: calls 10
+Mahu2021: checks 
+*** FLOP *** [As 5c 7d]
+Mahu2021: checks 
+Fearedhel: bets 20
+Mahu2021: folds 
+Uncalled bet (20) returned to Fearedhel
+Fearedhel collected 40 from pot
+Fearedhel: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [As 5c 7d]
+Seat 2: Mahu2021 (big blind) folded on the Flop
+Seat 3: Fearedhel (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #243174649329: Tournament #3579407042, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/18 21:28:36 CET [2023/04/18 15:28:36 ET]
+Table '3579407042 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (300 in chips) 
+Seat 3: Fearedhel (1200 in chips) 
+Mahu2021: posts small blind 10
+Fearedhel: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2s Ac]
+Mahu2021: raises 280 to 300 and is all-in
+Fearedhel: calls 280
+*** FLOP *** [As 4s Qs]
+*** TURN *** [As 4s Qs] [5d]
+*** RIVER *** [As 4s Qs 5d] [9d]
+*** SHOW DOWN ***
+Fearedhel: shows [6c 3h] (high card Ace)
+Mahu2021: shows [2s Ac] (a pair of Aces)
+Mahu2021 collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | Rake 0 
+Board [As 4s Qs 5d 9d]
+Seat 2: Mahu2021 (button) (small blind) showed [2s Ac] and won (600) with a pair of Aces
+Seat 3: Fearedhel (big blind) showed [6c 3h] and lost with high card Ace
+
+
+
+PokerStars Hand #243174653902: Tournament #3579407042, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/18 21:28:48 CET [2023/04/18 15:28:48 ET]
+Table '3579407042 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (600 in chips) 
+Seat 3: Fearedhel (900 in chips) 
+Fearedhel: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8d Kh]
+Fearedhel: calls 10
+Mahu2021: raises 580 to 600 and is all-in
+Fearedhel: folds 
+Uncalled bet (580) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: Mahu2021 (big blind) collected (40)
+Seat 3: Fearedhel (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #243174656573: Tournament #3579407042, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/18 21:28:56 CET [2023/04/18 15:28:56 ET]
+Table '3579407042 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (620 in chips) 
+Seat 3: Fearedhel (880 in chips) 
+Mahu2021: posts small blind 10
+Fearedhel: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2c Td]
+Mahu2021: folds 
+Uncalled bet (10) returned to Fearedhel
+Fearedhel collected 20 from pot
+Fearedhel: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: Fearedhel (big blind) collected (20)
+
+
+
+PokerStars Hand #243174658158: Tournament #3579407042, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/18 21:29:00 CET [2023/04/18 15:29:00 ET]
+Table '3579407042 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (610 in chips) 
+Seat 3: Fearedhel (890 in chips) 
+Fearedhel: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c 8s]
+Fearedhel: calls 10
+Mahu2021: checks 
+*** FLOP *** [4h Ad Jd]
+Mahu2021: checks 
+Fearedhel: bets 20
+Mahu2021: folds 
+Uncalled bet (20) returned to Fearedhel
+Fearedhel collected 40 from pot
+Fearedhel: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [4h Ad Jd]
+Seat 2: Mahu2021 (big blind) folded on the Flop
+Seat 3: Fearedhel (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #243174661467: Tournament #3579407042, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/18 21:29:10 CET [2023/04/18 15:29:10 ET]
+Table '3579407042 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (590 in chips) 
+Seat 3: Fearedhel (910 in chips) 
+Mahu2021: posts small blind 10
+Fearedhel: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2c 3s]
+Mahu2021: calls 10
+Fearedhel: raises 20 to 40
+Mahu2021: calls 20
+*** FLOP *** [Jd Td 5d]
+Fearedhel: bets 20
+Mahu2021: folds 
+Uncalled bet (20) returned to Fearedhel
+Fearedhel collected 80 from pot
+Fearedhel: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Jd Td 5d]
+Seat 2: Mahu2021 (button) (small blind) folded on the Flop
+Seat 3: Fearedhel (big blind) collected (80)
+
+
+
+PokerStars Hand #243174665042: Tournament #3579407042, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/18 21:29:20 CET [2023/04/18 15:29:20 ET]
+Table '3579407042 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (550 in chips) 
+Seat 3: Fearedhel (950 in chips) 
+Fearedhel: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c 4c]
+Fearedhel: raises 20 to 40
+Mahu2021: calls 20
+*** FLOP *** [Td 7s Jd]
+Mahu2021: checks 
+Fearedhel: checks 
+*** TURN *** [Td 7s Jd] [8s]
+Mahu2021: checks 
+Fearedhel: bets 80
+Mahu2021: folds 
+Uncalled bet (80) returned to Fearedhel
+Fearedhel collected 80 from pot
+Fearedhel: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Td 7s Jd 8s]
+Seat 2: Mahu2021 (big blind) folded on the Turn
+Seat 3: Fearedhel (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #243174669539: Tournament #3579407042, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/18 21:29:32 CET [2023/04/18 15:29:32 ET]
+Table '3579407042 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (510 in chips) 
+Seat 3: Fearedhel (990 in chips) 
+Mahu2021: posts small blind 10
+Fearedhel: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d Qh]
+Mahu2021: folds 
+Uncalled bet (10) returned to Fearedhel
+Fearedhel collected 20 from pot
+Fearedhel: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: Fearedhel (big blind) collected (20)
+
+
+
+PokerStars Hand #243174671138: Tournament #3579407042, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/18 21:29:37 CET [2023/04/18 15:29:37 ET]
+Table '3579407042 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: Fearedhel (1000 in chips) 
+Fearedhel: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s 3c]
+Fearedhel: calls 10
+Mahu2021: checks 
+*** FLOP *** [7h 2s 2c]
+Mahu2021: bets 20
+Fearedhel: calls 20
+*** TURN *** [7h 2s 2c] [5c]
+Mahu2021: bets 460 and is all-in
+Fearedhel: folds 
+Uncalled bet (460) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [7h 2s 2c 5c]
+Seat 2: Mahu2021 (big blind) collected (80)
+Seat 3: Fearedhel (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #243174675628: Tournament #3579407042, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/18 21:29:49 CET [2023/04/18 15:29:49 ET]
+Table '3579407042 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (540 in chips) 
+Seat 3: Fearedhel (960 in chips) 
+Mahu2021: posts small blind 10
+Fearedhel: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d 9c]
+Mahu2021: folds 
+Uncalled bet (10) returned to Fearedhel
+Fearedhel collected 20 from pot
+Fearedhel: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: Fearedhel (big blind) collected (20)
+
+
+
+PokerStars Hand #243174677315: Tournament #3579407042, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/18 21:29:54 CET [2023/04/18 15:29:54 ET]
+Table '3579407042 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (530 in chips) 
+Seat 3: Fearedhel (970 in chips) 
+Fearedhel: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8s Qh]
+Fearedhel: calls 10
+Mahu2021: checks 
+*** FLOP *** [Kh 7c Ks]
+Mahu2021: checks 
+Fearedhel: bets 20
+Mahu2021: calls 20
+*** TURN *** [Kh 7c Ks] [Ad]
+Mahu2021: checks 
+Fearedhel: checks 
+*** RIVER *** [Kh 7c Ks Ad] [8c]
+Mahu2021: bets 20
+Fearedhel: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Kh 7c Ks Ad 8c]
+Seat 2: Mahu2021 (big blind) collected (80)
+Seat 3: Fearedhel (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #243174682244: Tournament #3579407042, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/18 21:30:07 CET [2023/04/18 15:30:07 ET]
+Table '3579407042 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (570 in chips) 
+Seat 3: Fearedhel (930 in chips) 
+Mahu2021: posts small blind 10
+Fearedhel: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s Qs]
+Mahu2021: calls 10
+Fearedhel: raises 20 to 40
+Mahu2021: calls 20
+*** FLOP *** [8h 5d 5s]
+Fearedhel: bets 20
+Mahu2021: calls 20
+*** TURN *** [8h 5d 5s] [9c]
+Fearedhel: bets 20
+Mahu2021: calls 20
+*** RIVER *** [8h 5d 5s 9c] [Qc]
+Fearedhel: bets 20
+Mahu2021: raises 470 to 490 and is all-in
+Fearedhel: calls 470
+*** SHOW DOWN ***
+Mahu2021: shows [3s Qs] (two pair, Queens and Fives)
+Fearedhel: shows [9h Ah] (two pair, Nines and Fives)
+Mahu2021 collected 1140 from pot
+*** SUMMARY ***
+Total pot 1140 | Rake 0 
+Board [8h 5d 5s 9c Qc]
+Seat 2: Mahu2021 (button) (small blind) showed [3s Qs] and won (1140) with two pair, Queens and Fives
+Seat 3: Fearedhel (big blind) showed [9h Ah] and lost with two pair, Nines and Fives
+
+
+
+PokerStars Hand #243174689369: Tournament #3579407042, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/18 21:30:27 CET [2023/04/18 15:30:27 ET]
+Table '3579407042 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (1140 in chips) 
+Seat 3: Fearedhel (360 in chips) 
+Fearedhel: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s 3h]
+Fearedhel: raises 30 to 60
+Mahu2021: calls 30
+*** FLOP *** [Js 4d Th]
+Mahu2021: checks 
+Fearedhel: bets 300 and is all-in
+Mahu2021: folds 
+Uncalled bet (300) returned to Fearedhel
+Fearedhel collected 120 from pot
+Fearedhel: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Js 4d Th]
+Seat 2: Mahu2021 (big blind) folded on the Flop
+Seat 3: Fearedhel (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #243174692728: Tournament #3579407042, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/18 21:30:37 CET [2023/04/18 15:30:37 ET]
+Table '3579407042 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (1080 in chips) 
+Seat 3: Fearedhel (420 in chips) 
+Mahu2021: posts small blind 15
+Fearedhel: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks 3d]
+Mahu2021: raises 30 to 60
+Fearedhel: calls 30
+*** FLOP *** [9h 2h Js]
+Fearedhel: bets 360 and is all-in
+Mahu2021: folds 
+Uncalled bet (360) returned to Fearedhel
+Fearedhel collected 120 from pot
+Fearedhel: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [9h 2h Js]
+Seat 2: Mahu2021 (button) (small blind) folded on the Flop
+Seat 3: Fearedhel (big blind) collected (120)
+
+
+
+PokerStars Hand #243174696058: Tournament #3579407042, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/18 21:30:46 CET [2023/04/18 15:30:46 ET]
+Table '3579407042 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (1020 in chips) 
+Seat 3: Fearedhel (480 in chips) 
+Fearedhel: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc 5h]
+Fearedhel: calls 15
+Mahu2021: checks 
+*** FLOP *** [4h Js 9s]
+Mahu2021: checks 
+Fearedhel: checks 
+*** TURN *** [4h Js 9s] [8s]
+Mahu2021: checks 
+Fearedhel: bets 30
+Mahu2021: folds 
+Uncalled bet (30) returned to Fearedhel
+Fearedhel collected 60 from pot
+Fearedhel: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [4h Js 9s 8s]
+Seat 2: Mahu2021 (big blind) folded on the Turn
+Seat 3: Fearedhel (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #243174700566: Tournament #3579407042, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/18 21:30:59 CET [2023/04/18 15:30:59 ET]
+Table '3579407042 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (990 in chips) 
+Seat 3: Fearedhel (510 in chips) 
+Mahu2021: posts small blind 15
+Fearedhel: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d Jd]
+Mahu2021: calls 15
+Fearedhel: checks 
+*** FLOP *** [4c Jh 6d]
+Fearedhel: bets 30
+Mahu2021: calls 30
+*** TURN *** [4c Jh 6d] [5s]
+Fearedhel: bets 30
+Mahu2021: calls 30
+*** RIVER *** [4c Jh 6d 5s] [4s]
+Fearedhel: bets 180
+Mahu2021: raises 720 to 900 and is all-in
+Fearedhel: folds 
+Uncalled bet (720) returned to Mahu2021
+Mahu2021 collected 540 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 540 | Rake 0 
+Board [4c Jh 6d 5s 4s]
+Seat 2: Mahu2021 (button) (small blind) collected (540)
+Seat 3: Fearedhel (big blind) folded on the River
+
+
+
+PokerStars Hand #243174706599: Tournament #3579407042, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/18 21:31:15 CET [2023/04/18 15:31:15 ET]
+Table '3579407042 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (1260 in chips) 
+Seat 3: Fearedhel (240 in chips) 
+Fearedhel: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4c Qh]
+Fearedhel: calls 15
+Mahu2021: checks 
+*** FLOP *** [2s 5s 7c]
+Mahu2021: checks 
+Fearedhel: checks 
+*** TURN *** [2s 5s 7c] [4s]
+Mahu2021: bets 30
+Fearedhel: calls 30
+*** RIVER *** [2s 5s 7c 4s] [9h]
+Mahu2021: bets 30
+Fearedhel: calls 30
+*** SHOW DOWN ***
+Mahu2021: shows [4c Qh] (a pair of Fours)
+Fearedhel: mucks hand 
+Mahu2021 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [2s 5s 7c 4s 9h]
+Seat 2: Mahu2021 (big blind) showed [4c Qh] and won (180) with a pair of Fours
+Seat 3: Fearedhel (button) (small blind) mucked [8d 4h]
+
+
+
+PokerStars Hand #243174711737: Tournament #3579407042, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/18 21:31:29 CET [2023/04/18 15:31:29 ET]
+Table '3579407042 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (1350 in chips) 
+Seat 3: Fearedhel (150 in chips) 
+Mahu2021: posts small blind 15
+Fearedhel: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc Qh]
+Mahu2021: raises 1320 to 1350 and is all-in
+Fearedhel: calls 120 and is all-in
+Uncalled bet (1200) returned to Mahu2021
+*** FLOP *** [8s Td 8c]
+*** TURN *** [8s Td 8c] [5s]
+*** RIVER *** [8s Td 8c 5s] [Qc]
+*** SHOW DOWN ***
+Fearedhel: shows [Kc 4c] (a pair of Eights)
+Mahu2021: shows [Jc Qh] (two pair, Queens and Eights)
+Mahu2021 collected 300 from pot
+Fearedhel finished the tournament in 2nd place
+Mahu2021 wins the tournament and receives $3.00 - congratulations!
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [8s Td 8c 5s Qc]
+Seat 2: Mahu2021 (button) (small blind) showed [Jc Qh] and won (300) with two pair, Queens and Eights
+Seat 3: Fearedhel (big blind) showed [Kc 4c] and lost with a pair of Eights
+
+
+

@@ -1,0 +1,723 @@
+﻿PokerStars Hand #253516386025: Tournament #3826099639, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2024/11/22 8:21:22 CET [2024/11/22 2:21:22 ET]
+Table '3826099639 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: Tossed Clock (500 in chips) 
+Seat 3: Willemann85 (500 in chips) 
+Tossed Clock: posts small blind 10
+Willemann85: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd 5d]
+Mahu2021: raises 20 to 40
+Tossed Clock: calls 30
+Willemann85: folds 
+*** FLOP *** [Tc 3h 4d]
+Tossed Clock: checks 
+Mahu2021: checks 
+*** TURN *** [Tc 3h 4d] [9c]
+Tossed Clock: checks 
+Mahu2021: checks 
+*** RIVER *** [Tc 3h 4d 9c] [5c]
+Tossed Clock: checks 
+Mahu2021: bets 40
+Tossed Clock: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 100 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [Tc 3h 4d 9c 5c]
+Seat 1: Mahu2021 (button) collected (100)
+Seat 2: Tossed Clock (small blind) folded on the River
+Seat 3: Willemann85 (big blind) folded before Flop
+
+
+
+PokerStars Hand #253516387139: Tournament #3826099639, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2024/11/22 8:21:38 CET [2024/11/22 2:21:38 ET]
+Table '3826099639 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (560 in chips) 
+Seat 2: Tossed Clock (460 in chips) 
+Seat 3: Willemann85 (480 in chips) 
+Willemann85: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd 4c]
+Tossed Clock: calls 20
+Willemann85: calls 10
+Mahu2021: checks 
+*** FLOP *** [6d 9s 8c]
+Willemann85: bets 60
+Mahu2021: folds 
+Tossed Clock: calls 60
+*** TURN *** [6d 9s 8c] [Kh]
+Willemann85: bets 180
+Tossed Clock: folds 
+Uncalled bet (180) returned to Willemann85
+Willemann85 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [6d 9s 8c Kh]
+Seat 1: Mahu2021 (big blind) folded on the Flop
+Seat 2: Tossed Clock (button) folded on the Turn
+Seat 3: Willemann85 (small blind) collected (180)
+
+
+
+PokerStars Hand #253516388765: Tournament #3826099639, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2024/11/22 8:22:00 CET [2024/11/22 2:22:00 ET]
+Table '3826099639 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (540 in chips) 
+Seat 2: Tossed Clock (380 in chips) 
+Seat 3: Willemann85 (580 in chips) 
+Mahu2021: posts small blind 10
+Tossed Clock: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h Ah]
+Willemann85: folds 
+Mahu2021: raises 60 to 80
+Tossed Clock: calls 60
+*** FLOP *** [Qd 9d 5c]
+Mahu2021: checks 
+Tossed Clock: bets 160
+Mahu2021: folds 
+Uncalled bet (160) returned to Tossed Clock
+Tossed Clock collected 160 from pot
+Tossed Clock: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Qd 9d 5c]
+Seat 1: Mahu2021 (small blind) folded on the Flop
+Seat 2: Tossed Clock (big blind) collected (160)
+Seat 3: Willemann85 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253516389792: Tournament #3826099639, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2024/11/22 8:22:15 CET [2024/11/22 2:22:15 ET]
+Table '3826099639 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (460 in chips) 
+Seat 2: Tossed Clock (460 in chips) 
+Seat 3: Willemann85 (580 in chips) 
+Tossed Clock: posts small blind 10
+Willemann85: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh 2c]
+Mahu2021: folds 
+Tossed Clock: calls 10
+Willemann85: raises 80 to 100
+Tossed Clock: calls 80
+*** FLOP *** [2h 5s Ad]
+Tossed Clock: bets 100
+Willemann85: raises 100 to 200
+Tossed Clock: raises 100 to 300
+Willemann85: raises 100 to 400
+Tossed Clock: calls 60 and is all-in
+Uncalled bet (40) returned to Willemann85
+*** TURN *** [2h 5s Ad] [7h]
+*** RIVER *** [2h 5s Ad 7h] [6c]
+*** SHOW DOWN ***
+Tossed Clock: shows [5h 9h] (a pair of Fives)
+Willemann85: shows [Tc Ts] (a pair of Tens)
+Willemann85 collected 920 from pot
+Tossed Clock finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 920 | Rake 0 
+Board [2h 5s Ad 7h 6c]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: Tossed Clock (small blind) showed [5h 9h] and lost with a pair of Fives
+Seat 3: Willemann85 (big blind) showed [Tc Ts] and won (920) with a pair of Tens
+
+
+
+PokerStars Hand #253516391656: Tournament #3826099639, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2024/11/22 8:22:41 CET [2024/11/22 2:22:41 ET]
+Table '3826099639 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (460 in chips) 
+Seat 3: Willemann85 (1040 in chips) 
+Willemann85: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8c As]
+Willemann85: raises 20 to 40
+Mahu2021: raises 420 to 460 and is all-in
+Willemann85: folds 
+Uncalled bet (420) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (80)
+Seat 3: Willemann85 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #253516392239: Tournament #3826099639, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2024/11/22 8:22:49 CET [2024/11/22 2:22:49 ET]
+Table '3826099639 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 3: Willemann85 (1000 in chips) 
+Mahu2021: posts small blind 10
+Willemann85: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh Ah]
+Mahu2021: raises 20 to 40
+Willemann85: calls 20
+*** FLOP *** [Jd Kd 4d]
+Willemann85: checks 
+Mahu2021: bets 40
+Willemann85: calls 40
+*** TURN *** [Jd Kd 4d] [Ts]
+Willemann85: checks 
+Mahu2021: bets 160
+Willemann85: folds 
+Uncalled bet (160) returned to Mahu2021
+Mahu2021 collected 160 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Jd Kd 4d Ts]
+Seat 1: Mahu2021 (button) (small blind) collected (160)
+Seat 3: Willemann85 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #253516393385: Tournament #3826099639, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2024/11/22 8:23:05 CET [2024/11/22 2:23:05 ET]
+Table '3826099639 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (580 in chips) 
+Seat 3: Willemann85 (920 in chips) 
+Willemann85: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks 6h]
+Willemann85: raises 20 to 40
+Mahu2021: calls 20
+*** FLOP *** [6s Kd 4c]
+Mahu2021: checks 
+Willemann85: checks 
+*** TURN *** [6s Kd 4c] [3c]
+Mahu2021: bets 40
+Willemann85: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [6s Kd 4c 3c]
+Seat 1: Mahu2021 (big blind) collected (80)
+Seat 3: Willemann85 (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #253516394327: Tournament #3826099639, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2024/11/22 8:23:17 CET [2024/11/22 2:23:17 ET]
+Table '3826099639 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (620 in chips) 
+Seat 3: Willemann85 (880 in chips) 
+Mahu2021: posts small blind 10
+Willemann85: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc 6s]
+Mahu2021: calls 10
+Willemann85: raises 40 to 60
+Mahu2021: folds 
+Uncalled bet (40) returned to Willemann85
+Willemann85 collected 40 from pot
+Willemann85: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: Willemann85 (big blind) collected (40)
+
+
+
+PokerStars Hand #253516395250: Tournament #3826099639, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2024/11/22 8:23:30 CET [2024/11/22 2:23:30 ET]
+Table '3826099639 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (600 in chips) 
+Seat 3: Willemann85 (900 in chips) 
+Willemann85: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4c Tc]
+Willemann85: raises 30 to 60
+Mahu2021: calls 30
+*** FLOP *** [Js 5c 9d]
+Mahu2021: checks 
+Willemann85: bets 120
+Mahu2021: folds 
+Uncalled bet (120) returned to Willemann85
+Willemann85 collected 120 from pot
+Willemann85: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Js 5c 9d]
+Seat 1: Mahu2021 (big blind) folded on the Flop
+Seat 3: Willemann85 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #253516396054: Tournament #3826099639, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2024/11/22 8:23:41 CET [2024/11/22 2:23:41 ET]
+Table '3826099639 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (540 in chips) 
+Seat 3: Willemann85 (960 in chips) 
+Mahu2021: posts small blind 15
+Willemann85: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h Jd]
+Mahu2021: raises 30 to 60
+Willemann85: calls 30
+*** FLOP *** [3s 7s Kc]
+Willemann85: checks 
+Mahu2021: checks 
+*** TURN *** [3s 7s Kc] [8d]
+Willemann85: checks 
+Mahu2021: bets 60
+Willemann85: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [3s 7s Kc 8d]
+Seat 1: Mahu2021 (button) (small blind) collected (120)
+Seat 3: Willemann85 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #253516397012: Tournament #3826099639, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2024/11/22 8:23:54 CET [2024/11/22 2:23:54 ET]
+Table '3826099639 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (600 in chips) 
+Seat 3: Willemann85 (900 in chips) 
+Willemann85: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts Td]
+Willemann85: raises 30 to 60
+Mahu2021: raises 540 to 600 and is all-in
+Willemann85: calls 540
+*** FLOP *** [3s Qh 2s]
+*** TURN *** [3s Qh 2s] [2h]
+*** RIVER *** [3s Qh 2s 2h] [Qs]
+*** SHOW DOWN ***
+Mahu2021: shows [Ts Td] (two pair, Queens and Tens)
+Willemann85: shows [7c 9c] (two pair, Queens and Deuces)
+Mahu2021 collected 1200 from pot
+*** SUMMARY ***
+Total pot 1200 | Rake 0 
+Board [3s Qh 2s 2h Qs]
+Seat 1: Mahu2021 (big blind) showed [Ts Td] and won (1200) with two pair, Queens and Tens
+Seat 3: Willemann85 (button) (small blind) showed [7c 9c] and lost with two pair, Queens and Deuces
+
+
+
+PokerStars Hand #253516398044: Tournament #3826099639, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2024/11/22 8:24:09 CET [2024/11/22 2:24:09 ET]
+Table '3826099639 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1200 in chips) 
+Seat 3: Willemann85 (300 in chips) 
+Mahu2021: posts small blind 15
+Willemann85: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad 6d]
+Mahu2021: raises 60 to 90
+Willemann85: calls 60
+*** FLOP *** [6c 9c 9s]
+Willemann85: checks 
+Mahu2021: bets 1110 and is all-in
+Willemann85: folds 
+Uncalled bet (1110) returned to Mahu2021
+Mahu2021 collected 180 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [6c 9c 9s]
+Seat 1: Mahu2021 (button) (small blind) collected (180)
+Seat 3: Willemann85 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #253516399029: Tournament #3826099639, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2024/11/22 8:24:22 CET [2024/11/22 2:24:22 ET]
+Table '3826099639 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (1290 in chips) 
+Seat 3: Willemann85 (210 in chips) 
+Willemann85: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c 8d]
+Willemann85: raises 180 to 210 and is all-in
+Mahu2021: folds 
+Uncalled bet (180) returned to Willemann85
+Willemann85 collected 60 from pot
+Willemann85: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 3: Willemann85 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #253516399488: Tournament #3826099639, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2024/11/22 8:24:28 CET [2024/11/22 2:24:28 ET]
+Table '3826099639 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1260 in chips) 
+Seat 3: Willemann85 (240 in chips) 
+Mahu2021: posts small blind 15
+Willemann85: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks As]
+Mahu2021: raises 60 to 90
+Willemann85: raises 150 to 240 and is all-in
+Mahu2021: calls 150
+*** FLOP *** [8h Qd 5c]
+*** TURN *** [8h Qd 5c] [3c]
+*** RIVER *** [8h Qd 5c 3c] [6c]
+*** SHOW DOWN ***
+Willemann85: shows [3d Kd] (a pair of Threes)
+Mahu2021: shows [Ks As] (high card Ace)
+Willemann85 collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Board [8h Qd 5c 3c 6c]
+Seat 1: Mahu2021 (button) (small blind) showed [Ks As] and lost with high card Ace
+Seat 3: Willemann85 (big blind) showed [3d Kd] and won (480) with a pair of Threes
+
+
+
+PokerStars Hand #253516400521: Tournament #3826099639, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2024/11/22 8:24:43 CET [2024/11/22 2:24:43 ET]
+Table '3826099639 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (1020 in chips) 
+Seat 3: Willemann85 (480 in chips) 
+Willemann85: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d Td]
+Willemann85: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (30)
+Seat 3: Willemann85 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #253516401052: Tournament #3826099639, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2024/11/22 8:24:50 CET [2024/11/22 2:24:50 ET]
+Table '3826099639 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1035 in chips) 
+Seat 3: Willemann85 (465 in chips) 
+Mahu2021: posts small blind 15
+Willemann85: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h 9s]
+Mahu2021: raises 60 to 90
+Willemann85: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) collected (60)
+Seat 3: Willemann85 (big blind) folded before Flop
+
+
+
+PokerStars Hand #253516401533: Tournament #3826099639, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2024/11/22 8:24:57 CET [2024/11/22 2:24:57 ET]
+Table '3826099639 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (1065 in chips) 
+Seat 3: Willemann85 (435 in chips) 
+Willemann85: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d 9s]
+Willemann85: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (30)
+Seat 3: Willemann85 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #253516401871: Tournament #3826099639, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2024/11/22 8:25:01 CET [2024/11/22 2:25:01 ET]
+Table '3826099639 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1080 in chips) 
+Seat 3: Willemann85 (420 in chips) 
+Mahu2021: posts small blind 15
+Willemann85: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh Jc]
+Mahu2021: raises 60 to 90
+Willemann85: calls 60
+*** FLOP *** [Kh Ad 2h]
+Willemann85: checks 
+Mahu2021: bets 90
+Willemann85: folds 
+Uncalled bet (90) returned to Mahu2021
+Mahu2021 collected 180 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [Kh Ad 2h]
+Seat 1: Mahu2021 (button) (small blind) collected (180)
+Seat 3: Willemann85 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #253516402605: Tournament #3826099639, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2024/11/22 8:25:12 CET [2024/11/22 2:25:12 ET]
+Table '3826099639 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (1170 in chips) 
+Seat 3: Willemann85 (330 in chips) 
+Willemann85: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s 5h]
+Willemann85: calls 15
+Mahu2021: checks 
+*** FLOP *** [5d 9c 6c]
+Mahu2021: checks 
+Willemann85: bets 30
+Mahu2021: calls 30
+*** TURN *** [5d 9c 6c] [Qh]
+Mahu2021: checks 
+Willemann85: bets 60
+Mahu2021: folds 
+Uncalled bet (60) returned to Willemann85
+Willemann85 collected 120 from pot
+Willemann85: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [5d 9c 6c Qh]
+Seat 1: Mahu2021 (big blind) folded on the Turn
+Seat 3: Willemann85 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #253516403951: Tournament #3826099639, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2024/11/22 8:25:31 CET [2024/11/22 2:25:31 ET]
+Table '3826099639 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1110 in chips) 
+Seat 3: Willemann85 (390 in chips) 
+Mahu2021: posts small blind 20
+Willemann85: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s Tc]
+Mahu2021: folds 
+Uncalled bet (20) returned to Willemann85
+Willemann85 collected 40 from pot
+Willemann85: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: Willemann85 (big blind) collected (40)
+
+
+
+PokerStars Hand #253516404278: Tournament #3826099639, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2024/11/22 8:25:35 CET [2024/11/22 2:25:35 ET]
+Table '3826099639 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (1090 in chips) 
+Seat 3: Willemann85 (410 in chips) 
+Willemann85: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2s Th]
+Willemann85: raises 370 to 410 and is all-in
+Mahu2021: folds 
+Uncalled bet (370) returned to Willemann85
+Willemann85 collected 80 from pot
+Willemann85: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 3: Willemann85 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #253516404788: Tournament #3826099639, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2024/11/22 8:25:42 CET [2024/11/22 2:25:42 ET]
+Table '3826099639 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1050 in chips) 
+Seat 3: Willemann85 (450 in chips) 
+Mahu2021: posts small blind 20
+Willemann85: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Th 2s]
+Mahu2021: folds 
+Uncalled bet (20) returned to Willemann85
+Willemann85 collected 40 from pot
+Willemann85: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: Willemann85 (big blind) collected (40)
+
+
+
+PokerStars Hand #253516405082: Tournament #3826099639, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2024/11/22 8:25:46 CET [2024/11/22 2:25:46 ET]
+Table '3826099639 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (1030 in chips) 
+Seat 3: Willemann85 (470 in chips) 
+Willemann85: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd 2c]
+Willemann85: raises 430 to 470 and is all-in
+Mahu2021: folds 
+Uncalled bet (430) returned to Willemann85
+Willemann85 collected 80 from pot
+Willemann85: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 3: Willemann85 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #253516405657: Tournament #3826099639, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2024/11/22 8:25:55 CET [2024/11/22 2:25:55 ET]
+Table '3826099639 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (990 in chips) 
+Seat 3: Willemann85 (510 in chips) 
+Mahu2021: posts small blind 20
+Willemann85: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d Jh]
+Mahu2021: raises 80 to 120
+Willemann85: calls 80
+*** FLOP *** [7h Ks Kd]
+Willemann85: checks 
+Mahu2021: bets 870 and is all-in
+Willemann85: folds 
+Uncalled bet (870) returned to Mahu2021
+Mahu2021 collected 240 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [7h Ks Kd]
+Seat 1: Mahu2021 (button) (small blind) collected (240)
+Seat 3: Willemann85 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #253516406584: Tournament #3826099639, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2024/11/22 8:26:08 CET [2024/11/22 2:26:08 ET]
+Table '3826099639 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (1110 in chips) 
+Seat 3: Willemann85 (390 in chips) 
+Willemann85: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qd 9c]
+Willemann85: calls 20
+Mahu2021: checks 
+*** FLOP *** [Jc 7h Ks]
+Mahu2021: checks 
+Willemann85: bets 40
+Mahu2021: calls 40
+*** TURN *** [Jc 7h Ks] [5d]
+Mahu2021: checks 
+Willemann85: bets 80
+Mahu2021: folds 
+Uncalled bet (80) returned to Willemann85
+Willemann85 collected 160 from pot
+Willemann85: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Jc 7h Ks 5d]
+Seat 1: Mahu2021 (big blind) folded on the Turn
+Seat 3: Willemann85 (button) (small blind) collected (160)
+
+
+
+PokerStars Hand #253516408217: Tournament #3826099639, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2024/11/22 8:26:31 CET [2024/11/22 2:26:31 ET]
+Table '3826099639 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1030 in chips) 
+Seat 3: Willemann85 (470 in chips) 
+Mahu2021: posts small blind 20
+Willemann85: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8d Th]
+Mahu2021: folds 
+Uncalled bet (20) returned to Willemann85
+Willemann85 collected 40 from pot
+Willemann85: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: Willemann85 (big blind) collected (40)
+
+
+
+PokerStars Hand #253516408571: Tournament #3826099639, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2024/11/22 8:26:36 CET [2024/11/22 2:26:36 ET]
+Table '3826099639 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (1010 in chips) 
+Seat 3: Willemann85 (490 in chips) 
+Willemann85: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad 5d]
+Willemann85: raises 450 to 490 and is all-in
+Mahu2021: calls 450
+*** FLOP *** [8h 6h 3h]
+*** TURN *** [8h 6h 3h] [9h]
+*** RIVER *** [8h 6h 3h 9h] [Ah]
+*** SHOW DOWN ***
+Mahu2021: shows [Ad 5d] (a flush, Ace high)
+Willemann85: shows [9s Jd] (a flush, Ace high)
+Mahu2021 collected 490 from pot
+Willemann85 collected 490 from pot
+*** SUMMARY ***
+Total pot 980 | Rake 0 
+Board [8h 6h 3h 9h Ah]
+Seat 1: Mahu2021 (big blind) showed [Ad 5d] and won (490) with a flush, Ace high
+Seat 3: Willemann85 (button) (small blind) showed [9s Jd] and won (490) with a flush, Ace high
+
+
+
+PokerStars Hand #253516409467: Tournament #3826099639, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2024/11/22 8:26:48 CET [2024/11/22 2:26:48 ET]
+Table '3826099639 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1010 in chips) 
+Seat 3: Willemann85 (490 in chips) 
+Mahu2021: posts small blind 20
+Willemann85: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c Jc]
+Mahu2021: raises 80 to 120
+Willemann85: calls 80
+*** FLOP *** [As Td 3h]
+Willemann85: checks 
+Mahu2021: bets 890 and is all-in
+Willemann85: calls 370 and is all-in
+Uncalled bet (520) returned to Mahu2021
+*** TURN *** [As Td 3h] [Qs]
+*** RIVER *** [As Td 3h Qs] [8h]
+*** SHOW DOWN ***
+Willemann85: shows [Js Ts] (a pair of Tens)
+Mahu2021: shows [6c Jc] (high card Ace)
+Willemann85 collected 980 from pot
+*** SUMMARY ***
+Total pot 980 | Rake 0 
+Board [As Td 3h Qs 8h]
+Seat 1: Mahu2021 (button) (small blind) showed [6c Jc] and lost with high card Ace
+Seat 3: Willemann85 (big blind) showed [Js Ts] and won (980) with a pair of Tens
+
+
+
+PokerStars Hand #253516410766: Tournament #3826099639, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2024/11/22 8:27:07 CET [2024/11/22 2:27:07 ET]
+Table '3826099639 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (520 in chips) 
+Seat 3: Willemann85 (980 in chips) 
+Willemann85: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2c Kc]
+Willemann85: raises 40 to 80
+Mahu2021: raises 440 to 520 and is all-in
+Willemann85: calls 440
+*** FLOP *** [Td 9d 5s]
+*** TURN *** [Td 9d 5s] [9h]
+*** RIVER *** [Td 9d 5s 9h] [8s]
+*** SHOW DOWN ***
+Mahu2021: shows [2c Kc] (a pair of Nines)
+Willemann85: shows [9s 9c] (four of a kind, Nines)
+Willemann85 collected 1040 from pot
+Mahu2021 finished the tournament in 2nd place
+Willemann85 wins the tournament - congratulations!
+Willemann85 wins a '$1.00 Power Path Step 2 Ticket' ticket
+*** SUMMARY ***
+Total pot 1040 | Rake 0 
+Board [Td 9d 5s 9h 8s]
+Seat 1: Mahu2021 (big blind) showed [2c Kc] and lost with a pair of Nines
+Seat 3: Willemann85 (button) (small blind) showed [9s 9c] and won (1040) with four of a kind, Nines
+
+
+

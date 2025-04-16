@@ -1,0 +1,45 @@
+﻿PokerStars Zoom Hand #255094300576:  Hold'em No Limit ($0.05/$0.10) - 2025/03/01 22:08:32 CET [2025/03/01 16:08:32 ET]
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: teebeutel16 ($5.99 in chips) 
+Seat 2: thodwris88 ($10 in chips) 
+Seat 3: Mahu2021 ($10 in chips) 
+Seat 4: Last70 ($24.21 in chips) 
+Seat 5: marcioadrs ($10 in chips) 
+Seat 6: zamponios ($31.18 in chips) 
+thodwris88: posts small blind $0.05
+Mahu2021: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s 2s]
+Last70: raises $0.13 to $0.23
+marcioadrs: folds 
+zamponios: calls $0.23
+teebeutel16: folds 
+thodwris88: folds 
+Mahu2021: calls $0.13
+*** FLOP *** [Qc 3c 2c]
+Mahu2021: checks 
+Last70: checks 
+zamponios: bets $0.30
+Mahu2021: calls $0.30
+Last70: folds 
+*** TURN *** [Qc 3c 2c] [Js]
+Mahu2021: checks 
+zamponios: checks 
+*** RIVER *** [Qc 3c 2c Js] [7s]
+Mahu2021: bets $1.28
+zamponios: folds 
+Uncalled bet ($1.28) returned to Mahu2021
+Mahu2021 collected $1.28 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.34 | Rake $0.06 
+Board [Qc 3c 2c Js 7s]
+Seat 1: teebeutel16 (button) folded before Flop (didn't bet)
+Seat 2: thodwris88 (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected ($1.28)
+Seat 4: Last70 folded on the Flop
+Seat 5: marcioadrs folded before Flop (didn't bet)
+Seat 6: zamponios folded on the River
+
+
+

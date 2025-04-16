@@ -1,0 +1,87 @@
+﻿PokerStars Hand #251138751208: Tournament #3769770864, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2024/06/22 15:29:58 CET [2024/06/22 9:29:58 ET]
+Table '3769770864 1' 3-max Seat #1 is the button
+Seat 1: Superflakes (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: stickyfkr (500 in chips) 
+Mahu2021: posts small blind 10
+stickyfkr: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6h 2d]
+Superflakes: raises 480 to 500 and is all-in
+Mahu2021: folds 
+stickyfkr: calls 480 and is all-in
+*** FLOP *** [5c 6d Ts]
+*** TURN *** [5c 6d Ts] [6s]
+*** RIVER *** [5c 6d Ts 6s] [9h]
+*** SHOW DOWN ***
+stickyfkr: shows [7c As] (a pair of Sixes)
+Superflakes: shows [Ad 8c] (a pair of Sixes)
+stickyfkr collected 505 from pot
+Superflakes collected 505 from pot
+*** SUMMARY ***
+Total pot 1010 | Rake 0 
+Board [5c 6d Ts 6s 9h]
+Seat 1: Superflakes (button) showed [Ad 8c] and won (505) with a pair of Sixes
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: stickyfkr (big blind) showed [7c As] and won (505) with a pair of Sixes
+
+
+
+PokerStars Hand #251138755120: Tournament #3769770864, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2024/06/22 15:30:19 CET [2024/06/22 9:30:19 ET]
+Table '3769770864 1' 3-max Seat #2 is the button
+Seat 1: Superflakes (505 in chips) 
+Seat 2: Mahu2021 (490 in chips) 
+Seat 3: stickyfkr (505 in chips) 
+stickyfkr: posts small blind 10
+Superflakes: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Th 9c]
+Mahu2021: folds 
+stickyfkr: calls 10
+Superflakes: checks 
+*** FLOP *** [8s Qc 3s]
+stickyfkr: checks 
+Superflakes: bets 20
+stickyfkr: folds 
+Uncalled bet (20) returned to Superflakes
+Superflakes collected 40 from pot
+Superflakes: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [8s Qc 3s]
+Seat 1: Superflakes (big blind) collected (40)
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: stickyfkr (small blind) folded on the Flop
+
+
+
+PokerStars Hand #251138758169: Tournament #3769770864, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2024/06/22 15:30:35 CET [2024/06/22 9:30:35 ET]
+Table '3769770864 1' 3-max Seat #3 is the button
+Seat 1: Superflakes (525 in chips) 
+Seat 2: Mahu2021 (490 in chips) 
+Seat 3: stickyfkr (485 in chips) 
+Superflakes: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad 3d]
+stickyfkr: folds 
+Superflakes: calls 10
+Mahu2021: raises 470 to 490 and is all-in
+Superflakes: calls 470
+*** FLOP *** [5s Ah 6c]
+*** TURN *** [5s Ah 6c] [Ks]
+*** RIVER *** [5s Ah 6c Ks] [Td]
+*** SHOW DOWN ***
+Superflakes: shows [5h Kh] (two pair, Kings and Fives)
+Mahu2021: shows [Ad 3d] (a pair of Aces)
+Superflakes collected 980 from pot
+Mahu2021 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 980 | Rake 0 
+Board [5s Ah 6c Ks Td]
+Seat 1: Superflakes (small blind) showed [5h Kh] and won (980) with two pair, Kings and Fives
+Seat 2: Mahu2021 (big blind) showed [Ad 3d] and lost with a pair of Aces
+Seat 3: stickyfkr (button) folded before Flop (didn't bet)
+
+
+

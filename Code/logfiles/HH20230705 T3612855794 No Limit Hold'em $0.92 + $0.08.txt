@@ -1,0 +1,251 @@
+﻿PokerStars Hand #244636448461: Tournament #3612855794, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/07/05 10:28:47 CET [2023/07/05 4:28:47 ET]
+Table '3612855794 1' 3-max Seat #1 is the button
+Seat 1: Mdpfelipe (500 in chips) 
+Seat 2: Maskim_Pablo (500 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+Maskim_Pablo: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8d Td]
+Mdpfelipe: folds 
+Maskim_Pablo: calls 10
+Mahu2021: checks 
+*** FLOP *** [2d 2s 6c]
+Maskim_Pablo: checks 
+Mahu2021: checks 
+*** TURN *** [2d 2s 6c] [Kc]
+Maskim_Pablo: checks 
+Mahu2021: checks 
+*** RIVER *** [2d 2s 6c Kc] [5c]
+Maskim_Pablo: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+Maskim_Pablo: shows [Jd 9s] (a pair of Deuces)
+Mahu2021: mucks hand 
+Maskim_Pablo collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [2d 2s 6c Kc 5c]
+Seat 1: Mdpfelipe (button) folded before Flop (didn't bet)
+Seat 2: Maskim_Pablo (small blind) showed [Jd 9s] and won (40) with a pair of Deuces
+Seat 3: Mahu2021 (big blind) mucked [8d Td]
+
+
+
+PokerStars Hand #244636450706: Tournament #3612855794, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/07/05 10:29:08 CET [2023/07/05 4:29:08 ET]
+Table '3612855794 1' 3-max Seat #2 is the button
+Seat 1: Mdpfelipe (500 in chips) 
+Seat 2: Maskim_Pablo (520 in chips) 
+Seat 3: Mahu2021 (480 in chips) 
+Mahu2021: posts small blind 10
+Mdpfelipe: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Td 7h]
+Maskim_Pablo: raises 20 to 40
+Mahu2021: folds 
+Mdpfelipe: calls 20
+*** FLOP *** [Tc 9d Qs]
+Mdpfelipe: checks 
+Maskim_Pablo: bets 40
+Mdpfelipe: calls 40
+*** TURN *** [Tc 9d Qs] [9s]
+Mdpfelipe: checks 
+Maskim_Pablo: bets 40
+Mdpfelipe: folds 
+Uncalled bet (40) returned to Maskim_Pablo
+Maskim_Pablo collected 170 from pot
+Maskim_Pablo: doesn't show hand 
+*** SUMMARY ***
+Total pot 170 | Rake 0 
+Board [Tc 9d Qs 9s]
+Seat 1: Mdpfelipe (big blind) folded on the Turn
+Seat 2: Maskim_Pablo (button) collected (170)
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #244636453221: Tournament #3612855794, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/07/05 10:29:31 CET [2023/07/05 4:29:31 ET]
+Table '3612855794 1' 3-max Seat #3 is the button
+Seat 1: Mdpfelipe (420 in chips) 
+Seat 2: Maskim_Pablo (610 in chips) 
+Seat 3: Mahu2021 (470 in chips) 
+Mdpfelipe: posts small blind 10
+Maskim_Pablo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c 7c]
+Mahu2021: raises 20 to 40
+Mdpfelipe: folds 
+Maskim_Pablo: calls 20
+*** FLOP *** [2d 3s 7h]
+Maskim_Pablo: checks 
+Mahu2021: bets 90
+Maskim_Pablo: folds 
+Uncalled bet (90) returned to Mahu2021
+Mahu2021 collected 90 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [2d 3s 7h]
+Seat 1: Mdpfelipe (small blind) folded before Flop
+Seat 2: Maskim_Pablo (big blind) folded on the Flop
+Seat 3: Mahu2021 (button) collected (90)
+
+
+
+PokerStars Hand #244636455427: Tournament #3612855794, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/07/05 10:29:52 CET [2023/07/05 4:29:52 ET]
+Table '3612855794 1' 3-max Seat #1 is the button
+Seat 1: Mdpfelipe (410 in chips) 
+Seat 2: Maskim_Pablo (570 in chips) 
+Seat 3: Mahu2021 (520 in chips) 
+Maskim_Pablo: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h Td]
+Mdpfelipe: raises 20 to 40
+Maskim_Pablo: calls 30
+Mahu2021: folds 
+*** FLOP *** [Ad 4h 5s]
+Maskim_Pablo: checks 
+Mdpfelipe: checks 
+*** TURN *** [Ad 4h 5s] [8c]
+Maskim_Pablo: bets 40
+Mdpfelipe: calls 40
+*** RIVER *** [Ad 4h 5s 8c] [Kd]
+Maskim_Pablo: bets 60
+Mdpfelipe: raises 80 to 140
+Maskim_Pablo: calls 80
+*** SHOW DOWN ***
+Mdpfelipe: shows [5d 5h] (three of a kind, Fives)
+Maskim_Pablo: mucks hand 
+Mdpfelipe collected 460 from pot
+*** SUMMARY ***
+Total pot 460 | Rake 0 
+Board [Ad 4h 5s 8c Kd]
+Seat 1: Mdpfelipe (button) showed [5d 5h] and won (460) with three of a kind, Fives
+Seat 2: Maskim_Pablo (small blind) mucked [4c Ac]
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #244636460730: Tournament #3612855794, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/07/05 10:30:41 CET [2023/07/05 4:30:41 ET]
+Table '3612855794 1' 3-max Seat #2 is the button
+Seat 1: Mdpfelipe (650 in chips) 
+Seat 2: Maskim_Pablo (350 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+Mahu2021: posts small blind 10
+Mdpfelipe: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s Kd]
+Maskim_Pablo: raises 60 to 80
+Mahu2021: folds 
+Mdpfelipe: folds 
+Uncalled bet (60) returned to Maskim_Pablo
+Maskim_Pablo collected 50 from pot
+Maskim_Pablo: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: Mdpfelipe (big blind) folded before Flop
+Seat 2: Maskim_Pablo (button) collected (50)
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #244636462042: Tournament #3612855794, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/07/05 10:30:53 CET [2023/07/05 4:30:53 ET]
+Table '3612855794 1' 3-max Seat #3 is the button
+Seat 1: Mdpfelipe (630 in chips) 
+Seat 2: Maskim_Pablo (380 in chips) 
+Seat 3: Mahu2021 (490 in chips) 
+Mdpfelipe: posts small blind 10
+Maskim_Pablo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts Qh]
+Mahu2021: raises 20 to 40
+Mdpfelipe: folds 
+Maskim_Pablo: calls 20
+*** FLOP *** [3c 2d 8c]
+Maskim_Pablo: checks 
+Mahu2021: checks 
+*** TURN *** [3c 2d 8c] [7h]
+Maskim_Pablo: checks 
+Mahu2021: checks 
+*** RIVER *** [3c 2d 8c 7h] [2c]
+Maskim_Pablo: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+Maskim_Pablo: shows [As 6h] (a pair of Deuces)
+Mahu2021: mucks hand 
+Maskim_Pablo collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [3c 2d 8c 7h 2c]
+Seat 1: Mdpfelipe (small blind) folded before Flop
+Seat 2: Maskim_Pablo (big blind) showed [As 6h] and won (90) with a pair of Deuces
+Seat 3: Mahu2021 (button) mucked [Ts Qh]
+
+
+
+PokerStars Hand #244636463989: Tournament #3612855794, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/07/05 10:31:11 CET [2023/07/05 4:31:11 ET]
+Table '3612855794 1' 3-max Seat #1 is the button
+Seat 1: Mdpfelipe (620 in chips) 
+Seat 2: Maskim_Pablo (430 in chips) 
+Seat 3: Mahu2021 (450 in chips) 
+Maskim_Pablo: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh 3d]
+Mdpfelipe: folds 
+Maskim_Pablo: raises 20 to 40
+Mahu2021: calls 20
+*** FLOP *** [6h Ks 8s]
+Maskim_Pablo: checks 
+Mahu2021: bets 80
+Maskim_Pablo: calls 80
+*** TURN *** [6h Ks 8s] [2d]
+Maskim_Pablo: checks 
+Mahu2021: bets 330 and is all-in
+Maskim_Pablo: calls 310 and is all-in
+Uncalled bet (20) returned to Mahu2021
+*** RIVER *** [6h Ks 8s 2d] [Js]
+*** SHOW DOWN ***
+Maskim_Pablo: shows [Kd Td] (a pair of Kings)
+Mahu2021: shows [Kh 3d] (a pair of Kings - lower kicker)
+Maskim_Pablo collected 860 from pot
+*** SUMMARY ***
+Total pot 860 | Rake 0 
+Board [6h Ks 8s 2d Js]
+Seat 1: Mdpfelipe (button) folded before Flop (didn't bet)
+Seat 2: Maskim_Pablo (small blind) showed [Kd Td] and won (860) with a pair of Kings
+Seat 3: Mahu2021 (big blind) showed [Kh 3d] and lost with a pair of Kings
+
+
+
+PokerStars Hand #244636466673: Tournament #3612855794, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/07/05 10:31:36 CET [2023/07/05 4:31:36 ET]
+Table '3612855794 1' 3-max Seat #2 is the button
+Seat 1: Mdpfelipe (620 in chips) 
+Seat 2: Maskim_Pablo (860 in chips) 
+Seat 3: Mahu2021 (20 in chips) 
+Mahu2021: posts small blind 10
+Mdpfelipe: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qs Qc]
+Maskim_Pablo: raises 40 to 60
+Mahu2021: calls 10 and is all-in
+Mdpfelipe: folds 
+Uncalled bet (40) returned to Maskim_Pablo
+*** FLOP *** [5s 4c 2c]
+*** TURN *** [5s 4c 2c] [Ah]
+*** RIVER *** [5s 4c 2c Ah] [7c]
+*** SHOW DOWN ***
+Mahu2021: shows [Qs Qc] (a pair of Queens)
+Maskim_Pablo: shows [Td Ac] (a pair of Aces)
+Maskim_Pablo collected 60 from pot
+Mahu2021 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [5s 4c 2c Ah 7c]
+Seat 1: Mdpfelipe (big blind) folded before Flop
+Seat 2: Maskim_Pablo (button) showed [Td Ac] and won (60) with a pair of Aces
+Seat 3: Mahu2021 (small blind) showed [Qs Qc] and lost with a pair of Queens
+
+
+

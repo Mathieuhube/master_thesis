@@ -1,0 +1,858 @@
+﻿PokerStars Hand #248820758295: Tournament #3714378379, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/02/11 18:08:34 CET [2024/02/11 12:08:34 ET]
+Table '3714378379 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: Gek1987 (500 in chips) 
+Seat 3: korte131 (500 in chips) 
+Gek1987: posts small blind 10
+korte131: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h 4d]
+Mahu2021: folds 
+Gek1987: calls 10
+korte131: checks 
+*** FLOP *** [4h 3h 3s]
+Gek1987: bets 20
+korte131: calls 20
+*** TURN *** [4h 3h 3s] [5d]
+Gek1987: checks 
+korte131: checks 
+*** RIVER *** [4h 3h 3s 5d] [9s]
+Gek1987: checks 
+korte131: checks 
+*** SHOW DOWN ***
+Gek1987: shows [2h Qh] (a pair of Threes)
+korte131: mucks hand 
+Gek1987 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [4h 3h 3s 5d 9s]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: Gek1987 (small blind) showed [2h Qh] and won (80) with a pair of Threes
+Seat 3: korte131 (big blind) mucked [7h 8d]
+
+
+
+PokerStars Hand #248820770286: Tournament #3714378379, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/02/11 18:09:09 CET [2024/02/11 12:09:09 ET]
+Table '3714378379 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: Gek1987 (540 in chips) 
+Seat 3: korte131 (460 in chips) 
+korte131: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d 9d]
+Gek1987: folds 
+korte131: calls 10
+Mahu2021: checks 
+*** FLOP *** [4c Tc 7h]
+korte131: checks 
+Mahu2021: checks 
+*** TURN *** [4c Tc 7h] [6h]
+korte131: checks 
+Mahu2021: checks 
+*** RIVER *** [4c Tc 7h 6h] [2c]
+korte131: checks 
+Mahu2021: bets 20
+korte131: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [4c Tc 7h 6h 2c]
+Seat 1: Mahu2021 (big blind) collected (40)
+Seat 2: Gek1987 (button) folded before Flop (didn't bet)
+Seat 3: korte131 (small blind) folded on the River
+
+
+
+PokerStars Hand #248820781022: Tournament #3714378379, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/02/11 18:09:40 CET [2024/02/11 12:09:40 ET]
+Table '3714378379 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (520 in chips) 
+Seat 2: Gek1987 (540 in chips) 
+Seat 3: korte131 (440 in chips) 
+Mahu2021: posts small blind 10
+Gek1987: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Th Qh]
+korte131: calls 20
+Mahu2021: calls 10
+Gek1987: checks 
+*** FLOP *** [8h Ts 9s]
+Mahu2021: bets 20
+Gek1987: folds 
+korte131: raises 20 to 40
+Mahu2021: calls 20
+*** TURN *** [8h Ts 9s] [Jh]
+Mahu2021: bets 20
+korte131: raises 20 to 40
+Mahu2021: raises 60 to 100
+korte131: calls 60
+*** RIVER *** [8h Ts 9s Jh] [7c]
+Mahu2021: bets 40
+korte131: calls 40
+*** SHOW DOWN ***
+Mahu2021: shows [Th Qh] (a straight, Eight to Queen)
+korte131: mucks hand 
+Mahu2021 collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | Rake 0 
+Board [8h Ts 9s Jh 7c]
+Seat 1: Mahu2021 (small blind) showed [Th Qh] and won (420) with a straight, Eight to Queen
+Seat 2: Gek1987 (big blind) folded on the Flop
+Seat 3: korte131 (button) mucked [Jd Ah]
+
+
+
+PokerStars Hand #248820794956: Tournament #3714378379, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/02/11 18:10:19 CET [2024/02/11 12:10:19 ET]
+Table '3714378379 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (740 in chips) 
+Seat 2: Gek1987 (520 in chips) 
+Seat 3: korte131 (240 in chips) 
+Gek1987: posts small blind 10
+korte131: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d Kh]
+Mahu2021: calls 20
+Gek1987: calls 10
+korte131: checks 
+*** FLOP *** [9h Ks 9c]
+Gek1987: checks 
+korte131: bets 40
+Mahu2021: raises 680 to 720 and is all-in
+Gek1987: folds 
+korte131: folds 
+Uncalled bet (680) returned to Mahu2021
+Mahu2021 collected 140 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 140 | Rake 0 
+Board [9h Ks 9c]
+Seat 1: Mahu2021 (button) collected (140)
+Seat 2: Gek1987 (small blind) folded on the Flop
+Seat 3: korte131 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #248820804286: Tournament #3714378379, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/02/11 18:10:46 CET [2024/02/11 12:10:46 ET]
+Table '3714378379 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (820 in chips) 
+Seat 2: Gek1987 (500 in chips) 
+Seat 3: korte131 (180 in chips) 
+korte131: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h 6c]
+Gek1987: folds 
+korte131: raises 150 to 180 and is all-in
+Mahu2021: folds 
+Uncalled bet (150) returned to korte131
+korte131 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: Gek1987 (button) folded before Flop (didn't bet)
+Seat 3: korte131 (small blind) collected (60)
+
+
+
+PokerStars Hand #248820807600: Tournament #3714378379, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/02/11 18:10:55 CET [2024/02/11 12:10:55 ET]
+Table '3714378379 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (790 in chips) 
+Seat 2: Gek1987 (500 in chips) 
+Seat 3: korte131 (210 in chips) 
+Mahu2021: posts small blind 15
+Gek1987: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h 9c]
+korte131: raises 180 to 210 and is all-in
+Mahu2021: folds 
+Gek1987: folds 
+Uncalled bet (180) returned to korte131
+korte131 collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: Gek1987 (big blind) folded before Flop
+Seat 3: korte131 (button) collected (75)
+
+
+
+PokerStars Hand #248820809951: Tournament #3714378379, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/02/11 18:11:02 CET [2024/02/11 12:11:02 ET]
+Table '3714378379 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (775 in chips) 
+Seat 2: Gek1987 (470 in chips) 
+Seat 3: korte131 (255 in chips) 
+Gek1987: posts small blind 15
+korte131: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qd 5c]
+Mahu2021: folds 
+Gek1987: calls 15
+korte131: raises 225 to 255 and is all-in
+Gek1987: folds 
+Uncalled bet (225) returned to korte131
+korte131 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: Gek1987 (small blind) folded before Flop
+Seat 3: korte131 (big blind) collected (60)
+
+
+
+PokerStars Hand #248820813386: Tournament #3714378379, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/02/11 18:11:11 CET [2024/02/11 12:11:11 ET]
+Table '3714378379 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (775 in chips) 
+Seat 2: Gek1987 (440 in chips) 
+Seat 3: korte131 (285 in chips) 
+korte131: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d 5s]
+Gek1987: folds 
+korte131: raises 255 to 285 and is all-in
+Mahu2021: folds 
+Uncalled bet (255) returned to korte131
+korte131 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: Gek1987 (button) folded before Flop (didn't bet)
+Seat 3: korte131 (small blind) collected (60)
+
+
+
+PokerStars Hand #248820815662: Tournament #3714378379, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/02/11 18:11:17 CET [2024/02/11 12:11:17 ET]
+Table '3714378379 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (745 in chips) 
+Seat 2: Gek1987 (440 in chips) 
+Seat 3: korte131 (315 in chips) 
+Mahu2021: posts small blind 15
+Gek1987: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js 4h]
+korte131: calls 30
+Mahu2021: calls 15
+Gek1987: checks 
+*** FLOP *** [Qc 5c 2h]
+Mahu2021: checks 
+Gek1987: checks 
+korte131: checks 
+*** TURN *** [Qc 5c 2h] [5h]
+Mahu2021: checks 
+Gek1987: checks 
+korte131: checks 
+*** RIVER *** [Qc 5c 2h 5h] [Ac]
+Mahu2021: checks 
+Gek1987: checks 
+korte131: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [Js 4h] (a pair of Fives)
+Gek1987: mucks hand 
+korte131: shows [7d Ks] (a pair of Fives - Ace+King kicker)
+korte131 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [Qc 5c 2h 5h Ac]
+Seat 1: Mahu2021 (small blind) showed [Js 4h] and lost with a pair of Fives
+Seat 2: Gek1987 (big blind) mucked [7c 6s]
+Seat 3: korte131 (button) showed [7d Ks] and won (90) with a pair of Fives
+
+
+
+PokerStars Hand #248820825759: Tournament #3714378379, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/02/11 18:11:46 CET [2024/02/11 12:11:46 ET]
+Table '3714378379 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (715 in chips) 
+Seat 2: Gek1987 (410 in chips) 
+Seat 3: korte131 (375 in chips) 
+Gek1987: posts small blind 15
+korte131: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kc 8h]
+Mahu2021: raises 30 to 60
+Gek1987: folds 
+korte131: raises 315 to 375 and is all-in
+Mahu2021: folds 
+Uncalled bet (315) returned to korte131
+korte131 collected 135 from pot
+*** SUMMARY ***
+Total pot 135 | Rake 0 
+Seat 1: Mahu2021 (button) folded before Flop
+Seat 2: Gek1987 (small blind) folded before Flop
+Seat 3: korte131 (big blind) collected (135)
+
+
+
+PokerStars Hand #248820832960: Tournament #3714378379, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/02/11 18:12:06 CET [2024/02/11 12:12:06 ET]
+Table '3714378379 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (655 in chips) 
+Seat 2: Gek1987 (395 in chips) 
+Seat 3: korte131 (450 in chips) 
+korte131: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h 6c]
+Gek1987: raises 30 to 60
+korte131: raises 390 to 450 and is all-in
+Mahu2021: folds 
+Gek1987: calls 335 and is all-in
+Uncalled bet (55) returned to korte131
+*** FLOP *** [4h 7c 4d]
+*** TURN *** [4h 7c 4d] [Jc]
+*** RIVER *** [4h 7c 4d Jc] [Qc]
+*** SHOW DOWN ***
+korte131: shows [Jh As] (two pair, Jacks and Fours)
+Gek1987: shows [Qs Kd] (two pair, Queens and Fours)
+Gek1987 collected 820 from pot
+*** SUMMARY ***
+Total pot 820 | Rake 0 
+Board [4h 7c 4d Jc Qc]
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: Gek1987 (button) showed [Qs Kd] and won (820) with two pair, Queens and Fours
+Seat 3: korte131 (small blind) showed [Jh As] and lost with two pair, Jacks and Fours
+
+
+
+PokerStars Hand #248820839039: Tournament #3714378379, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/02/11 18:12:23 CET [2024/02/11 12:12:23 ET]
+Table '3714378379 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (625 in chips) 
+Seat 2: Gek1987 (820 in chips) 
+Seat 3: korte131 (55 in chips) 
+Mahu2021: posts small blind 15
+Gek1987: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd 3d]
+korte131: raises 25 to 55 and is all-in
+Mahu2021: calls 40
+Gek1987: calls 25
+*** FLOP *** [Qs 5h 5c]
+Mahu2021: checks 
+Gek1987: checks 
+*** TURN *** [Qs 5h 5c] [Td]
+Mahu2021: checks 
+Gek1987: checks 
+*** RIVER *** [Qs 5h 5c Td] [7d]
+Mahu2021: checks 
+Gek1987: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [Kd 3d] (a pair of Fives)
+Gek1987: mucks hand 
+korte131: shows [Ad Js] (a pair of Fives - Ace kicker)
+korte131 collected 165 from pot
+*** SUMMARY ***
+Total pot 165 | Rake 0 
+Board [Qs 5h 5c Td 7d]
+Seat 1: Mahu2021 (small blind) showed [Kd 3d] and lost with a pair of Fives
+Seat 2: Gek1987 (big blind) mucked [9c 4c]
+Seat 3: korte131 (button) showed [Ad Js] and won (165) with a pair of Fives
+
+
+
+PokerStars Hand #248820846935: Tournament #3714378379, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/02/11 18:12:45 CET [2024/02/11 12:12:45 ET]
+Table '3714378379 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (570 in chips) 
+Seat 2: Gek1987 (765 in chips) 
+Seat 3: korte131 (165 in chips) 
+Gek1987: posts small blind 20
+korte131: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh Td]
+Mahu2021: folds 
+Gek1987: folds 
+Uncalled bet (20) returned to korte131
+korte131 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: Gek1987 (small blind) folded before Flop
+Seat 3: korte131 (big blind) collected (40)
+
+
+
+PokerStars Hand #248820850230: Tournament #3714378379, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/02/11 18:12:55 CET [2024/02/11 12:12:55 ET]
+Table '3714378379 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (570 in chips) 
+Seat 2: Gek1987 (745 in chips) 
+Seat 3: korte131 (185 in chips) 
+korte131: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c Td]
+Gek1987: raises 705 to 745 and is all-in
+korte131: calls 165 and is all-in
+Mahu2021: folds 
+Uncalled bet (560) returned to Gek1987
+*** FLOP *** [6s Jc Ah]
+*** TURN *** [6s Jc Ah] [7s]
+*** RIVER *** [6s Jc Ah 7s] [4c]
+*** SHOW DOWN ***
+korte131: shows [3d 8s] (high card Ace)
+Gek1987: shows [Ad Th] (a pair of Aces)
+Gek1987 collected 410 from pot
+korte131 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 410 | Rake 0 
+Board [6s Jc Ah 7s 4c]
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: Gek1987 (button) showed [Ad Th] and won (410) with a pair of Aces
+Seat 3: korte131 (small blind) showed [3d 8s] and lost with high card Ace
+
+
+
+PokerStars Hand #248820858068: Tournament #3714378379, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/02/11 18:13:17 CET [2024/02/11 12:13:17 ET]
+Table '3714378379 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (530 in chips) 
+Seat 2: Gek1987 (970 in chips) 
+Mahu2021: posts small blind 20
+Gek1987: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8d Tc]
+Mahu2021: calls 20
+Gek1987: checks 
+*** FLOP *** [As Th 3d]
+Gek1987: checks 
+Mahu2021: bets 40
+Gek1987: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [As Th 3d]
+Seat 1: Mahu2021 (button) (small blind) collected (80)
+Seat 2: Gek1987 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #248820863128: Tournament #3714378379, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/02/11 18:13:31 CET [2024/02/11 12:13:31 ET]
+Table '3714378379 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (570 in chips) 
+Seat 2: Gek1987 (930 in chips) 
+Gek1987: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh Js]
+Gek1987: calls 20
+Mahu2021: raises 80 to 120
+Gek1987: folds 
+Uncalled bet (80) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (80)
+Seat 2: Gek1987 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #248820869128: Tournament #3714378379, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/02/11 18:13:48 CET [2024/02/11 12:13:48 ET]
+Table '3714378379 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (610 in chips) 
+Seat 2: Gek1987 (890 in chips) 
+Mahu2021: posts small blind 20
+Gek1987: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h 8s]
+Mahu2021: folds 
+Uncalled bet (20) returned to Gek1987
+Gek1987 collected 40 from pot
+Gek1987: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 2: Gek1987 (big blind) collected (40)
+
+
+
+PokerStars Hand #248820870775: Tournament #3714378379, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/02/11 18:13:52 CET [2024/02/11 12:13:52 ET]
+Table '3714378379 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (590 in chips) 
+Seat 2: Gek1987 (910 in chips) 
+Gek1987: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c Ah]
+Gek1987: calls 20
+Mahu2021: checks 
+*** FLOP *** [Qs 3h 4h]
+Mahu2021: checks 
+Gek1987: bets 40
+Mahu2021: calls 40
+*** TURN *** [Qs 3h 4h] [3d]
+Mahu2021: checks 
+Gek1987: checks 
+*** RIVER *** [Qs 3h 4h 3d] [Kd]
+Mahu2021: checks 
+Gek1987: bets 80
+Mahu2021: folds 
+Uncalled bet (80) returned to Gek1987
+Gek1987 collected 160 from pot
+Gek1987: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Qs 3h 4h 3d Kd]
+Seat 1: Mahu2021 (big blind) folded on the River
+Seat 2: Gek1987 (button) (small blind) collected (160)
+
+
+
+PokerStars Hand #248820881037: Tournament #3714378379, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/02/11 18:14:22 CET [2024/02/11 12:14:22 ET]
+Table '3714378379 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (510 in chips) 
+Seat 2: Gek1987 (990 in chips) 
+Mahu2021: posts small blind 20
+Gek1987: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As 3h]
+Mahu2021: raises 40 to 80
+Gek1987: calls 40
+*** FLOP *** [6d Ad Qc]
+Gek1987: checks 
+Mahu2021: bets 160
+Gek1987: folds 
+Uncalled bet (160) returned to Mahu2021
+Mahu2021 collected 160 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [6d Ad Qc]
+Seat 1: Mahu2021 (button) (small blind) collected (160)
+Seat 2: Gek1987 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #248820885902: Tournament #3714378379, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/02/11 18:14:35 CET [2024/02/11 12:14:35 ET]
+Table '3714378379 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (590 in chips) 
+Seat 2: Gek1987 (910 in chips) 
+Gek1987: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4c 9s]
+Gek1987: calls 20
+Mahu2021: checks 
+*** FLOP *** [7c 2h 5c]
+Mahu2021: checks 
+Gek1987: bets 40
+Mahu2021: folds 
+Uncalled bet (40) returned to Gek1987
+Gek1987 collected 80 from pot
+Gek1987: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [7c 2h 5c]
+Seat 1: Mahu2021 (big blind) folded on the Flop
+Seat 2: Gek1987 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #248820891462: Tournament #3714378379, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/02/11 18:14:51 CET [2024/02/11 12:14:51 ET]
+Table '3714378379 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (550 in chips) 
+Seat 2: Gek1987 (950 in chips) 
+Mahu2021: posts small blind 30
+Gek1987: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc 5s]
+Mahu2021: calls 30
+Gek1987: checks 
+*** FLOP *** [Qs 8c 7c]
+Gek1987: checks 
+Mahu2021: checks 
+*** TURN *** [Qs 8c 7c] [5c]
+Gek1987: bets 90
+Mahu2021: calls 90
+*** RIVER *** [Qs 8c 7c 5c] [Ac]
+Gek1987: checks 
+Mahu2021: bets 400 and is all-in
+Gek1987: folds 
+Uncalled bet (400) returned to Mahu2021
+Mahu2021 collected 300 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [Qs 8c 7c 5c Ac]
+Seat 1: Mahu2021 (button) (small blind) collected (300)
+Seat 2: Gek1987 (big blind) folded on the River
+
+
+
+PokerStars Hand #248820899132: Tournament #3714378379, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/02/11 18:15:12 CET [2024/02/11 12:15:12 ET]
+Table '3714378379 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (700 in chips) 
+Seat 2: Gek1987 (800 in chips) 
+Gek1987: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8s 3h]
+Gek1987: calls 30
+Mahu2021: checks 
+*** FLOP *** [7d Th 4d]
+Mahu2021: checks 
+Gek1987: bets 60
+Mahu2021: folds 
+Uncalled bet (60) returned to Gek1987
+Gek1987 collected 120 from pot
+Gek1987: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [7d Th 4d]
+Seat 1: Mahu2021 (big blind) folded on the Flop
+Seat 2: Gek1987 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #248820903394: Tournament #3714378379, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/02/11 18:15:24 CET [2024/02/11 12:15:24 ET]
+Table '3714378379 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (640 in chips) 
+Seat 2: Gek1987 (860 in chips) 
+Mahu2021: posts small blind 30
+Gek1987: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad 2d]
+Mahu2021: raises 60 to 120
+Gek1987: raises 740 to 860 and is all-in
+Mahu2021: folds 
+Uncalled bet (740) returned to Gek1987
+Gek1987 collected 240 from pot
+Gek1987: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 2: Gek1987 (big blind) collected (240)
+
+
+
+PokerStars Hand #248820906589: Tournament #3714378379, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/02/11 18:15:33 CET [2024/02/11 12:15:33 ET]
+Table '3714378379 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (520 in chips) 
+Seat 2: Gek1987 (980 in chips) 
+Gek1987: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s 6d]
+Gek1987: calls 30
+Mahu2021: checks 
+*** FLOP *** [Ts 7c Kd]
+Mahu2021: checks 
+Gek1987: bets 60
+Mahu2021: folds 
+Uncalled bet (60) returned to Gek1987
+Gek1987 collected 120 from pot
+Gek1987: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Ts 7c Kd]
+Seat 1: Mahu2021 (big blind) folded on the Flop
+Seat 2: Gek1987 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #248820910578: Tournament #3714378379, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/02/11 18:15:44 CET [2024/02/11 12:15:44 ET]
+Table '3714378379 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (460 in chips) 
+Seat 2: Gek1987 (1040 in chips) 
+Mahu2021: posts small blind 30
+Gek1987: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As 5s]
+Mahu2021: raises 60 to 120
+Gek1987: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) collected (120)
+Seat 2: Gek1987 (big blind) folded before Flop
+
+
+
+PokerStars Hand #248820913711: Tournament #3714378379, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/02/11 18:15:52 CET [2024/02/11 12:15:52 ET]
+Table '3714378379 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (520 in chips) 
+Seat 2: Gek1987 (980 in chips) 
+Gek1987: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h 7d]
+Gek1987: calls 30
+Mahu2021: checks 
+*** FLOP *** [Tc 2c Qc]
+Mahu2021: checks 
+Gek1987: checks 
+*** TURN *** [Tc 2c Qc] [3s]
+Mahu2021: checks 
+Gek1987: bets 60
+Mahu2021: folds 
+Uncalled bet (60) returned to Gek1987
+Gek1987 collected 120 from pot
+Gek1987: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Tc 2c Qc 3s]
+Seat 1: Mahu2021 (big blind) folded on the Turn
+Seat 2: Gek1987 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #248820920237: Tournament #3714378379, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/02/11 18:16:11 CET [2024/02/11 12:16:11 ET]
+Table '3714378379 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (460 in chips) 
+Seat 2: Gek1987 (1040 in chips) 
+Mahu2021: posts small blind 30
+Gek1987: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Tc 8s]
+Mahu2021: calls 30
+Gek1987: checks 
+*** FLOP *** [8c As 5h]
+Gek1987: checks 
+Mahu2021: bets 60
+Gek1987: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [8c As 5h]
+Seat 1: Mahu2021 (button) (small blind) collected (120)
+Seat 2: Gek1987 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #248820925051: Tournament #3714378379, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/02/11 18:16:24 CET [2024/02/11 12:16:24 ET]
+Table '3714378379 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (520 in chips) 
+Seat 2: Gek1987 (980 in chips) 
+Gek1987: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d 9s]
+Gek1987: raises 60 to 120
+Mahu2021: folds 
+Uncalled bet (60) returned to Gek1987
+Gek1987 collected 120 from pot
+Gek1987: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: Gek1987 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #248820927635: Tournament #3714378379, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/02/11 18:16:31 CET [2024/02/11 12:16:31 ET]
+Table '3714378379 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (460 in chips) 
+Seat 2: Gek1987 (1040 in chips) 
+Mahu2021: posts small blind 30
+Gek1987: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8c 6s]
+Mahu2021: folds 
+Uncalled bet (30) returned to Gek1987
+Gek1987 collected 60 from pot
+Gek1987: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 2: Gek1987 (big blind) collected (60)
+
+
+
+PokerStars Hand #248820929223: Tournament #3714378379, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/02/11 18:16:36 CET [2024/02/11 12:16:36 ET]
+Table '3714378379 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (430 in chips) 
+Seat 2: Gek1987 (1070 in chips) 
+Gek1987: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5h 8d]
+Gek1987: calls 30
+Mahu2021: checks 
+*** FLOP *** [6d 3c 9s]
+Mahu2021: checks 
+Gek1987: bets 60
+Mahu2021: calls 60
+*** TURN *** [6d 3c 9s] [Qh]
+Mahu2021: checks 
+Gek1987: bets 150
+Mahu2021: folds 
+Uncalled bet (150) returned to Gek1987
+Gek1987 collected 240 from pot
+Gek1987: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [6d 3c 9s Qh]
+Seat 1: Mahu2021 (big blind) folded on the Turn
+Seat 2: Gek1987 (button) (small blind) collected (240)
+
+
+
+PokerStars Hand #248820938014: Tournament #3714378379, $1.84+$0.16 USD Hold'em No Limit - Level V (40/80) - 2024/02/11 18:17:00 CET [2024/02/11 12:17:00 ET]
+Table '3714378379 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (310 in chips) 
+Seat 2: Gek1987 (1190 in chips) 
+Mahu2021: posts small blind 40
+Gek1987: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4d 2h]
+Mahu2021: folds 
+Uncalled bet (40) returned to Gek1987
+Gek1987 collected 80 from pot
+Gek1987: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 2: Gek1987 (big blind) collected (80)
+
+
+
+PokerStars Hand #248820939862: Tournament #3714378379, $1.84+$0.16 USD Hold'em No Limit - Level V (40/80) - 2024/02/11 18:17:05 CET [2024/02/11 12:17:05 ET]
+Table '3714378379 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (270 in chips) 
+Seat 2: Gek1987 (1230 in chips) 
+Gek1987: posts small blind 40
+Mahu2021: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c 4c]
+Gek1987: raises 240 to 320
+Mahu2021: folds 
+Uncalled bet (240) returned to Gek1987
+Gek1987 collected 160 from pot
+Gek1987: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: Gek1987 (button) (small blind) collected (160)
+
+
+
+PokerStars Hand #248820942066: Tournament #3714378379, $1.84+$0.16 USD Hold'em No Limit - Level V (40/80) - 2024/02/11 18:17:11 CET [2024/02/11 12:17:11 ET]
+Table '3714378379 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (190 in chips) 
+Seat 2: Gek1987 (1310 in chips) 
+Mahu2021: posts small blind 40
+Gek1987: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8s Qh]
+Mahu2021: raises 110 to 190 and is all-in
+Gek1987: calls 110
+*** FLOP *** [8c 9c Kc]
+*** TURN *** [8c 9c Kc] [Td]
+*** RIVER *** [8c 9c Kc Td] [5s]
+*** SHOW DOWN ***
+Gek1987: shows [Qd Kd] (a pair of Kings)
+Mahu2021: shows [8s Qh] (a pair of Eights)
+Gek1987 collected 380 from pot
+Mahu2021 finished the tournament in 2nd place
+Gek1987 wins the tournament and receives $4.00 - congratulations!
+*** SUMMARY ***
+Total pot 380 | Rake 0 
+Board [8c 9c Kc Td 5s]
+Seat 1: Mahu2021 (button) (small blind) showed [8s Qh] and lost with a pair of Eights
+Seat 2: Gek1987 (big blind) showed [Qd Kd] and won (380) with a pair of Kings
+
+
+

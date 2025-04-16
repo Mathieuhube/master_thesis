@@ -1,0 +1,775 @@
+﻿PokerStars Hand #247011735330: Tournament #3670398857, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/09 18:15:34 CET [2023/11/09 12:15:34 ET]
+Table '3670398857 1' 3-max Seat #1 is the button
+Seat 1: Geckleberry (500 in chips) 
+Seat 2: DareDevil615 (500 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+DareDevil615: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Tc Ah]
+Geckleberry: folds 
+DareDevil615: calls 10
+Mahu2021: raises 40 to 60
+DareDevil615: calls 40
+*** FLOP *** [8h 5h 5d]
+DareDevil615: checks 
+Mahu2021: checks 
+*** TURN *** [8h 5h 5d] [Jh]
+DareDevil615: checks 
+Mahu2021: bets 60
+DareDevil615: calls 60
+*** RIVER *** [8h 5h 5d Jh] [7s]
+DareDevil615: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+DareDevil615: shows [9h Jc] (two pair, Jacks and Fives)
+Mahu2021: mucks hand 
+DareDevil615 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [8h 5h 5d Jh 7s]
+Seat 1: Geckleberry (button) folded before Flop (didn't bet)
+Seat 2: DareDevil615 (small blind) showed [9h Jc] and won (240) with two pair, Jacks and Fives
+Seat 3: Mahu2021 (big blind) mucked [Tc Ah]
+
+
+
+PokerStars Hand #247011742270: Tournament #3670398857, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/09 18:15:58 CET [2023/11/09 12:15:58 ET]
+Table '3670398857 1' 3-max Seat #2 is the button
+Seat 1: Geckleberry (500 in chips) 
+Seat 2: DareDevil615 (620 in chips) 
+Seat 3: Mahu2021 (380 in chips) 
+Mahu2021: posts small blind 10
+Geckleberry: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3c 4h]
+DareDevil615: calls 20
+Mahu2021: folds 
+Geckleberry: checks 
+*** FLOP *** [As Jh 6h]
+Geckleberry: checks 
+DareDevil615: checks 
+*** TURN *** [As Jh 6h] [8d]
+Geckleberry: checks 
+DareDevil615: checks 
+*** RIVER *** [As Jh 6h 8d] [Jd]
+Geckleberry: checks 
+DareDevil615: checks 
+*** SHOW DOWN ***
+Geckleberry: shows [Td Qs] (a pair of Jacks)
+DareDevil615: mucks hand 
+Geckleberry collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [As Jh 6h 8d Jd]
+Seat 1: Geckleberry (big blind) showed [Td Qs] and won (50) with a pair of Jacks
+Seat 2: DareDevil615 (button) mucked [3d 4d]
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #247011747667: Tournament #3670398857, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/09 18:16:17 CET [2023/11/09 12:16:17 ET]
+Table '3670398857 1' 3-max Seat #3 is the button
+Seat 1: Geckleberry (530 in chips) 
+Seat 2: DareDevil615 (600 in chips) 
+Seat 3: Mahu2021 (370 in chips) 
+Geckleberry: posts small blind 10
+DareDevil615: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s Ts]
+Mahu2021: folds 
+Geckleberry: raises 20 to 40
+DareDevil615: calls 20
+*** FLOP *** [Jd 4c Th]
+Geckleberry: bets 40
+DareDevil615: calls 40
+*** TURN *** [Jd 4c Th] [6c]
+Geckleberry: bets 120
+DareDevil615: folds 
+Uncalled bet (120) returned to Geckleberry
+Geckleberry collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Jd 4c Th 6c]
+Seat 1: Geckleberry (small blind) collected (160)
+Seat 2: DareDevil615 (big blind) folded on the Turn
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #247011755943: Tournament #3670398857, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/09 18:16:45 CET [2023/11/09 12:16:45 ET]
+Table '3670398857 1' 3-max Seat #1 is the button
+Seat 1: Geckleberry (610 in chips) 
+Seat 2: DareDevil615 (520 in chips) 
+Seat 3: Mahu2021 (370 in chips) 
+DareDevil615: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2c 4c]
+Geckleberry: folds 
+DareDevil615: folds 
+Uncalled bet (10) returned to Mahu2021
+Mahu2021 collected 20 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Geckleberry (button) folded before Flop (didn't bet)
+Seat 2: DareDevil615 (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (20)
+
+
+
+PokerStars Hand #247011759320: Tournament #3670398857, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/09 18:16:57 CET [2023/11/09 12:16:57 ET]
+Table '3670398857 1' 3-max Seat #2 is the button
+Seat 1: Geckleberry (610 in chips) 
+Seat 2: DareDevil615 (510 in chips) 
+Seat 3: Mahu2021 (380 in chips) 
+Mahu2021: posts small blind 10
+Geckleberry: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h 9h]
+DareDevil615: calls 20
+Mahu2021: calls 10
+Geckleberry: checks 
+*** FLOP *** [Ah Tc 7h]
+Mahu2021: checks 
+Geckleberry: checks 
+DareDevil615: checks 
+*** TURN *** [Ah Tc 7h] [Qs]
+Mahu2021: checks 
+Geckleberry: bets 30
+DareDevil615: calls 30
+Mahu2021: calls 30
+*** RIVER *** [Ah Tc 7h Qs] [8c]
+Mahu2021: checks 
+Geckleberry: bets 38
+DareDevil615: folds 
+Mahu2021: folds 
+Uncalled bet (38) returned to Geckleberry
+Geckleberry collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Board [Ah Tc 7h Qs 8c]
+Seat 1: Geckleberry (big blind) collected (150)
+Seat 2: DareDevil615 (button) folded on the River
+Seat 3: Mahu2021 (small blind) folded on the River
+
+
+
+PokerStars Hand #247011767858: Tournament #3670398857, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/09 18:17:26 CET [2023/11/09 12:17:26 ET]
+Table '3670398857 1' 3-max Seat #3 is the button
+Seat 1: Geckleberry (710 in chips) 
+Seat 2: DareDevil615 (460 in chips) 
+Seat 3: Mahu2021 (330 in chips) 
+Geckleberry: posts small blind 10
+DareDevil615: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts Kc]
+Mahu2021: raises 20 to 40
+Geckleberry: calls 30
+DareDevil615: calls 20
+*** FLOP *** [5h Qs 4s]
+Geckleberry: checks 
+DareDevil615: checks 
+Mahu2021: bets 40
+Geckleberry: folds 
+DareDevil615: calls 40
+*** TURN *** [5h Qs 4s] [Ks]
+DareDevil615: checks 
+Mahu2021: bets 250 and is all-in
+DareDevil615: folds 
+Uncalled bet (250) returned to Mahu2021
+Mahu2021 collected 200 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [5h Qs 4s Ks]
+Seat 1: Geckleberry (small blind) folded on the Flop
+Seat 2: DareDevil615 (big blind) folded on the Turn
+Seat 3: Mahu2021 (button) collected (200)
+
+
+
+PokerStars Hand #247011777945: Tournament #3670398857, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/09 18:18:00 CET [2023/11/09 12:18:00 ET]
+Table '3670398857 1' 3-max Seat #1 is the button
+Seat 1: Geckleberry (670 in chips) 
+Seat 2: DareDevil615 (380 in chips) 
+Seat 3: Mahu2021 (450 in chips) 
+DareDevil615: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s Qs]
+Geckleberry: raises 650 to 670 and is all-in
+DareDevil615: folds 
+Mahu2021: folds 
+Uncalled bet (650) returned to Geckleberry
+Geckleberry collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: Geckleberry (button) collected (50)
+Seat 2: DareDevil615 (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #247011780118: Tournament #3670398857, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/09 18:18:08 CET [2023/11/09 12:18:08 ET]
+Table '3670398857 1' 3-max Seat #2 is the button
+Seat 1: Geckleberry (700 in chips) 
+Seat 2: DareDevil615 (370 in chips) 
+Seat 3: Mahu2021 (430 in chips) 
+Mahu2021: posts small blind 10
+Geckleberry: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Th 7d]
+DareDevil615: calls 20
+Mahu2021: folds 
+Geckleberry: raises 680 to 700 and is all-in
+DareDevil615: calls 350 and is all-in
+Uncalled bet (330) returned to Geckleberry
+*** FLOP *** [As 8d Js]
+*** TURN *** [As 8d Js] [Qh]
+*** RIVER *** [As 8d Js Qh] [Jc]
+*** SHOW DOWN ***
+Geckleberry: shows [3s 3c] (two pair, Jacks and Threes)
+DareDevil615: shows [4s 5s] (a pair of Jacks)
+Geckleberry collected 750 from pot
+DareDevil615 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 750 | Rake 0 
+Board [As 8d Js Qh Jc]
+Seat 1: Geckleberry (big blind) showed [3s 3c] and won (750) with two pair, Jacks and Threes
+Seat 2: DareDevil615 (button) showed [4s 5s] and lost with a pair of Jacks
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #247011786711: Tournament #3670398857, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/09 18:18:30 CET [2023/11/09 12:18:30 ET]
+Table '3670398857 1' 3-max Seat #1 is the button
+Seat 1: Geckleberry (1080 in chips) 
+Seat 3: Mahu2021 (420 in chips) 
+Geckleberry: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Td 3c]
+Geckleberry: raises 20 to 40
+Mahu2021: folds 
+Uncalled bet (20) returned to Geckleberry
+Geckleberry collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Geckleberry (button) (small blind) collected (40)
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #247011789147: Tournament #3670398857, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/09 18:18:39 CET [2023/11/09 12:18:39 ET]
+Table '3670398857 1' 3-max Seat #3 is the button
+Seat 1: Geckleberry (1100 in chips) 
+Seat 3: Mahu2021 (400 in chips) 
+Mahu2021: posts small blind 15
+Geckleberry: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c 8s]
+Mahu2021: folds 
+Uncalled bet (15) returned to Geckleberry
+Geckleberry collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Geckleberry (big blind) collected (30)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #247011790521: Tournament #3670398857, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/09 18:18:43 CET [2023/11/09 12:18:43 ET]
+Table '3670398857 1' 3-max Seat #1 is the button
+Seat 1: Geckleberry (1115 in chips) 
+Seat 3: Mahu2021 (385 in chips) 
+Geckleberry: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c 7s]
+Geckleberry: raises 1085 to 1115 and is all-in
+Mahu2021: folds 
+Uncalled bet (1085) returned to Geckleberry
+Geckleberry collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Geckleberry (button) (small blind) collected (60)
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #247011792161: Tournament #3670398857, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/09 18:18:49 CET [2023/11/09 12:18:49 ET]
+Table '3670398857 1' 3-max Seat #3 is the button
+Seat 1: Geckleberry (1145 in chips) 
+Seat 3: Mahu2021 (355 in chips) 
+Mahu2021: posts small blind 15
+Geckleberry: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s Jd]
+Mahu2021: folds 
+Uncalled bet (15) returned to Geckleberry
+Geckleberry collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Geckleberry (big blind) collected (30)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #247011793421: Tournament #3670398857, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/09 18:18:53 CET [2023/11/09 12:18:53 ET]
+Table '3670398857 1' 3-max Seat #1 is the button
+Seat 1: Geckleberry (1160 in chips) 
+Seat 3: Mahu2021 (340 in chips) 
+Geckleberry: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js Ac]
+Geckleberry: raises 30 to 60
+Mahu2021: raises 280 to 340 and is all-in
+Geckleberry: folds 
+Uncalled bet (280) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: Geckleberry (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (120)
+
+
+
+PokerStars Hand #247011796954: Tournament #3670398857, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/09 18:19:05 CET [2023/11/09 12:19:05 ET]
+Table '3670398857 1' 3-max Seat #3 is the button
+Seat 1: Geckleberry (1100 in chips) 
+Seat 3: Mahu2021 (400 in chips) 
+Mahu2021: posts small blind 15
+Geckleberry: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h 6d]
+Mahu2021: folds 
+Uncalled bet (15) returned to Geckleberry
+Geckleberry collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Geckleberry (big blind) collected (30)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #247011798316: Tournament #3670398857, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/09 18:19:10 CET [2023/11/09 12:19:10 ET]
+Table '3670398857 1' 3-max Seat #1 is the button
+Seat 1: Geckleberry (1115 in chips) 
+Seat 3: Mahu2021 (385 in chips) 
+Geckleberry: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks 7d]
+Geckleberry: calls 15
+Mahu2021: checks 
+*** FLOP *** [7c 4h Jc]
+Mahu2021: checks 
+Geckleberry: bets 30
+Mahu2021: calls 30
+*** TURN *** [7c 4h Jc] [5d]
+Mahu2021: checks 
+Geckleberry: bets 60
+Mahu2021: raises 265 to 325 and is all-in
+Geckleberry: folds 
+Uncalled bet (265) returned to Mahu2021
+Mahu2021 collected 240 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [7c 4h Jc 5d]
+Seat 1: Geckleberry (button) (small blind) folded on the Turn
+Seat 3: Mahu2021 (big blind) collected (240)
+
+
+
+PokerStars Hand #247011805309: Tournament #3670398857, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/09 18:19:34 CET [2023/11/09 12:19:34 ET]
+Table '3670398857 1' 3-max Seat #3 is the button
+Seat 1: Geckleberry (995 in chips) 
+Seat 3: Mahu2021 (505 in chips) 
+Mahu2021: posts small blind 15
+Geckleberry: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Td 9c]
+Mahu2021: calls 15
+Geckleberry: raises 965 to 995 and is all-in
+Mahu2021: folds 
+Uncalled bet (965) returned to Geckleberry
+Geckleberry collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Geckleberry (big blind) collected (60)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #247011807247: Tournament #3670398857, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/09 18:19:40 CET [2023/11/09 12:19:40 ET]
+Table '3670398857 1' 3-max Seat #1 is the button
+Seat 1: Geckleberry (1025 in chips) 
+Seat 3: Mahu2021 (475 in chips) 
+Geckleberry: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah 9s]
+Geckleberry: raises 30 to 60
+Mahu2021: calls 30
+*** FLOP *** [2c 7h Ad]
+Mahu2021: checks 
+Geckleberry: bets 30
+Mahu2021: raises 60 to 90
+Geckleberry: calls 60
+*** TURN *** [2c 7h Ad] [4s]
+Mahu2021: bets 325 and is all-in
+Geckleberry: folds 
+Uncalled bet (325) returned to Mahu2021
+Mahu2021 collected 300 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [2c 7h Ad 4s]
+Seat 1: Geckleberry (button) (small blind) folded on the Turn
+Seat 3: Mahu2021 (big blind) collected (300)
+
+
+
+PokerStars Hand #247011813533: Tournament #3670398857, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/09 18:20:01 CET [2023/11/09 12:20:01 ET]
+Table '3670398857 1' 3-max Seat #3 is the button
+Seat 1: Geckleberry (875 in chips) 
+Seat 3: Mahu2021 (625 in chips) 
+Mahu2021: posts small blind 15
+Geckleberry: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc 4d]
+Mahu2021: folds 
+Uncalled bet (15) returned to Geckleberry
+Geckleberry collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Geckleberry (big blind) collected (30)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #247011814919: Tournament #3670398857, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/09 18:20:06 CET [2023/11/09 12:20:06 ET]
+Table '3670398857 1' 3-max Seat #1 is the button
+Seat 1: Geckleberry (890 in chips) 
+Seat 3: Mahu2021 (610 in chips) 
+Geckleberry: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h 2s]
+Geckleberry: raises 30 to 60
+Mahu2021: folds 
+Uncalled bet (30) returned to Geckleberry
+Geckleberry collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Geckleberry (button) (small blind) collected (60)
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #247011816238: Tournament #3670398857, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/09 18:20:11 CET [2023/11/09 12:20:11 ET]
+Table '3670398857 1' 3-max Seat #3 is the button
+Seat 1: Geckleberry (920 in chips) 
+Seat 3: Mahu2021 (580 in chips) 
+Mahu2021: posts small blind 15
+Geckleberry: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s Kc]
+Mahu2021: calls 15
+Geckleberry: checks 
+*** FLOP *** [5c Qh Td]
+Geckleberry: checks 
+Mahu2021: checks 
+*** TURN *** [5c Qh Td] [Tc]
+Geckleberry: checks 
+Mahu2021: bets 60
+Geckleberry: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [5c Qh Td Tc]
+Seat 1: Geckleberry (big blind) folded on the Turn
+Seat 3: Mahu2021 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #247011820835: Tournament #3670398857, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/09 18:20:27 CET [2023/11/09 12:20:27 ET]
+Table '3670398857 1' 3-max Seat #1 is the button
+Seat 1: Geckleberry (890 in chips) 
+Seat 3: Mahu2021 (610 in chips) 
+Geckleberry: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4c Ah]
+Geckleberry: raises 30 to 60
+Mahu2021: calls 30
+*** FLOP *** [Js Jh Th]
+Mahu2021: checks 
+Geckleberry: bets 30
+Mahu2021: calls 30
+*** TURN *** [Js Jh Th] [Kc]
+Mahu2021: checks 
+Geckleberry: bets 135
+Mahu2021: folds 
+Uncalled bet (135) returned to Geckleberry
+Geckleberry collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [Js Jh Th Kc]
+Seat 1: Geckleberry (button) (small blind) collected (180)
+Seat 3: Mahu2021 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #247011825000: Tournament #3670398857, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/09 18:20:41 CET [2023/11/09 12:20:41 ET]
+Table '3670398857 1' 3-max Seat #3 is the button
+Seat 1: Geckleberry (980 in chips) 
+Seat 3: Mahu2021 (520 in chips) 
+Mahu2021: posts small blind 15
+Geckleberry: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h 8c]
+Mahu2021: calls 15
+Geckleberry: raises 950 to 980 and is all-in
+Mahu2021: folds 
+Uncalled bet (950) returned to Geckleberry
+Geckleberry collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Geckleberry (big blind) collected (60)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #247011826887: Tournament #3670398857, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/09 18:20:47 CET [2023/11/09 12:20:47 ET]
+Table '3670398857 1' 3-max Seat #1 is the button
+Seat 1: Geckleberry (1010 in chips) 
+Seat 3: Mahu2021 (490 in chips) 
+Geckleberry: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s Js]
+Geckleberry: raises 30 to 60
+Mahu2021: calls 30
+*** FLOP *** [6c Kh 4h]
+Mahu2021: checks 
+Geckleberry: bets 30
+Mahu2021: calls 30
+*** TURN *** [6c Kh 4h] [Ad]
+Mahu2021: checks 
+Geckleberry: checks 
+*** RIVER *** [6c Kh 4h Ad] [3d]
+Mahu2021: checks 
+Geckleberry: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [6s Js] (a pair of Sixes)
+Geckleberry: mucks hand 
+Mahu2021 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [6c Kh 4h Ad 3d]
+Seat 1: Geckleberry (button) (small blind) mucked [Jc 4c]
+Seat 3: Mahu2021 (big blind) showed [6s Js] and won (180) with a pair of Sixes
+
+
+
+PokerStars Hand #247011833326: Tournament #3670398857, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/09 18:21:09 CET [2023/11/09 12:21:09 ET]
+Table '3670398857 1' 3-max Seat #3 is the button
+Seat 1: Geckleberry (920 in chips) 
+Seat 3: Mahu2021 (580 in chips) 
+Mahu2021: posts small blind 15
+Geckleberry: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h Ts]
+Mahu2021: folds 
+Uncalled bet (15) returned to Geckleberry
+Geckleberry collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Geckleberry (big blind) collected (30)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #247011834708: Tournament #3670398857, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/09 18:21:14 CET [2023/11/09 12:21:14 ET]
+Table '3670398857 1' 3-max Seat #1 is the button
+Seat 1: Geckleberry (935 in chips) 
+Seat 3: Mahu2021 (565 in chips) 
+Geckleberry: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s 5c]
+Geckleberry: raises 30 to 60
+Mahu2021: calls 30
+*** FLOP *** [2d 3c 4s]
+Mahu2021: checks 
+Geckleberry: checks 
+*** TURN *** [2d 3c 4s] [3d]
+Mahu2021: bets 60
+Geckleberry: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [2d 3c 4s 3d]
+Seat 1: Geckleberry (button) (small blind) folded on the Turn
+Seat 3: Mahu2021 (big blind) collected (120)
+
+
+
+PokerStars Hand #247011839402: Tournament #3670398857, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/09 18:21:30 CET [2023/11/09 12:21:30 ET]
+Table '3670398857 1' 3-max Seat #3 is the button
+Seat 1: Geckleberry (875 in chips) 
+Seat 3: Mahu2021 (625 in chips) 
+Mahu2021: posts small blind 15
+Geckleberry: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c As]
+Mahu2021: raises 30 to 60
+Geckleberry: calls 30
+*** FLOP *** [6h 6s Qd]
+Geckleberry: checks 
+Mahu2021: checks 
+*** TURN *** [6h 6s Qd] [Ad]
+Geckleberry: checks 
+Mahu2021: bets 60
+Geckleberry: calls 60
+*** RIVER *** [6h 6s Qd Ad] [Th]
+Geckleberry: bets 180
+Mahu2021: calls 180
+*** SHOW DOWN ***
+Geckleberry: shows [Ks Jh] (a straight, Ten to Ace)
+Mahu2021: mucks hand 
+Geckleberry collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | Rake 0 
+Board [6h 6s Qd Ad Th]
+Seat 1: Geckleberry (big blind) showed [Ks Jh] and won (600) with a straight, Ten to Ace
+Seat 3: Mahu2021 (button) (small blind) mucked [5c As]
+
+
+
+PokerStars Hand #247011846085: Tournament #3670398857, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/11/09 18:21:52 CET [2023/11/09 12:21:52 ET]
+Table '3670398857 1' 3-max Seat #1 is the button
+Seat 1: Geckleberry (1175 in chips) 
+Seat 3: Mahu2021 (325 in chips) 
+Geckleberry: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd 2h]
+Geckleberry: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Geckleberry (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (40)
+
+
+
+PokerStars Hand #247011847489: Tournament #3670398857, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/11/09 18:21:57 CET [2023/11/09 12:21:57 ET]
+Table '3670398857 1' 3-max Seat #3 is the button
+Seat 1: Geckleberry (1155 in chips) 
+Seat 3: Mahu2021 (345 in chips) 
+Mahu2021: posts small blind 20
+Geckleberry: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts 6h]
+Mahu2021: folds 
+Uncalled bet (20) returned to Geckleberry
+Geckleberry collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Geckleberry (big blind) collected (40)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #247011848900: Tournament #3670398857, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/11/09 18:22:01 CET [2023/11/09 12:22:01 ET]
+Table '3670398857 1' 3-max Seat #1 is the button
+Seat 1: Geckleberry (1175 in chips) 
+Seat 3: Mahu2021 (325 in chips) 
+Geckleberry: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d Ks]
+Geckleberry: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Geckleberry (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (40)
+
+
+
+PokerStars Hand #247011850201: Tournament #3670398857, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/11/09 18:22:06 CET [2023/11/09 12:22:06 ET]
+Table '3670398857 1' 3-max Seat #3 is the button
+Seat 1: Geckleberry (1155 in chips) 
+Seat 3: Mahu2021 (345 in chips) 
+Mahu2021: posts small blind 20
+Geckleberry: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s 4s]
+Mahu2021: calls 20
+Geckleberry: checks 
+*** FLOP *** [5c 7h 9s]
+Geckleberry: checks 
+Mahu2021: bets 80
+Geckleberry: calls 80
+*** TURN *** [5c 7h 9s] [2h]
+Geckleberry: checks 
+Mahu2021: checks 
+*** RIVER *** [5c 7h 9s 2h] [8d]
+Geckleberry: bets 120
+Mahu2021: calls 120
+*** SHOW DOWN ***
+Geckleberry: shows [3s 6s] (a straight, Five to Nine)
+Mahu2021: mucks hand 
+Geckleberry collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Board [5c 7h 9s 2h 8d]
+Seat 1: Geckleberry (big blind) showed [3s 6s] and won (480) with a straight, Five to Nine
+Seat 3: Mahu2021 (button) (small blind) mucked [7s 4s]
+
+
+
+PokerStars Hand #247011857007: Tournament #3670398857, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/11/09 18:22:29 CET [2023/11/09 12:22:29 ET]
+Table '3670398857 1' 3-max Seat #1 is the button
+Seat 1: Geckleberry (1395 in chips) 
+Seat 3: Mahu2021 (105 in chips) 
+Geckleberry: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh Qd]
+Geckleberry: raises 1355 to 1395 and is all-in
+Mahu2021: calls 65 and is all-in
+Uncalled bet (1290) returned to Geckleberry
+*** FLOP *** [Ad 6h 5c]
+*** TURN *** [Ad 6h 5c] [2h]
+*** RIVER *** [Ad 6h 5c 2h] [9d]
+*** SHOW DOWN ***
+Mahu2021: shows [Kh Qd] (high card Ace)
+Geckleberry: shows [Jd As] (a pair of Aces)
+Geckleberry collected 210 from pot
+Mahu2021 finished the tournament in 2nd place
+Geckleberry wins the tournament and receives $6.00 - congratulations!
+*** SUMMARY ***
+Total pot 210 | Rake 0 
+Board [Ad 6h 5c 2h 9d]
+Seat 1: Geckleberry (button) (small blind) showed [Jd As] and won (210) with a pair of Aces
+Seat 3: Mahu2021 (big blind) showed [Kh Qd] and lost with high card Ace
+
+
+

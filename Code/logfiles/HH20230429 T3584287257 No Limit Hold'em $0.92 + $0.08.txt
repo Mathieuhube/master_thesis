@@ -1,0 +1,435 @@
+﻿PokerStars Hand #243387253930: Tournament #3584287257, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/29 17:44:27 CET [2023/04/29 11:44:27 ET]
+Table '3584287257 1' 3-max Seat #1 is the button
+Seat 1: Anders321 (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: dima0007770 (500 in chips) 
+Mahu2021: posts small blind 10
+dima0007770: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h 6d]
+Anders321: raises 480 to 500 and is all-in
+Mahu2021: folds 
+dima0007770: folds 
+Uncalled bet (480) returned to Anders321
+Anders321 collected 50 from pot
+Anders321: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: Anders321 (button) collected (50)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: dima0007770 (big blind) folded before Flop
+
+
+
+PokerStars Hand #243387255726: Tournament #3584287257, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/29 17:44:33 CET [2023/04/29 11:44:33 ET]
+Table '3584287257 1' 3-max Seat #2 is the button
+Seat 1: Anders321 (530 in chips) 
+Seat 2: Mahu2021 (490 in chips) 
+Seat 3: dima0007770 (480 in chips) 
+dima0007770: posts small blind 10
+Anders321: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad Ks]
+Mahu2021: raises 40 to 60
+dima0007770: folds 
+Anders321: raises 470 to 530 and is all-in
+Mahu2021: calls 430 and is all-in
+Uncalled bet (40) returned to Anders321
+*** FLOP *** [9c Ts Jh]
+*** TURN *** [9c Ts Jh] [Td]
+*** RIVER *** [9c Ts Jh Td] [4c]
+*** SHOW DOWN ***
+Anders321: shows [2h Kd] (a pair of Tens)
+Mahu2021: shows [Ad Ks] (a pair of Tens - Ace kicker)
+Mahu2021 collected 990 from pot
+*** SUMMARY ***
+Total pot 990 | Rake 0 
+Board [9c Ts Jh Td 4c]
+Seat 1: Anders321 (big blind) showed [2h Kd] and lost with a pair of Tens
+Seat 2: Mahu2021 (button) showed [Ad Ks] and won (990) with a pair of Tens
+Seat 3: dima0007770 (small blind) folded before Flop
+
+
+
+PokerStars Hand #243387260914: Tournament #3584287257, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/29 17:44:52 CET [2023/04/29 11:44:52 ET]
+Table '3584287257 1' 3-max Seat #3 is the button
+Seat 1: Anders321 (40 in chips) 
+Seat 2: Mahu2021 (990 in chips) 
+Seat 3: dima0007770 (470 in chips) 
+Anders321: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s Kc]
+dima0007770: raises 20 to 40
+Anders321: calls 30 and is all-in
+Mahu2021: calls 20
+*** FLOP *** [2h Tc 5d]
+Mahu2021: checks 
+dima0007770: checks 
+*** TURN *** [2h Tc 5d] [5c]
+Mahu2021: bets 60
+dima0007770: folds 
+Uncalled bet (60) returned to Mahu2021
+*** RIVER *** [2h Tc 5d 5c] [Ah]
+*** SHOW DOWN ***
+Anders321: shows [4h 2s] (two pair, Fives and Deuces)
+Mahu2021: shows [5s Kc] (three of a kind, Fives)
+Mahu2021 collected 120 from pot
+Anders321 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [2h Tc 5d 5c Ah]
+Seat 1: Anders321 (small blind) showed [4h 2s] and lost with two pair, Fives and Deuces
+Seat 2: Mahu2021 (big blind) showed [5s Kc] and won (120) with three of a kind, Fives
+Seat 3: dima0007770 (button) folded on the Turn
+
+
+
+PokerStars Hand #243387266980: Tournament #3584287257, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/29 17:45:13 CET [2023/04/29 11:45:13 ET]
+Table '3584287257 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (1070 in chips) 
+Seat 3: dima0007770 (430 in chips) 
+Mahu2021: posts small blind 10
+dima0007770: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s As]
+Mahu2021: raises 20 to 40
+dima0007770: raises 390 to 430 and is all-in
+Mahu2021: calls 390
+*** FLOP *** [Td Ts Kh]
+*** TURN *** [Td Ts Kh] [Tc]
+*** RIVER *** [Td Ts Kh Tc] [7c]
+*** SHOW DOWN ***
+dima0007770: shows [Ac 8c] (three of a kind, Tens)
+Mahu2021: shows [9s As] (three of a kind, Tens)
+dima0007770 collected 430 from pot
+Mahu2021 collected 430 from pot
+*** SUMMARY ***
+Total pot 860 | Rake 0 
+Board [Td Ts Kh Tc 7c]
+Seat 2: Mahu2021 (button) (small blind) showed [9s As] and won (430) with three of a kind, Tens
+Seat 3: dima0007770 (big blind) showed [Ac 8c] and won (430) with three of a kind, Tens
+
+
+
+PokerStars Hand #243387271044: Tournament #3584287257, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/29 17:45:27 CET [2023/04/29 11:45:27 ET]
+Table '3584287257 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (1070 in chips) 
+Seat 3: dima0007770 (430 in chips) 
+dima0007770: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h 9s]
+dima0007770: raises 410 to 430 and is all-in
+Mahu2021: folds 
+Uncalled bet (410) returned to dima0007770
+dima0007770 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: dima0007770 (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #243387272821: Tournament #3584287257, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/29 17:45:34 CET [2023/04/29 11:45:34 ET]
+Table '3584287257 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (1050 in chips) 
+Seat 3: dima0007770 (450 in chips) 
+Mahu2021: posts small blind 10
+dima0007770: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s As]
+Mahu2021: calls 10
+dima0007770: raises 430 to 450 and is all-in
+Mahu2021: calls 430
+*** FLOP *** [6d Tc Kc]
+*** TURN *** [6d Tc Kc] [3c]
+*** RIVER *** [6d Tc Kc 3c] [8d]
+*** SHOW DOWN ***
+dima0007770: shows [4c 4s] (a pair of Fours)
+Mahu2021: shows [3s As] (a pair of Threes)
+dima0007770 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | Rake 0 
+Board [6d Tc Kc 3c 8d]
+Seat 2: Mahu2021 (button) (small blind) showed [3s As] and lost with a pair of Threes
+Seat 3: dima0007770 (big blind) showed [4c 4s] and won (900) with a pair of Fours
+
+
+
+PokerStars Hand #243387277541: Tournament #3584287257, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/29 17:45:50 CET [2023/04/29 11:45:50 ET]
+Table '3584287257 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (600 in chips) 
+Seat 3: dima0007770 (900 in chips) 
+dima0007770: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c Kh]
+dima0007770: raises 880 to 900 and is all-in
+Mahu2021: folds 
+Uncalled bet (880) returned to dima0007770
+dima0007770 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: dima0007770 (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #243387279291: Tournament #3584287257, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/29 17:45:57 CET [2023/04/29 11:45:57 ET]
+Table '3584287257 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (580 in chips) 
+Seat 3: dima0007770 (920 in chips) 
+Mahu2021: posts small blind 10
+dima0007770: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2c 2d]
+Mahu2021: raises 560 to 580 and is all-in
+dima0007770: folds 
+Uncalled bet (560) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) collected (40)
+Seat 3: dima0007770 (big blind) folded before Flop
+
+
+
+PokerStars Hand #243387281207: Tournament #3584287257, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/29 17:46:03 CET [2023/04/29 11:46:03 ET]
+Table '3584287257 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (600 in chips) 
+Seat 3: dima0007770 (900 in chips) 
+dima0007770: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s 7s]
+dima0007770: raises 880 to 900 and is all-in
+Mahu2021: folds 
+Uncalled bet (880) returned to dima0007770
+dima0007770 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: dima0007770 (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #243387282890: Tournament #3584287257, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/29 17:46:10 CET [2023/04/29 11:46:10 ET]
+Table '3584287257 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (580 in chips) 
+Seat 3: dima0007770 (920 in chips) 
+Mahu2021: posts small blind 10
+dima0007770: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Tc Jd]
+Mahu2021: calls 10
+dima0007770: raises 900 to 920 and is all-in
+Mahu2021: folds 
+Uncalled bet (900) returned to dima0007770
+dima0007770 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: dima0007770 (big blind) collected (40)
+
+
+
+PokerStars Hand #243387284930: Tournament #3584287257, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/29 17:46:17 CET [2023/04/29 11:46:17 ET]
+Table '3584287257 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (560 in chips) 
+Seat 3: dima0007770 (940 in chips) 
+dima0007770: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Td Ah]
+dima0007770: folds 
+Uncalled bet (10) returned to Mahu2021
+Mahu2021 collected 20 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 2: Mahu2021 (big blind) collected (20)
+Seat 3: dima0007770 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #243387285992: Tournament #3584287257, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/29 17:46:21 CET [2023/04/29 11:46:21 ET]
+Table '3584287257 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (570 in chips) 
+Seat 3: dima0007770 (930 in chips) 
+Mahu2021: posts small blind 10
+dima0007770: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s 7c]
+Mahu2021: folds 
+Uncalled bet (10) returned to dima0007770
+dima0007770 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: dima0007770 (big blind) collected (20)
+
+
+
+PokerStars Hand #243387287286: Tournament #3584287257, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/29 17:46:26 CET [2023/04/29 11:46:26 ET]
+Table '3584287257 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (560 in chips) 
+Seat 3: dima0007770 (940 in chips) 
+dima0007770: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d 4s]
+dima0007770: folds 
+Uncalled bet (10) returned to Mahu2021
+Mahu2021 collected 20 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 2: Mahu2021 (big blind) collected (20)
+Seat 3: dima0007770 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #243387289274: Tournament #3584287257, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/29 17:46:33 CET [2023/04/29 11:46:33 ET]
+Table '3584287257 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (570 in chips) 
+Seat 3: dima0007770 (930 in chips) 
+Mahu2021: posts small blind 15
+dima0007770: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d Ts]
+Mahu2021: folds 
+Uncalled bet (15) returned to dima0007770
+dima0007770 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: dima0007770 (big blind) collected (30)
+
+
+
+PokerStars Hand #243387290572: Tournament #3584287257, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/29 17:46:37 CET [2023/04/29 11:46:37 ET]
+Table '3584287257 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (555 in chips) 
+Seat 3: dima0007770 (945 in chips) 
+dima0007770: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8d 8s]
+dima0007770: calls 15
+Mahu2021: raises 525 to 555 and is all-in
+dima0007770: folds 
+Uncalled bet (525) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: Mahu2021 (big blind) collected (60)
+Seat 3: dima0007770 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #243387292532: Tournament #3584287257, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/29 17:46:44 CET [2023/04/29 11:46:44 ET]
+Table '3584287257 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (585 in chips) 
+Seat 3: dima0007770 (915 in chips) 
+Mahu2021: posts small blind 15
+dima0007770: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh 2d]
+Mahu2021: folds 
+Uncalled bet (15) returned to dima0007770
+dima0007770 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: dima0007770 (big blind) collected (30)
+
+
+
+PokerStars Hand #243387293897: Tournament #3584287257, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/29 17:46:49 CET [2023/04/29 11:46:49 ET]
+Table '3584287257 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (570 in chips) 
+Seat 3: dima0007770 (930 in chips) 
+dima0007770: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As Jd]
+dima0007770: calls 15
+Mahu2021: raises 540 to 570 and is all-in
+dima0007770: folds 
+Uncalled bet (540) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: Mahu2021 (big blind) collected (60)
+Seat 3: dima0007770 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #243387295768: Tournament #3584287257, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/29 17:46:56 CET [2023/04/29 11:46:56 ET]
+Table '3584287257 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (600 in chips) 
+Seat 3: dima0007770 (900 in chips) 
+Mahu2021: posts small blind 15
+dima0007770: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Th 6c]
+Mahu2021: folds 
+Uncalled bet (15) returned to dima0007770
+dima0007770 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: dima0007770 (big blind) collected (30)
+
+
+
+PokerStars Hand #243387297801: Tournament #3584287257, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/29 17:47:03 CET [2023/04/29 11:47:03 ET]
+Table '3584287257 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (585 in chips) 
+Seat 3: dima0007770 (915 in chips) 
+dima0007770: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h Tc]
+dima0007770: raises 885 to 915 and is all-in
+Mahu2021: folds 
+Uncalled bet (885) returned to dima0007770
+dima0007770 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: dima0007770 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #243387299560: Tournament #3584287257, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/29 17:47:09 CET [2023/04/29 11:47:09 ET]
+Table '3584287257 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (555 in chips) 
+Seat 3: dima0007770 (945 in chips) 
+Mahu2021: posts small blind 15
+dima0007770: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8c 8h]
+Mahu2021: raises 525 to 555 and is all-in
+dima0007770: calls 525
+*** FLOP *** [Ad 5d Th]
+*** TURN *** [Ad 5d Th] [7d]
+*** RIVER *** [Ad 5d Th 7d] [3c]
+*** SHOW DOWN ***
+dima0007770: shows [As 4s] (a pair of Aces)
+Mahu2021: shows [8c 8h] (a pair of Eights)
+dima0007770 collected 1110 from pot
+Mahu2021 finished the tournament in 2nd place
+dima0007770 wins the tournament and receives $2.00 - congratulations!
+*** SUMMARY ***
+Total pot 1110 | Rake 0 
+Board [Ad 5d Th 7d 3c]
+Seat 2: Mahu2021 (button) (small blind) showed [8c 8h] and lost with a pair of Eights
+Seat 3: dima0007770 (big blind) showed [As 4s] and won (1110) with a pair of Aces
+
+
+

@@ -1,0 +1,171 @@
+﻿PokerStars Hand #247565591769: Tournament #3684201904, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/09 17:41:52 CET [2023/12/09 11:41:52 ET]
+Table '3684201904 1' 3-max Seat #1 is the button
+Seat 1: EhhGotchYah (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: HugeCajones (500 in chips) 
+Mahu2021: posts small blind 10
+HugeCajones: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks 4d]
+EhhGotchYah: raises 20 to 40
+Mahu2021: folds 
+HugeCajones: calls 20
+*** FLOP *** [Ah 6c 9s]
+HugeCajones: checks 
+EhhGotchYah: checks 
+*** TURN *** [Ah 6c 9s] [9d]
+HugeCajones: checks 
+EhhGotchYah: bets 40
+HugeCajones: calls 40
+*** RIVER *** [Ah 6c 9s 9d] [5c]
+HugeCajones: checks 
+EhhGotchYah: checks 
+*** SHOW DOWN ***
+HugeCajones: shows [9c Ad] (a full house, Nines full of Aces)
+EhhGotchYah: mucks hand 
+HugeCajones collected 170 from pot
+*** SUMMARY ***
+Total pot 170 | Rake 0 
+Board [Ah 6c 9s 9d 5c]
+Seat 1: EhhGotchYah (button) mucked [7d 5d]
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: HugeCajones (big blind) showed [9c Ad] and won (170) with a full house, Nines full of Aces
+
+
+
+PokerStars Hand #247565603582: Tournament #3684201904, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/09 17:42:34 CET [2023/12/09 11:42:34 ET]
+Table '3684201904 1' 3-max Seat #2 is the button
+Seat 1: EhhGotchYah (420 in chips) 
+Seat 2: Mahu2021 (490 in chips) 
+Seat 3: HugeCajones (590 in chips) 
+HugeCajones: posts small blind 10
+EhhGotchYah: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d Ad]
+Mahu2021: raises 20 to 40
+HugeCajones: calls 30
+EhhGotchYah: calls 20
+*** FLOP *** [Kd 7d Ks]
+HugeCajones: checks 
+EhhGotchYah: checks 
+Mahu2021: bets 120
+HugeCajones: calls 120
+EhhGotchYah: folds 
+*** TURN *** [Kd 7d Ks] [8s]
+HugeCajones: checks 
+Mahu2021: checks 
+*** RIVER *** [Kd 7d Ks 8s] [Tc]
+HugeCajones: bets 180
+Mahu2021: folds 
+Uncalled bet (180) returned to HugeCajones
+HugeCajones collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [Kd 7d Ks 8s Tc]
+Seat 1: EhhGotchYah (big blind) folded on the Flop
+Seat 2: Mahu2021 (button) folded on the River
+Seat 3: HugeCajones (small blind) collected (360)
+
+
+
+PokerStars Hand #247565619092: Tournament #3684201904, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/09 17:43:30 CET [2023/12/09 11:43:30 ET]
+Table '3684201904 1' 3-max Seat #3 is the button
+Seat 1: EhhGotchYah (380 in chips) 
+Seat 2: Mahu2021 (330 in chips) 
+Seat 3: HugeCajones (790 in chips) 
+EhhGotchYah: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4c 4d]
+HugeCajones: calls 20
+EhhGotchYah: raises 360 to 380 and is all-in
+Mahu2021: folds 
+HugeCajones: calls 360
+*** FLOP *** [3s 5d 6h]
+*** TURN *** [3s 5d 6h] [Qc]
+*** RIVER *** [3s 5d 6h Qc] [3c]
+*** SHOW DOWN ***
+EhhGotchYah: shows [Ac Ks] (a pair of Threes)
+HugeCajones: shows [Qs Qh] (a full house, Queens full of Threes)
+HugeCajones collected 780 from pot
+EhhGotchYah finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 780 | Rake 0 
+Board [3s 5d 6h Qc 3c]
+Seat 1: EhhGotchYah (small blind) showed [Ac Ks] and lost with a pair of Threes
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: HugeCajones (button) showed [Qs Qh] and won (780) with a full house, Queens full of Threes
+
+
+
+PokerStars Hand #247565625296: Tournament #3684201904, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/09 17:43:52 CET [2023/12/09 11:43:52 ET]
+Table '3684201904 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (310 in chips) 
+Seat 3: HugeCajones (1190 in chips) 
+Mahu2021: posts small blind 10
+HugeCajones: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3c 4h]
+Mahu2021: calls 10
+HugeCajones: checks 
+*** FLOP *** [5c 4s 9h]
+HugeCajones: checks 
+Mahu2021: bets 40
+HugeCajones: calls 40
+*** TURN *** [5c 4s 9h] [7d]
+HugeCajones: checks 
+Mahu2021: bets 250 and is all-in
+HugeCajones: folds 
+Uncalled bet (250) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [5c 4s 9h 7d]
+Seat 2: Mahu2021 (button) (small blind) collected (120)
+Seat 3: HugeCajones (big blind) folded on the Turn
+
+
+
+PokerStars Hand #247565634676: Tournament #3684201904, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/09 17:44:25 CET [2023/12/09 11:44:25 ET]
+Table '3684201904 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (370 in chips) 
+Seat 3: HugeCajones (1130 in chips) 
+HugeCajones: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h 3d]
+HugeCajones: raises 40 to 60
+Mahu2021: folds 
+Uncalled bet (40) returned to HugeCajones
+HugeCajones collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: HugeCajones (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #247565636767: Tournament #3684201904, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/09 17:44:33 CET [2023/12/09 11:44:33 ET]
+Table '3684201904 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (350 in chips) 
+Seat 3: HugeCajones (1150 in chips) 
+Mahu2021: posts small blind 10
+HugeCajones: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5h Ks]
+Mahu2021: calls 10
+HugeCajones: checks 
+*** FLOP *** [3c 6c Th]
+HugeCajones: bets 20
+Mahu2021: folds 
+Uncalled bet (20) returned to HugeCajones
+HugeCajones collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [3c 6c Th]
+Seat 2: Mahu2021 (button) (small blind) folded on the Flop
+Seat 3: HugeCajones (big blind) collected (40)
+
+
+

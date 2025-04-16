@@ -1,0 +1,593 @@
+﻿PokerStars Hand #243234583891: Tournament #3580797257, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/21 22:48:07 CET [2023/04/21 16:48:07 ET]
+Table '3580797257 1' 3-max Seat #1 is the button
+Seat 1: Brelzen (500 in chips) 
+Seat 2: cherea9917 (500 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+cherea9917: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Tc 2d]
+Brelzen: calls 20
+cherea9917: calls 10
+Mahu2021: checks 
+*** FLOP *** [3c Kd As]
+cherea9917: checks 
+Mahu2021: checks 
+Brelzen: checks 
+*** TURN *** [3c Kd As] [8s]
+cherea9917: checks 
+Mahu2021: bets 20
+Brelzen: calls 20
+cherea9917: folds 
+*** RIVER *** [3c Kd As 8s] [Jc]
+Mahu2021: checks 
+Brelzen: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [Tc 2d] (high card Ace)
+Brelzen: shows [4h 3d] (a pair of Threes)
+Brelzen collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [3c Kd As 8s Jc]
+Seat 1: Brelzen (button) showed [4h 3d] and won (100) with a pair of Threes
+Seat 2: cherea9917 (small blind) folded on the Turn
+Seat 3: Mahu2021 (big blind) showed [Tc 2d] and lost with high card Ace
+
+
+
+PokerStars Hand #243234592214: Tournament #3580797257, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/21 22:48:27 CET [2023/04/21 16:48:27 ET]
+Table '3580797257 1' 3-max Seat #2 is the button
+Seat 1: Brelzen (560 in chips) 
+Seat 2: cherea9917 (480 in chips) 
+Seat 3: Mahu2021 (460 in chips) 
+Mahu2021: posts small blind 10
+Brelzen: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h 5c]
+cherea9917: calls 20
+Mahu2021: calls 10
+Brelzen: checks 
+*** FLOP *** [2s 6d Ac]
+Mahu2021: checks 
+Brelzen: checks 
+cherea9917: bets 40
+Mahu2021: calls 40
+Brelzen: folds 
+*** TURN *** [2s 6d Ac] [3d]
+Mahu2021: checks 
+cherea9917: bets 80
+Mahu2021: calls 80
+*** RIVER *** [2s 6d Ac 3d] [3c]
+Mahu2021: bets 320 and is all-in
+cherea9917: folds 
+Uncalled bet (320) returned to Mahu2021
+Mahu2021 collected 300 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [2s 6d Ac 3d 3c]
+Seat 1: Brelzen (big blind) folded on the Flop
+Seat 2: cherea9917 (button) folded on the River
+Seat 3: Mahu2021 (small blind) collected (300)
+
+
+
+PokerStars Hand #243234606767: Tournament #3580797257, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/21 22:49:04 CET [2023/04/21 16:49:04 ET]
+Table '3580797257 1' 3-max Seat #3 is the button
+Seat 1: Brelzen (540 in chips) 
+Seat 2: cherea9917 (340 in chips) 
+Seat 3: Mahu2021 (620 in chips) 
+Brelzen: posts small blind 10
+cherea9917: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h 7c]
+Mahu2021: raises 20 to 40
+Brelzen: calls 30
+cherea9917: calls 20
+*** FLOP *** [Jd 4s 3c]
+Brelzen: checks 
+cherea9917: checks 
+Mahu2021: bets 60
+Brelzen: folds 
+cherea9917: calls 60
+*** TURN *** [Jd 4s 3c] [4h]
+cherea9917: checks 
+Mahu2021: checks 
+*** RIVER *** [Jd 4s 3c 4h] [Qd]
+cherea9917: bets 88
+Mahu2021: folds 
+Uncalled bet (88) returned to cherea9917
+cherea9917 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Jd 4s 3c 4h Qd]
+Seat 1: Brelzen (small blind) folded on the Flop
+Seat 2: cherea9917 (big blind) collected (240)
+Seat 3: Mahu2021 (button) folded on the River
+
+
+
+PokerStars Hand #243234622460: Tournament #3580797257, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/21 22:49:43 CET [2023/04/21 16:49:43 ET]
+Table '3580797257 1' 3-max Seat #1 is the button
+Seat 1: Brelzen (500 in chips) 
+Seat 2: cherea9917 (480 in chips) 
+Seat 3: Mahu2021 (520 in chips) 
+cherea9917: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh 7d]
+Brelzen: calls 20
+cherea9917: folds 
+Mahu2021: checks 
+*** FLOP *** [Qh 5h 8h]
+Mahu2021: checks 
+Brelzen: checks 
+*** TURN *** [Qh 5h 8h] [4c]
+Mahu2021: checks 
+Brelzen: checks 
+*** RIVER *** [Qh 5h 8h 4c] [2d]
+Mahu2021: checks 
+Brelzen: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [Jh 7d] (high card Queen)
+Brelzen: shows [4s 6d] (a pair of Fours)
+Brelzen collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [Qh 5h 8h 4c 2d]
+Seat 1: Brelzen (button) showed [4s 6d] and won (50) with a pair of Fours
+Seat 2: cherea9917 (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) showed [Jh 7d] and lost with high card Queen
+
+
+
+PokerStars Hand #243234628233: Tournament #3580797257, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/21 22:49:57 CET [2023/04/21 16:49:57 ET]
+Table '3580797257 1' 3-max Seat #2 is the button
+Seat 1: Brelzen (530 in chips) 
+Seat 2: cherea9917 (470 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+Mahu2021: posts small blind 10
+Brelzen: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4c Qs]
+cherea9917: folds 
+Mahu2021: calls 10
+Brelzen: checks 
+*** FLOP *** [Ks 5d Qd]
+Mahu2021: bets 20
+Brelzen: raises 40 to 60
+Mahu2021: folds 
+Uncalled bet (40) returned to Brelzen
+Brelzen collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Ks 5d Qd]
+Seat 1: Brelzen (big blind) collected (80)
+Seat 2: cherea9917 (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #243234634169: Tournament #3580797257, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/21 22:50:12 CET [2023/04/21 16:50:12 ET]
+Table '3580797257 1' 3-max Seat #3 is the button
+Seat 1: Brelzen (570 in chips) 
+Seat 2: cherea9917 (470 in chips) 
+Seat 3: Mahu2021 (460 in chips) 
+Brelzen: posts small blind 10
+cherea9917: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad Ks]
+Mahu2021: raises 40 to 60
+Brelzen: calls 50
+cherea9917: folds 
+*** FLOP *** [As 7h 7d]
+Brelzen: checks 
+Mahu2021: bets 140
+Brelzen: folds 
+Uncalled bet (140) returned to Mahu2021
+Mahu2021 collected 140 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 140 | Rake 0 
+Board [As 7h 7d]
+Seat 1: Brelzen (small blind) folded on the Flop
+Seat 2: cherea9917 (big blind) folded before Flop
+Seat 3: Mahu2021 (button) collected (140)
+
+
+
+PokerStars Hand #243234638975: Tournament #3580797257, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/21 22:50:25 CET [2023/04/21 16:50:25 ET]
+Table '3580797257 1' 3-max Seat #1 is the button
+Seat 1: Brelzen (510 in chips) 
+Seat 2: cherea9917 (450 in chips) 
+Seat 3: Mahu2021 (540 in chips) 
+cherea9917: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c 6c]
+Brelzen: calls 20
+cherea9917: calls 10
+Mahu2021: checks 
+*** FLOP *** [3s 5s 2c]
+cherea9917: checks 
+Mahu2021: checks 
+Brelzen: checks 
+*** TURN *** [3s 5s 2c] [5h]
+cherea9917: checks 
+Mahu2021: checks 
+Brelzen: checks 
+*** RIVER *** [3s 5s 2c 5h] [2s]
+cherea9917: checks 
+Mahu2021: checks 
+Brelzen: checks 
+*** SHOW DOWN ***
+cherea9917: shows [8d Kd] (two pair, Fives and Deuces)
+Mahu2021: mucks hand 
+Brelzen: mucks hand 
+cherea9917 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [3s 5s 2c 5h 2s]
+Seat 1: Brelzen (button) mucked [Jh 7d]
+Seat 2: cherea9917 (small blind) showed [8d Kd] and won (60) with two pair, Fives and Deuces
+Seat 3: Mahu2021 (big blind) mucked [7c 6c]
+
+
+
+PokerStars Hand #243234650606: Tournament #3580797257, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/21 22:50:54 CET [2023/04/21 16:50:54 ET]
+Table '3580797257 1' 3-max Seat #2 is the button
+Seat 1: Brelzen (490 in chips) 
+Seat 2: cherea9917 (490 in chips) 
+Seat 3: Mahu2021 (520 in chips) 
+Mahu2021: posts small blind 10
+Brelzen: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3c 2d]
+cherea9917: calls 20
+Mahu2021: folds 
+Brelzen: raises 20 to 40
+cherea9917: calls 20
+*** FLOP *** [8c Th Ts]
+Brelzen: bets 60
+cherea9917: folds 
+Uncalled bet (60) returned to Brelzen
+Brelzen collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [8c Th Ts]
+Seat 1: Brelzen (big blind) collected (90)
+Seat 2: cherea9917 (button) folded on the Flop
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #243234658650: Tournament #3580797257, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/21 22:51:14 CET [2023/04/21 16:51:14 ET]
+Table '3580797257 1' 3-max Seat #3 is the button
+Seat 1: Brelzen (540 in chips) 
+Seat 2: cherea9917 (450 in chips) 
+Seat 3: Mahu2021 (510 in chips) 
+Brelzen: posts small blind 15
+cherea9917: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d Js]
+Mahu2021: folds 
+Brelzen: calls 15
+cherea9917: checks 
+*** FLOP *** [6s 5s 9s]
+Brelzen: checks 
+cherea9917: checks 
+*** TURN *** [6s 5s 9s] [5h]
+Brelzen: checks 
+cherea9917: checks 
+*** RIVER *** [6s 5s 9s 5h] [9d]
+Brelzen: checks 
+cherea9917: checks 
+*** SHOW DOWN ***
+Brelzen: shows [Jd 7c] (two pair, Nines and Fives)
+cherea9917: mucks hand 
+Brelzen collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [6s 5s 9s 5h 9d]
+Seat 1: Brelzen (small blind) showed [Jd 7c] and won (60) with two pair, Nines and Fives
+Seat 2: cherea9917 (big blind) mucked [Th 2h]
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #243234665241: Tournament #3580797257, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/21 22:51:31 CET [2023/04/21 16:51:31 ET]
+Table '3580797257 1' 3-max Seat #1 is the button
+Seat 1: Brelzen (570 in chips) 
+Seat 2: cherea9917 (420 in chips) 
+Seat 3: Mahu2021 (510 in chips) 
+cherea9917: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac Qd]
+Brelzen: calls 30
+cherea9917: folds 
+Mahu2021: raises 90 to 120
+Brelzen: calls 90
+*** FLOP *** [6d 4c Js]
+Mahu2021: checks 
+Brelzen: checks 
+*** TURN *** [6d 4c Js] [3d]
+Mahu2021: checks 
+Brelzen: checks 
+*** RIVER *** [6d 4c Js 3d] [9c]
+Mahu2021: checks 
+Brelzen: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [Ac Qd] (high card Ace)
+Brelzen: mucks hand 
+Mahu2021 collected 255 from pot
+*** SUMMARY ***
+Total pot 255 | Rake 0 
+Board [6d 4c Js 3d 9c]
+Seat 1: Brelzen (button) mucked [Qh 7h]
+Seat 2: cherea9917 (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) showed [Ac Qd] and won (255) with high card Ace
+
+
+
+PokerStars Hand #243235172881: Tournament #3580797257, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/21 22:51:51 CET [2023/04/21 16:51:51 ET]
+Table '3580797257 1' 3-max Seat #2 is the button
+Seat 1: Brelzen (450 in chips) 
+Seat 2: cherea9917 (405 in chips) 
+Seat 3: Mahu2021 (645 in chips) 
+Mahu2021: posts small blind 15
+Brelzen: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h Jd]
+cherea9917: raises 30 to 60
+Mahu2021: calls 45
+Brelzen: calls 30
+*** FLOP *** [3s 2d 7c]
+Mahu2021: checks 
+Brelzen: checks 
+cherea9917: bets 60
+Mahu2021: folds 
+Brelzen: calls 60
+*** TURN *** [3s 2d 7c] [4d]
+Brelzen: checks 
+cherea9917: bets 60
+Brelzen: calls 60
+*** RIVER *** [3s 2d 7c 4d] [3c]
+Brelzen: checks 
+cherea9917: checks 
+*** SHOW DOWN ***
+Brelzen: shows [8h As] (a pair of Threes)
+cherea9917: shows [5h 5c] (two pair, Fives and Threes)
+cherea9917 collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | Rake 0 
+Board [3s 2d 7c 4d 3c]
+Seat 1: Brelzen (big blind) showed [8h As] and lost with a pair of Threes
+Seat 2: cherea9917 (button) showed [5h 5c] and won (420) with two pair, Fives and Threes
+Seat 3: Mahu2021 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #243235182595: Tournament #3580797257, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/21 22:52:15 CET [2023/04/21 16:52:15 ET]
+Table '3580797257 1' 3-max Seat #3 is the button
+Seat 1: Brelzen (270 in chips) 
+Seat 2: cherea9917 (645 in chips) 
+Seat 3: Mahu2021 (585 in chips) 
+Brelzen: posts small blind 15
+cherea9917: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5h Kc]
+Mahu2021: folds 
+Brelzen: calls 15
+cherea9917: checks 
+*** FLOP *** [5d 2c 9s]
+Brelzen: checks 
+cherea9917: bets 60
+Brelzen: folds 
+Uncalled bet (60) returned to cherea9917
+cherea9917 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [5d 2c 9s]
+Seat 1: Brelzen (small blind) folded on the Flop
+Seat 2: cherea9917 (big blind) collected (60)
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #243235188340: Tournament #3580797257, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/21 22:52:30 CET [2023/04/21 16:52:30 ET]
+Table '3580797257 1' 3-max Seat #1 is the button
+Seat 1: Brelzen (240 in chips) 
+Seat 2: cherea9917 (675 in chips) 
+Seat 3: Mahu2021 (585 in chips) 
+cherea9917: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s Ts]
+Brelzen: calls 30
+cherea9917: calls 15
+Mahu2021: checks 
+*** FLOP *** [6h 8c Js]
+cherea9917: checks 
+Mahu2021: checks 
+Brelzen: checks 
+*** TURN *** [6h 8c Js] [8s]
+cherea9917: checks 
+Mahu2021: checks 
+Brelzen: bets 60
+cherea9917: folds 
+Mahu2021: calls 60
+*** RIVER *** [6h 8c Js 8s] [8h]
+Mahu2021: checks 
+Brelzen: bets 150 and is all-in
+Mahu2021: folds 
+Uncalled bet (150) returned to Brelzen
+Brelzen collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | Rake 0 
+Board [6h 8c Js 8s 8h]
+Seat 1: Brelzen (button) collected (210)
+Seat 2: cherea9917 (small blind) folded on the Turn
+Seat 3: Mahu2021 (big blind) folded on the River
+
+
+
+PokerStars Hand #243235198260: Tournament #3580797257, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/21 22:52:55 CET [2023/04/21 16:52:55 ET]
+Table '3580797257 1' 3-max Seat #2 is the button
+Seat 1: Brelzen (360 in chips) 
+Seat 2: cherea9917 (645 in chips) 
+Seat 3: Mahu2021 (495 in chips) 
+Mahu2021: posts small blind 15
+Brelzen: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d Th]
+cherea9917: calls 30
+Mahu2021: folds 
+Brelzen: checks 
+*** FLOP *** [4d Jh Kh]
+Brelzen: bets 75
+cherea9917: folds 
+Uncalled bet (75) returned to Brelzen
+Brelzen collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Board [4d Jh Kh]
+Seat 1: Brelzen (big blind) collected (75)
+Seat 2: cherea9917 (button) folded on the Flop
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #243235204432: Tournament #3580797257, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/21 22:53:11 CET [2023/04/21 16:53:11 ET]
+Table '3580797257 1' 3-max Seat #3 is the button
+Seat 1: Brelzen (405 in chips) 
+Seat 2: cherea9917 (615 in chips) 
+Seat 3: Mahu2021 (480 in chips) 
+Brelzen: posts small blind 15
+cherea9917: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js 2h]
+Mahu2021: folds 
+Brelzen: calls 15
+cherea9917: checks 
+*** FLOP *** [Jc Tc 2d]
+Brelzen: checks 
+cherea9917: bets 60
+Brelzen: folds 
+Uncalled bet (60) returned to cherea9917
+cherea9917 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Jc Tc 2d]
+Seat 1: Brelzen (small blind) folded on the Flop
+Seat 2: cherea9917 (big blind) collected (60)
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #243235209228: Tournament #3580797257, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/21 22:53:23 CET [2023/04/21 16:53:23 ET]
+Table '3580797257 1' 3-max Seat #1 is the button
+Seat 1: Brelzen (375 in chips) 
+Seat 2: cherea9917 (645 in chips) 
+Seat 3: Mahu2021 (480 in chips) 
+cherea9917: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d 3d]
+Brelzen: calls 30
+cherea9917: calls 15
+Mahu2021: checks 
+*** FLOP *** [3s 8h Kh]
+cherea9917: bets 30
+Mahu2021: calls 30
+Brelzen: calls 30
+*** TURN *** [3s 8h Kh] [6s]
+cherea9917: bets 60
+Mahu2021: folds 
+Brelzen: calls 60
+*** RIVER *** [3s 8h Kh 6s] [8c]
+cherea9917: bets 120
+Brelzen: calls 120
+*** SHOW DOWN ***
+cherea9917: shows [7s 9d] (a pair of Eights)
+Brelzen: shows [6d Ks] (two pair, Kings and Eights)
+Brelzen collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | Rake 0 
+Board [3s 8h Kh 6s 8c]
+Seat 1: Brelzen (button) showed [6d Ks] and won (540) with two pair, Kings and Eights
+Seat 2: cherea9917 (small blind) showed [7s 9d] and lost with a pair of Eights
+Seat 3: Mahu2021 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #243235217702: Tournament #3580797257, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/21 22:53:45 CET [2023/04/21 16:53:45 ET]
+Table '3580797257 1' 3-max Seat #2 is the button
+Seat 1: Brelzen (675 in chips) 
+Seat 2: cherea9917 (405 in chips) 
+Seat 3: Mahu2021 (420 in chips) 
+Mahu2021: posts small blind 15
+Brelzen: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As Qs]
+cherea9917: calls 30
+Mahu2021: raises 90 to 120
+Brelzen: folds 
+cherea9917: calls 90
+*** FLOP *** [2s 8h Th]
+Mahu2021: bets 300 and is all-in
+cherea9917: calls 285 and is all-in
+Uncalled bet (15) returned to Mahu2021
+*** TURN *** [2s 8h Th] [Ah]
+*** RIVER *** [2s 8h Th Ah] [Jd]
+*** SHOW DOWN ***
+Mahu2021: shows [As Qs] (a pair of Aces)
+cherea9917: shows [Ad 2c] (two pair, Aces and Deuces)
+cherea9917 collected 840 from pot
+*** SUMMARY ***
+Total pot 840 | Rake 0 
+Board [2s 8h Th Ah Jd]
+Seat 1: Brelzen (big blind) folded before Flop
+Seat 2: cherea9917 (button) showed [Ad 2c] and won (840) with two pair, Aces and Deuces
+Seat 3: Mahu2021 (small blind) showed [As Qs] and lost with a pair of Aces
+
+
+
+PokerStars Hand #243235225622: Tournament #3580797257, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/21 22:54:05 CET [2023/04/21 16:54:05 ET]
+Table '3580797257 1' 3-max Seat #3 is the button
+Seat 1: Brelzen (645 in chips) 
+Seat 2: cherea9917 (840 in chips) 
+Seat 3: Mahu2021 (15 in chips) 
+Brelzen: posts small blind 15
+cherea9917: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s Td]
+Mahu2021: calls 15 and is all-in
+Brelzen: calls 15
+cherea9917: raises 30 to 60
+Brelzen: calls 30
+*** FLOP *** [Th Jc Ah]
+Brelzen: checks 
+cherea9917: checks 
+*** TURN *** [Th Jc Ah] [3s]
+Brelzen: bets 68
+cherea9917: calls 68
+*** RIVER *** [Th Jc Ah 3s] [Js]
+Brelzen: bets 517 and is all-in
+cherea9917: folds 
+Uncalled bet (517) returned to Brelzen
+*** SHOW DOWN ***
+Brelzen: shows [5c Ad] (two pair, Aces and Jacks)
+Brelzen collected 226 from side pot
+Mahu2021: shows [9s Td] (two pair, Jacks and Tens)
+Brelzen collected 45 from main pot
+Mahu2021 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 271 Main pot 45. Side pot 226. | Rake 0 
+Board [Th Jc Ah 3s Js]
+Seat 1: Brelzen (small blind) showed [5c Ad] and won (271) with two pair, Aces and Jacks
+Seat 2: cherea9917 (big blind) folded on the River
+Seat 3: Mahu2021 (button) showed [9s Td] and lost with two pair, Jacks and Tens
+
+
+

@@ -1,0 +1,123 @@
+﻿PokerStars Hand #252990081176: Tournament #3813411896, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/18 20:46:25 CET [2024/10/18 14:46:25 ET]
+Table '3813411896 1' 3-max Seat #1 is the button
+Seat 1: Icomad (500 in chips) 
+Seat 2: bunico91 (500 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+bunico91: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5h Ks]
+Icomad: folds 
+bunico91: calls 10
+Mahu2021: checks 
+*** FLOP *** [Qc 3c 5c]
+bunico91: bets 20
+Mahu2021: calls 20
+*** TURN *** [Qc 3c 5c] [4c]
+bunico91: checks 
+Mahu2021: checks 
+*** RIVER *** [Qc 3c 5c 4c] [Kc]
+bunico91: bets 40
+Mahu2021: folds 
+Uncalled bet (40) returned to bunico91
+bunico91 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Qc 3c 5c 4c Kc]
+Seat 1: Icomad (button) folded before Flop (didn't bet)
+Seat 2: bunico91 (small blind) collected (80)
+Seat 3: Mahu2021 (big blind) folded on the River
+
+
+
+PokerStars Hand #252990088633: Tournament #3813411896, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/18 20:46:51 CET [2024/10/18 14:46:51 ET]
+Table '3813411896 1' 3-max Seat #2 is the button
+Seat 1: Icomad (500 in chips) 
+Seat 2: bunico91 (540 in chips) 
+Seat 3: Mahu2021 (460 in chips) 
+Mahu2021: posts small blind 10
+Icomad: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc 4h]
+bunico91: calls 20
+Mahu2021: calls 10
+Icomad: checks 
+*** FLOP *** [9d Tc Th]
+Mahu2021: checks 
+Icomad: checks 
+bunico91: bets 40
+Mahu2021: folds 
+Icomad: folds 
+Uncalled bet (40) returned to bunico91
+bunico91 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [9d Tc Th]
+Seat 1: Icomad (big blind) folded on the Flop
+Seat 2: bunico91 (button) collected (60)
+Seat 3: Mahu2021 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #252990098137: Tournament #3813411896, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/18 20:47:25 CET [2024/10/18 14:47:25 ET]
+Table '3813411896 1' 3-max Seat #3 is the button
+Seat 1: Icomad (480 in chips) 
+Seat 2: bunico91 (580 in chips) 
+Seat 3: Mahu2021 (440 in chips) 
+Icomad: posts small blind 10
+bunico91: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s 6h]
+Mahu2021: folds 
+Icomad: raises 30 to 50
+bunico91: raises 50 to 100
+Icomad: calls 50
+*** FLOP *** [2d 5h 7h]
+Icomad: checks 
+bunico91: bets 480 and is all-in
+Icomad: folds 
+Uncalled bet (480) returned to bunico91
+bunico91 collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [2d 5h 7h]
+Seat 1: Icomad (small blind) folded on the Flop
+Seat 2: bunico91 (big blind) collected (200)
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #252990104419: Tournament #3813411896, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/18 20:47:47 CET [2024/10/18 14:47:47 ET]
+Table '3813411896 1' 3-max Seat #1 is the button
+Seat 1: Icomad (380 in chips) 
+Seat 2: bunico91 (680 in chips) 
+Seat 3: Mahu2021 (440 in chips) 
+bunico91: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As 4s]
+Icomad: folds 
+bunico91: calls 10
+Mahu2021: raises 60 to 80
+bunico91: raises 120 to 200
+Mahu2021: calls 120
+*** FLOP *** [8d 2h 5c]
+bunico91: bets 480 and is all-in
+Mahu2021: calls 240 and is all-in
+Uncalled bet (240) returned to bunico91
+*** TURN *** [8d 2h 5c] [Kh]
+*** RIVER *** [8d 2h 5c Kh] [6s]
+*** SHOW DOWN ***
+bunico91: shows [Td Tc] (a pair of Tens)
+Mahu2021: shows [As 4s] (high card Ace)
+bunico91 collected 880 from pot
+Mahu2021 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 880 | Rake 0 
+Board [8d 2h 5c Kh 6s]
+Seat 1: Icomad (button) folded before Flop (didn't bet)
+Seat 2: bunico91 (small blind) showed [Td Tc] and won (880) with a pair of Tens
+Seat 3: Mahu2021 (big blind) showed [As 4s] and lost with high card Ace
+
+
+

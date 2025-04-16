@@ -1,0 +1,564 @@
+﻿PokerStars Hand #245583147365: Tournament #3635973295, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/08/25 15:15:02 CET [2023/08/25 9:15:02 ET]
+Table '3635973295 1' 3-max Seat #1 is the button
+Seat 1: zinbell (500 in chips) 
+Seat 2: navas_john (500 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+navas_john: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qs 6s]
+zinbell: raises 480 to 500 and is all-in
+navas_john: folds 
+Mahu2021: folds 
+Uncalled bet (480) returned to zinbell
+zinbell collected 50 from pot
+zinbell: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: zinbell (button) collected (50)
+Seat 2: navas_john (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #245583149108: Tournament #3635973295, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/08/25 15:15:11 CET [2023/08/25 9:15:11 ET]
+Table '3635973295 1' 3-max Seat #2 is the button
+Seat 1: zinbell (530 in chips) 
+Seat 2: navas_john (490 in chips) 
+Seat 3: Mahu2021 (480 in chips) 
+Mahu2021: posts small blind 10
+zinbell: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac Js]
+navas_john: folds 
+Mahu2021: calls 10
+zinbell: checks 
+*** FLOP *** [Jh Kh 7h]
+Mahu2021: checks 
+zinbell: bets 20
+Mahu2021: calls 20
+*** TURN *** [Jh Kh 7h] [2d]
+Mahu2021: checks 
+zinbell: bets 30
+Mahu2021: calls 30
+*** RIVER *** [Jh Kh 7h 2d] [Th]
+Mahu2021: checks 
+zinbell: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [Ac Js] (a pair of Jacks)
+zinbell: mucks hand 
+Mahu2021 collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | Rake 0 
+Board [Jh Kh 7h 2d Th]
+Seat 1: zinbell (big blind) mucked [8d 6s]
+Seat 2: navas_john (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) showed [Ac Js] and won (140) with a pair of Jacks
+
+
+
+PokerStars Hand #245583152862: Tournament #3635973295, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/08/25 15:15:30 CET [2023/08/25 9:15:30 ET]
+Table '3635973295 1' 3-max Seat #3 is the button
+Seat 1: zinbell (460 in chips) 
+Seat 2: navas_john (490 in chips) 
+Seat 3: Mahu2021 (550 in chips) 
+zinbell: posts small blind 10
+navas_john: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd 3c]
+Mahu2021: folds 
+zinbell: raises 20 to 40
+navas_john: folds 
+Uncalled bet (20) returned to zinbell
+zinbell collected 40 from pot
+zinbell: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: zinbell (small blind) collected (40)
+Seat 2: navas_john (big blind) folded before Flop
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245583154539: Tournament #3635973295, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/08/25 15:15:38 CET [2023/08/25 9:15:38 ET]
+Table '3635973295 1' 3-max Seat #1 is the button
+Seat 1: zinbell (480 in chips) 
+Seat 2: navas_john (470 in chips) 
+Seat 3: Mahu2021 (550 in chips) 
+navas_john: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kc Ac]
+zinbell: folds 
+navas_john: raises 20 to 40
+Mahu2021: raises 80 to 120
+navas_john: calls 80
+*** FLOP *** [6d 2d 2h]
+navas_john: checks 
+Mahu2021: checks 
+*** TURN *** [6d 2d 2h] [3s]
+navas_john: checks 
+Mahu2021: bets 60
+navas_john: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 240 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [6d 2d 2h 3s]
+Seat 1: zinbell (button) folded before Flop (didn't bet)
+Seat 2: navas_john (small blind) folded on the Turn
+Seat 3: Mahu2021 (big blind) collected (240)
+
+
+
+PokerStars Hand #245583160823: Tournament #3635973295, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/08/25 15:16:10 CET [2023/08/25 9:16:10 ET]
+Table '3635973295 1' 3-max Seat #2 is the button
+Seat 1: zinbell (480 in chips) 
+Seat 2: navas_john (350 in chips) 
+Seat 3: Mahu2021 (670 in chips) 
+Mahu2021: posts small blind 10
+zinbell: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d As]
+navas_john: calls 20
+Mahu2021: folds 
+zinbell: checks 
+*** FLOP *** [Jc 5c Td]
+zinbell: checks 
+navas_john: checks 
+*** TURN *** [Jc 5c Td] [Kh]
+zinbell: bets 20
+navas_john: raises 40 to 60
+zinbell: calls 40
+*** RIVER *** [Jc 5c Td Kh] [9d]
+zinbell: bets 88
+navas_john: calls 88
+*** SHOW DOWN ***
+zinbell: shows [3s Qs] (a straight, Nine to King)
+navas_john: mucks hand 
+zinbell collected 346 from pot
+*** SUMMARY ***
+Total pot 346 | Rake 0 
+Board [Jc 5c Td Kh 9d]
+Seat 1: zinbell (big blind) showed [3s Qs] and won (346) with a straight, Nine to King
+Seat 2: navas_john (button) mucked [7s Ks]
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #245583166980: Tournament #3635973295, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/08/25 15:16:41 CET [2023/08/25 9:16:41 ET]
+Table '3635973295 1' 3-max Seat #3 is the button
+Seat 1: zinbell (658 in chips) 
+Seat 2: navas_john (182 in chips) 
+Seat 3: Mahu2021 (660 in chips) 
+zinbell: posts small blind 10
+navas_john: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd 2s]
+Mahu2021: folds 
+zinbell: folds 
+Uncalled bet (10) returned to navas_john
+navas_john collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: zinbell (small blind) folded before Flop
+Seat 2: navas_john (big blind) collected (20)
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245583168123: Tournament #3635973295, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/08/25 15:16:46 CET [2023/08/25 9:16:46 ET]
+Table '3635973295 1' 3-max Seat #1 is the button
+Seat 1: zinbell (648 in chips) 
+Seat 2: navas_john (192 in chips) 
+Seat 3: Mahu2021 (660 in chips) 
+navas_john: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Tc 3s]
+zinbell: folds 
+navas_john: raises 172 to 192 and is all-in
+Mahu2021: folds 
+Uncalled bet (172) returned to navas_john
+navas_john collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: zinbell (button) folded before Flop (didn't bet)
+Seat 2: navas_john (small blind) collected (40)
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #245583169639: Tournament #3635973295, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/08/25 15:16:54 CET [2023/08/25 9:16:54 ET]
+Table '3635973295 1' 3-max Seat #2 is the button
+Seat 1: zinbell (648 in chips) 
+Seat 2: navas_john (212 in chips) 
+Seat 3: Mahu2021 (640 in chips) 
+Mahu2021: posts small blind 10
+zinbell: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c 2s]
+navas_john: raises 192 to 212 and is all-in
+Mahu2021: folds 
+zinbell: calls 192
+*** FLOP *** [8h 7d Kc]
+*** TURN *** [8h 7d Kc] [7c]
+*** RIVER *** [8h 7d Kc 7c] [9s]
+*** SHOW DOWN ***
+zinbell: shows [8s 8c] (a full house, Eights full of Sevens)
+navas_john: shows [6h As] (a pair of Sevens)
+zinbell collected 434 from pot
+navas_john finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 434 | Rake 0 
+Board [8h 7d Kc 7c 9s]
+Seat 1: zinbell (big blind) showed [8s 8c] and won (434) with a full house, Eights full of Sevens
+Seat 2: navas_john (button) showed [6h As] and lost with a pair of Sevens
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #245583173646: Tournament #3635973295, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/08/25 15:17:14 CET [2023/08/25 9:17:14 ET]
+Table '3635973295 1' 3-max Seat #1 is the button
+Seat 1: zinbell (870 in chips) 
+Seat 3: Mahu2021 (630 in chips) 
+zinbell: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc Jh]
+zinbell: raises 30 to 60
+Mahu2021: raises 570 to 630 and is all-in
+zinbell: folds 
+Uncalled bet (570) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: zinbell (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (120)
+
+
+
+PokerStars Hand #245583175229: Tournament #3635973295, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/08/25 15:17:22 CET [2023/08/25 9:17:22 ET]
+Table '3635973295 1' 3-max Seat #3 is the button
+Seat 1: zinbell (810 in chips) 
+Seat 3: Mahu2021 (690 in chips) 
+Mahu2021: posts small blind 15
+zinbell: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h 6s]
+Mahu2021: calls 15
+zinbell: raises 90 to 120
+Mahu2021: calls 90
+*** FLOP *** [2h 9c Qh]
+zinbell: bets 125
+Mahu2021: folds 
+Uncalled bet (125) returned to zinbell
+zinbell collected 240 from pot
+zinbell: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [2h 9c Qh]
+Seat 1: zinbell (big blind) collected (240)
+Seat 3: Mahu2021 (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #245583177844: Tournament #3635973295, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/08/25 15:17:35 CET [2023/08/25 9:17:35 ET]
+Table '3635973295 1' 3-max Seat #1 is the button
+Seat 1: zinbell (930 in chips) 
+Seat 3: Mahu2021 (570 in chips) 
+zinbell: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qs Jh]
+zinbell: calls 15
+Mahu2021: raises 60 to 90
+zinbell: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: zinbell (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (60)
+
+
+
+PokerStars Hand #245583179474: Tournament #3635973295, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/08/25 15:17:43 CET [2023/08/25 9:17:43 ET]
+Table '3635973295 1' 3-max Seat #3 is the button
+Seat 1: zinbell (900 in chips) 
+Seat 3: Mahu2021 (600 in chips) 
+Mahu2021: posts small blind 15
+zinbell: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kc Kh]
+Mahu2021: calls 15
+zinbell: checks 
+*** FLOP *** [Ah Qs 2h]
+zinbell: bets 30
+Mahu2021: calls 30
+*** TURN *** [Ah Qs 2h] [7s]
+zinbell: checks 
+Mahu2021: checks 
+*** RIVER *** [Ah Qs 2h 7s] [2s]
+zinbell: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+zinbell: shows [4s 5d] (a pair of Deuces)
+Mahu2021: shows [Kc Kh] (two pair, Kings and Deuces)
+Mahu2021 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Ah Qs 2h 7s 2s]
+Seat 1: zinbell (big blind) showed [4s 5d] and lost with a pair of Deuces
+Seat 3: Mahu2021 (button) (small blind) showed [Kc Kh] and won (120) with two pair, Kings and Deuces
+
+
+
+PokerStars Hand #245583182997: Tournament #3635973295, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/08/25 15:18:01 CET [2023/08/25 9:18:01 ET]
+Table '3635973295 1' 3-max Seat #1 is the button
+Seat 1: zinbell (840 in chips) 
+Seat 3: Mahu2021 (660 in chips) 
+zinbell: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2s Qc]
+zinbell: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: zinbell (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (30)
+
+
+
+PokerStars Hand #245583183834: Tournament #3635973295, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/08/25 15:18:05 CET [2023/08/25 9:18:05 ET]
+Table '3635973295 1' 3-max Seat #3 is the button
+Seat 1: zinbell (825 in chips) 
+Seat 3: Mahu2021 (675 in chips) 
+Mahu2021: posts small blind 15
+zinbell: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c Tc]
+Mahu2021: raises 30 to 60
+zinbell: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: zinbell (big blind) folded before Flop
+Seat 3: Mahu2021 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #245583185076: Tournament #3635973295, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/08/25 15:18:11 CET [2023/08/25 9:18:11 ET]
+Table '3635973295 1' 3-max Seat #1 is the button
+Seat 1: zinbell (795 in chips) 
+Seat 3: Mahu2021 (705 in chips) 
+zinbell: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d Th]
+zinbell: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: zinbell (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (30)
+
+
+
+PokerStars Hand #245583185908: Tournament #3635973295, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/08/25 15:18:15 CET [2023/08/25 9:18:15 ET]
+Table '3635973295 1' 3-max Seat #3 is the button
+Seat 1: zinbell (780 in chips) 
+Seat 3: Mahu2021 (720 in chips) 
+Mahu2021: posts small blind 15
+zinbell: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d 7s]
+Mahu2021: calls 15
+zinbell: raises 750 to 780 and is all-in
+Mahu2021: folds 
+Uncalled bet (750) returned to zinbell
+zinbell collected 60 from pot
+zinbell: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: zinbell (big blind) collected (60)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #245583187203: Tournament #3635973295, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/08/25 15:18:22 CET [2023/08/25 9:18:22 ET]
+Table '3635973295 1' 3-max Seat #1 is the button
+Seat 1: zinbell (810 in chips) 
+Seat 3: Mahu2021 (690 in chips) 
+zinbell: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js 2d]
+zinbell: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: zinbell (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (30)
+
+
+
+PokerStars Hand #245583188065: Tournament #3635973295, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/08/25 15:18:26 CET [2023/08/25 9:18:26 ET]
+Table '3635973295 1' 3-max Seat #3 is the button
+Seat 1: zinbell (795 in chips) 
+Seat 3: Mahu2021 (705 in chips) 
+Mahu2021: posts small blind 15
+zinbell: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s Ad]
+Mahu2021: calls 15
+zinbell: checks 
+*** FLOP *** [Tc 6d Ks]
+zinbell: checks 
+Mahu2021: bets 30
+zinbell: calls 30
+*** TURN *** [Tc 6d Ks] [Jc]
+zinbell: checks 
+Mahu2021: checks 
+*** RIVER *** [Tc 6d Ks Jc] [Kh]
+zinbell: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+zinbell: shows [4h 6c] (two pair, Kings and Sixes)
+Mahu2021: mucks hand 
+zinbell collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Tc 6d Ks Jc Kh]
+Seat 1: zinbell (big blind) showed [4h 6c] and won (120) with two pair, Kings and Sixes
+Seat 3: Mahu2021 (button) (small blind) mucked [9s Ad]
+
+
+
+PokerStars Hand #245583191426: Tournament #3635973295, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/08/25 15:18:43 CET [2023/08/25 9:18:43 ET]
+Table '3635973295 1' 3-max Seat #1 is the button
+Seat 1: zinbell (855 in chips) 
+Seat 3: Mahu2021 (645 in chips) 
+zinbell: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4d 3d]
+zinbell: raises 30 to 60
+Mahu2021: calls 30
+*** FLOP *** [Qd Th Js]
+Mahu2021: checks 
+zinbell: bets 45
+Mahu2021: folds 
+Uncalled bet (45) returned to zinbell
+zinbell collected 120 from pot
+zinbell: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Qd Th Js]
+Seat 1: zinbell (button) (small blind) collected (120)
+Seat 3: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #245583193614: Tournament #3635973295, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/08/25 15:18:54 CET [2023/08/25 9:18:54 ET]
+Table '3635973295 1' 3-max Seat #3 is the button
+Seat 1: zinbell (915 in chips) 
+Seat 3: Mahu2021 (585 in chips) 
+Mahu2021: posts small blind 15
+zinbell: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d Kh]
+Mahu2021: calls 15
+zinbell: raises 75 to 105
+Mahu2021: folds 
+Uncalled bet (75) returned to zinbell
+zinbell collected 60 from pot
+zinbell: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: zinbell (big blind) collected (60)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #245583195146: Tournament #3635973295, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/08/25 15:19:02 CET [2023/08/25 9:19:02 ET]
+Table '3635973295 1' 3-max Seat #1 is the button
+Seat 1: zinbell (945 in chips) 
+Seat 3: Mahu2021 (555 in chips) 
+zinbell: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h Th]
+zinbell: calls 15
+Mahu2021: checks 
+*** FLOP *** [6h 9h 9c]
+Mahu2021: bets 60
+zinbell: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [6h 9h 9c]
+Seat 1: zinbell (button) (small blind) folded on the Flop
+Seat 3: Mahu2021 (big blind) collected (60)
+
+
+
+PokerStars Hand #245583198058: Tournament #3635973295, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/08/25 15:19:16 CET [2023/08/25 9:19:16 ET]
+Table '3635973295 1' 3-max Seat #3 is the button
+Seat 1: zinbell (915 in chips) 
+Seat 3: Mahu2021 (585 in chips) 
+Mahu2021: posts small blind 20
+zinbell: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s 3d]
+Mahu2021: calls 20
+zinbell: raises 875 to 915 and is all-in
+Mahu2021: folds 
+Uncalled bet (875) returned to zinbell
+zinbell collected 80 from pot
+zinbell: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: zinbell (big blind) collected (80)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #245583199467: Tournament #3635973295, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/08/25 15:19:23 CET [2023/08/25 9:19:23 ET]
+Table '3635973295 1' 3-max Seat #1 is the button
+Seat 1: zinbell (955 in chips) 
+Seat 3: Mahu2021 (545 in chips) 
+zinbell: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h Js]
+zinbell: calls 20
+Mahu2021: checks 
+*** FLOP *** [Kh 4c Kc]
+Mahu2021: bets 505 and is all-in
+zinbell: folds 
+Uncalled bet (505) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Kh 4c Kc]
+Seat 1: zinbell (button) (small blind) folded on the Flop
+Seat 3: Mahu2021 (big blind) collected (80)
+
+
+

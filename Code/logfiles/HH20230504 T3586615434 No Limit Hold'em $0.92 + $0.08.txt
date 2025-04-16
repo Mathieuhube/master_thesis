@@ -1,0 +1,1426 @@
+﻿PokerStars Hand #243488791124: Tournament #3586615434, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/05/04 21:18:35 CET [2023/05/04 15:18:35 ET]
+Table '3586615434 1' 3-max Seat #1 is the button
+Seat 1: IMKK (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: lixo256 (500 in chips) 
+Mahu2021: posts small blind 10
+lixo256: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Th 9s]
+IMKK: calls 20
+Mahu2021: calls 10
+lixo256: checks 
+*** FLOP *** [Ac 7h 4d]
+Mahu2021: checks 
+lixo256: checks 
+IMKK: checks 
+*** TURN *** [Ac 7h 4d] [Qc]
+Mahu2021: checks 
+lixo256: checks 
+IMKK: checks 
+*** RIVER *** [Ac 7h 4d Qc] [7c]
+Mahu2021: checks 
+lixo256: checks 
+IMKK: bets 40
+Mahu2021: folds 
+lixo256: calls 40
+*** SHOW DOWN ***
+IMKK: shows [5s Qh] (two pair, Queens and Sevens)
+lixo256: mucks hand 
+IMKK collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | Rake 0 
+Board [Ac 7h 4d Qc 7c]
+Seat 1: IMKK (button) showed [5s Qh] and won (140) with two pair, Queens and Sevens
+Seat 2: Mahu2021 (small blind) folded on the River
+Seat 3: lixo256 (big blind) mucked [Ks 6d]
+
+
+
+PokerStars Hand #243488804997: Tournament #3586615434, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/05/04 21:19:12 CET [2023/05/04 15:19:12 ET]
+Table '3586615434 1' 3-max Seat #2 is the button
+Seat 1: IMKK (580 in chips) 
+Seat 2: Mahu2021 (480 in chips) 
+Seat 3: lixo256 (440 in chips) 
+lixo256: posts small blind 10
+IMKK: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d 3h]
+Mahu2021: folds 
+lixo256: calls 10
+IMKK: checks 
+*** FLOP *** [Qs 7c Th]
+lixo256: bets 20
+IMKK: calls 20
+*** TURN *** [Qs 7c Th] [5h]
+lixo256: bets 80
+IMKK: calls 80
+*** RIVER *** [Qs 7c Th 5h] [Ad]
+lixo256: bets 240
+IMKK: folds 
+Uncalled bet (240) returned to lixo256
+lixo256 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Qs 7c Th 5h Ad]
+Seat 1: IMKK (big blind) folded on the River
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: lixo256 (small blind) collected (240)
+
+
+
+PokerStars Hand #243488812348: Tournament #3586615434, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/05/04 21:19:32 CET [2023/05/04 15:19:32 ET]
+Table '3586615434 1' 3-max Seat #3 is the button
+Seat 1: IMKK (460 in chips) 
+Seat 2: Mahu2021 (480 in chips) 
+Seat 3: lixo256 (560 in chips) 
+IMKK: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d 3h]
+lixo256: calls 20
+IMKK: folds 
+Mahu2021: checks 
+*** FLOP *** [5s Ts 9c]
+Mahu2021: checks 
+lixo256: checks 
+*** TURN *** [5s Ts 9c] [5c]
+Mahu2021: checks 
+lixo256: checks 
+*** RIVER *** [5s Ts 9c 5c] [8d]
+Mahu2021: bets 50
+lixo256: folds 
+Uncalled bet (50) returned to Mahu2021
+Mahu2021 collected 50 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [5s Ts 9c 5c 8d]
+Seat 1: IMKK (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (50)
+Seat 3: lixo256 (button) folded on the River
+
+
+
+PokerStars Hand #243488819032: Tournament #3586615434, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/05/04 21:19:50 CET [2023/05/04 15:19:50 ET]
+Table '3586615434 1' 3-max Seat #1 is the button
+Seat 1: IMKK (450 in chips) 
+Seat 2: Mahu2021 (510 in chips) 
+Seat 3: lixo256 (540 in chips) 
+Mahu2021: posts small blind 10
+lixo256: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah 7h]
+IMKK: folds 
+Mahu2021: raises 40 to 60
+lixo256: calls 40
+*** FLOP *** [Kh 5h Tc]
+Mahu2021: bets 60
+lixo256: calls 60
+*** TURN *** [Kh 5h Tc] [6s]
+Mahu2021: bets 60
+lixo256: calls 60
+*** RIVER *** [Kh 5h Tc 6s] [8c]
+Mahu2021: checks 
+lixo256: bets 360 and is all-in
+Mahu2021: folds 
+Uncalled bet (360) returned to lixo256
+lixo256 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [Kh 5h Tc 6s 8c]
+Seat 1: IMKK (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) folded on the River
+Seat 3: lixo256 (big blind) collected (360)
+
+
+
+PokerStars Hand #243488829193: Tournament #3586615434, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/05/04 21:20:18 CET [2023/05/04 15:20:18 ET]
+Table '3586615434 1' 3-max Seat #2 is the button
+Seat 1: IMKK (450 in chips) 
+Seat 2: Mahu2021 (330 in chips) 
+Seat 3: lixo256 (720 in chips) 
+lixo256: posts small blind 10
+IMKK: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah Qc]
+Mahu2021: raises 40 to 60
+lixo256: calls 50
+IMKK: folds 
+*** FLOP *** [6c Ac Kh]
+lixo256: checks 
+Mahu2021: bets 60
+lixo256: calls 60
+*** TURN *** [6c Ac Kh] [7h]
+lixo256: checks 
+Mahu2021: bets 210 and is all-in
+lixo256: calls 210
+*** RIVER *** [6c Ac Kh 7h] [Th]
+*** SHOW DOWN ***
+lixo256: shows [Jd Kc] (a pair of Kings)
+Mahu2021: shows [Ah Qc] (a pair of Aces)
+Mahu2021 collected 680 from pot
+*** SUMMARY ***
+Total pot 680 | Rake 0 
+Board [6c Ac Kh 7h Th]
+Seat 1: IMKK (big blind) folded before Flop
+Seat 2: Mahu2021 (button) showed [Ah Qc] and won (680) with a pair of Aces
+Seat 3: lixo256 (small blind) showed [Jd Kc] and lost with a pair of Kings
+
+
+
+PokerStars Hand #243488836479: Tournament #3586615434, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/05/04 21:20:38 CET [2023/05/04 15:20:38 ET]
+Table '3586615434 1' 3-max Seat #3 is the button
+Seat 1: IMKK (430 in chips) 
+Seat 2: Mahu2021 (680 in chips) 
+Seat 3: lixo256 (390 in chips) 
+IMKK: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s Qd]
+lixo256: raises 20 to 40
+IMKK: folds 
+Mahu2021: folds 
+Uncalled bet (20) returned to lixo256
+lixo256 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: IMKK (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: lixo256 (button) collected (50)
+
+
+
+PokerStars Hand #243488839168: Tournament #3586615434, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/05/04 21:20:44 CET [2023/05/04 15:20:44 ET]
+Table '3586615434 1' 3-max Seat #1 is the button
+Seat 1: IMKK (420 in chips) 
+Seat 2: Mahu2021 (660 in chips) 
+Seat 3: lixo256 (420 in chips) 
+Mahu2021: posts small blind 10
+lixo256: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc 8s]
+IMKK: folds 
+Mahu2021: calls 10
+lixo256: checks 
+*** FLOP *** [2s 6h 4c]
+Mahu2021: checks 
+lixo256: checks 
+*** TURN *** [2s 6h 4c] [Jh]
+Mahu2021: bets 20
+lixo256: calls 20
+*** RIVER *** [2s 6h 4c Jh] [Qh]
+Mahu2021: bets 20
+lixo256: raises 120 to 140
+Mahu2021: folds 
+Uncalled bet (120) returned to lixo256
+lixo256 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [2s 6h 4c Jh Qh]
+Seat 1: IMKK (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) folded on the River
+Seat 3: lixo256 (big blind) collected (120)
+
+
+
+PokerStars Hand #243488847978: Tournament #3586615434, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/05/04 21:21:08 CET [2023/05/04 15:21:08 ET]
+Table '3586615434 1' 3-max Seat #2 is the button
+Seat 1: IMKK (420 in chips) 
+Seat 2: Mahu2021 (600 in chips) 
+Seat 3: lixo256 (480 in chips) 
+lixo256: posts small blind 10
+IMKK: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d Ac]
+Mahu2021: calls 20
+lixo256: calls 10
+IMKK: checks 
+*** FLOP *** [4d As 6h]
+lixo256: checks 
+IMKK: checks 
+Mahu2021: bets 60
+lixo256: folds 
+IMKK: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [4d As 6h]
+Seat 1: IMKK (big blind) folded on the Flop
+Seat 2: Mahu2021 (button) collected (60)
+Seat 3: lixo256 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #243488862381: Tournament #3586615434, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/05/04 21:21:46 CET [2023/05/04 15:21:46 ET]
+Table '3586615434 1' 3-max Seat #3 is the button
+Seat 1: IMKK (400 in chips) 
+Seat 2: Mahu2021 (640 in chips) 
+Seat 3: lixo256 (460 in chips) 
+IMKK: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac Ad]
+lixo256: raises 30 to 60
+IMKK: folds 
+Mahu2021: raises 580 to 640 and is all-in
+lixo256: calls 400 and is all-in
+Uncalled bet (180) returned to Mahu2021
+*** FLOP *** [6s 2d Ks]
+*** TURN *** [6s 2d Ks] [3s]
+*** RIVER *** [6s 2d Ks 3s] [Td]
+*** SHOW DOWN ***
+Mahu2021: shows [Ac Ad] (a pair of Aces)
+lixo256: shows [Jc Qc] (high card King)
+Mahu2021 collected 935 from pot
+lixo256 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 935 | Rake 0 
+Board [6s 2d Ks 3s Td]
+Seat 1: IMKK (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) showed [Ac Ad] and won (935) with a pair of Aces
+Seat 3: lixo256 (button) showed [Jc Qc] and lost with high card King
+
+
+
+PokerStars Hand #243488869933: Tournament #3586615434, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/05/04 21:22:07 CET [2023/05/04 15:22:07 ET]
+Table '3586615434 1' 3-max Seat #2 is the button
+Seat 1: IMKK (385 in chips) 
+Seat 2: Mahu2021 (1115 in chips) 
+Mahu2021: posts small blind 15
+IMKK: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s 8h]
+Mahu2021: calls 15
+IMKK: checks 
+*** FLOP *** [Js 5c Qh]
+IMKK: checks 
+Mahu2021: bets 30
+IMKK: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Js 5c Qh]
+Seat 1: IMKK (big blind) folded on the Flop
+Seat 2: Mahu2021 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #243488880358: Tournament #3586615434, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/05/04 21:22:35 CET [2023/05/04 15:22:35 ET]
+Table '3586615434 1' 3-max Seat #1 is the button
+Seat 1: IMKK (355 in chips) 
+Seat 2: Mahu2021 (1145 in chips) 
+IMKK: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh Ks]
+IMKK: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: IMKK (button) (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (30)
+
+
+
+PokerStars Hand #243488883680: Tournament #3586615434, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/05/04 21:22:43 CET [2023/05/04 15:22:43 ET]
+Table '3586615434 1' 3-max Seat #2 is the button
+Seat 1: IMKK (340 in chips) 
+Seat 2: Mahu2021 (1160 in chips) 
+Mahu2021: posts small blind 15
+IMKK: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3c Ts]
+Mahu2021: folds 
+Uncalled bet (15) returned to IMKK
+IMKK collected 30 from pot
+IMKK: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: IMKK (big blind) collected (30)
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #243488885394: Tournament #3586615434, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/05/04 21:22:48 CET [2023/05/04 15:22:48 ET]
+Table '3586615434 1' 3-max Seat #1 is the button
+Seat 1: IMKK (355 in chips) 
+Seat 2: Mahu2021 (1145 in chips) 
+IMKK: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h 2c]
+IMKK: raises 30 to 60
+Mahu2021: folds 
+Uncalled bet (30) returned to IMKK
+IMKK collected 60 from pot
+IMKK: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: IMKK (button) (small blind) collected (60)
+Seat 2: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #243488887441: Tournament #3586615434, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/05/04 21:22:53 CET [2023/05/04 15:22:53 ET]
+Table '3586615434 1' 3-max Seat #2 is the button
+Seat 1: IMKK (385 in chips) 
+Seat 2: Mahu2021 (1115 in chips) 
+Mahu2021: posts small blind 15
+IMKK: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d Jh]
+Mahu2021: calls 15
+IMKK: checks 
+*** FLOP *** [Ts Kc Ks]
+IMKK: checks 
+Mahu2021: bets 30
+IMKK: calls 30
+*** TURN *** [Ts Kc Ks] [6h]
+IMKK: checks 
+Mahu2021: checks 
+*** RIVER *** [Ts Kc Ks 6h] [2c]
+IMKK: bets 60
+Mahu2021: calls 60
+*** SHOW DOWN ***
+IMKK: shows [8c Th] (two pair, Kings and Tens)
+Mahu2021: mucks hand 
+IMKK collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Ts Kc Ks 6h 2c]
+Seat 1: IMKK (big blind) showed [8c Th] and won (240) with two pair, Kings and Tens
+Seat 2: Mahu2021 (button) (small blind) mucked [6d Jh]
+
+
+
+PokerStars Hand #243488894083: Tournament #3586615434, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/05/04 21:23:11 CET [2023/05/04 15:23:11 ET]
+Table '3586615434 1' 3-max Seat #1 is the button
+Seat 1: IMKK (505 in chips) 
+Seat 2: Mahu2021 (995 in chips) 
+IMKK: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd 4c]
+IMKK: calls 15
+Mahu2021: checks 
+*** FLOP *** [6c Ad Jh]
+Mahu2021: checks 
+IMKK: checks 
+*** TURN *** [6c Ad Jh] [Kc]
+Mahu2021: checks 
+IMKK: checks 
+*** RIVER *** [6c Ad Jh Kc] [Js]
+Mahu2021: bets 60
+IMKK: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [6c Ad Jh Kc Js]
+Seat 1: IMKK (button) (small blind) folded on the River
+Seat 2: Mahu2021 (big blind) collected (60)
+
+
+
+PokerStars Hand #243488900172: Tournament #3586615434, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/05/04 21:23:27 CET [2023/05/04 15:23:27 ET]
+Table '3586615434 1' 3-max Seat #2 is the button
+Seat 1: IMKK (475 in chips) 
+Seat 2: Mahu2021 (1025 in chips) 
+Mahu2021: posts small blind 15
+IMKK: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2c Qc]
+Mahu2021: calls 15
+IMKK: checks 
+*** FLOP *** [9s Kc Th]
+IMKK: checks 
+Mahu2021: bets 30
+IMKK: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [9s Kc Th]
+Seat 1: IMKK (big blind) folded on the Flop
+Seat 2: Mahu2021 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #243488904848: Tournament #3586615434, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/05/04 21:23:40 CET [2023/05/04 15:23:40 ET]
+Table '3586615434 1' 3-max Seat #1 is the button
+Seat 1: IMKK (445 in chips) 
+Seat 2: Mahu2021 (1055 in chips) 
+IMKK: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s Qc]
+IMKK: raises 30 to 60
+Mahu2021: folds 
+Uncalled bet (30) returned to IMKK
+IMKK collected 60 from pot
+IMKK: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: IMKK (button) (small blind) collected (60)
+Seat 2: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #243488906787: Tournament #3586615434, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/05/04 21:23:45 CET [2023/05/04 15:23:45 ET]
+Table '3586615434 1' 3-max Seat #2 is the button
+Seat 1: IMKK (475 in chips) 
+Seat 2: Mahu2021 (1025 in chips) 
+Mahu2021: posts small blind 15
+IMKK: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc 4d]
+Mahu2021: calls 15
+IMKK: checks 
+*** FLOP *** [8h 3d 7c]
+IMKK: checks 
+Mahu2021: checks 
+*** TURN *** [8h 3d 7c] [As]
+IMKK: bets 60
+Mahu2021: folds 
+Uncalled bet (60) returned to IMKK
+IMKK collected 60 from pot
+IMKK: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [8h 3d 7c As]
+Seat 1: IMKK (big blind) collected (60)
+Seat 2: Mahu2021 (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #243488911750: Tournament #3586615434, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/05/04 21:23:58 CET [2023/05/04 15:23:58 ET]
+Table '3586615434 1' 3-max Seat #1 is the button
+Seat 1: IMKK (505 in chips) 
+Seat 2: Mahu2021 (995 in chips) 
+IMKK: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah Jc]
+IMKK: calls 15
+Mahu2021: raises 60 to 90
+IMKK: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: IMKK (button) (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (60)
+
+
+
+PokerStars Hand #243488915881: Tournament #3586615434, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/05/04 21:24:09 CET [2023/05/04 15:24:09 ET]
+Table '3586615434 1' 3-max Seat #2 is the button
+Seat 1: IMKK (475 in chips) 
+Seat 2: Mahu2021 (1025 in chips) 
+Mahu2021: posts small blind 15
+IMKK: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac 9s]
+Mahu2021: raises 60 to 90
+IMKK: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: IMKK (big blind) folded before Flop
+Seat 2: Mahu2021 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #243488918047: Tournament #3586615434, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/05/04 21:24:15 CET [2023/05/04 15:24:15 ET]
+Table '3586615434 1' 3-max Seat #1 is the button
+Seat 1: IMKK (445 in chips) 
+Seat 2: Mahu2021 (1055 in chips) 
+IMKK: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qs 7c]
+IMKK: raises 30 to 60
+Mahu2021: calls 30
+*** FLOP *** [8s 9s 9h]
+Mahu2021: checks 
+IMKK: bets 90
+Mahu2021: folds 
+Uncalled bet (90) returned to IMKK
+IMKK collected 120 from pot
+IMKK: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [8s 9s 9h]
+Seat 1: IMKK (button) (small blind) collected (120)
+Seat 2: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #243488921997: Tournament #3586615434, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/05/04 21:24:25 CET [2023/05/04 15:24:25 ET]
+Table '3586615434 1' 3-max Seat #2 is the button
+Seat 1: IMKK (505 in chips) 
+Seat 2: Mahu2021 (995 in chips) 
+Mahu2021: posts small blind 15
+IMKK: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d 4d]
+Mahu2021: calls 15
+IMKK: checks 
+*** FLOP *** [Js 7s 3d]
+IMKK: checks 
+Mahu2021: bets 30
+IMKK: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Js 7s 3d]
+Seat 1: IMKK (big blind) folded on the Flop
+Seat 2: Mahu2021 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #243488927745: Tournament #3586615434, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/05/04 21:24:41 CET [2023/05/04 15:24:41 ET]
+Table '3586615434 1' 3-max Seat #1 is the button
+Seat 1: IMKK (475 in chips) 
+Seat 2: Mahu2021 (1025 in chips) 
+IMKK: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah 2s]
+IMKK: calls 20
+Mahu2021: checks 
+*** FLOP *** [Kh Jc 6h]
+Mahu2021: checks 
+IMKK: checks 
+*** TURN *** [Kh Jc 6h] [8s]
+Mahu2021: checks 
+IMKK: checks 
+*** RIVER *** [Kh Jc 6h 8s] [4s]
+Mahu2021: checks 
+IMKK: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [Ah 2s] (high card Ace)
+IMKK: mucks hand 
+Mahu2021 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Kh Jc 6h 8s 4s]
+Seat 1: IMKK (button) (small blind) mucked [9h 7h]
+Seat 2: Mahu2021 (big blind) showed [Ah 2s] and won (80) with high card Ace
+
+
+
+PokerStars Hand #243488932572: Tournament #3586615434, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/05/04 21:24:54 CET [2023/05/04 15:24:54 ET]
+Table '3586615434 1' 3-max Seat #2 is the button
+Seat 1: IMKK (435 in chips) 
+Seat 2: Mahu2021 (1065 in chips) 
+Mahu2021: posts small blind 20
+IMKK: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h 7d]
+Mahu2021: calls 20
+IMKK: checks 
+*** FLOP *** [8h 3c 7s]
+IMKK: checks 
+Mahu2021: bets 40
+IMKK: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [8h 3c 7s]
+Seat 1: IMKK (big blind) folded on the Flop
+Seat 2: Mahu2021 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #243488940123: Tournament #3586615434, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/05/04 21:25:14 CET [2023/05/04 15:25:14 ET]
+Table '3586615434 1' 3-max Seat #1 is the button
+Seat 1: IMKK (395 in chips) 
+Seat 2: Mahu2021 (1105 in chips) 
+IMKK: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8d 2h]
+IMKK: raises 40 to 80
+Mahu2021: folds 
+Uncalled bet (40) returned to IMKK
+IMKK collected 80 from pot
+IMKK: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: IMKK (button) (small blind) collected (80)
+Seat 2: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #243488942024: Tournament #3586615434, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/05/04 21:25:19 CET [2023/05/04 15:25:19 ET]
+Table '3586615434 1' 3-max Seat #2 is the button
+Seat 1: IMKK (435 in chips) 
+Seat 2: Mahu2021 (1065 in chips) 
+Mahu2021: posts small blind 20
+IMKK: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h Kc]
+Mahu2021: calls 20
+IMKK: raises 40 to 80
+Mahu2021: calls 40
+*** FLOP *** [4s 9c 7d]
+IMKK: bets 120
+Mahu2021: folds 
+Uncalled bet (120) returned to IMKK
+IMKK collected 160 from pot
+IMKK: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [4s 9c 7d]
+Seat 1: IMKK (big blind) collected (160)
+Seat 2: Mahu2021 (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #243488946070: Tournament #3586615434, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/05/04 21:25:30 CET [2023/05/04 15:25:30 ET]
+Table '3586615434 1' 3-max Seat #1 is the button
+Seat 1: IMKK (515 in chips) 
+Seat 2: Mahu2021 (985 in chips) 
+IMKK: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8c 6d]
+IMKK: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: IMKK (button) (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (40)
+
+
+
+PokerStars Hand #243488947699: Tournament #3586615434, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/05/04 21:25:34 CET [2023/05/04 15:25:34 ET]
+Table '3586615434 1' 3-max Seat #2 is the button
+Seat 1: IMKK (495 in chips) 
+Seat 2: Mahu2021 (1005 in chips) 
+Mahu2021: posts small blind 20
+IMKK: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks 8h]
+Mahu2021: raises 40 to 80
+IMKK: calls 40
+*** FLOP *** [Ts 9c Jd]
+IMKK: bets 120
+Mahu2021: calls 120
+*** TURN *** [Ts 9c Jd] [Jh]
+IMKK: bets 120
+Mahu2021: calls 120
+*** RIVER *** [Ts 9c Jd Jh] [6c]
+IMKK: bets 175 and is all-in
+Mahu2021: folds 
+Uncalled bet (175) returned to IMKK
+IMKK collected 640 from pot
+IMKK: doesn't show hand 
+*** SUMMARY ***
+Total pot 640 | Rake 0 
+Board [Ts 9c Jd Jh 6c]
+Seat 1: IMKK (big blind) collected (640)
+Seat 2: Mahu2021 (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #243488955234: Tournament #3586615434, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/05/04 21:25:54 CET [2023/05/04 15:25:54 ET]
+Table '3586615434 1' 3-max Seat #1 is the button
+Seat 1: IMKK (815 in chips) 
+Seat 2: Mahu2021 (685 in chips) 
+IMKK: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4c 5h]
+IMKK: calls 20
+Mahu2021: checks 
+*** FLOP *** [Jc Qs 7h]
+Mahu2021: checks 
+IMKK: checks 
+*** TURN *** [Jc Qs 7h] [8s]
+Mahu2021: checks 
+IMKK: checks 
+*** RIVER *** [Jc Qs 7h 8s] [8h]
+Mahu2021: checks 
+IMKK: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [4c 5h] (a pair of Eights)
+IMKK: shows [3c Ad] (a pair of Eights - Ace kicker)
+IMKK collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Jc Qs 7h 8s 8h]
+Seat 1: IMKK (button) (small blind) showed [3c Ad] and won (80) with a pair of Eights
+Seat 2: Mahu2021 (big blind) showed [4c 5h] and lost with a pair of Eights
+
+
+
+PokerStars Hand #243488960010: Tournament #3586615434, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/05/04 21:26:07 CET [2023/05/04 15:26:07 ET]
+Table '3586615434 1' 3-max Seat #2 is the button
+Seat 1: IMKK (855 in chips) 
+Seat 2: Mahu2021 (645 in chips) 
+Mahu2021: posts small blind 20
+IMKK: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6h 3s]
+Mahu2021: calls 20
+IMKK: checks 
+*** FLOP *** [9s Qd Ks]
+IMKK: bets 80
+Mahu2021: folds 
+Uncalled bet (80) returned to IMKK
+IMKK collected 80 from pot
+IMKK: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [9s Qd Ks]
+Seat 1: IMKK (big blind) collected (80)
+Seat 2: Mahu2021 (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #243488965016: Tournament #3586615434, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/05/04 21:26:21 CET [2023/05/04 15:26:21 ET]
+Table '3586615434 1' 3-max Seat #1 is the button
+Seat 1: IMKK (895 in chips) 
+Seat 2: Mahu2021 (605 in chips) 
+IMKK: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c 4s]
+IMKK: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: IMKK (button) (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (40)
+
+
+
+PokerStars Hand #243488966854: Tournament #3586615434, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/05/04 21:26:26 CET [2023/05/04 15:26:26 ET]
+Table '3586615434 1' 3-max Seat #2 is the button
+Seat 1: IMKK (875 in chips) 
+Seat 2: Mahu2021 (625 in chips) 
+Mahu2021: posts small blind 20
+IMKK: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h Th]
+Mahu2021: calls 20
+IMKK: checks 
+*** FLOP *** [Qc 8s 6c]
+IMKK: checks 
+Mahu2021: bets 40
+IMKK: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Qc 8s 6c]
+Seat 1: IMKK (big blind) folded on the Flop
+Seat 2: Mahu2021 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #243488971126: Tournament #3586615434, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/05/04 21:26:38 CET [2023/05/04 15:26:38 ET]
+Table '3586615434 1' 3-max Seat #1 is the button
+Seat 1: IMKK (835 in chips) 
+Seat 2: Mahu2021 (665 in chips) 
+IMKK: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8d 6s]
+IMKK: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: IMKK (button) (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (40)
+
+
+
+PokerStars Hand #243488973066: Tournament #3586615434, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/05/04 21:26:43 CET [2023/05/04 15:26:43 ET]
+Table '3586615434 1' 3-max Seat #2 is the button
+Seat 1: IMKK (815 in chips) 
+Seat 2: Mahu2021 (685 in chips) 
+Mahu2021: posts small blind 20
+IMKK: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c 9d]
+Mahu2021: folds 
+Uncalled bet (20) returned to IMKK
+IMKK collected 40 from pot
+IMKK: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: IMKK (big blind) collected (40)
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #243488974628: Tournament #3586615434, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/05/04 21:26:47 CET [2023/05/04 15:26:47 ET]
+Table '3586615434 1' 3-max Seat #1 is the button
+Seat 1: IMKK (835 in chips) 
+Seat 2: Mahu2021 (665 in chips) 
+IMKK: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3c 9h]
+IMKK: calls 20
+Mahu2021: checks 
+*** FLOP *** [Ah Ac 2h]
+Mahu2021: checks 
+IMKK: checks 
+*** TURN *** [Ah Ac 2h] [6d]
+Mahu2021: checks 
+IMKK: checks 
+*** RIVER *** [Ah Ac 2h 6d] [Kh]
+Mahu2021: checks 
+IMKK: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [3c 9h] (a pair of Aces)
+IMKK: shows [6c Ks] (two pair, Aces and Kings)
+IMKK collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Ah Ac 2h 6d Kh]
+Seat 1: IMKK (button) (small blind) showed [6c Ks] and won (80) with two pair, Aces and Kings
+Seat 2: Mahu2021 (big blind) showed [3c 9h] and lost with a pair of Aces
+
+
+
+PokerStars Hand #243488980899: Tournament #3586615434, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/05/04 21:27:04 CET [2023/05/04 15:27:04 ET]
+Table '3586615434 1' 3-max Seat #2 is the button
+Seat 1: IMKK (875 in chips) 
+Seat 2: Mahu2021 (625 in chips) 
+Mahu2021: posts small blind 20
+IMKK: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks Jd]
+Mahu2021: raises 40 to 80
+IMKK: calls 40
+*** FLOP *** [Ac Ah 5s]
+IMKK: checks 
+Mahu2021: bets 80
+IMKK: calls 80
+*** TURN *** [Ac Ah 5s] [7d]
+IMKK: checks 
+Mahu2021: checks 
+*** RIVER *** [Ac Ah 5s 7d] [Qs]
+IMKK: bets 120
+Mahu2021: folds 
+Uncalled bet (120) returned to IMKK
+IMKK collected 320 from pot
+IMKK: doesn't show hand 
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [Ac Ah 5s 7d Qs]
+Seat 1: IMKK (big blind) collected (320)
+Seat 2: Mahu2021 (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #243488987595: Tournament #3586615434, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/05/04 21:27:22 CET [2023/05/04 15:27:22 ET]
+Table '3586615434 1' 3-max Seat #1 is the button
+Seat 1: IMKK (1035 in chips) 
+Seat 2: Mahu2021 (465 in chips) 
+IMKK: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd Ts]
+IMKK: calls 20
+Mahu2021: checks 
+*** FLOP *** [Th Qh 4s]
+Mahu2021: bets 40
+IMKK: calls 40
+*** TURN *** [Th Qh 4s] [8s]
+Mahu2021: bets 40
+IMKK: calls 40
+*** RIVER *** [Th Qh 4s 8s] [9s]
+Mahu2021: bets 40
+IMKK: calls 40
+*** SHOW DOWN ***
+Mahu2021: shows [Kd Ts] (a pair of Tens)
+IMKK: mucks hand 
+Mahu2021 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [Th Qh 4s 8s 9s]
+Seat 1: IMKK (button) (small blind) mucked [Ac 4h]
+Seat 2: Mahu2021 (big blind) showed [Kd Ts] and won (320) with a pair of Tens
+
+
+
+PokerStars Hand #243488992795: Tournament #3586615434, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/05/04 21:27:36 CET [2023/05/04 15:27:36 ET]
+Table '3586615434 1' 3-max Seat #2 is the button
+Seat 1: IMKK (875 in chips) 
+Seat 2: Mahu2021 (625 in chips) 
+Mahu2021: posts small blind 20
+IMKK: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Td Tc]
+Mahu2021: raises 585 to 625 and is all-in
+IMKK: folds 
+Uncalled bet (585) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: IMKK (big blind) folded before Flop
+Seat 2: Mahu2021 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #243488995838: Tournament #3586615434, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/05/04 21:27:44 CET [2023/05/04 15:27:44 ET]
+Table '3586615434 1' 3-max Seat #1 is the button
+Seat 1: IMKK (835 in chips) 
+Seat 2: Mahu2021 (665 in chips) 
+IMKK: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s 2s]
+IMKK: raises 60 to 120
+Mahu2021: folds 
+Uncalled bet (60) returned to IMKK
+IMKK collected 120 from pot
+IMKK: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: IMKK (button) (small blind) collected (120)
+Seat 2: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #243488997982: Tournament #3586615434, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/05/04 21:27:50 CET [2023/05/04 15:27:50 ET]
+Table '3586615434 1' 3-max Seat #2 is the button
+Seat 1: IMKK (895 in chips) 
+Seat 2: Mahu2021 (605 in chips) 
+Mahu2021: posts small blind 30
+IMKK: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d 9d]
+Mahu2021: calls 30
+IMKK: checks 
+*** FLOP *** [Qd Ks Kc]
+IMKK: checks 
+Mahu2021: bets 60
+IMKK: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Qd Ks Kc]
+Seat 1: IMKK (big blind) folded on the Flop
+Seat 2: Mahu2021 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #243489001432: Tournament #3586615434, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/05/04 21:27:59 CET [2023/05/04 15:27:59 ET]
+Table '3586615434 1' 3-max Seat #1 is the button
+Seat 1: IMKK (835 in chips) 
+Seat 2: Mahu2021 (665 in chips) 
+IMKK: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d Jh]
+IMKK: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: IMKK (button) (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (60)
+
+
+
+PokerStars Hand #243489003235: Tournament #3586615434, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/05/04 21:28:04 CET [2023/05/04 15:28:04 ET]
+Table '3586615434 1' 3-max Seat #2 is the button
+Seat 1: IMKK (805 in chips) 
+Seat 2: Mahu2021 (695 in chips) 
+Mahu2021: posts small blind 30
+IMKK: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js Kc]
+Mahu2021: raises 60 to 120
+IMKK: calls 60
+*** FLOP *** [2h Ah 5h]
+IMKK: checks 
+Mahu2021: checks 
+*** TURN *** [2h Ah 5h] [8h]
+IMKK: bets 180
+Mahu2021: folds 
+Uncalled bet (180) returned to IMKK
+IMKK collected 240 from pot
+IMKK: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [2h Ah 5h 8h]
+Seat 1: IMKK (big blind) collected (240)
+Seat 2: Mahu2021 (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #243489007527: Tournament #3586615434, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/05/04 21:28:16 CET [2023/05/04 15:28:16 ET]
+Table '3586615434 1' 3-max Seat #1 is the button
+Seat 1: IMKK (925 in chips) 
+Seat 2: Mahu2021 (575 in chips) 
+IMKK: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c 4c]
+IMKK: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: IMKK (button) (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (60)
+
+
+
+PokerStars Hand #243489010251: Tournament #3586615434, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/05/04 21:28:23 CET [2023/05/04 15:28:23 ET]
+Table '3586615434 1' 3-max Seat #2 is the button
+Seat 1: IMKK (895 in chips) 
+Seat 2: Mahu2021 (605 in chips) 
+Mahu2021: posts small blind 30
+IMKK: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d Ah]
+Mahu2021: raises 60 to 120
+IMKK: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: IMKK (big blind) folded before Flop
+Seat 2: Mahu2021 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #243489011986: Tournament #3586615434, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/05/04 21:28:27 CET [2023/05/04 15:28:27 ET]
+Table '3586615434 1' 3-max Seat #1 is the button
+Seat 1: IMKK (835 in chips) 
+Seat 2: Mahu2021 (665 in chips) 
+IMKK: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h 9s]
+IMKK: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: IMKK (button) (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (60)
+
+
+
+PokerStars Hand #243489013610: Tournament #3586615434, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/05/04 21:28:32 CET [2023/05/04 15:28:32 ET]
+Table '3586615434 1' 3-max Seat #2 is the button
+Seat 1: IMKK (805 in chips) 
+Seat 2: Mahu2021 (695 in chips) 
+Mahu2021: posts small blind 30
+IMKK: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kc 6s]
+Mahu2021: calls 30
+IMKK: checks 
+*** FLOP *** [Qh 4c 2c]
+IMKK: bets 180
+Mahu2021: folds 
+Uncalled bet (180) returned to IMKK
+IMKK collected 120 from pot
+IMKK: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Qh 4c 2c]
+Seat 1: IMKK (big blind) collected (120)
+Seat 2: Mahu2021 (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #243489017404: Tournament #3586615434, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/05/04 21:28:42 CET [2023/05/04 15:28:42 ET]
+Table '3586615434 1' 3-max Seat #1 is the button
+Seat 1: IMKK (865 in chips) 
+Seat 2: Mahu2021 (635 in chips) 
+IMKK: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c Kh]
+IMKK: calls 30
+Mahu2021: raises 120 to 180
+IMKK: calls 120
+*** FLOP *** [8h Th 4h]
+Mahu2021: bets 455 and is all-in
+IMKK: calls 455
+*** TURN *** [8h Th 4h] [8c]
+*** RIVER *** [8h Th 4h 8c] [Ah]
+*** SHOW DOWN ***
+Mahu2021: shows [9c Kh] (a flush, Ace high)
+IMKK: shows [7h 6h] (a flush, Ace high - lower cards)
+Mahu2021 collected 1270 from pot
+*** SUMMARY ***
+Total pot 1270 | Rake 0 
+Board [8h Th 4h 8c Ah]
+Seat 1: IMKK (button) (small blind) showed [7h 6h] and lost with a flush, Ace high
+Seat 2: Mahu2021 (big blind) showed [9c Kh] and won (1270) with a flush, Ace high
+
+
+
+PokerStars Hand #243489024663: Tournament #3586615434, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/05/04 21:29:01 CET [2023/05/04 15:29:01 ET]
+Table '3586615434 1' 3-max Seat #2 is the button
+Seat 1: IMKK (230 in chips) 
+Seat 2: Mahu2021 (1270 in chips) 
+Mahu2021: posts small blind 30
+IMKK: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c Kd]
+Mahu2021: folds 
+Uncalled bet (30) returned to IMKK
+IMKK collected 60 from pot
+IMKK: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: IMKK (big blind) collected (60)
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #243489026269: Tournament #3586615434, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/05/04 21:29:06 CET [2023/05/04 15:29:06 ET]
+Table '3586615434 1' 3-max Seat #1 is the button
+Seat 1: IMKK (260 in chips) 
+Seat 2: Mahu2021 (1240 in chips) 
+IMKK: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad 7h]
+IMKK: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: IMKK (button) (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (60)
+
+
+
+PokerStars Hand #243489028471: Tournament #3586615434, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/05/04 21:29:11 CET [2023/05/04 15:29:11 ET]
+Table '3586615434 1' 3-max Seat #2 is the button
+Seat 1: IMKK (230 in chips) 
+Seat 2: Mahu2021 (1270 in chips) 
+Mahu2021: posts small blind 30
+IMKK: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d 2h]
+Mahu2021: folds 
+Uncalled bet (30) returned to IMKK
+IMKK collected 60 from pot
+IMKK: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: IMKK (big blind) collected (60)
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #243489030044: Tournament #3586615434, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/05/04 21:29:16 CET [2023/05/04 15:29:16 ET]
+Table '3586615434 1' 3-max Seat #1 is the button
+Seat 1: IMKK (260 in chips) 
+Seat 2: Mahu2021 (1240 in chips) 
+IMKK: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd 2s]
+IMKK: raises 60 to 120
+Mahu2021: calls 60
+*** FLOP *** [Tc 9h 4d]
+Mahu2021: checks 
+IMKK: bets 140 and is all-in
+Mahu2021: folds 
+Uncalled bet (140) returned to IMKK
+IMKK collected 240 from pot
+IMKK: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Tc 9h 4d]
+Seat 1: IMKK (button) (small blind) collected (240)
+Seat 2: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #243489034174: Tournament #3586615434, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/05/04 21:29:27 CET [2023/05/04 15:29:27 ET]
+Table '3586615434 1' 3-max Seat #2 is the button
+Seat 1: IMKK (380 in chips) 
+Seat 2: Mahu2021 (1120 in chips) 
+Mahu2021: posts small blind 30
+IMKK: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5h Jh]
+Mahu2021: calls 30
+IMKK: checks 
+*** FLOP *** [Ad 4d 2d]
+IMKK: checks 
+Mahu2021: checks 
+*** TURN *** [Ad 4d 2d] [4h]
+IMKK: checks 
+Mahu2021: checks 
+*** RIVER *** [Ad 4d 2d 4h] [8d]
+IMKK: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+IMKK: shows [Js 3c] (a pair of Fours)
+Mahu2021: shows [5h Jh] (a pair of Fours)
+IMKK collected 60 from pot
+Mahu2021 collected 60 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Ad 4d 2d 4h 8d]
+Seat 1: IMKK (big blind) showed [Js 3c] and won (60) with a pair of Fours
+Seat 2: Mahu2021 (button) (small blind) showed [5h Jh] and won (60) with a pair of Fours
+
+
+
+PokerStars Hand #243489038060: Tournament #3586615434, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/05/04 21:29:37 CET [2023/05/04 15:29:37 ET]
+Table '3586615434 1' 3-max Seat #1 is the button
+Seat 1: IMKK (380 in chips) 
+Seat 2: Mahu2021 (1120 in chips) 
+IMKK: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s 2h]
+IMKK: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: IMKK (button) (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (60)
+
+
+
+PokerStars Hand #243489040582: Tournament #3586615434, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/05/04 21:29:44 CET [2023/05/04 15:29:44 ET]
+Table '3586615434 1' 3-max Seat #2 is the button
+Seat 1: IMKK (350 in chips) 
+Seat 2: Mahu2021 (1150 in chips) 
+Mahu2021: posts small blind 30
+IMKK: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qs 9d]
+Mahu2021: calls 30
+IMKK: checks 
+*** FLOP *** [Ks Ah Th]
+IMKK: checks 
+Mahu2021: bets 60
+IMKK: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Ks Ah Th]
+Seat 1: IMKK (big blind) folded on the Flop
+Seat 2: Mahu2021 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #243489046187: Tournament #3586615434, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/05/04 21:29:59 CET [2023/05/04 15:29:59 ET]
+Table '3586615434 1' 3-max Seat #1 is the button
+Seat 1: IMKK (290 in chips) 
+Seat 2: Mahu2021 (1210 in chips) 
+IMKK: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d 7s]
+IMKK: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: IMKK (button) (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (60)
+
+
+
+PokerStars Hand #243489049241: Tournament #3586615434, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/05/04 21:30:06 CET [2023/05/04 15:30:06 ET]
+Table '3586615434 1' 3-max Seat #2 is the button
+Seat 1: IMKK (260 in chips) 
+Seat 2: Mahu2021 (1240 in chips) 
+Mahu2021: posts small blind 30
+IMKK: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Th 6d]
+Mahu2021: folds 
+Uncalled bet (30) returned to IMKK
+IMKK collected 60 from pot
+IMKK: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: IMKK (big blind) collected (60)
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #243489051151: Tournament #3586615434, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/05/04 21:30:11 CET [2023/05/04 15:30:11 ET]
+Table '3586615434 1' 3-max Seat #1 is the button
+Seat 1: IMKK (290 in chips) 
+Seat 2: Mahu2021 (1210 in chips) 
+IMKK: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2s 3s]
+IMKK: calls 30
+Mahu2021: checks 
+*** FLOP *** [6h 9s 7s]
+Mahu2021: checks 
+IMKK: checks 
+*** TURN *** [6h 9s 7s] [4s]
+Mahu2021: checks 
+IMKK: bets 180
+Mahu2021: raises 970 to 1150 and is all-in
+IMKK: calls 50 and is all-in
+Uncalled bet (920) returned to Mahu2021
+*** RIVER *** [6h 9s 7s 4s] [4d]
+*** SHOW DOWN ***
+Mahu2021: shows [2s 3s] (a flush, Nine high)
+IMKK: shows [3d 5c] (a straight, Three to Seven)
+Mahu2021 collected 580 from pot
+IMKK finished the tournament in 2nd place
+Mahu2021 wins the tournament and receives $3.00 - congratulations!
+*** SUMMARY ***
+Total pot 580 | Rake 0 
+Board [6h 9s 7s 4s 4d]
+Seat 1: IMKK (button) (small blind) showed [3d 5c] and lost with a straight, Three to Seven
+Seat 2: Mahu2021 (big blind) showed [2s 3s] and won (580) with a flush, Nine high
+
+
+

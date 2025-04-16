@@ -1,0 +1,736 @@
+﻿PokerStars Hand #249492001220: Tournament #3730505129, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/03/18 18:41:51 CET [2024/03/18 13:41:51 ET]
+Table '3730505129 1' 3-max Seat #1 is the button
+Seat 1: ACoops7 (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: Pocketpro14 (500 in chips) 
+Mahu2021: posts small blind 10
+Pocketpro14: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c 7d]
+ACoops7: folds 
+Mahu2021: raises 20 to 40
+Pocketpro14: calls 20
+*** FLOP *** [Ts As 2c]
+Mahu2021: checks 
+Pocketpro14: checks 
+*** TURN *** [Ts As 2c] [8h]
+Mahu2021: checks 
+Pocketpro14: checks 
+*** RIVER *** [Ts As 2c 8h] [5s]
+Mahu2021: bets 40
+Pocketpro14: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Ts As 2c 8h 5s]
+Seat 1: ACoops7 (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) collected (80)
+Seat 3: Pocketpro14 (big blind) folded on the River
+
+
+
+PokerStars Hand #249492006576: Tournament #3730505129, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/03/18 18:42:08 CET [2024/03/18 13:42:08 ET]
+Table '3730505129 1' 3-max Seat #2 is the button
+Seat 1: ACoops7 (500 in chips) 
+Seat 2: Mahu2021 (540 in chips) 
+Seat 3: Pocketpro14 (460 in chips) 
+Pocketpro14: posts small blind 10
+ACoops7: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah 5c]
+Mahu2021: calls 20
+Pocketpro14: raises 440 to 460 and is all-in
+ACoops7: folds 
+Mahu2021: folds 
+Uncalled bet (440) returned to Pocketpro14
+Pocketpro14 collected 60 from pot
+Pocketpro14: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: ACoops7 (big blind) folded before Flop
+Seat 2: Mahu2021 (button) folded before Flop
+Seat 3: Pocketpro14 (small blind) collected (60)
+
+
+
+PokerStars Hand #249492008873: Tournament #3730505129, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/03/18 18:42:16 CET [2024/03/18 13:42:16 ET]
+Table '3730505129 1' 3-max Seat #3 is the button
+Seat 1: ACoops7 (480 in chips) 
+Seat 2: Mahu2021 (520 in chips) 
+Seat 3: Pocketpro14 (500 in chips) 
+ACoops7: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d Kh]
+Pocketpro14: calls 20
+ACoops7: calls 10
+Mahu2021: checks 
+*** FLOP *** [9d Qd 5h]
+ACoops7: checks 
+Mahu2021: checks 
+Pocketpro14: bets 60
+ACoops7: calls 60
+Mahu2021: folds 
+*** TURN *** [9d Qd 5h] [6d]
+ACoops7: checks 
+Pocketpro14: bets 20
+ACoops7: calls 20
+*** RIVER *** [9d Qd 5h 6d] [Ah]
+ACoops7: checks 
+Pocketpro14: checks 
+*** SHOW DOWN ***
+ACoops7: shows [9c 3c] (a pair of Nines)
+Pocketpro14: shows [Qs 4c] (a pair of Queens)
+Pocketpro14 collected 220 from pot
+*** SUMMARY ***
+Total pot 220 | Rake 0 
+Board [9d Qd 5h 6d Ah]
+Seat 1: ACoops7 (small blind) showed [9c 3c] and lost with a pair of Nines
+Seat 2: Mahu2021 (big blind) folded on the Flop
+Seat 3: Pocketpro14 (button) showed [Qs 4c] and won (220) with a pair of Queens
+
+
+
+PokerStars Hand #249492016996: Tournament #3730505129, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/03/18 18:42:42 CET [2024/03/18 13:42:42 ET]
+Table '3730505129 1' 3-max Seat #1 is the button
+Seat 1: ACoops7 (380 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: Pocketpro14 (620 in chips) 
+Mahu2021: posts small blind 10
+Pocketpro14: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c Js]
+ACoops7: calls 20
+Mahu2021: calls 10
+Pocketpro14: raises 60 to 80
+ACoops7: calls 60
+Mahu2021: folds 
+*** FLOP *** [4c 4h 7c]
+Pocketpro14: bets 540 and is all-in
+ACoops7: calls 300 and is all-in
+Uncalled bet (240) returned to Pocketpro14
+*** TURN *** [4c 4h 7c] [2h]
+*** RIVER *** [4c 4h 7c 2h] [3c]
+*** SHOW DOWN ***
+Pocketpro14: shows [Ac As] (two pair, Aces and Fours)
+ACoops7: shows [7h 9h] (two pair, Sevens and Fours)
+Pocketpro14 collected 780 from pot
+ACoops7 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 780 | Rake 0 
+Board [4c 4h 7c 2h 3c]
+Seat 1: ACoops7 (button) showed [7h 9h] and lost with two pair, Sevens and Fours
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: Pocketpro14 (big blind) showed [Ac As] and won (780) with two pair, Aces and Fours
+
+
+
+PokerStars Hand #249492023691: Tournament #3730505129, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/03/18 18:43:04 CET [2024/03/18 13:43:04 ET]
+Table '3730505129 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (480 in chips) 
+Seat 3: Pocketpro14 (1020 in chips) 
+Pocketpro14: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6h 3c]
+Pocketpro14: calls 10
+Mahu2021: checks 
+*** FLOP *** [5c 9d Qh]
+Mahu2021: checks 
+Pocketpro14: checks 
+*** TURN *** [5c 9d Qh] [8h]
+Mahu2021: checks 
+Pocketpro14: checks 
+*** RIVER *** [5c 9d Qh 8h] [7s]
+Mahu2021: bets 460 and is all-in
+Pocketpro14: folds 
+Uncalled bet (460) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [5c 9d Qh 8h 7s]
+Seat 2: Mahu2021 (big blind) collected (40)
+Seat 3: Pocketpro14 (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #249492028295: Tournament #3730505129, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/03/18 18:43:19 CET [2024/03/18 13:43:19 ET]
+Table '3730505129 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: Pocketpro14 (1000 in chips) 
+Mahu2021: posts small blind 10
+Pocketpro14: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d 9s]
+Mahu2021: folds 
+Uncalled bet (10) returned to Pocketpro14
+Pocketpro14 collected 20 from pot
+Pocketpro14: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: Pocketpro14 (big blind) collected (20)
+
+
+
+PokerStars Hand #249492029756: Tournament #3730505129, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/03/18 18:43:24 CET [2024/03/18 13:43:24 ET]
+Table '3730505129 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (490 in chips) 
+Seat 3: Pocketpro14 (1010 in chips) 
+Pocketpro14: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c 8s]
+Pocketpro14: calls 10
+Mahu2021: checks 
+*** FLOP *** [Js 7d 4d]
+Mahu2021: checks 
+Pocketpro14: bets 40
+Mahu2021: folds 
+Uncalled bet (40) returned to Pocketpro14
+Pocketpro14 collected 40 from pot
+Pocketpro14: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Js 7d 4d]
+Seat 2: Mahu2021 (big blind) folded on the Flop
+Seat 3: Pocketpro14 (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #249492032911: Tournament #3730505129, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/03/18 18:43:34 CET [2024/03/18 13:43:34 ET]
+Table '3730505129 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (470 in chips) 
+Seat 3: Pocketpro14 (1030 in chips) 
+Mahu2021: posts small blind 10
+Pocketpro14: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8c Jd]
+Mahu2021: calls 10
+Pocketpro14: checks 
+*** FLOP *** [3h Jc 9c]
+Pocketpro14: checks 
+Mahu2021: bets 40
+Pocketpro14: calls 40
+*** TURN *** [3h Jc 9c] [2s]
+Pocketpro14: checks 
+Mahu2021: bets 40
+Pocketpro14: calls 40
+*** RIVER *** [3h Jc 9c 2s] [7c]
+Pocketpro14: checks 
+Mahu2021: bets 40
+Pocketpro14: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 200 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [3h Jc 9c 2s 7c]
+Seat 2: Mahu2021 (button) (small blind) collected (200)
+Seat 3: Pocketpro14 (big blind) folded on the River
+
+
+
+PokerStars Hand #249492037843: Tournament #3730505129, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/03/18 18:43:50 CET [2024/03/18 13:43:50 ET]
+Table '3730505129 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (570 in chips) 
+Seat 3: Pocketpro14 (930 in chips) 
+Pocketpro14: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c 3h]
+Pocketpro14: raises 40 to 60
+Mahu2021: folds 
+Uncalled bet (40) returned to Pocketpro14
+Pocketpro14 collected 40 from pot
+Pocketpro14: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: Pocketpro14 (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #249492040744: Tournament #3730505129, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/18 18:43:59 CET [2024/03/18 13:43:59 ET]
+Table '3730505129 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (550 in chips) 
+Seat 3: Pocketpro14 (950 in chips) 
+Mahu2021: posts small blind 15
+Pocketpro14: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h Qc]
+Mahu2021: calls 15
+Pocketpro14: checks 
+*** FLOP *** [4c Ts Ad]
+Pocketpro14: checks 
+Mahu2021: checks 
+*** TURN *** [4c Ts Ad] [Ks]
+Pocketpro14: checks 
+Mahu2021: bets 30
+Pocketpro14: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [4c Ts Ad Ks]
+Seat 2: Mahu2021 (button) (small blind) collected (60)
+Seat 3: Pocketpro14 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #249492044067: Tournament #3730505129, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/18 18:44:10 CET [2024/03/18 13:44:10 ET]
+Table '3730505129 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (580 in chips) 
+Seat 3: Pocketpro14 (920 in chips) 
+Pocketpro14: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8c 2c]
+Pocketpro14: calls 15
+Mahu2021: checks 
+*** FLOP *** [4h Js 9s]
+Mahu2021: checks 
+Pocketpro14: checks 
+*** TURN *** [4h Js 9s] [6s]
+Mahu2021: checks 
+Pocketpro14: checks 
+*** RIVER *** [4h Js 9s 6s] [Jc]
+Mahu2021: checks 
+Pocketpro14: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [8c 2c] (a pair of Jacks)
+Pocketpro14: shows [8h Ts] (a pair of Jacks - Ten kicker)
+Pocketpro14 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [4h Js 9s 6s Jc]
+Seat 2: Mahu2021 (big blind) showed [8c 2c] and lost with a pair of Jacks
+Seat 3: Pocketpro14 (button) (small blind) showed [8h Ts] and won (60) with a pair of Jacks
+
+
+
+PokerStars Hand #249492047474: Tournament #3730505129, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/18 18:44:21 CET [2024/03/18 13:44:21 ET]
+Table '3730505129 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (550 in chips) 
+Seat 3: Pocketpro14 (950 in chips) 
+Mahu2021: posts small blind 15
+Pocketpro14: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c Ah]
+Mahu2021: raises 30 to 60
+Pocketpro14: calls 30
+*** FLOP *** [6d 7s Th]
+Pocketpro14: checks 
+Mahu2021: checks 
+*** TURN *** [6d 7s Th] [Td]
+Pocketpro14: checks 
+Mahu2021: bets 60
+Pocketpro14: calls 60
+*** RIVER *** [6d 7s Th Td] [9c]
+Pocketpro14: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+Pocketpro14: shows [9s 6h] (two pair, Tens and Nines)
+Mahu2021: mucks hand 
+Pocketpro14 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [6d 7s Th Td 9c]
+Seat 2: Mahu2021 (button) (small blind) mucked [6c Ah]
+Seat 3: Pocketpro14 (big blind) showed [9s 6h] and won (240) with two pair, Tens and Nines
+
+
+
+PokerStars Hand #249492051475: Tournament #3730505129, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/18 18:44:34 CET [2024/03/18 13:44:34 ET]
+Table '3730505129 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (430 in chips) 
+Seat 3: Pocketpro14 (1070 in chips) 
+Pocketpro14: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3c 7s]
+Pocketpro14: calls 15
+Mahu2021: checks 
+*** FLOP *** [5h 6s 4d]
+Mahu2021: checks 
+Pocketpro14: checks 
+*** TURN *** [5h 6s 4d] [5d]
+Mahu2021: checks 
+Pocketpro14: checks 
+*** RIVER *** [5h 6s 4d 5d] [6h]
+Mahu2021: bets 60
+Pocketpro14: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [5h 6s 4d 5d 6h]
+Seat 2: Mahu2021 (big blind) collected (60)
+Seat 3: Pocketpro14 (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #249492055327: Tournament #3730505129, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/18 18:44:47 CET [2024/03/18 13:44:47 ET]
+Table '3730505129 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (460 in chips) 
+Seat 3: Pocketpro14 (1040 in chips) 
+Mahu2021: posts small blind 15
+Pocketpro14: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As 7c]
+Mahu2021: raises 30 to 60
+Pocketpro14: raises 980 to 1040 and is all-in
+Mahu2021: folds 
+Uncalled bet (980) returned to Pocketpro14
+Pocketpro14 collected 120 from pot
+Pocketpro14: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: Pocketpro14 (big blind) collected (120)
+
+
+
+PokerStars Hand #249492058032: Tournament #3730505129, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/18 18:44:56 CET [2024/03/18 13:44:56 ET]
+Table '3730505129 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (400 in chips) 
+Seat 3: Pocketpro14 (1100 in chips) 
+Pocketpro14: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd 3d]
+Pocketpro14: calls 15
+Mahu2021: checks 
+*** FLOP *** [8h Qs 2d]
+Mahu2021: checks 
+Pocketpro14: checks 
+*** TURN *** [8h Qs 2d] [Ts]
+Mahu2021: checks 
+Pocketpro14: checks 
+*** RIVER *** [8h Qs 2d Ts] [Qc]
+Mahu2021: checks 
+Pocketpro14: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [Kd 3d] (a pair of Queens)
+Pocketpro14: mucks hand 
+Mahu2021 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [8h Qs 2d Ts Qc]
+Seat 2: Mahu2021 (big blind) showed [Kd 3d] and won (60) with a pair of Queens
+Seat 3: Pocketpro14 (button) (small blind) mucked [6d 7d]
+
+
+
+PokerStars Hand #249492061391: Tournament #3730505129, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/18 18:45:06 CET [2024/03/18 13:45:06 ET]
+Table '3730505129 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (430 in chips) 
+Seat 3: Pocketpro14 (1070 in chips) 
+Mahu2021: posts small blind 15
+Pocketpro14: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d 6s]
+Mahu2021: folds 
+Uncalled bet (15) returned to Pocketpro14
+Pocketpro14 collected 30 from pot
+Pocketpro14: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: Pocketpro14 (big blind) collected (30)
+
+
+
+PokerStars Hand #249492062567: Tournament #3730505129, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/18 18:45:10 CET [2024/03/18 13:45:10 ET]
+Table '3730505129 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (415 in chips) 
+Seat 3: Pocketpro14 (1085 in chips) 
+Pocketpro14: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c 6s]
+Pocketpro14: calls 15
+Mahu2021: checks 
+*** FLOP *** [7c Qh 2c]
+Mahu2021: checks 
+Pocketpro14: bets 30
+Mahu2021: folds 
+Uncalled bet (30) returned to Pocketpro14
+Pocketpro14 collected 60 from pot
+Pocketpro14: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [7c Qh 2c]
+Seat 2: Mahu2021 (big blind) folded on the Flop
+Seat 3: Pocketpro14 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #249492064918: Tournament #3730505129, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/18 18:45:18 CET [2024/03/18 13:45:18 ET]
+Table '3730505129 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (385 in chips) 
+Seat 3: Pocketpro14 (1115 in chips) 
+Mahu2021: posts small blind 15
+Pocketpro14: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kc 7h]
+Mahu2021: raises 30 to 60
+Pocketpro14: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) collected (60)
+Seat 3: Pocketpro14 (big blind) folded before Flop
+
+
+
+PokerStars Hand #249492066713: Tournament #3730505129, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/18 18:45:24 CET [2024/03/18 13:45:24 ET]
+Table '3730505129 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (415 in chips) 
+Seat 3: Pocketpro14 (1085 in chips) 
+Pocketpro14: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh Qc]
+Pocketpro14: calls 15
+Mahu2021: checks 
+*** FLOP *** [Ks Kd Ts]
+Mahu2021: checks 
+Pocketpro14: checks 
+*** TURN *** [Ks Kd Ts] [2d]
+Mahu2021: bets 60
+Pocketpro14: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Ks Kd Ts 2d]
+Seat 2: Mahu2021 (big blind) collected (60)
+Seat 3: Pocketpro14 (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #249492069580: Tournament #3730505129, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/18 18:45:34 CET [2024/03/18 13:45:34 ET]
+Table '3730505129 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (445 in chips) 
+Seat 3: Pocketpro14 (1055 in chips) 
+Mahu2021: posts small blind 15
+Pocketpro14: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh 2c]
+Mahu2021: calls 15
+Pocketpro14: checks 
+*** FLOP *** [9h 4s 8s]
+Pocketpro14: checks 
+Mahu2021: checks 
+*** TURN *** [9h 4s 8s] [9s]
+Pocketpro14: bets 30
+Mahu2021: folds 
+Uncalled bet (30) returned to Pocketpro14
+Pocketpro14 collected 60 from pot
+Pocketpro14: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [9h 4s 8s 9s]
+Seat 2: Mahu2021 (button) (small blind) folded on the Turn
+Seat 3: Pocketpro14 (big blind) collected (60)
+
+
+
+PokerStars Hand #249492072484: Tournament #3730505129, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/18 18:45:44 CET [2024/03/18 13:45:44 ET]
+Table '3730505129 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (415 in chips) 
+Seat 3: Pocketpro14 (1085 in chips) 
+Pocketpro14: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qs 6h]
+Pocketpro14: calls 15
+Mahu2021: checks 
+*** FLOP *** [2c Ks 4d]
+Mahu2021: checks 
+Pocketpro14: checks 
+*** TURN *** [2c Ks 4d] [5h]
+Mahu2021: checks 
+Pocketpro14: checks 
+*** RIVER *** [2c Ks 4d 5h] [5c]
+Mahu2021: bets 30
+Pocketpro14: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [2c Ks 4d 5h 5c]
+Seat 2: Mahu2021 (big blind) collected (60)
+Seat 3: Pocketpro14 (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #249492076858: Tournament #3730505129, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/03/18 18:45:57 CET [2024/03/18 13:45:57 ET]
+Table '3730505129 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (445 in chips) 
+Seat 3: Pocketpro14 (1055 in chips) 
+Mahu2021: posts small blind 20
+Pocketpro14: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Th 3d]
+Mahu2021: folds 
+Uncalled bet (20) returned to Pocketpro14
+Pocketpro14 collected 40 from pot
+Pocketpro14: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: Pocketpro14 (big blind) collected (40)
+
+
+
+PokerStars Hand #249492078158: Tournament #3730505129, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/03/18 18:46:02 CET [2024/03/18 13:46:02 ET]
+Table '3730505129 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (425 in chips) 
+Seat 3: Pocketpro14 (1075 in chips) 
+Pocketpro14: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh Ah]
+Pocketpro14: calls 20
+Mahu2021: raises 120 to 160
+Pocketpro14: calls 120
+*** FLOP *** [9d Ad Qc]
+Mahu2021: checks 
+Pocketpro14: checks 
+*** TURN *** [9d Ad Qc] [7c]
+Mahu2021: checks 
+Pocketpro14: checks 
+*** RIVER *** [9d Ad Qc 7c] [7s]
+Mahu2021: bets 160
+Pocketpro14: folds 
+Uncalled bet (160) returned to Mahu2021
+Mahu2021 collected 320 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [9d Ad Qc 7c 7s]
+Seat 2: Mahu2021 (big blind) collected (320)
+Seat 3: Pocketpro14 (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #249492082995: Tournament #3730505129, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/03/18 18:46:17 CET [2024/03/18 13:46:17 ET]
+Table '3730505129 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (585 in chips) 
+Seat 3: Pocketpro14 (915 in chips) 
+Mahu2021: posts small blind 20
+Pocketpro14: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js 6c]
+Mahu2021: calls 20
+Pocketpro14: raises 40 to 80
+Mahu2021: calls 40
+*** FLOP *** [3c Ah Kd]
+Pocketpro14: bets 40
+Mahu2021: folds 
+Uncalled bet (40) returned to Pocketpro14
+Pocketpro14 collected 160 from pot
+Pocketpro14: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [3c Ah Kd]
+Seat 2: Mahu2021 (button) (small blind) folded on the Flop
+Seat 3: Pocketpro14 (big blind) collected (160)
+
+
+
+PokerStars Hand #249492085683: Tournament #3730505129, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/03/18 18:46:26 CET [2024/03/18 13:46:26 ET]
+Table '3730505129 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (505 in chips) 
+Seat 3: Pocketpro14 (995 in chips) 
+Pocketpro14: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4d 3d]
+Pocketpro14: calls 20
+Mahu2021: checks 
+*** FLOP *** [3c Jc Ts]
+Mahu2021: checks 
+Pocketpro14: bets 40
+Mahu2021: folds 
+Uncalled bet (40) returned to Pocketpro14
+Pocketpro14 collected 80 from pot
+Pocketpro14: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [3c Jc Ts]
+Seat 2: Mahu2021 (big blind) folded on the Flop
+Seat 3: Pocketpro14 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #249492088324: Tournament #3730505129, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/03/18 18:46:34 CET [2024/03/18 13:46:34 ET]
+Table '3730505129 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (465 in chips) 
+Seat 3: Pocketpro14 (1035 in chips) 
+Mahu2021: posts small blind 20
+Pocketpro14: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js Ah]
+Mahu2021: raises 40 to 80
+Pocketpro14: calls 40
+*** FLOP *** [5c Qs Ks]
+Pocketpro14: checks 
+Mahu2021: checks 
+*** TURN *** [5c Qs Ks] [6d]
+Pocketpro14: checks 
+Mahu2021: checks 
+*** RIVER *** [5c Qs Ks 6d] [3c]
+Pocketpro14: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+Pocketpro14: shows [6c 7c] (a pair of Sixes)
+Mahu2021: mucks hand 
+Pocketpro14 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [5c Qs Ks 6d 3c]
+Seat 2: Mahu2021 (button) (small blind) mucked [Js Ah]
+Seat 3: Pocketpro14 (big blind) showed [6c 7c] and won (160) with a pair of Sixes
+
+
+
+PokerStars Hand #249492091656: Tournament #3730505129, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/03/18 18:46:45 CET [2024/03/18 13:46:45 ET]
+Table '3730505129 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (385 in chips) 
+Seat 3: Pocketpro14 (1115 in chips) 
+Pocketpro14: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh Qs]
+Pocketpro14: calls 20
+Mahu2021: raises 345 to 385 and is all-in
+Pocketpro14: calls 345
+*** FLOP *** [Jc 6d 5s]
+*** TURN *** [Jc 6d 5s] [7h]
+*** RIVER *** [Jc 6d 5s 7h] [8d]
+*** SHOW DOWN ***
+Mahu2021: shows [Jh Qs] (a pair of Jacks)
+Pocketpro14: shows [9h Ah] (a straight, Five to Nine)
+Pocketpro14 collected 770 from pot
+Mahu2021 finished the tournament in 2nd place
+Pocketpro14 wins the tournament and receives $4.00 - congratulations!
+*** SUMMARY ***
+Total pot 770 | Rake 0 
+Board [Jc 6d 5s 7h 8d]
+Seat 2: Mahu2021 (big blind) showed [Jh Qs] and lost with a pair of Jacks
+Seat 3: Pocketpro14 (button) (small blind) showed [9h Ah] and won (770) with a straight, Five to Nine
+
+
+

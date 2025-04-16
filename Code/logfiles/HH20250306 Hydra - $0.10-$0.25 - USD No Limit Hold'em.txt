@@ -1,0 +1,134 @@
+﻿PokerStars Zoom Hand #255164549963:  Hold'em No Limit ($0.10/$0.25) - 2025/03/06 15:55:12 CET [2025/03/06 9:55:12 ET]
+Table 'Hydra' 6-max Seat #1 is the button
+Seat 1: Yosuke000 ($25 in chips) 
+Seat 2: Mahu2021 ($24.75 in chips) 
+Seat 3: chichisanbv ($37.40 in chips) 
+Seat 4: Marat818 ($28.90 in chips) 
+Seat 5: Mu.Rothbard ($41.01 in chips) 
+Seat 6: Zorrito Colo ($25 in chips) 
+Mahu2021: posts small blind $0.10
+chichisanbv: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c Jc]
+Marat818: folds 
+Mu.Rothbard: folds 
+Zorrito Colo: folds 
+Yosuke000: folds 
+Mahu2021: raises $0.50 to $0.75
+chichisanbv: calls $0.50
+*** FLOP *** [5d 2h 4c]
+Mahu2021: checks 
+chichisanbv: checks 
+*** TURN *** [5d 2h 4c] [Kh]
+Mahu2021: checks 
+chichisanbv: checks 
+*** RIVER *** [5d 2h 4c Kh] [Jh]
+Mahu2021: checks 
+chichisanbv: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [7c Jc] (a pair of Jacks)
+chichisanbv: mucks hand 
+Mahu2021 collected $1.43 from pot
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.07 
+Board [5d 2h 4c Kh Jh]
+Seat 1: Yosuke000 (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) showed [7c Jc] and won ($1.43) with a pair of Jacks
+Seat 3: chichisanbv (big blind) mucked [Ad Qs]
+Seat 4: Marat818 folded before Flop (didn't bet)
+Seat 5: Mu.Rothbard folded before Flop (didn't bet)
+Seat 6: Zorrito Colo folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #255164548872:  Hold'em No Limit ($0.10/$0.25) - 2025/03/06 15:55:05 CET [2025/03/06 9:55:05 ET]
+Table 'Hydra' 6-max Seat #1 is the button
+Seat 1: Don20101 ($62.82 in chips) 
+Seat 2: Sincere_DS ($23.77 in chips) 
+Seat 3: Mahu2021 ($25 in chips) 
+Seat 4: BruceShee ($25.97 in chips) 
+Seat 5: MateusMouraa ($27.43 in chips) 
+Seat 6: $isko917 ($28.75 in chips) 
+Sincere_DS: posts small blind $0.10
+Mahu2021: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c As]
+BruceShee: folds 
+MateusMouraa: raises $0.37 to $0.62
+$isko917: folds 
+Don20101: calls $0.62
+Sincere_DS: calls $0.52
+Mahu2021: folds 
+*** FLOP *** [Kh 4c Qd]
+Sincere_DS: checks 
+MateusMouraa: checks 
+Don20101: bets $0.73
+Sincere_DS: folds 
+MateusMouraa: calls $0.73
+*** TURN *** [Kh 4c Qd] [4s]
+MateusMouraa: checks 
+Don20101: checks 
+*** RIVER *** [Kh 4c Qd 4s] [Jh]
+MateusMouraa: checks 
+Don20101: checks 
+*** SHOW DOWN ***
+MateusMouraa: shows [Qs Th] (two pair, Queens and Fours)
+Don20101: shows [Kd Td] (two pair, Kings and Fours)
+Don20101 collected $3.37 from pot
+*** SUMMARY ***
+Total pot $3.57 | Rake $0.20 
+Board [Kh 4c Qd 4s Jh]
+Seat 1: Don20101 (button) showed [Kd Td] and won ($3.37) with two pair, Kings and Fours
+Seat 2: Sincere_DS (small blind) folded on the Flop
+Seat 3: Mahu2021 (big blind) folded before Flop
+Seat 4: BruceShee folded before Flop (didn't bet)
+Seat 5: MateusMouraa showed [Qs Th] and lost with two pair, Queens and Fours
+Seat 6: $isko917 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #255164555457:  Hold'em No Limit ($0.10/$0.25) - 2025/03/06 15:55:51 CET [2025/03/06 9:55:51 ET]
+Table 'Hydra' 6-max Seat #1 is the button
+Seat 1: Marat818 ($28.55 in chips) 
+Seat 2: Baratrum777 ($26.84 in chips) 
+Seat 3: memori62 ($28.70 in chips) 
+Seat 4: chichisanbv ($36.65 in chips) 
+Seat 5: kentbel ($25.47 in chips) 
+Seat 6: Mahu2021 ($25.43 in chips) 
+Baratrum777: posts small blind $0.10
+memori62: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd Td]
+chichisanbv: raises $0.25 to $0.50
+kentbel: folds 
+Mahu2021: calls $0.50
+Marat818: calls $0.50
+Baratrum777: folds 
+memori62: calls $0.25
+*** FLOP *** [4d 9h Ts]
+memori62: checks 
+chichisanbv: checks 
+Mahu2021: checks 
+Marat818: checks 
+*** TURN *** [4d 9h Ts] [8h]
+memori62: checks 
+chichisanbv: checks 
+Mahu2021: bets $1
+Marat818: folds 
+memori62: folds 
+chichisanbv: folds 
+Uncalled bet ($1) returned to Mahu2021
+Mahu2021 collected $2.01 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.10 | Rake $0.09 
+Board [4d 9h Ts 8h]
+Seat 1: Marat818 (button) folded on the Turn
+Seat 2: Baratrum777 (small blind) folded before Flop
+Seat 3: memori62 (big blind) folded on the Turn
+Seat 4: chichisanbv folded on the Turn
+Seat 5: kentbel folded before Flop (didn't bet)
+Seat 6: Mahu2021 collected ($2.01)
+
+
+

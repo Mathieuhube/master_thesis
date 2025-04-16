@@ -1,0 +1,561 @@
+﻿PokerStars Hand #246565279289: Tournament #3659705681, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/10/16 14:33:33 CET [2023/10/16 8:33:33 ET]
+Table '3659705681 1' 3-max Seat #1 is the button
+Seat 1: chefarno89 (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: emutie (500 in chips) 
+Mahu2021: posts small blind 10
+emutie: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kc 4d]
+chefarno89: folds 
+Mahu2021: calls 10
+emutie: checks 
+*** FLOP *** [As 7s Jc]
+Mahu2021: checks 
+emutie: bets 20
+Mahu2021: folds 
+Uncalled bet (20) returned to emutie
+emutie collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [As 7s Jc]
+Seat 1: chefarno89 (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) folded on the Flop
+Seat 3: emutie (big blind) collected (40)
+
+
+
+PokerStars Hand #246565282077: Tournament #3659705681, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/10/16 14:33:48 CET [2023/10/16 8:33:48 ET]
+Table '3659705681 1' 3-max Seat #2 is the button
+Seat 1: chefarno89 (500 in chips) 
+Seat 2: Mahu2021 (480 in chips) 
+Seat 3: emutie (520 in chips) 
+emutie: posts small blind 10
+chefarno89: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Th 2d]
+Mahu2021: folds 
+emutie: calls 10
+chefarno89: checks 
+*** FLOP *** [4c Qh 2c]
+emutie: bets 20
+chefarno89: calls 20
+*** TURN *** [4c Qh 2c] [8s]
+emutie: bets 20
+chefarno89: calls 20
+*** RIVER *** [4c Qh 2c 8s] [Jc]
+emutie: bets 20
+chefarno89: calls 20
+*** SHOW DOWN ***
+emutie: shows [5h 7s] (high card Queen)
+chefarno89: shows [Qd 6c] (a pair of Queens)
+chefarno89 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [4c Qh 2c 8s Jc]
+Seat 1: chefarno89 (big blind) showed [Qd 6c] and won (160) with a pair of Queens
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: emutie (small blind) showed [5h 7s] and lost with high card Queen
+
+
+
+PokerStars Hand #246565285994: Tournament #3659705681, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/10/16 14:34:09 CET [2023/10/16 8:34:09 ET]
+Table '3659705681 1' 3-max Seat #3 is the button
+Seat 1: chefarno89 (580 in chips) 
+Seat 2: Mahu2021 (480 in chips) 
+Seat 3: emutie (440 in chips) 
+chefarno89: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah Jh]
+emutie: raises 20 to 40
+chefarno89: folds 
+Mahu2021: raises 80 to 120
+emutie: raises 80 to 200
+Mahu2021: raises 280 to 480 and is all-in
+emutie: calls 240 and is all-in
+Uncalled bet (40) returned to Mahu2021
+*** FLOP *** [Ts Jc Js]
+*** TURN *** [Ts Jc Js] [7s]
+*** RIVER *** [Ts Jc Js 7s] [2h]
+*** SHOW DOWN ***
+Mahu2021: shows [Ah Jh] (three of a kind, Jacks)
+emutie: shows [Ad Td] (two pair, Jacks and Tens)
+Mahu2021 collected 890 from pot
+emutie finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 890 | Rake 0 
+Board [Ts Jc Js 7s 2h]
+Seat 1: chefarno89 (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) showed [Ah Jh] and won (890) with three of a kind, Jacks
+Seat 3: emutie (button) showed [Ad Td] and lost with two pair, Jacks and Tens
+
+
+
+PokerStars Hand #246565290225: Tournament #3659705681, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/10/16 14:34:32 CET [2023/10/16 8:34:32 ET]
+Table '3659705681 1' 3-max Seat #2 is the button
+Seat 1: chefarno89 (570 in chips) 
+Seat 2: Mahu2021 (930 in chips) 
+Mahu2021: posts small blind 10
+chefarno89: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h Ts]
+Mahu2021: folds 
+Uncalled bet (10) returned to chefarno89
+chefarno89 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: chefarno89 (big blind) collected (20)
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #246565291197: Tournament #3659705681, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/10/16 14:34:37 CET [2023/10/16 8:34:37 ET]
+Table '3659705681 1' 3-max Seat #1 is the button
+Seat 1: chefarno89 (580 in chips) 
+Seat 2: Mahu2021 (920 in chips) 
+chefarno89: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c Kc]
+chefarno89: calls 10
+Mahu2021: checks 
+*** FLOP *** [Ts As Ac]
+Mahu2021: checks 
+chefarno89: bets 20
+Mahu2021: calls 20
+*** TURN *** [Ts As Ac] [3c]
+Mahu2021: checks 
+chefarno89: checks 
+*** RIVER *** [Ts As Ac 3c] [7d]
+Mahu2021: bets 40
+chefarno89: calls 40
+*** SHOW DOWN ***
+Mahu2021: shows [7c Kc] (two pair, Aces and Sevens)
+chefarno89: mucks hand 
+Mahu2021 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Ts As Ac 3c 7d]
+Seat 1: chefarno89 (button) (small blind) mucked [7s Qc]
+Seat 2: Mahu2021 (big blind) showed [7c Kc] and won (160) with two pair, Aces and Sevens
+
+
+
+PokerStars Hand #246565294902: Tournament #3659705681, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/10/16 14:34:57 CET [2023/10/16 8:34:57 ET]
+Table '3659705681 1' 3-max Seat #2 is the button
+Seat 1: chefarno89 (500 in chips) 
+Seat 2: Mahu2021 (1000 in chips) 
+Mahu2021: posts small blind 10
+chefarno89: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc 7h]
+Mahu2021: calls 10
+chefarno89: checks 
+*** FLOP *** [5c Qd 3c]
+chefarno89: checks 
+Mahu2021: checks 
+*** TURN *** [5c Qd 3c] [Kd]
+chefarno89: checks 
+Mahu2021: checks 
+*** RIVER *** [5c Qd 3c Kd] [8c]
+chefarno89: bets 20
+Mahu2021: calls 20
+*** SHOW DOWN ***
+chefarno89: shows [7c 3s] (a pair of Threes)
+Mahu2021: shows [Qc 7h] (a pair of Queens)
+Mahu2021 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [5c Qd 3c Kd 8c]
+Seat 1: chefarno89 (big blind) showed [7c 3s] and lost with a pair of Threes
+Seat 2: Mahu2021 (button) (small blind) showed [Qc 7h] and won (80) with a pair of Queens
+
+
+
+PokerStars Hand #246565297558: Tournament #3659705681, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/10/16 14:35:11 CET [2023/10/16 8:35:11 ET]
+Table '3659705681 1' 3-max Seat #1 is the button
+Seat 1: chefarno89 (460 in chips) 
+Seat 2: Mahu2021 (1040 in chips) 
+chefarno89: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js Kc]
+chefarno89: folds 
+Uncalled bet (10) returned to Mahu2021
+Mahu2021 collected 20 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: chefarno89 (button) (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (20)
+
+
+
+PokerStars Hand #246565298763: Tournament #3659705681, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/10/16 14:35:17 CET [2023/10/16 8:35:17 ET]
+Table '3659705681 1' 3-max Seat #2 is the button
+Seat 1: chefarno89 (450 in chips) 
+Seat 2: Mahu2021 (1050 in chips) 
+Mahu2021: posts small blind 10
+chefarno89: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Td 5c]
+Mahu2021: folds 
+Uncalled bet (10) returned to chefarno89
+chefarno89 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: chefarno89 (big blind) collected (20)
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #246565299712: Tournament #3659705681, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/10/16 14:35:22 CET [2023/10/16 8:35:22 ET]
+Table '3659705681 1' 3-max Seat #1 is the button
+Seat 1: chefarno89 (460 in chips) 
+Seat 2: Mahu2021 (1040 in chips) 
+chefarno89: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5h 7c]
+chefarno89: folds 
+Uncalled bet (10) returned to Mahu2021
+Mahu2021 collected 20 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: chefarno89 (button) (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (20)
+
+
+
+PokerStars Hand #246565300669: Tournament #3659705681, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/10/16 14:35:27 CET [2023/10/16 8:35:27 ET]
+Table '3659705681 1' 3-max Seat #2 is the button
+Seat 1: chefarno89 (450 in chips) 
+Seat 2: Mahu2021 (1050 in chips) 
+Mahu2021: posts small blind 10
+chefarno89: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js 2h]
+Mahu2021: calls 10
+chefarno89: raises 20 to 40
+Mahu2021: calls 20
+*** FLOP *** [8d 5c Td]
+chefarno89: bets 40
+Mahu2021: folds 
+Uncalled bet (40) returned to chefarno89
+chefarno89 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [8d 5c Td]
+Seat 1: chefarno89 (big blind) collected (80)
+Seat 2: Mahu2021 (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #246565304309: Tournament #3659705681, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/10/16 14:35:47 CET [2023/10/16 8:35:47 ET]
+Table '3659705681 1' 3-max Seat #1 is the button
+Seat 1: chefarno89 (490 in chips) 
+Seat 2: Mahu2021 (1010 in chips) 
+chefarno89: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s 6h]
+chefarno89: calls 15
+Mahu2021: raises 980 to 1010 and is all-in
+chefarno89: folds 
+Uncalled bet (980) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: chefarno89 (button) (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (60)
+
+
+
+PokerStars Hand #246565305944: Tournament #3659705681, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/10/16 14:35:55 CET [2023/10/16 8:35:55 ET]
+Table '3659705681 1' 3-max Seat #2 is the button
+Seat 1: chefarno89 (460 in chips) 
+Seat 2: Mahu2021 (1040 in chips) 
+Mahu2021: posts small blind 15
+chefarno89: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac 2d]
+Mahu2021: calls 15
+chefarno89: checks 
+*** FLOP *** [Qs Ts Th]
+chefarno89: bets 30
+Mahu2021: calls 30
+*** TURN *** [Qs Ts Th] [6d]
+chefarno89: checks 
+Mahu2021: checks 
+*** RIVER *** [Qs Ts Th 6d] [Jd]
+chefarno89: checks 
+Mahu2021: bets 30
+chefarno89: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Qs Ts Th 6d Jd]
+Seat 1: chefarno89 (big blind) folded on the River
+Seat 2: Mahu2021 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #246565308920: Tournament #3659705681, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/10/16 14:36:11 CET [2023/10/16 8:36:11 ET]
+Table '3659705681 1' 3-max Seat #1 is the button
+Seat 1: chefarno89 (400 in chips) 
+Seat 2: Mahu2021 (1100 in chips) 
+chefarno89: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d 6c]
+chefarno89: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: chefarno89 (button) (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (30)
+
+
+
+PokerStars Hand #246565309683: Tournament #3659705681, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/10/16 14:36:16 CET [2023/10/16 8:36:16 ET]
+Table '3659705681 1' 3-max Seat #2 is the button
+Seat 1: chefarno89 (385 in chips) 
+Seat 2: Mahu2021 (1115 in chips) 
+Mahu2021: posts small blind 15
+chefarno89: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s 5s]
+Mahu2021: calls 15
+chefarno89: checks 
+*** FLOP *** [2d 6c 9h]
+chefarno89: checks 
+Mahu2021: checks 
+*** TURN *** [2d 6c 9h] [Tc]
+chefarno89: checks 
+Mahu2021: checks 
+*** RIVER *** [2d 6c 9h Tc] [4c]
+chefarno89: checks 
+Mahu2021: bets 60
+chefarno89: calls 60
+*** SHOW DOWN ***
+Mahu2021: shows [3s 5s] (a straight, Deuce to Six)
+chefarno89: mucks hand 
+Mahu2021 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [2d 6c 9h Tc 4c]
+Seat 1: chefarno89 (big blind) mucked [5d 4s]
+Seat 2: Mahu2021 (button) (small blind) showed [3s 5s] and won (180) with a straight, Deuce to Six
+
+
+
+PokerStars Hand #246565313848: Tournament #3659705681, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/10/16 14:36:37 CET [2023/10/16 8:36:37 ET]
+Table '3659705681 1' 3-max Seat #1 is the button
+Seat 1: chefarno89 (295 in chips) 
+Seat 2: Mahu2021 (1205 in chips) 
+chefarno89: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s Ts]
+chefarno89: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: chefarno89 (button) (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (30)
+
+
+
+PokerStars Hand #246565314846: Tournament #3659705681, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/10/16 14:36:43 CET [2023/10/16 8:36:43 ET]
+Table '3659705681 1' 3-max Seat #2 is the button
+Seat 1: chefarno89 (280 in chips) 
+Seat 2: Mahu2021 (1220 in chips) 
+Mahu2021: posts small blind 15
+chefarno89: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h Ts]
+Mahu2021: calls 15
+chefarno89: checks 
+*** FLOP *** [2d Kh 7d]
+chefarno89: checks 
+Mahu2021: bets 30
+chefarno89: calls 30
+*** TURN *** [2d Kh 7d] [2s]
+chefarno89: checks 
+Mahu2021: checks 
+*** RIVER *** [2d Kh 7d 2s] [5h]
+chefarno89: bets 30
+Mahu2021: calls 30
+*** SHOW DOWN ***
+chefarno89: shows [Js Qs] (a pair of Deuces)
+Mahu2021: shows [7h Ts] (two pair, Sevens and Deuces)
+Mahu2021 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [2d Kh 7d 2s 5h]
+Seat 1: chefarno89 (big blind) showed [Js Qs] and lost with a pair of Deuces
+Seat 2: Mahu2021 (button) (small blind) showed [7h Ts] and won (180) with two pair, Sevens and Deuces
+
+
+
+PokerStars Hand #246565319033: Tournament #3659705681, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/10/16 14:37:05 CET [2023/10/16 8:37:05 ET]
+Table '3659705681 1' 3-max Seat #1 is the button
+Seat 1: chefarno89 (190 in chips) 
+Seat 2: Mahu2021 (1310 in chips) 
+chefarno89: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts 7d]
+chefarno89: raises 160 to 190 and is all-in
+Mahu2021: folds 
+Uncalled bet (160) returned to chefarno89
+chefarno89 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: chefarno89 (button) (small blind) collected (60)
+Seat 2: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #246565320403: Tournament #3659705681, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/10/16 14:37:12 CET [2023/10/16 8:37:12 ET]
+Table '3659705681 1' 3-max Seat #2 is the button
+Seat 1: chefarno89 (220 in chips) 
+Seat 2: Mahu2021 (1280 in chips) 
+Mahu2021: posts small blind 15
+chefarno89: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc 4c]
+Mahu2021: raises 30 to 60
+chefarno89: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: chefarno89 (big blind) folded before Flop
+Seat 2: Mahu2021 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #246565321887: Tournament #3659705681, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/10/16 14:37:20 CET [2023/10/16 8:37:20 ET]
+Table '3659705681 1' 3-max Seat #1 is the button
+Seat 1: chefarno89 (190 in chips) 
+Seat 2: Mahu2021 (1310 in chips) 
+chefarno89: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kc Ks]
+chefarno89: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: chefarno89 (button) (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (30)
+
+
+
+PokerStars Hand #246565322781: Tournament #3659705681, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/10/16 14:37:25 CET [2023/10/16 8:37:25 ET]
+Table '3659705681 1' 3-max Seat #2 is the button
+Seat 1: chefarno89 (175 in chips) 
+Seat 2: Mahu2021 (1325 in chips) 
+Mahu2021: posts small blind 15
+chefarno89: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad Th]
+Mahu2021: raises 30 to 60
+chefarno89: raises 115 to 175 and is all-in
+Mahu2021: calls 115
+*** FLOP *** [Ac 2s 2h]
+*** TURN *** [Ac 2s 2h] [7d]
+*** RIVER *** [Ac 2s 2h 7d] [4d]
+*** SHOW DOWN ***
+chefarno89: shows [5d 3d] (a straight, Ace to Five)
+Mahu2021: shows [Ad Th] (two pair, Aces and Deuces)
+chefarno89 collected 350 from pot
+*** SUMMARY ***
+Total pot 350 | Rake 0 
+Board [Ac 2s 2h 7d 4d]
+Seat 1: chefarno89 (big blind) showed [5d 3d] and won (350) with a straight, Ace to Five
+Seat 2: Mahu2021 (button) (small blind) showed [Ad Th] and lost with two pair, Aces and Deuces
+
+
+
+PokerStars Hand #246565327038: Tournament #3659705681, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/10/16 14:37:48 CET [2023/10/16 8:37:48 ET]
+Table '3659705681 1' 3-max Seat #1 is the button
+Seat 1: chefarno89 (350 in chips) 
+Seat 2: Mahu2021 (1150 in chips) 
+chefarno89: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s Ac]
+chefarno89: calls 20
+Mahu2021: raises 1110 to 1150 and is all-in
+chefarno89: folds 
+Uncalled bet (1110) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: chefarno89 (button) (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (80)
+
+
+
+PokerStars Hand #246565328864: Tournament #3659705681, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/10/16 14:37:57 CET [2023/10/16 8:37:57 ET]
+Table '3659705681 1' 3-max Seat #2 is the button
+Seat 1: chefarno89 (310 in chips) 
+Seat 2: Mahu2021 (1190 in chips) 
+Mahu2021: posts small blind 20
+chefarno89: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d 2s]
+Mahu2021: folds 
+Uncalled bet (20) returned to chefarno89
+chefarno89 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: chefarno89 (big blind) collected (40)
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #246565329756: Tournament #3659705681, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/10/16 14:38:02 CET [2023/10/16 8:38:02 ET]
+Table '3659705681 1' 3-max Seat #1 is the button
+Seat 1: chefarno89 (330 in chips) 
+Seat 2: Mahu2021 (1170 in chips) 
+chefarno89: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad Ts]
+chefarno89: calls 20
+Mahu2021: raises 80 to 120
+chefarno89: raises 210 to 330 and is all-in
+Mahu2021: calls 210
+*** FLOP *** [Th Jd 5s]
+*** TURN *** [Th Jd 5s] [8s]
+*** RIVER *** [Th Jd 5s 8s] [2s]
+*** SHOW DOWN ***
+Mahu2021: shows [Ad Ts] (a pair of Tens)
+chefarno89: shows [3s 3c] (a pair of Threes)
+Mahu2021 collected 660 from pot
+chefarno89 finished the tournament in 2nd place
+Mahu2021 wins the tournament and receives $2.00 - congratulations!
+*** SUMMARY ***
+Total pot 660 | Rake 0 
+Board [Th Jd 5s 8s 2s]
+Seat 1: chefarno89 (button) (small blind) showed [3s 3c] and lost with a pair of Threes
+Seat 2: Mahu2021 (big blind) showed [Ad Ts] and won (660) with a pair of Tens
+
+
+

@@ -1,0 +1,742 @@
+﻿PokerStars Hand #248163343269: Tournament #3698409402, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/09 15:22:12 CET [2024/01/09 9:22:12 ET]
+Table '3698409402 1' 3-max Seat #1 is the button
+Seat 1: Balrony (500 in chips) 
+Seat 2: loscoflas (500 in chips) is sitting out
+Seat 3: Mahu2021 (500 in chips) 
+loscoflas: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6h Kc]
+Balrony: folds 
+loscoflas: folds 
+Uncalled bet (10) returned to Mahu2021
+Mahu2021 collected 20 from pot
+Mahu2021: doesn't show hand 
+loscoflas has returned
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Balrony (button) folded before Flop (didn't bet)
+Seat 2: loscoflas (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (20)
+
+
+
+PokerStars Hand #248163344298: Tournament #3698409402, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/09 15:22:17 CET [2024/01/09 9:22:17 ET]
+Table '3698409402 1' 3-max Seat #2 is the button
+Seat 1: Balrony (500 in chips) 
+Seat 2: loscoflas (490 in chips) 
+Seat 3: Mahu2021 (510 in chips) 
+Mahu2021: posts small blind 10
+Balrony: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kc 2d]
+loscoflas: folds 
+Mahu2021: folds 
+Uncalled bet (10) returned to Balrony
+Balrony collected 20 from pot
+Balrony: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Balrony (big blind) collected (20)
+Seat 2: loscoflas (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #248163346165: Tournament #3698409402, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/09 15:22:25 CET [2024/01/09 9:22:25 ET]
+Table '3698409402 1' 3-max Seat #3 is the button
+Seat 1: Balrony (510 in chips) 
+Seat 2: loscoflas (490 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+Balrony: posts small blind 10
+loscoflas: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Tc 7s]
+Mahu2021: folds 
+Balrony: calls 10
+loscoflas: checks 
+*** FLOP *** [Js 6s 7c]
+Balrony: checks 
+loscoflas: checks 
+*** TURN *** [Js 6s 7c] [2h]
+Balrony: checks 
+loscoflas: checks 
+*** RIVER *** [Js 6s 7c 2h] [Ad]
+Balrony: checks 
+loscoflas: checks 
+*** SHOW DOWN ***
+Balrony: shows [3s 5d] (high card Ace)
+loscoflas: shows [4s Qh] (high card Ace - Queen kicker)
+loscoflas collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Js 6s 7c 2h Ad]
+Seat 1: Balrony (small blind) showed [3s 5d] and lost with high card Ace
+Seat 2: loscoflas (big blind) showed [4s Qh] and won (40) with high card Ace
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #248163355429: Tournament #3698409402, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/09 15:23:07 CET [2024/01/09 9:23:07 ET]
+Table '3698409402 1' 3-max Seat #1 is the button
+Seat 1: Balrony (490 in chips) 
+Seat 2: loscoflas (510 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+loscoflas: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh 2d]
+Balrony: calls 20
+loscoflas: calls 10
+Mahu2021: checks 
+*** FLOP *** [3c 4s 9s]
+loscoflas: checks 
+Mahu2021: checks 
+Balrony: bets 60
+loscoflas: folds 
+Mahu2021: folds 
+Uncalled bet (60) returned to Balrony
+Balrony collected 60 from pot
+Balrony: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [3c 4s 9s]
+Seat 1: Balrony (button) collected (60)
+Seat 2: loscoflas (small blind) folded on the Flop
+Seat 3: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #248163361161: Tournament #3698409402, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/09 15:23:33 CET [2024/01/09 9:23:33 ET]
+Table '3698409402 1' 3-max Seat #2 is the button
+Seat 1: Balrony (530 in chips) 
+Seat 2: loscoflas (490 in chips) 
+Seat 3: Mahu2021 (480 in chips) 
+Mahu2021: posts small blind 10
+Balrony: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad As]
+loscoflas: raises 22 to 42
+Mahu2021: raises 438 to 480 and is all-in
+Balrony: folds 
+loscoflas: folds 
+Uncalled bet (438) returned to Mahu2021
+Mahu2021 collected 104 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 104 | Rake 0 
+Seat 1: Balrony (big blind) folded before Flop
+Seat 2: loscoflas (button) folded before Flop
+Seat 3: Mahu2021 (small blind) collected (104)
+
+
+
+PokerStars Hand #248163364243: Tournament #3698409402, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/09 15:23:47 CET [2024/01/09 9:23:47 ET]
+Table '3698409402 1' 3-max Seat #3 is the button
+Seat 1: Balrony (510 in chips) 
+Seat 2: loscoflas (448 in chips) 
+Seat 3: Mahu2021 (542 in chips) 
+Balrony: posts small blind 10
+loscoflas: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4d 2c]
+Mahu2021: folds 
+Balrony: raises 20 to 40
+loscoflas: folds 
+Uncalled bet (20) returned to Balrony
+Balrony collected 40 from pot
+Balrony: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Balrony (small blind) collected (40)
+Seat 2: loscoflas (big blind) folded before Flop
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #248163366553: Tournament #3698409402, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/09 15:23:57 CET [2024/01/09 9:23:57 ET]
+Table '3698409402 1' 3-max Seat #1 is the button
+Seat 1: Balrony (530 in chips) 
+Seat 2: loscoflas (428 in chips) 
+Seat 3: Mahu2021 (542 in chips) 
+loscoflas: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c 2c]
+Balrony: calls 20
+loscoflas: folds 
+Mahu2021: checks 
+*** FLOP *** [Kh Jc 4h]
+Mahu2021: checks 
+Balrony: checks 
+*** TURN *** [Kh Jc 4h] [4c]
+Mahu2021: bets 20
+Balrony: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 50 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [Kh Jc 4h 4c]
+Seat 1: Balrony (button) folded on the Turn
+Seat 2: loscoflas (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (50)
+
+
+
+PokerStars Hand #248163371700: Tournament #3698409402, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/01/09 15:24:20 CET [2024/01/09 9:24:20 ET]
+Table '3698409402 1' 3-max Seat #2 is the button
+Seat 1: Balrony (510 in chips) 
+Seat 2: loscoflas (418 in chips) 
+Seat 3: Mahu2021 (572 in chips) 
+Mahu2021: posts small blind 15
+Balrony: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h 9d]
+loscoflas: folds 
+Mahu2021: folds 
+Uncalled bet (15) returned to Balrony
+Balrony collected 30 from pot
+Balrony: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Balrony (big blind) collected (30)
+Seat 2: loscoflas (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #248163372983: Tournament #3698409402, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/01/09 15:24:26 CET [2024/01/09 9:24:26 ET]
+Table '3698409402 1' 3-max Seat #3 is the button
+Seat 1: Balrony (525 in chips) 
+Seat 2: loscoflas (418 in chips) 
+Seat 3: Mahu2021 (557 in chips) 
+Balrony: posts small blind 15
+loscoflas: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qd 4h]
+Mahu2021: folds 
+Balrony: calls 15
+loscoflas: checks 
+*** FLOP *** [5s Qh 6s]
+Balrony: checks 
+loscoflas: checks 
+*** TURN *** [5s Qh 6s] [4s]
+Balrony: checks 
+loscoflas: checks 
+*** RIVER *** [5s Qh 6s 4s] [Ts]
+Balrony: checks 
+loscoflas: checks 
+*** SHOW DOWN ***
+Balrony: shows [8c Kh] (high card King)
+loscoflas: shows [2s 7h] (a flush, Ten high)
+loscoflas collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [5s Qh 6s 4s Ts]
+Seat 1: Balrony (small blind) showed [8c Kh] and lost with high card King
+Seat 2: loscoflas (big blind) showed [2s 7h] and won (60) with a flush, Ten high
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #248163379797: Tournament #3698409402, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/01/09 15:24:56 CET [2024/01/09 9:24:56 ET]
+Table '3698409402 1' 3-max Seat #1 is the button
+Seat 1: Balrony (495 in chips) 
+Seat 2: loscoflas (448 in chips) 
+Seat 3: Mahu2021 (557 in chips) 
+loscoflas: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8d 3d]
+Balrony: folds 
+loscoflas: raises 418 to 448 and is all-in
+Mahu2021: folds 
+Uncalled bet (418) returned to loscoflas
+loscoflas collected 60 from pot
+loscoflas: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Balrony (button) folded before Flop (didn't bet)
+Seat 2: loscoflas (small blind) collected (60)
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #248163381706: Tournament #3698409402, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/01/09 15:25:05 CET [2024/01/09 9:25:05 ET]
+Table '3698409402 1' 3-max Seat #2 is the button
+Seat 1: Balrony (495 in chips) 
+Seat 2: loscoflas (478 in chips) 
+Seat 3: Mahu2021 (527 in chips) 
+Mahu2021: posts small blind 15
+Balrony: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8d 3d]
+loscoflas: raises 30 to 60
+Mahu2021: folds 
+Balrony: calls 30
+*** FLOP *** [Ts Td Tc]
+Balrony: checks 
+loscoflas: bets 45
+Balrony: calls 45
+*** TURN *** [Ts Td Tc] [7d]
+Balrony: checks 
+loscoflas: bets 74
+Balrony: calls 74
+*** RIVER *** [Ts Td Tc 7d] [Ah]
+Balrony: bets 30
+loscoflas: raises 269 to 299 and is all-in
+Balrony: calls 269
+*** SHOW DOWN ***
+loscoflas: shows [Ac 2s] (a full house, Tens full of Aces)
+Balrony: shows [Ad 3c] (a full house, Tens full of Aces)
+Balrony collected 486 from pot
+loscoflas collected 485 from pot
+*** SUMMARY ***
+Total pot 971 | Rake 0 
+Board [Ts Td Tc 7d Ah]
+Seat 1: Balrony (big blind) showed [Ad 3c] and won (486) with a full house, Tens full of Aces
+Seat 2: loscoflas (button) showed [Ac 2s] and won (485) with a full house, Tens full of Aces
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #248163389251: Tournament #3698409402, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/01/09 15:25:39 CET [2024/01/09 9:25:39 ET]
+Table '3698409402 1' 3-max Seat #3 is the button
+Seat 1: Balrony (503 in chips) 
+Seat 2: loscoflas (485 in chips) 
+Seat 3: Mahu2021 (512 in chips) 
+Balrony: posts small blind 15
+loscoflas: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd 7c]
+Mahu2021: folds 
+Balrony: calls 15
+loscoflas: checks 
+*** FLOP *** [Jh 9d Ks]
+Balrony: checks 
+loscoflas: checks 
+*** TURN *** [Jh 9d Ks] [3s]
+Balrony: checks 
+loscoflas: bets 30
+Balrony: calls 30
+*** RIVER *** [Jh 9d Ks 3s] [3d]
+Balrony: checks 
+loscoflas: bets 30
+Balrony: folds 
+Uncalled bet (30) returned to loscoflas
+loscoflas collected 120 from pot
+loscoflas: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Jh 9d Ks 3s 3d]
+Seat 1: Balrony (small blind) folded on the River
+Seat 2: loscoflas (big blind) collected (120)
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #248163398365: Tournament #3698409402, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/01/09 15:26:19 CET [2024/01/09 9:26:19 ET]
+Table '3698409402 1' 3-max Seat #1 is the button
+Seat 1: Balrony (443 in chips) 
+Seat 2: loscoflas (545 in chips) 
+Seat 3: Mahu2021 (512 in chips) 
+loscoflas: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c 8h]
+Balrony: folds 
+loscoflas: raises 505 to 545 and is all-in
+Mahu2021: folds 
+Uncalled bet (505) returned to loscoflas
+loscoflas collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Balrony (button) folded before Flop (didn't bet)
+Seat 2: loscoflas (small blind) collected (80)
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #248163402090: Tournament #3698409402, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/01/09 15:26:36 CET [2024/01/09 9:26:36 ET]
+Table '3698409402 1' 3-max Seat #2 is the button
+Seat 1: Balrony (443 in chips) 
+Seat 2: loscoflas (585 in chips) 
+Seat 3: Mahu2021 (472 in chips) 
+Mahu2021: posts small blind 20
+Balrony: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h 6d]
+loscoflas: folds 
+Mahu2021: calls 20
+Balrony: checks 
+*** FLOP *** [4d 7h Kh]
+Mahu2021: checks 
+Balrony: checks 
+*** TURN *** [4d 7h Kh] [Qc]
+Mahu2021: checks 
+Balrony: checks 
+*** RIVER *** [4d 7h Kh Qc] [Qs]
+Mahu2021: bets 40
+Balrony: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [4d 7h Kh Qc Qs]
+Seat 1: Balrony (big blind) folded on the River
+Seat 2: loscoflas (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) collected (80)
+
+
+
+PokerStars Hand #248163407400: Tournament #3698409402, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/01/09 15:26:59 CET [2024/01/09 9:26:59 ET]
+Table '3698409402 1' 3-max Seat #3 is the button
+Seat 1: Balrony (403 in chips) 
+Seat 2: loscoflas (585 in chips) 
+Seat 3: Mahu2021 (512 in chips) 
+Balrony: posts small blind 20
+loscoflas: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2c Ks]
+Mahu2021: folds 
+Balrony: calls 20
+loscoflas: raises 545 to 585 and is all-in
+Balrony: folds 
+Uncalled bet (545) returned to loscoflas
+loscoflas collected 80 from pot
+loscoflas: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Balrony (small blind) folded before Flop
+Seat 2: loscoflas (big blind) collected (80)
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #248163409803: Tournament #3698409402, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/01/09 15:27:10 CET [2024/01/09 9:27:10 ET]
+Table '3698409402 1' 3-max Seat #1 is the button
+Seat 1: Balrony (363 in chips) 
+Seat 2: loscoflas (625 in chips) 
+Seat 3: Mahu2021 (512 in chips) 
+loscoflas: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2c 6d]
+Balrony: folds 
+loscoflas: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Balrony (button) folded before Flop (didn't bet)
+Seat 2: loscoflas (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (40)
+
+
+
+PokerStars Hand #248163412303: Tournament #3698409402, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/01/09 15:27:21 CET [2024/01/09 9:27:21 ET]
+Table '3698409402 1' 3-max Seat #2 is the button
+Seat 1: Balrony (363 in chips) 
+Seat 2: loscoflas (605 in chips) 
+Seat 3: Mahu2021 (532 in chips) 
+Mahu2021: posts small blind 20
+Balrony: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Th Qc]
+loscoflas: folds 
+Mahu2021: calls 20
+Balrony: checks 
+*** FLOP *** [Qd Qh Ts]
+Mahu2021: checks 
+Balrony: bets 40
+Mahu2021: calls 40
+*** TURN *** [Qd Qh Ts] [8s]
+Mahu2021: checks 
+Balrony: checks 
+*** RIVER *** [Qd Qh Ts 8s] [9h]
+Mahu2021: bets 160
+Balrony: raises 123 to 283 and is all-in
+Mahu2021: calls 123
+*** SHOW DOWN ***
+Balrony: shows [Tc Jd] (a straight, Eight to Queen)
+Mahu2021: shows [Th Qc] (a full house, Queens full of Tens)
+Mahu2021 collected 726 from pot
+Balrony finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 726 | Rake 0 
+Board [Qd Qh Ts 8s 9h]
+Seat 1: Balrony (big blind) showed [Tc Jd] and lost with a straight, Eight to Queen
+Seat 2: loscoflas (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) showed [Th Qc] and won (726) with a full house, Queens full of Tens
+
+
+
+PokerStars Hand #248163419203: Tournament #3698409402, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/01/09 15:27:52 CET [2024/01/09 9:27:52 ET]
+Table '3698409402 1' 3-max Seat #3 is the button
+Seat 2: loscoflas (605 in chips) 
+Seat 3: Mahu2021 (895 in chips) 
+Mahu2021: posts small blind 20
+loscoflas: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s 5d]
+Mahu2021: calls 20
+loscoflas: checks 
+*** FLOP *** [9c 8s Kh]
+loscoflas: checks 
+Mahu2021: bets 40
+loscoflas: calls 40
+*** TURN *** [9c 8s Kh] [4s]
+loscoflas: checks 
+Mahu2021: checks 
+*** RIVER *** [9c 8s Kh 4s] [Kd]
+loscoflas: bets 120
+Mahu2021: folds 
+Uncalled bet (120) returned to loscoflas
+loscoflas collected 160 from pot
+loscoflas: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [9c 8s Kh 4s Kd]
+Seat 2: loscoflas (big blind) collected (160)
+Seat 3: Mahu2021 (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #248163425630: Tournament #3698409402, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/01/09 15:28:21 CET [2024/01/09 9:28:21 ET]
+Table '3698409402 1' 3-max Seat #2 is the button
+Seat 2: loscoflas (685 in chips) 
+Seat 3: Mahu2021 (815 in chips) 
+loscoflas: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h Ks]
+loscoflas: calls 30
+Mahu2021: checks 
+*** FLOP *** [5s 3s Js]
+Mahu2021: checks 
+loscoflas: checks 
+*** TURN *** [5s 3s Js] [7s]
+Mahu2021: bets 60
+loscoflas: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [5s 3s Js 7s]
+Seat 2: loscoflas (button) (small blind) folded on the Turn
+Seat 3: Mahu2021 (big blind) collected (120)
+
+
+
+PokerStars Hand #248163429089: Tournament #3698409402, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/01/09 15:28:36 CET [2024/01/09 9:28:36 ET]
+Table '3698409402 1' 3-max Seat #3 is the button
+Seat 2: loscoflas (625 in chips) 
+Seat 3: Mahu2021 (875 in chips) 
+Mahu2021: posts small blind 30
+loscoflas: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h Ah]
+Mahu2021: raises 60 to 120
+loscoflas: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: loscoflas (big blind) folded before Flop
+Seat 3: Mahu2021 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #248163430480: Tournament #3698409402, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/01/09 15:28:43 CET [2024/01/09 9:28:43 ET]
+Table '3698409402 1' 3-max Seat #2 is the button
+Seat 2: loscoflas (565 in chips) 
+Seat 3: Mahu2021 (935 in chips) 
+loscoflas: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks 3c]
+loscoflas: raises 505 to 565 and is all-in
+Mahu2021: folds 
+Uncalled bet (505) returned to loscoflas
+loscoflas collected 120 from pot
+loscoflas: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: loscoflas (button) (small blind) collected (120)
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #248163432136: Tournament #3698409402, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/01/09 15:28:50 CET [2024/01/09 9:28:50 ET]
+Table '3698409402 1' 3-max Seat #3 is the button
+Seat 2: loscoflas (625 in chips) 
+Seat 3: Mahu2021 (875 in chips) 
+Mahu2021: posts small blind 30
+loscoflas: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc 9h]
+Mahu2021: calls 30
+loscoflas: raises 565 to 625 and is all-in
+Mahu2021: folds 
+Uncalled bet (565) returned to loscoflas
+loscoflas collected 120 from pot
+loscoflas: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: loscoflas (big blind) collected (120)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #248163433940: Tournament #3698409402, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/01/09 15:28:58 CET [2024/01/09 9:28:58 ET]
+Table '3698409402 1' 3-max Seat #2 is the button
+Seat 2: loscoflas (685 in chips) 
+Seat 3: Mahu2021 (815 in chips) 
+loscoflas: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h Jc]
+loscoflas: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: loscoflas (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (60)
+
+
+
+PokerStars Hand #248163435437: Tournament #3698409402, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/01/09 15:29:05 CET [2024/01/09 9:29:05 ET]
+Table '3698409402 1' 3-max Seat #3 is the button
+Seat 2: loscoflas (655 in chips) 
+Seat 3: Mahu2021 (845 in chips) 
+Mahu2021: posts small blind 30
+loscoflas: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c 4s]
+Mahu2021: calls 30
+loscoflas: checks 
+*** FLOP *** [9s 7h 2d]
+loscoflas: checks 
+Mahu2021: bets 60
+loscoflas: calls 60
+*** TURN *** [9s 7h 2d] [8d]
+loscoflas: checks 
+Mahu2021: bets 60
+loscoflas: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 240 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [9s 7h 2d 8d]
+Seat 2: loscoflas (big blind) folded on the Turn
+Seat 3: Mahu2021 (button) (small blind) collected (240)
+
+
+
+PokerStars Hand #248163438833: Tournament #3698409402, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/01/09 15:29:20 CET [2024/01/09 9:29:20 ET]
+Table '3698409402 1' 3-max Seat #2 is the button
+Seat 2: loscoflas (535 in chips) 
+Seat 3: Mahu2021 (965 in chips) 
+loscoflas: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts 5d]
+loscoflas: raises 475 to 535 and is all-in
+Mahu2021: folds 
+Uncalled bet (475) returned to loscoflas
+loscoflas collected 120 from pot
+loscoflas: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: loscoflas (button) (small blind) collected (120)
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #248163440229: Tournament #3698409402, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/01/09 15:29:26 CET [2024/01/09 9:29:26 ET]
+Table '3698409402 1' 3-max Seat #3 is the button
+Seat 2: loscoflas (595 in chips) 
+Seat 3: Mahu2021 (905 in chips) 
+Mahu2021: posts small blind 30
+loscoflas: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s Qs]
+Mahu2021: calls 30
+loscoflas: checks 
+*** FLOP *** [3h 8c 4h]
+loscoflas: checks 
+Mahu2021: bets 60
+loscoflas: raises 475 to 535 and is all-in
+Mahu2021: calls 475
+*** TURN *** [3h 8c 4h] [Qc]
+*** RIVER *** [3h 8c 4h Qc] [8h]
+*** SHOW DOWN ***
+loscoflas: shows [7h 9h] (a flush, Nine high)
+Mahu2021: shows [4s Qs] (two pair, Queens and Eights)
+loscoflas collected 1190 from pot
+*** SUMMARY ***
+Total pot 1190 | Rake 0 
+Board [3h 8c 4h Qc 8h]
+Seat 2: loscoflas (big blind) showed [7h 9h] and won (1190) with a flush, Nine high
+Seat 3: Mahu2021 (button) (small blind) showed [4s Qs] and lost with two pair, Queens and Eights
+
+
+
+PokerStars Hand #248163444095: Tournament #3698409402, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/01/09 15:29:44 CET [2024/01/09 9:29:44 ET]
+Table '3698409402 1' 3-max Seat #2 is the button
+Seat 2: loscoflas (1190 in chips) 
+Seat 3: Mahu2021 (310 in chips) 
+loscoflas: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d 5h]
+loscoflas: calls 30
+Mahu2021: checks 
+*** FLOP *** [Kd 3c 2d]
+Mahu2021: checks 
+loscoflas: bets 60
+Mahu2021: folds 
+Uncalled bet (60) returned to loscoflas
+loscoflas collected 120 from pot
+loscoflas: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Kd 3c 2d]
+Seat 2: loscoflas (button) (small blind) collected (120)
+Seat 3: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #248163446121: Tournament #3698409402, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/01/09 15:29:54 CET [2024/01/09 9:29:54 ET]
+Table '3698409402 1' 3-max Seat #3 is the button
+Seat 2: loscoflas (1250 in chips) 
+Seat 3: Mahu2021 (250 in chips) 
+Mahu2021: posts small blind 30
+loscoflas: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3c 5c]
+Mahu2021: calls 30
+loscoflas: checks 
+*** FLOP *** [Ah 3h 6s]
+loscoflas: checks 
+Mahu2021: bets 190 and is all-in
+loscoflas: folds 
+Uncalled bet (190) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Ah 3h 6s]
+Seat 2: loscoflas (big blind) folded on the Flop
+Seat 3: Mahu2021 (button) (small blind) collected (120)
+
+
+

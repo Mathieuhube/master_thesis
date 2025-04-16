@@ -1,0 +1,687 @@
+﻿PokerStars Hand #245100993855: Tournament #3624359103, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/07/30 12:42:34 CET [2023/07/30 6:42:34 ET]
+Table '3624359103 1' 3-max Seat #1 is the button
+Seat 1: Terfz93 (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: Serious233 (500 in chips) 
+Mahu2021: posts small blind 10
+Serious233: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kc Ks]
+Terfz93: calls 20
+Mahu2021: raises 60 to 80
+Serious233: calls 60
+Terfz93: folds 
+*** FLOP *** [Ah 5s 5d]
+Mahu2021: checks 
+Serious233: checks 
+*** TURN *** [Ah 5s 5d] [3h]
+Mahu2021: checks 
+Serious233: checks 
+*** RIVER *** [Ah 5s 5d 3h] [9c]
+Mahu2021: checks 
+Serious233: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [Kc Ks] (two pair, Kings and Fives)
+Serious233: mucks hand 
+Mahu2021 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [Ah 5s 5d 3h 9c]
+Seat 1: Terfz93 (button) folded before Flop
+Seat 2: Mahu2021 (small blind) showed [Kc Ks] and won (180) with two pair, Kings and Fives
+Seat 3: Serious233 (big blind) mucked [Ts 9s]
+
+
+
+PokerStars Hand #245100997207: Tournament #3624359103, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/07/30 12:42:55 CET [2023/07/30 6:42:55 ET]
+Table '3624359103 1' 3-max Seat #2 is the button
+Seat 1: Terfz93 (480 in chips) 
+Seat 2: Mahu2021 (600 in chips) 
+Seat 3: Serious233 (420 in chips) 
+Serious233: posts small blind 10
+Terfz93: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h Qc]
+Mahu2021: raises 20 to 40
+Serious233: folds 
+Terfz93: calls 20
+*** FLOP *** [Jh As 7c]
+Terfz93: checks 
+Mahu2021: bets 40
+Terfz93: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 90 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [Jh As 7c]
+Seat 1: Terfz93 (big blind) folded on the Flop
+Seat 2: Mahu2021 (button) collected (90)
+Seat 3: Serious233 (small blind) folded before Flop
+
+
+
+PokerStars Hand #245100999408: Tournament #3624359103, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/07/30 12:43:09 CET [2023/07/30 6:43:09 ET]
+Table '3624359103 1' 3-max Seat #3 is the button
+Seat 1: Terfz93 (440 in chips) 
+Seat 2: Mahu2021 (650 in chips) 
+Seat 3: Serious233 (410 in chips) 
+Terfz93: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah 8h]
+Serious233: raises 20 to 40
+Terfz93: raises 40 to 80
+Mahu2021: calls 60
+Serious233: calls 40
+*** FLOP *** [Jc 7s 8d]
+Terfz93: checks 
+Mahu2021: checks 
+Serious233: checks 
+*** TURN *** [Jc 7s 8d] [5c]
+Terfz93: checks 
+Mahu2021: bets 60
+Serious233: folds 
+Terfz93: calls 60
+*** RIVER *** [Jc 7s 8d 5c] [5h]
+Terfz93: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+Terfz93: shows [Ks Ad] (a pair of Fives)
+Mahu2021: shows [Ah 8h] (two pair, Eights and Fives)
+Mahu2021 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [Jc 7s 8d 5c 5h]
+Seat 1: Terfz93 (small blind) showed [Ks Ad] and lost with a pair of Fives
+Seat 2: Mahu2021 (big blind) showed [Ah 8h] and won (360) with two pair, Eights and Fives
+Seat 3: Serious233 (button) folded on the Turn
+
+
+
+PokerStars Hand #245101004212: Tournament #3624359103, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/07/30 12:43:38 CET [2023/07/30 6:43:38 ET]
+Table '3624359103 1' 3-max Seat #1 is the button
+Seat 1: Terfz93 (300 in chips) 
+Seat 2: Mahu2021 (870 in chips) 
+Seat 3: Serious233 (330 in chips) 
+Mahu2021: posts small blind 10
+Serious233: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s Ac]
+Terfz93: raises 20 to 40
+Mahu2021: calls 30
+Serious233: folds 
+*** FLOP *** [Tc 3d Qd]
+Mahu2021: checks 
+Terfz93: checks 
+*** TURN *** [Tc 3d Qd] [Ad]
+Mahu2021: bets 40
+Terfz93: calls 40
+*** RIVER *** [Tc 3d Qd Ad] [5c]
+Mahu2021: bets 180
+Terfz93: folds 
+Uncalled bet (180) returned to Mahu2021
+Mahu2021 collected 180 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [Tc 3d Qd Ad 5c]
+Seat 1: Terfz93 (button) folded on the River
+Seat 2: Mahu2021 (small blind) collected (180)
+Seat 3: Serious233 (big blind) folded before Flop
+
+
+
+PokerStars Hand #245101007814: Tournament #3624359103, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/07/30 12:44:01 CET [2023/07/30 6:44:01 ET]
+Table '3624359103 1' 3-max Seat #2 is the button
+Seat 1: Terfz93 (220 in chips) 
+Seat 2: Mahu2021 (970 in chips) 
+Seat 3: Serious233 (310 in chips) 
+Serious233: posts small blind 10
+Terfz93: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d 3c]
+Mahu2021: folds 
+Serious233: folds 
+Uncalled bet (10) returned to Terfz93
+Terfz93 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Terfz93 (big blind) collected (20)
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: Serious233 (small blind) folded before Flop
+
+
+
+PokerStars Hand #245101008727: Tournament #3624359103, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/07/30 12:44:07 CET [2023/07/30 6:44:07 ET]
+Table '3624359103 1' 3-max Seat #3 is the button
+Seat 1: Terfz93 (230 in chips) 
+Seat 2: Mahu2021 (970 in chips) 
+Seat 3: Serious233 (300 in chips) 
+Terfz93: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d 2h]
+Serious233: raises 20 to 40
+Terfz93: raises 40 to 80
+Mahu2021: folds 
+Serious233: calls 40
+*** FLOP *** [3d Jd 7s]
+Terfz93: checks 
+Serious233: checks 
+*** TURN *** [3d Jd 7s] [3s]
+Terfz93: checks 
+Serious233: bets 220 and is all-in
+Terfz93: folds 
+Uncalled bet (220) returned to Serious233
+Serious233 collected 180 from pot
+Serious233: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [3d Jd 7s 3s]
+Seat 1: Terfz93 (small blind) folded on the Turn
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: Serious233 (button) collected (180)
+
+
+
+PokerStars Hand #245101012106: Tournament #3624359103, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/07/30 12:44:28 CET [2023/07/30 6:44:28 ET]
+Table '3624359103 1' 3-max Seat #1 is the button
+Seat 1: Terfz93 (150 in chips) 
+Seat 2: Mahu2021 (950 in chips) 
+Seat 3: Serious233 (400 in chips) 
+Mahu2021: posts small blind 10
+Serious233: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s Ks]
+Terfz93: raises 130 to 150 and is all-in
+Mahu2021: calls 140
+Serious233: folds 
+*** FLOP *** [As 6d Ad]
+*** TURN *** [As 6d Ad] [4d]
+*** RIVER *** [As 6d Ad 4d] [Jd]
+*** SHOW DOWN ***
+Mahu2021: shows [7s Ks] (a pair of Aces)
+Terfz93: shows [Kc 8h] (a pair of Aces - King+Jack+Eight kicker)
+Terfz93 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [As 6d Ad 4d Jd]
+Seat 1: Terfz93 (button) showed [Kc 8h] and won (320) with a pair of Aces
+Seat 2: Mahu2021 (small blind) showed [7s Ks] and lost with a pair of Aces
+Seat 3: Serious233 (big blind) folded before Flop
+
+
+
+PokerStars Hand #245101014594: Tournament #3624359103, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/07/30 12:44:43 CET [2023/07/30 6:44:43 ET]
+Table '3624359103 1' 3-max Seat #2 is the button
+Seat 1: Terfz93 (320 in chips) 
+Seat 2: Mahu2021 (800 in chips) 
+Seat 3: Serious233 (380 in chips) 
+Serious233: posts small blind 10
+Terfz93: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc 6h]
+Mahu2021: folds 
+Serious233: calls 10
+Terfz93: raises 20 to 40
+Serious233: raises 340 to 380 and is all-in
+Terfz93: calls 280 and is all-in
+Uncalled bet (60) returned to Serious233
+*** FLOP *** [4s 9c 3c]
+*** TURN *** [4s 9c 3c] [9s]
+*** RIVER *** [4s 9c 3c 9s] [4d]
+*** SHOW DOWN ***
+Serious233: shows [Js Jd] (two pair, Jacks and Nines)
+Terfz93: shows [3d 3s] (a full house, Threes full of Nines)
+Terfz93 collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | Rake 0 
+Board [4s 9c 3c 9s 4d]
+Seat 1: Terfz93 (big blind) showed [3d 3s] and won (640) with a full house, Threes full of Nines
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: Serious233 (small blind) showed [Js Jd] and lost with two pair, Jacks and Nines
+
+
+
+PokerStars Hand #245101017181: Tournament #3624359103, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/07/30 12:44:59 CET [2023/07/30 6:44:59 ET]
+Table '3624359103 1' 3-max Seat #3 is the button
+Seat 1: Terfz93 (640 in chips) 
+Seat 2: Mahu2021 (800 in chips) 
+Seat 3: Serious233 (60 in chips) 
+Terfz93: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2c Jh]
+Serious233: raises 40 to 60 and is all-in
+Terfz93: calls 50
+Mahu2021: folds 
+*** FLOP *** [Qh Qd Ah]
+*** TURN *** [Qh Qd Ah] [Kh]
+*** RIVER *** [Qh Qd Ah Kh] [5s]
+*** SHOW DOWN ***
+Terfz93: shows [Ac 9d] (two pair, Aces and Queens)
+Serious233: shows [8d Js] (a pair of Queens)
+Terfz93 collected 140 from pot
+Serious233 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 140 | Rake 0 
+Board [Qh Qd Ah Kh 5s]
+Seat 1: Terfz93 (small blind) showed [Ac 9d] and won (140) with two pair, Aces and Queens
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: Serious233 (button) showed [8d Js] and lost with a pair of Queens
+
+
+
+PokerStars Hand #245101020080: Tournament #3624359103, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/07/30 12:45:17 CET [2023/07/30 6:45:17 ET]
+Table '3624359103 1' 3-max Seat #2 is the button
+Seat 1: Terfz93 (720 in chips) 
+Seat 2: Mahu2021 (780 in chips) 
+Mahu2021: posts small blind 10
+Terfz93: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac 4c]
+Mahu2021: raises 20 to 40
+Terfz93: calls 20
+*** FLOP *** [Th 9h Ks]
+Terfz93: checks 
+Mahu2021: checks 
+*** TURN *** [Th 9h Ks] [8s]
+Terfz93: checks 
+Mahu2021: checks 
+*** RIVER *** [Th 9h Ks 8s] [Qs]
+Terfz93: bets 60
+Mahu2021: folds 
+Uncalled bet (60) returned to Terfz93
+Terfz93 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Th 9h Ks 8s Qs]
+Seat 1: Terfz93 (big blind) collected (80)
+Seat 2: Mahu2021 (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #245101022912: Tournament #3624359103, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/07/30 12:45:34 CET [2023/07/30 6:45:34 ET]
+Table '3624359103 1' 3-max Seat #1 is the button
+Seat 1: Terfz93 (760 in chips) 
+Seat 2: Mahu2021 (740 in chips) 
+Terfz93: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3c 8c]
+Terfz93: calls 10
+Mahu2021: checks 
+*** FLOP *** [7d Kc 2h]
+Mahu2021: checks 
+Terfz93: checks 
+*** TURN *** [7d Kc 2h] [3h]
+Mahu2021: checks 
+Terfz93: checks 
+*** RIVER *** [7d Kc 2h 3h] [Qh]
+Mahu2021: bets 20
+Terfz93: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [7d Kc 2h 3h Qh]
+Seat 1: Terfz93 (button) (small blind) folded on the River
+Seat 2: Mahu2021 (big blind) collected (40)
+
+
+
+PokerStars Hand #245101025690: Tournament #3624359103, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/07/30 12:45:51 CET [2023/07/30 6:45:51 ET]
+Table '3624359103 1' 3-max Seat #2 is the button
+Seat 1: Terfz93 (740 in chips) 
+Seat 2: Mahu2021 (760 in chips) 
+Mahu2021: posts small blind 15
+Terfz93: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8s Js]
+Mahu2021: raises 30 to 60
+Terfz93: calls 30
+*** FLOP *** [2d 9d Qd]
+Terfz93: checks 
+Mahu2021: checks 
+*** TURN *** [2d 9d Qd] [7s]
+Terfz93: bets 30
+Mahu2021: folds 
+Uncalled bet (30) returned to Terfz93
+Terfz93 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [2d 9d Qd 7s]
+Seat 1: Terfz93 (big blind) collected (120)
+Seat 2: Mahu2021 (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #245101027788: Tournament #3624359103, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/07/30 12:46:04 CET [2023/07/30 6:46:04 ET]
+Table '3624359103 1' 3-max Seat #1 is the button
+Seat 1: Terfz93 (800 in chips) 
+Seat 2: Mahu2021 (700 in chips) 
+Terfz93: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4d Kc]
+Terfz93: raises 30 to 60
+Mahu2021: calls 30
+*** FLOP *** [3h Jd Ks]
+Mahu2021: checks 
+Terfz93: bets 30
+Mahu2021: calls 30
+*** TURN *** [3h Jd Ks] [4c]
+Mahu2021: checks 
+Terfz93: bets 30
+Mahu2021: raises 30 to 60
+Terfz93: calls 30
+*** RIVER *** [3h Jd Ks 4c] [Kh]
+Mahu2021: bets 120
+Terfz93: calls 120
+*** SHOW DOWN ***
+Mahu2021: shows [4d Kc] (a full house, Kings full of Fours)
+Terfz93: mucks hand 
+Mahu2021 collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | Rake 0 
+Board [3h Jd Ks 4c Kh]
+Seat 1: Terfz93 (button) (small blind) mucked [Js Ts]
+Seat 2: Mahu2021 (big blind) showed [4d Kc] and won (540) with a full house, Kings full of Fours
+
+
+
+PokerStars Hand #245101032027: Tournament #3624359103, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/07/30 12:46:30 CET [2023/07/30 6:46:30 ET]
+Table '3624359103 1' 3-max Seat #2 is the button
+Seat 1: Terfz93 (530 in chips) 
+Seat 2: Mahu2021 (970 in chips) 
+Mahu2021: posts small blind 15
+Terfz93: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qd Jd]
+Mahu2021: raises 30 to 60
+Terfz93: calls 30
+*** FLOP *** [3s 5d 4c]
+Terfz93: checks 
+Mahu2021: bets 60
+Terfz93: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [3s 5d 4c]
+Seat 1: Terfz93 (big blind) folded on the Flop
+Seat 2: Mahu2021 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #245101034062: Tournament #3624359103, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/07/30 12:46:42 CET [2023/07/30 6:46:42 ET]
+Table '3624359103 1' 3-max Seat #1 is the button
+Seat 1: Terfz93 (470 in chips) 
+Seat 2: Mahu2021 (1030 in chips) 
+Terfz93: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8c 5h]
+Terfz93: calls 15
+Mahu2021: checks 
+*** FLOP *** [4h 9d 8d]
+Mahu2021: bets 30
+Terfz93: calls 30
+*** TURN *** [4h 9d 8d] [3s]
+Mahu2021: checks 
+Terfz93: bets 30
+Mahu2021: calls 30
+*** RIVER *** [4h 9d 8d 3s] [9h]
+Mahu2021: checks 
+Terfz93: bets 90
+Mahu2021: calls 90
+*** SHOW DOWN ***
+Terfz93: shows [5s 6d] (a pair of Nines)
+Mahu2021: shows [8c 5h] (two pair, Nines and Eights)
+Mahu2021 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [4h 9d 8d 3s 9h]
+Seat 1: Terfz93 (button) (small blind) showed [5s 6d] and lost with a pair of Nines
+Seat 2: Mahu2021 (big blind) showed [8c 5h] and won (360) with two pair, Nines and Eights
+
+
+
+PokerStars Hand #245101038313: Tournament #3624359103, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/07/30 12:47:09 CET [2023/07/30 6:47:09 ET]
+Table '3624359103 1' 3-max Seat #2 is the button
+Seat 1: Terfz93 (290 in chips) 
+Seat 2: Mahu2021 (1210 in chips) 
+Mahu2021: posts small blind 15
+Terfz93: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d Td]
+Mahu2021: raises 30 to 60
+Terfz93: calls 30
+*** FLOP *** [9h Jd 7s]
+Terfz93: checks 
+Mahu2021: bets 1150 and is all-in
+Terfz93: folds 
+Uncalled bet (1150) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [9h Jd 7s]
+Seat 1: Terfz93 (big blind) folded on the Flop
+Seat 2: Mahu2021 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #245101040398: Tournament #3624359103, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/07/30 12:47:21 CET [2023/07/30 6:47:21 ET]
+Table '3624359103 1' 3-max Seat #1 is the button
+Seat 1: Terfz93 (230 in chips) 
+Seat 2: Mahu2021 (1270 in chips) 
+Terfz93: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8s 2d]
+Terfz93: raises 200 to 230 and is all-in
+Mahu2021: folds 
+Uncalled bet (200) returned to Terfz93
+Terfz93 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Terfz93 (button) (small blind) collected (60)
+Seat 2: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #245101041354: Tournament #3624359103, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/07/30 12:47:27 CET [2023/07/30 6:47:27 ET]
+Table '3624359103 1' 3-max Seat #2 is the button
+Seat 1: Terfz93 (260 in chips) 
+Seat 2: Mahu2021 (1240 in chips) 
+Mahu2021: posts small blind 15
+Terfz93: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2s Qd]
+Mahu2021: folds 
+Uncalled bet (15) returned to Terfz93
+Terfz93 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Terfz93 (big blind) collected (30)
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #245101042147: Tournament #3624359103, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/07/30 12:47:32 CET [2023/07/30 6:47:32 ET]
+Table '3624359103 1' 3-max Seat #1 is the button
+Seat 1: Terfz93 (275 in chips) 
+Seat 2: Mahu2021 (1225 in chips) 
+Terfz93: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s Jd]
+Terfz93: raises 245 to 275 and is all-in
+Mahu2021: folds 
+Uncalled bet (245) returned to Terfz93
+Terfz93 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Terfz93 (button) (small blind) collected (60)
+Seat 2: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #245101043203: Tournament #3624359103, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/07/30 12:47:38 CET [2023/07/30 6:47:38 ET]
+Table '3624359103 1' 3-max Seat #2 is the button
+Seat 1: Terfz93 (305 in chips) 
+Seat 2: Mahu2021 (1195 in chips) 
+Mahu2021: posts small blind 15
+Terfz93: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h Qd]
+Mahu2021: calls 15
+Terfz93: raises 275 to 305 and is all-in
+Mahu2021: folds 
+Uncalled bet (275) returned to Terfz93
+Terfz93 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Terfz93 (big blind) collected (60)
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #245101044409: Tournament #3624359103, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/07/30 12:47:46 CET [2023/07/30 6:47:46 ET]
+Table '3624359103 1' 3-max Seat #1 is the button
+Seat 1: Terfz93 (335 in chips) 
+Seat 2: Mahu2021 (1165 in chips) 
+Terfz93: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8c 2d]
+Terfz93: raises 305 to 335 and is all-in
+Mahu2021: folds 
+Uncalled bet (305) returned to Terfz93
+Terfz93 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Terfz93 (button) (small blind) collected (60)
+Seat 2: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #245101045250: Tournament #3624359103, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/07/30 12:47:51 CET [2023/07/30 6:47:51 ET]
+Table '3624359103 1' 3-max Seat #2 is the button
+Seat 1: Terfz93 (365 in chips) 
+Seat 2: Mahu2021 (1135 in chips) 
+Mahu2021: posts small blind 15
+Terfz93: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h 8s]
+Mahu2021: folds 
+Uncalled bet (15) returned to Terfz93
+Terfz93 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Terfz93 (big blind) collected (30)
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #245101045959: Tournament #3624359103, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/07/30 12:47:55 CET [2023/07/30 6:47:55 ET]
+Table '3624359103 1' 3-max Seat #1 is the button
+Seat 1: Terfz93 (380 in chips) 
+Seat 2: Mahu2021 (1120 in chips) 
+Terfz93: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s 9d]
+Terfz93: raises 350 to 380 and is all-in
+Mahu2021: calls 350
+*** FLOP *** [Ac 8h Tc]
+*** TURN *** [Ac 8h Tc] [Qd]
+*** RIVER *** [Ac 8h Tc Qd] [5d]
+*** SHOW DOWN ***
+Mahu2021: shows [9s 9d] (a pair of Nines)
+Terfz93: shows [Jh Qs] (a pair of Queens)
+Terfz93 collected 760 from pot
+*** SUMMARY ***
+Total pot 760 | Rake 0 
+Board [Ac 8h Tc Qd 5d]
+Seat 1: Terfz93 (button) (small blind) showed [Jh Qs] and won (760) with a pair of Queens
+Seat 2: Mahu2021 (big blind) showed [9s 9d] and lost with a pair of Nines
+
+
+
+PokerStars Hand #245101047927: Tournament #3624359103, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/07/30 12:48:08 CET [2023/07/30 6:48:08 ET]
+Table '3624359103 1' 3-max Seat #2 is the button
+Seat 1: Terfz93 (760 in chips) 
+Seat 2: Mahu2021 (740 in chips) 
+Mahu2021: posts small blind 15
+Terfz93: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d Ts]
+Mahu2021: folds 
+Uncalled bet (15) returned to Terfz93
+Terfz93 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Terfz93 (big blind) collected (30)
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #245101048630: Tournament #3624359103, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/07/30 12:48:12 CET [2023/07/30 6:48:12 ET]
+Table '3624359103 1' 3-max Seat #1 is the button
+Seat 1: Terfz93 (775 in chips) 
+Seat 2: Mahu2021 (725 in chips) 
+Terfz93: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d Ah]
+Terfz93: raises 745 to 775 and is all-in
+Mahu2021: calls 695 and is all-in
+Uncalled bet (50) returned to Terfz93
+*** FLOP *** [Td Jc 2d]
+*** TURN *** [Td Jc 2d] [6s]
+*** RIVER *** [Td Jc 2d 6s] [2c]
+*** SHOW DOWN ***
+Mahu2021: shows [3d Ah] (a pair of Deuces)
+Terfz93: shows [Qs 5s] (a pair of Deuces - lower kicker)
+Mahu2021 collected 1450 from pot
+*** SUMMARY ***
+Total pot 1450 | Rake 0 
+Board [Td Jc 2d 6s 2c]
+Seat 1: Terfz93 (button) (small blind) showed [Qs 5s] and lost with a pair of Deuces
+Seat 2: Mahu2021 (big blind) showed [3d Ah] and won (1450) with a pair of Deuces
+
+
+
+PokerStars Hand #245101050619: Tournament #3624359103, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/07/30 12:48:24 CET [2023/07/30 6:48:24 ET]
+Table '3624359103 1' 3-max Seat #2 is the button
+Seat 1: Terfz93 (50 in chips) 
+Seat 2: Mahu2021 (1450 in chips) 
+Mahu2021: posts small blind 15
+Terfz93: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h 7s]
+Mahu2021: raises 30 to 60
+Terfz93: calls 20 and is all-in
+Uncalled bet (10) returned to Mahu2021
+*** FLOP *** [Jd Qc 5s]
+*** TURN *** [Jd Qc 5s] [4c]
+*** RIVER *** [Jd Qc 5s 4c] [6s]
+*** SHOW DOWN ***
+Terfz93: shows [9d Kh] (high card King)
+Mahu2021: shows [7h 7s] (a pair of Sevens)
+Mahu2021 collected 100 from pot
+Terfz93 finished the tournament in 2nd place
+Mahu2021 wins the tournament and receives $3.00 - congratulations!
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [Jd Qc 5s 4c 6s]
+Seat 1: Terfz93 (big blind) showed [9d Kh] and lost with high card King
+Seat 2: Mahu2021 (button) (small blind) showed [7h 7s] and won (100) with a pair of Sevens
+
+
+

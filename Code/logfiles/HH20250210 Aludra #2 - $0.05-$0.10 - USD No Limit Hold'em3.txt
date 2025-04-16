@@ -1,0 +1,95 @@
+﻿PokerStars Zoom Hand #254800458734:  Hold'em No Limit ($0.05/$0.10) - 2025/02/10 16:49:38 CET [2025/02/10 10:49:38 ET]
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: skaffel0815 ($10.02 in chips) 
+Seat 2: youngmin5034 ($32.14 in chips) 
+Seat 3: Mahu2021 ($10 in chips) 
+Seat 4: ASENNA76 ($11.72 in chips) 
+Seat 5: alexber1111 ($10.10 in chips) 
+Seat 6: Liridonzi ($7.65 in chips) 
+youngmin5034: posts small blind $0.05
+Mahu2021: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac 4h]
+ASENNA76: folds 
+alexber1111: folds 
+Liridonzi: raises $0.10 to $0.20
+skaffel0815: calls $0.20
+youngmin5034: calls $0.15
+Mahu2021: calls $0.10
+*** FLOP *** [4d Ts Jd]
+youngmin5034: checks 
+Mahu2021: checks 
+Liridonzi: bets $0.38
+skaffel0815: calls $0.38
+youngmin5034: folds 
+Mahu2021: folds 
+*** TURN *** [4d Ts Jd] [5c]
+Liridonzi: checks 
+skaffel0815: checks 
+*** RIVER *** [4d Ts Jd 5c] [6c]
+Liridonzi: checks 
+skaffel0815: bets $0.50
+Liridonzi: calls $0.50
+*** SHOW DOWN ***
+skaffel0815: shows [9h Jh] (a pair of Jacks)
+Liridonzi: mucks hand 
+skaffel0815 collected $2.41 from pot
+*** SUMMARY ***
+Total pot $2.56 | Rake $0.15 
+Board [4d Ts Jd 5c 6c]
+Seat 1: skaffel0815 (button) showed [9h Jh] and won ($2.41) with a pair of Jacks
+Seat 2: youngmin5034 (small blind) folded on the Flop
+Seat 3: Mahu2021 (big blind) folded on the Flop
+Seat 4: ASENNA76 folded before Flop (didn't bet)
+Seat 5: alexber1111 folded before Flop (didn't bet)
+Seat 6: Liridonzi mucked [Ad 5d]
+
+
+
+PokerStars Zoom Hand #254800463318:  Hold'em No Limit ($0.05/$0.10) - 2025/02/10 16:50:00 CET [2025/02/10 10:50:00 ET]
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: Clicker89 ($10.81 in chips) 
+Seat 2: Mahu2021 ($9.80 in chips) 
+Seat 3: bartez29 ($13.72 in chips) 
+Seat 4: carolientje0 ($17.68 in chips) 
+Seat 5: lukzinn11 ($32.01 in chips) 
+Seat 6: ASENNA76 ($10.71 in chips) 
+Mahu2021: posts small blind $0.05
+bartez29: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh Jc]
+carolientje0: folds 
+lukzinn11: folds 
+ASENNA76: raises $0.20 to $0.30
+Clicker89: folds 
+Mahu2021: calls $0.25
+bartez29: calls $0.20
+*** FLOP *** [3h 5s 2h]
+Mahu2021: checks 
+bartez29: checks 
+ASENNA76: bets $0.65
+Mahu2021: calls $0.65
+bartez29: folds 
+*** TURN *** [3h 5s 2h] [5d]
+Mahu2021: checks 
+ASENNA76: bets $1.58
+Mahu2021: calls $1.58
+*** RIVER *** [3h 5s 2h 5d] [3d]
+Mahu2021: checks 
+ASENNA76: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [Jh Jc] (two pair, Jacks and Fives)
+ASENNA76: mucks hand 
+Mahu2021 collected $5.12 from pot
+*** SUMMARY ***
+Total pot $5.36 | Rake $0.24 
+Board [3h 5s 2h 5d 3d]
+Seat 1: Clicker89 (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) showed [Jh Jc] and won ($5.12) with two pair, Jacks and Fives
+Seat 3: bartez29 (big blind) folded on the Flop
+Seat 4: carolientje0 folded before Flop (didn't bet)
+Seat 5: lukzinn11 folded before Flop (didn't bet)
+Seat 6: ASENNA76 mucked [Td Tc]
+
+
+

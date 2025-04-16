@@ -1,0 +1,596 @@
+﻿PokerStars Hand #252478639211: Tournament #3801175793, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/09/16 18:33:48 CET [2024/09/16 12:33:48 ET]
+Table '3801175793 1' 3-max Seat #1 is the button
+Seat 1: carlosvldrs (500 in chips) 
+Seat 2: bernig19 (500 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+bernig19: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc 3d]
+carlosvldrs: calls 20
+bernig19: calls 10
+Mahu2021: checks 
+*** FLOP *** [Js Jd 7h]
+bernig19: checks 
+Mahu2021: checks 
+carlosvldrs: checks 
+*** TURN *** [Js Jd 7h] [As]
+bernig19: checks 
+Mahu2021: checks 
+carlosvldrs: checks 
+*** RIVER *** [Js Jd 7h As] [Qd]
+bernig19: checks 
+Mahu2021: bets 20
+carlosvldrs: folds 
+bernig19: calls 20
+*** SHOW DOWN ***
+Mahu2021: shows [Qc 3d] (two pair, Queens and Jacks)
+bernig19: mucks hand 
+Mahu2021 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [Js Jd 7h As Qd]
+Seat 1: carlosvldrs (button) folded on the River
+Seat 2: bernig19 (small blind) mucked [Ks 9h]
+Seat 3: Mahu2021 (big blind) showed [Qc 3d] and won (100) with two pair, Queens and Jacks
+
+
+
+PokerStars Hand #252478648929: Tournament #3801175793, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/09/16 18:34:24 CET [2024/09/16 12:34:24 ET]
+Table '3801175793 1' 3-max Seat #2 is the button
+Seat 1: carlosvldrs (480 in chips) 
+Seat 2: bernig19 (460 in chips) 
+Seat 3: Mahu2021 (560 in chips) 
+Mahu2021: posts small blind 10
+carlosvldrs: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h 6c]
+bernig19: calls 20
+Mahu2021: folds 
+carlosvldrs: checks 
+*** FLOP *** [5d 7h Qh]
+carlosvldrs: checks 
+bernig19: checks 
+*** TURN *** [5d 7h Qh] [9d]
+carlosvldrs: checks 
+bernig19: checks 
+*** RIVER *** [5d 7h Qh 9d] [Ts]
+carlosvldrs has timed out
+carlosvldrs: checks 
+bernig19: checks 
+*** SHOW DOWN ***
+carlosvldrs: shows [Jh 4c] (high card Queen)
+bernig19: shows [6d Jd] (high card Queen)
+carlosvldrs collected 25 from pot
+bernig19 collected 25 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [5d 7h Qh 9d Ts]
+Seat 1: carlosvldrs (big blind) showed [Jh 4c] and won (25) with high card Queen
+Seat 2: bernig19 (button) showed [6d Jd] and won (25) with high card Queen
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #252478661476: Tournament #3801175793, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/09/16 18:35:11 CET [2024/09/16 12:35:11 ET]
+Table '3801175793 1' 3-max Seat #3 is the button
+Seat 1: carlosvldrs (485 in chips) 
+Seat 2: bernig19 (465 in chips) 
+Seat 3: Mahu2021 (550 in chips) 
+carlosvldrs: posts small blind 10
+bernig19: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh 4s]
+Mahu2021: calls 20
+carlosvldrs has timed out
+carlosvldrs: folds 
+carlosvldrs is sitting out
+bernig19: checks 
+*** FLOP *** [7h 4h 2h]
+bernig19: checks 
+Mahu2021: bets 50
+bernig19: folds 
+Uncalled bet (50) returned to Mahu2021
+Mahu2021 collected 50 from pot
+Mahu2021: doesn't show hand 
+carlosvldrs is disconnected 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [7h 4h 2h]
+Seat 1: carlosvldrs (small blind) folded before Flop
+Seat 2: bernig19 (big blind) folded on the Flop
+Seat 3: Mahu2021 (button) collected (50)
+
+
+
+PokerStars Hand #252478672702: Tournament #3801175793, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/09/16 18:35:53 CET [2024/09/16 12:35:53 ET]
+Table '3801175793 1' 3-max Seat #1 is the button
+Seat 1: carlosvldrs (475 in chips) is sitting out
+Seat 2: bernig19 (445 in chips) 
+Seat 3: Mahu2021 (580 in chips) 
+bernig19: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d 3s]
+carlosvldrs: folds 
+bernig19: calls 15
+Mahu2021: checks 
+*** FLOP *** [Kc 2d Ts]
+bernig19: checks 
+Mahu2021: checks 
+*** TURN *** [Kc 2d Ts] [8d]
+bernig19: checks 
+Mahu2021: bets 30
+bernig19: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Kc 2d Ts 8d]
+Seat 1: carlosvldrs (button) folded before Flop (didn't bet)
+Seat 2: bernig19 (small blind) folded on the Turn
+Seat 3: Mahu2021 (big blind) collected (60)
+
+
+
+PokerStars Hand #252478678383: Tournament #3801175793, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/09/16 18:36:14 CET [2024/09/16 12:36:14 ET]
+Table '3801175793 1' 3-max Seat #2 is the button
+Seat 1: carlosvldrs (475 in chips) is sitting out
+Seat 2: bernig19 (415 in chips) 
+Seat 3: Mahu2021 (610 in chips) 
+Mahu2021: posts small blind 15
+carlosvldrs: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h As]
+bernig19: folds 
+Mahu2021: raises 30 to 60
+carlosvldrs: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: carlosvldrs (big blind) folded before Flop
+Seat 2: bernig19 (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) collected (60)
+
+
+
+PokerStars Hand #252478679863: Tournament #3801175793, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/09/16 18:36:19 CET [2024/09/16 12:36:19 ET]
+Table '3801175793 1' 3-max Seat #3 is the button
+Seat 1: carlosvldrs (445 in chips) is sitting out
+Seat 2: bernig19 (415 in chips) 
+Seat 3: Mahu2021 (640 in chips) 
+carlosvldrs: posts small blind 15
+bernig19: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6h 8d]
+Mahu2021: folds 
+carlosvldrs: folds 
+Uncalled bet (15) returned to bernig19
+bernig19 collected 30 from pot
+bernig19: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: carlosvldrs (small blind) folded before Flop
+Seat 2: bernig19 (big blind) collected (30)
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #252478681018: Tournament #3801175793, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/09/16 18:36:24 CET [2024/09/16 12:36:24 ET]
+Table '3801175793 1' 3-max Seat #1 is the button
+Seat 1: carlosvldrs (430 in chips) is sitting out
+Seat 2: bernig19 (430 in chips) 
+Seat 3: Mahu2021 (640 in chips) 
+bernig19: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d 5h]
+carlosvldrs: folds 
+bernig19: calls 15
+Mahu2021: checks 
+*** FLOP *** [5c Kc 2c]
+bernig19: checks 
+Mahu2021: bets 30
+bernig19: calls 30
+*** TURN *** [5c Kc 2c] [As]
+bernig19: checks 
+Mahu2021: checks 
+*** RIVER *** [5c Kc 2c As] [2h]
+bernig19: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+bernig19: shows [7c 8s] (a pair of Deuces)
+Mahu2021: shows [3d 5h] (two pair, Fives and Deuces)
+Mahu2021 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [5c Kc 2c As 2h]
+Seat 1: carlosvldrs (button) folded before Flop (didn't bet)
+Seat 2: bernig19 (small blind) showed [7c 8s] and lost with a pair of Deuces
+Seat 3: Mahu2021 (big blind) showed [3d 5h] and won (120) with two pair, Fives and Deuces
+
+
+
+PokerStars Hand #252478685645: Tournament #3801175793, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/09/16 18:36:41 CET [2024/09/16 12:36:41 ET]
+Table '3801175793 1' 3-max Seat #2 is the button
+Seat 1: carlosvldrs (430 in chips) is sitting out
+Seat 2: bernig19 (370 in chips) 
+Seat 3: Mahu2021 (700 in chips) 
+Mahu2021: posts small blind 15
+carlosvldrs: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c 4s]
+bernig19: raises 30 to 60
+Mahu2021: calls 45
+carlosvldrs: folds 
+*** FLOP *** [3c Ah Qs]
+Mahu2021: checks 
+bernig19: checks 
+*** TURN *** [3c Ah Qs] [6h]
+Mahu2021: bets 60
+bernig19: calls 60
+*** RIVER *** [3c Ah Qs 6h] [2s]
+Mahu2021: bets 270
+bernig19: folds 
+Uncalled bet (270) returned to Mahu2021
+Mahu2021 collected 270 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 270 | Rake 0 
+Board [3c Ah Qs 6h 2s]
+Seat 1: carlosvldrs (big blind) folded before Flop
+Seat 2: bernig19 (button) folded on the River
+Seat 3: Mahu2021 (small blind) collected (270)
+
+
+
+PokerStars Hand #252478691594: Tournament #3801175793, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/09/16 18:37:03 CET [2024/09/16 12:37:03 ET]
+Table '3801175793 1' 3-max Seat #3 is the button
+Seat 1: carlosvldrs (400 in chips) is sitting out
+Seat 2: bernig19 (250 in chips) 
+Seat 3: Mahu2021 (850 in chips) 
+carlosvldrs: posts small blind 15
+bernig19: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah As]
+Mahu2021: raises 820 to 850 and is all-in
+carlosvldrs: folds 
+bernig19: folds 
+Uncalled bet (820) returned to Mahu2021
+Mahu2021 collected 75 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: carlosvldrs (small blind) folded before Flop
+Seat 2: bernig19 (big blind) folded before Flop
+Seat 3: Mahu2021 (button) collected (75)
+
+
+
+PokerStars Hand #252478693489: Tournament #3801175793, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/09/16 18:37:10 CET [2024/09/16 12:37:10 ET]
+Table '3801175793 1' 3-max Seat #1 is the button
+Seat 1: carlosvldrs (385 in chips) is sitting out
+Seat 2: bernig19 (220 in chips) 
+Seat 3: Mahu2021 (895 in chips) 
+bernig19: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c 6s]
+carlosvldrs: folds 
+bernig19: raises 90 to 120
+Mahu2021: raises 775 to 895 and is all-in
+bernig19: calls 100 and is all-in
+Uncalled bet (675) returned to Mahu2021
+*** FLOP *** [2d 3h Ks]
+*** TURN *** [2d 3h Ks] [7h]
+*** RIVER *** [2d 3h Ks 7h] [Kc]
+*** SHOW DOWN ***
+bernig19: shows [5s 5d] (two pair, Kings and Fives)
+Mahu2021: shows [6c 6s] (two pair, Kings and Sixes)
+Mahu2021 collected 440 from pot
+bernig19 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 440 | Rake 0 
+Board [2d 3h Ks 7h Kc]
+Seat 1: carlosvldrs (button) folded before Flop (didn't bet)
+Seat 2: bernig19 (small blind) showed [5s 5d] and lost with two pair, Kings and Fives
+Seat 3: Mahu2021 (big blind) showed [6c 6s] and won (440) with two pair, Kings and Sixes
+
+
+
+PokerStars Hand #252478699042: Tournament #3801175793, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/09/16 18:37:31 CET [2024/09/16 12:37:31 ET]
+Table '3801175793 1' 3-max Seat #3 is the button
+Seat 1: carlosvldrs (385 in chips) is sitting out
+Seat 3: Mahu2021 (1115 in chips) 
+Mahu2021: posts small blind 15
+carlosvldrs: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac 9d]
+Mahu2021: raises 30 to 60
+carlosvldrs: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: carlosvldrs (big blind) folded before Flop
+Seat 3: Mahu2021 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #252478700157: Tournament #3801175793, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/09/16 18:37:35 CET [2024/09/16 12:37:35 ET]
+Table '3801175793 1' 3-max Seat #1 is the button
+Seat 1: carlosvldrs (355 in chips) is sitting out
+Seat 3: Mahu2021 (1145 in chips) 
+carlosvldrs: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2c Qh]
+carlosvldrs: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: carlosvldrs (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (30)
+
+
+
+PokerStars Hand #252478700651: Tournament #3801175793, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/09/16 18:37:37 CET [2024/09/16 12:37:37 ET]
+Table '3801175793 1' 3-max Seat #3 is the button
+Seat 1: carlosvldrs (340 in chips) is sitting out
+Seat 3: Mahu2021 (1160 in chips) 
+Mahu2021: posts small blind 15
+carlosvldrs: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d 4c]
+Mahu2021: raises 30 to 60
+carlosvldrs: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: carlosvldrs (big blind) folded before Flop
+Seat 3: Mahu2021 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #252478701740: Tournament #3801175793, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/09/16 18:37:41 CET [2024/09/16 12:37:41 ET]
+Table '3801175793 1' 3-max Seat #1 is the button
+Seat 1: carlosvldrs (310 in chips) is sitting out
+Seat 3: Mahu2021 (1190 in chips) 
+carlosvldrs: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts Qh]
+carlosvldrs: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: carlosvldrs (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (30)
+
+
+
+PokerStars Hand #252478702265: Tournament #3801175793, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/09/16 18:37:43 CET [2024/09/16 12:37:43 ET]
+Table '3801175793 1' 3-max Seat #3 is the button
+Seat 1: carlosvldrs (295 in chips) is sitting out
+Seat 3: Mahu2021 (1205 in chips) 
+Mahu2021: posts small blind 15
+carlosvldrs: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d 7h]
+Mahu2021: raises 30 to 60
+carlosvldrs: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: carlosvldrs (big blind) folded before Flop
+Seat 3: Mahu2021 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #252478703373: Tournament #3801175793, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/09/16 18:37:47 CET [2024/09/16 12:37:47 ET]
+Table '3801175793 1' 3-max Seat #1 is the button
+Seat 1: carlosvldrs (265 in chips) is sitting out
+Seat 3: Mahu2021 (1235 in chips) 
+carlosvldrs: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s 6c]
+carlosvldrs: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: carlosvldrs (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (30)
+
+
+
+PokerStars Hand #252478703874: Tournament #3801175793, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/09/16 18:37:49 CET [2024/09/16 12:37:49 ET]
+Table '3801175793 1' 3-max Seat #3 is the button
+Seat 1: carlosvldrs (250 in chips) is sitting out
+Seat 3: Mahu2021 (1250 in chips) 
+Mahu2021: posts small blind 15
+carlosvldrs: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h 2h]
+Mahu2021: raises 30 to 60
+carlosvldrs: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: carlosvldrs (big blind) folded before Flop
+Seat 3: Mahu2021 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #252478705838: Tournament #3801175793, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/09/16 18:37:56 CET [2024/09/16 12:37:56 ET]
+Table '3801175793 1' 3-max Seat #1 is the button
+Seat 1: carlosvldrs (220 in chips) is sitting out
+Seat 3: Mahu2021 (1280 in chips) 
+carlosvldrs: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2c Kc]
+carlosvldrs: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: carlosvldrs (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (40)
+
+
+
+PokerStars Hand #252478706293: Tournament #3801175793, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/09/16 18:37:58 CET [2024/09/16 12:37:58 ET]
+Table '3801175793 1' 3-max Seat #3 is the button
+Seat 1: carlosvldrs (200 in chips) is sitting out
+Seat 3: Mahu2021 (1300 in chips) 
+Mahu2021: posts small blind 20
+carlosvldrs: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc 2s]
+Mahu2021: raises 40 to 80
+carlosvldrs: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: carlosvldrs (big blind) folded before Flop
+Seat 3: Mahu2021 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #252478707426: Tournament #3801175793, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/09/16 18:38:02 CET [2024/09/16 12:38:02 ET]
+Table '3801175793 1' 3-max Seat #1 is the button
+Seat 1: carlosvldrs (160 in chips) is sitting out
+Seat 3: Mahu2021 (1340 in chips) 
+carlosvldrs: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js Qc]
+carlosvldrs: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: carlosvldrs (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (40)
+
+
+
+PokerStars Hand #252478707934: Tournament #3801175793, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/09/16 18:38:04 CET [2024/09/16 12:38:04 ET]
+Table '3801175793 1' 3-max Seat #3 is the button
+Seat 1: carlosvldrs (140 in chips) is sitting out
+Seat 3: Mahu2021 (1360 in chips) 
+Mahu2021: posts small blind 20
+carlosvldrs: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d 3d]
+Mahu2021: raises 40 to 80
+carlosvldrs: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: carlosvldrs (big blind) folded before Flop
+Seat 3: Mahu2021 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #252478709071: Tournament #3801175793, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/09/16 18:38:08 CET [2024/09/16 12:38:08 ET]
+Table '3801175793 1' 3-max Seat #1 is the button
+Seat 1: carlosvldrs (100 in chips) is sitting out
+Seat 3: Mahu2021 (1400 in chips) 
+carlosvldrs: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qd 9s]
+carlosvldrs: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: carlosvldrs (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (40)
+
+
+
+PokerStars Hand #252478709586: Tournament #3801175793, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/09/16 18:38:10 CET [2024/09/16 12:38:10 ET]
+Table '3801175793 1' 3-max Seat #3 is the button
+Seat 1: carlosvldrs (80 in chips) is sitting out
+Seat 3: Mahu2021 (1420 in chips) 
+Mahu2021: posts small blind 20
+carlosvldrs: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d Th]
+Mahu2021: raises 40 to 80
+carlosvldrs: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: carlosvldrs (big blind) folded before Flop
+Seat 3: Mahu2021 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #252478710683: Tournament #3801175793, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/09/16 18:38:14 CET [2024/09/16 12:38:14 ET]
+Table '3801175793 1' 3-max Seat #1 is the button
+Seat 1: carlosvldrs (40 in chips) is sitting out
+Seat 3: Mahu2021 (1460 in chips) 
+carlosvldrs: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s 5s]
+carlosvldrs: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: carlosvldrs (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (40)
+
+
+
+PokerStars Hand #252478711168: Tournament #3801175793, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/09/16 18:38:16 CET [2024/09/16 12:38:16 ET]
+Table '3801175793 1' 3-max Seat #3 is the button
+Seat 1: carlosvldrs (20 in chips) is sitting out
+Seat 3: Mahu2021 (1480 in chips) 
+Mahu2021: posts small blind 20
+carlosvldrs: posts big blind 20 and is all-in
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s 5d]
+carlosvldrs: folds 
+Mahu2021 collected 40 from pot
+carlosvldrs finished the tournament in 2nd place
+Mahu2021 wins the tournament and receives $4.00 - congratulations!
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: carlosvldrs (big blind) folded before Flop
+Seat 3: Mahu2021 (button) (small blind) collected (40)
+
+
+

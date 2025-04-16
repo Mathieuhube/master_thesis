@@ -1,0 +1,577 @@
+﻿PokerStars Hand #243069541039: Tournament #3577004723, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/13 20:43:16 CET [2023/04/13 14:43:16 ET]
+Table '3577004723 1' 3-max Seat #1 is the button
+Seat 1: FerGar05 (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: rechin10 (500 in chips) 
+Mahu2021: posts small blind 10
+rechin10: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h Jh]
+FerGar05: calls 20
+Mahu2021: calls 10
+rechin10: checks 
+*** FLOP *** [Kd 5d 5c]
+Mahu2021: checks 
+rechin10: checks 
+FerGar05: bets 20
+Mahu2021: folds 
+rechin10: calls 20
+*** TURN *** [Kd 5d 5c] [Tc]
+rechin10: checks 
+FerGar05: bets 20
+rechin10: calls 20
+*** RIVER *** [Kd 5d 5c Tc] [Th]
+rechin10: checks 
+FerGar05: bets 20
+rechin10: raises 40 to 60
+FerGar05: calls 40
+*** SHOW DOWN ***
+rechin10: shows [Ad Td] (a full house, Tens full of Fives)
+FerGar05: mucks hand 
+rechin10 collected 260 from pot
+*** SUMMARY ***
+Total pot 260 | Rake 0 
+Board [Kd 5d 5c Tc Th]
+Seat 1: FerGar05 (button) mucked [7h As]
+Seat 2: Mahu2021 (small blind) folded on the Flop
+Seat 3: rechin10 (big blind) showed [Ad Td] and won (260) with a full house, Tens full of Fives
+
+
+
+PokerStars Hand #243069556525: Tournament #3577004723, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/13 20:43:57 CET [2023/04/13 14:43:57 ET]
+Table '3577004723 1' 3-max Seat #2 is the button
+Seat 1: FerGar05 (380 in chips) 
+Seat 2: Mahu2021 (480 in chips) 
+Seat 3: rechin10 (640 in chips) 
+rechin10: posts small blind 10
+FerGar05: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h Ad]
+Mahu2021: calls 20
+rechin10: raises 40 to 60
+FerGar05: calls 40
+Mahu2021: calls 40
+*** FLOP *** [6s 5c Jd]
+rechin10: bets 90
+FerGar05: folds 
+Mahu2021: folds 
+Uncalled bet (90) returned to rechin10
+rechin10 collected 180 from pot
+rechin10: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [6s 5c Jd]
+Seat 1: FerGar05 (big blind) folded on the Flop
+Seat 2: Mahu2021 (button) folded on the Flop
+Seat 3: rechin10 (small blind) collected (180)
+
+
+
+PokerStars Hand #243069564029: Tournament #3577004723, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/13 20:44:18 CET [2023/04/13 14:44:18 ET]
+Table '3577004723 1' 3-max Seat #3 is the button
+Seat 1: FerGar05 (320 in chips) 
+Seat 2: Mahu2021 (420 in chips) 
+Seat 3: rechin10 (760 in chips) 
+FerGar05: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd 5d]
+rechin10: folds 
+FerGar05: calls 10
+Mahu2021: checks 
+*** FLOP *** [Ah 3s 4h]
+FerGar05: bets 20
+Mahu2021: calls 20
+*** TURN *** [Ah 3s 4h] [2s]
+FerGar05: bets 20
+Mahu2021: calls 20
+*** RIVER *** [Ah 3s 4h 2s] [Qc]
+FerGar05: bets 20
+Mahu2021: raises 60 to 80
+FerGar05: calls 60
+*** SHOW DOWN ***
+Mahu2021: shows [Kd 5d] (a straight, Ace to Five)
+FerGar05: mucks hand 
+Mahu2021 collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | Rake 0 
+Board [Ah 3s 4h 2s Qc]
+Seat 1: FerGar05 (small blind) mucked [Qh 9h]
+Seat 2: Mahu2021 (big blind) showed [Kd 5d] and won (280) with a straight, Ace to Five
+Seat 3: rechin10 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #243069572676: Tournament #3577004723, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/13 20:44:41 CET [2023/04/13 14:44:41 ET]
+Table '3577004723 1' 3-max Seat #1 is the button
+Seat 1: FerGar05 (180 in chips) 
+Seat 2: Mahu2021 (560 in chips) 
+Seat 3: rechin10 (760 in chips) 
+Mahu2021: posts small blind 10
+rechin10: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h Qh]
+FerGar05: folds 
+Mahu2021: calls 10
+rechin10: checks 
+*** FLOP *** [Kc 3s Jd]
+Mahu2021: bets 20
+rechin10: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Kc 3s Jd]
+Seat 1: FerGar05 (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) collected (40)
+Seat 3: rechin10 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #243069578230: Tournament #3577004723, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/13 20:44:56 CET [2023/04/13 14:44:56 ET]
+Table '3577004723 1' 3-max Seat #2 is the button
+Seat 1: FerGar05 (180 in chips) 
+Seat 2: Mahu2021 (580 in chips) 
+Seat 3: rechin10 (740 in chips) 
+rechin10: posts small blind 10
+FerGar05: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks 2d]
+Mahu2021: folds 
+rechin10: folds 
+Uncalled bet (10) returned to FerGar05
+FerGar05 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: FerGar05 (big blind) collected (20)
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: rechin10 (small blind) folded before Flop
+
+
+
+PokerStars Hand #243069580899: Tournament #3577004723, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/13 20:45:03 CET [2023/04/13 14:45:03 ET]
+Table '3577004723 1' 3-max Seat #3 is the button
+Seat 1: FerGar05 (190 in chips) 
+Seat 2: Mahu2021 (580 in chips) 
+Seat 3: rechin10 (730 in chips) 
+FerGar05: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2s Ah]
+rechin10: raises 20 to 40
+FerGar05: raises 20 to 60
+Mahu2021: folds 
+rechin10: calls 20
+*** FLOP *** [6c 2h Jc]
+FerGar05: bets 130 and is all-in
+rechin10: folds 
+Uncalled bet (130) returned to FerGar05
+FerGar05 collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | Rake 0 
+Board [6c 2h Jc]
+Seat 1: FerGar05 (small blind) collected (140)
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: rechin10 (button) folded on the Flop
+
+
+
+PokerStars Hand #243069590539: Tournament #3577004723, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/13 20:45:29 CET [2023/04/13 14:45:29 ET]
+Table '3577004723 1' 3-max Seat #1 is the button
+Seat 1: FerGar05 (270 in chips) 
+Seat 2: Mahu2021 (560 in chips) 
+Seat 3: rechin10 (670 in chips) 
+Mahu2021: posts small blind 15
+rechin10: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4c Kc]
+FerGar05: calls 30
+Mahu2021: calls 15
+rechin10: checks 
+*** FLOP *** [Ah 4h 7s]
+Mahu2021: checks 
+rechin10: checks 
+FerGar05: bets 30
+Mahu2021: calls 30
+rechin10: calls 30
+*** TURN *** [Ah 4h 7s] [2c]
+Mahu2021: checks 
+rechin10: checks 
+FerGar05: checks 
+*** RIVER *** [Ah 4h 7s 2c] [2d]
+Mahu2021: checks 
+rechin10: checks 
+FerGar05: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [4c Kc] (two pair, Fours and Deuces)
+rechin10: shows [7d Qc] (two pair, Sevens and Deuces)
+FerGar05: mucks hand 
+rechin10 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [Ah 4h 7s 2c 2d]
+Seat 1: FerGar05 (button) mucked [Ks 6s]
+Seat 2: Mahu2021 (small blind) showed [4c Kc] and lost with two pair, Fours and Deuces
+Seat 3: rechin10 (big blind) showed [7d Qc] and won (180) with two pair, Sevens and Deuces
+
+
+
+PokerStars Hand #243069601135: Tournament #3577004723, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/13 20:45:59 CET [2023/04/13 14:45:59 ET]
+Table '3577004723 1' 3-max Seat #2 is the button
+Seat 1: FerGar05 (210 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: rechin10 (790 in chips) 
+rechin10: posts small blind 15
+FerGar05: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8c 6s]
+Mahu2021: folds 
+rechin10: calls 15
+FerGar05: checks 
+*** FLOP *** [9d 2d Ks]
+rechin10: bets 30
+FerGar05: folds 
+Uncalled bet (30) returned to rechin10
+rechin10 collected 60 from pot
+rechin10: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [9d 2d Ks]
+Seat 1: FerGar05 (big blind) folded on the Flop
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: rechin10 (small blind) collected (60)
+
+
+
+PokerStars Hand #243069606905: Tournament #3577004723, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/13 20:46:14 CET [2023/04/13 14:46:14 ET]
+Table '3577004723 1' 3-max Seat #3 is the button
+Seat 1: FerGar05 (180 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: rechin10 (820 in chips) 
+FerGar05: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2c 9c]
+rechin10: folds 
+FerGar05: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: FerGar05 (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (30)
+Seat 3: rechin10 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #243069609712: Tournament #3577004723, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/13 20:46:22 CET [2023/04/13 14:46:22 ET]
+Table '3577004723 1' 3-max Seat #1 is the button
+Seat 1: FerGar05 (165 in chips) 
+Seat 2: Mahu2021 (515 in chips) 
+Seat 3: rechin10 (820 in chips) 
+Mahu2021: posts small blind 15
+rechin10: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s 3h]
+FerGar05: folds 
+FerGar05 is sitting out
+Mahu2021: folds 
+Uncalled bet (15) returned to rechin10
+rechin10 collected 30 from pot
+rechin10: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: FerGar05 (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: rechin10 (big blind) collected (30)
+
+
+
+PokerStars Hand #243069613750: Tournament #3577004723, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/13 20:46:33 CET [2023/04/13 14:46:33 ET]
+Table '3577004723 1' 3-max Seat #2 is the button
+Seat 1: FerGar05 (165 in chips) is sitting out
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: rechin10 (835 in chips) 
+rechin10: posts small blind 15
+FerGar05: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js 5d]
+Mahu2021: folds 
+FerGar05 has returned
+rechin10: raises 30 to 60
+FerGar05: raises 30 to 90
+rechin10: calls 30
+*** FLOP *** [Qc 2s 3h]
+rechin10: checks 
+FerGar05: bets 75 and is all-in
+rechin10: calls 75
+*** TURN *** [Qc 2s 3h] [9s]
+*** RIVER *** [Qc 2s 3h 9s] [3d]
+*** SHOW DOWN ***
+rechin10: shows [Ks Ts] (a pair of Threes)
+FerGar05: shows [Kh Jd] (a pair of Threes - King+Queen+Jack kicker)
+FerGar05 collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | Rake 0 
+Board [Qc 2s 3h 9s 3d]
+Seat 1: FerGar05 (big blind) showed [Kh Jd] and won (330) with a pair of Threes
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: rechin10 (small blind) showed [Ks Ts] and lost with a pair of Threes
+
+
+
+PokerStars Hand #243069622242: Tournament #3577004723, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/13 20:46:56 CET [2023/04/13 14:46:56 ET]
+Table '3577004723 1' 3-max Seat #3 is the button
+Seat 1: FerGar05 (330 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: rechin10 (670 in chips) 
+FerGar05: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d 8d]
+rechin10: folds 
+FerGar05: calls 15
+Mahu2021: checks 
+*** FLOP *** [4c 4s Jc]
+FerGar05: bets 30
+Mahu2021: folds 
+Uncalled bet (30) returned to FerGar05
+FerGar05 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [4c 4s Jc]
+Seat 1: FerGar05 (small blind) collected (60)
+Seat 2: Mahu2021 (big blind) folded on the Flop
+Seat 3: rechin10 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #243069626791: Tournament #3577004723, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/13 20:47:08 CET [2023/04/13 14:47:08 ET]
+Table '3577004723 1' 3-max Seat #1 is the button
+Seat 1: FerGar05 (360 in chips) 
+Seat 2: Mahu2021 (470 in chips) 
+Seat 3: rechin10 (670 in chips) 
+Mahu2021: posts small blind 15
+rechin10: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Tc 9c]
+FerGar05: calls 30
+Mahu2021: calls 15
+rechin10: checks 
+*** FLOP *** [3d 5d 2d]
+Mahu2021: checks 
+rechin10: checks 
+FerGar05: checks 
+*** TURN *** [3d 5d 2d] [Ks]
+Mahu2021: checks 
+rechin10: checks 
+FerGar05: bets 30
+Mahu2021: folds 
+rechin10: calls 30
+*** RIVER *** [3d 5d 2d Ks] [Kc]
+rechin10: checks 
+FerGar05: checks 
+*** SHOW DOWN ***
+rechin10: shows [5s 9h] (two pair, Kings and Fives)
+FerGar05: mucks hand 
+rechin10 collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Board [3d 5d 2d Ks Kc]
+Seat 1: FerGar05 (button) mucked [7c Th]
+Seat 2: Mahu2021 (small blind) folded on the Turn
+Seat 3: rechin10 (big blind) showed [5s 9h] and won (150) with two pair, Kings and Fives
+
+
+
+PokerStars Hand #243069639693: Tournament #3577004723, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/13 20:47:43 CET [2023/04/13 14:47:43 ET]
+Table '3577004723 1' 3-max Seat #2 is the button
+Seat 1: FerGar05 (300 in chips) 
+Seat 2: Mahu2021 (440 in chips) 
+Seat 3: rechin10 (760 in chips) 
+rechin10: posts small blind 20
+FerGar05: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s 9d]
+Mahu2021: folds 
+rechin10: calls 20
+FerGar05: checks 
+*** FLOP *** [2s 5h 2d]
+rechin10: checks 
+FerGar05: checks 
+*** TURN *** [2s 5h 2d] [5c]
+rechin10: bets 40
+FerGar05: folds 
+Uncalled bet (40) returned to rechin10
+rechin10 collected 80 from pot
+rechin10: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [2s 5h 2d 5c]
+Seat 1: FerGar05 (big blind) folded on the Turn
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: rechin10 (small blind) collected (80)
+
+
+
+PokerStars Hand #243069647040: Tournament #3577004723, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/13 20:48:02 CET [2023/04/13 14:48:02 ET]
+Table '3577004723 1' 3-max Seat #3 is the button
+Seat 1: FerGar05 (260 in chips) 
+Seat 2: Mahu2021 (440 in chips) 
+Seat 3: rechin10 (800 in chips) 
+FerGar05: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d Th]
+rechin10: folds 
+FerGar05: calls 20
+Mahu2021: checks 
+*** FLOP *** [6s Kh 3c]
+FerGar05: bets 40
+Mahu2021: folds 
+Uncalled bet (40) returned to FerGar05
+FerGar05 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [6s Kh 3c]
+Seat 1: FerGar05 (small blind) collected (80)
+Seat 2: Mahu2021 (big blind) folded on the Flop
+Seat 3: rechin10 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #243069651664: Tournament #3577004723, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/13 20:48:15 CET [2023/04/13 14:48:15 ET]
+Table '3577004723 1' 3-max Seat #1 is the button
+Seat 1: FerGar05 (300 in chips) 
+Seat 2: Mahu2021 (400 in chips) 
+Seat 3: rechin10 (800 in chips) 
+Mahu2021: posts small blind 20
+rechin10: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8s 3h]
+FerGar05: calls 40
+Mahu2021: folds 
+rechin10: checks 
+*** FLOP *** [5s Td 7c]
+rechin10: checks 
+FerGar05: bets 40
+rechin10: calls 40
+*** TURN *** [5s Td 7c] [4h]
+rechin10: checks 
+FerGar05: bets 40
+rechin10: calls 40
+*** RIVER *** [5s Td 7c 4h] [Kh]
+rechin10: checks 
+FerGar05: bets 40
+rechin10: calls 40
+*** SHOW DOWN ***
+FerGar05: shows [5c As] (a pair of Fives)
+rechin10: shows [Ts 8c] (a pair of Tens)
+rechin10 collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | Rake 0 
+Board [5s Td 7c 4h Kh]
+Seat 1: FerGar05 (button) showed [5c As] and lost with a pair of Fives
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: rechin10 (big blind) showed [Ts 8c] and won (340) with a pair of Tens
+
+
+
+PokerStars Hand #243069663439: Tournament #3577004723, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/13 20:48:47 CET [2023/04/13 14:48:47 ET]
+Table '3577004723 1' 3-max Seat #2 is the button
+Seat 1: FerGar05 (140 in chips) 
+Seat 2: Mahu2021 (380 in chips) 
+Seat 3: rechin10 (980 in chips) 
+rechin10: posts small blind 20
+FerGar05: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s 7d]
+Mahu2021: folds 
+rechin10: calls 20
+FerGar05: checks 
+*** FLOP *** [6c Ts 9d]
+rechin10: checks 
+FerGar05: checks 
+*** TURN *** [6c Ts 9d] [Qd]
+rechin10: checks 
+FerGar05: bets 40
+rechin10: calls 40
+*** RIVER *** [6c Ts 9d Qd] [Ks]
+rechin10: checks 
+FerGar05: bets 60 and is all-in
+rechin10: calls 60
+*** SHOW DOWN ***
+FerGar05: shows [Js 3c] (a straight, Nine to King)
+rechin10: shows [Th 7s] (a pair of Tens)
+FerGar05 collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | Rake 0 
+Board [6c Ts 9d Qd Ks]
+Seat 1: FerGar05 (big blind) showed [Js 3c] and won (280) with a straight, Nine to King
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: rechin10 (small blind) showed [Th 7s] and lost with a pair of Tens
+
+
+
+PokerStars Hand #243069674581: Tournament #3577004723, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/13 20:49:17 CET [2023/04/13 14:49:17 ET]
+Table '3577004723 1' 3-max Seat #3 is the button
+Seat 1: FerGar05 (280 in chips) 
+Seat 2: Mahu2021 (380 in chips) 
+Seat 3: rechin10 (840 in chips) 
+FerGar05: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad Jd]
+rechin10: folds 
+FerGar05: calls 20
+Mahu2021: raises 120 to 160
+FerGar05: raises 120 to 280 and is all-in
+Mahu2021: calls 120
+*** FLOP *** [6s 5d 8s]
+*** TURN *** [6s 5d 8s] [5h]
+*** RIVER *** [6s 5d 8s 5h] [5s]
+*** SHOW DOWN ***
+FerGar05: shows [Js Jc] (a full house, Fives full of Jacks)
+Mahu2021: shows [Ad Jd] (three of a kind, Fives)
+FerGar05 collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | Rake 0 
+Board [6s 5d 8s 5h 5s]
+Seat 1: FerGar05 (small blind) showed [Js Jc] and won (560) with a full house, Fives full of Jacks
+Seat 2: Mahu2021 (big blind) showed [Ad Jd] and lost with three of a kind, Fives
+Seat 3: rechin10 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #243069682942: Tournament #3577004723, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/04/13 20:49:39 CET [2023/04/13 14:49:39 ET]
+Table '3577004723 1' 3-max Seat #1 is the button
+Seat 1: FerGar05 (560 in chips) 
+Seat 2: Mahu2021 (100 in chips) 
+Seat 3: rechin10 (840 in chips) 
+Mahu2021: posts small blind 30
+rechin10: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c 4c]
+FerGar05: calls 60
+Mahu2021: raises 40 to 100 and is all-in
+rechin10: folds 
+FerGar05: calls 40
+*** FLOP *** [7s Ad Jd]
+*** TURN *** [7s Ad Jd] [Td]
+*** RIVER *** [7s Ad Jd Td] [9c]
+*** SHOW DOWN ***
+Mahu2021: shows [5c 4c] (high card Ace)
+FerGar05: shows [Kh Ah] (a pair of Aces)
+FerGar05 collected 260 from pot
+Mahu2021 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 260 | Rake 0 
+Board [7s Ad Jd Td 9c]
+Seat 1: FerGar05 (button) showed [Kh Ah] and won (260) with a pair of Aces
+Seat 2: Mahu2021 (small blind) showed [5c 4c] and lost with high card Ace
+Seat 3: rechin10 (big blind) folded before Flop
+
+
+

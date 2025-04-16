@@ -1,0 +1,444 @@
+﻿PokerStars Hand #246228323972: Tournament #3651166219, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/09/28 16:17:58 CET [2023/09/28 10:17:58 ET]
+Table '3651166219 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: John-Poker2018 (500 in chips) 
+Seat 3: alex555kat (500 in chips) 
+John-Poker2018: posts small blind 10
+alex555kat: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8d 5c]
+Mahu2021: folds 
+John-Poker2018: calls 10
+alex555kat: checks 
+*** FLOP *** [6c 6h 8h]
+John-Poker2018: checks 
+alex555kat: bets 20
+John-Poker2018: calls 20
+*** TURN *** [6c 6h 8h] [Jd]
+John-Poker2018: checks 
+alex555kat: bets 20
+John-Poker2018: calls 20
+*** RIVER *** [6c 6h 8h Jd] [4h]
+John-Poker2018: checks 
+alex555kat: bets 440 and is all-in
+John-Poker2018: folds 
+Uncalled bet (440) returned to alex555kat
+alex555kat collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [6c 6h 8h Jd 4h]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: John-Poker2018 (small blind) folded on the River
+Seat 3: alex555kat (big blind) collected (120)
+
+
+
+PokerStars Hand #246228331769: Tournament #3651166219, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/09/28 16:18:32 CET [2023/09/28 10:18:32 ET]
+Table '3651166219 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: John-Poker2018 (440 in chips) 
+Seat 3: alex555kat (560 in chips) 
+alex555kat: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc Ks]
+John-Poker2018: calls 20
+alex555kat: calls 10
+Mahu2021: checks 
+*** FLOP *** [7h Jc 6s]
+alex555kat: checks 
+Mahu2021: checks 
+John-Poker2018: checks 
+*** TURN *** [7h Jc 6s] [8d]
+alex555kat: checks 
+Mahu2021: checks 
+John-Poker2018: checks 
+*** RIVER *** [7h Jc 6s 8d] [Qh]
+alex555kat: checks 
+Mahu2021: bets 60
+John-Poker2018: folds 
+alex555kat: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [7h Jc 6s 8d Qh]
+Seat 1: Mahu2021 (big blind) collected (60)
+Seat 2: John-Poker2018 (button) folded on the River
+Seat 3: alex555kat (small blind) folded on the River
+
+
+
+PokerStars Hand #246228339436: Tournament #3651166219, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/09/28 16:19:05 CET [2023/09/28 10:19:05 ET]
+Table '3651166219 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (540 in chips) 
+Seat 2: John-Poker2018 (420 in chips) 
+Seat 3: alex555kat (540 in chips) 
+Mahu2021: posts small blind 10
+John-Poker2018: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c 5c]
+alex555kat: folds 
+Mahu2021: calls 10
+John-Poker2018: raises 20 to 40
+Mahu2021: calls 20
+*** FLOP *** [Js 4c 6c]
+Mahu2021: checks 
+John-Poker2018: bets 60
+Mahu2021: calls 60
+*** TURN *** [Js 4c 6c] [Jd]
+Mahu2021: checks 
+John-Poker2018: bets 100
+Mahu2021: calls 100
+*** RIVER *** [Js 4c 6c Jd] [Tc]
+Mahu2021: bets 340 and is all-in
+John-Poker2018: calls 220 and is all-in
+Uncalled bet (120) returned to Mahu2021
+*** SHOW DOWN ***
+Mahu2021: shows [9c 5c] (a flush, Ten high)
+John-Poker2018: shows [Ad As] (two pair, Aces and Jacks)
+Mahu2021 collected 840 from pot
+John-Poker2018 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 840 | Rake 0 
+Board [Js 4c 6c Jd Tc]
+Seat 1: Mahu2021 (small blind) showed [9c 5c] and won (840) with a flush, Ten high
+Seat 2: John-Poker2018 (big blind) showed [Ad As] and lost with two pair, Aces and Jacks
+Seat 3: alex555kat (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #246228347381: Tournament #3651166219, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/09/28 16:19:39 CET [2023/09/28 10:19:39 ET]
+Table '3651166219 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (960 in chips) 
+Seat 3: alex555kat (540 in chips) 
+Mahu2021: posts small blind 10
+alex555kat: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h As]
+Mahu2021: calls 10
+alex555kat: checks 
+*** FLOP *** [7s Th 6c]
+alex555kat: checks 
+Mahu2021: bets 20
+alex555kat: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [7s Th 6c]
+Seat 1: Mahu2021 (button) (small blind) collected (40)
+Seat 3: alex555kat (big blind) folded on the Flop
+
+
+
+PokerStars Hand #246228350079: Tournament #3651166219, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/09/28 16:19:51 CET [2023/09/28 10:19:51 ET]
+Table '3651166219 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (980 in chips) 
+Seat 3: alex555kat (520 in chips) 
+alex555kat: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah 2c]
+alex555kat: calls 10
+Mahu2021: checks 
+*** FLOP *** [Qs 3d 5d]
+Mahu2021: checks 
+alex555kat: checks 
+*** TURN *** [Qs 3d 5d] [6h]
+Mahu2021: checks 
+alex555kat: checks 
+*** RIVER *** [Qs 3d 5d 6h] [2h]
+Mahu2021: checks 
+alex555kat: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [Ah 2c] (a pair of Deuces)
+alex555kat: mucks hand 
+Mahu2021 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Qs 3d 5d 6h 2h]
+Seat 1: Mahu2021 (big blind) showed [Ah 2c] and won (40) with a pair of Deuces
+Seat 3: alex555kat (button) (small blind) mucked [8h Th]
+
+
+
+PokerStars Hand #246228354072: Tournament #3651166219, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/09/28 16:20:08 CET [2023/09/28 10:20:08 ET]
+Table '3651166219 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1000 in chips) 
+Seat 3: alex555kat (500 in chips) 
+Mahu2021: posts small blind 15
+alex555kat: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h Th]
+Mahu2021: calls 15
+alex555kat: checks 
+*** FLOP *** [Kh 9s Ah]
+alex555kat: bets 30
+Mahu2021: calls 30
+*** TURN *** [Kh 9s Ah] [2c]
+alex555kat: bets 30
+Mahu2021: calls 30
+*** RIVER *** [Kh 9s Ah 2c] [Ts]
+alex555kat: bets 180
+Mahu2021: calls 180
+*** SHOW DOWN ***
+alex555kat: shows [2s Kc] (two pair, Kings and Deuces)
+Mahu2021: mucks hand 
+alex555kat collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | Rake 0 
+Board [Kh 9s Ah 2c Ts]
+Seat 1: Mahu2021 (button) (small blind) mucked [2h Th]
+Seat 3: alex555kat (big blind) showed [2s Kc] and won (540) with two pair, Kings and Deuces
+
+
+
+PokerStars Hand #246228357579: Tournament #3651166219, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/09/28 16:20:24 CET [2023/09/28 10:20:24 ET]
+Table '3651166219 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (730 in chips) 
+Seat 3: alex555kat (770 in chips) 
+alex555kat: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3c Td]
+alex555kat: calls 15
+Mahu2021: checks 
+*** FLOP *** [Ks Jd 2c]
+Mahu2021: checks 
+alex555kat: bets 30
+Mahu2021: folds 
+Uncalled bet (30) returned to alex555kat
+alex555kat collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Ks Jd 2c]
+Seat 1: Mahu2021 (big blind) folded on the Flop
+Seat 3: alex555kat (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #246228359782: Tournament #3651166219, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/09/28 16:20:33 CET [2023/09/28 10:20:33 ET]
+Table '3651166219 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (700 in chips) 
+Seat 3: alex555kat (800 in chips) 
+Mahu2021: posts small blind 15
+alex555kat: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s 3s]
+Mahu2021: calls 15
+alex555kat: checks 
+*** FLOP *** [6h 6s Th]
+alex555kat: bets 30
+Mahu2021: folds 
+Uncalled bet (30) returned to alex555kat
+alex555kat collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [6h 6s Th]
+Seat 1: Mahu2021 (button) (small blind) folded on the Flop
+Seat 3: alex555kat (big blind) collected (60)
+
+
+
+PokerStars Hand #246228361533: Tournament #3651166219, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/09/28 16:20:41 CET [2023/09/28 10:20:41 ET]
+Table '3651166219 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (670 in chips) 
+Seat 3: alex555kat (830 in chips) 
+alex555kat: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h Ad]
+alex555kat: calls 15
+Mahu2021: raises 60 to 90
+alex555kat: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (60)
+Seat 3: alex555kat (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #246228363062: Tournament #3651166219, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/09/28 16:20:47 CET [2023/09/28 10:20:47 ET]
+Table '3651166219 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (700 in chips) 
+Seat 3: alex555kat (800 in chips) 
+Mahu2021: posts small blind 15
+alex555kat: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h Ad]
+Mahu2021: calls 15
+alex555kat: checks 
+*** FLOP *** [Jh 8s Qs]
+alex555kat: checks 
+Mahu2021: bets 30
+alex555kat: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Jh 8s Qs]
+Seat 1: Mahu2021 (button) (small blind) collected (60)
+Seat 3: alex555kat (big blind) folded on the Flop
+
+
+
+PokerStars Hand #246228365221: Tournament #3651166219, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/09/28 16:20:57 CET [2023/09/28 10:20:57 ET]
+Table '3651166219 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (730 in chips) 
+Seat 3: alex555kat (770 in chips) 
+alex555kat: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5h Kh]
+alex555kat: calls 15
+Mahu2021: checks 
+*** FLOP *** [9c 9d 6h]
+Mahu2021: checks 
+alex555kat: checks 
+*** TURN *** [9c 9d 6h] [Qc]
+Mahu2021: checks 
+alex555kat: checks 
+*** RIVER *** [9c 9d 6h Qc] [3h]
+Mahu2021: checks 
+alex555kat: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [5h Kh] (a pair of Nines)
+alex555kat: mucks hand 
+Mahu2021 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [9c 9d 6h Qc 3h]
+Seat 1: Mahu2021 (big blind) showed [5h Kh] and won (60) with a pair of Nines
+Seat 3: alex555kat (button) (small blind) mucked [Jh 7h]
+
+
+
+PokerStars Hand #246228368252: Tournament #3651166219, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/09/28 16:21:10 CET [2023/09/28 10:21:10 ET]
+Table '3651166219 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (760 in chips) 
+Seat 3: alex555kat (740 in chips) 
+Mahu2021: posts small blind 15
+alex555kat: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h 6c]
+Mahu2021: folds 
+Uncalled bet (15) returned to alex555kat
+alex555kat collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: alex555kat (big blind) collected (30)
+
+
+
+PokerStars Hand #246228369213: Tournament #3651166219, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/09/28 16:21:14 CET [2023/09/28 10:21:14 ET]
+Table '3651166219 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (745 in chips) 
+Seat 3: alex555kat (755 in chips) 
+alex555kat: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h Ad]
+alex555kat: calls 15
+Mahu2021: checks 
+*** FLOP *** [3s 9s Kd]
+Mahu2021: checks 
+alex555kat: checks 
+*** TURN *** [3s 9s Kd] [Kh]
+Mahu2021: bets 30
+alex555kat: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [3s 9s Kd Kh]
+Seat 1: Mahu2021 (big blind) collected (60)
+Seat 3: alex555kat (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #246228371665: Tournament #3651166219, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/09/28 16:21:25 CET [2023/09/28 10:21:25 ET]
+Table '3651166219 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (775 in chips) 
+Seat 3: alex555kat (725 in chips) 
+Mahu2021: posts small blind 15
+alex555kat: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts Kd]
+Mahu2021: raises 30 to 60
+alex555kat: calls 30
+*** FLOP *** [Ks 2d 7c]
+alex555kat: checks 
+Mahu2021: bets 30
+alex555kat: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Ks 2d 7c]
+Seat 1: Mahu2021 (button) (small blind) collected (120)
+Seat 3: alex555kat (big blind) folded on the Flop
+
+
+
+PokerStars Hand #246228373864: Tournament #3651166219, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/09/28 16:21:35 CET [2023/09/28 10:21:35 ET]
+Table '3651166219 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (835 in chips) 
+Seat 3: alex555kat (665 in chips) 
+alex555kat: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h Ks]
+alex555kat: calls 15
+Mahu2021: checks 
+*** FLOP *** [3d 2s 8c]
+Mahu2021: checks 
+alex555kat: bets 30
+Mahu2021: folds 
+Uncalled bet (30) returned to alex555kat
+alex555kat collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [3d 2s 8c]
+Seat 1: Mahu2021 (big blind) folded on the Flop
+Seat 3: alex555kat (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #246228376000: Tournament #3651166219, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/09/28 16:21:44 CET [2023/09/28 10:21:44 ET]
+Table '3651166219 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (805 in chips) 
+Seat 3: alex555kat (695 in chips) 
+Mahu2021: posts small blind 15
+alex555kat: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d 9h]
+Mahu2021: raises 775 to 805 and is all-in
+alex555kat: calls 665 and is all-in
+Uncalled bet (110) returned to Mahu2021
+*** FLOP *** [Kc 2c 5d]
+*** TURN *** [Kc 2c 5d] [8s]
+*** RIVER *** [Kc 2c 5d 8s] [Js]
+*** SHOW DOWN ***
+alex555kat: shows [Ad Td] (high card Ace)
+Mahu2021: shows [9d 9h] (a pair of Nines)
+Mahu2021 collected 1390 from pot
+alex555kat finished the tournament in 2nd place
+Mahu2021 wins the tournament and receives $2.00 - congratulations!
+*** SUMMARY ***
+Total pot 1390 | Rake 0 
+Board [Kc 2c 5d 8s Js]
+Seat 1: Mahu2021 (button) (small blind) showed [9d 9h] and won (1390) with a pair of Nines
+Seat 3: alex555kat (big blind) showed [Ad Td] and lost with high card Ace
+
+
+

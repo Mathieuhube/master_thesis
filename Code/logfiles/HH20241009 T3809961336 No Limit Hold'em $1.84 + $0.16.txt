@@ -1,0 +1,1391 @@
+﻿PokerStars Hand #252842240298: Tournament #3809961336, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/09 15:57:32 CET [2024/10/09 9:57:32 ET]
+Table '3809961336 1' 3-max Seat #1 is the button
+Seat 1: SuperSid269 (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: brunoueg (500 in chips) 
+Mahu2021: posts small blind 10
+brunoueg: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2c Ad]
+SuperSid269: calls 20
+Mahu2021: calls 10
+brunoueg: checks 
+*** FLOP *** [2h 8s Ts]
+Mahu2021: checks 
+brunoueg: checks 
+SuperSid269: checks 
+*** TURN *** [2h 8s Ts] [9s]
+Mahu2021: checks 
+brunoueg: checks 
+SuperSid269: checks 
+*** RIVER *** [2h 8s Ts 9s] [Qh]
+Mahu2021: checks 
+brunoueg: checks 
+SuperSid269: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [2c Ad] (a pair of Deuces)
+brunoueg: mucks hand 
+SuperSid269: mucks hand 
+Mahu2021 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [2h 8s Ts 9s Qh]
+Seat 1: SuperSid269 (button) mucked [7d 4c]
+Seat 2: Mahu2021 (small blind) showed [2c Ad] and won (60) with a pair of Deuces
+Seat 3: brunoueg (big blind) mucked [2d 3d]
+
+
+
+PokerStars Hand #252842244401: Tournament #3809961336, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/09 15:57:59 CET [2024/10/09 9:57:59 ET]
+Table '3809961336 1' 3-max Seat #2 is the button
+Seat 1: SuperSid269 (480 in chips) 
+Seat 2: Mahu2021 (540 in chips) 
+Seat 3: brunoueg (480 in chips) 
+brunoueg: posts small blind 10
+SuperSid269: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s 2h]
+Mahu2021: folds 
+brunoueg: raises 20 to 40
+SuperSid269: calls 20
+*** FLOP *** [7h 9h Jd]
+brunoueg: checks 
+SuperSid269: checks 
+*** TURN *** [7h 9h Jd] [Jh]
+brunoueg: bets 41
+SuperSid269: folds 
+Uncalled bet (41) returned to brunoueg
+brunoueg collected 80 from pot
+brunoueg: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [7h 9h Jd Jh]
+Seat 1: SuperSid269 (big blind) folded on the Turn
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: brunoueg (small blind) collected (80)
+
+
+
+PokerStars Hand #252842247866: Tournament #3809961336, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/09 15:58:22 CET [2024/10/09 9:58:22 ET]
+Table '3809961336 1' 3-max Seat #3 is the button
+Seat 1: SuperSid269 (440 in chips) 
+Seat 2: Mahu2021 (540 in chips) 
+Seat 3: brunoueg (520 in chips) 
+SuperSid269: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s 3d]
+brunoueg: raises 20 to 40
+SuperSid269: calls 30
+Mahu2021: calls 20
+*** FLOP *** [9h 7d Kc]
+SuperSid269: checks 
+Mahu2021: checks 
+brunoueg: bets 40
+SuperSid269: calls 40
+Mahu2021: folds 
+*** TURN *** [9h 7d Kc] [5h]
+SuperSid269: checks 
+brunoueg: checks 
+*** RIVER *** [9h 7d Kc 5h] [Qd]
+SuperSid269: checks 
+brunoueg: bets 102
+SuperSid269: folds 
+Uncalled bet (102) returned to brunoueg
+brunoueg collected 200 from pot
+brunoueg: doesn't show hand 
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [9h 7d Kc 5h Qd]
+Seat 1: SuperSid269 (small blind) folded on the River
+Seat 2: Mahu2021 (big blind) folded on the Flop
+Seat 3: brunoueg (button) collected (200)
+
+
+
+PokerStars Hand #252842254913: Tournament #3809961336, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/09 15:59:08 CET [2024/10/09 9:59:08 ET]
+Table '3809961336 1' 3-max Seat #1 is the button
+Seat 1: SuperSid269 (360 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: brunoueg (640 in chips) 
+Mahu2021: posts small blind 10
+brunoueg: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4d 2s]
+SuperSid269: calls 20
+Mahu2021: calls 10
+brunoueg: checks 
+*** FLOP *** [Js Ks Jd]
+Mahu2021: checks 
+brunoueg: checks 
+SuperSid269: checks 
+*** TURN *** [Js Ks Jd] [Ac]
+Mahu2021: checks 
+brunoueg: checks 
+SuperSid269: checks 
+*** RIVER *** [Js Ks Jd Ac] [Qh]
+Mahu2021: checks 
+brunoueg: bets 45
+SuperSid269: folds 
+Mahu2021: folds 
+Uncalled bet (45) returned to brunoueg
+brunoueg collected 60 from pot
+brunoueg: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Js Ks Jd Ac Qh]
+Seat 1: SuperSid269 (button) folded on the River
+Seat 2: Mahu2021 (small blind) folded on the River
+Seat 3: brunoueg (big blind) collected (60)
+
+
+
+PokerStars Hand #252842258516: Tournament #3809961336, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/09 15:59:32 CET [2024/10/09 9:59:32 ET]
+Table '3809961336 1' 3-max Seat #2 is the button
+Seat 1: SuperSid269 (340 in chips) 
+Seat 2: Mahu2021 (480 in chips) 
+Seat 3: brunoueg (680 in chips) 
+brunoueg: posts small blind 10
+SuperSid269: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s 2c]
+Mahu2021: folds 
+brunoueg: raises 660 to 680 and is all-in
+SuperSid269: folds 
+Uncalled bet (660) returned to brunoueg
+brunoueg collected 40 from pot
+brunoueg: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: SuperSid269 (big blind) folded before Flop
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: brunoueg (small blind) collected (40)
+
+
+
+PokerStars Hand #252842260053: Tournament #3809961336, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/09 15:59:42 CET [2024/10/09 9:59:42 ET]
+Table '3809961336 1' 3-max Seat #3 is the button
+Seat 1: SuperSid269 (320 in chips) 
+Seat 2: Mahu2021 (480 in chips) 
+Seat 3: brunoueg (700 in chips) 
+SuperSid269: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Th Kc]
+brunoueg: folds 
+SuperSid269: calls 10
+Mahu2021: raises 60 to 80
+SuperSid269: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: SuperSid269 (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (40)
+Seat 3: brunoueg (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #252842261818: Tournament #3809961336, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/09 15:59:53 CET [2024/10/09 9:59:53 ET]
+Table '3809961336 1' 3-max Seat #1 is the button
+Seat 1: SuperSid269 (300 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: brunoueg (700 in chips) 
+Mahu2021: posts small blind 10
+brunoueg: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h Ts]
+SuperSid269: folds 
+Mahu2021: folds 
+Uncalled bet (10) returned to brunoueg
+brunoueg collected 20 from pot
+brunoueg: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: SuperSid269 (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: brunoueg (big blind) collected (20)
+
+
+
+PokerStars Hand #252842262760: Tournament #3809961336, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/09 16:00:00 CET [2024/10/09 10:00:00 ET]
+Table '3809961336 1' 3-max Seat #2 is the button
+Seat 1: SuperSid269 (300 in chips) 
+Seat 2: Mahu2021 (490 in chips) 
+Seat 3: brunoueg (710 in chips) 
+brunoueg: posts small blind 10
+SuperSid269: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc Ks]
+Mahu2021: raises 20 to 40
+brunoueg: folds 
+SuperSid269: calls 20
+*** FLOP *** [4d 9d 9h]
+SuperSid269: checks 
+Mahu2021: checks 
+*** TURN *** [4d 9d 9h] [Qd]
+SuperSid269: checks 
+Mahu2021: bets 40
+SuperSid269: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 90 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [4d 9d 9h Qd]
+Seat 1: SuperSid269 (big blind) folded on the Turn
+Seat 2: Mahu2021 (button) collected (90)
+Seat 3: brunoueg (small blind) folded before Flop
+
+
+
+PokerStars Hand #252842265281: Tournament #3809961336, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/09 16:00:16 CET [2024/10/09 10:00:16 ET]
+Table '3809961336 1' 3-max Seat #3 is the button
+Seat 1: SuperSid269 (260 in chips) 
+Seat 2: Mahu2021 (540 in chips) 
+Seat 3: brunoueg (700 in chips) 
+SuperSid269: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh 8c]
+brunoueg: raises 20 to 40
+SuperSid269: raises 60 to 100
+Mahu2021: folds 
+brunoueg: calls 60
+*** FLOP *** [7s Ks 4d]
+SuperSid269: bets 100
+brunoueg: folds 
+Uncalled bet (100) returned to SuperSid269
+SuperSid269 collected 220 from pot
+SuperSid269: doesn't show hand 
+*** SUMMARY ***
+Total pot 220 | Rake 0 
+Board [7s Ks 4d]
+Seat 1: SuperSid269 (small blind) collected (220)
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: brunoueg (button) folded on the Flop
+
+
+
+PokerStars Hand #252842269464: Tournament #3809961336, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/09 16:00:43 CET [2024/10/09 10:00:43 ET]
+Table '3809961336 1' 3-max Seat #1 is the button
+Seat 1: SuperSid269 (380 in chips) 
+Seat 2: Mahu2021 (520 in chips) 
+Seat 3: brunoueg (600 in chips) 
+Mahu2021: posts small blind 15
+brunoueg: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8d 9h]
+SuperSid269: folds 
+Mahu2021: calls 15
+brunoueg: checks 
+*** FLOP *** [Kd 7d Kc]
+Mahu2021: checks 
+brunoueg: bets 30
+Mahu2021: folds 
+Uncalled bet (30) returned to brunoueg
+brunoueg collected 60 from pot
+brunoueg: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Kd 7d Kc]
+Seat 1: SuperSid269 (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) folded on the Flop
+Seat 3: brunoueg (big blind) collected (60)
+
+
+
+PokerStars Hand #252842271817: Tournament #3809961336, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/09 16:00:57 CET [2024/10/09 10:00:57 ET]
+Table '3809961336 1' 3-max Seat #2 is the button
+Seat 1: SuperSid269 (380 in chips) 
+Seat 2: Mahu2021 (490 in chips) 
+Seat 3: brunoueg (630 in chips) 
+brunoueg: posts small blind 15
+SuperSid269: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd Qh]
+Mahu2021: raises 30 to 60
+brunoueg: folds 
+SuperSid269: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 75 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: SuperSid269 (big blind) folded before Flop
+Seat 2: Mahu2021 (button) collected (75)
+Seat 3: brunoueg (small blind) folded before Flop
+
+
+
+PokerStars Hand #252842273160: Tournament #3809961336, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/09 16:01:04 CET [2024/10/09 10:01:04 ET]
+Table '3809961336 1' 3-max Seat #3 is the button
+Seat 1: SuperSid269 (350 in chips) 
+Seat 2: Mahu2021 (535 in chips) 
+Seat 3: brunoueg (615 in chips) 
+SuperSid269: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c 7s]
+brunoueg: folds 
+SuperSid269: raises 90 to 120
+Mahu2021: folds 
+Uncalled bet (90) returned to SuperSid269
+SuperSid269 collected 60 from pot
+SuperSid269: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: SuperSid269 (small blind) collected (60)
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: brunoueg (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #252842274777: Tournament #3809961336, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/09 16:01:14 CET [2024/10/09 10:01:14 ET]
+Table '3809961336 1' 3-max Seat #1 is the button
+Seat 1: SuperSid269 (380 in chips) 
+Seat 2: Mahu2021 (505 in chips) 
+Seat 3: brunoueg (615 in chips) 
+Mahu2021: posts small blind 15
+brunoueg: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh 5c]
+SuperSid269: calls 30
+Mahu2021: calls 15
+brunoueg: checks 
+*** FLOP *** [7s Ac Th]
+Mahu2021: checks 
+brunoueg: bets 46
+SuperSid269: folds 
+Mahu2021: folds 
+Uncalled bet (46) returned to brunoueg
+brunoueg collected 90 from pot
+brunoueg: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [7s Ac Th]
+Seat 1: SuperSid269 (button) folded on the Flop
+Seat 2: Mahu2021 (small blind) folded on the Flop
+Seat 3: brunoueg (big blind) collected (90)
+
+
+
+PokerStars Hand #252842278454: Tournament #3809961336, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/09 16:01:34 CET [2024/10/09 10:01:34 ET]
+Table '3809961336 1' 3-max Seat #2 is the button
+Seat 1: SuperSid269 (350 in chips) 
+Seat 2: Mahu2021 (475 in chips) 
+Seat 3: brunoueg (675 in chips) 
+brunoueg: posts small blind 15
+SuperSid269: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s Jd]
+Mahu2021: folds 
+brunoueg: calls 15
+SuperSid269: checks 
+*** FLOP *** [Kd 3d Ts]
+brunoueg: checks 
+SuperSid269: bets 30
+brunoueg: folds 
+Uncalled bet (30) returned to SuperSid269
+SuperSid269 collected 60 from pot
+SuperSid269: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Kd 3d Ts]
+Seat 1: SuperSid269 (big blind) collected (60)
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: brunoueg (small blind) folded on the Flop
+
+
+
+PokerStars Hand #252842281075: Tournament #3809961336, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/09 16:01:48 CET [2024/10/09 10:01:48 ET]
+Table '3809961336 1' 3-max Seat #3 is the button
+Seat 1: SuperSid269 (380 in chips) 
+Seat 2: Mahu2021 (475 in chips) 
+Seat 3: brunoueg (645 in chips) 
+SuperSid269: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Td 3h]
+brunoueg: raises 30 to 60
+SuperSid269: folds 
+Mahu2021: folds 
+Uncalled bet (30) returned to brunoueg
+brunoueg collected 75 from pot
+brunoueg: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: SuperSid269 (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: brunoueg (button) collected (75)
+
+
+
+PokerStars Hand #252842282840: Tournament #3809961336, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/09 16:01:58 CET [2024/10/09 10:01:58 ET]
+Table '3809961336 1' 3-max Seat #1 is the button
+Seat 1: SuperSid269 (365 in chips) 
+Seat 2: Mahu2021 (445 in chips) 
+Seat 3: brunoueg (690 in chips) 
+Mahu2021: posts small blind 15
+brunoueg: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h Js]
+SuperSid269: folds 
+Mahu2021: folds 
+Uncalled bet (15) returned to brunoueg
+brunoueg collected 30 from pot
+brunoueg: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: SuperSid269 (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: brunoueg (big blind) collected (30)
+
+
+
+PokerStars Hand #252842284152: Tournament #3809961336, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/09 16:02:05 CET [2024/10/09 10:02:05 ET]
+Table '3809961336 1' 3-max Seat #2 is the button
+Seat 1: SuperSid269 (365 in chips) 
+Seat 2: Mahu2021 (430 in chips) 
+Seat 3: brunoueg (705 in chips) 
+brunoueg: posts small blind 15
+SuperSid269: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Th 9s]
+Mahu2021: folds 
+brunoueg: folds 
+Uncalled bet (15) returned to SuperSid269
+SuperSid269 collected 30 from pot
+SuperSid269: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: SuperSid269 (big blind) collected (30)
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: brunoueg (small blind) folded before Flop
+
+
+
+PokerStars Hand #252842285437: Tournament #3809961336, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/09 16:02:13 CET [2024/10/09 10:02:13 ET]
+Table '3809961336 1' 3-max Seat #3 is the button
+Seat 1: SuperSid269 (380 in chips) 
+Seat 2: Mahu2021 (430 in chips) 
+Seat 3: brunoueg (690 in chips) 
+SuperSid269: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js 4s]
+brunoueg: raises 660 to 690 and is all-in
+SuperSid269: folds 
+Mahu2021: folds 
+Uncalled bet (660) returned to brunoueg
+brunoueg collected 75 from pot
+brunoueg: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: SuperSid269 (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: brunoueg (button) collected (75)
+
+
+
+PokerStars Hand #252842287226: Tournament #3809961336, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/09 16:02:22 CET [2024/10/09 10:02:22 ET]
+Table '3809961336 1' 3-max Seat #1 is the button
+Seat 1: SuperSid269 (365 in chips) 
+Seat 2: Mahu2021 (400 in chips) 
+Seat 3: brunoueg (735 in chips) 
+Mahu2021: posts small blind 15
+brunoueg: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As Ks]
+SuperSid269: calls 30
+Mahu2021: raises 90 to 120
+brunoueg: folds 
+SuperSid269: raises 90 to 210
+Mahu2021: raises 190 to 400 and is all-in
+SuperSid269: calls 155 and is all-in
+Uncalled bet (35) returned to Mahu2021
+*** FLOP *** [5h Kd 6s]
+*** TURN *** [5h Kd 6s] [3h]
+*** RIVER *** [5h Kd 6s 3h] [6c]
+*** SHOW DOWN ***
+Mahu2021: shows [As Ks] (two pair, Kings and Sixes)
+SuperSid269: shows [Td Ts] (two pair, Tens and Sixes)
+Mahu2021 collected 760 from pot
+SuperSid269 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 760 | Rake 0 
+Board [5h Kd 6s 3h 6c]
+Seat 1: SuperSid269 (button) showed [Td Ts] and lost with two pair, Tens and Sixes
+Seat 2: Mahu2021 (small blind) showed [As Ks] and won (760) with two pair, Kings and Sixes
+Seat 3: brunoueg (big blind) folded before Flop
+
+
+
+PokerStars Hand #252842292250: Tournament #3809961336, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/09 16:02:49 CET [2024/10/09 10:02:49 ET]
+Table '3809961336 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (795 in chips) 
+Seat 3: brunoueg (705 in chips) 
+brunoueg: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s 3s]
+brunoueg: calls 15
+Mahu2021: checks 
+*** FLOP *** [2c 7h Ac]
+Mahu2021: checks 
+brunoueg: bets 30
+Mahu2021: calls 30
+*** TURN *** [2c 7h Ac] [3c]
+Mahu2021: checks 
+brunoueg: checks 
+*** RIVER *** [2c 7h Ac 3c] [Qd]
+Mahu2021: bets 60
+brunoueg: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [2c 7h Ac 3c Qd]
+Seat 2: Mahu2021 (big blind) collected (120)
+Seat 3: brunoueg (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #252842294788: Tournament #3809961336, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/09 16:03:03 CET [2024/10/09 10:03:03 ET]
+Table '3809961336 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (855 in chips) 
+Seat 3: brunoueg (645 in chips) 
+Mahu2021: posts small blind 15
+brunoueg: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d 4s]
+Mahu2021: calls 15
+brunoueg: checks 
+*** FLOP *** [Kc Ts 8h]
+brunoueg: checks 
+Mahu2021: bets 30
+brunoueg: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Kc Ts 8h]
+Seat 2: Mahu2021 (button) (small blind) collected (60)
+Seat 3: brunoueg (big blind) folded on the Flop
+
+
+
+PokerStars Hand #252842296585: Tournament #3809961336, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/09 16:03:12 CET [2024/10/09 10:03:12 ET]
+Table '3809961336 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (885 in chips) 
+Seat 3: brunoueg (615 in chips) 
+brunoueg: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts 4h]
+brunoueg: calls 15
+Mahu2021: checks 
+*** FLOP *** [8s 3c 9h]
+Mahu2021: checks 
+brunoueg: checks 
+*** TURN *** [8s 3c 9h] [2d]
+Mahu2021: checks 
+brunoueg: bets 30
+Mahu2021: folds 
+Uncalled bet (30) returned to brunoueg
+brunoueg collected 60 from pot
+brunoueg: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [8s 3c 9h 2d]
+Seat 2: Mahu2021 (big blind) folded on the Turn
+Seat 3: brunoueg (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #252842298680: Tournament #3809961336, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/09 16:03:23 CET [2024/10/09 10:03:23 ET]
+Table '3809961336 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (855 in chips) 
+Seat 3: brunoueg (645 in chips) 
+Mahu2021: posts small blind 15
+brunoueg: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c 5s]
+Mahu2021: folds 
+Uncalled bet (15) returned to brunoueg
+brunoueg collected 30 from pot
+brunoueg: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: brunoueg (big blind) collected (30)
+
+
+
+PokerStars Hand #252842299509: Tournament #3809961336, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/09 16:03:27 CET [2024/10/09 10:03:27 ET]
+Table '3809961336 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (840 in chips) 
+Seat 3: brunoueg (660 in chips) 
+brunoueg: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c Qh]
+brunoueg: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 2: Mahu2021 (big blind) collected (30)
+Seat 3: brunoueg (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #252842300346: Tournament #3809961336, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/09 16:03:32 CET [2024/10/09 10:03:32 ET]
+Table '3809961336 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (855 in chips) 
+Seat 3: brunoueg (645 in chips) 
+Mahu2021: posts small blind 15
+brunoueg: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kc Ac]
+Mahu2021: raises 60 to 90
+brunoueg: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) collected (60)
+Seat 3: brunoueg (big blind) folded before Flop
+
+
+
+PokerStars Hand #252842302270: Tournament #3809961336, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/10/09 16:03:41 CET [2024/10/09 10:03:41 ET]
+Table '3809961336 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (885 in chips) 
+Seat 3: brunoueg (615 in chips) 
+brunoueg: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Th Jh]
+brunoueg: calls 20
+Mahu2021: checks 
+*** FLOP *** [5c 3s Ks]
+Mahu2021: checks 
+brunoueg: checks 
+*** TURN *** [5c 3s Ks] [7c]
+Mahu2021: checks 
+brunoueg: bets 40
+Mahu2021: folds 
+Uncalled bet (40) returned to brunoueg
+brunoueg collected 80 from pot
+brunoueg: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [5c 3s Ks 7c]
+Seat 2: Mahu2021 (big blind) folded on the Turn
+Seat 3: brunoueg (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #252842304392: Tournament #3809961336, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/10/09 16:03:52 CET [2024/10/09 10:03:52 ET]
+Table '3809961336 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (845 in chips) 
+Seat 3: brunoueg (655 in chips) 
+Mahu2021: posts small blind 20
+brunoueg: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8d 9s]
+Mahu2021: calls 20
+brunoueg: checks 
+*** FLOP *** [Tc Ts 9h]
+brunoueg: bets 40
+Mahu2021: calls 40
+*** TURN *** [Tc Ts 9h] [Kd]
+brunoueg: checks 
+Mahu2021: checks 
+*** RIVER *** [Tc Ts 9h Kd] [4d]
+brunoueg: checks 
+Mahu2021: bets 40
+brunoueg: calls 40
+*** SHOW DOWN ***
+Mahu2021: shows [8d 9s] (two pair, Tens and Nines)
+brunoueg: mucks hand 
+Mahu2021 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Tc Ts 9h Kd 4d]
+Seat 2: Mahu2021 (button) (small blind) showed [8d 9s] and won (240) with two pair, Tens and Nines
+Seat 3: brunoueg (big blind) mucked [4h 6s]
+
+
+
+PokerStars Hand #252842307724: Tournament #3809961336, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/10/09 16:04:10 CET [2024/10/09 10:04:10 ET]
+Table '3809961336 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (965 in chips) 
+Seat 3: brunoueg (535 in chips) 
+brunoueg: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d 8c]
+brunoueg: raises 495 to 535 and is all-in
+Mahu2021: folds 
+Uncalled bet (495) returned to brunoueg
+brunoueg collected 80 from pot
+brunoueg: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: brunoueg (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #252842309064: Tournament #3809961336, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/10/09 16:04:17 CET [2024/10/09 10:04:17 ET]
+Table '3809961336 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (925 in chips) 
+Seat 3: brunoueg (575 in chips) 
+Mahu2021: posts small blind 20
+brunoueg: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d 3h]
+Mahu2021: raises 40 to 80
+brunoueg: calls 40
+*** FLOP *** [Ah 6h 4h]
+brunoueg: checks 
+Mahu2021: bets 80
+brunoueg: raises 415 to 495 and is all-in
+Mahu2021: folds 
+Uncalled bet (415) returned to brunoueg
+brunoueg collected 320 from pot
+brunoueg: doesn't show hand 
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [Ah 6h 4h]
+Seat 2: Mahu2021 (button) (small blind) folded on the Flop
+Seat 3: brunoueg (big blind) collected (320)
+
+
+
+PokerStars Hand #252842312747: Tournament #3809961336, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/10/09 16:04:36 CET [2024/10/09 10:04:36 ET]
+Table '3809961336 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (765 in chips) 
+Seat 3: brunoueg (735 in chips) 
+brunoueg: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h 8h]
+brunoueg: calls 20
+Mahu2021: checks 
+*** FLOP *** [9d 5d Qs]
+Mahu2021: checks 
+brunoueg: checks 
+*** TURN *** [9d 5d Qs] [3h]
+Mahu2021: checks 
+brunoueg: bets 40
+Mahu2021: folds 
+Uncalled bet (40) returned to brunoueg
+brunoueg collected 80 from pot
+brunoueg: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [9d 5d Qs 3h]
+Seat 2: Mahu2021 (big blind) folded on the Turn
+Seat 3: brunoueg (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #252842314740: Tournament #3809961336, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/10/09 16:04:47 CET [2024/10/09 10:04:47 ET]
+Table '3809961336 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (725 in chips) 
+Seat 3: brunoueg (775 in chips) 
+Mahu2021: posts small blind 20
+brunoueg: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Th Qc]
+Mahu2021: raises 40 to 80
+brunoueg: calls 40
+*** FLOP *** [Ac 3s Kd]
+brunoueg: checks 
+Mahu2021: bets 80
+brunoueg: calls 80
+*** TURN *** [Ac 3s Kd] [Qd]
+brunoueg: checks 
+Mahu2021: bets 80
+brunoueg: calls 80
+*** RIVER *** [Ac 3s Kd Qd] [As]
+brunoueg: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+brunoueg: shows [6s Ks] (two pair, Aces and Kings)
+Mahu2021: mucks hand 
+brunoueg collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Board [Ac 3s Kd Qd As]
+Seat 2: Mahu2021 (button) (small blind) mucked [Th Qc]
+Seat 3: brunoueg (big blind) showed [6s Ks] and won (480) with two pair, Aces and Kings
+
+
+
+PokerStars Hand #252842318062: Tournament #3809961336, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/10/09 16:05:04 CET [2024/10/09 10:05:04 ET]
+Table '3809961336 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (485 in chips) 
+Seat 3: brunoueg (1015 in chips) 
+brunoueg: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts Td]
+brunoueg: raises 40 to 80
+Mahu2021: raises 405 to 485 and is all-in
+brunoueg: folds 
+Uncalled bet (405) returned to Mahu2021
+Mahu2021 collected 160 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Seat 2: Mahu2021 (big blind) collected (160)
+Seat 3: brunoueg (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #252842319823: Tournament #3809961336, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/10/09 16:05:14 CET [2024/10/09 10:05:14 ET]
+Table '3809961336 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (565 in chips) 
+Seat 3: brunoueg (935 in chips) 
+Mahu2021: posts small blind 20
+brunoueg: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s 4h]
+Mahu2021: raises 40 to 80
+brunoueg: calls 40
+*** FLOP *** [Ks 2d 3d]
+brunoueg: checks 
+Mahu2021: bets 80
+brunoueg: folds 
+Uncalled bet (80) returned to Mahu2021
+Mahu2021 collected 160 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Ks 2d 3d]
+Seat 2: Mahu2021 (button) (small blind) collected (160)
+Seat 3: brunoueg (big blind) folded on the Flop
+
+
+
+PokerStars Hand #252842321722: Tournament #3809961336, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/10/09 16:05:24 CET [2024/10/09 10:05:24 ET]
+Table '3809961336 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (645 in chips) 
+Seat 3: brunoueg (855 in chips) 
+brunoueg: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d 3d]
+brunoueg: raises 815 to 855 and is all-in
+Mahu2021: folds 
+Uncalled bet (815) returned to brunoueg
+brunoueg collected 80 from pot
+brunoueg: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: brunoueg (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #252842322877: Tournament #3809961336, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/10/09 16:05:30 CET [2024/10/09 10:05:30 ET]
+Table '3809961336 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (605 in chips) 
+Seat 3: brunoueg (895 in chips) 
+Mahu2021: posts small blind 20
+brunoueg: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2s 8s]
+Mahu2021: folds 
+Uncalled bet (20) returned to brunoueg
+brunoueg collected 40 from pot
+brunoueg: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: brunoueg (big blind) collected (40)
+
+
+
+PokerStars Hand #252842323751: Tournament #3809961336, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/10/09 16:05:34 CET [2024/10/09 10:05:34 ET]
+Table '3809961336 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (585 in chips) 
+Seat 3: brunoueg (915 in chips) 
+brunoueg: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6h 8h]
+brunoueg: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: Mahu2021 (big blind) collected (40)
+Seat 3: brunoueg (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #252842324689: Tournament #3809961336, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/10/09 16:05:39 CET [2024/10/09 10:05:39 ET]
+Table '3809961336 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (605 in chips) 
+Seat 3: brunoueg (895 in chips) 
+Mahu2021: posts small blind 20
+brunoueg: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s 2c]
+Mahu2021: folds 
+Uncalled bet (20) returned to brunoueg
+brunoueg collected 40 from pot
+brunoueg: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: brunoueg (big blind) collected (40)
+
+
+
+PokerStars Hand #252842325551: Tournament #3809961336, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/10/09 16:05:43 CET [2024/10/09 10:05:43 ET]
+Table '3809961336 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (585 in chips) 
+Seat 3: brunoueg (915 in chips) 
+brunoueg: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h Qs]
+brunoueg: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: Mahu2021 (big blind) collected (40)
+Seat 3: brunoueg (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #252842326575: Tournament #3809961336, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/10/09 16:05:48 CET [2024/10/09 10:05:48 ET]
+Table '3809961336 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (605 in chips) 
+Seat 3: brunoueg (895 in chips) 
+Mahu2021: posts small blind 20
+brunoueg: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c 5s]
+Mahu2021: folds 
+Uncalled bet (20) returned to brunoueg
+brunoueg collected 40 from pot
+brunoueg: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: brunoueg (big blind) collected (40)
+
+
+
+PokerStars Hand #252842327342: Tournament #3809961336, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/10/09 16:05:53 CET [2024/10/09 10:05:53 ET]
+Table '3809961336 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (585 in chips) 
+Seat 3: brunoueg (915 in chips) 
+brunoueg: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As Tc]
+brunoueg: calls 20
+Mahu2021: raises 120 to 160
+brunoueg: folds 
+Uncalled bet (120) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: Mahu2021 (big blind) collected (80)
+Seat 3: brunoueg (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #252842328617: Tournament #3809961336, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/10/09 16:05:59 CET [2024/10/09 10:05:59 ET]
+Table '3809961336 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (625 in chips) 
+Seat 3: brunoueg (875 in chips) 
+Mahu2021: posts small blind 20
+brunoueg: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h 2s]
+Mahu2021: folds 
+Uncalled bet (20) returned to brunoueg
+brunoueg collected 40 from pot
+brunoueg: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: brunoueg (big blind) collected (40)
+
+
+
+PokerStars Hand #252842329442: Tournament #3809961336, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/10/09 16:06:04 CET [2024/10/09 10:06:04 ET]
+Table '3809961336 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (605 in chips) 
+Seat 3: brunoueg (895 in chips) 
+brunoueg: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h Ah]
+brunoueg: calls 20
+Mahu2021: checks 
+*** FLOP *** [7h Td Th]
+Mahu2021: checks 
+brunoueg: bets 40
+Mahu2021: calls 40
+*** TURN *** [7h Td Th] [7s]
+Mahu2021: checks 
+brunoueg: bets 82
+Mahu2021: calls 82
+*** RIVER *** [7h Td Th 7s] [5h]
+Mahu2021: bets 324
+brunoueg: folds 
+Uncalled bet (324) returned to Mahu2021
+Mahu2021 collected 324 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 324 | Rake 0 
+Board [7h Td Th 7s 5h]
+Seat 2: Mahu2021 (big blind) collected (324)
+Seat 3: brunoueg (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #252842332523: Tournament #3809961336, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/10/09 16:06:20 CET [2024/10/09 10:06:20 ET]
+Table '3809961336 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (767 in chips) 
+Seat 3: brunoueg (733 in chips) 
+Mahu2021: posts small blind 20
+brunoueg: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd 9d]
+Mahu2021: raises 40 to 80
+brunoueg: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) collected (80)
+Seat 3: brunoueg (big blind) folded before Flop
+
+
+
+PokerStars Hand #252842333781: Tournament #3809961336, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/10/09 16:06:27 CET [2024/10/09 10:06:27 ET]
+Table '3809961336 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (807 in chips) 
+Seat 3: brunoueg (693 in chips) 
+brunoueg: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d Ad]
+brunoueg: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: Mahu2021 (big blind) collected (40)
+Seat 3: brunoueg (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #252842334644: Tournament #3809961336, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/10/09 16:06:31 CET [2024/10/09 10:06:31 ET]
+Table '3809961336 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (827 in chips) 
+Seat 3: brunoueg (673 in chips) 
+Mahu2021: posts small blind 20
+brunoueg: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s 2d]
+Mahu2021: folds 
+Uncalled bet (20) returned to brunoueg
+brunoueg collected 40 from pot
+brunoueg: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: brunoueg (big blind) collected (40)
+
+
+
+PokerStars Hand #252842335995: Tournament #3809961336, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/10/09 16:06:38 CET [2024/10/09 10:06:38 ET]
+Table '3809961336 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (807 in chips) 
+Seat 3: brunoueg (693 in chips) 
+brunoueg: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h 6d]
+brunoueg: calls 30
+Mahu2021: checks 
+*** FLOP *** [4c 8s 2s]
+Mahu2021: checks 
+brunoueg: checks 
+*** TURN *** [4c 8s 2s] [7d]
+Mahu2021: bets 60
+brunoueg: calls 60
+*** RIVER *** [4c 8s 2s 7d] [Qh]
+Mahu2021: bets 60
+brunoueg: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 240 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [4c 8s 2s 7d Qh]
+Seat 2: Mahu2021 (big blind) collected (240)
+Seat 3: brunoueg (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #252842339028: Tournament #3809961336, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/10/09 16:06:53 CET [2024/10/09 10:06:53 ET]
+Table '3809961336 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (927 in chips) 
+Seat 3: brunoueg (573 in chips) 
+Mahu2021: posts small blind 30
+brunoueg: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d As]
+Mahu2021: raises 60 to 120
+brunoueg: calls 60
+*** FLOP *** [4d 4s Qh]
+brunoueg: checks 
+Mahu2021: checks 
+*** TURN *** [4d 4s Qh] [Qc]
+brunoueg: checks 
+Mahu2021: bets 120
+brunoueg: folds 
+Uncalled bet (120) returned to Mahu2021
+Mahu2021 collected 240 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [4d 4s Qh Qc]
+Seat 2: Mahu2021 (button) (small blind) collected (240)
+Seat 3: brunoueg (big blind) folded on the Turn
+
+
+
+PokerStars Hand #252842341410: Tournament #3809961336, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/10/09 16:07:06 CET [2024/10/09 10:07:06 ET]
+Table '3809961336 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (1047 in chips) 
+Seat 3: brunoueg (453 in chips) 
+brunoueg: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h Qc]
+brunoueg: raises 393 to 453 and is all-in
+Mahu2021: folds 
+Uncalled bet (393) returned to brunoueg
+brunoueg collected 120 from pot
+brunoueg: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: brunoueg (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #252842342433: Tournament #3809961336, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/10/09 16:07:11 CET [2024/10/09 10:07:11 ET]
+Table '3809961336 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (987 in chips) 
+Seat 3: brunoueg (513 in chips) 
+Mahu2021: posts small blind 30
+brunoueg: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5h 4d]
+Mahu2021: calls 30
+brunoueg: raises 453 to 513 and is all-in
+Mahu2021: folds 
+Uncalled bet (453) returned to brunoueg
+brunoueg collected 120 from pot
+brunoueg: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: brunoueg (big blind) collected (120)
+
+
+
+PokerStars Hand #252842343737: Tournament #3809961336, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/10/09 16:07:18 CET [2024/10/09 10:07:18 ET]
+Table '3809961336 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (927 in chips) 
+Seat 3: brunoueg (573 in chips) 
+brunoueg: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah 4h]
+brunoueg: raises 513 to 573 and is all-in
+Mahu2021: calls 513
+*** FLOP *** [7d 7c 2c]
+*** TURN *** [7d 7c 2c] [Jh]
+*** RIVER *** [7d 7c 2c Jh] [Qc]
+*** SHOW DOWN ***
+Mahu2021: shows [Ah 4h] (a pair of Sevens)
+brunoueg: shows [6s 6d] (two pair, Sevens and Sixes)
+brunoueg collected 1146 from pot
+*** SUMMARY ***
+Total pot 1146 | Rake 0 
+Board [7d 7c 2c Jh Qc]
+Seat 2: Mahu2021 (big blind) showed [Ah 4h] and lost with a pair of Sevens
+Seat 3: brunoueg (button) (small blind) showed [6s 6d] and won (1146) with two pair, Sevens and Sixes
+
+
+
+PokerStars Hand #252842346208: Tournament #3809961336, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/10/09 16:07:31 CET [2024/10/09 10:07:31 ET]
+Table '3809961336 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (354 in chips) 
+Seat 3: brunoueg (1146 in chips) 
+Mahu2021: posts small blind 30
+brunoueg: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h 3d]
+Mahu2021: folds 
+Uncalled bet (30) returned to brunoueg
+brunoueg collected 60 from pot
+brunoueg: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: brunoueg (big blind) collected (60)
+
+
+
+PokerStars Hand #252842346975: Tournament #3809961336, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/10/09 16:07:35 CET [2024/10/09 10:07:35 ET]
+Table '3809961336 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (324 in chips) 
+Seat 3: brunoueg (1176 in chips) 
+brunoueg: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h 7c]
+brunoueg: raises 1116 to 1176 and is all-in
+Mahu2021: folds 
+Uncalled bet (1116) returned to brunoueg
+brunoueg collected 120 from pot
+brunoueg: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: brunoueg (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #252842347886: Tournament #3809961336, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/10/09 16:07:40 CET [2024/10/09 10:07:40 ET]
+Table '3809961336 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (264 in chips) 
+Seat 3: brunoueg (1236 in chips) 
+Mahu2021: posts small blind 30
+brunoueg: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8s Qd]
+Mahu2021: raises 204 to 264 and is all-in
+brunoueg: folds 
+Uncalled bet (204) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) collected (120)
+Seat 3: brunoueg (big blind) folded before Flop
+
+
+
+PokerStars Hand #252842349065: Tournament #3809961336, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/10/09 16:07:46 CET [2024/10/09 10:07:46 ET]
+Table '3809961336 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (324 in chips) 
+Seat 3: brunoueg (1176 in chips) 
+brunoueg: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s 6h]
+brunoueg: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: Mahu2021 (big blind) collected (60)
+Seat 3: brunoueg (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #252842349808: Tournament #3809961336, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/10/09 16:07:50 CET [2024/10/09 10:07:50 ET]
+Table '3809961336 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (354 in chips) 
+Seat 3: brunoueg (1146 in chips) 
+Mahu2021: posts small blind 30
+brunoueg: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s 2d]
+Mahu2021: folds 
+Uncalled bet (30) returned to brunoueg
+brunoueg collected 60 from pot
+brunoueg: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: brunoueg (big blind) collected (60)
+
+
+
+PokerStars Hand #252842350575: Tournament #3809961336, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/10/09 16:07:54 CET [2024/10/09 10:07:54 ET]
+Table '3809961336 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (324 in chips) 
+Seat 3: brunoueg (1176 in chips) 
+brunoueg: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks 9c]
+brunoueg: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: Mahu2021 (big blind) collected (60)
+Seat 3: brunoueg (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #252842351357: Tournament #3809961336, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/10/09 16:07:58 CET [2024/10/09 10:07:58 ET]
+Table '3809961336 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (354 in chips) 
+Seat 3: brunoueg (1146 in chips) 
+Mahu2021: posts small blind 30
+brunoueg: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h Js]
+Mahu2021: raises 294 to 354 and is all-in
+brunoueg: calls 294
+*** FLOP *** [7c 4h Ad]
+*** TURN *** [7c 4h Ad] [Jh]
+*** RIVER *** [7c 4h Ad Jh] [5c]
+*** SHOW DOWN ***
+brunoueg: shows [7d Ac] (two pair, Aces and Sevens)
+Mahu2021: shows [8h Js] (a pair of Jacks)
+brunoueg collected 708 from pot
+Mahu2021 finished the tournament in 2nd place
+brunoueg wins the tournament and receives $6.00 - congratulations!
+*** SUMMARY ***
+Total pot 708 | Rake 0 
+Board [7c 4h Ad Jh 5c]
+Seat 2: Mahu2021 (button) (small blind) showed [8h Js] and lost with a pair of Jacks
+Seat 3: brunoueg (big blind) showed [7d Ac] and won (708) with two pair, Aces and Sevens
+
+
+

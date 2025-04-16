@@ -1,0 +1,942 @@
+﻿PokerStars Hand #243451612954: Tournament #3585729019, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/05/02 21:14:24 CET [2023/05/02 15:14:24 ET]
+Table '3585729019 1' 3-max Seat #1 is the button
+Seat 1: NiekeVL (500 in chips) 
+Seat 2: HomerChipson (500 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+HomerChipson: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2c Jd]
+NiekeVL: calls 20
+HomerChipson: calls 10
+Mahu2021: checks 
+*** FLOP *** [6c 3s Ad]
+HomerChipson: checks 
+Mahu2021: checks 
+NiekeVL: checks 
+*** TURN *** [6c 3s Ad] [Qs]
+HomerChipson: checks 
+Mahu2021: checks 
+NiekeVL: checks 
+*** RIVER *** [6c 3s Ad Qs] [9s]
+HomerChipson: bets 32
+Mahu2021: folds 
+NiekeVL: calls 32
+*** SHOW DOWN ***
+HomerChipson: shows [9c 7h] (a pair of Nines)
+NiekeVL: mucks hand 
+HomerChipson collected 124 from pot
+*** SUMMARY ***
+Total pot 124 | Rake 0 
+Board [6c 3s Ad Qs 9s]
+Seat 1: NiekeVL (button) mucked [Jc Kh]
+Seat 2: HomerChipson (small blind) showed [9c 7h] and won (124) with a pair of Nines
+Seat 3: Mahu2021 (big blind) folded on the River
+
+
+
+PokerStars Hand #243451633606: Tournament #3585729019, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/05/02 21:15:18 CET [2023/05/02 15:15:18 ET]
+Table '3585729019 1' 3-max Seat #2 is the button
+Seat 1: NiekeVL (448 in chips) 
+Seat 2: HomerChipson (572 in chips) 
+Seat 3: Mahu2021 (480 in chips) 
+Mahu2021: posts small blind 10
+NiekeVL: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qs 9h]
+HomerChipson: raises 24 to 44
+Mahu2021: folds 
+NiekeVL: calls 24
+*** FLOP *** [Th 8c 4h]
+NiekeVL: checks 
+HomerChipson: bets 42
+NiekeVL: calls 42
+*** TURN *** [Th 8c 4h] [2d]
+NiekeVL: checks 
+HomerChipson: bets 77
+NiekeVL: calls 77
+*** RIVER *** [Th 8c 4h 2d] [9s]
+NiekeVL: bets 285 and is all-in
+HomerChipson: calls 285
+*** SHOW DOWN ***
+NiekeVL: shows [Qd Js] (a straight, Eight to Queen)
+HomerChipson: shows [Ad Ah] (a pair of Aces)
+NiekeVL collected 906 from pot
+*** SUMMARY ***
+Total pot 906 | Rake 0 
+Board [Th 8c 4h 2d 9s]
+Seat 1: NiekeVL (big blind) showed [Qd Js] and won (906) with a straight, Eight to Queen
+Seat 2: HomerChipson (button) showed [Ad Ah] and lost with a pair of Aces
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #243451646810: Tournament #3585729019, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/05/02 21:15:53 CET [2023/05/02 15:15:53 ET]
+Table '3585729019 1' 3-max Seat #3 is the button
+Seat 1: NiekeVL (906 in chips) 
+Seat 2: HomerChipson (124 in chips) 
+Seat 3: Mahu2021 (470 in chips) 
+NiekeVL: posts small blind 10
+HomerChipson: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d 9s]
+Mahu2021: folds 
+NiekeVL: calls 10
+HomerChipson: checks 
+*** FLOP *** [Tc Kd 3h]
+NiekeVL: bets 20
+HomerChipson: folds 
+Uncalled bet (20) returned to NiekeVL
+NiekeVL collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Tc Kd 3h]
+Seat 1: NiekeVL (small blind) collected (40)
+Seat 2: HomerChipson (big blind) folded on the Flop
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #243451652169: Tournament #3585729019, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/05/02 21:16:07 CET [2023/05/02 15:16:07 ET]
+Table '3585729019 1' 3-max Seat #1 is the button
+Seat 1: NiekeVL (926 in chips) 
+Seat 2: HomerChipson (104 in chips) 
+Seat 3: Mahu2021 (470 in chips) 
+HomerChipson: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad 3c]
+NiekeVL: calls 20
+HomerChipson: folds 
+Mahu2021: checks 
+*** FLOP *** [6s Tc Kh]
+Mahu2021: checks 
+NiekeVL: bets 20
+Mahu2021: folds 
+Uncalled bet (20) returned to NiekeVL
+NiekeVL collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [6s Tc Kh]
+Seat 1: NiekeVL (button) collected (50)
+Seat 2: HomerChipson (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #243451659072: Tournament #3585729019, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/05/02 21:16:25 CET [2023/05/02 15:16:25 ET]
+Table '3585729019 1' 3-max Seat #2 is the button
+Seat 1: NiekeVL (956 in chips) 
+Seat 2: HomerChipson (94 in chips) 
+Seat 3: Mahu2021 (450 in chips) 
+Mahu2021: posts small blind 10
+NiekeVL: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d Tc]
+HomerChipson: folds 
+Mahu2021: calls 10
+NiekeVL: checks 
+*** FLOP *** [Qc 4c 8d]
+Mahu2021: bets 20
+NiekeVL: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Qc 4c 8d]
+Seat 1: NiekeVL (big blind) folded on the Flop
+Seat 2: HomerChipson (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) collected (40)
+
+
+
+PokerStars Hand #243451664823: Tournament #3585729019, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/05/02 21:16:40 CET [2023/05/02 15:16:40 ET]
+Table '3585729019 1' 3-max Seat #3 is the button
+Seat 1: NiekeVL (936 in chips) 
+Seat 2: HomerChipson (94 in chips) 
+Seat 3: Mahu2021 (470 in chips) 
+NiekeVL: posts small blind 10
+HomerChipson: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3c 4d]
+Mahu2021: folds 
+NiekeVL: folds 
+Uncalled bet (10) returned to HomerChipson
+HomerChipson collected 20 from pot
+HomerChipson: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: NiekeVL (small blind) folded before Flop
+Seat 2: HomerChipson (big blind) collected (20)
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #243451667035: Tournament #3585729019, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/05/02 21:16:46 CET [2023/05/02 15:16:46 ET]
+Table '3585729019 1' 3-max Seat #1 is the button
+Seat 1: NiekeVL (926 in chips) 
+Seat 2: HomerChipson (104 in chips) 
+Seat 3: Mahu2021 (470 in chips) 
+HomerChipson: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d 2c]
+NiekeVL: folds 
+HomerChipson: raises 84 to 104 and is all-in
+Mahu2021: folds 
+Uncalled bet (84) returned to HomerChipson
+HomerChipson collected 40 from pot
+HomerChipson: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: NiekeVL (button) folded before Flop (didn't bet)
+Seat 2: HomerChipson (small blind) collected (40)
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #243451673853: Tournament #3585729019, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/05/02 21:17:04 CET [2023/05/02 15:17:04 ET]
+Table '3585729019 1' 3-max Seat #2 is the button
+Seat 1: NiekeVL (926 in chips) 
+Seat 2: HomerChipson (124 in chips) 
+Seat 3: Mahu2021 (450 in chips) 
+Mahu2021: posts small blind 10
+NiekeVL: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qs 4h]
+HomerChipson: folds 
+Mahu2021: folds 
+Uncalled bet (10) returned to NiekeVL
+NiekeVL collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: NiekeVL (big blind) collected (20)
+Seat 2: HomerChipson (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #243451677371: Tournament #3585729019, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/05/02 21:17:13 CET [2023/05/02 15:17:13 ET]
+Table '3585729019 1' 3-max Seat #3 is the button
+Seat 1: NiekeVL (936 in chips) 
+Seat 2: HomerChipson (124 in chips) 
+Seat 3: Mahu2021 (440 in chips) 
+NiekeVL: posts small blind 10
+HomerChipson: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h 4s]
+Mahu2021: folds 
+NiekeVL: raises 40 to 60
+HomerChipson: folds 
+Uncalled bet (40) returned to NiekeVL
+NiekeVL collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: NiekeVL (small blind) collected (40)
+Seat 2: HomerChipson (big blind) folded before Flop
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #243451681341: Tournament #3585729019, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/05/02 21:17:24 CET [2023/05/02 15:17:24 ET]
+Table '3585729019 1' 3-max Seat #1 is the button
+Seat 1: NiekeVL (956 in chips) 
+Seat 2: HomerChipson (104 in chips) 
+Seat 3: Mahu2021 (440 in chips) 
+HomerChipson: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc 5s]
+NiekeVL: raises 20 to 40
+HomerChipson: folds 
+Mahu2021: folds 
+Uncalled bet (20) returned to NiekeVL
+NiekeVL collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: NiekeVL (button) collected (50)
+Seat 2: HomerChipson (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #243451687850: Tournament #3585729019, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/05/02 21:17:41 CET [2023/05/02 15:17:41 ET]
+Table '3585729019 1' 3-max Seat #2 is the button
+Seat 1: NiekeVL (986 in chips) 
+Seat 2: HomerChipson (94 in chips) 
+Seat 3: Mahu2021 (420 in chips) 
+Mahu2021: posts small blind 15
+NiekeVL: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As 9h]
+HomerChipson: folds 
+Mahu2021: raises 30 to 60
+NiekeVL: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: NiekeVL (big blind) folded before Flop
+Seat 2: HomerChipson (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) collected (60)
+
+
+
+PokerStars Hand #243451692535: Tournament #3585729019, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/05/02 21:17:53 CET [2023/05/02 15:17:53 ET]
+Table '3585729019 1' 3-max Seat #3 is the button
+Seat 1: NiekeVL (956 in chips) 
+Seat 2: HomerChipson (94 in chips) 
+Seat 3: Mahu2021 (450 in chips) 
+NiekeVL: posts small blind 15
+HomerChipson: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s 6d]
+Mahu2021: raises 30 to 60
+NiekeVL: raises 896 to 956 and is all-in
+HomerChipson: folds 
+Mahu2021: folds 
+Uncalled bet (896) returned to NiekeVL
+NiekeVL collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Seat 1: NiekeVL (small blind) collected (150)
+Seat 2: HomerChipson (big blind) folded before Flop
+Seat 3: Mahu2021 (button) folded before Flop
+
+
+
+PokerStars Hand #243451698994: Tournament #3585729019, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/05/02 21:18:10 CET [2023/05/02 15:18:10 ET]
+Table '3585729019 1' 3-max Seat #1 is the button
+Seat 1: NiekeVL (1046 in chips) 
+Seat 2: HomerChipson (64 in chips) 
+Seat 3: Mahu2021 (390 in chips) 
+HomerChipson: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Tc 6c]
+NiekeVL: raises 30 to 60
+HomerChipson: raises 4 to 64 and is all-in
+Mahu2021: calls 34
+NiekeVL: calls 4
+*** FLOP *** [7h 5d Jh]
+Mahu2021: checks 
+NiekeVL: bets 60
+Mahu2021: folds 
+Uncalled bet (60) returned to NiekeVL
+*** TURN *** [7h 5d Jh] [Kh]
+*** RIVER *** [7h 5d Jh Kh] [Jc]
+*** SHOW DOWN ***
+HomerChipson: shows [7c Js] (a full house, Jacks full of Sevens)
+NiekeVL: shows [6s Ks] (two pair, Kings and Jacks)
+HomerChipson collected 192 from pot
+*** SUMMARY ***
+Total pot 192 | Rake 0 
+Board [7h 5d Jh Kh Jc]
+Seat 1: NiekeVL (button) showed [6s Ks] and lost with two pair, Kings and Jacks
+Seat 2: HomerChipson (small blind) showed [7c Js] and won (192) with a full house, Jacks full of Sevens
+Seat 3: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #243451708910: Tournament #3585729019, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/05/02 21:18:37 CET [2023/05/02 15:18:37 ET]
+Table '3585729019 1' 3-max Seat #2 is the button
+Seat 1: NiekeVL (982 in chips) 
+Seat 2: HomerChipson (192 in chips) 
+Seat 3: Mahu2021 (326 in chips) 
+Mahu2021: posts small blind 15
+NiekeVL: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s Ts]
+HomerChipson: raises 162 to 192 and is all-in
+Mahu2021: folds 
+NiekeVL: calls 162
+*** FLOP *** [3c 9c 8s]
+*** TURN *** [3c 9c 8s] [3s]
+*** RIVER *** [3c 9c 8s 3s] [Tc]
+*** SHOW DOWN ***
+NiekeVL: shows [Qs Ad] (a pair of Threes)
+HomerChipson: shows [3h As] (three of a kind, Threes)
+HomerChipson collected 399 from pot
+*** SUMMARY ***
+Total pot 399 | Rake 0 
+Board [3c 9c 8s 3s Tc]
+Seat 1: NiekeVL (big blind) showed [Qs Ad] and lost with a pair of Threes
+Seat 2: HomerChipson (button) showed [3h As] and won (399) with three of a kind, Threes
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #243451714901: Tournament #3585729019, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/05/02 21:18:52 CET [2023/05/02 15:18:52 ET]
+Table '3585729019 1' 3-max Seat #3 is the button
+Seat 1: NiekeVL (790 in chips) 
+Seat 2: HomerChipson (399 in chips) 
+Seat 3: Mahu2021 (311 in chips) 
+NiekeVL: posts small blind 15
+HomerChipson: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8d 8s]
+Mahu2021: raises 60 to 90
+NiekeVL: folds 
+HomerChipson: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 75 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: NiekeVL (small blind) folded before Flop
+Seat 2: HomerChipson (big blind) folded before Flop
+Seat 3: Mahu2021 (button) collected (75)
+
+
+
+PokerStars Hand #243451719504: Tournament #3585729019, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/05/02 21:19:05 CET [2023/05/02 15:19:05 ET]
+Table '3585729019 1' 3-max Seat #1 is the button
+Seat 1: NiekeVL (775 in chips) 
+Seat 2: HomerChipson (369 in chips) 
+Seat 3: Mahu2021 (356 in chips) 
+HomerChipson: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As Ah]
+NiekeVL: folds 
+HomerChipson: calls 15
+Mahu2021: raises 326 to 356 and is all-in
+HomerChipson: folds 
+Uncalled bet (326) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: NiekeVL (button) folded before Flop (didn't bet)
+Seat 2: HomerChipson (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (60)
+
+
+
+PokerStars Hand #243451724140: Tournament #3585729019, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/05/02 21:19:17 CET [2023/05/02 15:19:17 ET]
+Table '3585729019 1' 3-max Seat #2 is the button
+Seat 1: NiekeVL (775 in chips) 
+Seat 2: HomerChipson (339 in chips) 
+Seat 3: Mahu2021 (386 in chips) 
+Mahu2021: posts small blind 15
+NiekeVL: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s Th]
+HomerChipson: raises 36 to 66
+Mahu2021: folds 
+NiekeVL: folds 
+Uncalled bet (36) returned to HomerChipson
+HomerChipson collected 75 from pot
+HomerChipson: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: NiekeVL (big blind) folded before Flop
+Seat 2: HomerChipson (button) collected (75)
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #243451730063: Tournament #3585729019, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/05/02 21:19:33 CET [2023/05/02 15:19:33 ET]
+Table '3585729019 1' 3-max Seat #3 is the button
+Seat 1: NiekeVL (745 in chips) 
+Seat 2: HomerChipson (384 in chips) 
+Seat 3: Mahu2021 (371 in chips) 
+NiekeVL: posts small blind 15
+HomerChipson: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Th 2d]
+Mahu2021: folds 
+NiekeVL: folds 
+Uncalled bet (15) returned to HomerChipson
+HomerChipson collected 30 from pot
+HomerChipson: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: NiekeVL (small blind) folded before Flop
+Seat 2: HomerChipson (big blind) collected (30)
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #243451731816: Tournament #3585729019, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/05/02 21:19:37 CET [2023/05/02 15:19:37 ET]
+Table '3585729019 1' 3-max Seat #1 is the button
+Seat 1: NiekeVL (730 in chips) 
+Seat 2: HomerChipson (399 in chips) 
+Seat 3: Mahu2021 (371 in chips) 
+HomerChipson: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac 6c]
+NiekeVL: folds 
+HomerChipson: raises 37 to 67
+Mahu2021: calls 37
+*** FLOP *** [Qs Jh 3h]
+HomerChipson: checks 
+Mahu2021: checks 
+*** TURN *** [Qs Jh 3h] [Kc]
+HomerChipson: bets 57
+Mahu2021: calls 57
+*** RIVER *** [Qs Jh 3h Kc] [Tc]
+HomerChipson: bets 275 and is all-in
+Mahu2021: calls 247 and is all-in
+Uncalled bet (28) returned to HomerChipson
+*** SHOW DOWN ***
+HomerChipson: shows [Td Ad] (a straight, Ten to Ace)
+Mahu2021: shows [Ac 6c] (a straight, Ten to Ace)
+HomerChipson collected 371 from pot
+Mahu2021 collected 371 from pot
+*** SUMMARY ***
+Total pot 742 | Rake 0 
+Board [Qs Jh 3h Kc Tc]
+Seat 1: NiekeVL (button) folded before Flop (didn't bet)
+Seat 2: HomerChipson (small blind) showed [Td Ad] and won (371) with a straight, Ten to Ace
+Seat 3: Mahu2021 (big blind) showed [Ac 6c] and won (371) with a straight, Ten to Ace
+
+
+
+PokerStars Hand #243451749850: Tournament #3585729019, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/05/02 21:20:24 CET [2023/05/02 15:20:24 ET]
+Table '3585729019 1' 3-max Seat #2 is the button
+Seat 1: NiekeVL (730 in chips) 
+Seat 2: HomerChipson (399 in chips) 
+Seat 3: Mahu2021 (371 in chips) 
+Mahu2021: posts small blind 15
+NiekeVL: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d 3d]
+HomerChipson: raises 36 to 66
+Mahu2021: folds 
+NiekeVL: calls 36
+*** FLOP *** [7s Kh Kd]
+NiekeVL: checks 
+HomerChipson: bets 61
+NiekeVL: folds 
+Uncalled bet (61) returned to HomerChipson
+HomerChipson collected 147 from pot
+HomerChipson: doesn't show hand 
+*** SUMMARY ***
+Total pot 147 | Rake 0 
+Board [7s Kh Kd]
+Seat 1: NiekeVL (big blind) folded on the Flop
+Seat 2: HomerChipson (button) collected (147)
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #243451759671: Tournament #3585729019, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/05/02 21:20:50 CET [2023/05/02 15:20:50 ET]
+Table '3585729019 1' 3-max Seat #3 is the button
+Seat 1: NiekeVL (664 in chips) 
+Seat 2: HomerChipson (480 in chips) 
+Seat 3: Mahu2021 (356 in chips) 
+NiekeVL: posts small blind 20
+HomerChipson: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh 8d]
+Mahu2021: folds 
+NiekeVL: raises 624 to 664 and is all-in
+HomerChipson: folds 
+Uncalled bet (624) returned to NiekeVL
+NiekeVL collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: NiekeVL (small blind) collected (80)
+Seat 2: HomerChipson (big blind) folded before Flop
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #243451766713: Tournament #3585729019, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/05/02 21:21:08 CET [2023/05/02 15:21:08 ET]
+Table '3585729019 1' 3-max Seat #1 is the button
+Seat 1: NiekeVL (704 in chips) 
+Seat 2: HomerChipson (440 in chips) 
+Seat 3: Mahu2021 (356 in chips) 
+HomerChipson: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h Ts]
+NiekeVL: folds 
+HomerChipson: raises 400 to 440 and is all-in
+Mahu2021: folds 
+Uncalled bet (400) returned to HomerChipson
+HomerChipson collected 80 from pot
+HomerChipson: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: NiekeVL (button) folded before Flop (didn't bet)
+Seat 2: HomerChipson (small blind) collected (80)
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #243451772092: Tournament #3585729019, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/05/02 21:21:22 CET [2023/05/02 15:21:22 ET]
+Table '3585729019 1' 3-max Seat #2 is the button
+Seat 1: NiekeVL (704 in chips) 
+Seat 2: HomerChipson (480 in chips) 
+Seat 3: Mahu2021 (316 in chips) 
+Mahu2021: posts small blind 20
+NiekeVL: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh 3c]
+HomerChipson: folds 
+Mahu2021: calls 20
+NiekeVL: checks 
+*** FLOP *** [Jc 6s 8d]
+Mahu2021: bets 40
+NiekeVL: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Jc 6s 8d]
+Seat 1: NiekeVL (big blind) folded on the Flop
+Seat 2: HomerChipson (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) collected (80)
+
+
+
+PokerStars Hand #243451778623: Tournament #3585729019, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/05/02 21:21:39 CET [2023/05/02 15:21:39 ET]
+Table '3585729019 1' 3-max Seat #3 is the button
+Seat 1: NiekeVL (664 in chips) 
+Seat 2: HomerChipson (480 in chips) 
+Seat 3: Mahu2021 (356 in chips) 
+NiekeVL: posts small blind 20
+HomerChipson: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd 2c]
+Mahu2021: folds 
+NiekeVL: calls 20
+HomerChipson: checks 
+*** FLOP *** [8h Kd Ac]
+NiekeVL: checks 
+HomerChipson: bets 42
+NiekeVL: folds 
+Uncalled bet (42) returned to HomerChipson
+HomerChipson collected 80 from pot
+HomerChipson: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [8h Kd Ac]
+Seat 1: NiekeVL (small blind) folded on the Flop
+Seat 2: HomerChipson (big blind) collected (80)
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #243451786974: Tournament #3585729019, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/05/02 21:22:01 CET [2023/05/02 15:22:01 ET]
+Table '3585729019 1' 3-max Seat #1 is the button
+Seat 1: NiekeVL (624 in chips) 
+Seat 2: HomerChipson (520 in chips) 
+Seat 3: Mahu2021 (356 in chips) 
+HomerChipson: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h Ks]
+NiekeVL: folds 
+HomerChipson: calls 20
+Mahu2021: checks 
+*** FLOP *** [Qh 9c 8c]
+HomerChipson: checks 
+Mahu2021: checks 
+*** TURN *** [Qh 9c 8c] [2s]
+HomerChipson: bets 42
+Mahu2021: folds 
+Uncalled bet (42) returned to HomerChipson
+HomerChipson collected 80 from pot
+HomerChipson: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Qh 9c 8c 2s]
+Seat 1: NiekeVL (button) folded before Flop (didn't bet)
+Seat 2: HomerChipson (small blind) collected (80)
+Seat 3: Mahu2021 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #243451793861: Tournament #3585729019, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/05/02 21:22:19 CET [2023/05/02 15:22:19 ET]
+Table '3585729019 1' 3-max Seat #2 is the button
+Seat 1: NiekeVL (624 in chips) 
+Seat 2: HomerChipson (560 in chips) 
+Seat 3: Mahu2021 (316 in chips) 
+Mahu2021: posts small blind 20
+NiekeVL: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad Qd]
+HomerChipson: folds 
+Mahu2021: raises 80 to 120
+NiekeVL: folds 
+Uncalled bet (80) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: NiekeVL (big blind) folded before Flop
+Seat 2: HomerChipson (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) collected (80)
+
+
+
+PokerStars Hand #243451797921: Tournament #3585729019, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/05/02 21:22:30 CET [2023/05/02 15:22:30 ET]
+Table '3585729019 1' 3-max Seat #3 is the button
+Seat 1: NiekeVL (584 in chips) 
+Seat 2: HomerChipson (560 in chips) 
+Seat 3: Mahu2021 (356 in chips) 
+NiekeVL: posts small blind 20
+HomerChipson: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad 3c]
+Mahu2021: calls 40
+NiekeVL: raises 544 to 584 and is all-in
+HomerChipson: folds 
+Mahu2021: folds 
+Uncalled bet (544) returned to NiekeVL
+NiekeVL collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: NiekeVL (small blind) collected (120)
+Seat 2: HomerChipson (big blind) folded before Flop
+Seat 3: Mahu2021 (button) folded before Flop
+
+
+
+PokerStars Hand #243451803619: Tournament #3585729019, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/05/02 21:22:45 CET [2023/05/02 15:22:45 ET]
+Table '3585729019 1' 3-max Seat #1 is the button
+Seat 1: NiekeVL (664 in chips) 
+Seat 2: HomerChipson (520 in chips) 
+Seat 3: Mahu2021 (316 in chips) 
+HomerChipson: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd 2c]
+NiekeVL: folds 
+HomerChipson: raises 480 to 520 and is all-in
+Mahu2021: folds 
+Uncalled bet (480) returned to HomerChipson
+HomerChipson collected 80 from pot
+HomerChipson: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: NiekeVL (button) folded before Flop (didn't bet)
+Seat 2: HomerChipson (small blind) collected (80)
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #243451808916: Tournament #3585729019, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/05/02 21:23:00 CET [2023/05/02 15:23:00 ET]
+Table '3585729019 1' 3-max Seat #2 is the button
+Seat 1: NiekeVL (664 in chips) 
+Seat 2: HomerChipson (560 in chips) 
+Seat 3: Mahu2021 (276 in chips) 
+Mahu2021: posts small blind 20
+NiekeVL: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h 6d]
+HomerChipson: raises 48 to 88
+Mahu2021: folds 
+NiekeVL: folds 
+Uncalled bet (48) returned to HomerChipson
+HomerChipson collected 100 from pot
+HomerChipson: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: NiekeVL (big blind) folded before Flop
+Seat 2: HomerChipson (button) collected (100)
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #243451814470: Tournament #3585729019, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/05/02 21:23:14 CET [2023/05/02 15:23:14 ET]
+Table '3585729019 1' 3-max Seat #3 is the button
+Seat 1: NiekeVL (624 in chips) 
+Seat 2: HomerChipson (620 in chips) 
+Seat 3: Mahu2021 (256 in chips) 
+NiekeVL: posts small blind 20
+HomerChipson: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s 9d]
+Mahu2021: calls 40
+NiekeVL: calls 20
+HomerChipson: checks 
+*** FLOP *** [Ah 8c Qs]
+NiekeVL: checks 
+HomerChipson: checks 
+Mahu2021: bets 40
+NiekeVL: calls 40
+HomerChipson: folds 
+*** TURN *** [Ah 8c Qs] [8d]
+NiekeVL: checks 
+Mahu2021: checks 
+*** RIVER *** [Ah 8c Qs 8d] [2h]
+NiekeVL: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+NiekeVL: shows [Jd Qc] (two pair, Queens and Eights)
+Mahu2021: mucks hand 
+NiekeVL collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [Ah 8c Qs 8d 2h]
+Seat 1: NiekeVL (small blind) showed [Jd Qc] and won (200) with two pair, Queens and Eights
+Seat 2: HomerChipson (big blind) folded on the Flop
+Seat 3: Mahu2021 (button) mucked [9s 9d]
+
+
+
+PokerStars Hand #243451830302: Tournament #3585729019, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/05/02 21:23:56 CET [2023/05/02 15:23:56 ET]
+Table '3585729019 1' 3-max Seat #1 is the button
+Seat 1: NiekeVL (744 in chips) 
+Seat 2: HomerChipson (580 in chips) 
+Seat 3: Mahu2021 (176 in chips) 
+HomerChipson: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d Th]
+NiekeVL: raises 150 to 210
+HomerChipson: folds 
+Mahu2021: folds 
+Uncalled bet (150) returned to NiekeVL
+NiekeVL collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Seat 1: NiekeVL (button) collected (150)
+Seat 2: HomerChipson (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #243451833327: Tournament #3585729019, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/05/02 21:24:04 CET [2023/05/02 15:24:04 ET]
+Table '3585729019 1' 3-max Seat #2 is the button
+Seat 1: NiekeVL (834 in chips) 
+Seat 2: HomerChipson (550 in chips) 
+Seat 3: Mahu2021 (116 in chips) 
+Mahu2021: posts small blind 30
+NiekeVL: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3c 2h]
+HomerChipson: raises 490 to 550 and is all-in
+Mahu2021: folds 
+NiekeVL: folds 
+Uncalled bet (490) returned to HomerChipson
+HomerChipson collected 150 from pot
+HomerChipson: doesn't show hand 
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Seat 1: NiekeVL (big blind) folded before Flop
+Seat 2: HomerChipson (button) collected (150)
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #243451836702: Tournament #3585729019, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/05/02 21:24:13 CET [2023/05/02 15:24:13 ET]
+Table '3585729019 1' 3-max Seat #3 is the button
+Seat 1: NiekeVL (774 in chips) 
+Seat 2: HomerChipson (640 in chips) 
+Seat 3: Mahu2021 (86 in chips) 
+NiekeVL: posts small blind 30
+HomerChipson: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js 7d]
+Mahu2021: raises 26 to 86 and is all-in
+NiekeVL: folds 
+HomerChipson: calls 26
+*** FLOP *** [8h 4d Kd]
+*** TURN *** [8h 4d Kd] [Ac]
+*** RIVER *** [8h 4d Kd Ac] [6c]
+*** SHOW DOWN ***
+HomerChipson: shows [Jh 2s] (high card Ace)
+Mahu2021: shows [Js 7d] (high card Ace - King+Jack+Eight+Seven kicker)
+Mahu2021 collected 202 from pot
+*** SUMMARY ***
+Total pot 202 | Rake 0 
+Board [8h 4d Kd Ac 6c]
+Seat 1: NiekeVL (small blind) folded before Flop
+Seat 2: HomerChipson (big blind) showed [Jh 2s] and lost with high card Ace
+Seat 3: Mahu2021 (button) showed [Js 7d] and won (202) with high card Ace
+
+
+
+PokerStars Hand #243451842986: Tournament #3585729019, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/05/02 21:24:29 CET [2023/05/02 15:24:29 ET]
+Table '3585729019 1' 3-max Seat #1 is the button
+Seat 1: NiekeVL (744 in chips) 
+Seat 2: HomerChipson (554 in chips) 
+Seat 3: Mahu2021 (202 in chips) 
+HomerChipson: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d 4c]
+NiekeVL: calls 60
+HomerChipson: folds 
+Mahu2021: checks 
+*** FLOP *** [7h 7s 9c]
+Mahu2021: checks 
+NiekeVL: bets 60
+Mahu2021: folds 
+Uncalled bet (60) returned to NiekeVL
+NiekeVL collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Board [7h 7s 9c]
+Seat 1: NiekeVL (button) collected (150)
+Seat 2: HomerChipson (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #243451849306: Tournament #3585729019, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/05/02 21:24:46 CET [2023/05/02 15:24:46 ET]
+Table '3585729019 1' 3-max Seat #2 is the button
+Seat 1: NiekeVL (834 in chips) 
+Seat 2: HomerChipson (524 in chips) 
+Seat 3: Mahu2021 (142 in chips) 
+Mahu2021: posts small blind 30
+NiekeVL: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s 6h]
+HomerChipson: raises 72 to 132
+Mahu2021: folds 
+NiekeVL: calls 72
+*** FLOP *** [5c Th 8c]
+NiekeVL: checks 
+HomerChipson: bets 124
+NiekeVL: folds 
+Uncalled bet (124) returned to HomerChipson
+HomerChipson collected 294 from pot
+HomerChipson: doesn't show hand 
+*** SUMMARY ***
+Total pot 294 | Rake 0 
+Board [5c Th 8c]
+Seat 1: NiekeVL (big blind) folded on the Flop
+Seat 2: HomerChipson (button) collected (294)
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #243451857423: Tournament #3585729019, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/05/02 21:25:08 CET [2023/05/02 15:25:08 ET]
+Table '3585729019 1' 3-max Seat #3 is the button
+Seat 1: NiekeVL (702 in chips) 
+Seat 2: HomerChipson (686 in chips) 
+Seat 3: Mahu2021 (112 in chips) 
+NiekeVL: posts small blind 30
+HomerChipson: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qs 5s]
+Mahu2021: raises 52 to 112 and is all-in
+NiekeVL: folds 
+HomerChipson: calls 52
+*** FLOP *** [Jh 7s 3c]
+*** TURN *** [Jh 7s 3c] [Jd]
+*** RIVER *** [Jh 7s 3c Jd] [Js]
+*** SHOW DOWN ***
+HomerChipson: shows [8h Kd] (three of a kind, Jacks)
+Mahu2021: shows [Qs 5s] (three of a kind, Jacks - lower kicker)
+HomerChipson collected 254 from pot
+Mahu2021 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 254 | Rake 0 
+Board [Jh 7s 3c Jd Js]
+Seat 1: NiekeVL (small blind) folded before Flop
+Seat 2: HomerChipson (big blind) showed [8h Kd] and won (254) with three of a kind, Jacks
+Seat 3: Mahu2021 (button) showed [Qs 5s] and lost with three of a kind, Jacks
+
+
+

@@ -1,0 +1,1072 @@
+﻿PokerStars Hand #248892467510: Tournament #3716038991, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/02/15 15:26:07 CET [2024/02/15 9:26:07 ET]
+Table '3716038991 1' 3-max Seat #1 is the button
+Seat 1: VOVAOVA (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: Tioke11 (500 in chips) 
+Mahu2021: posts small blind 10
+Tioke11: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s Jc]
+VOVAOVA: calls 20
+Mahu2021: folds 
+Tioke11: checks 
+*** FLOP *** [Ac 2s 3c]
+Tioke11: checks 
+VOVAOVA: checks 
+*** TURN *** [Ac 2s 3c] [3s]
+Tioke11: bets 20
+VOVAOVA: folds 
+Uncalled bet (20) returned to Tioke11
+Tioke11 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [Ac 2s 3c 3s]
+Seat 1: VOVAOVA (button) folded on the Turn
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: Tioke11 (big blind) collected (50)
+
+
+
+PokerStars Hand #248892470518: Tournament #3716038991, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/02/15 15:26:22 CET [2024/02/15 9:26:22 ET]
+Table '3716038991 1' 3-max Seat #2 is the button
+Seat 1: VOVAOVA (480 in chips) 
+Seat 2: Mahu2021 (490 in chips) 
+Seat 3: Tioke11 (530 in chips) 
+Tioke11: posts small blind 10
+VOVAOVA: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h Jc]
+Mahu2021: folds 
+Tioke11: calls 10
+VOVAOVA: checks 
+*** FLOP *** [Qd 2h Jh]
+Tioke11: checks 
+VOVAOVA: checks 
+*** TURN *** [Qd 2h Jh] [3h]
+Tioke11: checks 
+VOVAOVA: checks 
+*** RIVER *** [Qd 2h Jh 3h] [5d]
+Tioke11: checks 
+VOVAOVA: checks 
+*** SHOW DOWN ***
+Tioke11: shows [8d 7d] (high card Queen)
+VOVAOVA: shows [9d 7s] (high card Queen - Jack+Nine kicker)
+VOVAOVA collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Qd 2h Jh 3h 5d]
+Seat 1: VOVAOVA (big blind) showed [9d 7s] and won (40) with high card Queen
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: Tioke11 (small blind) showed [8d 7d] and lost with high card Queen
+
+
+
+PokerStars Hand #248892473875: Tournament #3716038991, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/02/15 15:26:38 CET [2024/02/15 9:26:38 ET]
+Table '3716038991 1' 3-max Seat #3 is the button
+Seat 1: VOVAOVA (500 in chips) 
+Seat 2: Mahu2021 (490 in chips) 
+Seat 3: Tioke11 (510 in chips) 
+VOVAOVA: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8s 8h]
+Tioke11: calls 20
+VOVAOVA: raises 20 to 40
+Mahu2021: calls 20
+Tioke11: calls 20
+*** FLOP *** [Ad 7h 7c]
+VOVAOVA: bets 20
+Mahu2021: folds 
+Tioke11: folds 
+Uncalled bet (20) returned to VOVAOVA
+VOVAOVA collected 120 from pot
+VOVAOVA: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Ad 7h 7c]
+Seat 1: VOVAOVA (small blind) collected (120)
+Seat 2: Mahu2021 (big blind) folded on the Flop
+Seat 3: Tioke11 (button) folded on the Flop
+
+
+
+PokerStars Hand #248892477073: Tournament #3716038991, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/02/15 15:26:53 CET [2024/02/15 9:26:53 ET]
+Table '3716038991 1' 3-max Seat #1 is the button
+Seat 1: VOVAOVA (580 in chips) 
+Seat 2: Mahu2021 (450 in chips) 
+Seat 3: Tioke11 (470 in chips) 
+Mahu2021: posts small blind 10
+Tioke11: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3c 6c]
+VOVAOVA: raises 20 to 40
+Mahu2021: calls 30
+Tioke11: calls 20
+*** FLOP *** [Kd 5c 6h]
+Mahu2021: checks 
+Tioke11: checks 
+VOVAOVA: bets 20
+Mahu2021: calls 20
+Tioke11: calls 20
+*** TURN *** [Kd 5c 6h] [5h]
+Mahu2021: checks 
+Tioke11: checks 
+VOVAOVA: checks 
+*** RIVER *** [Kd 5c 6h 5h] [Qh]
+Mahu2021: checks 
+Tioke11: checks 
+VOVAOVA: bets 80
+Mahu2021: folds 
+Tioke11: calls 80
+*** SHOW DOWN ***
+VOVAOVA: shows [Qc Ac] (two pair, Queens and Fives)
+Tioke11: mucks hand 
+VOVAOVA collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | Rake 0 
+Board [Kd 5c 6h 5h Qh]
+Seat 1: VOVAOVA (button) showed [Qc Ac] and won (340) with two pair, Queens and Fives
+Seat 2: Mahu2021 (small blind) folded on the River
+Seat 3: Tioke11 (big blind) mucked [4c 4d]
+
+
+
+PokerStars Hand #248892482257: Tournament #3716038991, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/02/15 15:27:18 CET [2024/02/15 9:27:18 ET]
+Table '3716038991 1' 3-max Seat #2 is the button
+Seat 1: VOVAOVA (780 in chips) 
+Seat 2: Mahu2021 (390 in chips) 
+Seat 3: Tioke11 (330 in chips) 
+Tioke11: posts small blind 10
+VOVAOVA: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4d Ah]
+Mahu2021: raises 20 to 40
+Tioke11: calls 30
+VOVAOVA: calls 20
+*** FLOP *** [4c Ad Qc]
+Tioke11: checks 
+VOVAOVA: checks 
+Mahu2021: bets 40
+Tioke11: calls 40
+VOVAOVA: folds 
+*** TURN *** [4c Ad Qc] [8c]
+Tioke11: checks 
+Mahu2021: bets 310 and is all-in
+Tioke11: folds 
+Uncalled bet (310) returned to Mahu2021
+Mahu2021 collected 200 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [4c Ad Qc 8c]
+Seat 1: VOVAOVA (big blind) folded on the Flop
+Seat 2: Mahu2021 (button) collected (200)
+Seat 3: Tioke11 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #248892485871: Tournament #3716038991, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/02/15 15:27:35 CET [2024/02/15 9:27:35 ET]
+Table '3716038991 1' 3-max Seat #3 is the button
+Seat 1: VOVAOVA (740 in chips) 
+Seat 2: Mahu2021 (510 in chips) 
+Seat 3: Tioke11 (250 in chips) 
+VOVAOVA: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s 9c]
+Tioke11: raises 20 to 40
+VOVAOVA: folds 
+Mahu2021: calls 20
+*** FLOP *** [Ts Qh 4h]
+Mahu2021: checks 
+Tioke11: bets 40
+Mahu2021: folds 
+Uncalled bet (40) returned to Tioke11
+Tioke11 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [Ts Qh 4h]
+Seat 1: VOVAOVA (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) folded on the Flop
+Seat 3: Tioke11 (button) collected (90)
+
+
+
+PokerStars Hand #248892488037: Tournament #3716038991, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/02/15 15:27:46 CET [2024/02/15 9:27:46 ET]
+Table '3716038991 1' 3-max Seat #1 is the button
+Seat 1: VOVAOVA (730 in chips) 
+Seat 2: Mahu2021 (470 in chips) 
+Seat 3: Tioke11 (300 in chips) 
+Mahu2021: posts small blind 10
+Tioke11: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s Jd]
+VOVAOVA: calls 20
+Mahu2021: folds 
+Tioke11: checks 
+*** FLOP *** [7d 9h 3d]
+Tioke11: bets 40
+VOVAOVA: calls 40
+*** TURN *** [7d 9h 3d] [Jh]
+Tioke11: bets 40
+VOVAOVA: folds 
+Uncalled bet (40) returned to Tioke11
+Tioke11 collected 130 from pot
+*** SUMMARY ***
+Total pot 130 | Rake 0 
+Board [7d 9h 3d Jh]
+Seat 1: VOVAOVA (button) folded on the Turn
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: Tioke11 (big blind) collected (130)
+
+
+
+PokerStars Hand #248892494114: Tournament #3716038991, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/02/15 15:28:15 CET [2024/02/15 9:28:15 ET]
+Table '3716038991 1' 3-max Seat #2 is the button
+Seat 1: VOVAOVA (670 in chips) 
+Seat 2: Mahu2021 (460 in chips) 
+Seat 3: Tioke11 (370 in chips) 
+Tioke11: posts small blind 15
+VOVAOVA: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c Ks]
+Mahu2021: raises 30 to 60
+Tioke11: folds 
+VOVAOVA: calls 30
+*** FLOP *** [3d Jd Ah]
+VOVAOVA: checks 
+Mahu2021: bets 60
+VOVAOVA: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 135 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 135 | Rake 0 
+Board [3d Jd Ah]
+Seat 1: VOVAOVA (big blind) folded on the Flop
+Seat 2: Mahu2021 (button) collected (135)
+Seat 3: Tioke11 (small blind) folded before Flop
+
+
+
+PokerStars Hand #248892497097: Tournament #3716038991, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/02/15 15:28:29 CET [2024/02/15 9:28:29 ET]
+Table '3716038991 1' 3-max Seat #3 is the button
+Seat 1: VOVAOVA (610 in chips) 
+Seat 2: Mahu2021 (535 in chips) 
+Seat 3: Tioke11 (355 in chips) 
+VOVAOVA: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s 3d]
+Tioke11: raises 30 to 60
+VOVAOVA: folds 
+Mahu2021: calls 30
+*** FLOP *** [6c 2s 5h]
+Mahu2021: checks 
+Tioke11: checks 
+*** TURN *** [6c 2s 5h] [5c]
+Mahu2021: checks 
+Tioke11: checks 
+*** RIVER *** [6c 2s 5h 5c] [7c]
+Mahu2021: bets 60
+Tioke11: calls 60
+*** SHOW DOWN ***
+Mahu2021: shows [5s 3d] (three of a kind, Fives)
+Tioke11: mucks hand 
+Mahu2021 collected 255 from pot
+*** SUMMARY ***
+Total pot 255 | Rake 0 
+Board [6c 2s 5h 5c 7c]
+Seat 1: VOVAOVA (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) showed [5s 3d] and won (255) with three of a kind, Fives
+Seat 3: Tioke11 (button) mucked [Ac 7s]
+
+
+
+PokerStars Hand #248892503151: Tournament #3716038991, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/02/15 15:28:58 CET [2024/02/15 9:28:58 ET]
+Table '3716038991 1' 3-max Seat #1 is the button
+Seat 1: VOVAOVA (595 in chips) 
+Seat 2: Mahu2021 (670 in chips) 
+Seat 3: Tioke11 (235 in chips) 
+Mahu2021: posts small blind 15
+Tioke11: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3c 5h]
+VOVAOVA: calls 30
+Mahu2021: calls 15
+Tioke11: checks 
+*** FLOP *** [5c 6h 8s]
+Mahu2021: checks 
+Tioke11: bets 30
+VOVAOVA: folds 
+Mahu2021: calls 30
+*** TURN *** [5c 6h 8s] [6c]
+Mahu2021: checks 
+Tioke11: bets 30
+Mahu2021: calls 30
+*** RIVER *** [5c 6h 8s 6c] [Js]
+Mahu2021: checks 
+Tioke11: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [3c 5h] (two pair, Sixes and Fives)
+Tioke11: shows [8d 3d] (two pair, Eights and Sixes)
+Tioke11 collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | Rake 0 
+Board [5c 6h 8s 6c Js]
+Seat 1: VOVAOVA (button) folded on the Flop
+Seat 2: Mahu2021 (small blind) showed [3c 5h] and lost with two pair, Sixes and Fives
+Seat 3: Tioke11 (big blind) showed [8d 3d] and won (210) with two pair, Eights and Sixes
+
+
+
+PokerStars Hand #248892507860: Tournament #3716038991, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/02/15 15:29:21 CET [2024/02/15 9:29:21 ET]
+Table '3716038991 1' 3-max Seat #2 is the button
+Seat 1: VOVAOVA (565 in chips) 
+Seat 2: Mahu2021 (580 in chips) 
+Seat 3: Tioke11 (355 in chips) 
+Tioke11: posts small blind 15
+VOVAOVA: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d Qh]
+Mahu2021: folds 
+Tioke11: calls 15
+VOVAOVA: checks 
+*** FLOP *** [Jd Ts 7c]
+Tioke11: checks 
+VOVAOVA: bets 30
+Tioke11: folds 
+Uncalled bet (30) returned to VOVAOVA
+VOVAOVA collected 60 from pot
+VOVAOVA: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Jd Ts 7c]
+Seat 1: VOVAOVA (big blind) collected (60)
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: Tioke11 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #248892512231: Tournament #3716038991, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/02/15 15:29:42 CET [2024/02/15 9:29:42 ET]
+Table '3716038991 1' 3-max Seat #3 is the button
+Seat 1: VOVAOVA (595 in chips) 
+Seat 2: Mahu2021 (580 in chips) 
+Seat 3: Tioke11 (325 in chips) 
+VOVAOVA: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d Ts]
+Tioke11: calls 30
+VOVAOVA: calls 15
+Mahu2021: checks 
+*** FLOP *** [7c 2h Qh]
+VOVAOVA: checks 
+Mahu2021: checks 
+Tioke11: bets 30
+VOVAOVA: folds 
+Mahu2021: folds 
+Uncalled bet (30) returned to Tioke11
+Tioke11 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [7c 2h Qh]
+Seat 1: VOVAOVA (small blind) folded on the Flop
+Seat 2: Mahu2021 (big blind) folded on the Flop
+Seat 3: Tioke11 (button) collected (90)
+
+
+
+PokerStars Hand #248892516938: Tournament #3716038991, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/02/15 15:30:05 CET [2024/02/15 9:30:05 ET]
+Table '3716038991 1' 3-max Seat #1 is the button
+Seat 1: VOVAOVA (565 in chips) 
+Seat 2: Mahu2021 (550 in chips) 
+Seat 3: Tioke11 (385 in chips) 
+Mahu2021: posts small blind 15
+Tioke11: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qs 6d]
+VOVAOVA: raises 30 to 60
+Mahu2021: folds 
+Tioke11: calls 30
+*** FLOP *** [Jd 4c 3d]
+Tioke11: checks 
+VOVAOVA: bets 120
+Tioke11: folds 
+Uncalled bet (120) returned to VOVAOVA
+VOVAOVA collected 135 from pot
+VOVAOVA: doesn't show hand 
+*** SUMMARY ***
+Total pot 135 | Rake 0 
+Board [Jd 4c 3d]
+Seat 1: VOVAOVA (button) collected (135)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: Tioke11 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #248892522540: Tournament #3716038991, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/02/15 15:30:32 CET [2024/02/15 9:30:32 ET]
+Table '3716038991 1' 3-max Seat #2 is the button
+Seat 1: VOVAOVA (640 in chips) 
+Seat 2: Mahu2021 (535 in chips) 
+Seat 3: Tioke11 (325 in chips) 
+Tioke11: posts small blind 20
+VOVAOVA: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad Ks]
+Mahu2021: raises 80 to 120
+Tioke11: raises 205 to 325 and is all-in
+VOVAOVA: folds 
+Mahu2021: calls 205
+*** FLOP *** [Js Ah 8s]
+*** TURN *** [Js Ah 8s] [2d]
+*** RIVER *** [Js Ah 8s 2d] [9c]
+*** SHOW DOWN ***
+Tioke11: shows [Qd Ac] (a pair of Aces)
+Mahu2021: shows [Ad Ks] (a pair of Aces - King kicker)
+Mahu2021 collected 690 from pot
+Tioke11 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 690 | Rake 0 
+Board [Js Ah 8s 2d 9c]
+Seat 1: VOVAOVA (big blind) folded before Flop
+Seat 2: Mahu2021 (button) showed [Ad Ks] and won (690) with a pair of Aces
+Seat 3: Tioke11 (small blind) showed [Qd Ac] and lost with a pair of Aces
+
+
+
+PokerStars Hand #248892526754: Tournament #3716038991, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/02/15 15:30:52 CET [2024/02/15 9:30:52 ET]
+Table '3716038991 1' 3-max Seat #1 is the button
+Seat 1: VOVAOVA (600 in chips) 
+Seat 2: Mahu2021 (900 in chips) 
+VOVAOVA: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h Js]
+VOVAOVA: calls 20
+Mahu2021: checks 
+*** FLOP *** [4h 9c 5s]
+Mahu2021: checks 
+VOVAOVA: bets 200
+Mahu2021: folds 
+Uncalled bet (200) returned to VOVAOVA
+VOVAOVA collected 80 from pot
+VOVAOVA: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [4h 9c 5s]
+Seat 1: VOVAOVA (button) (small blind) collected (80)
+Seat 2: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #248892529406: Tournament #3716038991, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/02/15 15:31:05 CET [2024/02/15 9:31:05 ET]
+Table '3716038991 1' 3-max Seat #2 is the button
+Seat 1: VOVAOVA (640 in chips) 
+Seat 2: Mahu2021 (860 in chips) 
+Mahu2021: posts small blind 20
+VOVAOVA: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As Kh]
+Mahu2021: raises 80 to 120
+VOVAOVA: folds 
+Uncalled bet (80) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: VOVAOVA (big blind) folded before Flop
+Seat 2: Mahu2021 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #248892530823: Tournament #3716038991, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/02/15 15:31:12 CET [2024/02/15 9:31:12 ET]
+Table '3716038991 1' 3-max Seat #1 is the button
+Seat 1: VOVAOVA (600 in chips) 
+Seat 2: Mahu2021 (900 in chips) 
+VOVAOVA: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h Kh]
+VOVAOVA: calls 20
+Mahu2021: raises 80 to 120
+VOVAOVA: calls 80
+*** FLOP *** [Qs 2h Ah]
+Mahu2021: bets 120
+VOVAOVA: calls 120
+*** TURN *** [Qs 2h Ah] [3d]
+Mahu2021: bets 660 and is all-in
+VOVAOVA: calls 360 and is all-in
+Uncalled bet (300) returned to Mahu2021
+*** RIVER *** [Qs 2h Ah 3d] [Ac]
+*** SHOW DOWN ***
+Mahu2021: shows [9h Kh] (a pair of Aces)
+VOVAOVA: shows [6h 3h] (two pair, Aces and Threes)
+VOVAOVA collected 1200 from pot
+*** SUMMARY ***
+Total pot 1200 | Rake 0 
+Board [Qs 2h Ah 3d Ac]
+Seat 1: VOVAOVA (button) (small blind) showed [6h 3h] and won (1200) with two pair, Aces and Threes
+Seat 2: Mahu2021 (big blind) showed [9h Kh] and lost with a pair of Aces
+
+
+
+PokerStars Hand #248892535113: Tournament #3716038991, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/02/15 15:31:32 CET [2024/02/15 9:31:32 ET]
+Table '3716038991 1' 3-max Seat #2 is the button
+Seat 1: VOVAOVA (1200 in chips) 
+Seat 2: Mahu2021 (300 in chips) 
+Mahu2021: posts small blind 20
+VOVAOVA: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s Td]
+Mahu2021: folds 
+Uncalled bet (20) returned to VOVAOVA
+VOVAOVA collected 40 from pot
+VOVAOVA: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: VOVAOVA (big blind) collected (40)
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #248892536079: Tournament #3716038991, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/02/15 15:31:37 CET [2024/02/15 9:31:37 ET]
+Table '3716038991 1' 3-max Seat #1 is the button
+Seat 1: VOVAOVA (1220 in chips) 
+Seat 2: Mahu2021 (280 in chips) 
+VOVAOVA: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3c 5c]
+VOVAOVA: calls 20
+Mahu2021: checks 
+*** FLOP *** [2c Ts 5s]
+Mahu2021: bets 240 and is all-in
+VOVAOVA: calls 240
+*** TURN *** [2c Ts 5s] [4h]
+*** RIVER *** [2c Ts 5s 4h] [5d]
+*** SHOW DOWN ***
+Mahu2021: shows [3c 5c] (three of a kind, Fives)
+VOVAOVA: shows [Ks 2d] (two pair, Fives and Deuces)
+Mahu2021 collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | Rake 0 
+Board [2c Ts 5s 4h 5d]
+Seat 1: VOVAOVA (button) (small blind) showed [Ks 2d] and lost with two pair, Fives and Deuces
+Seat 2: Mahu2021 (big blind) showed [3c 5c] and won (560) with three of a kind, Fives
+
+
+
+PokerStars Hand #248892539369: Tournament #3716038991, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/02/15 15:31:53 CET [2024/02/15 9:31:53 ET]
+Table '3716038991 1' 3-max Seat #2 is the button
+Seat 1: VOVAOVA (940 in chips) 
+Seat 2: Mahu2021 (560 in chips) 
+Mahu2021: posts small blind 20
+VOVAOVA: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d Jh]
+Mahu2021: calls 20
+VOVAOVA: checks 
+*** FLOP *** [9s Ad 6c]
+VOVAOVA: checks 
+Mahu2021: checks 
+*** TURN *** [9s Ad 6c] [3c]
+VOVAOVA: bets 40
+Mahu2021: folds 
+Uncalled bet (40) returned to VOVAOVA
+VOVAOVA collected 80 from pot
+VOVAOVA: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [9s Ad 6c 3c]
+Seat 1: VOVAOVA (big blind) collected (80)
+Seat 2: Mahu2021 (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #248892542127: Tournament #3716038991, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/02/15 15:32:06 CET [2024/02/15 9:32:06 ET]
+Table '3716038991 1' 3-max Seat #1 is the button
+Seat 1: VOVAOVA (980 in chips) 
+Seat 2: Mahu2021 (520 in chips) 
+VOVAOVA: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac 8c]
+VOVAOVA: raises 40 to 80
+Mahu2021: calls 40
+*** FLOP *** [Qc 3d 6h]
+Mahu2021: checks 
+VOVAOVA: bets 160
+Mahu2021: folds 
+Uncalled bet (160) returned to VOVAOVA
+VOVAOVA collected 160 from pot
+VOVAOVA: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Qc 3d 6h]
+Seat 1: VOVAOVA (button) (small blind) collected (160)
+Seat 2: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #248892545442: Tournament #3716038991, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/02/15 15:32:21 CET [2024/02/15 9:32:21 ET]
+Table '3716038991 1' 3-max Seat #2 is the button
+Seat 1: VOVAOVA (1060 in chips) 
+Seat 2: Mahu2021 (440 in chips) 
+Mahu2021: posts small blind 30
+VOVAOVA: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8s Qs]
+Mahu2021: raises 60 to 120
+VOVAOVA: calls 60
+*** FLOP *** [9c Jd 8h]
+VOVAOVA: checks 
+Mahu2021: bets 320 and is all-in
+VOVAOVA: folds 
+Uncalled bet (320) returned to Mahu2021
+Mahu2021 collected 240 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [9c Jd 8h]
+Seat 1: VOVAOVA (big blind) folded on the Flop
+Seat 2: Mahu2021 (button) (small blind) collected (240)
+
+
+
+PokerStars Hand #248892547919: Tournament #3716038991, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/02/15 15:32:33 CET [2024/02/15 9:32:33 ET]
+Table '3716038991 1' 3-max Seat #1 is the button
+Seat 1: VOVAOVA (940 in chips) 
+Seat 2: Mahu2021 (560 in chips) 
+VOVAOVA: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s 4c]
+VOVAOVA: raises 300 to 360
+Mahu2021: folds 
+Uncalled bet (300) returned to VOVAOVA
+VOVAOVA collected 120 from pot
+VOVAOVA: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: VOVAOVA (button) (small blind) collected (120)
+Seat 2: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #248892549561: Tournament #3716038991, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/02/15 15:32:41 CET [2024/02/15 9:32:41 ET]
+Table '3716038991 1' 3-max Seat #2 is the button
+Seat 1: VOVAOVA (1000 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Mahu2021: posts small blind 30
+VOVAOVA: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts 5s]
+Mahu2021: folds 
+Uncalled bet (30) returned to VOVAOVA
+VOVAOVA collected 60 from pot
+VOVAOVA: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: VOVAOVA (big blind) collected (60)
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #248892550450: Tournament #3716038991, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/02/15 15:32:45 CET [2024/02/15 9:32:45 ET]
+Table '3716038991 1' 3-max Seat #1 is the button
+Seat 1: VOVAOVA (1030 in chips) 
+Seat 2: Mahu2021 (470 in chips) 
+VOVAOVA: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc Ks]
+VOVAOVA: calls 30
+Mahu2021: raises 120 to 180
+VOVAOVA: folds 
+Uncalled bet (120) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: VOVAOVA (button) (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (120)
+
+
+
+PokerStars Hand #248892552334: Tournament #3716038991, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/02/15 15:32:54 CET [2024/02/15 9:32:54 ET]
+Table '3716038991 1' 3-max Seat #2 is the button
+Seat 1: VOVAOVA (970 in chips) 
+Seat 2: Mahu2021 (530 in chips) 
+Mahu2021: posts small blind 30
+VOVAOVA: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc 6c]
+Mahu2021: raises 60 to 120
+VOVAOVA: calls 60
+*** FLOP *** [Qh Qs Td]
+VOVAOVA: checks 
+Mahu2021: checks 
+*** TURN *** [Qh Qs Td] [7h]
+VOVAOVA: checks 
+Mahu2021: checks 
+*** RIVER *** [Qh Qs Td 7h] [9s]
+VOVAOVA: bets 60
+Mahu2021: folds 
+Uncalled bet (60) returned to VOVAOVA
+VOVAOVA collected 240 from pot
+VOVAOVA: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Qh Qs Td 7h 9s]
+Seat 1: VOVAOVA (big blind) collected (240)
+Seat 2: Mahu2021 (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #248892556186: Tournament #3716038991, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/02/15 15:33:12 CET [2024/02/15 9:33:12 ET]
+Table '3716038991 1' 3-max Seat #1 is the button
+Seat 1: VOVAOVA (1090 in chips) 
+Seat 2: Mahu2021 (410 in chips) 
+VOVAOVA: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d Tc]
+VOVAOVA: calls 30
+Mahu2021: checks 
+*** FLOP *** [5d 6h 2d]
+Mahu2021: bets 350 and is all-in
+VOVAOVA: folds 
+Uncalled bet (350) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [5d 6h 2d]
+Seat 1: VOVAOVA (button) (small blind) folded on the Flop
+Seat 2: Mahu2021 (big blind) collected (120)
+
+
+
+PokerStars Hand #248892558148: Tournament #3716038991, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/02/15 15:33:21 CET [2024/02/15 9:33:21 ET]
+Table '3716038991 1' 3-max Seat #2 is the button
+Seat 1: VOVAOVA (1030 in chips) 
+Seat 2: Mahu2021 (470 in chips) 
+Mahu2021: posts small blind 30
+VOVAOVA: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s 6h]
+Mahu2021: folds 
+Uncalled bet (30) returned to VOVAOVA
+VOVAOVA collected 60 from pot
+VOVAOVA: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: VOVAOVA (big blind) collected (60)
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #248892559086: Tournament #3716038991, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/02/15 15:33:26 CET [2024/02/15 9:33:26 ET]
+Table '3716038991 1' 3-max Seat #1 is the button
+Seat 1: VOVAOVA (1060 in chips) 
+Seat 2: Mahu2021 (440 in chips) 
+VOVAOVA: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h 7d]
+VOVAOVA: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: VOVAOVA (button) (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (60)
+
+
+
+PokerStars Hand #248892560234: Tournament #3716038991, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/02/15 15:33:31 CET [2024/02/15 9:33:31 ET]
+Table '3716038991 1' 3-max Seat #2 is the button
+Seat 1: VOVAOVA (1030 in chips) 
+Seat 2: Mahu2021 (470 in chips) 
+Mahu2021: posts small blind 30
+VOVAOVA: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3c 3s]
+Mahu2021: raises 410 to 470 and is all-in
+VOVAOVA: folds 
+Uncalled bet (410) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: VOVAOVA (big blind) folded before Flop
+Seat 2: Mahu2021 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #248892561600: Tournament #3716038991, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/02/15 15:33:38 CET [2024/02/15 9:33:38 ET]
+Table '3716038991 1' 3-max Seat #1 is the button
+Seat 1: VOVAOVA (970 in chips) 
+Seat 2: Mahu2021 (530 in chips) 
+VOVAOVA: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As Th]
+VOVAOVA: calls 30
+Mahu2021: raises 120 to 180
+VOVAOVA: folds 
+Uncalled bet (120) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: VOVAOVA (button) (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (120)
+
+
+
+PokerStars Hand #248892563630: Tournament #3716038991, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/02/15 15:33:47 CET [2024/02/15 9:33:47 ET]
+Table '3716038991 1' 3-max Seat #2 is the button
+Seat 1: VOVAOVA (910 in chips) 
+Seat 2: Mahu2021 (590 in chips) 
+Mahu2021: posts small blind 30
+VOVAOVA: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts 2s]
+Mahu2021: folds 
+Uncalled bet (30) returned to VOVAOVA
+VOVAOVA collected 60 from pot
+VOVAOVA: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: VOVAOVA (big blind) collected (60)
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #248892564581: Tournament #3716038991, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/02/15 15:33:52 CET [2024/02/15 9:33:52 ET]
+Table '3716038991 1' 3-max Seat #1 is the button
+Seat 1: VOVAOVA (940 in chips) 
+Seat 2: Mahu2021 (560 in chips) 
+VOVAOVA: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts 2d]
+VOVAOVA: calls 30
+Mahu2021: checks 
+*** FLOP *** [9d Ah Qc]
+Mahu2021: checks 
+VOVAOVA: bets 60
+Mahu2021: folds 
+Uncalled bet (60) returned to VOVAOVA
+VOVAOVA collected 120 from pot
+VOVAOVA: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [9d Ah Qc]
+Seat 1: VOVAOVA (button) (small blind) collected (120)
+Seat 2: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #248892566875: Tournament #3716038991, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/02/15 15:34:02 CET [2024/02/15 9:34:02 ET]
+Table '3716038991 1' 3-max Seat #2 is the button
+Seat 1: VOVAOVA (1000 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Mahu2021: posts small blind 30
+VOVAOVA: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc Ac]
+Mahu2021: raises 60 to 120
+VOVAOVA: calls 60
+*** FLOP *** [3d Qh 6s]
+VOVAOVA: checks 
+Mahu2021: checks 
+*** TURN *** [3d Qh 6s] [Kd]
+VOVAOVA: checks 
+Mahu2021: checks 
+*** RIVER *** [3d Qh 6s Kd] [2h]
+VOVAOVA: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+VOVAOVA: shows [5s Jh] (high card King)
+Mahu2021: shows [Jc Ac] (high card Ace)
+Mahu2021 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [3d Qh 6s Kd 2h]
+Seat 1: VOVAOVA (big blind) showed [5s Jh] and lost with high card King
+Seat 2: Mahu2021 (button) (small blind) showed [Jc Ac] and won (240) with high card Ace
+
+
+
+PokerStars Hand #248892570958: Tournament #3716038991, $1.84+$0.16 USD Hold'em No Limit - Level V (40/80) - 2024/02/15 15:34:21 CET [2024/02/15 9:34:21 ET]
+Table '3716038991 1' 3-max Seat #1 is the button
+Seat 1: VOVAOVA (880 in chips) 
+Seat 2: Mahu2021 (620 in chips) 
+VOVAOVA: posts small blind 40
+Mahu2021: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s Ks]
+VOVAOVA: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: VOVAOVA (button) (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (80)
+
+
+
+PokerStars Hand #248892572103: Tournament #3716038991, $1.84+$0.16 USD Hold'em No Limit - Level V (40/80) - 2024/02/15 15:34:26 CET [2024/02/15 9:34:26 ET]
+Table '3716038991 1' 3-max Seat #2 is the button
+Seat 1: VOVAOVA (840 in chips) 
+Seat 2: Mahu2021 (660 in chips) 
+Mahu2021: posts small blind 40
+VOVAOVA: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s As]
+Mahu2021: raises 80 to 160
+VOVAOVA: folds 
+Uncalled bet (80) returned to Mahu2021
+Mahu2021 collected 160 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Seat 1: VOVAOVA (big blind) folded before Flop
+Seat 2: Mahu2021 (button) (small blind) collected (160)
+
+
+
+PokerStars Hand #248892573521: Tournament #3716038991, $1.84+$0.16 USD Hold'em No Limit - Level V (40/80) - 2024/02/15 15:34:33 CET [2024/02/15 9:34:33 ET]
+Table '3716038991 1' 3-max Seat #1 is the button
+Seat 1: VOVAOVA (760 in chips) 
+Seat 2: Mahu2021 (740 in chips) 
+VOVAOVA: posts small blind 40
+Mahu2021: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d 9s]
+VOVAOVA: calls 40
+Mahu2021: checks 
+*** FLOP *** [7h 8d 3s]
+Mahu2021: checks 
+VOVAOVA: checks 
+*** TURN *** [7h 8d 3s] [6d]
+Mahu2021: checks 
+VOVAOVA: checks 
+*** RIVER *** [7h 8d 3s 6d] [4d]
+Mahu2021: bets 660 and is all-in
+VOVAOVA: folds 
+Uncalled bet (660) returned to Mahu2021
+Mahu2021 collected 160 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [7h 8d 3s 6d 4d]
+Seat 1: VOVAOVA (button) (small blind) folded on the River
+Seat 2: Mahu2021 (big blind) collected (160)
+
+
+
+PokerStars Hand #248892578052: Tournament #3716038991, $1.84+$0.16 USD Hold'em No Limit - Level V (40/80) - 2024/02/15 15:34:54 CET [2024/02/15 9:34:54 ET]
+Table '3716038991 1' 3-max Seat #2 is the button
+Seat 1: VOVAOVA (680 in chips) 
+Seat 2: Mahu2021 (820 in chips) 
+Mahu2021: posts small blind 40
+VOVAOVA: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Td Ts]
+Mahu2021: raises 740 to 820 and is all-in
+VOVAOVA: calls 600 and is all-in
+Uncalled bet (140) returned to Mahu2021
+*** FLOP *** [5d 4c 8h]
+*** TURN *** [5d 4c 8h] [Qh]
+*** RIVER *** [5d 4c 8h Qh] [9h]
+*** SHOW DOWN ***
+VOVAOVA: shows [5h Ah] (a flush, Ace high)
+Mahu2021: shows [Td Ts] (a pair of Tens)
+VOVAOVA collected 1360 from pot
+*** SUMMARY ***
+Total pot 1360 | Rake 0 
+Board [5d 4c 8h Qh 9h]
+Seat 1: VOVAOVA (big blind) showed [5h Ah] and won (1360) with a flush, Ace high
+Seat 2: Mahu2021 (button) (small blind) showed [Td Ts] and lost with a pair of Tens
+
+
+
+PokerStars Hand #248892580916: Tournament #3716038991, $1.84+$0.16 USD Hold'em No Limit - Level V (40/80) - 2024/02/15 15:35:07 CET [2024/02/15 9:35:07 ET]
+Table '3716038991 1' 3-max Seat #1 is the button
+Seat 1: VOVAOVA (1360 in chips) 
+Seat 2: Mahu2021 (140 in chips) 
+VOVAOVA: posts small blind 40
+Mahu2021: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks 7c]
+VOVAOVA: raises 80 to 160
+Mahu2021: calls 60 and is all-in
+Uncalled bet (20) returned to VOVAOVA
+*** FLOP *** [Ts 3s Ac]
+*** TURN *** [Ts 3s Ac] [Tc]
+*** RIVER *** [Ts 3s Ac Tc] [8h]
+*** SHOW DOWN ***
+Mahu2021: shows [Ks 7c] (a pair of Tens)
+VOVAOVA: shows [4d 7s] (a pair of Tens - lower kicker)
+Mahu2021 collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | Rake 0 
+Board [Ts 3s Ac Tc 8h]
+Seat 1: VOVAOVA (button) (small blind) showed [4d 7s] and lost with a pair of Tens
+Seat 2: Mahu2021 (big blind) showed [Ks 7c] and won (280) with a pair of Tens
+
+
+
+PokerStars Hand #248892583673: Tournament #3716038991, $1.84+$0.16 USD Hold'em No Limit - Level V (40/80) - 2024/02/15 15:35:19 CET [2024/02/15 9:35:19 ET]
+Table '3716038991 1' 3-max Seat #2 is the button
+Seat 1: VOVAOVA (1220 in chips) 
+Seat 2: Mahu2021 (280 in chips) 
+Mahu2021: posts small blind 40
+VOVAOVA: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s 2c]
+Mahu2021: folds 
+Uncalled bet (40) returned to VOVAOVA
+VOVAOVA collected 80 from pot
+VOVAOVA: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: VOVAOVA (big blind) collected (80)
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #248892584522: Tournament #3716038991, $1.84+$0.16 USD Hold'em No Limit - Level V (40/80) - 2024/02/15 15:35:23 CET [2024/02/15 9:35:23 ET]
+Table '3716038991 1' 3-max Seat #1 is the button
+Seat 1: VOVAOVA (1260 in chips) 
+Seat 2: Mahu2021 (240 in chips) 
+VOVAOVA: posts small blind 40
+Mahu2021: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c 8s]
+VOVAOVA: raises 80 to 160
+Mahu2021: raises 80 to 240 and is all-in
+VOVAOVA: calls 80
+*** FLOP *** [Qc 8d Th]
+*** TURN *** [Qc 8d Th] [5d]
+*** RIVER *** [Qc 8d Th 5d] [Ac]
+*** SHOW DOWN ***
+Mahu2021: shows [9c 8s] (a pair of Eights)
+VOVAOVA: shows [Js Jh] (a pair of Jacks)
+VOVAOVA collected 480 from pot
+Mahu2021 finished the tournament in 2nd place
+VOVAOVA wins the tournament and receives $4.00 - congratulations!
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Board [Qc 8d Th 5d Ac]
+Seat 1: VOVAOVA (button) (small blind) showed [Js Jh] and won (480) with a pair of Jacks
+Seat 2: Mahu2021 (big blind) showed [9c 8s] and lost with a pair of Eights
+
+
+

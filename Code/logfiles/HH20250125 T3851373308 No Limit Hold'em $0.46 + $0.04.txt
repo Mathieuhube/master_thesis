@@ -1,0 +1,33 @@
+﻿PokerStars Hand #254542604312: Tournament #3851373308, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2025/01/25 9:33:49 CET [2025/01/25 3:33:49 ET]
+Table '3851373308 1' 3-max Seat #1 is the button
+Seat 1: madalina1811 (500 in chips) 
+Seat 2: FenyxTiago91 (500 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+FenyxTiago91: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh Ah]
+madalina1811: raises 480 to 500 and is all-in
+FenyxTiago91: calls 490 and is all-in
+Mahu2021: calls 480 and is all-in
+*** FLOP *** [Qc 6h 5h]
+*** TURN *** [Qc 6h 5h] [Kh]
+*** RIVER *** [Qc 6h 5h Kh] [3s]
+*** SHOW DOWN ***
+FenyxTiago91: shows [Ac 7c] (high card Ace)
+Mahu2021: shows [Qh Ah] (a flush, Ace high)
+madalina1811: shows [8d 8h] (a pair of Eights)
+Mahu2021 collected 1500 from pot
+madalina1811 finished the tournament in 2nd place
+FenyxTiago91 finished the tournament in 2nd place
+Mahu2021 wins the tournament - congratulations!
+Mahu2021 wins a '$1.50 Power Path Step 2 Ticket' ticket
+*** SUMMARY ***
+Total pot 1500 | Rake 0 
+Board [Qc 6h 5h Kh 3s]
+Seat 1: madalina1811 (button) showed [8d 8h] and lost with a pair of Eights
+Seat 2: FenyxTiago91 (small blind) showed [Ac 7c] and lost with high card Ace
+Seat 3: Mahu2021 (big blind) showed [Qh Ah] and won (1500) with a flush, Ace high
+
+
+

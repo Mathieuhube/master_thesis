@@ -1,0 +1,1159 @@
+﻿PokerStars Hand #243932337773: Tournament #3596711169, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/05/27 12:53:42 CET [2023/05/27 6:53:42 ET]
+Table '3596711169 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: Theman197244 (500 in chips) 
+Seat 3: michgi (500 in chips) 
+Theman197244: posts small blind 10
+michgi: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h 2d]
+Mahu2021: folds 
+Theman197244: calls 10
+michgi: checks 
+*** FLOP *** [6h 8d Jc]
+Theman197244: bets 20
+michgi: calls 20
+*** TURN *** [6h 8d Jc] [9s]
+Theman197244: bets 20
+michgi: calls 20
+*** RIVER *** [6h 8d Jc 9s] [9d]
+Theman197244: bets 120
+michgi: calls 120
+*** SHOW DOWN ***
+Theman197244: shows [5h 4s] (a pair of Nines)
+michgi: shows [Th Jh] (two pair, Jacks and Nines)
+michgi collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [6h 8d Jc 9s 9d]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: Theman197244 (small blind) showed [5h 4s] and lost with a pair of Nines
+Seat 3: michgi (big blind) showed [Th Jh] and won (360) with two pair, Jacks and Nines
+
+
+
+PokerStars Hand #243932341044: Tournament #3596711169, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/05/27 12:54:02 CET [2023/05/27 6:54:02 ET]
+Table '3596711169 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: Theman197244 (320 in chips) 
+Seat 3: michgi (680 in chips) 
+michgi: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd Js]
+Theman197244: calls 20
+michgi: calls 10
+Mahu2021: raises 480 to 500 and is all-in
+Theman197244: calls 300 and is all-in
+michgi: folds 
+Uncalled bet (180) returned to Mahu2021
+*** FLOP *** [Ah 3d 8h]
+*** TURN *** [Ah 3d 8h] [4d]
+*** RIVER *** [Ah 3d 8h 4d] [4h]
+*** SHOW DOWN ***
+Mahu2021: shows [Jd Js] (two pair, Jacks and Fours)
+Theman197244: shows [8c 8s] (a full house, Eights full of Fours)
+Theman197244 collected 660 from pot
+*** SUMMARY ***
+Total pot 660 | Rake 0 
+Board [Ah 3d 8h 4d 4h]
+Seat 1: Mahu2021 (big blind) showed [Jd Js] and lost with two pair, Jacks and Fours
+Seat 2: Theman197244 (button) showed [8c 8s] and won (660) with a full house, Eights full of Fours
+Seat 3: michgi (small blind) folded before Flop
+
+
+
+PokerStars Hand #243932343726: Tournament #3596711169, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/05/27 12:54:19 CET [2023/05/27 6:54:19 ET]
+Table '3596711169 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (180 in chips) 
+Seat 2: Theman197244 (660 in chips) 
+Seat 3: michgi (660 in chips) 
+Mahu2021: posts small blind 10
+Theman197244: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts 9h]
+michgi: folds 
+Mahu2021: calls 10
+Theman197244: checks 
+*** FLOP *** [3d 4s 4c]
+Mahu2021: checks 
+Theman197244: checks 
+*** TURN *** [3d 4s 4c] [8c]
+Mahu2021: bets 20
+Theman197244: calls 20
+*** RIVER *** [3d 4s 4c 8c] [Ah]
+Mahu2021: checks 
+Theman197244: bets 40
+Mahu2021: folds 
+Uncalled bet (40) returned to Theman197244
+Theman197244 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [3d 4s 4c 8c Ah]
+Seat 1: Mahu2021 (small blind) folded on the River
+Seat 2: Theman197244 (big blind) collected (80)
+Seat 3: michgi (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #243932346575: Tournament #3596711169, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/05/27 12:54:36 CET [2023/05/27 6:54:36 ET]
+Table '3596711169 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (140 in chips) 
+Seat 2: Theman197244 (700 in chips) 
+Seat 3: michgi (660 in chips) 
+Theman197244: posts small blind 10
+michgi: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8c 4s]
+Mahu2021: folds 
+Theman197244: calls 10
+michgi: checks 
+*** FLOP *** [Ah Jc 9d]
+Theman197244: bets 20
+michgi: folds 
+Uncalled bet (20) returned to Theman197244
+Theman197244 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Ah Jc 9d]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: Theman197244 (small blind) collected (40)
+Seat 3: michgi (big blind) folded on the Flop
+
+
+
+PokerStars Hand #243932348247: Tournament #3596711169, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/05/27 12:54:46 CET [2023/05/27 6:54:46 ET]
+Table '3596711169 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (140 in chips) 
+Seat 2: Theman197244 (720 in chips) 
+Seat 3: michgi (640 in chips) 
+michgi: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Td 7d]
+Theman197244: calls 20
+michgi: calls 10
+Mahu2021: checks 
+*** FLOP *** [9s Js 2s]
+michgi: checks 
+Mahu2021: checks 
+Theman197244: bets 60
+michgi: folds 
+Mahu2021: folds 
+Uncalled bet (60) returned to Theman197244
+Theman197244 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [9s Js 2s]
+Seat 1: Mahu2021 (big blind) folded on the Flop
+Seat 2: Theman197244 (button) collected (60)
+Seat 3: michgi (small blind) folded on the Flop
+
+
+
+PokerStars Hand #243932350696: Tournament #3596711169, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/05/27 12:55:01 CET [2023/05/27 6:55:01 ET]
+Table '3596711169 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (120 in chips) 
+Seat 2: Theman197244 (760 in chips) 
+Seat 3: michgi (620 in chips) 
+Mahu2021: posts small blind 10
+Theman197244: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d 8c]
+michgi: folds 
+Mahu2021: calls 10
+Theman197244: checks 
+*** FLOP *** [Qc 2d Tc]
+Mahu2021: checks 
+Theman197244: checks 
+*** TURN *** [Qc 2d Tc] [9c]
+Mahu2021: checks 
+Theman197244: bets 20
+Mahu2021: calls 20
+*** RIVER *** [Qc 2d Tc 9c] [6d]
+Mahu2021: bets 80 and is all-in
+Theman197244: folds 
+Uncalled bet (80) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Qc 2d Tc 9c 6d]
+Seat 1: Mahu2021 (small blind) collected (80)
+Seat 2: Theman197244 (big blind) folded on the River
+Seat 3: michgi (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #243932353092: Tournament #3596711169, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/05/27 12:55:18 CET [2023/05/27 6:55:18 ET]
+Table '3596711169 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (160 in chips) 
+Seat 2: Theman197244 (720 in chips) 
+Seat 3: michgi (620 in chips) 
+Theman197244: posts small blind 10
+michgi: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh 3s]
+Mahu2021: folds 
+Theman197244: calls 10
+michgi: checks 
+*** FLOP *** [Jc Jd Ah]
+Theman197244: bets 40
+michgi: folds 
+Uncalled bet (40) returned to Theman197244
+Theman197244 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Jc Jd Ah]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: Theman197244 (small blind) collected (40)
+Seat 3: michgi (big blind) folded on the Flop
+
+
+
+PokerStars Hand #243932355442: Tournament #3596711169, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/05/27 12:55:34 CET [2023/05/27 6:55:34 ET]
+Table '3596711169 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (160 in chips) 
+Seat 2: Theman197244 (740 in chips) 
+Seat 3: michgi (600 in chips) 
+michgi: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6h Qc]
+Theman197244: calls 20
+michgi: calls 10
+Mahu2021: checks 
+*** FLOP *** [2d Ac 4h]
+michgi: checks 
+Mahu2021: checks 
+Theman197244: checks 
+*** TURN *** [2d Ac 4h] [Td]
+michgi: checks 
+Mahu2021: checks 
+Theman197244: checks 
+*** RIVER *** [2d Ac 4h Td] [5s]
+michgi: bets 30
+Mahu2021: folds 
+Theman197244: folds 
+Uncalled bet (30) returned to michgi
+michgi collected 60 from pot
+michgi: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [2d Ac 4h Td 5s]
+Seat 1: Mahu2021 (big blind) folded on the River
+Seat 2: Theman197244 (button) folded on the River
+Seat 3: michgi (small blind) collected (60)
+
+
+
+PokerStars Hand #243932358094: Tournament #3596711169, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/05/27 12:55:54 CET [2023/05/27 6:55:54 ET]
+Table '3596711169 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (140 in chips) 
+Seat 2: Theman197244 (720 in chips) 
+Seat 3: michgi (640 in chips) 
+Mahu2021: posts small blind 10
+Theman197244: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d 7d]
+michgi: calls 20
+Mahu2021: folds 
+Theman197244: checks 
+*** FLOP *** [Ad Kh 6h]
+Theman197244: bets 20
+michgi: folds 
+Uncalled bet (20) returned to Theman197244
+Theman197244 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [Ad Kh 6h]
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: Theman197244 (big blind) collected (50)
+Seat 3: michgi (button) folded on the Flop
+
+
+
+PokerStars Hand #243932359752: Tournament #3596711169, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/05/27 12:56:06 CET [2023/05/27 6:56:06 ET]
+Table '3596711169 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (130 in chips) 
+Seat 2: Theman197244 (750 in chips) 
+Seat 3: michgi (620 in chips) 
+Theman197244: posts small blind 10
+michgi: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4c 5d]
+Mahu2021: folds 
+Theman197244: calls 10
+michgi: checks 
+*** FLOP *** [3c 8d Ad]
+Theman197244: checks 
+michgi: checks 
+*** TURN *** [3c 8d Ad] [4s]
+Theman197244: bets 20
+michgi: calls 20
+*** RIVER *** [3c 8d Ad 4s] [2s]
+Theman197244: bets 80
+michgi: raises 140 to 220
+Theman197244: calls 140
+*** SHOW DOWN ***
+michgi: shows [5c 7c] (a straight, Ace to Five)
+Theman197244: shows [4d 5h] (a straight, Ace to Five)
+Theman197244 collected 260 from pot
+michgi collected 260 from pot
+*** SUMMARY ***
+Total pot 520 | Rake 0 
+Board [3c 8d Ad 4s 2s]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: Theman197244 (small blind) showed [4d 5h] and won (260) with a straight, Ace to Five
+Seat 3: michgi (big blind) showed [5c 7c] and won (260) with a straight, Ace to Five
+
+
+
+PokerStars Hand #243932363577: Tournament #3596711169, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/05/27 12:56:34 CET [2023/05/27 6:56:34 ET]
+Table '3596711169 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (130 in chips) 
+Seat 2: Theman197244 (750 in chips) 
+Seat 3: michgi (620 in chips) 
+michgi: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d 8c]
+Theman197244: calls 20
+michgi: raises 60 to 80
+Mahu2021: folds 
+Theman197244: calls 60
+*** FLOP *** [4c Ts 2c]
+michgi: checks 
+Theman197244: checks 
+*** TURN *** [4c Ts 2c] [7h]
+michgi: bets 90
+Theman197244: calls 90
+*** RIVER *** [4c Ts 2c 7h] [7s]
+michgi: checks 
+Theman197244: checks 
+*** SHOW DOWN ***
+michgi: shows [As Kd] (a pair of Sevens)
+Theman197244: shows [3c 4d] (two pair, Sevens and Fours)
+Theman197244 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [4c Ts 2c 7h 7s]
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: Theman197244 (button) showed [3c 4d] and won (360) with two pair, Sevens and Fours
+Seat 3: michgi (small blind) showed [As Kd] and lost with a pair of Sevens
+
+
+
+PokerStars Hand #243932366780: Tournament #3596711169, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/05/27 12:56:57 CET [2023/05/27 6:56:57 ET]
+Table '3596711169 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (110 in chips) 
+Seat 2: Theman197244 (940 in chips) 
+Seat 3: michgi (450 in chips) 
+Mahu2021: posts small blind 15
+Theman197244: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc 4c]
+michgi: calls 30
+Mahu2021: calls 15
+Theman197244: checks 
+*** FLOP *** [3c Jh 2d]
+Mahu2021: checks 
+Theman197244: checks 
+michgi: checks 
+*** TURN *** [3c Jh 2d] [2c]
+Mahu2021: bets 80 and is all-in
+Theman197244: folds 
+michgi: folds 
+Uncalled bet (80) returned to Mahu2021
+Mahu2021 collected 90 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [3c Jh 2d 2c]
+Seat 1: Mahu2021 (small blind) collected (90)
+Seat 2: Theman197244 (big blind) folded on the Turn
+Seat 3: michgi (button) folded on the Turn
+
+
+
+PokerStars Hand #243932369096: Tournament #3596711169, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/05/27 12:57:14 CET [2023/05/27 6:57:14 ET]
+Table '3596711169 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (170 in chips) 
+Seat 2: Theman197244 (910 in chips) 
+Seat 3: michgi (420 in chips) 
+Theman197244: posts small blind 15
+michgi: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2c Ah]
+Mahu2021: raises 140 to 170 and is all-in
+Theman197244: folds 
+michgi: folds 
+Uncalled bet (140) returned to Mahu2021
+Mahu2021 collected 75 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: Mahu2021 (button) collected (75)
+Seat 2: Theman197244 (small blind) folded before Flop
+Seat 3: michgi (big blind) folded before Flop
+
+
+
+PokerStars Hand #243932370114: Tournament #3596711169, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/05/27 12:57:22 CET [2023/05/27 6:57:22 ET]
+Table '3596711169 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (215 in chips) 
+Seat 2: Theman197244 (895 in chips) 
+Seat 3: michgi (390 in chips) 
+michgi: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s 6h]
+Theman197244: folds 
+michgi: calls 15
+Mahu2021: checks 
+*** FLOP *** [2c Qd 9c]
+michgi: checks 
+Mahu2021: checks 
+*** TURN *** [2c Qd 9c] [4c]
+michgi: bets 30
+Mahu2021: folds 
+Uncalled bet (30) returned to michgi
+michgi collected 60 from pot
+michgi: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [2c Qd 9c 4c]
+Seat 1: Mahu2021 (big blind) folded on the Turn
+Seat 2: Theman197244 (button) folded before Flop (didn't bet)
+Seat 3: michgi (small blind) collected (60)
+
+
+
+PokerStars Hand #243932372000: Tournament #3596711169, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/05/27 12:57:35 CET [2023/05/27 6:57:35 ET]
+Table '3596711169 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (185 in chips) 
+Seat 2: Theman197244 (895 in chips) 
+Seat 3: michgi (420 in chips) 
+Mahu2021: posts small blind 15
+Theman197244: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s 9c]
+michgi: calls 30
+Mahu2021: raises 155 to 185 and is all-in
+Theman197244: folds 
+michgi: folds 
+Uncalled bet (155) returned to Mahu2021
+Mahu2021 collected 90 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Seat 1: Mahu2021 (small blind) collected (90)
+Seat 2: Theman197244 (big blind) folded before Flop
+Seat 3: michgi (button) folded before Flop
+
+
+
+PokerStars Hand #243932373562: Tournament #3596711169, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/05/27 12:57:46 CET [2023/05/27 6:57:46 ET]
+Table '3596711169 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (245 in chips) 
+Seat 2: Theman197244 (865 in chips) 
+Seat 3: michgi (390 in chips) 
+Theman197244: posts small blind 15
+michgi: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2s Ac]
+Mahu2021: folds 
+Theman197244: calls 15
+michgi: raises 360 to 390 and is all-in
+Theman197244: folds 
+Uncalled bet (360) returned to michgi
+michgi collected 60 from pot
+michgi: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: Theman197244 (small blind) folded before Flop
+Seat 3: michgi (big blind) collected (60)
+
+
+
+PokerStars Hand #243932374921: Tournament #3596711169, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/05/27 12:57:56 CET [2023/05/27 6:57:56 ET]
+Table '3596711169 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (245 in chips) 
+Seat 2: Theman197244 (835 in chips) 
+Seat 3: michgi (420 in chips) 
+michgi: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c 3c]
+Theman197244: calls 30
+michgi: calls 15
+Mahu2021: checks 
+*** FLOP *** [Kh 3h 5d]
+michgi: checks 
+Mahu2021: checks 
+Theman197244: bets 90
+michgi: raises 300 to 390 and is all-in
+Mahu2021: folds 
+Theman197244: calls 300
+*** TURN *** [Kh 3h 5d] [3s]
+*** RIVER *** [Kh 3h 5d 3s] [7s]
+*** SHOW DOWN ***
+michgi: shows [Ks 6d] (two pair, Kings and Threes)
+Theman197244: shows [Kd 4s] (two pair, Kings and Threes)
+michgi collected 435 from pot
+Theman197244 collected 435 from pot
+*** SUMMARY ***
+Total pot 870 | Rake 0 
+Board [Kh 3h 5d 3s 7s]
+Seat 1: Mahu2021 (big blind) folded on the Flop
+Seat 2: Theman197244 (button) showed [Kd 4s] and won (435) with two pair, Kings and Threes
+Seat 3: michgi (small blind) showed [Ks 6d] and won (435) with two pair, Kings and Threes
+
+
+
+PokerStars Hand #243932378286: Tournament #3596711169, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/05/27 12:58:20 CET [2023/05/27 6:58:20 ET]
+Table '3596711169 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (215 in chips) 
+Seat 2: Theman197244 (850 in chips) 
+Seat 3: michgi (435 in chips) 
+Mahu2021: posts small blind 15
+Theman197244: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d 2h]
+michgi: folds 
+Mahu2021: calls 15
+Theman197244: checks 
+*** FLOP *** [As 2c 3h]
+Mahu2021: bets 30
+Theman197244: calls 30
+*** TURN *** [As 2c 3h] [2d]
+Mahu2021: bets 30
+Theman197244: calls 30
+*** RIVER *** [As 2c 3h 2d] [Ac]
+Mahu2021: bets 125 and is all-in
+Theman197244: folds 
+Uncalled bet (125) returned to Mahu2021
+Mahu2021 collected 180 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [As 2c 3h 2d Ac]
+Seat 1: Mahu2021 (small blind) collected (180)
+Seat 2: Theman197244 (big blind) folded on the River
+Seat 3: michgi (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #243932380753: Tournament #3596711169, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/05/27 12:58:39 CET [2023/05/27 6:58:39 ET]
+Table '3596711169 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (305 in chips) 
+Seat 2: Theman197244 (760 in chips) 
+Seat 3: michgi (435 in chips) 
+Theman197244: posts small blind 15
+michgi: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks 4s]
+Mahu2021: folds 
+Theman197244: calls 15
+michgi: checks 
+*** FLOP *** [8c Ac 2d]
+Theman197244: bets 30
+michgi: folds 
+Uncalled bet (30) returned to Theman197244
+Theman197244 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [8c Ac 2d]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: Theman197244 (small blind) collected (60)
+Seat 3: michgi (big blind) folded on the Flop
+
+
+
+PokerStars Hand #243932382640: Tournament #3596711169, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/05/27 12:58:52 CET [2023/05/27 6:58:52 ET]
+Table '3596711169 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (305 in chips) 
+Seat 2: Theman197244 (790 in chips) 
+Seat 3: michgi (405 in chips) 
+michgi: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2s 5s]
+Theman197244: calls 30
+michgi: calls 15
+Mahu2021: checks 
+*** FLOP *** [4h 6c Jc]
+michgi: checks 
+Mahu2021: checks 
+Theman197244: checks 
+*** TURN *** [4h 6c Jc] [8s]
+michgi: checks 
+Mahu2021: checks 
+Theman197244: checks 
+*** RIVER *** [4h 6c Jc 8s] [Jh]
+michgi: checks 
+Mahu2021: checks 
+Theman197244: checks 
+*** SHOW DOWN ***
+michgi: shows [5h 4c] (two pair, Jacks and Fours)
+Mahu2021: mucks hand 
+Theman197244: mucks hand 
+michgi collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [4h 6c Jc 8s Jh]
+Seat 1: Mahu2021 (big blind) mucked [2s 5s]
+Seat 2: Theman197244 (button) mucked [Ks 3s]
+Seat 3: michgi (small blind) showed [5h 4c] and won (90) with two pair, Jacks and Fours
+
+
+
+PokerStars Hand #243932385367: Tournament #3596711169, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/05/27 12:59:12 CET [2023/05/27 6:59:12 ET]
+Table '3596711169 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (275 in chips) 
+Seat 2: Theman197244 (760 in chips) 
+Seat 3: michgi (465 in chips) 
+Mahu2021: posts small blind 15
+Theman197244: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh 5s]
+michgi: calls 30
+Mahu2021: folds 
+Theman197244: checks 
+*** FLOP *** [5h Jh 5d]
+Theman197244: checks 
+michgi: checks 
+*** TURN *** [5h Jh 5d] [2s]
+Theman197244: checks 
+michgi: bets 30
+Theman197244: folds 
+Uncalled bet (30) returned to michgi
+michgi collected 75 from pot
+michgi: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Board [5h Jh 5d 2s]
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: Theman197244 (big blind) folded on the Turn
+Seat 3: michgi (button) collected (75)
+
+
+
+PokerStars Hand #243932387347: Tournament #3596711169, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/05/27 12:59:26 CET [2023/05/27 6:59:26 ET]
+Table '3596711169 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (260 in chips) 
+Seat 2: Theman197244 (730 in chips) 
+Seat 3: michgi (510 in chips) 
+Theman197244: posts small blind 15
+michgi: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts 7c]
+Mahu2021: folds 
+Theman197244: calls 15
+michgi: checks 
+*** FLOP *** [Kh 6d Kc]
+Theman197244: bets 30
+michgi: folds 
+Uncalled bet (30) returned to Theman197244
+Theman197244 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Kh 6d Kc]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: Theman197244 (small blind) collected (60)
+Seat 3: michgi (big blind) folded on the Flop
+
+
+
+PokerStars Hand #243932388874: Tournament #3596711169, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/05/27 12:59:37 CET [2023/05/27 6:59:37 ET]
+Table '3596711169 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (260 in chips) 
+Seat 2: Theman197244 (760 in chips) 
+Seat 3: michgi (480 in chips) 
+michgi: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h 8h]
+Theman197244: folds 
+michgi: calls 15
+Mahu2021: checks 
+*** FLOP *** [Qh 6d 4c]
+michgi: checks 
+Mahu2021: bets 30
+michgi: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Qh 6d 4c]
+Seat 1: Mahu2021 (big blind) collected (60)
+Seat 2: Theman197244 (button) folded before Flop (didn't bet)
+Seat 3: michgi (small blind) folded on the Flop
+
+
+
+PokerStars Hand #243932391143: Tournament #3596711169, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/05/27 12:59:54 CET [2023/05/27 6:59:54 ET]
+Table '3596711169 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (290 in chips) 
+Seat 2: Theman197244 (760 in chips) 
+Seat 3: michgi (450 in chips) 
+Mahu2021: posts small blind 20
+Theman197244: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kc 9s]
+michgi: raises 40 to 80
+Mahu2021: folds 
+Theman197244: raises 180 to 260
+michgi: raises 190 to 450 and is all-in
+Theman197244: calls 190
+*** FLOP *** [8s Jh 2d]
+*** TURN *** [8s Jh 2d] [2c]
+*** RIVER *** [8s Jh 2d 2c] [Ks]
+*** SHOW DOWN ***
+Theman197244: shows [Ad Qs] (a pair of Deuces)
+michgi: shows [Ac Qh] (a pair of Deuces)
+Theman197244 collected 460 from pot
+michgi collected 460 from pot
+*** SUMMARY ***
+Total pot 920 | Rake 0 
+Board [8s Jh 2d 2c Ks]
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: Theman197244 (big blind) showed [Ad Qs] and won (460) with a pair of Deuces
+Seat 3: michgi (button) showed [Ac Qh] and won (460) with a pair of Deuces
+
+
+
+PokerStars Hand #243932393663: Tournament #3596711169, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/05/27 13:00:12 CET [2023/05/27 7:00:12 ET]
+Table '3596711169 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (270 in chips) 
+Seat 2: Theman197244 (770 in chips) 
+Seat 3: michgi (460 in chips) 
+Theman197244: posts small blind 20
+michgi: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d Jh]
+Mahu2021: folds 
+Theman197244: calls 20
+michgi: checks 
+*** FLOP *** [Kh 4s 3h]
+Theman197244: bets 40
+michgi: folds 
+Uncalled bet (40) returned to Theman197244
+Theman197244 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Kh 4s 3h]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: Theman197244 (small blind) collected (80)
+Seat 3: michgi (big blind) folded on the Flop
+
+
+
+PokerStars Hand #243932395250: Tournament #3596711169, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/05/27 13:00:23 CET [2023/05/27 7:00:23 ET]
+Table '3596711169 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (270 in chips) 
+Seat 2: Theman197244 (810 in chips) 
+Seat 3: michgi (420 in chips) 
+michgi: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c Qs]
+Theman197244: folds 
+michgi: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (40)
+Seat 2: Theman197244 (button) folded before Flop (didn't bet)
+Seat 3: michgi (small blind) folded before Flop
+
+
+
+PokerStars Hand #243932396142: Tournament #3596711169, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/05/27 13:00:29 CET [2023/05/27 7:00:29 ET]
+Table '3596711169 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (290 in chips) 
+Seat 2: Theman197244 (810 in chips) 
+Seat 3: michgi (400 in chips) 
+Mahu2021: posts small blind 20
+Theman197244: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c Ac]
+michgi: folds 
+Mahu2021: raises 40 to 80
+Theman197244: calls 40
+*** FLOP *** [Ks 8d 5s]
+Mahu2021: bets 210 and is all-in
+Theman197244: calls 210
+*** TURN *** [Ks 8d 5s] [9s]
+*** RIVER *** [Ks 8d 5s 9s] [5d]
+*** SHOW DOWN ***
+Mahu2021: shows [5c Ac] (three of a kind, Fives)
+Theman197244: shows [As 8c] (two pair, Eights and Fives)
+Mahu2021 collected 580 from pot
+*** SUMMARY ***
+Total pot 580 | Rake 0 
+Board [Ks 8d 5s 9s 5d]
+Seat 1: Mahu2021 (small blind) showed [5c Ac] and won (580) with three of a kind, Fives
+Seat 2: Theman197244 (big blind) showed [As 8c] and lost with two pair, Eights and Fives
+Seat 3: michgi (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #243932398724: Tournament #3596711169, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/05/27 13:00:47 CET [2023/05/27 7:00:47 ET]
+Table '3596711169 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (580 in chips) 
+Seat 2: Theman197244 (520 in chips) 
+Seat 3: michgi (400 in chips) 
+Theman197244: posts small blind 20
+michgi: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h Qs]
+Mahu2021: folds 
+Theman197244: calls 20
+michgi: checks 
+*** FLOP *** [Td Jc 7s]
+Theman197244: checks 
+michgi: bets 40
+Theman197244: calls 40
+*** TURN *** [Td Jc 7s] [6s]
+Theman197244: checks 
+michgi: bets 80
+Theman197244: folds 
+Uncalled bet (80) returned to michgi
+michgi collected 160 from pot
+michgi: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Td Jc 7s 6s]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: Theman197244 (small blind) folded on the Turn
+Seat 3: michgi (big blind) collected (160)
+
+
+
+PokerStars Hand #243932401342: Tournament #3596711169, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/05/27 13:01:04 CET [2023/05/27 7:01:04 ET]
+Table '3596711169 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (580 in chips) 
+Seat 2: Theman197244 (440 in chips) 
+Seat 3: michgi (480 in chips) 
+michgi: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6h 2c]
+Theman197244: folds 
+michgi: calls 20
+Mahu2021: checks 
+*** FLOP *** [8d As Ks]
+michgi: checks 
+Mahu2021: bets 40
+michgi: calls 40
+*** TURN *** [8d As Ks] [9c]
+michgi: checks 
+Mahu2021: checks 
+*** RIVER *** [8d As Ks 9c] [Kc]
+michgi: bets 80
+Mahu2021: folds 
+Uncalled bet (80) returned to michgi
+michgi collected 160 from pot
+michgi: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [8d As Ks 9c Kc]
+Seat 1: Mahu2021 (big blind) folded on the River
+Seat 2: Theman197244 (button) folded before Flop (didn't bet)
+Seat 3: michgi (small blind) collected (160)
+
+
+
+PokerStars Hand #243932404321: Tournament #3596711169, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/05/27 13:01:22 CET [2023/05/27 7:01:22 ET]
+Table '3596711169 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: Theman197244 (440 in chips) 
+Seat 3: michgi (560 in chips) 
+Mahu2021: posts small blind 20
+Theman197244: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c 8d]
+michgi: calls 40
+Mahu2021: folds 
+Theman197244: checks 
+*** FLOP *** [Qc Ad 6d]
+Theman197244: checks 
+michgi: bets 40
+Theman197244: calls 40
+*** TURN *** [Qc Ad 6d] [Ks]
+Theman197244: checks 
+michgi: bets 90
+Theman197244: calls 90
+*** RIVER *** [Qc Ad 6d Ks] [Td]
+Theman197244: checks 
+michgi: bets 360
+Theman197244: folds 
+Uncalled bet (360) returned to michgi
+michgi collected 360 from pot
+michgi: doesn't show hand 
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [Qc Ad 6d Ks Td]
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: Theman197244 (big blind) folded on the River
+Seat 3: michgi (button) collected (360)
+
+
+
+PokerStars Hand #243932409525: Tournament #3596711169, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/05/27 13:01:55 CET [2023/05/27 7:01:55 ET]
+Table '3596711169 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (480 in chips) 
+Seat 2: Theman197244 (270 in chips) 
+Seat 3: michgi (750 in chips) 
+Theman197244: posts small blind 20
+michgi: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h Qc]
+Mahu2021: folds 
+Theman197244: calls 20
+michgi: checks 
+*** FLOP *** [Ks Tc Kd]
+Theman197244: checks 
+michgi: bets 40
+Theman197244: folds 
+Uncalled bet (40) returned to michgi
+michgi collected 80 from pot
+michgi: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Ks Tc Kd]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: Theman197244 (small blind) folded on the Flop
+Seat 3: michgi (big blind) collected (80)
+
+
+
+PokerStars Hand #243932411436: Tournament #3596711169, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/05/27 13:02:07 CET [2023/05/27 7:02:07 ET]
+Table '3596711169 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (480 in chips) 
+Seat 2: Theman197244 (230 in chips) 
+Seat 3: michgi (790 in chips) 
+michgi: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh Qs]
+Theman197244: calls 40
+michgi: calls 20
+Mahu2021: checks 
+*** FLOP *** [9h 8d 6s]
+michgi: checks 
+Mahu2021: checks 
+Theman197244: bets 190 and is all-in
+michgi: raises 560 to 750 and is all-in
+Mahu2021: folds 
+Uncalled bet (560) returned to michgi
+*** TURN *** [9h 8d 6s] [5s]
+*** RIVER *** [9h 8d 6s 5s] [3c]
+*** SHOW DOWN ***
+michgi: shows [7d 9s] (a straight, Five to Nine)
+Theman197244: shows [Kd Ks] (a pair of Kings)
+michgi collected 500 from pot
+Theman197244 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 500 | Rake 0 
+Board [9h 8d 6s 5s 3c]
+Seat 1: Mahu2021 (big blind) folded on the Flop
+Seat 2: Theman197244 (button) showed [Kd Ks] and lost with a pair of Kings
+Seat 3: michgi (small blind) showed [7d 9s] and won (500) with a straight, Five to Nine
+
+
+
+PokerStars Hand #243932415162: Tournament #3596711169, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/05/27 13:02:29 CET [2023/05/27 7:02:29 ET]
+Table '3596711169 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (440 in chips) 
+Seat 3: michgi (1060 in chips) 
+Mahu2021: posts small blind 20
+michgi: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Th 4h]
+Mahu2021: folds 
+Uncalled bet (20) returned to michgi
+michgi collected 40 from pot
+michgi: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: michgi (big blind) collected (40)
+
+
+
+PokerStars Hand #243932415909: Tournament #3596711169, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/05/27 13:02:34 CET [2023/05/27 7:02:34 ET]
+Table '3596711169 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (420 in chips) 
+Seat 3: michgi (1080 in chips) 
+michgi: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h 5s]
+michgi: raises 40 to 80
+Mahu2021: folds 
+Uncalled bet (40) returned to michgi
+michgi collected 80 from pot
+michgi: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 3: michgi (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #243932416893: Tournament #3596711169, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/05/27 13:02:40 CET [2023/05/27 7:02:40 ET]
+Table '3596711169 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (380 in chips) 
+Seat 3: michgi (1120 in chips) 
+Mahu2021: posts small blind 20
+michgi: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad 2s]
+Mahu2021: calls 20
+michgi: raises 1080 to 1120 and is all-in
+Mahu2021: folds 
+Uncalled bet (1080) returned to michgi
+michgi collected 80 from pot
+michgi: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: michgi (big blind) collected (80)
+
+
+
+PokerStars Hand #243932418548: Tournament #3596711169, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/05/27 13:02:50 CET [2023/05/27 7:02:50 ET]
+Table '3596711169 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (340 in chips) 
+Seat 3: michgi (1160 in chips) 
+michgi: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd 8s]
+michgi: calls 30
+Mahu2021: checks 
+*** FLOP *** [4s 7d 5c]
+Mahu2021: checks 
+michgi: bets 1100 and is all-in
+Mahu2021: folds 
+Uncalled bet (1100) returned to michgi
+michgi collected 120 from pot
+michgi: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [4s 7d 5c]
+Seat 1: Mahu2021 (big blind) folded on the Flop
+Seat 3: michgi (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #243932420248: Tournament #3596711169, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/05/27 13:03:00 CET [2023/05/27 7:03:00 ET]
+Table '3596711169 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (280 in chips) 
+Seat 3: michgi (1220 in chips) 
+Mahu2021: posts small blind 30
+michgi: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d 6h]
+Mahu2021: folds 
+Uncalled bet (30) returned to michgi
+michgi collected 60 from pot
+michgi: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: michgi (big blind) collected (60)
+
+
+
+PokerStars Hand #243932420943: Tournament #3596711169, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/05/27 13:03:04 CET [2023/05/27 7:03:04 ET]
+Table '3596711169 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (250 in chips) 
+Seat 3: michgi (1250 in chips) 
+michgi: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Tc 3s]
+michgi: raises 1190 to 1250 and is all-in
+Mahu2021: folds 
+Uncalled bet (1190) returned to michgi
+michgi collected 120 from pot
+michgi: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 3: michgi (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #243932421944: Tournament #3596711169, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/05/27 13:03:09 CET [2023/05/27 7:03:09 ET]
+Table '3596711169 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (190 in chips) 
+Seat 3: michgi (1310 in chips) 
+Mahu2021: posts small blind 30
+michgi: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6h 4d]
+Mahu2021: folds 
+Uncalled bet (30) returned to michgi
+michgi collected 60 from pot
+michgi: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: michgi (big blind) collected (60)
+
+
+
+PokerStars Hand #243932422586: Tournament #3596711169, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/05/27 13:03:13 CET [2023/05/27 7:03:13 ET]
+Table '3596711169 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (160 in chips) 
+Seat 3: michgi (1340 in chips) 
+michgi: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h 2h]
+michgi: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (60)
+Seat 3: michgi (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #243932423327: Tournament #3596711169, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/05/27 13:03:18 CET [2023/05/27 7:03:18 ET]
+Table '3596711169 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (190 in chips) 
+Seat 3: michgi (1310 in chips) 
+Mahu2021: posts small blind 30
+michgi: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah 2d]
+Mahu2021: raises 130 to 190 and is all-in
+michgi: calls 130
+*** FLOP *** [Qd Qh 3d]
+*** TURN *** [Qd Qh 3d] [9c]
+*** RIVER *** [Qd Qh 3d 9c] [4d]
+*** SHOW DOWN ***
+michgi: shows [Ks Qc] (three of a kind, Queens)
+Mahu2021: shows [Ah 2d] (a pair of Queens)
+michgi collected 380 from pot
+Mahu2021 finished the tournament in 2nd place
+michgi wins the tournament and receives $3.00 - congratulations!
+*** SUMMARY ***
+Total pot 380 | Rake 0 
+Board [Qd Qh 3d 9c 4d]
+Seat 1: Mahu2021 (button) (small blind) showed [Ah 2d] and lost with a pair of Queens
+Seat 3: michgi (big blind) showed [Ks Qc] and won (380) with three of a kind, Queens
+
+
+

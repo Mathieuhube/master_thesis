@@ -1,0 +1,109 @@
+﻿PokerStars Hand #247055768697: Tournament #3671977933, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/11 23:00:01 CET [2023/11/11 17:00:01 ET]
+Table '3671977933 1' 3-max Seat #1 is the button
+Seat 1: Frostik1981 (500 in chips) 
+Seat 2: sammago (500 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+sammago: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qs 4c]
+Frostik1981: raises 20 to 40
+sammago: calls 30
+Mahu2021: folds 
+*** FLOP *** [Kd 7h Js]
+sammago: checks 
+Frostik1981: bets 50
+sammago: calls 50
+*** TURN *** [Kd 7h Js] [6h]
+sammago: checks 
+Frostik1981: bets 100
+sammago: calls 100
+*** RIVER *** [Kd 7h Js 6h] [6c]
+sammago: checks 
+Frostik1981: bets 200
+sammago: folds 
+Uncalled bet (200) returned to Frostik1981
+Frostik1981 collected 400 from pot
+Frostik1981: doesn't show hand 
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Board [Kd 7h Js 6h 6c]
+Seat 1: Frostik1981 (button) collected (400)
+Seat 2: sammago (small blind) folded on the River
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #247055778007: Tournament #3671977933, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/11 23:00:37 CET [2023/11/11 17:00:37 ET]
+Table '3671977933 1' 3-max Seat #2 is the button
+Seat 1: Frostik1981 (710 in chips) 
+Seat 2: sammago (310 in chips) 
+Seat 3: Mahu2021 (480 in chips) 
+Mahu2021: posts small blind 10
+Frostik1981: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d 7c]
+sammago: calls 20
+Mahu2021: folds 
+Frostik1981: raises 20 to 40
+sammago: calls 20
+*** FLOP *** [Qh Js 9s]
+Frostik1981: bets 45
+sammago: calls 45
+*** TURN *** [Qh Js 9s] [7s]
+Frostik1981: checks 
+sammago: checks 
+*** RIVER *** [Qh Js 9s 7s] [2s]
+Frostik1981: checks 
+sammago: bets 225 and is all-in
+Frostik1981: calls 225
+*** SHOW DOWN ***
+sammago: shows [9c 5s] (a flush, Jack high)
+Frostik1981: shows [Kh Jh] (a pair of Jacks)
+sammago collected 630 from pot
+*** SUMMARY ***
+Total pot 630 | Rake 0 
+Board [Qh Js 9s 7s 2s]
+Seat 1: Frostik1981 (big blind) showed [Kh Jh] and lost with a pair of Jacks
+Seat 2: sammago (button) showed [9c 5s] and won (630) with a flush, Jack high
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #247055785163: Tournament #3671977933, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/11 23:01:03 CET [2023/11/11 17:01:03 ET]
+Table '3671977933 1' 3-max Seat #3 is the button
+Seat 1: Frostik1981 (400 in chips) 
+Seat 2: sammago (630 in chips) 
+Seat 3: Mahu2021 (470 in chips) 
+Frostik1981: posts small blind 10
+sammago: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qs 7s]
+Mahu2021: calls 20
+Frostik1981: calls 10
+sammago: checks 
+*** FLOP *** [9d 3s 4d]
+Frostik1981: checks 
+sammago: checks 
+Mahu2021: checks 
+*** TURN *** [9d 3s 4d] [5s]
+Frostik1981: checks 
+sammago: bets 610 and is all-in
+Mahu2021: calls 450 and is all-in
+Frostik1981: folds 
+Uncalled bet (160) returned to sammago
+*** RIVER *** [9d 3s 4d 5s] [8h]
+*** SHOW DOWN ***
+sammago: shows [Ad 2c] (a straight, Ace to Five)
+Mahu2021: shows [Qs 7s] (high card Queen)
+sammago collected 960 from pot
+Mahu2021 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 960 | Rake 0 
+Board [9d 3s 4d 5s 8h]
+Seat 1: Frostik1981 (small blind) folded on the Turn
+Seat 2: sammago (big blind) showed [Ad 2c] and won (960) with a straight, Ace to Five
+Seat 3: Mahu2021 (button) showed [Qs 7s] and lost with high card Queen
+
+
+

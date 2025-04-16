@@ -1,0 +1,331 @@
+﻿PokerStars Hand #253487458034: Tournament #3825447345, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2024/11/20 7:53:48 CET [2024/11/20 1:53:48 ET]
+Table '3825447345 1' 3-max Seat #1 is the button
+Seat 1: Valentino23456 (500 in chips) 
+Seat 2: RD3Y (500 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+RD3Y: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Td Ah]
+Valentino23456: calls 20
+RD3Y: folds 
+Mahu2021: checks 
+*** FLOP *** [3h Qh 8s]
+Mahu2021: checks 
+Valentino23456: checks 
+*** TURN *** [3h Qh 8s] [9h]
+Mahu2021: checks 
+Valentino23456: checks 
+*** RIVER *** [3h Qh 8s 9h] [3s]
+Mahu2021: checks 
+Valentino23456: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [Td Ah] (a pair of Threes)
+Valentino23456: mucks hand 
+Mahu2021 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [3h Qh 8s 9h 3s]
+Seat 1: Valentino23456 (button) mucked [7c 5c]
+Seat 2: RD3Y (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) showed [Td Ah] and won (50) with a pair of Threes
+
+
+
+PokerStars Hand #253487459365: Tournament #3825447345, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2024/11/20 7:54:07 CET [2024/11/20 1:54:07 ET]
+Table '3825447345 1' 3-max Seat #2 is the button
+Seat 1: Valentino23456 (480 in chips) 
+Seat 2: RD3Y (490 in chips) 
+Seat 3: Mahu2021 (530 in chips) 
+Mahu2021: posts small blind 10
+Valentino23456: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh 8s]
+RD3Y: folds 
+Mahu2021: calls 10
+Valentino23456: checks 
+*** FLOP *** [Th 9h 3d]
+Mahu2021: bets 20
+Valentino23456: raises 20 to 40
+Mahu2021: calls 20
+*** TURN *** [Th 9h 3d] [Qd]
+Mahu2021: checks 
+Valentino23456: bets 20
+Mahu2021: calls 20
+*** RIVER *** [Th 9h 3d Qd] [6s]
+Mahu2021: bets 160
+Valentino23456: calls 160
+*** SHOW DOWN ***
+Mahu2021: shows [Jh 8s] (a straight, Eight to Queen)
+Valentino23456: mucks hand 
+Mahu2021 collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Board [Th 9h 3d Qd 6s]
+Seat 1: Valentino23456 (big blind) mucked [9c As]
+Seat 2: RD3Y (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) showed [Jh 8s] and won (480) with a straight, Eight to Queen
+
+
+
+PokerStars Hand #253487460977: Tournament #3825447345, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2024/11/20 7:54:30 CET [2024/11/20 1:54:30 ET]
+Table '3825447345 1' 3-max Seat #3 is the button
+Seat 1: Valentino23456 (240 in chips) 
+Seat 2: RD3Y (490 in chips) 
+Seat 3: Mahu2021 (770 in chips) 
+Valentino23456: posts small blind 10
+RD3Y: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h 3s]
+Mahu2021: folds 
+Valentino23456: calls 10
+RD3Y: raises 470 to 490 and is all-in
+Valentino23456: calls 220 and is all-in
+Uncalled bet (250) returned to RD3Y
+*** FLOP *** [4s 7s 2c]
+*** TURN *** [4s 7s 2c] [6h]
+*** RIVER *** [4s 7s 2c 6h] [Ts]
+*** SHOW DOWN ***
+Valentino23456: shows [3d Jd] (high card Jack)
+RD3Y: shows [Qd 8h] (high card Queen)
+RD3Y collected 480 from pot
+Valentino23456 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Board [4s 7s 2c 6h Ts]
+Seat 1: Valentino23456 (small blind) showed [3d Jd] and lost with high card Jack
+Seat 2: RD3Y (big blind) showed [Qd 8h] and won (480) with high card Queen
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253487462534: Tournament #3825447345, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2024/11/20 7:54:53 CET [2024/11/20 1:54:53 ET]
+Table '3825447345 1' 3-max Seat #2 is the button
+Seat 2: RD3Y (730 in chips) 
+Seat 3: Mahu2021 (770 in chips) 
+RD3Y: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c Tc]
+RD3Y: folds 
+Uncalled bet (10) returned to Mahu2021
+Mahu2021 collected 20 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 2: RD3Y (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (20)
+
+
+
+PokerStars Hand #253487462864: Tournament #3825447345, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2024/11/20 7:54:57 CET [2024/11/20 1:54:57 ET]
+Table '3825447345 1' 3-max Seat #3 is the button
+Seat 2: RD3Y (720 in chips) 
+Seat 3: Mahu2021 (780 in chips) 
+Mahu2021: posts small blind 10
+RD3Y: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h 3s]
+Mahu2021: folds 
+Uncalled bet (10) returned to RD3Y
+RD3Y collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 2: RD3Y (big blind) collected (20)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #253487463261: Tournament #3825447345, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2024/11/20 7:55:03 CET [2024/11/20 1:55:03 ET]
+Table '3825447345 1' 3-max Seat #2 is the button
+Seat 2: RD3Y (730 in chips) 
+Seat 3: Mahu2021 (770 in chips) 
+RD3Y: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h 5s]
+RD3Y: raises 710 to 730 and is all-in
+Mahu2021: folds 
+Uncalled bet (710) returned to RD3Y
+RD3Y collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: RD3Y (button) (small blind) collected (40)
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #253487463878: Tournament #3825447345, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2024/11/20 7:55:12 CET [2024/11/20 1:55:12 ET]
+Table '3825447345 1' 3-max Seat #3 is the button
+Seat 2: RD3Y (750 in chips) 
+Seat 3: Mahu2021 (750 in chips) 
+Mahu2021: posts small blind 10
+RD3Y: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d 3d]
+Mahu2021: calls 10
+RD3Y: checks 
+*** FLOP *** [As 4s Jh]
+RD3Y: checks 
+Mahu2021: bets 20
+RD3Y: calls 20
+*** TURN *** [As 4s Jh] [Qh]
+RD3Y: checks 
+Mahu2021: checks 
+*** RIVER *** [As 4s Jh Qh] [Kc]
+RD3Y: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+RD3Y: shows [5s 9s] (high card Ace)
+Mahu2021: mucks hand 
+RD3Y collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [As 4s Jh Qh Kc]
+Seat 2: RD3Y (big blind) showed [5s 9s] and won (80) with high card Ace
+Seat 3: Mahu2021 (button) (small blind) mucked [5d 3d]
+
+
+
+PokerStars Hand #253487464981: Tournament #3825447345, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2024/11/20 7:55:30 CET [2024/11/20 1:55:30 ET]
+Table '3825447345 1' 3-max Seat #2 is the button
+Seat 2: RD3Y (790 in chips) 
+Seat 3: Mahu2021 (710 in chips) 
+RD3Y: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6h 2s]
+RD3Y: raises 770 to 790 and is all-in
+Mahu2021: folds 
+Uncalled bet (770) returned to RD3Y
+RD3Y collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: RD3Y (button) (small blind) collected (40)
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #253487465488: Tournament #3825447345, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2024/11/20 7:55:38 CET [2024/11/20 1:55:38 ET]
+Table '3825447345 1' 3-max Seat #3 is the button
+Seat 2: RD3Y (810 in chips) 
+Seat 3: Mahu2021 (690 in chips) 
+Mahu2021: posts small blind 10
+RD3Y: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c 3d]
+Mahu2021: folds 
+Uncalled bet (10) returned to RD3Y
+RD3Y collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 2: RD3Y (big blind) collected (20)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #253487465739: Tournament #3825447345, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2024/11/20 7:55:43 CET [2024/11/20 1:55:43 ET]
+Table '3825447345 1' 3-max Seat #2 is the button
+Seat 2: RD3Y (820 in chips) 
+Seat 3: Mahu2021 (680 in chips) 
+RD3Y: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c 7c]
+RD3Y: raises 800 to 820 and is all-in
+Mahu2021: folds 
+Uncalled bet (800) returned to RD3Y
+RD3Y collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: RD3Y (button) (small blind) collected (40)
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #253487466101: Tournament #3825447345, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2024/11/20 7:55:48 CET [2024/11/20 1:55:48 ET]
+Table '3825447345 1' 3-max Seat #3 is the button
+Seat 2: RD3Y (840 in chips) 
+Seat 3: Mahu2021 (660 in chips) 
+Mahu2021: posts small blind 10
+RD3Y: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h Ts]
+Mahu2021: calls 10
+RD3Y: checks 
+*** FLOP *** [Kc 8c 2d]
+RD3Y: checks 
+Mahu2021: checks 
+*** TURN *** [Kc 8c 2d] [8d]
+RD3Y: checks 
+Mahu2021: checks 
+*** RIVER *** [Kc 8c 2d 8d] [4h]
+RD3Y: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+RD3Y: shows [9h Qd] (a pair of Eights)
+Mahu2021: mucks hand 
+RD3Y collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Kc 8c 2d 8d 4h]
+Seat 2: RD3Y (big blind) showed [9h Qd] and won (40) with a pair of Eights
+Seat 3: Mahu2021 (button) (small blind) mucked [7h Ts]
+
+
+
+PokerStars Hand #253487466936: Tournament #3825447345, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2024/11/20 7:56:03 CET [2024/11/20 1:56:03 ET]
+Table '3825447345 1' 3-max Seat #2 is the button
+Seat 2: RD3Y (860 in chips) 
+Seat 3: Mahu2021 (640 in chips) 
+RD3Y: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kc As]
+RD3Y: raises 830 to 860 and is all-in
+Mahu2021: calls 610 and is all-in
+Uncalled bet (220) returned to RD3Y
+*** FLOP *** [9d 2s Jh]
+*** TURN *** [9d 2s Jh] [Tc]
+*** RIVER *** [9d 2s Jh Tc] [8d]
+*** SHOW DOWN ***
+Mahu2021: shows [Kc As] (high card Ace)
+RD3Y: shows [Kd 3c] (high card King)
+Mahu2021 collected 1280 from pot
+*** SUMMARY ***
+Total pot 1280 | Rake 0 
+Board [9d 2s Jh Tc 8d]
+Seat 2: RD3Y (button) (small blind) showed [Kd 3c] and lost with high card King
+Seat 3: Mahu2021 (big blind) showed [Kc As] and won (1280) with high card Ace
+
+
+
+PokerStars Hand #253487467632: Tournament #3825447345, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2024/11/20 7:56:15 CET [2024/11/20 1:56:15 ET]
+Table '3825447345 1' 3-max Seat #3 is the button
+Seat 2: RD3Y (220 in chips) 
+Seat 3: Mahu2021 (1280 in chips) 
+Mahu2021: posts small blind 15
+RD3Y: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c 8d]
+Mahu2021: calls 15
+RD3Y: raises 190 to 220 and is all-in
+Mahu2021: calls 190
+*** FLOP *** [8h Qs 3d]
+*** TURN *** [8h Qs 3d] [2d]
+*** RIVER *** [8h Qs 3d 2d] [5d]
+*** SHOW DOWN ***
+RD3Y: shows [Ts Ah] (high card Ace)
+Mahu2021: shows [9c 8d] (a pair of Eights)
+Mahu2021 collected 440 from pot
+RD3Y finished the tournament in 2nd place
+Mahu2021 wins the tournament - congratulations!
+Mahu2021 wins a '$1.00 Power Path Step 2 Ticket' ticket
+*** SUMMARY ***
+Total pot 440 | Rake 0 
+Board [8h Qs 3d 2d 5d]
+Seat 2: RD3Y (big blind) showed [Ts Ah] and lost with high card Ace
+Seat 3: Mahu2021 (button) (small blind) showed [9c 8d] and won (440) with a pair of Eights
+
+
+

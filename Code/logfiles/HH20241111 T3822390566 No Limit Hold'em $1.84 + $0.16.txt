@@ -1,0 +1,330 @@
+﻿PokerStars Hand #253355062378: Tournament #3822390566, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/11 10:10:18 CET [2024/11/11 4:10:18 ET]
+Table '3822390566 1' 3-max Seat #1 is the button
+Seat 1: Aleks-bik (500 in chips) 
+Seat 2: Docnano (500 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+Docnano: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As 2d]
+Aleks-bik: folds 
+Docnano: folds 
+Uncalled bet (10) returned to Mahu2021
+Mahu2021 collected 20 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Aleks-bik (button) folded before Flop (didn't bet)
+Seat 2: Docnano (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (20)
+
+
+
+PokerStars Hand #253355062731: Tournament #3822390566, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/11 10:10:22 CET [2024/11/11 4:10:22 ET]
+Table '3822390566 1' 3-max Seat #2 is the button
+Seat 1: Aleks-bik (500 in chips) 
+Seat 2: Docnano (490 in chips) 
+Seat 3: Mahu2021 (510 in chips) 
+Mahu2021: posts small blind 10
+Aleks-bik: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh Td]
+Docnano: raises 20 to 40
+Mahu2021: calls 30
+Aleks-bik: calls 20
+*** FLOP *** [Qc 2s Jh]
+Mahu2021: checks 
+Aleks-bik: checks 
+Docnano: bets 60
+Mahu2021: calls 60
+Aleks-bik: folds 
+*** TURN *** [Qc 2s Jh] [Js]
+Mahu2021: checks 
+Docnano: checks 
+*** RIVER *** [Qc 2s Jh Js] [6c]
+Mahu2021: bets 100
+Docnano: calls 100
+*** SHOW DOWN ***
+Mahu2021: shows [Kh Td] (a pair of Jacks)
+Docnano: shows [Qh Kc] (two pair, Queens and Jacks)
+Docnano collected 440 from pot
+*** SUMMARY ***
+Total pot 440 | Rake 0 
+Board [Qc 2s Jh Js 6c]
+Seat 1: Aleks-bik (big blind) folded on the Flop
+Seat 2: Docnano (button) showed [Qh Kc] and won (440) with two pair, Queens and Jacks
+Seat 3: Mahu2021 (small blind) showed [Kh Td] and lost with a pair of Jacks
+
+
+
+PokerStars Hand #253355065999: Tournament #3822390566, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/11 10:11:00 CET [2024/11/11 4:11:00 ET]
+Table '3822390566 1' 3-max Seat #3 is the button
+Seat 1: Aleks-bik (460 in chips) 
+Seat 2: Docnano (730 in chips) 
+Seat 3: Mahu2021 (310 in chips) 
+Aleks-bik: posts small blind 10
+Docnano: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d 6h]
+Mahu2021: folds 
+Aleks-bik: raises 20 to 40
+Docnano: calls 20
+*** FLOP *** [Qd 4s Td]
+Aleks-bik: bets 40
+Docnano: folds 
+Uncalled bet (40) returned to Aleks-bik
+Aleks-bik collected 80 from pot
+Aleks-bik: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Qd 4s Td]
+Seat 1: Aleks-bik (small blind) collected (80)
+Seat 2: Docnano (big blind) folded on the Flop
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253355067015: Tournament #3822390566, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/11 10:11:12 CET [2024/11/11 4:11:12 ET]
+Table '3822390566 1' 3-max Seat #1 is the button
+Seat 1: Aleks-bik (500 in chips) 
+Seat 2: Docnano (690 in chips) 
+Seat 3: Mahu2021 (310 in chips) 
+Docnano: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c Kd]
+Aleks-bik: folds 
+Docnano: raises 20 to 40
+Mahu2021: calls 20
+*** FLOP *** [9d 4c 3h]
+Docnano: checks 
+Mahu2021: bets 270 and is all-in
+Docnano: calls 270
+*** TURN *** [9d 4c 3h] [4h]
+*** RIVER *** [9d 4c 3h 4h] [Qs]
+*** SHOW DOWN ***
+Docnano: shows [Ad Jd] (a pair of Fours)
+Mahu2021: shows [9c Kd] (two pair, Nines and Fours)
+Mahu2021 collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | Rake 0 
+Board [9d 4c 3h 4h Qs]
+Seat 1: Aleks-bik (button) folded before Flop (didn't bet)
+Seat 2: Docnano (small blind) showed [Ad Jd] and lost with a pair of Fours
+Seat 3: Mahu2021 (big blind) showed [9c Kd] and won (620) with two pair, Nines and Fours
+
+
+
+PokerStars Hand #253355068510: Tournament #3822390566, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/11 10:11:30 CET [2024/11/11 4:11:30 ET]
+Table '3822390566 1' 3-max Seat #2 is the button
+Seat 1: Aleks-bik (500 in chips) 
+Seat 2: Docnano (380 in chips) 
+Seat 3: Mahu2021 (620 in chips) 
+Mahu2021: posts small blind 10
+Aleks-bik: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd 2h]
+Docnano: raises 20 to 40
+Mahu2021: calls 30
+Aleks-bik: calls 20
+*** FLOP *** [7h 2s 3c]
+Mahu2021: checks 
+Aleks-bik: checks 
+Docnano: bets 60
+Mahu2021: calls 60
+Aleks-bik: folds 
+*** TURN *** [7h 2s 3c] [Qd]
+Mahu2021: checks 
+Docnano: bets 120
+Mahu2021: folds 
+Uncalled bet (120) returned to Docnano
+Docnano collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [7h 2s 3c Qd]
+Seat 1: Aleks-bik (big blind) folded on the Flop
+Seat 2: Docnano (button) collected (240)
+Seat 3: Mahu2021 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #253355070787: Tournament #3822390566, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/11 10:11:57 CET [2024/11/11 4:11:57 ET]
+Table '3822390566 1' 3-max Seat #3 is the button
+Seat 1: Aleks-bik (460 in chips) 
+Seat 2: Docnano (520 in chips) 
+Seat 3: Mahu2021 (520 in chips) 
+Aleks-bik: posts small blind 10
+Docnano: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc 2c]
+Mahu2021: folds 
+Aleks-bik: raises 20 to 40
+Docnano: folds 
+Uncalled bet (20) returned to Aleks-bik
+Aleks-bik collected 40 from pot
+Aleks-bik: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Aleks-bik (small blind) collected (40)
+Seat 2: Docnano (big blind) folded before Flop
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253355072013: Tournament #3822390566, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/11 10:12:11 CET [2024/11/11 4:12:11 ET]
+Table '3822390566 1' 3-max Seat #1 is the button
+Seat 1: Aleks-bik (480 in chips) 
+Seat 2: Docnano (500 in chips) 
+Seat 3: Mahu2021 (520 in chips) 
+Docnano: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh 2c]
+Aleks-bik: folds 
+Docnano: folds 
+Uncalled bet (10) returned to Mahu2021
+Mahu2021 collected 20 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Aleks-bik (button) folded before Flop (didn't bet)
+Seat 2: Docnano (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (20)
+
+
+
+PokerStars Hand #253355073175: Tournament #3822390566, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/11 10:12:24 CET [2024/11/11 4:12:24 ET]
+Table '3822390566 1' 3-max Seat #2 is the button
+Seat 1: Aleks-bik (480 in chips) 
+Seat 2: Docnano (490 in chips) 
+Seat 3: Mahu2021 (530 in chips) 
+Mahu2021: posts small blind 15
+Aleks-bik: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s Kd]
+Docnano: folds 
+Mahu2021: raises 30 to 60
+Aleks-bik: raises 420 to 480 and is all-in
+Mahu2021: folds 
+Uncalled bet (420) returned to Aleks-bik
+Aleks-bik collected 120 from pot
+Aleks-bik: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: Aleks-bik (big blind) collected (120)
+Seat 2: Docnano (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #253355074307: Tournament #3822390566, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/11 10:12:37 CET [2024/11/11 4:12:37 ET]
+Table '3822390566 1' 3-max Seat #3 is the button
+Seat 1: Aleks-bik (540 in chips) 
+Seat 2: Docnano (490 in chips) 
+Seat 3: Mahu2021 (470 in chips) 
+Aleks-bik: posts small blind 15
+Docnano: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As Ts]
+Mahu2021: raises 30 to 60
+Aleks-bik: folds 
+Docnano: calls 30
+*** FLOP *** [Qc Ks 6c]
+Docnano: checks 
+Mahu2021: checks 
+*** TURN *** [Qc Ks 6c] [7c]
+Docnano: bets 30
+Mahu2021: calls 30
+*** RIVER *** [Qc Ks 6c 7c] [Kh]
+Docnano: bets 98
+Mahu2021: calls 98
+*** SHOW DOWN ***
+Docnano: shows [Kc Qh] (a full house, Kings full of Queens)
+Mahu2021: mucks hand 
+Docnano collected 391 from pot
+*** SUMMARY ***
+Total pot 391 | Rake 0 
+Board [Qc Ks 6c 7c Kh]
+Seat 1: Aleks-bik (small blind) folded before Flop
+Seat 2: Docnano (big blind) showed [Kc Qh] and won (391) with a full house, Kings full of Queens
+Seat 3: Mahu2021 (button) mucked [As Ts]
+
+
+
+PokerStars Hand #253355076078: Tournament #3822390566, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/11 10:12:57 CET [2024/11/11 4:12:57 ET]
+Table '3822390566 1' 3-max Seat #1 is the button
+Seat 1: Aleks-bik (525 in chips) 
+Seat 2: Docnano (693 in chips) 
+Seat 3: Mahu2021 (282 in chips) 
+Docnano: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6h 7c]
+Aleks-bik: folds 
+Docnano: calls 15
+Mahu2021: checks 
+*** FLOP *** [Kh Tc Jc]
+Docnano: bets 30
+Mahu2021: folds 
+Uncalled bet (30) returned to Docnano
+Docnano collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Kh Tc Jc]
+Seat 1: Aleks-bik (button) folded before Flop (didn't bet)
+Seat 2: Docnano (small blind) collected (60)
+Seat 3: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #253355077909: Tournament #3822390566, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/11 10:13:18 CET [2024/11/11 4:13:18 ET]
+Table '3822390566 1' 3-max Seat #2 is the button
+Seat 1: Aleks-bik (525 in chips) 
+Seat 2: Docnano (723 in chips) 
+Seat 3: Mahu2021 (252 in chips) 
+Mahu2021: posts small blind 15
+Aleks-bik: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6h Jd]
+Docnano: folds 
+Mahu2021: folds 
+Uncalled bet (15) returned to Aleks-bik
+Aleks-bik collected 30 from pot
+Aleks-bik: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Aleks-bik (big blind) collected (30)
+Seat 2: Docnano (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #253355078350: Tournament #3822390566, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/11 10:13:23 CET [2024/11/11 4:13:23 ET]
+Table '3822390566 1' 3-max Seat #3 is the button
+Seat 1: Aleks-bik (540 in chips) 
+Seat 2: Docnano (723 in chips) 
+Seat 3: Mahu2021 (237 in chips) 
+Aleks-bik: posts small blind 15
+Docnano: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c 7h]
+Mahu2021: raises 207 to 237 and is all-in
+Aleks-bik: folds 
+Docnano: calls 207
+*** FLOP *** [4h Qd 4s]
+*** TURN *** [4h Qd 4s] [8c]
+*** RIVER *** [4h Qd 4s 8c] [3d]
+*** SHOW DOWN ***
+Docnano: shows [Qc Jc] (two pair, Queens and Fours)
+Mahu2021: shows [7c 7h] (two pair, Sevens and Fours)
+Docnano collected 489 from pot
+Mahu2021 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 489 | Rake 0 
+Board [4h Qd 4s 8c 3d]
+Seat 1: Aleks-bik (small blind) folded before Flop
+Seat 2: Docnano (big blind) showed [Qc Jc] and won (489) with two pair, Queens and Fours
+Seat 3: Mahu2021 (button) showed [7c 7h] and lost with two pair, Sevens and Fours
+
+
+

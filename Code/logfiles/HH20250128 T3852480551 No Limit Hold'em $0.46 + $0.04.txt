@@ -1,0 +1,180 @@
+﻿PokerStars Hand #254591074375: Tournament #3852480551, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2025/01/28 8:47:57 CET [2025/01/28 2:47:57 ET]
+Table '3852480551 1' 3-max Seat #1 is the button
+Seat 1: 0xsandro (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: GeorgianaBalan (500 in chips) 
+Mahu2021: posts small blind 10
+GeorgianaBalan: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Td Jc]
+0xsandro: calls 20
+Mahu2021: calls 10
+GeorgianaBalan: checks 
+*** FLOP *** [2c As 4c]
+Mahu2021: checks 
+GeorgianaBalan: checks 
+0xsandro: bets 80
+Mahu2021: folds 
+GeorgianaBalan: folds 
+Uncalled bet (80) returned to 0xsandro
+0xsandro collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [2c As 4c]
+Seat 1: 0xsandro (button) collected (60)
+Seat 2: Mahu2021 (small blind) folded on the Flop
+Seat 3: GeorgianaBalan (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254591075231: Tournament #3852480551, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2025/01/28 8:48:10 CET [2025/01/28 2:48:10 ET]
+Table '3852480551 1' 3-max Seat #2 is the button
+Seat 1: 0xsandro (540 in chips) 
+Seat 2: Mahu2021 (480 in chips) 
+Seat 3: GeorgianaBalan (480 in chips) 
+GeorgianaBalan: posts small blind 10
+0xsandro: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc Kc]
+Mahu2021: raises 20 to 40
+GeorgianaBalan: raises 440 to 480 and is all-in
+0xsandro: folds 
+Mahu2021: calls 440 and is all-in
+*** FLOP *** [6h 3h Qc]
+*** TURN *** [6h 3h Qc] [4s]
+*** RIVER *** [6h 3h Qc 4s] [Kd]
+*** SHOW DOWN ***
+GeorgianaBalan: shows [Js Ac] (high card Ace)
+Mahu2021: shows [Jc Kc] (a pair of Kings)
+Mahu2021 collected 980 from pot
+GeorgianaBalan finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 980 | Rake 0 
+Board [6h 3h Qc 4s Kd]
+Seat 1: 0xsandro (big blind) folded before Flop
+Seat 2: Mahu2021 (button) showed [Jc Kc] and won (980) with a pair of Kings
+Seat 3: GeorgianaBalan (small blind) showed [Js Ac] and lost with high card Ace
+
+
+
+PokerStars Hand #254591076704: Tournament #3852480551, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2025/01/28 8:48:33 CET [2025/01/28 2:48:33 ET]
+Table '3852480551 1' 3-max Seat #1 is the button
+Seat 1: 0xsandro (520 in chips) 
+Seat 2: Mahu2021 (980 in chips) 
+0xsandro: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac 3d]
+0xsandro: calls 10
+Mahu2021: checks 
+*** FLOP *** [Ks Qs 5h]
+Mahu2021: checks 
+0xsandro: checks 
+*** TURN *** [Ks Qs 5h] [Qd]
+Mahu2021: checks 
+0xsandro: bets 40
+Mahu2021: calls 40
+*** RIVER *** [Ks Qs 5h Qd] [4h]
+Mahu2021: checks 
+0xsandro: bets 460 and is all-in
+Mahu2021: folds 
+Uncalled bet (460) returned to 0xsandro
+0xsandro collected 120 from pot
+0xsandro: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Ks Qs 5h Qd 4h]
+Seat 1: 0xsandro (button) (small blind) collected (120)
+Seat 2: Mahu2021 (big blind) folded on the River
+
+
+
+PokerStars Hand #254591078186: Tournament #3852480551, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2025/01/28 8:48:54 CET [2025/01/28 2:48:54 ET]
+Table '3852480551 1' 3-max Seat #2 is the button
+Seat 1: 0xsandro (580 in chips) 
+Seat 2: Mahu2021 (920 in chips) 
+Mahu2021: posts small blind 10
+0xsandro: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac 8h]
+Mahu2021: raises 20 to 40
+0xsandro: calls 20
+*** FLOP *** [3c 5h 9s]
+0xsandro: checks 
+Mahu2021: checks 
+*** TURN *** [3c 5h 9s] [6c]
+0xsandro: bets 60
+Mahu2021: calls 60
+*** RIVER *** [3c 5h 9s 6c] [5d]
+0xsandro: bets 480 and is all-in
+Mahu2021: folds 
+Uncalled bet (480) returned to 0xsandro
+0xsandro collected 200 from pot
+0xsandro: doesn't show hand 
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [3c 5h 9s 6c 5d]
+Seat 1: 0xsandro (big blind) collected (200)
+Seat 2: Mahu2021 (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #254591079853: Tournament #3852480551, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2025/01/28 8:49:19 CET [2025/01/28 2:49:19 ET]
+Table '3852480551 1' 3-max Seat #1 is the button
+Seat 1: 0xsandro (680 in chips) 
+Seat 2: Mahu2021 (820 in chips) 
+0xsandro: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d 8h]
+0xsandro: calls 10
+Mahu2021: checks 
+*** FLOP *** [As 7c Qd]
+Mahu2021: checks 
+0xsandro: bets 60
+Mahu2021: folds 
+Uncalled bet (60) returned to 0xsandro
+0xsandro collected 40 from pot
+0xsandro: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [As 7c Qd]
+Seat 1: 0xsandro (button) (small blind) collected (40)
+Seat 2: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254591080680: Tournament #3852480551, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2025/01/28 8:49:32 CET [2025/01/28 2:49:32 ET]
+Table '3852480551 1' 3-max Seat #2 is the button
+Seat 1: 0xsandro (700 in chips) 
+Seat 2: Mahu2021 (800 in chips) 
+Mahu2021: posts small blind 10
+0xsandro: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8d 8c]
+Mahu2021: calls 10
+0xsandro: checks 
+*** FLOP *** [2c 6h Tc]
+0xsandro: checks 
+Mahu2021: bets 40
+0xsandro: raises 40 to 80
+Mahu2021: raises 700 to 780 and is all-in
+0xsandro: calls 600 and is all-in
+Uncalled bet (100) returned to Mahu2021
+*** TURN *** [2c 6h Tc] [Kc]
+*** RIVER *** [2c 6h Tc Kc] [3c]
+*** SHOW DOWN ***
+0xsandro: shows [Th 3h] (two pair, Tens and Threes)
+Mahu2021: shows [8d 8c] (a flush, King high)
+Mahu2021 collected 1400 from pot
+0xsandro finished the tournament in 2nd place
+Mahu2021 wins the tournament - congratulations!
+Mahu2021 wins a '$1.50 Power Path Step 2 Ticket' ticket
+*** SUMMARY ***
+Total pot 1400 | Rake 0 
+Board [2c 6h Tc Kc 3c]
+Seat 1: 0xsandro (big blind) showed [Th 3h] and lost with two pair, Tens and Threes
+Seat 2: Mahu2021 (button) (small blind) showed [8d 8c] and won (1400) with a flush, King high
+
+
+

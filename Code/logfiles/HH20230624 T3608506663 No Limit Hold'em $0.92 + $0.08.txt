@@ -1,0 +1,507 @@
+﻿PokerStars Hand #244446395558: Tournament #3608506663, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/06/24 22:31:14 CET [2023/06/24 16:31:14 ET]
+Table '3608506663 1' 3-max Seat #1 is the button
+Seat 1: TheSmurfIsBack! (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: Maina_pld (500 in chips) 
+Mahu2021: posts small blind 10
+Maina_pld: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad Qd]
+TheSmurfIsBack!: calls 20
+Mahu2021: calls 10
+Maina_pld: checks 
+*** FLOP *** [7c 7h Jc]
+Mahu2021: checks 
+Maina_pld: checks 
+TheSmurfIsBack!: checks 
+*** TURN *** [7c 7h Jc] [8s]
+Mahu2021: checks 
+Maina_pld: checks 
+TheSmurfIsBack!: checks 
+*** RIVER *** [7c 7h Jc 8s] [4h]
+Mahu2021: bets 20
+Maina_pld: folds 
+TheSmurfIsBack!: calls 20
+*** SHOW DOWN ***
+Mahu2021: shows [Ad Qd] (a pair of Sevens)
+TheSmurfIsBack!: shows [3s 4s] (two pair, Sevens and Fours)
+TheSmurfIsBack! collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [7c 7h Jc 8s 4h]
+Seat 1: TheSmurfIsBack! (button) showed [3s 4s] and won (100) with two pair, Sevens and Fours
+Seat 2: Mahu2021 (small blind) showed [Ad Qd] and lost with a pair of Sevens
+Seat 3: Maina_pld (big blind) folded on the River
+
+
+
+PokerStars Hand #244446402648: Tournament #3608506663, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/06/24 22:31:37 CET [2023/06/24 16:31:37 ET]
+Table '3608506663 1' 3-max Seat #2 is the button
+Seat 1: TheSmurfIsBack! (560 in chips) 
+Seat 2: Mahu2021 (460 in chips) 
+Seat 3: Maina_pld (480 in chips) 
+Maina_pld: posts small blind 10
+TheSmurfIsBack!: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks 6d]
+Mahu2021: folds 
+Maina_pld: folds 
+Uncalled bet (10) returned to TheSmurfIsBack!
+TheSmurfIsBack! collected 20 from pot
+TheSmurfIsBack!: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: TheSmurfIsBack! (big blind) collected (20)
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: Maina_pld (small blind) folded before Flop
+
+
+
+PokerStars Hand #244446405760: Tournament #3608506663, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/06/24 22:31:47 CET [2023/06/24 16:31:47 ET]
+Table '3608506663 1' 3-max Seat #3 is the button
+Seat 1: TheSmurfIsBack! (570 in chips) 
+Seat 2: Mahu2021 (460 in chips) 
+Seat 3: Maina_pld (470 in chips) 
+TheSmurfIsBack!: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah Kc]
+Maina_pld: raises 20 to 40
+TheSmurfIsBack!: folds 
+Mahu2021: calls 20
+*** FLOP *** [3s Tc 7s]
+Mahu2021: checks 
+Maina_pld: bets 40
+Mahu2021: calls 40
+*** TURN *** [3s Tc 7s] [6h]
+Mahu2021: checks 
+Maina_pld: checks 
+*** RIVER *** [3s Tc 7s 6h] [Jh]
+Mahu2021: checks 
+Maina_pld: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [Ah Kc] (high card Ace)
+Maina_pld: shows [9d 9h] (a pair of Nines)
+Maina_pld collected 170 from pot
+*** SUMMARY ***
+Total pot 170 | Rake 0 
+Board [3s Tc 7s 6h Jh]
+Seat 1: TheSmurfIsBack! (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) showed [Ah Kc] and lost with high card Ace
+Seat 3: Maina_pld (button) showed [9d 9h] and won (170) with a pair of Nines
+
+
+
+PokerStars Hand #244446411446: Tournament #3608506663, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/06/24 22:32:05 CET [2023/06/24 16:32:05 ET]
+Table '3608506663 1' 3-max Seat #1 is the button
+Seat 1: TheSmurfIsBack! (560 in chips) 
+Seat 2: Mahu2021 (380 in chips) 
+Seat 3: Maina_pld (560 in chips) 
+Mahu2021: posts small blind 10
+Maina_pld: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s 6s]
+TheSmurfIsBack!: calls 20
+Mahu2021: calls 10
+Maina_pld: raises 80 to 100
+TheSmurfIsBack!: folds 
+Mahu2021: folds 
+Uncalled bet (80) returned to Maina_pld
+Maina_pld collected 60 from pot
+Maina_pld: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: TheSmurfIsBack! (button) folded before Flop
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: Maina_pld (big blind) collected (60)
+
+
+
+PokerStars Hand #244446414641: Tournament #3608506663, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/06/24 22:32:16 CET [2023/06/24 16:32:16 ET]
+Table '3608506663 1' 3-max Seat #2 is the button
+Seat 1: TheSmurfIsBack! (540 in chips) 
+Seat 2: Mahu2021 (360 in chips) 
+Seat 3: Maina_pld (600 in chips) 
+Maina_pld: posts small blind 10
+TheSmurfIsBack!: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh As]
+Mahu2021: raises 20 to 40
+Maina_pld: folds 
+TheSmurfIsBack!: calls 20
+*** FLOP *** [2d 8h Kh]
+TheSmurfIsBack!: checks 
+Mahu2021: checks 
+*** TURN *** [2d 8h Kh] [4h]
+TheSmurfIsBack!: bets 60
+Mahu2021: calls 60
+*** RIVER *** [2d 8h Kh 4h] [3c]
+TheSmurfIsBack!: bets 60
+Mahu2021: folds 
+Uncalled bet (60) returned to TheSmurfIsBack!
+TheSmurfIsBack! collected 210 from pot
+TheSmurfIsBack!: doesn't show hand 
+*** SUMMARY ***
+Total pot 210 | Rake 0 
+Board [2d 8h Kh 4h 3c]
+Seat 1: TheSmurfIsBack! (big blind) collected (210)
+Seat 2: Mahu2021 (button) folded on the River
+Seat 3: Maina_pld (small blind) folded before Flop
+
+
+
+PokerStars Hand #244446420492: Tournament #3608506663, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/06/24 22:32:35 CET [2023/06/24 16:32:35 ET]
+Table '3608506663 1' 3-max Seat #3 is the button
+Seat 1: TheSmurfIsBack! (650 in chips) 
+Seat 2: Mahu2021 (260 in chips) 
+Seat 3: Maina_pld (590 in chips) 
+TheSmurfIsBack!: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h 3d]
+Maina_pld: raises 20 to 40
+TheSmurfIsBack!: folds 
+Mahu2021: folds 
+Uncalled bet (20) returned to Maina_pld
+Maina_pld collected 50 from pot
+Maina_pld: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: TheSmurfIsBack! (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: Maina_pld (button) collected (50)
+
+
+
+PokerStars Hand #244446423767: Tournament #3608506663, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/06/24 22:32:46 CET [2023/06/24 16:32:46 ET]
+Table '3608506663 1' 3-max Seat #1 is the button
+Seat 1: TheSmurfIsBack! (640 in chips) 
+Seat 2: Mahu2021 (240 in chips) 
+Seat 3: Maina_pld (620 in chips) 
+Mahu2021: posts small blind 10
+Maina_pld: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts 5d]
+TheSmurfIsBack!: folds 
+Mahu2021: folds 
+Uncalled bet (10) returned to Maina_pld
+Maina_pld collected 20 from pot
+Maina_pld: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: TheSmurfIsBack! (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: Maina_pld (big blind) collected (20)
+
+
+
+PokerStars Hand #244446425750: Tournament #3608506663, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/06/24 22:32:52 CET [2023/06/24 16:32:52 ET]
+Table '3608506663 1' 3-max Seat #2 is the button
+Seat 1: TheSmurfIsBack! (640 in chips) 
+Seat 2: Mahu2021 (230 in chips) 
+Seat 3: Maina_pld (630 in chips) 
+Maina_pld: posts small blind 10
+TheSmurfIsBack!: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc 2s]
+Mahu2021: folds 
+Maina_pld: raises 20 to 40
+TheSmurfIsBack!: calls 20
+*** FLOP *** [2c 7c 7d]
+Maina_pld: bets 40
+TheSmurfIsBack!: folds 
+Uncalled bet (40) returned to Maina_pld
+Maina_pld collected 80 from pot
+Maina_pld: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [2c 7c 7d]
+Seat 1: TheSmurfIsBack! (big blind) folded on the Flop
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: Maina_pld (small blind) collected (80)
+
+
+
+PokerStars Hand #244446429713: Tournament #3608506663, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/06/24 22:33:05 CET [2023/06/24 16:33:05 ET]
+Table '3608506663 1' 3-max Seat #3 is the button
+Seat 1: TheSmurfIsBack! (600 in chips) 
+Seat 2: Mahu2021 (230 in chips) 
+Seat 3: Maina_pld (670 in chips) 
+TheSmurfIsBack!: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s 4h]
+Maina_pld: folds 
+TheSmurfIsBack!: calls 10
+Mahu2021: checks 
+*** FLOP *** [Jh Ac 7c]
+TheSmurfIsBack!: checks 
+Mahu2021: checks 
+*** TURN *** [Jh Ac 7c] [6h]
+TheSmurfIsBack!: checks 
+Mahu2021: checks 
+*** RIVER *** [Jh Ac 7c 6h] [8s]
+TheSmurfIsBack!: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+TheSmurfIsBack!: shows [8c Qc] (a pair of Eights)
+Mahu2021: mucks hand 
+TheSmurfIsBack! collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Jh Ac 7c 6h 8s]
+Seat 1: TheSmurfIsBack! (small blind) showed [8c Qc] and won (40) with a pair of Eights
+Seat 2: Mahu2021 (big blind) mucked [3s 4h]
+Seat 3: Maina_pld (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #244446435322: Tournament #3608506663, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/06/24 22:33:23 CET [2023/06/24 16:33:23 ET]
+Table '3608506663 1' 3-max Seat #1 is the button
+Seat 1: TheSmurfIsBack! (620 in chips) 
+Seat 2: Mahu2021 (210 in chips) 
+Seat 3: Maina_pld (670 in chips) 
+Mahu2021: posts small blind 10
+Maina_pld: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h 3d]
+TheSmurfIsBack!: calls 20
+Mahu2021: raises 190 to 210 and is all-in
+Maina_pld: folds 
+TheSmurfIsBack!: folds 
+Uncalled bet (190) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: TheSmurfIsBack! (button) folded before Flop
+Seat 2: Mahu2021 (small blind) collected (60)
+Seat 3: Maina_pld (big blind) folded before Flop
+
+
+
+PokerStars Hand #244446438259: Tournament #3608506663, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/06/24 22:33:33 CET [2023/06/24 16:33:33 ET]
+Table '3608506663 1' 3-max Seat #2 is the button
+Seat 1: TheSmurfIsBack! (600 in chips) 
+Seat 2: Mahu2021 (250 in chips) 
+Seat 3: Maina_pld (650 in chips) 
+Maina_pld: posts small blind 10
+TheSmurfIsBack!: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh 8h]
+Mahu2021: calls 20
+Maina_pld: folds 
+TheSmurfIsBack!: checks 
+*** FLOP *** [Th 4d 9d]
+TheSmurfIsBack!: checks 
+Mahu2021: bets 230 and is all-in
+TheSmurfIsBack!: folds 
+Uncalled bet (230) returned to Mahu2021
+Mahu2021 collected 50 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [Th 4d 9d]
+Seat 1: TheSmurfIsBack! (big blind) folded on the Flop
+Seat 2: Mahu2021 (button) collected (50)
+Seat 3: Maina_pld (small blind) folded before Flop
+
+
+
+PokerStars Hand #244446443963: Tournament #3608506663, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/06/24 22:33:51 CET [2023/06/24 16:33:51 ET]
+Table '3608506663 1' 3-max Seat #3 is the button
+Seat 1: TheSmurfIsBack! (580 in chips) 
+Seat 2: Mahu2021 (280 in chips) 
+Seat 3: Maina_pld (640 in chips) 
+TheSmurfIsBack!: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js Ac]
+Maina_pld: folds 
+TheSmurfIsBack!: calls 10
+Mahu2021: checks 
+*** FLOP *** [2s 9c Qd]
+TheSmurfIsBack!: bets 40
+Mahu2021: folds 
+Uncalled bet (40) returned to TheSmurfIsBack!
+TheSmurfIsBack! collected 40 from pot
+TheSmurfIsBack!: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [2s 9c Qd]
+Seat 1: TheSmurfIsBack! (small blind) collected (40)
+Seat 2: Mahu2021 (big blind) folded on the Flop
+Seat 3: Maina_pld (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #244446447475: Tournament #3608506663, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/06/24 22:34:03 CET [2023/06/24 16:34:03 ET]
+Table '3608506663 1' 3-max Seat #1 is the button
+Seat 1: TheSmurfIsBack! (600 in chips) 
+Seat 2: Mahu2021 (260 in chips) 
+Seat 3: Maina_pld (640 in chips) 
+Mahu2021: posts small blind 10
+Maina_pld: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d 3h]
+TheSmurfIsBack!: raises 40 to 60
+Mahu2021: folds 
+Maina_pld: folds 
+Uncalled bet (40) returned to TheSmurfIsBack!
+TheSmurfIsBack! collected 50 from pot
+TheSmurfIsBack!: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: TheSmurfIsBack! (button) collected (50)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: Maina_pld (big blind) folded before Flop
+
+
+
+PokerStars Hand #244446449699: Tournament #3608506663, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/06/24 22:34:10 CET [2023/06/24 16:34:10 ET]
+Table '3608506663 1' 3-max Seat #2 is the button
+Seat 1: TheSmurfIsBack! (630 in chips) 
+Seat 2: Mahu2021 (250 in chips) 
+Seat 3: Maina_pld (620 in chips) 
+Maina_pld: posts small blind 10
+TheSmurfIsBack!: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h 4c]
+Mahu2021: folds 
+Maina_pld: raises 20 to 40
+TheSmurfIsBack!: calls 20
+*** FLOP *** [Jd Jh Kh]
+Maina_pld: checks 
+TheSmurfIsBack!: checks 
+*** TURN *** [Jd Jh Kh] [Js]
+Maina_pld: bets 40
+TheSmurfIsBack!: folds 
+Uncalled bet (40) returned to Maina_pld
+Maina_pld collected 80 from pot
+Maina_pld: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Jd Jh Kh Js]
+Seat 1: TheSmurfIsBack! (big blind) folded on the Turn
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: Maina_pld (small blind) collected (80)
+
+
+
+PokerStars Hand #244446458001: Tournament #3608506663, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/06/24 22:34:37 CET [2023/06/24 16:34:37 ET]
+Table '3608506663 1' 3-max Seat #3 is the button
+Seat 1: TheSmurfIsBack! (590 in chips) 
+Seat 2: Mahu2021 (250 in chips) 
+Seat 3: Maina_pld (660 in chips) 
+TheSmurfIsBack!: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h Ac]
+Maina_pld: folds 
+TheSmurfIsBack!: calls 15
+Mahu2021: checks 
+*** FLOP *** [5s 9d 5h]
+TheSmurfIsBack!: checks 
+Mahu2021: checks 
+*** TURN *** [5s 9d 5h] [6d]
+TheSmurfIsBack!: checks 
+Mahu2021: checks 
+*** RIVER *** [5s 9d 5h 6d] [3d]
+TheSmurfIsBack!: checks 
+Mahu2021: bets 30
+TheSmurfIsBack!: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [5s 9d 5h 6d 3d]
+Seat 1: TheSmurfIsBack! (small blind) folded on the River
+Seat 2: Mahu2021 (big blind) collected (60)
+Seat 3: Maina_pld (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #244446466117: Tournament #3608506663, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/06/24 22:35:03 CET [2023/06/24 16:35:03 ET]
+Table '3608506663 1' 3-max Seat #1 is the button
+Seat 1: TheSmurfIsBack! (560 in chips) 
+Seat 2: Mahu2021 (280 in chips) 
+Seat 3: Maina_pld (660 in chips) 
+Mahu2021: posts small blind 15
+Maina_pld: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qs Jd]
+TheSmurfIsBack!: calls 30
+Mahu2021: calls 15
+Maina_pld: raises 630 to 660 and is all-in
+TheSmurfIsBack!: folds 
+Mahu2021: folds 
+Uncalled bet (630) returned to Maina_pld
+Maina_pld collected 90 from pot
+Maina_pld: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Seat 1: TheSmurfIsBack! (button) folded before Flop
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: Maina_pld (big blind) collected (90)
+
+
+
+PokerStars Hand #244446470385: Tournament #3608506663, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/06/24 22:35:17 CET [2023/06/24 16:35:17 ET]
+Table '3608506663 1' 3-max Seat #2 is the button
+Seat 1: TheSmurfIsBack! (530 in chips) 
+Seat 2: Mahu2021 (250 in chips) 
+Seat 3: Maina_pld (720 in chips) 
+Maina_pld: posts small blind 15
+TheSmurfIsBack!: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s 3c]
+Mahu2021: folds 
+Maina_pld: raises 30 to 60
+TheSmurfIsBack!: calls 30
+*** FLOP *** [8c 5h 5c]
+Maina_pld: bets 30
+TheSmurfIsBack!: raises 60 to 90
+Maina_pld: folds 
+Uncalled bet (60) returned to TheSmurfIsBack!
+TheSmurfIsBack! collected 180 from pot
+TheSmurfIsBack!: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [8c 5h 5c]
+Seat 1: TheSmurfIsBack! (big blind) collected (180)
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: Maina_pld (small blind) folded on the Flop
+
+
+
+PokerStars Hand #244446475111: Tournament #3608506663, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/06/24 22:35:32 CET [2023/06/24 16:35:32 ET]
+Table '3608506663 1' 3-max Seat #3 is the button
+Seat 1: TheSmurfIsBack! (620 in chips) 
+Seat 2: Mahu2021 (250 in chips) 
+Seat 3: Maina_pld (630 in chips) 
+TheSmurfIsBack!: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad 5s]
+Maina_pld: raises 30 to 60
+TheSmurfIsBack!: folds 
+Mahu2021: raises 190 to 250 and is all-in
+Maina_pld: calls 190
+*** FLOP *** [6s 8h Jc]
+*** TURN *** [6s 8h Jc] [3c]
+*** RIVER *** [6s 8h Jc 3c] [7c]
+*** SHOW DOWN ***
+Mahu2021: shows [Ad 5s] (high card Ace)
+Maina_pld: shows [Qc Tc] (a flush, Queen high)
+Maina_pld collected 515 from pot
+Mahu2021 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 515 | Rake 0 
+Board [6s 8h Jc 3c 7c]
+Seat 1: TheSmurfIsBack! (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) showed [Ad 5s] and lost with high card Ace
+Seat 3: Maina_pld (button) showed [Qc Tc] and won (515) with a flush, Queen high
+
+
+

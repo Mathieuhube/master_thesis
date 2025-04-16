@@ -1,0 +1,769 @@
+﻿PokerStars Hand #253338935402: Tournament #3822037600, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/10 9:39:57 CET [2024/11/10 3:39:57 ET]
+Table '3822037600 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: hefrie13 (500 in chips) 
+Seat 3: alex_m_b89 (500 in chips) 
+hefrie13: posts small blind 10
+alex_m_b89: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Tc Qd]
+Mahu2021: raises 20 to 40
+hefrie13: calls 30
+alex_m_b89: folds 
+*** FLOP *** [Ac Qh 3d]
+hefrie13: checks 
+Mahu2021: bets 40
+hefrie13: calls 40
+*** TURN *** [Ac Qh 3d] [4c]
+hefrie13: checks 
+Mahu2021: bets 40
+hefrie13: calls 40
+*** RIVER *** [Ac Qh 3d 4c] [Th]
+hefrie13: checks 
+Mahu2021: bets 80
+hefrie13: calls 80
+*** SHOW DOWN ***
+Mahu2021: shows [Tc Qd] (two pair, Queens and Tens)
+hefrie13: mucks hand 
+Mahu2021 collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | Rake 0 
+Board [Ac Qh 3d 4c Th]
+Seat 1: Mahu2021 (button) showed [Tc Qd] and won (420) with two pair, Queens and Tens
+Seat 2: hefrie13 (small blind) mucked [2s As]
+Seat 3: alex_m_b89 (big blind) folded before Flop
+
+
+
+PokerStars Hand #253338939741: Tournament #3822037600, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/10 9:40:46 CET [2024/11/10 3:40:46 ET]
+Table '3822037600 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (720 in chips) 
+Seat 2: hefrie13 (300 in chips) 
+Seat 3: alex_m_b89 (480 in chips) 
+alex_m_b89: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qd 7d]
+hefrie13: folds 
+alex_m_b89: calls 10
+Mahu2021: checks 
+*** FLOP *** [Kc 5d 3s]
+alex_m_b89: bets 20
+Mahu2021: folds 
+Uncalled bet (20) returned to alex_m_b89
+alex_m_b89 collected 40 from pot
+alex_m_b89: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Kc 5d 3s]
+Seat 1: Mahu2021 (big blind) folded on the Flop
+Seat 2: hefrie13 (button) folded before Flop (didn't bet)
+Seat 3: alex_m_b89 (small blind) collected (40)
+
+
+
+PokerStars Hand #253338941336: Tournament #3822037600, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/10 9:41:04 CET [2024/11/10 3:41:04 ET]
+Table '3822037600 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (700 in chips) 
+Seat 2: hefrie13 (300 in chips) 
+Seat 3: alex_m_b89 (500 in chips) 
+Mahu2021: posts small blind 10
+hefrie13: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc 8c]
+alex_m_b89: raises 20 to 40
+Mahu2021: calls 30
+hefrie13: folds 
+*** FLOP *** [Td 3d 6d]
+Mahu2021: checks 
+alex_m_b89: checks 
+*** TURN *** [Td 3d 6d] [Th]
+Mahu2021: checks 
+alex_m_b89: checks 
+*** RIVER *** [Td 3d 6d Th] [Tc]
+Mahu2021: checks 
+alex_m_b89: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [Qc 8c] (three of a kind, Tens)
+alex_m_b89: shows [As 5c] (three of a kind, Tens - Ace kicker)
+alex_m_b89 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [Td 3d 6d Th Tc]
+Seat 1: Mahu2021 (small blind) showed [Qc 8c] and lost with three of a kind, Tens
+Seat 2: hefrie13 (big blind) folded before Flop
+Seat 3: alex_m_b89 (button) showed [As 5c] and won (100) with three of a kind, Tens
+
+
+
+PokerStars Hand #253338943016: Tournament #3822037600, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/10 9:41:23 CET [2024/11/10 3:41:23 ET]
+Table '3822037600 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (660 in chips) 
+Seat 2: hefrie13 (280 in chips) 
+Seat 3: alex_m_b89 (560 in chips) 
+hefrie13: posts small blind 10
+alex_m_b89: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d Tc]
+Mahu2021: folds 
+hefrie13: calls 10
+alex_m_b89: raises 43 to 63
+hefrie13: calls 43
+*** FLOP *** [5h Qh 3d]
+hefrie13: checks 
+alex_m_b89: bets 40
+hefrie13: folds 
+Uncalled bet (40) returned to alex_m_b89
+alex_m_b89 collected 126 from pot
+alex_m_b89: doesn't show hand 
+*** SUMMARY ***
+Total pot 126 | Rake 0 
+Board [5h Qh 3d]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: hefrie13 (small blind) folded on the Flop
+Seat 3: alex_m_b89 (big blind) collected (126)
+
+
+
+PokerStars Hand #253338946023: Tournament #3822037600, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/10 9:41:57 CET [2024/11/10 3:41:57 ET]
+Table '3822037600 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (660 in chips) 
+Seat 2: hefrie13 (217 in chips) 
+Seat 3: alex_m_b89 (623 in chips) 
+alex_m_b89: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac Qc]
+hefrie13: folds 
+alex_m_b89: folds 
+Uncalled bet (10) returned to Mahu2021
+Mahu2021 collected 20 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (20)
+Seat 2: hefrie13 (button) folded before Flop (didn't bet)
+Seat 3: alex_m_b89 (small blind) folded before Flop
+
+
+
+PokerStars Hand #253338946517: Tournament #3822037600, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/10 9:42:03 CET [2024/11/10 3:42:03 ET]
+Table '3822037600 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (670 in chips) 
+Seat 2: hefrie13 (217 in chips) 
+Seat 3: alex_m_b89 (613 in chips) 
+Mahu2021: posts small blind 10
+hefrie13: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s Ts]
+alex_m_b89: folds 
+Mahu2021: raises 40 to 60
+hefrie13: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (small blind) collected (40)
+Seat 2: hefrie13 (big blind) folded before Flop
+Seat 3: alex_m_b89 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253338947716: Tournament #3822037600, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/10 9:42:17 CET [2024/11/10 3:42:17 ET]
+Table '3822037600 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (690 in chips) 
+Seat 2: hefrie13 (197 in chips) 
+Seat 3: alex_m_b89 (613 in chips) 
+hefrie13: posts small blind 10
+alex_m_b89: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4c 8c]
+Mahu2021: folds 
+hefrie13: raises 177 to 197 and is all-in
+alex_m_b89: folds 
+Uncalled bet (177) returned to hefrie13
+hefrie13 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: hefrie13 (small blind) collected (40)
+Seat 3: alex_m_b89 (big blind) folded before Flop
+
+
+
+PokerStars Hand #253338949001: Tournament #3822037600, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/10 9:42:31 CET [2024/11/10 3:42:31 ET]
+Table '3822037600 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (690 in chips) 
+Seat 2: hefrie13 (217 in chips) 
+Seat 3: alex_m_b89 (593 in chips) 
+alex_m_b89: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac Qh]
+hefrie13: folds 
+alex_m_b89: raises 43 to 63
+Mahu2021: calls 43
+*** FLOP *** [Js Kd Kc]
+alex_m_b89: bets 40
+Mahu2021: raises 60 to 100
+alex_m_b89: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 206 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 206 | Rake 0 
+Board [Js Kd Kc]
+Seat 1: Mahu2021 (big blind) collected (206)
+Seat 2: hefrie13 (button) folded before Flop (didn't bet)
+Seat 3: alex_m_b89 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #253338951255: Tournament #3822037600, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/10 9:42:56 CET [2024/11/10 3:42:56 ET]
+Table '3822037600 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (793 in chips) 
+Seat 2: hefrie13 (217 in chips) 
+Seat 3: alex_m_b89 (490 in chips) 
+Mahu2021: posts small blind 10
+hefrie13: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8s 5c]
+alex_m_b89: folds 
+Mahu2021: folds 
+Uncalled bet (10) returned to hefrie13
+hefrie13 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: hefrie13 (big blind) collected (20)
+Seat 3: alex_m_b89 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253338952057: Tournament #3822037600, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/10 9:43:06 CET [2024/11/10 3:43:06 ET]
+Table '3822037600 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (783 in chips) 
+Seat 2: hefrie13 (227 in chips) 
+Seat 3: alex_m_b89 (490 in chips) 
+hefrie13: posts small blind 15
+alex_m_b89: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kc 8d]
+Mahu2021: raises 30 to 60
+hefrie13: folds 
+alex_m_b89: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 75 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: Mahu2021 (button) collected (75)
+Seat 2: hefrie13 (small blind) folded before Flop
+Seat 3: alex_m_b89 (big blind) folded before Flop
+
+
+
+PokerStars Hand #253338953058: Tournament #3822037600, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/10 9:43:17 CET [2024/11/10 3:43:17 ET]
+Table '3822037600 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (828 in chips) 
+Seat 2: hefrie13 (212 in chips) 
+Seat 3: alex_m_b89 (460 in chips) 
+alex_m_b89: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d 4s]
+hefrie13: folds 
+alex_m_b89: calls 15
+Mahu2021: checks 
+*** FLOP *** [2h 9s 5h]
+alex_m_b89: checks 
+Mahu2021: bets 30
+alex_m_b89: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [2h 9s 5h]
+Seat 1: Mahu2021 (big blind) collected (60)
+Seat 2: hefrie13 (button) folded before Flop (didn't bet)
+Seat 3: alex_m_b89 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #253338955048: Tournament #3822037600, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/10 9:43:40 CET [2024/11/10 3:43:40 ET]
+Table '3822037600 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (858 in chips) 
+Seat 2: hefrie13 (212 in chips) 
+Seat 3: alex_m_b89 (430 in chips) 
+Mahu2021: posts small blind 15
+hefrie13: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qd Kh]
+alex_m_b89: folds 
+Mahu2021: raises 828 to 858 and is all-in
+hefrie13: folds 
+Uncalled bet (828) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (small blind) collected (60)
+Seat 2: hefrie13 (big blind) folded before Flop
+Seat 3: alex_m_b89 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253338956031: Tournament #3822037600, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/10 9:43:52 CET [2024/11/10 3:43:52 ET]
+Table '3822037600 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (888 in chips) 
+Seat 2: hefrie13 (182 in chips) 
+Seat 3: alex_m_b89 (430 in chips) 
+hefrie13: posts small blind 15
+alex_m_b89: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2c Ts]
+Mahu2021: folds 
+hefrie13: raises 152 to 182 and is all-in
+alex_m_b89: calls 152
+*** FLOP *** [7c Qh 6h]
+*** TURN *** [7c Qh 6h] [Kd]
+*** RIVER *** [7c Qh 6h Kd] [4h]
+*** SHOW DOWN ***
+hefrie13: shows [Ah 8d] (high card Ace)
+alex_m_b89: shows [9h Jd] (high card King)
+hefrie13 collected 364 from pot
+*** SUMMARY ***
+Total pot 364 | Rake 0 
+Board [7c Qh 6h Kd 4h]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: hefrie13 (small blind) showed [Ah 8d] and won (364) with high card Ace
+Seat 3: alex_m_b89 (big blind) showed [9h Jd] and lost with high card King
+
+
+
+PokerStars Hand #253338957530: Tournament #3822037600, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/10 9:44:09 CET [2024/11/10 3:44:09 ET]
+Table '3822037600 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (888 in chips) 
+Seat 2: hefrie13 (364 in chips) 
+Seat 3: alex_m_b89 (248 in chips) 
+alex_m_b89: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks 9c]
+hefrie13: folds 
+alex_m_b89: raises 218 to 248 and is all-in
+Mahu2021: calls 218
+*** FLOP *** [Kh Jd Ac]
+*** TURN *** [Kh Jd Ac] [2h]
+*** RIVER *** [Kh Jd Ac 2h] [5c]
+*** SHOW DOWN ***
+alex_m_b89: shows [Ah 3c] (a pair of Aces)
+Mahu2021: shows [Ks 9c] (a pair of Kings)
+alex_m_b89 collected 496 from pot
+*** SUMMARY ***
+Total pot 496 | Rake 0 
+Board [Kh Jd Ac 2h 5c]
+Seat 1: Mahu2021 (big blind) showed [Ks 9c] and lost with a pair of Kings
+Seat 2: hefrie13 (button) folded before Flop (didn't bet)
+Seat 3: alex_m_b89 (small blind) showed [Ah 3c] and won (496) with a pair of Aces
+
+
+
+PokerStars Hand #253338958856: Tournament #3822037600, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/10 9:44:24 CET [2024/11/10 3:44:24 ET]
+Table '3822037600 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (640 in chips) 
+Seat 2: hefrie13 (364 in chips) 
+Seat 3: alex_m_b89 (496 in chips) 
+Mahu2021: posts small blind 15
+hefrie13: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s Th]
+alex_m_b89: folds 
+Mahu2021: folds 
+Uncalled bet (15) returned to hefrie13
+hefrie13 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: hefrie13 (big blind) collected (30)
+Seat 3: alex_m_b89 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253338959252: Tournament #3822037600, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/10 9:44:28 CET [2024/11/10 3:44:28 ET]
+Table '3822037600 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (625 in chips) 
+Seat 2: hefrie13 (379 in chips) 
+Seat 3: alex_m_b89 (496 in chips) 
+hefrie13: posts small blind 15
+alex_m_b89: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh 3h]
+Mahu2021: raises 30 to 60
+hefrie13: folds 
+alex_m_b89: raises 436 to 496 and is all-in
+Mahu2021: folds 
+Uncalled bet (436) returned to alex_m_b89
+alex_m_b89 collected 135 from pot
+alex_m_b89: doesn't show hand 
+*** SUMMARY ***
+Total pot 135 | Rake 0 
+Seat 1: Mahu2021 (button) folded before Flop
+Seat 2: hefrie13 (small blind) folded before Flop
+Seat 3: alex_m_b89 (big blind) collected (135)
+
+
+
+PokerStars Hand #253338960240: Tournament #3822037600, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/10 9:44:39 CET [2024/11/10 3:44:39 ET]
+Table '3822037600 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (565 in chips) 
+Seat 2: hefrie13 (364 in chips) 
+Seat 3: alex_m_b89 (571 in chips) 
+alex_m_b89: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh 5d]
+hefrie13: raises 30 to 60
+alex_m_b89: folds 
+Mahu2021: calls 30
+*** FLOP *** [4c 5h 8h]
+Mahu2021: checks 
+hefrie13: checks 
+*** TURN *** [4c 5h 8h] [6c]
+Mahu2021: checks 
+hefrie13: checks 
+*** RIVER *** [4c 5h 8h 6c] [Qd]
+Mahu2021: checks 
+hefrie13: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [Jh 5d] (a pair of Fives)
+hefrie13: mucks hand 
+Mahu2021 collected 135 from pot
+*** SUMMARY ***
+Total pot 135 | Rake 0 
+Board [4c 5h 8h 6c Qd]
+Seat 1: Mahu2021 (big blind) showed [Jh 5d] and won (135) with a pair of Fives
+Seat 2: hefrie13 (button) mucked [Ts Kh]
+Seat 3: alex_m_b89 (small blind) folded before Flop
+
+
+
+PokerStars Hand #253338962328: Tournament #3822037600, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/10 9:45:03 CET [2024/11/10 3:45:03 ET]
+Table '3822037600 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (640 in chips) 
+Seat 2: hefrie13 (304 in chips) 
+Seat 3: alex_m_b89 (556 in chips) 
+Mahu2021: posts small blind 15
+hefrie13: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Th 3s]
+alex_m_b89: raises 30 to 60
+Mahu2021: folds 
+hefrie13: folds 
+Uncalled bet (30) returned to alex_m_b89
+alex_m_b89 collected 75 from pot
+alex_m_b89: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: hefrie13 (big blind) folded before Flop
+Seat 3: alex_m_b89 (button) collected (75)
+
+
+
+PokerStars Hand #253338962962: Tournament #3822037600, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/10 9:45:10 CET [2024/11/10 3:45:10 ET]
+Table '3822037600 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (625 in chips) 
+Seat 2: hefrie13 (274 in chips) 
+Seat 3: alex_m_b89 (601 in chips) 
+hefrie13: posts small blind 15
+alex_m_b89: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c 3h]
+Mahu2021: folds 
+hefrie13: raises 244 to 274 and is all-in
+alex_m_b89: folds 
+Uncalled bet (244) returned to hefrie13
+hefrie13 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: hefrie13 (small blind) collected (60)
+Seat 3: alex_m_b89 (big blind) folded before Flop
+
+
+
+PokerStars Hand #253338964247: Tournament #3822037600, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/10 9:45:24 CET [2024/11/10 3:45:24 ET]
+Table '3822037600 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (625 in chips) 
+Seat 2: hefrie13 (304 in chips) 
+Seat 3: alex_m_b89 (571 in chips) 
+alex_m_b89: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d Th]
+hefrie13: folds 
+alex_m_b89: raises 30 to 60
+Mahu2021: folds 
+Uncalled bet (30) returned to alex_m_b89
+alex_m_b89 collected 60 from pot
+alex_m_b89: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: hefrie13 (button) folded before Flop (didn't bet)
+Seat 3: alex_m_b89 (small blind) collected (60)
+
+
+
+PokerStars Hand #253338965361: Tournament #3822037600, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/10 9:45:37 CET [2024/11/10 3:45:37 ET]
+Table '3822037600 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (595 in chips) 
+Seat 2: hefrie13 (304 in chips) 
+Seat 3: alex_m_b89 (601 in chips) 
+Mahu2021: posts small blind 15
+hefrie13: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h 3d]
+alex_m_b89: folds 
+Mahu2021: folds 
+Uncalled bet (15) returned to hefrie13
+hefrie13 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: hefrie13 (big blind) collected (30)
+Seat 3: alex_m_b89 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253338966060: Tournament #3822037600, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/10 9:45:44 CET [2024/11/10 3:45:44 ET]
+Table '3822037600 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (580 in chips) 
+Seat 2: hefrie13 (319 in chips) 
+Seat 3: alex_m_b89 (601 in chips) 
+hefrie13: posts small blind 15
+alex_m_b89: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qd Kh]
+Mahu2021: raises 30 to 60
+hefrie13: folds 
+alex_m_b89: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 75 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: Mahu2021 (button) collected (75)
+Seat 2: hefrie13 (small blind) folded before Flop
+Seat 3: alex_m_b89 (big blind) folded before Flop
+
+
+
+PokerStars Hand #253338967742: Tournament #3822037600, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/10 9:46:03 CET [2024/11/10 3:46:03 ET]
+Table '3822037600 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (625 in chips) 
+Seat 2: hefrie13 (304 in chips) 
+Seat 3: alex_m_b89 (571 in chips) 
+alex_m_b89: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc 8c]
+hefrie13: folds 
+alex_m_b89: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (40)
+Seat 2: hefrie13 (button) folded before Flop (didn't bet)
+Seat 3: alex_m_b89 (small blind) folded before Flop
+
+
+
+PokerStars Hand #253338968344: Tournament #3822037600, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/10 9:46:10 CET [2024/11/10 3:46:10 ET]
+Table '3822037600 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (645 in chips) 
+Seat 2: hefrie13 (304 in chips) 
+Seat 3: alex_m_b89 (551 in chips) 
+Mahu2021: posts small blind 20
+hefrie13: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s 4c]
+alex_m_b89: folds 
+Mahu2021: raises 605 to 645 and is all-in
+hefrie13: calls 264 and is all-in
+Uncalled bet (341) returned to Mahu2021
+*** FLOP *** [6h 2c 7c]
+*** TURN *** [6h 2c 7c] [Jh]
+*** RIVER *** [6h 2c 7c Jh] [7s]
+*** SHOW DOWN ***
+Mahu2021: shows [4s 4c] (two pair, Sevens and Fours)
+hefrie13: shows [9h Ac] (a pair of Sevens)
+Mahu2021 collected 608 from pot
+hefrie13 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 608 | Rake 0 
+Board [6h 2c 7c Jh 7s]
+Seat 1: Mahu2021 (small blind) showed [4s 4c] and won (608) with two pair, Sevens and Fours
+Seat 2: hefrie13 (big blind) showed [9h Ac] and lost with a pair of Sevens
+Seat 3: alex_m_b89 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253338970263: Tournament #3822037600, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/10 9:46:31 CET [2024/11/10 3:46:31 ET]
+Table '3822037600 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (949 in chips) 
+Seat 3: alex_m_b89 (551 in chips) 
+Mahu2021: posts small blind 20
+alex_m_b89: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh 2h]
+Mahu2021: raises 40 to 80
+alex_m_b89: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) collected (80)
+Seat 3: alex_m_b89 (big blind) folded before Flop
+
+
+
+PokerStars Hand #253338971050: Tournament #3822037600, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/10 9:46:40 CET [2024/11/10 3:46:40 ET]
+Table '3822037600 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (989 in chips) 
+Seat 3: alex_m_b89 (511 in chips) 
+alex_m_b89: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks Ac]
+alex_m_b89: calls 20
+Mahu2021: raises 120 to 160
+alex_m_b89: folds 
+Uncalled bet (120) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (80)
+Seat 3: alex_m_b89 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #253338972210: Tournament #3822037600, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/10 9:46:52 CET [2024/11/10 3:46:52 ET]
+Table '3822037600 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1029 in chips) 
+Seat 3: alex_m_b89 (471 in chips) 
+Mahu2021: posts small blind 20
+alex_m_b89: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s 9c]
+Mahu2021: folds 
+Uncalled bet (20) returned to alex_m_b89
+alex_m_b89 collected 40 from pot
+alex_m_b89: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: alex_m_b89 (big blind) collected (40)
+
+
+
+PokerStars Hand #253338972590: Tournament #3822037600, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/10 9:46:56 CET [2024/11/10 3:46:56 ET]
+Table '3822037600 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (1009 in chips) 
+Seat 3: alex_m_b89 (491 in chips) 
+alex_m_b89: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac Ts]
+alex_m_b89: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (40)
+Seat 3: alex_m_b89 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #253338973482: Tournament #3822037600, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/10 9:47:06 CET [2024/11/10 3:47:06 ET]
+Table '3822037600 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1029 in chips) 
+Seat 3: alex_m_b89 (471 in chips) 
+Mahu2021: posts small blind 20
+alex_m_b89: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d 6c]
+Mahu2021: raises 80 to 120
+alex_m_b89: folds 
+Uncalled bet (80) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) collected (80)
+Seat 3: alex_m_b89 (big blind) folded before Flop
+
+
+
+PokerStars Hand #253338974103: Tournament #3822037600, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/10 9:47:13 CET [2024/11/10 3:47:13 ET]
+Table '3822037600 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (1069 in chips) 
+Seat 3: alex_m_b89 (431 in chips) 
+alex_m_b89: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h 9h]
+alex_m_b89: calls 20
+Mahu2021: checks 
+*** FLOP *** [5c 9d Qs]
+Mahu2021: checks 
+alex_m_b89: bets 40
+Mahu2021: raises 80 to 120
+alex_m_b89: folds 
+Uncalled bet (80) returned to Mahu2021
+Mahu2021 collected 160 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [5c 9d Qs]
+Seat 1: Mahu2021 (big blind) collected (160)
+Seat 3: alex_m_b89 (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #253338976061: Tournament #3822037600, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/10 9:47:34 CET [2024/11/10 3:47:34 ET]
+Table '3822037600 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1149 in chips) 
+Seat 3: alex_m_b89 (351 in chips) 
+Mahu2021: posts small blind 20
+alex_m_b89: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As 3d]
+Mahu2021: raises 80 to 120
+alex_m_b89: raises 231 to 351 and is all-in
+Mahu2021: calls 231
+*** FLOP *** [Jc 2s 4s]
+*** TURN *** [Jc 2s 4s] [Ac]
+*** RIVER *** [Jc 2s 4s Ac] [5s]
+*** SHOW DOWN ***
+alex_m_b89: shows [Qs Th] (high card Ace)
+Mahu2021: shows [As 3d] (a straight, Ace to Five)
+Mahu2021 collected 702 from pot
+alex_m_b89 finished the tournament in 2nd place
+Mahu2021 wins the tournament and receives $6.00 - congratulations!
+*** SUMMARY ***
+Total pot 702 | Rake 0 
+Board [Jc 2s 4s Ac 5s]
+Seat 1: Mahu2021 (button) (small blind) showed [As 3d] and won (702) with a straight, Ace to Five
+Seat 3: alex_m_b89 (big blind) showed [Qs Th] and lost with high card Ace
+
+
+

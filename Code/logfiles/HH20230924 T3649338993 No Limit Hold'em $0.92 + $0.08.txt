@@ -1,0 +1,262 @@
+﻿PokerStars Hand #246148261508: Tournament #3649338993, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/09/24 10:33:53 CET [2023/09/24 4:33:53 ET]
+Table '3649338993 1' 3-max Seat #1 is the button
+Seat 1: DancinCoyote (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: beletski_ed (500 in chips) 
+Mahu2021: posts small blind 10
+beletski_ed: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5h Jh]
+DancinCoyote: folds 
+Mahu2021: calls 10
+beletski_ed: raises 30 to 50
+Mahu2021: folds 
+Uncalled bet (30) returned to beletski_ed
+beletski_ed collected 40 from pot
+beletski_ed: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: DancinCoyote (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: beletski_ed (big blind) collected (40)
+
+
+
+PokerStars Hand #246148263118: Tournament #3649338993, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/09/24 10:34:06 CET [2023/09/24 4:34:06 ET]
+Table '3649338993 1' 3-max Seat #2 is the button
+Seat 1: DancinCoyote (500 in chips) 
+Seat 2: Mahu2021 (480 in chips) 
+Seat 3: beletski_ed (520 in chips) 
+beletski_ed: posts small blind 10
+DancinCoyote: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8c Kc]
+Mahu2021: calls 20
+beletski_ed: calls 10
+DancinCoyote: checks 
+*** FLOP *** [Ts As 2s]
+beletski_ed: checks 
+DancinCoyote: bets 20
+Mahu2021: folds 
+beletski_ed: folds 
+Uncalled bet (20) returned to DancinCoyote
+DancinCoyote collected 60 from pot
+DancinCoyote: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Ts As 2s]
+Seat 1: DancinCoyote (big blind) collected (60)
+Seat 2: Mahu2021 (button) folded on the Flop
+Seat 3: beletski_ed (small blind) folded on the Flop
+
+
+
+PokerStars Hand #246148265524: Tournament #3649338993, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/09/24 10:34:25 CET [2023/09/24 4:34:25 ET]
+Table '3649338993 1' 3-max Seat #3 is the button
+Seat 1: DancinCoyote (540 in chips) 
+Seat 2: Mahu2021 (460 in chips) 
+Seat 3: beletski_ed (500 in chips) 
+DancinCoyote: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s Qd]
+beletski_ed: folds 
+DancinCoyote: raises 60 to 80
+Mahu2021: folds 
+Uncalled bet (60) returned to DancinCoyote
+DancinCoyote collected 40 from pot
+DancinCoyote: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: DancinCoyote (small blind) collected (40)
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: beletski_ed (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #246148266693: Tournament #3649338993, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/09/24 10:34:34 CET [2023/09/24 4:34:34 ET]
+Table '3649338993 1' 3-max Seat #1 is the button
+Seat 1: DancinCoyote (560 in chips) 
+Seat 2: Mahu2021 (440 in chips) 
+Seat 3: beletski_ed (500 in chips) 
+Mahu2021: posts small blind 10
+beletski_ed: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c 5h]
+DancinCoyote: raises 540 to 560 and is all-in
+Mahu2021: folds 
+beletski_ed: folds 
+Uncalled bet (540) returned to DancinCoyote
+DancinCoyote collected 50 from pot
+DancinCoyote: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: DancinCoyote (button) collected (50)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: beletski_ed (big blind) folded before Flop
+
+
+
+PokerStars Hand #246148268418: Tournament #3649338993, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/09/24 10:34:48 CET [2023/09/24 4:34:48 ET]
+Table '3649338993 1' 3-max Seat #2 is the button
+Seat 1: DancinCoyote (590 in chips) 
+Seat 2: Mahu2021 (430 in chips) 
+Seat 3: beletski_ed (480 in chips) 
+beletski_ed: posts small blind 10
+DancinCoyote: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd 5h]
+Mahu2021: folds 
+beletski_ed: raises 20 to 40
+DancinCoyote: calls 20
+*** FLOP *** [Js 2c 8d]
+beletski_ed: bets 40
+DancinCoyote: calls 40
+*** TURN *** [Js 2c 8d] [Jh]
+beletski_ed: bets 40
+DancinCoyote: calls 40
+*** RIVER *** [Js 2c 8d Jh] [5d]
+beletski_ed: bets 40
+DancinCoyote: calls 40
+*** SHOW DOWN ***
+beletski_ed: shows [4s 4c] (two pair, Jacks and Fours)
+DancinCoyote: shows [8c Kh] (two pair, Jacks and Eights)
+DancinCoyote collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [Js 2c 8d Jh 5d]
+Seat 1: DancinCoyote (big blind) showed [8c Kh] and won (320) with two pair, Jacks and Eights
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: beletski_ed (small blind) showed [4s 4c] and lost with two pair, Jacks and Fours
+
+
+
+PokerStars Hand #246148271944: Tournament #3649338993, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/09/24 10:35:15 CET [2023/09/24 4:35:15 ET]
+Table '3649338993 1' 3-max Seat #3 is the button
+Seat 1: DancinCoyote (750 in chips) 
+Seat 2: Mahu2021 (430 in chips) 
+Seat 3: beletski_ed (320 in chips) 
+DancinCoyote: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh 8h]
+beletski_ed: folds 
+DancinCoyote: calls 10
+Mahu2021: checks 
+*** FLOP *** [Qd Qc Ks]
+DancinCoyote: bets 20
+Mahu2021: folds 
+Uncalled bet (20) returned to DancinCoyote
+DancinCoyote collected 40 from pot
+DancinCoyote: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Qd Qc Ks]
+Seat 1: DancinCoyote (small blind) collected (40)
+Seat 2: Mahu2021 (big blind) folded on the Flop
+Seat 3: beletski_ed (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #246148273585: Tournament #3649338993, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/09/24 10:35:28 CET [2023/09/24 4:35:28 ET]
+Table '3649338993 1' 3-max Seat #1 is the button
+Seat 1: DancinCoyote (770 in chips) 
+Seat 2: Mahu2021 (410 in chips) 
+Seat 3: beletski_ed (320 in chips) 
+Mahu2021: posts small blind 10
+beletski_ed: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c 6c]
+DancinCoyote: folds 
+Mahu2021: raises 20 to 40
+beletski_ed: calls 20
+*** FLOP *** [8h 4s 5h]
+Mahu2021: checks 
+beletski_ed: checks 
+*** TURN *** [8h 4s 5h] [9c]
+Mahu2021: checks 
+beletski_ed: checks 
+*** RIVER *** [8h 4s 5h 9c] [4c]
+Mahu2021: bets 80
+beletski_ed: folds 
+Uncalled bet (80) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [8h 4s 5h 9c 4c]
+Seat 1: DancinCoyote (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) collected (80)
+Seat 3: beletski_ed (big blind) folded on the River
+
+
+
+PokerStars Hand #246148276587: Tournament #3649338993, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/09/24 10:35:51 CET [2023/09/24 4:35:51 ET]
+Table '3649338993 1' 3-max Seat #2 is the button
+Seat 1: DancinCoyote (770 in chips) 
+Seat 2: Mahu2021 (450 in chips) 
+Seat 3: beletski_ed (280 in chips) 
+beletski_ed: posts small blind 10
+DancinCoyote: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8d Qs]
+Mahu2021: folds 
+beletski_ed: raises 20 to 40
+DancinCoyote: calls 20
+*** FLOP *** [Qc Jc 2h]
+beletski_ed: bets 40
+DancinCoyote: calls 40
+*** TURN *** [Qc Jc 2h] [Qh]
+beletski_ed: bets 40
+DancinCoyote: calls 40
+*** RIVER *** [Qc Jc 2h Qh] [6h]
+beletski_ed: bets 40
+DancinCoyote: raises 80 to 120
+beletski_ed: folds 
+Uncalled bet (80) returned to DancinCoyote
+DancinCoyote collected 320 from pot
+DancinCoyote: doesn't show hand 
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [Qc Jc 2h Qh 6h]
+Seat 1: DancinCoyote (big blind) collected (320)
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: beletski_ed (small blind) folded on the River
+
+
+
+PokerStars Hand #246148282107: Tournament #3649338993, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/09/24 10:36:35 CET [2023/09/24 4:36:35 ET]
+Table '3649338993 1' 3-max Seat #3 is the button
+Seat 1: DancinCoyote (930 in chips) 
+Seat 2: Mahu2021 (450 in chips) 
+Seat 3: beletski_ed (120 in chips) 
+DancinCoyote: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh 6s]
+beletski_ed: folds 
+DancinCoyote: calls 15
+Mahu2021: checks 
+*** FLOP *** [8d 3d Jd]
+DancinCoyote: bets 30
+Mahu2021: raises 60 to 90
+DancinCoyote: calls 60
+*** TURN *** [8d 3d Jd] [4s]
+DancinCoyote: checks 
+Mahu2021: bets 330 and is all-in
+DancinCoyote: calls 330
+*** RIVER *** [8d 3d Jd 4s] [5c]
+*** SHOW DOWN ***
+DancinCoyote: shows [9d Js] (a pair of Jacks)
+Mahu2021: shows [Jh 6s] (a pair of Jacks - lower kicker)
+DancinCoyote collected 900 from pot
+Mahu2021 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 900 | Rake 0 
+Board [8d 3d Jd 4s 5c]
+Seat 1: DancinCoyote (small blind) showed [9d Js] and won (900) with a pair of Jacks
+Seat 2: Mahu2021 (big blind) showed [Jh 6s] and lost with a pair of Jacks
+Seat 3: beletski_ed (button) folded before Flop (didn't bet)
+
+
+

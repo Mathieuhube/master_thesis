@@ -1,0 +1,30 @@
+﻿PokerStars Hand #252854718755: Tournament #3810238310, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2024/10/10 7:32:53 CET [2024/10/10 1:32:53 ET]
+Table '3810238310 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: Finger_CK (500 in chips) 
+Seat 3: deivis2003 (500 in chips) 
+Finger_CK: posts small blind 10
+deivis2003: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad 4s]
+Mahu2021: raises 20 to 40
+Finger_CK: raises 460 to 500 and is all-in
+deivis2003: folds 
+Mahu2021: calls 460 and is all-in
+*** FLOP *** [4h 6h Ts]
+*** TURN *** [4h 6h Ts] [6s]
+*** RIVER *** [4h 6h Ts 6s] [5s]
+*** SHOW DOWN ***
+Finger_CK: shows [Ks Kc] (two pair, Kings and Sixes)
+Mahu2021: shows [Ad 4s] (two pair, Sixes and Fours)
+Finger_CK collected 1020 from pot
+Mahu2021 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1020 | Rake 0 
+Board [4h 6h Ts 6s 5s]
+Seat 1: Mahu2021 (button) showed [Ad 4s] and lost with two pair, Sixes and Fours
+Seat 2: Finger_CK (small blind) showed [Ks Kc] and won (1020) with two pair, Kings and Sixes
+Seat 3: deivis2003 (big blind) folded before Flop
+
+
+

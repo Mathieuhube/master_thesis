@@ -1,0 +1,545 @@
+﻿PokerStars Hand #250041746708: Tournament #3743444605, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/04/18 19:44:53 CET [2024/04/18 13:44:53 ET]
+Table '3743444605 1' 3-max Seat #1 is the button
+Seat 1: ricrockacdc (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: digaosb10 (500 in chips) 
+Mahu2021: posts small blind 10
+digaosb10: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Tc Js]
+ricrockacdc: raises 20 to 40
+Mahu2021: calls 30
+digaosb10: calls 20
+*** FLOP *** [As Kh Qc]
+Mahu2021: checks 
+digaosb10: checks 
+ricrockacdc: bets 60
+Mahu2021: raises 60 to 120
+digaosb10: folds 
+ricrockacdc: calls 60
+*** TURN *** [As Kh Qc] [7c]
+Mahu2021: checks 
+ricrockacdc: checks 
+*** RIVER *** [As Kh Qc 7c] [Jh]
+Mahu2021: bets 100
+ricrockacdc: calls 100
+*** SHOW DOWN ***
+Mahu2021: shows [Tc Js] (a straight, Ten to Ace)
+ricrockacdc: mucks hand 
+Mahu2021 collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | Rake 0 
+Board [As Kh Qc 7c Jh]
+Seat 1: ricrockacdc (button) mucked [Ah 4d]
+Seat 2: Mahu2021 (small blind) showed [Tc Js] and won (560) with a straight, Ten to Ace
+Seat 3: digaosb10 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #250041764759: Tournament #3743444605, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/04/18 19:45:54 CET [2024/04/18 13:45:54 ET]
+Table '3743444605 1' 3-max Seat #2 is the button
+Seat 1: ricrockacdc (240 in chips) 
+Seat 2: Mahu2021 (800 in chips) 
+Seat 3: digaosb10 (460 in chips) 
+digaosb10: posts small blind 10
+ricrockacdc: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d 2h]
+Mahu2021: folds 
+digaosb10: calls 10
+ricrockacdc: checks 
+*** FLOP *** [8s 8c Jd]
+digaosb10: checks 
+ricrockacdc: checks 
+*** TURN *** [8s 8c Jd] [Ac]
+digaosb10: checks 
+ricrockacdc: bets 20
+digaosb10: folds 
+Uncalled bet (20) returned to ricrockacdc
+ricrockacdc collected 40 from pot
+ricrockacdc: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [8s 8c Jd Ac]
+Seat 1: ricrockacdc (big blind) collected (40)
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: digaosb10 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #250041780104: Tournament #3743444605, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/04/18 19:46:45 CET [2024/04/18 13:46:45 ET]
+Table '3743444605 1' 3-max Seat #3 is the button
+Seat 1: ricrockacdc (260 in chips) 
+Seat 2: Mahu2021 (800 in chips) 
+Seat 3: digaosb10 (440 in chips) 
+ricrockacdc: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts 4c]
+digaosb10: raises 20 to 40
+ricrockacdc: folds 
+Mahu2021: folds 
+Uncalled bet (20) returned to digaosb10
+digaosb10 collected 50 from pot
+digaosb10: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: ricrockacdc (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: digaosb10 (button) collected (50)
+
+
+
+PokerStars Hand #250041787391: Tournament #3743444605, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/04/18 19:47:10 CET [2024/04/18 13:47:10 ET]
+Table '3743444605 1' 3-max Seat #1 is the button
+Seat 1: ricrockacdc (250 in chips) 
+Seat 2: Mahu2021 (780 in chips) 
+Seat 3: digaosb10 (470 in chips) 
+Mahu2021: posts small blind 15
+digaosb10: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd Kc]
+ricrockacdc: raises 220 to 250 and is all-in
+Mahu2021: folds 
+digaosb10: folds 
+Uncalled bet (220) returned to ricrockacdc
+ricrockacdc collected 75 from pot
+ricrockacdc: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: ricrockacdc (button) collected (75)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: digaosb10 (big blind) folded before Flop
+
+
+
+PokerStars Hand #250041789577: Tournament #3743444605, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/04/18 19:47:17 CET [2024/04/18 13:47:17 ET]
+Table '3743444605 1' 3-max Seat #2 is the button
+Seat 1: ricrockacdc (295 in chips) 
+Seat 2: Mahu2021 (765 in chips) 
+Seat 3: digaosb10 (440 in chips) 
+digaosb10: posts small blind 15
+ricrockacdc: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah Qh]
+Mahu2021: calls 30
+digaosb10: raises 30 to 60
+ricrockacdc: folds 
+Mahu2021: raises 705 to 765 and is all-in
+digaosb10: calls 380 and is all-in
+Uncalled bet (325) returned to Mahu2021
+*** FLOP *** [5s Qd 3d]
+*** TURN *** [5s Qd 3d] [9d]
+*** RIVER *** [5s Qd 3d 9d] [Tc]
+*** SHOW DOWN ***
+digaosb10: shows [Ad 3s] (a pair of Threes)
+Mahu2021: shows [Ah Qh] (a pair of Queens)
+Mahu2021 collected 910 from pot
+digaosb10 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 910 | Rake 0 
+Board [5s Qd 3d 9d Tc]
+Seat 1: ricrockacdc (big blind) folded before Flop
+Seat 2: Mahu2021 (button) showed [Ah Qh] and won (910) with a pair of Queens
+Seat 3: digaosb10 (small blind) showed [Ad 3s] and lost with a pair of Threes
+
+
+
+PokerStars Hand #250041798332: Tournament #3743444605, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/04/18 19:47:47 CET [2024/04/18 13:47:47 ET]
+Table '3743444605 1' 3-max Seat #1 is the button
+Seat 1: ricrockacdc (265 in chips) 
+Seat 2: Mahu2021 (1235 in chips) 
+ricrockacdc: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s Jd]
+ricrockacdc has timed out
+ricrockacdc: folds 
+ricrockacdc is sitting out
+Uncalled bet (15) returned to Mahu2021
+ricrockacdc has returned
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: ricrockacdc (button) (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (30)
+
+
+
+PokerStars Hand #250041803202: Tournament #3743444605, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/04/18 19:48:03 CET [2024/04/18 13:48:03 ET]
+Table '3743444605 1' 3-max Seat #2 is the button
+Seat 1: ricrockacdc (250 in chips) 
+Seat 2: Mahu2021 (1250 in chips) 
+Mahu2021: posts small blind 15
+ricrockacdc: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c 7h]
+Mahu2021: folds 
+Uncalled bet (15) returned to ricrockacdc
+ricrockacdc collected 30 from pot
+ricrockacdc: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: ricrockacdc (big blind) collected (30)
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #250041804492: Tournament #3743444605, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/04/18 19:48:08 CET [2024/04/18 13:48:08 ET]
+Table '3743444605 1' 3-max Seat #1 is the button
+Seat 1: ricrockacdc (265 in chips) 
+Seat 2: Mahu2021 (1235 in chips) 
+ricrockacdc: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6h Ac]
+ricrockacdc: calls 15
+Mahu2021: raises 1205 to 1235 and is all-in
+ricrockacdc: folds 
+Uncalled bet (1205) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: ricrockacdc (button) (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (60)
+
+
+
+PokerStars Hand #250041811156: Tournament #3743444605, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/04/18 19:48:30 CET [2024/04/18 13:48:30 ET]
+Table '3743444605 1' 3-max Seat #2 is the button
+Seat 1: ricrockacdc (235 in chips) 
+Seat 2: Mahu2021 (1265 in chips) 
+Mahu2021: posts small blind 15
+ricrockacdc: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s 2d]
+Mahu2021: folds 
+Uncalled bet (15) returned to ricrockacdc
+ricrockacdc collected 30 from pot
+ricrockacdc: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: ricrockacdc (big blind) collected (30)
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #250041812407: Tournament #3743444605, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/04/18 19:48:34 CET [2024/04/18 13:48:34 ET]
+Table '3743444605 1' 3-max Seat #1 is the button
+Seat 1: ricrockacdc (250 in chips) 
+Seat 2: Mahu2021 (1250 in chips) 
+ricrockacdc: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Th 4h]
+ricrockacdc: raises 220 to 250 and is all-in
+Mahu2021: folds 
+Uncalled bet (220) returned to ricrockacdc
+ricrockacdc collected 60 from pot
+ricrockacdc: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: ricrockacdc (button) (small blind) collected (60)
+Seat 2: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #250041814530: Tournament #3743444605, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/04/18 19:48:41 CET [2024/04/18 13:48:41 ET]
+Table '3743444605 1' 3-max Seat #2 is the button
+Seat 1: ricrockacdc (280 in chips) 
+Seat 2: Mahu2021 (1220 in chips) 
+Mahu2021: posts small blind 15
+ricrockacdc: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3c 5c]
+Mahu2021: calls 15
+ricrockacdc: checks 
+*** FLOP *** [5d Qc 3h]
+ricrockacdc: checks 
+Mahu2021: bets 30
+ricrockacdc: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [5d Qc 3h]
+Seat 1: ricrockacdc (big blind) folded on the Flop
+Seat 2: Mahu2021 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #250041825426: Tournament #3743444605, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/04/18 19:49:18 CET [2024/04/18 13:49:18 ET]
+Table '3743444605 1' 3-max Seat #1 is the button
+Seat 1: ricrockacdc (250 in chips) 
+Seat 2: Mahu2021 (1250 in chips) 
+ricrockacdc: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qd 8s]
+ricrockacdc: raises 210 to 250 and is all-in
+Mahu2021: calls 210
+*** FLOP *** [2h Tc Ad]
+*** TURN *** [2h Tc Ad] [Th]
+*** RIVER *** [2h Tc Ad Th] [5d]
+*** SHOW DOWN ***
+Mahu2021: shows [Qd 8s] (a pair of Tens)
+ricrockacdc: shows [Kd Qs] (a pair of Tens - Ace+King kicker)
+ricrockacdc collected 500 from pot
+*** SUMMARY ***
+Total pot 500 | Rake 0 
+Board [2h Tc Ad Th 5d]
+Seat 1: ricrockacdc (button) (small blind) showed [Kd Qs] and won (500) with a pair of Tens
+Seat 2: Mahu2021 (big blind) showed [Qd 8s] and lost with a pair of Tens
+
+
+
+PokerStars Hand #250041829180: Tournament #3743444605, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/04/18 19:49:30 CET [2024/04/18 13:49:30 ET]
+Table '3743444605 1' 3-max Seat #2 is the button
+Seat 1: ricrockacdc (500 in chips) 
+Seat 2: Mahu2021 (1000 in chips) 
+Mahu2021: posts small blind 20
+ricrockacdc: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts Kc]
+Mahu2021: raises 40 to 80
+ricrockacdc: calls 40
+*** FLOP *** [2c 8d 9h]
+ricrockacdc: checks 
+Mahu2021: bets 40
+ricrockacdc: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 160 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [2c 8d 9h]
+Seat 1: ricrockacdc (big blind) folded on the Flop
+Seat 2: Mahu2021 (button) (small blind) collected (160)
+
+
+
+PokerStars Hand #250041838815: Tournament #3743444605, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/04/18 19:50:03 CET [2024/04/18 13:50:03 ET]
+Table '3743444605 1' 3-max Seat #1 is the button
+Seat 1: ricrockacdc (420 in chips) 
+Seat 2: Mahu2021 (1080 in chips) 
+ricrockacdc: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s Ks]
+ricrockacdc: calls 20
+Mahu2021: checks 
+*** FLOP *** [5d 8s 8h]
+Mahu2021: checks 
+ricrockacdc: bets 40
+Mahu2021: folds 
+Uncalled bet (40) returned to ricrockacdc
+ricrockacdc collected 80 from pot
+ricrockacdc: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [5d 8s 8h]
+Seat 1: ricrockacdc (button) (small blind) collected (80)
+Seat 2: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #250041844304: Tournament #3743444605, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/04/18 19:50:22 CET [2024/04/18 13:50:22 ET]
+Table '3743444605 1' 3-max Seat #2 is the button
+Seat 1: ricrockacdc (460 in chips) 
+Seat 2: Mahu2021 (1040 in chips) 
+Mahu2021: posts small blind 20
+ricrockacdc: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc 8c]
+Mahu2021: raises 40 to 80
+ricrockacdc: raises 380 to 460 and is all-in
+Mahu2021: calls 380
+*** FLOP *** [As Ac 4c]
+*** TURN *** [As Ac 4c] [7s]
+*** RIVER *** [As Ac 4c 7s] [7h]
+*** SHOW DOWN ***
+ricrockacdc: shows [Ad 9s] (a full house, Aces full of Sevens)
+Mahu2021: shows [Jc 8c] (two pair, Aces and Sevens)
+ricrockacdc collected 920 from pot
+*** SUMMARY ***
+Total pot 920 | Rake 0 
+Board [As Ac 4c 7s 7h]
+Seat 1: ricrockacdc (big blind) showed [Ad 9s] and won (920) with a full house, Aces full of Sevens
+Seat 2: Mahu2021 (button) (small blind) showed [Jc 8c] and lost with two pair, Aces and Sevens
+
+
+
+PokerStars Hand #250041849819: Tournament #3743444605, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/04/18 19:50:40 CET [2024/04/18 13:50:40 ET]
+Table '3743444605 1' 3-max Seat #1 is the button
+Seat 1: ricrockacdc (920 in chips) 
+Seat 2: Mahu2021 (580 in chips) 
+ricrockacdc: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8c Tc]
+ricrockacdc: calls 20
+Mahu2021: raises 540 to 580 and is all-in
+ricrockacdc: folds 
+Uncalled bet (540) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: ricrockacdc (button) (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (80)
+
+
+
+PokerStars Hand #250041859174: Tournament #3743444605, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/04/18 19:51:12 CET [2024/04/18 13:51:12 ET]
+Table '3743444605 1' 3-max Seat #2 is the button
+Seat 1: ricrockacdc (880 in chips) 
+Seat 2: Mahu2021 (620 in chips) 
+Mahu2021: posts small blind 30
+ricrockacdc: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c As]
+Mahu2021: raises 560 to 620 and is all-in
+ricrockacdc: calls 560
+*** FLOP *** [Js Qd Tc]
+*** TURN *** [Js Qd Tc] [3s]
+*** RIVER *** [Js Qd Tc 3s] [7c]
+*** SHOW DOWN ***
+ricrockacdc: shows [2h Kh] (high card King)
+Mahu2021: shows [5c As] (high card Ace)
+Mahu2021 collected 1240 from pot
+*** SUMMARY ***
+Total pot 1240 | Rake 0 
+Board [Js Qd Tc 3s 7c]
+Seat 1: ricrockacdc (big blind) showed [2h Kh] and lost with high card King
+Seat 2: Mahu2021 (button) (small blind) showed [5c As] and won (1240) with high card Ace
+
+
+
+PokerStars Hand #250041864275: Tournament #3743444605, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/04/18 19:51:29 CET [2024/04/18 13:51:29 ET]
+Table '3743444605 1' 3-max Seat #1 is the button
+Seat 1: ricrockacdc (260 in chips) 
+Seat 2: Mahu2021 (1240 in chips) 
+ricrockacdc: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Tc Qs]
+ricrockacdc: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: ricrockacdc (button) (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (60)
+
+
+
+PokerStars Hand #250041867775: Tournament #3743444605, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/04/18 19:51:41 CET [2024/04/18 13:51:41 ET]
+Table '3743444605 1' 3-max Seat #2 is the button
+Seat 1: ricrockacdc (230 in chips) 
+Seat 2: Mahu2021 (1270 in chips) 
+Mahu2021: posts small blind 30
+ricrockacdc: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8c 2c]
+Mahu2021: folds 
+Uncalled bet (30) returned to ricrockacdc
+ricrockacdc collected 60 from pot
+ricrockacdc: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: ricrockacdc (big blind) collected (60)
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #250041869081: Tournament #3743444605, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/04/18 19:51:46 CET [2024/04/18 13:51:46 ET]
+Table '3743444605 1' 3-max Seat #1 is the button
+Seat 1: ricrockacdc (260 in chips) 
+Seat 2: Mahu2021 (1240 in chips) 
+ricrockacdc: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s 8s]
+ricrockacdc: raises 200 to 260 and is all-in
+Mahu2021: folds 
+Uncalled bet (200) returned to ricrockacdc
+ricrockacdc collected 120 from pot
+ricrockacdc: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: ricrockacdc (button) (small blind) collected (120)
+Seat 2: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #250041870710: Tournament #3743444605, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/04/18 19:51:51 CET [2024/04/18 13:51:51 ET]
+Table '3743444605 1' 3-max Seat #2 is the button
+Seat 1: ricrockacdc (320 in chips) 
+Seat 2: Mahu2021 (1180 in chips) 
+Mahu2021: posts small blind 30
+ricrockacdc: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s Kd]
+Mahu2021: raises 1120 to 1180 and is all-in
+ricrockacdc: folds 
+Uncalled bet (1120) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: ricrockacdc (big blind) folded before Flop
+Seat 2: Mahu2021 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #250041872838: Tournament #3743444605, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/04/18 19:51:58 CET [2024/04/18 13:51:58 ET]
+Table '3743444605 1' 3-max Seat #1 is the button
+Seat 1: ricrockacdc (260 in chips) 
+Seat 2: Mahu2021 (1240 in chips) 
+ricrockacdc: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad 7s]
+ricrockacdc: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: ricrockacdc (button) (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (60)
+
+
+
+PokerStars Hand #250041874035: Tournament #3743444605, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/04/18 19:52:02 CET [2024/04/18 13:52:02 ET]
+Table '3743444605 1' 3-max Seat #2 is the button
+Seat 1: ricrockacdc (230 in chips) 
+Seat 2: Mahu2021 (1270 in chips) 
+Mahu2021: posts small blind 30
+ricrockacdc: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qd 6c]
+Mahu2021: raises 60 to 120
+ricrockacdc: raises 110 to 230 and is all-in
+Mahu2021: calls 110
+*** FLOP *** [4h Tc Js]
+*** TURN *** [4h Tc Js] [Qh]
+*** RIVER *** [4h Tc Js Qh] [3h]
+*** SHOW DOWN ***
+ricrockacdc: shows [7h Kc] (high card King)
+Mahu2021: shows [Qd 6c] (a pair of Queens)
+Mahu2021 collected 460 from pot
+ricrockacdc finished the tournament in 2nd place
+Mahu2021 wins the tournament and receives $4.00 - congratulations!
+*** SUMMARY ***
+Total pot 460 | Rake 0 
+Board [4h Tc Js Qh 3h]
+Seat 1: ricrockacdc (big blind) showed [7h Kc] and lost with high card King
+Seat 2: Mahu2021 (button) (small blind) showed [Qd 6c] and won (460) with a pair of Queens
+
+
+

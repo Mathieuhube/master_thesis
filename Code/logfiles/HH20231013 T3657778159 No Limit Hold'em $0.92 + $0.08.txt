@@ -1,0 +1,31 @@
+﻿PokerStars Hand #246505056799: Tournament #3657778159, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/10/13 9:53:39 CET [2023/10/13 3:53:39 ET]
+Table '3657778159 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: Juan_riber11 (500 in chips) 
+Seat 3: Andiij12474 (500 in chips) 
+Juan_riber11: posts small blind 10
+Andiij12474: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd As]
+Mahu2021: raises 20 to 40
+Juan_riber11: calls 30
+Andiij12474: raises 460 to 500 and is all-in
+Mahu2021: calls 460 and is all-in
+Juan_riber11: folds 
+*** FLOP *** [5d Ad Kh]
+*** TURN *** [5d Ad Kh] [5c]
+*** RIVER *** [5d Ad Kh 5c] [3s]
+*** SHOW DOWN ***
+Andiij12474: shows [5h Jh] (three of a kind, Fives)
+Mahu2021: shows [Kd As] (two pair, Aces and Kings)
+Andiij12474 collected 1040 from pot
+Mahu2021 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1040 | Rake 0 
+Board [5d Ad Kh 5c 3s]
+Seat 1: Mahu2021 (button) showed [Kd As] and lost with two pair, Aces and Kings
+Seat 2: Juan_riber11 (small blind) folded before Flop
+Seat 3: Andiij12474 (big blind) showed [5h Jh] and won (1040) with three of a kind, Fives
+
+
+

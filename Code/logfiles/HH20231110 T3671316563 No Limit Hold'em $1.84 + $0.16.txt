@@ -1,0 +1,387 @@
+﻿PokerStars Hand #247028590570: Tournament #3671316563, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/10 15:53:26 CET [2023/11/10 9:53:26 ET]
+Table '3671316563 1' 3-max Seat #1 is the button
+Seat 1: FlushingGreek (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: SebSeF (500 in chips) 
+Mahu2021: posts small blind 10
+SebSeF: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d 4h]
+FlushingGreek: raises 40 to 60
+Mahu2021: folds 
+SebSeF: calls 40
+*** FLOP *** [4c 9c 4s]
+SebSeF: checks 
+FlushingGreek: bets 60
+SebSeF: folds 
+Uncalled bet (60) returned to FlushingGreek
+FlushingGreek collected 130 from pot
+FlushingGreek: doesn't show hand 
+*** SUMMARY ***
+Total pot 130 | Rake 0 
+Board [4c 9c 4s]
+Seat 1: FlushingGreek (button) collected (130)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: SebSeF (big blind) folded on the Flop
+
+
+
+PokerStars Hand #247028593971: Tournament #3671316563, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/10 15:53:41 CET [2023/11/10 9:53:41 ET]
+Table '3671316563 1' 3-max Seat #2 is the button
+Seat 1: FlushingGreek (570 in chips) 
+Seat 2: Mahu2021 (490 in chips) 
+Seat 3: SebSeF (440 in chips) 
+SebSeF: posts small blind 10
+FlushingGreek: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts 7d]
+Mahu2021: folds 
+SebSeF: calls 10
+FlushingGreek: checks 
+*** FLOP *** [9h Kh 3h]
+SebSeF: checks 
+FlushingGreek: checks 
+*** TURN *** [9h Kh 3h] [2c]
+SebSeF: checks 
+FlushingGreek: checks 
+*** RIVER *** [9h Kh 3h 2c] [Qh]
+SebSeF: checks 
+FlushingGreek: checks 
+*** SHOW DOWN ***
+SebSeF: shows [6c Kd] (a pair of Kings)
+FlushingGreek: shows [2h Tc] (a flush, King high)
+FlushingGreek collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [9h Kh 3h 2c Qh]
+Seat 1: FlushingGreek (big blind) showed [2h Tc] and won (40) with a flush, King high
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: SebSeF (small blind) showed [6c Kd] and lost with a pair of Kings
+
+
+
+PokerStars Hand #247028598849: Tournament #3671316563, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/10 15:54:02 CET [2023/11/10 9:54:02 ET]
+Table '3671316563 1' 3-max Seat #3 is the button
+Seat 1: FlushingGreek (590 in chips) 
+Seat 2: Mahu2021 (490 in chips) 
+Seat 3: SebSeF (420 in chips) 
+FlushingGreek: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2s Ah]
+SebSeF: folds 
+FlushingGreek: calls 10
+Mahu2021: checks 
+*** FLOP *** [6c 3s 4d]
+FlushingGreek: checks 
+Mahu2021: bets 20
+FlushingGreek: calls 20
+*** TURN *** [6c 3s 4d] [Ks]
+FlushingGreek: checks 
+Mahu2021: checks 
+*** RIVER *** [6c 3s 4d Ks] [5c]
+FlushingGreek: checks 
+Mahu2021: bets 80
+FlushingGreek: folds 
+Uncalled bet (80) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [6c 3s 4d Ks 5c]
+Seat 1: FlushingGreek (small blind) folded on the River
+Seat 2: Mahu2021 (big blind) collected (80)
+Seat 3: SebSeF (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #247028603470: Tournament #3671316563, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/10 15:54:22 CET [2023/11/10 9:54:22 ET]
+Table '3671316563 1' 3-max Seat #1 is the button
+Seat 1: FlushingGreek (550 in chips) 
+Seat 2: Mahu2021 (530 in chips) 
+Seat 3: SebSeF (420 in chips) 
+Mahu2021: posts small blind 10
+SebSeF: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d Kd]
+FlushingGreek: raises 40 to 60
+Mahu2021: calls 50
+SebSeF: folds 
+*** FLOP *** [Th 4d Ad]
+Mahu2021: bets 60
+FlushingGreek: raises 430 to 490 and is all-in
+Mahu2021: calls 410 and is all-in
+Uncalled bet (20) returned to FlushingGreek
+*** TURN *** [Th 4d Ad] [3s]
+*** RIVER *** [Th 4d Ad 3s] [Jd]
+*** SHOW DOWN ***
+Mahu2021: shows [7d Kd] (a flush, Ace high)
+FlushingGreek: shows [Ac 2s] (a pair of Aces)
+Mahu2021 collected 1080 from pot
+*** SUMMARY ***
+Total pot 1080 | Rake 0 
+Board [Th 4d Ad 3s Jd]
+Seat 1: FlushingGreek (button) showed [Ac 2s] and lost with a pair of Aces
+Seat 2: Mahu2021 (small blind) showed [7d Kd] and won (1080) with a flush, Ace high
+Seat 3: SebSeF (big blind) folded before Flop
+
+
+
+PokerStars Hand #247028608150: Tournament #3671316563, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/10 15:54:43 CET [2023/11/10 9:54:43 ET]
+Table '3671316563 1' 3-max Seat #2 is the button
+Seat 1: FlushingGreek (20 in chips) 
+Seat 2: Mahu2021 (1080 in chips) 
+Seat 3: SebSeF (400 in chips) 
+SebSeF: posts small blind 10
+FlushingGreek: posts big blind 20 and is all-in
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h 6c]
+Mahu2021: folds 
+SebSeF: calls 10
+*** FLOP *** [5h Qd Js]
+*** TURN *** [5h Qd Js] [Ts]
+*** RIVER *** [5h Qd Js Ts] [Jc]
+*** SHOW DOWN ***
+SebSeF: shows [9d 2d] (a pair of Jacks)
+FlushingGreek: shows [7h 6d] (a pair of Jacks - lower kicker)
+SebSeF collected 40 from pot
+FlushingGreek finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [5h Qd Js Ts Jc]
+Seat 1: FlushingGreek (big blind) showed [7h 6d] and lost with a pair of Jacks
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: SebSeF (small blind) showed [9d 2d] and won (40) with a pair of Jacks
+
+
+
+PokerStars Hand #247028611599: Tournament #3671316563, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/10 15:54:58 CET [2023/11/10 9:54:58 ET]
+Table '3671316563 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (1080 in chips) 
+Seat 3: SebSeF (420 in chips) 
+SebSeF: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4c 9h]
+SebSeF: raises 20 to 40
+Mahu2021: folds 
+Uncalled bet (20) returned to SebSeF
+SebSeF collected 40 from pot
+SebSeF: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: SebSeF (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #247028613044: Tournament #3671316563, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/10 15:55:04 CET [2023/11/10 9:55:04 ET]
+Table '3671316563 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (1060 in chips) 
+Seat 3: SebSeF (440 in chips) 
+Mahu2021: posts small blind 10
+SebSeF: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d Qd]
+Mahu2021: calls 10
+SebSeF: checks 
+*** FLOP *** [9h Kd 3h]
+SebSeF: checks 
+Mahu2021: checks 
+*** TURN *** [9h Kd 3h] [4c]
+SebSeF: checks 
+Mahu2021: bets 20
+SebSeF: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [9h Kd 3h 4c]
+Seat 2: Mahu2021 (button) (small blind) collected (40)
+Seat 3: SebSeF (big blind) folded on the Turn
+
+
+
+PokerStars Hand #247028616051: Tournament #3671316563, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/10 15:55:20 CET [2023/11/10 9:55:20 ET]
+Table '3671316563 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (1080 in chips) 
+Seat 3: SebSeF (420 in chips) 
+SebSeF: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d Qc]
+SebSeF: folds 
+Uncalled bet (10) returned to Mahu2021
+Mahu2021 collected 20 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 2: Mahu2021 (big blind) collected (20)
+Seat 3: SebSeF (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #247028616951: Tournament #3671316563, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/10 15:55:25 CET [2023/11/10 9:55:25 ET]
+Table '3671316563 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (1090 in chips) 
+Seat 3: SebSeF (410 in chips) 
+Mahu2021: posts small blind 10
+SebSeF: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qs 9h]
+Mahu2021: raises 20 to 40
+SebSeF: raises 80 to 120
+Mahu2021: calls 80
+*** FLOP *** [7s 3h Kd]
+SebSeF: bets 100
+Mahu2021: folds 
+Uncalled bet (100) returned to SebSeF
+SebSeF collected 240 from pot
+SebSeF: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [7s 3h Kd]
+Seat 2: Mahu2021 (button) (small blind) folded on the Flop
+Seat 3: SebSeF (big blind) collected (240)
+
+
+
+PokerStars Hand #247028619385: Tournament #3671316563, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/10 15:55:38 CET [2023/11/10 9:55:38 ET]
+Table '3671316563 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (970 in chips) 
+Seat 3: SebSeF (530 in chips) 
+SebSeF: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qd 2d]
+SebSeF: raises 40 to 60
+Mahu2021: calls 40
+*** FLOP *** [Jc 7h 9c]
+Mahu2021: checks 
+SebSeF: checks 
+*** TURN *** [Jc 7h 9c] [Td]
+Mahu2021: bets 60
+SebSeF: raises 410 to 470 and is all-in
+Mahu2021: calls 410
+*** RIVER *** [Jc 7h 9c Td] [6c]
+*** SHOW DOWN ***
+Mahu2021: shows [Qd 2d] (high card Queen)
+SebSeF: shows [7s 8s] (a straight, Seven to Jack)
+SebSeF collected 1060 from pot
+*** SUMMARY ***
+Total pot 1060 | Rake 0 
+Board [Jc 7h 9c Td 6c]
+Seat 2: Mahu2021 (big blind) showed [Qd 2d] and lost with high card Queen
+Seat 3: SebSeF (button) (small blind) showed [7s 8s] and won (1060) with a straight, Seven to Jack
+
+
+
+PokerStars Hand #247028623570: Tournament #3671316563, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/10 15:56:01 CET [2023/11/10 9:56:01 ET]
+Table '3671316563 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (440 in chips) 
+Seat 3: SebSeF (1060 in chips) 
+Mahu2021: posts small blind 10
+SebSeF: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4d 6d]
+Mahu2021: calls 10
+SebSeF: raises 1040 to 1060 and is all-in
+Mahu2021: folds 
+Uncalled bet (1040) returned to SebSeF
+SebSeF collected 40 from pot
+SebSeF: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: SebSeF (big blind) collected (40)
+
+
+
+PokerStars Hand #247028625179: Tournament #3671316563, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/10 15:56:10 CET [2023/11/10 9:56:10 ET]
+Table '3671316563 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (420 in chips) 
+Seat 3: SebSeF (1080 in chips) 
+SebSeF: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kc 7h]
+SebSeF: folds 
+Uncalled bet (10) returned to Mahu2021
+Mahu2021 collected 20 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 2: Mahu2021 (big blind) collected (20)
+Seat 3: SebSeF (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #247028625954: Tournament #3671316563, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/10 15:56:14 CET [2023/11/10 9:56:14 ET]
+Table '3671316563 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (430 in chips) 
+Seat 3: SebSeF (1070 in chips) 
+Mahu2021: posts small blind 10
+SebSeF: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c 3d]
+Mahu2021: folds 
+Uncalled bet (10) returned to SebSeF
+SebSeF collected 20 from pot
+SebSeF: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: SebSeF (big blind) collected (20)
+
+
+
+PokerStars Hand #247028626788: Tournament #3671316563, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/10 15:56:19 CET [2023/11/10 9:56:19 ET]
+Table '3671316563 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (420 in chips) 
+Seat 3: SebSeF (1080 in chips) 
+SebSeF: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h 7d]
+SebSeF: raises 40 to 60
+Mahu2021: folds 
+Uncalled bet (40) returned to SebSeF
+SebSeF collected 40 from pot
+SebSeF: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: SebSeF (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #247028628187: Tournament #3671316563, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/10 15:56:26 CET [2023/11/10 9:56:26 ET]
+Table '3671316563 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (400 in chips) 
+Seat 3: SebSeF (1100 in chips) 
+Mahu2021: posts small blind 10
+SebSeF: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js Ad]
+Mahu2021: calls 10
+SebSeF: raises 1080 to 1100 and is all-in
+Mahu2021: calls 380 and is all-in
+Uncalled bet (700) returned to SebSeF
+*** FLOP *** [Ts 5s 8s]
+*** TURN *** [Ts 5s 8s] [6h]
+*** RIVER *** [Ts 5s 8s 6h] [Kh]
+*** SHOW DOWN ***
+SebSeF: shows [Ah 6d] (a pair of Sixes)
+Mahu2021: shows [Js Ad] (high card Ace)
+SebSeF collected 800 from pot
+Mahu2021 finished the tournament in 2nd place
+SebSeF wins the tournament and receives $6.00 - congratulations!
+*** SUMMARY ***
+Total pot 800 | Rake 0 
+Board [Ts 5s 8s 6h Kh]
+Seat 2: Mahu2021 (button) (small blind) showed [Js Ad] and lost with high card Ace
+Seat 3: SebSeF (big blind) showed [Ah 6d] and won (800) with a pair of Sixes
+
+
+

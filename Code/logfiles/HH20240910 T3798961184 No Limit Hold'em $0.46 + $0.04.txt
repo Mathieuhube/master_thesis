@@ -1,0 +1,652 @@
+﻿PokerStars Hand #252384484795: Tournament #3798961184, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2024/09/10 20:51:48 CET [2024/09/10 14:51:48 ET]
+Table '3798961184 1' 3-max Seat #1 is the button
+Seat 1: Young_Sandwich9 (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: Mr.Dessigner (500 in chips) 
+Mahu2021: posts small blind 10
+Mr.Dessigner: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad 2s]
+Young_Sandwich9: raises 20 to 40
+Mahu2021: calls 30
+Mr.Dessigner: raises 460 to 500 and is all-in
+Young_Sandwich9: folds 
+Mahu2021: folds 
+Uncalled bet (460) returned to Mr.Dessigner
+Mr.Dessigner collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: Young_Sandwich9 (button) folded before Flop
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: Mr.Dessigner (big blind) collected (120)
+
+
+
+PokerStars Hand #252384488212: Tournament #3798961184, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2024/09/10 20:51:59 CET [2024/09/10 14:51:59 ET]
+Table '3798961184 1' 3-max Seat #2 is the button
+Seat 1: Young_Sandwich9 (460 in chips) 
+Seat 2: Mahu2021 (460 in chips) 
+Seat 3: Mr.Dessigner (580 in chips) 
+Mr.Dessigner: posts small blind 10
+Young_Sandwich9: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4d 3c]
+Mahu2021: folds 
+Mr.Dessigner: raises 560 to 580 and is all-in
+Young_Sandwich9: calls 440 and is all-in
+Uncalled bet (120) returned to Mr.Dessigner
+*** FLOP *** [Ah As 9s]
+*** TURN *** [Ah As 9s] [Ad]
+*** RIVER *** [Ah As 9s Ad] [Th]
+*** SHOW DOWN ***
+Mr.Dessigner: shows [2s Qd] (three of a kind, Aces)
+Young_Sandwich9: shows [Qc Kh] (three of a kind, Aces - King kicker)
+Young_Sandwich9 collected 920 from pot
+*** SUMMARY ***
+Total pot 920 | Rake 0 
+Board [Ah As 9s Ad Th]
+Seat 1: Young_Sandwich9 (big blind) showed [Qc Kh] and won (920) with three of a kind, Aces
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: Mr.Dessigner (small blind) showed [2s Qd] and lost with three of a kind, Aces
+
+
+
+PokerStars Hand #252384492961: Tournament #3798961184, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2024/09/10 20:52:15 CET [2024/09/10 14:52:15 ET]
+Table '3798961184 1' 3-max Seat #3 is the button
+Seat 1: Young_Sandwich9 (920 in chips) 
+Seat 2: Mahu2021 (460 in chips) 
+Seat 3: Mr.Dessigner (120 in chips) 
+Young_Sandwich9: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Th 2d]
+Mr.Dessigner: raises 100 to 120 and is all-in
+Young_Sandwich9: raises 800 to 920 and is all-in
+Mahu2021: folds 
+Uncalled bet (800) returned to Young_Sandwich9
+*** FLOP *** [3d 6d 3h]
+*** TURN *** [3d 6d 3h] [Kh]
+*** RIVER *** [3d 6d 3h Kh] [Jh]
+*** SHOW DOWN ***
+Young_Sandwich9: shows [7s Kc] (two pair, Kings and Threes)
+Mr.Dessigner: shows [4c Kd] (two pair, Kings and Threes)
+Young_Sandwich9 collected 130 from pot
+Mr.Dessigner collected 130 from pot
+*** SUMMARY ***
+Total pot 260 | Rake 0 
+Board [3d 6d 3h Kh Jh]
+Seat 1: Young_Sandwich9 (small blind) showed [7s Kc] and won (130) with two pair, Kings and Threes
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: Mr.Dessigner (button) showed [4c Kd] and won (130) with two pair, Kings and Threes
+
+
+
+PokerStars Hand #252384498702: Tournament #3798961184, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2024/09/10 20:52:33 CET [2024/09/10 14:52:33 ET]
+Table '3798961184 1' 3-max Seat #1 is the button
+Seat 1: Young_Sandwich9 (930 in chips) 
+Seat 2: Mahu2021 (440 in chips) 
+Seat 3: Mr.Dessigner (130 in chips) 
+Mahu2021: posts small blind 10
+Mr.Dessigner: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3c 3h]
+Young_Sandwich9: folds 
+Mahu2021: raises 420 to 440 and is all-in
+Mr.Dessigner: calls 110 and is all-in
+Uncalled bet (310) returned to Mahu2021
+*** FLOP *** [3d 5d Jd]
+*** TURN *** [3d 5d Jd] [Tc]
+*** RIVER *** [3d 5d Jd Tc] [Kd]
+*** SHOW DOWN ***
+Mahu2021: shows [3c 3h] (three of a kind, Threes)
+Mr.Dessigner: shows [4s Qs] (high card King)
+Mahu2021 collected 260 from pot
+Mr.Dessigner finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 260 | Rake 0 
+Board [3d 5d Jd Tc Kd]
+Seat 1: Young_Sandwich9 (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) showed [3c 3h] and won (260) with three of a kind, Threes
+Seat 3: Mr.Dessigner (big blind) showed [4s Qs] and lost with high card King
+
+
+
+PokerStars Hand #252384504071: Tournament #3798961184, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2024/09/10 20:52:51 CET [2024/09/10 14:52:51 ET]
+Table '3798961184 1' 3-max Seat #2 is the button
+Seat 1: Young_Sandwich9 (930 in chips) 
+Seat 2: Mahu2021 (570 in chips) 
+Mahu2021: posts small blind 10
+Young_Sandwich9: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As 3c]
+Mahu2021: raises 550 to 570 and is all-in
+Young_Sandwich9: folds 
+Uncalled bet (550) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Young_Sandwich9 (big blind) folded before Flop
+Seat 2: Mahu2021 (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #252384506655: Tournament #3798961184, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2024/09/10 20:52:59 CET [2024/09/10 14:52:59 ET]
+Table '3798961184 1' 3-max Seat #1 is the button
+Seat 1: Young_Sandwich9 (910 in chips) 
+Seat 2: Mahu2021 (590 in chips) 
+Young_Sandwich9: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c 7c]
+Young_Sandwich9: folds 
+Uncalled bet (10) returned to Mahu2021
+Mahu2021 collected 20 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Young_Sandwich9 (button) (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (20)
+
+
+
+PokerStars Hand #252384507780: Tournament #3798961184, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2024/09/10 20:53:03 CET [2024/09/10 14:53:03 ET]
+Table '3798961184 1' 3-max Seat #2 is the button
+Seat 1: Young_Sandwich9 (900 in chips) 
+Seat 2: Mahu2021 (600 in chips) 
+Mahu2021: posts small blind 10
+Young_Sandwich9: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4c Tc]
+Mahu2021: calls 10
+Young_Sandwich9: checks 
+*** FLOP *** [5d 5s 9d]
+Young_Sandwich9: checks 
+Mahu2021: checks 
+*** TURN *** [5d 5s 9d] [7s]
+Young_Sandwich9: checks 
+Mahu2021: checks 
+*** RIVER *** [5d 5s 9d 7s] [Th]
+Young_Sandwich9: bets 880 and is all-in
+Mahu2021: folds 
+Uncalled bet (880) returned to Young_Sandwich9
+Young_Sandwich9 collected 40 from pot
+Young_Sandwich9: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [5d 5s 9d 7s Th]
+Seat 1: Young_Sandwich9 (big blind) collected (40)
+Seat 2: Mahu2021 (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #252384514748: Tournament #3798961184, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2024/09/10 20:53:25 CET [2024/09/10 14:53:25 ET]
+Table '3798961184 1' 3-max Seat #1 is the button
+Seat 1: Young_Sandwich9 (920 in chips) 
+Seat 2: Mahu2021 (580 in chips) 
+Young_Sandwich9: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8s 8h]
+Young_Sandwich9: folds 
+Uncalled bet (10) returned to Mahu2021
+Mahu2021 collected 20 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Young_Sandwich9 (button) (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (20)
+
+
+
+PokerStars Hand #252384516080: Tournament #3798961184, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2024/09/10 20:53:30 CET [2024/09/10 14:53:30 ET]
+Table '3798961184 1' 3-max Seat #2 is the button
+Seat 1: Young_Sandwich9 (910 in chips) 
+Seat 2: Mahu2021 (590 in chips) 
+Mahu2021: posts small blind 10
+Young_Sandwich9: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c 9d]
+Mahu2021: folds 
+Uncalled bet (10) returned to Young_Sandwich9
+Young_Sandwich9 collected 20 from pot
+Young_Sandwich9: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Young_Sandwich9 (big blind) collected (20)
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #252384517502: Tournament #3798961184, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2024/09/10 20:53:34 CET [2024/09/10 14:53:34 ET]
+Table '3798961184 1' 3-max Seat #1 is the button
+Seat 1: Young_Sandwich9 (920 in chips) 
+Seat 2: Mahu2021 (580 in chips) 
+Young_Sandwich9: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qd 8h]
+Young_Sandwich9: folds 
+Uncalled bet (10) returned to Mahu2021
+Mahu2021 collected 20 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Young_Sandwich9 (button) (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (20)
+
+
+
+PokerStars Hand #252384518774: Tournament #3798961184, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2024/09/10 20:53:38 CET [2024/09/10 14:53:38 ET]
+Table '3798961184 1' 3-max Seat #2 is the button
+Seat 1: Young_Sandwich9 (910 in chips) 
+Seat 2: Mahu2021 (590 in chips) 
+Mahu2021: posts small blind 10
+Young_Sandwich9: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d 9s]
+Mahu2021: calls 10
+Young_Sandwich9: raises 40 to 60
+Mahu2021: folds 
+Uncalled bet (40) returned to Young_Sandwich9
+Young_Sandwich9 collected 40 from pot
+Young_Sandwich9: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Young_Sandwich9 (big blind) collected (40)
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #252384521980: Tournament #3798961184, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2024/09/10 20:53:48 CET [2024/09/10 14:53:48 ET]
+Table '3798961184 1' 3-max Seat #1 is the button
+Seat 1: Young_Sandwich9 (930 in chips) 
+Seat 2: Mahu2021 (570 in chips) 
+Young_Sandwich9: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah Qc]
+Young_Sandwich9: calls 10
+Mahu2021: raises 80 to 100
+Young_Sandwich9: folds 
+Uncalled bet (80) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Young_Sandwich9 (button) (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (40)
+
+
+
+PokerStars Hand #252384525607: Tournament #3798961184, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2024/09/10 20:54:00 CET [2024/09/10 14:54:00 ET]
+Table '3798961184 1' 3-max Seat #2 is the button
+Seat 1: Young_Sandwich9 (910 in chips) 
+Seat 2: Mahu2021 (590 in chips) 
+Mahu2021: posts small blind 15
+Young_Sandwich9: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s 6c]
+Mahu2021: folds 
+Uncalled bet (15) returned to Young_Sandwich9
+Young_Sandwich9 collected 30 from pot
+Young_Sandwich9: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Young_Sandwich9 (big blind) collected (30)
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #252384526909: Tournament #3798961184, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2024/09/10 20:54:05 CET [2024/09/10 14:54:05 ET]
+Table '3798961184 1' 3-max Seat #1 is the button
+Seat 1: Young_Sandwich9 (925 in chips) 
+Seat 2: Mahu2021 (575 in chips) 
+Young_Sandwich9: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts 2h]
+Young_Sandwich9: raises 30 to 60
+Mahu2021: folds 
+Uncalled bet (30) returned to Young_Sandwich9
+Young_Sandwich9 collected 60 from pot
+Young_Sandwich9: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Young_Sandwich9 (button) (small blind) collected (60)
+Seat 2: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #252384528564: Tournament #3798961184, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2024/09/10 20:54:10 CET [2024/09/10 14:54:10 ET]
+Table '3798961184 1' 3-max Seat #2 is the button
+Seat 1: Young_Sandwich9 (955 in chips) 
+Seat 2: Mahu2021 (545 in chips) 
+Mahu2021: posts small blind 15
+Young_Sandwich9: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks Qd]
+Mahu2021: raises 30 to 60
+Young_Sandwich9: calls 30
+*** FLOP *** [9s Ah 8s]
+Young_Sandwich9: checks 
+Mahu2021: bets 60
+Young_Sandwich9: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [9s Ah 8s]
+Seat 1: Young_Sandwich9 (big blind) folded on the Flop
+Seat 2: Mahu2021 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #252384532086: Tournament #3798961184, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2024/09/10 20:54:21 CET [2024/09/10 14:54:21 ET]
+Table '3798961184 1' 3-max Seat #1 is the button
+Seat 1: Young_Sandwich9 (895 in chips) 
+Seat 2: Mahu2021 (605 in chips) 
+Young_Sandwich9: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks 3s]
+Young_Sandwich9: raises 30 to 60
+Mahu2021: calls 30
+*** FLOP *** [9h 2d 6h]
+Mahu2021: checks 
+Young_Sandwich9: bets 90
+Mahu2021: folds 
+Uncalled bet (90) returned to Young_Sandwich9
+Young_Sandwich9 collected 120 from pot
+Young_Sandwich9: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [9h 2d 6h]
+Seat 1: Young_Sandwich9 (button) (small blind) collected (120)
+Seat 2: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #252384536175: Tournament #3798961184, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2024/09/10 20:54:35 CET [2024/09/10 14:54:35 ET]
+Table '3798961184 1' 3-max Seat #2 is the button
+Seat 1: Young_Sandwich9 (955 in chips) 
+Seat 2: Mahu2021 (545 in chips) 
+Mahu2021: posts small blind 15
+Young_Sandwich9: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc 8s]
+Mahu2021: calls 15
+Young_Sandwich9: raises 90 to 120
+Mahu2021: folds 
+Uncalled bet (90) returned to Young_Sandwich9
+Young_Sandwich9 collected 60 from pot
+Young_Sandwich9: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Young_Sandwich9 (big blind) collected (60)
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #252384539457: Tournament #3798961184, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2024/09/10 20:54:46 CET [2024/09/10 14:54:46 ET]
+Table '3798961184 1' 3-max Seat #1 is the button
+Seat 1: Young_Sandwich9 (985 in chips) 
+Seat 2: Mahu2021 (515 in chips) 
+Young_Sandwich9: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s Kd]
+Young_Sandwich9: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Young_Sandwich9 (button) (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (30)
+
+
+
+PokerStars Hand #252384540807: Tournament #3798961184, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2024/09/10 20:54:50 CET [2024/09/10 14:54:50 ET]
+Table '3798961184 1' 3-max Seat #2 is the button
+Seat 1: Young_Sandwich9 (970 in chips) 
+Seat 2: Mahu2021 (530 in chips) 
+Mahu2021: posts small blind 15
+Young_Sandwich9: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h 9c]
+Mahu2021: folds 
+Uncalled bet (15) returned to Young_Sandwich9
+Young_Sandwich9 collected 30 from pot
+Young_Sandwich9: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Young_Sandwich9 (big blind) collected (30)
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #252384542148: Tournament #3798961184, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2024/09/10 20:54:54 CET [2024/09/10 14:54:54 ET]
+Table '3798961184 1' 3-max Seat #1 is the button
+Seat 1: Young_Sandwich9 (985 in chips) 
+Seat 2: Mahu2021 (515 in chips) 
+Young_Sandwich9: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8d 6c]
+Young_Sandwich9: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Young_Sandwich9 (button) (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (30)
+
+
+
+PokerStars Hand #252384543445: Tournament #3798961184, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2024/09/10 20:54:59 CET [2024/09/10 14:54:59 ET]
+Table '3798961184 1' 3-max Seat #2 is the button
+Seat 1: Young_Sandwich9 (970 in chips) 
+Seat 2: Mahu2021 (530 in chips) 
+Mahu2021: posts small blind 15
+Young_Sandwich9: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd 2s]
+Mahu2021: raises 30 to 60
+Young_Sandwich9: calls 30
+*** FLOP *** [Jc Qs Qh]
+Young_Sandwich9: checks 
+Mahu2021: checks 
+*** TURN *** [Jc Qs Qh] [Ac]
+Young_Sandwich9: checks 
+Mahu2021: bets 60
+Young_Sandwich9: calls 60
+*** RIVER *** [Jc Qs Qh Ac] [9s]
+Young_Sandwich9: checks 
+Mahu2021: bets 410 and is all-in
+Young_Sandwich9: folds 
+Uncalled bet (410) returned to Mahu2021
+Mahu2021 collected 240 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Jc Qs Qh Ac 9s]
+Seat 1: Young_Sandwich9 (big blind) folded on the River
+Seat 2: Mahu2021 (button) (small blind) collected (240)
+
+
+
+PokerStars Hand #252384549540: Tournament #3798961184, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2024/09/10 20:55:21 CET [2024/09/10 14:55:21 ET]
+Table '3798961184 1' 3-max Seat #1 is the button
+Seat 1: Young_Sandwich9 (850 in chips) 
+Seat 2: Mahu2021 (650 in chips) 
+Young_Sandwich9: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As 8h]
+Young_Sandwich9: raises 30 to 60
+Mahu2021: raises 590 to 650 and is all-in
+Young_Sandwich9: folds 
+Uncalled bet (590) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: Young_Sandwich9 (button) (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (120)
+
+
+
+PokerStars Hand #252384551124: Tournament #3798961184, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2024/09/10 20:55:28 CET [2024/09/10 14:55:28 ET]
+Table '3798961184 1' 3-max Seat #2 is the button
+Seat 1: Young_Sandwich9 (790 in chips) 
+Seat 2: Mahu2021 (710 in chips) 
+Mahu2021: posts small blind 15
+Young_Sandwich9: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Th 3d]
+Mahu2021: folds 
+Uncalled bet (15) returned to Young_Sandwich9
+Young_Sandwich9 collected 30 from pot
+Young_Sandwich9: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Young_Sandwich9 (big blind) collected (30)
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #252384551977: Tournament #3798961184, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2024/09/10 20:55:32 CET [2024/09/10 14:55:32 ET]
+Table '3798961184 1' 3-max Seat #1 is the button
+Seat 1: Young_Sandwich9 (805 in chips) 
+Seat 2: Mahu2021 (695 in chips) 
+Young_Sandwich9: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Td 4d]
+Young_Sandwich9: raises 30 to 60
+Mahu2021: calls 30
+*** FLOP *** [4c 5d 3h]
+Mahu2021: checks 
+Young_Sandwich9: bets 60
+Mahu2021: calls 60
+*** TURN *** [4c 5d 3h] [Ah]
+Mahu2021: checks 
+Young_Sandwich9: checks 
+*** RIVER *** [4c 5d 3h Ah] [7c]
+Mahu2021: checks 
+Young_Sandwich9: bets 180
+Mahu2021: folds 
+Uncalled bet (180) returned to Young_Sandwich9
+Young_Sandwich9 collected 240 from pot
+Young_Sandwich9: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [4c 5d 3h Ah 7c]
+Seat 1: Young_Sandwich9 (button) (small blind) collected (240)
+Seat 2: Mahu2021 (big blind) folded on the River
+
+
+
+PokerStars Hand #252384557491: Tournament #3798961184, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2024/09/10 20:55:59 CET [2024/09/10 14:55:59 ET]
+Table '3798961184 1' 3-max Seat #2 is the button
+Seat 1: Young_Sandwich9 (925 in chips) 
+Seat 2: Mahu2021 (575 in chips) 
+Mahu2021: posts small blind 20
+Young_Sandwich9: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Tc 8c]
+Mahu2021: calls 20
+Young_Sandwich9: checks 
+*** FLOP *** [9s 3h 2c]
+Young_Sandwich9: checks 
+Mahu2021: checks 
+*** TURN *** [9s 3h 2c] [5d]
+Young_Sandwich9: bets 40
+Mahu2021: folds 
+Uncalled bet (40) returned to Young_Sandwich9
+Young_Sandwich9 collected 80 from pot
+Young_Sandwich9: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [9s 3h 2c 5d]
+Seat 1: Young_Sandwich9 (big blind) collected (80)
+Seat 2: Mahu2021 (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #252384560109: Tournament #3798961184, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2024/09/10 20:56:12 CET [2024/09/10 14:56:12 ET]
+Table '3798961184 1' 3-max Seat #1 is the button
+Seat 1: Young_Sandwich9 (965 in chips) 
+Seat 2: Mahu2021 (535 in chips) 
+Young_Sandwich9: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kc Jc]
+Young_Sandwich9: raises 40 to 80
+Mahu2021: raises 455 to 535 and is all-in
+Young_Sandwich9: calls 455
+*** FLOP *** [8s 6d Kd]
+*** TURN *** [8s 6d Kd] [4c]
+*** RIVER *** [8s 6d Kd 4c] [8h]
+*** SHOW DOWN ***
+Mahu2021: shows [Kc Jc] (two pair, Kings and Eights)
+Young_Sandwich9: shows [Jd Ah] (a pair of Eights)
+Mahu2021 collected 1070 from pot
+*** SUMMARY ***
+Total pot 1070 | Rake 0 
+Board [8s 6d Kd 4c 8h]
+Seat 1: Young_Sandwich9 (button) (small blind) showed [Jd Ah] and lost with a pair of Eights
+Seat 2: Mahu2021 (big blind) showed [Kc Jc] and won (1070) with two pair, Kings and Eights
+
+
+
+PokerStars Hand #252384563037: Tournament #3798961184, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2024/09/10 20:56:26 CET [2024/09/10 14:56:26 ET]
+Table '3798961184 1' 3-max Seat #2 is the button
+Seat 1: Young_Sandwich9 (430 in chips) 
+Seat 2: Mahu2021 (1070 in chips) 
+Mahu2021: posts small blind 20
+Young_Sandwich9: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h 7h]
+Mahu2021: folds 
+Uncalled bet (20) returned to Young_Sandwich9
+Young_Sandwich9 collected 40 from pot
+Young_Sandwich9: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Young_Sandwich9 (big blind) collected (40)
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #252384563885: Tournament #3798961184, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2024/09/10 20:56:30 CET [2024/09/10 14:56:30 ET]
+Table '3798961184 1' 3-max Seat #1 is the button
+Seat 1: Young_Sandwich9 (450 in chips) 
+Seat 2: Mahu2021 (1050 in chips) 
+Young_Sandwich9: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc As]
+Young_Sandwich9: raises 410 to 450 and is all-in
+Mahu2021: calls 410
+*** FLOP *** [6s 3c 3d]
+*** TURN *** [6s 3c 3d] [8d]
+*** RIVER *** [6s 3c 3d 8d] [Ts]
+*** SHOW DOWN ***
+Mahu2021: shows [Qc As] (a pair of Threes)
+Young_Sandwich9: shows [4s Ad] (a pair of Threes - lower kicker)
+Mahu2021 collected 900 from pot
+Young_Sandwich9 finished the tournament in 2nd place
+Mahu2021 wins the tournament - congratulations!
+Mahu2021 wins a '$1.00 Power Path Step 2 Ticket' ticket
+*** SUMMARY ***
+Total pot 900 | Rake 0 
+Board [6s 3c 3d 8d Ts]
+Seat 1: Young_Sandwich9 (button) (small blind) showed [4s Ad] and lost with a pair of Threes
+Seat 2: Mahu2021 (big blind) showed [Qc As] and won (900) with a pair of Threes
+
+
+

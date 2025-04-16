@@ -1,0 +1,542 @@
+﻿PokerStars Hand #249083181492: Tournament #3720991511, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/02/25 13:44:03 CET [2024/02/25 7:44:03 ET]
+Table '3720991511 1' 3-max Seat #1 is the button
+Seat 1: ruslantuss (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: Med1ikas (500 in chips) 
+Mahu2021: posts small blind 10
+Med1ikas: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d 6c]
+ruslantuss: raises 20 to 40
+Mahu2021: folds 
+Med1ikas: calls 20
+*** FLOP *** [Qc Ts Js]
+Med1ikas: checks 
+ruslantuss: bets 30
+Med1ikas: calls 30
+*** TURN *** [Qc Ts Js] [Th]
+Med1ikas: checks 
+ruslantuss: checks 
+*** RIVER *** [Qc Ts Js Th] [Ks]
+Med1ikas: checks 
+ruslantuss: bets 75
+Med1ikas: calls 75
+*** SHOW DOWN ***
+ruslantuss: shows [6h 6s] (two pair, Tens and Sixes)
+Med1ikas: shows [Jh 9c] (a straight, Nine to King)
+Med1ikas collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [Qc Ts Js Th Ks]
+Seat 1: ruslantuss (button) showed [6h 6s] and lost with two pair, Tens and Sixes
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: Med1ikas (big blind) showed [Jh 9c] and won (300) with a straight, Nine to King
+
+
+
+PokerStars Hand #249083186947: Tournament #3720991511, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/02/25 13:44:30 CET [2024/02/25 7:44:30 ET]
+Table '3720991511 1' 3-max Seat #2 is the button
+Seat 1: ruslantuss (355 in chips) 
+Seat 2: Mahu2021 (490 in chips) 
+Seat 3: Med1ikas (655 in chips) 
+Med1ikas: posts small blind 10
+ruslantuss: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh 7d]
+Mahu2021: folds 
+Med1ikas: folds 
+Uncalled bet (10) returned to ruslantuss
+ruslantuss collected 20 from pot
+ruslantuss: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: ruslantuss (big blind) collected (20)
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: Med1ikas (small blind) folded before Flop
+
+
+
+PokerStars Hand #249083188610: Tournament #3720991511, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/02/25 13:44:39 CET [2024/02/25 7:44:39 ET]
+Table '3720991511 1' 3-max Seat #3 is the button
+Seat 1: ruslantuss (365 in chips) 
+Seat 2: Mahu2021 (490 in chips) 
+Seat 3: Med1ikas (645 in chips) 
+ruslantuss: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qd Ac]
+Med1ikas: folds 
+ruslantuss: folds 
+Uncalled bet (10) returned to Mahu2021
+Mahu2021 collected 20 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: ruslantuss (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (20)
+Seat 3: Med1ikas (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #249083189529: Tournament #3720991511, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/02/25 13:44:43 CET [2024/02/25 7:44:43 ET]
+Table '3720991511 1' 3-max Seat #1 is the button
+Seat 1: ruslantuss (355 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: Med1ikas (645 in chips) 
+Mahu2021: posts small blind 10
+Med1ikas: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd 4c]
+ruslantuss: raises 20 to 40
+Mahu2021: folds 
+Med1ikas: calls 20
+*** FLOP *** [Ah 6h Js]
+Med1ikas: checks 
+ruslantuss: bets 45
+Med1ikas: folds 
+Uncalled bet (45) returned to ruslantuss
+ruslantuss collected 90 from pot
+ruslantuss: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [Ah 6h Js]
+Seat 1: ruslantuss (button) collected (90)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: Med1ikas (big blind) folded on the Flop
+
+
+
+PokerStars Hand #249083195120: Tournament #3720991511, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/02/25 13:45:11 CET [2024/02/25 7:45:11 ET]
+Table '3720991511 1' 3-max Seat #2 is the button
+Seat 1: ruslantuss (405 in chips) 
+Seat 2: Mahu2021 (490 in chips) 
+Seat 3: Med1ikas (605 in chips) 
+Med1ikas: posts small blind 10
+ruslantuss: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah Th]
+Mahu2021: raises 40 to 60
+Med1ikas: folds 
+ruslantuss: raises 345 to 405 and is all-in
+Mahu2021: calls 345
+*** FLOP *** [9s Js 8c]
+*** TURN *** [9s Js 8c] [Ac]
+*** RIVER *** [9s Js 8c Ac] [2h]
+*** SHOW DOWN ***
+ruslantuss: shows [Ts Ad] (a pair of Aces)
+Mahu2021: shows [Ah Th] (a pair of Aces)
+ruslantuss collected 410 from pot
+Mahu2021 collected 410 from pot
+*** SUMMARY ***
+Total pot 820 | Rake 0 
+Board [9s Js 8c Ac 2h]
+Seat 1: ruslantuss (big blind) showed [Ts Ad] and won (410) with a pair of Aces
+Seat 2: Mahu2021 (button) showed [Ah Th] and won (410) with a pair of Aces
+Seat 3: Med1ikas (small blind) folded before Flop
+
+
+
+PokerStars Hand #249083199247: Tournament #3720991511, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/02/25 13:45:31 CET [2024/02/25 7:45:31 ET]
+Table '3720991511 1' 3-max Seat #3 is the button
+Seat 1: ruslantuss (410 in chips) 
+Seat 2: Mahu2021 (495 in chips) 
+Seat 3: Med1ikas (595 in chips) 
+ruslantuss: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qd Qs]
+Med1ikas: folds 
+ruslantuss: raises 20 to 40
+Mahu2021: raises 455 to 495 and is all-in
+ruslantuss: folds 
+Uncalled bet (455) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: ruslantuss (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (80)
+Seat 3: Med1ikas (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #249083201356: Tournament #3720991511, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/02/25 13:45:42 CET [2024/02/25 7:45:42 ET]
+Table '3720991511 1' 3-max Seat #1 is the button
+Seat 1: ruslantuss (370 in chips) 
+Seat 2: Mahu2021 (535 in chips) 
+Seat 3: Med1ikas (595 in chips) 
+Mahu2021: posts small blind 10
+Med1ikas: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc 4s]
+ruslantuss: raises 20 to 40
+Mahu2021: folds 
+Med1ikas: calls 20
+*** FLOP *** [9d 2h 8s]
+Med1ikas: checks 
+ruslantuss: bets 45
+Med1ikas: folds 
+Uncalled bet (45) returned to ruslantuss
+ruslantuss collected 90 from pot
+ruslantuss: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [9d 2h 8s]
+Seat 1: ruslantuss (button) collected (90)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: Med1ikas (big blind) folded on the Flop
+
+
+
+PokerStars Hand #249083204304: Tournament #3720991511, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/02/25 13:45:57 CET [2024/02/25 7:45:57 ET]
+Table '3720991511 1' 3-max Seat #2 is the button
+Seat 1: ruslantuss (420 in chips) 
+Seat 2: Mahu2021 (525 in chips) 
+Seat 3: Med1ikas (555 in chips) 
+Med1ikas: posts small blind 10
+ruslantuss: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4d 9s]
+Mahu2021: folds 
+Med1ikas: raises 20 to 40
+ruslantuss: calls 20
+*** FLOP *** [2h 4c Qh]
+Med1ikas: bets 40
+ruslantuss: folds 
+Uncalled bet (40) returned to Med1ikas
+Med1ikas collected 80 from pot
+Med1ikas: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [2h 4c Qh]
+Seat 1: ruslantuss (big blind) folded on the Flop
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: Med1ikas (small blind) collected (80)
+
+
+
+PokerStars Hand #249083207656: Tournament #3720991511, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/02/25 13:46:14 CET [2024/02/25 7:46:14 ET]
+Table '3720991511 1' 3-max Seat #3 is the button
+Seat 1: ruslantuss (380 in chips) 
+Seat 2: Mahu2021 (525 in chips) 
+Seat 3: Med1ikas (595 in chips) 
+ruslantuss: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c 6d]
+Med1ikas: folds 
+ruslantuss: calls 15
+Mahu2021: checks 
+*** FLOP *** [Tc 6h 9h]
+ruslantuss: bets 45
+Mahu2021: raises 75 to 120
+ruslantuss: calls 75
+*** TURN *** [Tc 6h 9h] [7d]
+ruslantuss: bets 30
+Mahu2021: calls 30
+*** RIVER *** [Tc 6h 9h 7d] [8d]
+ruslantuss: bets 180
+Mahu2021: calls 180
+*** SHOW DOWN ***
+ruslantuss: shows [8c Jd] (a straight, Seven to Jack)
+Mahu2021: mucks hand 
+ruslantuss collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | Rake 0 
+Board [Tc 6h 9h 7d 8d]
+Seat 1: ruslantuss (small blind) showed [8c Jd] and won (720) with a straight, Seven to Jack
+Seat 2: Mahu2021 (big blind) mucked [9c 6d]
+Seat 3: Med1ikas (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #249083213220: Tournament #3720991511, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/02/25 13:46:42 CET [2024/02/25 7:46:42 ET]
+Table '3720991511 1' 3-max Seat #1 is the button
+Seat 1: ruslantuss (740 in chips) 
+Seat 2: Mahu2021 (165 in chips) 
+Seat 3: Med1ikas (595 in chips) 
+Mahu2021: posts small blind 15
+Med1ikas: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Th 5s]
+ruslantuss: folds 
+Mahu2021: folds 
+Uncalled bet (15) returned to Med1ikas
+Med1ikas collected 30 from pot
+Med1ikas: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: ruslantuss (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: Med1ikas (big blind) collected (30)
+
+
+
+PokerStars Hand #249083214096: Tournament #3720991511, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/02/25 13:46:47 CET [2024/02/25 7:46:47 ET]
+Table '3720991511 1' 3-max Seat #2 is the button
+Seat 1: ruslantuss (740 in chips) 
+Seat 2: Mahu2021 (150 in chips) 
+Seat 3: Med1ikas (610 in chips) 
+Med1ikas: posts small blind 15
+ruslantuss: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3c 2d]
+Mahu2021: folds 
+Med1ikas: calls 15
+ruslantuss: checks 
+*** FLOP *** [Kd 6h Jh]
+Med1ikas: checks 
+ruslantuss: checks 
+*** TURN *** [Kd 6h Jh] [5h]
+Med1ikas: checks 
+ruslantuss: bets 30
+Med1ikas: folds 
+Uncalled bet (30) returned to ruslantuss
+ruslantuss collected 60 from pot
+ruslantuss: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Kd 6h Jh 5h]
+Seat 1: ruslantuss (big blind) collected (60)
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: Med1ikas (small blind) folded on the Turn
+
+
+
+PokerStars Hand #249083221663: Tournament #3720991511, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/02/25 13:47:26 CET [2024/02/25 7:47:26 ET]
+Table '3720991511 1' 3-max Seat #3 is the button
+Seat 1: ruslantuss (770 in chips) 
+Seat 2: Mahu2021 (150 in chips) 
+Seat 3: Med1ikas (580 in chips) 
+ruslantuss: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah Js]
+Med1ikas: folds 
+ruslantuss: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: ruslantuss (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (30)
+Seat 3: Med1ikas (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #249083222901: Tournament #3720991511, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/02/25 13:47:32 CET [2024/02/25 7:47:32 ET]
+Table '3720991511 1' 3-max Seat #1 is the button
+Seat 1: ruslantuss (755 in chips) 
+Seat 2: Mahu2021 (165 in chips) 
+Seat 3: Med1ikas (580 in chips) 
+Mahu2021: posts small blind 15
+Med1ikas: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qd Jd]
+ruslantuss: raises 30 to 60
+Mahu2021: raises 105 to 165 and is all-in
+Med1ikas: folds 
+ruslantuss: calls 105
+*** FLOP *** [As Kc Tc]
+*** TURN *** [As Kc Tc] [7s]
+*** RIVER *** [As Kc Tc 7s] [8s]
+*** SHOW DOWN ***
+Mahu2021: shows [Qd Jd] (a straight, Ten to Ace)
+ruslantuss: shows [Ah Ks] (two pair, Aces and Kings)
+Mahu2021 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [As Kc Tc 7s 8s]
+Seat 1: ruslantuss (button) showed [Ah Ks] and lost with two pair, Aces and Kings
+Seat 2: Mahu2021 (small blind) showed [Qd Jd] and won (360) with a straight, Ten to Ace
+Seat 3: Med1ikas (big blind) folded before Flop
+
+
+
+PokerStars Hand #249083227171: Tournament #3720991511, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/02/25 13:47:54 CET [2024/02/25 7:47:54 ET]
+Table '3720991511 1' 3-max Seat #2 is the button
+Seat 1: ruslantuss (590 in chips) 
+Seat 2: Mahu2021 (360 in chips) 
+Seat 3: Med1ikas (550 in chips) 
+Med1ikas: posts small blind 15
+ruslantuss: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h Ks]
+Mahu2021: folds 
+Med1ikas: raises 60 to 90
+ruslantuss: calls 60
+*** FLOP *** [Ah 2c 8h]
+Med1ikas: bets 90
+ruslantuss: folds 
+Uncalled bet (90) returned to Med1ikas
+Med1ikas collected 180 from pot
+Med1ikas: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [Ah 2c 8h]
+Seat 1: ruslantuss (big blind) folded on the Flop
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: Med1ikas (small blind) collected (180)
+
+
+
+PokerStars Hand #249083231459: Tournament #3720991511, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/02/25 13:48:16 CET [2024/02/25 7:48:16 ET]
+Table '3720991511 1' 3-max Seat #3 is the button
+Seat 1: ruslantuss (500 in chips) 
+Seat 2: Mahu2021 (360 in chips) 
+Seat 3: Med1ikas (640 in chips) 
+ruslantuss: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5h 3h]
+Med1ikas: folds 
+ruslantuss: calls 20
+Mahu2021: checks 
+*** FLOP *** [7d 9d 4h]
+ruslantuss: checks 
+Mahu2021: bets 80
+ruslantuss: raises 380 to 460 and is all-in
+Mahu2021: folds 
+Uncalled bet (380) returned to ruslantuss
+ruslantuss collected 240 from pot
+ruslantuss: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [7d 9d 4h]
+Seat 1: ruslantuss (small blind) collected (240)
+Seat 2: Mahu2021 (big blind) folded on the Flop
+Seat 3: Med1ikas (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #249083235923: Tournament #3720991511, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/02/25 13:48:39 CET [2024/02/25 7:48:39 ET]
+Table '3720991511 1' 3-max Seat #1 is the button
+Seat 1: ruslantuss (620 in chips) 
+Seat 2: Mahu2021 (240 in chips) 
+Seat 3: Med1ikas (640 in chips) 
+Mahu2021: posts small blind 20
+Med1ikas: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c 4d]
+ruslantuss: calls 40
+Mahu2021: folds 
+Med1ikas: checks 
+*** FLOP *** [3c 7h 8h]
+Med1ikas: checks 
+ruslantuss: bets 40
+Med1ikas: calls 40
+*** TURN *** [3c 7h 8h] [Tc]
+Med1ikas: checks 
+ruslantuss: bets 90
+Med1ikas: folds 
+Uncalled bet (90) returned to ruslantuss
+ruslantuss collected 180 from pot
+ruslantuss: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [3c 7h 8h Tc]
+Seat 1: ruslantuss (button) collected (180)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: Med1ikas (big blind) folded on the Turn
+
+
+
+PokerStars Hand #249083243294: Tournament #3720991511, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/02/25 13:49:16 CET [2024/02/25 7:49:16 ET]
+Table '3720991511 1' 3-max Seat #2 is the button
+Seat 1: ruslantuss (720 in chips) 
+Seat 2: Mahu2021 (220 in chips) 
+Seat 3: Med1ikas (560 in chips) 
+Med1ikas: posts small blind 20
+ruslantuss: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c 2h]
+Mahu2021: folds 
+Med1ikas: raises 80 to 120
+ruslantuss: folds 
+Uncalled bet (80) returned to Med1ikas
+Med1ikas collected 80 from pot
+Med1ikas: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: ruslantuss (big blind) folded before Flop
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: Med1ikas (small blind) collected (80)
+
+
+
+PokerStars Hand #249083244948: Tournament #3720991511, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/02/25 13:49:25 CET [2024/02/25 7:49:25 ET]
+Table '3720991511 1' 3-max Seat #3 is the button
+Seat 1: ruslantuss (680 in chips) 
+Seat 2: Mahu2021 (220 in chips) 
+Seat 3: Med1ikas (600 in chips) 
+ruslantuss: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d Ts]
+Med1ikas: folds 
+ruslantuss: raises 640 to 680 and is all-in
+Mahu2021: folds 
+Uncalled bet (640) returned to ruslantuss
+ruslantuss collected 80 from pot
+ruslantuss: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: ruslantuss (small blind) collected (80)
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: Med1ikas (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #249083246257: Tournament #3720991511, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/02/25 13:49:31 CET [2024/02/25 7:49:31 ET]
+Table '3720991511 1' 3-max Seat #1 is the button
+Seat 1: ruslantuss (720 in chips) 
+Seat 2: Mahu2021 (180 in chips) 
+Seat 3: Med1ikas (600 in chips) 
+Mahu2021: posts small blind 20
+Med1ikas: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s 6h]
+ruslantuss: folds 
+Mahu2021: folds 
+Uncalled bet (20) returned to Med1ikas
+Med1ikas collected 40 from pot
+Med1ikas: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: ruslantuss (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: Med1ikas (big blind) collected (40)
+
+
+
+PokerStars Hand #249083247051: Tournament #3720991511, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/02/25 13:49:36 CET [2024/02/25 7:49:36 ET]
+Table '3720991511 1' 3-max Seat #2 is the button
+Seat 1: ruslantuss (720 in chips) 
+Seat 2: Mahu2021 (160 in chips) 
+Seat 3: Med1ikas (620 in chips) 
+Med1ikas: posts small blind 20
+ruslantuss: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah Tc]
+Mahu2021: raises 120 to 160 and is all-in
+Med1ikas: raises 460 to 620 and is all-in
+ruslantuss: folds 
+Uncalled bet (460) returned to Med1ikas
+*** FLOP *** [3s As 9c]
+*** TURN *** [3s As 9c] [Ac]
+*** RIVER *** [3s As 9c Ac] [8d]
+*** SHOW DOWN ***
+Med1ikas: shows [Ad 8h] (a full house, Aces full of Eights)
+Mahu2021: shows [Ah Tc] (three of a kind, Aces)
+Med1ikas collected 360 from pot
+Mahu2021 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [3s As 9c Ac 8d]
+Seat 1: ruslantuss (big blind) folded before Flop
+Seat 2: Mahu2021 (button) showed [Ah Tc] and lost with three of a kind, Aces
+Seat 3: Med1ikas (small blind) showed [Ad 8h] and won (360) with a full house, Aces full of Eights
+
+
+

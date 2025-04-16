@@ -1,0 +1,524 @@
+﻿PokerStars Hand #251453997347: Tournament #3777100369, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/07/12 19:41:30 CET [2024/07/12 13:41:30 ET]
+Table '3777100369 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: FCBAndi96 (500 in chips) 
+Seat 3: GusBossy (500 in chips) 
+FCBAndi96: posts small blind 10
+GusBossy: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks 4s]
+Mahu2021: calls 20
+FCBAndi96: raises 40 to 60
+GusBossy: folds 
+Mahu2021: calls 40
+*** FLOP *** [9s 3d 8h]
+FCBAndi96: bets 43
+Mahu2021: folds 
+Uncalled bet (43) returned to FCBAndi96
+FCBAndi96 collected 140 from pot
+FCBAndi96: doesn't show hand 
+*** SUMMARY ***
+Total pot 140 | Rake 0 
+Board [9s 3d 8h]
+Seat 1: Mahu2021 (button) folded on the Flop
+Seat 2: FCBAndi96 (small blind) collected (140)
+Seat 3: GusBossy (big blind) folded before Flop
+
+
+
+PokerStars Hand #251454001751: Tournament #3777100369, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/07/12 19:41:47 CET [2024/07/12 13:41:47 ET]
+Table '3777100369 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (440 in chips) 
+Seat 2: FCBAndi96 (580 in chips) 
+Seat 3: GusBossy (480 in chips) 
+GusBossy: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5h 2h]
+FCBAndi96: raises 40 to 60
+GusBossy: calls 50
+Mahu2021: folds 
+*** FLOP *** [5c 6h 2c]
+GusBossy: checks 
+FCBAndi96: bets 43
+GusBossy: calls 43
+*** TURN *** [5c 6h 2c] [8s]
+GusBossy: checks 
+FCBAndi96: bets 40
+GusBossy: calls 40
+*** RIVER *** [5c 6h 2c 8s] [Tc]
+GusBossy: checks 
+FCBAndi96: bets 95
+GusBossy: folds 
+Uncalled bet (95) returned to FCBAndi96
+FCBAndi96 collected 306 from pot
+FCBAndi96: doesn't show hand 
+*** SUMMARY ***
+Total pot 306 | Rake 0 
+Board [5c 6h 2c 8s Tc]
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: FCBAndi96 (button) collected (306)
+Seat 3: GusBossy (small blind) folded on the River
+
+
+
+PokerStars Hand #251454009718: Tournament #3777100369, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/07/12 19:42:19 CET [2024/07/12 13:42:19 ET]
+Table '3777100369 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (420 in chips) 
+Seat 2: FCBAndi96 (743 in chips) 
+Seat 3: GusBossy (337 in chips) 
+Mahu2021: posts small blind 10
+FCBAndi96: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h 8d]
+GusBossy: calls 20
+Mahu2021: folds 
+FCBAndi96: checks 
+*** FLOP *** [5s 3c 4h]
+FCBAndi96: bets 26
+GusBossy: raises 26 to 52
+FCBAndi96: calls 26
+*** TURN *** [5s 3c 4h] [Qd]
+FCBAndi96: bets 79
+GusBossy: raises 186 to 265 and is all-in
+FCBAndi96: calls 186
+*** RIVER *** [5s 3c 4h Qd] [Ts]
+*** SHOW DOWN ***
+FCBAndi96: shows [9s Qs] (a pair of Queens)
+GusBossy: shows [4d Kh] (a pair of Fours)
+FCBAndi96 collected 684 from pot
+GusBossy finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 684 | Rake 0 
+Board [5s 3c 4h Qd Ts]
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: FCBAndi96 (big blind) showed [9s Qs] and won (684) with a pair of Queens
+Seat 3: GusBossy (button) showed [4d Kh] and lost with a pair of Fours
+
+
+
+PokerStars Hand #251454017864: Tournament #3777100369, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/07/12 19:42:50 CET [2024/07/12 13:42:50 ET]
+Table '3777100369 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (410 in chips) 
+Seat 2: FCBAndi96 (1090 in chips) 
+FCBAndi96: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s 6d]
+FCBAndi96: raises 20 to 40
+Mahu2021: calls 20
+*** FLOP *** [6h 6s Ts]
+Mahu2021: checks 
+FCBAndi96: bets 40
+Mahu2021: calls 40
+*** TURN *** [6h 6s Ts] [5d]
+Mahu2021: checks 
+FCBAndi96: checks 
+*** RIVER *** [6h 6s Ts 5d] [2h]
+Mahu2021: bets 80
+FCBAndi96: folds 
+Uncalled bet (80) returned to Mahu2021
+Mahu2021 collected 160 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [6h 6s Ts 5d 2h]
+Seat 1: Mahu2021 (big blind) collected (160)
+Seat 2: FCBAndi96 (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #251454023956: Tournament #3777100369, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/07/12 19:43:14 CET [2024/07/12 13:43:14 ET]
+Table '3777100369 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (490 in chips) 
+Seat 2: FCBAndi96 (1010 in chips) 
+Mahu2021: posts small blind 10
+FCBAndi96: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd Js]
+Mahu2021: raises 20 to 40
+FCBAndi96: calls 20
+*** FLOP *** [Qc Ts 2h]
+FCBAndi96: bets 41
+Mahu2021: raises 119 to 160
+FCBAndi96: calls 119
+*** TURN *** [Qc Ts 2h] [Kh]
+FCBAndi96: bets 124
+Mahu2021: raises 166 to 290 and is all-in
+FCBAndi96: calls 166
+*** RIVER *** [Qc Ts 2h Kh] [8d]
+*** SHOW DOWN ***
+FCBAndi96: shows [Th 5h] (a pair of Tens)
+Mahu2021: shows [Kd Js] (a pair of Kings)
+Mahu2021 collected 980 from pot
+*** SUMMARY ***
+Total pot 980 | Rake 0 
+Board [Qc Ts 2h Kh 8d]
+Seat 1: Mahu2021 (button) (small blind) showed [Kd Js] and won (980) with a pair of Kings
+Seat 2: FCBAndi96 (big blind) showed [Th 5h] and lost with a pair of Tens
+
+
+
+PokerStars Hand #251454029606: Tournament #3777100369, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/07/12 19:43:36 CET [2024/07/12 13:43:36 ET]
+Table '3777100369 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (980 in chips) 
+Seat 2: FCBAndi96 (520 in chips) 
+FCBAndi96: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Td 5d]
+FCBAndi96: folds 
+Uncalled bet (10) returned to Mahu2021
+Mahu2021 collected 20 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (20)
+Seat 2: FCBAndi96 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #251454030908: Tournament #3777100369, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/07/12 19:43:41 CET [2024/07/12 13:43:41 ET]
+Table '3777100369 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (990 in chips) 
+Seat 2: FCBAndi96 (510 in chips) 
+Mahu2021: posts small blind 10
+FCBAndi96: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5h As]
+Mahu2021: raises 20 to 40
+FCBAndi96: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) collected (40)
+Seat 2: FCBAndi96 (big blind) folded before Flop
+
+
+
+PokerStars Hand #251454032633: Tournament #3777100369, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/07/12 19:43:48 CET [2024/07/12 13:43:48 ET]
+Table '3777100369 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (1010 in chips) 
+Seat 2: FCBAndi96 (490 in chips) 
+FCBAndi96: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh 2d]
+FCBAndi96: raises 20 to 40
+Mahu2021: calls 20
+*** FLOP *** [3s Ts 5d]
+Mahu2021: checks 
+FCBAndi96: checks 
+*** TURN *** [3s Ts 5d] [Kd]
+Mahu2021: checks 
+FCBAndi96: checks 
+*** RIVER *** [3s Ts 5d Kd] [3h]
+Mahu2021: checks 
+FCBAndi96: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [Qh 2d] (a pair of Threes)
+FCBAndi96: mucks hand 
+Mahu2021 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [3s Ts 5d Kd 3h]
+Seat 1: Mahu2021 (big blind) showed [Qh 2d] and won (80) with a pair of Threes
+Seat 2: FCBAndi96 (button) (small blind) mucked [7c 9d]
+
+
+
+PokerStars Hand #251454036135: Tournament #3777100369, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/07/12 19:44:02 CET [2024/07/12 13:44:02 ET]
+Table '3777100369 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1050 in chips) 
+Seat 2: FCBAndi96 (450 in chips) 
+Mahu2021: posts small blind 10
+FCBAndi96: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks 5s]
+Mahu2021: raises 20 to 40
+FCBAndi96: calls 20
+*** FLOP *** [3s Td 6c]
+FCBAndi96: bets 41
+Mahu2021: calls 41
+*** TURN *** [3s Td 6c] [3c]
+FCBAndi96: checks 
+Mahu2021: checks 
+*** RIVER *** [3s Td 6c 3c] [7d]
+FCBAndi96: checks 
+Mahu2021: bets 80
+FCBAndi96: calls 80
+*** SHOW DOWN ***
+Mahu2021: shows [Ks 5s] (a pair of Threes)
+FCBAndi96: shows [Kd 9c] (a pair of Threes - King+Ten+Nine kicker)
+FCBAndi96 collected 322 from pot
+*** SUMMARY ***
+Total pot 322 | Rake 0 
+Board [3s Td 6c 3c 7d]
+Seat 1: Mahu2021 (button) (small blind) showed [Ks 5s] and lost with a pair of Threes
+Seat 2: FCBAndi96 (big blind) showed [Kd 9c] and won (322) with a pair of Threes
+
+
+
+PokerStars Hand #251454041101: Tournament #3777100369, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/07/12 19:44:22 CET [2024/07/12 13:44:22 ET]
+Table '3777100369 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (889 in chips) 
+Seat 2: FCBAndi96 (611 in chips) 
+FCBAndi96: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h 2d]
+FCBAndi96: raises 20 to 40
+Mahu2021: folds 
+Uncalled bet (20) returned to FCBAndi96
+FCBAndi96 collected 40 from pot
+FCBAndi96: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: FCBAndi96 (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #251454042307: Tournament #3777100369, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/07/12 19:44:26 CET [2024/07/12 13:44:26 ET]
+Table '3777100369 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (869 in chips) 
+Seat 2: FCBAndi96 (631 in chips) 
+Mahu2021: posts small blind 10
+FCBAndi96: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d 4s]
+Mahu2021: folds 
+Uncalled bet (10) returned to FCBAndi96
+FCBAndi96 collected 20 from pot
+FCBAndi96: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 2: FCBAndi96 (big blind) collected (20)
+
+
+
+PokerStars Hand #251454043407: Tournament #3777100369, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/07/12 19:44:30 CET [2024/07/12 13:44:30 ET]
+Table '3777100369 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (859 in chips) 
+Seat 2: FCBAndi96 (641 in chips) 
+FCBAndi96: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3c 5d]
+FCBAndi96: raises 20 to 40
+Mahu2021: folds 
+Uncalled bet (20) returned to FCBAndi96
+FCBAndi96 collected 40 from pot
+FCBAndi96: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: FCBAndi96 (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #251454045622: Tournament #3777100369, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/07/12 19:44:39 CET [2024/07/12 13:44:39 ET]
+Table '3777100369 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (839 in chips) 
+Seat 2: FCBAndi96 (661 in chips) 
+Mahu2021: posts small blind 15
+FCBAndi96: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6h 3c]
+Mahu2021: folds 
+Uncalled bet (15) returned to FCBAndi96
+FCBAndi96 collected 30 from pot
+FCBAndi96: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 2: FCBAndi96 (big blind) collected (30)
+
+
+
+PokerStars Hand #251454047454: Tournament #3777100369, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/07/12 19:44:46 CET [2024/07/12 13:44:46 ET]
+Table '3777100369 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (824 in chips) 
+Seat 2: FCBAndi96 (676 in chips) 
+FCBAndi96: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h 8s]
+FCBAndi96: raises 30 to 60
+Mahu2021: folds 
+Uncalled bet (30) returned to FCBAndi96
+FCBAndi96 collected 60 from pot
+FCBAndi96: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: FCBAndi96 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #251454048902: Tournament #3777100369, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/07/12 19:44:52 CET [2024/07/12 13:44:52 ET]
+Table '3777100369 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (794 in chips) 
+Seat 2: FCBAndi96 (706 in chips) 
+Mahu2021: posts small blind 15
+FCBAndi96: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h 2s]
+Mahu2021: raises 764 to 794 and is all-in
+FCBAndi96: folds 
+Uncalled bet (764) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) collected (60)
+Seat 2: FCBAndi96 (big blind) folded before Flop
+
+
+
+PokerStars Hand #251454050737: Tournament #3777100369, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/07/12 19:44:59 CET [2024/07/12 13:44:59 ET]
+Table '3777100369 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (824 in chips) 
+Seat 2: FCBAndi96 (676 in chips) 
+FCBAndi96: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d 3h]
+FCBAndi96: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (30)
+Seat 2: FCBAndi96 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #251454051737: Tournament #3777100369, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/07/12 19:45:03 CET [2024/07/12 13:45:03 ET]
+Table '3777100369 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (839 in chips) 
+Seat 2: FCBAndi96 (661 in chips) 
+Mahu2021: posts small blind 15
+FCBAndi96: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qd Kh]
+Mahu2021: raises 30 to 60
+FCBAndi96: calls 30
+*** FLOP *** [Js Jd 5d]
+FCBAndi96: checks 
+Mahu2021: checks 
+*** TURN *** [Js Jd 5d] [3s]
+FCBAndi96: bets 30
+Mahu2021: calls 30
+*** RIVER *** [Js Jd 5d 3s] [Kc]
+FCBAndi96: bets 60
+Mahu2021: raises 120 to 180
+FCBAndi96: raises 391 to 571 and is all-in
+Mahu2021: calls 391
+*** SHOW DOWN ***
+FCBAndi96: shows [Qs Jh] (three of a kind, Jacks)
+Mahu2021: shows [Qd Kh] (two pair, Kings and Jacks)
+FCBAndi96 collected 1322 from pot
+*** SUMMARY ***
+Total pot 1322 | Rake 0 
+Board [Js Jd 5d 3s Kc]
+Seat 1: Mahu2021 (button) (small blind) showed [Qd Kh] and lost with two pair, Kings and Jacks
+Seat 2: FCBAndi96 (big blind) showed [Qs Jh] and won (1322) with three of a kind, Jacks
+
+
+
+PokerStars Hand #251454058273: Tournament #3777100369, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/07/12 19:45:28 CET [2024/07/12 13:45:28 ET]
+Table '3777100369 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (178 in chips) 
+Seat 2: FCBAndi96 (1322 in chips) 
+FCBAndi96: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8s 6c]
+FCBAndi96: raises 30 to 60
+Mahu2021: calls 30
+*** FLOP *** [7h 7c Qd]
+Mahu2021: checks 
+FCBAndi96: bets 120
+Mahu2021: folds 
+Uncalled bet (120) returned to FCBAndi96
+FCBAndi96 collected 120 from pot
+FCBAndi96: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [7h 7c Qd]
+Seat 1: Mahu2021 (big blind) folded on the Flop
+Seat 2: FCBAndi96 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #251454061297: Tournament #3777100369, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/07/12 19:45:40 CET [2024/07/12 13:45:40 ET]
+Table '3777100369 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (118 in chips) 
+Seat 2: FCBAndi96 (1382 in chips) 
+Mahu2021: posts small blind 15
+FCBAndi96: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c 3h]
+Mahu2021: folds 
+Uncalled bet (15) returned to FCBAndi96
+FCBAndi96 collected 30 from pot
+FCBAndi96: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 2: FCBAndi96 (big blind) collected (30)
+
+
+
+PokerStars Hand #251454062444: Tournament #3777100369, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/07/12 19:45:45 CET [2024/07/12 13:45:45 ET]
+Table '3777100369 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (103 in chips) 
+Seat 2: FCBAndi96 (1397 in chips) 
+FCBAndi96: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h 9c]
+FCBAndi96: raises 30 to 60
+Mahu2021: folds 
+Uncalled bet (30) returned to FCBAndi96
+FCBAndi96 collected 60 from pot
+FCBAndi96: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: FCBAndi96 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #251454064356: Tournament #3777100369, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/07/12 19:45:52 CET [2024/07/12 13:45:52 ET]
+Table '3777100369 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (73 in chips) 
+Seat 2: FCBAndi96 (1427 in chips) 
+Mahu2021: posts small blind 15
+FCBAndi96: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2s 2c]
+Mahu2021: raises 43 to 73 and is all-in
+FCBAndi96: calls 43
+*** FLOP *** [5h 4h 8s]
+*** TURN *** [5h 4h 8s] [Js]
+*** RIVER *** [5h 4h 8s Js] [7d]
+*** SHOW DOWN ***
+FCBAndi96: shows [As Ad] (a pair of Aces)
+Mahu2021: shows [2s 2c] (a pair of Deuces)
+FCBAndi96 collected 146 from pot
+Mahu2021 finished the tournament in 2nd place
+FCBAndi96 wins the tournament and receives $6.00 - congratulations!
+*** SUMMARY ***
+Total pot 146 | Rake 0 
+Board [5h 4h 8s Js 7d]
+Seat 1: Mahu2021 (button) (small blind) showed [2s 2c] and lost with a pair of Deuces
+Seat 2: FCBAndi96 (big blind) showed [As Ad] and won (146) with a pair of Aces
+
+
+

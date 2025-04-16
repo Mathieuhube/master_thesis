@@ -1,0 +1,35 @@
+﻿PokerStars Hand #253035881956: Tournament #3814948439, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/21 18:12:52 CET [2024/10/21 12:12:52 ET]
+Table '3814948439 1' 3-max Seat #1 is the button
+Seat 1: finnw17 (500 in chips) is sitting out
+Seat 2: frenchylucky (500 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+frenchylucky: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah 8d]
+finnw17: folds 
+frenchylucky: raises 40 to 60
+Mahu2021: calls 40
+*** FLOP *** [3h 4d 9s]
+frenchylucky: bets 20
+Mahu2021: calls 20
+*** TURN *** [3h 4d 9s] [Tc]
+frenchylucky: bets 160
+Mahu2021: calls 160
+*** RIVER *** [3h 4d 9s Tc] [8h]
+frenchylucky: bets 260 and is all-in
+Mahu2021: calls 260 and is all-in
+*** SHOW DOWN ***
+frenchylucky: shows [4c 4h] (three of a kind, Fours)
+Mahu2021: shows [Ah 8d] (a pair of Eights)
+frenchylucky collected 1000 from pot
+Mahu2021 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1000 | Rake 0 
+Board [3h 4d 9s Tc 8h]
+Seat 1: finnw17 (button) folded before Flop (didn't bet)
+Seat 2: frenchylucky (small blind) showed [4c 4h] and won (1000) with three of a kind, Fours
+Seat 3: Mahu2021 (big blind) showed [Ah 8d] and lost with a pair of Eights
+
+
+

@@ -1,0 +1,680 @@
+﻿PokerStars Hand #252857513932: Tournament #3810314806, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/10 14:49:09 CET [2024/10/10 8:49:09 ET]
+Table '3810314806 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: Tangoed33 (500 in chips) 
+Seat 3: som313ls3 (500 in chips) 
+Tangoed33: posts small blind 10
+som313ls3: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h Ad]
+Mahu2021: calls 20
+Tangoed33: folds 
+som313ls3: raises 50 to 70
+Mahu2021: folds 
+Uncalled bet (50) returned to som313ls3
+som313ls3 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: Mahu2021 (button) folded before Flop
+Seat 2: Tangoed33 (small blind) folded before Flop
+Seat 3: som313ls3 (big blind) collected (50)
+
+
+
+PokerStars Hand #252857516741: Tournament #3810314806, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/10 14:49:26 CET [2024/10/10 8:49:26 ET]
+Table '3810314806 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (480 in chips) 
+Seat 2: Tangoed33 (490 in chips) 
+Seat 3: som313ls3 (530 in chips) 
+som313ls3: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8d 4s]
+Tangoed33: folds 
+som313ls3: folds 
+Uncalled bet (10) returned to Mahu2021
+Mahu2021 collected 20 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (20)
+Seat 2: Tangoed33 (button) folded before Flop (didn't bet)
+Seat 3: som313ls3 (small blind) folded before Flop
+
+
+
+PokerStars Hand #252857517664: Tournament #3810314806, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/10 14:49:31 CET [2024/10/10 8:49:31 ET]
+Table '3810314806 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (490 in chips) 
+Seat 2: Tangoed33 (490 in chips) 
+Seat 3: som313ls3 (520 in chips) 
+Mahu2021: posts small blind 10
+Tangoed33: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh 3h]
+som313ls3: calls 20
+Mahu2021: calls 10
+Tangoed33: checks 
+*** FLOP *** [4h 2c 3s]
+Mahu2021: bets 20
+Tangoed33: calls 20
+som313ls3: calls 20
+*** TURN *** [4h 2c 3s] [4s]
+Mahu2021: checks 
+Tangoed33: bets 100
+som313ls3: folds 
+Mahu2021: folds 
+Uncalled bet (100) returned to Tangoed33
+Tangoed33 collected 120 from pot
+Tangoed33: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [4h 2c 3s 4s]
+Seat 1: Mahu2021 (small blind) folded on the Turn
+Seat 2: Tangoed33 (big blind) collected (120)
+Seat 3: som313ls3 (button) folded on the Turn
+
+
+
+PokerStars Hand #252857524476: Tournament #3810314806, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/10 14:50:14 CET [2024/10/10 8:50:14 ET]
+Table '3810314806 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (450 in chips) 
+Seat 2: Tangoed33 (570 in chips) 
+Seat 3: som313ls3 (480 in chips) 
+Tangoed33: posts small blind 10
+som313ls3: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d 8h]
+Mahu2021: folds 
+Tangoed33: folds 
+Uncalled bet (10) returned to som313ls3
+som313ls3 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: Tangoed33 (small blind) folded before Flop
+Seat 3: som313ls3 (big blind) collected (20)
+
+
+
+PokerStars Hand #252857525241: Tournament #3810314806, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/10 14:50:18 CET [2024/10/10 8:50:18 ET]
+Table '3810314806 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (450 in chips) 
+Seat 2: Tangoed33 (560 in chips) 
+Seat 3: som313ls3 (490 in chips) 
+som313ls3: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd 4d]
+Tangoed33: folds 
+som313ls3: calls 10
+Mahu2021: checks 
+*** FLOP *** [4c Tc 9s]
+som313ls3: checks 
+Mahu2021: checks 
+*** TURN *** [4c Tc 9s] [8c]
+som313ls3: checks 
+Mahu2021: checks 
+*** RIVER *** [4c Tc 9s 8c] [3d]
+som313ls3: checks 
+Mahu2021: bets 20
+som313ls3: calls 20
+*** SHOW DOWN ***
+Mahu2021: shows [Jd 4d] (a pair of Fours)
+som313ls3: mucks hand 
+Mahu2021 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [4c Tc 9s 8c 3d]
+Seat 1: Mahu2021 (big blind) showed [Jd 4d] and won (80) with a pair of Fours
+Seat 2: Tangoed33 (button) folded before Flop (didn't bet)
+Seat 3: som313ls3 (small blind) mucked [7c 4h]
+
+
+
+PokerStars Hand #252857528808: Tournament #3810314806, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/10 14:50:40 CET [2024/10/10 8:50:40 ET]
+Table '3810314806 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (490 in chips) 
+Seat 2: Tangoed33 (560 in chips) 
+Seat 3: som313ls3 (450 in chips) 
+Mahu2021: posts small blind 10
+Tangoed33: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d 3h]
+som313ls3: raises 50 to 70
+Mahu2021: calls 60
+Tangoed33: folds 
+*** FLOP *** [9d Th 8s]
+Mahu2021: checks 
+som313ls3: bets 160
+Mahu2021: folds 
+Uncalled bet (160) returned to som313ls3
+som313ls3 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [9d Th 8s]
+Seat 1: Mahu2021 (small blind) folded on the Flop
+Seat 2: Tangoed33 (big blind) folded before Flop
+Seat 3: som313ls3 (button) collected (160)
+
+
+
+PokerStars Hand #252857532011: Tournament #3810314806, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/10 14:51:00 CET [2024/10/10 8:51:00 ET]
+Table '3810314806 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (420 in chips) 
+Seat 2: Tangoed33 (540 in chips) 
+Seat 3: som313ls3 (540 in chips) 
+Tangoed33: posts small blind 10
+som313ls3: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2s 4h]
+Mahu2021: folds 
+Tangoed33: folds 
+Uncalled bet (10) returned to som313ls3
+som313ls3 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: Tangoed33 (small blind) folded before Flop
+Seat 3: som313ls3 (big blind) collected (20)
+
+
+
+PokerStars Hand #252857533417: Tournament #3810314806, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/10 14:51:09 CET [2024/10/10 8:51:09 ET]
+Table '3810314806 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (420 in chips) 
+Seat 2: Tangoed33 (530 in chips) 
+Seat 3: som313ls3 (550 in chips) 
+som313ls3: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8c Kd]
+Tangoed33: folds 
+som313ls3: raises 20 to 40
+Mahu2021: calls 20
+*** FLOP *** [Ac 5h 5s]
+som313ls3: checks 
+Mahu2021: checks 
+*** TURN *** [Ac 5h 5s] [9s]
+som313ls3: checks 
+Mahu2021: bets 40
+som313ls3: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Ac 5h 5s 9s]
+Seat 1: Mahu2021 (big blind) collected (80)
+Seat 2: Tangoed33 (button) folded before Flop (didn't bet)
+Seat 3: som313ls3 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #252857536503: Tournament #3810314806, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/10 14:51:28 CET [2024/10/10 8:51:28 ET]
+Table '3810314806 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (460 in chips) 
+Seat 2: Tangoed33 (530 in chips) 
+Seat 3: som313ls3 (510 in chips) 
+Mahu2021: posts small blind 10
+Tangoed33: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts As]
+som313ls3: calls 20
+Mahu2021: calls 10
+Tangoed33: checks 
+*** FLOP *** [4h 7h 3c]
+Mahu2021: checks 
+Tangoed33: checks 
+som313ls3: bets 60
+Mahu2021: folds 
+Tangoed33: folds 
+Uncalled bet (60) returned to som313ls3
+som313ls3 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [4h 7h 3c]
+Seat 1: Mahu2021 (small blind) folded on the Flop
+Seat 2: Tangoed33 (big blind) folded on the Flop
+Seat 3: som313ls3 (button) collected (60)
+
+
+
+PokerStars Hand #252857540836: Tournament #3810314806, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/10 14:51:54 CET [2024/10/10 8:51:54 ET]
+Table '3810314806 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (440 in chips) 
+Seat 2: Tangoed33 (510 in chips) 
+Seat 3: som313ls3 (550 in chips) 
+Tangoed33: posts small blind 10
+som313ls3: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h 8h]
+Mahu2021: raises 20 to 40
+Tangoed33: folds 
+som313ls3: calls 20
+*** FLOP *** [4d 2h Jd]
+som313ls3: checks 
+Mahu2021: checks 
+*** TURN *** [4d 2h Jd] [Jc]
+som313ls3: checks 
+Mahu2021: checks 
+*** RIVER *** [4d 2h Jd Jc] [6c]
+som313ls3: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+som313ls3: shows [Kh 5s] (a pair of Jacks)
+Mahu2021: mucks hand 
+som313ls3 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [4d 2h Jd Jc 6c]
+Seat 1: Mahu2021 (button) mucked [7h 8h]
+Seat 2: Tangoed33 (small blind) folded before Flop
+Seat 3: som313ls3 (big blind) showed [Kh 5s] and won (90) with a pair of Jacks
+
+
+
+PokerStars Hand #252857545280: Tournament #3810314806, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/10 14:52:22 CET [2024/10/10 8:52:22 ET]
+Table '3810314806 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (400 in chips) 
+Seat 2: Tangoed33 (500 in chips) 
+Seat 3: som313ls3 (600 in chips) 
+som313ls3: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s 7h]
+Tangoed33: folds 
+som313ls3: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (30)
+Seat 2: Tangoed33 (button) folded before Flop (didn't bet)
+Seat 3: som313ls3 (small blind) folded before Flop
+
+
+
+PokerStars Hand #252857546606: Tournament #3810314806, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/10 14:52:30 CET [2024/10/10 8:52:30 ET]
+Table '3810314806 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (415 in chips) 
+Seat 2: Tangoed33 (500 in chips) 
+Seat 3: som313ls3 (585 in chips) 
+Mahu2021: posts small blind 15
+Tangoed33: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s 8s]
+som313ls3: calls 30
+Mahu2021: calls 15
+Tangoed33: raises 60 to 90
+som313ls3: calls 60
+Mahu2021: folds 
+*** FLOP *** [3s Ah 9c]
+Tangoed33: bets 410 and is all-in
+som313ls3: folds 
+Uncalled bet (410) returned to Tangoed33
+Tangoed33 collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | Rake 0 
+Board [3s Ah 9c]
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: Tangoed33 (big blind) collected (210)
+Seat 3: som313ls3 (button) folded on the Flop
+
+
+
+PokerStars Hand #252857550746: Tournament #3810314806, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/10 14:52:55 CET [2024/10/10 8:52:55 ET]
+Table '3810314806 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (385 in chips) 
+Seat 2: Tangoed33 (620 in chips) 
+Seat 3: som313ls3 (495 in chips) 
+Tangoed33: posts small blind 15
+som313ls3: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d 9h]
+Mahu2021: folds 
+Tangoed33: folds 
+Uncalled bet (15) returned to som313ls3
+som313ls3 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: Tangoed33 (small blind) folded before Flop
+Seat 3: som313ls3 (big blind) collected (30)
+
+
+
+PokerStars Hand #252857551531: Tournament #3810314806, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/10 14:53:00 CET [2024/10/10 8:53:00 ET]
+Table '3810314806 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (385 in chips) 
+Seat 2: Tangoed33 (605 in chips) 
+Seat 3: som313ls3 (510 in chips) 
+som313ls3: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Th 3s]
+Tangoed33: folds 
+som313ls3: calls 15
+Mahu2021: checks 
+*** FLOP *** [Kd 7d Qd]
+som313ls3: checks 
+Mahu2021: checks 
+*** TURN *** [Kd 7d Qd] [3h]
+som313ls3: checks 
+Mahu2021: bets 30
+som313ls3: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Kd 7d Qd 3h]
+Seat 1: Mahu2021 (big blind) collected (60)
+Seat 2: Tangoed33 (button) folded before Flop (didn't bet)
+Seat 3: som313ls3 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #252857554407: Tournament #3810314806, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/10 14:53:17 CET [2024/10/10 8:53:17 ET]
+Table '3810314806 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (415 in chips) 
+Seat 2: Tangoed33 (605 in chips) 
+Seat 3: som313ls3 (480 in chips) 
+Mahu2021: posts small blind 15
+Tangoed33: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c Qc]
+som313ls3: raises 75 to 105
+Mahu2021: folds 
+Tangoed33: calls 75
+*** FLOP *** [Ad Tc 6c]
+Tangoed33: checks 
+som313ls3: bets 375 and is all-in
+Tangoed33: calls 375
+*** TURN *** [Ad Tc 6c] [Kd]
+*** RIVER *** [Ad Tc 6c Kd] [Ts]
+*** SHOW DOWN ***
+Tangoed33: shows [2s As] (two pair, Aces and Tens)
+som313ls3: shows [9d Kc] (two pair, Kings and Tens)
+Tangoed33 collected 975 from pot
+som313ls3 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 975 | Rake 0 
+Board [Ad Tc 6c Kd Ts]
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: Tangoed33 (big blind) showed [2s As] and won (975) with two pair, Aces and Tens
+Seat 3: som313ls3 (button) showed [9d Kc] and lost with two pair, Kings and Tens
+
+
+
+PokerStars Hand #252857557895: Tournament #3810314806, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/10 14:53:38 CET [2024/10/10 8:53:38 ET]
+Table '3810314806 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (400 in chips) 
+Seat 2: Tangoed33 (1100 in chips) 
+Tangoed33: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac 6s]
+Tangoed33: calls 15
+Mahu2021: raises 370 to 400 and is all-in
+Tangoed33: folds 
+Uncalled bet (370) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (60)
+Seat 2: Tangoed33 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #252857559188: Tournament #3810314806, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/10 14:53:46 CET [2024/10/10 8:53:46 ET]
+Table '3810314806 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (430 in chips) 
+Seat 2: Tangoed33 (1070 in chips) 
+Mahu2021: posts small blind 15
+Tangoed33: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h 4h]
+Mahu2021: calls 15
+Tangoed33: checks 
+*** FLOP *** [4s Kc 8h]
+Tangoed33: checks 
+Mahu2021: bets 30
+Tangoed33: calls 30
+*** TURN *** [4s Kc 8h] [Th]
+Tangoed33: checks 
+Mahu2021: bets 30
+Tangoed33: calls 30
+*** RIVER *** [4s Kc 8h Th] [Tc]
+Tangoed33: checks 
+Mahu2021: bets 30
+Tangoed33: calls 30
+*** SHOW DOWN ***
+Mahu2021: shows [7h 4h] (two pair, Tens and Fours)
+Tangoed33: shows [7s Ks] (two pair, Kings and Tens)
+Tangoed33 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [4s Kc 8h Th Tc]
+Seat 1: Mahu2021 (button) (small blind) showed [7h 4h] and lost with two pair, Tens and Fours
+Seat 2: Tangoed33 (big blind) showed [7s Ks] and won (240) with two pair, Kings and Tens
+
+
+
+PokerStars Hand #252857561494: Tournament #3810314806, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/10 14:54:00 CET [2024/10/10 8:54:00 ET]
+Table '3810314806 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (310 in chips) 
+Seat 2: Tangoed33 (1190 in chips) 
+Tangoed33: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Tc 2c]
+Tangoed33: calls 15
+Mahu2021: checks 
+*** FLOP *** [7c Kd Ad]
+Mahu2021: checks 
+Tangoed33: checks 
+*** TURN *** [7c Kd Ad] [8d]
+Mahu2021: checks 
+Tangoed33: checks 
+*** RIVER *** [7c Kd Ad 8d] [4s]
+Mahu2021: checks 
+Tangoed33: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [Tc 2c] (high card Ace)
+Tangoed33: shows [Jh Th] (high card Ace - King+Jack kicker)
+Tangoed33 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [7c Kd Ad 8d 4s]
+Seat 1: Mahu2021 (big blind) showed [Tc 2c] and lost with high card Ace
+Seat 2: Tangoed33 (button) (small blind) showed [Jh Th] and won (60) with high card Ace
+
+
+
+PokerStars Hand #252857563099: Tournament #3810314806, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/10 14:54:10 CET [2024/10/10 8:54:10 ET]
+Table '3810314806 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (280 in chips) 
+Seat 2: Tangoed33 (1220 in chips) 
+Mahu2021: posts small blind 15
+Tangoed33: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2c 3c]
+Mahu2021: folds 
+Uncalled bet (15) returned to Tangoed33
+Tangoed33 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 2: Tangoed33 (big blind) collected (30)
+
+
+
+PokerStars Hand #252857563859: Tournament #3810314806, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/10 14:54:14 CET [2024/10/10 8:54:14 ET]
+Table '3810314806 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (265 in chips) 
+Seat 2: Tangoed33 (1235 in chips) 
+Tangoed33: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h Qs]
+Tangoed33: calls 15
+Mahu2021: checks 
+*** FLOP *** [Jd 9c 7h]
+Mahu2021: checks 
+Tangoed33: checks 
+*** TURN *** [Jd 9c 7h] [Tc]
+Mahu2021: checks 
+Tangoed33: checks 
+*** RIVER *** [Jd 9c 7h Tc] [Jh]
+Mahu2021: checks 
+Tangoed33: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [4h Qs] (a pair of Jacks)
+Tangoed33: shows [Qc 6s] (a pair of Jacks)
+Mahu2021 collected 30 from pot
+Tangoed33 collected 30 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Jd 9c 7h Tc Jh]
+Seat 1: Mahu2021 (big blind) showed [4h Qs] and won (30) with a pair of Jacks
+Seat 2: Tangoed33 (button) (small blind) showed [Qc 6s] and won (30) with a pair of Jacks
+
+
+
+PokerStars Hand #252857565591: Tournament #3810314806, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/10 14:54:25 CET [2024/10/10 8:54:25 ET]
+Table '3810314806 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (265 in chips) 
+Seat 2: Tangoed33 (1235 in chips) 
+Mahu2021: posts small blind 15
+Tangoed33: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad Ks]
+Mahu2021: raises 90 to 120
+Tangoed33: folds 
+Uncalled bet (90) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) collected (60)
+Seat 2: Tangoed33 (big blind) folded before Flop
+
+
+
+PokerStars Hand #252857566671: Tournament #3810314806, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/10 14:54:31 CET [2024/10/10 8:54:31 ET]
+Table '3810314806 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (295 in chips) 
+Seat 2: Tangoed33 (1205 in chips) 
+Tangoed33: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s 8d]
+Tangoed33: raises 90 to 120
+Mahu2021: folds 
+Uncalled bet (90) returned to Tangoed33
+Tangoed33 collected 60 from pot
+Tangoed33: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: Tangoed33 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #252857567644: Tournament #3810314806, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/10 14:54:37 CET [2024/10/10 8:54:37 ET]
+Table '3810314806 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (265 in chips) 
+Seat 2: Tangoed33 (1235 in chips) 
+Mahu2021: posts small blind 15
+Tangoed33: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h 7s]
+Mahu2021: raises 235 to 265 and is all-in
+Tangoed33: folds 
+Uncalled bet (235) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) collected (60)
+Seat 2: Tangoed33 (big blind) folded before Flop
+
+
+
+PokerStars Hand #252857568574: Tournament #3810314806, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/10 14:54:43 CET [2024/10/10 8:54:43 ET]
+Table '3810314806 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (295 in chips) 
+Seat 2: Tangoed33 (1205 in chips) 
+Tangoed33: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d Qc]
+Tangoed33: raises 60 to 90
+Mahu2021: folds 
+Uncalled bet (60) returned to Tangoed33
+Tangoed33 collected 60 from pot
+Tangoed33: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: Tangoed33 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #252857569516: Tournament #3810314806, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/10 14:54:49 CET [2024/10/10 8:54:49 ET]
+Table '3810314806 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (265 in chips) 
+Seat 2: Tangoed33 (1235 in chips) 
+Mahu2021: posts small blind 15
+Tangoed33: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d Kh]
+Mahu2021: calls 15
+Tangoed33: raises 60 to 90
+Mahu2021: folds 
+Uncalled bet (60) returned to Tangoed33
+Tangoed33 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 2: Tangoed33 (big blind) collected (60)
+
+
+
+PokerStars Hand #252857570776: Tournament #3810314806, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/10 14:54:56 CET [2024/10/10 8:54:56 ET]
+Table '3810314806 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (235 in chips) 
+Seat 2: Tangoed33 (1265 in chips) 
+Tangoed33: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8d 9h]
+Tangoed33: calls 15
+Mahu2021: checks 
+*** FLOP *** [7d 9c 8h]
+Mahu2021: checks 
+Tangoed33: bets 30
+Mahu2021: calls 30
+*** TURN *** [7d 9c 8h] [3h]
+Mahu2021: checks 
+Tangoed33: bets 75
+Mahu2021: raises 100 to 175 and is all-in
+Tangoed33: calls 100
+*** RIVER *** [7d 9c 8h 3h] [6c]
+*** SHOW DOWN ***
+Mahu2021: shows [8d 9h] (two pair, Nines and Eights)
+Tangoed33: shows [7h Th] (a straight, Six to Ten)
+Tangoed33 collected 470 from pot
+Mahu2021 finished the tournament in 2nd place
+Tangoed33 wins the tournament and receives $6.00 - congratulations!
+*** SUMMARY ***
+Total pot 470 | Rake 0 
+Board [7d 9c 8h 3h 6c]
+Seat 1: Mahu2021 (big blind) showed [8d 9h] and lost with two pair, Nines and Eights
+Seat 2: Tangoed33 (button) (small blind) showed [7h Th] and won (470) with a straight, Six to Ten
+
+
+

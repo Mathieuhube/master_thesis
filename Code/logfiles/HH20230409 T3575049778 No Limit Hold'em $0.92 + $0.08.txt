@@ -1,0 +1,776 @@
+﻿PokerStars Hand #242983683506: Tournament #3575049778, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/09 16:33:06 CET [2023/04/09 10:33:06 ET]
+Table '3575049778 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: sametz22 (500 in chips) 
+Seat 3: caxamata (500 in chips) 
+sametz22: posts small blind 10
+caxamata: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c 8c]
+Mahu2021: calls 20
+sametz22: folds 
+caxamata: checks 
+*** FLOP *** [8h 9d Ks]
+caxamata: bets 20
+Mahu2021: calls 20
+*** TURN *** [8h 9d Ks] [8s]
+caxamata: bets 20
+Mahu2021: calls 20
+*** RIVER *** [8h 9d Ks 8s] [6c]
+caxamata: bets 20
+Mahu2021: raises 60 to 80
+caxamata: calls 60
+*** SHOW DOWN ***
+Mahu2021: shows [5c 8c] (three of a kind, Eights)
+caxamata: mucks hand 
+Mahu2021 collected 290 from pot
+*** SUMMARY ***
+Total pot 290 | Rake 0 
+Board [8h 9d Ks 8s 6c]
+Seat 1: Mahu2021 (button) showed [5c 8c] and won (290) with three of a kind, Eights
+Seat 2: sametz22 (small blind) folded before Flop
+Seat 3: caxamata (big blind) mucked [5s Kc]
+
+
+
+PokerStars Hand #242983692615: Tournament #3575049778, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/09 16:33:40 CET [2023/04/09 10:33:40 ET]
+Table '3575049778 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (650 in chips) 
+Seat 2: sametz22 (490 in chips) 
+Seat 3: caxamata (360 in chips) 
+caxamata: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s 4c]
+sametz22: calls 20
+caxamata: calls 10
+Mahu2021: checks 
+*** FLOP *** [3c Ts 5h]
+caxamata: checks 
+Mahu2021: checks 
+sametz22: checks 
+*** TURN *** [3c Ts 5h] [2h]
+caxamata: checks 
+Mahu2021: bets 20
+sametz22: folds 
+caxamata: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [3c Ts 5h 2h]
+Seat 1: Mahu2021 (big blind) collected (60)
+Seat 2: sametz22 (button) folded on the Turn
+Seat 3: caxamata (small blind) folded on the Turn
+
+
+
+PokerStars Hand #242983697812: Tournament #3575049778, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/09 16:34:00 CET [2023/04/09 10:34:00 ET]
+Table '3575049778 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (690 in chips) 
+Seat 2: sametz22 (470 in chips) 
+Seat 3: caxamata (340 in chips) 
+Mahu2021: posts small blind 10
+sametz22: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js Td]
+caxamata: calls 20
+Mahu2021: calls 10
+sametz22: checks 
+*** FLOP *** [9c 9d 5h]
+Mahu2021: checks 
+sametz22: bets 60
+caxamata: folds 
+Mahu2021: folds 
+Uncalled bet (60) returned to sametz22
+sametz22 collected 60 from pot
+sametz22: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [9c 9d 5h]
+Seat 1: Mahu2021 (small blind) folded on the Flop
+Seat 2: sametz22 (big blind) collected (60)
+Seat 3: caxamata (button) folded on the Flop
+
+
+
+PokerStars Hand #242983701665: Tournament #3575049778, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/09 16:34:14 CET [2023/04/09 10:34:14 ET]
+Table '3575049778 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (670 in chips) 
+Seat 2: sametz22 (510 in chips) 
+Seat 3: caxamata (320 in chips) 
+sametz22: posts small blind 10
+caxamata: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4d 4c]
+Mahu2021: raises 20 to 40
+sametz22: calls 30
+caxamata: calls 20
+*** FLOP *** [6h Ah 5s]
+sametz22: bets 20
+caxamata: folds 
+Mahu2021: calls 20
+*** TURN *** [6h Ah 5s] [6c]
+sametz22: bets 20
+Mahu2021: calls 20
+*** RIVER *** [6h Ah 5s 6c] [5c]
+sametz22: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+sametz22: shows [Kd 8h] (two pair, Sixes and Fives)
+Mahu2021: shows [4d 4c] (two pair, Sixes and Fives)
+sametz22 collected 100 from pot
+Mahu2021 collected 100 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [6h Ah 5s 6c 5c]
+Seat 1: Mahu2021 (button) showed [4d 4c] and won (100) with two pair, Sixes and Fives
+Seat 2: sametz22 (small blind) showed [Kd 8h] and won (100) with two pair, Sixes and Fives
+Seat 3: caxamata (big blind) folded on the Flop
+
+
+
+PokerStars Hand #242983708113: Tournament #3575049778, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/09 16:34:39 CET [2023/04/09 10:34:39 ET]
+Table '3575049778 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (690 in chips) 
+Seat 2: sametz22 (530 in chips) 
+Seat 3: caxamata (280 in chips) 
+caxamata: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s Jd]
+sametz22: calls 20
+caxamata: calls 10
+Mahu2021: checks 
+*** FLOP *** [Ks 4h Qs]
+caxamata: checks 
+Mahu2021: checks 
+sametz22: bets 60
+caxamata: folds 
+Mahu2021: folds 
+Uncalled bet (60) returned to sametz22
+sametz22 collected 60 from pot
+sametz22: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Ks 4h Qs]
+Seat 1: Mahu2021 (big blind) folded on the Flop
+Seat 2: sametz22 (button) collected (60)
+Seat 3: caxamata (small blind) folded on the Flop
+
+
+
+PokerStars Hand #242983715998: Tournament #3575049778, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/09 16:35:08 CET [2023/04/09 10:35:08 ET]
+Table '3575049778 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (670 in chips) 
+Seat 2: sametz22 (570 in chips) 
+Seat 3: caxamata (260 in chips) 
+Mahu2021: posts small blind 10
+sametz22: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c 2c]
+caxamata: calls 20
+Mahu2021: folds 
+sametz22: raises 20 to 40
+caxamata: calls 20
+*** FLOP *** [6h 5c 7d]
+sametz22: checks 
+caxamata: checks 
+*** TURN *** [6h 5c 7d] [4h]
+sametz22: checks 
+caxamata: checks 
+*** RIVER *** [6h 5c 7d 4h] [Ks]
+sametz22: bets 90
+caxamata: folds 
+Uncalled bet (90) returned to sametz22
+sametz22 collected 90 from pot
+sametz22: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [6h 5c 7d 4h Ks]
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: sametz22 (big blind) collected (90)
+Seat 3: caxamata (button) folded on the River
+
+
+
+PokerStars Hand #242983722140: Tournament #3575049778, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/09 16:35:31 CET [2023/04/09 10:35:31 ET]
+Table '3575049778 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (660 in chips) 
+Seat 2: sametz22 (620 in chips) 
+Seat 3: caxamata (220 in chips) 
+sametz22: posts small blind 10
+caxamata: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d Qh]
+Mahu2021: folds 
+sametz22: calls 10
+caxamata: raises 200 to 220 and is all-in
+sametz22: calls 200
+*** FLOP *** [Js 4h Jc]
+*** TURN *** [Js 4h Jc] [7h]
+*** RIVER *** [Js 4h Jc 7h] [Ah]
+*** SHOW DOWN ***
+sametz22: shows [9h 6h] (a flush, Ace high)
+caxamata: shows [Tc Qd] (a pair of Jacks)
+sametz22 collected 440 from pot
+caxamata finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 440 | Rake 0 
+Board [Js 4h Jc 7h Ah]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: sametz22 (small blind) showed [9h 6h] and won (440) with a flush, Ace high
+Seat 3: caxamata (big blind) showed [Tc Qd] and lost with a pair of Jacks
+
+
+
+PokerStars Hand #242983727284: Tournament #3575049778, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/09 16:35:51 CET [2023/04/09 10:35:51 ET]
+Table '3575049778 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (660 in chips) 
+Seat 2: sametz22 (840 in chips) 
+sametz22: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd 6d]
+sametz22: raises 20 to 40
+Mahu2021: calls 20
+*** FLOP *** [Kc 9d Jh]
+Mahu2021: checks 
+sametz22: bets 40
+Mahu2021: calls 40
+*** TURN *** [Kc 9d Jh] [2s]
+Mahu2021: checks 
+sametz22: checks 
+*** RIVER *** [Kc 9d Jh 2s] [Ts]
+Mahu2021: checks 
+sametz22: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [Jd 6d] (a pair of Jacks)
+sametz22: mucks hand 
+Mahu2021 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Kc 9d Jh 2s Ts]
+Seat 1: Mahu2021 (big blind) showed [Jd 6d] and won (160) with a pair of Jacks
+Seat 2: sametz22 (button) (small blind) mucked [6s 6h]
+
+
+
+PokerStars Hand #242983734492: Tournament #3575049778, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/09 16:36:18 CET [2023/04/09 10:36:18 ET]
+Table '3575049778 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (740 in chips) 
+Seat 2: sametz22 (760 in chips) 
+Mahu2021: posts small blind 15
+sametz22: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts 9d]
+Mahu2021: calls 15
+sametz22: raises 30 to 60
+Mahu2021: calls 30
+*** FLOP *** [7d Qd 5s]
+sametz22: checks 
+Mahu2021: checks 
+*** TURN *** [7d Qd 5s] [Js]
+sametz22: checks 
+Mahu2021: bets 120
+sametz22: calls 120
+*** RIVER *** [7d Qd 5s Js] [6h]
+sametz22: checks 
+Mahu2021: bets 120
+sametz22: folds 
+Uncalled bet (120) returned to Mahu2021
+Mahu2021 collected 360 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [7d Qd 5s Js 6h]
+Seat 1: Mahu2021 (button) (small blind) collected (360)
+Seat 2: sametz22 (big blind) folded on the River
+
+
+
+PokerStars Hand #242983741103: Tournament #3575049778, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/09 16:36:43 CET [2023/04/09 10:36:43 ET]
+Table '3575049778 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (920 in chips) 
+Seat 2: sametz22 (580 in chips) 
+sametz22: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d 7d]
+sametz22: calls 15
+Mahu2021: checks 
+*** FLOP *** [6c 2s 3c]
+Mahu2021: checks 
+sametz22: checks 
+*** TURN *** [6c 2s 3c] [Jd]
+Mahu2021: checks 
+sametz22: bets 60
+Mahu2021: folds 
+Uncalled bet (60) returned to sametz22
+sametz22 collected 60 from pot
+sametz22: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [6c 2s 3c Jd]
+Seat 1: Mahu2021 (big blind) folded on the Turn
+Seat 2: sametz22 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #242983745056: Tournament #3575049778, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/09 16:36:58 CET [2023/04/09 10:36:58 ET]
+Table '3575049778 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (890 in chips) 
+Seat 2: sametz22 (610 in chips) 
+Mahu2021: posts small blind 15
+sametz22: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c Kh]
+Mahu2021: calls 15
+sametz22: raises 30 to 60
+Mahu2021: calls 30
+*** FLOP *** [7c 2d 3c]
+sametz22: bets 30
+Mahu2021: calls 30
+*** TURN *** [7c 2d 3c] [3s]
+sametz22: bets 30
+Mahu2021: calls 30
+*** RIVER *** [7c 2d 3c 3s] [4c]
+sametz22: bets 30
+Mahu2021: raises 120 to 150
+sametz22: folds 
+Uncalled bet (120) returned to Mahu2021
+Mahu2021 collected 300 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [7c 2d 3c 3s 4c]
+Seat 1: Mahu2021 (button) (small blind) collected (300)
+Seat 2: sametz22 (big blind) folded on the River
+
+
+
+PokerStars Hand #242983750717: Tournament #3575049778, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/09 16:37:19 CET [2023/04/09 10:37:19 ET]
+Table '3575049778 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (1040 in chips) 
+Seat 2: sametz22 (460 in chips) 
+sametz22: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c Js]
+sametz22: calls 15
+Mahu2021: checks 
+*** FLOP *** [7s Jd 9d]
+Mahu2021: checks 
+sametz22: checks 
+*** TURN *** [7s Jd 9d] [Jh]
+Mahu2021: checks 
+sametz22: bets 60
+Mahu2021: calls 60
+*** RIVER *** [7s Jd 9d Jh] [4s]
+Mahu2021: checks 
+sametz22: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [9c Js] (a full house, Jacks full of Nines)
+sametz22: mucks hand 
+Mahu2021 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [7s Jd 9d Jh 4s]
+Seat 1: Mahu2021 (big blind) showed [9c Js] and won (180) with a full house, Jacks full of Nines
+Seat 2: sametz22 (button) (small blind) mucked [Th Qs]
+
+
+
+PokerStars Hand #242983756093: Tournament #3575049778, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/09 16:37:40 CET [2023/04/09 10:37:40 ET]
+Table '3575049778 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1130 in chips) 
+Seat 2: sametz22 (370 in chips) 
+Mahu2021: posts small blind 15
+sametz22: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd 6c]
+Mahu2021: raises 30 to 60
+sametz22: raises 310 to 370 and is all-in
+Mahu2021: folds 
+Uncalled bet (310) returned to sametz22
+sametz22 collected 120 from pot
+sametz22: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 2: sametz22 (big blind) collected (120)
+
+
+
+PokerStars Hand #242983758537: Tournament #3575049778, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/09 16:37:49 CET [2023/04/09 10:37:49 ET]
+Table '3575049778 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (1070 in chips) 
+Seat 2: sametz22 (430 in chips) 
+sametz22: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h 2d]
+sametz22: raises 400 to 430 and is all-in
+Mahu2021: folds 
+Uncalled bet (400) returned to sametz22
+sametz22 collected 60 from pot
+sametz22: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: sametz22 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #242983760025: Tournament #3575049778, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/09 16:37:55 CET [2023/04/09 10:37:55 ET]
+Table '3575049778 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1040 in chips) 
+Seat 2: sametz22 (460 in chips) 
+Mahu2021: posts small blind 15
+sametz22: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h 6d]
+Mahu2021: folds 
+Uncalled bet (15) returned to sametz22
+sametz22 collected 30 from pot
+sametz22: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 2: sametz22 (big blind) collected (30)
+
+
+
+PokerStars Hand #242983761340: Tournament #3575049778, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/09 16:38:00 CET [2023/04/09 10:38:00 ET]
+Table '3575049778 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (1025 in chips) 
+Seat 2: sametz22 (475 in chips) 
+sametz22: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c Qc]
+sametz22: raises 445 to 475 and is all-in
+Mahu2021: folds 
+Uncalled bet (445) returned to sametz22
+sametz22 collected 60 from pot
+sametz22: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: sametz22 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #242983763162: Tournament #3575049778, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/09 16:38:06 CET [2023/04/09 10:38:06 ET]
+Table '3575049778 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (995 in chips) 
+Seat 2: sametz22 (505 in chips) 
+Mahu2021: posts small blind 15
+sametz22: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah 2h]
+Mahu2021: calls 15
+sametz22: raises 475 to 505 and is all-in
+Mahu2021: calls 475
+*** FLOP *** [4s 2c 5h]
+*** TURN *** [4s 2c 5h] [Jd]
+*** RIVER *** [4s 2c 5h Jd] [4c]
+*** SHOW DOWN ***
+sametz22: shows [Js 6s] (two pair, Jacks and Fours)
+Mahu2021: shows [Ah 2h] (two pair, Fours and Deuces)
+sametz22 collected 1010 from pot
+*** SUMMARY ***
+Total pot 1010 | Rake 0 
+Board [4s 2c 5h Jd 4c]
+Seat 1: Mahu2021 (button) (small blind) showed [Ah 2h] and lost with two pair, Fours and Deuces
+Seat 2: sametz22 (big blind) showed [Js 6s] and won (1010) with two pair, Jacks and Fours
+
+
+
+PokerStars Hand #242983766925: Tournament #3575049778, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/09 16:38:21 CET [2023/04/09 10:38:21 ET]
+Table '3575049778 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (490 in chips) 
+Seat 2: sametz22 (1010 in chips) 
+sametz22: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s 4c]
+sametz22: raises 980 to 1010 and is all-in
+Mahu2021: folds 
+Uncalled bet (980) returned to sametz22
+sametz22 collected 60 from pot
+sametz22: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: sametz22 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #242983769127: Tournament #3575049778, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/09 16:38:29 CET [2023/04/09 10:38:29 ET]
+Table '3575049778 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (460 in chips) 
+Seat 2: sametz22 (1040 in chips) 
+Mahu2021: posts small blind 15
+sametz22: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h Jh]
+Mahu2021: folds 
+Uncalled bet (15) returned to sametz22
+sametz22 collected 30 from pot
+sametz22: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 2: sametz22 (big blind) collected (30)
+
+
+
+PokerStars Hand #242983770754: Tournament #3575049778, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/09 16:38:35 CET [2023/04/09 10:38:35 ET]
+Table '3575049778 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (445 in chips) 
+Seat 2: sametz22 (1055 in chips) 
+sametz22: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad 8s]
+sametz22: calls 15
+Mahu2021: raises 415 to 445 and is all-in
+sametz22: calls 415
+*** FLOP *** [Tc 5h Td]
+*** TURN *** [Tc 5h Td] [5c]
+*** RIVER *** [Tc 5h Td 5c] [4s]
+*** SHOW DOWN ***
+Mahu2021: shows [Ad 8s] (two pair, Tens and Fives)
+sametz22: shows [7d 8d] (two pair, Tens and Fives - lower kicker)
+Mahu2021 collected 890 from pot
+*** SUMMARY ***
+Total pot 890 | Rake 0 
+Board [Tc 5h Td 5c 4s]
+Seat 1: Mahu2021 (big blind) showed [Ad 8s] and won (890) with two pair, Tens and Fives
+Seat 2: sametz22 (button) (small blind) showed [7d 8d] and lost with two pair, Tens and Fives
+
+
+
+PokerStars Hand #242983774783: Tournament #3575049778, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/09 16:38:50 CET [2023/04/09 10:38:50 ET]
+Table '3575049778 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (890 in chips) 
+Seat 2: sametz22 (610 in chips) 
+Mahu2021: posts small blind 15
+sametz22: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As 8h]
+Mahu2021: raises 860 to 890 and is all-in
+sametz22: folds 
+Uncalled bet (860) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) collected (60)
+Seat 2: sametz22 (big blind) folded before Flop
+
+
+
+PokerStars Hand #242983777814: Tournament #3575049778, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/09 16:39:02 CET [2023/04/09 10:39:02 ET]
+Table '3575049778 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (920 in chips) 
+Seat 2: sametz22 (580 in chips) 
+sametz22: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8s Js]
+sametz22: calls 15
+Mahu2021: checks 
+*** FLOP *** [Kd 9h 2d]
+Mahu2021: checks 
+sametz22: checks 
+*** TURN *** [Kd 9h 2d] [2c]
+Mahu2021: bets 30
+sametz22: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Kd 9h 2d 2c]
+Seat 1: Mahu2021 (big blind) collected (60)
+Seat 2: sametz22 (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #242983782550: Tournament #3575049778, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/09 16:39:20 CET [2023/04/09 10:39:20 ET]
+Table '3575049778 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (950 in chips) 
+Seat 2: sametz22 (550 in chips) 
+Mahu2021: posts small blind 20
+sametz22: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts 3c]
+Mahu2021: folds 
+Uncalled bet (20) returned to sametz22
+sametz22 collected 40 from pot
+sametz22: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 2: sametz22 (big blind) collected (40)
+
+
+
+PokerStars Hand #242983783831: Tournament #3575049778, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/09 16:39:25 CET [2023/04/09 10:39:25 ET]
+Table '3575049778 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (930 in chips) 
+Seat 2: sametz22 (570 in chips) 
+sametz22: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts 4h]
+sametz22: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (40)
+Seat 2: sametz22 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #242983784994: Tournament #3575049778, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/09 16:39:29 CET [2023/04/09 10:39:29 ET]
+Table '3575049778 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (950 in chips) 
+Seat 2: sametz22 (550 in chips) 
+Mahu2021: posts small blind 20
+sametz22: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d 8d]
+Mahu2021: calls 20
+sametz22: checks 
+*** FLOP *** [4d Tc 7d]
+sametz22: checks 
+Mahu2021: bets 40
+sametz22: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [4d Tc 7d]
+Seat 1: Mahu2021 (button) (small blind) collected (80)
+Seat 2: sametz22 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #242983788354: Tournament #3575049778, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/09 16:39:42 CET [2023/04/09 10:39:42 ET]
+Table '3575049778 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (990 in chips) 
+Seat 2: sametz22 (510 in chips) 
+sametz22: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4c Ah]
+sametz22: raises 40 to 80
+Mahu2021: calls 40
+*** FLOP *** [3h Js Jh]
+Mahu2021: checks 
+sametz22: checks 
+*** TURN *** [3h Js Jh] [Kc]
+Mahu2021: bets 80
+sametz22: calls 80
+*** RIVER *** [3h Js Jh Kc] [9h]
+Mahu2021: bets 320
+sametz22: calls 320
+*** SHOW DOWN ***
+Mahu2021: shows [4c Ah] (a pair of Jacks)
+sametz22: shows [Ad 5c] (a pair of Jacks)
+Mahu2021 collected 480 from pot
+sametz22 collected 480 from pot
+*** SUMMARY ***
+Total pot 960 | Rake 0 
+Board [3h Js Jh Kc 9h]
+Seat 1: Mahu2021 (big blind) showed [4c Ah] and won (480) with a pair of Jacks
+Seat 2: sametz22 (button) (small blind) showed [Ad 5c] and won (480) with a pair of Jacks
+
+
+
+PokerStars Hand #242983796395: Tournament #3575049778, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/09 16:40:11 CET [2023/04/09 10:40:11 ET]
+Table '3575049778 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (990 in chips) 
+Seat 2: sametz22 (510 in chips) 
+Mahu2021: posts small blind 20
+sametz22: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c 3c]
+Mahu2021: folds 
+Uncalled bet (20) returned to sametz22
+sametz22 collected 40 from pot
+sametz22: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 2: sametz22 (big blind) collected (40)
+
+
+
+PokerStars Hand #242983797580: Tournament #3575049778, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/09 16:40:16 CET [2023/04/09 10:40:16 ET]
+Table '3575049778 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (970 in chips) 
+Seat 2: sametz22 (530 in chips) 
+sametz22: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh 2h]
+sametz22: calls 20
+Mahu2021: checks 
+*** FLOP *** [3c 7d 6h]
+Mahu2021: checks 
+sametz22: checks 
+*** TURN *** [3c 7d 6h] [Qd]
+Mahu2021: bets 40
+sametz22: calls 40
+*** RIVER *** [3c 7d 6h Qd] [Qc]
+Mahu2021: bets 80
+sametz22: calls 80
+*** SHOW DOWN ***
+Mahu2021: shows [Qh 2h] (three of a kind, Queens)
+sametz22: mucks hand 
+Mahu2021 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [3c 7d 6h Qd Qc]
+Seat 1: Mahu2021 (big blind) showed [Qh 2h] and won (320) with three of a kind, Queens
+Seat 2: sametz22 (button) (small blind) mucked [Js 2s]
+
+
+
+PokerStars Hand #242983804080: Tournament #3575049778, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/09 16:40:40 CET [2023/04/09 10:40:40 ET]
+Table '3575049778 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1130 in chips) 
+Seat 2: sametz22 (370 in chips) 
+Mahu2021: posts small blind 20
+sametz22: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh 9c]
+Mahu2021: raises 40 to 80
+sametz22: calls 40
+*** FLOP *** [4c Qd Jh]
+sametz22: bets 290 and is all-in
+Mahu2021: calls 290
+*** TURN *** [4c Qd Jh] [Qs]
+*** RIVER *** [4c Qd Jh Qs] [5h]
+*** SHOW DOWN ***
+sametz22: shows [Kh 6d] (a pair of Queens)
+Mahu2021: shows [Qh 9c] (three of a kind, Queens)
+Mahu2021 collected 740 from pot
+sametz22 finished the tournament in 2nd place
+Mahu2021 wins the tournament and receives $3.00 - congratulations!
+*** SUMMARY ***
+Total pot 740 | Rake 0 
+Board [4c Qd Jh Qs 5h]
+Seat 1: Mahu2021 (button) (small blind) showed [Qh 9c] and won (740) with three of a kind, Queens
+Seat 2: sametz22 (big blind) showed [Kh 6d] and lost with a pair of Queens
+
+
+

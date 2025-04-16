@@ -1,0 +1,554 @@
+﻿PokerStars Hand #245216626750: Tournament #3627169698, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/08/05 16:23:53 CET [2023/08/05 10:23:53 ET]
+Table '3627169698 1' 3-max Seat #1 is the button
+Seat 1: siroljiver (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: dragarf (500 in chips) 
+Mahu2021: posts small blind 10
+dragarf: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h 4c]
+siroljiver: calls 20
+Mahu2021: folds 
+dragarf: checks 
+*** FLOP *** [4h 6h 3s]
+dragarf: checks 
+siroljiver: bets 20
+dragarf: folds 
+Uncalled bet (20) returned to siroljiver
+siroljiver collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [4h 6h 3s]
+Seat 1: siroljiver (button) collected (50)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: dragarf (big blind) folded on the Flop
+
+
+
+PokerStars Hand #245216631440: Tournament #3627169698, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/08/05 16:24:11 CET [2023/08/05 10:24:11 ET]
+Table '3627169698 1' 3-max Seat #2 is the button
+Seat 1: siroljiver (530 in chips) 
+Seat 2: Mahu2021 (490 in chips) 
+Seat 3: dragarf (480 in chips) 
+dragarf: posts small blind 10
+siroljiver: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh 4h]
+Mahu2021: raises 20 to 40
+dragarf: calls 30
+siroljiver: calls 20
+*** FLOP *** [Qs Ah 8d]
+dragarf: checks 
+siroljiver: checks 
+Mahu2021: checks 
+*** TURN *** [Qs Ah 8d] [7d]
+dragarf: checks 
+siroljiver: checks 
+Mahu2021: checks 
+*** RIVER *** [Qs Ah 8d 7d] [3h]
+dragarf: checks 
+siroljiver: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+dragarf: shows [4s 5c] (high card Ace)
+siroljiver: shows [7c Ts] (a pair of Sevens)
+Mahu2021: mucks hand 
+siroljiver collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Qs Ah 8d 7d 3h]
+Seat 1: siroljiver (big blind) showed [7c Ts] and won (120) with a pair of Sevens
+Seat 2: Mahu2021 (button) mucked [Kh 4h]
+Seat 3: dragarf (small blind) showed [4s 5c] and lost with high card Ace
+
+
+
+PokerStars Hand #245216639423: Tournament #3627169698, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/08/05 16:24:42 CET [2023/08/05 10:24:42 ET]
+Table '3627169698 1' 3-max Seat #3 is the button
+Seat 1: siroljiver (610 in chips) 
+Seat 2: Mahu2021 (450 in chips) 
+Seat 3: dragarf (440 in chips) 
+siroljiver: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h 2h]
+dragarf: calls 20
+siroljiver: calls 10
+Mahu2021: checks 
+*** FLOP *** [9c Kh 6d]
+siroljiver: checks 
+Mahu2021: checks 
+dragarf: checks 
+*** TURN *** [9c Kh 6d] [Tc]
+siroljiver: checks 
+Mahu2021: checks 
+dragarf: bets 20
+siroljiver: folds 
+Mahu2021: folds 
+Uncalled bet (20) returned to dragarf
+dragarf collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [9c Kh 6d Tc]
+Seat 1: siroljiver (small blind) folded on the Turn
+Seat 2: Mahu2021 (big blind) folded on the Turn
+Seat 3: dragarf (button) collected (60)
+
+
+
+PokerStars Hand #245216647207: Tournament #3627169698, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/08/05 16:25:11 CET [2023/08/05 10:25:11 ET]
+Table '3627169698 1' 3-max Seat #1 is the button
+Seat 1: siroljiver (590 in chips) 
+Seat 2: Mahu2021 (430 in chips) 
+Seat 3: dragarf (480 in chips) 
+Mahu2021: posts small blind 10
+dragarf: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Tc Kc]
+siroljiver: calls 20
+Mahu2021: calls 10
+dragarf: checks 
+*** FLOP *** [Js 9h Ad]
+Mahu2021: checks 
+dragarf: checks 
+siroljiver: checks 
+*** TURN *** [Js 9h Ad] [2h]
+Mahu2021: checks 
+dragarf: checks 
+siroljiver: checks 
+*** RIVER *** [Js 9h Ad 2h] [Jh]
+Mahu2021: checks 
+dragarf: bets 20
+siroljiver: folds 
+Mahu2021: folds 
+Uncalled bet (20) returned to dragarf
+dragarf collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Js 9h Ad 2h Jh]
+Seat 1: siroljiver (button) folded on the River
+Seat 2: Mahu2021 (small blind) folded on the River
+Seat 3: dragarf (big blind) collected (60)
+
+
+
+PokerStars Hand #245216653685: Tournament #3627169698, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/08/05 16:25:35 CET [2023/08/05 10:25:35 ET]
+Table '3627169698 1' 3-max Seat #2 is the button
+Seat 1: siroljiver (570 in chips) 
+Seat 2: Mahu2021 (410 in chips) 
+Seat 3: dragarf (520 in chips) 
+dragarf: posts small blind 10
+siroljiver: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks Jc]
+Mahu2021: raises 20 to 40
+dragarf: calls 30
+siroljiver: calls 20
+*** FLOP *** [Kh 7c 3d]
+dragarf: bets 20
+siroljiver: calls 20
+Mahu2021: raises 180 to 200
+dragarf: folds 
+siroljiver: folds 
+Uncalled bet (180) returned to Mahu2021
+Mahu2021 collected 180 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [Kh 7c 3d]
+Seat 1: siroljiver (big blind) folded on the Flop
+Seat 2: Mahu2021 (button) collected (180)
+Seat 3: dragarf (small blind) folded on the Flop
+
+
+
+PokerStars Hand #245216659541: Tournament #3627169698, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/08/05 16:25:57 CET [2023/08/05 10:25:57 ET]
+Table '3627169698 1' 3-max Seat #3 is the button
+Seat 1: siroljiver (510 in chips) 
+Seat 2: Mahu2021 (530 in chips) 
+Seat 3: dragarf (460 in chips) 
+siroljiver: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s Ac]
+dragarf: calls 20
+siroljiver: calls 10
+Mahu2021: checks 
+*** FLOP *** [8c 2c 9h]
+siroljiver: bets 20
+Mahu2021: folds 
+dragarf: calls 20
+*** TURN *** [8c 2c 9h] [7c]
+siroljiver: checks 
+dragarf: checks 
+*** RIVER *** [8c 2c 9h 7c] [Ks]
+siroljiver: checks 
+dragarf: checks 
+*** SHOW DOWN ***
+siroljiver: shows [Qh Tc] (high card King)
+dragarf: shows [Qd 9d] (a pair of Nines)
+dragarf collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [8c 2c 9h 7c Ks]
+Seat 1: siroljiver (small blind) showed [Qh Tc] and lost with high card King
+Seat 2: Mahu2021 (big blind) folded on the Flop
+Seat 3: dragarf (button) showed [Qd 9d] and won (100) with a pair of Nines
+
+
+
+PokerStars Hand #245216667134: Tournament #3627169698, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/08/05 16:26:26 CET [2023/08/05 10:26:26 ET]
+Table '3627169698 1' 3-max Seat #1 is the button
+Seat 1: siroljiver (470 in chips) 
+Seat 2: Mahu2021 (510 in chips) 
+Seat 3: dragarf (520 in chips) 
+Mahu2021: posts small blind 10
+dragarf: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h 4c]
+siroljiver: calls 20
+Mahu2021: folds 
+dragarf: checks 
+*** FLOP *** [Th 7h 6s]
+dragarf: checks 
+siroljiver: checks 
+*** TURN *** [Th 7h 6s] [9h]
+dragarf: checks 
+siroljiver: checks 
+*** RIVER *** [Th 7h 6s 9h] [Qc]
+dragarf: checks 
+siroljiver: checks 
+*** SHOW DOWN ***
+dragarf: shows [9c 2d] (a pair of Nines)
+siroljiver: mucks hand 
+dragarf collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [Th 7h 6s 9h Qc]
+Seat 1: siroljiver (button) mucked [3c 5c]
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: dragarf (big blind) showed [9c 2d] and won (50) with a pair of Nines
+
+
+
+PokerStars Hand #245216672762: Tournament #3627169698, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/08/05 16:26:47 CET [2023/08/05 10:26:47 ET]
+Table '3627169698 1' 3-max Seat #2 is the button
+Seat 1: siroljiver (450 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: dragarf (550 in chips) 
+dragarf: posts small blind 10
+siroljiver: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3c 3s]
+Mahu2021: raises 20 to 40
+dragarf: calls 30
+siroljiver: folds 
+*** FLOP *** [5h Qd Qs]
+dragarf: bets 20
+Mahu2021: calls 20
+*** TURN *** [5h Qd Qs] [2s]
+dragarf: bets 20
+Mahu2021: calls 20
+*** RIVER *** [5h Qd Qs 2s] [6d]
+dragarf: bets 20
+Mahu2021: calls 20
+*** SHOW DOWN ***
+dragarf: shows [7d Kc] (a pair of Queens)
+Mahu2021: shows [3c 3s] (two pair, Queens and Threes)
+Mahu2021 collected 220 from pot
+*** SUMMARY ***
+Total pot 220 | Rake 0 
+Board [5h Qd Qs 2s 6d]
+Seat 1: siroljiver (big blind) folded before Flop
+Seat 2: Mahu2021 (button) showed [3c 3s] and won (220) with two pair, Queens and Threes
+Seat 3: dragarf (small blind) showed [7d Kc] and lost with a pair of Queens
+
+
+
+PokerStars Hand #245216682231: Tournament #3627169698, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/08/05 16:27:23 CET [2023/08/05 10:27:23 ET]
+Table '3627169698 1' 3-max Seat #3 is the button
+Seat 1: siroljiver (430 in chips) 
+Seat 2: Mahu2021 (620 in chips) 
+Seat 3: dragarf (450 in chips) 
+siroljiver: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2c 4d]
+dragarf: folds 
+siroljiver: calls 15
+Mahu2021: checks 
+*** FLOP *** [Ah 9h Kh]
+siroljiver: checks 
+Mahu2021: checks 
+*** TURN *** [Ah 9h Kh] [As]
+siroljiver: checks 
+Mahu2021: bets 60
+siroljiver: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Ah 9h Kh As]
+Seat 1: siroljiver (small blind) folded on the Turn
+Seat 2: Mahu2021 (big blind) collected (60)
+Seat 3: dragarf (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245216688585: Tournament #3627169698, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/08/05 16:27:46 CET [2023/08/05 10:27:46 ET]
+Table '3627169698 1' 3-max Seat #1 is the button
+Seat 1: siroljiver (400 in chips) 
+Seat 2: Mahu2021 (650 in chips) 
+Seat 3: dragarf (450 in chips) 
+Mahu2021: posts small blind 15
+dragarf: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5h 6s]
+siroljiver: calls 30
+Mahu2021: calls 15
+dragarf: checks 
+*** FLOP *** [5c 9c 9d]
+Mahu2021: checks 
+dragarf: bets 30
+siroljiver: folds 
+Mahu2021: calls 30
+*** TURN *** [5c 9c 9d] [3h]
+Mahu2021: checks 
+dragarf: bets 30
+Mahu2021: calls 30
+*** RIVER *** [5c 9c 9d 3h] [3s]
+Mahu2021: checks 
+dragarf: bets 30
+Mahu2021: calls 30
+*** SHOW DOWN ***
+dragarf: shows [3c Ac] (a full house, Threes full of Nines)
+Mahu2021: mucks hand 
+dragarf collected 270 from pot
+*** SUMMARY ***
+Total pot 270 | Rake 0 
+Board [5c 9c 9d 3h 3s]
+Seat 1: siroljiver (button) folded on the Flop
+Seat 2: Mahu2021 (small blind) mucked [5h 6s]
+Seat 3: dragarf (big blind) showed [3c Ac] and won (270) with a full house, Threes full of Nines
+
+
+
+PokerStars Hand #245216694894: Tournament #3627169698, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/08/05 16:28:11 CET [2023/08/05 10:28:11 ET]
+Table '3627169698 1' 3-max Seat #2 is the button
+Seat 1: siroljiver (370 in chips) 
+Seat 2: Mahu2021 (530 in chips) 
+Seat 3: dragarf (600 in chips) 
+dragarf: posts small blind 15
+siroljiver: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8s 9d]
+Mahu2021: folds 
+dragarf: calls 15
+siroljiver: checks 
+*** FLOP *** [8h Js Jh]
+dragarf: bets 30
+siroljiver: folds 
+Uncalled bet (30) returned to dragarf
+dragarf collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [8h Js Jh]
+Seat 1: siroljiver (big blind) folded on the Flop
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: dragarf (small blind) collected (60)
+
+
+
+PokerStars Hand #245216698427: Tournament #3627169698, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/08/05 16:28:24 CET [2023/08/05 10:28:24 ET]
+Table '3627169698 1' 3-max Seat #3 is the button
+Seat 1: siroljiver (340 in chips) 
+Seat 2: Mahu2021 (530 in chips) 
+Seat 3: dragarf (630 in chips) 
+siroljiver: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s Ah]
+dragarf: folds 
+siroljiver: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: siroljiver (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (30)
+Seat 3: dragarf (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245216700002: Tournament #3627169698, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/08/05 16:28:30 CET [2023/08/05 10:28:30 ET]
+Table '3627169698 1' 3-max Seat #1 is the button
+Seat 1: siroljiver (325 in chips) 
+Seat 2: Mahu2021 (545 in chips) 
+Seat 3: dragarf (630 in chips) 
+Mahu2021: posts small blind 15
+dragarf: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3c Kh]
+siroljiver: calls 30
+Mahu2021: folds 
+dragarf: checks 
+*** FLOP *** [8d 6s 2s]
+dragarf: checks 
+siroljiver: checks 
+*** TURN *** [8d 6s 2s] [7d]
+dragarf: checks 
+siroljiver: checks 
+*** RIVER *** [8d 6s 2s 7d] [3h]
+dragarf: checks 
+siroljiver: checks 
+*** SHOW DOWN ***
+dragarf: shows [Td Ah] (high card Ace)
+siroljiver: mucks hand 
+dragarf collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Board [8d 6s 2s 7d 3h]
+Seat 1: siroljiver (button) mucked [Jh Th]
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: dragarf (big blind) showed [Td Ah] and won (75) with high card Ace
+
+
+
+PokerStars Hand #245216705529: Tournament #3627169698, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/08/05 16:28:51 CET [2023/08/05 10:28:51 ET]
+Table '3627169698 1' 3-max Seat #2 is the button
+Seat 1: siroljiver (295 in chips) 
+Seat 2: Mahu2021 (530 in chips) 
+Seat 3: dragarf (675 in chips) 
+dragarf: posts small blind 15
+siroljiver: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh 3c]
+Mahu2021: folds 
+dragarf: calls 15
+siroljiver: checks 
+*** FLOP *** [Ts 3d 5d]
+dragarf: checks 
+siroljiver: checks 
+*** TURN *** [Ts 3d 5d] [9h]
+dragarf: checks 
+siroljiver: checks 
+*** RIVER *** [Ts 3d 5d 9h] [5c]
+dragarf: checks 
+siroljiver: checks 
+*** SHOW DOWN ***
+dragarf: shows [Ah Jh] (a pair of Fives)
+siroljiver: mucks hand 
+dragarf collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Ts 3d 5d 9h 5c]
+Seat 1: siroljiver (big blind) mucked [2h 8c]
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: dragarf (small blind) showed [Ah Jh] and won (60) with a pair of Fives
+
+
+
+PokerStars Hand #245216712431: Tournament #3627169698, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/08/05 16:29:17 CET [2023/08/05 10:29:17 ET]
+Table '3627169698 1' 3-max Seat #3 is the button
+Seat 1: siroljiver (265 in chips) 
+Seat 2: Mahu2021 (530 in chips) 
+Seat 3: dragarf (705 in chips) 
+siroljiver: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd 6c]
+dragarf: folds 
+siroljiver: raises 30 to 60
+Mahu2021: calls 30
+*** FLOP *** [Ks 8d 4d]
+siroljiver: checks 
+Mahu2021: checks 
+*** TURN *** [Ks 8d 4d] [As]
+siroljiver: checks 
+Mahu2021: bets 60
+siroljiver: raises 145 to 205 and is all-in
+Mahu2021: folds 
+Uncalled bet (145) returned to siroljiver
+siroljiver collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Ks 8d 4d As]
+Seat 1: siroljiver (small blind) collected (240)
+Seat 2: Mahu2021 (big blind) folded on the Turn
+Seat 3: dragarf (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245216718773: Tournament #3627169698, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/08/05 16:29:41 CET [2023/08/05 10:29:41 ET]
+Table '3627169698 1' 3-max Seat #1 is the button
+Seat 1: siroljiver (385 in chips) 
+Seat 2: Mahu2021 (410 in chips) 
+Seat 3: dragarf (705 in chips) 
+Mahu2021: posts small blind 15
+dragarf: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d 7s]
+siroljiver: calls 30
+Mahu2021: raises 60 to 90
+dragarf has timed out
+dragarf: folds 
+dragarf is sitting out
+siroljiver: raises 295 to 385 and is all-in
+Mahu2021: calls 295
+*** FLOP *** [4s 5s 3s]
+*** TURN *** [4s 5s 3s] [7h]
+*** RIVER *** [4s 5s 3s 7h] [2s]
+dragarf has returned
+*** SHOW DOWN ***
+Mahu2021: shows [7d 7s] (a flush, Seven high)
+siroljiver: shows [Th As] (a straight flush, Ace to Five)
+siroljiver collected 800 from pot
+*** SUMMARY ***
+Total pot 800 | Rake 0 
+Board [4s 5s 3s 7h 2s]
+Seat 1: siroljiver (button) showed [Th As] and won (800) with a straight flush, Ace to Five
+Seat 2: Mahu2021 (small blind) showed [7d 7s] and lost with a flush, Seven high
+Seat 3: dragarf (big blind) folded before Flop
+
+
+
+PokerStars Hand #245216730131: Tournament #3627169698, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/08/05 16:30:23 CET [2023/08/05 10:30:23 ET]
+Table '3627169698 1' 3-max Seat #2 is the button
+Seat 1: siroljiver (800 in chips) 
+Seat 2: Mahu2021 (25 in chips) 
+Seat 3: dragarf (675 in chips) 
+dragarf: posts small blind 20
+siroljiver: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd 3c]
+Mahu2021: calls 25 and is all-in
+dragarf: calls 20
+siroljiver: checks 
+*** FLOP *** [Qh As 4d]
+dragarf: checks 
+siroljiver: checks 
+*** TURN *** [Qh As 4d] [5d]
+dragarf: checks 
+siroljiver: checks 
+*** RIVER *** [Qh As 4d 5d] [3d]
+dragarf: checks 
+siroljiver: bets 40
+dragarf: calls 40
+*** SHOW DOWN ***
+siroljiver: shows [4c 6d] (a pair of Fours)
+dragarf: shows [8d Qc] (a pair of Queens)
+dragarf collected 110 from side pot
+Mahu2021: mucks hand 
+dragarf collected 75 from main pot
+Mahu2021 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 185 Main pot 75. Side pot 110. | Rake 0 
+Board [Qh As 4d 5d 3d]
+Seat 1: siroljiver (big blind) showed [4c 6d] and lost with a pair of Fours
+Seat 2: Mahu2021 (button) mucked [Kd 3c]
+Seat 3: dragarf (small blind) showed [8d Qc] and won (185) with a pair of Queens
+
+
+

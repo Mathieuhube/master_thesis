@@ -1,0 +1,30 @@
+﻿PokerStars Hand #250788903648: Tournament #3760974716, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2024/05/31 21:57:22 CET [2024/05/31 15:57:22 ET]
+Table '3760974716 1' 3-max Seat #1 is the button
+Seat 1: mateusz_7350 (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: bigkhan49 (500 in chips) 
+Mahu2021: posts small blind 10
+bigkhan49: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Tc Qs]
+mateusz_7350: calls 20
+Mahu2021: raises 480 to 500 and is all-in
+bigkhan49: calls 480 and is all-in
+mateusz_7350: folds 
+*** FLOP *** [6d 2d 7h]
+*** TURN *** [6d 2d 7h] [5d]
+*** RIVER *** [6d 2d 7h 5d] [2c]
+*** SHOW DOWN ***
+Mahu2021: shows [Tc Qs] (a pair of Deuces)
+bigkhan49: shows [6c 6s] (a full house, Sixes full of Deuces)
+bigkhan49 collected 1020 from pot
+Mahu2021 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1020 | Rake 0 
+Board [6d 2d 7h 5d 2c]
+Seat 1: mateusz_7350 (button) folded before Flop
+Seat 2: Mahu2021 (small blind) showed [Tc Qs] and lost with a pair of Deuces
+Seat 3: bigkhan49 (big blind) showed [6c 6s] and won (1020) with a full house, Sixes full of Deuces
+
+
+

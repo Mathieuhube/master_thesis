@@ -1,0 +1,627 @@
+﻿PokerStars Hand #253348845468: Tournament #3822249820, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/10 22:22:02 CET [2024/11/10 16:22:02 ET]
+Table '3822249820 1' 3-max Seat #1 is the button
+Seat 1: PhilipeC0sta (500 in chips) 
+Seat 2: Ace77777777777 (500 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+Ace77777777777: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Th Jd]
+PhilipeC0sta: raises 20 to 40
+Ace77777777777: calls 30
+Mahu2021: calls 20
+*** FLOP *** [Tc 5s 2d]
+Ace77777777777: bets 40
+Mahu2021: calls 40
+PhilipeC0sta: folds 
+*** TURN *** [Tc 5s 2d] [5h]
+Ace77777777777: bets 100
+Mahu2021: calls 100
+*** RIVER *** [Tc 5s 2d 5h] [8h]
+Ace77777777777: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+Ace77777777777: shows [2h 6s] (two pair, Fives and Deuces)
+Mahu2021: shows [Th Jd] (two pair, Tens and Fives)
+Mahu2021 collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Board [Tc 5s 2d 5h 8h]
+Seat 1: PhilipeC0sta (button) folded on the Flop
+Seat 2: Ace77777777777 (small blind) showed [2h 6s] and lost with two pair, Fives and Deuces
+Seat 3: Mahu2021 (big blind) showed [Th Jd] and won (400) with two pair, Tens and Fives
+
+
+
+PokerStars Hand #253348851965: Tournament #3822249820, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/10 22:22:21 CET [2024/11/10 16:22:21 ET]
+Table '3822249820 1' 3-max Seat #2 is the button
+Seat 1: PhilipeC0sta (460 in chips) 
+Seat 2: Ace77777777777 (320 in chips) 
+Seat 3: Mahu2021 (720 in chips) 
+Mahu2021: posts small blind 10
+PhilipeC0sta: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qd 8d]
+Ace77777777777: raises 20 to 40
+Mahu2021: calls 30
+PhilipeC0sta: folds 
+*** FLOP *** [Ks 4s Ah]
+Mahu2021: checks 
+Ace77777777777: checks 
+*** TURN *** [Ks 4s Ah] [Jc]
+Mahu2021: checks 
+Ace77777777777: bets 50
+Mahu2021: folds 
+Uncalled bet (50) returned to Ace77777777777
+Ace77777777777 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [Ks 4s Ah Jc]
+Seat 1: PhilipeC0sta (big blind) folded before Flop
+Seat 2: Ace77777777777 (button) collected (100)
+Seat 3: Mahu2021 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #253348859958: Tournament #3822249820, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/10 22:22:44 CET [2024/11/10 16:22:44 ET]
+Table '3822249820 1' 3-max Seat #3 is the button
+Seat 1: PhilipeC0sta (440 in chips) 
+Seat 2: Ace77777777777 (380 in chips) 
+Seat 3: Mahu2021 (680 in chips) 
+PhilipeC0sta: posts small blind 10
+Ace77777777777: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As 2c]
+Mahu2021: folds 
+PhilipeC0sta: raises 20 to 40
+Ace77777777777: calls 20
+*** FLOP *** [8s 2h 4h]
+PhilipeC0sta: checks 
+Ace77777777777: bets 40
+PhilipeC0sta: calls 40
+*** TURN *** [8s 2h 4h] [6s]
+PhilipeC0sta: checks 
+Ace77777777777: checks 
+*** RIVER *** [8s 2h 4h 6s] [7s]
+PhilipeC0sta: bets 100
+Ace77777777777: calls 100
+*** SHOW DOWN ***
+PhilipeC0sta: shows [Qh 3c] (high card Queen)
+Ace77777777777: shows [8d 7h] (two pair, Eights and Sevens)
+Ace77777777777 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [8s 2h 4h 6s 7s]
+Seat 1: PhilipeC0sta (small blind) showed [Qh 3c] and lost with high card Queen
+Seat 2: Ace77777777777 (big blind) showed [8d 7h] and won (360) with two pair, Eights and Sevens
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253348869183: Tournament #3822249820, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/10 22:23:10 CET [2024/11/10 16:23:10 ET]
+Table '3822249820 1' 3-max Seat #1 is the button
+Seat 1: PhilipeC0sta (260 in chips) 
+Seat 2: Ace77777777777 (560 in chips) 
+Seat 3: Mahu2021 (680 in chips) 
+Ace77777777777: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kc Td]
+PhilipeC0sta: folds 
+Ace77777777777: calls 10
+Mahu2021: raises 40 to 60
+Ace77777777777: calls 40
+*** FLOP *** [Qs As 9s]
+Ace77777777777: checks 
+Mahu2021: checks 
+*** TURN *** [Qs As 9s] [Tc]
+Ace77777777777: bets 120
+Mahu2021: folds 
+Uncalled bet (120) returned to Ace77777777777
+Ace77777777777 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Qs As 9s Tc]
+Seat 1: PhilipeC0sta (button) folded before Flop (didn't bet)
+Seat 2: Ace77777777777 (small blind) collected (120)
+Seat 3: Mahu2021 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #253348874294: Tournament #3822249820, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/10 22:23:25 CET [2024/11/10 16:23:25 ET]
+Table '3822249820 1' 3-max Seat #2 is the button
+Seat 1: PhilipeC0sta (260 in chips) 
+Seat 2: Ace77777777777 (620 in chips) 
+Seat 3: Mahu2021 (620 in chips) 
+Mahu2021: posts small blind 10
+PhilipeC0sta: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h 3c]
+Ace77777777777: calls 20
+Mahu2021: folds 
+PhilipeC0sta: checks 
+*** FLOP *** [Jd Kh 7s]
+PhilipeC0sta: checks 
+Ace77777777777: checks 
+*** TURN *** [Jd Kh 7s] [Ts]
+PhilipeC0sta: checks 
+Ace77777777777: checks 
+*** RIVER *** [Jd Kh 7s Ts] [4s]
+PhilipeC0sta: checks 
+Ace77777777777: checks 
+*** SHOW DOWN ***
+PhilipeC0sta: shows [6h 2h] (high card King)
+Ace77777777777: shows [8c 7h] (a pair of Sevens)
+Ace77777777777 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [Jd Kh 7s Ts 4s]
+Seat 1: PhilipeC0sta (big blind) showed [6h 2h] and lost with high card King
+Seat 2: Ace77777777777 (button) showed [8c 7h] and won (50) with a pair of Sevens
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #253348878372: Tournament #3822249820, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/10 22:23:37 CET [2024/11/10 16:23:37 ET]
+Table '3822249820 1' 3-max Seat #3 is the button
+Seat 1: PhilipeC0sta (240 in chips) 
+Seat 2: Ace77777777777 (650 in chips) 
+Seat 3: Mahu2021 (610 in chips) 
+PhilipeC0sta: posts small blind 10
+Ace77777777777: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c 7s]
+Mahu2021: raises 20 to 40
+PhilipeC0sta: folds 
+Ace77777777777: calls 20
+*** FLOP *** [9s Ad Kh]
+Ace77777777777: checks 
+Mahu2021: bets 40
+Ace77777777777: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 90 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [9s Ad Kh]
+Seat 1: PhilipeC0sta (small blind) folded before Flop
+Seat 2: Ace77777777777 (big blind) folded on the Flop
+Seat 3: Mahu2021 (button) collected (90)
+
+
+
+PokerStars Hand #253348882045: Tournament #3822249820, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/10 22:23:47 CET [2024/11/10 16:23:47 ET]
+Table '3822249820 1' 3-max Seat #1 is the button
+Seat 1: PhilipeC0sta (230 in chips) 
+Seat 2: Ace77777777777 (610 in chips) 
+Seat 3: Mahu2021 (660 in chips) 
+Ace77777777777: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d 9d]
+PhilipeC0sta: folds 
+Ace77777777777: raises 40 to 60
+Mahu2021: folds 
+Uncalled bet (40) returned to Ace77777777777
+Ace77777777777 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: PhilipeC0sta (button) folded before Flop (didn't bet)
+Seat 2: Ace77777777777 (small blind) collected (40)
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #253348884618: Tournament #3822249820, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/10 22:23:55 CET [2024/11/10 16:23:55 ET]
+Table '3822249820 1' 3-max Seat #2 is the button
+Seat 1: PhilipeC0sta (230 in chips) 
+Seat 2: Ace77777777777 (630 in chips) 
+Seat 3: Mahu2021 (640 in chips) 
+Mahu2021: posts small blind 10
+PhilipeC0sta: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2c 3c]
+Ace77777777777: calls 20
+Mahu2021: calls 10
+PhilipeC0sta: checks 
+*** FLOP *** [5h Ks 4h]
+Mahu2021: checks 
+PhilipeC0sta: checks 
+Ace77777777777: bets 60
+Mahu2021: calls 60
+PhilipeC0sta: folds 
+*** TURN *** [5h Ks 4h] [6d]
+Mahu2021: checks 
+Ace77777777777: bets 80
+Mahu2021: raises 80 to 160
+Ace77777777777: calls 80
+*** RIVER *** [5h Ks 4h 6d] [2d]
+Mahu2021: bets 400 and is all-in
+Ace77777777777: folds 
+Uncalled bet (400) returned to Mahu2021
+Mahu2021 collected 500 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 500 | Rake 0 
+Board [5h Ks 4h 6d 2d]
+Seat 1: PhilipeC0sta (big blind) folded on the Flop
+Seat 2: Ace77777777777 (button) folded on the River
+Seat 3: Mahu2021 (small blind) collected (500)
+
+
+
+PokerStars Hand #253348898434: Tournament #3822249820, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/10 22:24:35 CET [2024/11/10 16:24:35 ET]
+Table '3822249820 1' 3-max Seat #3 is the button
+Seat 1: PhilipeC0sta (210 in chips) 
+Seat 2: Ace77777777777 (390 in chips) 
+Seat 3: Mahu2021 (900 in chips) 
+PhilipeC0sta: posts small blind 15
+Ace77777777777: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s Js]
+Mahu2021: calls 30
+PhilipeC0sta: calls 15
+Ace77777777777: raises 30 to 60
+Mahu2021: calls 30
+PhilipeC0sta: calls 30
+*** FLOP *** [6d 8h 9h]
+PhilipeC0sta: checks 
+Ace77777777777: checks 
+Mahu2021: checks 
+*** TURN *** [6d 8h 9h] [Qd]
+PhilipeC0sta: checks 
+Ace77777777777: checks 
+Mahu2021: bets 60
+PhilipeC0sta: folds 
+Ace77777777777: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 180 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [6d 8h 9h Qd]
+Seat 1: PhilipeC0sta (small blind) folded on the Turn
+Seat 2: Ace77777777777 (big blind) folded on the Turn
+Seat 3: Mahu2021 (button) collected (180)
+
+
+
+PokerStars Hand #253348905729: Tournament #3822249820, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/10 22:24:56 CET [2024/11/10 16:24:56 ET]
+Table '3822249820 1' 3-max Seat #1 is the button
+Seat 1: PhilipeC0sta (150 in chips) 
+Seat 2: Ace77777777777 (330 in chips) 
+Seat 3: Mahu2021 (1020 in chips) 
+Ace77777777777: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah 2s]
+PhilipeC0sta: folds 
+Ace77777777777: raises 300 to 330 and is all-in
+Mahu2021: calls 300
+*** FLOP *** [Ac Ad 5h]
+*** TURN *** [Ac Ad 5h] [8d]
+*** RIVER *** [Ac Ad 5h 8d] [4h]
+*** SHOW DOWN ***
+Ace77777777777: shows [8c As] (a full house, Aces full of Eights)
+Mahu2021: shows [Ah 2s] (three of a kind, Aces)
+Ace77777777777 collected 660 from pot
+*** SUMMARY ***
+Total pot 660 | Rake 0 
+Board [Ac Ad 5h 8d 4h]
+Seat 1: PhilipeC0sta (button) folded before Flop (didn't bet)
+Seat 2: Ace77777777777 (small blind) showed [8c As] and won (660) with a full house, Aces full of Eights
+Seat 3: Mahu2021 (big blind) showed [Ah 2s] and lost with three of a kind, Aces
+
+
+
+PokerStars Hand #253348913997: Tournament #3822249820, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/10 22:25:20 CET [2024/11/10 16:25:20 ET]
+Table '3822249820 1' 3-max Seat #2 is the button
+Seat 1: PhilipeC0sta (150 in chips) 
+Seat 2: Ace77777777777 (660 in chips) 
+Seat 3: Mahu2021 (690 in chips) 
+Mahu2021: posts small blind 15
+PhilipeC0sta: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h 7d]
+Ace77777777777: folds 
+Mahu2021: folds 
+Uncalled bet (15) returned to PhilipeC0sta
+PhilipeC0sta collected 30 from pot
+PhilipeC0sta: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: PhilipeC0sta (big blind) collected (30)
+Seat 2: Ace77777777777 (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #253348915596: Tournament #3822249820, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/10 22:25:24 CET [2024/11/10 16:25:24 ET]
+Table '3822249820 1' 3-max Seat #3 is the button
+Seat 1: PhilipeC0sta (165 in chips) 
+Seat 2: Ace77777777777 (660 in chips) 
+Seat 3: Mahu2021 (675 in chips) 
+PhilipeC0sta: posts small blind 15
+Ace77777777777: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h Jc]
+Mahu2021: calls 30
+PhilipeC0sta: raises 135 to 165 and is all-in
+Ace77777777777: folds 
+Mahu2021: folds 
+Uncalled bet (135) returned to PhilipeC0sta
+PhilipeC0sta collected 90 from pot
+PhilipeC0sta: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Seat 1: PhilipeC0sta (small blind) collected (90)
+Seat 2: Ace77777777777 (big blind) folded before Flop
+Seat 3: Mahu2021 (button) folded before Flop
+
+
+
+PokerStars Hand #253348918414: Tournament #3822249820, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/10 22:25:33 CET [2024/11/10 16:25:33 ET]
+Table '3822249820 1' 3-max Seat #1 is the button
+Seat 1: PhilipeC0sta (225 in chips) 
+Seat 2: Ace77777777777 (630 in chips) 
+Seat 3: Mahu2021 (645 in chips) 
+Ace77777777777: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c Ts]
+PhilipeC0sta: folds 
+Ace77777777777: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: PhilipeC0sta (button) folded before Flop (didn't bet)
+Seat 2: Ace77777777777 (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (30)
+
+
+
+PokerStars Hand #253348920177: Tournament #3822249820, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/10 22:25:38 CET [2024/11/10 16:25:38 ET]
+Table '3822249820 1' 3-max Seat #2 is the button
+Seat 1: PhilipeC0sta (225 in chips) 
+Seat 2: Ace77777777777 (615 in chips) 
+Seat 3: Mahu2021 (660 in chips) 
+Mahu2021: posts small blind 15
+PhilipeC0sta: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d 4s]
+Ace77777777777: raises 60 to 90
+Mahu2021: folds 
+PhilipeC0sta: folds 
+Uncalled bet (60) returned to Ace77777777777
+Ace77777777777 collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: PhilipeC0sta (big blind) folded before Flop
+Seat 2: Ace77777777777 (button) collected (75)
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #253348922428: Tournament #3822249820, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/10 22:25:44 CET [2024/11/10 16:25:44 ET]
+Table '3822249820 1' 3-max Seat #3 is the button
+Seat 1: PhilipeC0sta (195 in chips) 
+Seat 2: Ace77777777777 (660 in chips) 
+Seat 3: Mahu2021 (645 in chips) 
+PhilipeC0sta: posts small blind 15
+Ace77777777777: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh Ts]
+Mahu2021: raises 30 to 60
+PhilipeC0sta: raises 135 to 195 and is all-in
+Ace77777777777: folds 
+Mahu2021: calls 135
+*** FLOP *** [6s Js 6c]
+*** TURN *** [6s Js 6c] [Qh]
+*** RIVER *** [6s Js 6c Qh] [Jd]
+*** SHOW DOWN ***
+PhilipeC0sta: shows [4c Ad] (two pair, Jacks and Sixes)
+Mahu2021: shows [Jh Ts] (a full house, Jacks full of Sixes)
+Mahu2021 collected 420 from pot
+PhilipeC0sta finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 420 | Rake 0 
+Board [6s Js 6c Qh Jd]
+Seat 1: PhilipeC0sta (small blind) showed [4c Ad] and lost with two pair, Jacks and Sixes
+Seat 2: Ace77777777777 (big blind) folded before Flop
+Seat 3: Mahu2021 (button) showed [Jh Ts] and won (420) with a full house, Jacks full of Sixes
+
+
+
+PokerStars Hand #253348928391: Tournament #3822249820, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/10 22:26:01 CET [2024/11/10 16:26:01 ET]
+Table '3822249820 1' 3-max Seat #2 is the button
+Seat 2: Ace77777777777 (630 in chips) 
+Seat 3: Mahu2021 (870 in chips) 
+Ace77777777777: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3c 7d]
+Ace77777777777: calls 15
+Mahu2021: checks 
+*** FLOP *** [3s Jh 2h]
+Mahu2021: checks 
+Ace77777777777: checks 
+*** TURN *** [3s Jh 2h] [8h]
+Mahu2021: checks 
+Ace77777777777: checks 
+*** RIVER *** [3s Jh 2h 8h] [7h]
+Mahu2021: bets 60
+Ace77777777777: calls 60
+*** SHOW DOWN ***
+Mahu2021: shows [3c 7d] (two pair, Sevens and Threes)
+Ace77777777777: shows [6h Td] (a flush, Jack high)
+Ace77777777777 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [3s Jh 2h 8h 7h]
+Seat 2: Ace77777777777 (button) (small blind) showed [6h Td] and won (180) with a flush, Jack high
+Seat 3: Mahu2021 (big blind) showed [3c 7d] and lost with two pair, Sevens and Threes
+
+
+
+PokerStars Hand #253348933561: Tournament #3822249820, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/10 22:26:16 CET [2024/11/10 16:26:16 ET]
+Table '3822249820 1' 3-max Seat #3 is the button
+Seat 2: Ace77777777777 (720 in chips) 
+Seat 3: Mahu2021 (780 in chips) 
+Mahu2021: posts small blind 20
+Ace77777777777: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh Ah]
+Mahu2021: raises 40 to 80
+Ace77777777777: calls 40
+*** FLOP *** [Ac Kd 8s]
+Ace77777777777: checks 
+Mahu2021: checks 
+*** TURN *** [Ac Kd 8s] [8h]
+Ace77777777777: bets 80
+Mahu2021: calls 80
+*** RIVER *** [Ac Kd 8s 8h] [Qd]
+Ace77777777777: bets 160
+Mahu2021: calls 160
+*** SHOW DOWN ***
+Ace77777777777: shows [9c Qh] (two pair, Queens and Eights)
+Mahu2021: shows [Kh Ah] (two pair, Aces and Kings)
+Mahu2021 collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | Rake 0 
+Board [Ac Kd 8s 8h Qd]
+Seat 2: Ace77777777777 (big blind) showed [9c Qh] and lost with two pair, Queens and Eights
+Seat 3: Mahu2021 (button) (small blind) showed [Kh Ah] and won (640) with two pair, Aces and Kings
+
+
+
+PokerStars Hand #253348937689: Tournament #3822249820, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/10 22:26:28 CET [2024/11/10 16:26:28 ET]
+Table '3822249820 1' 3-max Seat #2 is the button
+Seat 2: Ace77777777777 (400 in chips) 
+Seat 3: Mahu2021 (1100 in chips) 
+Ace77777777777: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d 4s]
+Ace77777777777: raises 360 to 400 and is all-in
+Mahu2021: folds 
+Uncalled bet (360) returned to Ace77777777777
+Ace77777777777 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: Ace77777777777 (button) (small blind) collected (80)
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #253348939701: Tournament #3822249820, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/10 22:26:34 CET [2024/11/10 16:26:34 ET]
+Table '3822249820 1' 3-max Seat #3 is the button
+Seat 2: Ace77777777777 (440 in chips) 
+Seat 3: Mahu2021 (1060 in chips) 
+Mahu2021: posts small blind 20
+Ace77777777777: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h Qh]
+Mahu2021: raises 40 to 80
+Ace77777777777: calls 40
+*** FLOP *** [Qd 5s 6c]
+Ace77777777777: checks 
+Mahu2021: checks 
+*** TURN *** [Qd 5s 6c] [5d]
+Ace77777777777: checks 
+Mahu2021: checks 
+*** RIVER *** [Qd 5s 6c 5d] [7h]
+Ace77777777777: checks 
+Mahu2021: bets 80
+Ace77777777777: calls 80
+*** SHOW DOWN ***
+Mahu2021: shows [3h Qh] (two pair, Queens and Fives)
+Ace77777777777: mucks hand 
+Mahu2021 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [Qd 5s 6c 5d 7h]
+Seat 2: Ace77777777777 (big blind) mucked [7s 9c]
+Seat 3: Mahu2021 (button) (small blind) showed [3h Qh] and won (320) with two pair, Queens and Fives
+
+
+
+PokerStars Hand #253348944901: Tournament #3822249820, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/10 22:26:49 CET [2024/11/10 16:26:49 ET]
+Table '3822249820 1' 3-max Seat #2 is the button
+Seat 2: Ace77777777777 (280 in chips) 
+Seat 3: Mahu2021 (1220 in chips) 
+Ace77777777777: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s Qs]
+Ace77777777777: calls 20
+Mahu2021: checks 
+*** FLOP *** [6s 3h 4s]
+Mahu2021: bets 40
+Ace77777777777: calls 40
+*** TURN *** [6s 3h 4s] [5d]
+Mahu2021: bets 40
+Ace77777777777: raises 120 to 160
+Mahu2021: raises 160 to 320
+Ace77777777777: calls 40 and is all-in
+Uncalled bet (120) returned to Mahu2021
+*** RIVER *** [6s 3h 4s 5d] [2h]
+*** SHOW DOWN ***
+Mahu2021: shows [3s Qs] (a straight, Deuce to Six)
+Ace77777777777: shows [Qc 4h] (a straight, Deuce to Six)
+Mahu2021 collected 280 from pot
+Ace77777777777 collected 280 from pot
+*** SUMMARY ***
+Total pot 560 | Rake 0 
+Board [6s 3h 4s 5d 2h]
+Seat 2: Ace77777777777 (button) (small blind) showed [Qc 4h] and won (280) with a straight, Deuce to Six
+Seat 3: Mahu2021 (big blind) showed [3s Qs] and won (280) with a straight, Deuce to Six
+
+
+
+PokerStars Hand #253348951716: Tournament #3822249820, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/10 22:27:09 CET [2024/11/10 16:27:09 ET]
+Table '3822249820 1' 3-max Seat #3 is the button
+Seat 2: Ace77777777777 (280 in chips) 
+Seat 3: Mahu2021 (1220 in chips) 
+Mahu2021: posts small blind 20
+Ace77777777777: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4d 6h]
+Mahu2021: folds 
+Uncalled bet (20) returned to Ace77777777777
+Ace77777777777 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: Ace77777777777 (big blind) collected (40)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #253348953187: Tournament #3822249820, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/10 22:27:13 CET [2024/11/10 16:27:13 ET]
+Table '3822249820 1' 3-max Seat #2 is the button
+Seat 2: Ace77777777777 (300 in chips) 
+Seat 3: Mahu2021 (1200 in chips) 
+Ace77777777777: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As 7s]
+Ace77777777777: raises 260 to 300 and is all-in
+Mahu2021: calls 260
+*** FLOP *** [Qs 5h 2h]
+*** TURN *** [Qs 5h 2h] [7d]
+*** RIVER *** [Qs 5h 2h 7d] [2s]
+*** SHOW DOWN ***
+Mahu2021: shows [As 7s] (two pair, Sevens and Deuces)
+Ace77777777777: shows [Ac Jh] (a pair of Deuces)
+Mahu2021 collected 600 from pot
+Ace77777777777 finished the tournament in 2nd place
+Mahu2021 wins the tournament and receives $4.00 - congratulations!
+*** SUMMARY ***
+Total pot 600 | Rake 0 
+Board [Qs 5h 2h 7d 2s]
+Seat 2: Ace77777777777 (button) (small blind) showed [Ac Jh] and lost with a pair of Deuces
+Seat 3: Mahu2021 (big blind) showed [As 7s] and won (600) with two pair, Sevens and Deuces
+
+
+

@@ -1,0 +1,65 @@
+﻿PokerStars Hand #252740107652: Tournament #3807531638, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2024/10/02 21:29:16 CET [2024/10/02 15:29:16 ET]
+Table '3807531638 1' 9-max Seat #1 is the button
+Seat 1: sergiojfpkr (1500 in chips) 
+Seat 2: Mahu2021 (1500 in chips) 
+Seat 3: mzmaxx (1500 in chips) 
+Seat 4: Dofeitosa (1500 in chips) 
+Seat 5: Jorjones5 (1500 in chips) 
+Seat 6: sherriemaclean (1500 in chips) 
+Seat 7: DeleteBR (1500 in chips) 
+Seat 8: Bitis gab210 (1500 in chips) 
+Seat 9: Dan_Poker85 (1500 in chips) 
+sergiojfpkr: posts the ante 3
+Mahu2021: posts the ante 3
+mzmaxx: posts the ante 3
+Dofeitosa: posts the ante 3
+Jorjones5: posts the ante 3
+sherriemaclean: posts the ante 3
+DeleteBR: posts the ante 3
+Bitis gab210: posts the ante 3
+Dan_Poker85: posts the ante 3
+Mahu2021: posts small blind 10
+mzmaxx: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Tc Js]
+Dofeitosa: raises 36 to 56
+Jorjones5: folds 
+sherriemaclean: calls 56
+DeleteBR: folds 
+Bitis gab210: folds 
+Dan_Poker85: folds 
+sergiojfpkr: calls 56
+Mahu2021: calls 46
+mzmaxx: folds 
+*** FLOP *** [6s Jc 3h]
+Mahu2021: bets 40
+Dofeitosa: raises 120 to 160
+sherriemaclean: raises 120 to 280
+sergiojfpkr: folds 
+Mahu2021: raises 1161 to 1441 and is all-in
+Dofeitosa: calls 1281 and is all-in
+sherriemaclean: calls 1161 and is all-in
+*** TURN *** [6s Jc 3h] [Qc]
+*** RIVER *** [6s Jc 3h Qc] [9s]
+*** SHOW DOWN ***
+Mahu2021: shows [Tc Js] (a pair of Jacks)
+Dofeitosa: shows [Ah Ad] (a pair of Aces)
+sherriemaclean: shows [8c Jh] (a pair of Jacks)
+Dofeitosa collected 4594 from pot
+Mahu2021 finished the tournament
+sherriemaclean finished the tournament
+*** SUMMARY ***
+Total pot 4594 | Rake 0 
+Board [6s Jc 3h Qc 9s]
+Seat 1: sergiojfpkr (button) folded on the Flop
+Seat 2: Mahu2021 (small blind) showed [Tc Js] and lost with a pair of Jacks
+Seat 3: mzmaxx (big blind) folded before Flop
+Seat 4: Dofeitosa showed [Ah Ad] and won (4594) with a pair of Aces
+Seat 5: Jorjones5 folded before Flop (didn't bet)
+Seat 6: sherriemaclean showed [8c Jh] and lost with a pair of Jacks
+Seat 7: DeleteBR folded before Flop (didn't bet)
+Seat 8: Bitis gab210 folded before Flop (didn't bet)
+Seat 9: Dan_Poker85 folded before Flop (didn't bet)
+
+
+

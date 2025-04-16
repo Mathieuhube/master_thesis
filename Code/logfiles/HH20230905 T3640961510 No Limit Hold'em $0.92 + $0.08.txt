@@ -1,0 +1,959 @@
+﻿PokerStars Hand #245793629692: Tournament #3640961510, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/09/05 22:05:30 CET [2023/09/05 16:05:30 ET]
+Table '3640961510 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: hermanny123 (500 in chips) 
+Seat 3: Bibi.241007 (500 in chips) 
+hermanny123: posts small blind 10
+Bibi.241007: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh 8c]
+Mahu2021: folds 
+hermanny123: raises 40 to 60
+Bibi.241007: calls 40
+*** FLOP *** [2d 4s 4h]
+hermanny123: bets 60
+Bibi.241007: raises 60 to 120
+hermanny123: raises 60 to 180
+Bibi.241007: raises 60 to 240
+hermanny123: calls 60
+*** TURN *** [2d 4s 4h] [As]
+hermanny123: bets 200 and is all-in
+Bibi.241007: calls 200 and is all-in
+*** RIVER *** [2d 4s 4h As] [7d]
+*** SHOW DOWN ***
+hermanny123: shows [Jh 5c] (a pair of Fours)
+Bibi.241007: shows [4c 5h] (three of a kind, Fours)
+Bibi.241007 collected 1000 from pot
+hermanny123 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1000 | Rake 0 
+Board [2d 4s 4h As 7d]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: hermanny123 (small blind) showed [Jh 5c] and lost with a pair of Fours
+Seat 3: Bibi.241007 (big blind) showed [4c 5h] and won (1000) with three of a kind, Fours
+
+
+
+PokerStars Hand #245793644030: Tournament #3640961510, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/09/05 22:06:09 CET [2023/09/05 16:06:09 ET]
+Table '3640961510 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 3: Bibi.241007 (1000 in chips) 
+Bibi.241007: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c Kc]
+Bibi.241007: calls 10
+Mahu2021: raises 40 to 60
+Bibi.241007: calls 40
+*** FLOP *** [Ah 6d 5d]
+Mahu2021: checks 
+Bibi.241007: checks 
+*** TURN *** [Ah 6d 5d] [4d]
+Mahu2021: checks 
+Bibi.241007: checks 
+*** RIVER *** [Ah 6d 5d 4d] [Js]
+Mahu2021: checks 
+Bibi.241007: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [5c Kc] (a pair of Fives)
+Bibi.241007: mucks hand 
+Mahu2021 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Ah 6d 5d 4d Js]
+Seat 1: Mahu2021 (big blind) showed [5c Kc] and won (120) with a pair of Fives
+Seat 3: Bibi.241007 (button) (small blind) mucked [Ks 9h]
+
+
+
+PokerStars Hand #245793653988: Tournament #3640961510, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/09/05 22:06:36 CET [2023/09/05 16:06:36 ET]
+Table '3640961510 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (560 in chips) 
+Seat 3: Bibi.241007 (940 in chips) 
+Mahu2021: posts small blind 10
+Bibi.241007: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh 4c]
+Mahu2021: raises 40 to 60
+Bibi.241007: calls 40
+*** FLOP *** [4s 5c 2s]
+Bibi.241007: checks 
+Mahu2021: bets 120
+Bibi.241007: folds 
+Uncalled bet (120) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [4s 5c 2s]
+Seat 1: Mahu2021 (button) (small blind) collected (120)
+Seat 3: Bibi.241007 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #245793659066: Tournament #3640961510, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/09/05 22:06:50 CET [2023/09/05 16:06:50 ET]
+Table '3640961510 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (620 in chips) 
+Seat 3: Bibi.241007 (880 in chips) 
+Bibi.241007: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h Js]
+Bibi.241007: calls 10
+Mahu2021: checks 
+*** FLOP *** [Qs Qd 4s]
+Mahu2021: checks 
+Bibi.241007: checks 
+*** TURN *** [Qs Qd 4s] [6h]
+Mahu2021: checks 
+Bibi.241007: bets 20
+Mahu2021: calls 20
+*** RIVER *** [Qs Qd 4s 6h] [5h]
+Mahu2021: checks 
+Bibi.241007: bets 40
+Mahu2021: folds 
+Uncalled bet (40) returned to Bibi.241007
+Bibi.241007 collected 80 from pot
+Bibi.241007: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Qs Qd 4s 6h 5h]
+Seat 1: Mahu2021 (big blind) folded on the River
+Seat 3: Bibi.241007 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #245793665358: Tournament #3640961510, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/09/05 22:07:07 CET [2023/09/05 16:07:07 ET]
+Table '3640961510 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (580 in chips) 
+Seat 3: Bibi.241007 (920 in chips) 
+Mahu2021: posts small blind 10
+Bibi.241007: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s 4d]
+Mahu2021: calls 10
+Bibi.241007: checks 
+*** FLOP *** [Td Ah 2s]
+Bibi.241007: bets 20
+Mahu2021: calls 20
+*** TURN *** [Td Ah 2s] [Jh]
+Bibi.241007: bets 40
+Mahu2021: calls 40
+*** RIVER *** [Td Ah 2s Jh] [6h]
+Bibi.241007: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+Bibi.241007: shows [Tc 3d] (a pair of Tens)
+Mahu2021: mucks hand 
+Bibi.241007 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Td Ah 2s Jh 6h]
+Seat 1: Mahu2021 (button) (small blind) mucked [5s 4d]
+Seat 3: Bibi.241007 (big blind) showed [Tc 3d] and won (160) with a pair of Tens
+
+
+
+PokerStars Hand #245793672870: Tournament #3640961510, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/09/05 22:07:28 CET [2023/09/05 16:07:28 ET]
+Table '3640961510 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 3: Bibi.241007 (1000 in chips) 
+Bibi.241007: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8c 4d]
+Bibi.241007: calls 10
+Mahu2021: checks 
+*** FLOP *** [Jd 3h Jh]
+Mahu2021: checks 
+Bibi.241007: checks 
+*** TURN *** [Jd 3h Jh] [2s]
+Mahu2021: checks 
+Bibi.241007: checks 
+*** RIVER *** [Jd 3h Jh 2s] [Ah]
+Mahu2021: checks 
+Bibi.241007: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [8c 4d] (a pair of Jacks)
+Bibi.241007: shows [3s 6c] (two pair, Jacks and Threes)
+Bibi.241007 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Jd 3h Jh 2s Ah]
+Seat 1: Mahu2021 (big blind) showed [8c 4d] and lost with a pair of Jacks
+Seat 3: Bibi.241007 (button) (small blind) showed [3s 6c] and won (40) with two pair, Jacks and Threes
+
+
+
+PokerStars Hand #245793680361: Tournament #3640961510, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/09/05 22:07:48 CET [2023/09/05 16:07:48 ET]
+Table '3640961510 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (480 in chips) 
+Seat 3: Bibi.241007 (1020 in chips) 
+Mahu2021: posts small blind 10
+Bibi.241007: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d 8s]
+Mahu2021: folds 
+Uncalled bet (10) returned to Bibi.241007
+Bibi.241007 collected 20 from pot
+Bibi.241007: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: Bibi.241007 (big blind) collected (20)
+
+
+
+PokerStars Hand #245793681891: Tournament #3640961510, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/09/05 22:07:52 CET [2023/09/05 16:07:52 ET]
+Table '3640961510 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (470 in chips) 
+Seat 3: Bibi.241007 (1030 in chips) 
+Bibi.241007: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s 3s]
+Bibi.241007: calls 10
+Mahu2021: checks 
+*** FLOP *** [6s Kc 5d]
+Mahu2021: bets 20
+Bibi.241007: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [6s Kc 5d]
+Seat 1: Mahu2021 (big blind) collected (40)
+Seat 3: Bibi.241007 (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #245793687131: Tournament #3640961510, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/09/05 22:08:07 CET [2023/09/05 16:08:07 ET]
+Table '3640961510 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (490 in chips) 
+Seat 3: Bibi.241007 (1010 in chips) 
+Mahu2021: posts small blind 10
+Bibi.241007: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d Ts]
+Mahu2021: raises 40 to 60
+Bibi.241007: calls 40
+*** FLOP *** [Qs 6h 9h]
+Bibi.241007: checks 
+Mahu2021: checks 
+*** TURN *** [Qs 6h 9h] [Jh]
+Bibi.241007: bets 20
+Mahu2021: calls 20
+*** RIVER *** [Qs 6h 9h Jh] [8s]
+Bibi.241007: checks 
+Mahu2021: bets 160
+Bibi.241007: folds 
+Uncalled bet (160) returned to Mahu2021
+Mahu2021 collected 160 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Qs 6h 9h Jh 8s]
+Seat 1: Mahu2021 (button) (small blind) collected (160)
+Seat 3: Bibi.241007 (big blind) folded on the River
+
+
+
+PokerStars Hand #245793699651: Tournament #3640961510, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/09/05 22:08:41 CET [2023/09/05 16:08:41 ET]
+Table '3640961510 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (570 in chips) 
+Seat 3: Bibi.241007 (930 in chips) 
+Bibi.241007: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s Ks]
+Bibi.241007: calls 15
+Mahu2021: raises 60 to 90
+Bibi.241007: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (60)
+Seat 3: Bibi.241007 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #245793702937: Tournament #3640961510, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/09/05 22:08:50 CET [2023/09/05 16:08:50 ET]
+Table '3640961510 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (600 in chips) 
+Seat 3: Bibi.241007 (900 in chips) 
+Mahu2021: posts small blind 15
+Bibi.241007: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h 5d]
+Mahu2021: calls 15
+Bibi.241007: checks 
+*** FLOP *** [8c 4s Tc]
+Bibi.241007: checks 
+Mahu2021: bets 30
+Bibi.241007: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [8c 4s Tc]
+Seat 1: Mahu2021 (button) (small blind) collected (60)
+Seat 3: Bibi.241007 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #245793707459: Tournament #3640961510, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/09/05 22:09:02 CET [2023/09/05 16:09:02 ET]
+Table '3640961510 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (630 in chips) 
+Seat 3: Bibi.241007 (870 in chips) 
+Bibi.241007: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd 6s]
+Bibi.241007: calls 15
+Mahu2021: raises 60 to 90
+Bibi.241007: calls 60
+*** FLOP *** [Ah 9h 9s]
+Mahu2021: checks 
+Bibi.241007: bets 30
+Mahu2021: folds 
+Uncalled bet (30) returned to Bibi.241007
+Bibi.241007 collected 180 from pot
+Bibi.241007: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [Ah 9h 9s]
+Seat 1: Mahu2021 (big blind) folded on the Flop
+Seat 3: Bibi.241007 (button) (small blind) collected (180)
+
+
+
+PokerStars Hand #245793713093: Tournament #3640961510, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/09/05 22:09:17 CET [2023/09/05 16:09:17 ET]
+Table '3640961510 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (540 in chips) 
+Seat 3: Bibi.241007 (960 in chips) 
+Mahu2021: posts small blind 15
+Bibi.241007: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s 5c]
+Mahu2021: folds 
+Uncalled bet (15) returned to Bibi.241007
+Bibi.241007 collected 30 from pot
+Bibi.241007: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: Bibi.241007 (big blind) collected (30)
+
+
+
+PokerStars Hand #245793714642: Tournament #3640961510, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/09/05 22:09:22 CET [2023/09/05 16:09:22 ET]
+Table '3640961510 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (525 in chips) 
+Seat 3: Bibi.241007 (975 in chips) 
+Bibi.241007: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2s As]
+Bibi.241007: calls 15
+Mahu2021: raises 60 to 90
+Bibi.241007: calls 60
+*** FLOP *** [7h 6c 4d]
+Mahu2021: bets 90
+Bibi.241007: folds 
+Uncalled bet (90) returned to Mahu2021
+Mahu2021 collected 180 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [7h 6c 4d]
+Seat 1: Mahu2021 (big blind) collected (180)
+Seat 3: Bibi.241007 (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #245793720032: Tournament #3640961510, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/09/05 22:09:36 CET [2023/09/05 16:09:36 ET]
+Table '3640961510 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (615 in chips) 
+Seat 3: Bibi.241007 (885 in chips) 
+Mahu2021: posts small blind 15
+Bibi.241007: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks Jh]
+Mahu2021: raises 60 to 90
+Bibi.241007: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) collected (60)
+Seat 3: Bibi.241007 (big blind) folded before Flop
+
+
+
+PokerStars Hand #245793725169: Tournament #3640961510, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/09/05 22:09:50 CET [2023/09/05 16:09:50 ET]
+Table '3640961510 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (645 in chips) 
+Seat 3: Bibi.241007 (855 in chips) 
+Bibi.241007: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s 9s]
+Bibi.241007: calls 15
+Mahu2021: checks 
+*** FLOP *** [Qc 7c 9d]
+Mahu2021: checks 
+Bibi.241007: checks 
+*** TURN *** [Qc 7c 9d] [2h]
+Mahu2021: checks 
+Bibi.241007: checks 
+*** RIVER *** [Qc 7c 9d 2h] [9c]
+Mahu2021: bets 30
+Bibi.241007: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Qc 7c 9d 2h 9c]
+Seat 1: Mahu2021 (big blind) collected (60)
+Seat 3: Bibi.241007 (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #245793733827: Tournament #3640961510, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/09/05 22:10:13 CET [2023/09/05 16:10:13 ET]
+Table '3640961510 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (675 in chips) 
+Seat 3: Bibi.241007 (825 in chips) 
+Mahu2021: posts small blind 15
+Bibi.241007: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Tc 7c]
+Mahu2021: raises 30 to 60
+Bibi.241007: calls 30
+*** FLOP *** [6c 3s Jd]
+Bibi.241007: checks 
+Mahu2021: checks 
+*** TURN *** [6c 3s Jd] [9c]
+Bibi.241007: checks 
+Mahu2021: bets 120
+Bibi.241007: folds 
+Uncalled bet (120) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [6c 3s Jd 9c]
+Seat 1: Mahu2021 (button) (small blind) collected (120)
+Seat 3: Bibi.241007 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #245793739837: Tournament #3640961510, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/09/05 22:10:30 CET [2023/09/05 16:10:30 ET]
+Table '3640961510 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (735 in chips) 
+Seat 3: Bibi.241007 (765 in chips) 
+Bibi.241007: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5h Th]
+Bibi.241007: calls 15
+Mahu2021: checks 
+*** FLOP *** [4c 4h Jh]
+Mahu2021: bets 90
+Bibi.241007: folds 
+Uncalled bet (90) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [4c 4h Jh]
+Seat 1: Mahu2021 (big blind) collected (60)
+Seat 3: Bibi.241007 (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #245793744370: Tournament #3640961510, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/09/05 22:10:42 CET [2023/09/05 16:10:42 ET]
+Table '3640961510 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (765 in chips) 
+Seat 3: Bibi.241007 (735 in chips) 
+Mahu2021: posts small blind 15
+Bibi.241007: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d 4s]
+Mahu2021: raises 60 to 90
+Bibi.241007: calls 60
+*** FLOP *** [Qd Jd 5s]
+Bibi.241007: checks 
+Mahu2021: checks 
+*** TURN *** [Qd Jd 5s] [Jh]
+Bibi.241007: checks 
+Mahu2021: checks 
+*** RIVER *** [Qd Jd 5s Jh] [8c]
+Bibi.241007: checks 
+Mahu2021: bets 30
+Bibi.241007: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 180 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [Qd Jd 5s Jh 8c]
+Seat 1: Mahu2021 (button) (small blind) collected (180)
+Seat 3: Bibi.241007 (big blind) folded on the River
+
+
+
+PokerStars Hand #245793751678: Tournament #3640961510, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/09/05 22:11:01 CET [2023/09/05 16:11:01 ET]
+Table '3640961510 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (855 in chips) 
+Seat 3: Bibi.241007 (645 in chips) 
+Bibi.241007: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4c Kh]
+Bibi.241007: calls 15
+Mahu2021: checks 
+*** FLOP *** [4d 7s 3d]
+Mahu2021: checks 
+Bibi.241007: checks 
+*** TURN *** [4d 7s 3d] [2s]
+Mahu2021: checks 
+Bibi.241007: checks 
+*** RIVER *** [4d 7s 3d 2s] [9s]
+Mahu2021: checks 
+Bibi.241007: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [4c Kh] (a pair of Fours)
+Bibi.241007: mucks hand 
+Mahu2021 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [4d 7s 3d 2s 9s]
+Seat 1: Mahu2021 (big blind) showed [4c Kh] and won (60) with a pair of Fours
+Seat 3: Bibi.241007 (button) (small blind) mucked [Ah 6d]
+
+
+
+PokerStars Hand #245793758732: Tournament #3640961510, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/09/05 22:11:20 CET [2023/09/05 16:11:20 ET]
+Table '3640961510 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (885 in chips) 
+Seat 3: Bibi.241007 (615 in chips) 
+Mahu2021: posts small blind 15
+Bibi.241007: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s Ac]
+Mahu2021: raises 60 to 90
+Bibi.241007: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) collected (60)
+Seat 3: Bibi.241007 (big blind) folded before Flop
+
+
+
+PokerStars Hand #245793761196: Tournament #3640961510, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/09/05 22:11:27 CET [2023/09/05 16:11:27 ET]
+Table '3640961510 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (915 in chips) 
+Seat 3: Bibi.241007 (585 in chips) 
+Bibi.241007: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s 9c]
+Bibi.241007: raises 30 to 60
+Mahu2021: folds 
+Uncalled bet (30) returned to Bibi.241007
+Bibi.241007 collected 60 from pot
+Bibi.241007: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 3: Bibi.241007 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #245793764796: Tournament #3640961510, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/09/05 22:11:37 CET [2023/09/05 16:11:37 ET]
+Table '3640961510 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (885 in chips) 
+Seat 3: Bibi.241007 (615 in chips) 
+Mahu2021: posts small blind 20
+Bibi.241007: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h 3c]
+Mahu2021: folds 
+Uncalled bet (20) returned to Bibi.241007
+Bibi.241007 collected 40 from pot
+Bibi.241007: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: Bibi.241007 (big blind) collected (40)
+
+
+
+PokerStars Hand #245793766433: Tournament #3640961510, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/09/05 22:11:41 CET [2023/09/05 16:11:41 ET]
+Table '3640961510 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (865 in chips) 
+Seat 3: Bibi.241007 (635 in chips) 
+Bibi.241007: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h 9s]
+Bibi.241007: calls 20
+Mahu2021: raises 80 to 120
+Bibi.241007: calls 80
+*** FLOP *** [2d Ts 2h]
+Mahu2021: checks 
+Bibi.241007: checks 
+*** TURN *** [2d Ts 2h] [3s]
+Mahu2021: checks 
+Bibi.241007: checks 
+*** RIVER *** [2d Ts 2h 3s] [Qc]
+Mahu2021: checks 
+Bibi.241007: bets 40
+Mahu2021: folds 
+Uncalled bet (40) returned to Bibi.241007
+Bibi.241007 collected 240 from pot
+Bibi.241007: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [2d Ts 2h 3s Qc]
+Seat 1: Mahu2021 (big blind) folded on the River
+Seat 3: Bibi.241007 (button) (small blind) collected (240)
+
+
+
+PokerStars Hand #245793775352: Tournament #3640961510, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/09/05 22:12:05 CET [2023/09/05 16:12:05 ET]
+Table '3640961510 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (745 in chips) 
+Seat 3: Bibi.241007 (755 in chips) 
+Mahu2021: posts small blind 20
+Bibi.241007: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Tc 6h]
+Mahu2021: folds 
+Uncalled bet (20) returned to Bibi.241007
+Bibi.241007 collected 40 from pot
+Bibi.241007: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: Bibi.241007 (big blind) collected (40)
+
+
+
+PokerStars Hand #245793777055: Tournament #3640961510, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/09/05 22:12:09 CET [2023/09/05 16:12:09 ET]
+Table '3640961510 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (725 in chips) 
+Seat 3: Bibi.241007 (775 in chips) 
+Bibi.241007: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2s Ks]
+Bibi.241007: calls 20
+Mahu2021: raises 80 to 120
+Bibi.241007: calls 80
+*** FLOP *** [4h 5d 2c]
+Mahu2021: bets 120
+Bibi.241007: folds 
+Uncalled bet (120) returned to Mahu2021
+Mahu2021 collected 240 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [4h 5d 2c]
+Seat 1: Mahu2021 (big blind) collected (240)
+Seat 3: Bibi.241007 (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #245793783578: Tournament #3640961510, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/09/05 22:12:27 CET [2023/09/05 16:12:27 ET]
+Table '3640961510 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (845 in chips) 
+Seat 3: Bibi.241007 (655 in chips) 
+Mahu2021: posts small blind 20
+Bibi.241007: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d 9d]
+Mahu2021: raises 80 to 120
+Bibi.241007: calls 80
+*** FLOP *** [6c Kh Kc]
+Bibi.241007: checks 
+Mahu2021: checks 
+*** TURN *** [6c Kh Kc] [2c]
+Bibi.241007: checks 
+Mahu2021: checks 
+*** RIVER *** [6c Kh Kc 2c] [5d]
+Bibi.241007: checks 
+Mahu2021: bets 40
+Bibi.241007: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 240 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [6c Kh Kc 2c 5d]
+Seat 1: Mahu2021 (button) (small blind) collected (240)
+Seat 3: Bibi.241007 (big blind) folded on the River
+
+
+
+PokerStars Hand #245793792319: Tournament #3640961510, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/09/05 22:12:50 CET [2023/09/05 16:12:50 ET]
+Table '3640961510 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (965 in chips) 
+Seat 3: Bibi.241007 (535 in chips) 
+Bibi.241007: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh 4s]
+Bibi.241007: calls 20
+Mahu2021: checks 
+*** FLOP *** [6h 3s Jh]
+Mahu2021: checks 
+Bibi.241007: checks 
+*** TURN *** [6h 3s Jh] [6d]
+Mahu2021: checks 
+Bibi.241007: checks 
+*** RIVER *** [6h 3s Jh 6d] [Ad]
+Mahu2021: bets 40
+Bibi.241007: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [6h 3s Jh 6d Ad]
+Seat 1: Mahu2021 (big blind) collected (80)
+Seat 3: Bibi.241007 (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #245793798483: Tournament #3640961510, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/09/05 22:13:07 CET [2023/09/05 16:13:07 ET]
+Table '3640961510 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1005 in chips) 
+Seat 3: Bibi.241007 (495 in chips) 
+Mahu2021: posts small blind 20
+Bibi.241007: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h 4s]
+Mahu2021: calls 20
+Bibi.241007: checks 
+*** FLOP *** [4h 7h 9c]
+Bibi.241007: checks 
+Mahu2021: checks 
+*** TURN *** [4h 7h 9c] [5d]
+Bibi.241007: checks 
+Mahu2021: checks 
+*** RIVER *** [4h 7h 9c 5d] [7s]
+Bibi.241007: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+Bibi.241007: shows [2c 6d] (a pair of Sevens)
+Mahu2021: shows [2h 4s] (two pair, Sevens and Fours)
+Mahu2021 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [4h 7h 9c 5d 7s]
+Seat 1: Mahu2021 (button) (small blind) showed [2h 4s] and won (80) with two pair, Sevens and Fours
+Seat 3: Bibi.241007 (big blind) showed [2c 6d] and lost with a pair of Sevens
+
+
+
+PokerStars Hand #245793807324: Tournament #3640961510, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/09/05 22:13:30 CET [2023/09/05 16:13:30 ET]
+Table '3640961510 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (1045 in chips) 
+Seat 3: Bibi.241007 (455 in chips) 
+Bibi.241007: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qs 2c]
+Bibi.241007: calls 20
+Mahu2021: checks 
+*** FLOP *** [Ad Kd 8c]
+Mahu2021: checks 
+Bibi.241007: checks 
+*** TURN *** [Ad Kd 8c] [5h]
+Mahu2021: bets 40
+Bibi.241007: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Ad Kd 8c 5h]
+Seat 1: Mahu2021 (big blind) collected (80)
+Seat 3: Bibi.241007 (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #245793813444: Tournament #3640961510, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/09/05 22:13:47 CET [2023/09/05 16:13:47 ET]
+Table '3640961510 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1085 in chips) 
+Seat 3: Bibi.241007 (415 in chips) 
+Mahu2021: posts small blind 20
+Bibi.241007: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc Th]
+Mahu2021: raises 80 to 120
+Bibi.241007: calls 80
+*** FLOP *** [7s 5s 6h]
+Bibi.241007: checks 
+Mahu2021: checks 
+*** TURN *** [7s 5s 6h] [Ac]
+Bibi.241007: checks 
+Mahu2021: checks 
+*** RIVER *** [7s 5s 6h Ac] [4c]
+Bibi.241007: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+Bibi.241007: shows [9c 9d] (a pair of Nines)
+Mahu2021: mucks hand 
+Bibi.241007 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [7s 5s 6h Ac 4c]
+Seat 1: Mahu2021 (button) (small blind) mucked [Qc Th]
+Seat 3: Bibi.241007 (big blind) showed [9c 9d] and won (240) with a pair of Nines
+
+
+
+PokerStars Hand #245793820847: Tournament #3640961510, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/09/05 22:14:07 CET [2023/09/05 16:14:07 ET]
+Table '3640961510 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (965 in chips) 
+Seat 3: Bibi.241007 (535 in chips) 
+Bibi.241007: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s Ts]
+Bibi.241007: calls 20
+Mahu2021: raises 80 to 120
+Bibi.241007: calls 80
+*** FLOP *** [4s 7s Ad]
+Mahu2021: bets 240
+Bibi.241007: folds 
+Uncalled bet (240) returned to Mahu2021
+Mahu2021 collected 240 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [4s 7s Ad]
+Seat 1: Mahu2021 (big blind) collected (240)
+Seat 3: Bibi.241007 (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #245793827410: Tournament #3640961510, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/09/05 22:14:24 CET [2023/09/05 16:14:24 ET]
+Table '3640961510 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1085 in chips) 
+Seat 3: Bibi.241007 (415 in chips) 
+Mahu2021: posts small blind 20
+Bibi.241007: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h 7h]
+Mahu2021: raises 80 to 120
+Bibi.241007: calls 80
+*** FLOP *** [5d 2d Ad]
+Bibi.241007: checks 
+Mahu2021: checks 
+*** TURN *** [5d 2d Ad] [5h]
+Bibi.241007: checks 
+Mahu2021: checks 
+*** RIVER *** [5d 2d Ad 5h] [7d]
+Bibi.241007: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+Bibi.241007: shows [9c 4c] (a pair of Fives)
+Mahu2021: shows [8h 7h] (two pair, Sevens and Fives)
+Mahu2021 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [5d 2d Ad 5h 7d]
+Seat 1: Mahu2021 (button) (small blind) showed [8h 7h] and won (240) with two pair, Sevens and Fives
+Seat 3: Bibi.241007 (big blind) showed [9c 4c] and lost with a pair of Fives
+
+
+
+PokerStars Hand #245793835087: Tournament #3640961510, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/09/05 22:14:45 CET [2023/09/05 16:14:45 ET]
+Table '3640961510 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (1205 in chips) 
+Seat 3: Bibi.241007 (295 in chips) 
+Bibi.241007: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts 4d]
+Bibi.241007: calls 30
+Mahu2021: checks 
+*** FLOP *** [Tc 6h 6s]
+Mahu2021: bets 60
+Bibi.241007: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Tc 6h 6s]
+Seat 1: Mahu2021 (big blind) collected (120)
+Seat 3: Bibi.241007 (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #245793839665: Tournament #3640961510, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/09/05 22:14:57 CET [2023/09/05 16:14:57 ET]
+Table '3640961510 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1265 in chips) 
+Seat 3: Bibi.241007 (235 in chips) 
+Mahu2021: posts small blind 30
+Bibi.241007: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d 8h]
+Mahu2021: calls 30
+Bibi.241007: checks 
+*** FLOP *** [3c 5h 5d]
+Bibi.241007: bets 175 and is all-in
+Mahu2021: folds 
+Uncalled bet (175) returned to Bibi.241007
+Bibi.241007 collected 120 from pot
+Bibi.241007: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [3c 5h 5d]
+Seat 1: Mahu2021 (button) (small blind) folded on the Flop
+Seat 3: Bibi.241007 (big blind) collected (120)
+
+
+
+PokerStars Hand #245793843890: Tournament #3640961510, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/09/05 22:15:07 CET [2023/09/05 16:15:07 ET]
+Table '3640961510 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (1205 in chips) 
+Seat 3: Bibi.241007 (295 in chips) 
+Bibi.241007: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s 6c]
+Bibi.241007: calls 30
+Mahu2021: raises 1145 to 1205 and is all-in
+Bibi.241007: calls 235 and is all-in
+Uncalled bet (910) returned to Mahu2021
+*** FLOP *** [9s Qh 3h]
+*** TURN *** [9s Qh 3h] [9h]
+*** RIVER *** [9s Qh 3h 9h] [Jc]
+*** SHOW DOWN ***
+Mahu2021: shows [6s 6c] (two pair, Nines and Sixes)
+Bibi.241007: shows [3c 5s] (two pair, Nines and Threes)
+Mahu2021 collected 590 from pot
+Bibi.241007 finished the tournament in 2nd place
+Mahu2021 wins the tournament and receives $3.00 - congratulations!
+*** SUMMARY ***
+Total pot 590 | Rake 0 
+Board [9s Qh 3h 9h Jc]
+Seat 1: Mahu2021 (big blind) showed [6s 6c] and won (590) with two pair, Nines and Sixes
+Seat 3: Bibi.241007 (button) (small blind) showed [3c 5s] and lost with two pair, Nines and Threes
+
+
+

@@ -1,0 +1,164 @@
+﻿PokerStars Hand #251455604377: Tournament #3777132079, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/07/12 21:17:16 CET [2024/07/12 15:17:16 ET]
+Table '3777132079 1' 3-max Seat #1 is the button
+Seat 1: BAX__101 (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: tatybp (500 in chips) 
+Mahu2021: posts small blind 10
+tatybp: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As 5s]
+BAX__101: calls 20
+Mahu2021: calls 10
+tatybp: raises 20 to 40
+BAX__101: calls 20
+Mahu2021: calls 20
+*** FLOP *** [7s 2s Ac]
+Mahu2021: checks 
+tatybp: bets 42
+BAX__101: folds 
+Mahu2021: calls 42
+*** TURN *** [7s 2s Ac] [2h]
+Mahu2021: checks 
+tatybp: bets 71
+Mahu2021: calls 71
+*** RIVER *** [7s 2s Ac 2h] [9d]
+Mahu2021: checks 
+tatybp: bets 121
+Mahu2021: calls 121
+*** SHOW DOWN ***
+tatybp: shows [Qc Kc] (a pair of Deuces)
+Mahu2021: shows [As 5s] (two pair, Aces and Deuces)
+Mahu2021 collected 588 from pot
+*** SUMMARY ***
+Total pot 588 | Rake 0 
+Board [7s 2s Ac 2h 9d]
+Seat 1: BAX__101 (button) folded on the Flop
+Seat 2: Mahu2021 (small blind) showed [As 5s] and won (588) with two pair, Aces and Deuces
+Seat 3: tatybp (big blind) showed [Qc Kc] and lost with a pair of Deuces
+
+
+
+PokerStars Hand #251455618871: Tournament #3777132079, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/07/12 21:18:00 CET [2024/07/12 15:18:00 ET]
+Table '3777132079 1' 3-max Seat #2 is the button
+Seat 1: BAX__101 (460 in chips) 
+Seat 2: Mahu2021 (814 in chips) 
+Seat 3: tatybp (226 in chips) 
+tatybp: posts small blind 10
+BAX__101: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Td 5h]
+Mahu2021: folds 
+tatybp: folds 
+Uncalled bet (10) returned to BAX__101
+BAX__101 collected 20 from pot
+BAX__101: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: BAX__101 (big blind) collected (20)
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: tatybp (small blind) folded before Flop
+
+
+
+PokerStars Hand #251455620754: Tournament #3777132079, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/07/12 21:18:06 CET [2024/07/12 15:18:06 ET]
+Table '3777132079 1' 3-max Seat #3 is the button
+Seat 1: BAX__101 (470 in chips) 
+Seat 2: Mahu2021 (814 in chips) 
+Seat 3: tatybp (216 in chips) 
+BAX__101: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d 2s]
+tatybp: calls 20
+BAX__101: calls 10
+Mahu2021: checks 
+*** FLOP *** [9h 8d 2c]
+BAX__101: checks 
+Mahu2021: bets 20
+tatybp: calls 20
+BAX__101: folds 
+*** TURN *** [9h 8d 2c] [6d]
+Mahu2021: checks 
+tatybp: checks 
+*** RIVER *** [9h 8d 2c 6d] [Qh]
+Mahu2021: checks 
+tatybp: bets 35
+Mahu2021: folds 
+Uncalled bet (35) returned to tatybp
+tatybp collected 100 from pot
+tatybp: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [9h 8d 2c 6d Qh]
+Seat 1: BAX__101 (small blind) folded on the Flop
+Seat 2: Mahu2021 (big blind) folded on the River
+Seat 3: tatybp (button) collected (100)
+
+
+
+PokerStars Hand #251455634777: Tournament #3777132079, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/07/12 21:18:48 CET [2024/07/12 15:18:48 ET]
+Table '3777132079 1' 3-max Seat #1 is the button
+Seat 1: BAX__101 (450 in chips) 
+Seat 2: Mahu2021 (774 in chips) 
+Seat 3: tatybp (276 in chips) 
+Mahu2021: posts small blind 10
+tatybp: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d 6h]
+BAX__101: calls 20
+Mahu2021: folds 
+tatybp: checks 
+*** FLOP *** [9s 7s 9c]
+tatybp: bets 20
+BAX__101: calls 20
+*** TURN *** [9s 7s 9c] [As]
+tatybp: bets 236 and is all-in
+BAX__101: calls 236
+*** RIVER *** [9s 7s 9c As] [8c]
+*** SHOW DOWN ***
+tatybp: shows [Ts 9d] (three of a kind, Nines)
+BAX__101: shows [Ks Qs] (a flush, Ace high)
+BAX__101 collected 562 from pot
+tatybp finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 562 | Rake 0 
+Board [9s 7s 9c As 8c]
+Seat 1: BAX__101 (button) showed [Ks Qs] and won (562) with a flush, Ace high
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: tatybp (big blind) showed [Ts 9d] and lost with three of a kind, Nines
+
+
+
+PokerStars Hand #251455648056: Tournament #3777132079, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/07/12 21:19:28 CET [2024/07/12 15:19:28 ET]
+Table '3777132079 1' 3-max Seat #2 is the button
+Seat 1: BAX__101 (736 in chips) 
+Seat 2: Mahu2021 (764 in chips) 
+Mahu2021: posts small blind 15
+BAX__101: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh Th]
+Mahu2021: raises 30 to 60
+BAX__101: calls 30
+*** FLOP *** [3c Qh Js]
+BAX__101: checks 
+Mahu2021: bets 60
+BAX__101: raises 240 to 300
+Mahu2021: calls 240
+*** TURN *** [3c Qh Js] [As]
+BAX__101: bets 376 and is all-in
+Mahu2021: calls 376
+*** RIVER *** [3c Qh Js As] [Tc]
+*** SHOW DOWN ***
+BAX__101: shows [6h Qc] (a pair of Queens)
+Mahu2021: shows [Jh Th] (two pair, Jacks and Tens)
+Mahu2021 collected 1472 from pot
+BAX__101 finished the tournament in 2nd place
+Mahu2021 wins the tournament and receives $4.00 - congratulations!
+*** SUMMARY ***
+Total pot 1472 | Rake 0 
+Board [3c Qh Js As Tc]
+Seat 1: BAX__101 (big blind) showed [6h Qc] and lost with a pair of Queens
+Seat 2: Mahu2021 (button) (small blind) showed [Jh Th] and won (1472) with two pair, Jacks and Tens
+
+
+

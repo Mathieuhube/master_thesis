@@ -1,0 +1,86 @@
+﻿PokerStars Hand #252555167129: Tournament #3803464975, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/09/21 14:19:02 CET [2024/09/21 8:19:02 ET]
+Table '3803464975 1' 3-max Seat #1 is the button
+Seat 1: kauagabriel21 (500 in chips) 
+Seat 2: Vy-Z (500 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+Vy-Z: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s Tc]
+kauagabriel21: folds 
+Vy-Z: calls 10
+Mahu2021: checks 
+*** FLOP *** [5d 7s 6d]
+Vy-Z: checks 
+Mahu2021: checks 
+*** TURN *** [5d 7s 6d] [3d]
+Vy-Z: bets 40
+Mahu2021: calls 40
+*** RIVER *** [5d 7s 6d 3d] [Ad]
+Vy-Z: checks 
+Mahu2021: bets 120
+Vy-Z: raises 180 to 300
+Mahu2021: folds 
+Uncalled bet (180) returned to Vy-Z
+Vy-Z collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [5d 7s 6d 3d Ad]
+Seat 1: kauagabriel21 (button) folded before Flop (didn't bet)
+Seat 2: Vy-Z (small blind) collected (360)
+Seat 3: Mahu2021 (big blind) folded on the River
+
+
+
+PokerStars Hand #252555171675: Tournament #3803464975, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/09/21 14:19:31 CET [2024/09/21 8:19:31 ET]
+Table '3803464975 1' 3-max Seat #2 is the button
+Seat 1: kauagabriel21 (500 in chips) 
+Seat 2: Vy-Z (680 in chips) 
+Seat 3: Mahu2021 (320 in chips) 
+Mahu2021: posts small blind 10
+kauagabriel21: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh 8h]
+Vy-Z: folds 
+Mahu2021: raises 20 to 40
+kauagabriel21: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: kauagabriel21 (big blind) folded before Flop
+Seat 2: Vy-Z (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) collected (40)
+
+
+
+PokerStars Hand #252555172918: Tournament #3803464975, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/09/21 14:19:38 CET [2024/09/21 8:19:38 ET]
+Table '3803464975 1' 3-max Seat #3 is the button
+Seat 1: kauagabriel21 (480 in chips) 
+Seat 2: Vy-Z (680 in chips) 
+Seat 3: Mahu2021 (340 in chips) 
+kauagabriel21: posts small blind 10
+Vy-Z: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks Kd]
+Mahu2021: raises 320 to 340 and is all-in
+kauagabriel21: calls 330
+Vy-Z: folds 
+*** FLOP *** [7s Tc 6h]
+*** TURN *** [7s Tc 6h] [Ac]
+*** RIVER *** [7s Tc 6h Ac] [4s]
+*** SHOW DOWN ***
+kauagabriel21: shows [As 8s] (a pair of Aces)
+Mahu2021: shows [Ks Kd] (a pair of Kings)
+kauagabriel21 collected 700 from pot
+Mahu2021 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 700 | Rake 0 
+Board [7s Tc 6h Ac 4s]
+Seat 1: kauagabriel21 (small blind) showed [As 8s] and won (700) with a pair of Aces
+Seat 2: Vy-Z (big blind) folded before Flop
+Seat 3: Mahu2021 (button) showed [Ks Kd] and lost with a pair of Kings
+
+
+

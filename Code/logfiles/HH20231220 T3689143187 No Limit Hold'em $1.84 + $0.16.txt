@@ -1,0 +1,775 @@
+﻿PokerStars Hand #247772042016: Tournament #3689143187, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/20 21:36:35 CET [2023/12/20 15:36:35 ET]
+Table '3689143187 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: carlo136 (500 in chips) 
+Seat 3: finna lose (500 in chips) 
+carlo136: posts small blind 10
+finna lose: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8c 6h]
+Mahu2021: folds 
+carlo136: raises 20 to 40
+finna lose: raises 20 to 60
+carlo136: calls 20
+*** FLOP *** [9h As Jh]
+carlo136: checks 
+finna lose: bets 80
+carlo136: folds 
+Uncalled bet (80) returned to finna lose
+finna lose collected 120 from pot
+finna lose: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [9h As Jh]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: carlo136 (small blind) folded on the Flop
+Seat 3: finna lose (big blind) collected (120)
+
+
+
+PokerStars Hand #247772048201: Tournament #3689143187, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/20 21:36:53 CET [2023/12/20 15:36:53 ET]
+Table '3689143187 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: carlo136 (440 in chips) 
+Seat 3: finna lose (560 in chips) 
+finna lose: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh 2h]
+carlo136: raises 40 to 60
+finna lose: folds 
+Mahu2021: calls 40
+*** FLOP *** [Tc 4h 3s]
+Mahu2021: checks 
+carlo136: checks 
+*** TURN *** [Tc 4h 3s] [9h]
+Mahu2021: bets 40
+carlo136: raises 80 to 120
+Mahu2021: calls 80
+*** RIVER *** [Tc 4h 3s 9h] [4c]
+Mahu2021: checks 
+carlo136: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [Qh 2h] (a pair of Fours)
+carlo136: mucks hand 
+Mahu2021 collected 370 from pot
+*** SUMMARY ***
+Total pot 370 | Rake 0 
+Board [Tc 4h 3s 9h 4c]
+Seat 1: Mahu2021 (big blind) showed [Qh 2h] and won (370) with a pair of Fours
+Seat 2: carlo136 (button) mucked [8h Jh]
+Seat 3: finna lose (small blind) folded before Flop
+
+
+
+PokerStars Hand #247772058841: Tournament #3689143187, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/20 21:37:23 CET [2023/12/20 15:37:23 ET]
+Table '3689143187 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (690 in chips) 
+Seat 2: carlo136 (260 in chips) 
+Seat 3: finna lose (550 in chips) 
+Mahu2021: posts small blind 10
+carlo136: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c Ks]
+finna lose: calls 20
+Mahu2021: calls 10
+carlo136: raises 20 to 40
+finna lose: calls 20
+Mahu2021: calls 20
+*** FLOP *** [7h 4s 3h]
+Mahu2021: checks 
+carlo136: checks 
+finna lose: checks 
+*** TURN *** [7h 4s 3h] [Kh]
+Mahu2021: bets 20
+carlo136: folds 
+finna lose: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [7h 4s 3h Kh]
+Seat 1: Mahu2021 (small blind) collected (120)
+Seat 2: carlo136 (big blind) folded on the Turn
+Seat 3: finna lose (button) folded on the Turn
+
+
+
+PokerStars Hand #247772068272: Tournament #3689143187, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/20 21:37:50 CET [2023/12/20 15:37:50 ET]
+Table '3689143187 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (770 in chips) 
+Seat 2: carlo136 (220 in chips) 
+Seat 3: finna lose (510 in chips) 
+carlo136: posts small blind 10
+finna lose: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qd Js]
+Mahu2021: raises 20 to 40
+carlo136: calls 30
+finna lose: calls 20
+*** FLOP *** [3h 9d 8c]
+carlo136: checks 
+finna lose: checks 
+Mahu2021: checks 
+*** TURN *** [3h 9d 8c] [Th]
+carlo136: checks 
+finna lose: bets 60
+Mahu2021: calls 60
+carlo136: calls 60
+*** RIVER *** [3h 9d 8c Th] [6h]
+carlo136: bets 120 and is all-in
+finna lose: calls 120
+Mahu2021: calls 120
+*** SHOW DOWN ***
+carlo136: shows [6s Ts] (two pair, Tens and Sixes)
+finna lose: shows [8h 9h] (a flush, Ten high)
+Mahu2021: mucks hand 
+finna lose collected 660 from pot
+carlo136 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 660 | Rake 0 
+Board [3h 9d 8c Th 6h]
+Seat 1: Mahu2021 (button) mucked [Qd Js]
+Seat 2: carlo136 (small blind) showed [6s Ts] and lost with two pair, Tens and Sixes
+Seat 3: finna lose (big blind) showed [8h 9h] and won (660) with a flush, Ten high
+
+
+
+PokerStars Hand #247772083713: Tournament #3689143187, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/20 21:38:34 CET [2023/12/20 15:38:34 ET]
+Table '3689143187 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (550 in chips) 
+Seat 3: finna lose (950 in chips) 
+finna lose: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4c Th]
+finna lose: folds 
+Uncalled bet (10) returned to Mahu2021
+Mahu2021 collected 20 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (20)
+Seat 3: finna lose (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #247772085561: Tournament #3689143187, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/20 21:38:39 CET [2023/12/20 15:38:39 ET]
+Table '3689143187 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (560 in chips) 
+Seat 3: finna lose (940 in chips) 
+Mahu2021: posts small blind 10
+finna lose: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Td 8d]
+Mahu2021: calls 10
+finna lose: checks 
+*** FLOP *** [7s Qd 5c]
+finna lose: checks 
+Mahu2021: bets 20
+finna lose: calls 20
+*** TURN *** [7s Qd 5c] [5d]
+finna lose: bets 20
+Mahu2021: calls 20
+*** RIVER *** [7s Qd 5c 5d] [Jh]
+finna lose: bets 20
+Mahu2021: folds 
+Uncalled bet (20) returned to finna lose
+finna lose collected 120 from pot
+finna lose: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [7s Qd 5c 5d Jh]
+Seat 1: Mahu2021 (button) (small blind) folded on the River
+Seat 3: finna lose (big blind) collected (120)
+
+
+
+PokerStars Hand #247772092823: Tournament #3689143187, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/20 21:39:00 CET [2023/12/20 15:39:00 ET]
+Table '3689143187 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 3: finna lose (1000 in chips) 
+finna lose: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c 7h]
+finna lose: raises 20 to 40
+Mahu2021: raises 460 to 500 and is all-in
+finna lose: calls 460
+*** FLOP *** [Ts Jd 6c]
+*** TURN *** [Ts Jd 6c] [Th]
+*** RIVER *** [Ts Jd 6c Th] [4h]
+*** SHOW DOWN ***
+Mahu2021: shows [7c 7h] (two pair, Tens and Sevens)
+finna lose: shows [Ah 2d] (a pair of Tens)
+Mahu2021 collected 1000 from pot
+*** SUMMARY ***
+Total pot 1000 | Rake 0 
+Board [Ts Jd 6c Th 4h]
+Seat 1: Mahu2021 (big blind) showed [7c 7h] and won (1000) with two pair, Tens and Sevens
+Seat 3: finna lose (button) (small blind) showed [Ah 2d] and lost with a pair of Tens
+
+
+
+PokerStars Hand #247772098354: Tournament #3689143187, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/20 21:39:16 CET [2023/12/20 15:39:16 ET]
+Table '3689143187 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1000 in chips) 
+Seat 3: finna lose (500 in chips) 
+Mahu2021: posts small blind 10
+finna lose: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s Ks]
+Mahu2021: calls 10
+finna lose: checks 
+*** FLOP *** [7h 2c 4d]
+finna lose: checks 
+Mahu2021: checks 
+*** TURN *** [7h 2c 4d] [5d]
+finna lose: bets 20
+Mahu2021: calls 20
+*** RIVER *** [7h 2c 4d 5d] [Qc]
+finna lose: checks 
+Mahu2021: bets 80
+finna lose: folds 
+Uncalled bet (80) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [7h 2c 4d 5d Qc]
+Seat 1: Mahu2021 (button) (small blind) collected (80)
+Seat 3: finna lose (big blind) folded on the River
+
+
+
+PokerStars Hand #247772106902: Tournament #3689143187, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/12/20 21:39:40 CET [2023/12/20 15:39:40 ET]
+Table '3689143187 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (1040 in chips) 
+Seat 3: finna lose (460 in chips) 
+finna lose: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Th Qh]
+finna lose: calls 15
+Mahu2021: checks 
+*** FLOP *** [2h Ts Td]
+Mahu2021: checks 
+finna lose: checks 
+*** TURN *** [2h Ts Td] [Ks]
+Mahu2021: checks 
+finna lose: checks 
+*** RIVER *** [2h Ts Td Ks] [6c]
+Mahu2021: bets 60
+finna lose: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [2h Ts Td Ks 6c]
+Seat 1: Mahu2021 (big blind) collected (60)
+Seat 3: finna lose (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #247772115915: Tournament #3689143187, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/12/20 21:40:06 CET [2023/12/20 15:40:06 ET]
+Table '3689143187 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1070 in chips) 
+Seat 3: finna lose (430 in chips) 
+Mahu2021: posts small blind 15
+finna lose: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh Tc]
+Mahu2021: calls 15
+finna lose: checks 
+*** FLOP *** [8h 8s 6h]
+finna lose: checks 
+Mahu2021: bets 30
+finna lose: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [8h 8s 6h]
+Seat 1: Mahu2021 (button) (small blind) collected (60)
+Seat 3: finna lose (big blind) folded on the Flop
+
+
+
+PokerStars Hand #247772120641: Tournament #3689143187, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/12/20 21:40:20 CET [2023/12/20 15:40:20 ET]
+Table '3689143187 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (1100 in chips) 
+Seat 3: finna lose (400 in chips) 
+finna lose: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4c Ah]
+finna lose: calls 15
+Mahu2021: raises 1070 to 1100 and is all-in
+finna lose: calls 370 and is all-in
+Uncalled bet (700) returned to Mahu2021
+*** FLOP *** [9c 3s 6d]
+*** TURN *** [9c 3s 6d] [4h]
+*** RIVER *** [9c 3s 6d 4h] [8d]
+*** SHOW DOWN ***
+Mahu2021: shows [4c Ah] (a pair of Fours)
+finna lose: shows [7s 7d] (a pair of Sevens)
+finna lose collected 800 from pot
+*** SUMMARY ***
+Total pot 800 | Rake 0 
+Board [9c 3s 6d 4h 8d]
+Seat 1: Mahu2021 (big blind) showed [4c Ah] and lost with a pair of Fours
+Seat 3: finna lose (button) (small blind) showed [7s 7d] and won (800) with a pair of Sevens
+
+
+
+PokerStars Hand #247772125861: Tournament #3689143187, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/12/20 21:40:35 CET [2023/12/20 15:40:35 ET]
+Table '3689143187 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (700 in chips) 
+Seat 3: finna lose (800 in chips) 
+Mahu2021: posts small blind 15
+finna lose: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh 8c]
+Mahu2021: calls 15
+finna lose: checks 
+*** FLOP *** [7c 6h Jc]
+finna lose: checks 
+Mahu2021: bets 30
+finna lose: calls 30
+*** TURN *** [7c 6h Jc] [Ts]
+finna lose: checks 
+Mahu2021: bets 30
+finna lose: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [7c 6h Jc Ts]
+Seat 1: Mahu2021 (button) (small blind) collected (120)
+Seat 3: finna lose (big blind) folded on the Turn
+
+
+
+PokerStars Hand #247772132357: Tournament #3689143187, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/12/20 21:40:54 CET [2023/12/20 15:40:54 ET]
+Table '3689143187 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (760 in chips) 
+Seat 3: finna lose (740 in chips) 
+finna lose: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd 8d]
+finna lose: calls 15
+Mahu2021: checks 
+*** FLOP *** [5h 7d As]
+Mahu2021: checks 
+finna lose: checks 
+*** TURN *** [5h 7d As] [4d]
+Mahu2021: bets 30
+finna lose: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [5h 7d As 4d]
+Seat 1: Mahu2021 (big blind) collected (60)
+Seat 3: finna lose (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #247772138642: Tournament #3689143187, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/12/20 21:41:12 CET [2023/12/20 15:41:12 ET]
+Table '3689143187 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (790 in chips) 
+Seat 3: finna lose (710 in chips) 
+Mahu2021: posts small blind 15
+finna lose: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Td 9s]
+Mahu2021: calls 15
+finna lose: checks 
+*** FLOP *** [2h 3h 8h]
+finna lose: bets 30
+Mahu2021: folds 
+Uncalled bet (30) returned to finna lose
+finna lose collected 60 from pot
+finna lose: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [2h 3h 8h]
+Seat 1: Mahu2021 (button) (small blind) folded on the Flop
+Seat 3: finna lose (big blind) collected (60)
+
+
+
+PokerStars Hand #247772142965: Tournament #3689143187, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/12/20 21:41:24 CET [2023/12/20 15:41:24 ET]
+Table '3689143187 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (760 in chips) 
+Seat 3: finna lose (740 in chips) 
+finna lose: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c Ac]
+finna lose: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (30)
+Seat 3: finna lose (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #247772144579: Tournament #3689143187, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/12/20 21:41:29 CET [2023/12/20 15:41:29 ET]
+Table '3689143187 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (775 in chips) 
+Seat 3: finna lose (725 in chips) 
+Mahu2021: posts small blind 15
+finna lose: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c 6c]
+Mahu2021: calls 15
+finna lose: checks 
+*** FLOP *** [5d 3c Ks]
+finna lose: checks 
+Mahu2021: bets 30
+finna lose: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [5d 3c Ks]
+Seat 1: Mahu2021 (button) (small blind) collected (60)
+Seat 3: finna lose (big blind) folded on the Flop
+
+
+
+PokerStars Hand #247772150768: Tournament #3689143187, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/12/20 21:41:46 CET [2023/12/20 15:41:46 ET]
+Table '3689143187 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (805 in chips) 
+Seat 3: finna lose (695 in chips) 
+finna lose: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8c Qs]
+finna lose: calls 15
+Mahu2021: checks 
+*** FLOP *** [4s Jc Td]
+Mahu2021: checks 
+finna lose: bets 30
+Mahu2021: calls 30
+*** TURN *** [4s Jc Td] [Jh]
+Mahu2021: checks 
+finna lose: bets 30
+Mahu2021: calls 30
+*** RIVER *** [4s Jc Td Jh] [8d]
+Mahu2021: checks 
+finna lose: bets 150
+Mahu2021: folds 
+Uncalled bet (150) returned to finna lose
+finna lose collected 180 from pot
+finna lose: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [4s Jc Td Jh 8d]
+Seat 1: Mahu2021 (big blind) folded on the River
+Seat 3: finna lose (button) (small blind) collected (180)
+
+
+
+PokerStars Hand #247772159009: Tournament #3689143187, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/12/20 21:42:10 CET [2023/12/20 15:42:10 ET]
+Table '3689143187 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (715 in chips) 
+Seat 3: finna lose (785 in chips) 
+Mahu2021: posts small blind 15
+finna lose: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d Qc]
+Mahu2021: calls 15
+finna lose: checks 
+*** FLOP *** [8h Qs Kd]
+finna lose: checks 
+Mahu2021: bets 30
+finna lose: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [8h Qs Kd]
+Seat 1: Mahu2021 (button) (small blind) collected (60)
+Seat 3: finna lose (big blind) folded on the Flop
+
+
+
+PokerStars Hand #247772164447: Tournament #3689143187, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/12/20 21:42:25 CET [2023/12/20 15:42:25 ET]
+Table '3689143187 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (745 in chips) 
+Seat 3: finna lose (755 in chips) 
+finna lose: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d 3s]
+finna lose: calls 15
+Mahu2021: checks 
+*** FLOP *** [Qh Tc As]
+Mahu2021: checks 
+finna lose: checks 
+*** TURN *** [Qh Tc As] [Kh]
+Mahu2021: bets 30
+finna lose: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Qh Tc As Kh]
+Seat 1: Mahu2021 (big blind) collected (60)
+Seat 3: finna lose (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #247772169615: Tournament #3689143187, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/12/20 21:42:40 CET [2023/12/20 15:42:40 ET]
+Table '3689143187 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (775 in chips) 
+Seat 3: finna lose (725 in chips) 
+Mahu2021: posts small blind 20
+finna lose: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c 2s]
+Mahu2021: folds 
+Uncalled bet (20) returned to finna lose
+finna lose collected 40 from pot
+finna lose: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: finna lose (big blind) collected (40)
+
+
+
+PokerStars Hand #247772171095: Tournament #3689143187, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/12/20 21:42:45 CET [2023/12/20 15:42:45 ET]
+Table '3689143187 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (755 in chips) 
+Seat 3: finna lose (745 in chips) 
+finna lose: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c Kh]
+finna lose: calls 20
+Mahu2021: checks 
+*** FLOP *** [Qs Ah 5d]
+Mahu2021: checks 
+finna lose: checks 
+*** TURN *** [Qs Ah 5d] [7s]
+Mahu2021: checks 
+finna lose: bets 40
+Mahu2021: folds 
+Uncalled bet (40) returned to finna lose
+finna lose collected 80 from pot
+finna lose: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Qs Ah 5d 7s]
+Seat 1: Mahu2021 (big blind) folded on the Turn
+Seat 3: finna lose (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #247772177089: Tournament #3689143187, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/12/20 21:43:02 CET [2023/12/20 15:43:02 ET]
+Table '3689143187 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (715 in chips) 
+Seat 3: finna lose (785 in chips) 
+Mahu2021: posts small blind 20
+finna lose: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d Jc]
+Mahu2021: calls 20
+finna lose: checks 
+*** FLOP *** [3d 8c 8h]
+finna lose: checks 
+Mahu2021: bets 40
+finna lose: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [3d 8c 8h]
+Seat 1: Mahu2021 (button) (small blind) collected (80)
+Seat 3: finna lose (big blind) folded on the Flop
+
+
+
+PokerStars Hand #247772181408: Tournament #3689143187, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/12/20 21:43:14 CET [2023/12/20 15:43:14 ET]
+Table '3689143187 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (755 in chips) 
+Seat 3: finna lose (745 in chips) 
+finna lose: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc 7c]
+finna lose: calls 20
+Mahu2021: checks 
+*** FLOP *** [Jh 8s 8d]
+Mahu2021: checks 
+finna lose: checks 
+*** TURN *** [Jh 8s 8d] [4s]
+Mahu2021: checks 
+finna lose: checks 
+*** RIVER *** [Jh 8s 8d 4s] [Ts]
+Mahu2021: checks 
+finna lose: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [Qc 7c] (a pair of Eights)
+finna lose: shows [9s Ac] (a pair of Eights - Ace kicker)
+finna lose collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Jh 8s 8d 4s Ts]
+Seat 1: Mahu2021 (big blind) showed [Qc 7c] and lost with a pair of Eights
+Seat 3: finna lose (button) (small blind) showed [9s Ac] and won (80) with a pair of Eights
+
+
+
+PokerStars Hand #247772185929: Tournament #3689143187, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/12/20 21:43:27 CET [2023/12/20 15:43:27 ET]
+Table '3689143187 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (715 in chips) 
+Seat 3: finna lose (785 in chips) 
+Mahu2021: posts small blind 20
+finna lose: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Th Ks]
+Mahu2021: raises 40 to 80
+finna lose: calls 40
+*** FLOP *** [5h 4s 2h]
+finna lose: bets 40
+Mahu2021: folds 
+Uncalled bet (40) returned to finna lose
+finna lose collected 160 from pot
+finna lose: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [5h 4s 2h]
+Seat 1: Mahu2021 (button) (small blind) folded on the Flop
+Seat 3: finna lose (big blind) collected (160)
+
+
+
+PokerStars Hand #247772189709: Tournament #3689143187, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/12/20 21:43:38 CET [2023/12/20 15:43:38 ET]
+Table '3689143187 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (635 in chips) 
+Seat 3: finna lose (865 in chips) 
+finna lose: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Tc 4h]
+finna lose: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (40)
+Seat 3: finna lose (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #247772191983: Tournament #3689143187, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/12/20 21:43:44 CET [2023/12/20 15:43:44 ET]
+Table '3689143187 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (655 in chips) 
+Seat 3: finna lose (845 in chips) 
+Mahu2021: posts small blind 20
+finna lose: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d 8h]
+Mahu2021: folds 
+Uncalled bet (20) returned to finna lose
+finna lose collected 40 from pot
+finna lose: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: finna lose (big blind) collected (40)
+
+
+
+PokerStars Hand #247772193485: Tournament #3689143187, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/12/20 21:43:49 CET [2023/12/20 15:43:49 ET]
+Table '3689143187 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (635 in chips) 
+Seat 3: finna lose (865 in chips) 
+finna lose: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s 9s]
+finna lose: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (40)
+Seat 3: finna lose (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #247772195146: Tournament #3689143187, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/12/20 21:43:53 CET [2023/12/20 15:43:53 ET]
+Table '3689143187 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (655 in chips) 
+Seat 3: finna lose (845 in chips) 
+Mahu2021: posts small blind 20
+finna lose: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h 4s]
+Mahu2021: calls 20
+finna lose: checks 
+*** FLOP *** [6s 2h Ts]
+finna lose: checks 
+Mahu2021: bets 40
+finna lose: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [6s 2h Ts]
+Seat 1: Mahu2021 (button) (small blind) collected (80)
+Seat 3: finna lose (big blind) folded on the Flop
+
+
+
+PokerStars Hand #247772201495: Tournament #3689143187, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/12/20 21:44:11 CET [2023/12/20 15:44:11 ET]
+Table '3689143187 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (695 in chips) 
+Seat 3: finna lose (805 in chips) 
+finna lose: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h Ac]
+finna lose: calls 20
+Mahu2021: raises 80 to 120
+finna lose: calls 80
+*** FLOP *** [5s 5d 8c]
+Mahu2021: bets 575 and is all-in
+finna lose: calls 575
+*** TURN *** [5s 5d 8c] [5c]
+*** RIVER *** [5s 5d 8c 5c] [Qc]
+*** SHOW DOWN ***
+Mahu2021: shows [8h Ac] (a full house, Fives full of Eights)
+finna lose: shows [8s Qs] (a full house, Fives full of Queens)
+finna lose collected 1390 from pot
+Mahu2021 finished the tournament in 2nd place
+finna lose wins the tournament and receives $6.00 - congratulations!
+*** SUMMARY ***
+Total pot 1390 | Rake 0 
+Board [5s 5d 8c 5c Qc]
+Seat 1: Mahu2021 (big blind) showed [8h Ac] and lost with a full house, Fives full of Eights
+Seat 3: finna lose (button) (small blind) showed [8s Qs] and won (1390) with a full house, Fives full of Queens
+
+
+

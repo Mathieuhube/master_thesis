@@ -1,0 +1,425 @@
+﻿PokerStars Hand #248271867258: Tournament #3701034511, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/14 18:46:28 CET [2024/01/14 12:46:28 ET]
+Table '3701034511 1' 3-max Seat #1 is the button
+Seat 1: Zogarath (500 in chips) 
+Seat 2: TheOrphan29 (500 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+TheOrphan29: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s 3d]
+Zogarath: raises 20 to 40
+TheOrphan29: folds 
+Mahu2021: calls 20
+*** FLOP *** [5s 3s 4d]
+Mahu2021: checks 
+Zogarath: checks 
+*** TURN *** [5s 3s 4d] [As]
+Mahu2021: checks 
+Zogarath: checks 
+*** RIVER *** [5s 3s 4d As] [Qc]
+Mahu2021: bets 40
+Zogarath: calls 40
+*** SHOW DOWN ***
+Mahu2021: shows [4s 3d] (two pair, Fours and Threes)
+Zogarath: mucks hand 
+Mahu2021 collected 170 from pot
+*** SUMMARY ***
+Total pot 170 | Rake 0 
+Board [5s 3s 4d As Qc]
+Seat 1: Zogarath (button) mucked [Jh Qh]
+Seat 2: TheOrphan29 (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) showed [4s 3d] and won (170) with two pair, Fours and Threes
+
+
+
+PokerStars Hand #248271876261: Tournament #3701034511, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/14 18:46:50 CET [2024/01/14 12:46:50 ET]
+Table '3701034511 1' 3-max Seat #2 is the button
+Seat 1: Zogarath (420 in chips) 
+Seat 2: TheOrphan29 (490 in chips) 
+Seat 3: Mahu2021 (590 in chips) 
+Mahu2021: posts small blind 10
+Zogarath: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks 9s]
+TheOrphan29: folds 
+Mahu2021: raises 20 to 40
+Zogarath: calls 20
+*** FLOP *** [Js Ac 5d]
+Mahu2021: checks 
+Zogarath: bets 20
+Mahu2021: folds 
+Uncalled bet (20) returned to Zogarath
+Zogarath collected 80 from pot
+Zogarath: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Js Ac 5d]
+Seat 1: Zogarath (big blind) collected (80)
+Seat 2: TheOrphan29 (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #248271884168: Tournament #3701034511, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/14 18:47:08 CET [2024/01/14 12:47:08 ET]
+Table '3701034511 1' 3-max Seat #3 is the button
+Seat 1: Zogarath (460 in chips) 
+Seat 2: TheOrphan29 (490 in chips) 
+Seat 3: Mahu2021 (550 in chips) 
+Zogarath: posts small blind 10
+TheOrphan29: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad Th]
+Mahu2021: raises 20 to 40
+Zogarath: folds 
+TheOrphan29: raises 450 to 490 and is all-in
+Mahu2021: folds 
+Uncalled bet (450) returned to TheOrphan29
+TheOrphan29 collected 90 from pot
+TheOrphan29: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Seat 1: Zogarath (small blind) folded before Flop
+Seat 2: TheOrphan29 (big blind) collected (90)
+Seat 3: Mahu2021 (button) folded before Flop
+
+
+
+PokerStars Hand #248271891806: Tournament #3701034511, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/14 18:47:26 CET [2024/01/14 12:47:26 ET]
+Table '3701034511 1' 3-max Seat #1 is the button
+Seat 1: Zogarath (450 in chips) 
+Seat 2: TheOrphan29 (540 in chips) 
+Seat 3: Mahu2021 (510 in chips) 
+TheOrphan29: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c Js]
+Zogarath: folds 
+TheOrphan29: calls 10
+Mahu2021: checks 
+*** FLOP *** [6d Jd 2h]
+TheOrphan29: checks 
+Mahu2021: bets 20
+TheOrphan29: calls 20
+*** TURN *** [6d Jd 2h] [Jh]
+TheOrphan29: checks 
+Mahu2021: bets 20
+TheOrphan29: calls 20
+*** RIVER *** [6d Jd 2h Jh] [9s]
+TheOrphan29: checks 
+Mahu2021: bets 40
+TheOrphan29: calls 40
+*** SHOW DOWN ***
+Mahu2021: shows [6c Js] (a full house, Jacks full of Sixes)
+TheOrphan29: mucks hand 
+Mahu2021 collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [6d Jd 2h Jh 9s]
+Seat 1: Zogarath (button) folded before Flop (didn't bet)
+Seat 2: TheOrphan29 (small blind) mucked [As 2d]
+Seat 3: Mahu2021 (big blind) showed [6c Js] and won (200) with a full house, Jacks full of Sixes
+
+
+
+PokerStars Hand #248271902290: Tournament #3701034511, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/14 18:47:51 CET [2024/01/14 12:47:51 ET]
+Table '3701034511 1' 3-max Seat #2 is the button
+Seat 1: Zogarath (450 in chips) 
+Seat 2: TheOrphan29 (440 in chips) 
+Seat 3: Mahu2021 (610 in chips) 
+Mahu2021: posts small blind 10
+Zogarath: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6h 2s]
+TheOrphan29: folds 
+Mahu2021: folds 
+Uncalled bet (10) returned to Zogarath
+Zogarath collected 20 from pot
+Zogarath: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Zogarath (big blind) collected (20)
+Seat 2: TheOrphan29 (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #248271904501: Tournament #3701034511, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/14 18:47:57 CET [2024/01/14 12:47:57 ET]
+Table '3701034511 1' 3-max Seat #3 is the button
+Seat 1: Zogarath (460 in chips) 
+Seat 2: TheOrphan29 (440 in chips) 
+Seat 3: Mahu2021 (600 in chips) 
+Zogarath: posts small blind 10
+TheOrphan29: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c 8s]
+Mahu2021: folds 
+Zogarath: calls 10
+TheOrphan29: checks 
+*** FLOP *** [Ts 5d 9d]
+Zogarath: checks 
+TheOrphan29: checks 
+*** TURN *** [Ts 5d 9d] [8c]
+Zogarath: checks 
+TheOrphan29: bets 20
+Zogarath: folds 
+Uncalled bet (20) returned to TheOrphan29
+TheOrphan29 collected 40 from pot
+TheOrphan29: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Ts 5d 9d 8c]
+Seat 1: Zogarath (small blind) folded on the Turn
+Seat 2: TheOrphan29 (big blind) collected (40)
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #248271911903: Tournament #3701034511, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/14 18:48:14 CET [2024/01/14 12:48:14 ET]
+Table '3701034511 1' 3-max Seat #1 is the button
+Seat 1: Zogarath (440 in chips) 
+Seat 2: TheOrphan29 (460 in chips) 
+Seat 3: Mahu2021 (600 in chips) 
+TheOrphan29: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qd 4s]
+Zogarath: folds 
+TheOrphan29: folds 
+Uncalled bet (10) returned to Mahu2021
+Mahu2021 collected 20 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Zogarath (button) folded before Flop (didn't bet)
+Seat 2: TheOrphan29 (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (20)
+
+
+
+PokerStars Hand #248271914428: Tournament #3701034511, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/14 18:48:20 CET [2024/01/14 12:48:20 ET]
+Table '3701034511 1' 3-max Seat #2 is the button
+Seat 1: Zogarath (440 in chips) 
+Seat 2: TheOrphan29 (450 in chips) 
+Seat 3: Mahu2021 (610 in chips) 
+Mahu2021: posts small blind 10
+Zogarath: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3c 3h]
+TheOrphan29: folds 
+Mahu2021: raises 20 to 40
+Zogarath: calls 20
+*** FLOP *** [8c Ac 7h]
+Mahu2021: bets 40
+Zogarath: calls 40
+*** TURN *** [8c Ac 7h] [8d]
+Mahu2021: checks 
+Zogarath: checks 
+*** RIVER *** [8c Ac 7h 8d] [Th]
+Mahu2021: checks 
+Zogarath: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [3c 3h] (two pair, Eights and Threes)
+Zogarath: shows [Qc 7c] (two pair, Eights and Sevens)
+Zogarath collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [8c Ac 7h 8d Th]
+Seat 1: Zogarath (big blind) showed [Qc 7c] and won (160) with two pair, Eights and Sevens
+Seat 2: TheOrphan29 (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) showed [3c 3h] and lost with two pair, Eights and Threes
+
+
+
+PokerStars Hand #248271922452: Tournament #3701034511, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/14 18:48:39 CET [2024/01/14 12:48:39 ET]
+Table '3701034511 1' 3-max Seat #3 is the button
+Seat 1: Zogarath (520 in chips) 
+Seat 2: TheOrphan29 (450 in chips) 
+Seat 3: Mahu2021 (530 in chips) 
+Zogarath: posts small blind 10
+TheOrphan29: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3c 5c]
+Mahu2021: raises 20 to 40
+Zogarath: folds 
+TheOrphan29: calls 20
+*** FLOP *** [Ad 3s Kc]
+TheOrphan29: checks 
+Mahu2021: checks 
+*** TURN *** [Ad 3s Kc] [5h]
+TheOrphan29: checks 
+Mahu2021: bets 40
+TheOrphan29: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 90 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [Ad 3s Kc 5h]
+Seat 1: Zogarath (small blind) folded before Flop
+Seat 2: TheOrphan29 (big blind) folded on the Turn
+Seat 3: Mahu2021 (button) collected (90)
+
+
+
+PokerStars Hand #248271934606: Tournament #3701034511, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/14 18:49:08 CET [2024/01/14 12:49:08 ET]
+Table '3701034511 1' 3-max Seat #1 is the button
+Seat 1: Zogarath (510 in chips) 
+Seat 2: TheOrphan29 (410 in chips) 
+Seat 3: Mahu2021 (580 in chips) 
+TheOrphan29: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh 6d]
+Zogarath: calls 20
+TheOrphan29: folds 
+Mahu2021: checks 
+*** FLOP *** [4h 9h Ad]
+Mahu2021: checks 
+Zogarath: bets 60
+Mahu2021: folds 
+Uncalled bet (60) returned to Zogarath
+Zogarath collected 50 from pot
+Zogarath: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [4h 9h Ad]
+Seat 1: Zogarath (button) collected (50)
+Seat 2: TheOrphan29 (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #248271940691: Tournament #3701034511, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/14 18:49:23 CET [2024/01/14 12:49:23 ET]
+Table '3701034511 1' 3-max Seat #2 is the button
+Seat 1: Zogarath (540 in chips) 
+Seat 2: TheOrphan29 (400 in chips) 
+Seat 3: Mahu2021 (560 in chips) 
+Mahu2021: posts small blind 10
+Zogarath: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad Th]
+TheOrphan29: folds 
+Mahu2021: raises 20 to 40
+Zogarath: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Zogarath (big blind) folded before Flop
+Seat 2: TheOrphan29 (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) collected (40)
+
+
+
+PokerStars Hand #248271945113: Tournament #3701034511, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/01/14 18:49:34 CET [2024/01/14 12:49:34 ET]
+Table '3701034511 1' 3-max Seat #3 is the button
+Seat 1: Zogarath (520 in chips) 
+Seat 2: TheOrphan29 (400 in chips) 
+Seat 3: Mahu2021 (580 in chips) 
+Zogarath: posts small blind 15
+TheOrphan29: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6h Qh]
+Mahu2021: calls 30
+Zogarath: calls 15
+TheOrphan29: checks 
+*** FLOP *** [8s 3c 5h]
+Zogarath: checks 
+TheOrphan29: checks 
+Mahu2021: checks 
+*** TURN *** [8s 3c 5h] [Ks]
+Zogarath: checks 
+TheOrphan29: checks 
+Mahu2021: checks 
+*** RIVER *** [8s 3c 5h Ks] [6s]
+Zogarath: checks 
+TheOrphan29: bets 60
+Mahu2021: folds 
+Zogarath: folds 
+Uncalled bet (60) returned to TheOrphan29
+TheOrphan29 collected 90 from pot
+TheOrphan29: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [8s 3c 5h Ks 6s]
+Seat 1: Zogarath (small blind) folded on the River
+Seat 2: TheOrphan29 (big blind) collected (90)
+Seat 3: Mahu2021 (button) folded on the River
+
+
+
+PokerStars Hand #248271956128: Tournament #3701034511, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/01/14 18:50:00 CET [2024/01/14 12:50:00 ET]
+Table '3701034511 1' 3-max Seat #1 is the button
+Seat 1: Zogarath (490 in chips) 
+Seat 2: TheOrphan29 (460 in chips) 
+Seat 3: Mahu2021 (550 in chips) 
+TheOrphan29: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qd 2c]
+Zogarath: raises 30 to 60
+TheOrphan29: folds 
+Mahu2021: folds 
+Uncalled bet (30) returned to Zogarath
+Zogarath collected 75 from pot
+Zogarath: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: Zogarath (button) collected (75)
+Seat 2: TheOrphan29 (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #248271959228: Tournament #3701034511, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/01/14 18:50:08 CET [2024/01/14 12:50:08 ET]
+Table '3701034511 1' 3-max Seat #2 is the button
+Seat 1: Zogarath (535 in chips) 
+Seat 2: TheOrphan29 (445 in chips) 
+Seat 3: Mahu2021 (520 in chips) 
+Mahu2021: posts small blind 15
+Zogarath: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc 2h]
+TheOrphan29: folds 
+Mahu2021: folds 
+Uncalled bet (15) returned to Zogarath
+Zogarath collected 30 from pot
+Zogarath: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Zogarath (big blind) collected (30)
+Seat 2: TheOrphan29 (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #248271961833: Tournament #3701034511, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/01/14 18:50:14 CET [2024/01/14 12:50:14 ET]
+Table '3701034511 1' 3-max Seat #3 is the button
+Seat 1: Zogarath (550 in chips) 
+Seat 2: TheOrphan29 (445 in chips) 
+Seat 3: Mahu2021 (505 in chips) 
+Zogarath: posts small blind 15
+TheOrphan29: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh Qc]
+Mahu2021: raises 475 to 505 and is all-in
+Zogarath: calls 490
+TheOrphan29: folds 
+*** FLOP *** [5d 4s Ad]
+*** TURN *** [5d 4s Ad] [6d]
+*** RIVER *** [5d 4s Ad 6d] [9s]
+*** SHOW DOWN ***
+Zogarath: shows [Js As] (a pair of Aces)
+Mahu2021: shows [Qh Qc] (a pair of Queens)
+Zogarath collected 1040 from pot
+Mahu2021 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1040 | Rake 0 
+Board [5d 4s Ad 6d 9s]
+Seat 1: Zogarath (small blind) showed [Js As] and won (1040) with a pair of Aces
+Seat 2: TheOrphan29 (big blind) folded before Flop
+Seat 3: Mahu2021 (button) showed [Qh Qc] and lost with a pair of Queens
+
+
+

@@ -1,0 +1,797 @@
+﻿PokerStars Hand #244357985127: Tournament #3606456051, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/06/19 20:12:28 CET [2023/06/19 14:12:28 ET]
+Table '3606456051 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: chrissy1967 (500 in chips) 
+Seat 3: goinggreyginger (500 in chips) 
+chrissy1967: posts small blind 10
+goinggreyginger: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h 9h]
+Mahu2021: folds 
+chrissy1967: calls 10
+goinggreyginger: checks 
+*** FLOP *** [8c Tc Ts]
+chrissy1967: checks 
+goinggreyginger: bets 20
+chrissy1967: folds 
+Uncalled bet (20) returned to goinggreyginger
+goinggreyginger collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [8c Tc Ts]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: chrissy1967 (small blind) folded on the Flop
+Seat 3: goinggreyginger (big blind) collected (40)
+
+
+
+PokerStars Hand #244357989758: Tournament #3606456051, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/06/19 20:12:43 CET [2023/06/19 14:12:43 ET]
+Table '3606456051 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: chrissy1967 (480 in chips) 
+Seat 3: goinggreyginger (520 in chips) 
+goinggreyginger: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d Js]
+chrissy1967: folds 
+goinggreyginger: calls 10
+Mahu2021: checks 
+*** FLOP *** [2h 9s 5h]
+goinggreyginger: checks 
+Mahu2021: checks 
+*** TURN *** [2h 9s 5h] [9c]
+goinggreyginger: checks 
+Mahu2021: checks 
+*** RIVER *** [2h 9s 5h 9c] [Qd]
+goinggreyginger: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+goinggreyginger: shows [Ks 7c] (a pair of Nines)
+Mahu2021: mucks hand 
+goinggreyginger collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [2h 9s 5h 9c Qd]
+Seat 1: Mahu2021 (big blind) mucked [7d Js]
+Seat 2: chrissy1967 (button) folded before Flop (didn't bet)
+Seat 3: goinggreyginger (small blind) showed [Ks 7c] and won (40) with a pair of Nines
+
+
+
+PokerStars Hand #244357995586: Tournament #3606456051, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/06/19 20:13:02 CET [2023/06/19 14:13:02 ET]
+Table '3606456051 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (480 in chips) 
+Seat 2: chrissy1967 (480 in chips) 
+Seat 3: goinggreyginger (540 in chips) 
+Mahu2021: posts small blind 10
+chrissy1967: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d Td]
+goinggreyginger: folds 
+Mahu2021: raises 20 to 40
+chrissy1967: calls 20
+*** FLOP *** [Qd 7d 6c]
+Mahu2021: checks 
+chrissy1967: checks 
+*** TURN *** [Qd 7d 6c] [2c]
+Mahu2021: checks 
+chrissy1967: checks 
+*** RIVER *** [Qd 7d 6c 2c] [8c]
+Mahu2021: bets 80
+chrissy1967: calls 80
+*** SHOW DOWN ***
+Mahu2021: shows [9d Td] (a straight, Six to Ten)
+chrissy1967: mucks hand 
+Mahu2021 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Qd 7d 6c 2c 8c]
+Seat 1: Mahu2021 (small blind) showed [9d Td] and won (240) with a straight, Six to Ten
+Seat 2: chrissy1967 (big blind) mucked [Ts 8h]
+Seat 3: goinggreyginger (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #244358002150: Tournament #3606456051, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/06/19 20:13:24 CET [2023/06/19 14:13:24 ET]
+Table '3606456051 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (600 in chips) 
+Seat 2: chrissy1967 (360 in chips) 
+Seat 3: goinggreyginger (540 in chips) 
+chrissy1967: posts small blind 10
+goinggreyginger: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh 5c]
+Mahu2021: folds 
+chrissy1967: calls 10
+goinggreyginger: checks 
+*** FLOP *** [5s Td 6c]
+chrissy1967: checks 
+goinggreyginger: bets 20
+chrissy1967: calls 20
+*** TURN *** [5s Td 6c] [9d]
+chrissy1967: bets 20
+goinggreyginger: calls 20
+*** RIVER *** [5s Td 6c 9d] [2h]
+chrissy1967: bets 20
+goinggreyginger: calls 20
+*** SHOW DOWN ***
+chrissy1967: shows [9c 7h] (a pair of Nines)
+goinggreyginger: mucks hand 
+chrissy1967 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [5s Td 6c 9d 2h]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: chrissy1967 (small blind) showed [9c 7h] and won (160) with a pair of Nines
+Seat 3: goinggreyginger (big blind) mucked [Qh 5h]
+
+
+
+PokerStars Hand #244358008066: Tournament #3606456051, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/06/19 20:13:43 CET [2023/06/19 14:13:43 ET]
+Table '3606456051 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (600 in chips) 
+Seat 2: chrissy1967 (440 in chips) 
+Seat 3: goinggreyginger (460 in chips) 
+goinggreyginger: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c Js]
+chrissy1967: calls 20
+goinggreyginger: calls 10
+Mahu2021: checks 
+*** FLOP *** [4h 8d Tc]
+goinggreyginger: checks 
+Mahu2021: checks 
+chrissy1967: checks 
+*** TURN *** [4h 8d Tc] [Kc]
+goinggreyginger: checks 
+Mahu2021: checks 
+chrissy1967: bets 40
+goinggreyginger: folds 
+Mahu2021: folds 
+Uncalled bet (40) returned to chrissy1967
+chrissy1967 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [4h 8d Tc Kc]
+Seat 1: Mahu2021 (big blind) folded on the Turn
+Seat 2: chrissy1967 (button) collected (60)
+Seat 3: goinggreyginger (small blind) folded on the Turn
+
+
+
+PokerStars Hand #244358013995: Tournament #3606456051, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/06/19 20:14:03 CET [2023/06/19 14:14:03 ET]
+Table '3606456051 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (580 in chips) 
+Seat 2: chrissy1967 (480 in chips) 
+Seat 3: goinggreyginger (440 in chips) 
+Mahu2021: posts small blind 10
+chrissy1967: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s Js]
+goinggreyginger: calls 20
+Mahu2021: calls 10
+chrissy1967: checks 
+*** FLOP *** [Qd 3s 2h]
+Mahu2021: checks 
+chrissy1967: checks 
+goinggreyginger: checks 
+*** TURN *** [Qd 3s 2h] [3h]
+Mahu2021: checks 
+chrissy1967: checks 
+goinggreyginger: bets 20
+Mahu2021: folds 
+chrissy1967: folds 
+Uncalled bet (20) returned to goinggreyginger
+goinggreyginger collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Qd 3s 2h 3h]
+Seat 1: Mahu2021 (small blind) folded on the Turn
+Seat 2: chrissy1967 (big blind) folded on the Turn
+Seat 3: goinggreyginger (button) collected (60)
+
+
+
+PokerStars Hand #244358025833: Tournament #3606456051, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/06/19 20:14:42 CET [2023/06/19 14:14:42 ET]
+Table '3606456051 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (560 in chips) 
+Seat 2: chrissy1967 (460 in chips) 
+Seat 3: goinggreyginger (480 in chips) 
+chrissy1967: posts small blind 15
+goinggreyginger: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8d 6d]
+Mahu2021: folds 
+chrissy1967: raises 30 to 60
+goinggreyginger: calls 30
+*** FLOP *** [4d Kh 3h]
+chrissy1967: checks 
+goinggreyginger: bets 30
+chrissy1967: calls 30
+*** TURN *** [4d Kh 3h] [5c]
+chrissy1967: checks 
+goinggreyginger: bets 60
+chrissy1967: folds 
+Uncalled bet (60) returned to goinggreyginger
+goinggreyginger collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [4d Kh 3h 5c]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: chrissy1967 (small blind) folded on the Turn
+Seat 3: goinggreyginger (big blind) collected (180)
+
+
+
+PokerStars Hand #244358031856: Tournament #3606456051, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/06/19 20:15:02 CET [2023/06/19 14:15:02 ET]
+Table '3606456051 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (560 in chips) 
+Seat 2: chrissy1967 (370 in chips) 
+Seat 3: goinggreyginger (570 in chips) 
+goinggreyginger: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh 7d]
+chrissy1967: raises 30 to 60
+goinggreyginger: folds 
+Mahu2021: calls 30
+*** FLOP *** [9h 2d Qd]
+Mahu2021: checks 
+chrissy1967: bets 60
+Mahu2021: folds 
+Uncalled bet (60) returned to chrissy1967
+chrissy1967 collected 135 from pot
+*** SUMMARY ***
+Total pot 135 | Rake 0 
+Board [9h 2d Qd]
+Seat 1: Mahu2021 (big blind) folded on the Flop
+Seat 2: chrissy1967 (button) collected (135)
+Seat 3: goinggreyginger (small blind) folded before Flop
+
+
+
+PokerStars Hand #244358035951: Tournament #3606456051, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/06/19 20:15:15 CET [2023/06/19 14:15:15 ET]
+Table '3606456051 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: chrissy1967 (445 in chips) 
+Seat 3: goinggreyginger (555 in chips) 
+Mahu2021: posts small blind 15
+chrissy1967: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh Th]
+goinggreyginger: folds 
+Mahu2021: raises 30 to 60
+chrissy1967: raises 385 to 445 and is all-in
+Mahu2021: folds 
+Uncalled bet (385) returned to chrissy1967
+chrissy1967 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: chrissy1967 (big blind) collected (120)
+Seat 3: goinggreyginger (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #244358040412: Tournament #3606456051, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/06/19 20:15:29 CET [2023/06/19 14:15:29 ET]
+Table '3606456051 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (440 in chips) 
+Seat 2: chrissy1967 (505 in chips) 
+Seat 3: goinggreyginger (555 in chips) 
+chrissy1967: posts small blind 15
+goinggreyginger: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d 4d]
+Mahu2021: calls 30
+chrissy1967: calls 15
+goinggreyginger: checks 
+*** FLOP *** [Ks 7s 2c]
+chrissy1967: checks 
+goinggreyginger: checks 
+Mahu2021: checks 
+*** TURN *** [Ks 7s 2c] [Th]
+chrissy1967: checks 
+goinggreyginger: checks 
+Mahu2021: checks 
+*** RIVER *** [Ks 7s 2c Th] [Ac]
+chrissy1967: checks 
+goinggreyginger: bets 30
+Mahu2021: folds 
+chrissy1967: folds 
+Uncalled bet (30) returned to goinggreyginger
+goinggreyginger collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [Ks 7s 2c Th Ac]
+Seat 1: Mahu2021 (button) folded on the River
+Seat 2: chrissy1967 (small blind) folded on the River
+Seat 3: goinggreyginger (big blind) collected (90)
+
+
+
+PokerStars Hand #244358046252: Tournament #3606456051, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/06/19 20:15:48 CET [2023/06/19 14:15:48 ET]
+Table '3606456051 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (410 in chips) 
+Seat 2: chrissy1967 (475 in chips) 
+Seat 3: goinggreyginger (615 in chips) 
+goinggreyginger: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Tc 8s]
+chrissy1967: calls 30
+goinggreyginger: folds 
+Mahu2021: checks 
+*** FLOP *** [4h Qh Th]
+Mahu2021: checks 
+chrissy1967: checks 
+*** TURN *** [4h Qh Th] [Qc]
+Mahu2021: bets 30
+chrissy1967: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 75 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Board [4h Qh Th Qc]
+Seat 1: Mahu2021 (big blind) collected (75)
+Seat 2: chrissy1967 (button) folded on the Turn
+Seat 3: goinggreyginger (small blind) folded before Flop
+
+
+
+PokerStars Hand #244358050908: Tournament #3606456051, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/06/19 20:16:04 CET [2023/06/19 14:16:04 ET]
+Table '3606456051 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (455 in chips) 
+Seat 2: chrissy1967 (445 in chips) 
+Seat 3: goinggreyginger (600 in chips) 
+Mahu2021: posts small blind 15
+chrissy1967: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s 6c]
+goinggreyginger: calls 30
+Mahu2021: folds 
+chrissy1967: checks 
+*** FLOP *** [5c 6h Tc]
+chrissy1967: bets 30
+goinggreyginger: folds 
+Uncalled bet (30) returned to chrissy1967
+chrissy1967 collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Board [5c 6h Tc]
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: chrissy1967 (big blind) collected (75)
+Seat 3: goinggreyginger (button) folded on the Flop
+
+
+
+PokerStars Hand #244358056117: Tournament #3606456051, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/06/19 20:16:21 CET [2023/06/19 14:16:21 ET]
+Table '3606456051 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (440 in chips) 
+Seat 2: chrissy1967 (490 in chips) 
+Seat 3: goinggreyginger (570 in chips) 
+chrissy1967: posts small blind 15
+goinggreyginger: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8d 3c]
+Mahu2021: folds 
+chrissy1967: calls 15
+goinggreyginger: checks 
+*** FLOP *** [Ks 4c 9s]
+chrissy1967: checks 
+goinggreyginger: checks 
+*** TURN *** [Ks 4c 9s] [6s]
+chrissy1967: checks 
+goinggreyginger: checks 
+*** RIVER *** [Ks 4c 9s 6s] [7s]
+chrissy1967: checks 
+goinggreyginger: checks 
+*** SHOW DOWN ***
+chrissy1967: shows [6h Qd] (a pair of Sixes)
+goinggreyginger: mucks hand 
+chrissy1967 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Ks 4c 9s 6s 7s]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: chrissy1967 (small blind) showed [6h Qd] and won (60) with a pair of Sixes
+Seat 3: goinggreyginger (big blind) mucked [Ah 5d]
+
+
+
+PokerStars Hand #244358062950: Tournament #3606456051, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/06/19 20:16:44 CET [2023/06/19 14:16:44 ET]
+Table '3606456051 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (440 in chips) 
+Seat 2: chrissy1967 (520 in chips) 
+Seat 3: goinggreyginger (540 in chips) 
+goinggreyginger: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh 2d]
+chrissy1967: calls 40
+goinggreyginger: folds 
+Mahu2021: checks 
+*** FLOP *** [6c 9h 8c]
+Mahu2021: checks 
+chrissy1967: bets 40
+Mahu2021: folds 
+Uncalled bet (40) returned to chrissy1967
+chrissy1967 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [6c 9h 8c]
+Seat 1: Mahu2021 (big blind) folded on the Flop
+Seat 2: chrissy1967 (button) collected (100)
+Seat 3: goinggreyginger (small blind) folded before Flop
+
+
+
+PokerStars Hand #244358066544: Tournament #3606456051, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/06/19 20:16:56 CET [2023/06/19 14:16:56 ET]
+Table '3606456051 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (400 in chips) 
+Seat 2: chrissy1967 (580 in chips) 
+Seat 3: goinggreyginger (520 in chips) 
+Mahu2021: posts small blind 20
+chrissy1967: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Td 5d]
+goinggreyginger: folds 
+Mahu2021: calls 20
+chrissy1967: checks 
+*** FLOP *** [7h 4s 3h]
+Mahu2021: checks 
+chrissy1967: checks 
+*** TURN *** [7h 4s 3h] [8c]
+Mahu2021: checks 
+chrissy1967: checks 
+*** RIVER *** [7h 4s 3h 8c] [Tc]
+Mahu2021: bets 80
+chrissy1967: folds 
+Uncalled bet (80) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [7h 4s 3h 8c Tc]
+Seat 1: Mahu2021 (small blind) collected (80)
+Seat 2: chrissy1967 (big blind) folded on the River
+Seat 3: goinggreyginger (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #244358071290: Tournament #3606456051, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/06/19 20:17:11 CET [2023/06/19 14:17:11 ET]
+Table '3606456051 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (440 in chips) 
+Seat 2: chrissy1967 (540 in chips) 
+Seat 3: goinggreyginger (520 in chips) 
+chrissy1967: posts small blind 20
+goinggreyginger: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks Kc]
+Mahu2021: raises 400 to 440 and is all-in
+chrissy1967: folds 
+goinggreyginger: folds 
+Uncalled bet (400) returned to Mahu2021
+Mahu2021 collected 100 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: Mahu2021 (button) collected (100)
+Seat 2: chrissy1967 (small blind) folded before Flop
+Seat 3: goinggreyginger (big blind) folded before Flop
+
+
+
+PokerStars Hand #244358073739: Tournament #3606456051, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/06/19 20:17:19 CET [2023/06/19 14:17:19 ET]
+Table '3606456051 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: chrissy1967 (520 in chips) 
+Seat 3: goinggreyginger (480 in chips) 
+goinggreyginger: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad 3s]
+chrissy1967: folds 
+goinggreyginger: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (40)
+Seat 2: chrissy1967 (button) folded before Flop (didn't bet)
+Seat 3: goinggreyginger (small blind) folded before Flop
+
+
+
+PokerStars Hand #244358075378: Tournament #3606456051, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/06/19 20:17:24 CET [2023/06/19 14:17:24 ET]
+Table '3606456051 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (520 in chips) 
+Seat 2: chrissy1967 (520 in chips) 
+Seat 3: goinggreyginger (460 in chips) 
+Mahu2021: posts small blind 20
+chrissy1967: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2s 5c]
+goinggreyginger: folds 
+Mahu2021: folds 
+Uncalled bet (20) returned to chrissy1967
+chrissy1967 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: chrissy1967 (big blind) collected (40)
+Seat 3: goinggreyginger (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #244358077254: Tournament #3606456051, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/06/19 20:17:31 CET [2023/06/19 14:17:31 ET]
+Table '3606456051 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: chrissy1967 (540 in chips) 
+Seat 3: goinggreyginger (460 in chips) 
+chrissy1967: posts small blind 20
+goinggreyginger: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc 8h]
+Mahu2021: folds 
+chrissy1967: calls 20
+goinggreyginger: checks 
+*** FLOP *** [2c Ac 8c]
+chrissy1967: checks 
+goinggreyginger: bets 40
+chrissy1967: folds 
+Uncalled bet (40) returned to goinggreyginger
+goinggreyginger collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [2c Ac 8c]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: chrissy1967 (small blind) folded on the Flop
+Seat 3: goinggreyginger (big blind) collected (80)
+
+
+
+PokerStars Hand #244358080712: Tournament #3606456051, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/06/19 20:17:42 CET [2023/06/19 14:17:42 ET]
+Table '3606456051 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: chrissy1967 (500 in chips) 
+Seat 3: goinggreyginger (500 in chips) 
+goinggreyginger: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4d 8c]
+chrissy1967: calls 40
+goinggreyginger: calls 20
+Mahu2021: checks 
+*** FLOP *** [As Ad 9s]
+goinggreyginger: checks 
+Mahu2021: checks 
+chrissy1967: checks 
+*** TURN *** [As Ad 9s] [3s]
+goinggreyginger: checks 
+Mahu2021: checks 
+chrissy1967: checks 
+*** RIVER *** [As Ad 9s 3s] [2d]
+goinggreyginger: bets 120
+Mahu2021: folds 
+chrissy1967: folds 
+Uncalled bet (120) returned to goinggreyginger
+goinggreyginger collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [As Ad 9s 3s 2d]
+Seat 1: Mahu2021 (big blind) folded on the River
+Seat 2: chrissy1967 (button) folded on the River
+Seat 3: goinggreyginger (small blind) collected (120)
+
+
+
+PokerStars Hand #244358086004: Tournament #3606456051, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/06/19 20:18:00 CET [2023/06/19 14:18:00 ET]
+Table '3606456051 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (460 in chips) 
+Seat 2: chrissy1967 (460 in chips) 
+Seat 3: goinggreyginger (580 in chips) 
+Mahu2021: posts small blind 20
+chrissy1967: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d Jh]
+goinggreyginger: folds 
+Mahu2021: folds 
+Uncalled bet (20) returned to chrissy1967
+chrissy1967 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: chrissy1967 (big blind) collected (40)
+Seat 3: goinggreyginger (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #244358087523: Tournament #3606456051, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/06/19 20:18:05 CET [2023/06/19 14:18:05 ET]
+Table '3606456051 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (440 in chips) 
+Seat 2: chrissy1967 (480 in chips) 
+Seat 3: goinggreyginger (580 in chips) 
+chrissy1967: posts small blind 20
+goinggreyginger: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5h Kc]
+Mahu2021: folds 
+chrissy1967: calls 20
+goinggreyginger: checks 
+*** FLOP *** [Qc 8c 6c]
+chrissy1967: checks 
+goinggreyginger: checks 
+*** TURN *** [Qc 8c 6c] [2d]
+chrissy1967: checks 
+goinggreyginger: checks 
+*** RIVER *** [Qc 8c 6c 2d] [5d]
+chrissy1967: checks 
+goinggreyginger: bets 40
+chrissy1967: folds 
+Uncalled bet (40) returned to goinggreyginger
+goinggreyginger collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Qc 8c 6c 2d 5d]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: chrissy1967 (small blind) folded on the River
+Seat 3: goinggreyginger (big blind) collected (80)
+
+
+
+PokerStars Hand #244358092325: Tournament #3606456051, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/06/19 20:18:21 CET [2023/06/19 14:18:21 ET]
+Table '3606456051 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (440 in chips) 
+Seat 2: chrissy1967 (440 in chips) 
+Seat 3: goinggreyginger (620 in chips) 
+goinggreyginger: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4c 6h]
+chrissy1967: raises 400 to 440 and is all-in
+goinggreyginger: folds 
+Mahu2021: folds 
+Uncalled bet (400) returned to chrissy1967
+chrissy1967 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: chrissy1967 (button) collected (100)
+Seat 3: goinggreyginger (small blind) folded before Flop
+
+
+
+PokerStars Hand #244358094684: Tournament #3606456051, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/06/19 20:18:29 CET [2023/06/19 14:18:29 ET]
+Table '3606456051 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (400 in chips) 
+Seat 2: chrissy1967 (500 in chips) 
+Seat 3: goinggreyginger (600 in chips) 
+Mahu2021: posts small blind 20
+chrissy1967: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8c Td]
+goinggreyginger: folds 
+Mahu2021: folds 
+Uncalled bet (20) returned to chrissy1967
+chrissy1967 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: chrissy1967 (big blind) collected (40)
+Seat 3: goinggreyginger (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #244358097005: Tournament #3606456051, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/06/19 20:18:36 CET [2023/06/19 14:18:36 ET]
+Table '3606456051 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (380 in chips) 
+Seat 2: chrissy1967 (520 in chips) 
+Seat 3: goinggreyginger (600 in chips) 
+chrissy1967: posts small blind 30
+goinggreyginger: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s 6c]
+Mahu2021: folds 
+chrissy1967: calls 30
+goinggreyginger: checks 
+*** FLOP *** [8h Ah 7h]
+chrissy1967: bets 60
+goinggreyginger: folds 
+Uncalled bet (60) returned to chrissy1967
+chrissy1967 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [8h Ah 7h]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: chrissy1967 (small blind) collected (120)
+Seat 3: goinggreyginger (big blind) folded on the Flop
+
+
+
+PokerStars Hand #244358100481: Tournament #3606456051, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/06/19 20:18:48 CET [2023/06/19 14:18:48 ET]
+Table '3606456051 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (380 in chips) 
+Seat 2: chrissy1967 (580 in chips) 
+Seat 3: goinggreyginger (540 in chips) 
+goinggreyginger: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js 5d]
+chrissy1967: folds 
+goinggreyginger: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (60)
+Seat 2: chrissy1967 (button) folded before Flop (didn't bet)
+Seat 3: goinggreyginger (small blind) folded before Flop
+
+
+
+PokerStars Hand #244358102097: Tournament #3606456051, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/06/19 20:18:53 CET [2023/06/19 14:18:53 ET]
+Table '3606456051 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (410 in chips) 
+Seat 2: chrissy1967 (580 in chips) 
+Seat 3: goinggreyginger (510 in chips) 
+Mahu2021: posts small blind 30
+chrissy1967: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As Kc]
+goinggreyginger: folds 
+Mahu2021: raises 350 to 410 and is all-in
+chrissy1967: folds 
+Uncalled bet (350) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: Mahu2021 (small blind) collected (120)
+Seat 2: chrissy1967 (big blind) folded before Flop
+Seat 3: goinggreyginger (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #244358104480: Tournament #3606456051, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/06/19 20:19:01 CET [2023/06/19 14:19:01 ET]
+Table '3606456051 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (470 in chips) 
+Seat 2: chrissy1967 (520 in chips) 
+Seat 3: goinggreyginger (510 in chips) 
+chrissy1967: posts small blind 30
+goinggreyginger: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8c Ac]
+Mahu2021: raises 60 to 120
+chrissy1967: calls 90
+goinggreyginger: calls 60
+*** FLOP *** [6s 9c 4d]
+chrissy1967: checks 
+goinggreyginger: bets 60
+Mahu2021: calls 60
+chrissy1967: calls 60
+*** TURN *** [6s 9c 4d] [7c]
+chrissy1967: checks 
+goinggreyginger: bets 120
+Mahu2021: raises 170 to 290 and is all-in
+chrissy1967: folds 
+goinggreyginger: calls 170
+*** RIVER *** [6s 9c 4d 7c] [4s]
+*** SHOW DOWN ***
+goinggreyginger: shows [6c Qc] (two pair, Sixes and Fours)
+Mahu2021: shows [8c Ac] (a pair of Fours)
+goinggreyginger collected 1120 from pot
+Mahu2021 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1120 | Rake 0 
+Board [6s 9c 4d 7c 4s]
+Seat 1: Mahu2021 (button) showed [8c Ac] and lost with a pair of Fours
+Seat 2: chrissy1967 (small blind) folded on the Turn
+Seat 3: goinggreyginger (big blind) showed [6c Qc] and won (1120) with two pair, Sixes and Fours
+
+
+

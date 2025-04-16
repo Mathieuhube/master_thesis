@@ -1,0 +1,1175 @@
+﻿PokerStars Hand #248205968182: Tournament #3699442387, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/11 17:33:16 CET [2024/01/11 11:33:16 ET]
+Table '3699442387 1' 3-max Seat #1 is the button
+Seat 1: aspenappliance (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: Andersonlll (500 in chips) 
+Mahu2021: posts small blind 10
+Andersonlll: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h Kc]
+aspenappliance: calls 20
+Mahu2021: folds 
+Andersonlll: checks 
+*** FLOP *** [Ts 2c 6s]
+Andersonlll: checks 
+aspenappliance: checks 
+*** TURN *** [Ts 2c 6s] [3h]
+Andersonlll: checks 
+aspenappliance: bets 70
+Andersonlll: folds 
+Uncalled bet (70) returned to aspenappliance
+aspenappliance collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [Ts 2c 6s 3h]
+Seat 1: aspenappliance (button) collected (50)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: Andersonlll (big blind) folded on the Turn
+
+
+
+PokerStars Hand #248205978018: Tournament #3699442387, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/11 17:33:50 CET [2024/01/11 11:33:50 ET]
+Table '3699442387 1' 3-max Seat #2 is the button
+Seat 1: aspenappliance (530 in chips) 
+Seat 2: Mahu2021 (490 in chips) 
+Seat 3: Andersonlll (480 in chips) 
+Andersonlll: posts small blind 10
+aspenappliance: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3c 2s]
+Mahu2021: folds 
+Andersonlll: folds 
+Uncalled bet (10) returned to aspenappliance
+aspenappliance collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: aspenappliance (big blind) collected (20)
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: Andersonlll (small blind) folded before Flop
+
+
+
+PokerStars Hand #248205980447: Tournament #3699442387, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/11 17:33:58 CET [2024/01/11 11:33:58 ET]
+Table '3699442387 1' 3-max Seat #3 is the button
+Seat 1: aspenappliance (540 in chips) 
+Seat 2: Mahu2021 (490 in chips) 
+Seat 3: Andersonlll (470 in chips) 
+aspenappliance: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d Qs]
+Andersonlll: calls 20
+aspenappliance: calls 10
+Mahu2021: checks 
+*** FLOP *** [2d 9d Ac]
+aspenappliance: checks 
+Mahu2021: checks 
+Andersonlll: checks 
+*** TURN *** [2d 9d Ac] [9s]
+aspenappliance: checks 
+Mahu2021: checks 
+Andersonlll: checks 
+*** RIVER *** [2d 9d Ac 9s] [Jc]
+aspenappliance: checks 
+Mahu2021: checks 
+Andersonlll: checks 
+*** SHOW DOWN ***
+aspenappliance: shows [Qc Th] (a pair of Nines)
+Mahu2021: shows [5d Qs] (a pair of Nines)
+Andersonlll: shows [Jh 7h] (two pair, Jacks and Nines)
+Andersonlll collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [2d 9d Ac 9s Jc]
+Seat 1: aspenappliance (small blind) showed [Qc Th] and lost with a pair of Nines
+Seat 2: Mahu2021 (big blind) showed [5d Qs] and lost with a pair of Nines
+Seat 3: Andersonlll (button) showed [Jh 7h] and won (60) with two pair, Jacks and Nines
+
+
+
+PokerStars Hand #248205991525: Tournament #3699442387, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/11 17:34:37 CET [2024/01/11 11:34:37 ET]
+Table '3699442387 1' 3-max Seat #1 is the button
+Seat 1: aspenappliance (520 in chips) 
+Seat 2: Mahu2021 (470 in chips) 
+Seat 3: Andersonlll (510 in chips) 
+Mahu2021: posts small blind 10
+Andersonlll: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad Tc]
+aspenappliance: calls 20
+Mahu2021: calls 10
+Andersonlll: checks 
+*** FLOP *** [2s Qs Ah]
+Mahu2021: bets 20
+Andersonlll: folds 
+aspenappliance: calls 20
+*** TURN *** [2s Qs Ah] [8s]
+Mahu2021: checks 
+aspenappliance: checks 
+*** RIVER *** [2s Qs Ah 8s] [As]
+Mahu2021: checks 
+aspenappliance: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [Ad Tc] (three of a kind, Aces)
+aspenappliance: mucks hand 
+Mahu2021 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [2s Qs Ah 8s As]
+Seat 1: aspenappliance (button) mucked [7c 7d]
+Seat 2: Mahu2021 (small blind) showed [Ad Tc] and won (100) with three of a kind, Aces
+Seat 3: Andersonlll (big blind) folded on the Flop
+
+
+
+PokerStars Hand #248205999095: Tournament #3699442387, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/11 17:35:03 CET [2024/01/11 11:35:03 ET]
+Table '3699442387 1' 3-max Seat #2 is the button
+Seat 1: aspenappliance (480 in chips) 
+Seat 2: Mahu2021 (530 in chips) 
+Seat 3: Andersonlll (490 in chips) 
+Andersonlll: posts small blind 10
+aspenappliance: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc 7c]
+Mahu2021: calls 20
+Andersonlll: calls 10
+aspenappliance: checks 
+*** FLOP *** [4c Qs 6c]
+Andersonlll: checks 
+aspenappliance: checks 
+Mahu2021: bets 20
+Andersonlll: folds 
+aspenappliance: calls 20
+*** TURN *** [4c Qs 6c] [Tc]
+aspenappliance: checks 
+Mahu2021: bets 40
+aspenappliance: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 100 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [4c Qs 6c Tc]
+Seat 1: aspenappliance (big blind) folded on the Turn
+Seat 2: Mahu2021 (button) collected (100)
+Seat 3: Andersonlll (small blind) folded on the Flop
+
+
+
+PokerStars Hand #248206010431: Tournament #3699442387, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/11 17:35:42 CET [2024/01/11 11:35:42 ET]
+Table '3699442387 1' 3-max Seat #3 is the button
+Seat 1: aspenappliance (440 in chips) 
+Seat 2: Mahu2021 (590 in chips) 
+Seat 3: Andersonlll (470 in chips) 
+aspenappliance: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d 6c]
+Andersonlll: folds 
+aspenappliance: calls 10
+Mahu2021: checks 
+*** FLOP *** [2s 3s Qc]
+aspenappliance: bets 20
+Mahu2021: folds 
+Uncalled bet (20) returned to aspenappliance
+aspenappliance collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [2s 3s Qc]
+Seat 1: aspenappliance (small blind) collected (40)
+Seat 2: Mahu2021 (big blind) folded on the Flop
+Seat 3: Andersonlll (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #248206013819: Tournament #3699442387, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/11 17:35:53 CET [2024/01/11 11:35:53 ET]
+Table '3699442387 1' 3-max Seat #1 is the button
+Seat 1: aspenappliance (460 in chips) 
+Seat 2: Mahu2021 (570 in chips) 
+Seat 3: Andersonlll (470 in chips) 
+Mahu2021: posts small blind 10
+Andersonlll: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8c 7s]
+aspenappliance: calls 20
+Mahu2021: calls 10
+Andersonlll: checks 
+*** FLOP *** [Kc 6d 4d]
+Mahu2021: checks 
+Andersonlll: checks 
+aspenappliance: checks 
+*** TURN *** [Kc 6d 4d] [7c]
+Mahu2021: bets 20
+Andersonlll: folds 
+aspenappliance: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Kc 6d 4d 7c]
+Seat 1: aspenappliance (button) folded on the Turn
+Seat 2: Mahu2021 (small blind) collected (60)
+Seat 3: Andersonlll (big blind) folded on the Turn
+
+
+
+PokerStars Hand #248206019159: Tournament #3699442387, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/11 17:36:12 CET [2024/01/11 11:36:12 ET]
+Table '3699442387 1' 3-max Seat #2 is the button
+Seat 1: aspenappliance (440 in chips) 
+Seat 2: Mahu2021 (610 in chips) 
+Seat 3: Andersonlll (450 in chips) 
+Andersonlll: posts small blind 10
+aspenappliance: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc 9c]
+Mahu2021: calls 20
+Andersonlll: calls 10
+aspenappliance: checks 
+*** FLOP *** [3c Kd 3s]
+Andersonlll: checks 
+aspenappliance: checks 
+Mahu2021: checks 
+*** TURN *** [3c Kd 3s] [Ts]
+Andersonlll: checks 
+aspenappliance: checks 
+Mahu2021: checks 
+*** RIVER *** [3c Kd 3s Ts] [Tc]
+Andersonlll: checks 
+aspenappliance: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+Andersonlll: shows [6h 9s] (two pair, Tens and Threes)
+aspenappliance: shows [5c 6s] (two pair, Tens and Threes)
+Mahu2021: shows [Qc 9c] (two pair, Tens and Threes)
+Andersonlll collected 20 from pot
+aspenappliance collected 20 from pot
+Mahu2021 collected 20 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [3c Kd 3s Ts Tc]
+Seat 1: aspenappliance (big blind) showed [5c 6s] and won (20) with two pair, Tens and Threes
+Seat 2: Mahu2021 (button) showed [Qc 9c] and won (20) with two pair, Tens and Threes
+Seat 3: Andersonlll (small blind) showed [6h 9s] and won (20) with two pair, Tens and Threes
+
+
+
+PokerStars Hand #248206024062: Tournament #3699442387, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/11 17:36:29 CET [2024/01/11 11:36:29 ET]
+Table '3699442387 1' 3-max Seat #3 is the button
+Seat 1: aspenappliance (440 in chips) 
+Seat 2: Mahu2021 (610 in chips) 
+Seat 3: Andersonlll (450 in chips) 
+aspenappliance: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc 8h]
+Andersonlll: raises 20 to 40
+aspenappliance: folds 
+Mahu2021: folds 
+Uncalled bet (20) returned to Andersonlll
+Andersonlll collected 50 from pot
+Andersonlll: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: aspenappliance (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: Andersonlll (button) collected (50)
+
+
+
+PokerStars Hand #248206026930: Tournament #3699442387, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/11 17:36:39 CET [2024/01/11 11:36:39 ET]
+Table '3699442387 1' 3-max Seat #1 is the button
+Seat 1: aspenappliance (430 in chips) 
+Seat 2: Mahu2021 (590 in chips) 
+Seat 3: Andersonlll (480 in chips) 
+Mahu2021: posts small blind 10
+Andersonlll: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2c Ac]
+aspenappliance: folds 
+Mahu2021: calls 10
+Andersonlll: raises 60 to 80
+Mahu2021: folds 
+Uncalled bet (60) returned to Andersonlll
+Andersonlll collected 40 from pot
+Andersonlll: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: aspenappliance (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: Andersonlll (big blind) collected (40)
+
+
+
+PokerStars Hand #248206029473: Tournament #3699442387, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/11 17:36:48 CET [2024/01/11 11:36:48 ET]
+Table '3699442387 1' 3-max Seat #2 is the button
+Seat 1: aspenappliance (430 in chips) 
+Seat 2: Mahu2021 (570 in chips) 
+Seat 3: Andersonlll (500 in chips) 
+Andersonlll: posts small blind 10
+aspenappliance: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c 3c]
+Mahu2021: folds 
+Andersonlll: calls 10
+aspenappliance: checks 
+*** FLOP *** [Js 8d 2s]
+Andersonlll: checks 
+aspenappliance: checks 
+*** TURN *** [Js 8d 2s] [Ac]
+Andersonlll: checks 
+aspenappliance: checks 
+*** RIVER *** [Js 8d 2s Ac] [8s]
+Andersonlll: checks 
+aspenappliance: checks 
+*** SHOW DOWN ***
+Andersonlll: shows [Qc 4c] (a pair of Eights)
+aspenappliance: mucks hand 
+Andersonlll collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Js 8d 2s Ac 8s]
+Seat 1: aspenappliance (big blind) mucked [6s Tc]
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: Andersonlll (small blind) showed [Qc 4c] and won (40) with a pair of Eights
+
+
+
+PokerStars Hand #248206033967: Tournament #3699442387, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/11 17:37:03 CET [2024/01/11 11:37:03 ET]
+Table '3699442387 1' 3-max Seat #3 is the button
+Seat 1: aspenappliance (410 in chips) 
+Seat 2: Mahu2021 (570 in chips) 
+Seat 3: Andersonlll (520 in chips) 
+aspenappliance: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h 7h]
+Andersonlll: folds 
+aspenappliance: folds 
+Uncalled bet (10) returned to Mahu2021
+Mahu2021 collected 20 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: aspenappliance (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (20)
+Seat 3: Andersonlll (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #248206035596: Tournament #3699442387, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/11 17:37:08 CET [2024/01/11 11:37:08 ET]
+Table '3699442387 1' 3-max Seat #1 is the button
+Seat 1: aspenappliance (400 in chips) 
+Seat 2: Mahu2021 (580 in chips) 
+Seat 3: Andersonlll (520 in chips) 
+Mahu2021: posts small blind 10
+Andersonlll: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d 9h]
+aspenappliance: folds 
+Mahu2021: folds 
+Uncalled bet (10) returned to Andersonlll
+Andersonlll collected 20 from pot
+Andersonlll: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: aspenappliance (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: Andersonlll (big blind) collected (20)
+
+
+
+PokerStars Hand #248206036890: Tournament #3699442387, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/11 17:37:13 CET [2024/01/11 11:37:13 ET]
+Table '3699442387 1' 3-max Seat #2 is the button
+Seat 1: aspenappliance (400 in chips) 
+Seat 2: Mahu2021 (570 in chips) 
+Seat 3: Andersonlll (530 in chips) 
+Andersonlll: posts small blind 10
+aspenappliance: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8c Th]
+Mahu2021: folds 
+Andersonlll: raises 20 to 40
+aspenappliance: calls 20
+*** FLOP *** [3s Ah 4c]
+Andersonlll: bets 40
+aspenappliance: folds 
+Uncalled bet (40) returned to Andersonlll
+Andersonlll collected 80 from pot
+Andersonlll: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [3s Ah 4c]
+Seat 1: aspenappliance (big blind) folded on the Flop
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: Andersonlll (small blind) collected (80)
+
+
+
+PokerStars Hand #248206041028: Tournament #3699442387, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/01/11 17:37:27 CET [2024/01/11 11:37:27 ET]
+Table '3699442387 1' 3-max Seat #3 is the button
+Seat 1: aspenappliance (360 in chips) 
+Seat 2: Mahu2021 (570 in chips) 
+Seat 3: Andersonlll (570 in chips) 
+aspenappliance: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h 6s]
+Andersonlll: raises 30 to 60
+aspenappliance: calls 45
+Mahu2021: folds 
+*** FLOP *** [6h 4d Jc]
+aspenappliance: checks 
+Andersonlll: bets 60
+aspenappliance: folds 
+Uncalled bet (60) returned to Andersonlll
+Andersonlll collected 150 from pot
+Andersonlll: doesn't show hand 
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Board [6h 4d Jc]
+Seat 1: aspenappliance (small blind) folded on the Flop
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: Andersonlll (button) collected (150)
+
+
+
+PokerStars Hand #248206045224: Tournament #3699442387, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/01/11 17:37:41 CET [2024/01/11 11:37:41 ET]
+Table '3699442387 1' 3-max Seat #1 is the button
+Seat 1: aspenappliance (300 in chips) 
+Seat 2: Mahu2021 (540 in chips) 
+Seat 3: Andersonlll (660 in chips) 
+Mahu2021: posts small blind 15
+Andersonlll: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah Qs]
+aspenappliance: calls 30
+Mahu2021: raises 60 to 90
+Andersonlll: folds 
+aspenappliance: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 90 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Seat 1: aspenappliance (button) folded before Flop
+Seat 2: Mahu2021 (small blind) collected (90)
+Seat 3: Andersonlll (big blind) folded before Flop
+
+
+
+PokerStars Hand #248206049066: Tournament #3699442387, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/01/11 17:37:54 CET [2024/01/11 11:37:54 ET]
+Table '3699442387 1' 3-max Seat #2 is the button
+Seat 1: aspenappliance (270 in chips) 
+Seat 2: Mahu2021 (600 in chips) 
+Seat 3: Andersonlll (630 in chips) 
+Andersonlll: posts small blind 15
+aspenappliance: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d 7s]
+Mahu2021: calls 30
+Andersonlll: calls 15
+aspenappliance: checks 
+*** FLOP *** [Jh Jd 6d]
+Andersonlll: checks 
+aspenappliance: checks 
+Mahu2021: bets 30
+Andersonlll: folds 
+aspenappliance: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 90 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [Jh Jd 6d]
+Seat 1: aspenappliance (big blind) folded on the Flop
+Seat 2: Mahu2021 (button) collected (90)
+Seat 3: Andersonlll (small blind) folded on the Flop
+
+
+
+PokerStars Hand #248206054841: Tournament #3699442387, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/01/11 17:38:14 CET [2024/01/11 11:38:14 ET]
+Table '3699442387 1' 3-max Seat #3 is the button
+Seat 1: aspenappliance (240 in chips) 
+Seat 2: Mahu2021 (660 in chips) 
+Seat 3: Andersonlll (600 in chips) 
+aspenappliance: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s Kd]
+Andersonlll: folds 
+aspenappliance: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: aspenappliance (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (30)
+Seat 3: Andersonlll (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #248206056358: Tournament #3699442387, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/01/11 17:38:19 CET [2024/01/11 11:38:19 ET]
+Table '3699442387 1' 3-max Seat #1 is the button
+Seat 1: aspenappliance (225 in chips) 
+Seat 2: Mahu2021 (675 in chips) 
+Seat 3: Andersonlll (600 in chips) 
+Mahu2021: posts small blind 15
+Andersonlll: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qd 6c]
+aspenappliance: calls 30
+Mahu2021: folds 
+Andersonlll: checks 
+*** FLOP *** [Ts 3d Ad]
+Andersonlll: checks 
+aspenappliance: checks 
+*** TURN *** [Ts 3d Ad] [Kh]
+Andersonlll: bets 30
+aspenappliance: raises 135 to 165
+Andersonlll: folds [2h Ks]
+Uncalled bet (135) returned to aspenappliance
+aspenappliance collected 135 from pot
+*** SUMMARY ***
+Total pot 135 | Rake 0 
+Board [Ts 3d Ad Kh]
+Seat 1: aspenappliance (button) collected (135)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: Andersonlll (big blind) folded on the Turn
+
+
+
+PokerStars Hand #248206064155: Tournament #3699442387, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/01/11 17:38:46 CET [2024/01/11 11:38:46 ET]
+Table '3699442387 1' 3-max Seat #2 is the button
+Seat 1: aspenappliance (300 in chips) 
+Seat 2: Mahu2021 (660 in chips) 
+Seat 3: Andersonlll (540 in chips) 
+Andersonlll: posts small blind 15
+aspenappliance: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh Js]
+Mahu2021: calls 30
+Andersonlll: calls 15
+aspenappliance: checks 
+*** FLOP *** [2d Ad Ah]
+Andersonlll: checks 
+aspenappliance: checks 
+Mahu2021: bets 30
+Andersonlll: folds 
+aspenappliance: calls 30
+*** TURN *** [2d Ad Ah] [8c]
+aspenappliance: checks 
+Mahu2021: checks 
+*** RIVER *** [2d Ad Ah 8c] [3s]
+aspenappliance: bets 150
+Mahu2021: folds 
+Uncalled bet (150) returned to aspenappliance
+aspenappliance collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Board [2d Ad Ah 8c 3s]
+Seat 1: aspenappliance (big blind) collected (150)
+Seat 2: Mahu2021 (button) folded on the River
+Seat 3: Andersonlll (small blind) folded on the Flop
+
+
+
+PokerStars Hand #248206071638: Tournament #3699442387, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/01/11 17:39:12 CET [2024/01/11 11:39:12 ET]
+Table '3699442387 1' 3-max Seat #3 is the button
+Seat 1: aspenappliance (390 in chips) 
+Seat 2: Mahu2021 (600 in chips) 
+Seat 3: Andersonlll (510 in chips) 
+aspenappliance: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3c 9h]
+Andersonlll: raises 30 to 60
+aspenappliance: folds 
+Mahu2021: folds 
+Uncalled bet (30) returned to Andersonlll
+Andersonlll collected 75 from pot
+Andersonlll: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: aspenappliance (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: Andersonlll (button) collected (75)
+
+
+
+PokerStars Hand #248206073852: Tournament #3699442387, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/01/11 17:39:19 CET [2024/01/11 11:39:19 ET]
+Table '3699442387 1' 3-max Seat #1 is the button
+Seat 1: aspenappliance (375 in chips) 
+Seat 2: Mahu2021 (570 in chips) 
+Seat 3: Andersonlll (555 in chips) 
+Mahu2021: posts small blind 15
+Andersonlll: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad 6c]
+aspenappliance: folds 
+Mahu2021: calls 15
+Andersonlll: raises 60 to 90
+Mahu2021: folds 
+Uncalled bet (60) returned to Andersonlll
+Andersonlll collected 60 from pot
+Andersonlll: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: aspenappliance (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: Andersonlll (big blind) collected (60)
+
+
+
+PokerStars Hand #248206076405: Tournament #3699442387, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/01/11 17:39:28 CET [2024/01/11 11:39:28 ET]
+Table '3699442387 1' 3-max Seat #2 is the button
+Seat 1: aspenappliance (375 in chips) 
+Seat 2: Mahu2021 (540 in chips) 
+Seat 3: Andersonlll (585 in chips) 
+Andersonlll: posts small blind 15
+aspenappliance: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h 6c]
+Mahu2021: folds 
+Andersonlll: raises 555 to 585 and is all-in
+aspenappliance: folds 
+Uncalled bet (555) returned to Andersonlll
+Andersonlll collected 60 from pot
+Andersonlll: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: aspenappliance (big blind) folded before Flop
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: Andersonlll (small blind) collected (60)
+
+
+
+PokerStars Hand #248206078729: Tournament #3699442387, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/01/11 17:39:36 CET [2024/01/11 11:39:36 ET]
+Table '3699442387 1' 3-max Seat #3 is the button
+Seat 1: aspenappliance (345 in chips) 
+Seat 2: Mahu2021 (540 in chips) 
+Seat 3: Andersonlll (615 in chips) 
+aspenappliance: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad Td]
+Andersonlll: raises 30 to 60
+aspenappliance: folds 
+Mahu2021: calls 30
+*** FLOP *** [3s 8h 4c]
+Mahu2021: checks 
+Andersonlll: checks 
+*** TURN *** [3s 8h 4c] [Qd]
+Mahu2021: checks 
+Andersonlll: bets 60
+Mahu2021: folds 
+Uncalled bet (60) returned to Andersonlll
+Andersonlll collected 135 from pot
+Andersonlll: doesn't show hand 
+*** SUMMARY ***
+Total pot 135 | Rake 0 
+Board [3s 8h 4c Qd]
+Seat 1: aspenappliance (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) folded on the Turn
+Seat 3: Andersonlll (button) collected (135)
+
+
+
+PokerStars Hand #248206084053: Tournament #3699442387, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/01/11 17:39:54 CET [2024/01/11 11:39:54 ET]
+Table '3699442387 1' 3-max Seat #1 is the button
+Seat 1: aspenappliance (330 in chips) 
+Seat 2: Mahu2021 (480 in chips) 
+Seat 3: Andersonlll (690 in chips) 
+Mahu2021: posts small blind 15
+Andersonlll: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d 4h]
+aspenappliance: folds 
+Mahu2021: calls 15
+Andersonlll: checks 
+*** FLOP *** [2c Jd 9s]
+Mahu2021: checks 
+Andersonlll: checks 
+*** TURN *** [2c Jd 9s] [2d]
+Mahu2021: checks 
+Andersonlll: bets 30
+Mahu2021: folds 
+Uncalled bet (30) returned to Andersonlll
+Andersonlll collected 60 from pot
+Andersonlll: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [2c Jd 9s 2d]
+Seat 1: aspenappliance (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) folded on the Turn
+Seat 3: Andersonlll (big blind) collected (60)
+
+
+
+PokerStars Hand #248206087927: Tournament #3699442387, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/01/11 17:40:08 CET [2024/01/11 11:40:08 ET]
+Table '3699442387 1' 3-max Seat #2 is the button
+Seat 1: aspenappliance (330 in chips) 
+Seat 2: Mahu2021 (450 in chips) 
+Seat 3: Andersonlll (720 in chips) 
+Andersonlll: posts small blind 15
+aspenappliance: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qs Qh]
+Mahu2021: raises 420 to 450 and is all-in
+Andersonlll: folds 
+aspenappliance: folds 
+Uncalled bet (420) returned to Mahu2021
+Mahu2021 collected 75 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: aspenappliance (big blind) folded before Flop
+Seat 2: Mahu2021 (button) collected (75)
+Seat 3: Andersonlll (small blind) folded before Flop
+
+
+
+PokerStars Hand #248206090038: Tournament #3699442387, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/01/11 17:40:15 CET [2024/01/11 11:40:15 ET]
+Table '3699442387 1' 3-max Seat #3 is the button
+Seat 1: aspenappliance (300 in chips) 
+Seat 2: Mahu2021 (495 in chips) 
+Seat 3: Andersonlll (705 in chips) 
+aspenappliance: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kc 7d]
+Andersonlll: raises 30 to 60
+aspenappliance: folds 
+Mahu2021: calls 30
+*** FLOP *** [4d Js Jd]
+Mahu2021: checks 
+Andersonlll: bets 645 and is all-in
+Mahu2021: folds 
+Uncalled bet (645) returned to Andersonlll
+Andersonlll collected 135 from pot
+Andersonlll: doesn't show hand 
+*** SUMMARY ***
+Total pot 135 | Rake 0 
+Board [4d Js Jd]
+Seat 1: aspenappliance (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) folded on the Flop
+Seat 3: Andersonlll (button) collected (135)
+
+
+
+PokerStars Hand #248206093509: Tournament #3699442387, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/01/11 17:40:27 CET [2024/01/11 11:40:27 ET]
+Table '3699442387 1' 3-max Seat #1 is the button
+Seat 1: aspenappliance (285 in chips) 
+Seat 2: Mahu2021 (435 in chips) 
+Seat 3: Andersonlll (780 in chips) 
+Mahu2021: posts small blind 15
+Andersonlll: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5h 2s]
+aspenappliance: folds 
+Mahu2021: folds 
+Uncalled bet (15) returned to Andersonlll
+Andersonlll collected 30 from pot
+Andersonlll: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: aspenappliance (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: Andersonlll (big blind) collected (30)
+
+
+
+PokerStars Hand #248206095527: Tournament #3699442387, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/01/11 17:40:34 CET [2024/01/11 11:40:34 ET]
+Table '3699442387 1' 3-max Seat #2 is the button
+Seat 1: aspenappliance (285 in chips) 
+Seat 2: Mahu2021 (420 in chips) 
+Seat 3: Andersonlll (795 in chips) 
+Andersonlll: posts small blind 15
+aspenappliance: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d Td]
+Mahu2021: folds 
+Andersonlll: calls 15
+aspenappliance: checks 
+*** FLOP *** [3s 5s 9h]
+Andersonlll: checks 
+aspenappliance: checks 
+*** TURN *** [3s 5s 9h] [8h]
+Andersonlll: checks 
+aspenappliance: checks 
+*** RIVER *** [3s 5s 9h 8h] [4d]
+Andersonlll: checks 
+aspenappliance: checks 
+*** SHOW DOWN ***
+Andersonlll: shows [7d Qd] (high card Queen)
+aspenappliance: shows [6c Ac] (high card Ace)
+aspenappliance collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [3s 5s 9h 8h 4d]
+Seat 1: aspenappliance (big blind) showed [6c Ac] and won (60) with high card Ace
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: Andersonlll (small blind) showed [7d Qd] and lost with high card Queen
+
+
+
+PokerStars Hand #248206099716: Tournament #3699442387, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/01/11 17:40:48 CET [2024/01/11 11:40:48 ET]
+Table '3699442387 1' 3-max Seat #3 is the button
+Seat 1: aspenappliance (315 in chips) 
+Seat 2: Mahu2021 (420 in chips) 
+Seat 3: Andersonlll (765 in chips) 
+aspenappliance: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Th 5s]
+Andersonlll: raises 30 to 60
+aspenappliance: folds 
+Mahu2021: folds 
+Uncalled bet (30) returned to Andersonlll
+Andersonlll collected 75 from pot
+Andersonlll: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: aspenappliance (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: Andersonlll (button) collected (75)
+
+
+
+PokerStars Hand #248206101699: Tournament #3699442387, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/01/11 17:40:55 CET [2024/01/11 11:40:55 ET]
+Table '3699442387 1' 3-max Seat #1 is the button
+Seat 1: aspenappliance (300 in chips) 
+Seat 2: Mahu2021 (390 in chips) 
+Seat 3: Andersonlll (810 in chips) 
+Mahu2021: posts small blind 15
+Andersonlll: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As 5d]
+aspenappliance: calls 30
+Mahu2021: calls 15
+Andersonlll: checks 
+*** FLOP *** [6h 6c 4h]
+Mahu2021: checks 
+Andersonlll: checks 
+aspenappliance: checks 
+*** TURN *** [6h 6c 4h] [Kd]
+Mahu2021: checks 
+Andersonlll: bets 30
+aspenappliance: folds 
+Mahu2021: folds 
+Uncalled bet (30) returned to Andersonlll
+Andersonlll collected 90 from pot
+Andersonlll: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [6h 6c 4h Kd]
+Seat 1: aspenappliance (button) folded on the Turn
+Seat 2: Mahu2021 (small blind) folded on the Turn
+Seat 3: Andersonlll (big blind) collected (90)
+
+
+
+PokerStars Hand #248206105813: Tournament #3699442387, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/01/11 17:41:09 CET [2024/01/11 11:41:09 ET]
+Table '3699442387 1' 3-max Seat #2 is the button
+Seat 1: aspenappliance (270 in chips) 
+Seat 2: Mahu2021 (360 in chips) 
+Seat 3: Andersonlll (870 in chips) 
+Andersonlll: posts small blind 15
+aspenappliance: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d 9c]
+Mahu2021: folds 
+Andersonlll: folds 
+Uncalled bet (15) returned to aspenappliance
+aspenappliance collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: aspenappliance (big blind) collected (30)
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: Andersonlll (small blind) folded before Flop
+
+
+
+PokerStars Hand #248206107499: Tournament #3699442387, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/01/11 17:41:15 CET [2024/01/11 11:41:15 ET]
+Table '3699442387 1' 3-max Seat #3 is the button
+Seat 1: aspenappliance (285 in chips) 
+Seat 2: Mahu2021 (360 in chips) 
+Seat 3: Andersonlll (855 in chips) 
+aspenappliance: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4d 8h]
+Andersonlll: folds 
+aspenappliance: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: aspenappliance (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (30)
+Seat 3: Andersonlll (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #248206109756: Tournament #3699442387, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/01/11 17:41:22 CET [2024/01/11 11:41:22 ET]
+Table '3699442387 1' 3-max Seat #1 is the button
+Seat 1: aspenappliance (270 in chips) 
+Seat 2: Mahu2021 (375 in chips) 
+Seat 3: Andersonlll (855 in chips) 
+Mahu2021: posts small blind 20
+Andersonlll: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c 7c]
+aspenappliance: folds 
+Mahu2021: calls 20
+Andersonlll: raises 815 to 855 and is all-in
+Mahu2021: folds 
+Uncalled bet (815) returned to Andersonlll
+Andersonlll collected 80 from pot
+Andersonlll: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: aspenappliance (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: Andersonlll (big blind) collected (80)
+
+
+
+PokerStars Hand #248206112232: Tournament #3699442387, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/01/11 17:41:31 CET [2024/01/11 11:41:31 ET]
+Table '3699442387 1' 3-max Seat #2 is the button
+Seat 1: aspenappliance (270 in chips) 
+Seat 2: Mahu2021 (335 in chips) 
+Seat 3: Andersonlll (895 in chips) 
+Andersonlll: posts small blind 20
+aspenappliance: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d 7d]
+Mahu2021: folds 
+Andersonlll: raises 855 to 895 and is all-in
+aspenappliance: folds 
+Uncalled bet (855) returned to Andersonlll
+Andersonlll collected 80 from pot
+Andersonlll: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: aspenappliance (big blind) folded before Flop
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: Andersonlll (small blind) collected (80)
+
+
+
+PokerStars Hand #248206114473: Tournament #3699442387, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/01/11 17:41:39 CET [2024/01/11 11:41:39 ET]
+Table '3699442387 1' 3-max Seat #3 is the button
+Seat 1: aspenappliance (230 in chips) 
+Seat 2: Mahu2021 (335 in chips) 
+Seat 3: Andersonlll (935 in chips) 
+aspenappliance: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s Tc]
+Andersonlll: folds 
+aspenappliance: calls 20
+Mahu2021: checks 
+*** FLOP *** [9c 4d Qh]
+aspenappliance: checks 
+Mahu2021: bets 40
+aspenappliance: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [9c 4d Qh]
+Seat 1: aspenappliance (small blind) folded on the Flop
+Seat 2: Mahu2021 (big blind) collected (80)
+Seat 3: Andersonlll (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #248206118100: Tournament #3699442387, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/01/11 17:41:51 CET [2024/01/11 11:41:51 ET]
+Table '3699442387 1' 3-max Seat #1 is the button
+Seat 1: aspenappliance (190 in chips) 
+Seat 2: Mahu2021 (375 in chips) 
+Seat 3: Andersonlll (935 in chips) 
+Mahu2021: posts small blind 20
+Andersonlll: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s Th]
+aspenappliance: raises 150 to 190 and is all-in
+Mahu2021: folds 
+Andersonlll: folds 
+Uncalled bet (150) returned to aspenappliance
+aspenappliance collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: aspenappliance (button) collected (100)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: Andersonlll (big blind) folded before Flop
+
+
+
+PokerStars Hand #248206120784: Tournament #3699442387, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/01/11 17:42:00 CET [2024/01/11 11:42:00 ET]
+Table '3699442387 1' 3-max Seat #2 is the button
+Seat 1: aspenappliance (250 in chips) 
+Seat 2: Mahu2021 (355 in chips) 
+Seat 3: Andersonlll (895 in chips) 
+Andersonlll: posts small blind 20
+aspenappliance: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s 8c]
+Mahu2021: folds 
+Andersonlll: calls 20
+aspenappliance: checks 
+*** FLOP *** [7s Ks As]
+Andersonlll: checks 
+aspenappliance: checks 
+*** TURN *** [7s Ks As] [Qh]
+Andersonlll: bets 40
+aspenappliance: folds 
+Uncalled bet (40) returned to Andersonlll
+Andersonlll collected 80 from pot
+Andersonlll: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [7s Ks As Qh]
+Seat 1: aspenappliance (big blind) folded on the Turn
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: Andersonlll (small blind) collected (80)
+
+
+
+PokerStars Hand #248206126656: Tournament #3699442387, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/01/11 17:42:20 CET [2024/01/11 11:42:20 ET]
+Table '3699442387 1' 3-max Seat #3 is the button
+Seat 1: aspenappliance (210 in chips) 
+Seat 2: Mahu2021 (355 in chips) 
+Seat 3: Andersonlll (935 in chips) 
+aspenappliance: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6h 8s]
+Andersonlll: folds 
+aspenappliance: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: aspenappliance (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (40)
+Seat 3: Andersonlll (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #248206128040: Tournament #3699442387, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/01/11 17:42:24 CET [2024/01/11 11:42:24 ET]
+Table '3699442387 1' 3-max Seat #1 is the button
+Seat 1: aspenappliance (190 in chips) 
+Seat 2: Mahu2021 (375 in chips) 
+Seat 3: Andersonlll (935 in chips) 
+Mahu2021: posts small blind 20
+Andersonlll: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c 3h]
+aspenappliance: raises 40 to 80
+Mahu2021: folds 
+Andersonlll: calls 40
+*** FLOP *** [9s Qc 5h]
+Andersonlll: checks 
+aspenappliance: bets 110 and is all-in
+Andersonlll: calls 110
+*** TURN *** [9s Qc 5h] [Jc]
+*** RIVER *** [9s Qc 5h Jc] [Kd]
+*** SHOW DOWN ***
+Andersonlll: shows [Qs 8c] (a pair of Queens)
+aspenappliance: shows [9d Ac] (a pair of Nines)
+Andersonlll collected 400 from pot
+aspenappliance finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Board [9s Qc 5h Jc Kd]
+Seat 1: aspenappliance (button) showed [9d Ac] and lost with a pair of Nines
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: Andersonlll (big blind) showed [Qs 8c] and won (400) with a pair of Queens
+
+
+
+PokerStars Hand #248206133911: Tournament #3699442387, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/01/11 17:42:45 CET [2024/01/11 11:42:45 ET]
+Table '3699442387 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (355 in chips) 
+Seat 3: Andersonlll (1145 in chips) 
+Andersonlll: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s 4h]
+Andersonlll: raises 40 to 80
+Mahu2021: folds 
+Uncalled bet (40) returned to Andersonlll
+Andersonlll collected 80 from pot
+Andersonlll: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: Andersonlll (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #248206136161: Tournament #3699442387, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/01/11 17:42:52 CET [2024/01/11 11:42:52 ET]
+Table '3699442387 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (315 in chips) 
+Seat 3: Andersonlll (1185 in chips) 
+Mahu2021: posts small blind 20
+Andersonlll: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h 2h]
+Mahu2021: calls 20
+Andersonlll: checks 
+*** FLOP *** [6h 3d Jc]
+Andersonlll: checks 
+Mahu2021: bets 40
+Andersonlll: calls 40
+*** TURN *** [6h 3d Jc] [Ks]
+Andersonlll: checks 
+Mahu2021: checks 
+*** RIVER *** [6h 3d Jc Ks] [9d]
+Andersonlll: bets 240
+Mahu2021: folds 
+Uncalled bet (240) returned to Andersonlll
+Andersonlll collected 160 from pot
+Andersonlll: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [6h 3d Jc Ks 9d]
+Seat 2: Mahu2021 (button) (small blind) folded on the River
+Seat 3: Andersonlll (big blind) collected (160)
+
+
+
+PokerStars Hand #248206142757: Tournament #3699442387, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/01/11 17:43:15 CET [2024/01/11 11:43:15 ET]
+Table '3699442387 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (235 in chips) 
+Seat 3: Andersonlll (1265 in chips) 
+Andersonlll: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Th Qh]
+Andersonlll: raises 1225 to 1265 and is all-in
+Mahu2021: calls 195 and is all-in
+Uncalled bet (1030) returned to Andersonlll
+*** FLOP *** [2d 3d 4h]
+*** TURN *** [2d 3d 4h] [3s]
+*** RIVER *** [2d 3d 4h 3s] [7c]
+*** SHOW DOWN ***
+Mahu2021: shows [Th Qh] (a pair of Threes)
+Andersonlll: shows [6c 6d] (two pair, Sixes and Threes)
+Andersonlll collected 470 from pot
+Mahu2021 finished the tournament in 2nd place and received $4.00.
+Andersonlll wins the tournament and receives $16.00 - congratulations!
+*** SUMMARY ***
+Total pot 470 | Rake 0 
+Board [2d 3d 4h 3s 7c]
+Seat 2: Mahu2021 (big blind) showed [Th Qh] and lost with a pair of Threes
+Seat 3: Andersonlll (button) (small blind) showed [6c 6d] and won (470) with two pair, Sixes and Threes
+
+
+

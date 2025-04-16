@@ -1,0 +1,214 @@
+﻿PokerStars Hand #245728662971: Tournament #3639452625, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/09/02 15:04:47 CET [2023/09/02 9:04:47 ET]
+Table '3639452625 1' 3-max Seat #1 is the button
+Seat 1: Robw611 (500 in chips) 
+Seat 2: 59rudy59 (500 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+59rudy59: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s 6h]
+Robw611: raises 20 to 40
+59rudy59: calls 30
+Mahu2021: calls 20
+*** FLOP *** [4d 4s 4c]
+59rudy59: checks 
+Mahu2021: checks 
+Robw611: bets 60
+59rudy59: folds 
+Mahu2021: folds 
+Uncalled bet (60) returned to Robw611
+Robw611 collected 120 from pot
+Robw611: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [4d 4s 4c]
+Seat 1: Robw611 (button) collected (120)
+Seat 2: 59rudy59 (small blind) folded on the Flop
+Seat 3: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #245728667080: Tournament #3639452625, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/09/02 15:05:06 CET [2023/09/02 9:05:06 ET]
+Table '3639452625 1' 3-max Seat #2 is the button
+Seat 1: Robw611 (580 in chips) 
+Seat 2: 59rudy59 (460 in chips) 
+Seat 3: Mahu2021 (460 in chips) 
+Mahu2021: posts small blind 10
+Robw611: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d Qd]
+59rudy59: calls 20
+Mahu2021: calls 10
+Robw611: checks 
+*** FLOP *** [4s 6c 3h]
+Mahu2021: checks 
+Robw611: checks 
+59rudy59: checks 
+*** TURN *** [4s 6c 3h] [Ad]
+Mahu2021: checks 
+Robw611: checks 
+59rudy59: checks 
+*** RIVER *** [4s 6c 3h Ad] [6h]
+Mahu2021: checks 
+Robw611: bets 60
+59rudy59: calls 60
+Mahu2021: folds 
+*** SHOW DOWN ***
+Robw611: shows [9c Tc] (a pair of Sixes)
+59rudy59: shows [8h Kc] (a pair of Sixes - Ace+King kicker)
+59rudy59 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [4s 6c 3h Ad 6h]
+Seat 1: Robw611 (big blind) showed [9c Tc] and lost with a pair of Sixes
+Seat 2: 59rudy59 (button) showed [8h Kc] and won (180) with a pair of Sixes
+Seat 3: Mahu2021 (small blind) folded on the River
+
+
+
+PokerStars Hand #245728672249: Tournament #3639452625, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/09/02 15:05:30 CET [2023/09/02 9:05:30 ET]
+Table '3639452625 1' 3-max Seat #3 is the button
+Seat 1: Robw611 (500 in chips) 
+Seat 2: 59rudy59 (560 in chips) 
+Seat 3: Mahu2021 (440 in chips) 
+Robw611: posts small blind 10
+59rudy59: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh 9h]
+Mahu2021: raises 20 to 40
+Robw611: calls 30
+59rudy59: calls 20
+*** FLOP *** [3d Qh Js]
+Robw611: checks 
+59rudy59: checks 
+Mahu2021: checks 
+*** TURN *** [3d Qh Js] [2d]
+Robw611: checks 
+59rudy59: bets 20
+Mahu2021: calls 20
+Robw611: folds 
+*** RIVER *** [3d Qh Js 2d] [3s]
+59rudy59: bets 40
+Mahu2021: folds 
+Uncalled bet (40) returned to 59rudy59
+59rudy59 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [3d Qh Js 2d 3s]
+Seat 1: Robw611 (small blind) folded on the Turn
+Seat 2: 59rudy59 (big blind) collected (160)
+Seat 3: Mahu2021 (button) folded on the River
+
+
+
+PokerStars Hand #245728677425: Tournament #3639452625, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/09/02 15:05:54 CET [2023/09/02 9:05:54 ET]
+Table '3639452625 1' 3-max Seat #1 is the button
+Seat 1: Robw611 (460 in chips) 
+Seat 2: 59rudy59 (660 in chips) 
+Seat 3: Mahu2021 (380 in chips) 
+59rudy59: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c As]
+Robw611: raises 20 to 40
+59rudy59: calls 30
+Mahu2021: calls 20
+*** FLOP *** [Kc Jh 2c]
+59rudy59: checks 
+Mahu2021: checks 
+Robw611: checks 
+*** TURN *** [Kc Jh 2c] [2d]
+59rudy59: checks 
+Mahu2021: bets 40
+Robw611: calls 40
+59rudy59: calls 40
+*** RIVER *** [Kc Jh 2c 2d] [4s]
+59rudy59: checks 
+Mahu2021: checks 
+Robw611: checks 
+*** SHOW DOWN ***
+59rudy59: shows [8c 7c] (a pair of Deuces)
+Mahu2021: shows [9c As] (a pair of Deuces - Ace kicker)
+Robw611: shows [6c 6h] (two pair, Sixes and Deuces)
+Robw611 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Kc Jh 2c 2d 4s]
+Seat 1: Robw611 (button) showed [6c 6h] and won (240) with two pair, Sixes and Deuces
+Seat 2: 59rudy59 (small blind) showed [8c 7c] and lost with a pair of Deuces
+Seat 3: Mahu2021 (big blind) showed [9c As] and lost with a pair of Deuces
+
+
+
+PokerStars Hand #245728681741: Tournament #3639452625, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/09/02 15:06:14 CET [2023/09/02 9:06:14 ET]
+Table '3639452625 1' 3-max Seat #2 is the button
+Seat 1: Robw611 (620 in chips) 
+Seat 2: 59rudy59 (580 in chips) 
+Seat 3: Mahu2021 (300 in chips) 
+Mahu2021: posts small blind 10
+Robw611: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8d 3s]
+59rudy59: calls 20
+Mahu2021: folds 
+Robw611: checks 
+*** FLOP *** [As 8h 3d]
+Robw611: checks 
+59rudy59: bets 20
+Robw611: calls 20
+*** TURN *** [As 8h 3d] [3c]
+Robw611: checks 
+59rudy59: bets 20
+Robw611: calls 20
+*** RIVER *** [As 8h 3d 3c] [Ac]
+Robw611: checks 
+59rudy59: bets 60
+Robw611: calls 60
+*** SHOW DOWN ***
+59rudy59: shows [5d Ad] (a full house, Aces full of Threes)
+Robw611: mucks hand 
+59rudy59 collected 250 from pot
+*** SUMMARY ***
+Total pot 250 | Rake 0 
+Board [As 8h 3d 3c Ac]
+Seat 1: Robw611 (big blind) mucked [7h 8c]
+Seat 2: 59rudy59 (button) showed [5d Ad] and won (250) with a full house, Aces full of Threes
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #245728687615: Tournament #3639452625, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/09/02 15:06:41 CET [2023/09/02 9:06:41 ET]
+Table '3639452625 1' 3-max Seat #3 is the button
+Seat 1: Robw611 (500 in chips) 
+Seat 2: 59rudy59 (710 in chips) 
+Seat 3: Mahu2021 (290 in chips) 
+Robw611: posts small blind 10
+59rudy59: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd 6d]
+Mahu2021: raises 20 to 40
+Robw611: raises 80 to 120
+59rudy59: folds 
+Mahu2021: calls 80
+*** FLOP *** [As 9c Ah]
+Robw611: checks 
+Mahu2021: checks 
+*** TURN *** [As 9c Ah] [Ks]
+Robw611: checks 
+Mahu2021: bets 170 and is all-in
+Robw611: calls 170
+*** RIVER *** [As 9c Ah Ks] [3c]
+*** SHOW DOWN ***
+Robw611: shows [Ad Kc] (a full house, Aces full of Kings)
+Mahu2021: shows [Kd 6d] (two pair, Aces and Kings)
+Robw611 collected 600 from pot
+Mahu2021 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 600 | Rake 0 
+Board [As 9c Ah Ks 3c]
+Seat 1: Robw611 (small blind) showed [Ad Kc] and won (600) with a full house, Aces full of Kings
+Seat 2: 59rudy59 (big blind) folded before Flop
+Seat 3: Mahu2021 (button) showed [Kd 6d] and lost with two pair, Aces and Kings
+
+
+

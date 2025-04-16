@@ -1,0 +1,550 @@
+﻿PokerStars Hand #243029873103: Tournament #3576071075, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/11 20:25:34 CET [2023/04/11 14:25:34 ET]
+Table '3576071075 1' 3-max Seat #1 is the button
+Seat 1: MalkDeKoin (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: EidlehS (500 in chips) 
+Mahu2021: posts small blind 10
+EidlehS: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h 6d]
+MalkDeKoin: raises 20 to 40
+Mahu2021: folds 
+EidlehS: calls 20
+*** FLOP *** [Qs 2s 7d]
+EidlehS: bets 40
+MalkDeKoin: calls 40
+*** TURN *** [Qs 2s 7d] [Kc]
+EidlehS: bets 80
+MalkDeKoin: calls 80
+*** RIVER *** [Qs 2s 7d Kc] [6h]
+EidlehS: bets 165
+MalkDeKoin: calls 165
+*** SHOW DOWN ***
+EidlehS: shows [Jd Qd] (a pair of Queens)
+MalkDeKoin: shows [Qh Ad] (a pair of Queens - Ace kicker)
+MalkDeKoin collected 660 from pot
+*** SUMMARY ***
+Total pot 660 | Rake 0 
+Board [Qs 2s 7d Kc 6h]
+Seat 1: MalkDeKoin (button) showed [Qh Ad] and won (660) with a pair of Queens
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: EidlehS (big blind) showed [Jd Qd] and lost with a pair of Queens
+
+
+
+PokerStars Hand #243029896538: Tournament #3576071075, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/11 20:26:39 CET [2023/04/11 14:26:39 ET]
+Table '3576071075 1' 3-max Seat #2 is the button
+Seat 1: MalkDeKoin (835 in chips) 
+Seat 2: Mahu2021 (490 in chips) 
+Seat 3: EidlehS (175 in chips) 
+EidlehS: posts small blind 10
+MalkDeKoin: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js 6s]
+Mahu2021: calls 20
+EidlehS: raises 155 to 175 and is all-in
+MalkDeKoin: folds 
+Mahu2021: folds 
+Uncalled bet (155) returned to EidlehS
+EidlehS collected 60 from pot
+EidlehS: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: MalkDeKoin (big blind) folded before Flop
+Seat 2: Mahu2021 (button) folded before Flop
+Seat 3: EidlehS (small blind) collected (60)
+
+
+
+PokerStars Hand #243029903977: Tournament #3576071075, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/11 20:27:00 CET [2023/04/11 14:27:00 ET]
+Table '3576071075 1' 3-max Seat #3 is the button
+Seat 1: MalkDeKoin (815 in chips) 
+Seat 2: Mahu2021 (470 in chips) 
+Seat 3: EidlehS (215 in chips) 
+MalkDeKoin: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s Kd]
+EidlehS: raises 195 to 215 and is all-in
+MalkDeKoin: folds 
+Mahu2021: folds 
+Uncalled bet (195) returned to EidlehS
+EidlehS collected 50 from pot
+EidlehS: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: MalkDeKoin (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: EidlehS (button) collected (50)
+
+
+
+PokerStars Hand #243029909210: Tournament #3576071075, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/11 20:27:14 CET [2023/04/11 14:27:14 ET]
+Table '3576071075 1' 3-max Seat #1 is the button
+Seat 1: MalkDeKoin (805 in chips) 
+Seat 2: Mahu2021 (450 in chips) 
+Seat 3: EidlehS (245 in chips) 
+Mahu2021: posts small blind 10
+EidlehS: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5h As]
+MalkDeKoin: folds 
+Mahu2021: raises 430 to 450 and is all-in
+EidlehS: calls 225 and is all-in
+Uncalled bet (205) returned to Mahu2021
+*** FLOP *** [9s Js 4s]
+*** TURN *** [9s Js 4s] [4h]
+*** RIVER *** [9s Js 4s 4h] [2c]
+*** SHOW DOWN ***
+Mahu2021: shows [5h As] (a pair of Fours)
+EidlehS: shows [5d 5s] (two pair, Fives and Fours)
+EidlehS collected 490 from pot
+*** SUMMARY ***
+Total pot 490 | Rake 0 
+Board [9s Js 4s 4h 2c]
+Seat 1: MalkDeKoin (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) showed [5h As] and lost with a pair of Fours
+Seat 3: EidlehS (big blind) showed [5d 5s] and won (490) with two pair, Fives and Fours
+
+
+
+PokerStars Hand #243029917941: Tournament #3576071075, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/11 20:27:38 CET [2023/04/11 14:27:38 ET]
+Table '3576071075 1' 3-max Seat #2 is the button
+Seat 1: MalkDeKoin (805 in chips) 
+Seat 2: Mahu2021 (205 in chips) 
+Seat 3: EidlehS (490 in chips) 
+EidlehS: posts small blind 10
+MalkDeKoin: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd 9h]
+Mahu2021: folds 
+EidlehS: raises 20 to 40
+MalkDeKoin: raises 20 to 60
+EidlehS: calls 20
+*** FLOP *** [7s Kc 7h]
+EidlehS: bets 60
+MalkDeKoin: calls 60
+*** TURN *** [7s Kc 7h] [Kd]
+EidlehS: bets 120
+MalkDeKoin: folds 
+Uncalled bet (120) returned to EidlehS
+EidlehS collected 240 from pot
+EidlehS: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [7s Kc 7h Kd]
+Seat 1: MalkDeKoin (big blind) folded on the Turn
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: EidlehS (small blind) collected (240)
+
+
+
+PokerStars Hand #243029927252: Tournament #3576071075, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/11 20:28:03 CET [2023/04/11 14:28:03 ET]
+Table '3576071075 1' 3-max Seat #3 is the button
+Seat 1: MalkDeKoin (685 in chips) 
+Seat 2: Mahu2021 (205 in chips) 
+Seat 3: EidlehS (610 in chips) 
+MalkDeKoin: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad Qs]
+EidlehS: raises 40 to 60
+MalkDeKoin: folds 
+Mahu2021: raises 145 to 205 and is all-in
+EidlehS: calls 145
+*** FLOP *** [As Ah 3s]
+*** TURN *** [As Ah 3s] [Ks]
+*** RIVER *** [As Ah 3s Ks] [Jh]
+*** SHOW DOWN ***
+Mahu2021: shows [Ad Qs] (three of a kind, Aces)
+EidlehS: shows [8d 8s] (two pair, Aces and Eights)
+Mahu2021 collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | Rake 0 
+Board [As Ah 3s Ks Jh]
+Seat 1: MalkDeKoin (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) showed [Ad Qs] and won (420) with three of a kind, Aces
+Seat 3: EidlehS (button) showed [8d 8s] and lost with two pair, Aces and Eights
+
+
+
+PokerStars Hand #243029936747: Tournament #3576071075, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/11 20:28:30 CET [2023/04/11 14:28:30 ET]
+Table '3576071075 1' 3-max Seat #1 is the button
+Seat 1: MalkDeKoin (675 in chips) 
+Seat 2: Mahu2021 (420 in chips) 
+Seat 3: EidlehS (405 in chips) 
+Mahu2021: posts small blind 10
+EidlehS: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah 7c]
+MalkDeKoin: folds 
+Mahu2021: raises 400 to 420 and is all-in
+EidlehS: folds 
+Uncalled bet (400) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: MalkDeKoin (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) collected (40)
+Seat 3: EidlehS (big blind) folded before Flop
+
+
+
+PokerStars Hand #243029941585: Tournament #3576071075, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/11 20:28:43 CET [2023/04/11 14:28:43 ET]
+Table '3576071075 1' 3-max Seat #2 is the button
+Seat 1: MalkDeKoin (675 in chips) 
+Seat 2: Mahu2021 (440 in chips) 
+Seat 3: EidlehS (385 in chips) 
+EidlehS: posts small blind 15
+MalkDeKoin: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d Qh]
+Mahu2021: folds 
+EidlehS: calls 15
+MalkDeKoin: checks 
+*** FLOP *** [As Qs 3h]
+EidlehS: bets 30
+MalkDeKoin: folds 
+Uncalled bet (30) returned to EidlehS
+EidlehS collected 60 from pot
+EidlehS: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [As Qs 3h]
+Seat 1: MalkDeKoin (big blind) folded on the Flop
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: EidlehS (small blind) collected (60)
+
+
+
+PokerStars Hand #243029948926: Tournament #3576071075, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/11 20:29:03 CET [2023/04/11 14:29:03 ET]
+Table '3576071075 1' 3-max Seat #3 is the button
+Seat 1: MalkDeKoin (645 in chips) 
+Seat 2: Mahu2021 (440 in chips) 
+Seat 3: EidlehS (415 in chips) 
+MalkDeKoin: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s Td]
+EidlehS: raises 60 to 90
+MalkDeKoin: folds 
+Mahu2021: folds 
+Uncalled bet (60) returned to EidlehS
+EidlehS collected 75 from pot
+EidlehS: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: MalkDeKoin (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: EidlehS (button) collected (75)
+
+
+
+PokerStars Hand #243029954696: Tournament #3576071075, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/11 20:29:19 CET [2023/04/11 14:29:19 ET]
+Table '3576071075 1' 3-max Seat #1 is the button
+Seat 1: MalkDeKoin (630 in chips) 
+Seat 2: Mahu2021 (410 in chips) 
+Seat 3: EidlehS (460 in chips) 
+Mahu2021: posts small blind 15
+EidlehS: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6h 5d]
+MalkDeKoin: raises 30 to 60
+Mahu2021: folds 
+EidlehS: calls 30
+*** FLOP *** [Jc 8c Ah]
+EidlehS: bets 60
+MalkDeKoin: raises 255 to 315
+EidlehS: folds 
+Uncalled bet (255) returned to MalkDeKoin
+MalkDeKoin collected 255 from pot
+*** SUMMARY ***
+Total pot 255 | Rake 0 
+Board [Jc 8c Ah]
+Seat 1: MalkDeKoin (button) collected (255)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: EidlehS (big blind) folded on the Flop
+
+
+
+PokerStars Hand #243029962826: Tournament #3576071075, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/11 20:29:42 CET [2023/04/11 14:29:42 ET]
+Table '3576071075 1' 3-max Seat #2 is the button
+Seat 1: MalkDeKoin (765 in chips) 
+Seat 2: Mahu2021 (395 in chips) 
+Seat 3: EidlehS (340 in chips) 
+EidlehS: posts small blind 15
+MalkDeKoin: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qd 5h]
+Mahu2021: folds 
+EidlehS: calls 15
+MalkDeKoin: checks 
+*** FLOP *** [3d 6h 4c]
+EidlehS: bets 30
+MalkDeKoin: raises 120 to 150
+EidlehS: calls 120
+*** TURN *** [3d 6h 4c] [8s]
+EidlehS: bets 90
+MalkDeKoin: raises 495 to 585 and is all-in
+EidlehS: folds 
+Uncalled bet (495) returned to MalkDeKoin
+MalkDeKoin collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | Rake 0 
+Board [3d 6h 4c 8s]
+Seat 1: MalkDeKoin (big blind) collected (540)
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: EidlehS (small blind) folded on the Turn
+
+
+
+PokerStars Hand #243029974408: Tournament #3576071075, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/11 20:30:13 CET [2023/04/11 14:30:13 ET]
+Table '3576071075 1' 3-max Seat #3 is the button
+Seat 1: MalkDeKoin (1035 in chips) 
+Seat 2: Mahu2021 (395 in chips) 
+Seat 3: EidlehS (70 in chips) 
+MalkDeKoin: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As Ts]
+EidlehS: calls 30
+MalkDeKoin: raises 60 to 90
+Mahu2021: raises 305 to 395 and is all-in
+EidlehS: calls 40 and is all-in
+MalkDeKoin: folds 
+Uncalled bet (305) returned to Mahu2021
+*** FLOP *** [2c Tc Td]
+*** TURN *** [2c Tc Td] [Jc]
+*** RIVER *** [2c Tc Td Jc] [9h]
+*** SHOW DOWN ***
+Mahu2021: shows [As Ts] (three of a kind, Tens)
+Mahu2021 collected 40 from side pot
+EidlehS: shows [Qd 3c] (a pair of Tens)
+Mahu2021 collected 210 from main pot
+EidlehS finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 250 Main pot 210. Side pot 40. | Rake 0 
+Board [2c Tc Td Jc 9h]
+Seat 1: MalkDeKoin (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) showed [As Ts] and won (250) with three of a kind, Tens
+Seat 3: EidlehS (button) showed [Qd 3c] and lost with a pair of Tens
+
+
+
+PokerStars Hand #243029984950: Tournament #3576071075, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/11 20:30:42 CET [2023/04/11 14:30:42 ET]
+Table '3576071075 1' 3-max Seat #2 is the button
+Seat 1: MalkDeKoin (945 in chips) 
+Seat 2: Mahu2021 (555 in chips) 
+Mahu2021: posts small blind 15
+MalkDeKoin: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks 9d]
+Mahu2021: calls 15
+MalkDeKoin: checks 
+*** FLOP *** [5c 3c Kh]
+MalkDeKoin: checks 
+Mahu2021: bets 30
+MalkDeKoin: calls 30
+*** TURN *** [5c 3c Kh] [2d]
+MalkDeKoin: checks 
+Mahu2021: bets 30
+MalkDeKoin: calls 30
+*** RIVER *** [5c 3c Kh 2d] [8s]
+MalkDeKoin: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+MalkDeKoin: shows [6c 4d] (a straight, Deuce to Six)
+Mahu2021: mucks hand 
+MalkDeKoin collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [5c 3c Kh 2d 8s]
+Seat 1: MalkDeKoin (big blind) showed [6c 4d] and won (180) with a straight, Deuce to Six
+Seat 2: Mahu2021 (button) (small blind) mucked [Ks 9d]
+
+
+
+PokerStars Hand #243029992467: Tournament #3576071075, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/11 20:31:02 CET [2023/04/11 14:31:02 ET]
+Table '3576071075 1' 3-max Seat #1 is the button
+Seat 1: MalkDeKoin (1035 in chips) 
+Seat 2: Mahu2021 (465 in chips) 
+MalkDeKoin: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks 5s]
+MalkDeKoin: calls 15
+Mahu2021: checks 
+*** FLOP *** [Js 4c 6c]
+Mahu2021: checks 
+MalkDeKoin: checks 
+*** TURN *** [Js 4c 6c] [9h]
+Mahu2021: checks 
+MalkDeKoin: checks 
+*** RIVER *** [Js 4c 6c 9h] [6s]
+Mahu2021: bets 30
+MalkDeKoin: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Js 4c 6c 9h 6s]
+Seat 1: MalkDeKoin (button) (small blind) folded on the River
+Seat 2: Mahu2021 (big blind) collected (60)
+
+
+
+PokerStars Hand #243029998154: Tournament #3576071075, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/11 20:31:18 CET [2023/04/11 14:31:18 ET]
+Table '3576071075 1' 3-max Seat #2 is the button
+Seat 1: MalkDeKoin (1005 in chips) 
+Seat 2: Mahu2021 (495 in chips) 
+Mahu2021: posts small blind 15
+MalkDeKoin: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s Td]
+Mahu2021: folds 
+Uncalled bet (15) returned to MalkDeKoin
+MalkDeKoin collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: MalkDeKoin (big blind) collected (30)
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #243029999861: Tournament #3576071075, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/11 20:31:22 CET [2023/04/11 14:31:22 ET]
+Table '3576071075 1' 3-max Seat #1 is the button
+Seat 1: MalkDeKoin (1020 in chips) 
+Seat 2: Mahu2021 (480 in chips) 
+MalkDeKoin: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h 5d]
+MalkDeKoin: raises 60 to 90
+Mahu2021: folds 
+Uncalled bet (60) returned to MalkDeKoin
+MalkDeKoin collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: MalkDeKoin (button) (small blind) collected (60)
+Seat 2: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #243030002486: Tournament #3576071075, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/11 20:31:29 CET [2023/04/11 14:31:29 ET]
+Table '3576071075 1' 3-max Seat #2 is the button
+Seat 1: MalkDeKoin (1050 in chips) 
+Seat 2: Mahu2021 (450 in chips) 
+Mahu2021: posts small blind 15
+MalkDeKoin: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c Js]
+Mahu2021: calls 15
+MalkDeKoin: checks 
+*** FLOP *** [4h 9d Qh]
+MalkDeKoin: bets 30
+Mahu2021: calls 30
+*** TURN *** [4h 9d Qh] [8c]
+MalkDeKoin: bets 30
+Mahu2021: calls 30
+*** RIVER *** [4h 9d Qh 8c] [Kh]
+MalkDeKoin: bets 30
+Mahu2021: calls 30
+*** SHOW DOWN ***
+MalkDeKoin: shows [9s 6c] (a pair of Nines)
+Mahu2021: shows [9c Js] (a pair of Nines - King+Queen+Jack kicker)
+Mahu2021 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [4h 9d Qh 8c Kh]
+Seat 1: MalkDeKoin (big blind) showed [9s 6c] and lost with a pair of Nines
+Seat 2: Mahu2021 (button) (small blind) showed [9c Js] and won (240) with a pair of Nines
+
+
+
+PokerStars Hand #243030011708: Tournament #3576071075, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/11 20:31:54 CET [2023/04/11 14:31:54 ET]
+Table '3576071075 1' 3-max Seat #1 is the button
+Seat 1: MalkDeKoin (930 in chips) 
+Seat 2: Mahu2021 (570 in chips) 
+MalkDeKoin: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Td 9d]
+MalkDeKoin: calls 20
+Mahu2021: checks 
+*** FLOP *** [4s 8c Kc]
+Mahu2021: checks 
+MalkDeKoin: checks 
+*** TURN *** [4s 8c Kc] [6c]
+Mahu2021: checks 
+MalkDeKoin: checks 
+*** RIVER *** [4s 8c Kc 6c] [Ts]
+Mahu2021: checks 
+MalkDeKoin: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [Td 9d] (a pair of Tens)
+MalkDeKoin: mucks hand 
+Mahu2021 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [4s 8c Kc 6c Ts]
+Seat 1: MalkDeKoin (button) (small blind) mucked [Jh 3h]
+Seat 2: Mahu2021 (big blind) showed [Td 9d] and won (80) with a pair of Tens
+
+
+
+PokerStars Hand #243030017647: Tournament #3576071075, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/11 20:32:10 CET [2023/04/11 14:32:10 ET]
+Table '3576071075 1' 3-max Seat #2 is the button
+Seat 1: MalkDeKoin (890 in chips) 
+Seat 2: Mahu2021 (610 in chips) 
+Mahu2021: posts small blind 20
+MalkDeKoin: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As Js]
+Mahu2021: calls 20
+MalkDeKoin: raises 850 to 890 and is all-in
+Mahu2021: calls 570 and is all-in
+Uncalled bet (280) returned to MalkDeKoin
+*** FLOP *** [2c 3d Jd]
+*** TURN *** [2c 3d Jd] [Ks]
+*** RIVER *** [2c 3d Jd Ks] [7h]
+*** SHOW DOWN ***
+MalkDeKoin: shows [Ad 6c] (high card Ace)
+Mahu2021: shows [As Js] (a pair of Jacks)
+Mahu2021 collected 1220 from pot
+*** SUMMARY ***
+Total pot 1220 | Rake 0 
+Board [2c 3d Jd Ks 7h]
+Seat 1: MalkDeKoin (big blind) showed [Ad 6c] and lost with high card Ace
+Seat 2: Mahu2021 (button) (small blind) showed [As Js] and won (1220) with a pair of Jacks
+
+
+
+PokerStars Hand #243030022805: Tournament #3576071075, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/11 20:32:24 CET [2023/04/11 14:32:24 ET]
+Table '3576071075 1' 3-max Seat #1 is the button
+Seat 1: MalkDeKoin (280 in chips) 
+Seat 2: Mahu2021 (1220 in chips) 
+MalkDeKoin: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qs Qh]
+MalkDeKoin: raises 240 to 280 and is all-in
+Mahu2021: calls 240
+*** FLOP *** [Qc Qd 4c]
+*** TURN *** [Qc Qd 4c] [7h]
+*** RIVER *** [Qc Qd 4c 7h] [Jd]
+*** SHOW DOWN ***
+Mahu2021: shows [Qs Qh] (four of a kind, Queens)
+MalkDeKoin: shows [Kc As] (a pair of Queens)
+Mahu2021 collected 560 from pot
+MalkDeKoin finished the tournament in 2nd place
+Mahu2021 wins the tournament and receives $3.00 - congratulations!
+*** SUMMARY ***
+Total pot 560 | Rake 0 
+Board [Qc Qd 4c 7h Jd]
+Seat 1: MalkDeKoin (button) (small blind) showed [Kc As] and lost with a pair of Queens
+Seat 2: Mahu2021 (big blind) showed [Qs Qh] and won (560) with four of a kind, Queens
+
+
+

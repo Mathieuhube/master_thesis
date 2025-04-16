@@ -1,0 +1,945 @@
+﻿PokerStars Hand #249565226684: Tournament #3732249680, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/03/22 21:46:10 CET [2024/03/22 16:46:10 ET]
+Table '3732249680 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: barbetta 200 (500 in chips) 
+Seat 3: Roney04 (500 in chips) 
+barbetta 200: posts small blind 10
+Roney04: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh Ah]
+Mahu2021: calls 20
+barbetta 200: calls 10
+Roney04: checks 
+*** FLOP *** [6s Qh 4s]
+barbetta 200: checks 
+Roney04: checks 
+Mahu2021: checks 
+*** TURN *** [6s Qh 4s] [9h]
+barbetta 200: checks 
+Roney04: checks 
+Mahu2021: bets 40
+barbetta 200: folds 
+Roney04: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [6s Qh 4s 9h]
+Seat 1: Mahu2021 (button) collected (60)
+Seat 2: barbetta 200 (small blind) folded on the Turn
+Seat 3: Roney04 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #249565235951: Tournament #3732249680, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/03/22 21:46:37 CET [2024/03/22 16:46:37 ET]
+Table '3732249680 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (540 in chips) 
+Seat 2: barbetta 200 (480 in chips) 
+Seat 3: Roney04 (480 in chips) 
+Roney04: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s 2d]
+barbetta 200: raises 50 to 70
+Roney04: folds 
+Mahu2021: folds 
+Uncalled bet (50) returned to barbetta 200
+barbetta 200 collected 50 from pot
+barbetta 200: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: barbetta 200 (button) collected (50)
+Seat 3: Roney04 (small blind) folded before Flop
+
+
+
+PokerStars Hand #249565237977: Tournament #3732249680, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/03/22 21:46:43 CET [2024/03/22 16:46:43 ET]
+Table '3732249680 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (520 in chips) 
+Seat 2: barbetta 200 (510 in chips) 
+Seat 3: Roney04 (470 in chips) 
+Mahu2021: posts small blind 10
+barbetta 200: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6h Tc]
+Roney04: raises 20 to 40
+Mahu2021: folds 
+barbetta 200: calls 20
+*** FLOP *** [2h Jd 9d]
+barbetta 200: checks 
+Roney04: bets 45
+barbetta 200: raises 180 to 225
+Roney04: raises 205 to 430 and is all-in
+barbetta 200: calls 205
+*** TURN *** [2h Jd 9d] [Qd]
+*** RIVER *** [2h Jd 9d Qd] [Qh]
+*** SHOW DOWN ***
+barbetta 200: shows [4h Jh] (two pair, Queens and Jacks)
+Roney04: shows [Th Jc] (two pair, Queens and Jacks - Ten kicker)
+Roney04 collected 950 from pot
+*** SUMMARY ***
+Total pot 950 | Rake 0 
+Board [2h Jd 9d Qd Qh]
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: barbetta 200 (big blind) showed [4h Jh] and lost with two pair, Queens and Jacks
+Seat 3: Roney04 (button) showed [Th Jc] and won (950) with two pair, Queens and Jacks
+
+
+
+PokerStars Hand #249565245912: Tournament #3732249680, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/03/22 21:47:06 CET [2024/03/22 16:47:06 ET]
+Table '3732249680 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (510 in chips) 
+Seat 2: barbetta 200 (40 in chips) 
+Seat 3: Roney04 (950 in chips) 
+barbetta 200: posts small blind 10
+Roney04: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh 2h]
+Mahu2021: folds 
+barbetta 200: raises 20 to 40 and is all-in
+Roney04: calls 20
+*** FLOP *** [8h 9c 5h]
+*** TURN *** [8h 9c 5h] [9s]
+*** RIVER *** [8h 9c 5h 9s] [8c]
+*** SHOW DOWN ***
+barbetta 200: shows [Qd 3s] (two pair, Nines and Eights)
+Roney04: shows [4h Tc] (two pair, Nines and Eights - lower kicker)
+barbetta 200 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [8h 9c 5h 9s 8c]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: barbetta 200 (small blind) showed [Qd 3s] and won (80) with two pair, Nines and Eights
+Seat 3: Roney04 (big blind) showed [4h Tc] and lost with two pair, Nines and Eights
+
+
+
+PokerStars Hand #249565251721: Tournament #3732249680, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/03/22 21:47:24 CET [2024/03/22 16:47:24 ET]
+Table '3732249680 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (510 in chips) 
+Seat 2: barbetta 200 (80 in chips) 
+Seat 3: Roney04 (910 in chips) 
+Roney04: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc 2c]
+barbetta 200: folds 
+Roney04: raises 30 to 50
+Mahu2021: folds 
+Uncalled bet (30) returned to Roney04
+Roney04 collected 40 from pot
+Roney04: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: barbetta 200 (button) folded before Flop (didn't bet)
+Seat 3: Roney04 (small blind) collected (40)
+
+
+
+PokerStars Hand #249565254454: Tournament #3732249680, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/03/22 21:47:32 CET [2024/03/22 16:47:32 ET]
+Table '3732249680 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (490 in chips) 
+Seat 2: barbetta 200 (80 in chips) 
+Seat 3: Roney04 (930 in chips) 
+Mahu2021: posts small blind 10
+barbetta 200: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h Tc]
+Roney04: folds 
+Mahu2021: folds 
+Uncalled bet (10) returned to barbetta 200
+barbetta 200 collected 20 from pot
+barbetta 200: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: barbetta 200 (big blind) collected (20)
+Seat 3: Roney04 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #249565255859: Tournament #3732249680, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/03/22 21:47:36 CET [2024/03/22 16:47:36 ET]
+Table '3732249680 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (480 in chips) 
+Seat 2: barbetta 200 (90 in chips) 
+Seat 3: Roney04 (930 in chips) 
+barbetta 200: posts small blind 10
+Roney04: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js Jh]
+Mahu2021: calls 20
+barbetta 200: calls 10
+Roney04: checks 
+*** FLOP *** [3h Ah 7d]
+barbetta 200: checks 
+Roney04: checks 
+Mahu2021: bets 40
+barbetta 200: folds 
+Roney04: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [3h Ah 7d]
+Seat 1: Mahu2021 (button) collected (60)
+Seat 2: barbetta 200 (small blind) folded on the Flop
+Seat 3: Roney04 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #249565261302: Tournament #3732249680, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/03/22 21:47:53 CET [2024/03/22 16:47:53 ET]
+Table '3732249680 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (520 in chips) 
+Seat 2: barbetta 200 (70 in chips) 
+Seat 3: Roney04 (910 in chips) 
+Roney04: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4d 5s]
+barbetta 200: calls 20
+Roney04: folds 
+Mahu2021: checks 
+*** FLOP *** [5h Tc 6d]
+Mahu2021: checks 
+barbetta 200: bets 50 and is all-in
+Mahu2021: calls 50
+*** TURN *** [5h Tc 6d] [8s]
+*** RIVER *** [5h Tc 6d 8s] [4h]
+*** SHOW DOWN ***
+Mahu2021: shows [4d 5s] (two pair, Fives and Fours)
+barbetta 200: shows [9c Jh] (high card Jack)
+Mahu2021 collected 150 from pot
+barbetta 200 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Board [5h Tc 6d 8s 4h]
+Seat 1: Mahu2021 (big blind) showed [4d 5s] and won (150) with two pair, Fives and Fours
+Seat 2: barbetta 200 (button) showed [9c Jh] and lost with high card Jack
+Seat 3: Roney04 (small blind) folded before Flop
+
+
+
+PokerStars Hand #249565269253: Tournament #3732249680, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/03/22 21:48:16 CET [2024/03/22 16:48:16 ET]
+Table '3732249680 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (600 in chips) 
+Seat 3: Roney04 (900 in chips) 
+Mahu2021: posts small blind 10
+Roney04: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2s Ks]
+Mahu2021: raises 20 to 40
+Roney04: raises 860 to 900 and is all-in
+Mahu2021: folds 
+Uncalled bet (860) returned to Roney04
+Roney04 collected 80 from pot
+Roney04: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: Roney04 (big blind) collected (80)
+
+
+
+PokerStars Hand #249565272050: Tournament #3732249680, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/03/22 21:48:24 CET [2024/03/22 16:48:24 ET]
+Table '3732249680 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (560 in chips) 
+Seat 3: Roney04 (940 in chips) 
+Roney04: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qd 9c]
+Roney04: calls 10
+Mahu2021: checks 
+*** FLOP *** [Ks Jd 9h]
+Mahu2021: checks 
+Roney04: checks 
+*** TURN *** [Ks Jd 9h] [8s]
+Mahu2021: checks 
+Roney04: checks 
+*** RIVER *** [Ks Jd 9h 8s] [9s]
+Mahu2021: bets 40
+Roney04: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Ks Jd 9h 8s 9s]
+Seat 1: Mahu2021 (big blind) collected (40)
+Seat 3: Roney04 (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #249565281792: Tournament #3732249680, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/03/22 21:48:53 CET [2024/03/22 16:48:53 ET]
+Table '3732249680 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (580 in chips) 
+Seat 3: Roney04 (920 in chips) 
+Mahu2021: posts small blind 10
+Roney04: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d 8d]
+Mahu2021: folds 
+Uncalled bet (10) returned to Roney04
+Roney04 collected 20 from pot
+Roney04: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: Roney04 (big blind) collected (20)
+
+
+
+PokerStars Hand #249565283215: Tournament #3732249680, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/03/22 21:48:57 CET [2024/03/22 16:48:57 ET]
+Table '3732249680 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (570 in chips) 
+Seat 3: Roney04 (930 in chips) 
+Roney04: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd 9h]
+Roney04: calls 10
+Mahu2021: checks 
+*** FLOP *** [Td Qd Jh]
+Mahu2021: checks 
+Roney04: checks 
+*** TURN *** [Td Qd Jh] [8s]
+Mahu2021: checks 
+Roney04: checks 
+*** RIVER *** [Td Qd Jh 8s] [8h]
+Mahu2021: bets 550 and is all-in
+Roney04: folds 
+Uncalled bet (550) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Td Qd Jh 8s 8h]
+Seat 1: Mahu2021 (big blind) collected (40)
+Seat 3: Roney04 (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #249565291166: Tournament #3732249680, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/22 21:49:21 CET [2024/03/22 16:49:21 ET]
+Table '3732249680 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (590 in chips) 
+Seat 3: Roney04 (910 in chips) 
+Mahu2021: posts small blind 15
+Roney04: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s 8c]
+Mahu2021: folds 
+Uncalled bet (15) returned to Roney04
+Roney04 collected 30 from pot
+Roney04: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: Roney04 (big blind) collected (30)
+
+
+
+PokerStars Hand #249565292740: Tournament #3732249680, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/22 21:49:26 CET [2024/03/22 16:49:26 ET]
+Table '3732249680 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (575 in chips) 
+Seat 3: Roney04 (925 in chips) 
+Roney04: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h 8s]
+Roney04: calls 15
+Mahu2021: checks 
+*** FLOP *** [As 7d 4d]
+Mahu2021: checks 
+Roney04: bets 30
+Mahu2021: calls 30
+*** TURN *** [As 7d 4d] [8c]
+Mahu2021: checks 
+Roney04: checks 
+*** RIVER *** [As 7d 4d 8c] [8d]
+Mahu2021: bets 120
+Roney04: folds 
+Uncalled bet (120) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [As 7d 4d 8c 8d]
+Seat 1: Mahu2021 (big blind) collected (120)
+Seat 3: Roney04 (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #249565298364: Tournament #3732249680, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/22 21:49:42 CET [2024/03/22 16:49:42 ET]
+Table '3732249680 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (635 in chips) 
+Seat 3: Roney04 (865 in chips) 
+Mahu2021: posts small blind 15
+Roney04: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s Kd]
+Mahu2021: calls 15
+Roney04: checks 
+*** FLOP *** [Qh Js Ts]
+Roney04: checks 
+Mahu2021: bets 30
+Roney04: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Qh Js Ts]
+Seat 1: Mahu2021 (button) (small blind) collected (60)
+Seat 3: Roney04 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #249565303443: Tournament #3732249680, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/22 21:49:57 CET [2024/03/22 16:49:57 ET]
+Table '3732249680 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (665 in chips) 
+Seat 3: Roney04 (835 in chips) 
+Roney04: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4c 6d]
+Roney04: raises 30 to 60
+Mahu2021: folds 
+Uncalled bet (30) returned to Roney04
+Roney04 collected 60 from pot
+Roney04: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 3: Roney04 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #249565305097: Tournament #3732249680, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/22 21:50:02 CET [2024/03/22 16:50:02 ET]
+Table '3732249680 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (635 in chips) 
+Seat 3: Roney04 (865 in chips) 
+Mahu2021: posts small blind 15
+Roney04: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Td Jc]
+Mahu2021: calls 15
+Roney04: checks 
+*** FLOP *** [4h 4c Ks]
+Roney04: checks 
+Mahu2021: bets 30
+Roney04: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [4h 4c Ks]
+Seat 1: Mahu2021 (button) (small blind) collected (60)
+Seat 3: Roney04 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #249565308463: Tournament #3732249680, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/22 21:50:12 CET [2024/03/22 16:50:12 ET]
+Table '3732249680 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (665 in chips) 
+Seat 3: Roney04 (835 in chips) 
+Roney04: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8d 3h]
+Roney04: calls 15
+Mahu2021: checks 
+*** FLOP *** [3s 8s Qd]
+Mahu2021: checks 
+Roney04: checks 
+*** TURN *** [3s 8s Qd] [4c]
+Mahu2021: bets 60
+Roney04: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [3s 8s Qd 4c]
+Seat 1: Mahu2021 (big blind) collected (60)
+Seat 3: Roney04 (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #249565313812: Tournament #3732249680, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/22 21:50:28 CET [2024/03/22 16:50:28 ET]
+Table '3732249680 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (695 in chips) 
+Seat 3: Roney04 (805 in chips) 
+Mahu2021: posts small blind 15
+Roney04: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s Td]
+Mahu2021: folds 
+Uncalled bet (15) returned to Roney04
+Roney04 collected 30 from pot
+Roney04: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: Roney04 (big blind) collected (30)
+
+
+
+PokerStars Hand #249565315258: Tournament #3732249680, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/22 21:50:32 CET [2024/03/22 16:50:32 ET]
+Table '3732249680 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (680 in chips) 
+Seat 3: Roney04 (820 in chips) 
+Roney04: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5h 2h]
+Roney04: raises 30 to 60
+Mahu2021: folds 
+Uncalled bet (30) returned to Roney04
+Roney04 collected 60 from pot
+Roney04: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 3: Roney04 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #249565316933: Tournament #3732249680, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/22 21:50:37 CET [2024/03/22 16:50:37 ET]
+Table '3732249680 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (650 in chips) 
+Seat 3: Roney04 (850 in chips) 
+Mahu2021: posts small blind 15
+Roney04: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qd 4s]
+Mahu2021: calls 15
+Roney04: raises 60 to 90
+Mahu2021: folds 
+Uncalled bet (60) returned to Roney04
+Roney04 collected 60 from pot
+Roney04: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: Roney04 (big blind) collected (60)
+
+
+
+PokerStars Hand #249565319462: Tournament #3732249680, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/22 21:50:45 CET [2024/03/22 16:50:45 ET]
+Table '3732249680 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (620 in chips) 
+Seat 3: Roney04 (880 in chips) 
+Roney04: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2c Qc]
+Roney04: raises 30 to 60
+Mahu2021: calls 30
+*** FLOP *** [2s 4d 6h]
+Mahu2021: checks 
+Roney04: bets 30
+Mahu2021: calls 30
+*** TURN *** [2s 4d 6h] [Jd]
+Mahu2021: checks 
+Roney04: checks 
+*** RIVER *** [2s 4d 6h Jd] [4s]
+Mahu2021: bets 60
+Roney04: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 180 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [2s 4d 6h Jd 4s]
+Seat 1: Mahu2021 (big blind) collected (180)
+Seat 3: Roney04 (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #249565325273: Tournament #3732249680, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/22 21:51:02 CET [2024/03/22 16:51:02 ET]
+Table '3732249680 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (710 in chips) 
+Seat 3: Roney04 (790 in chips) 
+Mahu2021: posts small blind 15
+Roney04: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4c 7s]
+Mahu2021: folds 
+Uncalled bet (15) returned to Roney04
+Roney04 collected 30 from pot
+Roney04: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: Roney04 (big blind) collected (30)
+
+
+
+PokerStars Hand #249565326824: Tournament #3732249680, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/22 21:51:06 CET [2024/03/22 16:51:06 ET]
+Table '3732249680 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (695 in chips) 
+Seat 3: Roney04 (805 in chips) 
+Roney04: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d Tc]
+Roney04: raises 30 to 60
+Mahu2021: folds 
+Uncalled bet (30) returned to Roney04
+Roney04 collected 60 from pot
+Roney04: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 3: Roney04 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #249565328428: Tournament #3732249680, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/22 21:51:11 CET [2024/03/22 16:51:11 ET]
+Table '3732249680 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (665 in chips) 
+Seat 3: Roney04 (835 in chips) 
+Mahu2021: posts small blind 15
+Roney04: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2c 9d]
+Mahu2021: folds 
+Uncalled bet (15) returned to Roney04
+Roney04 collected 30 from pot
+Roney04: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: Roney04 (big blind) collected (30)
+
+
+
+PokerStars Hand #249565329841: Tournament #3732249680, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/22 21:51:15 CET [2024/03/22 16:51:15 ET]
+Table '3732249680 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (650 in chips) 
+Seat 3: Roney04 (850 in chips) 
+Roney04: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c Td]
+Roney04: raises 30 to 60
+Mahu2021: folds 
+Uncalled bet (30) returned to Roney04
+Roney04 collected 60 from pot
+Roney04: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 3: Roney04 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #249565331522: Tournament #3732249680, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/22 21:51:20 CET [2024/03/22 16:51:20 ET]
+Table '3732249680 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (620 in chips) 
+Seat 3: Roney04 (880 in chips) 
+Mahu2021: posts small blind 15
+Roney04: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8s Jc]
+Mahu2021: raises 30 to 60
+Roney04: raises 820 to 880 and is all-in
+Mahu2021: folds 
+Uncalled bet (820) returned to Roney04
+Roney04 collected 120 from pot
+Roney04: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: Roney04 (big blind) collected (120)
+
+
+
+PokerStars Hand #249565334194: Tournament #3732249680, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/22 21:51:28 CET [2024/03/22 16:51:28 ET]
+Table '3732249680 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (560 in chips) 
+Seat 3: Roney04 (940 in chips) 
+Roney04: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c Tc]
+Roney04: calls 15
+Mahu2021: checks 
+*** FLOP *** [7h 2s 8c]
+Mahu2021: checks 
+Roney04: bets 30
+Mahu2021: calls 30
+*** TURN *** [7h 2s 8c] [Ac]
+Mahu2021: checks 
+Roney04: checks 
+*** RIVER *** [7h 2s 8c Ac] [Qh]
+Mahu2021: bets 60
+Roney04: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [7h 2s 8c Ac Qh]
+Seat 1: Mahu2021 (big blind) collected (120)
+Seat 3: Roney04 (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #249565340825: Tournament #3732249680, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/22 21:51:47 CET [2024/03/22 16:51:47 ET]
+Table '3732249680 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (620 in chips) 
+Seat 3: Roney04 (880 in chips) 
+Mahu2021: posts small blind 15
+Roney04: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d 9s]
+Mahu2021: folds 
+Uncalled bet (15) returned to Roney04
+Roney04 collected 30 from pot
+Roney04: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: Roney04 (big blind) collected (30)
+
+
+
+PokerStars Hand #249565342316: Tournament #3732249680, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/22 21:51:52 CET [2024/03/22 16:51:52 ET]
+Table '3732249680 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (605 in chips) 
+Seat 3: Roney04 (895 in chips) 
+Roney04: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c 5c]
+Roney04: raises 30 to 60
+Mahu2021: folds 
+Uncalled bet (30) returned to Roney04
+Roney04 collected 60 from pot
+Roney04: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 3: Roney04 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #249565343963: Tournament #3732249680, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/22 21:51:56 CET [2024/03/22 16:51:56 ET]
+Table '3732249680 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (575 in chips) 
+Seat 3: Roney04 (925 in chips) 
+Mahu2021: posts small blind 15
+Roney04: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2c 4c]
+Mahu2021: calls 15
+Roney04: raises 60 to 90
+Mahu2021: folds 
+Uncalled bet (60) returned to Roney04
+Roney04 collected 60 from pot
+Roney04: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: Roney04 (big blind) collected (60)
+
+
+
+PokerStars Hand #249565346225: Tournament #3732249680, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/22 21:52:03 CET [2024/03/22 16:52:03 ET]
+Table '3732249680 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (545 in chips) 
+Seat 3: Roney04 (955 in chips) 
+Roney04: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah Ks]
+Roney04: raises 30 to 60
+Mahu2021: raises 90 to 150
+Roney04: folds 
+Uncalled bet (90) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (120)
+Seat 3: Roney04 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #249565348679: Tournament #3732249680, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/22 21:52:11 CET [2024/03/22 16:52:11 ET]
+Table '3732249680 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (605 in chips) 
+Seat 3: Roney04 (895 in chips) 
+Mahu2021: posts small blind 15
+Roney04: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js Jd]
+Mahu2021: calls 15
+Roney04: checks 
+*** FLOP *** [Jh Ks 2d]
+Roney04: checks 
+Mahu2021: checks 
+*** TURN *** [Jh Ks 2d] [Jc]
+Roney04: checks 
+Mahu2021: bets 60
+Roney04: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Jh Ks 2d Jc]
+Seat 1: Mahu2021 (button) (small blind) collected (60)
+Seat 3: Roney04 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #249565353832: Tournament #3732249680, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/03/22 21:52:26 CET [2024/03/22 16:52:26 ET]
+Table '3732249680 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (635 in chips) 
+Seat 3: Roney04 (865 in chips) 
+Roney04: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd Kd]
+Roney04: calls 20
+Mahu2021: raises 80 to 120
+Roney04: folds 
+Uncalled bet (80) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (80)
+Seat 3: Roney04 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #249565356501: Tournament #3732249680, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/03/22 21:52:34 CET [2024/03/22 16:52:34 ET]
+Table '3732249680 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (675 in chips) 
+Seat 3: Roney04 (825 in chips) 
+Mahu2021: posts small blind 20
+Roney04: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad 6c]
+Mahu2021: raises 40 to 80
+Roney04: raises 745 to 825 and is all-in
+Mahu2021: folds 
+Uncalled bet (745) returned to Roney04
+Roney04 collected 160 from pot
+Roney04: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: Roney04 (big blind) collected (160)
+
+
+
+PokerStars Hand #249565360593: Tournament #3732249680, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/03/22 21:52:46 CET [2024/03/22 16:52:46 ET]
+Table '3732249680 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (595 in chips) 
+Seat 3: Roney04 (905 in chips) 
+Roney04: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kc Jd]
+Roney04: calls 20
+Mahu2021: checks 
+*** FLOP *** [9s 2h Jc]
+Mahu2021: bets 40
+Roney04: calls 40
+*** TURN *** [9s 2h Jc] [9h]
+Mahu2021: bets 40
+Roney04: calls 40
+*** RIVER *** [9s 2h Jc 9h] [Qs]
+Mahu2021: bets 40
+Roney04: calls 40
+*** SHOW DOWN ***
+Mahu2021: shows [Kc Jd] (two pair, Jacks and Nines)
+Roney04: shows [Qc 7d] (two pair, Queens and Nines)
+Roney04 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [9s 2h Jc 9h Qs]
+Seat 1: Mahu2021 (big blind) showed [Kc Jd] and lost with two pair, Jacks and Nines
+Seat 3: Roney04 (button) (small blind) showed [Qc 7d] and won (320) with two pair, Queens and Nines
+
+
+
+PokerStars Hand #249565365993: Tournament #3732249680, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/03/22 21:53:01 CET [2024/03/22 16:53:01 ET]
+Table '3732249680 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (435 in chips) 
+Seat 3: Roney04 (1065 in chips) 
+Mahu2021: posts small blind 20
+Roney04: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h 2d]
+Mahu2021: folds 
+Uncalled bet (20) returned to Roney04
+Roney04 collected 40 from pot
+Roney04: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: Roney04 (big blind) collected (40)
+
+
+
+PokerStars Hand #249565367385: Tournament #3732249680, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/03/22 21:53:05 CET [2024/03/22 16:53:05 ET]
+Table '3732249680 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (415 in chips) 
+Seat 3: Roney04 (1085 in chips) 
+Roney04: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah Qs]
+Roney04: raises 40 to 80
+Mahu2021: raises 335 to 415 and is all-in
+Roney04: folds 
+Uncalled bet (335) returned to Mahu2021
+Mahu2021 collected 160 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (160)
+Seat 3: Roney04 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #249565369972: Tournament #3732249680, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/03/22 21:53:13 CET [2024/03/22 16:53:13 ET]
+Table '3732249680 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (495 in chips) 
+Seat 3: Roney04 (1005 in chips) 
+Mahu2021: posts small blind 20
+Roney04: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah 3d]
+Mahu2021: raises 40 to 80
+Roney04: calls 40
+*** FLOP *** [Qd 6h 5h]
+Roney04: checks 
+Mahu2021: bets 415 and is all-in
+Roney04: calls 415
+*** TURN *** [Qd 6h 5h] [7d]
+*** RIVER *** [Qd 6h 5h 7d] [4s]
+*** SHOW DOWN ***
+Roney04: shows [Th 8h] (a straight, Four to Eight)
+Mahu2021: shows [Ah 3d] (a straight, Three to Seven)
+Roney04 collected 990 from pot
+Mahu2021 finished the tournament in 2nd place
+Roney04 wins the tournament and receives $6.00 - congratulations!
+*** SUMMARY ***
+Total pot 990 | Rake 0 
+Board [Qd 6h 5h 7d 4s]
+Seat 1: Mahu2021 (button) (small blind) showed [Ah 3d] and lost with a straight, Three to Seven
+Seat 3: Roney04 (big blind) showed [Th 8h] and won (990) with a straight, Four to Eight
+
+
+

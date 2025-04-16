@@ -1,0 +1,307 @@
+﻿PokerStars Hand #247754294912: Tournament #3688689370, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/19 21:26:09 CET [2023/12/19 15:26:09 ET]
+Table '3688689370 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: }l{EH9I (500 in chips) 
+Seat 3: danipomp (500 in chips) 
+}l{EH9I: posts small blind 10
+danipomp: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s Qc]
+Mahu2021: calls 20
+}l{EH9I: raises 20 to 40
+danipomp: folds 
+Mahu2021: calls 20
+*** FLOP *** [5c 4d 6c]
+}l{EH9I: checks 
+Mahu2021: checks 
+*** TURN *** [5c 4d 6c] [Jh]
+}l{EH9I: bets 20
+Mahu2021: folds 
+Uncalled bet (20) returned to }l{EH9I
+}l{EH9I collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [5c 4d 6c Jh]
+Seat 1: Mahu2021 (button) folded on the Turn
+Seat 2: }l{EH9I (small blind) collected (100)
+Seat 3: danipomp (big blind) folded before Flop
+
+
+
+PokerStars Hand #247754300555: Tournament #3688689370, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/19 21:26:25 CET [2023/12/19 15:26:25 ET]
+Table '3688689370 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (460 in chips) 
+Seat 2: }l{EH9I (560 in chips) 
+Seat 3: danipomp (480 in chips) 
+danipomp: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts Jh]
+}l{EH9I: calls 20
+danipomp: folds 
+Mahu2021: checks 
+*** FLOP *** [Tc 8d Js]
+Mahu2021: checks 
+}l{EH9I: checks 
+*** TURN *** [Tc 8d Js] [As]
+Mahu2021: checks 
+}l{EH9I: bets 20
+Mahu2021: calls 20
+*** RIVER *** [Tc 8d Js As] [Kc]
+Mahu2021: bets 20
+}l{EH9I: raises 60 to 80
+Mahu2021: folds 
+Uncalled bet (60) returned to }l{EH9I
+}l{EH9I collected 130 from pot
+*** SUMMARY ***
+Total pot 130 | Rake 0 
+Board [Tc 8d Js As Kc]
+Seat 1: Mahu2021 (big blind) folded on the River
+Seat 2: }l{EH9I (button) collected (130)
+Seat 3: danipomp (small blind) folded before Flop
+
+
+
+PokerStars Hand #247754307343: Tournament #3688689370, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/19 21:26:44 CET [2023/12/19 15:26:44 ET]
+Table '3688689370 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (400 in chips) 
+Seat 2: }l{EH9I (630 in chips) 
+Seat 3: danipomp (470 in chips) 
+Mahu2021: posts small blind 10
+}l{EH9I: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d Jd]
+danipomp: folds 
+Mahu2021: calls 10
+}l{EH9I: checks 
+*** FLOP *** [2d 3c Ah]
+Mahu2021: bets 20
+}l{EH9I: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [2d 3c Ah]
+Seat 1: Mahu2021 (small blind) collected (40)
+Seat 2: }l{EH9I (big blind) folded on the Flop
+Seat 3: danipomp (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #247754311088: Tournament #3688689370, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/19 21:26:55 CET [2023/12/19 15:26:55 ET]
+Table '3688689370 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (420 in chips) 
+Seat 2: }l{EH9I (610 in chips) 
+Seat 3: danipomp (470 in chips) 
+}l{EH9I: posts small blind 10
+danipomp: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h 6c]
+Mahu2021: folds 
+}l{EH9I: calls 10
+danipomp: checks 
+*** FLOP *** [Ks Kc 3c]
+}l{EH9I: bets 20
+danipomp: calls 20
+*** TURN *** [Ks Kc 3c] [7c]
+}l{EH9I: checks 
+danipomp: bets 60
+}l{EH9I: calls 60
+*** RIVER *** [Ks Kc 3c 7c] [7s]
+}l{EH9I: checks 
+danipomp: checks 
+*** SHOW DOWN ***
+}l{EH9I: shows [7h Jh] (a full house, Sevens full of Kings)
+danipomp: mucks hand 
+}l{EH9I collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [Ks Kc 3c 7c 7s]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: }l{EH9I (small blind) showed [7h Jh] and won (200) with a full house, Sevens full of Kings
+Seat 3: danipomp (big blind) mucked [2c 5c]
+
+
+
+PokerStars Hand #247754321780: Tournament #3688689370, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/19 21:27:26 CET [2023/12/19 15:27:26 ET]
+Table '3688689370 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (420 in chips) 
+Seat 2: }l{EH9I (710 in chips) 
+Seat 3: danipomp (370 in chips) 
+danipomp: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c Th]
+}l{EH9I: folds 
+danipomp: raises 20 to 40
+Mahu2021: folds 
+Uncalled bet (20) returned to danipomp
+danipomp collected 40 from pot
+danipomp: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: }l{EH9I (button) folded before Flop (didn't bet)
+Seat 3: danipomp (small blind) collected (40)
+
+
+
+PokerStars Hand #247754326546: Tournament #3688689370, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/19 21:27:39 CET [2023/12/19 15:27:39 ET]
+Table '3688689370 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (400 in chips) 
+Seat 2: }l{EH9I (710 in chips) 
+Seat 3: danipomp (390 in chips) 
+Mahu2021: posts small blind 10
+}l{EH9I: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2c Qs]
+danipomp: folds 
+Mahu2021: folds 
+Uncalled bet (10) returned to }l{EH9I
+}l{EH9I collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: }l{EH9I (big blind) collected (20)
+Seat 3: danipomp (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #247754328735: Tournament #3688689370, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/19 21:27:45 CET [2023/12/19 15:27:45 ET]
+Table '3688689370 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (390 in chips) 
+Seat 2: }l{EH9I (720 in chips) 
+Seat 3: danipomp (390 in chips) 
+}l{EH9I: posts small blind 10
+danipomp: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s 2h]
+Mahu2021: folds 
+}l{EH9I: calls 10
+danipomp: raises 40 to 60
+}l{EH9I: calls 40
+*** FLOP *** [Qc Ah Jd]
+}l{EH9I: checks 
+danipomp: checks 
+*** TURN *** [Qc Ah Jd] [4d]
+}l{EH9I: checks 
+danipomp: checks 
+*** RIVER *** [Qc Ah Jd 4d] [9s]
+}l{EH9I: bets 20
+danipomp: raises 80 to 100
+}l{EH9I: calls 80
+*** SHOW DOWN ***
+danipomp: shows [9d 9c] (three of a kind, Nines)
+}l{EH9I: shows [8d Td] (a straight, Eight to Queen)
+}l{EH9I collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [Qc Ah Jd 4d 9s]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: }l{EH9I (small blind) showed [8d Td] and won (320) with a straight, Eight to Queen
+Seat 3: danipomp (big blind) showed [9d 9c] and lost with three of a kind, Nines
+
+
+
+PokerStars Hand #247754339784: Tournament #3688689370, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/12/19 21:28:17 CET [2023/12/19 15:28:17 ET]
+Table '3688689370 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (390 in chips) 
+Seat 2: }l{EH9I (880 in chips) 
+Seat 3: danipomp (230 in chips) 
+danipomp: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d 8c]
+}l{EH9I: folds 
+danipomp: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (30)
+Seat 2: }l{EH9I (button) folded before Flop (didn't bet)
+Seat 3: danipomp (small blind) folded before Flop
+
+
+
+PokerStars Hand #247754342253: Tournament #3688689370, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/12/19 21:28:24 CET [2023/12/19 15:28:24 ET]
+Table '3688689370 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (405 in chips) 
+Seat 2: }l{EH9I (880 in chips) 
+Seat 3: danipomp (215 in chips) 
+Mahu2021: posts small blind 15
+}l{EH9I: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h 5h]
+danipomp: folds 
+Mahu2021: calls 15
+}l{EH9I: checks 
+*** FLOP *** [3d 9h Tc]
+Mahu2021: bets 30
+}l{EH9I: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [3d 9h Tc]
+Seat 1: Mahu2021 (small blind) collected (60)
+Seat 2: }l{EH9I (big blind) folded on the Flop
+Seat 3: danipomp (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #247754345830: Tournament #3688689370, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/12/19 21:28:34 CET [2023/12/19 15:28:34 ET]
+Table '3688689370 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (435 in chips) 
+Seat 2: }l{EH9I (850 in chips) 
+Seat 3: danipomp (215 in chips) 
+}l{EH9I: posts small blind 15
+danipomp: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c 2h]
+Mahu2021: folds 
+}l{EH9I: raises 30 to 60
+danipomp: folds 
+Uncalled bet (30) returned to }l{EH9I
+}l{EH9I collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: }l{EH9I (small blind) collected (60)
+Seat 3: danipomp (big blind) folded before Flop
+
+
+
+PokerStars Hand #247754348718: Tournament #3688689370, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/12/19 21:28:42 CET [2023/12/19 15:28:42 ET]
+Table '3688689370 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (435 in chips) 
+Seat 2: }l{EH9I (880 in chips) 
+Seat 3: danipomp (185 in chips) 
+danipomp: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kc Tc]
+}l{EH9I: raises 850 to 880 and is all-in
+danipomp: folds 
+Mahu2021: calls 405 and is all-in
+Uncalled bet (445) returned to }l{EH9I
+*** FLOP *** [Ac 3d 3c]
+*** TURN *** [Ac 3d 3c] [7s]
+*** RIVER *** [Ac 3d 3c 7s] [8h]
+*** SHOW DOWN ***
+Mahu2021: shows [Kc Tc] (a pair of Threes)
+}l{EH9I: shows [As 6d] (two pair, Aces and Threes)
+}l{EH9I collected 885 from pot
+Mahu2021 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 885 | Rake 0 
+Board [Ac 3d 3c 7s 8h]
+Seat 1: Mahu2021 (big blind) showed [Kc Tc] and lost with a pair of Threes
+Seat 2: }l{EH9I (button) showed [As 6d] and won (885) with two pair, Aces and Threes
+Seat 3: danipomp (small blind) folded before Flop
+
+
+

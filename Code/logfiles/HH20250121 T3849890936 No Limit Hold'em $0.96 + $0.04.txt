@@ -1,0 +1,162 @@
+﻿PokerStars Hand #254481723862: Tournament #3849890936, $0.96+$0.04 USD Hold'em No Limit - Match Round I, Level I (25/50) - 2025/01/21 10:54:19 CET [2025/01/21 4:54:19 ET]
+Table '3849890936 4' 4-max Seat #1 is the button
+Seat 1: jankauftrein (500 in chips) 
+Seat 2: herbsman06 (500 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+Seat 4: DOWNT0WN (500 in chips) 
+jankauftrein: posts the ante 10
+herbsman06: posts the ante 10
+Mahu2021: posts the ante 10
+DOWNT0WN: posts the ante 10
+herbsman06: posts small blind 25
+Mahu2021: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4d Td]
+DOWNT0WN: folds 
+jankauftrein: calls 50
+herbsman06: calls 25
+Mahu2021: checks 
+*** FLOP *** [8c 6c 3h]
+herbsman06: checks 
+Mahu2021: checks 
+jankauftrein: checks 
+*** TURN *** [8c 6c 3h] [Ah]
+herbsman06: checks 
+Mahu2021: checks 
+jankauftrein: checks 
+*** RIVER *** [8c 6c 3h Ah] [9c]
+herbsman06: checks 
+Mahu2021: checks 
+jankauftrein: checks 
+*** SHOW DOWN ***
+herbsman06: shows [Jh 2h] (high card Ace)
+Mahu2021: mucks hand 
+jankauftrein: shows [Jc Kh] (high card Ace - King kicker)
+jankauftrein collected 190 from pot
+*** SUMMARY ***
+Total pot 190 | Rake 0 
+Board [8c 6c 3h Ah 9c]
+Seat 1: jankauftrein (button) showed [Jc Kh] and won (190) with high card Ace
+Seat 2: herbsman06 (small blind) showed [Jh 2h] and lost with high card Ace
+Seat 3: Mahu2021 (big blind) mucked [4d Td]
+Seat 4: DOWNT0WN folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254481727324: Tournament #3849890936, $0.96+$0.04 USD Hold'em No Limit - Match Round I, Level I (25/50) - 2025/01/21 10:54:54 CET [2025/01/21 4:54:54 ET]
+Table '3849890936 4' 4-max Seat #2 is the button
+Seat 1: jankauftrein (630 in chips) 
+Seat 2: herbsman06 (440 in chips) 
+Seat 3: Mahu2021 (440 in chips) 
+Seat 4: DOWNT0WN (490 in chips) 
+jankauftrein: posts the ante 10
+herbsman06: posts the ante 10
+Mahu2021: posts the ante 10
+DOWNT0WN: posts the ante 10
+Mahu2021: posts small blind 25
+DOWNT0WN: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh 6c]
+jankauftrein: calls 50
+herbsman06: calls 50
+Mahu2021: calls 25
+DOWNT0WN: checks 
+*** FLOP *** [6s 8d Jd]
+Mahu2021: bets 50
+DOWNT0WN: folds 
+jankauftrein: folds 
+herbsman06: calls 50
+*** TURN *** [6s 8d Jd] [9c]
+Mahu2021: checks 
+herbsman06: checks 
+*** RIVER *** [6s 8d Jd 9c] [5h]
+Mahu2021: checks 
+herbsman06: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [Kh 6c] (a pair of Sixes)
+herbsman06: mucks hand 
+Mahu2021 collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | Rake 0 
+Board [6s 8d Jd 9c 5h]
+Seat 1: jankauftrein folded on the Flop
+Seat 2: herbsman06 (button) mucked [Ad 2d]
+Seat 3: Mahu2021 (small blind) showed [Kh 6c] and won (340) with a pair of Sixes
+Seat 4: DOWNT0WN (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254481730522: Tournament #3849890936, $0.96+$0.04 USD Hold'em No Limit - Match Round I, Level I (25/50) - 2025/01/21 10:55:30 CET [2025/01/21 4:55:30 ET]
+Table '3849890936 4' 4-max Seat #3 is the button
+Seat 1: jankauftrein (570 in chips) 
+Seat 2: herbsman06 (330 in chips) 
+Seat 3: Mahu2021 (670 in chips) 
+Seat 4: DOWNT0WN (430 in chips) 
+jankauftrein: posts the ante 10
+herbsman06: posts the ante 10
+Mahu2021: posts the ante 10
+DOWNT0WN: posts the ante 10
+DOWNT0WN: posts small blind 25
+jankauftrein: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac Qh]
+herbsman06: raises 50 to 100
+Mahu2021: raises 560 to 660 and is all-in
+DOWNT0WN: calls 395 and is all-in
+jankauftrein: folds 
+herbsman06: calls 220 and is all-in
+Uncalled bet (240) returned to Mahu2021
+*** FLOP *** [Qc 5h Jd]
+*** TURN *** [Qc 5h Jd] [Kh]
+*** RIVER *** [Qc 5h Jd Kh] [9h]
+*** SHOW DOWN ***
+DOWNT0WN: shows [6h Ah] (a flush, Ace high)
+Mahu2021: shows [Ac Qh] (a pair of Queens)
+DOWNT0WN collected 200 from side pot
+herbsman06: shows [Th Td] (a straight, Nine to King)
+DOWNT0WN collected 1050 from main pot
+herbsman06 finished the tournament in 14th place
+*** SUMMARY ***
+Total pot 1250 Main pot 1050. Side pot 200. | Rake 0 
+Board [Qc 5h Jd Kh 9h]
+Seat 1: jankauftrein (big blind) folded before Flop
+Seat 2: herbsman06 showed [Th Td] and lost with a straight, Nine to King
+Seat 3: Mahu2021 (button) showed [Ac Qh] and lost with a pair of Queens
+Seat 4: DOWNT0WN (small blind) showed [6h Ah] and won (1250) with a flush, Ace high
+
+
+
+PokerStars Hand #254481732517: Tournament #3849890936, $0.96+$0.04 USD Hold'em No Limit - Match Round I, Level I (25/50) - 2025/01/21 10:55:54 CET [2025/01/21 4:55:54 ET]
+Table '3849890936 4' 4-max Seat #4 is the button
+Seat 1: jankauftrein (510 in chips) 
+Seat 3: Mahu2021 (240 in chips) 
+Seat 4: DOWNT0WN (1250 in chips) 
+jankauftrein: posts the ante 10
+Mahu2021: posts the ante 10
+DOWNT0WN: posts the ante 10
+jankauftrein: posts small blind 25
+Mahu2021: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc 7h]
+DOWNT0WN: raises 50 to 100
+jankauftrein: folds 
+Mahu2021: calls 50
+*** FLOP *** [9c 7d 8c]
+Mahu2021: bets 130 and is all-in
+DOWNT0WN: calls 130
+*** TURN *** [9c 7d 8c] [6h]
+*** RIVER *** [9c 7d 8c 6h] [2h]
+*** SHOW DOWN ***
+Mahu2021: shows [Qc 7h] (a pair of Sevens)
+DOWNT0WN: shows [Ah Ac] (a pair of Aces)
+DOWNT0WN collected 515 from pot
+Mahu2021 finished the tournament in 13th place
+*** SUMMARY ***
+Total pot 515 | Rake 0 
+Board [9c 7d 8c 6h 2h]
+Seat 1: jankauftrein (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) showed [Qc 7h] and lost with a pair of Sevens
+Seat 4: DOWNT0WN (button) showed [Ah Ac] and won (515) with a pair of Aces
+
+
+

@@ -1,0 +1,686 @@
+﻿PokerStars Hand #244071945790: Tournament #3599833085, $1.38+$0.12 USD Hold'em No Limit - Level I (10/20) - 2023/06/03 21:36:07 CET [2023/06/03 15:36:07 ET]
+Table '3599833085 1' 3-max Seat #1 is the button
+Seat 1: CAP.JR19 (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: asplucky (500 in chips) 
+Mahu2021: posts small blind 10
+asplucky: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd Th]
+CAP.JR19: calls 20
+Mahu2021: calls 10
+asplucky: checks 
+*** FLOP *** [3s Qh 6c]
+Mahu2021: checks 
+asplucky: bets 20
+CAP.JR19: calls 20
+Mahu2021: folds 
+*** TURN *** [3s Qh 6c] [5h]
+asplucky: checks 
+CAP.JR19: checks 
+*** RIVER *** [3s Qh 6c 5h] [Qc]
+asplucky: checks 
+CAP.JR19: checks 
+*** SHOW DOWN ***
+asplucky: shows [6s 7d] (two pair, Queens and Sixes)
+CAP.JR19: mucks hand 
+asplucky collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [3s Qh 6c 5h Qc]
+Seat 1: CAP.JR19 (button) mucked [Ac 3d]
+Seat 2: Mahu2021 (small blind) folded on the Flop
+Seat 3: asplucky (big blind) showed [6s 7d] and won (100) with two pair, Queens and Sixes
+
+
+
+PokerStars Hand #244071959785: Tournament #3599833085, $1.38+$0.12 USD Hold'em No Limit - Level I (10/20) - 2023/06/03 21:36:49 CET [2023/06/03 15:36:49 ET]
+Table '3599833085 1' 3-max Seat #2 is the button
+Seat 1: CAP.JR19 (460 in chips) 
+Seat 2: Mahu2021 (480 in chips) 
+Seat 3: asplucky (560 in chips) 
+asplucky: posts small blind 10
+CAP.JR19: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c Jc]
+Mahu2021: calls 20
+asplucky: raises 20 to 40
+CAP.JR19: calls 20
+Mahu2021: calls 20
+*** FLOP *** [8d Js Qs]
+asplucky: checks 
+CAP.JR19: checks 
+Mahu2021: checks 
+*** TURN *** [8d Js Qs] [9s]
+asplucky: checks 
+CAP.JR19: bets 20
+Mahu2021: folds 
+asplucky: folds 
+Uncalled bet (20) returned to CAP.JR19
+CAP.JR19 collected 120 from pot
+CAP.JR19: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [8d Js Qs 9s]
+Seat 1: CAP.JR19 (big blind) collected (120)
+Seat 2: Mahu2021 (button) folded on the Turn
+Seat 3: asplucky (small blind) folded on the Turn
+
+
+
+PokerStars Hand #244071972733: Tournament #3599833085, $1.38+$0.12 USD Hold'em No Limit - Level I (10/20) - 2023/06/03 21:37:28 CET [2023/06/03 15:37:28 ET]
+Table '3599833085 1' 3-max Seat #3 is the button
+Seat 1: CAP.JR19 (540 in chips) 
+Seat 2: Mahu2021 (440 in chips) 
+Seat 3: asplucky (520 in chips) 
+CAP.JR19: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2s 6h]
+asplucky: folds 
+CAP.JR19: calls 10
+Mahu2021: checks 
+*** FLOP *** [7h Kh 4c]
+CAP.JR19: checks 
+Mahu2021: checks 
+*** TURN *** [7h Kh 4c] [Qh]
+CAP.JR19: checks 
+Mahu2021: bets 40
+CAP.JR19: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [7h Kh 4c Qh]
+Seat 1: CAP.JR19 (small blind) folded on the Turn
+Seat 2: Mahu2021 (big blind) collected (40)
+Seat 3: asplucky (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #244071981459: Tournament #3599833085, $1.38+$0.12 USD Hold'em No Limit - Level I (10/20) - 2023/06/03 21:37:54 CET [2023/06/03 15:37:54 ET]
+Table '3599833085 1' 3-max Seat #1 is the button
+Seat 1: CAP.JR19 (520 in chips) 
+Seat 2: Mahu2021 (460 in chips) 
+Seat 3: asplucky (520 in chips) 
+Mahu2021: posts small blind 10
+asplucky: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js 7s]
+CAP.JR19: folds 
+Mahu2021: calls 10
+asplucky: raises 20 to 40
+Mahu2021: calls 20
+*** FLOP *** [Ah 3h Jh]
+Mahu2021: checks 
+asplucky: bets 20
+Mahu2021: raises 40 to 60
+asplucky: calls 40
+*** TURN *** [Ah 3h Jh] [4s]
+Mahu2021: checks 
+asplucky: checks 
+*** RIVER *** [Ah 3h Jh 4s] [2h]
+Mahu2021: bets 200
+asplucky: calls 200
+*** SHOW DOWN ***
+Mahu2021: shows [Js 7s] (a pair of Jacks)
+asplucky: shows [7h 7c] (a flush, Ace high)
+asplucky collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | Rake 0 
+Board [Ah 3h Jh 4s 2h]
+Seat 1: CAP.JR19 (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) showed [Js 7s] and lost with a pair of Jacks
+Seat 3: asplucky (big blind) showed [7h 7c] and won (600) with a flush, Ace high
+
+
+
+PokerStars Hand #244071993336: Tournament #3599833085, $1.38+$0.12 USD Hold'em No Limit - Level II (15/30) - 2023/06/03 21:38:30 CET [2023/06/03 15:38:30 ET]
+Table '3599833085 1' 3-max Seat #2 is the button
+Seat 1: CAP.JR19 (520 in chips) 
+Seat 2: Mahu2021 (160 in chips) 
+Seat 3: asplucky (820 in chips) 
+asplucky: posts small blind 15
+CAP.JR19: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h 4c]
+Mahu2021: folds 
+asplucky: raises 30 to 60
+CAP.JR19: folds 
+Uncalled bet (30) returned to asplucky
+asplucky collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: CAP.JR19 (big blind) folded before Flop
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: asplucky (small blind) collected (60)
+
+
+
+PokerStars Hand #244071996862: Tournament #3599833085, $1.38+$0.12 USD Hold'em No Limit - Level II (15/30) - 2023/06/03 21:38:40 CET [2023/06/03 15:38:40 ET]
+Table '3599833085 1' 3-max Seat #3 is the button
+Seat 1: CAP.JR19 (490 in chips) 
+Seat 2: Mahu2021 (160 in chips) 
+Seat 3: asplucky (850 in chips) 
+CAP.JR19: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8c 3h]
+asplucky: folds 
+CAP.JR19: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: CAP.JR19 (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (30)
+Seat 3: asplucky (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #244071999735: Tournament #3599833085, $1.38+$0.12 USD Hold'em No Limit - Level II (15/30) - 2023/06/03 21:38:49 CET [2023/06/03 15:38:49 ET]
+Table '3599833085 1' 3-max Seat #1 is the button
+Seat 1: CAP.JR19 (475 in chips) 
+Seat 2: Mahu2021 (175 in chips) 
+Seat 3: asplucky (850 in chips) 
+Mahu2021: posts small blind 15
+asplucky: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qs Ac]
+CAP.JR19: folds 
+Mahu2021: raises 145 to 175 and is all-in
+asplucky: calls 145
+*** FLOP *** [Jd Ah Qc]
+*** TURN *** [Jd Ah Qc] [4h]
+*** RIVER *** [Jd Ah Qc 4h] [3d]
+*** SHOW DOWN ***
+Mahu2021: shows [Qs Ac] (two pair, Aces and Queens)
+asplucky: shows [7c 3c] (a pair of Threes)
+Mahu2021 collected 350 from pot
+*** SUMMARY ***
+Total pot 350 | Rake 0 
+Board [Jd Ah Qc 4h 3d]
+Seat 1: CAP.JR19 (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) showed [Qs Ac] and won (350) with two pair, Aces and Queens
+Seat 3: asplucky (big blind) showed [7c 3c] and lost with a pair of Threes
+
+
+
+PokerStars Hand #244072005157: Tournament #3599833085, $1.38+$0.12 USD Hold'em No Limit - Level II (15/30) - 2023/06/03 21:39:05 CET [2023/06/03 15:39:05 ET]
+Table '3599833085 1' 3-max Seat #2 is the button
+Seat 1: CAP.JR19 (475 in chips) 
+Seat 2: Mahu2021 (350 in chips) 
+Seat 3: asplucky (675 in chips) 
+asplucky: posts small blind 15
+CAP.JR19: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As 6s]
+Mahu2021: calls 30
+asplucky: calls 15
+CAP.JR19: checks 
+*** FLOP *** [Ac 8s Qs]
+asplucky: checks 
+CAP.JR19: bets 45
+Mahu2021: raises 275 to 320 and is all-in
+asplucky: folds 
+CAP.JR19: calls 275
+*** TURN *** [Ac 8s Qs] [3s]
+*** RIVER *** [Ac 8s Qs 3s] [Ah]
+*** SHOW DOWN ***
+CAP.JR19: shows [Ks 5s] (a flush, King high)
+Mahu2021: shows [As 6s] (a flush, Ace high)
+Mahu2021 collected 730 from pot
+*** SUMMARY ***
+Total pot 730 | Rake 0 
+Board [Ac 8s Qs 3s Ah]
+Seat 1: CAP.JR19 (big blind) showed [Ks 5s] and lost with a flush, King high
+Seat 2: Mahu2021 (button) showed [As 6s] and won (730) with a flush, Ace high
+Seat 3: asplucky (small blind) folded on the Flop
+
+
+
+PokerStars Hand #244072019179: Tournament #3599833085, $1.38+$0.12 USD Hold'em No Limit - Level II (15/30) - 2023/06/03 21:39:48 CET [2023/06/03 15:39:48 ET]
+Table '3599833085 1' 3-max Seat #3 is the button
+Seat 1: CAP.JR19 (125 in chips) 
+Seat 2: Mahu2021 (730 in chips) 
+Seat 3: asplucky (645 in chips) 
+CAP.JR19: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kc 4s]
+asplucky: folds 
+CAP.JR19: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: CAP.JR19 (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (30)
+Seat 3: asplucky (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #244072021158: Tournament #3599833085, $1.38+$0.12 USD Hold'em No Limit - Level II (15/30) - 2023/06/03 21:39:54 CET [2023/06/03 15:39:54 ET]
+Table '3599833085 1' 3-max Seat #1 is the button
+Seat 1: CAP.JR19 (110 in chips) 
+Seat 2: Mahu2021 (745 in chips) 
+Seat 3: asplucky (645 in chips) 
+Mahu2021: posts small blind 15
+asplucky: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As 5h]
+CAP.JR19: folds 
+Mahu2021: calls 15
+asplucky: checks 
+*** FLOP *** [6s 7h 2s]
+Mahu2021: bets 30
+asplucky: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [6s 7h 2s]
+Seat 1: CAP.JR19 (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) collected (60)
+Seat 3: asplucky (big blind) folded on the Flop
+
+
+
+PokerStars Hand #244072525252: Tournament #3599833085, $1.38+$0.12 USD Hold'em No Limit - Level II (15/30) - 2023/06/03 21:40:06 CET [2023/06/03 15:40:06 ET]
+Table '3599833085 1' 3-max Seat #2 is the button
+Seat 1: CAP.JR19 (110 in chips) 
+Seat 2: Mahu2021 (775 in chips) 
+Seat 3: asplucky (615 in chips) 
+asplucky: posts small blind 15
+CAP.JR19: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h Js]
+Mahu2021: folds 
+asplucky: folds 
+Uncalled bet (15) returned to CAP.JR19
+CAP.JR19 collected 30 from pot
+CAP.JR19: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: CAP.JR19 (big blind) collected (30)
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: asplucky (small blind) folded before Flop
+
+
+
+PokerStars Hand #244072528245: Tournament #3599833085, $1.38+$0.12 USD Hold'em No Limit - Level III (20/40) - 2023/06/03 21:40:15 CET [2023/06/03 15:40:15 ET]
+Table '3599833085 1' 3-max Seat #3 is the button
+Seat 1: CAP.JR19 (125 in chips) 
+Seat 2: Mahu2021 (775 in chips) 
+Seat 3: asplucky (600 in chips) 
+CAP.JR19: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s Ts]
+asplucky: folds 
+CAP.JR19: raises 85 to 125 and is all-in
+Mahu2021: calls 85
+*** FLOP *** [3c 3d 6h]
+*** TURN *** [3c 3d 6h] [4c]
+*** RIVER *** [3c 3d 6h 4c] [Jh]
+*** SHOW DOWN ***
+CAP.JR19: shows [8d Ah] (a pair of Threes)
+Mahu2021: shows [7s Ts] (a pair of Threes - lower kicker)
+CAP.JR19 collected 250 from pot
+*** SUMMARY ***
+Total pot 250 | Rake 0 
+Board [3c 3d 6h 4c Jh]
+Seat 1: CAP.JR19 (small blind) showed [8d Ah] and won (250) with a pair of Threes
+Seat 2: Mahu2021 (big blind) showed [7s Ts] and lost with a pair of Threes
+Seat 3: asplucky (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #244072534759: Tournament #3599833085, $1.38+$0.12 USD Hold'em No Limit - Level III (20/40) - 2023/06/03 21:40:35 CET [2023/06/03 15:40:35 ET]
+Table '3599833085 1' 3-max Seat #1 is the button
+Seat 1: CAP.JR19 (250 in chips) 
+Seat 2: Mahu2021 (650 in chips) 
+Seat 3: asplucky (600 in chips) 
+Mahu2021: posts small blind 20
+asplucky: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s 3s]
+CAP.JR19: folds 
+Mahu2021: calls 20
+asplucky: checks 
+*** FLOP *** [2d Tc 4s]
+Mahu2021: checks 
+asplucky: checks 
+*** TURN *** [2d Tc 4s] [Td]
+Mahu2021: checks 
+asplucky: checks 
+*** RIVER *** [2d Tc 4s Td] [As]
+Mahu2021: checks 
+asplucky: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [7s 3s] (a pair of Tens)
+asplucky: shows [Jd 5s] (a pair of Tens - Ace+Jack kicker)
+asplucky collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [2d Tc 4s Td As]
+Seat 1: CAP.JR19 (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) showed [7s 3s] and lost with a pair of Tens
+Seat 3: asplucky (big blind) showed [Jd 5s] and won (80) with a pair of Tens
+
+
+
+PokerStars Hand #244072543888: Tournament #3599833085, $1.38+$0.12 USD Hold'em No Limit - Level III (20/40) - 2023/06/03 21:41:03 CET [2023/06/03 15:41:03 ET]
+Table '3599833085 1' 3-max Seat #2 is the button
+Seat 1: CAP.JR19 (250 in chips) 
+Seat 2: Mahu2021 (610 in chips) 
+Seat 3: asplucky (640 in chips) 
+asplucky: posts small blind 20
+CAP.JR19: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s 5h]
+Mahu2021: raises 40 to 80
+asplucky: folds 
+CAP.JR19: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 100 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: CAP.JR19 (big blind) folded before Flop
+Seat 2: Mahu2021 (button) collected (100)
+Seat 3: asplucky (small blind) folded before Flop
+
+
+
+PokerStars Hand #244072546998: Tournament #3599833085, $1.38+$0.12 USD Hold'em No Limit - Level III (20/40) - 2023/06/03 21:41:12 CET [2023/06/03 15:41:12 ET]
+Table '3599833085 1' 3-max Seat #3 is the button
+Seat 1: CAP.JR19 (210 in chips) 
+Seat 2: Mahu2021 (670 in chips) 
+Seat 3: asplucky (620 in chips) 
+CAP.JR19: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah Td]
+asplucky: folds 
+CAP.JR19: raises 170 to 210 and is all-in
+Mahu2021: calls 170
+*** FLOP *** [Ad 2h Th]
+*** TURN *** [Ad 2h Th] [Jc]
+*** RIVER *** [Ad 2h Th Jc] [6h]
+*** SHOW DOWN ***
+CAP.JR19: shows [As Qd] (a pair of Aces)
+Mahu2021: shows [Ah Td] (two pair, Aces and Tens)
+Mahu2021 collected 420 from pot
+CAP.JR19 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 420 | Rake 0 
+Board [Ad 2h Th Jc 6h]
+Seat 1: CAP.JR19 (small blind) showed [As Qd] and lost with a pair of Aces
+Seat 2: Mahu2021 (big blind) showed [Ah Td] and won (420) with two pair, Aces and Tens
+Seat 3: asplucky (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #244072553617: Tournament #3599833085, $1.38+$0.12 USD Hold'em No Limit - Level III (20/40) - 2023/06/03 21:41:33 CET [2023/06/03 15:41:33 ET]
+Table '3599833085 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (880 in chips) 
+Seat 3: asplucky (620 in chips) 
+Mahu2021: posts small blind 20
+asplucky: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qs Kd]
+Mahu2021: raises 40 to 80
+asplucky: calls 40
+*** FLOP *** [4c Ad Js]
+asplucky: checks 
+Mahu2021: checks 
+*** TURN *** [4c Ad Js] [4s]
+asplucky: checks 
+Mahu2021: bets 80
+asplucky: folds 
+Uncalled bet (80) returned to Mahu2021
+Mahu2021 collected 160 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [4c Ad Js 4s]
+Seat 2: Mahu2021 (button) (small blind) collected (160)
+Seat 3: asplucky (big blind) folded on the Turn
+
+
+
+PokerStars Hand #244072562640: Tournament #3599833085, $1.38+$0.12 USD Hold'em No Limit - Level III (20/40) - 2023/06/03 21:42:00 CET [2023/06/03 15:42:00 ET]
+Table '3599833085 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (960 in chips) 
+Seat 3: asplucky (540 in chips) 
+asplucky: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d Ah]
+asplucky: calls 20
+Mahu2021: checks 
+*** FLOP *** [4s 6h 8h]
+Mahu2021: checks 
+asplucky: bets 40
+Mahu2021: folds 
+Uncalled bet (40) returned to asplucky
+asplucky collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [4s 6h 8h]
+Seat 2: Mahu2021 (big blind) folded on the Flop
+Seat 3: asplucky (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #244072568077: Tournament #3599833085, $1.38+$0.12 USD Hold'em No Limit - Level IV (30/60) - 2023/06/03 21:42:17 CET [2023/06/03 15:42:17 ET]
+Table '3599833085 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (920 in chips) 
+Seat 3: asplucky (580 in chips) 
+Mahu2021: posts small blind 30
+asplucky: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah Ac]
+Mahu2021: raises 60 to 120
+asplucky: calls 60
+*** FLOP *** [6h 2s 7c]
+asplucky: bets 60
+Mahu2021: raises 740 to 800 and is all-in
+asplucky: folds 
+Uncalled bet (740) returned to Mahu2021
+Mahu2021 collected 360 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [6h 2s 7c]
+Seat 2: Mahu2021 (button) (small blind) collected (360)
+Seat 3: asplucky (big blind) folded on the Flop
+
+
+
+PokerStars Hand #244072573683: Tournament #3599833085, $1.38+$0.12 USD Hold'em No Limit - Level IV (30/60) - 2023/06/03 21:42:33 CET [2023/06/03 15:42:33 ET]
+Table '3599833085 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (1100 in chips) 
+Seat 3: asplucky (400 in chips) 
+asplucky: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js 5h]
+asplucky: calls 30
+Mahu2021: checks 
+*** FLOP *** [6d Jh 2s]
+Mahu2021: bets 60
+asplucky: calls 60
+*** TURN *** [6d Jh 2s] [Qh]
+Mahu2021: checks 
+asplucky: checks 
+*** RIVER *** [6d Jh 2s Qh] [4s]
+Mahu2021: checks 
+asplucky: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [Js 5h] (a pair of Jacks)
+asplucky: mucks hand 
+Mahu2021 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [6d Jh 2s Qh 4s]
+Seat 2: Mahu2021 (big blind) showed [Js 5h] and won (240) with a pair of Jacks
+Seat 3: asplucky (button) (small blind) mucked [2d 8d]
+
+
+
+PokerStars Hand #244072579686: Tournament #3599833085, $1.38+$0.12 USD Hold'em No Limit - Level IV (30/60) - 2023/06/03 21:42:51 CET [2023/06/03 15:42:51 ET]
+Table '3599833085 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (1220 in chips) 
+Seat 3: asplucky (280 in chips) 
+Mahu2021: posts small blind 30
+asplucky: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8c Tc]
+Mahu2021: calls 30
+asplucky: checks 
+*** FLOP *** [Js Ac 3c]
+asplucky: bets 60
+Mahu2021: calls 60
+*** TURN *** [Js Ac 3c] [7h]
+asplucky: bets 60
+Mahu2021: calls 60
+*** RIVER *** [Js Ac 3c 7h] [5s]
+asplucky: bets 60
+Mahu2021: folds 
+Uncalled bet (60) returned to asplucky
+asplucky collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [Js Ac 3c 7h 5s]
+Seat 2: Mahu2021 (button) (small blind) folded on the River
+Seat 3: asplucky (big blind) collected (360)
+
+
+
+PokerStars Hand #244072586889: Tournament #3599833085, $1.38+$0.12 USD Hold'em No Limit - Level IV (30/60) - 2023/06/03 21:43:13 CET [2023/06/03 15:43:13 ET]
+Table '3599833085 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (1040 in chips) 
+Seat 3: asplucky (460 in chips) 
+asplucky: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h 4h]
+asplucky: calls 30
+Mahu2021: checks 
+*** FLOP *** [Ah Ks Jd]
+Mahu2021: checks 
+asplucky: bets 60
+Mahu2021: folds 
+Uncalled bet (60) returned to asplucky
+asplucky collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Ah Ks Jd]
+Seat 2: Mahu2021 (big blind) folded on the Flop
+Seat 3: asplucky (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #244072592030: Tournament #3599833085, $1.38+$0.12 USD Hold'em No Limit - Level IV (30/60) - 2023/06/03 21:43:29 CET [2023/06/03 15:43:29 ET]
+Table '3599833085 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (980 in chips) 
+Seat 3: asplucky (520 in chips) 
+Mahu2021: posts small blind 30
+asplucky: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h 3d]
+Mahu2021: folds 
+Uncalled bet (30) returned to asplucky
+asplucky collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: asplucky (big blind) collected (60)
+
+
+
+PokerStars Hand #244072593786: Tournament #3599833085, $1.38+$0.12 USD Hold'em No Limit - Level IV (30/60) - 2023/06/03 21:43:34 CET [2023/06/03 15:43:34 ET]
+Table '3599833085 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (950 in chips) 
+Seat 3: asplucky (550 in chips) 
+asplucky: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac 7c]
+asplucky: calls 30
+Mahu2021: raises 120 to 180
+asplucky: calls 120
+*** FLOP *** [Jd Ts Jh]
+Mahu2021: checks 
+asplucky: checks 
+*** TURN *** [Jd Ts Jh] [9h]
+Mahu2021: bets 180
+asplucky: calls 180
+*** RIVER *** [Jd Ts Jh 9h] [7d]
+Mahu2021: bets 240
+asplucky: calls 190 and is all-in
+Uncalled bet (50) returned to Mahu2021
+*** SHOW DOWN ***
+Mahu2021: shows [Ac 7c] (two pair, Jacks and Sevens)
+asplucky: shows [5s 8c] (a straight, Seven to Jack)
+asplucky collected 1100 from pot
+*** SUMMARY ***
+Total pot 1100 | Rake 0 
+Board [Jd Ts Jh 9h 7d]
+Seat 2: Mahu2021 (big blind) showed [Ac 7c] and lost with two pair, Jacks and Sevens
+Seat 3: asplucky (button) (small blind) showed [5s 8c] and won (1100) with a straight, Seven to Jack
+
+
+
+PokerStars Hand #244072601519: Tournament #3599833085, $1.38+$0.12 USD Hold'em No Limit - Level IV (30/60) - 2023/06/03 21:43:57 CET [2023/06/03 15:43:57 ET]
+Table '3599833085 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (400 in chips) 
+Seat 3: asplucky (1100 in chips) 
+Mahu2021: posts small blind 30
+asplucky: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h Qs]
+Mahu2021: folds 
+Uncalled bet (30) returned to asplucky
+asplucky collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: asplucky (big blind) collected (60)
+
+
+
+PokerStars Hand #244072603083: Tournament #3599833085, $1.38+$0.12 USD Hold'em No Limit - Level IV (30/60) - 2023/06/03 21:44:02 CET [2023/06/03 15:44:02 ET]
+Table '3599833085 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (370 in chips) 
+Seat 3: asplucky (1130 in chips) 
+asplucky: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qs Jd]
+asplucky: raises 60 to 120
+Mahu2021: raises 250 to 370 and is all-in
+asplucky: calls 250
+*** FLOP *** [7h 9c 3s]
+*** TURN *** [7h 9c 3s] [8c]
+*** RIVER *** [7h 9c 3s 8c] [Ac]
+*** SHOW DOWN ***
+Mahu2021: shows [Qs Jd] (high card Ace)
+asplucky: shows [Ah Kh] (a pair of Aces)
+asplucky collected 740 from pot
+Mahu2021 finished the tournament in 2nd place
+asplucky wins the tournament and receives $3.00 - congratulations!
+*** SUMMARY ***
+Total pot 740 | Rake 0 
+Board [7h 9c 3s 8c Ac]
+Seat 2: Mahu2021 (big blind) showed [Qs Jd] and lost with high card Ace
+Seat 3: asplucky (button) (small blind) showed [Ah Kh] and won (740) with a pair of Aces
+
+
+

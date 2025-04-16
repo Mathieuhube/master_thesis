@@ -1,0 +1,522 @@
+﻿PokerStars Hand #253191500048: Tournament #3818566240, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/31 21:28:33 CET [2024/10/31 16:28:33 ET]
+Table '3818566240 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: TONA_SK (500 in chips) 
+Seat 3: passat5 (500 in chips) 
+TONA_SK: posts small blind 10
+passat5: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8d Ad]
+Mahu2021: raises 20 to 40
+TONA_SK: folds 
+passat5: calls 20
+*** FLOP *** [2c 7s 8h]
+passat5: bets 20
+Mahu2021: calls 20
+*** TURN *** [2c 7s 8h] [Kc]
+passat5: bets 60
+Mahu2021: calls 60
+*** RIVER *** [2c 7s 8h Kc] [3s]
+passat5: bets 20
+Mahu2021: calls 20
+*** SHOW DOWN ***
+passat5: shows [Ac Js] (high card Ace)
+Mahu2021: shows [8d Ad] (a pair of Eights)
+Mahu2021 collected 290 from pot
+*** SUMMARY ***
+Total pot 290 | Rake 0 
+Board [2c 7s 8h Kc 3s]
+Seat 1: Mahu2021 (button) showed [8d Ad] and won (290) with a pair of Eights
+Seat 2: TONA_SK (small blind) folded before Flop
+Seat 3: passat5 (big blind) showed [Ac Js] and lost with high card Ace
+
+
+
+PokerStars Hand #253191505490: Tournament #3818566240, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/31 21:28:52 CET [2024/10/31 16:28:52 ET]
+Table '3818566240 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (650 in chips) 
+Seat 2: TONA_SK (490 in chips) 
+Seat 3: passat5 (360 in chips) 
+passat5: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s 6c]
+TONA_SK: raises 40 to 60
+passat5: calls 50
+Mahu2021: folds 
+*** FLOP *** [5c Ad Kd]
+passat5: bets 180
+TONA_SK: folds 
+Uncalled bet (180) returned to passat5
+passat5 collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | Rake 0 
+Board [5c Ad Kd]
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: TONA_SK (button) folded on the Flop
+Seat 3: passat5 (small blind) collected (140)
+
+
+
+PokerStars Hand #253191511282: Tournament #3818566240, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/31 21:29:13 CET [2024/10/31 16:29:13 ET]
+Table '3818566240 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (630 in chips) 
+Seat 2: TONA_SK (430 in chips) 
+Seat 3: passat5 (440 in chips) 
+Mahu2021: posts small blind 10
+TONA_SK: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc Kc]
+passat5: folds 
+Mahu2021: raises 20 to 40
+TONA_SK: calls 20
+*** FLOP *** [Ad Jh Qs]
+Mahu2021: checks 
+TONA_SK: checks 
+*** TURN *** [Ad Jh Qs] [2h]
+Mahu2021: checks 
+TONA_SK: checks 
+*** RIVER *** [Ad Jh Qs 2h] [Qc]
+Mahu2021: checks 
+TONA_SK: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [Jc Kc] (two pair, Queens and Jacks)
+TONA_SK: mucks hand 
+Mahu2021 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Ad Jh Qs 2h Qc]
+Seat 1: Mahu2021 (small blind) showed [Jc Kc] and won (80) with two pair, Queens and Jacks
+Seat 2: TONA_SK (big blind) mucked [8s 5d]
+Seat 3: passat5 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253191516210: Tournament #3818566240, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/31 21:29:31 CET [2024/10/31 16:29:31 ET]
+Table '3818566240 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (670 in chips) 
+Seat 2: TONA_SK (390 in chips) 
+Seat 3: passat5 (440 in chips) 
+TONA_SK: posts small blind 10
+passat5: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d Ah]
+Mahu2021: raises 20 to 40
+TONA_SK: folds 
+passat5: calls 20
+*** FLOP *** [9c 7d Ac]
+passat5: checks 
+Mahu2021: checks 
+*** TURN *** [9c 7d Ac] [Kd]
+passat5: checks 
+Mahu2021: checks 
+*** RIVER *** [9c 7d Ac Kd] [8h]
+passat5: bets 20
+Mahu2021: calls 20
+*** SHOW DOWN ***
+passat5: shows [8s Js] (a pair of Eights)
+Mahu2021: shows [3d Ah] (a pair of Aces)
+Mahu2021 collected 130 from pot
+*** SUMMARY ***
+Total pot 130 | Rake 0 
+Board [9c 7d Ac Kd 8h]
+Seat 1: Mahu2021 (button) showed [3d Ah] and won (130) with a pair of Aces
+Seat 2: TONA_SK (small blind) folded before Flop
+Seat 3: passat5 (big blind) showed [8s Js] and lost with a pair of Eights
+
+
+
+PokerStars Hand #253191522291: Tournament #3818566240, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/31 21:29:52 CET [2024/10/31 16:29:52 ET]
+Table '3818566240 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (740 in chips) 
+Seat 2: TONA_SK (380 in chips) 
+Seat 3: passat5 (380 in chips) 
+passat5: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qd 6c]
+TONA_SK: folds 
+passat5: calls 10
+Mahu2021: checks 
+*** FLOP *** [2c Kc 2s]
+passat5: checks 
+Mahu2021: checks 
+*** TURN *** [2c Kc 2s] [4h]
+passat5: bets 80
+Mahu2021: folds 
+Uncalled bet (80) returned to passat5
+passat5 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [2c Kc 2s 4h]
+Seat 1: Mahu2021 (big blind) folded on the Turn
+Seat 2: TONA_SK (button) folded before Flop (didn't bet)
+Seat 3: passat5 (small blind) collected (40)
+
+
+
+PokerStars Hand #253191527803: Tournament #3818566240, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/31 21:30:12 CET [2024/10/31 16:30:12 ET]
+Table '3818566240 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (720 in chips) 
+Seat 2: TONA_SK (380 in chips) 
+Seat 3: passat5 (400 in chips) 
+Mahu2021: posts small blind 10
+TONA_SK: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac 6d]
+passat5: folds 
+Mahu2021: raises 20 to 40
+TONA_SK: raises 340 to 380 and is all-in
+Mahu2021: folds 
+Uncalled bet (340) returned to TONA_SK
+TONA_SK collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: TONA_SK (big blind) collected (80)
+Seat 3: passat5 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253191530480: Tournament #3818566240, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/31 21:30:22 CET [2024/10/31 16:30:22 ET]
+Table '3818566240 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (680 in chips) 
+Seat 2: TONA_SK (420 in chips) 
+Seat 3: passat5 (400 in chips) 
+TONA_SK: posts small blind 10
+passat5: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s 3d]
+Mahu2021: folds 
+TONA_SK: folds 
+Uncalled bet (10) returned to passat5
+passat5 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: TONA_SK (small blind) folded before Flop
+Seat 3: passat5 (big blind) collected (20)
+
+
+
+PokerStars Hand #253191531955: Tournament #3818566240, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/31 21:30:27 CET [2024/10/31 16:30:27 ET]
+Table '3818566240 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (680 in chips) 
+Seat 2: TONA_SK (410 in chips) 
+Seat 3: passat5 (410 in chips) 
+passat5: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qd Kc]
+TONA_SK: folds 
+passat5: calls 10
+Mahu2021: raises 60 to 80
+passat5: calls 60
+*** FLOP *** [Qh Jh Td]
+passat5: bets 160
+Mahu2021: raises 440 to 600 and is all-in
+passat5: calls 170 and is all-in
+Uncalled bet (270) returned to Mahu2021
+*** TURN *** [Qh Jh Td] [4s]
+*** RIVER *** [Qh Jh Td 4s] [8h]
+*** SHOW DOWN ***
+passat5: shows [Jc 3c] (a pair of Jacks)
+Mahu2021: shows [Qd Kc] (a pair of Queens)
+Mahu2021 collected 820 from pot
+passat5 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 820 | Rake 0 
+Board [Qh Jh Td 4s 8h]
+Seat 1: Mahu2021 (big blind) showed [Qd Kc] and won (820) with a pair of Queens
+Seat 2: TONA_SK (button) folded before Flop (didn't bet)
+Seat 3: passat5 (small blind) showed [Jc 3c] and lost with a pair of Jacks
+
+
+
+PokerStars Hand #253191540142: Tournament #3818566240, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/31 21:30:57 CET [2024/10/31 16:30:57 ET]
+Table '3818566240 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1090 in chips) 
+Seat 2: TONA_SK (410 in chips) 
+Mahu2021: posts small blind 10
+TONA_SK: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h 9d]
+Mahu2021: folds 
+Uncalled bet (10) returned to TONA_SK
+TONA_SK collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 2: TONA_SK (big blind) collected (20)
+
+
+
+PokerStars Hand #253191541403: Tournament #3818566240, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/31 21:31:01 CET [2024/10/31 16:31:01 ET]
+Table '3818566240 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (1080 in chips) 
+Seat 2: TONA_SK (420 in chips) 
+TONA_SK: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s 9c]
+TONA_SK: raises 20 to 40
+Mahu2021: folds 
+Uncalled bet (20) returned to TONA_SK
+TONA_SK collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: TONA_SK (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #253191542918: Tournament #3818566240, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/31 21:31:07 CET [2024/10/31 16:31:07 ET]
+Table '3818566240 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1060 in chips) 
+Seat 2: TONA_SK (440 in chips) 
+Mahu2021: posts small blind 10
+TONA_SK: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3c Ks]
+Mahu2021: raises 20 to 40
+TONA_SK: calls 20
+*** FLOP *** [Td Tc Qc]
+TONA_SK: bets 20
+Mahu2021: folds 
+Uncalled bet (20) returned to TONA_SK
+TONA_SK collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Td Tc Qc]
+Seat 1: Mahu2021 (button) (small blind) folded on the Flop
+Seat 2: TONA_SK (big blind) collected (80)
+
+
+
+PokerStars Hand #253191546114: Tournament #3818566240, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/31 21:31:18 CET [2024/10/31 16:31:18 ET]
+Table '3818566240 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (1020 in chips) 
+Seat 2: TONA_SK (480 in chips) 
+TONA_SK: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h 9s]
+TONA_SK: raises 20 to 40
+Mahu2021: raises 980 to 1020 and is all-in
+TONA_SK: folds 
+Uncalled bet (980) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (80)
+Seat 2: TONA_SK (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #253191548702: Tournament #3818566240, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/31 21:31:28 CET [2024/10/31 16:31:28 ET]
+Table '3818566240 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1060 in chips) 
+Seat 2: TONA_SK (440 in chips) 
+Mahu2021: posts small blind 10
+TONA_SK: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2s 5h]
+Mahu2021: folds 
+Uncalled bet (10) returned to TONA_SK
+TONA_SK collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 2: TONA_SK (big blind) collected (20)
+
+
+
+PokerStars Hand #253191549998: Tournament #3818566240, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/31 21:31:32 CET [2024/10/31 16:31:32 ET]
+Table '3818566240 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (1050 in chips) 
+Seat 2: TONA_SK (450 in chips) 
+TONA_SK: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s 2d]
+TONA_SK: raises 20 to 40
+Mahu2021: folds 
+Uncalled bet (20) returned to TONA_SK
+TONA_SK collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: TONA_SK (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #253191552131: Tournament #3818566240, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/31 21:31:40 CET [2024/10/31 16:31:40 ET]
+Table '3818566240 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1030 in chips) 
+Seat 2: TONA_SK (470 in chips) 
+Mahu2021: posts small blind 15
+TONA_SK: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Th 9s]
+Mahu2021: raises 30 to 60
+TONA_SK: calls 30
+*** FLOP *** [8d 8s Td]
+TONA_SK: checks 
+Mahu2021: bets 120
+TONA_SK: folds 
+Uncalled bet (120) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [8d 8s Td]
+Seat 1: Mahu2021 (button) (small blind) collected (120)
+Seat 2: TONA_SK (big blind) folded on the Flop
+
+
+
+PokerStars Hand #253191555825: Tournament #3818566240, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/31 21:31:53 CET [2024/10/31 16:31:53 ET]
+Table '3818566240 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (1090 in chips) 
+Seat 2: TONA_SK (410 in chips) 
+TONA_SK: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s 3d]
+TONA_SK: raises 30 to 60
+Mahu2021: folds 
+Uncalled bet (30) returned to TONA_SK
+TONA_SK collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: TONA_SK (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #253191557243: Tournament #3818566240, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/31 21:31:58 CET [2024/10/31 16:31:58 ET]
+Table '3818566240 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1060 in chips) 
+Seat 2: TONA_SK (440 in chips) 
+Mahu2021: posts small blind 15
+TONA_SK: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c Kh]
+Mahu2021: raises 30 to 60
+TONA_SK: calls 30
+*** FLOP *** [9c Ad Kc]
+TONA_SK: checks 
+Mahu2021: bets 60
+TONA_SK: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [9c Ad Kc]
+Seat 1: Mahu2021 (button) (small blind) collected (120)
+Seat 2: TONA_SK (big blind) folded on the Flop
+
+
+
+PokerStars Hand #253191563286: Tournament #3818566240, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/31 21:32:21 CET [2024/10/31 16:32:21 ET]
+Table '3818566240 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (1120 in chips) 
+Seat 2: TONA_SK (380 in chips) 
+TONA_SK: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh 6c]
+TONA_SK: raises 30 to 60
+Mahu2021: calls 30
+*** FLOP *** [7d 3d Ah]
+Mahu2021: checks 
+TONA_SK: checks 
+*** TURN *** [7d 3d Ah] [Js]
+Mahu2021: bets 60
+TONA_SK: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [7d 3d Ah Js]
+Seat 1: Mahu2021 (big blind) collected (120)
+Seat 2: TONA_SK (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #253191568035: Tournament #3818566240, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/31 21:32:38 CET [2024/10/31 16:32:38 ET]
+Table '3818566240 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1180 in chips) 
+Seat 2: TONA_SK (320 in chips) 
+Mahu2021: posts small blind 15
+TONA_SK: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks 9h]
+Mahu2021: raises 30 to 60
+TONA_SK: calls 30
+*** FLOP *** [5d Jh 9s]
+TONA_SK: checks 
+Mahu2021: bets 60
+TONA_SK: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [5d Jh 9s]
+Seat 1: Mahu2021 (button) (small blind) collected (120)
+Seat 2: TONA_SK (big blind) folded on the Flop
+
+
+
+PokerStars Hand #253191571027: Tournament #3818566240, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/31 21:32:49 CET [2024/10/31 16:32:49 ET]
+Table '3818566240 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (1240 in chips) 
+Seat 2: TONA_SK (260 in chips) 
+TONA_SK: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kc 6c]
+TONA_SK: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (30)
+Seat 2: TONA_SK (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #253191572215: Tournament #3818566240, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/31 21:32:53 CET [2024/10/31 16:32:53 ET]
+Table '3818566240 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1255 in chips) 
+Seat 2: TONA_SK (245 in chips) 
+Mahu2021: posts small blind 15
+TONA_SK: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks Qs]
+Mahu2021: raises 30 to 60
+TONA_SK: calls 30
+*** FLOP *** [4d Kd 2d]
+TONA_SK: bets 185 and is all-in
+Mahu2021: calls 185
+*** TURN *** [4d Kd 2d] [6h]
+*** RIVER *** [4d Kd 2d 6h] [Ac]
+*** SHOW DOWN ***
+TONA_SK: shows [Td 7h] (high card Ace)
+Mahu2021: shows [Ks Qs] (a pair of Kings)
+Mahu2021 collected 490 from pot
+TONA_SK finished the tournament in 2nd place
+Mahu2021 wins the tournament and receives $6.00 - congratulations!
+*** SUMMARY ***
+Total pot 490 | Rake 0 
+Board [4d Kd 2d 6h Ac]
+Seat 1: Mahu2021 (button) (small blind) showed [Ks Qs] and won (490) with a pair of Kings
+Seat 2: TONA_SK (big blind) showed [Td 7h] and lost with high card Ace
+
+
+

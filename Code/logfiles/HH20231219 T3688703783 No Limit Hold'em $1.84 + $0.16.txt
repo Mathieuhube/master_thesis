@@ -1,0 +1,579 @@
+﻿PokerStars Hand #247754917701: Tournament #3688703783, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/19 21:55:54 CET [2023/12/19 15:55:54 ET]
+Table '3688703783 1' 3-max Seat #1 is the button
+Seat 1: rado7566 (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: dBxDog (500 in chips) 
+Mahu2021: posts small blind 10
+dBxDog: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd 5s]
+rado7566: calls 20
+Mahu2021: calls 10
+dBxDog: checks 
+*** FLOP *** [8d Ks 3d]
+Mahu2021: checks 
+dBxDog: checks 
+rado7566: bets 30
+Mahu2021: folds 
+dBxDog: raises 30 to 60
+rado7566: calls 30
+*** TURN *** [8d Ks 3d] [9h]
+dBxDog: bets 90
+rado7566: folds 
+Uncalled bet (90) returned to dBxDog
+dBxDog collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [8d Ks 3d 9h]
+Seat 1: rado7566 (button) folded on the Turn
+Seat 2: Mahu2021 (small blind) folded on the Flop
+Seat 3: dBxDog (big blind) collected (180)
+
+
+
+PokerStars Hand #247754926946: Tournament #3688703783, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/19 21:56:29 CET [2023/12/19 15:56:29 ET]
+Table '3688703783 1' 3-max Seat #2 is the button
+Seat 1: rado7566 (420 in chips) 
+Seat 2: Mahu2021 (480 in chips) 
+Seat 3: dBxDog (600 in chips) 
+dBxDog: posts small blind 10
+rado7566: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts 5s]
+Mahu2021: folds 
+dBxDog: raises 20 to 40
+rado7566: raises 380 to 420 and is all-in
+dBxDog: calls 380
+*** FLOP *** [4d 3s 2s]
+*** TURN *** [4d 3s 2s] [Jd]
+*** RIVER *** [4d 3s 2s Jd] [Qh]
+*** SHOW DOWN ***
+dBxDog: shows [Td Ah] (high card Ace)
+rado7566: shows [As 5d] (a straight, Ace to Five)
+rado7566 collected 840 from pot
+*** SUMMARY ***
+Total pot 840 | Rake 0 
+Board [4d 3s 2s Jd Qh]
+Seat 1: rado7566 (big blind) showed [As 5d] and won (840) with a straight, Ace to Five
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: dBxDog (small blind) showed [Td Ah] and lost with high card Ace
+
+
+
+PokerStars Hand #247754931497: Tournament #3688703783, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/19 21:56:47 CET [2023/12/19 15:56:47 ET]
+Table '3688703783 1' 3-max Seat #3 is the button
+Seat 1: rado7566 (840 in chips) 
+Seat 2: Mahu2021 (480 in chips) 
+Seat 3: dBxDog (180 in chips) 
+rado7566: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As 8c]
+dBxDog: raises 20 to 40
+rado7566: folds 
+Mahu2021: calls 20
+*** FLOP *** [Kd Kc 6h]
+Mahu2021: checks 
+dBxDog: checks 
+*** TURN *** [Kd Kc 6h] [2d]
+Mahu2021: bets 440 and is all-in
+dBxDog: calls 140 and is all-in
+Uncalled bet (300) returned to Mahu2021
+*** RIVER *** [Kd Kc 6h 2d] [6s]
+*** SHOW DOWN ***
+Mahu2021: shows [As 8c] (two pair, Kings and Sixes)
+dBxDog: shows [7d Qd] (two pair, Kings and Sixes - lower kicker)
+Mahu2021 collected 370 from pot
+dBxDog finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 370 | Rake 0 
+Board [Kd Kc 6h 2d 6s]
+Seat 1: rado7566 (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) showed [As 8c] and won (370) with two pair, Kings and Sixes
+Seat 3: dBxDog (button) showed [7d Qd] and lost with two pair, Kings and Sixes
+
+
+
+PokerStars Hand #247754938074: Tournament #3688703783, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/19 21:57:12 CET [2023/12/19 15:57:12 ET]
+Table '3688703783 1' 3-max Seat #2 is the button
+Seat 1: rado7566 (830 in chips) 
+Seat 2: Mahu2021 (670 in chips) 
+Mahu2021: posts small blind 10
+rado7566: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8d Qc]
+Mahu2021: calls 10
+rado7566: raises 810 to 830 and is all-in
+Mahu2021: folds 
+Uncalled bet (810) returned to rado7566
+rado7566 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: rado7566 (big blind) collected (40)
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #247754940317: Tournament #3688703783, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/19 21:57:20 CET [2023/12/19 15:57:20 ET]
+Table '3688703783 1' 3-max Seat #1 is the button
+Seat 1: rado7566 (850 in chips) 
+Seat 2: Mahu2021 (650 in chips) 
+rado7566: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh Td]
+rado7566: folds 
+Uncalled bet (10) returned to Mahu2021
+Mahu2021 collected 20 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: rado7566 (button) (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (20)
+
+
+
+PokerStars Hand #247754941606: Tournament #3688703783, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/19 21:57:25 CET [2023/12/19 15:57:25 ET]
+Table '3688703783 1' 3-max Seat #2 is the button
+Seat 1: rado7566 (840 in chips) 
+Seat 2: Mahu2021 (660 in chips) 
+Mahu2021: posts small blind 10
+rado7566: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qd Td]
+Mahu2021: calls 10
+rado7566: checks 
+*** FLOP *** [7h 3h Kc]
+rado7566: checks 
+Mahu2021: bets 20
+rado7566: calls 20
+*** TURN *** [7h 3h Kc] [8h]
+rado7566: checks 
+Mahu2021: checks 
+*** RIVER *** [7h 3h Kc 8h] [2s]
+rado7566: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+rado7566: shows [3c Ad] (a pair of Threes)
+Mahu2021: mucks hand 
+rado7566 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [7h 3h Kc 8h 2s]
+Seat 1: rado7566 (big blind) showed [3c Ad] and won (80) with a pair of Threes
+Seat 2: Mahu2021 (button) (small blind) mucked [Qd Td]
+
+
+
+PokerStars Hand #247754947230: Tournament #3688703783, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/19 21:57:47 CET [2023/12/19 15:57:47 ET]
+Table '3688703783 1' 3-max Seat #1 is the button
+Seat 1: rado7566 (880 in chips) 
+Seat 2: Mahu2021 (620 in chips) 
+rado7566: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah 5s]
+rado7566: calls 10
+Mahu2021: checks 
+*** FLOP *** [Td 7s 6h]
+Mahu2021: checks 
+rado7566: checks 
+*** TURN *** [Td 7s 6h] [Qs]
+Mahu2021: checks 
+rado7566: checks 
+*** RIVER *** [Td 7s 6h Qs] [2c]
+Mahu2021: checks 
+rado7566: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [Ah 5s] (high card Ace)
+rado7566: shows [9c As] (high card Ace - Queen+Ten+Nine kicker)
+rado7566 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Td 7s 6h Qs 2c]
+Seat 1: rado7566 (button) (small blind) showed [9c As] and won (40) with high card Ace
+Seat 2: Mahu2021 (big blind) showed [Ah 5s] and lost with high card Ace
+
+
+
+PokerStars Hand #247754952284: Tournament #3688703783, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/19 21:58:06 CET [2023/12/19 15:58:06 ET]
+Table '3688703783 1' 3-max Seat #2 is the button
+Seat 1: rado7566 (900 in chips) 
+Seat 2: Mahu2021 (600 in chips) 
+Mahu2021: posts small blind 10
+rado7566: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8s Qs]
+Mahu2021: calls 10
+rado7566: checks 
+*** FLOP *** [3h 2c Js]
+rado7566: checks 
+Mahu2021: bets 20
+rado7566: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [3h 2c Js]
+Seat 1: rado7566 (big blind) folded on the Flop
+Seat 2: Mahu2021 (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #247754955930: Tournament #3688703783, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/19 21:58:20 CET [2023/12/19 15:58:20 ET]
+Table '3688703783 1' 3-max Seat #1 is the button
+Seat 1: rado7566 (880 in chips) 
+Seat 2: Mahu2021 (620 in chips) 
+rado7566: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh 4d]
+rado7566: calls 10
+Mahu2021: checks 
+*** FLOP *** [4s 8h Td]
+Mahu2021: checks 
+rado7566: checks 
+*** TURN *** [4s 8h Td] [4h]
+Mahu2021: checks 
+rado7566: checks 
+*** RIVER *** [4s 8h Td 4h] [Ac]
+Mahu2021: bets 40
+rado7566: calls 40
+*** SHOW DOWN ***
+Mahu2021: shows [Qh 4d] (three of a kind, Fours)
+rado7566: mucks hand 
+Mahu2021 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [4s 8h Td 4h Ac]
+Seat 1: rado7566 (button) (small blind) mucked [9d Ah]
+Seat 2: Mahu2021 (big blind) showed [Qh 4d] and won (120) with three of a kind, Fours
+
+
+
+PokerStars Hand #247754961167: Tournament #3688703783, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/19 21:58:40 CET [2023/12/19 15:58:40 ET]
+Table '3688703783 1' 3-max Seat #2 is the button
+Seat 1: rado7566 (820 in chips) 
+Seat 2: Mahu2021 (680 in chips) 
+Mahu2021: posts small blind 10
+rado7566: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc 9s]
+Mahu2021: raises 20 to 40
+rado7566: calls 20
+*** FLOP *** [2c 7s Qh]
+rado7566: checks 
+Mahu2021: checks 
+*** TURN *** [2c 7s Qh] [3d]
+rado7566: checks 
+Mahu2021: bets 40
+rado7566: calls 40
+*** RIVER *** [2c 7s Qh 3d] [2d]
+rado7566: checks 
+Mahu2021: bets 160
+rado7566: folds 
+Uncalled bet (160) returned to Mahu2021
+Mahu2021 collected 160 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [2c 7s Qh 3d 2d]
+Seat 1: rado7566 (big blind) folded on the River
+Seat 2: Mahu2021 (button) (small blind) collected (160)
+
+
+
+PokerStars Hand #247754968166: Tournament #3688703783, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/12/19 21:59:07 CET [2023/12/19 15:59:07 ET]
+Table '3688703783 1' 3-max Seat #1 is the button
+Seat 1: rado7566 (740 in chips) 
+Seat 2: Mahu2021 (760 in chips) 
+rado7566: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc Kc]
+rado7566: calls 15
+Mahu2021: checks 
+*** FLOP *** [2d Tc 3c]
+Mahu2021: checks 
+rado7566: bets 30
+Mahu2021: calls 30
+*** TURN *** [2d Tc 3c] [6c]
+Mahu2021: checks 
+rado7566: checks 
+*** RIVER *** [2d Tc 3c 6c] [7h]
+Mahu2021: bets 120
+rado7566: calls 120
+*** SHOW DOWN ***
+Mahu2021: shows [Jc Kc] (a flush, King high)
+rado7566: mucks hand 
+Mahu2021 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [2d Tc 3c 6c 7h]
+Seat 1: rado7566 (button) (small blind) mucked [7c 9s]
+Seat 2: Mahu2021 (big blind) showed [Jc Kc] and won (360) with a flush, King high
+
+
+
+PokerStars Hand #247754973552: Tournament #3688703783, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/12/19 21:59:28 CET [2023/12/19 15:59:28 ET]
+Table '3688703783 1' 3-max Seat #2 is the button
+Seat 1: rado7566 (560 in chips) 
+Seat 2: Mahu2021 (940 in chips) 
+Mahu2021: posts small blind 15
+rado7566: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h 6s]
+Mahu2021: calls 15
+rado7566: checks 
+*** FLOP *** [5d 3d Js]
+rado7566: checks 
+Mahu2021: checks 
+*** TURN *** [5d 3d Js] [As]
+rado7566: checks 
+Mahu2021: checks 
+*** RIVER *** [5d 3d Js As] [6h]
+rado7566: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+rado7566: shows [2d 8d] (high card Ace)
+Mahu2021: shows [4h 6s] (a pair of Sixes)
+Mahu2021 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [5d 3d Js As 6h]
+Seat 1: rado7566 (big blind) showed [2d 8d] and lost with high card Ace
+Seat 2: Mahu2021 (button) (small blind) showed [4h 6s] and won (60) with a pair of Sixes
+
+
+
+PokerStars Hand #247754980125: Tournament #3688703783, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/12/19 21:59:53 CET [2023/12/19 15:59:53 ET]
+Table '3688703783 1' 3-max Seat #1 is the button
+Seat 1: rado7566 (530 in chips) 
+Seat 2: Mahu2021 (970 in chips) 
+rado7566: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh Qs]
+rado7566: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: rado7566 (button) (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (30)
+
+
+
+PokerStars Hand #247754981458: Tournament #3688703783, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/12/19 21:59:58 CET [2023/12/19 15:59:58 ET]
+Table '3688703783 1' 3-max Seat #2 is the button
+Seat 1: rado7566 (515 in chips) 
+Seat 2: Mahu2021 (985 in chips) 
+Mahu2021: posts small blind 15
+rado7566: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h As]
+Mahu2021: calls 15
+rado7566: checks 
+*** FLOP *** [2d 5d 8c]
+rado7566: checks 
+Mahu2021: bets 30
+rado7566: calls 30
+*** TURN *** [2d 5d 8c] [7c]
+rado7566: checks 
+Mahu2021: checks 
+*** RIVER *** [2d 5d 8c 7c] [Jh]
+rado7566: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+rado7566: shows [5s Kd] (a pair of Fives)
+Mahu2021: shows [8h As] (a pair of Eights)
+Mahu2021 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [2d 5d 8c 7c Jh]
+Seat 1: rado7566 (big blind) showed [5s Kd] and lost with a pair of Fives
+Seat 2: Mahu2021 (button) (small blind) showed [8h As] and won (120) with a pair of Eights
+
+
+
+PokerStars Hand #247754987838: Tournament #3688703783, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/12/19 22:00:22 CET [2023/12/19 16:00:22 ET]
+Table '3688703783 1' 3-max Seat #1 is the button
+Seat 1: rado7566 (455 in chips) 
+Seat 2: Mahu2021 (1045 in chips) 
+rado7566: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh Th]
+rado7566: calls 15
+Mahu2021: raises 60 to 90
+rado7566: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: rado7566 (button) (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (60)
+
+
+
+PokerStars Hand #247754990791: Tournament #3688703783, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/12/19 22:00:33 CET [2023/12/19 16:00:33 ET]
+Table '3688703783 1' 3-max Seat #2 is the button
+Seat 1: rado7566 (425 in chips) 
+Seat 2: Mahu2021 (1075 in chips) 
+Mahu2021: posts small blind 15
+rado7566: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s 5s]
+Mahu2021: calls 15
+rado7566: checks 
+*** FLOP *** [Qs 5d Jh]
+rado7566: checks 
+Mahu2021: bets 30
+rado7566: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Qs 5d Jh]
+Seat 1: rado7566 (big blind) folded on the Flop
+Seat 2: Mahu2021 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #247754994783: Tournament #3688703783, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/12/19 22:00:47 CET [2023/12/19 16:00:47 ET]
+Table '3688703783 1' 3-max Seat #1 is the button
+Seat 1: rado7566 (395 in chips) 
+Seat 2: Mahu2021 (1105 in chips) 
+rado7566: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h 6h]
+rado7566: calls 15
+Mahu2021: checks 
+*** FLOP *** [4c As 9d]
+Mahu2021: bets 30
+rado7566: raises 335 to 365 and is all-in
+Mahu2021: folds 
+Uncalled bet (335) returned to rado7566
+rado7566 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [4c As 9d]
+Seat 1: rado7566 (button) (small blind) collected (120)
+Seat 2: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #247754999373: Tournament #3688703783, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/12/19 22:01:03 CET [2023/12/19 16:01:03 ET]
+Table '3688703783 1' 3-max Seat #2 is the button
+Seat 1: rado7566 (455 in chips) 
+Seat 2: Mahu2021 (1045 in chips) 
+Mahu2021: posts small blind 15
+rado7566: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Td 9d]
+Mahu2021: calls 15
+rado7566: raises 425 to 455 and is all-in
+Mahu2021: folds 
+Uncalled bet (425) returned to rado7566
+rado7566 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: rado7566 (big blind) collected (60)
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #247755002453: Tournament #3688703783, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/12/19 22:01:12 CET [2023/12/19 16:01:12 ET]
+Table '3688703783 1' 3-max Seat #1 is the button
+Seat 1: rado7566 (485 in chips) 
+Seat 2: Mahu2021 (1015 in chips) 
+rado7566: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kc Qd]
+rado7566: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: rado7566 (button) (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (30)
+
+
+
+PokerStars Hand #247755004009: Tournament #3688703783, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/12/19 22:01:18 CET [2023/12/19 16:01:18 ET]
+Table '3688703783 1' 3-max Seat #2 is the button
+Seat 1: rado7566 (470 in chips) 
+Seat 2: Mahu2021 (1030 in chips) 
+Mahu2021: posts small blind 15
+rado7566: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h 7d]
+Mahu2021: folds 
+Uncalled bet (15) returned to rado7566
+rado7566 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: rado7566 (big blind) collected (30)
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #247755005505: Tournament #3688703783, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/12/19 22:01:22 CET [2023/12/19 16:01:22 ET]
+Table '3688703783 1' 3-max Seat #1 is the button
+Seat 1: rado7566 (485 in chips) 
+Seat 2: Mahu2021 (1015 in chips) 
+rado7566: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2s 6c]
+rado7566: calls 15
+Mahu2021: checks 
+*** FLOP *** [Qd 5h Kh]
+Mahu2021: checks 
+rado7566: bets 455 and is all-in
+Mahu2021: folds 
+Uncalled bet (455) returned to rado7566
+rado7566 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Qd 5h Kh]
+Seat 1: rado7566 (button) (small blind) collected (60)
+Seat 2: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #247755009554: Tournament #3688703783, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/12/19 22:01:34 CET [2023/12/19 16:01:34 ET]
+Table '3688703783 1' 3-max Seat #2 is the button
+Seat 1: rado7566 (515 in chips) 
+Seat 2: Mahu2021 (985 in chips) 
+Mahu2021: posts small blind 15
+rado7566: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s 6h]
+Mahu2021: raises 30 to 60
+rado7566: raises 455 to 515 and is all-in
+Mahu2021: calls 455
+*** FLOP *** [Js Kd 5d]
+*** TURN *** [Js Kd 5d] [4c]
+*** RIVER *** [Js Kd 5d 4c] [5h]
+*** SHOW DOWN ***
+rado7566: shows [Ad 4s] (two pair, Fives and Fours)
+Mahu2021: shows [6s 6h] (two pair, Sixes and Fives)
+Mahu2021 collected 1030 from pot
+rado7566 finished the tournament in 2nd place
+Mahu2021 wins the tournament and receives $6.00 - congratulations!
+*** SUMMARY ***
+Total pot 1030 | Rake 0 
+Board [Js Kd 5d 4c 5h]
+Seat 1: rado7566 (big blind) showed [Ad 4s] and lost with two pair, Fives and Fours
+Seat 2: Mahu2021 (button) (small blind) showed [6s 6h] and won (1030) with two pair, Sixes and Fives
+
+
+

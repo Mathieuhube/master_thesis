@@ -1,0 +1,112 @@
+﻿PokerStars Hand #253313861412: Tournament #3821469877, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/08 20:22:27 CET [2024/11/08 14:22:27 ET]
+Table '3821469877 1' 3-max Seat #1 is the button
+Seat 1: HC Dorn (500 in chips) 
+Seat 2: MooseLórd (500 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+MooseLórd: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd 6c]
+HC Dorn: folds 
+MooseLórd: folds 
+Uncalled bet (10) returned to Mahu2021
+Mahu2021 collected 20 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: HC Dorn (button) folded before Flop (didn't bet)
+Seat 2: MooseLórd (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (20)
+
+
+
+PokerStars Hand #253313864247: Tournament #3821469877, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/08 20:22:38 CET [2024/11/08 14:22:38 ET]
+Table '3821469877 1' 3-max Seat #2 is the button
+Seat 1: HC Dorn (500 in chips) 
+Seat 2: MooseLórd (490 in chips) 
+Seat 3: Mahu2021 (510 in chips) 
+Mahu2021: posts small blind 10
+HC Dorn: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h Th]
+MooseLórd: folds 
+Mahu2021: calls 10
+HC Dorn: raises 40 to 60
+Mahu2021: calls 40
+*** FLOP *** [Ts 3d 2h]
+Mahu2021: bets 120
+HC Dorn: raises 320 to 440 and is all-in
+Mahu2021: calls 320
+*** TURN *** [Ts 3d 2h] [5s]
+*** RIVER *** [Ts 3d 2h 5s] [3h]
+*** SHOW DOWN ***
+Mahu2021: shows [7h Th] (two pair, Tens and Threes)
+HC Dorn: shows [Kc Td] (two pair, Tens and Threes - King kicker)
+HC Dorn collected 1000 from pot
+*** SUMMARY ***
+Total pot 1000 | Rake 0 
+Board [Ts 3d 2h 5s 3h]
+Seat 1: HC Dorn (big blind) showed [Kc Td] and won (1000) with two pair, Tens and Threes
+Seat 2: MooseLórd (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) showed [7h Th] and lost with two pair, Tens and Threes
+
+
+
+PokerStars Hand #253313872359: Tournament #3821469877, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/08 20:23:07 CET [2024/11/08 14:23:07 ET]
+Table '3821469877 1' 3-max Seat #3 is the button
+Seat 1: HC Dorn (1000 in chips) 
+Seat 2: MooseLórd (490 in chips) 
+Seat 3: Mahu2021 (10 in chips) 
+HC Dorn: posts small blind 10
+MooseLórd: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c Ac]
+Mahu2021: calls 10 and is all-in
+HC Dorn: folds 
+Uncalled bet (10) returned to MooseLórd
+*** FLOP *** [9h 3s 4c]
+*** TURN *** [9h 3s 4c] [Ks]
+*** RIVER *** [9h 3s 4c Ks] [Th]
+*** SHOW DOWN ***
+MooseLórd: shows [7s Qs] (high card King)
+Mahu2021: shows [6c Ac] (high card Ace)
+Mahu2021 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Board [9h 3s 4c Ks Th]
+Seat 1: HC Dorn (small blind) folded before Flop
+Seat 2: MooseLórd (big blind) showed [7s Qs] and lost with high card King
+Seat 3: Mahu2021 (button) showed [6c Ac] and won (30) with high card Ace
+
+
+
+PokerStars Hand #253313877061: Tournament #3821469877, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/08 20:23:25 CET [2024/11/08 14:23:25 ET]
+Table '3821469877 1' 3-max Seat #1 is the button
+Seat 1: HC Dorn (990 in chips) 
+Seat 2: MooseLórd (480 in chips) 
+Seat 3: Mahu2021 (30 in chips) 
+MooseLórd: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6h 5h]
+HC Dorn: raises 20 to 40
+MooseLórd: folds 
+Mahu2021: calls 10 and is all-in
+Uncalled bet (10) returned to HC Dorn
+*** FLOP *** [8d 4d Qc]
+*** TURN *** [8d 4d Qc] [4s]
+*** RIVER *** [8d 4d Qc 4s] [9c]
+*** SHOW DOWN ***
+Mahu2021: shows [6h 5h] (a pair of Fours)
+HC Dorn: shows [7h Jd] (a pair of Fours - Queen+Jack kicker)
+HC Dorn collected 70 from pot
+Mahu2021 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 70 | Rake 0 
+Board [8d 4d Qc 4s 9c]
+Seat 1: HC Dorn (button) showed [7h Jd] and won (70) with a pair of Fours
+Seat 2: MooseLórd (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) showed [6h 5h] and lost with a pair of Fours
+
+
+

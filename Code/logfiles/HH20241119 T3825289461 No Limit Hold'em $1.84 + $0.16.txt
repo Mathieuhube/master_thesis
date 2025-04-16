@@ -1,0 +1,667 @@
+﻿PokerStars Hand #253480123679: Tournament #3825289461, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/19 21:02:00 CET [2024/11/19 15:02:00 ET]
+Table '3825289461 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: Jashpher (500 in chips) 
+Seat 3: PICCOLI0803 (500 in chips) 
+Jashpher: posts small blind 10
+PICCOLI0803: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s 9s]
+Mahu2021: folds 
+Jashpher: raises 40 to 60
+PICCOLI0803: calls 40
+*** FLOP *** [Jh 5d Kc]
+Jashpher: bets 40
+PICCOLI0803: calls 40
+*** TURN *** [Jh 5d Kc] [Td]
+Jashpher: checks 
+PICCOLI0803: checks 
+*** RIVER *** [Jh 5d Kc Td] [Qh]
+Jashpher: bets 160
+PICCOLI0803: calls 160
+*** SHOW DOWN ***
+Jashpher: shows [2s 2d] (a pair of Deuces)
+PICCOLI0803: shows [9c Th] (a straight, Nine to King)
+PICCOLI0803 collected 520 from pot
+*** SUMMARY ***
+Total pot 520 | Rake 0 
+Board [Jh 5d Kc Td Qh]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: Jashpher (small blind) showed [2s 2d] and lost with a pair of Deuces
+Seat 3: PICCOLI0803 (big blind) showed [9c Th] and won (520) with a straight, Nine to King
+
+
+
+PokerStars Hand #253480133936: Tournament #3825289461, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/19 21:02:37 CET [2024/11/19 15:02:37 ET]
+Table '3825289461 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: Jashpher (240 in chips) 
+Seat 3: PICCOLI0803 (760 in chips) 
+PICCOLI0803: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah Qd]
+Jashpher: folds 
+PICCOLI0803: calls 10
+Mahu2021: raises 60 to 80
+PICCOLI0803: calls 60
+*** FLOP *** [7s 8s 4s]
+PICCOLI0803: checks 
+Mahu2021: checks 
+*** TURN *** [7s 8s 4s] [9c]
+PICCOLI0803: checks 
+Mahu2021: checks 
+*** RIVER *** [7s 8s 4s 9c] [2c]
+PICCOLI0803: bets 160
+Mahu2021: folds 
+Uncalled bet (160) returned to PICCOLI0803
+PICCOLI0803 collected 160 from pot
+PICCOLI0803: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [7s 8s 4s 9c 2c]
+Seat 1: Mahu2021 (big blind) folded on the River
+Seat 2: Jashpher (button) folded before Flop (didn't bet)
+Seat 3: PICCOLI0803 (small blind) collected (160)
+
+
+
+PokerStars Hand #253480141423: Tournament #3825289461, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/19 21:03:03 CET [2024/11/19 15:03:03 ET]
+Table '3825289461 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (420 in chips) 
+Seat 2: Jashpher (240 in chips) 
+Seat 3: PICCOLI0803 (840 in chips) 
+Mahu2021: posts small blind 10
+Jashpher: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5h 3s]
+PICCOLI0803: calls 20
+Mahu2021: folds 
+Jashpher: checks 
+*** FLOP *** [8c Kc 2c]
+Jashpher: checks 
+PICCOLI0803: bets 20
+Jashpher: folds 
+Uncalled bet (20) returned to PICCOLI0803
+PICCOLI0803 collected 50 from pot
+PICCOLI0803: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [8c Kc 2c]
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: Jashpher (big blind) folded on the Flop
+Seat 3: PICCOLI0803 (button) collected (50)
+
+
+
+PokerStars Hand #253480145339: Tournament #3825289461, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/19 21:03:18 CET [2024/11/19 15:03:18 ET]
+Table '3825289461 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (410 in chips) 
+Seat 2: Jashpher (220 in chips) 
+Seat 3: PICCOLI0803 (870 in chips) 
+Jashpher: posts small blind 10
+PICCOLI0803: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qs Jc]
+Mahu2021: raises 20 to 40
+Jashpher: folds 
+PICCOLI0803: calls 20
+*** FLOP *** [2d Qc Qh]
+PICCOLI0803: checks 
+Mahu2021: checks 
+*** TURN *** [2d Qc Qh] [5h]
+PICCOLI0803: checks 
+Mahu2021: checks 
+*** RIVER *** [2d Qc Qh 5h] [8c]
+PICCOLI0803: checks 
+Mahu2021: bets 90
+PICCOLI0803: folds 
+Uncalled bet (90) returned to Mahu2021
+Mahu2021 collected 90 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [2d Qc Qh 5h 8c]
+Seat 1: Mahu2021 (button) collected (90)
+Seat 2: Jashpher (small blind) folded before Flop
+Seat 3: PICCOLI0803 (big blind) folded on the River
+
+
+
+PokerStars Hand #253480150143: Tournament #3825289461, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/19 21:03:35 CET [2024/11/19 15:03:35 ET]
+Table '3825289461 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (460 in chips) 
+Seat 2: Jashpher (210 in chips) 
+Seat 3: PICCOLI0803 (830 in chips) 
+PICCOLI0803: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s 9s]
+Jashpher: raises 20 to 40
+PICCOLI0803: calls 30
+Mahu2021: calls 20
+*** FLOP *** [2d Ad As]
+PICCOLI0803: checks 
+Mahu2021: checks 
+Jashpher: checks 
+*** TURN *** [2d Ad As] [Td]
+PICCOLI0803: checks 
+Mahu2021: checks 
+Jashpher: checks 
+*** RIVER *** [2d Ad As Td] [7s]
+PICCOLI0803: checks 
+Mahu2021: checks 
+Jashpher: checks 
+*** SHOW DOWN ***
+PICCOLI0803: shows [6c Jh] (a pair of Aces)
+Mahu2021: mucks hand 
+Jashpher: shows [Jc Qd] (a pair of Aces - Queen kicker)
+Jashpher collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [2d Ad As Td 7s]
+Seat 1: Mahu2021 (big blind) mucked [5s 9s]
+Seat 2: Jashpher (button) showed [Jc Qd] and won (120) with a pair of Aces
+Seat 3: PICCOLI0803 (small blind) showed [6c Jh] and lost with a pair of Aces
+
+
+
+PokerStars Hand #253480163154: Tournament #3825289461, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/19 21:04:22 CET [2024/11/19 15:04:22 ET]
+Table '3825289461 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (420 in chips) 
+Seat 2: Jashpher (290 in chips) 
+Seat 3: PICCOLI0803 (790 in chips) 
+Mahu2021: posts small blind 15
+Jashpher: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s 6d]
+PICCOLI0803: folds 
+Mahu2021: folds 
+Uncalled bet (15) returned to Jashpher
+Jashpher collected 30 from pot
+Jashpher: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: Jashpher (big blind) collected (30)
+Seat 3: PICCOLI0803 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253480164490: Tournament #3825289461, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/19 21:04:27 CET [2024/11/19 15:04:27 ET]
+Table '3825289461 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (405 in chips) 
+Seat 2: Jashpher (305 in chips) 
+Seat 3: PICCOLI0803 (790 in chips) 
+Jashpher: posts small blind 15
+PICCOLI0803: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2c 2h]
+Mahu2021: raises 30 to 60
+Jashpher: folds 
+PICCOLI0803: calls 30
+*** FLOP *** [Td Qd 3d]
+PICCOLI0803: checks 
+Mahu2021: bets 60
+PICCOLI0803: calls 60
+*** TURN *** [Td Qd 3d] [6c]
+PICCOLI0803: checks 
+Mahu2021: checks 
+*** RIVER *** [Td Qd 3d 6c] [5s]
+PICCOLI0803: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+PICCOLI0803: shows [Ts 4c] (a pair of Tens)
+Mahu2021: mucks hand 
+PICCOLI0803 collected 255 from pot
+*** SUMMARY ***
+Total pot 255 | Rake 0 
+Board [Td Qd 3d 6c 5s]
+Seat 1: Mahu2021 (button) mucked [2c 2h]
+Seat 2: Jashpher (small blind) folded before Flop
+Seat 3: PICCOLI0803 (big blind) showed [Ts 4c] and won (255) with a pair of Tens
+
+
+
+PokerStars Hand #253480169892: Tournament #3825289461, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/19 21:04:45 CET [2024/11/19 15:04:45 ET]
+Table '3825289461 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (285 in chips) 
+Seat 2: Jashpher (290 in chips) 
+Seat 3: PICCOLI0803 (925 in chips) 
+PICCOLI0803: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8c 2h]
+Jashpher: folds 
+PICCOLI0803: raises 30 to 60
+Mahu2021: folds 
+Uncalled bet (30) returned to PICCOLI0803
+PICCOLI0803 collected 60 from pot
+PICCOLI0803: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: Jashpher (button) folded before Flop (didn't bet)
+Seat 3: PICCOLI0803 (small blind) collected (60)
+
+
+
+PokerStars Hand #253480172380: Tournament #3825289461, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/19 21:04:53 CET [2024/11/19 15:04:53 ET]
+Table '3825289461 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (255 in chips) 
+Seat 2: Jashpher (290 in chips) 
+Seat 3: PICCOLI0803 (955 in chips) 
+Mahu2021: posts small blind 15
+Jashpher: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c Kc]
+PICCOLI0803: calls 30
+Mahu2021: calls 15
+Jashpher: checks 
+*** FLOP *** [Ks 8d Qd]
+Mahu2021: checks 
+Jashpher: checks 
+PICCOLI0803: bets 30
+Mahu2021: raises 60 to 90
+Jashpher: folds 
+PICCOLI0803: calls 60
+*** TURN *** [Ks 8d Qd] [9s]
+Mahu2021: bets 135 and is all-in
+PICCOLI0803: calls 135
+*** RIVER *** [Ks 8d Qd 9s] [9c]
+*** SHOW DOWN ***
+Mahu2021: shows [6c Kc] (two pair, Kings and Nines)
+PICCOLI0803: shows [Jc Js] (two pair, Jacks and Nines)
+Mahu2021 collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | Rake 0 
+Board [Ks 8d Qd 9s 9c]
+Seat 1: Mahu2021 (small blind) showed [6c Kc] and won (540) with two pair, Kings and Nines
+Seat 2: Jashpher (big blind) folded on the Flop
+Seat 3: PICCOLI0803 (button) showed [Jc Js] and lost with two pair, Jacks and Nines
+
+
+
+PokerStars Hand #253480178645: Tournament #3825289461, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/19 21:05:15 CET [2024/11/19 15:05:15 ET]
+Table '3825289461 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (540 in chips) 
+Seat 2: Jashpher (260 in chips) 
+Seat 3: PICCOLI0803 (700 in chips) 
+Jashpher: posts small blind 15
+PICCOLI0803: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d 4d]
+Mahu2021: folds 
+Jashpher: folds 
+Uncalled bet (15) returned to PICCOLI0803
+PICCOLI0803 collected 30 from pot
+PICCOLI0803: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: Jashpher (small blind) folded before Flop
+Seat 3: PICCOLI0803 (big blind) collected (30)
+
+
+
+PokerStars Hand #253480180894: Tournament #3825289461, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/19 21:05:23 CET [2024/11/19 15:05:23 ET]
+Table '3825289461 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (540 in chips) 
+Seat 2: Jashpher (245 in chips) 
+Seat 3: PICCOLI0803 (715 in chips) 
+PICCOLI0803: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc 2h]
+Jashpher: raises 215 to 245 and is all-in
+PICCOLI0803: folds 
+Mahu2021: folds 
+Uncalled bet (215) returned to Jashpher
+Jashpher collected 75 from pot
+Jashpher: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: Jashpher (button) collected (75)
+Seat 3: PICCOLI0803 (small blind) folded before Flop
+
+
+
+PokerStars Hand #253480183100: Tournament #3825289461, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/19 21:05:30 CET [2024/11/19 15:05:30 ET]
+Table '3825289461 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (510 in chips) 
+Seat 2: Jashpher (290 in chips) 
+Seat 3: PICCOLI0803 (700 in chips) 
+Mahu2021: posts small blind 15
+Jashpher: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Th 9s]
+PICCOLI0803: calls 30
+Mahu2021: calls 15
+Jashpher: checks 
+*** FLOP *** [7c 6d Ts]
+Mahu2021: bets 90
+Jashpher: folds 
+PICCOLI0803: folds 
+Uncalled bet (90) returned to Mahu2021
+Mahu2021 collected 90 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [7c 6d Ts]
+Seat 1: Mahu2021 (small blind) collected (90)
+Seat 2: Jashpher (big blind) folded on the Flop
+Seat 3: PICCOLI0803 (button) folded on the Flop
+
+
+
+PokerStars Hand #253480187096: Tournament #3825289461, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/19 21:05:43 CET [2024/11/19 15:05:43 ET]
+Table '3825289461 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (570 in chips) 
+Seat 2: Jashpher (260 in chips) 
+Seat 3: PICCOLI0803 (670 in chips) 
+Jashpher: posts small blind 15
+PICCOLI0803: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s Qs]
+Mahu2021: folds 
+Jashpher: folds 
+Uncalled bet (15) returned to PICCOLI0803
+PICCOLI0803 collected 30 from pot
+PICCOLI0803: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: Jashpher (small blind) folded before Flop
+Seat 3: PICCOLI0803 (big blind) collected (30)
+
+
+
+PokerStars Hand #253480188895: Tournament #3825289461, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/19 21:05:49 CET [2024/11/19 15:05:49 ET]
+Table '3825289461 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (570 in chips) 
+Seat 2: Jashpher (245 in chips) 
+Seat 3: PICCOLI0803 (685 in chips) 
+PICCOLI0803: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6h Ad]
+Jashpher: calls 30
+PICCOLI0803: calls 15
+Mahu2021: checks 
+*** FLOP *** [Tc Qh Ac]
+PICCOLI0803: checks 
+Mahu2021: checks 
+Jashpher: checks 
+*** TURN *** [Tc Qh Ac] [3d]
+PICCOLI0803: checks 
+Mahu2021: bets 30
+Jashpher: folds 
+PICCOLI0803: calls 30
+*** RIVER *** [Tc Qh Ac 3d] [8d]
+PICCOLI0803: checks 
+Mahu2021: bets 90
+PICCOLI0803: folds 
+Uncalled bet (90) returned to Mahu2021
+Mahu2021 collected 150 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Board [Tc Qh Ac 3d 8d]
+Seat 1: Mahu2021 (big blind) collected (150)
+Seat 2: Jashpher (button) folded on the Turn
+Seat 3: PICCOLI0803 (small blind) folded on the River
+
+
+
+PokerStars Hand #253480199006: Tournament #3825289461, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/19 21:06:24 CET [2024/11/19 15:06:24 ET]
+Table '3825289461 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (660 in chips) 
+Seat 2: Jashpher (215 in chips) 
+Seat 3: PICCOLI0803 (625 in chips) 
+Mahu2021: posts small blind 20
+Jashpher: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d 6s]
+PICCOLI0803: folds 
+Mahu2021: calls 20
+Jashpher: raises 175 to 215 and is all-in
+Mahu2021: folds 
+Uncalled bet (175) returned to Jashpher
+Jashpher collected 80 from pot
+Jashpher: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: Jashpher (big blind) collected (80)
+Seat 3: PICCOLI0803 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253480201988: Tournament #3825289461, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/19 21:06:33 CET [2024/11/19 15:06:33 ET]
+Table '3825289461 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (620 in chips) 
+Seat 2: Jashpher (255 in chips) 
+Seat 3: PICCOLI0803 (625 in chips) 
+Jashpher: posts small blind 20
+PICCOLI0803: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Tc 7s]
+Mahu2021: folds 
+Jashpher: folds 
+Uncalled bet (20) returned to PICCOLI0803
+PICCOLI0803 collected 40 from pot
+PICCOLI0803: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: Jashpher (small blind) folded before Flop
+Seat 3: PICCOLI0803 (big blind) collected (40)
+
+
+
+PokerStars Hand #253480204097: Tournament #3825289461, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/19 21:06:40 CET [2024/11/19 15:06:40 ET]
+Table '3825289461 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (620 in chips) 
+Seat 2: Jashpher (235 in chips) 
+Seat 3: PICCOLI0803 (645 in chips) 
+PICCOLI0803: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h Kd]
+Jashpher: folds 
+PICCOLI0803: raises 40 to 80
+Mahu2021: calls 40
+*** FLOP *** [Th Jh 3s]
+PICCOLI0803: bets 80
+Mahu2021: folds 
+Uncalled bet (80) returned to PICCOLI0803
+PICCOLI0803 collected 160 from pot
+PICCOLI0803: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Th Jh 3s]
+Seat 1: Mahu2021 (big blind) folded on the Flop
+Seat 2: Jashpher (button) folded before Flop (didn't bet)
+Seat 3: PICCOLI0803 (small blind) collected (160)
+
+
+
+PokerStars Hand #253480207367: Tournament #3825289461, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/19 21:06:51 CET [2024/11/19 15:06:51 ET]
+Table '3825289461 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (540 in chips) 
+Seat 2: Jashpher (235 in chips) 
+Seat 3: PICCOLI0803 (725 in chips) 
+Mahu2021: posts small blind 20
+Jashpher: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d Js]
+PICCOLI0803: folds 
+Mahu2021: raises 40 to 80
+Jashpher: raises 155 to 235 and is all-in
+Mahu2021: folds 
+Uncalled bet (155) returned to Jashpher
+Jashpher collected 160 from pot
+Jashpher: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: Jashpher (big blind) collected (160)
+Seat 3: PICCOLI0803 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253480211033: Tournament #3825289461, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/19 21:07:03 CET [2024/11/19 15:07:03 ET]
+Table '3825289461 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (460 in chips) 
+Seat 2: Jashpher (315 in chips) 
+Seat 3: PICCOLI0803 (725 in chips) 
+Jashpher: posts small blind 20
+PICCOLI0803: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js Qd]
+Mahu2021: raises 40 to 80
+Jashpher: folds 
+PICCOLI0803: calls 40
+*** FLOP *** [3c 7c 5h]
+PICCOLI0803: checks 
+Mahu2021: checks 
+*** TURN *** [3c 7c 5h] [3s]
+PICCOLI0803: bets 40
+Mahu2021: calls 40
+*** RIVER *** [3c 7c 5h 3s] [Ts]
+PICCOLI0803: bets 40
+Mahu2021: calls 40
+*** SHOW DOWN ***
+PICCOLI0803: shows [7d 2d] (two pair, Sevens and Threes)
+Mahu2021: mucks hand 
+PICCOLI0803 collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | Rake 0 
+Board [3c 7c 5h 3s Ts]
+Seat 1: Mahu2021 (button) mucked [Js Qd]
+Seat 2: Jashpher (small blind) folded before Flop
+Seat 3: PICCOLI0803 (big blind) showed [7d 2d] and won (340) with two pair, Sevens and Threes
+
+
+
+PokerStars Hand #253480216460: Tournament #3825289461, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/19 21:07:22 CET [2024/11/19 15:07:22 ET]
+Table '3825289461 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (300 in chips) 
+Seat 2: Jashpher (295 in chips) 
+Seat 3: PICCOLI0803 (905 in chips) 
+PICCOLI0803: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d 2h]
+Jashpher: folds 
+PICCOLI0803: calls 20
+Mahu2021: checks 
+*** FLOP *** [Ah 2c Qc]
+PICCOLI0803: bets 40
+Mahu2021: calls 40
+*** TURN *** [Ah 2c Qc] [Qd]
+PICCOLI0803: checks 
+Mahu2021: bets 220 and is all-in
+PICCOLI0803: folds 
+Uncalled bet (220) returned to Mahu2021
+Mahu2021 collected 160 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Ah 2c Qc Qd]
+Seat 1: Mahu2021 (big blind) collected (160)
+Seat 2: Jashpher (button) folded before Flop (didn't bet)
+Seat 3: PICCOLI0803 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #253480222634: Tournament #3825289461, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/19 21:07:42 CET [2024/11/19 15:07:42 ET]
+Table '3825289461 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (380 in chips) 
+Seat 2: Jashpher (295 in chips) 
+Seat 3: PICCOLI0803 (825 in chips) 
+Mahu2021: posts small blind 20
+Jashpher: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3c 3h]
+PICCOLI0803: calls 40
+Mahu2021: calls 20
+Jashpher: checks 
+*** FLOP *** [Js Td 7d]
+Mahu2021: checks 
+Jashpher: checks 
+PICCOLI0803: bets 120
+Mahu2021: folds 
+Jashpher: raises 135 to 255 and is all-in
+PICCOLI0803: folds 
+Uncalled bet (135) returned to Jashpher
+Jashpher collected 360 from pot
+Jashpher: doesn't show hand 
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [Js Td 7d]
+Seat 1: Mahu2021 (small blind) folded on the Flop
+Seat 2: Jashpher (big blind) collected (360)
+Seat 3: PICCOLI0803 (button) folded on the Flop
+
+
+
+PokerStars Hand #253480232751: Tournament #3825289461, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/11/19 21:08:15 CET [2024/11/19 15:08:15 ET]
+Table '3825289461 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (340 in chips) 
+Seat 2: Jashpher (495 in chips) 
+Seat 3: PICCOLI0803 (665 in chips) 
+Jashpher: posts small blind 30
+PICCOLI0803: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h Ks]
+Mahu2021: calls 60
+Jashpher: folds 
+PICCOLI0803: checks 
+*** FLOP *** [Qc Ad 8h]
+PICCOLI0803: checks 
+Mahu2021: bets 60
+PICCOLI0803: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 150 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Board [Qc Ad 8h]
+Seat 1: Mahu2021 (button) collected (150)
+Seat 2: Jashpher (small blind) folded before Flop
+Seat 3: PICCOLI0803 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #253480238317: Tournament #3825289461, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/11/19 21:08:34 CET [2024/11/19 15:08:34 ET]
+Table '3825289461 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (430 in chips) 
+Seat 2: Jashpher (465 in chips) 
+Seat 3: PICCOLI0803 (605 in chips) 
+PICCOLI0803: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh Js]
+Jashpher: raises 405 to 465 and is all-in
+PICCOLI0803: folds 
+Mahu2021: calls 370 and is all-in
+Uncalled bet (35) returned to Jashpher
+*** FLOP *** [Qd 2c 2d]
+*** TURN *** [Qd 2c 2d] [6c]
+*** RIVER *** [Qd 2c 2d 6c] [2s]
+*** SHOW DOWN ***
+Mahu2021: shows [Kh Js] (three of a kind, Deuces)
+Jashpher: shows [5d Ah] (three of a kind, Deuces - Ace kicker)
+Jashpher collected 890 from pot
+Mahu2021 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 890 | Rake 0 
+Board [Qd 2c 2d 6c 2s]
+Seat 1: Mahu2021 (big blind) showed [Kh Js] and lost with three of a kind, Deuces
+Seat 2: Jashpher (button) showed [5d Ah] and won (890) with three of a kind, Deuces
+Seat 3: PICCOLI0803 (small blind) folded before Flop
+
+
+

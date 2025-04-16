@@ -1,0 +1,74 @@
+﻿PokerStars Hand #243183985765: Tournament #3579634253, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/19 10:32:38 CET [2023/04/19 4:32:38 ET]
+Table '3579634253 1' 3-max Seat #1 is the button
+Seat 1: skarina3112 (500 in chips) 
+Seat 2: Clean Sweep NZ (500 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+Clean Sweep NZ: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s Kh]
+skarina3112: folds 
+Clean Sweep NZ: calls 10
+Mahu2021: checks 
+*** FLOP *** [3d 4s Ts]
+Clean Sweep NZ: bets 40
+Mahu2021: calls 40
+*** TURN *** [3d 4s Ts] [2c]
+Clean Sweep NZ: bets 20
+Mahu2021: calls 20
+*** RIVER *** [3d 4s Ts 2c] [Jh]
+Clean Sweep NZ: bets 160
+Mahu2021: folds 
+Uncalled bet (160) returned to Clean Sweep NZ
+Clean Sweep NZ collected 160 from pot
+Clean Sweep NZ: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [3d 4s Ts 2c Jh]
+Seat 1: skarina3112 (button) folded before Flop (didn't bet)
+Seat 2: Clean Sweep NZ (small blind) collected (160)
+Seat 3: Mahu2021 (big blind) folded on the River
+
+
+
+PokerStars Hand #243183990028: Tournament #3579634253, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/19 10:33:13 CET [2023/04/19 4:33:13 ET]
+Table '3579634253 1' 3-max Seat #2 is the button
+Seat 1: skarina3112 (500 in chips) 
+Seat 2: Clean Sweep NZ (580 in chips) 
+Seat 3: Mahu2021 (420 in chips) 
+Mahu2021: posts small blind 10
+skarina3112: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qd 6s]
+Clean Sweep NZ: raises 20 to 40
+Mahu2021: calls 30
+skarina3112: calls 20
+*** FLOP *** [9s 7s Qs]
+Mahu2021: bets 120
+skarina3112: calls 120
+Clean Sweep NZ: calls 120
+*** TURN *** [9s 7s Qs] [7d]
+Mahu2021: bets 260 and is all-in
+skarina3112: calls 260
+Clean Sweep NZ: raises 160 to 420 and is all-in
+skarina3112: calls 80 and is all-in
+Uncalled bet (80) returned to Clean Sweep NZ
+*** RIVER *** [9s 7s Qs 7d] [5c]
+*** SHOW DOWN ***
+skarina3112: shows [5d Ks] (two pair, Sevens and Fives)
+Clean Sweep NZ: shows [As 2s] (a flush, Ace high)
+Clean Sweep NZ collected 160 from side pot
+Mahu2021: shows [Qd 6s] (two pair, Queens and Sevens)
+Clean Sweep NZ collected 1260 from main pot
+skarina3112 finished the tournament in 2nd place
+Mahu2021 finished the tournament in 3rd place
+Clean Sweep NZ wins the tournament and receives $3.00 - congratulations!
+*** SUMMARY ***
+Total pot 1420 Main pot 1260. Side pot 160. | Rake 0 
+Board [9s 7s Qs 7d 5c]
+Seat 1: skarina3112 (big blind) showed [5d Ks] and lost with two pair, Sevens and Fives
+Seat 2: Clean Sweep NZ (button) showed [As 2s] and won (1420) with a flush, Ace high
+Seat 3: Mahu2021 (small blind) showed [Qd 6s] and lost with two pair, Queens and Sevens
+
+
+

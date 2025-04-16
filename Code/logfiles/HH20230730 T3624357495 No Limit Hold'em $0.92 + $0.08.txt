@@ -1,0 +1,240 @@
+﻿PokerStars Hand #245100929754: Tournament #3624357495, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/07/30 12:35:44 CET [2023/07/30 6:35:44 ET]
+Table '3624357495 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: shinkansengame (500 in chips) 
+Seat 3: azim7020 (500 in chips) 
+shinkansengame: posts small blind 10
+azim7020: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h 5h]
+Mahu2021: calls 20
+shinkansengame: calls 10
+azim7020: checks 
+*** FLOP *** [Jd Ad Qh]
+shinkansengame: checks 
+azim7020: checks 
+Mahu2021: bets 20
+shinkansengame: folds 
+azim7020: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Jd Ad Qh]
+Seat 1: Mahu2021 (button) collected (60)
+Seat 2: shinkansengame (small blind) folded on the Flop
+Seat 3: azim7020 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #245100933807: Tournament #3624357495, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/07/30 12:36:10 CET [2023/07/30 6:36:10 ET]
+Table '3624357495 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (540 in chips) 
+Seat 2: shinkansengame (480 in chips) 
+Seat 3: azim7020 (480 in chips) 
+azim7020: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s 8d]
+shinkansengame: raises 30 to 50
+azim7020: folds 
+Mahu2021: calls 30
+*** FLOP *** [Qc 4h 9c]
+Mahu2021: checks 
+shinkansengame: bets 55
+Mahu2021: calls 55
+*** TURN *** [Qc 4h 9c] [Tc]
+Mahu2021: checks 
+shinkansengame: bets 66
+Mahu2021: raises 114 to 180
+shinkansengame: calls 114
+*** RIVER *** [Qc 4h 9c Tc] [6c]
+Mahu2021: bets 255 and is all-in
+shinkansengame: calls 195 and is all-in
+Uncalled bet (60) returned to Mahu2021
+*** SHOW DOWN ***
+Mahu2021: shows [9s 8d] (a pair of Nines)
+shinkansengame: shows [4s Ac] (a flush, Ace high)
+shinkansengame collected 970 from pot
+*** SUMMARY ***
+Total pot 970 | Rake 0 
+Board [Qc 4h 9c Tc 6c]
+Seat 1: Mahu2021 (big blind) showed [9s 8d] and lost with a pair of Nines
+Seat 2: shinkansengame (button) showed [4s Ac] and won (970) with a flush, Ace high
+Seat 3: azim7020 (small blind) folded before Flop
+
+
+
+PokerStars Hand #245100941240: Tournament #3624357495, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/07/30 12:36:58 CET [2023/07/30 6:36:58 ET]
+Table '3624357495 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (60 in chips) 
+Seat 2: shinkansengame (970 in chips) 
+Seat 3: azim7020 (470 in chips) 
+Mahu2021: posts small blind 10
+shinkansengame: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6h 6d]
+azim7020: calls 20
+Mahu2021: raises 40 to 60 and is all-in
+shinkansengame: raises 910 to 970 and is all-in
+azim7020: folds 
+Uncalled bet (910) returned to shinkansengame
+*** FLOP *** [Td As 2h]
+*** TURN *** [Td As 2h] [2c]
+*** RIVER *** [Td As 2h 2c] [8h]
+*** SHOW DOWN ***
+Mahu2021: shows [6h 6d] (two pair, Sixes and Deuces)
+shinkansengame: shows [Kc Jc] (a pair of Deuces)
+Mahu2021 collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | Rake 0 
+Board [Td As 2h 2c 8h]
+Seat 1: Mahu2021 (small blind) showed [6h 6d] and won (140) with two pair, Sixes and Deuces
+Seat 2: shinkansengame (big blind) showed [Kc Jc] and lost with a pair of Deuces
+Seat 3: azim7020 (button) folded before Flop
+
+
+
+PokerStars Hand #245100944031: Tournament #3624357495, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/07/30 12:37:16 CET [2023/07/30 6:37:16 ET]
+Table '3624357495 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (140 in chips) 
+Seat 2: shinkansengame (910 in chips) 
+Seat 3: azim7020 (450 in chips) 
+shinkansengame: posts small blind 10
+azim7020: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2s 8c]
+Mahu2021: folds 
+shinkansengame: raises 30 to 50
+azim7020: calls 30
+*** FLOP *** [3d As Kd]
+shinkansengame: bets 33
+azim7020: folds 
+Uncalled bet (33) returned to shinkansengame
+shinkansengame collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [3d As Kd]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: shinkansengame (small blind) collected (100)
+Seat 3: azim7020 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #245100946804: Tournament #3624357495, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/07/30 12:37:34 CET [2023/07/30 6:37:34 ET]
+Table '3624357495 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (140 in chips) 
+Seat 2: shinkansengame (960 in chips) 
+Seat 3: azim7020 (400 in chips) 
+azim7020: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h 9d]
+shinkansengame: folds 
+azim7020: calls 10
+Mahu2021: checks 
+*** FLOP *** [5s Kd 5c]
+azim7020: bets 20
+Mahu2021: folds 
+Uncalled bet (20) returned to azim7020
+azim7020 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [5s Kd 5c]
+Seat 1: Mahu2021 (big blind) folded on the Flop
+Seat 2: shinkansengame (button) folded before Flop (didn't bet)
+Seat 3: azim7020 (small blind) collected (40)
+
+
+
+PokerStars Hand #245100948609: Tournament #3624357495, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/07/30 12:37:46 CET [2023/07/30 6:37:46 ET]
+Table '3624357495 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (120 in chips) 
+Seat 2: shinkansengame (960 in chips) 
+Seat 3: azim7020 (420 in chips) 
+Mahu2021: posts small blind 10
+shinkansengame: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c 7h]
+azim7020: calls 20
+Mahu2021: raises 100 to 120 and is all-in
+shinkansengame: folds 
+azim7020: folds 
+Uncalled bet (100) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (small blind) collected (60)
+Seat 2: shinkansengame (big blind) folded before Flop
+Seat 3: azim7020 (button) folded before Flop
+
+
+
+PokerStars Hand #245100950573: Tournament #3624357495, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/07/30 12:37:58 CET [2023/07/30 6:37:58 ET]
+Table '3624357495 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (160 in chips) 
+Seat 2: shinkansengame (940 in chips) 
+Seat 3: azim7020 (400 in chips) 
+shinkansengame: posts small blind 10
+azim7020: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s 4s]
+Mahu2021: folds 
+shinkansengame: raises 30 to 50
+azim7020: calls 30
+*** FLOP *** [Qd Ac Qc]
+shinkansengame: checks 
+azim7020: bets 20
+shinkansengame: raises 20 to 40
+azim7020: calls 20
+*** TURN *** [Qd Ac Qc] [9d]
+shinkansengame: bets 90
+azim7020: calls 90
+*** RIVER *** [Qd Ac Qc 9d] [2s]
+shinkansengame: bets 180
+azim7020: folds 
+Uncalled bet (180) returned to shinkansengame
+shinkansengame collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [Qd Ac Qc 9d 2s]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: shinkansengame (small blind) collected (360)
+Seat 3: azim7020 (big blind) folded on the River
+
+
+
+PokerStars Hand #245100957096: Tournament #3624357495, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/07/30 12:38:41 CET [2023/07/30 6:38:41 ET]
+Table '3624357495 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (160 in chips) 
+Seat 2: shinkansengame (1120 in chips) 
+Seat 3: azim7020 (220 in chips) 
+azim7020: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h Jd]
+shinkansengame: folds 
+azim7020: raises 20 to 40
+Mahu2021: calls 20
+*** FLOP *** [3d 7s 9c]
+azim7020: bets 180 and is all-in
+Mahu2021: calls 120 and is all-in
+Uncalled bet (60) returned to azim7020
+*** TURN *** [3d 7s 9c] [7c]
+*** RIVER *** [3d 7s 9c 7c] [Ks]
+*** SHOW DOWN ***
+azim7020: shows [7d 2d] (three of a kind, Sevens)
+Mahu2021: shows [3h Jd] (two pair, Sevens and Threes)
+azim7020 collected 320 from pot
+Mahu2021 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [3d 7s 9c 7c Ks]
+Seat 1: Mahu2021 (big blind) showed [3h Jd] and lost with two pair, Sevens and Threes
+Seat 2: shinkansengame (button) folded before Flop (didn't bet)
+Seat 3: azim7020 (small blind) showed [7d 2d] and won (320) with three of a kind, Sevens
+
+
+

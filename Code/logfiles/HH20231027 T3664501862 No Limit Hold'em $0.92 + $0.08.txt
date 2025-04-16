@@ -1,0 +1,1097 @@
+﻿PokerStars Hand #246767183474: Tournament #3664501862, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/10/27 10:57:02 CET [2023/10/27 4:57:02 ET]
+Table '3664501862 1' 3-max Seat #1 is the button
+Seat 1: ionut_radu12 (500 in chips) 
+Seat 2: FotoGraf5555 (500 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+FotoGraf5555: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h 2s]
+ionut_radu12: calls 20
+FotoGraf5555: raises 20 to 40
+Mahu2021: folds 
+ionut_radu12: calls 20
+*** FLOP *** [5s 3s 6s]
+FotoGraf5555: checks 
+ionut_radu12: bets 50
+FotoGraf5555: calls 50
+*** TURN *** [5s 3s 6s] [Ks]
+FotoGraf5555: checks 
+ionut_radu12: checks 
+*** RIVER *** [5s 3s 6s Ks] [Qd]
+FotoGraf5555: bets 100
+ionut_radu12: calls 100
+*** SHOW DOWN ***
+FotoGraf5555: shows [Kd Qs] (a flush, King high)
+ionut_radu12: mucks hand 
+FotoGraf5555 collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Board [5s 3s 6s Ks Qd]
+Seat 1: ionut_radu12 (button) mucked [7s 4d]
+Seat 2: FotoGraf5555 (small blind) showed [Kd Qs] and won (400) with a flush, King high
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #246767186397: Tournament #3664501862, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/10/27 10:57:30 CET [2023/10/27 4:57:30 ET]
+Table '3664501862 1' 3-max Seat #2 is the button
+Seat 1: ionut_radu12 (310 in chips) 
+Seat 2: FotoGraf5555 (710 in chips) 
+Seat 3: Mahu2021 (480 in chips) 
+Mahu2021: posts small blind 10
+ionut_radu12: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Td 6d]
+FotoGraf5555: calls 20
+Mahu2021: calls 10
+ionut_radu12: checks 
+*** FLOP *** [Js 7d 5s]
+Mahu2021: checks 
+ionut_radu12: checks 
+FotoGraf5555: checks 
+*** TURN *** [Js 7d 5s] [9d]
+Mahu2021: bets 40
+ionut_radu12: calls 40
+FotoGraf5555: folds 
+*** RIVER *** [Js 7d 5s 9d] [Qh]
+Mahu2021: checks 
+ionut_radu12: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [Td 6d] (high card Queen)
+ionut_radu12: shows [5d Ah] (a pair of Fives)
+ionut_radu12 collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | Rake 0 
+Board [Js 7d 5s 9d Qh]
+Seat 1: ionut_radu12 (big blind) showed [5d Ah] and won (140) with a pair of Fives
+Seat 2: FotoGraf5555 (button) folded on the Turn
+Seat 3: Mahu2021 (small blind) showed [Td 6d] and lost with high card Queen
+
+
+
+PokerStars Hand #246767189593: Tournament #3664501862, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/10/27 10:58:00 CET [2023/10/27 4:58:00 ET]
+Table '3664501862 1' 3-max Seat #3 is the button
+Seat 1: ionut_radu12 (390 in chips) 
+Seat 2: FotoGraf5555 (690 in chips) 
+Seat 3: Mahu2021 (420 in chips) 
+ionut_radu12: posts small blind 10
+FotoGraf5555: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h Ah]
+Mahu2021: raises 40 to 60
+ionut_radu12: calls 50
+FotoGraf5555: folds 
+*** FLOP *** [Qd Td 7d]
+ionut_radu12: bets 70
+Mahu2021: folds 
+Uncalled bet (70) returned to ionut_radu12
+ionut_radu12 collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | Rake 0 
+Board [Qd Td 7d]
+Seat 1: ionut_radu12 (small blind) collected (140)
+Seat 2: FotoGraf5555 (big blind) folded before Flop
+Seat 3: Mahu2021 (button) folded on the Flop
+
+
+
+PokerStars Hand #246767191183: Tournament #3664501862, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/10/27 10:58:15 CET [2023/10/27 4:58:15 ET]
+Table '3664501862 1' 3-max Seat #1 is the button
+Seat 1: ionut_radu12 (470 in chips) 
+Seat 2: FotoGraf5555 (670 in chips) 
+Seat 3: Mahu2021 (360 in chips) 
+FotoGraf5555: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3c Tc]
+ionut_radu12: calls 20
+FotoGraf5555: calls 10
+Mahu2021: checks 
+*** FLOP *** [Kd Js 5s]
+FotoGraf5555: checks 
+Mahu2021: checks 
+ionut_radu12: checks 
+*** TURN *** [Kd Js 5s] [As]
+FotoGraf5555: bets 30
+Mahu2021: folds 
+ionut_radu12: folds 
+Uncalled bet (30) returned to FotoGraf5555
+FotoGraf5555 collected 60 from pot
+FotoGraf5555: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Kd Js 5s As]
+Seat 1: ionut_radu12 (button) folded on the Turn
+Seat 2: FotoGraf5555 (small blind) collected (60)
+Seat 3: Mahu2021 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #246767192884: Tournament #3664501862, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/10/27 10:58:31 CET [2023/10/27 4:58:31 ET]
+Table '3664501862 1' 3-max Seat #2 is the button
+Seat 1: ionut_radu12 (450 in chips) 
+Seat 2: FotoGraf5555 (710 in chips) 
+Seat 3: Mahu2021 (340 in chips) 
+Mahu2021: posts small blind 10
+ionut_radu12: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh 4h]
+FotoGraf5555: folds 
+Mahu2021: calls 10
+ionut_radu12: checks 
+*** FLOP *** [2h Kc Th]
+Mahu2021: bets 40
+ionut_radu12: raises 40 to 80
+Mahu2021: calls 40
+*** TURN *** [2h Kc Th] [9h]
+Mahu2021: checks 
+ionut_radu12: bets 200
+Mahu2021: raises 40 to 240 and is all-in
+ionut_radu12: calls 40
+*** RIVER *** [2h Kc Th 9h] [5c]
+*** SHOW DOWN ***
+Mahu2021: shows [Qh 4h] (a flush, Queen high)
+ionut_radu12: shows [Ks Ad] (a pair of Kings)
+Mahu2021 collected 680 from pot
+*** SUMMARY ***
+Total pot 680 | Rake 0 
+Board [2h Kc Th 9h 5c]
+Seat 1: ionut_radu12 (big blind) showed [Ks Ad] and lost with a pair of Kings
+Seat 2: FotoGraf5555 (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) showed [Qh 4h] and won (680) with a flush, Queen high
+
+
+
+PokerStars Hand #246767195443: Tournament #3664501862, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/10/27 10:58:55 CET [2023/10/27 4:58:55 ET]
+Table '3664501862 1' 3-max Seat #3 is the button
+Seat 1: ionut_radu12 (110 in chips) 
+Seat 2: FotoGraf5555 (710 in chips) 
+Seat 3: Mahu2021 (680 in chips) 
+ionut_radu12: posts small blind 10
+FotoGraf5555: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3c 2h]
+Mahu2021: folds 
+ionut_radu12: raises 90 to 110 and is all-in
+FotoGraf5555: folds 
+Uncalled bet (90) returned to ionut_radu12
+ionut_radu12 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: ionut_radu12 (small blind) collected (40)
+Seat 2: FotoGraf5555 (big blind) folded before Flop
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #246767196267: Tournament #3664501862, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/10/27 10:59:03 CET [2023/10/27 4:59:03 ET]
+Table '3664501862 1' 3-max Seat #1 is the button
+Seat 1: ionut_radu12 (130 in chips) 
+Seat 2: FotoGraf5555 (690 in chips) 
+Seat 3: Mahu2021 (680 in chips) 
+FotoGraf5555: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h 7c]
+ionut_radu12: calls 20
+FotoGraf5555: folds 
+Mahu2021: checks 
+*** FLOP *** [2h Jc 5s]
+Mahu2021: checks 
+ionut_radu12: bets 20
+Mahu2021: folds 
+Uncalled bet (20) returned to ionut_radu12
+ionut_radu12 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [2h Jc 5s]
+Seat 1: ionut_radu12 (button) collected (50)
+Seat 2: FotoGraf5555 (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #246767197845: Tournament #3664501862, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/10/27 10:59:17 CET [2023/10/27 4:59:17 ET]
+Table '3664501862 1' 3-max Seat #2 is the button
+Seat 1: ionut_radu12 (160 in chips) 
+Seat 2: FotoGraf5555 (680 in chips) 
+Seat 3: Mahu2021 (660 in chips) 
+Mahu2021: posts small blind 15
+ionut_radu12: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s Ac]
+FotoGraf5555: folds 
+Mahu2021: raises 30 to 60
+ionut_radu12: calls 30
+*** FLOP *** [Th 8d 9s]
+Mahu2021: checks 
+ionut_radu12: checks 
+*** TURN *** [Th 8d 9s] [Tc]
+Mahu2021: checks 
+ionut_radu12: checks 
+*** RIVER *** [Th 8d 9s Tc] [Ts]
+Mahu2021: checks 
+ionut_radu12: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [6s Ac] (three of a kind, Tens)
+ionut_radu12: mucks hand 
+Mahu2021 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Th 8d 9s Tc Ts]
+Seat 1: ionut_radu12 (big blind) mucked [4c 2d]
+Seat 2: FotoGraf5555 (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) showed [6s Ac] and won (120) with three of a kind, Tens
+
+
+
+PokerStars Hand #246767199558: Tournament #3664501862, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/10/27 10:59:34 CET [2023/10/27 4:59:34 ET]
+Table '3664501862 1' 3-max Seat #3 is the button
+Seat 1: ionut_radu12 (100 in chips) 
+Seat 2: FotoGraf5555 (680 in chips) 
+Seat 3: Mahu2021 (720 in chips) 
+ionut_radu12: posts small blind 15
+FotoGraf5555: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd 9d]
+Mahu2021: raises 60 to 90
+ionut_radu12: raises 10 to 100 and is all-in
+FotoGraf5555: folds 
+Mahu2021: calls 10
+*** FLOP *** [Qc Ah Js]
+*** TURN *** [Qc Ah Js] [5h]
+*** RIVER *** [Qc Ah Js 5h] [6d]
+*** SHOW DOWN ***
+ionut_radu12: shows [Ks 7c] (high card Ace)
+Mahu2021: shows [Kd 9d] (high card Ace - King+Queen+Jack+Nine kicker)
+Mahu2021 collected 230 from pot
+ionut_radu12 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 230 | Rake 0 
+Board [Qc Ah Js 5h 6d]
+Seat 1: ionut_radu12 (small blind) showed [Ks 7c] and lost with high card Ace
+Seat 2: FotoGraf5555 (big blind) folded before Flop
+Seat 3: Mahu2021 (button) showed [Kd 9d] and won (230) with high card Ace
+
+
+
+PokerStars Hand #246767201564: Tournament #3664501862, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/10/27 10:59:52 CET [2023/10/27 4:59:52 ET]
+Table '3664501862 1' 3-max Seat #2 is the button
+Seat 2: FotoGraf5555 (650 in chips) 
+Seat 3: Mahu2021 (850 in chips) 
+FotoGraf5555: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8d 4c]
+FotoGraf5555: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 2: FotoGraf5555 (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (30)
+
+
+
+PokerStars Hand #246767202008: Tournament #3664501862, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/10/27 10:59:56 CET [2023/10/27 4:59:56 ET]
+Table '3664501862 1' 3-max Seat #3 is the button
+Seat 2: FotoGraf5555 (635 in chips) 
+Seat 3: Mahu2021 (865 in chips) 
+Mahu2021: posts small blind 15
+FotoGraf5555: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8d Kd]
+Mahu2021: raises 30 to 60
+FotoGraf5555: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: FotoGraf5555 (big blind) folded before Flop
+Seat 3: Mahu2021 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #246767202517: Tournament #3664501862, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/10/27 11:00:01 CET [2023/10/27 5:00:01 ET]
+Table '3664501862 1' 3-max Seat #2 is the button
+Seat 2: FotoGraf5555 (605 in chips) 
+Seat 3: Mahu2021 (895 in chips) 
+FotoGraf5555: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc 3s]
+FotoGraf5555: calls 15
+Mahu2021: checks 
+*** FLOP *** [Kc Js 7d]
+Mahu2021: checks 
+FotoGraf5555: bets 30
+Mahu2021: folds 
+Uncalled bet (30) returned to FotoGraf5555
+FotoGraf5555 collected 60 from pot
+FotoGraf5555: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Kc Js 7d]
+Seat 2: FotoGraf5555 (button) (small blind) collected (60)
+Seat 3: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #246767203615: Tournament #3664501862, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/10/27 11:00:12 CET [2023/10/27 5:00:12 ET]
+Table '3664501862 1' 3-max Seat #3 is the button
+Seat 2: FotoGraf5555 (635 in chips) 
+Seat 3: Mahu2021 (865 in chips) 
+Mahu2021: posts small blind 15
+FotoGraf5555: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s Qh]
+Mahu2021: calls 15
+FotoGraf5555: raises 60 to 90
+Mahu2021: folds 
+Uncalled bet (60) returned to FotoGraf5555
+FotoGraf5555 collected 60 from pot
+FotoGraf5555: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: FotoGraf5555 (big blind) collected (60)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #246767204510: Tournament #3664501862, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/10/27 11:00:19 CET [2023/10/27 5:00:19 ET]
+Table '3664501862 1' 3-max Seat #2 is the button
+Seat 2: FotoGraf5555 (665 in chips) 
+Seat 3: Mahu2021 (835 in chips) 
+FotoGraf5555: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d 3h]
+FotoGraf5555: calls 15
+Mahu2021: raises 60 to 90
+FotoGraf5555: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: FotoGraf5555 (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (60)
+
+
+
+PokerStars Hand #246767205295: Tournament #3664501862, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/10/27 11:00:26 CET [2023/10/27 5:00:26 ET]
+Table '3664501862 1' 3-max Seat #3 is the button
+Seat 2: FotoGraf5555 (635 in chips) 
+Seat 3: Mahu2021 (865 in chips) 
+Mahu2021: posts small blind 15
+FotoGraf5555: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh Qs]
+Mahu2021: raises 30 to 60
+FotoGraf5555: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: FotoGraf5555 (big blind) folded before Flop
+Seat 3: Mahu2021 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #246767206007: Tournament #3664501862, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/10/27 11:00:33 CET [2023/10/27 5:00:33 ET]
+Table '3664501862 1' 3-max Seat #2 is the button
+Seat 2: FotoGraf5555 (605 in chips) 
+Seat 3: Mahu2021 (895 in chips) 
+FotoGraf5555: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s 4s]
+FotoGraf5555: calls 15
+Mahu2021: checks 
+*** FLOP *** [Qs 5d Kh]
+Mahu2021: checks 
+FotoGraf5555: bets 30
+Mahu2021: folds 
+Uncalled bet (30) returned to FotoGraf5555
+FotoGraf5555 collected 60 from pot
+FotoGraf5555: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Qs 5d Kh]
+Seat 2: FotoGraf5555 (button) (small blind) collected (60)
+Seat 3: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #246767207132: Tournament #3664501862, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/10/27 11:00:42 CET [2023/10/27 5:00:42 ET]
+Table '3664501862 1' 3-max Seat #3 is the button
+Seat 2: FotoGraf5555 (635 in chips) 
+Seat 3: Mahu2021 (865 in chips) 
+Mahu2021: posts small blind 15
+FotoGraf5555: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s 3d]
+Mahu2021: folds 
+Uncalled bet (15) returned to FotoGraf5555
+FotoGraf5555 collected 30 from pot
+FotoGraf5555: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 2: FotoGraf5555 (big blind) collected (30)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #246767207649: Tournament #3664501862, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/10/27 11:00:47 CET [2023/10/27 5:00:47 ET]
+Table '3664501862 1' 3-max Seat #2 is the button
+Seat 2: FotoGraf5555 (650 in chips) 
+Seat 3: Mahu2021 (850 in chips) 
+FotoGraf5555: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2s 3h]
+FotoGraf5555: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 2: FotoGraf5555 (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (30)
+
+
+
+PokerStars Hand #246767208181: Tournament #3664501862, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/10/27 11:00:51 CET [2023/10/27 5:00:51 ET]
+Table '3664501862 1' 3-max Seat #3 is the button
+Seat 2: FotoGraf5555 (635 in chips) 
+Seat 3: Mahu2021 (865 in chips) 
+Mahu2021: posts small blind 15
+FotoGraf5555: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d 6s]
+Mahu2021: calls 15
+FotoGraf5555: checks 
+*** FLOP *** [3d 7h Qc]
+FotoGraf5555: checks 
+Mahu2021: bets 30
+FotoGraf5555: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [3d 7h Qc]
+Seat 2: FotoGraf5555 (big blind) folded on the Flop
+Seat 3: Mahu2021 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #246767209555: Tournament #3664501862, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/10/27 11:01:02 CET [2023/10/27 5:01:02 ET]
+Table '3664501862 1' 3-max Seat #2 is the button
+Seat 2: FotoGraf5555 (605 in chips) 
+Seat 3: Mahu2021 (895 in chips) 
+FotoGraf5555: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kc 3d]
+FotoGraf5555: raises 60 to 90
+Mahu2021: folds 
+Uncalled bet (60) returned to FotoGraf5555
+FotoGraf5555 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: FotoGraf5555 (button) (small blind) collected (60)
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #246767210696: Tournament #3664501862, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/10/27 11:01:12 CET [2023/10/27 5:01:12 ET]
+Table '3664501862 1' 3-max Seat #3 is the button
+Seat 2: FotoGraf5555 (635 in chips) 
+Seat 3: Mahu2021 (865 in chips) 
+Mahu2021: posts small blind 20
+FotoGraf5555: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8c 6s]
+Mahu2021: calls 20
+FotoGraf5555: checks 
+*** FLOP *** [Kc 2c 4c]
+FotoGraf5555: checks 
+Mahu2021: bets 40
+FotoGraf5555: calls 40
+*** TURN *** [Kc 2c 4c] [2h]
+FotoGraf5555: checks 
+Mahu2021: bets 120
+FotoGraf5555: folds 
+Uncalled bet (120) returned to Mahu2021
+Mahu2021 collected 160 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Kc 2c 4c 2h]
+Seat 2: FotoGraf5555 (big blind) folded on the Turn
+Seat 3: Mahu2021 (button) (small blind) collected (160)
+
+
+
+PokerStars Hand #246767213298: Tournament #3664501862, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/10/27 11:01:33 CET [2023/10/27 5:01:33 ET]
+Table '3664501862 1' 3-max Seat #2 is the button
+Seat 2: FotoGraf5555 (555 in chips) 
+Seat 3: Mahu2021 (945 in chips) 
+FotoGraf5555: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d 7c]
+FotoGraf5555: raises 40 to 80
+Mahu2021: folds 
+Uncalled bet (40) returned to FotoGraf5555
+FotoGraf5555 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: FotoGraf5555 (button) (small blind) collected (80)
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #246767214012: Tournament #3664501862, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/10/27 11:01:39 CET [2023/10/27 5:01:39 ET]
+Table '3664501862 1' 3-max Seat #3 is the button
+Seat 2: FotoGraf5555 (595 in chips) 
+Seat 3: Mahu2021 (905 in chips) 
+Mahu2021: posts small blind 20
+FotoGraf5555: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s Ad]
+Mahu2021: raises 40 to 80
+FotoGraf5555: calls 40
+*** FLOP *** [9c 4c As]
+FotoGraf5555: checks 
+Mahu2021: bets 160
+FotoGraf5555: raises 355 to 515 and is all-in
+Mahu2021: calls 355
+*** TURN *** [9c 4c As] [Qh]
+*** RIVER *** [9c 4c As Qh] [2c]
+*** SHOW DOWN ***
+FotoGraf5555: shows [Qc 3c] (a flush, Queen high)
+Mahu2021: shows [7s Ad] (a pair of Aces)
+FotoGraf5555 collected 1190 from pot
+*** SUMMARY ***
+Total pot 1190 | Rake 0 
+Board [9c 4c As Qh 2c]
+Seat 2: FotoGraf5555 (big blind) showed [Qc 3c] and won (1190) with a flush, Queen high
+Seat 3: Mahu2021 (button) (small blind) showed [7s Ad] and lost with a pair of Aces
+
+
+
+PokerStars Hand #246767216081: Tournament #3664501862, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/10/27 11:01:56 CET [2023/10/27 5:01:56 ET]
+Table '3664501862 1' 3-max Seat #2 is the button
+Seat 2: FotoGraf5555 (1190 in chips) 
+Seat 3: Mahu2021 (310 in chips) 
+FotoGraf5555: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d 7h]
+FotoGraf5555: calls 20
+Mahu2021: checks 
+*** FLOP *** [Th Qs As]
+Mahu2021: checks 
+FotoGraf5555: bets 40
+Mahu2021: folds 
+Uncalled bet (40) returned to FotoGraf5555
+FotoGraf5555 collected 80 from pot
+FotoGraf5555: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Th Qs As]
+Seat 2: FotoGraf5555 (button) (small blind) collected (80)
+Seat 3: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #246767217215: Tournament #3664501862, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/10/27 11:02:05 CET [2023/10/27 5:02:05 ET]
+Table '3664501862 1' 3-max Seat #3 is the button
+Seat 2: FotoGraf5555 (1230 in chips) 
+Seat 3: Mahu2021 (270 in chips) 
+Mahu2021: posts small blind 20
+FotoGraf5555: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d Th]
+Mahu2021: folds 
+Uncalled bet (20) returned to FotoGraf5555
+FotoGraf5555 collected 40 from pot
+FotoGraf5555: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: FotoGraf5555 (big blind) collected (40)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #246767217764: Tournament #3664501862, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/10/27 11:02:10 CET [2023/10/27 5:02:10 ET]
+Table '3664501862 1' 3-max Seat #2 is the button
+Seat 2: FotoGraf5555 (1250 in chips) 
+Seat 3: Mahu2021 (250 in chips) 
+FotoGraf5555: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d Jc]
+FotoGraf5555: calls 20
+Mahu2021: checks 
+*** FLOP *** [8h 2d Ah]
+Mahu2021: checks 
+FotoGraf5555: bets 40
+Mahu2021: folds 
+Uncalled bet (40) returned to FotoGraf5555
+FotoGraf5555 collected 80 from pot
+FotoGraf5555: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [8h 2d Ah]
+Seat 2: FotoGraf5555 (button) (small blind) collected (80)
+Seat 3: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #246767218862: Tournament #3664501862, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/10/27 11:02:19 CET [2023/10/27 5:02:19 ET]
+Table '3664501862 1' 3-max Seat #3 is the button
+Seat 2: FotoGraf5555 (1290 in chips) 
+Seat 3: Mahu2021 (210 in chips) 
+Mahu2021: posts small blind 20
+FotoGraf5555: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c 8d]
+Mahu2021: calls 20
+FotoGraf5555: checks 
+*** FLOP *** [5s Td 7c]
+FotoGraf5555: checks 
+Mahu2021: bets 40
+FotoGraf5555: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [5s Td 7c]
+Seat 2: FotoGraf5555 (big blind) folded on the Flop
+Seat 3: Mahu2021 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #246767219991: Tournament #3664501862, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/10/27 11:02:28 CET [2023/10/27 5:02:28 ET]
+Table '3664501862 1' 3-max Seat #2 is the button
+Seat 2: FotoGraf5555 (1250 in chips) 
+Seat 3: Mahu2021 (250 in chips) 
+FotoGraf5555: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Td Js]
+FotoGraf5555: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: FotoGraf5555 (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (40)
+
+
+
+PokerStars Hand #246767220505: Tournament #3664501862, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/10/27 11:02:32 CET [2023/10/27 5:02:32 ET]
+Table '3664501862 1' 3-max Seat #3 is the button
+Seat 2: FotoGraf5555 (1230 in chips) 
+Seat 3: Mahu2021 (270 in chips) 
+Mahu2021: posts small blind 20
+FotoGraf5555: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8s Tc]
+Mahu2021: calls 20
+FotoGraf5555: raises 1190 to 1230 and is all-in
+Mahu2021: folds 
+Uncalled bet (1190) returned to FotoGraf5555
+FotoGraf5555 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: FotoGraf5555 (big blind) collected (80)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #246767221322: Tournament #3664501862, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/10/27 11:02:39 CET [2023/10/27 5:02:39 ET]
+Table '3664501862 1' 3-max Seat #2 is the button
+Seat 2: FotoGraf5555 (1270 in chips) 
+Seat 3: Mahu2021 (230 in chips) 
+FotoGraf5555: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js 3s]
+FotoGraf5555: calls 20
+Mahu2021: checks 
+*** FLOP *** [4c 7h 5c]
+Mahu2021: checks 
+FotoGraf5555: bets 40
+Mahu2021: calls 40
+*** TURN *** [4c 7h 5c] [Qc]
+Mahu2021: checks 
+FotoGraf5555: bets 160
+Mahu2021: folds 
+Uncalled bet (160) returned to FotoGraf5555
+FotoGraf5555 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [4c 7h 5c Qc]
+Seat 2: FotoGraf5555 (button) (small blind) collected (160)
+Seat 3: Mahu2021 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #246767222968: Tournament #3664501862, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/10/27 11:02:53 CET [2023/10/27 5:02:53 ET]
+Table '3664501862 1' 3-max Seat #3 is the button
+Seat 2: FotoGraf5555 (1350 in chips) 
+Seat 3: Mahu2021 (150 in chips) 
+Mahu2021: posts small blind 20
+FotoGraf5555: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8c 8s]
+Mahu2021: raises 110 to 150 and is all-in
+FotoGraf5555: folds 
+Uncalled bet (110) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: FotoGraf5555 (big blind) folded before Flop
+Seat 3: Mahu2021 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #246767223643: Tournament #3664501862, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/10/27 11:02:59 CET [2023/10/27 5:02:59 ET]
+Table '3664501862 1' 3-max Seat #2 is the button
+Seat 2: FotoGraf5555 (1310 in chips) 
+Seat 3: Mahu2021 (190 in chips) 
+FotoGraf5555: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d 3c]
+FotoGraf5555: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: FotoGraf5555 (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (40)
+
+
+
+PokerStars Hand #246767224146: Tournament #3664501862, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/10/27 11:03:03 CET [2023/10/27 5:03:03 ET]
+Table '3664501862 1' 3-max Seat #3 is the button
+Seat 2: FotoGraf5555 (1290 in chips) 
+Seat 3: Mahu2021 (210 in chips) 
+Mahu2021: posts small blind 20
+FotoGraf5555: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qs 7d]
+Mahu2021: raises 170 to 210 and is all-in
+FotoGraf5555: folds 
+Uncalled bet (170) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: FotoGraf5555 (big blind) folded before Flop
+Seat 3: Mahu2021 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #246767225258: Tournament #3664501862, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/10/27 11:03:12 CET [2023/10/27 5:03:12 ET]
+Table '3664501862 1' 3-max Seat #2 is the button
+Seat 2: FotoGraf5555 (1250 in chips) 
+Seat 3: Mahu2021 (250 in chips) 
+FotoGraf5555: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d 2s]
+FotoGraf5555: raises 60 to 120
+Mahu2021: folds 
+Uncalled bet (60) returned to FotoGraf5555
+FotoGraf5555 collected 120 from pot
+FotoGraf5555: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: FotoGraf5555 (button) (small blind) collected (120)
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #246767225854: Tournament #3664501862, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/10/27 11:03:16 CET [2023/10/27 5:03:16 ET]
+Table '3664501862 1' 3-max Seat #3 is the button
+Seat 2: FotoGraf5555 (1310 in chips) 
+Seat 3: Mahu2021 (190 in chips) 
+Mahu2021: posts small blind 30
+FotoGraf5555: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s 2h]
+Mahu2021: folds 
+Uncalled bet (30) returned to FotoGraf5555
+FotoGraf5555 collected 60 from pot
+FotoGraf5555: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: FotoGraf5555 (big blind) collected (60)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #246767226359: Tournament #3664501862, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/10/27 11:03:21 CET [2023/10/27 5:03:21 ET]
+Table '3664501862 1' 3-max Seat #2 is the button
+Seat 2: FotoGraf5555 (1340 in chips) 
+Seat 3: Mahu2021 (160 in chips) 
+FotoGraf5555: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s Qd]
+FotoGraf5555: raises 1280 to 1340 and is all-in
+Mahu2021: folds 
+Uncalled bet (1280) returned to FotoGraf5555
+FotoGraf5555 collected 120 from pot
+FotoGraf5555: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: FotoGraf5555 (button) (small blind) collected (120)
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #246767227052: Tournament #3664501862, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/10/27 11:03:26 CET [2023/10/27 5:03:26 ET]
+Table '3664501862 1' 3-max Seat #3 is the button
+Seat 2: FotoGraf5555 (1400 in chips) 
+Seat 3: Mahu2021 (100 in chips) 
+Mahu2021: posts small blind 30
+FotoGraf5555: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h 8c]
+Mahu2021: raises 40 to 100 and is all-in
+FotoGraf5555: calls 40
+*** FLOP *** [Ad 6c Ks]
+*** TURN *** [Ad 6c Ks] [7s]
+*** RIVER *** [Ad 6c Ks 7s] [8s]
+*** SHOW DOWN ***
+FotoGraf5555: shows [7c 3c] (a pair of Sevens)
+Mahu2021: shows [9h 8c] (a pair of Eights)
+Mahu2021 collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [Ad 6c Ks 7s 8s]
+Seat 2: FotoGraf5555 (big blind) showed [7c 3c] and lost with a pair of Sevens
+Seat 3: Mahu2021 (button) (small blind) showed [9h 8c] and won (200) with a pair of Eights
+
+
+
+PokerStars Hand #246767228581: Tournament #3664501862, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/10/27 11:03:39 CET [2023/10/27 5:03:39 ET]
+Table '3664501862 1' 3-max Seat #2 is the button
+Seat 2: FotoGraf5555 (1300 in chips) 
+Seat 3: Mahu2021 (200 in chips) 
+FotoGraf5555: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h 3d]
+FotoGraf5555: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: FotoGraf5555 (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (60)
+
+
+
+PokerStars Hand #246767229098: Tournament #3664501862, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/10/27 11:03:43 CET [2023/10/27 5:03:43 ET]
+Table '3664501862 1' 3-max Seat #3 is the button
+Seat 2: FotoGraf5555 (1270 in chips) 
+Seat 3: Mahu2021 (230 in chips) 
+Mahu2021: posts small blind 30
+FotoGraf5555: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3c 6s]
+Mahu2021: folds 
+Uncalled bet (30) returned to FotoGraf5555
+FotoGraf5555 collected 60 from pot
+FotoGraf5555: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: FotoGraf5555 (big blind) collected (60)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #246767229645: Tournament #3664501862, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/10/27 11:03:48 CET [2023/10/27 5:03:48 ET]
+Table '3664501862 1' 3-max Seat #2 is the button
+Seat 2: FotoGraf5555 (1300 in chips) 
+Seat 3: Mahu2021 (200 in chips) 
+FotoGraf5555: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh 4d]
+FotoGraf5555: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: FotoGraf5555 (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (60)
+
+
+
+PokerStars Hand #246767230170: Tournament #3664501862, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/10/27 11:03:52 CET [2023/10/27 5:03:52 ET]
+Table '3664501862 1' 3-max Seat #3 is the button
+Seat 2: FotoGraf5555 (1270 in chips) 
+Seat 3: Mahu2021 (230 in chips) 
+Mahu2021: posts small blind 30
+FotoGraf5555: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js 5c]
+Mahu2021: raises 170 to 230 and is all-in
+FotoGraf5555: folds 
+Uncalled bet (170) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: FotoGraf5555 (big blind) folded before Flop
+Seat 3: Mahu2021 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #246767230902: Tournament #3664501862, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/10/27 11:03:58 CET [2023/10/27 5:03:58 ET]
+Table '3664501862 1' 3-max Seat #2 is the button
+Seat 2: FotoGraf5555 (1210 in chips) 
+Seat 3: Mahu2021 (290 in chips) 
+FotoGraf5555: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s 9h]
+FotoGraf5555: calls 30
+Mahu2021: checks 
+*** FLOP *** [Kd Th Tc]
+Mahu2021: checks 
+FotoGraf5555: bets 60
+Mahu2021: folds 
+Uncalled bet (60) returned to FotoGraf5555
+FotoGraf5555 collected 120 from pot
+FotoGraf5555: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Kd Th Tc]
+Seat 2: FotoGraf5555 (button) (small blind) collected (120)
+Seat 3: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #246767231899: Tournament #3664501862, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/10/27 11:04:06 CET [2023/10/27 5:04:06 ET]
+Table '3664501862 1' 3-max Seat #3 is the button
+Seat 2: FotoGraf5555 (1270 in chips) 
+Seat 3: Mahu2021 (230 in chips) 
+Mahu2021: posts small blind 30
+FotoGraf5555: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s Jd]
+Mahu2021: folds 
+Uncalled bet (30) returned to FotoGraf5555
+FotoGraf5555 collected 60 from pot
+FotoGraf5555: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: FotoGraf5555 (big blind) collected (60)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #246767232479: Tournament #3664501862, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/10/27 11:04:11 CET [2023/10/27 5:04:11 ET]
+Table '3664501862 1' 3-max Seat #2 is the button
+Seat 2: FotoGraf5555 (1300 in chips) 
+Seat 3: Mahu2021 (200 in chips) 
+FotoGraf5555: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c 4h]
+FotoGraf5555: calls 30
+Mahu2021: checks 
+*** FLOP *** [5c Jc Jd]
+Mahu2021: checks 
+FotoGraf5555: checks 
+*** TURN *** [5c Jc Jd] [Th]
+Mahu2021: checks 
+FotoGraf5555: checks 
+*** RIVER *** [5c Jc Jd Th] [Jh]
+Mahu2021: checks 
+FotoGraf5555: bets 60
+Mahu2021: folds 
+Uncalled bet (60) returned to FotoGraf5555
+FotoGraf5555 collected 120 from pot
+FotoGraf5555: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [5c Jc Jd Th Jh]
+Seat 2: FotoGraf5555 (button) (small blind) collected (120)
+Seat 3: Mahu2021 (big blind) folded on the River
+
+
+
+PokerStars Hand #246767234276: Tournament #3664501862, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/10/27 11:04:26 CET [2023/10/27 5:04:26 ET]
+Table '3664501862 1' 3-max Seat #3 is the button
+Seat 2: FotoGraf5555 (1360 in chips) 
+Seat 3: Mahu2021 (140 in chips) 
+Mahu2021: posts small blind 30
+FotoGraf5555: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3c 6c]
+Mahu2021: raises 80 to 140 and is all-in
+FotoGraf5555: calls 80
+*** FLOP *** [4c 2s Tc]
+*** TURN *** [4c 2s Tc] [Jc]
+*** RIVER *** [4c 2s Tc Jc] [4s]
+*** SHOW DOWN ***
+FotoGraf5555: shows [6d 8s] (a pair of Fours)
+Mahu2021: shows [3c 6c] (a flush, Jack high)
+Mahu2021 collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | Rake 0 
+Board [4c 2s Tc Jc 4s]
+Seat 2: FotoGraf5555 (big blind) showed [6d 8s] and lost with a pair of Fours
+Seat 3: Mahu2021 (button) (small blind) showed [3c 6c] and won (280) with a flush, Jack high
+
+
+
+PokerStars Hand #246767235932: Tournament #3664501862, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/10/27 11:04:39 CET [2023/10/27 5:04:39 ET]
+Table '3664501862 1' 3-max Seat #2 is the button
+Seat 2: FotoGraf5555 (1220 in chips) 
+Seat 3: Mahu2021 (280 in chips) 
+FotoGraf5555: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh Jd]
+FotoGraf5555: raises 120 to 180
+Mahu2021: raises 100 to 280 and is all-in
+FotoGraf5555: calls 100
+*** FLOP *** [As Jh 6c]
+*** TURN *** [As Jh 6c] [Ks]
+*** RIVER *** [As Jh 6c Ks] [4d]
+*** SHOW DOWN ***
+Mahu2021: shows [Qh Jd] (a pair of Jacks)
+FotoGraf5555: shows [Jc Kd] (two pair, Kings and Jacks)
+FotoGraf5555 collected 560 from pot
+Mahu2021 finished the tournament in 2nd place
+FotoGraf5555 wins the tournament and receives $2.00 - congratulations!
+*** SUMMARY ***
+Total pot 560 | Rake 0 
+Board [As Jh 6c Ks 4d]
+Seat 2: FotoGraf5555 (button) (small blind) showed [Jc Kd] and won (560) with two pair, Kings and Jacks
+Seat 3: Mahu2021 (big blind) showed [Qh Jd] and lost with a pair of Jacks
+
+
+

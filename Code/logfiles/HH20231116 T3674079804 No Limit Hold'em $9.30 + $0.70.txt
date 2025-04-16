@@ -1,0 +1,703 @@
+﻿PokerStars Hand #247143925789: Tournament #3674079804, $9.30+$0.70 USD Hold'em No Limit - Level I (10/20) - 2023/11/16 19:27:31 CET [2023/11/16 13:27:31 ET]
+Table '3674079804 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: Nikolai_Win (500 in chips) 
+Seat 3: mcltaylor (500 in chips) 
+Nikolai_Win: posts small blind 10
+mcltaylor: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc Qh]
+Mahu2021: raises 40 to 60
+Nikolai_Win: folds 
+mcltaylor: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 50 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: Mahu2021 (button) collected (50)
+Seat 2: Nikolai_Win (small blind) folded before Flop
+Seat 3: mcltaylor (big blind) folded before Flop
+
+
+
+PokerStars Hand #247143929486: Tournament #3674079804, $9.30+$0.70 USD Hold'em No Limit - Level I (10/20) - 2023/11/16 19:27:42 CET [2023/11/16 13:27:42 ET]
+Table '3674079804 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (530 in chips) 
+Seat 2: Nikolai_Win (490 in chips) 
+Seat 3: mcltaylor (480 in chips) 
+mcltaylor: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts 7d]
+Nikolai_Win: raises 20 to 40
+mcltaylor: folds 
+Mahu2021: calls 20
+*** FLOP *** [As 4c Js]
+Mahu2021: checks 
+Nikolai_Win: bets 36
+Mahu2021: folds 
+Uncalled bet (36) returned to Nikolai_Win
+Nikolai_Win collected 90 from pot
+Nikolai_Win: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [As 4c Js]
+Seat 1: Mahu2021 (big blind) folded on the Flop
+Seat 2: Nikolai_Win (button) collected (90)
+Seat 3: mcltaylor (small blind) folded before Flop
+
+
+
+PokerStars Hand #247143934993: Tournament #3674079804, $9.30+$0.70 USD Hold'em No Limit - Level I (10/20) - 2023/11/16 19:27:59 CET [2023/11/16 13:27:59 ET]
+Table '3674079804 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (490 in chips) 
+Seat 2: Nikolai_Win (540 in chips) 
+Seat 3: mcltaylor (470 in chips) 
+Mahu2021: posts small blind 10
+Nikolai_Win: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h Ks]
+mcltaylor: folds 
+Mahu2021: raises 40 to 60
+Nikolai_Win: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (small blind) collected (40)
+Seat 2: Nikolai_Win (big blind) folded before Flop
+Seat 3: mcltaylor (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #247143939245: Tournament #3674079804, $9.30+$0.70 USD Hold'em No Limit - Level I (10/20) - 2023/11/16 19:28:13 CET [2023/11/16 13:28:13 ET]
+Table '3674079804 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (510 in chips) 
+Seat 2: Nikolai_Win (520 in chips) 
+Seat 3: mcltaylor (470 in chips) 
+Nikolai_Win: posts small blind 10
+mcltaylor: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd 2c]
+Mahu2021: folds 
+Nikolai_Win: raises 40 to 60
+mcltaylor: calls 40
+*** FLOP *** [Kd 7d 7c]
+Nikolai_Win: checks 
+mcltaylor: bets 61
+Nikolai_Win: folds 
+Uncalled bet (61) returned to mcltaylor
+mcltaylor collected 120 from pot
+mcltaylor: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Kd 7d 7c]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: Nikolai_Win (small blind) folded on the Flop
+Seat 3: mcltaylor (big blind) collected (120)
+
+
+
+PokerStars Hand #247143950308: Tournament #3674079804, $9.30+$0.70 USD Hold'em No Limit - Level I (10/20) - 2023/11/16 19:28:48 CET [2023/11/16 13:28:48 ET]
+Table '3674079804 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (510 in chips) 
+Seat 2: Nikolai_Win (460 in chips) 
+Seat 3: mcltaylor (530 in chips) 
+mcltaylor: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h 8d]
+Nikolai_Win: raises 20 to 40
+mcltaylor: calls 30
+Mahu2021: folds 
+*** FLOP *** [3d As 5h]
+mcltaylor: checks 
+Nikolai_Win: bets 40
+mcltaylor: raises 60 to 100
+Nikolai_Win: calls 60
+*** TURN *** [3d As 5h] [Qc]
+mcltaylor: checks 
+Nikolai_Win: checks 
+*** RIVER *** [3d As 5h Qc] [Kh]
+mcltaylor: checks 
+Nikolai_Win: checks 
+*** SHOW DOWN ***
+mcltaylor: shows [9c 7c] (high card Ace)
+Nikolai_Win: shows [9d 9s] (a pair of Nines)
+Nikolai_Win collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [3d As 5h Qc Kh]
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: Nikolai_Win (button) showed [9d 9s] and won (300) with a pair of Nines
+Seat 3: mcltaylor (small blind) showed [9c 7c] and lost with high card Ace
+
+
+
+PokerStars Hand #247143974707: Tournament #3674079804, $9.30+$0.70 USD Hold'em No Limit - Level I (10/20) - 2023/11/16 19:30:04 CET [2023/11/16 13:30:04 ET]
+Table '3674079804 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (490 in chips) 
+Seat 2: Nikolai_Win (620 in chips) 
+Seat 3: mcltaylor (390 in chips) 
+Mahu2021: posts small blind 10
+Nikolai_Win: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s Qd]
+mcltaylor: folds 
+Mahu2021: folds 
+Uncalled bet (10) returned to Nikolai_Win
+Nikolai_Win collected 20 from pot
+Nikolai_Win: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: Nikolai_Win (big blind) collected (20)
+Seat 3: mcltaylor (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #247143977096: Tournament #3674079804, $9.30+$0.70 USD Hold'em No Limit - Level I (10/20) - 2023/11/16 19:30:11 CET [2023/11/16 13:30:11 ET]
+Table '3674079804 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (480 in chips) 
+Seat 2: Nikolai_Win (630 in chips) 
+Seat 3: mcltaylor (390 in chips) 
+Nikolai_Win: posts small blind 10
+mcltaylor: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c 8d]
+Mahu2021: folds 
+Nikolai_Win: calls 10
+mcltaylor: raises 60 to 80
+Nikolai_Win: folds 
+Uncalled bet (60) returned to mcltaylor
+mcltaylor collected 40 from pot
+mcltaylor: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: Nikolai_Win (small blind) folded before Flop
+Seat 3: mcltaylor (big blind) collected (40)
+
+
+
+PokerStars Hand #247143980985: Tournament #3674079804, $9.30+$0.70 USD Hold'em No Limit - Level I (10/20) - 2023/11/16 19:30:24 CET [2023/11/16 13:30:24 ET]
+Table '3674079804 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (480 in chips) 
+Seat 2: Nikolai_Win (610 in chips) 
+Seat 3: mcltaylor (410 in chips) 
+mcltaylor: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd Tc]
+Nikolai_Win: raises 20 to 40
+mcltaylor: folds 
+Mahu2021: calls 20
+*** FLOP *** [2s 4s 8d]
+Mahu2021: checks 
+Nikolai_Win: bets 36
+Mahu2021: calls 36
+*** TURN *** [2s 4s 8d] [Qd]
+Mahu2021: checks 
+Nikolai_Win: bets 97
+Mahu2021: folds 
+Uncalled bet (97) returned to Nikolai_Win
+Nikolai_Win collected 162 from pot
+Nikolai_Win: doesn't show hand 
+*** SUMMARY ***
+Total pot 162 | Rake 0 
+Board [2s 4s 8d Qd]
+Seat 1: Mahu2021 (big blind) folded on the Turn
+Seat 2: Nikolai_Win (button) collected (162)
+Seat 3: mcltaylor (small blind) folded before Flop
+
+
+
+PokerStars Hand #247143989396: Tournament #3674079804, $9.30+$0.70 USD Hold'em No Limit - Level II (15/30) - 2023/11/16 19:30:50 CET [2023/11/16 13:30:50 ET]
+Table '3674079804 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (404 in chips) 
+Seat 2: Nikolai_Win (696 in chips) 
+Seat 3: mcltaylor (400 in chips) 
+Mahu2021: posts small blind 15
+Nikolai_Win: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h Ks]
+mcltaylor: raises 370 to 400 and is all-in
+Mahu2021: folds 
+Nikolai_Win: calls 370
+*** FLOP *** [Jh 8d 6d]
+*** TURN *** [Jh 8d 6d] [Qs]
+*** RIVER *** [Jh 8d 6d Qs] [Kh]
+*** SHOW DOWN ***
+Nikolai_Win: shows [7d 7c] (a pair of Sevens)
+mcltaylor: shows [Js Ts] (a pair of Jacks)
+mcltaylor collected 815 from pot
+*** SUMMARY ***
+Total pot 815 | Rake 0 
+Board [Jh 8d 6d Qs Kh]
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: Nikolai_Win (big blind) showed [7d 7c] and lost with a pair of Sevens
+Seat 3: mcltaylor (button) showed [Js Ts] and won (815) with a pair of Jacks
+
+
+
+PokerStars Hand #247143994232: Tournament #3674079804, $9.30+$0.70 USD Hold'em No Limit - Level II (15/30) - 2023/11/16 19:31:05 CET [2023/11/16 13:31:05 ET]
+Table '3674079804 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (389 in chips) 
+Seat 2: Nikolai_Win (296 in chips) 
+Seat 3: mcltaylor (815 in chips) 
+Nikolai_Win: posts small blind 15
+mcltaylor: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s 5d]
+Mahu2021: calls 30
+Nikolai_Win: folds 
+mcltaylor: raises 785 to 815 and is all-in
+Mahu2021: folds 
+Uncalled bet (785) returned to mcltaylor
+mcltaylor collected 75 from pot
+mcltaylor: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: Mahu2021 (button) folded before Flop
+Seat 2: Nikolai_Win (small blind) folded before Flop
+Seat 3: mcltaylor (big blind) collected (75)
+
+
+
+PokerStars Hand #247144000324: Tournament #3674079804, $9.30+$0.70 USD Hold'em No Limit - Level II (15/30) - 2023/11/16 19:31:24 CET [2023/11/16 13:31:24 ET]
+Table '3674079804 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (359 in chips) 
+Seat 2: Nikolai_Win (281 in chips) 
+Seat 3: mcltaylor (860 in chips) 
+mcltaylor: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3c Kc]
+Nikolai_Win: raises 251 to 281 and is all-in
+mcltaylor: folds 
+Mahu2021: folds 
+Uncalled bet (251) returned to Nikolai_Win
+Nikolai_Win collected 75 from pot
+Nikolai_Win: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: Nikolai_Win (button) collected (75)
+Seat 3: mcltaylor (small blind) folded before Flop
+
+
+
+PokerStars Hand #247144002588: Tournament #3674079804, $9.30+$0.70 USD Hold'em No Limit - Level II (15/30) - 2023/11/16 19:31:31 CET [2023/11/16 13:31:31 ET]
+Table '3674079804 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (329 in chips) 
+Seat 2: Nikolai_Win (326 in chips) 
+Seat 3: mcltaylor (845 in chips) 
+Mahu2021: posts small blind 15
+Nikolai_Win: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Th 2s]
+mcltaylor: folds 
+Mahu2021: folds 
+Uncalled bet (15) returned to Nikolai_Win
+Nikolai_Win collected 30 from pot
+Nikolai_Win: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: Nikolai_Win (big blind) collected (30)
+Seat 3: mcltaylor (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #247144004028: Tournament #3674079804, $9.30+$0.70 USD Hold'em No Limit - Level II (15/30) - 2023/11/16 19:31:36 CET [2023/11/16 13:31:36 ET]
+Table '3674079804 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (314 in chips) 
+Seat 2: Nikolai_Win (341 in chips) 
+Seat 3: mcltaylor (845 in chips) 
+Nikolai_Win: posts small blind 15
+mcltaylor: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d Qh]
+Mahu2021: folds 
+Nikolai_Win: calls 15
+mcltaylor: raises 815 to 845 and is all-in
+Nikolai_Win: folds 
+Uncalled bet (815) returned to mcltaylor
+mcltaylor collected 60 from pot
+mcltaylor: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: Nikolai_Win (small blind) folded before Flop
+Seat 3: mcltaylor (big blind) collected (60)
+
+
+
+PokerStars Hand #247144008165: Tournament #3674079804, $9.30+$0.70 USD Hold'em No Limit - Level II (15/30) - 2023/11/16 19:31:49 CET [2023/11/16 13:31:49 ET]
+Table '3674079804 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (314 in chips) 
+Seat 2: Nikolai_Win (311 in chips) 
+Seat 3: mcltaylor (875 in chips) 
+mcltaylor: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8c Ks]
+Nikolai_Win: folds 
+mcltaylor: calls 15
+Mahu2021: checks 
+*** FLOP *** [5d Tc Jc]
+mcltaylor: checks 
+Mahu2021: checks 
+*** TURN *** [5d Tc Jc] [4s]
+mcltaylor has timed out
+mcltaylor: checks 
+Mahu2021: checks 
+*** RIVER *** [5d Tc Jc 4s] [Qd]
+mcltaylor: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+mcltaylor: shows [7d 5s] (a pair of Fives)
+Mahu2021: mucks hand 
+mcltaylor collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [5d Tc Jc 4s Qd]
+Seat 1: Mahu2021 (big blind) mucked [8c Ks]
+Seat 2: Nikolai_Win (button) folded before Flop (didn't bet)
+Seat 3: mcltaylor (small blind) showed [7d 5s] and won (60) with a pair of Fives
+
+
+
+PokerStars Hand #247144025165: Tournament #3674079804, $9.30+$0.70 USD Hold'em No Limit - Level II (15/30) - 2023/11/16 19:32:42 CET [2023/11/16 13:32:42 ET]
+Table '3674079804 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (284 in chips) 
+Seat 2: Nikolai_Win (311 in chips) 
+Seat 3: mcltaylor (905 in chips) 
+Mahu2021: posts small blind 15
+Nikolai_Win: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d 6c]
+mcltaylor: folds 
+Mahu2021: folds 
+Uncalled bet (15) returned to Nikolai_Win
+Nikolai_Win collected 30 from pot
+Nikolai_Win: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: Nikolai_Win (big blind) collected (30)
+Seat 3: mcltaylor (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #247144026923: Tournament #3674079804, $9.30+$0.70 USD Hold'em No Limit - Level II (15/30) - 2023/11/16 19:32:48 CET [2023/11/16 13:32:48 ET]
+Table '3674079804 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (269 in chips) 
+Seat 2: Nikolai_Win (326 in chips) 
+Seat 3: mcltaylor (905 in chips) 
+Nikolai_Win: posts small blind 15
+mcltaylor: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h 4d]
+Mahu2021: folds 
+Nikolai_Win: raises 296 to 326 and is all-in
+mcltaylor: calls 296
+*** FLOP *** [Kh Jh 9c]
+*** TURN *** [Kh Jh 9c] [Ah]
+*** RIVER *** [Kh Jh 9c Ah] [Tc]
+*** SHOW DOWN ***
+Nikolai_Win: shows [3c Qc] (a straight, Ten to Ace)
+mcltaylor: shows [Ac Ts] (two pair, Aces and Tens)
+Nikolai_Win collected 652 from pot
+*** SUMMARY ***
+Total pot 652 | Rake 0 
+Board [Kh Jh 9c Ah Tc]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: Nikolai_Win (small blind) showed [3c Qc] and won (652) with a straight, Ten to Ace
+Seat 3: mcltaylor (big blind) showed [Ac Ts] and lost with two pair, Aces and Tens
+
+
+
+PokerStars Hand #247144031683: Tournament #3674079804, $9.30+$0.70 USD Hold'em No Limit - Level II (15/30) - 2023/11/16 19:33:03 CET [2023/11/16 13:33:03 ET]
+Table '3674079804 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (269 in chips) 
+Seat 2: Nikolai_Win (652 in chips) 
+Seat 3: mcltaylor (579 in chips) 
+mcltaylor: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kc Qs]
+Nikolai_Win: folds 
+mcltaylor: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (30)
+Seat 2: Nikolai_Win (button) folded before Flop (didn't bet)
+Seat 3: mcltaylor (small blind) folded before Flop
+
+
+
+PokerStars Hand #247144035062: Tournament #3674079804, $9.30+$0.70 USD Hold'em No Limit - Level II (15/30) - 2023/11/16 19:33:13 CET [2023/11/16 13:33:13 ET]
+Table '3674079804 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (284 in chips) 
+Seat 2: Nikolai_Win (652 in chips) 
+Seat 3: mcltaylor (564 in chips) 
+Mahu2021: posts small blind 15
+Nikolai_Win: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h Ac]
+mcltaylor: folds 
+Mahu2021: raises 254 to 284 and is all-in
+Nikolai_Win: folds 
+Uncalled bet (254) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (small blind) collected (60)
+Seat 2: Nikolai_Win (big blind) folded before Flop
+Seat 3: mcltaylor (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #247144037148: Tournament #3674079804, $9.30+$0.70 USD Hold'em No Limit - Level II (15/30) - 2023/11/16 19:33:20 CET [2023/11/16 13:33:20 ET]
+Table '3674079804 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (314 in chips) 
+Seat 2: Nikolai_Win (622 in chips) 
+Seat 3: mcltaylor (564 in chips) 
+Nikolai_Win: posts small blind 15
+mcltaylor: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d 6s]
+Mahu2021: folds 
+Nikolai_Win: raises 30 to 60
+mcltaylor has timed out
+mcltaylor: folds 
+mcltaylor is sitting out
+Uncalled bet (30) returned to Nikolai_Win
+Nikolai_Win collected 60 from pot
+Nikolai_Win: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: Nikolai_Win (small blind) collected (60)
+Seat 3: mcltaylor (big blind) folded before Flop
+
+
+
+PokerStars Hand #247144045129: Tournament #3674079804, $9.30+$0.70 USD Hold'em No Limit - Level III (20/40) - 2023/11/16 19:33:45 CET [2023/11/16 13:33:45 ET]
+Table '3674079804 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (314 in chips) 
+Seat 2: Nikolai_Win (652 in chips) 
+Seat 3: mcltaylor (534 in chips) 
+mcltaylor: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s 7s]
+Nikolai_Win: folds 
+mcltaylor: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (40)
+Seat 2: Nikolai_Win (button) folded before Flop (didn't bet)
+Seat 3: mcltaylor (small blind) folded before Flop
+
+
+
+PokerStars Hand #247144049244: Tournament #3674079804, $9.30+$0.70 USD Hold'em No Limit - Level III (20/40) - 2023/11/16 19:33:58 CET [2023/11/16 13:33:58 ET]
+Table '3674079804 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (334 in chips) 
+Seat 2: Nikolai_Win (652 in chips) 
+Seat 3: mcltaylor (514 in chips) 
+Mahu2021: posts small blind 20
+Nikolai_Win: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h 9s]
+mcltaylor: raises 474 to 514 and is all-in
+Mahu2021: folds 
+Nikolai_Win: folds 
+Uncalled bet (474) returned to mcltaylor
+mcltaylor collected 100 from pot
+mcltaylor: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: Nikolai_Win (big blind) folded before Flop
+Seat 3: mcltaylor (button) collected (100)
+
+
+
+PokerStars Hand #247144052073: Tournament #3674079804, $9.30+$0.70 USD Hold'em No Limit - Level III (20/40) - 2023/11/16 19:34:06 CET [2023/11/16 13:34:06 ET]
+Table '3674079804 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (314 in chips) 
+Seat 2: Nikolai_Win (612 in chips) 
+Seat 3: mcltaylor (574 in chips) 
+Nikolai_Win: posts small blind 20
+mcltaylor: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h 4h]
+Mahu2021: folds 
+Nikolai_Win: raises 572 to 612 and is all-in
+mcltaylor: folds 
+Uncalled bet (572) returned to Nikolai_Win
+Nikolai_Win collected 80 from pot
+Nikolai_Win: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: Nikolai_Win (small blind) collected (80)
+Seat 3: mcltaylor (big blind) folded before Flop
+
+
+
+PokerStars Hand #247144056557: Tournament #3674079804, $9.30+$0.70 USD Hold'em No Limit - Level III (20/40) - 2023/11/16 19:34:20 CET [2023/11/16 13:34:20 ET]
+Table '3674079804 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (314 in chips) 
+Seat 2: Nikolai_Win (652 in chips) 
+Seat 3: mcltaylor (534 in chips) 
+mcltaylor: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s 7h]
+Nikolai_Win: raises 612 to 652 and is all-in
+mcltaylor: folds 
+Mahu2021: folds 
+Uncalled bet (612) returned to Nikolai_Win
+Nikolai_Win collected 100 from pot
+Nikolai_Win: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: Nikolai_Win (button) collected (100)
+Seat 3: mcltaylor (small blind) folded before Flop
+
+
+
+PokerStars Hand #247144060664: Tournament #3674079804, $9.30+$0.70 USD Hold'em No Limit - Level III (20/40) - 2023/11/16 19:34:33 CET [2023/11/16 13:34:33 ET]
+Table '3674079804 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (274 in chips) 
+Seat 2: Nikolai_Win (712 in chips) 
+Seat 3: mcltaylor (514 in chips) 
+Mahu2021: posts small blind 20
+Nikolai_Win: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h 9c]
+mcltaylor: folds 
+Mahu2021: calls 20
+Nikolai_Win: raises 672 to 712 and is all-in
+Mahu2021: folds 
+Uncalled bet (672) returned to Nikolai_Win
+Nikolai_Win collected 80 from pot
+Nikolai_Win: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: Nikolai_Win (big blind) collected (80)
+Seat 3: mcltaylor (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #247144063690: Tournament #3674079804, $9.30+$0.70 USD Hold'em No Limit - Level III (20/40) - 2023/11/16 19:34:42 CET [2023/11/16 13:34:42 ET]
+Table '3674079804 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (234 in chips) 
+Seat 2: Nikolai_Win (752 in chips) 
+Seat 3: mcltaylor (514 in chips) 
+Nikolai_Win: posts small blind 20
+mcltaylor: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4c Tc]
+Mahu2021: folds 
+Nikolai_Win: folds 
+Uncalled bet (20) returned to mcltaylor
+mcltaylor collected 40 from pot
+mcltaylor: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: Nikolai_Win (small blind) folded before Flop
+Seat 3: mcltaylor (big blind) collected (40)
+
+
+
+PokerStars Hand #247144065520: Tournament #3674079804, $9.30+$0.70 USD Hold'em No Limit - Level III (20/40) - 2023/11/16 19:34:48 CET [2023/11/16 13:34:48 ET]
+Table '3674079804 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (234 in chips) 
+Seat 2: Nikolai_Win (732 in chips) 
+Seat 3: mcltaylor (534 in chips) 
+mcltaylor: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s 7s]
+Nikolai_Win: folds 
+mcltaylor: raises 494 to 534 and is all-in
+Mahu2021: folds 
+Uncalled bet (494) returned to mcltaylor
+mcltaylor collected 80 from pot
+mcltaylor: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: Nikolai_Win (button) folded before Flop (didn't bet)
+Seat 3: mcltaylor (small blind) collected (80)
+
+
+
+PokerStars Hand #247144067962: Tournament #3674079804, $9.30+$0.70 USD Hold'em No Limit - Level III (20/40) - 2023/11/16 19:34:56 CET [2023/11/16 13:34:56 ET]
+Table '3674079804 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (194 in chips) 
+Seat 2: Nikolai_Win (732 in chips) 
+Seat 3: mcltaylor (574 in chips) 
+Mahu2021: posts small blind 20
+Nikolai_Win: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s 2d]
+mcltaylor: folds 
+Mahu2021: folds 
+Uncalled bet (20) returned to Nikolai_Win
+Nikolai_Win collected 40 from pot
+Nikolai_Win: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: Nikolai_Win (big blind) collected (40)
+Seat 3: mcltaylor (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #247144069350: Tournament #3674079804, $9.30+$0.70 USD Hold'em No Limit - Level III (20/40) - 2023/11/16 19:35:00 CET [2023/11/16 13:35:00 ET]
+Table '3674079804 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (174 in chips) 
+Seat 2: Nikolai_Win (752 in chips) 
+Seat 3: mcltaylor (574 in chips) 
+Nikolai_Win: posts small blind 20
+mcltaylor: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh 9d]
+Mahu2021: raises 134 to 174 and is all-in
+Nikolai_Win: folds 
+mcltaylor: calls 134
+*** FLOP *** [5c 5h 8s]
+*** TURN *** [5c 5h 8s] [2s]
+*** RIVER *** [5c 5h 8s 2s] [Ah]
+*** SHOW DOWN ***
+mcltaylor: shows [7d 7h] (two pair, Sevens and Fives)
+Mahu2021: shows [Qh 9d] (a pair of Fives)
+mcltaylor collected 368 from pot
+Mahu2021 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 368 | Rake 0 
+Board [5c 5h 8s 2s Ah]
+Seat 1: Mahu2021 (button) showed [Qh 9d] and lost with a pair of Fives
+Seat 2: Nikolai_Win (small blind) folded before Flop
+Seat 3: mcltaylor (big blind) showed [7d 7h] and won (368) with two pair, Sevens and Fives
+
+
+
