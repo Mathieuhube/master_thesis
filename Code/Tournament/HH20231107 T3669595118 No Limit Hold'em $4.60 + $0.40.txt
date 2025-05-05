@@ -1,0 +1,792 @@
+﻿PokerStars Hand #246978730972: Tournament #3669595118, $4.60+$0.40 USD Hold'em No Limit - Level I (10/20) - 2023/11/07 16:35:52 CET [2023/11/07 10:35:52 ET]
+Table '3669595118 1' 3-max Seat #1 is the button
+Seat 1: fara159 (500 in chips) 
+Seat 2: el_mejor_x20 (500 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+el_mejor_x20: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks 2s]
+fara159: calls 20
+el_mejor_x20: calls 10
+Mahu2021: checks 
+*** FLOP *** [As 5h Jd]
+el_mejor_x20: checks 
+Mahu2021: bets 60
+fara159: folds 
+el_mejor_x20: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [As 5h Jd]
+Seat 1: fara159 (button) folded on the Flop
+Seat 2: el_mejor_x20 (small blind) folded on the Flop
+Seat 3: Mahu2021 (big blind) collected (60)
+
+
+
+PokerStars Hand #246978736858: Tournament #3669595118, $4.60+$0.40 USD Hold'em No Limit - Level I (10/20) - 2023/11/07 16:36:17 CET [2023/11/07 10:36:17 ET]
+Table '3669595118 1' 3-max Seat #2 is the button
+Seat 1: fara159 (480 in chips) 
+Seat 2: el_mejor_x20 (480 in chips) 
+Seat 3: Mahu2021 (540 in chips) 
+Mahu2021: posts small blind 10
+fara159: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd 7c]
+el_mejor_x20: folds 
+Mahu2021: raises 40 to 60
+fara159: calls 40
+*** FLOP *** [Tc 3d 6d]
+Mahu2021: checks 
+fara159: checks 
+*** TURN *** [Tc 3d 6d] [3h]
+Mahu2021: checks 
+fara159: checks 
+*** RIVER *** [Tc 3d 6d 3h] [3s]
+Mahu2021: checks 
+fara159: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [Kd 7c] (three of a kind, Threes)
+fara159: mucks hand 
+Mahu2021 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Tc 3d 6d 3h 3s]
+Seat 1: fara159 (big blind) mucked [Jd 9h]
+Seat 2: el_mejor_x20 (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) showed [Kd 7c] and won (120) with three of a kind, Threes
+
+
+
+PokerStars Hand #246978742586: Tournament #3669595118, $4.60+$0.40 USD Hold'em No Limit - Level I (10/20) - 2023/11/07 16:36:40 CET [2023/11/07 10:36:40 ET]
+Table '3669595118 1' 3-max Seat #3 is the button
+Seat 1: fara159 (420 in chips) 
+Seat 2: el_mejor_x20 (480 in chips) 
+Seat 3: Mahu2021 (600 in chips) 
+fara159: posts small blind 10
+el_mejor_x20: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8c 7s]
+Mahu2021: folds 
+fara159: calls 10
+el_mejor_x20: checks 
+*** FLOP *** [Qh Qd Td]
+fara159: checks 
+el_mejor_x20: bets 20
+fara159: calls 20
+*** TURN *** [Qh Qd Td] [7d]
+fara159: checks 
+el_mejor_x20: bets 40
+fara159: raises 260 to 300
+el_mejor_x20: calls 260
+*** RIVER *** [Qh Qd Td 7d] [Tc]
+fara159: bets 80 and is all-in
+el_mejor_x20: calls 80
+*** SHOW DOWN ***
+fara159: shows [Ad 8d] (a flush, Ace high)
+el_mejor_x20: shows [Qc 7c] (a full house, Queens full of Tens)
+el_mejor_x20 collected 840 from pot
+fara159 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 840 | Rake 0 
+Board [Qh Qd Td 7d Tc]
+Seat 1: fara159 (small blind) showed [Ad 8d] and lost with a flush, Ace high
+Seat 2: el_mejor_x20 (big blind) showed [Qc 7c] and won (840) with a full house, Queens full of Tens
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #246978754897: Tournament #3669595118, $4.60+$0.40 USD Hold'em No Limit - Level I (10/20) - 2023/11/07 16:37:31 CET [2023/11/07 10:37:31 ET]
+Table '3669595118 1' 3-max Seat #2 is the button
+Seat 2: el_mejor_x20 (900 in chips) 
+Seat 3: Mahu2021 (600 in chips) 
+el_mejor_x20: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qd 3s]
+el_mejor_x20: calls 10
+Mahu2021: checks 
+*** FLOP *** [6h 4h Jd]
+Mahu2021: checks 
+el_mejor_x20: checks 
+*** TURN *** [6h 4h Jd] [Kh]
+Mahu2021: checks 
+el_mejor_x20: checks 
+*** RIVER *** [6h 4h Jd Kh] [7s]
+Mahu2021: checks 
+el_mejor_x20: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [Qd 3s] (high card King)
+el_mejor_x20: mucks hand 
+Mahu2021 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [6h 4h Jd Kh 7s]
+Seat 2: el_mejor_x20 (button) (small blind) mucked [5c Ts]
+Seat 3: Mahu2021 (big blind) showed [Qd 3s] and won (40) with high card King
+
+
+
+PokerStars Hand #246978766926: Tournament #3669595118, $4.60+$0.40 USD Hold'em No Limit - Level II (15/30) - 2023/11/07 16:38:21 CET [2023/11/07 10:38:21 ET]
+Table '3669595118 1' 3-max Seat #3 is the button
+Seat 2: el_mejor_x20 (880 in chips) 
+Seat 3: Mahu2021 (620 in chips) 
+Mahu2021: posts small blind 15
+el_mejor_x20: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h Ts]
+Mahu2021: folds 
+Uncalled bet (15) returned to el_mejor_x20
+el_mejor_x20 collected 30 from pot
+el_mejor_x20: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 2: el_mejor_x20 (big blind) collected (30)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #246978767939: Tournament #3669595118, $4.60+$0.40 USD Hold'em No Limit - Level II (15/30) - 2023/11/07 16:38:26 CET [2023/11/07 10:38:26 ET]
+Table '3669595118 1' 3-max Seat #2 is the button
+Seat 2: el_mejor_x20 (895 in chips) 
+Seat 3: Mahu2021 (605 in chips) 
+el_mejor_x20: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kc 5d]
+el_mejor_x20: calls 15
+Mahu2021: checks 
+*** FLOP *** [9c Ad Qc]
+Mahu2021: bets 30
+el_mejor_x20: raises 33 to 63
+Mahu2021: folds 
+Uncalled bet (33) returned to el_mejor_x20
+el_mejor_x20 collected 120 from pot
+el_mejor_x20: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [9c Ad Qc]
+Seat 2: el_mejor_x20 (button) (small blind) collected (120)
+Seat 3: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #246978772545: Tournament #3669595118, $4.60+$0.40 USD Hold'em No Limit - Level II (15/30) - 2023/11/07 16:38:44 CET [2023/11/07 10:38:44 ET]
+Table '3669595118 1' 3-max Seat #3 is the button
+Seat 2: el_mejor_x20 (955 in chips) 
+Seat 3: Mahu2021 (545 in chips) 
+Mahu2021: posts small blind 15
+el_mejor_x20: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js Qc]
+Mahu2021: raises 60 to 90
+el_mejor_x20: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: el_mejor_x20 (big blind) folded before Flop
+Seat 3: Mahu2021 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #246978774608: Tournament #3669595118, $4.60+$0.40 USD Hold'em No Limit - Level II (15/30) - 2023/11/07 16:38:53 CET [2023/11/07 10:38:53 ET]
+Table '3669595118 1' 3-max Seat #2 is the button
+Seat 2: el_mejor_x20 (925 in chips) 
+Seat 3: Mahu2021 (575 in chips) 
+el_mejor_x20: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s 9d]
+el_mejor_x20: calls 15
+Mahu2021: checks 
+*** FLOP *** [6c Jc 7h]
+Mahu2021: bets 30
+el_mejor_x20: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [6c Jc 7h]
+Seat 2: el_mejor_x20 (button) (small blind) folded on the Flop
+Seat 3: Mahu2021 (big blind) collected (60)
+
+
+
+PokerStars Hand #246978778850: Tournament #3669595118, $4.60+$0.40 USD Hold'em No Limit - Level II (15/30) - 2023/11/07 16:39:10 CET [2023/11/07 10:39:10 ET]
+Table '3669595118 1' 3-max Seat #3 is the button
+Seat 2: el_mejor_x20 (895 in chips) 
+Seat 3: Mahu2021 (605 in chips) 
+Mahu2021: posts small blind 15
+el_mejor_x20: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d Ac]
+Mahu2021: raises 30 to 60
+el_mejor_x20: calls 30
+*** FLOP *** [6d 2d 8h]
+el_mejor_x20: checks 
+Mahu2021: checks 
+*** TURN *** [6d 2d 8h] [6c]
+el_mejor_x20: checks 
+Mahu2021: bets 60
+el_mejor_x20: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [6d 2d 8h 6c]
+Seat 2: el_mejor_x20 (big blind) folded on the Turn
+Seat 3: Mahu2021 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #246978786564: Tournament #3669595118, $4.60+$0.40 USD Hold'em No Limit - Level II (15/30) - 2023/11/07 16:39:42 CET [2023/11/07 10:39:42 ET]
+Table '3669595118 1' 3-max Seat #2 is the button
+Seat 2: el_mejor_x20 (835 in chips) 
+Seat 3: Mahu2021 (665 in chips) 
+el_mejor_x20: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s Js]
+el_mejor_x20: calls 15
+Mahu2021: checks 
+*** FLOP *** [Th Ts 9s]
+Mahu2021: checks 
+el_mejor_x20: checks 
+*** TURN *** [Th Ts 9s] [8c]
+Mahu2021: bets 60
+el_mejor_x20: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Th Ts 9s 8c]
+Seat 2: el_mejor_x20 (button) (small blind) folded on the Turn
+Seat 3: Mahu2021 (big blind) collected (60)
+
+
+
+PokerStars Hand #246978792483: Tournament #3669595118, $4.60+$0.40 USD Hold'em No Limit - Level III (20/40) - 2023/11/07 16:40:07 CET [2023/11/07 10:40:07 ET]
+Table '3669595118 1' 3-max Seat #3 is the button
+Seat 2: el_mejor_x20 (805 in chips) 
+Seat 3: Mahu2021 (695 in chips) 
+Mahu2021: posts small blind 20
+el_mejor_x20: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd 5h]
+Mahu2021: calls 20
+el_mejor_x20: raises 100 to 140
+Mahu2021: folds 
+Uncalled bet (100) returned to el_mejor_x20
+el_mejor_x20 collected 80 from pot
+el_mejor_x20: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: el_mejor_x20 (big blind) collected (80)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #246978796930: Tournament #3669595118, $4.60+$0.40 USD Hold'em No Limit - Level III (20/40) - 2023/11/07 16:40:25 CET [2023/11/07 10:40:25 ET]
+Table '3669595118 1' 3-max Seat #2 is the button
+Seat 2: el_mejor_x20 (845 in chips) 
+Seat 3: Mahu2021 (655 in chips) 
+el_mejor_x20: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Td Tc]
+el_mejor_x20: calls 20
+Mahu2021: raises 160 to 200
+el_mejor_x20: folds 
+Uncalled bet (160) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: el_mejor_x20 (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (80)
+
+
+
+PokerStars Hand #246978802190: Tournament #3669595118, $4.60+$0.40 USD Hold'em No Limit - Level III (20/40) - 2023/11/07 16:40:47 CET [2023/11/07 10:40:47 ET]
+Table '3669595118 1' 3-max Seat #3 is the button
+Seat 2: el_mejor_x20 (805 in chips) 
+Seat 3: Mahu2021 (695 in chips) 
+Mahu2021: posts small blind 20
+el_mejor_x20: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s Ks]
+Mahu2021: raises 40 to 80
+el_mejor_x20: calls 40
+*** FLOP *** [Ac 6c 9d]
+el_mejor_x20: checks 
+Mahu2021: checks 
+*** TURN *** [Ac 6c 9d] [5c]
+el_mejor_x20: checks 
+Mahu2021: checks 
+*** RIVER *** [Ac 6c 9d 5c] [9s]
+el_mejor_x20: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+el_mejor_x20: shows [Kh 7c] (a pair of Nines)
+Mahu2021: shows [6s Ks] (two pair, Nines and Sixes)
+Mahu2021 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Ac 6c 9d 5c 9s]
+Seat 2: el_mejor_x20 (big blind) showed [Kh 7c] and lost with a pair of Nines
+Seat 3: Mahu2021 (button) (small blind) showed [6s Ks] and won (160) with two pair, Nines and Sixes
+
+
+
+PokerStars Hand #246978808207: Tournament #3669595118, $4.60+$0.40 USD Hold'em No Limit - Level III (20/40) - 2023/11/07 16:41:12 CET [2023/11/07 10:41:12 ET]
+Table '3669595118 1' 3-max Seat #2 is the button
+Seat 2: el_mejor_x20 (725 in chips) 
+Seat 3: Mahu2021 (775 in chips) 
+el_mejor_x20: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Th Tc]
+el_mejor_x20: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: el_mejor_x20 (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (40)
+
+
+
+PokerStars Hand #246978810810: Tournament #3669595118, $4.60+$0.40 USD Hold'em No Limit - Level III (20/40) - 2023/11/07 16:41:23 CET [2023/11/07 10:41:23 ET]
+Table '3669595118 1' 3-max Seat #3 is the button
+Seat 2: el_mejor_x20 (705 in chips) 
+Seat 3: Mahu2021 (795 in chips) 
+Mahu2021: posts small blind 20
+el_mejor_x20: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s Qh]
+Mahu2021: folds 
+Uncalled bet (20) returned to el_mejor_x20
+el_mejor_x20 collected 40 from pot
+el_mejor_x20: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: el_mejor_x20 (big blind) collected (40)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #246978811911: Tournament #3669595118, $4.60+$0.40 USD Hold'em No Limit - Level III (20/40) - 2023/11/07 16:41:27 CET [2023/11/07 10:41:27 ET]
+Table '3669595118 1' 3-max Seat #2 is the button
+Seat 2: el_mejor_x20 (725 in chips) 
+Seat 3: Mahu2021 (775 in chips) 
+el_mejor_x20: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc Qh]
+el_mejor_x20: raises 40 to 80
+Mahu2021: raises 695 to 775 and is all-in
+el_mejor_x20: folds 
+Uncalled bet (695) returned to Mahu2021
+Mahu2021 collected 160 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Seat 2: el_mejor_x20 (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (160)
+
+
+
+PokerStars Hand #246978815757: Tournament #3669595118, $4.60+$0.40 USD Hold'em No Limit - Level III (20/40) - 2023/11/07 16:41:43 CET [2023/11/07 10:41:43 ET]
+Table '3669595118 1' 3-max Seat #3 is the button
+Seat 2: el_mejor_x20 (645 in chips) 
+Seat 3: Mahu2021 (855 in chips) 
+Mahu2021: posts small blind 20
+el_mejor_x20: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h Ks]
+Mahu2021: calls 20
+el_mejor_x20: checks 
+*** FLOP *** [Tc 4d 2h]
+el_mejor_x20: checks 
+Mahu2021: bets 40
+el_mejor_x20: calls 40
+*** TURN *** [Tc 4d 2h] [Ts]
+el_mejor_x20: checks 
+Mahu2021: checks 
+*** RIVER *** [Tc 4d 2h Ts] [As]
+el_mejor_x20: checks 
+Mahu2021: bets 160
+el_mejor_x20: calls 160
+*** SHOW DOWN ***
+Mahu2021: shows [7h Ks] (a pair of Tens)
+el_mejor_x20: shows [8d 2s] (two pair, Tens and Deuces)
+el_mejor_x20 collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Board [Tc 4d 2h Ts As]
+Seat 2: el_mejor_x20 (big blind) showed [8d 2s] and won (480) with two pair, Tens and Deuces
+Seat 3: Mahu2021 (button) (small blind) showed [7h Ks] and lost with a pair of Tens
+
+
+
+PokerStars Hand #246978826172: Tournament #3669595118, $4.60+$0.40 USD Hold'em No Limit - Level IV (30/60) - 2023/11/07 16:42:27 CET [2023/11/07 10:42:27 ET]
+Table '3669595118 1' 3-max Seat #2 is the button
+Seat 2: el_mejor_x20 (885 in chips) 
+Seat 3: Mahu2021 (615 in chips) 
+el_mejor_x20: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Td 2s]
+el_mejor_x20: raises 825 to 885 and is all-in
+Mahu2021: folds 
+Uncalled bet (825) returned to el_mejor_x20
+el_mejor_x20 collected 120 from pot
+el_mejor_x20: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: el_mejor_x20 (button) (small blind) collected (120)
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #246978827435: Tournament #3669595118, $4.60+$0.40 USD Hold'em No Limit - Level IV (30/60) - 2023/11/07 16:42:32 CET [2023/11/07 10:42:32 ET]
+Table '3669595118 1' 3-max Seat #3 is the button
+Seat 2: el_mejor_x20 (945 in chips) 
+Seat 3: Mahu2021 (555 in chips) 
+Mahu2021: posts small blind 30
+el_mejor_x20: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts 8c]
+Mahu2021: folds 
+Uncalled bet (30) returned to el_mejor_x20
+el_mejor_x20 collected 60 from pot
+el_mejor_x20: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: el_mejor_x20 (big blind) collected (60)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #246978828579: Tournament #3669595118, $4.60+$0.40 USD Hold'em No Limit - Level IV (30/60) - 2023/11/07 16:42:37 CET [2023/11/07 10:42:37 ET]
+Table '3669595118 1' 3-max Seat #2 is the button
+Seat 2: el_mejor_x20 (975 in chips) 
+Seat 3: Mahu2021 (525 in chips) 
+el_mejor_x20: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s 3s]
+el_mejor_x20: calls 30
+Mahu2021: checks 
+*** FLOP *** [8d Th 7h]
+Mahu2021: checks 
+el_mejor_x20: checks 
+*** TURN *** [8d Th 7h] [2s]
+Mahu2021: bets 60
+el_mejor_x20: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [8d Th 7h 2s]
+Seat 2: el_mejor_x20 (button) (small blind) folded on the Turn
+Seat 3: Mahu2021 (big blind) collected (120)
+
+
+
+PokerStars Hand #246978832236: Tournament #3669595118, $4.60+$0.40 USD Hold'em No Limit - Level IV (30/60) - 2023/11/07 16:42:51 CET [2023/11/07 10:42:51 ET]
+Table '3669595118 1' 3-max Seat #3 is the button
+Seat 2: el_mejor_x20 (915 in chips) 
+Seat 3: Mahu2021 (585 in chips) 
+Mahu2021: posts small blind 30
+el_mejor_x20: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac 6s]
+Mahu2021: raises 60 to 120
+el_mejor_x20: calls 60
+*** FLOP *** [2d Kh 7d]
+el_mejor_x20: checks 
+Mahu2021: bets 120
+el_mejor_x20: folds 
+Uncalled bet (120) returned to Mahu2021
+Mahu2021 collected 240 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [2d Kh 7d]
+Seat 2: el_mejor_x20 (big blind) folded on the Flop
+Seat 3: Mahu2021 (button) (small blind) collected (240)
+
+
+
+PokerStars Hand #246978835260: Tournament #3669595118, $4.60+$0.40 USD Hold'em No Limit - Level IV (30/60) - 2023/11/07 16:43:04 CET [2023/11/07 10:43:04 ET]
+Table '3669595118 1' 3-max Seat #2 is the button
+Seat 2: el_mejor_x20 (795 in chips) 
+Seat 3: Mahu2021 (705 in chips) 
+el_mejor_x20: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8d 5h]
+el_mejor_x20: calls 30
+Mahu2021: checks 
+*** FLOP *** [7s 4d 8s]
+Mahu2021: bets 645 and is all-in
+el_mejor_x20: folds 
+Uncalled bet (645) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [7s 4d 8s]
+Seat 2: el_mejor_x20 (button) (small blind) folded on the Flop
+Seat 3: Mahu2021 (big blind) collected (120)
+
+
+
+PokerStars Hand #246978841973: Tournament #3669595118, $4.60+$0.40 USD Hold'em No Limit - Level IV (30/60) - 2023/11/07 16:43:32 CET [2023/11/07 10:43:32 ET]
+Table '3669595118 1' 3-max Seat #3 is the button
+Seat 2: el_mejor_x20 (735 in chips) 
+Seat 3: Mahu2021 (765 in chips) 
+Mahu2021: posts small blind 30
+el_mejor_x20: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s Jh]
+Mahu2021: calls 30
+el_mejor_x20: raises 675 to 735 and is all-in
+Mahu2021: folds 
+Uncalled bet (675) returned to el_mejor_x20
+el_mejor_x20 collected 120 from pot
+el_mejor_x20: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: el_mejor_x20 (big blind) collected (120)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #246978843947: Tournament #3669595118, $4.60+$0.40 USD Hold'em No Limit - Level IV (30/60) - 2023/11/07 16:43:41 CET [2023/11/07 10:43:41 ET]
+Table '3669595118 1' 3-max Seat #2 is the button
+Seat 2: el_mejor_x20 (795 in chips) 
+Seat 3: Mahu2021 (705 in chips) 
+el_mejor_x20: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qs 3d]
+el_mejor_x20: calls 30
+Mahu2021: checks 
+*** FLOP *** [7d Ad 2d]
+Mahu2021: bets 60
+el_mejor_x20: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [7d Ad 2d]
+Seat 2: el_mejor_x20 (button) (small blind) folded on the Flop
+Seat 3: Mahu2021 (big blind) collected (120)
+
+
+
+PokerStars Hand #246978848857: Tournament #3669595118, $4.60+$0.40 USD Hold'em No Limit - Level V (40/80) - 2023/11/07 16:44:01 CET [2023/11/07 10:44:01 ET]
+Table '3669595118 1' 3-max Seat #3 is the button
+Seat 2: el_mejor_x20 (735 in chips) 
+Seat 3: Mahu2021 (765 in chips) 
+Mahu2021: posts small blind 40
+el_mejor_x20: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d 8h]
+Mahu2021: folds 
+Uncalled bet (40) returned to el_mejor_x20
+el_mejor_x20 collected 80 from pot
+el_mejor_x20: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: el_mejor_x20 (big blind) collected (80)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #246978850284: Tournament #3669595118, $4.60+$0.40 USD Hold'em No Limit - Level V (40/80) - 2023/11/07 16:44:07 CET [2023/11/07 10:44:07 ET]
+Table '3669595118 1' 3-max Seat #2 is the button
+Seat 2: el_mejor_x20 (775 in chips) 
+Seat 3: Mahu2021 (725 in chips) 
+el_mejor_x20: posts small blind 40
+Mahu2021: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c 2s]
+el_mejor_x20: calls 40
+Mahu2021: checks 
+*** FLOP *** [Jd Td 4h]
+Mahu2021: checks 
+el_mejor_x20: bets 80
+Mahu2021: folds 
+Uncalled bet (80) returned to el_mejor_x20
+el_mejor_x20 collected 160 from pot
+el_mejor_x20: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Jd Td 4h]
+Seat 2: el_mejor_x20 (button) (small blind) collected (160)
+Seat 3: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #246978853475: Tournament #3669595118, $4.60+$0.40 USD Hold'em No Limit - Level V (40/80) - 2023/11/07 16:44:20 CET [2023/11/07 10:44:20 ET]
+Table '3669595118 1' 3-max Seat #3 is the button
+Seat 2: el_mejor_x20 (855 in chips) 
+Seat 3: Mahu2021 (645 in chips) 
+Mahu2021: posts small blind 40
+el_mejor_x20: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As Jh]
+Mahu2021: raises 80 to 160
+el_mejor_x20: calls 80
+*** FLOP *** [Jc Ah Ts]
+el_mejor_x20: checks 
+Mahu2021: bets 80
+el_mejor_x20: folds 
+Uncalled bet (80) returned to Mahu2021
+Mahu2021 collected 320 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [Jc Ah Ts]
+Seat 2: el_mejor_x20 (big blind) folded on the Flop
+Seat 3: Mahu2021 (button) (small blind) collected (320)
+
+
+
+PokerStars Hand #246978860540: Tournament #3669595118, $4.60+$0.40 USD Hold'em No Limit - Level V (40/80) - 2023/11/07 16:44:49 CET [2023/11/07 10:44:49 ET]
+Table '3669595118 1' 3-max Seat #2 is the button
+Seat 2: el_mejor_x20 (695 in chips) 
+Seat 3: Mahu2021 (805 in chips) 
+el_mejor_x20: posts small blind 40
+Mahu2021: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d Td]
+el_mejor_x20: calls 40
+Mahu2021: checks 
+*** FLOP *** [4s Kd 2h]
+Mahu2021: checks 
+el_mejor_x20: bets 80
+Mahu2021: folds 
+Uncalled bet (80) returned to el_mejor_x20
+el_mejor_x20 collected 160 from pot
+el_mejor_x20: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [4s Kd 2h]
+Seat 2: el_mejor_x20 (button) (small blind) collected (160)
+Seat 3: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #246978863511: Tournament #3669595118, $4.60+$0.40 USD Hold'em No Limit - Level V (40/80) - 2023/11/07 16:45:01 CET [2023/11/07 10:45:01 ET]
+Table '3669595118 1' 3-max Seat #3 is the button
+Seat 2: el_mejor_x20 (775 in chips) 
+Seat 3: Mahu2021 (725 in chips) 
+Mahu2021: posts small blind 40
+el_mejor_x20: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8s 2d]
+Mahu2021: folds 
+Uncalled bet (40) returned to el_mejor_x20
+el_mejor_x20 collected 80 from pot
+el_mejor_x20: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: el_mejor_x20 (big blind) collected (80)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #246978864516: Tournament #3669595118, $4.60+$0.40 USD Hold'em No Limit - Level V (40/80) - 2023/11/07 16:45:06 CET [2023/11/07 10:45:06 ET]
+Table '3669595118 1' 3-max Seat #2 is the button
+Seat 2: el_mejor_x20 (815 in chips) 
+Seat 3: Mahu2021 (685 in chips) 
+el_mejor_x20: posts small blind 40
+Mahu2021: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8s 5s]
+el_mejor_x20: calls 40
+Mahu2021: checks 
+*** FLOP *** [5c 9s Jd]
+Mahu2021: checks 
+el_mejor_x20: bets 80
+Mahu2021: calls 80
+*** TURN *** [5c 9s Jd] [7h]
+Mahu2021: checks 
+el_mejor_x20: checks 
+*** RIVER *** [5c 9s Jd 7h] [Kd]
+Mahu2021: bets 160
+el_mejor_x20: raises 495 to 655 and is all-in
+Mahu2021: folds 
+Uncalled bet (495) returned to el_mejor_x20
+el_mejor_x20 collected 640 from pot
+el_mejor_x20: doesn't show hand 
+*** SUMMARY ***
+Total pot 640 | Rake 0 
+Board [5c 9s Jd 7h Kd]
+Seat 2: el_mejor_x20 (button) (small blind) collected (640)
+Seat 3: Mahu2021 (big blind) folded on the River
+
+
+
+PokerStars Hand #246978870511: Tournament #3669595118, $4.60+$0.40 USD Hold'em No Limit - Level V (40/80) - 2023/11/07 16:45:30 CET [2023/11/07 10:45:30 ET]
+Table '3669595118 1' 3-max Seat #3 is the button
+Seat 2: el_mejor_x20 (1135 in chips) 
+Seat 3: Mahu2021 (365 in chips) 
+Mahu2021: posts small blind 40
+el_mejor_x20: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc 6s]
+Mahu2021: folds 
+Uncalled bet (40) returned to el_mejor_x20
+el_mejor_x20 collected 80 from pot
+el_mejor_x20: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: el_mejor_x20 (big blind) collected (80)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #246978871587: Tournament #3669595118, $4.60+$0.40 USD Hold'em No Limit - Level V (40/80) - 2023/11/07 16:45:34 CET [2023/11/07 10:45:34 ET]
+Table '3669595118 1' 3-max Seat #2 is the button
+Seat 2: el_mejor_x20 (1175 in chips) 
+Seat 3: Mahu2021 (325 in chips) 
+el_mejor_x20: posts small blind 40
+Mahu2021: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s 4c]
+el_mejor_x20: raises 1095 to 1175 and is all-in
+Mahu2021: calls 245 and is all-in
+Uncalled bet (850) returned to el_mejor_x20
+*** FLOP *** [Jc Td 5s]
+*** TURN *** [Jc Td 5s] [Kc]
+*** RIVER *** [Jc Td 5s Kc] [9h]
+*** SHOW DOWN ***
+Mahu2021: shows [4s 4c] (a pair of Fours)
+el_mejor_x20: shows [3d Jh] (a pair of Jacks)
+el_mejor_x20 collected 650 from pot
+Mahu2021 finished the tournament in 2nd place
+el_mejor_x20 wins the tournament and receives $10.00 - congratulations!
+*** SUMMARY ***
+Total pot 650 | Rake 0 
+Board [Jc Td 5s Kc 9h]
+Seat 2: el_mejor_x20 (button) (small blind) showed [3d Jh] and won (650) with a pair of Jacks
+Seat 3: Mahu2021 (big blind) showed [4s 4c] and lost with a pair of Fours
+
+
+

@@ -1,0 +1,5094 @@
+﻿PokerStars Hand #253416178673: Tournament #3823136828, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level I (25/50) - 2024/11/15 19:34:00 CET [2024/11/15 13:34:00 ET]
+Table '3823136828 82' 8-max Seat #2 is the button
+Seat 1: lDon Nino (3811 in chips, $2 bounty) 
+Seat 2: OppyCABJ (7155 in chips, $2 bounty) 
+Seat 3: hleb301 (4918 in chips, $2 bounty) 
+Seat 4: MSD2006 (5000 in chips, $2 bounty) 
+Seat 5: Mahu2021 (5000 in chips, $2 bounty) 
+Seat 6: boogiecousins (4992 in chips, $2 bounty) 
+Seat 7: julietikp (4976 in chips, $2 bounty) 
+Seat 8: Botox86 (6222 in chips, $2 bounty) 
+lDon Nino: posts the ante 8
+OppyCABJ: posts the ante 8
+hleb301: posts the ante 8
+MSD2006: posts the ante 8
+Mahu2021: posts the ante 8
+boogiecousins: posts the ante 8
+julietikp: posts the ante 8
+Botox86: posts the ante 8
+hleb301: posts small blind 25
+MSD2006: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts 2d]
+Mahu2021: folds 
+boogiecousins: folds 
+julietikp: folds 
+Botox86: calls 50
+lDon Nino: calls 50
+OppyCABJ: folds 
+hleb301: calls 25
+MSD2006: checks 
+*** FLOP *** [4c Qs Kd]
+hleb301: checks 
+MSD2006: checks 
+Botox86: checks 
+lDon Nino: bets 500
+hleb301: folds 
+MSD2006: folds 
+Botox86: calls 500
+*** TURN *** [4c Qs Kd] [3s]
+Botox86: checks 
+lDon Nino: bets 3253 and is all-in
+Botox86: calls 3253
+*** RIVER *** [4c Qs Kd 3s] [Ah]
+*** SHOW DOWN ***
+Botox86: shows [6s 7s] (high card Ace)
+lDon Nino: shows [Ks 5h] (a pair of Kings)
+lDon Nino collected 7770 from pot
+*** SUMMARY ***
+Total pot 7770 | Rake 0 
+Board [4c Qs Kd 3s Ah]
+Seat 1: lDon Nino showed [Ks 5h] and won (7770) with a pair of Kings
+Seat 2: OppyCABJ (button) folded before Flop (didn't bet)
+Seat 3: hleb301 (small blind) folded on the Flop
+Seat 4: MSD2006 (big blind) folded on the Flop
+Seat 5: Mahu2021 folded before Flop (didn't bet)
+Seat 6: boogiecousins folded before Flop (didn't bet)
+Seat 7: julietikp folded before Flop (didn't bet)
+Seat 8: Botox86 showed [6s 7s] and lost with high card Ace
+
+
+
+PokerStars Hand #253416194993: Tournament #3823136828, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level I (25/50) - 2024/11/15 19:35:01 CET [2024/11/15 13:35:01 ET]
+Table '3823136828 82' 8-max Seat #3 is the button
+Seat 1: lDon Nino (7770 in chips, $2 bounty) 
+Seat 2: OppyCABJ (7147 in chips, $2 bounty) 
+Seat 3: hleb301 (4860 in chips, $2 bounty) 
+Seat 4: MSD2006 (4942 in chips, $2 bounty) 
+Seat 5: Mahu2021 (4992 in chips, $2 bounty) 
+Seat 6: boogiecousins (4984 in chips, $2 bounty) 
+Seat 7: julietikp (4968 in chips, $2 bounty) 
+Seat 8: Botox86 (2411 in chips, $2 bounty) 
+lDon Nino: posts the ante 8
+OppyCABJ: posts the ante 8
+hleb301: posts the ante 8
+MSD2006: posts the ante 8
+Mahu2021: posts the ante 8
+boogiecousins: posts the ante 8
+julietikp: posts the ante 8
+Botox86: posts the ante 8
+MSD2006: posts small blind 25
+Mahu2021: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Td As]
+boogiecousins: folds 
+julietikp: folds 
+Botox86: folds 
+lDon Nino: raises 150 to 200
+OppyCABJ: folds 
+hleb301: calls 200
+MSD2006: calls 175
+Mahu2021: folds 
+*** FLOP *** [4c 5c 9s]
+MSD2006: checks 
+lDon Nino: bets 50
+hleb301: calls 50
+MSD2006: calls 50
+*** TURN *** [4c 5c 9s] [3h]
+MSD2006: checks 
+lDon Nino: bets 50
+hleb301: folds 
+MSD2006: calls 50
+*** RIVER *** [4c 5c 9s 3h] [2h]
+MSD2006: checks 
+lDon Nino: bets 5000
+MSD2006: calls 4634 and is all-in
+Uncalled bet (366) returned to lDon Nino
+*** SHOW DOWN ***
+lDon Nino: shows [Qh Ad] (a straight, Ace to Five)
+MSD2006: shows [6c 7c] (a straight, Three to Seven)
+MSD2006 collected 10232 from pot
+*** SUMMARY ***
+Total pot 10232 | Rake 0 
+Board [4c 5c 9s 3h 2h]
+Seat 1: lDon Nino showed [Qh Ad] and lost with a straight, Ace to Five
+Seat 2: OppyCABJ folded before Flop (didn't bet)
+Seat 3: hleb301 (button) folded on the Turn
+Seat 4: MSD2006 (small blind) showed [6c 7c] and won (10232) with a straight, Three to Seven
+Seat 5: Mahu2021 (big blind) folded before Flop
+Seat 6: boogiecousins folded before Flop (didn't bet)
+Seat 7: julietikp folded before Flop (didn't bet)
+Seat 8: Botox86 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253416215871: Tournament #3823136828, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level I (25/50) - 2024/11/15 19:36:18 CET [2024/11/15 13:36:18 ET]
+Table '3823136828 82' 8-max Seat #4 is the button
+Seat 1: lDon Nino (2828 in chips, $2 bounty) 
+Seat 2: OppyCABJ (7139 in chips, $2 bounty) 
+Seat 3: hleb301 (4602 in chips, $2 bounty) 
+Seat 4: MSD2006 (10232 in chips, $2 bounty) 
+Seat 5: Mahu2021 (4934 in chips, $2 bounty) 
+Seat 6: boogiecousins (4976 in chips, $2 bounty) 
+Seat 7: julietikp (4960 in chips, $2 bounty) 
+Seat 8: Botox86 (2403 in chips, $2 bounty) 
+lDon Nino: posts the ante 8
+OppyCABJ: posts the ante 8
+hleb301: posts the ante 8
+MSD2006: posts the ante 8
+Mahu2021: posts the ante 8
+boogiecousins: posts the ante 8
+julietikp: posts the ante 8
+Botox86: posts the ante 8
+Mahu2021: posts small blind 25
+boogiecousins: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d 7d]
+julietikp: folds 
+Botox86: folds 
+lDon Nino: raises 2770 to 2820 and is all-in
+OppyCABJ: folds 
+hleb301: folds 
+MSD2006: calls 2820
+Mahu2021: folds 
+boogiecousins: folds 
+*** FLOP *** [2c Jd Ts]
+*** TURN *** [2c Jd Ts] [3h]
+*** RIVER *** [2c Jd Ts 3h] [8d]
+*** SHOW DOWN ***
+lDon Nino: shows [Jc 6c] (a pair of Jacks)
+MSD2006: shows [Th Ah] (a pair of Tens)
+lDon Nino collected 5779 from pot
+*** SUMMARY ***
+Total pot 5779 | Rake 0 
+Board [2c Jd Ts 3h 8d]
+Seat 1: lDon Nino showed [Jc 6c] and won (5779) with a pair of Jacks
+Seat 2: OppyCABJ folded before Flop (didn't bet)
+Seat 3: hleb301 folded before Flop (didn't bet)
+Seat 4: MSD2006 (button) showed [Th Ah] and lost with a pair of Tens
+Seat 5: Mahu2021 (small blind) folded before Flop
+Seat 6: boogiecousins (big blind) folded before Flop
+Seat 7: julietikp folded before Flop (didn't bet)
+Seat 8: Botox86 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253416222907: Tournament #3823136828, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level I (25/50) - 2024/11/15 19:36:44 CET [2024/11/15 13:36:44 ET]
+Table '3823136828 82' 8-max Seat #5 is the button
+Seat 1: lDon Nino (5779 in chips, $2 bounty) 
+Seat 2: OppyCABJ (7131 in chips, $2 bounty) 
+Seat 3: hleb301 (4594 in chips, $2 bounty) 
+Seat 4: MSD2006 (7404 in chips, $2 bounty) 
+Seat 5: Mahu2021 (4901 in chips, $2 bounty) 
+Seat 6: boogiecousins (4918 in chips, $2 bounty) 
+Seat 7: julietikp (4952 in chips, $2 bounty) 
+Seat 8: Botox86 (2395 in chips, $2 bounty) 
+lDon Nino: posts the ante 8
+OppyCABJ: posts the ante 8
+hleb301: posts the ante 8
+MSD2006: posts the ante 8
+Mahu2021: posts the ante 8
+boogiecousins: posts the ante 8
+julietikp: posts the ante 8
+Botox86: posts the ante 8
+boogiecousins: posts small blind 25
+julietikp: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac Th]
+Botox86: folds 
+lDon Nino: raises 950 to 1000
+OppyCABJ: folds 
+hleb301: folds 
+MSD2006: folds 
+Mahu2021: folds 
+boogiecousins: folds 
+julietikp: folds 
+Uncalled bet (950) returned to lDon Nino
+lDon Nino collected 189 from pot
+lDon Nino: doesn't show hand 
+*** SUMMARY ***
+Total pot 189 | Rake 0 
+Seat 1: lDon Nino collected (189)
+Seat 2: OppyCABJ folded before Flop (didn't bet)
+Seat 3: hleb301 folded before Flop (didn't bet)
+Seat 4: MSD2006 folded before Flop (didn't bet)
+Seat 5: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 6: boogiecousins (small blind) folded before Flop
+Seat 7: julietikp (big blind) folded before Flop
+Seat 8: Botox86 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253416229853: Tournament #3823136828, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level I (25/50) - 2024/11/15 19:37:10 CET [2024/11/15 13:37:10 ET]
+Table '3823136828 82' 8-max Seat #6 is the button
+Seat 1: lDon Nino (5910 in chips, $2 bounty) 
+Seat 2: OppyCABJ (7123 in chips, $2 bounty) 
+Seat 3: hleb301 (4586 in chips, $2 bounty) 
+Seat 4: MSD2006 (7396 in chips, $2 bounty) 
+Seat 5: Mahu2021 (4893 in chips, $2 bounty) 
+Seat 6: boogiecousins (4885 in chips, $2 bounty) 
+Seat 7: julietikp (4894 in chips, $2 bounty) 
+Seat 8: Botox86 (2387 in chips, $2 bounty) 
+lDon Nino: posts the ante 8
+OppyCABJ: posts the ante 8
+hleb301: posts the ante 8
+MSD2006: posts the ante 8
+Mahu2021: posts the ante 8
+boogiecousins: posts the ante 8
+julietikp: posts the ante 8
+Botox86: posts the ante 8
+julietikp: posts small blind 25
+Botox86: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s Ts]
+lDon Nino: raises 50 to 100
+OppyCABJ: calls 100
+hleb301: calls 100
+MSD2006: folds 
+Mahu2021: folds 
+boogiecousins: folds 
+julietikp: folds 
+Botox86: folds 
+*** FLOP *** [Ad 6c 7s]
+lDon Nino: checks 
+OppyCABJ: checks 
+hleb301: checks 
+*** TURN *** [Ad 6c 7s] [4d]
+lDon Nino: bets 150
+OppyCABJ: folds 
+hleb301: calls 150
+*** RIVER *** [Ad 6c 7s 4d] [3c]
+lDon Nino: bets 652
+hleb301: folds 
+Uncalled bet (652) returned to lDon Nino
+lDon Nino collected 739 from pot
+lDon Nino: doesn't show hand 
+*** SUMMARY ***
+Total pot 739 | Rake 0 
+Board [Ad 6c 7s 4d 3c]
+Seat 1: lDon Nino collected (739)
+Seat 2: OppyCABJ folded on the Turn
+Seat 3: hleb301 folded on the River
+Seat 4: MSD2006 folded before Flop (didn't bet)
+Seat 5: Mahu2021 folded before Flop (didn't bet)
+Seat 6: boogiecousins (button) folded before Flop (didn't bet)
+Seat 7: julietikp (small blind) folded before Flop
+Seat 8: Botox86 (big blind) folded before Flop
+
+
+
+PokerStars Hand #253416260502: Tournament #3823136828, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level II (30/60) - 2024/11/15 19:39:05 CET [2024/11/15 13:39:05 ET]
+Table '3823136828 82' 8-max Seat #7 is the button
+Seat 1: alin_padurar (5000 in chips, $2 bounty) 
+Seat 2: OppyCABJ (7015 in chips, $2 bounty) 
+Seat 3: hleb301 (4328 in chips, $2 bounty) 
+Seat 4: MSD2006 (7388 in chips, $2 bounty) 
+Seat 5: Mahu2021 (4885 in chips, $2 bounty) 
+Seat 6: boogiecousins (4877 in chips, $2 bounty) 
+Seat 7: julietikp (4861 in chips, $2 bounty) 
+Seat 8: Botox86 (2329 in chips, $2 bounty) 
+alin_padurar: posts the ante 9
+OppyCABJ: posts the ante 9
+hleb301: posts the ante 9
+MSD2006: posts the ante 9
+Mahu2021: posts the ante 9
+boogiecousins: posts the ante 9
+julietikp: posts the ante 9
+Botox86: posts the ante 9
+Botox86: posts small blind 30
+alin_padurar: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts Th]
+OppyCABJ: folds 
+hleb301: folds 
+MSD2006: folds 
+Mahu2021: raises 60 to 120
+boogiecousins: folds 
+julietikp: folds 
+Botox86: raises 372 to 492
+alin_padurar: folds 
+Mahu2021: raises 4384 to 4876 and is all-in
+Botox86: calls 1828 and is all-in
+Uncalled bet (2556) returned to Mahu2021
+*** FLOP *** [5h 7c Js]
+*** TURN *** [5h 7c Js] [8c]
+*** RIVER *** [5h 7c Js 8c] [As]
+*** SHOW DOWN ***
+Botox86: shows [Ks Qh] (high card Ace)
+Mahu2021: shows [Ts Th] (a pair of Tens)
+Mahu2021 collected 4772 from pot
+Mahu2021 wins $1 for eliminating Botox86 and their own bounty increases by $1 to $3
+Botox86 finished the tournament
+*** SUMMARY ***
+Total pot 4772 | Rake 0 
+Board [5h 7c Js 8c As]
+Seat 1: alin_padurar (big blind) folded before Flop
+Seat 2: OppyCABJ folded before Flop (didn't bet)
+Seat 3: hleb301 folded before Flop (didn't bet)
+Seat 4: MSD2006 folded before Flop (didn't bet)
+Seat 5: Mahu2021 showed [Ts Th] and won (4772) with a pair of Tens
+Seat 6: boogiecousins folded before Flop (didn't bet)
+Seat 7: julietikp (button) folded before Flop (didn't bet)
+Seat 8: Botox86 (small blind) showed [Ks Qh] and lost with high card Ace
+
+
+
+PokerStars Hand #253416272160: Tournament #3823136828, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level II (30/60) - 2024/11/15 19:39:48 CET [2024/11/15 13:39:48 ET]
+Table '3823136828 82' 8-max Seat #1 is the button
+Seat 1: alin_padurar (4931 in chips, $2 bounty) 
+Seat 3: hleb301 (4319 in chips, $2 bounty) 
+Seat 4: MSD2006 (7379 in chips, $2 bounty) 
+Seat 5: Mahu2021 (7328 in chips, $3 bounty) 
+Seat 6: boogiecousins (4868 in chips, $2 bounty) 
+Seat 7: julietikp (4852 in chips, $2 bounty) 
+alin_padurar: posts the ante 9
+hleb301: posts the ante 9
+MSD2006: posts the ante 9
+Mahu2021: posts the ante 9
+boogiecousins: posts the ante 9
+julietikp: posts the ante 9
+hleb301: posts small blind 30
+MSD2006: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d 6s]
+J0R1K97 is disconnected 
+Mahu2021: folds 
+gettla 233 is disconnected 
+boogiecousins: folds 
+julietikp: folds 
+alin_padurar: folds 
+hleb301: calls 30
+MSD2006: checks 
+*** FLOP *** [7c 7d 5s]
+hleb301: checks 
+MSD2006: checks 
+*** TURN *** [7c 7d 5s] [Qd]
+hleb301: checks 
+MSD2006: checks 
+*** RIVER *** [7c 7d 5s Qd] [Qs]
+hleb301: checks 
+MSD2006: checks 
+*** SHOW DOWN ***
+hleb301: shows [Jd 8d] (two pair, Queens and Sevens)
+MSD2006: shows [3c Kh] (two pair, Queens and Sevens - King kicker)
+MSD2006 collected 174 from pot
+*** SUMMARY ***
+Total pot 174 | Rake 0 
+Board [7c 7d 5s Qd Qs]
+Seat 1: alin_padurar (button) folded before Flop (didn't bet)
+Seat 3: hleb301 (small blind) showed [Jd 8d] and lost with two pair, Queens and Sevens
+Seat 4: MSD2006 (big blind) showed [3c Kh] and won (174) with two pair, Queens and Sevens
+Seat 5: Mahu2021 folded before Flop (didn't bet)
+Seat 6: boogiecousins folded before Flop (didn't bet)
+Seat 7: julietikp folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253416283198: Tournament #3823136828, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level II (30/60) - 2024/11/15 19:40:28 CET [2024/11/15 13:40:28 ET]
+Table '3823136828 82' 8-max Seat #3 is the button
+Seat 1: alin_padurar (4922 in chips, $2 bounty) 
+Seat 2: gettla 233 (5000 in chips, $2 bounty) 
+Seat 3: hleb301 (4250 in chips, $2 bounty) 
+Seat 4: MSD2006 (7484 in chips, $2 bounty) 
+Seat 5: Mahu2021 (7319 in chips, $3 bounty) 
+Seat 6: boogiecousins (4859 in chips, $2 bounty) 
+Seat 7: julietikp (4843 in chips, $2 bounty) 
+Seat 8: J0R1K97 (4741 in chips, $2 bounty) 
+alin_padurar: posts the ante 9
+gettla 233: posts the ante 9
+hleb301: posts the ante 9
+MSD2006: posts the ante 9
+Mahu2021: posts the ante 9
+boogiecousins: posts the ante 9
+julietikp: posts the ante 9
+J0R1K97: posts the ante 9
+MSD2006: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd 8h]
+boogiecousins: folds 
+julietikp: folds 
+J0R1K97: raises 60 to 120
+alin_padurar: calls 120
+gettla 233: calls 120
+hleb301: folds 
+MSD2006: calls 90
+Mahu2021: folds 
+*** FLOP *** [8c 7s 3h]
+MSD2006: checks 
+J0R1K97: checks 
+alin_padurar: checks 
+gettla 233: checks 
+*** TURN *** [8c 7s 3h] [4h]
+MSD2006: bets 180
+J0R1K97: folds 
+alin_padurar: raises 180 to 360
+gettla 233: folds 
+MSD2006: calls 180
+*** RIVER *** [8c 7s 3h 4h] [Qd]
+MSD2006: checks 
+alin_padurar: bets 1332
+MSD2006: folds 
+Uncalled bet (1332) returned to alin_padurar
+alin_padurar collected 1332 from pot
+alin_padurar: doesn't show hand 
+*** SUMMARY ***
+Total pot 1332 | Rake 0 
+Board [8c 7s 3h 4h Qd]
+Seat 1: alin_padurar collected (1332)
+Seat 2: gettla 233 folded on the Turn
+Seat 3: hleb301 (button) folded before Flop (didn't bet)
+Seat 4: MSD2006 (small blind) folded on the River
+Seat 5: Mahu2021 (big blind) folded before Flop
+Seat 6: boogiecousins folded before Flop (didn't bet)
+Seat 7: julietikp folded before Flop (didn't bet)
+Seat 8: J0R1K97 folded on the Turn
+
+
+
+PokerStars Hand #253416301393: Tournament #3823136828, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level II (30/60) - 2024/11/15 19:41:35 CET [2024/11/15 13:41:35 ET]
+Table '3823136828 82' 8-max Seat #4 is the button
+Seat 1: alin_padurar (5765 in chips, $2 bounty) 
+Seat 2: gettla 233 (4871 in chips, $2 bounty) 
+Seat 3: hleb301 (4241 in chips, $2 bounty) 
+Seat 4: MSD2006 (6995 in chips, $2 bounty) 
+Seat 5: Mahu2021 (7250 in chips, $3 bounty) 
+Seat 6: boogiecousins (4850 in chips, $2 bounty) 
+Seat 7: julietikp (4834 in chips, $2 bounty) 
+Seat 8: J0R1K97 (4612 in chips, $2 bounty) 
+alin_padurar: posts the ante 9
+gettla 233: posts the ante 9
+hleb301: posts the ante 9
+MSD2006: posts the ante 9
+Mahu2021: posts the ante 9
+boogiecousins: posts the ante 9
+julietikp: posts the ante 9
+J0R1K97: posts the ante 9
+Mahu2021: posts small blind 30
+boogiecousins: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd Ah]
+julietikp: folds 
+J0R1K97: raises 60 to 120
+alin_padurar: folds 
+gettla 233: raises 4742 to 4862 and is all-in
+hleb301: folds 
+MSD2006: folds 
+Mahu2021: folds 
+boogiecousins: folds 
+J0R1K97: folds 
+Uncalled bet (4742) returned to gettla 233
+gettla 233 collected 402 from pot
+gettla 233: doesn't show hand 
+*** SUMMARY ***
+Total pot 402 | Rake 0 
+Seat 1: alin_padurar folded before Flop (didn't bet)
+Seat 2: gettla 233 collected (402)
+Seat 3: hleb301 folded before Flop (didn't bet)
+Seat 4: MSD2006 (button) folded before Flop (didn't bet)
+Seat 5: Mahu2021 (small blind) folded before Flop
+Seat 6: boogiecousins (big blind) folded before Flop
+Seat 7: julietikp folded before Flop (didn't bet)
+Seat 8: J0R1K97 folded before Flop
+
+
+
+PokerStars Hand #253416307960: Tournament #3823136828, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level II (30/60) - 2024/11/15 19:41:59 CET [2024/11/15 13:41:59 ET]
+Table '3823136828 82' 8-max Seat #5 is the button
+Seat 1: alin_padurar (5756 in chips, $2 bounty) 
+Seat 2: gettla 233 (5144 in chips, $2 bounty) 
+Seat 3: hleb301 (4232 in chips, $2 bounty) 
+Seat 4: MSD2006 (6986 in chips, $2 bounty) 
+Seat 5: Mahu2021 (7211 in chips, $3 bounty) 
+Seat 6: boogiecousins (4781 in chips, $2 bounty) 
+Seat 7: julietikp (4825 in chips, $2 bounty) 
+Seat 8: J0R1K97 (4483 in chips, $2 bounty) 
+alin_padurar: posts the ante 9
+gettla 233: posts the ante 9
+hleb301: posts the ante 9
+MSD2006: posts the ante 9
+Mahu2021: posts the ante 9
+boogiecousins: posts the ante 9
+julietikp: posts the ante 9
+J0R1K97: posts the ante 9
+boogiecousins: posts small blind 30
+julietikp: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qd As]
+J0R1K97: folds 
+alin_padurar: calls 60
+gettla 233: folds 
+hleb301: folds 
+MSD2006: folds 
+Mahu2021: calls 60
+boogiecousins: calls 30
+julietikp: checks 
+*** FLOP *** [4h 2h Ac]
+boogiecousins: checks 
+julietikp: checks 
+alin_padurar: checks 
+Mahu2021: bets 312
+boogiecousins: folds 
+julietikp: folds 
+alin_padurar: calls 312
+*** TURN *** [4h 2h Ac] [Jd]
+alin_padurar: checks 
+Mahu2021: checks 
+*** RIVER *** [4h 2h Ac Jd] [5h]
+alin_padurar: bets 936
+Mahu2021: calls 936
+*** SHOW DOWN ***
+alin_padurar: shows [Js 3s] (a straight, Ace to Five)
+Mahu2021: mucks hand 
+alin_padurar collected 2808 from pot
+*** SUMMARY ***
+Total pot 2808 | Rake 0 
+Board [4h 2h Ac Jd 5h]
+Seat 1: alin_padurar showed [Js 3s] and won (2808) with a straight, Ace to Five
+Seat 2: gettla 233 folded before Flop (didn't bet)
+Seat 3: hleb301 folded before Flop (didn't bet)
+Seat 4: MSD2006 folded before Flop (didn't bet)
+Seat 5: Mahu2021 (button) mucked [Qd As]
+Seat 6: boogiecousins (small blind) folded on the Flop
+Seat 7: julietikp (big blind) folded on the Flop
+Seat 8: J0R1K97 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253416321185: Tournament #3823136828, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level II (30/60) - 2024/11/15 19:42:47 CET [2024/11/15 13:42:47 ET]
+Table '3823136828 82' 8-max Seat #6 is the button
+Seat 1: alin_padurar (7247 in chips, $2 bounty) 
+Seat 2: gettla 233 (5135 in chips, $2 bounty) 
+Seat 3: hleb301 (4223 in chips, $2 bounty) 
+Seat 4: MSD2006 (6977 in chips, $2 bounty) 
+Seat 5: Mahu2021 (5894 in chips, $3 bounty) 
+Seat 6: boogiecousins (4712 in chips, $2 bounty) 
+Seat 7: julietikp (4756 in chips, $2 bounty) 
+Seat 8: J0R1K97 (4474 in chips, $2 bounty) 
+alin_padurar: posts the ante 9
+gettla 233: posts the ante 9
+hleb301: posts the ante 9
+MSD2006: posts the ante 9
+Mahu2021: posts the ante 9
+boogiecousins: posts the ante 9
+julietikp: posts the ante 9
+J0R1K97: posts the ante 9
+julietikp: posts small blind 30
+J0R1K97: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h 3s]
+alin_padurar: raises 60 to 120
+gettla 233: folds 
+hleb301: folds 
+MSD2006: folds 
+Mahu2021: folds 
+boogiecousins: folds 
+julietikp: folds 
+J0R1K97: calls 60
+*** FLOP *** [9c Ks 5s]
+J0R1K97: checks 
+alin_padurar: checks 
+*** TURN *** [9c Ks 5s] [6d]
+J0R1K97: checks 
+alin_padurar: bets 171
+J0R1K97: folds 
+Uncalled bet (171) returned to alin_padurar
+alin_padurar collected 342 from pot
+alin_padurar: doesn't show hand 
+*** SUMMARY ***
+Total pot 342 | Rake 0 
+Board [9c Ks 5s 6d]
+Seat 1: alin_padurar collected (342)
+Seat 2: gettla 233 folded before Flop (didn't bet)
+Seat 3: hleb301 folded before Flop (didn't bet)
+Seat 4: MSD2006 folded before Flop (didn't bet)
+Seat 5: Mahu2021 folded before Flop (didn't bet)
+Seat 6: boogiecousins (button) folded before Flop (didn't bet)
+Seat 7: julietikp (small blind) folded before Flop
+Seat 8: J0R1K97 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #253416333463: Tournament #3823136828, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level II (30/60) - 2024/11/15 19:43:32 CET [2024/11/15 13:43:32 ET]
+Table '3823136828 82' 8-max Seat #7 is the button
+Seat 1: alin_padurar (7460 in chips, $2 bounty) 
+Seat 2: gettla 233 (5126 in chips, $2 bounty) 
+Seat 3: hleb301 (4214 in chips, $2 bounty) 
+Seat 4: MSD2006 (6968 in chips, $2 bounty) 
+Seat 5: Mahu2021 (5885 in chips, $3 bounty) 
+Seat 6: boogiecousins (4703 in chips, $2 bounty) 
+Seat 7: julietikp (4717 in chips, $2 bounty) 
+Seat 8: J0R1K97 (4345 in chips, $2 bounty) 
+alin_padurar: posts the ante 9
+gettla 233: posts the ante 9
+hleb301: posts the ante 9
+MSD2006: posts the ante 9
+Mahu2021: posts the ante 9
+boogiecousins: posts the ante 9
+julietikp: posts the ante 9
+J0R1K97: posts the ante 9
+J0R1K97: posts small blind 30
+alin_padurar: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h Ac]
+gettla 233: folds 
+hleb301: folds 
+MSD2006: raises 90 to 150
+Mahu2021: folds 
+boogiecousins: folds 
+julietikp: folds 
+J0R1K97: folds 
+alin_padurar: calls 90
+*** FLOP *** [Qh Ts 9s]
+alin_padurar: checks 
+MSD2006: bets 150
+alin_padurar: folds 
+Uncalled bet (150) returned to MSD2006
+MSD2006 collected 402 from pot
+*** SUMMARY ***
+Total pot 402 | Rake 0 
+Board [Qh Ts 9s]
+Seat 1: alin_padurar (big blind) folded on the Flop
+Seat 2: gettla 233 folded before Flop (didn't bet)
+Seat 3: hleb301 folded before Flop (didn't bet)
+Seat 4: MSD2006 collected (402)
+Seat 5: Mahu2021 folded before Flop (didn't bet)
+Seat 6: boogiecousins folded before Flop (didn't bet)
+Seat 7: julietikp (button) folded before Flop (didn't bet)
+Seat 8: J0R1K97 (small blind) folded before Flop
+
+
+
+PokerStars Hand #253416342729: Tournament #3823136828, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level II (30/60) - 2024/11/15 19:44:06 CET [2024/11/15 13:44:06 ET]
+Table '3823136828 82' 8-max Seat #8 is the button
+Seat 1: alin_padurar (7301 in chips, $2 bounty) 
+Seat 2: gettla 233 (5117 in chips, $2 bounty) 
+Seat 3: hleb301 (4205 in chips, $2 bounty) 
+Seat 4: MSD2006 (7211 in chips, $2 bounty) 
+Seat 5: Mahu2021 (5876 in chips, $3 bounty) 
+Seat 6: boogiecousins (4694 in chips, $2 bounty) 
+Seat 7: julietikp (4708 in chips, $2 bounty) 
+Seat 8: J0R1K97 (4306 in chips, $2 bounty) 
+alin_padurar: posts the ante 9
+gettla 233: posts the ante 9
+hleb301: posts the ante 9
+MSD2006: posts the ante 9
+Mahu2021: posts the ante 9
+boogiecousins: posts the ante 9
+julietikp: posts the ante 9
+J0R1K97: posts the ante 9
+alin_padurar: posts small blind 30
+gettla 233: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh 5s]
+hleb301: folds 
+MSD2006: folds 
+Mahu2021: folds 
+boogiecousins: raises 66 to 126
+julietikp: folds 
+J0R1K97: folds 
+alin_padurar: calls 96
+gettla 233: folds 
+*** FLOP *** [7c 4c Qd]
+alin_padurar: checks 
+boogiecousins: checks 
+*** TURN *** [7c 4c Qd] [8h]
+alin_padurar: bets 192
+boogiecousins: calls 192
+*** RIVER *** [7c 4c Qd 8h] [2h]
+alin_padurar: bets 444
+boogiecousins: folds 
+Uncalled bet (444) returned to alin_padurar
+alin_padurar collected 768 from pot
+alin_padurar: doesn't show hand 
+*** SUMMARY ***
+Total pot 768 | Rake 0 
+Board [7c 4c Qd 8h 2h]
+Seat 1: alin_padurar (small blind) collected (768)
+Seat 2: gettla 233 (big blind) folded before Flop
+Seat 3: hleb301 folded before Flop (didn't bet)
+Seat 4: MSD2006 folded before Flop (didn't bet)
+Seat 5: Mahu2021 folded before Flop (didn't bet)
+Seat 6: boogiecousins folded on the River
+Seat 7: julietikp folded before Flop (didn't bet)
+Seat 8: J0R1K97 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253416351699: Tournament #3823136828, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level II (30/60) - 2024/11/15 19:44:39 CET [2024/11/15 13:44:39 ET]
+Table '3823136828 82' 8-max Seat #1 is the button
+Seat 1: alin_padurar (7742 in chips, $2 bounty) 
+Seat 2: gettla 233 (5048 in chips, $2 bounty) 
+Seat 3: hleb301 (4196 in chips, $2 bounty) 
+Seat 4: MSD2006 (7202 in chips, $2 bounty) 
+Seat 5: Mahu2021 (5867 in chips, $3 bounty) 
+Seat 6: boogiecousins (4367 in chips, $2 bounty) 
+Seat 7: julietikp (4699 in chips, $2 bounty) 
+Seat 8: J0R1K97 (4297 in chips, $2 bounty) 
+alin_padurar: posts the ante 9
+gettla 233: posts the ante 9
+hleb301: posts the ante 9
+MSD2006: posts the ante 9
+Mahu2021: posts the ante 9
+boogiecousins: posts the ante 9
+julietikp: posts the ante 9
+J0R1K97: posts the ante 9
+gettla 233: posts small blind 30
+hleb301: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h 3h]
+MSD2006: raises 90 to 150
+Mahu2021: folds 
+boogiecousins: folds 
+julietikp: folds 
+J0R1K97: folds 
+alin_padurar: calls 150
+gettla 233: folds 
+hleb301: folds 
+*** FLOP *** [8d 5d 6h]
+MSD2006: bets 150
+alin_padurar: calls 150
+*** TURN *** [8d 5d 6h] [4c]
+MSD2006: bets 300
+alin_padurar: folds 
+Uncalled bet (300) returned to MSD2006
+MSD2006 collected 762 from pot
+*** SUMMARY ***
+Total pot 762 | Rake 0 
+Board [8d 5d 6h 4c]
+Seat 1: alin_padurar (button) folded on the Turn
+Seat 2: gettla 233 (small blind) folded before Flop
+Seat 3: hleb301 (big blind) folded before Flop
+Seat 4: MSD2006 collected (762)
+Seat 5: Mahu2021 folded before Flop (didn't bet)
+Seat 6: boogiecousins folded before Flop (didn't bet)
+Seat 7: julietikp folded before Flop (didn't bet)
+Seat 8: J0R1K97 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253416368819: Tournament #3823136828, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level II (30/60) - 2024/11/15 19:45:43 CET [2024/11/15 13:45:43 ET]
+Table '3823136828 82' 8-max Seat #2 is the button
+Seat 1: alin_padurar (7433 in chips, $2 bounty) 
+Seat 2: gettla 233 (5009 in chips, $2 bounty) 
+Seat 3: hleb301 (4127 in chips, $2 bounty) 
+Seat 4: MSD2006 (7655 in chips, $2 bounty) 
+Seat 5: Mahu2021 (5858 in chips, $3 bounty) 
+Seat 6: boogiecousins (4358 in chips, $2 bounty) 
+Seat 7: julietikp (4690 in chips, $2 bounty) 
+Seat 8: J0R1K97 (4288 in chips, $2 bounty) 
+alin_padurar: posts the ante 9
+gettla 233: posts the ante 9
+hleb301: posts the ante 9
+MSD2006: posts the ante 9
+Mahu2021: posts the ante 9
+boogiecousins: posts the ante 9
+julietikp: posts the ante 9
+J0R1K97: posts the ante 9
+hleb301: posts small blind 30
+MSD2006: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c 4d]
+Mahu2021: folds 
+boogiecousins: folds 
+julietikp: folds 
+J0R1K97: folds 
+alin_padurar: folds 
+gettla 233: folds 
+hleb301: raises 60 to 120
+MSD2006: folds 
+Uncalled bet (60) returned to hleb301
+hleb301 collected 192 from pot
+hleb301: doesn't show hand 
+*** SUMMARY ***
+Total pot 192 | Rake 0 
+Seat 1: alin_padurar folded before Flop (didn't bet)
+Seat 2: gettla 233 (button) folded before Flop (didn't bet)
+Seat 3: hleb301 (small blind) collected (192)
+Seat 4: MSD2006 (big blind) folded before Flop
+Seat 5: Mahu2021 folded before Flop (didn't bet)
+Seat 6: boogiecousins folded before Flop (didn't bet)
+Seat 7: julietikp folded before Flop (didn't bet)
+Seat 8: J0R1K97 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253416374788: Tournament #3823136828, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level III (35/70) - 2024/11/15 19:46:04 CET [2024/11/15 13:46:04 ET]
+Table '3823136828 82' 8-max Seat #3 is the button
+Seat 1: alin_padurar (7424 in chips, $2 bounty) 
+Seat 2: gettla 233 (5000 in chips, $2 bounty) 
+Seat 3: hleb301 (4250 in chips, $2 bounty) 
+Seat 4: MSD2006 (7586 in chips, $2 bounty) 
+Seat 5: Mahu2021 (5849 in chips, $3 bounty) 
+Seat 6: boogiecousins (4349 in chips, $2 bounty) 
+Seat 7: julietikp (4681 in chips, $2 bounty) 
+Seat 8: J0R1K97 (4279 in chips, $2 bounty) 
+alin_padurar: posts the ante 11
+gettla 233: posts the ante 11
+hleb301: posts the ante 11
+MSD2006: posts the ante 11
+Mahu2021: posts the ante 11
+boogiecousins: posts the ante 11
+julietikp: posts the ante 11
+J0R1K97: posts the ante 11
+MSD2006: posts small blind 35
+Mahu2021: posts big blind 70
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks 6d]
+boogiecousins: raises 77 to 147
+julietikp: calls 147
+J0R1K97: folds 
+alin_padurar: folds 
+gettla 233: raises 77 to 224
+hleb301: folds 
+MSD2006: folds 
+Mahu2021: folds 
+boogiecousins: calls 77
+julietikp: calls 77
+*** FLOP *** [Kc 8h 8s]
+boogiecousins: checks 
+julietikp: checks 
+gettla 233: bets 433
+boogiecousins: folds 
+julietikp: folds 
+Uncalled bet (433) returned to gettla 233
+gettla 233 collected 865 from pot
+gettla 233: doesn't show hand 
+*** SUMMARY ***
+Total pot 865 | Rake 0 
+Board [Kc 8h 8s]
+Seat 1: alin_padurar folded before Flop (didn't bet)
+Seat 2: gettla 233 collected (865)
+Seat 3: hleb301 (button) folded before Flop (didn't bet)
+Seat 4: MSD2006 (small blind) folded before Flop
+Seat 5: Mahu2021 (big blind) folded before Flop
+Seat 6: boogiecousins folded on the Flop
+Seat 7: julietikp folded on the Flop
+Seat 8: J0R1K97 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253416388763: Tournament #3823136828, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level III (35/70) - 2024/11/15 19:46:55 CET [2024/11/15 13:46:55 ET]
+Table '3823136828 82' 8-max Seat #4 is the button
+Seat 1: alin_padurar (7413 in chips, $2 bounty) 
+Seat 2: gettla 233 (5630 in chips, $2 bounty) 
+Seat 3: hleb301 (4239 in chips, $2 bounty) 
+Seat 4: MSD2006 (7540 in chips, $2 bounty) 
+Seat 5: Mahu2021 (5768 in chips, $3 bounty) 
+Seat 6: boogiecousins (4114 in chips, $2 bounty) 
+Seat 7: julietikp (4446 in chips, $2 bounty) 
+Seat 8: J0R1K97 (4268 in chips, $2 bounty) 
+alin_padurar: posts the ante 11
+gettla 233: posts the ante 11
+hleb301: posts the ante 11
+MSD2006: posts the ante 11
+Mahu2021: posts the ante 11
+boogiecousins: posts the ante 11
+julietikp: posts the ante 11
+J0R1K97: posts the ante 11
+Mahu2021: posts small blind 35
+boogiecousins: posts big blind 70
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3c Ac]
+julietikp: folds 
+J0R1K97: folds 
+alin_padurar: folds 
+gettla 233: folds 
+hleb301: folds 
+MSD2006: folds 
+Mahu2021: raises 5687 to 5757 and is all-in
+boogiecousins: folds 
+Uncalled bet (5687) returned to Mahu2021
+Mahu2021 collected 228 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 228 | Rake 0 
+Seat 1: alin_padurar folded before Flop (didn't bet)
+Seat 2: gettla 233 folded before Flop (didn't bet)
+Seat 3: hleb301 folded before Flop (didn't bet)
+Seat 4: MSD2006 (button) folded before Flop (didn't bet)
+Seat 5: Mahu2021 (small blind) collected (228)
+Seat 6: boogiecousins (big blind) folded before Flop
+Seat 7: julietikp folded before Flop (didn't bet)
+Seat 8: J0R1K97 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253416395328: Tournament #3823136828, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level III (35/70) - 2024/11/15 19:47:19 CET [2024/11/15 13:47:19 ET]
+Table '3823136828 82' 8-max Seat #5 is the button
+Seat 1: alin_padurar (7402 in chips, $2 bounty) 
+Seat 2: gettla 233 (5619 in chips, $2 bounty) 
+Seat 3: hleb301 (4228 in chips, $2 bounty) 
+Seat 4: MSD2006 (7529 in chips, $2 bounty) 
+Seat 5: Mahu2021 (5915 in chips, $3 bounty) 
+Seat 6: boogiecousins (4033 in chips, $2 bounty) 
+Seat 7: julietikp (4435 in chips, $2 bounty) 
+Seat 8: J0R1K97 (4257 in chips, $2 bounty) 
+alin_padurar: posts the ante 11
+gettla 233: posts the ante 11
+hleb301: posts the ante 11
+MSD2006: posts the ante 11
+Mahu2021: posts the ante 11
+boogiecousins: posts the ante 11
+julietikp: posts the ante 11
+J0R1K97: posts the ante 11
+boogiecousins: posts small blind 35
+julietikp: posts big blind 70
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d 8h]
+J0R1K97: folds 
+alin_padurar: folds 
+gettla 233: folds 
+hleb301: folds 
+MSD2006: folds 
+alin_padurar is sitting out
+Mahu2021 has timed out
+Mahu2021: folds 
+Mahu2021 is sitting out
+boogiecousins: calls 35
+julietikp: checks 
+*** FLOP *** [Ah 8s 7d]
+boogiecousins: bets 70
+julietikp: calls 70
+*** TURN *** [Ah 8s 7d] [Js]
+alin_padurar is disconnected 
+alin_padurar has returned
+boogiecousins: checks 
+julietikp: bets 280
+boogiecousins: folds 
+Uncalled bet (280) returned to julietikp
+julietikp collected 368 from pot
+*** SUMMARY ***
+Total pot 368 | Rake 0 
+Board [Ah 8s 7d Js]
+Seat 1: alin_padurar folded before Flop (didn't bet)
+Seat 2: gettla 233 folded before Flop (didn't bet)
+Seat 3: hleb301 folded before Flop (didn't bet)
+Seat 4: MSD2006 folded before Flop (didn't bet)
+Seat 5: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 6: boogiecousins (small blind) folded on the Turn
+Seat 7: julietikp (big blind) collected (368)
+Seat 8: J0R1K97 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253416424879: Tournament #3823136828, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level III (35/70) - 2024/11/15 19:49:07 CET [2024/11/15 13:49:07 ET]
+Table '3823136828 82' 8-max Seat #6 is the button
+Seat 1: alin_padurar (7391 in chips, $2 bounty) 
+Seat 2: gettla 233 (5608 in chips, $2 bounty) 
+Seat 3: hleb301 (4217 in chips, $2 bounty) 
+Seat 4: MSD2006 (7518 in chips, $2 bounty) 
+Seat 5: Mahu2021 (5904 in chips, $3 bounty) is sitting out
+Seat 6: boogiecousins (3882 in chips, $2 bounty) 
+Seat 7: julietikp (4652 in chips, $2 bounty) 
+Seat 8: J0R1K97 (4246 in chips, $2 bounty) 
+alin_padurar: posts the ante 11
+gettla 233: posts the ante 11
+hleb301: posts the ante 11
+MSD2006: posts the ante 11
+Mahu2021: posts the ante 11
+boogiecousins: posts the ante 11
+julietikp: posts the ante 11
+J0R1K97: posts the ante 11
+julietikp: posts small blind 35
+J0R1K97: posts big blind 70
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah Ks]
+alin_padurar: folds 
+gettla 233: folds 
+hleb301: raises 70 to 140
+MSD2006: folds 
+Mahu2021: folds 
+boogiecousins: folds 
+alin_padurar is disconnected 
+julietikp: raises 420 to 560
+J0R1K97: folds 
+hleb301: calls 420
+*** FLOP *** [Js Jd Kd]
+julietikp: bets 282
+hleb301: calls 282
+*** TURN *** [Js Jd Kd] [5s]
+alin_padurar is disconnected 
+julietikp: bets 976
+hleb301: calls 976
+*** RIVER *** [Js Jd Kd 5s] [9d]
+julietikp: checks 
+hleb301: bets 1252
+julietikp: folds 
+Uncalled bet (1252) returned to hleb301
+hleb301 collected 3794 from pot
+hleb301: doesn't show hand 
+*** SUMMARY ***
+Total pot 3794 | Rake 0 
+Board [Js Jd Kd 5s 9d]
+Seat 1: alin_padurar folded before Flop (didn't bet)
+Seat 2: gettla 233 folded before Flop (didn't bet)
+Seat 3: hleb301 collected (3794)
+Seat 4: MSD2006 folded before Flop (didn't bet)
+Seat 5: Mahu2021 folded before Flop (didn't bet)
+Seat 6: boogiecousins (button) folded before Flop (didn't bet)
+Seat 7: julietikp (small blind) folded on the River
+Seat 8: J0R1K97 (big blind) folded before Flop
+
+
+
+PokerStars Hand #253416450604: Tournament #3823136828, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level III (35/70) - 2024/11/15 19:50:42 CET [2024/11/15 13:50:42 ET]
+Table '3823136828 82' 8-max Seat #7 is the button
+Seat 1: alin_padurar (7380 in chips, $2 bounty) 
+Seat 2: gettla 233 (5597 in chips, $2 bounty) 
+Seat 3: hleb301 (6182 in chips, $2 bounty) 
+Seat 4: MSD2006 (7507 in chips, $2 bounty) 
+Seat 5: Mahu2021 (5893 in chips, $3 bounty) is sitting out
+Seat 6: boogiecousins (3871 in chips, $2 bounty) 
+Seat 7: julietikp (2823 in chips, $2 bounty) 
+Seat 8: J0R1K97 (4165 in chips, $2 bounty) 
+alin_padurar: posts the ante 11
+gettla 233: posts the ante 11
+hleb301: posts the ante 11
+MSD2006: posts the ante 11
+Mahu2021: posts the ante 11
+boogiecousins: posts the ante 11
+julietikp: posts the ante 11
+J0R1K97: posts the ante 11
+J0R1K97: posts small blind 35
+alin_padurar: posts big blind 70
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Tc 2c]
+gettla 233: folds 
+hleb301: raises 70 to 140
+MSD2006: folds 
+Mahu2021: folds 
+boogiecousins: folds 
+julietikp: calls 140
+J0R1K97: folds 
+alin_padurar: folds 
+*** FLOP *** [4s 7s 4d]
+hleb301: checks 
+julietikp: checks 
+*** TURN *** [4s 7s 4d] [Qd]
+hleb301: checks 
+julietikp: bets 251
+hleb301: folds 
+Uncalled bet (251) returned to julietikp
+julietikp collected 473 from pot
+*** SUMMARY ***
+Total pot 473 | Rake 0 
+Board [4s 7s 4d Qd]
+Seat 1: alin_padurar (big blind) folded before Flop
+Seat 2: gettla 233 folded before Flop (didn't bet)
+Seat 3: hleb301 folded on the Turn
+Seat 4: MSD2006 folded before Flop (didn't bet)
+Seat 5: Mahu2021 folded before Flop (didn't bet)
+Seat 6: boogiecousins folded before Flop (didn't bet)
+Seat 7: julietikp (button) collected (473)
+Seat 8: J0R1K97 (small blind) folded before Flop
+
+
+
+PokerStars Hand #253416462657: Tournament #3823136828, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level III (35/70) - 2024/11/15 19:51:26 CET [2024/11/15 13:51:26 ET]
+Table '3823136828 82' 8-max Seat #8 is the button
+Seat 1: alin_padurar (7299 in chips, $2 bounty) 
+Seat 2: gettla 233 (5586 in chips, $2 bounty) 
+Seat 3: hleb301 (6031 in chips, $2 bounty) 
+Seat 4: MSD2006 (7496 in chips, $2 bounty) 
+Seat 5: Mahu2021 (5882 in chips, $3 bounty) is sitting out
+Seat 6: boogiecousins (3860 in chips, $2 bounty) 
+Seat 7: julietikp (3145 in chips, $2 bounty) 
+Seat 8: J0R1K97 (4119 in chips, $2 bounty) 
+alin_padurar: posts the ante 11
+gettla 233: posts the ante 11
+hleb301: posts the ante 11
+MSD2006: posts the ante 11
+Mahu2021: posts the ante 11
+boogiecousins: posts the ante 11
+julietikp: posts the ante 11
+J0R1K97: posts the ante 11
+alin_padurar: posts small blind 35
+gettla 233: posts big blind 70
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad 2c]
+hleb301: folds 
+MSD2006: folds 
+Mahu2021: folds 
+boogiecousins: folds 
+julietikp: raises 91 to 161
+J0R1K97: folds 
+alin_padurar: folds 
+gettla 233: calls 91
+*** FLOP *** [8s Jc 9s]
+gettla 233: checks 
+julietikp: bets 147
+gettla 233: calls 147
+*** TURN *** [8s Jc 9s] [Jh]
+gettla 233: checks 
+julietikp: bets 392
+gettla 233: calls 392
+*** RIVER *** [8s Jc 9s Jh] [5d]
+gettla 233: bets 4875 and is all-in
+julietikp: folds 
+Uncalled bet (4875) returned to gettla 233
+gettla 233 collected 1523 from pot
+gettla 233: doesn't show hand 
+*** SUMMARY ***
+Total pot 1523 | Rake 0 
+Board [8s Jc 9s Jh 5d]
+Seat 1: alin_padurar (small blind) folded before Flop
+Seat 2: gettla 233 (big blind) collected (1523)
+Seat 3: hleb301 folded before Flop (didn't bet)
+Seat 4: MSD2006 folded before Flop (didn't bet)
+Seat 5: Mahu2021 folded before Flop (didn't bet)
+Seat 6: boogiecousins folded before Flop (didn't bet)
+Seat 7: julietikp folded on the River
+Seat 8: J0R1K97 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253416475260: Tournament #3823136828, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level III (35/70) - 2024/11/15 19:52:13 CET [2024/11/15 13:52:13 ET]
+Table '3823136828 82' 8-max Seat #1 is the button
+Seat 1: alin_padurar (7253 in chips, $2 bounty) 
+Seat 2: gettla 233 (6398 in chips, $2 bounty) 
+Seat 3: hleb301 (6020 in chips, $2 bounty) 
+Seat 4: MSD2006 (7485 in chips, $2 bounty) 
+Seat 5: Mahu2021 (5871 in chips, $3 bounty) is sitting out
+Seat 6: boogiecousins (3849 in chips, $2 bounty) 
+Seat 7: julietikp (2434 in chips, $2 bounty) 
+Seat 8: J0R1K97 (4108 in chips, $2 bounty) 
+alin_padurar: posts the ante 11
+gettla 233: posts the ante 11
+hleb301: posts the ante 11
+MSD2006: posts the ante 11
+Mahu2021: posts the ante 11
+boogiecousins: posts the ante 11
+julietikp: posts the ante 11
+J0R1K97: posts the ante 11
+gettla 233: posts small blind 35
+hleb301: posts big blind 70
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd Qd]
+MSD2006: folds 
+Mahu2021: folds 
+boogiecousins: raises 77 to 147
+julietikp: folds 
+J0R1K97: folds 
+alin_padurar: calls 147
+gettla 233: calls 112
+hleb301: folds 
+*** FLOP *** [8c 9c Qh]
+gettla 233: checks 
+boogiecousins: bets 198
+alin_padurar: folds 
+gettla 233: calls 198
+*** TURN *** [8c 9c Qh] [8d]
+gettla 233: checks 
+boogiecousins: bets 587
+gettla 233: folds 
+Uncalled bet (587) returned to boogiecousins
+boogiecousins collected 995 from pot
+boogiecousins: doesn't show hand 
+*** SUMMARY ***
+Total pot 995 | Rake 0 
+Board [8c 9c Qh 8d]
+Seat 1: alin_padurar (button) folded on the Flop
+Seat 2: gettla 233 (small blind) folded on the Turn
+Seat 3: hleb301 (big blind) folded before Flop
+Seat 4: MSD2006 folded before Flop (didn't bet)
+Seat 5: Mahu2021 folded before Flop (didn't bet)
+Seat 6: boogiecousins collected (995)
+Seat 7: julietikp folded before Flop (didn't bet)
+Seat 8: J0R1K97 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253416488883: Tournament #3823136828, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level III (35/70) - 2024/11/15 19:53:03 CET [2024/11/15 13:53:03 ET]
+Table '3823136828 82' 8-max Seat #2 is the button
+Seat 1: alin_padurar (7095 in chips, $2 bounty) 
+Seat 2: gettla 233 (6042 in chips, $2 bounty) 
+Seat 3: hleb301 (5939 in chips, $2 bounty) 
+Seat 4: MSD2006 (7474 in chips, $2 bounty) 
+Seat 5: Mahu2021 (5860 in chips, $3 bounty) is sitting out
+Seat 6: boogiecousins (4488 in chips, $2 bounty) 
+Seat 7: julietikp (2423 in chips, $2 bounty) 
+Seat 8: J0R1K97 (4097 in chips, $2 bounty) 
+alin_padurar: posts the ante 11
+gettla 233: posts the ante 11
+hleb301: posts the ante 11
+MSD2006: posts the ante 11
+Mahu2021: posts the ante 11
+boogiecousins: posts the ante 11
+julietikp: posts the ante 11
+J0R1K97: posts the ante 11
+hleb301: posts small blind 35
+MSD2006: posts big blind 70
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2c 3s]
+Mahu2021: folds 
+boogiecousins: folds 
+julietikp: raises 70 to 140
+J0R1K97: folds 
+alin_padurar: calls 140
+gettla 233: folds 
+hleb301: folds 
+MSD2006: calls 70
+*** FLOP *** [4c Kd Jd]
+MSD2006: checks 
+julietikp: checks 
+alin_padurar: bets 342
+MSD2006: folds 
+julietikp: folds 
+Uncalled bet (342) returned to alin_padurar
+alin_padurar collected 543 from pot
+alin_padurar: doesn't show hand 
+*** SUMMARY ***
+Total pot 543 | Rake 0 
+Board [4c Kd Jd]
+Seat 1: alin_padurar collected (543)
+Seat 2: gettla 233 (button) folded before Flop (didn't bet)
+Seat 3: hleb301 (small blind) folded before Flop
+Seat 4: MSD2006 (big blind) folded on the Flop
+Seat 5: Mahu2021 folded before Flop (didn't bet)
+Seat 6: boogiecousins folded before Flop (didn't bet)
+Seat 7: julietikp folded on the Flop
+Seat 8: J0R1K97 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253416502139: Tournament #3823136828, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level III (35/70) - 2024/11/15 19:53:52 CET [2024/11/15 13:53:52 ET]
+Table '3823136828 82' 8-max Seat #3 is the button
+Seat 1: alin_padurar (7487 in chips, $2 bounty) 
+Seat 2: gettla 233 (6031 in chips, $2 bounty) 
+Seat 3: hleb301 (5893 in chips, $2 bounty) 
+Seat 4: MSD2006 (7323 in chips, $2 bounty) 
+Seat 5: Mahu2021 (5849 in chips, $3 bounty) is sitting out
+Seat 6: boogiecousins (4477 in chips, $2 bounty) 
+Seat 7: julietikp (2272 in chips, $2 bounty) 
+Seat 8: J0R1K97 (4086 in chips, $2 bounty) 
+alin_padurar: posts the ante 11
+gettla 233: posts the ante 11
+hleb301: posts the ante 11
+MSD2006: posts the ante 11
+Mahu2021: posts the ante 11
+boogiecousins: posts the ante 11
+julietikp: posts the ante 11
+J0R1K97: posts the ante 11
+MSD2006: posts small blind 35
+Mahu2021: posts big blind 70
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qd 2c]
+boogiecousins: raises 77 to 147
+julietikp: folds 
+J0R1K97: folds 
+alin_padurar: calls 147
+gettla 233: folds 
+hleb301: folds 
+MSD2006: folds 
+Mahu2021: folds 
+*** FLOP *** [Ts 8d 8c]
+boogiecousins: checks 
+alin_padurar: checks 
+*** TURN *** [Ts 8d 8c] [4h]
+boogiecousins: bets 161
+alin_padurar: raises 161 to 322
+boogiecousins: calls 161
+*** RIVER *** [Ts 8d 8c 4h] [7h]
+boogiecousins: bets 1301
+alin_padurar: calls 1301
+*** SHOW DOWN ***
+boogiecousins: shows [Qc Ah] (a pair of Eights)
+alin_padurar: shows [Th Jc] (two pair, Tens and Eights)
+alin_padurar collected 3733 from pot
+*** SUMMARY ***
+Total pot 3733 | Rake 0 
+Board [Ts 8d 8c 4h 7h]
+Seat 1: alin_padurar showed [Th Jc] and won (3733) with two pair, Tens and Eights
+Seat 2: gettla 233 folded before Flop (didn't bet)
+Seat 3: hleb301 (button) folded before Flop (didn't bet)
+Seat 4: MSD2006 (small blind) folded before Flop
+Seat 5: Mahu2021 (big blind) folded before Flop
+Seat 6: boogiecousins showed [Qc Ah] and lost with a pair of Eights
+Seat 7: julietikp folded before Flop (didn't bet)
+Seat 8: J0R1K97 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253416518404: Tournament #3823136828, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level IV (40/80) - 2024/11/15 19:54:52 CET [2024/11/15 13:54:52 ET]
+Table '3823136828 82' 8-max Seat #4 is the button
+Seat 1: alin_padurar (9439 in chips, $2 bounty) 
+Seat 2: gettla 233 (6020 in chips, $2 bounty) 
+Seat 3: hleb301 (5882 in chips, $2 bounty) 
+Seat 4: MSD2006 (7277 in chips, $2 bounty) 
+Seat 5: Mahu2021 (5768 in chips, $3 bounty) is sitting out
+Seat 6: boogiecousins (2696 in chips, $2 bounty) 
+Seat 7: julietikp (2261 in chips, $2 bounty) 
+Seat 8: J0R1K97 (4075 in chips, $2 bounty) 
+alin_padurar: posts the ante 12
+gettla 233: posts the ante 12
+hleb301: posts the ante 12
+MSD2006: posts the ante 12
+Mahu2021: posts the ante 12
+boogiecousins: posts the ante 12
+julietikp: posts the ante 12
+J0R1K97: posts the ante 12
+Mahu2021: posts small blind 40
+boogiecousins: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8c 5h]
+julietikp: folds 
+J0R1K97: folds 
+alin_padurar: folds 
+gettla 233: folds 
+hleb301: folds 
+MSD2006: raises 200 to 280
+Mahu2021: folds 
+boogiecousins: folds 
+Uncalled bet (200) returned to MSD2006
+MSD2006 collected 296 from pot
+*** SUMMARY ***
+Total pot 296 | Rake 0 
+Seat 1: alin_padurar folded before Flop (didn't bet)
+Seat 2: gettla 233 folded before Flop (didn't bet)
+Seat 3: hleb301 folded before Flop (didn't bet)
+Seat 4: MSD2006 (button) collected (296)
+Seat 5: Mahu2021 (small blind) folded before Flop
+Seat 6: boogiecousins (big blind) folded before Flop
+Seat 7: julietikp folded before Flop (didn't bet)
+Seat 8: J0R1K97 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253416612232: Tournament #3823136828, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level IV (40/80) - 2024/11/15 20:02:23 CET [2024/11/15 14:02:23 ET]
+Table '3823136828 82' 8-max Seat #5 is the button
+Seat 1: alin_padurar (9427 in chips, $2 bounty) 
+Seat 2: gettla 233 (6008 in chips, $2 bounty) 
+Seat 3: hleb301 (5870 in chips, $2 bounty) 
+Seat 4: MSD2006 (7481 in chips, $2 bounty) 
+Seat 5: Mahu2021 (5716 in chips, $3 bounty) is sitting out
+Seat 6: boogiecousins (2604 in chips, $2 bounty) 
+Seat 7: julietikp (2249 in chips, $2 bounty) 
+Seat 8: J0R1K97 (4063 in chips, $2 bounty) 
+alin_padurar: posts the ante 12
+gettla 233: posts the ante 12
+hleb301: posts the ante 12
+MSD2006: posts the ante 12
+Mahu2021: posts the ante 12
+boogiecousins: posts the ante 12
+julietikp: posts the ante 12
+J0R1K97: posts the ante 12
+boogiecousins: posts small blind 40
+julietikp: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s 2s]
+J0R1K97: folds 
+alin_padurar: folds 
+gettla 233: folds 
+hleb301: raises 80 to 160
+MSD2006: calls 160
+Mahu2021: folds 
+boogiecousins: calls 120
+julietikp: calls 80
+*** FLOP *** [Jh 6d Ad]
+boogiecousins: checks 
+julietikp: checks 
+hleb301: bets 515
+MSD2006: calls 515
+boogiecousins: folds 
+julietikp: folds 
+*** TURN *** [Jh 6d Ad] [Th]
+hleb301: bets 583
+MSD2006: calls 583
+*** RIVER *** [Jh 6d Ad Th] [7d]
+hleb301: bets 968
+MSD2006: folds 
+Uncalled bet (968) returned to hleb301
+hleb301 collected 2932 from pot
+hleb301: doesn't show hand 
+*** SUMMARY ***
+Total pot 2932 | Rake 0 
+Board [Jh 6d Ad Th 7d]
+Seat 1: alin_padurar folded before Flop (didn't bet)
+Seat 2: gettla 233 folded before Flop (didn't bet)
+Seat 3: hleb301 collected (2932)
+Seat 4: MSD2006 folded on the River
+Seat 5: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 6: boogiecousins (small blind) folded on the Flop
+Seat 7: julietikp (big blind) folded on the Flop
+Seat 8: J0R1K97 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253416636369: Tournament #3823136828, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level IV (40/80) - 2024/11/15 20:03:54 CET [2024/11/15 14:03:54 ET]
+Table '3823136828 82' 8-max Seat #6 is the button
+Seat 1: alin_padurar (9415 in chips, $2 bounty) 
+Seat 2: gettla 233 (5996 in chips, $2 bounty) 
+Seat 3: hleb301 (7532 in chips, $2 bounty) 
+Seat 4: MSD2006 (6211 in chips, $2 bounty) 
+Seat 5: Mahu2021 (5704 in chips, $3 bounty) is sitting out
+Seat 6: boogiecousins (2432 in chips, $2 bounty) 
+Seat 7: julietikp (2077 in chips, $2 bounty) 
+Seat 8: J0R1K97 (4051 in chips, $2 bounty) 
+alin_padurar: posts the ante 12
+gettla 233: posts the ante 12
+hleb301: posts the ante 12
+MSD2006: posts the ante 12
+Mahu2021: posts the ante 12
+boogiecousins: posts the ante 12
+julietikp: posts the ante 12
+J0R1K97: posts the ante 12
+julietikp: posts small blind 40
+J0R1K97: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8c Qs]
+alin_padurar: raises 80 to 160
+gettla 233: folds 
+hleb301: folds 
+MSD2006: folds 
+Mahu2021: folds 
+boogiecousins: folds 
+julietikp: folds 
+J0R1K97: calls 80
+*** FLOP *** [4h Qc Jh]
+J0R1K97: checks 
+alin_padurar: bets 228
+J0R1K97: calls 228
+*** TURN *** [4h Qc Jh] [Qd]
+J0R1K97: checks 
+alin_padurar: checks 
+*** RIVER *** [4h Qc Jh Qd] [9s]
+J0R1K97: bets 730
+alin_padurar: raises 730 to 1460
+J0R1K97: raises 2191 to 3651 and is all-in
+alin_padurar: calls 2191
+*** SHOW DOWN ***
+J0R1K97: shows [4s Qh] (a full house, Queens full of Fours)
+alin_padurar: shows [Th Kd] (a straight, Nine to King)
+J0R1K97 collected 8214 from pot
+*** SUMMARY ***
+Total pot 8214 | Rake 0 
+Board [4h Qc Jh Qd 9s]
+Seat 1: alin_padurar showed [Th Kd] and lost with a straight, Nine to King
+Seat 2: gettla 233 folded before Flop (didn't bet)
+Seat 3: hleb301 folded before Flop (didn't bet)
+Seat 4: MSD2006 folded before Flop (didn't bet)
+Seat 5: Mahu2021 folded before Flop (didn't bet)
+Seat 6: boogiecousins (button) folded before Flop (didn't bet)
+Seat 7: julietikp (small blind) folded before Flop
+Seat 8: J0R1K97 (big blind) showed [4s Qh] and won (8214) with a full house, Queens full of Fours
+
+
+
+PokerStars Hand #253416651753: Tournament #3823136828, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level IV (40/80) - 2024/11/15 20:04:52 CET [2024/11/15 14:04:52 ET]
+Table '3823136828 82' 8-max Seat #7 is the button
+Seat 1: alin_padurar (5364 in chips, $2 bounty) 
+Seat 2: gettla 233 (5984 in chips, $2 bounty) 
+Seat 3: hleb301 (7520 in chips, $2 bounty) 
+Seat 4: MSD2006 (6199 in chips, $2 bounty) 
+Seat 5: Mahu2021 (5692 in chips, $3 bounty) is sitting out
+Seat 6: boogiecousins (2420 in chips, $2 bounty) 
+Seat 7: julietikp (2025 in chips, $2 bounty) 
+Seat 8: J0R1K97 (8214 in chips, $2 bounty) 
+alin_padurar: posts the ante 12
+gettla 233: posts the ante 12
+hleb301: posts the ante 12
+MSD2006: posts the ante 12
+Mahu2021: posts the ante 12
+boogiecousins: posts the ante 12
+julietikp: posts the ante 12
+J0R1K97: posts the ante 12
+J0R1K97: posts small blind 40
+alin_padurar: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c Kd]
+gettla 233: calls 80
+hleb301: folds 
+MSD2006: raises 160 to 240
+Mahu2021: folds 
+boogiecousins: folds 
+julietikp: calls 240
+J0R1K97: folds 
+alin_padurar: folds 
+gettla 233: folds 
+*** FLOP *** [3s Ah 2d]
+MSD2006: checks 
+julietikp: bets 256
+MSD2006: calls 256
+*** TURN *** [3s Ah 2d] [5c]
+MSD2006: bets 560
+julietikp: calls 560
+*** RIVER *** [3s Ah 2d 5c] [5h]
+MSD2006: bets 1204
+julietikp: calls 957 and is all-in
+Uncalled bet (247) returned to MSD2006
+*** SHOW DOWN ***
+MSD2006: shows [5d 4d] (a straight, Ace to Five)
+julietikp: shows [Tc Ac] (two pair, Aces and Fives)
+MSD2006 collected 4322 from pot
+MSD2006 wins $1 for eliminating julietikp and their own bounty increases by $1 to $3
+julietikp finished the tournament
+*** SUMMARY ***
+Total pot 4322 | Rake 0 
+Board [3s Ah 2d 5c 5h]
+Seat 1: alin_padurar (big blind) folded before Flop
+Seat 2: gettla 233 folded before Flop
+Seat 3: hleb301 folded before Flop (didn't bet)
+Seat 4: MSD2006 showed [5d 4d] and won (4322) with a straight, Ace to Five
+Seat 5: Mahu2021 folded before Flop (didn't bet)
+Seat 6: boogiecousins folded before Flop (didn't bet)
+Seat 7: julietikp (button) showed [Tc Ac] and lost with two pair, Aces and Fives
+Seat 8: J0R1K97 (small blind) folded before Flop
+
+
+
+PokerStars Hand #253416674923: Tournament #3823136828, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level IV (40/80) - 2024/11/15 20:06:18 CET [2024/11/15 14:06:18 ET]
+Table '3823136828 82' 8-max Seat #8 is the button
+Seat 1: alin_padurar (5272 in chips, $2 bounty) 
+Seat 2: gettla 233 (5892 in chips, $2 bounty) 
+Seat 3: hleb301 (7508 in chips, $2 bounty) 
+Seat 4: MSD2006 (8496 in chips, $3 bounty) 
+Seat 5: Mahu2021 (5680 in chips, $3 bounty) is sitting out
+Seat 6: boogiecousins (2408 in chips, $2 bounty) 
+Seat 8: J0R1K97 (8162 in chips, $2 bounty) 
+alin_padurar: posts the ante 12
+gettla 233: posts the ante 12
+hleb301: posts the ante 12
+MSD2006: posts the ante 12
+Mahu2021: posts the ante 12
+boogiecousins: posts the ante 12
+J0R1K97: posts the ante 12
+alin_padurar: posts small blind 40
+gettla 233: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh 9h]
+hleb301: folds 
+MSD2006: folds 
+Mahu2021: folds 
+boogiecousins: folds 
+kvanta is disconnected 
+J0R1K97: raises 96 to 176
+alin_padurar: raises 96 to 272
+gettla 233: folds 
+J0R1K97: calls 96
+*** FLOP *** [3d Ts 5s]
+alin_padurar: checks 
+J0R1K97: bets 354
+alin_padurar: calls 354
+*** TURN *** [3d Ts 5s] [2h]
+alin_padurar: checks 
+J0R1K97: bets 1133
+alin_padurar: calls 1133
+*** RIVER *** [3d Ts 5s 2h] [6h]
+alin_padurar: checks 
+J0R1K97: bets 3680
+alin_padurar: folds 
+Uncalled bet (3680) returned to J0R1K97
+J0R1K97 collected 3682 from pot
+J0R1K97: doesn't show hand 
+*** SUMMARY ***
+Total pot 3682 | Rake 0 
+Board [3d Ts 5s 2h 6h]
+Seat 1: alin_padurar (small blind) folded on the River
+Seat 2: gettla 233 (big blind) folded before Flop
+Seat 3: hleb301 folded before Flop (didn't bet)
+Seat 4: MSD2006 folded before Flop (didn't bet)
+Seat 5: Mahu2021 folded before Flop (didn't bet)
+Seat 6: boogiecousins folded before Flop (didn't bet)
+Seat 8: J0R1K97 (button) collected (3682)
+
+
+
+PokerStars Hand #253416689087: Tournament #3823136828, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level IV (40/80) - 2024/11/15 20:07:11 CET [2024/11/15 14:07:11 ET]
+Table '3823136828 82' 8-max Seat #1 is the button
+Seat 1: alin_padurar (3501 in chips, $2 bounty) 
+Seat 2: gettla 233 (5800 in chips, $2 bounty) 
+Seat 3: hleb301 (7496 in chips, $2 bounty) 
+Seat 4: MSD2006 (8484 in chips, $3 bounty) 
+Seat 5: Mahu2021 (5668 in chips, $3 bounty) is sitting out
+Seat 6: boogiecousins (2396 in chips, $2 bounty) 
+Seat 7: kvanta (5000 in chips, $2 bounty) 
+Seat 8: J0R1K97 (10073 in chips, $2 bounty) 
+alin_padurar: posts the ante 12
+gettla 233: posts the ante 12
+hleb301: posts the ante 12
+MSD2006: posts the ante 12
+Mahu2021: posts the ante 12
+boogiecousins: posts the ante 12
+kvanta: posts the ante 12
+J0R1K97: posts the ante 12
+gettla 233: posts small blind 40
+hleb301: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qs 8c]
+MSD2006: folds 
+Mahu2021: folds 
+boogiecousins: folds 
+kvanta: raises 160 to 240
+J0R1K97: folds 
+alin_padurar: folds 
+gettla 233: folds 
+hleb301: folds 
+Uncalled bet (160) returned to kvanta
+kvanta collected 296 from pot
+kvanta: doesn't show hand 
+*** SUMMARY ***
+Total pot 296 | Rake 0 
+Seat 1: alin_padurar (button) folded before Flop (didn't bet)
+Seat 2: gettla 233 (small blind) folded before Flop
+Seat 3: hleb301 (big blind) folded before Flop
+Seat 4: MSD2006 folded before Flop (didn't bet)
+Seat 5: Mahu2021 folded before Flop (didn't bet)
+Seat 6: boogiecousins folded before Flop (didn't bet)
+Seat 7: kvanta collected (296)
+Seat 8: J0R1K97 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253416696469: Tournament #3823136828, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level IV (40/80) - 2024/11/15 20:07:38 CET [2024/11/15 14:07:38 ET]
+Table '3823136828 82' 8-max Seat #2 is the button
+Seat 1: alin_padurar (3489 in chips, $2 bounty) 
+Seat 2: gettla 233 (5748 in chips, $2 bounty) 
+Seat 3: hleb301 (7404 in chips, $2 bounty) 
+Seat 4: MSD2006 (8472 in chips, $3 bounty) 
+Seat 5: Mahu2021 (5656 in chips, $3 bounty) is sitting out
+Seat 6: boogiecousins (2384 in chips, $2 bounty) 
+Seat 7: kvanta (5204 in chips, $2 bounty) 
+Seat 8: J0R1K97 (10061 in chips, $2 bounty) 
+alin_padurar: posts the ante 12
+gettla 233: posts the ante 12
+hleb301: posts the ante 12
+MSD2006: posts the ante 12
+Mahu2021: posts the ante 12
+boogiecousins: posts the ante 12
+kvanta: posts the ante 12
+J0R1K97: posts the ante 12
+hleb301: posts small blind 40
+MSD2006: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d 7h]
+Mahu2021: folds 
+boogiecousins: folds 
+kvanta: folds 
+J0R1K97: folds 
+alin_padurar: raises 160 to 240
+gettla 233: folds 
+hleb301: folds 
+MSD2006: calls 160
+*** FLOP *** [Qd 5h Ad]
+MSD2006: checks 
+alin_padurar: bets 308
+MSD2006: calls 308
+*** TURN *** [Qd 5h Ad] [Ah]
+MSD2006: checks 
+alin_padurar: bets 616
+MSD2006: folds 
+Uncalled bet (616) returned to alin_padurar
+alin_padurar collected 1232 from pot
+alin_padurar: doesn't show hand 
+*** SUMMARY ***
+Total pot 1232 | Rake 0 
+Board [Qd 5h Ad Ah]
+Seat 1: alin_padurar collected (1232)
+Seat 2: gettla 233 (button) folded before Flop (didn't bet)
+Seat 3: hleb301 (small blind) folded before Flop
+Seat 4: MSD2006 (big blind) folded on the Turn
+Seat 5: Mahu2021 folded before Flop (didn't bet)
+Seat 6: boogiecousins folded before Flop (didn't bet)
+Seat 7: kvanta folded before Flop (didn't bet)
+Seat 8: J0R1K97 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253416704425: Tournament #3823136828, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level IV (40/80) - 2024/11/15 20:08:08 CET [2024/11/15 14:08:08 ET]
+Table '3823136828 82' 8-max Seat #3 is the button
+Seat 1: alin_padurar (4161 in chips, $2 bounty) 
+Seat 2: gettla 233 (5736 in chips, $2 bounty) 
+Seat 3: hleb301 (7352 in chips, $2 bounty) 
+Seat 4: MSD2006 (7912 in chips, $3 bounty) 
+Seat 5: Mahu2021 (5644 in chips, $3 bounty) is sitting out
+Seat 6: boogiecousins (2372 in chips, $2 bounty) 
+Seat 7: kvanta (5192 in chips, $2 bounty) 
+Seat 8: J0R1K97 (10049 in chips, $2 bounty) 
+alin_padurar: posts the ante 12
+gettla 233: posts the ante 12
+hleb301: posts the ante 12
+MSD2006: posts the ante 12
+Mahu2021: posts the ante 12
+boogiecousins: posts the ante 12
+kvanta: posts the ante 12
+J0R1K97: posts the ante 12
+MSD2006: posts small blind 40
+Mahu2021: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c 5d]
+boogiecousins: raises 88 to 168
+kvanta: folds 
+J0R1K97: calls 168
+alin_padurar: calls 168
+gettla 233: calls 168
+hleb301: folds 
+MSD2006: folds 
+Mahu2021: folds 
+*** FLOP *** [5c Qd Ts]
+boogiecousins: bets 400
+J0R1K97: folds 
+alin_padurar: folds 
+gettla 233: folds 
+Uncalled bet (400) returned to boogiecousins
+boogiecousins collected 888 from pot
+boogiecousins: doesn't show hand 
+*** SUMMARY ***
+Total pot 888 | Rake 0 
+Board [5c Qd Ts]
+Seat 1: alin_padurar folded on the Flop
+Seat 2: gettla 233 folded on the Flop
+Seat 3: hleb301 (button) folded before Flop (didn't bet)
+Seat 4: MSD2006 (small blind) folded before Flop
+Seat 5: Mahu2021 (big blind) folded before Flop
+Seat 6: boogiecousins collected (888)
+Seat 7: kvanta folded before Flop (didn't bet)
+Seat 8: J0R1K97 folded on the Flop
+
+
+
+PokerStars Hand #253416712536: Tournament #3823136828, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level IV (40/80) - 2024/11/15 20:08:38 CET [2024/11/15 14:08:38 ET]
+Table '3823136828 82' 8-max Seat #4 is the button
+Seat 1: alin_padurar (3981 in chips, $2 bounty) 
+Seat 2: gettla 233 (5556 in chips, $2 bounty) 
+Seat 3: hleb301 (7340 in chips, $2 bounty) 
+Seat 4: MSD2006 (7860 in chips, $3 bounty) 
+Seat 5: Mahu2021 (5552 in chips, $3 bounty) is sitting out
+Seat 6: boogiecousins (3080 in chips, $2 bounty) 
+Seat 7: kvanta (5180 in chips, $2 bounty) 
+Seat 8: J0R1K97 (9869 in chips, $2 bounty) 
+alin_padurar: posts the ante 12
+gettla 233: posts the ante 12
+hleb301: posts the ante 12
+MSD2006: posts the ante 12
+Mahu2021: posts the ante 12
+boogiecousins: posts the ante 12
+kvanta: posts the ante 12
+J0R1K97: posts the ante 12
+Mahu2021: posts small blind 40
+boogiecousins: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h Ah]
+kvanta: folds 
+J0R1K97: folds 
+alin_padurar: raises 80 to 160
+gettla 233: folds 
+hleb301: calls 160
+MSD2006: folds 
+Mahu2021: folds 
+boogiecousins: calls 80
+*** FLOP *** [Js 3c 4c]
+boogiecousins: checks 
+alin_padurar: bets 308
+hleb301: calls 308
+boogiecousins: calls 308
+*** TURN *** [Js 3c 4c] [Qd]
+boogiecousins: checks 
+alin_padurar: checks 
+hleb301: bets 1078
+boogiecousins: folds 
+alin_padurar: folds 
+Uncalled bet (1078) returned to hleb301
+hleb301 collected 1540 from pot
+hleb301: doesn't show hand 
+*** SUMMARY ***
+Total pot 1540 | Rake 0 
+Board [Js 3c 4c Qd]
+Seat 1: alin_padurar folded on the Turn
+Seat 2: gettla 233 folded before Flop (didn't bet)
+Seat 3: hleb301 collected (1540)
+Seat 4: MSD2006 (button) folded before Flop (didn't bet)
+Seat 5: Mahu2021 (small blind) folded before Flop
+Seat 6: boogiecousins (big blind) folded on the Turn
+Seat 7: kvanta folded before Flop (didn't bet)
+Seat 8: J0R1K97 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253416722189: Tournament #3823136828, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level IV (40/80) - 2024/11/15 20:09:14 CET [2024/11/15 14:09:14 ET]
+Table '3823136828 82' 8-max Seat #5 is the button
+Seat 1: alin_padurar (3501 in chips, $2 bounty) 
+Seat 2: gettla 233 (5544 in chips, $2 bounty) 
+Seat 3: hleb301 (8400 in chips, $2 bounty) 
+Seat 4: MSD2006 (7848 in chips, $3 bounty) 
+Seat 5: Mahu2021 (5500 in chips, $3 bounty) is sitting out
+Seat 6: boogiecousins (2600 in chips, $2 bounty) 
+Seat 7: kvanta (5168 in chips, $2 bounty) 
+Seat 8: J0R1K97 (9857 in chips, $2 bounty) 
+alin_padurar: posts the ante 12
+gettla 233: posts the ante 12
+hleb301: posts the ante 12
+MSD2006: posts the ante 12
+Mahu2021: posts the ante 12
+boogiecousins: posts the ante 12
+kvanta: posts the ante 12
+J0R1K97: posts the ante 12
+boogiecousins: posts small blind 40
+kvanta: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8d 4d]
+J0R1K97: folds 
+alin_padurar: raises 160 to 240
+gettla 233: folds 
+hleb301: calls 240
+MSD2006: folds 
+Mahu2021: folds 
+boogiecousins: folds 
+kvanta: calls 160
+*** FLOP *** [9h Jd Jc]
+kvanta: checks 
+alin_padurar: checks 
+hleb301: checks 
+*** TURN *** [9h Jd Jc] [Jh]
+kvanta: checks 
+alin_padurar: bets 856
+hleb301: folds 
+kvanta: folds 
+Uncalled bet (856) returned to alin_padurar
+alin_padurar collected 856 from pot
+alin_padurar: doesn't show hand 
+*** SUMMARY ***
+Total pot 856 | Rake 0 
+Board [9h Jd Jc Jh]
+Seat 1: alin_padurar collected (856)
+Seat 2: gettla 233 folded before Flop (didn't bet)
+Seat 3: hleb301 folded on the Turn
+Seat 4: MSD2006 folded before Flop (didn't bet)
+Seat 5: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 6: boogiecousins (small blind) folded before Flop
+Seat 7: kvanta (big blind) folded on the Turn
+Seat 8: J0R1K97 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253416731792: Tournament #3823136828, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level V (45/90) - 2024/11/15 20:09:49 CET [2024/11/15 14:09:49 ET]
+Table '3823136828 82' 8-max Seat #6 is the button
+Seat 1: alin_padurar (4105 in chips, $2 bounty) 
+Seat 2: gettla 233 (5532 in chips, $2 bounty) 
+Seat 3: hleb301 (8148 in chips, $2 bounty) 
+Seat 4: MSD2006 (7836 in chips, $3 bounty) 
+Seat 5: Mahu2021 (5488 in chips, $3 bounty) is sitting out
+Seat 6: boogiecousins (2548 in chips, $2 bounty) 
+Seat 7: kvanta (4916 in chips, $2 bounty) 
+Seat 8: J0R1K97 (9845 in chips, $2 bounty) 
+alin_padurar: posts the ante 14
+gettla 233: posts the ante 14
+hleb301: posts the ante 14
+MSD2006: posts the ante 14
+Mahu2021: posts the ante 14
+boogiecousins: posts the ante 14
+kvanta: posts the ante 14
+J0R1K97: posts the ante 14
+kvanta: posts small blind 45
+J0R1K97: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd Kd]
+alin_padurar: raises 180 to 270
+gettla 233: folds 
+hleb301: folds 
+MSD2006: folds 
+Mahu2021: folds 
+boogiecousins: raises 2264 to 2534 and is all-in
+kvanta: folds 
+J0R1K97: folds 
+alin_padurar: calls 2264
+*** FLOP *** [4d As 5d]
+*** TURN *** [4d As 5d] [3c]
+*** RIVER *** [4d As 5d 3c] [Kc]
+*** SHOW DOWN ***
+alin_padurar: shows [4s 4h] (three of a kind, Fours)
+boogiecousins: shows [9h 9s] (a pair of Nines)
+alin_padurar collected 5315 from pot
+alin_padurar wins $1 for eliminating boogiecousins and their own bounty increases by $1 to $3
+boogiecousins finished the tournament
+*** SUMMARY ***
+Total pot 5315 | Rake 0 
+Board [4d As 5d 3c Kc]
+Seat 1: alin_padurar showed [4s 4h] and won (5315) with three of a kind, Fours
+Seat 2: gettla 233 folded before Flop (didn't bet)
+Seat 3: hleb301 folded before Flop (didn't bet)
+Seat 4: MSD2006 folded before Flop (didn't bet)
+Seat 5: Mahu2021 folded before Flop (didn't bet)
+Seat 6: boogiecousins (button) showed [9h 9s] and lost with a pair of Nines
+Seat 7: kvanta (small blind) folded before Flop
+Seat 8: J0R1K97 (big blind) folded before Flop
+
+
+
+PokerStars Hand #253416738091: Tournament #3823136828, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level V (45/90) - 2024/11/15 20:10:12 CET [2024/11/15 14:10:12 ET]
+Table '3823136828 82' 8-max Seat #7 is the button
+Seat 1: alin_padurar (6872 in chips, $3 bounty) 
+Seat 2: gettla 233 (5518 in chips, $2 bounty) 
+Seat 3: hleb301 (8134 in chips, $2 bounty) 
+Seat 4: MSD2006 (7822 in chips, $3 bounty) 
+Seat 5: Mahu2021 (5474 in chips, $3 bounty) is sitting out
+Seat 7: kvanta (4857 in chips, $2 bounty) 
+Seat 8: J0R1K97 (9741 in chips, $2 bounty) 
+alin_padurar: posts the ante 14
+gettla 233: posts the ante 14
+hleb301: posts the ante 14
+MSD2006: posts the ante 14
+Mahu2021: posts the ante 14
+kvanta: posts the ante 14
+J0R1K97: posts the ante 14
+J0R1K97: posts small blind 45
+alin_padurar: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Td Jc]
+gettla 233: calls 90
+hleb301: folds 
+MSD2006: folds 
+Mahu2021: folds 
+kvanta: folds 
+J0R1K97: folds 
+areshatar97 is disconnected 
+alin_padurar: checks 
+*** FLOP *** [Kc Ad 9d]
+alin_padurar: checks 
+gettla 233: bets 180
+alin_padurar: calls 180
+*** TURN *** [Kc Ad 9d] [8c]
+alin_padurar: checks 
+gettla 233: bets 180
+alin_padurar: calls 180
+*** RIVER *** [Kc Ad 9d 8c] [5h]
+alin_padurar: checks 
+gettla 233: bets 270
+alin_padurar: calls 270
+*** SHOW DOWN ***
+gettla 233: shows [Js Ks] (a pair of Kings)
+alin_padurar: shows [Ac 3h] (a pair of Aces)
+alin_padurar collected 1583 from pot
+*** SUMMARY ***
+Total pot 1583 | Rake 0 
+Board [Kc Ad 9d 8c 5h]
+Seat 1: alin_padurar (big blind) showed [Ac 3h] and won (1583) with a pair of Aces
+Seat 2: gettla 233 showed [Js Ks] and lost with a pair of Kings
+Seat 3: hleb301 folded before Flop (didn't bet)
+Seat 4: MSD2006 folded before Flop (didn't bet)
+Seat 5: Mahu2021 folded before Flop (didn't bet)
+Seat 7: kvanta (button) folded before Flop (didn't bet)
+Seat 8: J0R1K97 (small blind) folded before Flop
+
+
+
+PokerStars Hand #253416753183: Tournament #3823136828, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level V (45/90) - 2024/11/15 20:11:07 CET [2024/11/15 14:11:07 ET]
+Table '3823136828 82' 8-max Seat #8 is the button
+Seat 1: alin_padurar (7721 in chips, $3 bounty) 
+Seat 2: gettla 233 (4784 in chips, $2 bounty) 
+Seat 3: hleb301 (8120 in chips, $2 bounty) 
+Seat 4: MSD2006 (7808 in chips, $3 bounty) 
+Seat 5: Mahu2021 (5460 in chips, $3 bounty) is sitting out
+Seat 6: areshatar97 (5000 in chips, $2 bounty) 
+Seat 7: kvanta (4843 in chips, $2 bounty) 
+Seat 8: J0R1K97 (9682 in chips, $2 bounty) 
+alin_padurar: posts the ante 14
+gettla 233: posts the ante 14
+hleb301: posts the ante 14
+MSD2006: posts the ante 14
+Mahu2021: posts the ante 14
+areshatar97: posts the ante 14
+kvanta: posts the ante 14
+J0R1K97: posts the ante 14
+alin_padurar: posts small blind 45
+gettla 233: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h 9d]
+hleb301: folds 
+MSD2006: folds 
+Mahu2021: folds 
+areshatar97: folds 
+kvanta: folds 
+J0R1K97: raises 90 to 180
+alin_padurar: calls 135
+gettla 233: folds 
+*** FLOP *** [Ac Ah Kd]
+alin_padurar: checks 
+J0R1K97: bets 197
+alin_padurar: folds 
+Uncalled bet (197) returned to J0R1K97
+J0R1K97 collected 562 from pot
+J0R1K97: doesn't show hand 
+*** SUMMARY ***
+Total pot 562 | Rake 0 
+Board [Ac Ah Kd]
+Seat 1: alin_padurar (small blind) folded on the Flop
+Seat 2: gettla 233 (big blind) folded before Flop
+Seat 3: hleb301 folded before Flop (didn't bet)
+Seat 4: MSD2006 folded before Flop (didn't bet)
+Seat 5: Mahu2021 folded before Flop (didn't bet)
+Seat 6: areshatar97 folded before Flop (didn't bet)
+Seat 7: kvanta folded before Flop (didn't bet)
+Seat 8: J0R1K97 (button) collected (562)
+
+
+
+PokerStars Hand #253416760379: Tournament #3823136828, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level V (45/90) - 2024/11/15 20:11:33 CET [2024/11/15 14:11:33 ET]
+Table '3823136828 82' 8-max Seat #1 is the button
+Seat 1: alin_padurar (7527 in chips, $3 bounty) 
+Seat 2: gettla 233 (4680 in chips, $2 bounty) 
+Seat 3: hleb301 (8106 in chips, $2 bounty) 
+Seat 4: MSD2006 (7794 in chips, $3 bounty) 
+Seat 5: Mahu2021 (5446 in chips, $3 bounty) is sitting out
+Seat 6: areshatar97 (4986 in chips, $2 bounty) 
+Seat 7: kvanta (4829 in chips, $2 bounty) 
+Seat 8: J0R1K97 (10050 in chips, $2 bounty) 
+alin_padurar: posts the ante 14
+gettla 233: posts the ante 14
+hleb301: posts the ante 14
+MSD2006: posts the ante 14
+Mahu2021: posts the ante 14
+areshatar97: posts the ante 14
+kvanta: posts the ante 14
+J0R1K97: posts the ante 14
+gettla 233: posts small blind 45
+hleb301: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad 9s]
+MSD2006: folds 
+Mahu2021: folds 
+areshatar97: raises 90 to 180
+kvanta: folds 
+J0R1K97: folds 
+alin_padurar: folds 
+gettla 233: folds 
+hleb301: folds 
+Uncalled bet (90) returned to areshatar97
+areshatar97 collected 337 from pot
+areshatar97: doesn't show hand 
+*** SUMMARY ***
+Total pot 337 | Rake 0 
+Seat 1: alin_padurar (button) folded before Flop (didn't bet)
+Seat 2: gettla 233 (small blind) folded before Flop
+Seat 3: hleb301 (big blind) folded before Flop
+Seat 4: MSD2006 folded before Flop (didn't bet)
+Seat 5: Mahu2021 folded before Flop (didn't bet)
+Seat 6: areshatar97 collected (337)
+Seat 7: kvanta folded before Flop (didn't bet)
+Seat 8: J0R1K97 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253416766466: Tournament #3823136828, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level V (45/90) - 2024/11/15 20:11:56 CET [2024/11/15 14:11:56 ET]
+Table '3823136828 82' 8-max Seat #2 is the button
+Seat 1: alin_padurar (7513 in chips, $3 bounty) 
+Seat 2: gettla 233 (4621 in chips, $2 bounty) 
+Seat 3: hleb301 (8002 in chips, $2 bounty) 
+Seat 4: MSD2006 (7780 in chips, $3 bounty) 
+Seat 5: Mahu2021 (5432 in chips, $3 bounty) is sitting out
+Seat 6: areshatar97 (5219 in chips, $2 bounty) 
+Seat 7: kvanta (4815 in chips, $2 bounty) 
+Seat 8: J0R1K97 (10036 in chips, $2 bounty) 
+alin_padurar: posts the ante 14
+gettla 233: posts the ante 14
+hleb301: posts the ante 14
+MSD2006: posts the ante 14
+Mahu2021: posts the ante 14
+areshatar97: posts the ante 14
+kvanta: posts the ante 14
+J0R1K97: posts the ante 14
+hleb301: posts small blind 45
+MSD2006: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d Ts]
+Mahu2021: folds 
+areshatar97: raises 90 to 180
+kvanta: folds 
+J0R1K97: folds 
+alin_padurar: folds 
+gettla 233: folds 
+hleb301: folds 
+MSD2006: calls 90
+*** FLOP *** [Jd Jc Qd]
+MSD2006: checks 
+areshatar97: bets 129
+MSD2006: folds 
+Uncalled bet (129) returned to areshatar97
+areshatar97 collected 517 from pot
+areshatar97: doesn't show hand 
+*** SUMMARY ***
+Total pot 517 | Rake 0 
+Board [Jd Jc Qd]
+Seat 1: alin_padurar folded before Flop (didn't bet)
+Seat 2: gettla 233 (button) folded before Flop (didn't bet)
+Seat 3: hleb301 (small blind) folded before Flop
+Seat 4: MSD2006 (big blind) folded on the Flop
+Seat 5: Mahu2021 folded before Flop (didn't bet)
+Seat 6: areshatar97 collected (517)
+Seat 7: kvanta folded before Flop (didn't bet)
+Seat 8: J0R1K97 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253416780231: Tournament #3823136828, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level V (45/90) - 2024/11/15 20:12:46 CET [2024/11/15 14:12:46 ET]
+Table '3823136828 82' 8-max Seat #3 is the button
+Seat 1: alin_padurar (7499 in chips, $3 bounty) 
+Seat 2: gettla 233 (4607 in chips, $2 bounty) 
+Seat 3: hleb301 (7943 in chips, $2 bounty) 
+Seat 4: MSD2006 (7586 in chips, $3 bounty) 
+Seat 5: Mahu2021 (5418 in chips, $3 bounty) is sitting out
+Seat 6: areshatar97 (5542 in chips, $2 bounty) 
+Seat 7: kvanta (4801 in chips, $2 bounty) 
+Seat 8: J0R1K97 (10022 in chips, $2 bounty) 
+alin_padurar: posts the ante 14
+gettla 233: posts the ante 14
+hleb301: posts the ante 14
+MSD2006: posts the ante 14
+Mahu2021: posts the ante 14
+areshatar97: posts the ante 14
+kvanta: posts the ante 14
+J0R1K97: posts the ante 14
+MSD2006: posts small blind 45
+Mahu2021: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks 2s]
+areshatar97: folds 
+kvanta: raises 90 to 180
+J0R1K97: folds 
+alin_padurar: calls 180
+gettla 233: folds 
+hleb301: folds 
+MSD2006: folds 
+Mahu2021: folds 
+*** FLOP *** [9c Td Qd]
+kvanta: bets 180
+alin_padurar: calls 180
+*** TURN *** [9c Td Qd] [9d]
+kvanta: bets 270
+alin_padurar: raises 6855 to 7125 and is all-in
+kvanta: folds 
+Uncalled bet (6855) returned to alin_padurar
+alin_padurar collected 1507 from pot
+alin_padurar: doesn't show hand 
+*** SUMMARY ***
+Total pot 1507 | Rake 0 
+Board [9c Td Qd 9d]
+Seat 1: alin_padurar collected (1507)
+Seat 2: gettla 233 folded before Flop (didn't bet)
+Seat 3: hleb301 (button) folded before Flop (didn't bet)
+Seat 4: MSD2006 (small blind) folded before Flop
+Seat 5: Mahu2021 (big blind) folded before Flop
+Seat 6: areshatar97 folded before Flop (didn't bet)
+Seat 7: kvanta folded on the Turn
+Seat 8: J0R1K97 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253416796572: Tournament #3823136828, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level V (45/90) - 2024/11/15 20:13:45 CET [2024/11/15 14:13:45 ET]
+Table '3823136828 82' 8-max Seat #4 is the button
+Seat 1: alin_padurar (8362 in chips, $3 bounty) 
+Seat 2: gettla 233 (4593 in chips, $2 bounty) 
+Seat 3: hleb301 (7929 in chips, $2 bounty) 
+Seat 4: MSD2006 (7527 in chips, $3 bounty) 
+Seat 5: Mahu2021 (5314 in chips, $3 bounty) is sitting out
+Seat 6: areshatar97 (5528 in chips, $2 bounty) 
+Seat 7: kvanta (4157 in chips, $2 bounty) 
+Seat 8: J0R1K97 (10008 in chips, $2 bounty) 
+alin_padurar: posts the ante 14
+gettla 233: posts the ante 14
+hleb301: posts the ante 14
+MSD2006: posts the ante 14
+Mahu2021: posts the ante 14
+areshatar97: posts the ante 14
+kvanta: posts the ante 14
+J0R1K97: posts the ante 14
+Mahu2021: posts small blind 45
+areshatar97: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2s 5d]
+kvanta: folds 
+J0R1K97: folds 
+alin_padurar: raises 90 to 180
+gettla 233: folds 
+hleb301: calls 180
+MSD2006: folds 
+Mahu2021: folds 
+areshatar97: folds 
+*** FLOP *** [Jh 5s 2h]
+alin_padurar: bets 304
+hleb301: calls 304
+*** TURN *** [Jh 5s 2h] [7d]
+alin_padurar: bets 698
+hleb301: folds 
+Uncalled bet (698) returned to alin_padurar
+alin_padurar collected 1215 from pot
+alin_padurar: doesn't show hand 
+*** SUMMARY ***
+Total pot 1215 | Rake 0 
+Board [Jh 5s 2h 7d]
+Seat 1: alin_padurar collected (1215)
+Seat 2: gettla 233 folded before Flop (didn't bet)
+Seat 3: hleb301 folded on the Turn
+Seat 4: MSD2006 (button) folded before Flop (didn't bet)
+Seat 5: Mahu2021 (small blind) folded before Flop
+Seat 6: areshatar97 (big blind) folded before Flop
+Seat 7: kvanta folded before Flop (didn't bet)
+Seat 8: J0R1K97 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253416810249: Tournament #3823136828, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level V (45/90) - 2024/11/15 20:14:35 CET [2024/11/15 14:14:35 ET]
+Table '3823136828 82' 8-max Seat #5 is the button
+Seat 1: alin_padurar (9079 in chips, $3 bounty) 
+Seat 2: gettla 233 (4579 in chips, $2 bounty) 
+Seat 3: hleb301 (7431 in chips, $2 bounty) 
+Seat 4: MSD2006 (7513 in chips, $3 bounty) 
+Seat 5: Mahu2021 (5255 in chips, $3 bounty) is sitting out
+Seat 6: areshatar97 (5424 in chips, $2 bounty) 
+Seat 7: kvanta (4143 in chips, $2 bounty) 
+Seat 8: J0R1K97 (9994 in chips, $2 bounty) 
+alin_padurar: posts the ante 14
+gettla 233: posts the ante 14
+hleb301: posts the ante 14
+MSD2006: posts the ante 14
+Mahu2021: posts the ante 14
+areshatar97: posts the ante 14
+kvanta: posts the ante 14
+J0R1K97: posts the ante 14
+areshatar97: posts small blind 45
+kvanta: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh Td]
+J0R1K97: folds 
+alin_padurar: raises 90 to 180
+gettla 233: folds 
+hleb301: folds 
+MSD2006: folds 
+Mahu2021: folds 
+areshatar97: folds 
+kvanta: folds 
+Uncalled bet (90) returned to alin_padurar
+alin_padurar collected 337 from pot
+alin_padurar: doesn't show hand 
+*** SUMMARY ***
+Total pot 337 | Rake 0 
+Seat 1: alin_padurar collected (337)
+Seat 2: gettla 233 folded before Flop (didn't bet)
+Seat 3: hleb301 folded before Flop (didn't bet)
+Seat 4: MSD2006 folded before Flop (didn't bet)
+Seat 5: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 6: areshatar97 (small blind) folded before Flop
+Seat 7: kvanta (big blind) folded before Flop
+Seat 8: J0R1K97 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253416814649: Tournament #3823136828, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level V (45/90) - 2024/11/15 20:14:51 CET [2024/11/15 14:14:51 ET]
+Table '3823136828 82' 8-max Seat #6 is the button
+Seat 1: alin_padurar (9312 in chips, $3 bounty) 
+Seat 2: gettla 233 (4565 in chips, $2 bounty) 
+Seat 3: hleb301 (7417 in chips, $2 bounty) 
+Seat 4: MSD2006 (7499 in chips, $3 bounty) 
+Seat 5: Mahu2021 (5241 in chips, $3 bounty) is sitting out
+Seat 6: areshatar97 (5365 in chips, $2 bounty) 
+Seat 7: kvanta (4039 in chips, $2 bounty) 
+Seat 8: J0R1K97 (9980 in chips, $2 bounty) 
+alin_padurar: posts the ante 14
+gettla 233: posts the ante 14
+hleb301: posts the ante 14
+MSD2006: posts the ante 14
+Mahu2021: posts the ante 14
+areshatar97: posts the ante 14
+kvanta: posts the ante 14
+J0R1K97: posts the ante 14
+kvanta: posts small blind 45
+J0R1K97: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8s 9c]
+alin_padurar: folds 
+gettla 233: calls 90
+hleb301: folds 
+MSD2006: folds 
+Mahu2021: folds 
+areshatar97: folds 
+kvanta: folds 
+J0R1K97: checks 
+*** FLOP *** [5s 3h Js]
+J0R1K97: checks 
+gettla 233: checks 
+*** TURN *** [5s 3h Js] [Qd]
+J0R1K97: checks 
+gettla 233: bets 180
+J0R1K97: folds 
+Uncalled bet (180) returned to gettla 233
+gettla 233 collected 337 from pot
+gettla 233: doesn't show hand 
+*** SUMMARY ***
+Total pot 337 | Rake 0 
+Board [5s 3h Js Qd]
+Seat 1: alin_padurar folded before Flop (didn't bet)
+Seat 2: gettla 233 collected (337)
+Seat 3: hleb301 folded before Flop (didn't bet)
+Seat 4: MSD2006 folded before Flop (didn't bet)
+Seat 5: Mahu2021 folded before Flop (didn't bet)
+Seat 6: areshatar97 (button) folded before Flop (didn't bet)
+Seat 7: kvanta (small blind) folded before Flop
+Seat 8: J0R1K97 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #253416829186: Tournament #3823136828, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level V (45/90) - 2024/11/15 20:15:44 CET [2024/11/15 14:15:44 ET]
+Table '3823136828 82' 8-max Seat #7 is the button
+Seat 1: alin_padurar (9298 in chips, $3 bounty) 
+Seat 2: gettla 233 (4798 in chips, $2 bounty) 
+Seat 3: hleb301 (7403 in chips, $2 bounty) 
+Seat 4: MSD2006 (7485 in chips, $3 bounty) 
+Seat 5: Mahu2021 (5227 in chips, $3 bounty) is sitting out
+Seat 6: areshatar97 (5351 in chips, $2 bounty) 
+Seat 7: kvanta (3980 in chips, $2 bounty) 
+Seat 8: J0R1K97 (9876 in chips, $2 bounty) 
+alin_padurar: posts the ante 14
+gettla 233: posts the ante 14
+hleb301: posts the ante 14
+MSD2006: posts the ante 14
+Mahu2021: posts the ante 14
+areshatar97: posts the ante 14
+kvanta: posts the ante 14
+J0R1K97: posts the ante 14
+J0R1K97: posts small blind 45
+alin_padurar: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As 5c]
+gettla 233: folds 
+hleb301: folds 
+MSD2006: folds 
+Mahu2021: folds 
+areshatar97: folds 
+kvanta: folds 
+J0R1K97: raises 225 to 315
+alin_padurar: folds 
+Uncalled bet (225) returned to J0R1K97
+J0R1K97 collected 292 from pot
+J0R1K97: doesn't show hand 
+*** SUMMARY ***
+Total pot 292 | Rake 0 
+Seat 1: alin_padurar (big blind) folded before Flop
+Seat 2: gettla 233 folded before Flop (didn't bet)
+Seat 3: hleb301 folded before Flop (didn't bet)
+Seat 4: MSD2006 folded before Flop (didn't bet)
+Seat 5: Mahu2021 folded before Flop (didn't bet)
+Seat 6: areshatar97 folded before Flop (didn't bet)
+Seat 7: kvanta (button) folded before Flop (didn't bet)
+Seat 8: J0R1K97 (small blind) collected (292)
+
+
+
+PokerStars Hand #253416834364: Tournament #3823136828, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level V (45/90) - 2024/11/15 20:16:03 CET [2024/11/15 14:16:03 ET]
+Table '3823136828 82' 8-max Seat #8 is the button
+Seat 1: alin_padurar (9194 in chips, $3 bounty) 
+Seat 2: gettla 233 (4784 in chips, $2 bounty) 
+Seat 3: hleb301 (7389 in chips, $2 bounty) 
+Seat 4: MSD2006 (7471 in chips, $3 bounty) 
+Seat 5: Mahu2021 (5213 in chips, $3 bounty) is sitting out
+Seat 6: areshatar97 (5337 in chips, $2 bounty) 
+Seat 7: kvanta (3966 in chips, $2 bounty) 
+Seat 8: J0R1K97 (10064 in chips, $2 bounty) 
+alin_padurar: posts the ante 14
+gettla 233: posts the ante 14
+hleb301: posts the ante 14
+MSD2006: posts the ante 14
+Mahu2021: posts the ante 14
+areshatar97: posts the ante 14
+kvanta: posts the ante 14
+J0R1K97: posts the ante 14
+alin_padurar: posts small blind 45
+gettla 233: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h Tc]
+hleb301: raises 108 to 198
+MSD2006: folds 
+Mahu2021: folds 
+areshatar97: folds 
+kvanta: folds 
+J0R1K97: folds 
+alin_padurar: folds 
+gettla 233: folds 
+Uncalled bet (108) returned to hleb301
+hleb301 collected 337 from pot
+hleb301: doesn't show hand 
+*** SUMMARY ***
+Total pot 337 | Rake 0 
+Seat 1: alin_padurar (small blind) folded before Flop
+Seat 2: gettla 233 (big blind) folded before Flop
+Seat 3: hleb301 collected (337)
+Seat 4: MSD2006 folded before Flop (didn't bet)
+Seat 5: Mahu2021 folded before Flop (didn't bet)
+Seat 6: areshatar97 folded before Flop (didn't bet)
+Seat 7: kvanta folded before Flop (didn't bet)
+Seat 8: J0R1K97 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253416842059: Tournament #3823136828, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level V (45/90) - 2024/11/15 20:16:31 CET [2024/11/15 14:16:31 ET]
+Table '3823136828 82' 8-max Seat #1 is the button
+Seat 1: alin_padurar (9135 in chips, $3 bounty) 
+Seat 2: gettla 233 (4680 in chips, $2 bounty) 
+Seat 3: hleb301 (7622 in chips, $2 bounty) 
+Seat 4: MSD2006 (7457 in chips, $3 bounty) 
+Seat 5: Mahu2021 (5199 in chips, $3 bounty) is sitting out
+Seat 6: areshatar97 (5323 in chips, $2 bounty) 
+Seat 7: kvanta (3952 in chips, $2 bounty) 
+Seat 8: J0R1K97 (10050 in chips, $2 bounty) 
+alin_padurar: posts the ante 14
+gettla 233: posts the ante 14
+hleb301: posts the ante 14
+MSD2006: posts the ante 14
+Mahu2021: posts the ante 14
+areshatar97: posts the ante 14
+kvanta: posts the ante 14
+J0R1K97: posts the ante 14
+gettla 233: posts small blind 45
+hleb301: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c 8d]
+MSD2006: folds 
+Mahu2021: folds 
+areshatar97: folds 
+kvanta: folds 
+J0R1K97: raises 90 to 180
+alin_padurar: folds 
+gettla 233: folds 
+hleb301: folds 
+Uncalled bet (90) returned to J0R1K97
+J0R1K97 collected 337 from pot
+J0R1K97: doesn't show hand 
+*** SUMMARY ***
+Total pot 337 | Rake 0 
+Seat 1: alin_padurar (button) folded before Flop (didn't bet)
+Seat 2: gettla 233 (small blind) folded before Flop
+Seat 3: hleb301 (big blind) folded before Flop
+Seat 4: MSD2006 folded before Flop (didn't bet)
+Seat 5: Mahu2021 folded before Flop (didn't bet)
+Seat 6: areshatar97 folded before Flop (didn't bet)
+Seat 7: kvanta folded before Flop (didn't bet)
+Seat 8: J0R1K97 collected (337)
+
+
+
+PokerStars Hand #253416848651: Tournament #3823136828, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level V (45/90) - 2024/11/15 20:16:55 CET [2024/11/15 14:16:55 ET]
+Table '3823136828 82' 8-max Seat #2 is the button
+Seat 1: alin_padurar (9121 in chips, $3 bounty) 
+Seat 2: gettla 233 (4621 in chips, $2 bounty) 
+Seat 3: hleb301 (7518 in chips, $2 bounty) 
+Seat 4: MSD2006 (7443 in chips, $3 bounty) 
+Seat 5: Mahu2021 (5185 in chips, $3 bounty) is sitting out
+Seat 6: areshatar97 (5309 in chips, $2 bounty) 
+Seat 7: kvanta (3938 in chips, $2 bounty) 
+Seat 8: J0R1K97 (10283 in chips, $2 bounty) 
+alin_padurar: posts the ante 14
+gettla 233: posts the ante 14
+hleb301: posts the ante 14
+MSD2006: posts the ante 14
+Mahu2021: posts the ante 14
+areshatar97: posts the ante 14
+kvanta: posts the ante 14
+J0R1K97: posts the ante 14
+hleb301: posts small blind 45
+MSD2006: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh Th]
+Mahu2021: folds 
+areshatar97: raises 90 to 180
+kvanta: folds 
+J0R1K97: folds 
+alin_padurar: folds 
+gettla 233: folds 
+hleb301: calls 135
+MSD2006: folds 
+*** FLOP *** [3h 2d Jh]
+hleb301: checks 
+areshatar97: bets 180
+hleb301: folds 
+Uncalled bet (180) returned to areshatar97
+areshatar97 collected 562 from pot
+areshatar97: doesn't show hand 
+*** SUMMARY ***
+Total pot 562 | Rake 0 
+Board [3h 2d Jh]
+Seat 1: alin_padurar folded before Flop (didn't bet)
+Seat 2: gettla 233 (button) folded before Flop (didn't bet)
+Seat 3: hleb301 (small blind) folded on the Flop
+Seat 4: MSD2006 (big blind) folded before Flop
+Seat 5: Mahu2021 folded before Flop (didn't bet)
+Seat 6: areshatar97 collected (562)
+Seat 7: kvanta folded before Flop (didn't bet)
+Seat 8: J0R1K97 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253416858063: Tournament #3823136828, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level VI (50/100) - 2024/11/15 20:17:29 CET [2024/11/15 14:17:29 ET]
+Table '3823136828 82' 8-max Seat #3 is the button
+Seat 1: alin_padurar (9107 in chips, $3 bounty) 
+Seat 2: gettla 233 (4607 in chips, $2 bounty) 
+Seat 3: hleb301 (7324 in chips, $2 bounty) 
+Seat 4: MSD2006 (7339 in chips, $3 bounty) 
+Seat 5: Mahu2021 (5171 in chips, $3 bounty) is sitting out
+Seat 6: areshatar97 (5677 in chips, $2 bounty) 
+Seat 7: kvanta (3924 in chips, $2 bounty) 
+Seat 8: J0R1K97 (10269 in chips, $2 bounty) 
+alin_padurar: posts the ante 15
+gettla 233: posts the ante 15
+hleb301: posts the ante 15
+MSD2006: posts the ante 15
+Mahu2021: posts the ante 15
+areshatar97: posts the ante 15
+kvanta: posts the ante 15
+J0R1K97: posts the ante 15
+MSD2006: posts small blind 50
+Mahu2021: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h Ts]
+areshatar97: folds 
+kvanta: folds 
+J0R1K97: folds 
+alin_padurar: folds 
+gettla 233: raises 4492 to 4592 and is all-in
+hleb301: folds 
+MSD2006: folds 
+Mahu2021: folds 
+Uncalled bet (4492) returned to gettla 233
+gettla 233 collected 370 from pot
+gettla 233: doesn't show hand 
+*** SUMMARY ***
+Total pot 370 | Rake 0 
+Seat 1: alin_padurar folded before Flop (didn't bet)
+Seat 2: gettla 233 collected (370)
+Seat 3: hleb301 (button) folded before Flop (didn't bet)
+Seat 4: MSD2006 (small blind) folded before Flop
+Seat 5: Mahu2021 (big blind) folded before Flop
+Seat 6: areshatar97 folded before Flop (didn't bet)
+Seat 7: kvanta folded before Flop (didn't bet)
+Seat 8: J0R1K97 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253416863577: Tournament #3823136828, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level VI (50/100) - 2024/11/15 20:17:49 CET [2024/11/15 14:17:49 ET]
+Table '3823136828 82' 8-max Seat #4 is the button
+Seat 1: alin_padurar (9092 in chips, $3 bounty) 
+Seat 2: gettla 233 (4862 in chips, $2 bounty) 
+Seat 3: hleb301 (7309 in chips, $2 bounty) 
+Seat 4: MSD2006 (7274 in chips, $3 bounty) 
+Seat 5: Mahu2021 (5056 in chips, $3 bounty) is sitting out
+Seat 6: areshatar97 (5662 in chips, $2 bounty) 
+Seat 7: kvanta (3909 in chips, $2 bounty) 
+Seat 8: J0R1K97 (10254 in chips, $2 bounty) 
+alin_padurar: posts the ante 15
+gettla 233: posts the ante 15
+hleb301: posts the ante 15
+MSD2006: posts the ante 15
+Mahu2021: posts the ante 15
+areshatar97: posts the ante 15
+kvanta: posts the ante 15
+J0R1K97: posts the ante 15
+Mahu2021: posts small blind 50
+areshatar97: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s Qd]
+kvanta: raises 100 to 200
+J0R1K97: folds 
+alin_padurar: calls 200
+gettla 233: calls 200
+hleb301: folds 
+MSD2006: folds 
+Mahu2021: folds 
+areshatar97: calls 100
+*** FLOP *** [2d Qs Kc]
+areshatar97: checks 
+kvanta: checks 
+alin_padurar: checks 
+gettla 233: checks 
+*** TURN *** [2d Qs Kc] [8c]
+areshatar97: checks 
+kvanta: checks 
+alin_padurar: checks 
+Mahu2021 has returned
+gettla 233: bets 100
+areshatar97: calls 100
+kvanta: calls 100
+alin_padurar: calls 100
+*** RIVER *** [2d Qs Kc 8c] [3s]
+areshatar97: checks 
+kvanta: checks 
+alin_padurar: checks 
+gettla 233: bets 500
+areshatar97: folds 
+kvanta: folds 
+alin_padurar: folds 
+Uncalled bet (500) returned to gettla 233
+gettla 233 collected 1370 from pot
+gettla 233: doesn't show hand 
+*** SUMMARY ***
+Total pot 1370 | Rake 0 
+Board [2d Qs Kc 8c 3s]
+Seat 1: alin_padurar folded on the River
+Seat 2: gettla 233 collected (1370)
+Seat 3: hleb301 folded before Flop (didn't bet)
+Seat 4: MSD2006 (button) folded before Flop (didn't bet)
+Seat 5: Mahu2021 (small blind) folded before Flop
+Seat 6: areshatar97 (big blind) folded on the River
+Seat 7: kvanta folded on the River
+Seat 8: J0R1K97 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253416894215: Tournament #3823136828, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level VI (50/100) - 2024/11/15 20:19:40 CET [2024/11/15 14:19:40 ET]
+Table '3823136828 82' 8-max Seat #5 is the button
+Seat 1: alin_padurar (8777 in chips, $3 bounty) 
+Seat 2: gettla 233 (5917 in chips, $2 bounty) 
+Seat 3: hleb301 (7294 in chips, $2 bounty) 
+Seat 4: MSD2006 (7259 in chips, $3 bounty) 
+Seat 5: Mahu2021 (4991 in chips, $3 bounty) 
+Seat 6: areshatar97 (5347 in chips, $2 bounty) 
+Seat 7: kvanta (3594 in chips, $2 bounty) 
+Seat 8: J0R1K97 (10239 in chips, $2 bounty) 
+alin_padurar: posts the ante 15
+gettla 233: posts the ante 15
+hleb301: posts the ante 15
+MSD2006: posts the ante 15
+Mahu2021: posts the ante 15
+areshatar97: posts the ante 15
+kvanta: posts the ante 15
+J0R1K97: posts the ante 15
+areshatar97: posts small blind 50
+kvanta: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d Kc]
+J0R1K97: folds 
+alin_padurar: raises 100 to 200
+gettla 233: calls 200
+hleb301: folds 
+MSD2006: raises 1100 to 1300
+Mahu2021: folds 
+areshatar97: folds 
+kvanta: folds 
+alin_padurar: folds 
+gettla 233: raises 4602 to 5902 and is all-in
+MSD2006: calls 4602
+*** FLOP *** [Qd 9d Th]
+*** TURN *** [Qd 9d Th] [8d]
+*** RIVER *** [Qd 9d Th 8d] [4s]
+*** SHOW DOWN ***
+gettla 233: shows [Js Ac] (a straight, Eight to Queen)
+MSD2006: shows [Kh Ah] (high card Ace)
+gettla 233 collected 12274 from pot
+*** SUMMARY ***
+Total pot 12274 | Rake 0 
+Board [Qd 9d Th 8d 4s]
+Seat 1: alin_padurar folded before Flop
+Seat 2: gettla 233 showed [Js Ac] and won (12274) with a straight, Eight to Queen
+Seat 3: hleb301 folded before Flop (didn't bet)
+Seat 4: MSD2006 showed [Kh Ah] and lost with high card Ace
+Seat 5: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 6: areshatar97 (small blind) folded before Flop
+Seat 7: kvanta (big blind) folded before Flop
+Seat 8: J0R1K97 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253416903153: Tournament #3823136828, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level VI (50/100) - 2024/11/15 20:20:13 CET [2024/11/15 14:20:13 ET]
+Table '3823136828 82' 8-max Seat #6 is the button
+Seat 1: alin_padurar (8562 in chips, $3 bounty) 
+Seat 2: gettla 233 (12274 in chips, $2 bounty) 
+Seat 3: hleb301 (7279 in chips, $2 bounty) 
+Seat 4: MSD2006 (1342 in chips, $3 bounty) 
+Seat 5: Mahu2021 (4976 in chips, $3 bounty) 
+Seat 6: areshatar97 (5282 in chips, $2 bounty) 
+Seat 7: kvanta (3479 in chips, $2 bounty) 
+alin_padurar: posts the ante 15
+gettla 233: posts the ante 15
+hleb301: posts the ante 15
+MSD2006: posts the ante 15
+Mahu2021: posts the ante 15
+areshatar97: posts the ante 15
+kvanta: posts the ante 15
+kvanta: posts small blind 50
+alin_padurar: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2c 8c]
+gettla 233: folds 
+hleb301: folds 
+MSD2006: folds 
+Mahu2021: folds 
+areshatar97: raises 100 to 200
+kvanta: folds 
+alin_padurar: calls 100
+*** FLOP *** [4c 9s Kd]
+alin_padurar: checks 
+SPINNE840 is disconnected 
+areshatar97: bets 189
+alin_padurar: raises 189 to 378
+areshatar97: calls 189
+*** TURN *** [4c 9s Kd] [Ts]
+alin_padurar: bets 856
+areshatar97: calls 856
+*** RIVER *** [4c 9s Kd Ts] [As]
+alin_padurar: bets 7113 and is all-in
+areshatar97: folds 
+Uncalled bet (7113) returned to alin_padurar
+alin_padurar collected 3023 from pot
+alin_padurar: doesn't show hand 
+*** SUMMARY ***
+Total pot 3023 | Rake 0 
+Board [4c 9s Kd Ts As]
+Seat 1: alin_padurar (big blind) collected (3023)
+Seat 2: gettla 233 folded before Flop (didn't bet)
+Seat 3: hleb301 folded before Flop (didn't bet)
+Seat 4: MSD2006 folded before Flop (didn't bet)
+Seat 5: Mahu2021 folded before Flop (didn't bet)
+Seat 6: areshatar97 (button) folded on the River
+Seat 7: kvanta (small blind) folded before Flop
+
+
+
+PokerStars Hand #253416924910: Tournament #3823136828, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level VI (50/100) - 2024/11/15 20:21:31 CET [2024/11/15 14:21:31 ET]
+Table '3823136828 82' 8-max Seat #7 is the button
+Seat 1: alin_padurar (10136 in chips, $3 bounty) 
+Seat 2: gettla 233 (12259 in chips, $2 bounty) 
+Seat 3: hleb301 (7264 in chips, $2 bounty) 
+Seat 4: MSD2006 (1327 in chips, $3 bounty) 
+Seat 5: Mahu2021 (4961 in chips, $3 bounty) 
+Seat 6: areshatar97 (3833 in chips, $2 bounty) 
+Seat 7: kvanta (3414 in chips, $2 bounty) 
+Seat 8: SPINNE840 (5000 in chips) out of hand (moved from another table into small blind)
+SPINNE840 will be allowed to play after the button
+alin_padurar: posts the ante 15
+gettla 233: posts the ante 15
+hleb301: posts the ante 15
+MSD2006: posts the ante 15
+Mahu2021: posts the ante 15
+areshatar97: posts the ante 15
+kvanta: posts the ante 15
+alin_padurar: posts small blind 50
+gettla 233: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d 8d]
+hleb301: raises 100 to 200
+MSD2006: folds 
+Mahu2021: folds 
+areshatar97: folds 
+kvanta: folds 
+alin_padurar: folds 
+gettla 233: folds 
+Uncalled bet (100) returned to hleb301
+hleb301 collected 355 from pot
+hleb301: doesn't show hand 
+*** SUMMARY ***
+Total pot 355 | Rake 0 
+Seat 1: alin_padurar (small blind) folded before Flop
+Seat 2: gettla 233 (big blind) folded before Flop
+Seat 3: hleb301 collected (355)
+Seat 4: MSD2006 folded before Flop (didn't bet)
+Seat 5: Mahu2021 folded before Flop (didn't bet)
+Seat 6: areshatar97 folded before Flop (didn't bet)
+Seat 7: kvanta (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253416929438: Tournament #3823136828, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level VI (50/100) - 2024/11/15 20:21:48 CET [2024/11/15 14:21:48 ET]
+Table '3823136828 82' 8-max Seat #1 is the button
+Seat 1: alin_padurar (10071 in chips, $3 bounty) 
+Seat 2: gettla 233 (12144 in chips, $2 bounty) 
+Seat 3: hleb301 (7504 in chips, $2 bounty) 
+Seat 4: MSD2006 (1312 in chips, $3 bounty) 
+Seat 5: Mahu2021 (4946 in chips, $3 bounty) 
+Seat 6: areshatar97 (3818 in chips, $2 bounty) 
+Seat 7: kvanta (3399 in chips, $2 bounty) 
+Seat 8: SPINNE840 (5000 in chips, $2 bounty) 
+alin_padurar: posts the ante 15
+gettla 233: posts the ante 15
+hleb301: posts the ante 15
+MSD2006: posts the ante 15
+Mahu2021: posts the ante 15
+areshatar97: posts the ante 15
+kvanta: posts the ante 15
+SPINNE840: posts the ante 15
+gettla 233: posts small blind 50
+hleb301: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh Ac]
+MSD2006: folds 
+Mahu2021: raises 200 to 300
+areshatar97: folds 
+kvanta: folds 
+SPINNE840: folds 
+alin_padurar: calls 300
+gettla 233: folds 
+hleb301: folds 
+*** FLOP *** [6c Jd 3c]
+Mahu2021: checks 
+alin_padurar: checks 
+*** TURN *** [6c Jd 3c] [4d]
+Mahu2021: checks 
+alin_padurar: bets 435
+Mahu2021: calls 435
+*** RIVER *** [6c Jd 3c 4d] [3d]
+Mahu2021: checks 
+alin_padurar: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [Kh Ac] (a pair of Threes)
+alin_padurar: mucks hand 
+Mahu2021 collected 1740 from pot
+*** SUMMARY ***
+Total pot 1740 | Rake 0 
+Board [6c Jd 3c 4d 3d]
+Seat 1: alin_padurar (button) mucked [Ah Th]
+Seat 2: gettla 233 (small blind) folded before Flop
+Seat 3: hleb301 (big blind) folded before Flop
+Seat 4: MSD2006 folded before Flop (didn't bet)
+Seat 5: Mahu2021 showed [Kh Ac] and won (1740) with a pair of Threes
+Seat 6: areshatar97 folded before Flop (didn't bet)
+Seat 7: kvanta folded before Flop (didn't bet)
+Seat 8: SPINNE840 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253416936960: Tournament #3823136828, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level VI (50/100) - 2024/11/15 20:22:15 CET [2024/11/15 14:22:15 ET]
+Table '3823136828 82' 8-max Seat #2 is the button
+Seat 1: alin_padurar (9321 in chips, $3 bounty) 
+Seat 2: gettla 233 (12079 in chips, $2 bounty) 
+Seat 3: hleb301 (7389 in chips, $2 bounty) 
+Seat 4: MSD2006 (1297 in chips, $3 bounty) 
+Seat 5: Mahu2021 (5936 in chips, $3 bounty) 
+Seat 6: areshatar97 (3803 in chips, $2 bounty) 
+Seat 7: kvanta (3384 in chips, $2 bounty) 
+Seat 8: SPINNE840 (4985 in chips, $2 bounty) 
+alin_padurar: posts the ante 15
+gettla 233: posts the ante 15
+hleb301: posts the ante 15
+MSD2006: posts the ante 15
+Mahu2021: posts the ante 15
+areshatar97: posts the ante 15
+kvanta: posts the ante 15
+SPINNE840: posts the ante 15
+hleb301: posts small blind 50
+MSD2006: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h 9h]
+Mahu2021: folds 
+areshatar97: raises 100 to 200
+kvanta: folds 
+SPINNE840: folds 
+alin_padurar: calls 200
+gettla 233: folds 
+hleb301: folds 
+MSD2006: folds 
+*** FLOP *** [Qd Ks As]
+areshatar97: checks 
+alin_padurar: bets 200
+areshatar97: calls 200
+*** TURN *** [Qd Ks As] [6c]
+areshatar97: checks 
+alin_padurar: bets 635
+areshatar97: calls 635
+*** RIVER *** [Qd Ks As 6c] [5s]
+areshatar97: checks 
+alin_padurar: bets 2840
+areshatar97: folds 
+Uncalled bet (2840) returned to alin_padurar
+alin_padurar collected 2340 from pot
+alin_padurar: doesn't show hand 
+*** SUMMARY ***
+Total pot 2340 | Rake 0 
+Board [Qd Ks As 6c 5s]
+Seat 1: alin_padurar collected (2340)
+Seat 2: gettla 233 (button) folded before Flop (didn't bet)
+Seat 3: hleb301 (small blind) folded before Flop
+Seat 4: MSD2006 (big blind) folded before Flop
+Seat 5: Mahu2021 folded before Flop (didn't bet)
+Seat 6: areshatar97 folded on the River
+Seat 7: kvanta folded before Flop (didn't bet)
+Seat 8: SPINNE840 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253416962152: Tournament #3823136828, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level VI (50/100) - 2024/11/15 20:23:46 CET [2024/11/15 14:23:46 ET]
+Table '3823136828 82' 8-max Seat #3 is the button
+Seat 1: alin_padurar (10611 in chips, $3 bounty) 
+Seat 2: gettla 233 (12064 in chips, $2 bounty) 
+Seat 3: hleb301 (7324 in chips, $2 bounty) 
+Seat 4: MSD2006 (1182 in chips, $3 bounty) 
+Seat 5: Mahu2021 (5921 in chips, $3 bounty) 
+Seat 6: areshatar97 (2753 in chips, $2 bounty) 
+Seat 7: kvanta (3369 in chips, $2 bounty) 
+Seat 8: SPINNE840 (4970 in chips, $2 bounty) 
+alin_padurar: posts the ante 15
+gettla 233: posts the ante 15
+hleb301: posts the ante 15
+MSD2006: posts the ante 15
+Mahu2021: posts the ante 15
+areshatar97: posts the ante 15
+kvanta: posts the ante 15
+SPINNE840: posts the ante 15
+MSD2006: posts small blind 50
+Mahu2021: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h 9c]
+areshatar97: folds 
+kvanta: folds 
+SPINNE840: folds 
+alin_padurar: folds 
+gettla 233: folds 
+hleb301: folds 
+MSD2006: folds 
+Uncalled bet (50) returned to Mahu2021
+Mahu2021 collected 220 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 220 | Rake 0 
+Seat 1: alin_padurar folded before Flop (didn't bet)
+Seat 2: gettla 233 folded before Flop (didn't bet)
+Seat 3: hleb301 (button) folded before Flop (didn't bet)
+Seat 4: MSD2006 (small blind) folded before Flop
+Seat 5: Mahu2021 (big blind) collected (220)
+Seat 6: areshatar97 folded before Flop (didn't bet)
+Seat 7: kvanta folded before Flop (didn't bet)
+Seat 8: SPINNE840 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253416966123: Tournament #3823136828, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level VI (50/100) - 2024/11/15 20:24:01 CET [2024/11/15 14:24:01 ET]
+Table '3823136828 82' 8-max Seat #4 is the button
+Seat 1: alin_padurar (10596 in chips, $3 bounty) 
+Seat 2: gettla 233 (12049 in chips, $2 bounty) 
+Seat 3: hleb301 (7309 in chips, $2 bounty) 
+Seat 4: MSD2006 (1117 in chips, $3 bounty) 
+Seat 5: Mahu2021 (6076 in chips, $3 bounty) 
+Seat 6: areshatar97 (2738 in chips, $2 bounty) 
+Seat 7: kvanta (3354 in chips, $2 bounty) 
+Seat 8: SPINNE840 (4955 in chips, $2 bounty) 
+alin_padurar: posts the ante 15
+gettla 233: posts the ante 15
+hleb301: posts the ante 15
+MSD2006: posts the ante 15
+Mahu2021: posts the ante 15
+areshatar97: posts the ante 15
+kvanta: posts the ante 15
+SPINNE840: posts the ante 15
+Mahu2021: posts small blind 50
+areshatar97: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd 6h]
+kvanta: folds 
+SPINNE840: folds 
+alin_padurar: raises 100 to 200
+gettla 233: calls 200
+hleb301: folds 
+MSD2006: raises 900 to 1100
+Mahu2021: folds 
+areshatar97: folds 
+alin_padurar: calls 900
+gettla 233: folds 
+*** FLOP *** [Kc Kh Ad]
+alin_padurar: bets 100
+MSD2006: calls 2 and is all-in
+Uncalled bet (98) returned to alin_padurar
+*** TURN *** [Kc Kh Ad] [Tc]
+*** RIVER *** [Kc Kh Ad Tc] [Jc]
+*** SHOW DOWN ***
+alin_padurar: shows [As 4d] (two pair, Aces and Kings)
+MSD2006: shows [Jh Ks] (a full house, Kings full of Jacks)
+MSD2006 collected 2674 from pot
+*** SUMMARY ***
+Total pot 2674 | Rake 0 
+Board [Kc Kh Ad Tc Jc]
+Seat 1: alin_padurar showed [As 4d] and lost with two pair, Aces and Kings
+Seat 2: gettla 233 folded before Flop
+Seat 3: hleb301 folded before Flop (didn't bet)
+Seat 4: MSD2006 (button) showed [Jh Ks] and won (2674) with a full house, Kings full of Jacks
+Seat 5: Mahu2021 (small blind) folded before Flop
+Seat 6: areshatar97 (big blind) folded before Flop
+Seat 7: kvanta folded before Flop (didn't bet)
+Seat 8: SPINNE840 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253416975431: Tournament #3823136828, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level VI (50/100) - 2024/11/15 20:24:34 CET [2024/11/15 14:24:34 ET]
+Table '3823136828 82' 8-max Seat #5 is the button
+Seat 1: alin_padurar (9479 in chips, $3 bounty) 
+Seat 2: gettla 233 (11834 in chips, $2 bounty) 
+Seat 3: hleb301 (7294 in chips, $2 bounty) 
+Seat 4: MSD2006 (2674 in chips, $3 bounty) 
+Seat 5: Mahu2021 (6011 in chips, $3 bounty) 
+Seat 6: areshatar97 (2623 in chips, $2 bounty) 
+Seat 7: kvanta (3339 in chips, $2 bounty) 
+Seat 8: SPINNE840 (4940 in chips, $2 bounty) 
+alin_padurar: posts the ante 15
+gettla 233: posts the ante 15
+hleb301: posts the ante 15
+MSD2006: posts the ante 15
+Mahu2021: posts the ante 15
+areshatar97: posts the ante 15
+kvanta: posts the ante 15
+SPINNE840: posts the ante 15
+areshatar97: posts small blind 50
+kvanta: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad As]
+SPINNE840: folds 
+alin_padurar: folds 
+gettla 233: folds 
+hleb301: folds 
+MSD2006: raises 100 to 200
+Mahu2021: raises 5796 to 5996 and is all-in
+areshatar97: folds 
+kvanta: folds 
+MSD2006: folds 
+Uncalled bet (5796) returned to Mahu2021
+Mahu2021 collected 670 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 670 | Rake 0 
+Seat 1: alin_padurar folded before Flop (didn't bet)
+Seat 2: gettla 233 folded before Flop (didn't bet)
+Seat 3: hleb301 folded before Flop (didn't bet)
+Seat 4: MSD2006 folded before Flop
+Seat 5: Mahu2021 (button) collected (670)
+Seat 6: areshatar97 (small blind) folded before Flop
+Seat 7: kvanta (big blind) folded before Flop
+Seat 8: SPINNE840 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253416981377: Tournament #3823136828, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level VI (50/100) - 2024/11/15 20:24:56 CET [2024/11/15 14:24:56 ET]
+Table '3823136828 82' 8-max Seat #6 is the button
+Seat 1: alin_padurar (9464 in chips, $3 bounty) 
+Seat 2: gettla 233 (11819 in chips, $2 bounty) 
+Seat 3: hleb301 (7279 in chips, $2 bounty) 
+Seat 4: MSD2006 (2459 in chips, $3 bounty) 
+Seat 5: Mahu2021 (6466 in chips, $3 bounty) 
+Seat 6: areshatar97 (2558 in chips, $2 bounty) 
+Seat 7: kvanta (3224 in chips, $2 bounty) 
+Seat 8: SPINNE840 (4925 in chips, $2 bounty) 
+alin_padurar: posts the ante 15
+gettla 233: posts the ante 15
+hleb301: posts the ante 15
+MSD2006: posts the ante 15
+Mahu2021: posts the ante 15
+areshatar97: posts the ante 15
+kvanta: posts the ante 15
+SPINNE840: posts the ante 15
+kvanta: posts small blind 50
+SPINNE840: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As Ad]
+alin_padurar: folds 
+gettla 233: folds 
+hleb301: raises 120 to 220
+MSD2006: folds 
+Mahu2021: raises 6231 to 6451 and is all-in
+areshatar97: folds 
+kvanta: folds 
+SPINNE840: folds 
+hleb301: folds 
+Uncalled bet (6231) returned to Mahu2021
+Mahu2021 collected 710 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 710 | Rake 0 
+Seat 1: alin_padurar folded before Flop (didn't bet)
+Seat 2: gettla 233 folded before Flop (didn't bet)
+Seat 3: hleb301 folded before Flop
+Seat 4: MSD2006 folded before Flop (didn't bet)
+Seat 5: Mahu2021 collected (710)
+Seat 6: areshatar97 (button) folded before Flop (didn't bet)
+Seat 7: kvanta (small blind) folded before Flop
+Seat 8: SPINNE840 (big blind) folded before Flop
+
+
+
+PokerStars Hand #253416989176: Tournament #3823136828, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level VII (60/120) - 2024/11/15 20:25:24 CET [2024/11/15 14:25:24 ET]
+Table '3823136828 82' 8-max Seat #7 is the button
+Seat 1: alin_padurar (9449 in chips, $3 bounty) 
+Seat 2: gettla 233 (11804 in chips, $2 bounty) 
+Seat 3: hleb301 (7044 in chips, $2 bounty) 
+Seat 4: MSD2006 (2444 in chips, $3 bounty) 
+Seat 5: Mahu2021 (6941 in chips, $3 bounty) 
+Seat 6: areshatar97 (2543 in chips, $2 bounty) 
+Seat 7: kvanta (3159 in chips, $2 bounty) 
+Seat 8: SPINNE840 (4810 in chips, $2 bounty) 
+alin_padurar: posts the ante 18
+gettla 233: posts the ante 18
+hleb301: posts the ante 18
+MSD2006: posts the ante 18
+Mahu2021: posts the ante 18
+areshatar97: posts the ante 18
+kvanta: posts the ante 18
+SPINNE840: posts the ante 18
+SPINNE840: posts small blind 60
+alin_padurar: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8c 5d]
+gettla 233: folds 
+hleb301: folds 
+MSD2006: raises 120 to 240
+Mahu2021: folds 
+areshatar97: raises 2285 to 2525 and is all-in
+kvanta: raises 616 to 3141 and is all-in
+SPINNE840: folds 
+alin_padurar: calls 3021
+MSD2006: folds 
+*** FLOP *** [Jc Qd 4h]
+*** TURN *** [Jc Qd 4h] [7s]
+*** RIVER *** [Jc Qd 4h 7s] [6h]
+*** SHOW DOWN ***
+alin_padurar: shows [9c 9s] (a pair of Nines)
+kvanta: shows [8s 8d] (a pair of Eights)
+alin_padurar collected 1232 from side pot
+areshatar97: shows [Kc Ah] (high card Ace)
+alin_padurar collected 8019 from main pot
+alin_padurar wins $1 for eliminating areshatar97 and their own bounty increases by $1 to $4
+alin_padurar wins $1 for eliminating kvanta and their own bounty increases by $1 to $5
+kvanta finished the tournament
+areshatar97 finished the tournament
+*** SUMMARY ***
+Total pot 9251 Main pot 8019. Side pot 1232. | Rake 0 
+Board [Jc Qd 4h 7s 6h]
+Seat 1: alin_padurar (big blind) showed [9c 9s] and won (9251) with a pair of Nines
+Seat 2: gettla 233 folded before Flop (didn't bet)
+Seat 3: hleb301 folded before Flop (didn't bet)
+Seat 4: MSD2006 folded before Flop
+Seat 5: Mahu2021 folded before Flop (didn't bet)
+Seat 6: areshatar97 showed [Kc Ah] and lost with high card Ace
+Seat 7: kvanta (button) showed [8s 8d] and lost with a pair of Eights
+Seat 8: SPINNE840 (small blind) folded before Flop
+
+
+
+PokerStars Hand #253417000390: Tournament #3823136828, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level VII (60/120) - 2024/11/15 20:26:05 CET [2024/11/15 14:26:05 ET]
+Table '3823136828 82' 8-max Seat #8 is the button
+Seat 1: alin_padurar (15541 in chips, $5 bounty) 
+Seat 2: gettla 233 (11786 in chips, $2 bounty) 
+Seat 3: hleb301 (7026 in chips, $2 bounty) 
+Seat 4: MSD2006 (2186 in chips, $3 bounty) 
+Seat 5: Mahu2021 (6923 in chips, $3 bounty) 
+Seat 8: SPINNE840 (4732 in chips, $2 bounty) 
+alin_padurar: posts the ante 18
+gettla 233: posts the ante 18
+hleb301: posts the ante 18
+MSD2006: posts the ante 18
+Mahu2021: posts the ante 18
+SPINNE840: posts the ante 18
+alin_padurar: posts small blind 60
+gettla 233: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d Td]
+u.andrei.md is disconnected 
+hleb301: raises 120 to 240
+MSD2006: folds 
+Mahu2021: folds 
+SPINNE840: folds 
+alin_padurar: calls 180
+gettla 233: folds 
+*** FLOP *** [4c 9h 7s]
+alin_padurar: checks 
+hleb301: checks 
+*** TURN *** [4c 9h 7s] [8d]
+alin_padurar: bets 354
+hleb301: calls 354
+*** RIVER *** [4c 9h 7s 8d] [Kd]
+alin_padurar: checks 
+hleb301: bets 467
+Lavrik15 is disconnected 
+alin_padurar: calls 467
+*** SHOW DOWN ***
+hleb301: shows [Tc Kh] (a pair of Kings)
+alin_padurar: mucks hand 
+hleb301 collected 2350 from pot
+*** SUMMARY ***
+Total pot 2350 | Rake 0 
+Board [4c 9h 7s 8d Kd]
+Seat 1: alin_padurar (small blind) mucked [Jh 8h]
+Seat 2: gettla 233 (big blind) folded before Flop
+Seat 3: hleb301 showed [Tc Kh] and won (2350) with a pair of Kings
+Seat 4: MSD2006 folded before Flop (didn't bet)
+Seat 5: Mahu2021 folded before Flop (didn't bet)
+Seat 8: SPINNE840 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253417010547: Tournament #3823136828, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level VII (60/120) - 2024/11/15 20:26:41 CET [2024/11/15 14:26:41 ET]
+Table '3823136828 82' 8-max Seat #1 is the button
+Seat 1: alin_padurar (14462 in chips, $5 bounty) 
+Seat 2: gettla 233 (11648 in chips, $2 bounty) 
+Seat 3: hleb301 (8297 in chips, $2 bounty) 
+Seat 4: MSD2006 (2168 in chips, $3 bounty) 
+Seat 5: Mahu2021 (6905 in chips, $3 bounty) 
+Seat 6: u.andrei.md (6057 in chips, $3 bounty) 
+Seat 7: Lavrik15 (5000 in chips, $2 bounty) 
+Seat 8: SPINNE840 (4714 in chips, $2 bounty) 
+alin_padurar: posts the ante 18
+gettla 233: posts the ante 18
+hleb301: posts the ante 18
+MSD2006: posts the ante 18
+Mahu2021: posts the ante 18
+u.andrei.md: posts the ante 18
+Lavrik15: posts the ante 18
+SPINNE840: posts the ante 18
+gettla 233: posts small blind 60
+hleb301: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s 5d]
+MSD2006: raises 120 to 240
+Mahu2021: folds 
+u.andrei.md: folds 
+Lavrik15: raises 480 to 720
+SPINNE840: folds 
+alin_padurar: folds 
+gettla 233: folds 
+hleb301: folds 
+MSD2006: folds 
+Uncalled bet (480) returned to Lavrik15
+Lavrik15 collected 804 from pot
+Lavrik15: doesn't show hand 
+*** SUMMARY ***
+Total pot 804 | Rake 0 
+Seat 1: alin_padurar (button) folded before Flop (didn't bet)
+Seat 2: gettla 233 (small blind) folded before Flop
+Seat 3: hleb301 (big blind) folded before Flop
+Seat 4: MSD2006 folded before Flop
+Seat 5: Mahu2021 folded before Flop (didn't bet)
+Seat 6: u.andrei.md folded before Flop (didn't bet)
+Seat 7: Lavrik15 collected (804)
+Seat 8: SPINNE840 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253417018543: Tournament #3823136828, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level VII (60/120) - 2024/11/15 20:27:10 CET [2024/11/15 14:27:10 ET]
+Table '3823136828 82' 8-max Seat #2 is the button
+Seat 1: alin_padurar (14444 in chips, $5 bounty) 
+Seat 2: gettla 233 (11570 in chips, $2 bounty) 
+Seat 3: hleb301 (8159 in chips, $2 bounty) 
+Seat 4: MSD2006 (1910 in chips, $3 bounty) 
+Seat 5: Mahu2021 (6887 in chips, $3 bounty) 
+Seat 6: u.andrei.md (6039 in chips, $3 bounty) 
+Seat 7: Lavrik15 (5546 in chips, $2 bounty) 
+Seat 8: SPINNE840 (4696 in chips, $2 bounty) 
+alin_padurar: posts the ante 18
+gettla 233: posts the ante 18
+hleb301: posts the ante 18
+MSD2006: posts the ante 18
+Mahu2021: posts the ante 18
+u.andrei.md: posts the ante 18
+Lavrik15: posts the ante 18
+SPINNE840: posts the ante 18
+hleb301: posts small blind 60
+MSD2006: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d 9s]
+Mahu2021: calls 120
+u.andrei.md: folds 
+Lavrik15: folds 
+SPINNE840: folds 
+alin_padurar: calls 120
+gettla 233: folds 
+hleb301: folds 
+MSD2006: checks 
+*** FLOP *** [6h As Kd]
+MSD2006: checks 
+Mahu2021: checks 
+alin_padurar: checks 
+*** TURN *** [6h As Kd] [Kc]
+MSD2006: checks 
+Mahu2021: checks 
+alin_padurar: checks 
+*** RIVER *** [6h As Kd Kc] [3s]
+MSD2006: checks 
+Mahu2021: bets 240
+alin_padurar: folds 
+MSD2006: folds 
+Uncalled bet (240) returned to Mahu2021
+Mahu2021 collected 564 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 564 | Rake 0 
+Board [6h As Kd Kc 3s]
+Seat 1: alin_padurar folded on the River
+Seat 2: gettla 233 (button) folded before Flop (didn't bet)
+Seat 3: hleb301 (small blind) folded before Flop
+Seat 4: MSD2006 (big blind) folded on the River
+Seat 5: Mahu2021 collected (564)
+Seat 6: u.andrei.md folded before Flop (didn't bet)
+Seat 7: Lavrik15 folded before Flop (didn't bet)
+Seat 8: SPINNE840 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253417027540: Tournament #3823136828, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level VII (60/120) - 2024/11/15 20:27:43 CET [2024/11/15 14:27:43 ET]
+Table '3823136828 82' 8-max Seat #3 is the button
+Seat 1: alin_padurar (14306 in chips, $5 bounty) 
+Seat 2: gettla 233 (11552 in chips, $2 bounty) 
+Seat 3: hleb301 (8081 in chips, $2 bounty) 
+Seat 4: MSD2006 (1772 in chips, $3 bounty) 
+Seat 5: Mahu2021 (7313 in chips, $3 bounty) 
+Seat 6: u.andrei.md (6021 in chips, $3 bounty) 
+Seat 7: Lavrik15 (5528 in chips, $2 bounty) 
+Seat 8: SPINNE840 (4678 in chips, $2 bounty) 
+alin_padurar: posts the ante 18
+gettla 233: posts the ante 18
+hleb301: posts the ante 18
+MSD2006: posts the ante 18
+Mahu2021: posts the ante 18
+u.andrei.md: posts the ante 18
+Lavrik15: posts the ante 18
+SPINNE840: posts the ante 18
+MSD2006: posts small blind 60
+Mahu2021: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d Ts]
+u.andrei.md: folds 
+Lavrik15: folds 
+SPINNE840: folds 
+alin_padurar: raises 120 to 240
+gettla 233: calls 240
+hleb301: calls 240
+MSD2006: folds 
+Mahu2021: folds 
+*** FLOP *** [8d 3h 4s]
+alin_padurar: bets 522
+gettla 233: calls 522
+hleb301: folds 
+*** TURN *** [8d 3h 4s] [7c]
+alin_padurar: bets 1044
+gettla 233: raises 1044 to 2088
+alin_padurar: calls 1044
+*** RIVER *** [8d 3h 4s 7c] [Js]
+alin_padurar: checks 
+gettla 233: bets 8684 and is all-in
+alin_padurar: folds 
+Uncalled bet (8684) returned to gettla 233
+gettla 233 collected 6264 from pot
+gettla 233: doesn't show hand 
+*** SUMMARY ***
+Total pot 6264 | Rake 0 
+Board [8d 3h 4s 7c Js]
+Seat 1: alin_padurar folded on the River
+Seat 2: gettla 233 collected (6264)
+Seat 3: hleb301 (button) folded on the Flop
+Seat 4: MSD2006 (small blind) folded before Flop
+Seat 5: Mahu2021 (big blind) folded before Flop
+Seat 6: u.andrei.md folded before Flop (didn't bet)
+Seat 7: Lavrik15 folded before Flop (didn't bet)
+Seat 8: SPINNE840 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253417038171: Tournament #3823136828, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level VII (60/120) - 2024/11/15 20:28:22 CET [2024/11/15 14:28:22 ET]
+Table '3823136828 82' 8-max Seat #4 is the button
+Seat 1: alin_padurar (11438 in chips, $5 bounty) 
+Seat 2: gettla 233 (14948 in chips, $2 bounty) 
+Seat 3: hleb301 (7823 in chips, $2 bounty) 
+Seat 4: MSD2006 (1694 in chips, $3 bounty) 
+Seat 5: Mahu2021 (7175 in chips, $3 bounty) 
+Seat 6: u.andrei.md (6003 in chips, $3 bounty) 
+Seat 7: Lavrik15 (5510 in chips, $2 bounty) 
+Seat 8: SPINNE840 (4660 in chips, $2 bounty) 
+alin_padurar: posts the ante 18
+gettla 233: posts the ante 18
+hleb301: posts the ante 18
+MSD2006: posts the ante 18
+Mahu2021: posts the ante 18
+u.andrei.md: posts the ante 18
+Lavrik15: posts the ante 18
+SPINNE840: posts the ante 18
+Mahu2021: posts small blind 60
+u.andrei.md: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h 6h]
+Lavrik15: folds 
+SPINNE840: folds 
+alin_padurar: folds 
+gettla 233: folds 
+hleb301: folds 
+MSD2006: folds 
+Mahu2021: calls 60
+u.andrei.md: raises 300 to 420
+Mahu2021: folds 
+Uncalled bet (300) returned to u.andrei.md
+u.andrei.md collected 384 from pot
+u.andrei.md: doesn't show hand 
+*** SUMMARY ***
+Total pot 384 | Rake 0 
+Seat 1: alin_padurar folded before Flop (didn't bet)
+Seat 2: gettla 233 folded before Flop (didn't bet)
+Seat 3: hleb301 folded before Flop (didn't bet)
+Seat 4: MSD2006 (button) folded before Flop (didn't bet)
+Seat 5: Mahu2021 (small blind) folded before Flop
+Seat 6: u.andrei.md (big blind) collected (384)
+Seat 7: Lavrik15 folded before Flop (didn't bet)
+Seat 8: SPINNE840 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253417043188: Tournament #3823136828, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level VII (60/120) - 2024/11/15 20:28:40 CET [2024/11/15 14:28:40 ET]
+Table '3823136828 82' 8-max Seat #5 is the button
+Seat 1: alin_padurar (11420 in chips, $5 bounty) 
+Seat 2: gettla 233 (14930 in chips, $2 bounty) 
+Seat 3: hleb301 (7805 in chips, $2 bounty) 
+Seat 4: MSD2006 (1676 in chips, $3 bounty) 
+Seat 5: Mahu2021 (7037 in chips, $3 bounty) 
+Seat 6: u.andrei.md (6249 in chips, $3 bounty) 
+Seat 7: Lavrik15 (5492 in chips, $2 bounty) 
+Seat 8: SPINNE840 (4642 in chips, $2 bounty) 
+alin_padurar: posts the ante 18
+gettla 233: posts the ante 18
+hleb301: posts the ante 18
+MSD2006: posts the ante 18
+Mahu2021: posts the ante 18
+u.andrei.md: posts the ante 18
+Lavrik15: posts the ante 18
+SPINNE840: posts the ante 18
+u.andrei.md: posts small blind 60
+Lavrik15: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh 7d]
+SPINNE840: folds 
+alin_padurar: raises 120 to 240
+gettla 233: folds 
+hleb301: folds 
+MSD2006: folds 
+Mahu2021: folds 
+u.andrei.md: folds 
+Lavrik15: folds 
+Uncalled bet (120) returned to alin_padurar
+alin_padurar collected 444 from pot
+alin_padurar: doesn't show hand 
+*** SUMMARY ***
+Total pot 444 | Rake 0 
+Seat 1: alin_padurar collected (444)
+Seat 2: gettla 233 folded before Flop (didn't bet)
+Seat 3: hleb301 folded before Flop (didn't bet)
+Seat 4: MSD2006 folded before Flop (didn't bet)
+Seat 5: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 6: u.andrei.md (small blind) folded before Flop
+Seat 7: Lavrik15 (big blind) folded before Flop
+Seat 8: SPINNE840 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253417047164: Tournament #3823136828, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level VII (60/120) - 2024/11/15 20:28:54 CET [2024/11/15 14:28:54 ET]
+Table '3823136828 82' 8-max Seat #6 is the button
+Seat 1: alin_padurar (11726 in chips, $5 bounty) 
+Seat 2: gettla 233 (14912 in chips, $2 bounty) 
+Seat 3: hleb301 (7787 in chips, $2 bounty) 
+Seat 4: MSD2006 (1658 in chips, $3 bounty) 
+Seat 5: Mahu2021 (7019 in chips, $3 bounty) 
+Seat 6: u.andrei.md (6171 in chips, $3 bounty) 
+Seat 7: Lavrik15 (5354 in chips, $2 bounty) 
+Seat 8: SPINNE840 (4624 in chips, $2 bounty) 
+alin_padurar: posts the ante 18
+gettla 233: posts the ante 18
+hleb301: posts the ante 18
+MSD2006: posts the ante 18
+Mahu2021: posts the ante 18
+u.andrei.md: posts the ante 18
+Lavrik15: posts the ante 18
+SPINNE840: posts the ante 18
+Lavrik15: posts small blind 60
+SPINNE840: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d Ts]
+alin_padurar: folds 
+gettla 233: folds 
+hleb301: folds 
+MSD2006: raises 1500 to 1620
+Mahu2021: folds 
+u.andrei.md: folds 
+Lavrik15: folds 
+SPINNE840: calls 1500
+*** FLOP *** [Qd 6s Td]
+SPINNE840: checks 
+MSD2006: bets 20 and is all-in
+SPINNE840: calls 20
+*** TURN *** [Qd 6s Td] [4d]
+*** RIVER *** [Qd 6s Td 4d] [5h]
+*** SHOW DOWN ***
+SPINNE840: shows [2d 2h] (a pair of Deuces)
+MSD2006: shows [Qh Th] (two pair, Queens and Tens)
+MSD2006 collected 3484 from pot
+*** SUMMARY ***
+Total pot 3484 | Rake 0 
+Board [Qd 6s Td 4d 5h]
+Seat 1: alin_padurar folded before Flop (didn't bet)
+Seat 2: gettla 233 folded before Flop (didn't bet)
+Seat 3: hleb301 folded before Flop (didn't bet)
+Seat 4: MSD2006 showed [Qh Th] and won (3484) with two pair, Queens and Tens
+Seat 5: Mahu2021 folded before Flop (didn't bet)
+Seat 6: u.andrei.md (button) folded before Flop (didn't bet)
+Seat 7: Lavrik15 (small blind) folded before Flop
+Seat 8: SPINNE840 (big blind) showed [2d 2h] and lost with a pair of Deuces
+
+
+
+PokerStars Hand #253417057341: Tournament #3823136828, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level VII (60/120) - 2024/11/15 20:29:32 CET [2024/11/15 14:29:32 ET]
+Table '3823136828 82' 8-max Seat #7 is the button
+Seat 1: alin_padurar (11708 in chips, $5 bounty) 
+Seat 2: gettla 233 (14894 in chips, $2 bounty) 
+Seat 3: hleb301 (7769 in chips, $2 bounty) 
+Seat 4: MSD2006 (3484 in chips, $3 bounty) 
+Seat 5: Mahu2021 (7001 in chips, $3 bounty) 
+Seat 6: u.andrei.md (6153 in chips, $3 bounty) 
+Seat 7: Lavrik15 (5276 in chips, $2 bounty) 
+Seat 8: SPINNE840 (2966 in chips, $2 bounty) 
+alin_padurar: posts the ante 18
+gettla 233: posts the ante 18
+hleb301: posts the ante 18
+MSD2006: posts the ante 18
+Mahu2021: posts the ante 18
+u.andrei.md: posts the ante 18
+Lavrik15: posts the ante 18
+SPINNE840: posts the ante 18
+SPINNE840: posts small blind 60
+alin_padurar: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h Qd]
+gettla 233: folds 
+hleb301: folds 
+MSD2006: folds 
+Mahu2021: folds 
+u.andrei.md: raises 120 to 240
+Lavrik15: folds 
+SPINNE840: folds 
+alin_padurar: calls 120
+*** FLOP *** [Ad Ts 2c]
+alin_padurar: checks 
+u.andrei.md: bets 171
+alin_padurar: calls 171
+*** TURN *** [Ad Ts 2c] [Tc]
+alin_padurar: checks 
+u.andrei.md: bets 513
+alin_padurar: calls 513
+*** RIVER *** [Ad Ts 2c Tc] [6s]
+alin_padurar: checks 
+u.andrei.md: bets 1539
+alin_padurar: folds 
+Uncalled bet (1539) returned to u.andrei.md
+u.andrei.md collected 2052 from pot
+u.andrei.md: doesn't show hand 
+*** SUMMARY ***
+Total pot 2052 | Rake 0 
+Board [Ad Ts 2c Tc 6s]
+Seat 1: alin_padurar (big blind) folded on the River
+Seat 2: gettla 233 folded before Flop (didn't bet)
+Seat 3: hleb301 folded before Flop (didn't bet)
+Seat 4: MSD2006 folded before Flop (didn't bet)
+Seat 5: Mahu2021 folded before Flop (didn't bet)
+Seat 6: u.andrei.md collected (2052)
+Seat 7: Lavrik15 (button) folded before Flop (didn't bet)
+Seat 8: SPINNE840 (small blind) folded before Flop
+
+
+
+PokerStars Hand #253417076677: Tournament #3823136828, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level VII (60/120) - 2024/11/15 20:30:42 CET [2024/11/15 14:30:42 ET]
+Table '3823136828 82' 8-max Seat #8 is the button
+Seat 1: alin_padurar (10766 in chips, $5 bounty) 
+Seat 2: gettla 233 (14876 in chips, $2 bounty) 
+Seat 3: hleb301 (7751 in chips, $2 bounty) 
+Seat 4: MSD2006 (3466 in chips, $3 bounty) 
+Seat 5: Mahu2021 (6983 in chips, $3 bounty) 
+Seat 6: u.andrei.md (7263 in chips, $3 bounty) 
+Seat 7: Lavrik15 (5258 in chips, $2 bounty) 
+Seat 8: SPINNE840 (2888 in chips, $2 bounty) 
+alin_padurar: posts the ante 18
+gettla 233: posts the ante 18
+hleb301: posts the ante 18
+MSD2006: posts the ante 18
+Mahu2021: posts the ante 18
+u.andrei.md: posts the ante 18
+Lavrik15: posts the ante 18
+SPINNE840: posts the ante 18
+alin_padurar: posts small blind 60
+gettla 233: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6h 5c]
+hleb301: raises 120 to 240
+MSD2006: calls 240
+Mahu2021: folds 
+u.andrei.md: folds 
+Lavrik15: folds 
+SPINNE840: folds 
+alin_padurar: calls 180
+gettla 233: calls 120
+*** FLOP *** [2h 5s Tc]
+alin_padurar: checks 
+gettla 233: checks 
+hleb301: checks 
+MSD2006: checks 
+*** TURN *** [2h 5s Tc] [Ah]
+alin_padurar: checks 
+gettla 233: checks 
+hleb301: checks 
+MSD2006: checks 
+*** RIVER *** [2h 5s Tc Ah] [Th]
+alin_padurar: bets 552
+gettla 233: folds 
+hleb301: folds 
+MSD2006: folds 
+Uncalled bet (552) returned to alin_padurar
+alin_padurar collected 1104 from pot
+alin_padurar: doesn't show hand 
+*** SUMMARY ***
+Total pot 1104 | Rake 0 
+Board [2h 5s Tc Ah Th]
+Seat 1: alin_padurar (small blind) collected (1104)
+Seat 2: gettla 233 (big blind) folded on the River
+Seat 3: hleb301 folded on the River
+Seat 4: MSD2006 folded on the River
+Seat 5: Mahu2021 folded before Flop (didn't bet)
+Seat 6: u.andrei.md folded before Flop (didn't bet)
+Seat 7: Lavrik15 folded before Flop (didn't bet)
+Seat 8: SPINNE840 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253417088605: Tournament #3823136828, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level VII (60/120) - 2024/11/15 20:31:25 CET [2024/11/15 14:31:25 ET]
+Table '3823136828 82' 8-max Seat #1 is the button
+Seat 1: alin_padurar (11612 in chips, $5 bounty) 
+Seat 2: gettla 233 (14618 in chips, $2 bounty) 
+Seat 3: hleb301 (7493 in chips, $2 bounty) 
+Seat 4: MSD2006 (3208 in chips, $3 bounty) 
+Seat 5: Mahu2021 (6965 in chips, $3 bounty) 
+Seat 6: u.andrei.md (7245 in chips, $3 bounty) 
+Seat 7: Lavrik15 (5240 in chips, $2 bounty) 
+Seat 8: SPINNE840 (2870 in chips, $2 bounty) 
+alin_padurar: posts the ante 18
+gettla 233: posts the ante 18
+hleb301: posts the ante 18
+MSD2006: posts the ante 18
+Mahu2021: posts the ante 18
+u.andrei.md: posts the ante 18
+Lavrik15: posts the ante 18
+SPINNE840: posts the ante 18
+gettla 233: posts small blind 60
+hleb301: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s 9d]
+MSD2006: folds 
+Mahu2021: folds 
+u.andrei.md: raises 120 to 240
+Lavrik15: folds 
+SPINNE840: folds 
+alin_padurar: calls 240
+gettla 233: calls 180
+hleb301: folds 
+*** FLOP *** [2c 9c Kc]
+gettla 233: checks 
+u.andrei.md: bets 325
+alin_padurar: folds 
+gettla 233: folds 
+Uncalled bet (325) returned to u.andrei.md
+u.andrei.md collected 984 from pot
+u.andrei.md: doesn't show hand 
+*** SUMMARY ***
+Total pot 984 | Rake 0 
+Board [2c 9c Kc]
+Seat 1: alin_padurar (button) folded on the Flop
+Seat 2: gettla 233 (small blind) folded on the Flop
+Seat 3: hleb301 (big blind) folded before Flop
+Seat 4: MSD2006 folded before Flop (didn't bet)
+Seat 5: Mahu2021 folded before Flop (didn't bet)
+Seat 6: u.andrei.md collected (984)
+Seat 7: Lavrik15 folded before Flop (didn't bet)
+Seat 8: SPINNE840 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253417095022: Tournament #3823136828, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level VII (60/120) - 2024/11/15 20:31:48 CET [2024/11/15 14:31:48 ET]
+Table '3823136828 82' 8-max Seat #2 is the button
+Seat 1: alin_padurar (11354 in chips, $5 bounty) 
+Seat 2: gettla 233 (14360 in chips, $2 bounty) 
+Seat 3: hleb301 (7355 in chips, $2 bounty) 
+Seat 4: MSD2006 (3190 in chips, $3 bounty) 
+Seat 5: Mahu2021 (6947 in chips, $3 bounty) 
+Seat 6: u.andrei.md (7971 in chips, $3 bounty) 
+Seat 7: Lavrik15 (5222 in chips, $2 bounty) 
+Seat 8: SPINNE840 (2852 in chips, $2 bounty) 
+alin_padurar: posts the ante 18
+gettla 233: posts the ante 18
+hleb301: posts the ante 18
+MSD2006: posts the ante 18
+Mahu2021: posts the ante 18
+u.andrei.md: posts the ante 18
+Lavrik15: posts the ante 18
+SPINNE840: posts the ante 18
+hleb301: posts small blind 60
+MSD2006: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks 6h]
+Mahu2021: folds 
+u.andrei.md: raises 120 to 240
+Lavrik15: folds 
+SPINNE840: folds 
+alin_padurar: calls 240
+gettla 233: calls 240
+hleb301: folds 
+MSD2006: folds 
+*** FLOP *** [3s Jd 4s]
+u.andrei.md: bets 783
+alin_padurar: calls 783
+gettla 233: folds 
+*** TURN *** [3s Jd 4s] [2c]
+u.andrei.md: bets 1958
+alin_padurar: folds 
+Uncalled bet (1958) returned to u.andrei.md
+u.andrei.md collected 2610 from pot
+u.andrei.md: doesn't show hand 
+*** SUMMARY ***
+Total pot 2610 | Rake 0 
+Board [3s Jd 4s 2c]
+Seat 1: alin_padurar folded on the Turn
+Seat 2: gettla 233 (button) folded on the Flop
+Seat 3: hleb301 (small blind) folded before Flop
+Seat 4: MSD2006 (big blind) folded before Flop
+Seat 5: Mahu2021 folded before Flop (didn't bet)
+Seat 6: u.andrei.md collected (2610)
+Seat 7: Lavrik15 folded before Flop (didn't bet)
+Seat 8: SPINNE840 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253417108056: Tournament #3823136828, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level VII (60/120) - 2024/11/15 20:32:36 CET [2024/11/15 14:32:36 ET]
+Table '3823136828 82' 8-max Seat #3 is the button
+Seat 1: alin_padurar (10313 in chips, $5 bounty) 
+Seat 2: gettla 233 (14102 in chips, $2 bounty) 
+Seat 3: hleb301 (7277 in chips, $2 bounty) 
+Seat 4: MSD2006 (3052 in chips, $3 bounty) 
+Seat 5: Mahu2021 (6929 in chips, $3 bounty) 
+Seat 6: u.andrei.md (9540 in chips, $3 bounty) 
+Seat 7: Lavrik15 (5204 in chips, $2 bounty) 
+Seat 8: SPINNE840 (2834 in chips, $2 bounty) 
+alin_padurar: posts the ante 18
+gettla 233: posts the ante 18
+hleb301: posts the ante 18
+MSD2006: posts the ante 18
+Mahu2021: posts the ante 18
+u.andrei.md: posts the ante 18
+Lavrik15: posts the ante 18
+SPINNE840: posts the ante 18
+MSD2006: posts small blind 60
+Mahu2021: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s 2d]
+u.andrei.md: folds 
+Lavrik15: folds 
+SPINNE840: folds 
+alin_padurar: raises 120 to 240
+gettla 233: folds 
+hleb301: folds 
+MSD2006: calls 180
+Mahu2021: folds 
+*** FLOP *** [5c Jd 6c]
+MSD2006: checks 
+alin_padurar: bets 372
+MSD2006: calls 372
+*** TURN *** [5c Jd 6c] [7c]
+MSD2006: checks 
+alin_padurar: checks 
+*** RIVER *** [5c Jd 6c 7c] [Td]
+MSD2006: bets 1260
+alin_padurar: folds 
+Uncalled bet (1260) returned to MSD2006
+MSD2006 collected 1488 from pot
+*** SUMMARY ***
+Total pot 1488 | Rake 0 
+Board [5c Jd 6c 7c Td]
+Seat 1: alin_padurar folded on the River
+Seat 2: gettla 233 folded before Flop (didn't bet)
+Seat 3: hleb301 (button) folded before Flop (didn't bet)
+Seat 4: MSD2006 (small blind) collected (1488)
+Seat 5: Mahu2021 (big blind) folded before Flop
+Seat 6: u.andrei.md folded before Flop (didn't bet)
+Seat 7: Lavrik15 folded before Flop (didn't bet)
+Seat 8: SPINNE840 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253417117713: Tournament #3823136828, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level VII (60/120) - 2024/11/15 20:33:10 CET [2024/11/15 14:33:10 ET]
+Table '3823136828 82' 8-max Seat #4 is the button
+Seat 1: alin_padurar (9683 in chips, $5 bounty) 
+Seat 2: gettla 233 (14084 in chips, $2 bounty) 
+Seat 3: hleb301 (7259 in chips, $2 bounty) 
+Seat 4: MSD2006 (3910 in chips, $3 bounty) 
+Seat 5: Mahu2021 (6791 in chips, $3 bounty) 
+Seat 6: u.andrei.md (9522 in chips, $3 bounty) 
+Seat 7: Lavrik15 (5186 in chips, $2 bounty) 
+Seat 8: SPINNE840 (2816 in chips, $2 bounty) 
+alin_padurar: posts the ante 18
+gettla 233: posts the ante 18
+hleb301: posts the ante 18
+MSD2006: posts the ante 18
+Mahu2021: posts the ante 18
+u.andrei.md: posts the ante 18
+Lavrik15: posts the ante 18
+SPINNE840: posts the ante 18
+Mahu2021: posts small blind 60
+u.andrei.md: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d Qc]
+Lavrik15: folds 
+SPINNE840: folds 
+alin_padurar: folds 
+gettla 233: folds 
+hleb301: raises 144 to 264
+MSD2006: calls 264
+Mahu2021: folds 
+u.andrei.md: calls 144
+*** FLOP *** [7c Td Jc]
+u.andrei.md: checks 
+hleb301: checks 
+MSD2006: checks 
+*** TURN *** [7c Td Jc] [6d]
+u.andrei.md: bets 329
+hleb301: calls 329
+MSD2006: folds 
+*** RIVER *** [7c Td Jc 6d] [As]
+u.andrei.md: checks 
+hleb301: bets 546
+u.andrei.md: folds 
+Uncalled bet (546) returned to hleb301
+hleb301 collected 1654 from pot
+hleb301: doesn't show hand 
+*** SUMMARY ***
+Total pot 1654 | Rake 0 
+Board [7c Td Jc 6d As]
+Seat 1: alin_padurar folded before Flop (didn't bet)
+Seat 2: gettla 233 folded before Flop (didn't bet)
+Seat 3: hleb301 collected (1654)
+Seat 4: MSD2006 (button) folded on the Turn
+Seat 5: Mahu2021 (small blind) folded before Flop
+Seat 6: u.andrei.md (big blind) folded on the River
+Seat 7: Lavrik15 folded before Flop (didn't bet)
+Seat 8: SPINNE840 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253417127517: Tournament #3823136828, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level VIII (70/140) - 2024/11/15 20:33:45 CET [2024/11/15 14:33:45 ET]
+Table '3823136828 82' 8-max Seat #5 is the button
+Seat 1: alin_padurar (9665 in chips, $5 bounty) 
+Seat 2: gettla 233 (14066 in chips, $2 bounty) 
+Seat 3: hleb301 (8302 in chips, $2 bounty) 
+Seat 4: MSD2006 (3628 in chips, $3 bounty) 
+Seat 5: Mahu2021 (6713 in chips, $3 bounty) 
+Seat 6: u.andrei.md (8911 in chips, $3 bounty) 
+Seat 7: Lavrik15 (5168 in chips, $2 bounty) 
+Seat 8: SPINNE840 (2798 in chips, $2 bounty) 
+alin_padurar: posts the ante 21
+gettla 233: posts the ante 21
+hleb301: posts the ante 21
+MSD2006: posts the ante 21
+Mahu2021: posts the ante 21
+u.andrei.md: posts the ante 21
+Lavrik15: posts the ante 21
+SPINNE840: posts the ante 21
+u.andrei.md: posts small blind 70
+Lavrik15: posts big blind 140
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d Qd]
+SPINNE840: folds 
+alin_padurar: folds 
+gettla 233: calls 140
+hleb301: folds 
+MSD2006: folds 
+Mahu2021: calls 140
+u.andrei.md: folds 
+Lavrik15: checks 
+*** FLOP *** [Ad Th Jd]
+Lavrik15: checks 
+gettla 233: checks 
+Mahu2021: bets 658
+Lavrik15: calls 658
+gettla 233: calls 658
+*** TURN *** [Ad Th Jd] [2c]
+Lavrik15: checks 
+gettla 233: checks 
+Mahu2021: checks 
+*** RIVER *** [Ad Th Jd 2c] [Qs]
+Lavrik15: checks 
+gettla 233: bets 840
+Mahu2021: folds 
+Lavrik15: folds 
+Uncalled bet (840) returned to gettla 233
+gettla 233 collected 2632 from pot
+gettla 233: doesn't show hand 
+*** SUMMARY ***
+Total pot 2632 | Rake 0 
+Board [Ad Th Jd 2c Qs]
+Seat 1: alin_padurar folded before Flop (didn't bet)
+Seat 2: gettla 233 collected (2632)
+Seat 3: hleb301 folded before Flop (didn't bet)
+Seat 4: MSD2006 folded before Flop (didn't bet)
+Seat 5: Mahu2021 (button) folded on the River
+Seat 6: u.andrei.md (small blind) folded before Flop
+Seat 7: Lavrik15 (big blind) folded on the River
+Seat 8: SPINNE840 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253417146609: Tournament #3823136828, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level VIII (70/140) - 2024/11/15 20:34:54 CET [2024/11/15 14:34:54 ET]
+Table '3823136828 82' 8-max Seat #6 is the button
+Seat 1: alin_padurar (9644 in chips, $5 bounty) 
+Seat 2: gettla 233 (15879 in chips, $2 bounty) 
+Seat 3: hleb301 (8281 in chips, $2 bounty) 
+Seat 4: MSD2006 (3607 in chips, $3 bounty) 
+Seat 5: Mahu2021 (5894 in chips, $3 bounty) 
+Seat 6: u.andrei.md (8820 in chips, $3 bounty) 
+Seat 7: Lavrik15 (4349 in chips, $2 bounty) 
+Seat 8: SPINNE840 (2777 in chips, $2 bounty) 
+alin_padurar: posts the ante 21
+gettla 233: posts the ante 21
+hleb301: posts the ante 21
+MSD2006: posts the ante 21
+Mahu2021: posts the ante 21
+u.andrei.md: posts the ante 21
+Lavrik15: posts the ante 21
+SPINNE840: posts the ante 21
+Lavrik15: posts small blind 70
+SPINNE840: posts big blind 140
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd 7h]
+alin_padurar: raises 140 to 280
+gettla 233: folds 
+hleb301: folds 
+MSD2006: calls 280
+Mahu2021: folds 
+u.andrei.md: folds 
+Lavrik15: folds 
+SPINNE840: calls 140
+*** FLOP *** [2s 2c 4s]
+SPINNE840: checks 
+alin_padurar: bets 9343 and is all-in
+MSD2006: calls 3306 and is all-in
+SPINNE840: folds 
+Uncalled bet (6037) returned to alin_padurar
+*** TURN *** [2s 2c 4s] [7c]
+*** RIVER *** [2s 2c 4s 7c] [6d]
+*** SHOW DOWN ***
+alin_padurar: shows [Ad Ts] (a pair of Deuces)
+MSD2006: shows [5d 5c] (two pair, Fives and Deuces)
+MSD2006 collected 7690 from pot
+*** SUMMARY ***
+Total pot 7690 | Rake 0 
+Board [2s 2c 4s 7c 6d]
+Seat 1: alin_padurar showed [Ad Ts] and lost with a pair of Deuces
+Seat 2: gettla 233 folded before Flop (didn't bet)
+Seat 3: hleb301 folded before Flop (didn't bet)
+Seat 4: MSD2006 showed [5d 5c] and won (7690) with two pair, Fives and Deuces
+Seat 5: Mahu2021 folded before Flop (didn't bet)
+Seat 6: u.andrei.md (button) folded before Flop (didn't bet)
+Seat 7: Lavrik15 (small blind) folded before Flop
+Seat 8: SPINNE840 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #253417156088: Tournament #3823136828, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level VIII (70/140) - 2024/11/15 20:35:28 CET [2024/11/15 14:35:28 ET]
+Table '3823136828 82' 8-max Seat #7 is the button
+Seat 1: alin_padurar (6037 in chips, $5 bounty) 
+Seat 2: gettla 233 (15858 in chips, $2 bounty) 
+Seat 3: hleb301 (8260 in chips, $2 bounty) 
+Seat 4: MSD2006 (7690 in chips, $3 bounty) 
+Seat 5: Mahu2021 (5873 in chips, $3 bounty) 
+Seat 6: u.andrei.md (8799 in chips, $3 bounty) 
+Seat 7: Lavrik15 (4258 in chips, $2 bounty) 
+Seat 8: SPINNE840 (2476 in chips, $2 bounty) 
+alin_padurar: posts the ante 21
+gettla 233: posts the ante 21
+hleb301: posts the ante 21
+MSD2006: posts the ante 21
+Mahu2021: posts the ante 21
+u.andrei.md: posts the ante 21
+Lavrik15: posts the ante 21
+SPINNE840: posts the ante 21
+SPINNE840: posts small blind 70
+alin_padurar: posts big blind 140
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s 6c]
+gettla 233: folds 
+hleb301: raises 140 to 280
+MSD2006: calls 280
+Mahu2021: calls 280
+u.andrei.md: folds 
+Lavrik15: folds 
+SPINNE840: folds 
+alin_padurar: raises 5736 to 6016 and is all-in
+hleb301: folds 
+MSD2006: folds 
+Mahu2021: folds 
+Uncalled bet (5736) returned to alin_padurar
+alin_padurar collected 1358 from pot
+alin_padurar: doesn't show hand 
+*** SUMMARY ***
+Total pot 1358 | Rake 0 
+Seat 1: alin_padurar (big blind) collected (1358)
+Seat 2: gettla 233 folded before Flop (didn't bet)
+Seat 3: hleb301 folded before Flop
+Seat 4: MSD2006 folded before Flop
+Seat 5: Mahu2021 folded before Flop
+Seat 6: u.andrei.md folded before Flop (didn't bet)
+Seat 7: Lavrik15 (button) folded before Flop (didn't bet)
+Seat 8: SPINNE840 (small blind) folded before Flop
+
+
+
+PokerStars Hand #253417161980: Tournament #3823136828, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level VIII (70/140) - 2024/11/15 20:35:49 CET [2024/11/15 14:35:49 ET]
+Table '3823136828 82' 8-max Seat #8 is the button
+Seat 1: alin_padurar (7094 in chips, $5 bounty) 
+Seat 2: gettla 233 (15837 in chips, $2 bounty) 
+Seat 3: hleb301 (7959 in chips, $2 bounty) 
+Seat 4: MSD2006 (7389 in chips, $3 bounty) 
+Seat 5: Mahu2021 (5572 in chips, $3 bounty) 
+Seat 6: u.andrei.md (8778 in chips, $3 bounty) 
+Seat 7: Lavrik15 (4237 in chips, $2 bounty) 
+Seat 8: SPINNE840 (2385 in chips, $2 bounty) 
+alin_padurar: posts the ante 21
+gettla 233: posts the ante 21
+hleb301: posts the ante 21
+MSD2006: posts the ante 21
+Mahu2021: posts the ante 21
+u.andrei.md: posts the ante 21
+Lavrik15: posts the ante 21
+SPINNE840: posts the ante 21
+alin_padurar: posts small blind 70
+gettla 233: posts big blind 140
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2c 7d]
+hleb301: folds 
+MSD2006: folds 
+Mahu2021: folds 
+u.andrei.md: folds 
+Lavrik15: folds 
+SPINNE840: folds 
+alin_padurar: raises 140 to 280
+gettla 233: folds 
+Uncalled bet (140) returned to alin_padurar
+alin_padurar collected 448 from pot
+alin_padurar: doesn't show hand 
+*** SUMMARY ***
+Total pot 448 | Rake 0 
+Seat 1: alin_padurar (small blind) collected (448)
+Seat 2: gettla 233 (big blind) folded before Flop
+Seat 3: hleb301 folded before Flop (didn't bet)
+Seat 4: MSD2006 folded before Flop (didn't bet)
+Seat 5: Mahu2021 folded before Flop (didn't bet)
+Seat 6: u.andrei.md folded before Flop (didn't bet)
+Seat 7: Lavrik15 folded before Flop (didn't bet)
+Seat 8: SPINNE840 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253417169562: Tournament #3823136828, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level VIII (70/140) - 2024/11/15 20:36:16 CET [2024/11/15 14:36:16 ET]
+Table '3823136828 82' 8-max Seat #1 is the button
+Seat 1: alin_padurar (7381 in chips, $5 bounty) 
+Seat 2: gettla 233 (15676 in chips, $2 bounty) 
+Seat 3: hleb301 (7938 in chips, $2 bounty) 
+Seat 4: MSD2006 (7368 in chips, $3 bounty) 
+Seat 5: Mahu2021 (5551 in chips, $3 bounty) 
+Seat 6: u.andrei.md (8757 in chips, $3 bounty) 
+Seat 7: Lavrik15 (4216 in chips, $2 bounty) 
+Seat 8: SPINNE840 (2364 in chips, $2 bounty) 
+alin_padurar: posts the ante 21
+gettla 233: posts the ante 21
+hleb301: posts the ante 21
+MSD2006: posts the ante 21
+Mahu2021: posts the ante 21
+u.andrei.md: posts the ante 21
+Lavrik15: posts the ante 21
+SPINNE840: posts the ante 21
+gettla 233: posts small blind 70
+hleb301: posts big blind 140
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh 4h]
+MSD2006: raises 140 to 280
+Mahu2021: folds 
+u.andrei.md: folds 
+Lavrik15: folds 
+SPINNE840: folds 
+alin_padurar: raises 140 to 420
+gettla 233: folds 
+hleb301: calls 280
+MSD2006: calls 140
+*** FLOP *** [3c As Jc]
+hleb301: checks 
+MSD2006: checks 
+alin_padurar: bets 749
+hleb301: folds 
+MSD2006: folds 
+Uncalled bet (749) returned to alin_padurar
+alin_padurar collected 1498 from pot
+alin_padurar: doesn't show hand 
+*** SUMMARY ***
+Total pot 1498 | Rake 0 
+Board [3c As Jc]
+Seat 1: alin_padurar (button) collected (1498)
+Seat 2: gettla 233 (small blind) folded before Flop
+Seat 3: hleb301 (big blind) folded on the Flop
+Seat 4: MSD2006 folded on the Flop
+Seat 5: Mahu2021 folded before Flop (didn't bet)
+Seat 6: u.andrei.md folded before Flop (didn't bet)
+Seat 7: Lavrik15 folded before Flop (didn't bet)
+Seat 8: SPINNE840 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253417176747: Tournament #3823136828, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level VIII (70/140) - 2024/11/15 20:36:42 CET [2024/11/15 14:36:42 ET]
+Table '3823136828 82' 8-max Seat #2 is the button
+Seat 1: alin_padurar (8438 in chips, $5 bounty) 
+Seat 2: gettla 233 (15585 in chips, $2 bounty) 
+Seat 3: hleb301 (7497 in chips, $2 bounty) 
+Seat 4: MSD2006 (6927 in chips, $3 bounty) 
+Seat 5: Mahu2021 (5530 in chips, $3 bounty) 
+Seat 6: u.andrei.md (8736 in chips, $3 bounty) 
+Seat 7: Lavrik15 (4195 in chips, $2 bounty) 
+Seat 8: SPINNE840 (2343 in chips, $2 bounty) 
+alin_padurar: posts the ante 21
+gettla 233: posts the ante 21
+hleb301: posts the ante 21
+MSD2006: posts the ante 21
+Mahu2021: posts the ante 21
+u.andrei.md: posts the ante 21
+Lavrik15: posts the ante 21
+SPINNE840: posts the ante 21
+hleb301: posts small blind 70
+MSD2006: posts big blind 140
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kc 2c]
+Mahu2021: folds 
+u.andrei.md: folds 
+Lavrik15: raises 140 to 280
+SPINNE840: folds 
+alin_padurar: calls 280
+gettla 233: folds 
+hleb301: folds 
+MSD2006: folds 
+*** FLOP *** [Td Qd 2s]
+Lavrik15: bets 210
+alin_padurar: calls 210
+*** TURN *** [Td Qd 2s] [8h]
+Lavrik15: bets 700
+alin_padurar: folds 
+Uncalled bet (700) returned to Lavrik15
+Lavrik15 collected 1358 from pot
+Lavrik15: doesn't show hand 
+*** SUMMARY ***
+Total pot 1358 | Rake 0 
+Board [Td Qd 2s 8h]
+Seat 1: alin_padurar folded on the Turn
+Seat 2: gettla 233 (button) folded before Flop (didn't bet)
+Seat 3: hleb301 (small blind) folded before Flop
+Seat 4: MSD2006 (big blind) folded before Flop
+Seat 5: Mahu2021 folded before Flop (didn't bet)
+Seat 6: u.andrei.md folded before Flop (didn't bet)
+Seat 7: Lavrik15 collected (1358)
+Seat 8: SPINNE840 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253417190543: Tournament #3823136828, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level VIII (70/140) - 2024/11/15 20:37:31 CET [2024/11/15 14:37:31 ET]
+Table '3823136828 82' 8-max Seat #3 is the button
+Seat 1: alin_padurar (7927 in chips, $5 bounty) 
+Seat 2: gettla 233 (15564 in chips, $2 bounty) 
+Seat 3: hleb301 (7406 in chips, $2 bounty) 
+Seat 4: MSD2006 (6766 in chips, $3 bounty) 
+Seat 5: Mahu2021 (5509 in chips, $3 bounty) 
+Seat 6: u.andrei.md (8715 in chips, $3 bounty) 
+Seat 7: Lavrik15 (5042 in chips, $2 bounty) 
+Seat 8: SPINNE840 (2322 in chips, $2 bounty) 
+alin_padurar: posts the ante 21
+gettla 233: posts the ante 21
+hleb301: posts the ante 21
+MSD2006: posts the ante 21
+Mahu2021: posts the ante 21
+u.andrei.md: posts the ante 21
+Lavrik15: posts the ante 21
+SPINNE840: posts the ante 21
+MSD2006: posts small blind 70
+Mahu2021: posts big blind 140
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5h Tc]
+u.andrei.md: folds 
+Lavrik15: folds 
+SPINNE840: folds 
+alin_padurar: folds 
+gettla 233: folds 
+hleb301: folds 
+MSD2006: folds 
+Uncalled bet (70) returned to Mahu2021
+Mahu2021 collected 308 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 308 | Rake 0 
+Seat 1: alin_padurar folded before Flop (didn't bet)
+Seat 2: gettla 233 folded before Flop (didn't bet)
+Seat 3: hleb301 (button) folded before Flop (didn't bet)
+Seat 4: MSD2006 (small blind) folded before Flop
+Seat 5: Mahu2021 (big blind) collected (308)
+Seat 6: u.andrei.md folded before Flop (didn't bet)
+Seat 7: Lavrik15 folded before Flop (didn't bet)
+Seat 8: SPINNE840 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253417196027: Tournament #3823136828, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level VIII (70/140) - 2024/11/15 20:37:51 CET [2024/11/15 14:37:51 ET]
+Table '3823136828 82' 8-max Seat #4 is the button
+Seat 1: alin_padurar (7906 in chips, $5 bounty) 
+Seat 2: gettla 233 (15543 in chips, $2 bounty) 
+Seat 3: hleb301 (7385 in chips, $2 bounty) 
+Seat 4: MSD2006 (6675 in chips, $3 bounty) 
+Seat 5: Mahu2021 (5726 in chips, $3 bounty) 
+Seat 6: u.andrei.md (8694 in chips, $3 bounty) 
+Seat 7: Lavrik15 (5021 in chips, $2 bounty) 
+Seat 8: SPINNE840 (2301 in chips, $2 bounty) 
+alin_padurar: posts the ante 21
+gettla 233: posts the ante 21
+hleb301: posts the ante 21
+MSD2006: posts the ante 21
+Mahu2021: posts the ante 21
+u.andrei.md: posts the ante 21
+Lavrik15: posts the ante 21
+SPINNE840: posts the ante 21
+Mahu2021: posts small blind 70
+u.andrei.md: posts big blind 140
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc 5s]
+Lavrik15: folds 
+SPINNE840: folds 
+alin_padurar: raises 140 to 280
+gettla 233: folds 
+hleb301: folds 
+MSD2006: folds 
+Mahu2021: folds 
+u.andrei.md: calls 140
+*** FLOP *** [4d 8d Qh]
+u.andrei.md: checks 
+alin_padurar: bets 399
+u.andrei.md: calls 399
+*** TURN *** [4d 8d Qh] [8c]
+u.andrei.md: checks 
+alin_padurar: bets 1078
+u.andrei.md: calls 1078
+*** RIVER *** [4d 8d Qh 8c] [6h]
+u.andrei.md: checks 
+alin_padurar: checks 
+*** SHOW DOWN ***
+u.andrei.md: shows [2d Ad] (a pair of Eights)
+alin_padurar: shows [9c 4c] (two pair, Eights and Fours)
+alin_padurar collected 3752 from pot
+*** SUMMARY ***
+Total pot 3752 | Rake 0 
+Board [4d 8d Qh 8c 6h]
+Seat 1: alin_padurar showed [9c 4c] and won (3752) with two pair, Eights and Fours
+Seat 2: gettla 233 folded before Flop (didn't bet)
+Seat 3: hleb301 folded before Flop (didn't bet)
+Seat 4: MSD2006 (button) folded before Flop (didn't bet)
+Seat 5: Mahu2021 (small blind) folded before Flop
+Seat 6: u.andrei.md (big blind) showed [2d Ad] and lost with a pair of Eights
+Seat 7: Lavrik15 folded before Flop (didn't bet)
+Seat 8: SPINNE840 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253417205705: Tournament #3823136828, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level VIII (70/140) - 2024/11/15 20:38:26 CET [2024/11/15 14:38:26 ET]
+Table '3823136828 82' 8-max Seat #5 is the button
+Seat 1: alin_padurar (9880 in chips, $5 bounty) 
+Seat 2: gettla 233 (15522 in chips, $2 bounty) 
+Seat 3: hleb301 (7364 in chips, $2 bounty) 
+Seat 4: MSD2006 (6654 in chips, $3 bounty) 
+Seat 5: Mahu2021 (5635 in chips, $3 bounty) 
+Seat 6: u.andrei.md (6916 in chips, $3 bounty) 
+Seat 7: Lavrik15 (5000 in chips, $2 bounty) 
+Seat 8: SPINNE840 (2280 in chips, $2 bounty) 
+alin_padurar: posts the ante 21
+gettla 233: posts the ante 21
+hleb301: posts the ante 21
+MSD2006: posts the ante 21
+Mahu2021: posts the ante 21
+u.andrei.md: posts the ante 21
+Lavrik15: posts the ante 21
+SPINNE840: posts the ante 21
+u.andrei.md: posts small blind 70
+Lavrik15: posts big blind 140
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h 6s]
+SPINNE840: folds 
+alin_padurar: raises 140 to 280
+gettla 233: calls 280
+hleb301: folds 
+MSD2006: folds 
+Mahu2021: folds 
+u.andrei.md: folds 
+Lavrik15: folds 
+*** FLOP *** [Ks Js 6h]
+alin_padurar: bets 469
+gettla 233: folds 
+Uncalled bet (469) returned to alin_padurar
+alin_padurar collected 938 from pot
+alin_padurar: doesn't show hand 
+*** SUMMARY ***
+Total pot 938 | Rake 0 
+Board [Ks Js 6h]
+Seat 1: alin_padurar collected (938)
+Seat 2: gettla 233 folded on the Flop
+Seat 3: hleb301 folded before Flop (didn't bet)
+Seat 4: MSD2006 folded before Flop (didn't bet)
+Seat 5: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 6: u.andrei.md (small blind) folded before Flop
+Seat 7: Lavrik15 (big blind) folded before Flop
+Seat 8: SPINNE840 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253417215490: Tournament #3823136828, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level VIII (70/140) - 2024/11/15 20:39:01 CET [2024/11/15 14:39:01 ET]
+Table '3823136828 82' 8-max Seat #6 is the button
+Seat 1: alin_padurar (10517 in chips, $5 bounty) 
+Seat 2: gettla 233 (15221 in chips, $2 bounty) 
+Seat 3: hleb301 (7343 in chips, $2 bounty) 
+Seat 4: MSD2006 (6633 in chips, $3 bounty) 
+Seat 5: Mahu2021 (5614 in chips, $3 bounty) 
+Seat 6: u.andrei.md (6825 in chips, $3 bounty) 
+Seat 7: Lavrik15 (4839 in chips, $2 bounty) 
+Seat 8: SPINNE840 (2259 in chips, $2 bounty) 
+alin_padurar: posts the ante 21
+gettla 233: posts the ante 21
+hleb301: posts the ante 21
+MSD2006: posts the ante 21
+Mahu2021: posts the ante 21
+u.andrei.md: posts the ante 21
+Lavrik15: posts the ante 21
+SPINNE840: posts the ante 21
+Lavrik15: posts small blind 70
+SPINNE840: posts big blind 140
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d 8c]
+alin_padurar: folds 
+gettla 233: calls 140
+hleb301: folds 
+MSD2006: folds 
+Mahu2021: folds 
+u.andrei.md: folds 
+Lavrik15: folds 
+SPINNE840: checks 
+*** FLOP *** [4d 8d 3c]
+SPINNE840: checks 
+gettla 233: bets 280
+SPINNE840: calls 280
+*** TURN *** [4d 8d 3c] [Ah]
+SPINNE840: checks 
+gettla 233: bets 280
+SPINNE840: calls 280
+*** RIVER *** [4d 8d 3c Ah] [Ts]
+SPINNE840: checks 
+gettla 233: bets 1638
+SPINNE840: folds 
+Uncalled bet (1638) returned to gettla 233
+gettla 233 collected 1638 from pot
+gettla 233: doesn't show hand 
+*** SUMMARY ***
+Total pot 1638 | Rake 0 
+Board [4d 8d 3c Ah Ts]
+Seat 1: alin_padurar folded before Flop (didn't bet)
+Seat 2: gettla 233 collected (1638)
+Seat 3: hleb301 folded before Flop (didn't bet)
+Seat 4: MSD2006 folded before Flop (didn't bet)
+Seat 5: Mahu2021 folded before Flop (didn't bet)
+Seat 6: u.andrei.md (button) folded before Flop (didn't bet)
+Seat 7: Lavrik15 (small blind) folded before Flop
+Seat 8: SPINNE840 (big blind) folded on the River
+
+
+
+PokerStars Hand #253417225934: Tournament #3823136828, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level VIII (70/140) - 2024/11/15 20:39:38 CET [2024/11/15 14:39:38 ET]
+Table '3823136828 82' 8-max Seat #7 is the button
+Seat 1: alin_padurar (10496 in chips, $5 bounty) 
+Seat 2: gettla 233 (16138 in chips, $2 bounty) 
+Seat 3: hleb301 (7322 in chips, $2 bounty) 
+Seat 4: MSD2006 (6612 in chips, $3 bounty) 
+Seat 5: Mahu2021 (5593 in chips, $3 bounty) 
+Seat 6: u.andrei.md (6804 in chips, $3 bounty) 
+Seat 7: Lavrik15 (4748 in chips, $2 bounty) 
+Seat 8: SPINNE840 (1538 in chips, $2 bounty) 
+alin_padurar: posts the ante 21
+gettla 233: posts the ante 21
+hleb301: posts the ante 21
+MSD2006: posts the ante 21
+Mahu2021: posts the ante 21
+u.andrei.md: posts the ante 21
+Lavrik15: posts the ante 21
+SPINNE840: posts the ante 21
+SPINNE840: posts small blind 70
+alin_padurar: posts big blind 140
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d Kd]
+gettla 233: raises 140 to 280
+hleb301: folds 
+MSD2006: folds 
+Mahu2021: folds 
+u.andrei.md: folds 
+Lavrik15: folds 
+SPINNE840: calls 210
+alin_padurar: calls 140
+*** FLOP *** [Ac 6s Js]
+SPINNE840: checks 
+alin_padurar: checks 
+gettla 233: bets 280
+SPINNE840: calls 280
+alin_padurar: folds 
+*** TURN *** [Ac 6s Js] [2h]
+SPINNE840: checks 
+gettla 233: bets 280
+SPINNE840: folds 
+Uncalled bet (280) returned to gettla 233
+gettla 233 collected 1568 from pot
+gettla 233: doesn't show hand 
+*** SUMMARY ***
+Total pot 1568 | Rake 0 
+Board [Ac 6s Js 2h]
+Seat 1: alin_padurar (big blind) folded on the Flop
+Seat 2: gettla 233 collected (1568)
+Seat 3: hleb301 folded before Flop (didn't bet)
+Seat 4: MSD2006 folded before Flop (didn't bet)
+Seat 5: Mahu2021 folded before Flop (didn't bet)
+Seat 6: u.andrei.md folded before Flop (didn't bet)
+Seat 7: Lavrik15 (button) folded before Flop (didn't bet)
+Seat 8: SPINNE840 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #253417238400: Tournament #3823136828, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level VIII (70/140) - 2024/11/15 20:40:23 CET [2024/11/15 14:40:23 ET]
+Table '3823136828 82' 8-max Seat #8 is the button
+Seat 1: alin_padurar (10195 in chips, $5 bounty) 
+Seat 2: gettla 233 (17125 in chips, $2 bounty) 
+Seat 3: hleb301 (7301 in chips, $2 bounty) 
+Seat 4: MSD2006 (6591 in chips, $3 bounty) 
+Seat 5: Mahu2021 (5572 in chips, $3 bounty) 
+Seat 6: u.andrei.md (6783 in chips, $3 bounty) 
+Seat 7: Lavrik15 (4727 in chips, $2 bounty) 
+Seat 8: SPINNE840 (957 in chips, $2 bounty) 
+alin_padurar: posts the ante 21
+gettla 233: posts the ante 21
+hleb301: posts the ante 21
+MSD2006: posts the ante 21
+Mahu2021: posts the ante 21
+u.andrei.md: posts the ante 21
+Lavrik15: posts the ante 21
+SPINNE840: posts the ante 21
+alin_padurar: posts small blind 70
+gettla 233: posts big blind 140
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d 8c]
+hleb301: folds 
+MSD2006: raises 140 to 280
+Mahu2021: folds 
+u.andrei.md: folds 
+Lavrik15: calls 280
+SPINNE840: calls 280
+alin_padurar: folds 
+gettla 233: folds 
+*** FLOP *** [Th 9h 5d]
+MSD2006: bets 350
+Lavrik15: calls 350
+SPINNE840: raises 306 to 656 and is all-in
+MSD2006: calls 306
+Lavrik15: calls 306
+*** TURN *** [Th 9h 5d] [Td]
+MSD2006: bets 980
+Lavrik15: calls 980
+*** RIVER *** [Th 9h 5d Td] [3s]
+MSD2006: bets 4477
+Lavrik15: folds 
+Uncalled bet (4477) returned to MSD2006
+*** SHOW DOWN ***
+MSD2006: shows [Ts As] (three of a kind, Tens)
+MSD2006 collected 1960 from side pot
+SPINNE840: shows [Jh Qh] (a pair of Tens)
+MSD2006 collected 3186 from main pot
+MSD2006 wins $1 for eliminating SPINNE840 and their own bounty increases by $1 to $4
+SPINNE840 finished the tournament
+*** SUMMARY ***
+Total pot 5146 Main pot 3186. Side pot 1960. | Rake 0 
+Board [Th 9h 5d Td 3s]
+Seat 1: alin_padurar (small blind) folded before Flop
+Seat 2: gettla 233 (big blind) folded before Flop
+Seat 3: hleb301 folded before Flop (didn't bet)
+Seat 4: MSD2006 showed [Ts As] and won (5146) with three of a kind, Tens
+Seat 5: Mahu2021 folded before Flop (didn't bet)
+Seat 6: u.andrei.md folded before Flop (didn't bet)
+Seat 7: Lavrik15 folded on the River
+Seat 8: SPINNE840 (button) showed [Jh Qh] and lost with a pair of Tens
+
+
+
+PokerStars Hand #253417257983: Tournament #3823136828, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level IX (80/160) - 2024/11/15 20:41:34 CET [2024/11/15 14:41:34 ET]
+Table '3823136828 82' 8-max Seat #1 is the button
+Seat 1: alin_padurar (10104 in chips, $5 bounty) 
+Seat 2: gettla 233 (16964 in chips, $2 bounty) 
+Seat 3: hleb301 (7280 in chips, $2 bounty) 
+Seat 4: MSD2006 (9800 in chips, $4 bounty) 
+Seat 5: Mahu2021 (5551 in chips, $3 bounty) 
+Seat 6: u.andrei.md (6762 in chips, $3 bounty) 
+Seat 7: Lavrik15 (2790 in chips, $2 bounty) 
+alin_padurar: posts the ante 24
+gettla 233: posts the ante 24
+hleb301: posts the ante 24
+MSD2006: posts the ante 24
+Mahu2021: posts the ante 24
+u.andrei.md: posts the ante 24
+Lavrik15: posts the ante 24
+gettla 233: posts small blind 80
+hleb301: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c 8s]
+MSD2006: folds 
+Mahu2021: folds 
+u.andrei.md: raises 160 to 320
+ATECS is disconnected 
+Lavrik15: folds 
+alin_padurar: folds 
+gettla 233: folds 
+hleb301: calls 160
+*** FLOP *** [Ks Tc 3d]
+hleb301: checks 
+u.andrei.md: bets 293
+hleb301: calls 293
+*** TURN *** [Ks Tc 3d] [Js]
+hleb301: checks 
+u.andrei.md: bets 1106
+hleb301: folds 
+Uncalled bet (1106) returned to u.andrei.md
+u.andrei.md collected 1474 from pot
+u.andrei.md: doesn't show hand 
+*** SUMMARY ***
+Total pot 1474 | Rake 0 
+Board [Ks Tc 3d Js]
+Seat 1: alin_padurar (button) folded before Flop (didn't bet)
+Seat 2: gettla 233 (small blind) folded before Flop
+Seat 3: hleb301 (big blind) folded on the Turn
+Seat 4: MSD2006 folded before Flop (didn't bet)
+Seat 5: Mahu2021 folded before Flop (didn't bet)
+Seat 6: u.andrei.md collected (1474)
+Seat 7: Lavrik15 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253417267595: Tournament #3823136828, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level IX (80/160) - 2024/11/15 20:42:09 CET [2024/11/15 14:42:09 ET]
+Table '3823136828 82' 8-max Seat #2 is the button
+Seat 1: alin_padurar (10080 in chips, $5 bounty) 
+Seat 2: gettla 233 (16860 in chips, $2 bounty) 
+Seat 3: hleb301 (6643 in chips, $2 bounty) 
+Seat 4: MSD2006 (9776 in chips, $4 bounty) 
+Seat 5: Mahu2021 (5527 in chips, $3 bounty) 
+Seat 6: u.andrei.md (7599 in chips, $3 bounty) 
+Seat 7: Lavrik15 (2766 in chips, $2 bounty) 
+Seat 8: ATECS (5000 in chips, $2 bounty) 
+alin_padurar: posts the ante 24
+gettla 233: posts the ante 24
+hleb301: posts the ante 24
+MSD2006: posts the ante 24
+Mahu2021: posts the ante 24
+u.andrei.md: posts the ante 24
+Lavrik15: posts the ante 24
+ATECS: posts the ante 24
+hleb301: posts small blind 80
+MSD2006: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h 2c]
+Mahu2021: folds 
+u.andrei.md: raises 160 to 320
+Lavrik15: folds 
+ATECS: calls 320
+alin_padurar: folds 
+gettla 233: folds 
+hleb301: folds 
+MSD2006: calls 160
+*** FLOP *** [5c 3d 8c]
+MSD2006: checks 
+u.andrei.md: checks 
+ATECS: checks 
+*** TURN *** [5c 3d 8c] [Th]
+MSD2006: checks 
+u.andrei.md: bets 407
+ATECS: calls 407
+MSD2006: calls 407
+*** RIVER *** [5c 3d 8c Th] [Ks]
+MSD2006: checks 
+u.andrei.md: checks 
+ATECS: bets 640
+MSD2006: calls 640
+u.andrei.md: folds 
+*** SHOW DOWN ***
+ATECS: shows [9d 7c] (high card King)
+MSD2006: shows [Jh Td] (a pair of Tens)
+MSD2006 collected 3733 from pot
+*** SUMMARY ***
+Total pot 3733 | Rake 0 
+Board [5c 3d 8c Th Ks]
+Seat 1: alin_padurar folded before Flop (didn't bet)
+Seat 2: gettla 233 (button) folded before Flop (didn't bet)
+Seat 3: hleb301 (small blind) folded before Flop
+Seat 4: MSD2006 (big blind) showed [Jh Td] and won (3733) with a pair of Tens
+Seat 5: Mahu2021 folded before Flop (didn't bet)
+Seat 6: u.andrei.md folded on the River
+Seat 7: Lavrik15 folded before Flop (didn't bet)
+Seat 8: ATECS showed [9d 7c] and lost with high card King
+
+
+
+PokerStars Hand #253417281683: Tournament #3823136828, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level IX (80/160) - 2024/11/15 20:43:00 CET [2024/11/15 14:43:00 ET]
+Table '3823136828 82' 8-max Seat #3 is the button
+Seat 1: alin_padurar (10056 in chips, $5 bounty) 
+Seat 2: gettla 233 (16836 in chips, $2 bounty) 
+Seat 3: hleb301 (6539 in chips, $2 bounty) 
+Seat 4: MSD2006 (12118 in chips, $4 bounty) 
+Seat 5: Mahu2021 (5503 in chips, $3 bounty) 
+Seat 6: u.andrei.md (6848 in chips, $3 bounty) 
+Seat 7: Lavrik15 (2742 in chips, $2 bounty) 
+Seat 8: ATECS (3609 in chips, $2 bounty) 
+alin_padurar: posts the ante 24
+gettla 233: posts the ante 24
+hleb301: posts the ante 24
+MSD2006: posts the ante 24
+Mahu2021: posts the ante 24
+u.andrei.md: posts the ante 24
+Lavrik15: posts the ante 24
+ATECS: posts the ante 24
+MSD2006: posts small blind 80
+Mahu2021: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s 4h]
+u.andrei.md: folds 
+Lavrik15: folds 
+ATECS: raises 3425 to 3585 and is all-in
+alin_padurar: folds 
+gettla 233: folds 
+hleb301: folds 
+MSD2006: folds 
+Mahu2021: folds 
+Uncalled bet (3425) returned to ATECS
+ATECS collected 592 from pot
+ATECS: doesn't show hand 
+*** SUMMARY ***
+Total pot 592 | Rake 0 
+Seat 1: alin_padurar folded before Flop (didn't bet)
+Seat 2: gettla 233 folded before Flop (didn't bet)
+Seat 3: hleb301 (button) folded before Flop (didn't bet)
+Seat 4: MSD2006 (small blind) folded before Flop
+Seat 5: Mahu2021 (big blind) folded before Flop
+Seat 6: u.andrei.md folded before Flop (didn't bet)
+Seat 7: Lavrik15 folded before Flop (didn't bet)
+Seat 8: ATECS collected (592)
+
+
+
+PokerStars Hand #253417287190: Tournament #3823136828, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level IX (80/160) - 2024/11/15 20:43:20 CET [2024/11/15 14:43:20 ET]
+Table '3823136828 82' 8-max Seat #5 is the button
+Seat 1: alin_padurar (10032 in chips, $5 bounty) 
+Seat 2: gettla 233 (16812 in chips, $2 bounty) 
+Seat 3: hleb301 (6515 in chips, $2 bounty) 
+Seat 5: Mahu2021 (5319 in chips, $3 bounty) 
+Seat 6: u.andrei.md (6824 in chips, $3 bounty) 
+Seat 7: Lavrik15 (2718 in chips, $2 bounty) 
+Seat 8: ATECS (4017 in chips, $2 bounty) 
+alin_padurar: posts the ante 24
+gettla 233: posts the ante 24
+hleb301: posts the ante 24
+Mahu2021: posts the ante 24
+u.andrei.md: posts the ante 24
+Lavrik15: posts the ante 24
+ATECS: posts the ante 24
+u.andrei.md: posts small blind 80
+Lavrik15: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d 6s]
+ATECS: folds 
+alin_padurar: folds 
+gettla 233: folds 
+hleb301: folds 
+Mahu2021: folds 
+u.andrei.md: raises 6640 to 6800 and is all-in
+Lavrik15: folds 
+Uncalled bet (6640) returned to u.andrei.md
+u.andrei.md collected 488 from pot
+u.andrei.md: doesn't show hand 
+*** SUMMARY ***
+Total pot 488 | Rake 0 
+Seat 1: alin_padurar folded before Flop (didn't bet)
+Seat 2: gettla 233 folded before Flop (didn't bet)
+Seat 3: hleb301 folded before Flop (didn't bet)
+Seat 5: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 6: u.andrei.md (small blind) collected (488)
+Seat 7: Lavrik15 (big blind) folded before Flop
+Seat 8: ATECS folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253417291472: Tournament #3823136828, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level IX (80/160) - 2024/11/15 20:43:36 CET [2024/11/15 14:43:36 ET]
+Table '3823136828 82' 8-max Seat #6 is the button
+Seat 1: alin_padurar (10008 in chips, $5 bounty) 
+Seat 2: gettla 233 (16788 in chips, $2 bounty) 
+Seat 3: hleb301 (6491 in chips, $2 bounty) 
+Seat 5: Mahu2021 (5295 in chips, $3 bounty) 
+Seat 6: u.andrei.md (7128 in chips, $3 bounty) 
+Seat 7: Lavrik15 (2534 in chips, $2 bounty) 
+Seat 8: ATECS (3993 in chips, $2 bounty) 
+alin_padurar: posts the ante 24
+gettla 233: posts the ante 24
+hleb301: posts the ante 24
+Mahu2021: posts the ante 24
+u.andrei.md: posts the ante 24
+Lavrik15: posts the ante 24
+ATECS: posts the ante 24
+Lavrik15: posts small blind 80
+ATECS: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h Ts]
+alin_padurar: folds 
+eric_the_actor1 is disconnected 
+gettla 233: folds 
+hleb301: folds 
+Mahu2021: folds 
+u.andrei.md: raises 160 to 320
+Lavrik15: raises 2190 to 2510 and is all-in
+ATECS: raises 1459 to 3969 and is all-in
+u.andrei.md: folds 
+Uncalled bet (1459) returned to ATECS
+*** FLOP *** [2c 3s Td]
+*** TURN *** [2c 3s Td] [8s]
+*** RIVER *** [2c 3s Td 8s] [6c]
+*** SHOW DOWN ***
+Lavrik15: shows [Qd Ad] (high card Ace)
+ATECS: shows [Qh Jc] (high card Queen)
+Lavrik15 collected 5508 from pot
+*** SUMMARY ***
+Total pot 5508 | Rake 0 
+Board [2c 3s Td 8s 6c]
+Seat 1: alin_padurar folded before Flop (didn't bet)
+Seat 2: gettla 233 folded before Flop (didn't bet)
+Seat 3: hleb301 folded before Flop (didn't bet)
+Seat 5: Mahu2021 folded before Flop (didn't bet)
+Seat 6: u.andrei.md (button) folded before Flop
+Seat 7: Lavrik15 (small blind) showed [Qd Ad] and won (5508) with high card Ace
+Seat 8: ATECS (big blind) showed [Qh Jc] and lost with high card Queen
+
+
+
+PokerStars Hand #253417299416: Tournament #3823136828, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level IX (80/160) - 2024/11/15 20:44:04 CET [2024/11/15 14:44:04 ET]
+Table '3823136828 82' 8-max Seat #7 is the button
+Seat 1: alin_padurar (9984 in chips, $5 bounty) 
+Seat 2: gettla 233 (16764 in chips, $2 bounty) 
+Seat 3: hleb301 (6467 in chips, $2 bounty) 
+Seat 4: eric_the_actor1 (9260 in chips, $2 bounty) 
+Seat 5: Mahu2021 (5271 in chips, $3 bounty) 
+Seat 6: u.andrei.md (6784 in chips, $3 bounty) 
+Seat 7: Lavrik15 (5508 in chips, $2 bounty) 
+Seat 8: ATECS (1459 in chips, $2 bounty) 
+alin_padurar: posts the ante 24
+gettla 233: posts the ante 24
+hleb301: posts the ante 24
+eric_the_actor1: posts the ante 24
+Mahu2021: posts the ante 24
+u.andrei.md: posts the ante 24
+Lavrik15: posts the ante 24
+ATECS: posts the ante 24
+ATECS: posts small blind 80
+alin_padurar: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Tc 8h]
+gettla 233: folds 
+hleb301: folds 
+eric_the_actor1: raises 176 to 336
+Mahu2021: folds 
+u.andrei.md: folds 
+Lavrik15: folds 
+ATECS: raises 1099 to 1435 and is all-in
+alin_padurar: folds 
+eric_the_actor1: calls 1099
+*** FLOP *** [2c 9h 4d]
+*** TURN *** [2c 9h 4d] [6c]
+*** RIVER *** [2c 9h 4d 6c] [7c]
+*** SHOW DOWN ***
+ATECS: shows [Jh Qc] (high card Queen)
+eric_the_actor1: shows [Jd Ac] (high card Ace)
+eric_the_actor1 collected 3222 from pot
+eric_the_actor1 wins $1 for eliminating ATECS and their own bounty increases by $1 to $3
+ATECS finished the tournament
+z@para is disconnected 
+*** SUMMARY ***
+Total pot 3222 | Rake 0 
+Board [2c 9h 4d 6c 7c]
+Seat 1: alin_padurar (big blind) folded before Flop
+Seat 2: gettla 233 folded before Flop (didn't bet)
+Seat 3: hleb301 folded before Flop (didn't bet)
+Seat 4: eric_the_actor1 showed [Jd Ac] and won (3222) with high card Ace
+Seat 5: Mahu2021 folded before Flop (didn't bet)
+Seat 6: u.andrei.md folded before Flop (didn't bet)
+Seat 7: Lavrik15 (button) folded before Flop (didn't bet)
+Seat 8: ATECS (small blind) showed [Jh Qc] and lost with high card Queen
+
+
+
+PokerStars Hand #253417311521: Tournament #3823136828, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level IX (80/160) - 2024/11/15 20:44:48 CET [2024/11/15 14:44:48 ET]
+Table '3823136828 82' 8-max Seat #1 is the button
+Seat 1: alin_padurar (9800 in chips, $5 bounty) 
+Seat 2: gettla 233 (16740 in chips, $2 bounty) 
+Seat 3: hleb301 (6443 in chips, $2 bounty) 
+Seat 4: eric_the_actor1 (11023 in chips, $3 bounty) 
+Seat 5: Mahu2021 (5247 in chips, $3 bounty) 
+Seat 6: u.andrei.md (6760 in chips, $3 bounty) 
+Seat 7: Lavrik15 (5484 in chips, $2 bounty) 
+Seat 8: z@para (5000 in chips, $2 bounty) 
+alin_padurar: posts the ante 24
+gettla 233: posts the ante 24
+hleb301: posts the ante 24
+eric_the_actor1: posts the ante 24
+Mahu2021: posts the ante 24
+u.andrei.md: posts the ante 24
+Lavrik15: posts the ante 24
+z@para: posts the ante 24
+gettla 233: posts small blind 80
+hleb301: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc 9c]
+eric_the_actor1: raises 176 to 336
+Mahu2021: folds 
+u.andrei.md: folds 
+Lavrik15: folds 
+z@para: folds 
+alin_padurar: raises 656 to 992
+gettla 233: folds 
+hleb301: folds 
+eric_the_actor1: folds 
+Uncalled bet (656) returned to alin_padurar
+alin_padurar collected 1104 from pot
+alin_padurar: doesn't show hand 
+*** SUMMARY ***
+Total pot 1104 | Rake 0 
+Seat 1: alin_padurar (button) collected (1104)
+Seat 2: gettla 233 (small blind) folded before Flop
+Seat 3: hleb301 (big blind) folded before Flop
+Seat 4: eric_the_actor1 folded before Flop
+Seat 5: Mahu2021 folded before Flop (didn't bet)
+Seat 6: u.andrei.md folded before Flop (didn't bet)
+Seat 7: Lavrik15 folded before Flop (didn't bet)
+Seat 8: z@para folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253417323193: Tournament #3823136828, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level IX (80/160) - 2024/11/15 20:45:30 CET [2024/11/15 14:45:30 ET]
+Table '3823136828 82' 8-max Seat #2 is the button
+Seat 1: alin_padurar (10544 in chips, $5 bounty) 
+Seat 2: gettla 233 (16636 in chips, $2 bounty) 
+Seat 3: hleb301 (6259 in chips, $2 bounty) 
+Seat 4: eric_the_actor1 (10663 in chips, $3 bounty) 
+Seat 5: Mahu2021 (5223 in chips, $3 bounty) 
+Seat 6: u.andrei.md (6736 in chips, $3 bounty) 
+Seat 7: Lavrik15 (5460 in chips, $2 bounty) 
+Seat 8: z@para (4976 in chips, $2 bounty) 
+alin_padurar: posts the ante 24
+gettla 233: posts the ante 24
+hleb301: posts the ante 24
+eric_the_actor1: posts the ante 24
+Mahu2021: posts the ante 24
+u.andrei.md: posts the ante 24
+Lavrik15: posts the ante 24
+z@para: posts the ante 24
+hleb301: posts small blind 80
+eric_the_actor1: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2s Tc]
+Mahu2021: folds 
+u.andrei.md: folds 
+Lavrik15: folds 
+z@para: folds 
+alin_padurar: folds 
+gettla 233: folds 
+hleb301: folds 
+Uncalled bet (80) returned to eric_the_actor1
+eric_the_actor1 collected 352 from pot
+eric_the_actor1: doesn't show hand 
+*** SUMMARY ***
+Total pot 352 | Rake 0 
+Seat 1: alin_padurar folded before Flop (didn't bet)
+Seat 2: gettla 233 (button) folded before Flop (didn't bet)
+Seat 3: hleb301 (small blind) folded before Flop
+Seat 4: eric_the_actor1 (big blind) collected (352)
+Seat 5: Mahu2021 folded before Flop (didn't bet)
+Seat 6: u.andrei.md folded before Flop (didn't bet)
+Seat 7: Lavrik15 folded before Flop (didn't bet)
+Seat 8: z@para folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253417326257: Tournament #3823136828, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level IX (80/160) - 2024/11/15 20:45:41 CET [2024/11/15 14:45:41 ET]
+Table '3823136828 82' 8-max Seat #3 is the button
+Seat 1: alin_padurar (10520 in chips, $5 bounty) 
+Seat 2: gettla 233 (16612 in chips, $2 bounty) 
+Seat 3: hleb301 (6155 in chips, $2 bounty) 
+Seat 4: eric_the_actor1 (10911 in chips, $3 bounty) 
+Seat 5: Mahu2021 (5199 in chips, $3 bounty) 
+Seat 6: u.andrei.md (6712 in chips, $3 bounty) 
+Seat 7: Lavrik15 (5436 in chips, $2 bounty) 
+Seat 8: z@para (4952 in chips, $2 bounty) 
+alin_padurar: posts the ante 24
+gettla 233: posts the ante 24
+hleb301: posts the ante 24
+eric_the_actor1: posts the ante 24
+Mahu2021: posts the ante 24
+u.andrei.md: posts the ante 24
+Lavrik15: posts the ante 24
+z@para: posts the ante 24
+eric_the_actor1: posts small blind 80
+Mahu2021: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h 9h]
+u.andrei.md: folds 
+Lavrik15: folds 
+z@para: folds 
+alin_padurar: raises 160 to 320
+gettla 233: calls 320
+hleb301: folds 
+eric_the_actor1: folds 
+Mahu2021: calls 160
+*** FLOP *** [6s 6c 3h]
+Mahu2021: checks 
+alin_padurar: checks 
+gettla 233: bets 320
+Mahu2021: folds 
+alin_padurar: calls 320
+*** TURN *** [6s 6c 3h] [8h]
+alin_padurar: checks 
+gettla 233: bets 480
+alin_padurar: raises 1440 to 1920
+gettla 233: folds 
+Uncalled bet (1440) returned to alin_padurar
+alin_padurar collected 2832 from pot
+alin_padurar: doesn't show hand 
+*** SUMMARY ***
+Total pot 2832 | Rake 0 
+Board [6s 6c 3h 8h]
+Seat 1: alin_padurar collected (2832)
+Seat 2: gettla 233 folded on the Turn
+Seat 3: hleb301 (button) folded before Flop (didn't bet)
+Seat 4: eric_the_actor1 (small blind) folded before Flop
+Seat 5: Mahu2021 (big blind) folded on the Flop
+Seat 6: u.andrei.md folded before Flop (didn't bet)
+Seat 7: Lavrik15 folded before Flop (didn't bet)
+Seat 8: z@para folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253417337628: Tournament #3823136828, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level IX (80/160) - 2024/11/15 20:46:21 CET [2024/11/15 14:46:21 ET]
+Table '3823136828 82' 8-max Seat #4 is the button
+Seat 1: alin_padurar (12208 in chips, $5 bounty) 
+Seat 2: gettla 233 (15468 in chips, $2 bounty) 
+Seat 3: hleb301 (6131 in chips, $2 bounty) 
+Seat 4: eric_the_actor1 (10807 in chips, $3 bounty) 
+Seat 5: Mahu2021 (4855 in chips, $3 bounty) 
+Seat 6: u.andrei.md (6688 in chips, $3 bounty) 
+Seat 7: Lavrik15 (5412 in chips, $2 bounty) 
+Seat 8: z@para (4928 in chips, $2 bounty) 
+alin_padurar: posts the ante 24
+gettla 233: posts the ante 24
+hleb301: posts the ante 24
+eric_the_actor1: posts the ante 24
+Mahu2021: posts the ante 24
+u.andrei.md: posts the ante 24
+Lavrik15: posts the ante 24
+z@para: posts the ante 24
+Mahu2021: posts small blind 80
+u.andrei.md: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s Qh]
+Lavrik15: folds 
+z@para: folds 
+alin_padurar: raises 160 to 320
+gettla 233: folds 
+hleb301: folds 
+eric_the_actor1: folds 
+Mahu2021: folds 
+u.andrei.md: calls 160
+*** FLOP *** [As 6d Ac]
+u.andrei.md: checks 
+alin_padurar: bets 456
+u.andrei.md: calls 456
+*** TURN *** [As 6d Ac] [2c]
+u.andrei.md: checks 
+alin_padurar: bets 1072
+u.andrei.md: raises 1072 to 2144
+alin_padurar: folds 
+Uncalled bet (1072) returned to u.andrei.md
+u.andrei.md collected 3968 from pot
+u.andrei.md: doesn't show hand 
+*** SUMMARY ***
+Total pot 3968 | Rake 0 
+Board [As 6d Ac 2c]
+Seat 1: alin_padurar folded on the Turn
+Seat 2: gettla 233 folded before Flop (didn't bet)
+Seat 3: hleb301 folded before Flop (didn't bet)
+Seat 4: eric_the_actor1 (button) folded before Flop (didn't bet)
+Seat 5: Mahu2021 (small blind) folded before Flop
+Seat 6: u.andrei.md (big blind) collected (3968)
+Seat 7: Lavrik15 folded before Flop (didn't bet)
+Seat 8: z@para folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253417351623: Tournament #3823136828, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level IX (80/160) - 2024/11/15 20:47:11 CET [2024/11/15 14:47:11 ET]
+Table '3823136828 82' 8-max Seat #5 is the button
+Seat 1: alin_padurar (10336 in chips, $5 bounty) 
+Seat 2: gettla 233 (15444 in chips, $2 bounty) 
+Seat 3: hleb301 (6107 in chips, $2 bounty) 
+Seat 4: eric_the_actor1 (10783 in chips, $3 bounty) 
+Seat 5: Mahu2021 (4751 in chips, $3 bounty) 
+Seat 6: u.andrei.md (8784 in chips, $3 bounty) 
+Seat 7: Lavrik15 (5388 in chips, $2 bounty) 
+Seat 8: z@para (4904 in chips, $2 bounty) 
+alin_padurar: posts the ante 24
+gettla 233: posts the ante 24
+hleb301: posts the ante 24
+eric_the_actor1: posts the ante 24
+Mahu2021: posts the ante 24
+u.andrei.md: posts the ante 24
+Lavrik15: posts the ante 24
+z@para: posts the ante 24
+u.andrei.md: posts small blind 80
+Lavrik15: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh 9s]
+z@para: raises 160 to 320
+alin_padurar: calls 320
+gettla 233: folds 
+hleb301: folds 
+eric_the_actor1: folds 
+Mahu2021: calls 320
+u.andrei.md: folds 
+Lavrik15: calls 160
+*** FLOP *** [9d 8h 7s]
+Lavrik15: checks 
+z@para: checks 
+alin_padurar: bets 1096
+Mahu2021: raises 3311 to 4407 and is all-in
+Lavrik15: raises 637 to 5044 and is all-in
+z@para: folds 
+alin_padurar: calls 3948
+*** TURN *** [9d 8h 7s] [As]
+*** RIVER *** [9d 8h 7s As] [7c]
+*** SHOW DOWN ***
+Lavrik15: shows [7d 7h] (four of a kind, Sevens)
+alin_padurar: shows [9c Td] (two pair, Nines and Sevens)
+Lavrik15 collected 1274 from side pot
+Mahu2021: shows [Kh 9s] (two pair, Nines and Sevens)
+Lavrik15 collected 14773 from main pot
+Lavrik15 wins $1.50 for eliminating Mahu2021 and their own bounty increases by $1.50 to $3.50
+Mahu2021 finished the tournament
+kasha1111 is disconnected 
+*** SUMMARY ***
+Total pot 16047 Main pot 14773. Side pot 1274. | Rake 0 
+Board [9d 8h 7s As 7c]
+Seat 1: alin_padurar showed [9c Td] and lost with two pair, Nines and Sevens
+Seat 2: gettla 233 folded before Flop (didn't bet)
+Seat 3: hleb301 folded before Flop (didn't bet)
+Seat 4: eric_the_actor1 folded before Flop (didn't bet)
+Seat 5: Mahu2021 (button) showed [Kh 9s] and lost with two pair, Nines and Sevens
+Seat 6: u.andrei.md (small blind) folded before Flop
+Seat 7: Lavrik15 (big blind) showed [7d 7h] and won (16047) with four of a kind, Sevens
+Seat 8: z@para folded on the Flop
+
+
+

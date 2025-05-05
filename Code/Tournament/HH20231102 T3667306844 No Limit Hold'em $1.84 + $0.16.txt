@@ -1,0 +1,86 @@
+﻿PokerStars Hand #246884179202: Tournament #3667306844, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/02 17:04:10 CET [2023/11/02 12:04:10 ET]
+Table '3667306844 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: viniciusjp17 (500 in chips) 
+Seat 3: pinnochio88 (500 in chips) 
+viniciusjp17: posts small blind 10
+pinnochio88: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h Kd]
+Mahu2021: folds 
+viniciusjp17: raises 40 to 60
+pinnochio88: folds 
+Uncalled bet (40) returned to viniciusjp17
+viniciusjp17 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: viniciusjp17 (small blind) collected (40)
+Seat 3: pinnochio88 (big blind) folded before Flop
+
+
+
+PokerStars Hand #246884181190: Tournament #3667306844, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/02 17:04:18 CET [2023/11/02 12:04:18 ET]
+Table '3667306844 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: viniciusjp17 (520 in chips) 
+Seat 3: pinnochio88 (480 in chips) 
+pinnochio88: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc As]
+viniciusjp17: raises 20 to 40
+pinnochio88: raises 440 to 480 and is all-in
+Mahu2021: raises 20 to 500 and is all-in
+viniciusjp17: calls 460
+*** FLOP *** [3d 2d 3c]
+*** TURN *** [3d 2d 3c] [9c]
+*** RIVER *** [3d 2d 3c 9c] [6d]
+*** SHOW DOWN ***
+Mahu2021: shows [Jc As] (a pair of Threes)
+viniciusjp17: shows [Kc 7d] (a pair of Threes - lower kicker)
+Mahu2021 collected 40 from side pot
+pinnochio88: shows [5c 5s] (two pair, Fives and Threes)
+pinnochio88 collected 1440 from main pot
+*** SUMMARY ***
+Total pot 1480 Main pot 1440. Side pot 40. | Rake 0 
+Board [3d 2d 3c 9c 6d]
+Seat 1: Mahu2021 (big blind) showed [Jc As] and won (40) with a pair of Threes
+Seat 2: viniciusjp17 (button) showed [Kc 7d] and lost with a pair of Threes
+Seat 3: pinnochio88 (small blind) showed [5c 5s] and won (1440) with two pair, Fives and Threes
+
+
+
+PokerStars Hand #246884185329: Tournament #3667306844, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/02 17:04:34 CET [2023/11/02 12:04:34 ET]
+Table '3667306844 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (40 in chips) 
+Seat 2: viniciusjp17 (20 in chips) 
+Seat 3: pinnochio88 (1440 in chips) 
+Mahu2021: posts small blind 10
+viniciusjp17: posts big blind 20 and is all-in
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c 9d]
+pinnochio88: raises 1420 to 1440 and is all-in
+Mahu2021: calls 30 and is all-in
+Uncalled bet (1400) returned to pinnochio88
+*** FLOP *** [Kd 5d 4s]
+*** TURN *** [Kd 5d 4s] [As]
+*** RIVER *** [Kd 5d 4s As] [9c]
+*** SHOW DOWN ***
+Mahu2021: shows [6c 9d] (a pair of Nines)
+pinnochio88: shows [Ad 4c] (two pair, Aces and Fours)
+pinnochio88 collected 40 from side pot
+viniciusjp17: shows [2s Tc] (high card Ace)
+pinnochio88 collected 60 from main pot
+Mahu2021 finished the tournament in 2nd place
+viniciusjp17 finished the tournament in 3rd place
+pinnochio88 wins the tournament and receives $6.00 - congratulations!
+*** SUMMARY ***
+Total pot 100 Main pot 60. Side pot 40. | Rake 0 
+Board [Kd 5d 4s As 9c]
+Seat 1: Mahu2021 (small blind) showed [6c 9d] and lost with a pair of Nines
+Seat 2: viniciusjp17 (big blind) showed [2s Tc] and lost with high card Ace
+Seat 3: pinnochio88 (button) showed [Ad 4c] and won (100) with two pair, Aces and Fours
+
+
+

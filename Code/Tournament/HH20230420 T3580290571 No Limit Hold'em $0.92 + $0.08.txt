@@ -1,0 +1,125 @@
+﻿PokerStars Hand #243212924674: Tournament #3580290571, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/20 21:22:20 CET [2023/04/20 15:22:20 ET]
+Table '3580290571 1' 3-max Seat #1 is the button
+Seat 1: shoeseller (500 in chips) 
+Seat 2: zmedo (500 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+zmedo: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8d 9c]
+shoeseller: calls 20
+zmedo: calls 10
+Mahu2021: checks 
+*** FLOP *** [4d 3c 7h]
+zmedo: bets 20
+Mahu2021: folds 
+shoeseller: calls 20
+*** TURN *** [4d 3c 7h] [3d]
+zmedo: bets 20
+shoeseller: folds 
+Uncalled bet (20) returned to zmedo
+zmedo collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [4d 3c 7h 3d]
+Seat 1: shoeseller (button) folded on the Turn
+Seat 2: zmedo (small blind) collected (100)
+Seat 3: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #243212934515: Tournament #3580290571, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/20 21:22:45 CET [2023/04/20 15:22:45 ET]
+Table '3580290571 1' 3-max Seat #2 is the button
+Seat 1: shoeseller (460 in chips) 
+Seat 2: zmedo (560 in chips) 
+Seat 3: Mahu2021 (480 in chips) 
+Mahu2021: posts small blind 10
+shoeseller: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts 8s]
+zmedo: raises 40 to 60
+Mahu2021: folds 
+shoeseller: calls 40
+*** FLOP *** [Ks 6d Td]
+shoeseller: checks 
+zmedo: checks 
+*** TURN *** [Ks 6d Td] [2s]
+shoeseller: bets 130
+zmedo: folds 
+Uncalled bet (130) returned to shoeseller
+shoeseller collected 130 from pot
+shoeseller: doesn't show hand 
+*** SUMMARY ***
+Total pot 130 | Rake 0 
+Board [Ks 6d Td 2s]
+Seat 1: shoeseller (big blind) collected (130)
+Seat 2: zmedo (button) folded on the Turn
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #243212941988: Tournament #3580290571, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/20 21:23:04 CET [2023/04/20 15:23:04 ET]
+Table '3580290571 1' 3-max Seat #3 is the button
+Seat 1: shoeseller (530 in chips) 
+Seat 2: zmedo (500 in chips) 
+Seat 3: Mahu2021 (470 in chips) 
+shoeseller: posts small blind 10
+zmedo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6h Kd]
+Mahu2021: folds 
+shoeseller: calls 10
+zmedo: checks 
+*** FLOP *** [5s 6c 7h]
+shoeseller: checks 
+zmedo: checks 
+*** TURN *** [5s 6c 7h] [Qd]
+shoeseller: checks 
+zmedo: bets 40
+shoeseller: folds 
+Uncalled bet (40) returned to zmedo
+zmedo collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [5s 6c 7h Qd]
+Seat 1: shoeseller (small blind) folded on the Turn
+Seat 2: zmedo (big blind) collected (40)
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #243212949751: Tournament #3580290571, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/20 21:23:24 CET [2023/04/20 15:23:24 ET]
+Table '3580290571 1' 3-max Seat #1 is the button
+Seat 1: shoeseller (510 in chips) 
+Seat 2: zmedo (520 in chips) 
+Seat 3: Mahu2021 (470 in chips) 
+zmedo: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h 5s]
+shoeseller: raises 20 to 40
+zmedo: calls 30
+Mahu2021: calls 20
+*** FLOP *** [8d 9s 3s]
+zmedo: checks 
+Mahu2021: bets 120
+shoeseller: raises 350 to 470 and is all-in
+zmedo: folds 
+Mahu2021: calls 310 and is all-in
+Uncalled bet (40) returned to shoeseller
+*** TURN *** [8d 9s 3s] [Ad]
+*** RIVER *** [8d 9s 3s Ad] [Js]
+*** SHOW DOWN ***
+Mahu2021: shows [9h 5s] (a pair of Nines)
+shoeseller: shows [Qs Qh] (a pair of Queens)
+shoeseller collected 980 from pot
+Mahu2021 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 980 | Rake 0 
+Board [8d 9s 3s Ad Js]
+Seat 1: shoeseller (button) showed [Qs Qh] and won (980) with a pair of Queens
+Seat 2: zmedo (small blind) folded on the Flop
+Seat 3: Mahu2021 (big blind) showed [9h 5s] and lost with a pair of Nines
+
+
+

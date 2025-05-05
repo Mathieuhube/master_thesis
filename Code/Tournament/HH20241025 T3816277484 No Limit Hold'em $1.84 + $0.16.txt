@@ -1,0 +1,561 @@
+﻿PokerStars Hand #253092998270: Tournament #3816277484, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/25 13:22:17 CET [2024/10/25 7:22:17 ET]
+Table '3816277484 1' 3-max Seat #1 is the button
+Seat 1: BellaBarney68 (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: LAWRENCE_JLM (500 in chips) 
+Mahu2021: posts small blind 10
+LAWRENCE_JLM: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d Qc]
+BellaBarney68: calls 20
+Mahu2021: calls 10
+LAWRENCE_JLM: checks 
+*** FLOP *** [3h 4s 8s]
+Mahu2021: checks 
+LAWRENCE_JLM: checks 
+BellaBarney68: checks 
+*** TURN *** [3h 4s 8s] [Js]
+Mahu2021: checks 
+LAWRENCE_JLM: checks 
+BellaBarney68: checks 
+*** RIVER *** [3h 4s 8s Js] [Qh]
+Mahu2021: bets 20
+LAWRENCE_JLM: calls 20
+BellaBarney68: calls 20
+*** SHOW DOWN ***
+Mahu2021: shows [9d Qc] (a pair of Queens)
+LAWRENCE_JLM: mucks hand 
+BellaBarney68: mucks hand 
+Mahu2021 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [3h 4s 8s Js Qh]
+Seat 1: BellaBarney68 (button) mucked [2c Ad]
+Seat 2: Mahu2021 (small blind) showed [9d Qc] and won (120) with a pair of Queens
+Seat 3: LAWRENCE_JLM (big blind) mucked [2d 8d]
+
+
+
+PokerStars Hand #253093001455: Tournament #3816277484, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/25 13:22:41 CET [2024/10/25 7:22:41 ET]
+Table '3816277484 1' 3-max Seat #2 is the button
+Seat 1: BellaBarney68 (460 in chips) 
+Seat 2: Mahu2021 (580 in chips) 
+Seat 3: LAWRENCE_JLM (460 in chips) 
+LAWRENCE_JLM: posts small blind 10
+BellaBarney68: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Td 2h]
+Mahu2021: folds 
+LAWRENCE_JLM: raises 20 to 40
+BellaBarney68: calls 20
+*** FLOP *** [As 9s 3c]
+LAWRENCE_JLM: checks 
+BellaBarney68: checks 
+*** TURN *** [As 9s 3c] [7h]
+LAWRENCE_JLM: bets 20
+BellaBarney68: folds 
+Uncalled bet (20) returned to LAWRENCE_JLM
+LAWRENCE_JLM collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [As 9s 3c 7h]
+Seat 1: BellaBarney68 (big blind) folded on the Turn
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: LAWRENCE_JLM (small blind) collected (80)
+
+
+
+PokerStars Hand #253093004777: Tournament #3816277484, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/25 13:23:06 CET [2024/10/25 7:23:06 ET]
+Table '3816277484 1' 3-max Seat #3 is the button
+Seat 1: BellaBarney68 (420 in chips) 
+Seat 2: Mahu2021 (580 in chips) 
+Seat 3: LAWRENCE_JLM (500 in chips) 
+BellaBarney68: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Td 7s]
+LAWRENCE_JLM: calls 20
+BellaBarney68: calls 10
+Mahu2021: checks 
+*** FLOP *** [6h 6d Qd]
+BellaBarney68: checks 
+Mahu2021: checks 
+LAWRENCE_JLM: checks 
+*** TURN *** [6h 6d Qd] [9h]
+BellaBarney68: checks 
+Mahu2021: checks 
+LAWRENCE_JLM: checks 
+*** RIVER *** [6h 6d Qd 9h] [Tc]
+BellaBarney68: bets 40
+Mahu2021: calls 40
+LAWRENCE_JLM: calls 40
+*** SHOW DOWN ***
+BellaBarney68: shows [4c 9c] (two pair, Nines and Sixes)
+Mahu2021: shows [Td 7s] (two pair, Tens and Sixes)
+LAWRENCE_JLM: mucks hand 
+Mahu2021 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [6h 6d Qd 9h Tc]
+Seat 1: BellaBarney68 (small blind) showed [4c 9c] and lost with two pair, Nines and Sixes
+Seat 2: Mahu2021 (big blind) showed [Td 7s] and won (180) with two pair, Tens and Sixes
+Seat 3: LAWRENCE_JLM (button) mucked [2c As]
+
+
+
+PokerStars Hand #253093011223: Tournament #3816277484, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/25 13:23:53 CET [2024/10/25 7:23:53 ET]
+Table '3816277484 1' 3-max Seat #1 is the button
+Seat 1: BellaBarney68 (360 in chips) 
+Seat 2: Mahu2021 (700 in chips) 
+Seat 3: LAWRENCE_JLM (440 in chips) 
+Mahu2021: posts small blind 10
+LAWRENCE_JLM: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d 8c]
+BellaBarney68: folds 
+Mahu2021: calls 10
+LAWRENCE_JLM: checks 
+*** FLOP *** [Ts Jd Ah]
+Mahu2021: checks 
+LAWRENCE_JLM: checks 
+*** TURN *** [Ts Jd Ah] [2c]
+Mahu2021: checks 
+LAWRENCE_JLM: checks 
+*** RIVER *** [Ts Jd Ah 2c] [6s]
+Mahu2021: bets 20
+LAWRENCE_JLM: calls 20
+*** SHOW DOWN ***
+Mahu2021: shows [7d 8c] (high card Ace)
+LAWRENCE_JLM: shows [9d 9s] (a pair of Nines)
+LAWRENCE_JLM collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Ts Jd Ah 2c 6s]
+Seat 1: BellaBarney68 (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) showed [7d 8c] and lost with high card Ace
+Seat 3: LAWRENCE_JLM (big blind) showed [9d 9s] and won (80) with a pair of Nines
+
+
+
+PokerStars Hand #253093015028: Tournament #3816277484, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/25 13:24:20 CET [2024/10/25 7:24:20 ET]
+Table '3816277484 1' 3-max Seat #2 is the button
+Seat 1: BellaBarney68 (360 in chips) 
+Seat 2: Mahu2021 (660 in chips) 
+Seat 3: LAWRENCE_JLM (480 in chips) 
+LAWRENCE_JLM: posts small blind 10
+BellaBarney68: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s Jc]
+Mahu2021: raises 20 to 40
+LAWRENCE_JLM: folds 
+BellaBarney68: raises 320 to 360 and is all-in
+Mahu2021: folds 
+Uncalled bet (320) returned to BellaBarney68
+BellaBarney68 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Seat 1: BellaBarney68 (big blind) collected (90)
+Seat 2: Mahu2021 (button) folded before Flop
+Seat 3: LAWRENCE_JLM (small blind) folded before Flop
+
+
+
+PokerStars Hand #253093016515: Tournament #3816277484, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/25 13:24:32 CET [2024/10/25 7:24:32 ET]
+Table '3816277484 1' 3-max Seat #3 is the button
+Seat 1: BellaBarney68 (410 in chips) 
+Seat 2: Mahu2021 (620 in chips) 
+Seat 3: LAWRENCE_JLM (470 in chips) 
+BellaBarney68: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h 8s]
+LAWRENCE_JLM: calls 20
+BellaBarney68: raises 390 to 410 and is all-in
+Mahu2021: folds 
+LAWRENCE_JLM: folds 
+Uncalled bet (390) returned to BellaBarney68
+BellaBarney68 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: BellaBarney68 (small blind) collected (60)
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: LAWRENCE_JLM (button) folded before Flop
+
+
+
+PokerStars Hand #253093020550: Tournament #3816277484, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/25 13:25:02 CET [2024/10/25 7:25:02 ET]
+Table '3816277484 1' 3-max Seat #1 is the button
+Seat 1: BellaBarney68 (450 in chips) 
+Seat 2: Mahu2021 (600 in chips) 
+Seat 3: LAWRENCE_JLM (450 in chips) 
+Mahu2021: posts small blind 10
+LAWRENCE_JLM: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d Js]
+BellaBarney68: folds 
+Mahu2021: calls 10
+LAWRENCE_JLM: checks 
+*** FLOP *** [Kh Kc Qh]
+Mahu2021: checks 
+LAWRENCE_JLM: checks 
+*** TURN *** [Kh Kc Qh] [As]
+Mahu2021: checks 
+LAWRENCE_JLM: checks 
+*** RIVER *** [Kh Kc Qh As] [3d]
+Mahu2021: checks 
+LAWRENCE_JLM has timed out
+LAWRENCE_JLM: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [6d Js] (a pair of Kings)
+LAWRENCE_JLM: mucks hand 
+Mahu2021 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Kh Kc Qh As 3d]
+Seat 1: BellaBarney68 (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) showed [6d Js] and won (40) with a pair of Kings
+Seat 3: LAWRENCE_JLM (big blind) mucked [9d 4s]
+
+
+
+PokerStars Hand #253093026093: Tournament #3816277484, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/25 13:25:44 CET [2024/10/25 7:25:44 ET]
+Table '3816277484 1' 3-max Seat #2 is the button
+Seat 1: BellaBarney68 (450 in chips) 
+Seat 2: Mahu2021 (620 in chips) 
+Seat 3: LAWRENCE_JLM (430 in chips) 
+LAWRENCE_JLM: posts small blind 15
+BellaBarney68: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qs 8c]
+Mahu2021: raises 30 to 60
+LAWRENCE_JLM: calls 45
+BellaBarney68: folds 
+*** FLOP *** [7d 6s 5c]
+LAWRENCE_JLM: checks 
+Mahu2021: bets 60
+LAWRENCE_JLM: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 150 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Board [7d 6s 5c]
+Seat 1: BellaBarney68 (big blind) folded before Flop
+Seat 2: Mahu2021 (button) collected (150)
+Seat 3: LAWRENCE_JLM (small blind) folded on the Flop
+
+
+
+PokerStars Hand #253093028102: Tournament #3816277484, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/25 13:25:59 CET [2024/10/25 7:25:59 ET]
+Table '3816277484 1' 3-max Seat #3 is the button
+Seat 1: BellaBarney68 (420 in chips) 
+Seat 2: Mahu2021 (710 in chips) 
+Seat 3: LAWRENCE_JLM (370 in chips) 
+BellaBarney68: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c Kd]
+LAWRENCE_JLM: folds 
+BellaBarney68: calls 15
+Mahu2021: checks 
+*** FLOP *** [3h Ac 6c]
+BellaBarney68: checks 
+Mahu2021: checks 
+*** TURN *** [3h Ac 6c] [5d]
+BellaBarney68: bets 30
+Mahu2021: calls 30
+*** RIVER *** [3h Ac 6c 5d] [Tc]
+BellaBarney68: bets 30
+Mahu2021: folds 
+Uncalled bet (30) returned to BellaBarney68
+BellaBarney68 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [3h Ac 6c 5d Tc]
+Seat 1: BellaBarney68 (small blind) collected (120)
+Seat 2: Mahu2021 (big blind) folded on the River
+Seat 3: LAWRENCE_JLM (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253093030693: Tournament #3816277484, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/25 13:26:19 CET [2024/10/25 7:26:19 ET]
+Table '3816277484 1' 3-max Seat #1 is the button
+Seat 1: BellaBarney68 (480 in chips) 
+Seat 2: Mahu2021 (650 in chips) 
+Seat 3: LAWRENCE_JLM (370 in chips) 
+Mahu2021: posts small blind 15
+LAWRENCE_JLM: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts 6d]
+BellaBarney68: folds 
+Mahu2021: folds 
+Uncalled bet (15) returned to LAWRENCE_JLM
+LAWRENCE_JLM collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: BellaBarney68 (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: LAWRENCE_JLM (big blind) collected (30)
+
+
+
+PokerStars Hand #253093031777: Tournament #3816277484, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/25 13:26:26 CET [2024/10/25 7:26:26 ET]
+Table '3816277484 1' 3-max Seat #2 is the button
+Seat 1: BellaBarney68 (480 in chips) 
+Seat 2: Mahu2021 (635 in chips) 
+Seat 3: LAWRENCE_JLM (385 in chips) 
+LAWRENCE_JLM: posts small blind 15
+BellaBarney68: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4d 6d]
+Mahu2021: calls 30
+LAWRENCE_JLM: calls 15
+BellaBarney68: checks 
+*** FLOP *** [9d Ks 8c]
+LAWRENCE_JLM: checks 
+BellaBarney68: bets 30
+Mahu2021: folds 
+LAWRENCE_JLM: calls 30
+*** TURN *** [9d Ks 8c] [Qc]
+LAWRENCE_JLM: checks 
+BellaBarney68: bets 30
+LAWRENCE_JLM: raises 30 to 60
+BellaBarney68: calls 30
+*** RIVER *** [9d Ks 8c Qc] [3h]
+LAWRENCE_JLM: bets 180
+BellaBarney68: calls 180
+*** SHOW DOWN ***
+LAWRENCE_JLM: shows [4s Kh] (a pair of Kings)
+BellaBarney68: shows [Kd Tc] (a pair of Kings - Queen+Ten kicker)
+BellaBarney68 collected 630 from pot
+*** SUMMARY ***
+Total pot 630 | Rake 0 
+Board [9d Ks 8c Qc 3h]
+Seat 1: BellaBarney68 (big blind) showed [Kd Tc] and won (630) with a pair of Kings
+Seat 2: Mahu2021 (button) folded on the Flop
+Seat 3: LAWRENCE_JLM (small blind) showed [4s Kh] and lost with a pair of Kings
+
+
+
+PokerStars Hand #253093035608: Tournament #3816277484, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/25 13:26:55 CET [2024/10/25 7:26:55 ET]
+Table '3816277484 1' 3-max Seat #3 is the button
+Seat 1: BellaBarney68 (810 in chips) 
+Seat 2: Mahu2021 (605 in chips) 
+Seat 3: LAWRENCE_JLM (85 in chips) 
+BellaBarney68: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s Td]
+LAWRENCE_JLM: raises 55 to 85 and is all-in
+BellaBarney68: folds 
+Mahu2021: calls 55
+*** FLOP *** [Jc 9h Js]
+*** TURN *** [Jc 9h Js] [8c]
+*** RIVER *** [Jc 9h Js 8c] [Qd]
+*** SHOW DOWN ***
+Mahu2021: shows [7s Td] (a straight, Eight to Queen)
+LAWRENCE_JLM: shows [8d 8h] (a full house, Eights full of Jacks)
+LAWRENCE_JLM collected 185 from pot
+*** SUMMARY ***
+Total pot 185 | Rake 0 
+Board [Jc 9h Js 8c Qd]
+Seat 1: BellaBarney68 (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) showed [7s Td] and lost with a straight, Eight to Queen
+Seat 3: LAWRENCE_JLM (button) showed [8d 8h] and won (185) with a full house, Eights full of Jacks
+
+
+
+PokerStars Hand #253093037958: Tournament #3816277484, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/25 13:27:13 CET [2024/10/25 7:27:13 ET]
+Table '3816277484 1' 3-max Seat #1 is the button
+Seat 1: BellaBarney68 (795 in chips) 
+Seat 2: Mahu2021 (520 in chips) 
+Seat 3: LAWRENCE_JLM (185 in chips) 
+Mahu2021: posts small blind 15
+LAWRENCE_JLM: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2c Ac]
+BellaBarney68: folds 
+Mahu2021: calls 15
+LAWRENCE_JLM: checks 
+*** FLOP *** [6s 7d 2s]
+Mahu2021: bets 30
+LAWRENCE_JLM: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [6s 7d 2s]
+Seat 1: BellaBarney68 (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) collected (60)
+Seat 3: LAWRENCE_JLM (big blind) folded on the Flop
+
+
+
+PokerStars Hand #253093039848: Tournament #3816277484, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/25 13:27:27 CET [2024/10/25 7:27:27 ET]
+Table '3816277484 1' 3-max Seat #2 is the button
+Seat 1: BellaBarney68 (795 in chips) 
+Seat 2: Mahu2021 (550 in chips) 
+Seat 3: LAWRENCE_JLM (155 in chips) 
+LAWRENCE_JLM: posts small blind 15
+BellaBarney68: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Th Js]
+Mahu2021: folds 
+LAWRENCE_JLM: folds 
+Uncalled bet (15) returned to BellaBarney68
+BellaBarney68 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: BellaBarney68 (big blind) collected (30)
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: LAWRENCE_JLM (small blind) folded before Flop
+
+
+
+PokerStars Hand #253093040732: Tournament #3816277484, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/25 13:27:33 CET [2024/10/25 7:27:33 ET]
+Table '3816277484 1' 3-max Seat #3 is the button
+Seat 1: BellaBarney68 (810 in chips) 
+Seat 2: Mahu2021 (550 in chips) 
+Seat 3: LAWRENCE_JLM (140 in chips) 
+BellaBarney68: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d Jh]
+LAWRENCE_JLM: calls 30
+BellaBarney68: calls 15
+Mahu2021: checks 
+*** FLOP *** [Jd 9s Ts]
+BellaBarney68: checks 
+Mahu2021: bets 30
+LAWRENCE_JLM: raises 80 to 110 and is all-in
+BellaBarney68: folds 
+Mahu2021: calls 80
+*** TURN *** [Jd 9s Ts] [4d]
+*** RIVER *** [Jd 9s Ts 4d] [3d]
+*** SHOW DOWN ***
+Mahu2021: shows [5d Jh] (a pair of Jacks)
+LAWRENCE_JLM: shows [Ad 3s] (a pair of Threes)
+Mahu2021 collected 310 from pot
+LAWRENCE_JLM finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 310 | Rake 0 
+Board [Jd 9s Ts 4d 3d]
+Seat 1: BellaBarney68 (small blind) folded on the Flop
+Seat 2: Mahu2021 (big blind) showed [5d Jh] and won (310) with a pair of Jacks
+Seat 3: LAWRENCE_JLM (button) showed [Ad 3s] and lost with a pair of Threes
+
+
+
+PokerStars Hand #253093044484: Tournament #3816277484, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/25 13:28:01 CET [2024/10/25 7:28:01 ET]
+Table '3816277484 1' 3-max Seat #2 is the button
+Seat 1: BellaBarney68 (780 in chips) 
+Seat 2: Mahu2021 (720 in chips) 
+Mahu2021: posts small blind 15
+BellaBarney68: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah 4s]
+Mahu2021: raises 30 to 60
+BellaBarney68: raises 720 to 780 and is all-in
+Mahu2021: folds 
+Uncalled bet (720) returned to BellaBarney68
+BellaBarney68 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: BellaBarney68 (big blind) collected (120)
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #253093046089: Tournament #3816277484, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/25 13:28:14 CET [2024/10/25 7:28:14 ET]
+Table '3816277484 1' 3-max Seat #1 is the button
+Seat 1: BellaBarney68 (840 in chips) 
+Seat 2: Mahu2021 (660 in chips) 
+BellaBarney68: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qd 7c]
+BellaBarney68: calls 15
+Mahu2021: checks 
+*** FLOP *** [As Js 9c]
+Mahu2021: checks 
+BellaBarney68: checks 
+*** TURN *** [As Js 9c] [5s]
+Mahu2021: checks 
+BellaBarney68: bets 30
+Mahu2021: folds 
+Uncalled bet (30) returned to BellaBarney68
+BellaBarney68 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [As Js 9c 5s]
+Seat 1: BellaBarney68 (button) (small blind) collected (60)
+Seat 2: Mahu2021 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #253093048423: Tournament #3816277484, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/10/25 13:28:31 CET [2024/10/25 7:28:31 ET]
+Table '3816277484 1' 3-max Seat #2 is the button
+Seat 1: BellaBarney68 (870 in chips) 
+Seat 2: Mahu2021 (630 in chips) 
+Mahu2021: posts small blind 20
+BellaBarney68: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd 9d]
+Mahu2021: raises 40 to 80
+BellaBarney68: calls 40
+*** FLOP *** [2d 5d 7c]
+BellaBarney68: checks 
+Mahu2021: bets 80
+BellaBarney68: calls 80
+*** TURN *** [2d 5d 7c] [Qh]
+BellaBarney68: checks 
+Mahu2021: checks 
+*** RIVER *** [2d 5d 7c Qh] [Ks]
+BellaBarney68: bets 80
+Mahu2021: folds 
+Uncalled bet (80) returned to BellaBarney68
+BellaBarney68 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [2d 5d 7c Qh Ks]
+Seat 1: BellaBarney68 (big blind) collected (320)
+Seat 2: Mahu2021 (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #253093051910: Tournament #3816277484, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/10/25 13:28:58 CET [2024/10/25 7:28:58 ET]
+Table '3816277484 1' 3-max Seat #1 is the button
+Seat 1: BellaBarney68 (1030 in chips) 
+Seat 2: Mahu2021 (470 in chips) 
+BellaBarney68: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5h Ks]
+BellaBarney68: calls 20
+Mahu2021: checks 
+*** FLOP *** [2h 3d 6s]
+Mahu2021: checks 
+BellaBarney68: checks 
+*** TURN *** [2h 3d 6s] [Kd]
+Mahu2021: bets 40
+BellaBarney68: calls 40
+*** RIVER *** [2h 3d 6s Kd] [5c]
+Mahu2021: bets 160
+BellaBarney68: raises 160 to 320
+Mahu2021: raises 70 to 390 and is all-in
+BellaBarney68: calls 70
+*** SHOW DOWN ***
+Mahu2021: shows [5h Ks] (two pair, Kings and Fives)
+BellaBarney68: shows [Ad 4h] (a straight, Deuce to Six)
+BellaBarney68 collected 940 from pot
+Mahu2021 finished the tournament in 2nd place
+BellaBarney68 wins the tournament and receives $6.00 - congratulations!
+*** SUMMARY ***
+Total pot 940 | Rake 0 
+Board [2h 3d 6s Kd 5c]
+Seat 1: BellaBarney68 (button) (small blind) showed [Ad 4h] and won (940) with a straight, Deuce to Six
+Seat 2: Mahu2021 (big blind) showed [5h Ks] and lost with two pair, Kings and Fives
+
+
+

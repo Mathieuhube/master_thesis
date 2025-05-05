@@ -1,0 +1,518 @@
+﻿PokerStars Hand #245998049883: Tournament #3645848304, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/09/16 18:20:46 CET [2023/09/16 12:20:46 ET]
+Table '3645848304 1' 3-max Seat #1 is the button
+Seat 1: Memasucci (500 in chips) 
+Seat 2: ManeaMihai (500 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+ManeaMihai: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh 9s]
+Memasucci: folds 
+ManeaMihai: folds 
+Uncalled bet (10) returned to Mahu2021
+Mahu2021 collected 20 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Memasucci (button) folded before Flop (didn't bet)
+Seat 2: ManeaMihai (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (20)
+
+
+
+PokerStars Hand #245998051374: Tournament #3645848304, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/09/16 18:20:51 CET [2023/09/16 12:20:51 ET]
+Table '3645848304 1' 3-max Seat #2 is the button
+Seat 1: Memasucci (500 in chips) 
+Seat 2: ManeaMihai (490 in chips) 
+Seat 3: Mahu2021 (510 in chips) 
+Mahu2021: posts small blind 10
+Memasucci: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h Th]
+ManeaMihai: folds 
+Mahu2021: calls 10
+Memasucci: checks 
+*** FLOP *** [As Tc 2s]
+Mahu2021: bets 20
+Memasucci: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [As Tc 2s]
+Seat 1: Memasucci (big blind) folded on the Flop
+Seat 2: ManeaMihai (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) collected (40)
+
+
+
+PokerStars Hand #245998054917: Tournament #3645848304, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/09/16 18:21:03 CET [2023/09/16 12:21:03 ET]
+Table '3645848304 1' 3-max Seat #3 is the button
+Seat 1: Memasucci (480 in chips) 
+Seat 2: ManeaMihai (490 in chips) 
+Seat 3: Mahu2021 (530 in chips) 
+Memasucci: posts small blind 10
+ManeaMihai: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h Ks]
+Mahu2021: folds 
+Memasucci: folds 
+Uncalled bet (10) returned to ManeaMihai
+ManeaMihai collected 20 from pot
+ManeaMihai: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Memasucci (small blind) folded before Flop
+Seat 2: ManeaMihai (big blind) collected (20)
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245998056844: Tournament #3645848304, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/09/16 18:21:10 CET [2023/09/16 12:21:10 ET]
+Table '3645848304 1' 3-max Seat #1 is the button
+Seat 1: Memasucci (470 in chips) 
+Seat 2: ManeaMihai (500 in chips) 
+Seat 3: Mahu2021 (530 in chips) 
+ManeaMihai: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc 5s]
+Memasucci: raises 20 to 40
+ManeaMihai: folds 
+Mahu2021: folds 
+Uncalled bet (20) returned to Memasucci
+Memasucci collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: Memasucci (button) collected (50)
+Seat 2: ManeaMihai (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #245998058719: Tournament #3645848304, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/09/16 18:21:16 CET [2023/09/16 12:21:16 ET]
+Table '3645848304 1' 3-max Seat #2 is the button
+Seat 1: Memasucci (500 in chips) 
+Seat 2: ManeaMihai (490 in chips) 
+Seat 3: Mahu2021 (510 in chips) 
+Mahu2021: posts small blind 10
+Memasucci: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c 8c]
+ManeaMihai: calls 20
+Mahu2021: calls 10
+Memasucci: checks 
+*** FLOP *** [8h Ah 8s]
+Mahu2021: checks 
+Memasucci: checks 
+ManeaMihai: checks 
+*** TURN *** [8h Ah 8s] [Ts]
+Mahu2021: checks 
+Memasucci: checks 
+ManeaMihai: checks 
+*** RIVER *** [8h Ah 8s Ts] [3h]
+Mahu2021: bets 60
+Memasucci: folds 
+ManeaMihai: raises 100 to 160
+Mahu2021: calls 100
+*** SHOW DOWN ***
+ManeaMihai: shows [8d Qc] (three of a kind, Eights)
+Mahu2021: mucks hand 
+ManeaMihai collected 380 from pot
+*** SUMMARY ***
+Total pot 380 | Rake 0 
+Board [8h Ah 8s Ts 3h]
+Seat 1: Memasucci (big blind) folded on the River
+Seat 2: ManeaMihai (button) showed [8d Qc] and won (380) with three of a kind, Eights
+Seat 3: Mahu2021 (small blind) mucked [7c 8c]
+
+
+
+PokerStars Hand #245998067350: Tournament #3645848304, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/09/16 18:21:46 CET [2023/09/16 12:21:46 ET]
+Table '3645848304 1' 3-max Seat #3 is the button
+Seat 1: Memasucci (480 in chips) 
+Seat 2: ManeaMihai (690 in chips) 
+Seat 3: Mahu2021 (330 in chips) 
+Memasucci: posts small blind 10
+ManeaMihai: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h 6d]
+Mahu2021: folds 
+Memasucci: raises 20 to 40
+ManeaMihai: calls 20
+*** FLOP *** [Kd 4h 3d]
+Memasucci: checks 
+ManeaMihai: checks 
+*** TURN *** [Kd 4h 3d] [7c]
+Memasucci: checks 
+ManeaMihai: checks 
+*** RIVER *** [Kd 4h 3d 7c] [Kc]
+Memasucci: checks 
+ManeaMihai: checks 
+*** SHOW DOWN ***
+Memasucci: shows [Jh 8d] (a pair of Kings)
+ManeaMihai: shows [7h 8c] (two pair, Kings and Sevens)
+ManeaMihai collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Kd 4h 3d 7c Kc]
+Seat 1: Memasucci (small blind) showed [Jh 8d] and lost with a pair of Kings
+Seat 2: ManeaMihai (big blind) showed [7h 8c] and won (80) with two pair, Kings and Sevens
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245998074698: Tournament #3645848304, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/09/16 18:22:11 CET [2023/09/16 12:22:11 ET]
+Table '3645848304 1' 3-max Seat #1 is the button
+Seat 1: Memasucci (440 in chips) 
+Seat 2: ManeaMihai (730 in chips) 
+Seat 3: Mahu2021 (330 in chips) 
+ManeaMihai: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6h Ad]
+Memasucci: raises 50 to 70
+ManeaMihai: folds 
+Mahu2021: folds 
+Uncalled bet (50) returned to Memasucci
+Memasucci collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: Memasucci (button) collected (50)
+Seat 2: ManeaMihai (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #245998077788: Tournament #3645848304, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/09/16 18:22:21 CET [2023/09/16 12:22:21 ET]
+Table '3645848304 1' 3-max Seat #2 is the button
+Seat 1: Memasucci (470 in chips) 
+Seat 2: ManeaMihai (720 in chips) 
+Seat 3: Mahu2021 (310 in chips) 
+Mahu2021: posts small blind 10
+Memasucci: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s Tc]
+ManeaMihai: folds 
+Mahu2021: folds 
+Uncalled bet (10) returned to Memasucci
+Memasucci collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Memasucci (big blind) collected (20)
+Seat 2: ManeaMihai (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #245998079265: Tournament #3645848304, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/09/16 18:22:26 CET [2023/09/16 12:22:26 ET]
+Table '3645848304 1' 3-max Seat #3 is the button
+Seat 1: Memasucci (480 in chips) 
+Seat 2: ManeaMihai (720 in chips) 
+Seat 3: Mahu2021 (300 in chips) 
+Memasucci: posts small blind 10
+ManeaMihai: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c 2h]
+Mahu2021: folds 
+Memasucci: raises 40 to 60
+ManeaMihai: calls 40
+*** FLOP *** [Js 4c 3c]
+Memasucci: bets 420 and is all-in
+ManeaMihai: folds 
+Uncalled bet (420) returned to Memasucci
+Memasucci collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Js 4c 3c]
+Seat 1: Memasucci (small blind) collected (120)
+Seat 2: ManeaMihai (big blind) folded on the Flop
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245998083555: Tournament #3645848304, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/09/16 18:22:41 CET [2023/09/16 12:22:41 ET]
+Table '3645848304 1' 3-max Seat #1 is the button
+Seat 1: Memasucci (540 in chips) 
+Seat 2: ManeaMihai (660 in chips) 
+Seat 3: Mahu2021 (300 in chips) 
+ManeaMihai: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah 6s]
+Memasucci: raises 50 to 70
+ManeaMihai: calls 60
+Mahu2021: folds 
+*** FLOP *** [7s 2c Js]
+ManeaMihai: checks 
+Memasucci: bets 160
+ManeaMihai: calls 160
+*** TURN *** [7s 2c Js] [6d]
+ManeaMihai: checks 
+Memasucci: bets 310 and is all-in
+ManeaMihai: calls 310
+*** RIVER *** [7s 2c Js 6d] [4d]
+*** SHOW DOWN ***
+ManeaMihai: shows [8d Ad] (high card Ace)
+Memasucci: shows [Jd As] (a pair of Jacks)
+Memasucci collected 1100 from pot
+*** SUMMARY ***
+Total pot 1100 | Rake 0 
+Board [7s 2c Js 6d 4d]
+Seat 1: Memasucci (button) showed [Jd As] and won (1100) with a pair of Jacks
+Seat 2: ManeaMihai (small blind) showed [8d Ad] and lost with high card Ace
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #245998090391: Tournament #3645848304, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/09/16 18:23:04 CET [2023/09/16 12:23:04 ET]
+Table '3645848304 1' 3-max Seat #2 is the button
+Seat 1: Memasucci (1100 in chips) 
+Seat 2: ManeaMihai (120 in chips) 
+Seat 3: Mahu2021 (280 in chips) 
+Mahu2021: posts small blind 10
+Memasucci: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kc 6d]
+ManeaMihai: calls 20
+Mahu2021: folds 
+Memasucci: checks 
+*** FLOP *** [2d 5c 6c]
+Memasucci: checks 
+ManeaMihai: checks 
+*** TURN *** [2d 5c 6c] [6s]
+Memasucci: checks 
+ManeaMihai: checks 
+*** RIVER *** [2d 5c 6c 6s] [2c]
+Memasucci: checks 
+ManeaMihai: bets 100 and is all-in
+Memasucci: calls 100
+*** SHOW DOWN ***
+ManeaMihai: shows [Th 6h] (a full house, Sixes full of Deuces)
+Memasucci: shows [Ac 7s] (two pair, Sixes and Deuces)
+ManeaMihai collected 250 from pot
+*** SUMMARY ***
+Total pot 250 | Rake 0 
+Board [2d 5c 6c 6s 2c]
+Seat 1: Memasucci (big blind) showed [Ac 7s] and lost with two pair, Sixes and Deuces
+Seat 2: ManeaMihai (button) showed [Th 6h] and won (250) with a full house, Sixes full of Deuces
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #245998101708: Tournament #3645848304, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/09/16 18:23:42 CET [2023/09/16 12:23:42 ET]
+Table '3645848304 1' 3-max Seat #3 is the button
+Seat 1: Memasucci (980 in chips) 
+Seat 2: ManeaMihai (250 in chips) 
+Seat 3: Mahu2021 (270 in chips) 
+Memasucci: posts small blind 10
+ManeaMihai: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d Jh]
+Mahu2021: calls 20
+Memasucci: calls 10
+ManeaMihai: checks 
+*** FLOP *** [9s 3c 6h]
+Memasucci: checks 
+ManeaMihai: checks 
+Mahu2021: bets 250 and is all-in
+Memasucci: folds 
+ManeaMihai: calls 230 and is all-in
+Uncalled bet (20) returned to Mahu2021
+*** TURN *** [9s 3c 6h] [Ah]
+*** RIVER *** [9s 3c 6h Ah] [As]
+*** SHOW DOWN ***
+ManeaMihai: shows [7s 3s] (two pair, Aces and Threes)
+Mahu2021: shows [9d Jh] (two pair, Aces and Nines)
+Mahu2021 collected 520 from pot
+ManeaMihai finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 520 | Rake 0 
+Board [9s 3c 6h Ah As]
+Seat 1: Memasucci (small blind) folded on the Flop
+Seat 2: ManeaMihai (big blind) showed [7s 3s] and lost with two pair, Aces and Threes
+Seat 3: Mahu2021 (button) showed [9d Jh] and won (520) with two pair, Aces and Nines
+
+
+
+PokerStars Hand #245998112451: Tournament #3645848304, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/09/16 18:24:18 CET [2023/09/16 12:24:18 ET]
+Table '3645848304 1' 3-max Seat #1 is the button
+Seat 1: Memasucci (960 in chips) 
+Seat 3: Mahu2021 (540 in chips) 
+Memasucci: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc 4h]
+Memasucci: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Memasucci (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (30)
+
+
+
+PokerStars Hand #245998114045: Tournament #3645848304, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/09/16 18:24:24 CET [2023/09/16 12:24:24 ET]
+Table '3645848304 1' 3-max Seat #3 is the button
+Seat 1: Memasucci (945 in chips) 
+Seat 3: Mahu2021 (555 in chips) 
+Mahu2021: posts small blind 15
+Memasucci: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d 3h]
+Mahu2021: calls 15
+Memasucci: raises 60 to 90
+Mahu2021: calls 60
+*** FLOP *** [3s 3c 6c]
+Memasucci: bets 90
+Mahu2021: calls 90
+*** TURN *** [3s 3c 6c] [8c]
+Memasucci: bets 180
+Mahu2021: calls 180
+*** RIVER *** [3s 3c 6c 8c] [Ts]
+Memasucci: bets 585 and is all-in
+Mahu2021: calls 195 and is all-in
+Uncalled bet (390) returned to Memasucci
+*** SHOW DOWN ***
+Memasucci: shows [9h Qc] (a pair of Threes)
+Mahu2021: shows [3d 3h] (four of a kind, Threes)
+Mahu2021 collected 1110 from pot
+*** SUMMARY ***
+Total pot 1110 | Rake 0 
+Board [3s 3c 6c 8c Ts]
+Seat 1: Memasucci (big blind) showed [9h Qc] and lost with a pair of Threes
+Seat 3: Mahu2021 (button) (small blind) showed [3d 3h] and won (1110) with four of a kind, Threes
+
+
+
+PokerStars Hand #245998122281: Tournament #3645848304, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/09/16 18:24:51 CET [2023/09/16 12:24:51 ET]
+Table '3645848304 1' 3-max Seat #1 is the button
+Seat 1: Memasucci (390 in chips) 
+Seat 3: Mahu2021 (1110 in chips) 
+Memasucci: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d 3s]
+Memasucci: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Memasucci (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (30)
+
+
+
+PokerStars Hand #245998123860: Tournament #3645848304, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/09/16 18:24:57 CET [2023/09/16 12:24:57 ET]
+Table '3645848304 1' 3-max Seat #3 is the button
+Seat 1: Memasucci (375 in chips) 
+Seat 3: Mahu2021 (1125 in chips) 
+Mahu2021: posts small blind 15
+Memasucci: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac 5h]
+Mahu2021: raises 30 to 60
+Memasucci: raises 315 to 375 and is all-in
+Mahu2021: calls 315
+*** FLOP *** [Kc 2h 2c]
+*** TURN *** [Kc 2h 2c] [Ts]
+*** RIVER *** [Kc 2h 2c Ts] [9s]
+*** SHOW DOWN ***
+Memasucci: shows [8c 8d] (two pair, Eights and Deuces)
+Mahu2021: shows [Ac 5h] (a pair of Deuces)
+Memasucci collected 750 from pot
+*** SUMMARY ***
+Total pot 750 | Rake 0 
+Board [Kc 2h 2c Ts 9s]
+Seat 1: Memasucci (big blind) showed [8c 8d] and won (750) with two pair, Eights and Deuces
+Seat 3: Mahu2021 (button) (small blind) showed [Ac 5h] and lost with a pair of Deuces
+
+
+
+PokerStars Hand #245998129016: Tournament #3645848304, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/09/16 18:25:14 CET [2023/09/16 12:25:14 ET]
+Table '3645848304 1' 3-max Seat #1 is the button
+Seat 1: Memasucci (750 in chips) 
+Seat 3: Mahu2021 (750 in chips) 
+Memasucci: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qs Tc]
+Memasucci: calls 15
+Mahu2021: checks 
+*** FLOP *** [6c 8c 4d]
+Mahu2021: checks 
+Memasucci: bets 30
+Mahu2021: calls 30
+*** TURN *** [6c 8c 4d] [7h]
+Mahu2021: checks 
+Memasucci: bets 60
+Mahu2021: calls 60
+*** RIVER *** [6c 8c 4d 7h] [Qh]
+Mahu2021: checks 
+Memasucci: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [Qs Tc] (a pair of Queens)
+Memasucci: mucks hand 
+Mahu2021 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [6c 8c 4d 7h Qh]
+Seat 1: Memasucci (button) (small blind) mucked [7d 9c]
+Seat 3: Mahu2021 (big blind) showed [Qs Tc] and won (240) with a pair of Queens
+
+
+
+PokerStars Hand #245998135024: Tournament #3645848304, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/09/16 18:25:34 CET [2023/09/16 12:25:34 ET]
+Table '3645848304 1' 3-max Seat #3 is the button
+Seat 1: Memasucci (630 in chips) 
+Seat 3: Mahu2021 (870 in chips) 
+Mahu2021: posts small blind 15
+Memasucci: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2c 9s]
+Mahu2021: folds 
+Uncalled bet (15) returned to Memasucci
+Memasucci collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Memasucci (big blind) collected (30)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #245998136474: Tournament #3645848304, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/09/16 18:25:39 CET [2023/09/16 12:25:39 ET]
+Table '3645848304 1' 3-max Seat #1 is the button
+Seat 1: Memasucci (645 in chips) 
+Seat 3: Mahu2021 (855 in chips) 
+Memasucci: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h 5s]
+Memasucci: raises 60 to 90
+Mahu2021: calls 60
+*** FLOP *** [Qs 5c Jd]
+Mahu2021: checks 
+Memasucci: bets 180
+Mahu2021: raises 585 to 765 and is all-in
+Memasucci: calls 375 and is all-in
+Uncalled bet (210) returned to Mahu2021
+*** TURN *** [Qs 5c Jd] [9c]
+*** RIVER *** [Qs 5c Jd 9c] [7c]
+*** SHOW DOWN ***
+Mahu2021: shows [4h 5s] (a pair of Fives)
+Memasucci: shows [2h 2c] (a pair of Deuces)
+Mahu2021 collected 1290 from pot
+Memasucci finished the tournament in 2nd place
+Mahu2021 wins the tournament and receives $4.00 - congratulations!
+*** SUMMARY ***
+Total pot 1290 | Rake 0 
+Board [Qs 5c Jd 9c 7c]
+Seat 1: Memasucci (button) (small blind) showed [2h 2c] and lost with a pair of Deuces
+Seat 3: Mahu2021 (big blind) showed [4h 5s] and won (1290) with a pair of Fives
+
+
+

@@ -1,0 +1,671 @@
+﻿PokerStars Hand #253487426555: Tournament #3825446451, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/20 7:46:20 CET [2024/11/20 1:46:20 ET]
+Table '3825446451 1' 3-max Seat #1 is the button
+Seat 1: upwardsramp95 (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: zoran.m192 (500 in chips) 
+Mahu2021: posts small blind 10
+zoran.m192: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d Kc]
+upwardsramp95: raises 20 to 40
+Mahu2021: calls 30
+zoran.m192: folds 
+*** FLOP *** [2s 7c 7s]
+Mahu2021: checks 
+upwardsramp95: bets 40
+Mahu2021: calls 40
+*** TURN *** [2s 7c 7s] [Td]
+Mahu2021: checks 
+upwardsramp95: checks 
+*** RIVER *** [2s 7c 7s Td] [6d]
+Mahu2021: checks 
+upwardsramp95: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [9d Kc] (a pair of Sevens)
+upwardsramp95: shows [4c As] (a pair of Sevens - Ace kicker)
+upwardsramp95 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [2s 7c 7s Td 6d]
+Seat 1: upwardsramp95 (button) showed [4c As] and won (180) with a pair of Sevens
+Seat 2: Mahu2021 (small blind) showed [9d Kc] and lost with a pair of Sevens
+Seat 3: zoran.m192 (big blind) folded before Flop
+
+
+
+PokerStars Hand #253487429229: Tournament #3825446451, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/20 7:46:58 CET [2024/11/20 1:46:58 ET]
+Table '3825446451 1' 3-max Seat #2 is the button
+Seat 1: upwardsramp95 (600 in chips) 
+Seat 2: Mahu2021 (420 in chips) 
+Seat 3: zoran.m192 (480 in chips) 
+zoran.m192: posts small blind 10
+upwardsramp95: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh 3s]
+Mahu2021: folds 
+zoran.m192: folds 
+Uncalled bet (10) returned to upwardsramp95
+upwardsramp95 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: upwardsramp95 (big blind) collected (20)
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: zoran.m192 (small blind) folded before Flop
+
+
+
+PokerStars Hand #253487429813: Tournament #3825446451, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/20 7:47:06 CET [2024/11/20 1:47:06 ET]
+Table '3825446451 1' 3-max Seat #3 is the button
+Seat 1: upwardsramp95 (610 in chips) 
+Seat 2: Mahu2021 (420 in chips) 
+Seat 3: zoran.m192 (470 in chips) 
+upwardsramp95: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd 9d]
+zoran.m192: calls 20
+upwardsramp95: raises 60 to 80
+Mahu2021: folds 
+zoran.m192: calls 60
+*** FLOP *** [8h 8s 2h]
+upwardsramp95: bets 60
+zoran.m192: calls 60
+*** TURN *** [8h 8s 2h] [3h]
+upwardsramp95: bets 100
+zoran.m192: calls 100
+*** RIVER *** [8h 8s 2h 3h] [Th]
+upwardsramp95: checks 
+zoran.m192: checks 
+*** SHOW DOWN ***
+upwardsramp95: shows [6c 6s] (two pair, Eights and Sixes)
+zoran.m192: shows [7h Ad] (a flush, Ten high)
+zoran.m192 collected 500 from pot
+*** SUMMARY ***
+Total pot 500 | Rake 0 
+Board [8h 8s 2h 3h Th]
+Seat 1: upwardsramp95 (small blind) showed [6c 6s] and lost with two pair, Eights and Sixes
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: zoran.m192 (button) showed [7h Ad] and won (500) with a flush, Ten high
+
+
+
+PokerStars Hand #253487431911: Tournament #3825446451, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/20 7:47:36 CET [2024/11/20 1:47:36 ET]
+Table '3825446451 1' 3-max Seat #1 is the button
+Seat 1: upwardsramp95 (370 in chips) 
+Seat 2: Mahu2021 (400 in chips) 
+Seat 3: zoran.m192 (730 in chips) 
+Mahu2021: posts small blind 10
+zoran.m192: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s 3h]
+upwardsramp95: raises 20 to 40
+Mahu2021: calls 30
+zoran.m192: calls 20
+*** FLOP *** [4h 3c 7d]
+Mahu2021: checks 
+zoran.m192: checks 
+upwardsramp95: bets 40
+Mahu2021: raises 60 to 100
+zoran.m192: folds 
+upwardsramp95: raises 230 to 330 and is all-in
+Mahu2021: calls 230
+*** TURN *** [4h 3c 7d] [Ah]
+*** RIVER *** [4h 3c 7d Ah] [7s]
+*** SHOW DOWN ***
+Mahu2021: shows [3s 3h] (a full house, Threes full of Sevens)
+upwardsramp95: shows [Jh Js] (two pair, Jacks and Sevens)
+Mahu2021 collected 780 from pot
+upwardsramp95 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 780 | Rake 0 
+Board [4h 3c 7d Ah 7s]
+Seat 1: upwardsramp95 (button) showed [Jh Js] and lost with two pair, Jacks and Sevens
+Seat 2: Mahu2021 (small blind) showed [3s 3h] and won (780) with a full house, Threes full of Sevens
+Seat 3: zoran.m192 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #253487434137: Tournament #3825446451, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/20 7:48:08 CET [2024/11/20 1:48:08 ET]
+Table '3825446451 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (810 in chips) 
+Seat 3: zoran.m192 (690 in chips) 
+zoran.m192: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h 2d]
+zoran.m192: calls 10
+Mahu2021: checks 
+*** FLOP *** [Jd Qd Kd]
+Mahu2021: checks 
+zoran.m192: checks 
+*** TURN *** [Jd Qd Kd] [6s]
+Mahu2021: checks 
+zoran.m192: checks 
+*** RIVER *** [Jd Qd Kd 6s] [Qs]
+Mahu2021: bets 40
+zoran.m192: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Jd Qd Kd 6s Qs]
+Seat 2: Mahu2021 (big blind) collected (40)
+Seat 3: zoran.m192 (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #253487435303: Tournament #3825446451, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/20 7:48:25 CET [2024/11/20 1:48:25 ET]
+Table '3825446451 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (830 in chips) 
+Seat 3: zoran.m192 (670 in chips) 
+Mahu2021: posts small blind 15
+zoran.m192: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s 8c]
+Mahu2021: folds 
+Uncalled bet (15) returned to zoran.m192
+zoran.m192 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: zoran.m192 (big blind) collected (30)
+
+
+
+PokerStars Hand #253487435614: Tournament #3825446451, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/20 7:48:29 CET [2024/11/20 1:48:29 ET]
+Table '3825446451 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (815 in chips) 
+Seat 3: zoran.m192 (685 in chips) 
+zoran.m192: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d Qc]
+zoran.m192: calls 15
+Mahu2021: checks 
+*** FLOP *** [9s 8h 6c]
+Mahu2021: checks 
+zoran.m192: checks 
+*** TURN *** [9s 8h 6c] [Ks]
+Mahu2021: checks 
+zoran.m192: checks 
+*** RIVER *** [9s 8h 6c Ks] [Tc]
+Mahu2021: checks 
+zoran.m192: bets 60
+Mahu2021: folds 
+Uncalled bet (60) returned to zoran.m192
+zoran.m192 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [9s 8h 6c Ks Tc]
+Seat 2: Mahu2021 (big blind) folded on the River
+Seat 3: zoran.m192 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #253487436579: Tournament #3825446451, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/20 7:48:43 CET [2024/11/20 1:48:43 ET]
+Table '3825446451 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (785 in chips) 
+Seat 3: zoran.m192 (715 in chips) 
+Mahu2021: posts small blind 15
+zoran.m192: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8s 6c]
+Mahu2021: folds 
+Uncalled bet (15) returned to zoran.m192
+zoran.m192 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: zoran.m192 (big blind) collected (30)
+
+
+
+PokerStars Hand #253487436963: Tournament #3825446451, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/20 7:48:48 CET [2024/11/20 1:48:48 ET]
+Table '3825446451 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (770 in chips) 
+Seat 3: zoran.m192 (730 in chips) 
+zoran.m192: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh 4c]
+zoran.m192: calls 15
+Mahu2021: checks 
+*** FLOP *** [9s 8s 3s]
+Mahu2021: checks 
+zoran.m192: bets 30
+Mahu2021: folds 
+Uncalled bet (30) returned to zoran.m192
+zoran.m192 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [9s 8s 3s]
+Seat 2: Mahu2021 (big blind) folded on the Flop
+Seat 3: zoran.m192 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #253487437600: Tournament #3825446451, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/20 7:48:58 CET [2024/11/20 1:48:58 ET]
+Table '3825446451 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (740 in chips) 
+Seat 3: zoran.m192 (760 in chips) 
+Mahu2021: posts small blind 15
+zoran.m192: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d As]
+Mahu2021: raises 30 to 60
+zoran.m192: calls 30
+*** FLOP *** [5d Jd 2c]
+zoran.m192: checks 
+Mahu2021: checks 
+*** TURN *** [5d Jd 2c] [Kd]
+zoran.m192: checks 
+Mahu2021: bets 60
+zoran.m192: calls 60
+*** RIVER *** [5d Jd 2c Kd] [7h]
+zoran.m192: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+zoran.m192: shows [Ah 4d] (high card Ace)
+Mahu2021: shows [7d As] (a pair of Sevens)
+Mahu2021 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [5d Jd 2c Kd 7h]
+Seat 2: Mahu2021 (button) (small blind) showed [7d As] and won (240) with a pair of Sevens
+Seat 3: zoran.m192 (big blind) showed [Ah 4d] and lost with high card Ace
+
+
+
+PokerStars Hand #253487438659: Tournament #3825446451, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/20 7:49:12 CET [2024/11/20 1:49:12 ET]
+Table '3825446451 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (860 in chips) 
+Seat 3: zoran.m192 (640 in chips) 
+zoran.m192: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h Ks]
+zoran.m192: calls 15
+Mahu2021: checks 
+*** FLOP *** [3h 2s Ad]
+Mahu2021: checks 
+zoran.m192: bets 30
+Mahu2021: raises 30 to 60
+zoran.m192: calls 30
+*** TURN *** [3h 2s Ad] [8s]
+Mahu2021: checks 
+zoran.m192: checks 
+*** RIVER *** [3h 2s Ad 8s] [4h]
+Mahu2021: bets 30
+zoran.m192: calls 30
+*** SHOW DOWN ***
+Mahu2021: shows [8h Ks] (a pair of Eights)
+zoran.m192: mucks hand 
+Mahu2021 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [3h 2s Ad 8s 4h]
+Seat 2: Mahu2021 (big blind) showed [8h Ks] and won (240) with a pair of Eights
+Seat 3: zoran.m192 (button) (small blind) mucked [Jd 3d]
+
+
+
+PokerStars Hand #253487439952: Tournament #3825446451, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/20 7:49:31 CET [2024/11/20 1:49:31 ET]
+Table '3825446451 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (980 in chips) 
+Seat 3: zoran.m192 (520 in chips) 
+Mahu2021: posts small blind 15
+zoran.m192: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h 3d]
+Mahu2021: folds 
+Uncalled bet (15) returned to zoran.m192
+zoran.m192 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: zoran.m192 (big blind) collected (30)
+
+
+
+PokerStars Hand #253487440403: Tournament #3825446451, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/20 7:49:38 CET [2024/11/20 1:49:38 ET]
+Table '3825446451 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (965 in chips) 
+Seat 3: zoran.m192 (535 in chips) 
+zoran.m192: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h 2h]
+zoran.m192: calls 15
+Mahu2021: checks 
+*** FLOP *** [Ah As 8d]
+Mahu2021: checks 
+zoran.m192: checks 
+*** TURN *** [Ah As 8d] [Ad]
+Mahu2021: checks 
+zoran.m192: checks 
+*** RIVER *** [Ah As 8d Ad] [Jd]
+Mahu2021: checks 
+zoran.m192: bets 30
+Mahu2021: folds 
+Uncalled bet (30) returned to zoran.m192
+zoran.m192 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Ah As 8d Ad Jd]
+Seat 2: Mahu2021 (big blind) folded on the River
+Seat 3: zoran.m192 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #253487441243: Tournament #3825446451, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/20 7:49:51 CET [2024/11/20 1:49:51 ET]
+Table '3825446451 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (935 in chips) 
+Seat 3: zoran.m192 (565 in chips) 
+Mahu2021: posts small blind 15
+zoran.m192: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d 9h]
+Mahu2021: calls 15
+zoran.m192: checks 
+*** FLOP *** [9d Ad 4h]
+zoran.m192: checks 
+Mahu2021: bets 30
+zoran.m192: calls 30
+*** TURN *** [9d Ad 4h] [7h]
+zoran.m192: checks 
+Mahu2021: bets 30
+zoran.m192: calls 30
+*** RIVER *** [9d Ad 4h 7h] [Jh]
+zoran.m192: checks 
+Mahu2021: bets 60
+zoran.m192: calls 60
+*** SHOW DOWN ***
+Mahu2021: shows [7d 9h] (two pair, Nines and Sevens)
+zoran.m192: mucks hand 
+Mahu2021 collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [9d Ad 4h 7h Jh]
+Seat 2: Mahu2021 (button) (small blind) showed [7d 9h] and won (300) with two pair, Nines and Sevens
+Seat 3: zoran.m192 (big blind) mucked [Qs 9c]
+
+
+
+PokerStars Hand #253487442487: Tournament #3825446451, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/20 7:50:08 CET [2024/11/20 1:50:08 ET]
+Table '3825446451 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (1085 in chips) 
+Seat 3: zoran.m192 (415 in chips) 
+zoran.m192: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js 7s]
+zoran.m192: raises 30 to 60
+Mahu2021: calls 30
+*** FLOP *** [6s 6c 9c]
+Mahu2021: checks 
+zoran.m192: bets 120
+Mahu2021: folds 
+Uncalled bet (120) returned to zoran.m192
+zoran.m192 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [6s 6c 9c]
+Seat 2: Mahu2021 (big blind) folded on the Flop
+Seat 3: zoran.m192 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #253487443348: Tournament #3825446451, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/20 7:50:20 CET [2024/11/20 1:50:20 ET]
+Table '3825446451 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (1025 in chips) 
+Seat 3: zoran.m192 (475 in chips) 
+Mahu2021: posts small blind 15
+zoran.m192: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d 7s]
+Mahu2021: folds 
+Uncalled bet (15) returned to zoran.m192
+zoran.m192 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: zoran.m192 (big blind) collected (30)
+
+
+
+PokerStars Hand #253487443903: Tournament #3825446451, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/20 7:50:28 CET [2024/11/20 1:50:28 ET]
+Table '3825446451 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (1010 in chips) 
+Seat 3: zoran.m192 (490 in chips) 
+zoran.m192: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh 9d]
+zoran.m192: calls 20
+Mahu2021: checks 
+*** FLOP *** [2h Jd 5d]
+Mahu2021: checks 
+zoran.m192: checks 
+*** TURN *** [2h Jd 5d] [4s]
+Mahu2021: checks 
+zoran.m192: checks 
+*** RIVER *** [2h Jd 5d 4s] [7h]
+Mahu2021: checks 
+zoran.m192: bets 40
+Mahu2021: calls 40
+*** SHOW DOWN ***
+zoran.m192: shows [7c Kd] (a pair of Sevens)
+Mahu2021: mucks hand 
+zoran.m192 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [2h Jd 5d 4s 7h]
+Seat 2: Mahu2021 (big blind) mucked [Kh 9d]
+Seat 3: zoran.m192 (button) (small blind) showed [7c Kd] and won (160) with a pair of Sevens
+
+
+
+PokerStars Hand #253487444777: Tournament #3825446451, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/20 7:50:41 CET [2024/11/20 1:50:41 ET]
+Table '3825446451 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (930 in chips) 
+Seat 3: zoran.m192 (570 in chips) 
+Mahu2021: posts small blind 20
+zoran.m192: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qs 2h]
+Mahu2021: raises 40 to 80
+zoran.m192: calls 40
+*** FLOP *** [6d Js Td]
+zoran.m192: checks 
+Mahu2021: checks 
+*** TURN *** [6d Js Td] [5d]
+zoran.m192: bets 40
+Mahu2021: folds 
+Uncalled bet (40) returned to zoran.m192
+zoran.m192 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [6d Js Td 5d]
+Seat 2: Mahu2021 (button) (small blind) folded on the Turn
+Seat 3: zoran.m192 (big blind) collected (160)
+
+
+
+PokerStars Hand #253487445739: Tournament #3825446451, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/20 7:50:54 CET [2024/11/20 1:50:54 ET]
+Table '3825446451 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (850 in chips) 
+Seat 3: zoran.m192 (650 in chips) 
+zoran.m192: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s Qh]
+zoran.m192: calls 20
+Mahu2021: checks 
+*** FLOP *** [8h 7s 8d]
+Mahu2021: checks 
+zoran.m192: checks 
+*** TURN *** [8h 7s 8d] [Jc]
+Mahu2021: checks 
+zoran.m192: checks 
+*** RIVER *** [8h 7s 8d Jc] [Kh]
+Mahu2021: bets 40
+zoran.m192: calls 40
+*** SHOW DOWN ***
+Mahu2021: shows [5s Qh] (a pair of Eights)
+zoran.m192: shows [As 9c] (a pair of Eights - Ace kicker)
+zoran.m192 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [8h 7s 8d Jc Kh]
+Seat 2: Mahu2021 (big blind) showed [5s Qh] and lost with a pair of Eights
+Seat 3: zoran.m192 (button) (small blind) showed [As 9c] and won (160) with a pair of Eights
+
+
+
+PokerStars Hand #253487446540: Tournament #3825446451, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/20 7:51:06 CET [2024/11/20 1:51:06 ET]
+Table '3825446451 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (770 in chips) 
+Seat 3: zoran.m192 (730 in chips) 
+Mahu2021: posts small blind 20
+zoran.m192: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh 8s]
+Mahu2021: raises 40 to 80
+zoran.m192: calls 40
+*** FLOP *** [3d 5s 4h]
+zoran.m192: checks 
+Mahu2021: checks 
+*** TURN *** [3d 5s 4h] [2h]
+zoran.m192: checks 
+Mahu2021: checks 
+*** RIVER *** [3d 5s 4h 2h] [2s]
+zoran.m192: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+zoran.m192: shows [2c Tc] (three of a kind, Deuces)
+Mahu2021: mucks hand 
+zoran.m192 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [3d 5s 4h 2h 2s]
+Seat 2: Mahu2021 (button) (small blind) mucked [Qh 8s]
+Seat 3: zoran.m192 (big blind) showed [2c Tc] and won (160) with three of a kind, Deuces
+
+
+
+PokerStars Hand #253487447542: Tournament #3825446451, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/20 7:51:20 CET [2024/11/20 1:51:20 ET]
+Table '3825446451 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (690 in chips) 
+Seat 3: zoran.m192 (810 in chips) 
+zoran.m192: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d 3d]
+zoran.m192: calls 20
+Mahu2021: checks 
+*** FLOP *** [9h Ks 8s]
+Mahu2021: checks 
+zoran.m192: checks 
+*** TURN *** [9h Ks 8s] [Jd]
+Mahu2021: checks 
+zoran.m192: checks 
+*** RIVER *** [9h Ks 8s Jd] [Ts]
+Mahu2021: checks 
+zoran.m192: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [6d 3d] (high card King)
+zoran.m192: shows [Ad 5h] (high card Ace)
+zoran.m192 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [9h Ks 8s Jd Ts]
+Seat 2: Mahu2021 (big blind) showed [6d 3d] and lost with high card King
+Seat 3: zoran.m192 (button) (small blind) showed [Ad 5h] and won (80) with high card Ace
+
+
+
+PokerStars Hand #253487448510: Tournament #3825446451, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/20 7:51:34 CET [2024/11/20 1:51:34 ET]
+Table '3825446451 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (650 in chips) 
+Seat 3: zoran.m192 (850 in chips) 
+Mahu2021: posts small blind 20
+zoran.m192: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h 2h]
+Mahu2021: raises 40 to 80
+zoran.m192: calls 40
+*** FLOP *** [9h 6c Ks]
+zoran.m192: checks 
+Mahu2021: checks 
+*** TURN *** [9h 6c Ks] [7s]
+zoran.m192: bets 40
+Mahu2021: calls 40
+*** RIVER *** [9h 6c Ks 7s] [Ah]
+zoran.m192: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+zoran.m192: shows [Ts 8d] (a straight, Six to Ten)
+Mahu2021: mucks hand 
+zoran.m192 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [9h 6c Ks 7s Ah]
+Seat 2: Mahu2021 (button) (small blind) mucked [8h 2h]
+Seat 3: zoran.m192 (big blind) showed [Ts 8d] and won (240) with a straight, Six to Ten
+
+
+
+PokerStars Hand #253487449552: Tournament #3825446451, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/20 7:51:49 CET [2024/11/20 1:51:49 ET]
+Table '3825446451 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (530 in chips) 
+Seat 3: zoran.m192 (970 in chips) 
+zoran.m192: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Th 2c]
+zoran.m192: calls 20
+Mahu2021: checks 
+*** FLOP *** [2s 4d Ad]
+Mahu2021: bets 40
+zoran.m192: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [2s 4d Ad]
+Seat 2: Mahu2021 (big blind) collected (80)
+Seat 3: zoran.m192 (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #253487450252: Tournament #3825446451, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/20 7:51:59 CET [2024/11/20 1:51:59 ET]
+Table '3825446451 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (570 in chips) 
+Seat 3: zoran.m192 (930 in chips) 
+Mahu2021: posts small blind 20
+zoran.m192: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd Kc]
+Mahu2021: raises 40 to 80
+zoran.m192: raises 850 to 930 and is all-in
+Mahu2021: calls 490 and is all-in
+Uncalled bet (360) returned to zoran.m192
+*** FLOP *** [5s Td Tc]
+*** TURN *** [5s Td Tc] [Th]
+*** RIVER *** [5s Td Tc Th] [8c]
+*** SHOW DOWN ***
+zoran.m192: shows [Ah Ts] (four of a kind, Tens)
+Mahu2021: shows [Jd Kc] (three of a kind, Tens)
+zoran.m192 collected 1140 from pot
+Mahu2021 finished the tournament in 2nd place
+zoran.m192 wins the tournament and receives $4.00 - congratulations!
+*** SUMMARY ***
+Total pot 1140 | Rake 0 
+Board [5s Td Tc Th 8c]
+Seat 2: Mahu2021 (button) (small blind) showed [Jd Kc] and lost with three of a kind, Tens
+Seat 3: zoran.m192 (big blind) showed [Ah Ts] and won (1140) with four of a kind, Tens
+
+
+

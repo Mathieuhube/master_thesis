@@ -1,0 +1,597 @@
+﻿PokerStars Hand #252984926843: Tournament #3813297327, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/18 14:45:56 CET [2024/10/18 8:45:56 ET]
+Table '3813297327 1' 3-max Seat #1 is the button
+Seat 1: Facusushi (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: gabirebe1 (500 in chips) 
+Mahu2021: posts small blind 10
+gabirebe1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h 2s]
+Facusushi: calls 20
+Mahu2021: folds 
+gabirebe1: checks 
+*** FLOP *** [6s 2c Kh]
+gabirebe1: checks 
+Facusushi: bets 50
+gabirebe1: calls 50
+*** TURN *** [6s 2c Kh] [Qc]
+gabirebe1: checks 
+Facusushi: checks 
+*** RIVER *** [6s 2c Kh Qc] [7h]
+gabirebe1: checks 
+Facusushi: checks 
+*** SHOW DOWN ***
+gabirebe1: shows [8h 6c] (a pair of Sixes)
+Facusushi: shows [7d Ac] (a pair of Sevens)
+Facusushi collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Board [6s 2c Kh Qc 7h]
+Seat 1: Facusushi (button) showed [7d Ac] and won (150) with a pair of Sevens
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: gabirebe1 (big blind) showed [8h 6c] and lost with a pair of Sixes
+
+
+
+PokerStars Hand #252984931047: Tournament #3813297327, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/18 14:46:22 CET [2024/10/18 8:46:22 ET]
+Table '3813297327 1' 3-max Seat #2 is the button
+Seat 1: Facusushi (580 in chips) 
+Seat 2: Mahu2021 (490 in chips) 
+Seat 3: gabirebe1 (430 in chips) 
+gabirebe1: posts small blind 10
+Facusushi: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Th 4c]
+Mahu2021: folds 
+gabirebe1: calls 10
+Facusushi: checks 
+*** FLOP *** [5h 3d 8c]
+gabirebe1: bets 410 and is all-in
+Facusushi: folds 
+Uncalled bet (410) returned to gabirebe1
+gabirebe1 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [5h 3d 8c]
+Seat 1: Facusushi (big blind) folded on the Flop
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: gabirebe1 (small blind) collected (40)
+
+
+
+PokerStars Hand #252984934142: Tournament #3813297327, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/18 14:46:41 CET [2024/10/18 8:46:41 ET]
+Table '3813297327 1' 3-max Seat #3 is the button
+Seat 1: Facusushi (560 in chips) 
+Seat 2: Mahu2021 (490 in chips) 
+Seat 3: gabirebe1 (450 in chips) 
+Facusushi: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3c 7d]
+gabirebe1: calls 20
+Facusushi: calls 10
+Mahu2021: checks 
+*** FLOP *** [8s Td Qs]
+Facusushi: bets 60
+Mahu2021: folds 
+gabirebe1: raises 370 to 430 and is all-in
+Facusushi: calls 370
+*** TURN *** [8s Td Qs] [6h]
+*** RIVER *** [8s Td Qs 6h] [Kd]
+*** SHOW DOWN ***
+Facusushi: shows [9h Qc] (a pair of Queens)
+gabirebe1: shows [Th 6c] (two pair, Tens and Sixes)
+gabirebe1 collected 920 from pot
+*** SUMMARY ***
+Total pot 920 | Rake 0 
+Board [8s Td Qs 6h Kd]
+Seat 1: Facusushi (small blind) showed [9h Qc] and lost with a pair of Queens
+Seat 2: Mahu2021 (big blind) folded on the Flop
+Seat 3: gabirebe1 (button) showed [Th 6c] and won (920) with two pair, Tens and Sixes
+
+
+
+PokerStars Hand #252984937685: Tournament #3813297327, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/18 14:47:02 CET [2024/10/18 8:47:02 ET]
+Table '3813297327 1' 3-max Seat #1 is the button
+Seat 1: Facusushi (110 in chips) 
+Seat 2: Mahu2021 (470 in chips) 
+Seat 3: gabirebe1 (920 in chips) 
+Mahu2021: posts small blind 10
+gabirebe1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c 6c]
+Facusushi: folds 
+Mahu2021: calls 10
+gabirebe1: checks 
+*** FLOP *** [Qd 8h 2d]
+Mahu2021: checks 
+gabirebe1: checks 
+*** TURN *** [Qd 8h 2d] [Ac]
+Mahu2021: checks 
+gabirebe1: checks 
+*** RIVER *** [Qd 8h 2d Ac] [Kd]
+Mahu2021: checks 
+gabirebe1: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [9c 6c] (high card Ace)
+gabirebe1: shows [Kh 4h] (a pair of Kings)
+gabirebe1 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Qd 8h 2d Ac Kd]
+Seat 1: Facusushi (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) showed [9c 6c] and lost with high card Ace
+Seat 3: gabirebe1 (big blind) showed [Kh 4h] and won (40) with a pair of Kings
+
+
+
+PokerStars Hand #252984940877: Tournament #3813297327, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/18 14:47:22 CET [2024/10/18 8:47:22 ET]
+Table '3813297327 1' 3-max Seat #2 is the button
+Seat 1: Facusushi (110 in chips) 
+Seat 2: Mahu2021 (450 in chips) 
+Seat 3: gabirebe1 (940 in chips) 
+gabirebe1: posts small blind 10
+Facusushi: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js Ts]
+Mahu2021: folds 
+gabirebe1: folds 
+Uncalled bet (10) returned to Facusushi
+Facusushi collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Facusushi (big blind) collected (20)
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: gabirebe1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #252984942251: Tournament #3813297327, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/18 14:47:30 CET [2024/10/18 8:47:30 ET]
+Table '3813297327 1' 3-max Seat #3 is the button
+Seat 1: Facusushi (120 in chips) 
+Seat 2: Mahu2021 (450 in chips) 
+Seat 3: gabirebe1 (930 in chips) 
+Facusushi: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8s 5c]
+gabirebe1: calls 20
+Facusushi: folds 
+Mahu2021: checks 
+*** FLOP *** [4s 3s Jd]
+Mahu2021: checks 
+gabirebe1: bets 20
+Mahu2021: folds 
+Uncalled bet (20) returned to gabirebe1
+gabirebe1 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [4s 3s Jd]
+Seat 1: Facusushi (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) folded on the Flop
+Seat 3: gabirebe1 (button) collected (50)
+
+
+
+PokerStars Hand #252984945112: Tournament #3813297327, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/18 14:47:48 CET [2024/10/18 8:47:48 ET]
+Table '3813297327 1' 3-max Seat #1 is the button
+Seat 1: Facusushi (110 in chips) 
+Seat 2: Mahu2021 (430 in chips) 
+Seat 3: gabirebe1 (960 in chips) 
+Mahu2021: posts small blind 10
+gabirebe1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s Ah]
+Facusushi: folds 
+Mahu2021: raises 20 to 40
+gabirebe1: raises 920 to 960 and is all-in
+Mahu2021: folds 
+Uncalled bet (920) returned to gabirebe1
+gabirebe1 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Facusushi (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: gabirebe1 (big blind) collected (80)
+
+
+
+PokerStars Hand #252984947494: Tournament #3813297327, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/18 14:48:02 CET [2024/10/18 8:48:02 ET]
+Table '3813297327 1' 3-max Seat #2 is the button
+Seat 1: Facusushi (110 in chips) 
+Seat 2: Mahu2021 (390 in chips) 
+Seat 3: gabirebe1 (1000 in chips) 
+gabirebe1: posts small blind 15
+Facusushi: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s 5h]
+Mahu2021: folds 
+gabirebe1: folds 
+Uncalled bet (15) returned to Facusushi
+Facusushi collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Facusushi (big blind) collected (30)
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: gabirebe1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #252984948914: Tournament #3813297327, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/18 14:48:10 CET [2024/10/18 8:48:10 ET]
+Table '3813297327 1' 3-max Seat #3 is the button
+Seat 1: Facusushi (125 in chips) 
+Seat 2: Mahu2021 (390 in chips) 
+Seat 3: gabirebe1 (985 in chips) 
+Facusushi: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6h 3h]
+gabirebe1: folds 
+Facusushi: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Facusushi (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (30)
+Seat 3: gabirebe1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #252984950019: Tournament #3813297327, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/18 14:48:17 CET [2024/10/18 8:48:17 ET]
+Table '3813297327 1' 3-max Seat #1 is the button
+Seat 1: Facusushi (110 in chips) 
+Seat 2: Mahu2021 (405 in chips) 
+Seat 3: gabirebe1 (985 in chips) 
+Mahu2021: posts small blind 15
+gabirebe1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5h Jd]
+Facusushi: folds 
+Mahu2021: folds 
+Uncalled bet (15) returned to gabirebe1
+gabirebe1 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Facusushi (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: gabirebe1 (big blind) collected (30)
+
+
+
+PokerStars Hand #252984950948: Tournament #3813297327, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/18 14:48:23 CET [2024/10/18 8:48:23 ET]
+Table '3813297327 1' 3-max Seat #2 is the button
+Seat 1: Facusushi (110 in chips) 
+Seat 2: Mahu2021 (390 in chips) 
+Seat 3: gabirebe1 (1000 in chips) 
+gabirebe1: posts small blind 15
+Facusushi: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4c Qs]
+Mahu2021: folds 
+gabirebe1: calls 15
+Facusushi: checks 
+*** FLOP *** [4h 5c 2d]
+gabirebe1: bets 30
+Facusushi: raises 50 to 80 and is all-in
+gabirebe1: calls 50
+*** TURN *** [4h 5c 2d] [Jh]
+*** RIVER *** [4h 5c 2d Jh] [Js]
+*** SHOW DOWN ***
+gabirebe1: shows [5h 9s] (two pair, Jacks and Fives)
+Facusushi: shows [4d Jd] (a full house, Jacks full of Fours)
+Facusushi collected 220 from pot
+*** SUMMARY ***
+Total pot 220 | Rake 0 
+Board [4h 5c 2d Jh Js]
+Seat 1: Facusushi (big blind) showed [4d Jd] and won (220) with a full house, Jacks full of Fours
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: gabirebe1 (small blind) showed [5h 9s] and lost with two pair, Jacks and Fives
+
+
+
+PokerStars Hand #252984954364: Tournament #3813297327, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/18 14:48:43 CET [2024/10/18 8:48:43 ET]
+Table '3813297327 1' 3-max Seat #3 is the button
+Seat 1: Facusushi (220 in chips) 
+Seat 2: Mahu2021 (390 in chips) 
+Seat 3: gabirebe1 (890 in chips) 
+Facusushi: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh 6d]
+gabirebe1: folds 
+Facusushi: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Facusushi (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (30)
+Seat 3: gabirebe1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #252984955335: Tournament #3813297327, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/18 14:48:49 CET [2024/10/18 8:48:49 ET]
+Table '3813297327 1' 3-max Seat #1 is the button
+Seat 1: Facusushi (205 in chips) 
+Seat 2: Mahu2021 (405 in chips) 
+Seat 3: gabirebe1 (890 in chips) 
+Mahu2021: posts small blind 15
+gabirebe1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c Th]
+Facusushi: folds 
+Mahu2021: folds 
+Uncalled bet (15) returned to gabirebe1
+gabirebe1 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Facusushi (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: gabirebe1 (big blind) collected (30)
+
+
+
+PokerStars Hand #252984956418: Tournament #3813297327, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/18 14:48:56 CET [2024/10/18 8:48:56 ET]
+Table '3813297327 1' 3-max Seat #2 is the button
+Seat 1: Facusushi (205 in chips) 
+Seat 2: Mahu2021 (390 in chips) 
+Seat 3: gabirebe1 (905 in chips) 
+gabirebe1: posts small blind 15
+Facusushi: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c 3s]
+Mahu2021: folds 
+gabirebe1: calls 15
+Facusushi: checks 
+*** FLOP *** [As Qh 3c]
+gabirebe1: checks 
+Facusushi: bets 30
+gabirebe1: folds 
+Uncalled bet (30) returned to Facusushi
+Facusushi collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [As Qh 3c]
+Seat 1: Facusushi (big blind) collected (60)
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: gabirebe1 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #252984959215: Tournament #3813297327, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/18 14:49:13 CET [2024/10/18 8:49:13 ET]
+Table '3813297327 1' 3-max Seat #3 is the button
+Seat 1: Facusushi (235 in chips) 
+Seat 2: Mahu2021 (390 in chips) 
+Seat 3: gabirebe1 (875 in chips) 
+Facusushi: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd 9d]
+gabirebe1: raises 30 to 60
+Facusushi: raises 175 to 235 and is all-in
+Mahu2021: folds 
+gabirebe1: calls 175
+*** FLOP *** [5c Jc Jd]
+*** TURN *** [5c Jc Jd] [Qd]
+*** RIVER *** [5c Jc Jd Qd] [3d]
+*** SHOW DOWN ***
+Facusushi: shows [Ac 4h] (a pair of Jacks)
+gabirebe1: shows [Ah 8s] (a pair of Jacks - Ace+Queen+Eight kicker)
+gabirebe1 collected 500 from pot
+Facusushi finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 500 | Rake 0 
+Board [5c Jc Jd Qd 3d]
+Seat 1: Facusushi (small blind) showed [Ac 4h] and lost with a pair of Jacks
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: gabirebe1 (button) showed [Ah 8s] and won (500) with a pair of Jacks
+
+
+
+PokerStars Hand #252984962914: Tournament #3813297327, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/18 14:49:35 CET [2024/10/18 8:49:35 ET]
+Table '3813297327 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (360 in chips) 
+Seat 3: gabirebe1 (1140 in chips) 
+Mahu2021: posts small blind 15
+gabirebe1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c 7d]
+Mahu2021: folds 
+Uncalled bet (15) returned to gabirebe1
+gabirebe1 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: gabirebe1 (big blind) collected (30)
+
+
+
+PokerStars Hand #252984963655: Tournament #3813297327, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/18 14:49:39 CET [2024/10/18 8:49:39 ET]
+Table '3813297327 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (345 in chips) 
+Seat 3: gabirebe1 (1155 in chips) 
+gabirebe1: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s 7c]
+gabirebe1: calls 15
+Mahu2021: checks 
+*** FLOP *** [4d 5h 2h]
+Mahu2021: bets 315 and is all-in
+gabirebe1: folds 
+Uncalled bet (315) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [4d 5h 2h]
+Seat 2: Mahu2021 (big blind) collected (60)
+Seat 3: gabirebe1 (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #252984965314: Tournament #3813297327, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/18 14:49:49 CET [2024/10/18 8:49:49 ET]
+Table '3813297327 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (375 in chips) 
+Seat 3: gabirebe1 (1125 in chips) 
+Mahu2021: posts small blind 15
+gabirebe1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc Ad]
+Mahu2021: calls 15
+gabirebe1: checks 
+*** FLOP *** [3h 5h Ks]
+gabirebe1: checks 
+Mahu2021: checks 
+*** TURN *** [3h 5h Ks] [6h]
+gabirebe1: checks 
+Mahu2021: checks 
+*** RIVER *** [3h 5h Ks 6h] [Ah]
+gabirebe1: bets 60
+Mahu2021: folds 
+Uncalled bet (60) returned to gabirebe1
+gabirebe1 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [3h 5h Ks 6h Ah]
+Seat 2: Mahu2021 (button) (small blind) folded on the River
+Seat 3: gabirebe1 (big blind) collected (60)
+
+
+
+PokerStars Hand #252984968254: Tournament #3813297327, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/10/18 14:50:07 CET [2024/10/18 8:50:07 ET]
+Table '3813297327 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (345 in chips) 
+Seat 3: gabirebe1 (1155 in chips) 
+gabirebe1: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks 3s]
+gabirebe1: calls 20
+Mahu2021: checks 
+*** FLOP *** [2s 6d 9s]
+Mahu2021: bets 40
+gabirebe1: raises 40 to 80
+Mahu2021: calls 40
+*** TURN *** [2s 6d 9s] [Td]
+Mahu2021: checks 
+gabirebe1: bets 40
+Mahu2021: calls 40
+*** RIVER *** [2s 6d 9s Td] [Ac]
+Mahu2021: checks 
+gabirebe1: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [Ks 3s] (high card Ace)
+gabirebe1: shows [Qh 6s] (a pair of Sixes)
+gabirebe1 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [2s 6d 9s Td Ac]
+Seat 2: Mahu2021 (big blind) showed [Ks 3s] and lost with high card Ace
+Seat 3: gabirebe1 (button) (small blind) showed [Qh 6s] and won (320) with a pair of Sixes
+
+
+
+PokerStars Hand #252984970892: Tournament #3813297327, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/10/18 14:50:23 CET [2024/10/18 8:50:23 ET]
+Table '3813297327 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (185 in chips) 
+Seat 3: gabirebe1 (1315 in chips) 
+Mahu2021: posts small blind 20
+gabirebe1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d Qh]
+Mahu2021: folds 
+Uncalled bet (20) returned to gabirebe1
+gabirebe1 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: gabirebe1 (big blind) collected (40)
+
+
+
+PokerStars Hand #252984971631: Tournament #3813297327, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/10/18 14:50:27 CET [2024/10/18 8:50:27 ET]
+Table '3813297327 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (165 in chips) 
+Seat 3: gabirebe1 (1335 in chips) 
+gabirebe1: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h 2d]
+gabirebe1: calls 20
+Mahu2021: checks 
+*** FLOP *** [8c 5c Tc]
+Mahu2021: checks 
+gabirebe1: checks 
+*** TURN *** [8c 5c Tc] [Ah]
+Mahu2021: checks 
+gabirebe1: checks 
+*** RIVER *** [8c 5c Tc Ah] [8s]
+Mahu2021: checks 
+gabirebe1: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [9h 2d] (a pair of Eights)
+gabirebe1: shows [Qs 7h] (a pair of Eights - Ace+Queen kicker)
+gabirebe1 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [8c 5c Tc Ah 8s]
+Seat 2: Mahu2021 (big blind) showed [9h 2d] and lost with a pair of Eights
+Seat 3: gabirebe1 (button) (small blind) showed [Qs 7h] and won (80) with a pair of Eights
+
+
+
+PokerStars Hand #252984974019: Tournament #3813297327, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/10/18 14:50:42 CET [2024/10/18 8:50:42 ET]
+Table '3813297327 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (125 in chips) 
+Seat 3: gabirebe1 (1375 in chips) 
+Mahu2021: posts small blind 20
+gabirebe1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8d Ah]
+Mahu2021: raises 85 to 125 and is all-in
+gabirebe1: folds 
+Uncalled bet (85) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) collected (80)
+Seat 3: gabirebe1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #252984975012: Tournament #3813297327, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/10/18 14:50:48 CET [2024/10/18 8:50:48 ET]
+Table '3813297327 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (165 in chips) 
+Seat 3: gabirebe1 (1335 in chips) 
+gabirebe1: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c Qc]
+gabirebe1: calls 20
+Mahu2021: checks 
+*** FLOP *** [8h 7s 6s]
+Mahu2021: bets 40
+gabirebe1: raises 40 to 80
+Mahu2021: raises 45 to 125 and is all-in
+gabirebe1: calls 45
+*** TURN *** [8h 7s 6s] [Ks]
+*** RIVER *** [8h 7s 6s Ks] [4h]
+*** SHOW DOWN ***
+Mahu2021: shows [7c Qc] (a pair of Sevens)
+gabirebe1: shows [4d 7h] (two pair, Sevens and Fours)
+gabirebe1 collected 330 from pot
+Mahu2021 finished the tournament in 2nd place
+gabirebe1 wins the tournament and receives $4.00 - congratulations!
+*** SUMMARY ***
+Total pot 330 | Rake 0 
+Board [8h 7s 6s Ks 4h]
+Seat 2: Mahu2021 (big blind) showed [7c Qc] and lost with a pair of Sevens
+Seat 3: gabirebe1 (button) (small blind) showed [4d 7h] and won (330) with two pair, Sevens and Fours
+
+
+

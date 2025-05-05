@@ -1,0 +1,162 @@
+﻿PokerStars Hand #247552894421: Tournament #3683870985, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/08 22:54:17 CET [2023/12/08 16:54:17 ET]
+Table '3683870985 1' 3-max Seat #1 is the button
+Seat 1: chocho_157w (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: ftvmati2019 (500 in chips) 
+Mahu2021: posts small blind 10
+ftvmati2019: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8c Kc]
+chocho_157w: folds 
+Mahu2021: calls 10
+ftvmati2019: checks 
+*** FLOP *** [9s 8d Jd]
+Mahu2021: checks 
+ftvmati2019: checks 
+*** TURN *** [9s 8d Jd] [Th]
+Mahu2021: checks 
+ftvmati2019: checks 
+*** RIVER *** [9s 8d Jd Th] [Js]
+Mahu2021: checks 
+ftvmati2019: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [8c Kc] (two pair, Jacks and Eights)
+ftvmati2019: mucks hand 
+Mahu2021 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [9s 8d Jd Th Js]
+Seat 1: chocho_157w (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) showed [8c Kc] and won (40) with two pair, Jacks and Eights
+Seat 3: ftvmati2019 (big blind) mucked [2c 3h]
+
+
+
+PokerStars Hand #247552902008: Tournament #3683870985, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/08 22:54:40 CET [2023/12/08 16:54:40 ET]
+Table '3683870985 1' 3-max Seat #2 is the button
+Seat 1: chocho_157w (500 in chips) 
+Seat 2: Mahu2021 (520 in chips) 
+Seat 3: ftvmati2019 (480 in chips) 
+ftvmati2019: posts small blind 10
+chocho_157w: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks 6c]
+Mahu2021: calls 20
+ftvmati2019: folds 
+chocho_157w: checks 
+*** FLOP *** [Jc 2c 8s]
+chocho_157w: bets 20
+Mahu2021: folds 
+Uncalled bet (20) returned to chocho_157w
+chocho_157w collected 50 from pot
+chocho_157w: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [Jc 2c 8s]
+Seat 1: chocho_157w (big blind) collected (50)
+Seat 2: Mahu2021 (button) folded on the Flop
+Seat 3: ftvmati2019 (small blind) folded before Flop
+
+
+
+PokerStars Hand #247552907501: Tournament #3683870985, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/08 22:54:57 CET [2023/12/08 16:54:57 ET]
+Table '3683870985 1' 3-max Seat #3 is the button
+Seat 1: chocho_157w (530 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: ftvmati2019 (470 in chips) 
+chocho_157w: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4d Ad]
+ftvmati2019: raises 20 to 40
+chocho_157w: folds 
+Mahu2021: calls 20
+*** FLOP *** [7s Jh 3d]
+Mahu2021: checks 
+ftvmati2019: bets 31
+Mahu2021: folds 
+Uncalled bet (31) returned to ftvmati2019
+ftvmati2019 collected 90 from pot
+ftvmati2019: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [7s Jh 3d]
+Seat 1: chocho_157w (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) folded on the Flop
+Seat 3: ftvmati2019 (button) collected (90)
+
+
+
+PokerStars Hand #247552913042: Tournament #3683870985, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/08 22:55:15 CET [2023/12/08 16:55:15 ET]
+Table '3683870985 1' 3-max Seat #1 is the button
+Seat 1: chocho_157w (520 in chips) 
+Seat 2: Mahu2021 (460 in chips) 
+Seat 3: ftvmati2019 (520 in chips) 
+Mahu2021: posts small blind 10
+ftvmati2019: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As 2s]
+chocho_157w: calls 20
+Mahu2021: calls 10
+ftvmati2019: checks 
+*** FLOP *** [9d 3s Ts]
+Mahu2021: checks 
+ftvmati2019: checks 
+chocho_157w: checks 
+*** TURN *** [9d 3s Ts] [3h]
+Mahu2021: bets 40
+ftvmati2019: raises 73 to 113
+chocho_157w: folds 
+Mahu2021: calls 73
+*** RIVER *** [9d 3s Ts 3h] [6c]
+Mahu2021: checks 
+ftvmati2019: bets 387 and is all-in
+Mahu2021: folds 
+Uncalled bet (387) returned to ftvmati2019
+ftvmati2019 collected 286 from pot
+ftvmati2019: doesn't show hand 
+*** SUMMARY ***
+Total pot 286 | Rake 0 
+Board [9d 3s Ts 3h 6c]
+Seat 1: chocho_157w (button) folded on the Turn
+Seat 2: Mahu2021 (small blind) folded on the River
+Seat 3: ftvmati2019 (big blind) collected (286)
+
+
+
+PokerStars Hand #247552920756: Tournament #3683870985, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/08 22:55:47 CET [2023/12/08 16:55:47 ET]
+Table '3683870985 1' 3-max Seat #2 is the button
+Seat 1: chocho_157w (500 in chips) 
+Seat 2: Mahu2021 (327 in chips) 
+Seat 3: ftvmati2019 (673 in chips) 
+ftvmati2019: posts small blind 10
+chocho_157w: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qd 9h]
+Mahu2021: calls 20
+ftvmati2019: calls 10
+chocho_157w: checks 
+*** FLOP *** [9c 7c Jd]
+ftvmati2019: checks 
+chocho_157w: checks 
+Mahu2021: bets 60
+ftvmati2019: raises 593 to 653 and is all-in
+chocho_157w: folds 
+Mahu2021: calls 247 and is all-in
+Uncalled bet (346) returned to ftvmati2019
+*** TURN *** [9c 7c Jd] [Kd]
+*** RIVER *** [9c 7c Jd Kd] [3s]
+*** SHOW DOWN ***
+ftvmati2019: shows [Js 8s] (a pair of Jacks)
+Mahu2021: shows [Qd 9h] (a pair of Nines)
+ftvmati2019 collected 674 from pot
+Mahu2021 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 674 | Rake 0 
+Board [9c 7c Jd Kd 3s]
+Seat 1: chocho_157w (big blind) folded on the Flop
+Seat 2: Mahu2021 (button) showed [Qd 9h] and lost with a pair of Nines
+Seat 3: ftvmati2019 (small blind) showed [Js 8s] and won (674) with a pair of Jacks
+
+
+

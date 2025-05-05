@@ -1,0 +1,568 @@
+﻿PokerStars Hand #249401334091: Tournament #3728367872, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/03/13 19:38:43 CET [2024/03/13 14:38:43 ET]
+Table '3728367872 1' 3-max Seat #1 is the button
+Seat 1: Guinil13 (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: Awaszka (500 in chips) 
+Mahu2021: posts small blind 10
+Awaszka: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d 7s]
+Guinil13: calls 20
+Mahu2021: folds 
+Awaszka: checks 
+*** FLOP *** [8h 3d 4c]
+Awaszka: checks 
+Guinil13: checks 
+*** TURN *** [8h 3d 4c] [Jc]
+Awaszka: checks 
+Guinil13: bets 20
+Awaszka: folds 
+Uncalled bet (20) returned to Guinil13
+Guinil13 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [8h 3d 4c Jc]
+Seat 1: Guinil13 (button) collected (50)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: Awaszka (big blind) folded on the Turn
+
+
+
+PokerStars Hand #249401340617: Tournament #3728367872, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/03/13 19:39:04 CET [2024/03/13 14:39:04 ET]
+Table '3728367872 1' 3-max Seat #2 is the button
+Seat 1: Guinil13 (530 in chips) 
+Seat 2: Mahu2021 (490 in chips) 
+Seat 3: Awaszka (480 in chips) 
+Awaszka: posts small blind 10
+Guinil13: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd Ad]
+Mahu2021: raises 20 to 40
+Awaszka: calls 30
+Guinil13: raises 490 to 530 and is all-in
+Mahu2021: calls 450 and is all-in
+Awaszka: folds 
+Uncalled bet (40) returned to Guinil13
+*** FLOP *** [8c 8h 4h]
+*** TURN *** [8c 8h 4h] [Kh]
+*** RIVER *** [8c 8h 4h Kh] [3h]
+*** SHOW DOWN ***
+Guinil13: shows [As Jc] (a pair of Eights)
+Mahu2021: shows [Kd Ad] (two pair, Kings and Eights)
+Mahu2021 collected 1020 from pot
+*** SUMMARY ***
+Total pot 1020 | Rake 0 
+Board [8c 8h 4h Kh 3h]
+Seat 1: Guinil13 (big blind) showed [As Jc] and lost with a pair of Eights
+Seat 2: Mahu2021 (button) showed [Kd Ad] and won (1020) with two pair, Kings and Eights
+Seat 3: Awaszka (small blind) folded before Flop
+
+
+
+PokerStars Hand #249401347160: Tournament #3728367872, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/03/13 19:39:26 CET [2024/03/13 14:39:26 ET]
+Table '3728367872 1' 3-max Seat #3 is the button
+Seat 1: Guinil13 (40 in chips) 
+Seat 2: Mahu2021 (1020 in chips) 
+Seat 3: Awaszka (440 in chips) 
+Guinil13: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h 5c]
+Awaszka: raises 20 to 40
+Guinil13: calls 30 and is all-in
+Mahu2021: folds 
+*** FLOP *** [Tc 5d 8d]
+*** TURN *** [Tc 5d 8d] [7s]
+*** RIVER *** [Tc 5d 8d 7s] [3h]
+*** SHOW DOWN ***
+Guinil13: shows [Th 4s] (a pair of Tens)
+Awaszka: shows [Kh Qd] (high card King)
+Guinil13 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [Tc 5d 8d 7s 3h]
+Seat 1: Guinil13 (small blind) showed [Th 4s] and won (100) with a pair of Tens
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: Awaszka (button) showed [Kh Qd] and lost with high card King
+
+
+
+PokerStars Hand #249401351194: Tournament #3728367872, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/03/13 19:39:39 CET [2024/03/13 14:39:39 ET]
+Table '3728367872 1' 3-max Seat #1 is the button
+Seat 1: Guinil13 (100 in chips) 
+Seat 2: Mahu2021 (1000 in chips) 
+Seat 3: Awaszka (400 in chips) 
+Mahu2021: posts small blind 10
+Awaszka: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh Ad]
+Guinil13: calls 20
+Mahu2021: calls 10
+Awaszka: checks 
+*** FLOP *** [Td 2h 4h]
+Mahu2021: checks 
+Awaszka: checks 
+Guinil13: checks 
+*** TURN *** [Td 2h 4h] [Jh]
+Mahu2021: checks 
+Awaszka: checks 
+Guinil13: checks 
+*** RIVER *** [Td 2h 4h Jh] [7s]
+Mahu2021: checks 
+Awaszka: checks 
+Guinil13: bets 80 and is all-in
+Mahu2021: folds 
+Awaszka: folds 
+Uncalled bet (80) returned to Guinil13
+Guinil13 collected 60 from pot
+Guinil13: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Td 2h 4h Jh 7s]
+Seat 1: Guinil13 (button) collected (60)
+Seat 2: Mahu2021 (small blind) folded on the River
+Seat 3: Awaszka (big blind) folded on the River
+
+
+
+PokerStars Hand #249401362778: Tournament #3728367872, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/03/13 19:40:17 CET [2024/03/13 14:40:17 ET]
+Table '3728367872 1' 3-max Seat #2 is the button
+Seat 1: Guinil13 (140 in chips) 
+Seat 2: Mahu2021 (980 in chips) 
+Seat 3: Awaszka (380 in chips) 
+Awaszka: posts small blind 10
+Guinil13: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh 2c]
+Mahu2021: folds 
+Awaszka: calls 10
+Guinil13: raises 120 to 140 and is all-in
+Awaszka: folds 
+Uncalled bet (120) returned to Guinil13
+Guinil13 collected 40 from pot
+Guinil13: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Guinil13 (big blind) collected (40)
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: Awaszka (small blind) folded before Flop
+
+
+
+PokerStars Hand #249401368160: Tournament #3728367872, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/03/13 19:40:34 CET [2024/03/13 14:40:34 ET]
+Table '3728367872 1' 3-max Seat #3 is the button
+Seat 1: Guinil13 (160 in chips) 
+Seat 2: Mahu2021 (980 in chips) 
+Seat 3: Awaszka (360 in chips) 
+Guinil13: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc 9d]
+Awaszka: calls 20
+Guinil13: calls 10
+Mahu2021: checks 
+*** FLOP *** [Kc 2c Qd]
+Guinil13: checks 
+Mahu2021: bets 40
+Awaszka: folds 
+Guinil13: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Kc 2c Qd]
+Seat 1: Guinil13 (small blind) folded on the Flop
+Seat 2: Mahu2021 (big blind) collected (60)
+Seat 3: Awaszka (button) folded on the Flop
+
+
+
+PokerStars Hand #249401378262: Tournament #3728367872, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/13 19:41:07 CET [2024/03/13 14:41:07 ET]
+Table '3728367872 1' 3-max Seat #1 is the button
+Seat 1: Guinil13 (140 in chips) 
+Seat 2: Mahu2021 (1020 in chips) 
+Seat 3: Awaszka (340 in chips) 
+Mahu2021: posts small blind 15
+Awaszka: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh 4s]
+Guinil13: folds 
+Mahu2021: calls 15
+Awaszka: checks 
+*** FLOP *** [9h 7h 2c]
+Mahu2021: checks 
+Awaszka: checks 
+*** TURN *** [9h 7h 2c] [3h]
+Mahu2021: checks 
+Awaszka: checks 
+*** RIVER *** [9h 7h 2c 3h] [9s]
+Mahu2021: checks 
+Awaszka: bets 30
+Mahu2021: folds 
+Uncalled bet (30) returned to Awaszka
+Awaszka collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [9h 7h 2c 3h 9s]
+Seat 1: Guinil13 (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) folded on the River
+Seat 3: Awaszka (big blind) collected (60)
+
+
+
+PokerStars Hand #249401387248: Tournament #3728367872, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/13 19:41:37 CET [2024/03/13 14:41:37 ET]
+Table '3728367872 1' 3-max Seat #2 is the button
+Seat 1: Guinil13 (140 in chips) 
+Seat 2: Mahu2021 (990 in chips) 
+Seat 3: Awaszka (370 in chips) 
+Awaszka: posts small blind 15
+Guinil13: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s 9s]
+Mahu2021: folds 
+Awaszka: calls 15
+Guinil13: checks 
+*** FLOP *** [Kd 2h Qc]
+Awaszka: checks 
+Guinil13: bets 110 and is all-in
+Awaszka: folds 
+Uncalled bet (110) returned to Guinil13
+Guinil13 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Kd 2h Qc]
+Seat 1: Guinil13 (big blind) collected (60)
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: Awaszka (small blind) folded on the Flop
+
+
+
+PokerStars Hand #249401394482: Tournament #3728367872, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/13 19:42:01 CET [2024/03/13 14:42:01 ET]
+Table '3728367872 1' 3-max Seat #3 is the button
+Seat 1: Guinil13 (170 in chips) 
+Seat 2: Mahu2021 (990 in chips) 
+Seat 3: Awaszka (340 in chips) 
+Guinil13: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d 9c]
+Awaszka: calls 30
+Guinil13: calls 15
+Mahu2021: checks 
+*** FLOP *** [Jd 6c As]
+Guinil13: checks 
+Mahu2021: checks 
+Awaszka: checks 
+*** TURN *** [Jd 6c As] [Qd]
+Guinil13: checks 
+Mahu2021: checks 
+Awaszka: checks 
+*** RIVER *** [Jd 6c As Qd] [7h]
+Guinil13: bets 30
+Mahu2021: folds 
+Awaszka: folds 
+Uncalled bet (30) returned to Guinil13
+Guinil13 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [Jd 6c As Qd 7h]
+Seat 1: Guinil13 (small blind) collected (90)
+Seat 2: Mahu2021 (big blind) folded on the River
+Seat 3: Awaszka (button) folded on the River
+
+
+
+PokerStars Hand #249401407532: Tournament #3728367872, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/03/13 19:42:43 CET [2024/03/13 14:42:43 ET]
+Table '3728367872 1' 3-max Seat #1 is the button
+Seat 1: Guinil13 (230 in chips) 
+Seat 2: Mahu2021 (960 in chips) 
+Seat 3: Awaszka (310 in chips) 
+Mahu2021: posts small blind 15
+Awaszka: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s 7c]
+Guinil13: folds 
+Mahu2021: folds 
+Uncalled bet (15) returned to Awaszka
+Awaszka collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Guinil13 (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: Awaszka (big blind) collected (30)
+
+
+
+PokerStars Hand #249401410445: Tournament #3728367872, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/03/13 19:42:53 CET [2024/03/13 14:42:53 ET]
+Table '3728367872 1' 3-max Seat #2 is the button
+Seat 1: Guinil13 (230 in chips) 
+Seat 2: Mahu2021 (945 in chips) 
+Seat 3: Awaszka (325 in chips) 
+Awaszka: posts small blind 20
+Guinil13: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts 4s]
+Mahu2021: folds 
+Awaszka: calls 20
+Guinil13: checks 
+*** FLOP *** [Jh 4c 9c]
+Awaszka: checks 
+Guinil13: bets 190 and is all-in
+Awaszka: folds 
+Uncalled bet (190) returned to Guinil13
+Guinil13 collected 80 from pot
+Guinil13: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Jh 4c 9c]
+Seat 1: Guinil13 (big blind) collected (80)
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: Awaszka (small blind) folded on the Flop
+
+
+
+PokerStars Hand #249401417639: Tournament #3728367872, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/03/13 19:43:16 CET [2024/03/13 14:43:16 ET]
+Table '3728367872 1' 3-max Seat #3 is the button
+Seat 1: Guinil13 (270 in chips) 
+Seat 2: Mahu2021 (945 in chips) 
+Seat 3: Awaszka (285 in chips) 
+Guinil13: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s 3d]
+Awaszka: calls 40
+Guinil13: calls 20
+Mahu2021: checks 
+*** FLOP *** [5s 5h Qd]
+Guinil13: checks 
+Mahu2021: checks 
+Awaszka: bets 40
+Guinil13: folds 
+Mahu2021: folds 
+Uncalled bet (40) returned to Awaszka
+Awaszka collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [5s 5h Qd]
+Seat 1: Guinil13 (small blind) folded on the Flop
+Seat 2: Mahu2021 (big blind) folded on the Flop
+Seat 3: Awaszka (button) collected (120)
+
+
+
+PokerStars Hand #249401425927: Tournament #3728367872, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/03/13 19:43:43 CET [2024/03/13 14:43:43 ET]
+Table '3728367872 1' 3-max Seat #1 is the button
+Seat 1: Guinil13 (230 in chips) 
+Seat 2: Mahu2021 (905 in chips) 
+Seat 3: Awaszka (365 in chips) 
+Mahu2021: posts small blind 20
+Awaszka: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s Qd]
+Guinil13: calls 40
+Mahu2021: folds 
+Awaszka: checks 
+*** FLOP *** [4h Kh Jd]
+Awaszka: checks 
+Guinil13: bets 40
+Awaszka: folds 
+Uncalled bet (40) returned to Guinil13
+Guinil13 collected 100 from pot
+Guinil13: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [4h Kh Jd]
+Seat 1: Guinil13 (button) collected (100)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: Awaszka (big blind) folded on the Flop
+
+
+
+PokerStars Hand #249401433052: Tournament #3728367872, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/03/13 19:44:07 CET [2024/03/13 14:44:07 ET]
+Table '3728367872 1' 3-max Seat #2 is the button
+Seat 1: Guinil13 (290 in chips) 
+Seat 2: Mahu2021 (885 in chips) 
+Seat 3: Awaszka (325 in chips) 
+Awaszka: posts small blind 20
+Guinil13: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s 6d]
+Mahu2021: folds 
+Awaszka: calls 20
+Guinil13: checks 
+*** FLOP *** [Jh Qs Jc]
+Awaszka: checks 
+Guinil13: bets 250 and is all-in
+Awaszka: folds 
+Uncalled bet (250) returned to Guinil13
+Guinil13 collected 80 from pot
+Guinil13: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Jh Qs Jc]
+Seat 1: Guinil13 (big blind) collected (80)
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: Awaszka (small blind) folded on the Flop
+
+
+
+PokerStars Hand #249401440272: Tournament #3728367872, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/03/13 19:44:30 CET [2024/03/13 14:44:30 ET]
+Table '3728367872 1' 3-max Seat #3 is the button
+Seat 1: Guinil13 (330 in chips) 
+Seat 2: Mahu2021 (885 in chips) 
+Seat 3: Awaszka (285 in chips) 
+Guinil13: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd 2c]
+Awaszka: calls 40
+Guinil13: calls 20
+Mahu2021: checks 
+*** FLOP *** [Qd 2d 9h]
+Guinil13: checks 
+Mahu2021: checks 
+Awaszka: checks 
+*** TURN *** [Qd 2d 9h] [5h]
+Guinil13: checks 
+Mahu2021: checks 
+Awaszka: bets 40
+Guinil13: folds 
+Mahu2021: calls 40
+*** RIVER *** [Qd 2d 9h 5h] [Jc]
+Mahu2021: checks 
+Awaszka: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [Kd 2c] (a pair of Deuces)
+Awaszka: shows [5d 8h] (a pair of Fives)
+Awaszka collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [Qd 2d 9h 5h Jc]
+Seat 1: Guinil13 (small blind) folded on the Turn
+Seat 2: Mahu2021 (big blind) showed [Kd 2c] and lost with a pair of Deuces
+Seat 3: Awaszka (button) showed [5d 8h] and won (200) with a pair of Fives
+
+
+
+PokerStars Hand #249401456907: Tournament #3728367872, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/03/13 19:45:25 CET [2024/03/13 14:45:25 ET]
+Table '3728367872 1' 3-max Seat #1 is the button
+Seat 1: Guinil13 (290 in chips) 
+Seat 2: Mahu2021 (805 in chips) 
+Seat 3: Awaszka (405 in chips) 
+Mahu2021: posts small blind 30
+Awaszka: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh 8c]
+Guinil13: folds 
+Mahu2021: raises 60 to 120
+Awaszka: raises 285 to 405 and is all-in
+Mahu2021: calls 285
+*** FLOP *** [3c Kc 6s]
+*** TURN *** [3c Kc 6s] [Qc]
+*** RIVER *** [3c Kc 6s Qc] [5s]
+*** SHOW DOWN ***
+Mahu2021: shows [Kh 8c] (a pair of Kings)
+Awaszka: shows [Jd As] (high card Ace)
+Mahu2021 collected 810 from pot
+Awaszka finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 810 | Rake 0 
+Board [3c Kc 6s Qc 5s]
+Seat 1: Guinil13 (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) showed [Kh 8c] and won (810) with a pair of Kings
+Seat 3: Awaszka (big blind) showed [Jd As] and lost with high card Ace
+
+
+
+PokerStars Hand #249401463649: Tournament #3728367872, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/03/13 19:45:47 CET [2024/03/13 14:45:47 ET]
+Table '3728367872 1' 3-max Seat #2 is the button
+Seat 1: Guinil13 (290 in chips) 
+Seat 2: Mahu2021 (1210 in chips) 
+Mahu2021: posts small blind 30
+Guinil13: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac 8c]
+Mahu2021: raises 60 to 120
+Guinil13: calls 60
+*** FLOP *** [Qh 6h Ad]
+Guinil13: checks 
+Mahu2021: bets 60
+Guinil13: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 240 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Qh 6h Ad]
+Seat 1: Guinil13 (big blind) folded on the Flop
+Seat 2: Mahu2021 (button) (small blind) collected (240)
+
+
+
+PokerStars Hand #249401468620: Tournament #3728367872, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/03/13 19:46:03 CET [2024/03/13 14:46:03 ET]
+Table '3728367872 1' 3-max Seat #1 is the button
+Seat 1: Guinil13 (170 in chips) 
+Seat 2: Mahu2021 (1330 in chips) 
+Guinil13: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac 8h]
+Guinil13: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Guinil13 (button) (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (60)
+
+
+
+PokerStars Hand #249401470359: Tournament #3728367872, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/03/13 19:46:09 CET [2024/03/13 14:46:09 ET]
+Table '3728367872 1' 3-max Seat #2 is the button
+Seat 1: Guinil13 (140 in chips) 
+Seat 2: Mahu2021 (1360 in chips) 
+Mahu2021: posts small blind 30
+Guinil13: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h Kh]
+Mahu2021: raises 120 to 180
+Guinil13: folds 
+Uncalled bet (120) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: Guinil13 (big blind) folded before Flop
+Seat 2: Mahu2021 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #249401473100: Tournament #3728367872, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/03/13 19:46:18 CET [2024/03/13 14:46:18 ET]
+Table '3728367872 1' 3-max Seat #1 is the button
+Seat 1: Guinil13 (80 in chips) 
+Seat 2: Mahu2021 (1420 in chips) 
+Guinil13: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd 8d]
+Guinil13: raises 20 to 80 and is all-in
+Mahu2021: calls 20
+*** FLOP *** [2c Kh 8s]
+*** TURN *** [2c Kh 8s] [6h]
+*** RIVER *** [2c Kh 8s 6h] [9d]
+*** SHOW DOWN ***
+Mahu2021: shows [Jd 8d] (a pair of Eights)
+Guinil13: shows [4s Qc] (high card King)
+Mahu2021 collected 160 from pot
+Guinil13 finished the tournament in 2nd place
+Mahu2021 wins the tournament and receives $4.00 - congratulations!
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [2c Kh 8s 6h 9d]
+Seat 1: Guinil13 (button) (small blind) showed [4s Qc] and lost with high card King
+Seat 2: Mahu2021 (big blind) showed [Jd 8d] and won (160) with a pair of Eights
+
+
+

@@ -1,0 +1,469 @@
+﻿PokerStars Hand #251484652541: Tournament #3777784961, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/07/14 16:18:08 CET [2024/07/14 10:18:08 ET]
+Table '3777784961 1' 3-max Seat #1 is the button
+Seat 1: notusednick (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: Punisher694 (500 in chips) 
+Mahu2021: posts small blind 10
+Punisher694: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Td Js]
+notusednick: calls 20
+Mahu2021: calls 10
+Punisher694: checks 
+*** FLOP *** [9d 6s 3h]
+Mahu2021: checks 
+Punisher694: checks 
+notusednick: bets 20
+Mahu2021: folds 
+Punisher694: folds 
+Uncalled bet (20) returned to notusednick
+notusednick collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [9d 6s 3h]
+Seat 1: notusednick (button) collected (60)
+Seat 2: Mahu2021 (small blind) folded on the Flop
+Seat 3: Punisher694 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #251484658309: Tournament #3777784961, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/07/14 16:18:34 CET [2024/07/14 10:18:34 ET]
+Table '3777784961 1' 3-max Seat #2 is the button
+Seat 1: notusednick (540 in chips) 
+Seat 2: Mahu2021 (480 in chips) 
+Seat 3: Punisher694 (480 in chips) 
+Punisher694: posts small blind 10
+notusednick: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h 4c]
+Mahu2021: folds 
+Punisher694: raises 30 to 50
+notusednick: folds 
+Uncalled bet (30) returned to Punisher694
+Punisher694 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: notusednick (big blind) folded before Flop
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: Punisher694 (small blind) collected (40)
+
+
+
+PokerStars Hand #251484662037: Tournament #3777784961, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/07/14 16:18:51 CET [2024/07/14 10:18:51 ET]
+Table '3777784961 1' 3-max Seat #3 is the button
+Seat 1: notusednick (520 in chips) 
+Seat 2: Mahu2021 (480 in chips) 
+Seat 3: Punisher694 (500 in chips) 
+notusednick: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s Kc]
+Punisher694: raises 20 to 40
+notusednick: raises 480 to 520 and is all-in
+Mahu2021: folds 
+Punisher694: folds 
+Uncalled bet (480) returned to notusednick
+notusednick collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: notusednick (small blind) collected (100)
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: Punisher694 (button) folded before Flop
+
+
+
+PokerStars Hand #251484664608: Tournament #3777784961, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/07/14 16:19:02 CET [2024/07/14 10:19:02 ET]
+Table '3777784961 1' 3-max Seat #1 is the button
+Seat 1: notusednick (580 in chips) 
+Seat 2: Mahu2021 (460 in chips) 
+Seat 3: Punisher694 (460 in chips) 
+Mahu2021: posts small blind 10
+Punisher694: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h 9h]
+notusednick: raises 20 to 40
+Mahu2021: calls 30
+Punisher694: folds 
+*** FLOP *** [5h 3h 7c]
+Mahu2021: checks 
+notusednick: bets 50
+Mahu2021: calls 50
+*** TURN *** [5h 3h 7c] [8d]
+Mahu2021: checks 
+notusednick: bets 490 and is all-in
+Mahu2021: calls 370 and is all-in
+Uncalled bet (120) returned to notusednick
+*** RIVER *** [5h 3h 7c 8d] [Th]
+*** SHOW DOWN ***
+Mahu2021: shows [8h 9h] (a flush, Ten high)
+notusednick: shows [Td Tc] (three of a kind, Tens)
+Mahu2021 collected 940 from pot
+*** SUMMARY ***
+Total pot 940 | Rake 0 
+Board [5h 3h 7c 8d Th]
+Seat 1: notusednick (button) showed [Td Tc] and lost with three of a kind, Tens
+Seat 2: Mahu2021 (small blind) showed [8h 9h] and won (940) with a flush, Ten high
+Seat 3: Punisher694 (big blind) folded before Flop
+
+
+
+PokerStars Hand #251484670402: Tournament #3777784961, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/07/14 16:19:29 CET [2024/07/14 10:19:29 ET]
+Table '3777784961 1' 3-max Seat #2 is the button
+Seat 1: notusednick (120 in chips) 
+Seat 2: Mahu2021 (940 in chips) 
+Seat 3: Punisher694 (440 in chips) 
+Punisher694: posts small blind 10
+notusednick: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s 9h]
+Mahu2021: calls 20
+Punisher694: folds 
+notusednick: raises 100 to 120 and is all-in
+Mahu2021: calls 100
+*** FLOP *** [3c 4c Kh]
+*** TURN *** [3c 4c Kh] [Qd]
+*** RIVER *** [3c 4c Kh Qd] [4d]
+*** SHOW DOWN ***
+notusednick: shows [Kd Qc] (two pair, Kings and Queens)
+Mahu2021: shows [9s 9h] (two pair, Nines and Fours)
+notusednick collected 250 from pot
+*** SUMMARY ***
+Total pot 250 | Rake 0 
+Board [3c 4c Kh Qd 4d]
+Seat 1: notusednick (big blind) showed [Kd Qc] and won (250) with two pair, Kings and Queens
+Seat 2: Mahu2021 (button) showed [9s 9h] and lost with two pair, Nines and Fours
+Seat 3: Punisher694 (small blind) folded before Flop
+
+
+
+PokerStars Hand #251484675078: Tournament #3777784961, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/07/14 16:19:50 CET [2024/07/14 10:19:50 ET]
+Table '3777784961 1' 3-max Seat #3 is the button
+Seat 1: notusednick (250 in chips) 
+Seat 2: Mahu2021 (820 in chips) 
+Seat 3: Punisher694 (430 in chips) 
+notusednick: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h 8d]
+Punisher694: folds 
+notusednick: folds 
+Uncalled bet (10) returned to Mahu2021
+Mahu2021 collected 20 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: notusednick (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (20)
+Seat 3: Punisher694 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #251484677363: Tournament #3777784961, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/07/14 16:20:00 CET [2024/07/14 10:20:00 ET]
+Table '3777784961 1' 3-max Seat #1 is the button
+Seat 1: notusednick (240 in chips) 
+Seat 2: Mahu2021 (830 in chips) 
+Seat 3: Punisher694 (430 in chips) 
+Mahu2021: posts small blind 10
+Punisher694: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3c Jc]
+notusednick: folds 
+Mahu2021: raises 20 to 40
+Punisher694: raises 100 to 140
+Mahu2021: folds 
+Uncalled bet (100) returned to Punisher694
+Punisher694 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: notusednick (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: Punisher694 (big blind) collected (80)
+
+
+
+PokerStars Hand #251484681483: Tournament #3777784961, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/07/14 16:20:19 CET [2024/07/14 10:20:19 ET]
+Table '3777784961 1' 3-max Seat #2 is the button
+Seat 1: notusednick (240 in chips) 
+Seat 2: Mahu2021 (790 in chips) 
+Seat 3: Punisher694 (470 in chips) 
+Punisher694: posts small blind 15
+notusednick: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d Qh]
+Mahu2021: folds 
+Punisher694: raises 440 to 470 and is all-in
+notusednick: folds 
+Uncalled bet (440) returned to Punisher694
+Punisher694 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: notusednick (big blind) folded before Flop
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: Punisher694 (small blind) collected (60)
+
+
+
+PokerStars Hand #251484684447: Tournament #3777784961, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/07/14 16:20:32 CET [2024/07/14 10:20:32 ET]
+Table '3777784961 1' 3-max Seat #3 is the button
+Seat 1: notusednick (210 in chips) 
+Seat 2: Mahu2021 (790 in chips) 
+Seat 3: Punisher694 (500 in chips) 
+notusednick: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6h 7c]
+Punisher694: folds 
+notusednick: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: notusednick (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (30)
+Seat 3: Punisher694 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #251484685526: Tournament #3777784961, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/07/14 16:20:37 CET [2024/07/14 10:20:37 ET]
+Table '3777784961 1' 3-max Seat #1 is the button
+Seat 1: notusednick (195 in chips) 
+Seat 2: Mahu2021 (805 in chips) 
+Seat 3: Punisher694 (500 in chips) 
+Mahu2021: posts small blind 15
+Punisher694: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh Ad]
+notusednick: raises 165 to 195 and is all-in
+Mahu2021: calls 180
+Punisher694: folds 
+*** FLOP *** [8h 4d 7c]
+*** TURN *** [8h 4d 7c] [7h]
+*** RIVER *** [8h 4d 7c 7h] [4s]
+*** SHOW DOWN ***
+Mahu2021: shows [Qh Ad] (two pair, Sevens and Fours)
+notusednick: shows [Qc Jh] (two pair, Sevens and Fours - lower kicker)
+Mahu2021 collected 420 from pot
+notusednick finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 420 | Rake 0 
+Board [8h 4d 7c 7h 4s]
+Seat 1: notusednick (button) showed [Qc Jh] and lost with two pair, Sevens and Fours
+Seat 2: Mahu2021 (small blind) showed [Qh Ad] and won (420) with two pair, Sevens and Fours
+Seat 3: Punisher694 (big blind) folded before Flop
+
+
+
+PokerStars Hand #251484690303: Tournament #3777784961, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/07/14 16:20:59 CET [2024/07/14 10:20:59 ET]
+Table '3777784961 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (1030 in chips) 
+Seat 3: Punisher694 (470 in chips) 
+Punisher694: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kc Ts]
+Punisher694: calls 15
+Mahu2021: raises 60 to 90
+Punisher694: calls 60
+*** FLOP *** [9h 7d Ad]
+Mahu2021: checks 
+Punisher694: checks 
+*** TURN *** [9h 7d Ad] [2s]
+Mahu2021: bets 940 and is all-in
+Punisher694: folds 
+Uncalled bet (940) returned to Mahu2021
+Mahu2021 collected 180 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [9h 7d Ad 2s]
+Seat 2: Mahu2021 (big blind) collected (180)
+Seat 3: Punisher694 (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #251484695961: Tournament #3777784961, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/07/14 16:21:24 CET [2024/07/14 10:21:24 ET]
+Table '3777784961 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (1120 in chips) 
+Seat 3: Punisher694 (380 in chips) 
+Mahu2021: posts small blind 15
+Punisher694: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad 5c]
+Mahu2021: raises 30 to 60
+Punisher694: calls 30
+*** FLOP *** [7c 8h Ac]
+Punisher694: checks 
+Mahu2021: checks 
+*** TURN *** [7c 8h Ac] [8s]
+Punisher694: checks 
+Mahu2021: checks 
+*** RIVER *** [7c 8h Ac 8s] [As]
+Punisher694: checks 
+Mahu2021: bets 30
+Punisher694: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [7c 8h Ac 8s As]
+Seat 2: Mahu2021 (button) (small blind) collected (120)
+Seat 3: Punisher694 (big blind) folded on the River
+
+
+
+PokerStars Hand #251484701430: Tournament #3777784961, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/07/14 16:21:48 CET [2024/07/14 10:21:48 ET]
+Table '3777784961 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (1180 in chips) 
+Seat 3: Punisher694 (320 in chips) 
+Punisher694: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s Qh]
+Punisher694: calls 15
+Mahu2021: checks 
+*** FLOP *** [Kd 7c 5d]
+Mahu2021: checks 
+Punisher694: bets 30
+Mahu2021: calls 30
+*** TURN *** [Kd 7c 5d] [As]
+Mahu2021: checks 
+Punisher694: checks 
+*** RIVER *** [Kd 7c 5d As] [Jc]
+Mahu2021: bets 120
+Punisher694: folds 
+Uncalled bet (120) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Kd 7c 5d As Jc]
+Seat 2: Mahu2021 (big blind) collected (120)
+Seat 3: Punisher694 (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #251484707612: Tournament #3777784961, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/07/14 16:22:15 CET [2024/07/14 10:22:15 ET]
+Table '3777784961 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (1240 in chips) 
+Seat 3: Punisher694 (260 in chips) 
+Mahu2021: posts small blind 20
+Punisher694: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d 2s]
+Mahu2021: folds 
+Uncalled bet (20) returned to Punisher694
+Punisher694 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: Punisher694 (big blind) collected (40)
+
+
+
+PokerStars Hand #251484708645: Tournament #3777784961, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/07/14 16:22:20 CET [2024/07/14 10:22:20 ET]
+Table '3777784961 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (1220 in chips) 
+Seat 3: Punisher694 (280 in chips) 
+Punisher694: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d Ts]
+Punisher694: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: Mahu2021 (big blind) collected (40)
+Seat 3: Punisher694 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #251484710935: Tournament #3777784961, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/07/14 16:22:30 CET [2024/07/14 10:22:30 ET]
+Table '3777784961 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (1240 in chips) 
+Seat 3: Punisher694 (260 in chips) 
+Mahu2021: posts small blind 20
+Punisher694: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s Qh]
+Mahu2021: calls 20
+Punisher694: raises 220 to 260 and is all-in
+Mahu2021: folds 
+Uncalled bet (220) returned to Punisher694
+Punisher694 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: Punisher694 (big blind) collected (80)
+
+
+
+PokerStars Hand #251484713150: Tournament #3777784961, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/07/14 16:22:40 CET [2024/07/14 10:22:40 ET]
+Table '3777784961 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (1200 in chips) 
+Seat 3: Punisher694 (300 in chips) 
+Punisher694: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd 4s]
+Punisher694: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: Mahu2021 (big blind) collected (40)
+Seat 3: Punisher694 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #251484713910: Tournament #3777784961, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/07/14 16:22:44 CET [2024/07/14 10:22:44 ET]
+Table '3777784961 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (1220 in chips) 
+Seat 3: Punisher694 (280 in chips) 
+Mahu2021: posts small blind 20
+Punisher694: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac As]
+Mahu2021: raises 40 to 80
+Punisher694: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) collected (80)
+Seat 3: Punisher694 (big blind) folded before Flop
+
+
+
+PokerStars Hand #251484715659: Tournament #3777784961, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/07/14 16:22:51 CET [2024/07/14 10:22:51 ET]
+Table '3777784961 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (1260 in chips) 
+Seat 3: Punisher694 (240 in chips) 
+Punisher694: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad 8s]
+Punisher694: raises 200 to 240 and is all-in
+Mahu2021: calls 200
+*** FLOP *** [Qh 3s 2c]
+*** TURN *** [Qh 3s 2c] [4s]
+*** RIVER *** [Qh 3s 2c 4s] [9d]
+*** SHOW DOWN ***
+Mahu2021: shows [Ad 8s] (high card Ace)
+Punisher694: shows [Tc 8d] (high card Queen)
+Mahu2021 collected 480 from pot
+Punisher694 finished the tournament in 2nd place
+Mahu2021 wins the tournament and receives $4.00 - congratulations!
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Board [Qh 3s 2c 4s 9d]
+Seat 2: Mahu2021 (big blind) showed [Ad 8s] and won (480) with high card Ace
+Seat 3: Punisher694 (button) (small blind) showed [Tc 8d] and lost with high card Queen
+
+
+

@@ -1,0 +1,102 @@
+﻿PokerStars Hand #246563188124: Tournament #3659647256, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/10/16 10:28:33 CET [2023/10/16 4:28:33 ET]
+Table '3659647256 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: Clock999 (500 in chips) 
+Seat 3: Nedkoto05 (500 in chips) 
+Clock999: posts small blind 10
+Nedkoto05: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s Qc]
+Mahu2021: folds 
+Clock999: raises 40 to 60
+Nedkoto05: folds 
+Uncalled bet (40) returned to Clock999
+Clock999 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: Clock999 (small blind) collected (40)
+Seat 3: Nedkoto05 (big blind) folded before Flop
+
+
+
+PokerStars Hand #246563189022: Tournament #3659647256, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/10/16 10:28:41 CET [2023/10/16 4:28:41 ET]
+Table '3659647256 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: Clock999 (520 in chips) 
+Seat 3: Nedkoto05 (480 in chips) 
+Nedkoto05: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8s 9s]
+Clock999: folds 
+Nedkoto05: raises 460 to 480 and is all-in
+Mahu2021: folds 
+Uncalled bet (460) returned to Nedkoto05
+Nedkoto05 collected 40 from pot
+Nedkoto05: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: Clock999 (button) folded before Flop (didn't bet)
+Seat 3: Nedkoto05 (small blind) collected (40)
+
+
+
+PokerStars Hand #246563189961: Tournament #3659647256, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/10/16 10:28:50 CET [2023/10/16 4:28:50 ET]
+Table '3659647256 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (480 in chips) 
+Seat 2: Clock999 (520 in chips) 
+Seat 3: Nedkoto05 (500 in chips) 
+Mahu2021: posts small blind 10
+Clock999: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h 6s]
+Nedkoto05 has timed out
+Nedkoto05: folds 
+Nedkoto05 is sitting out
+Mahu2021: folds 
+Uncalled bet (10) returned to Clock999
+Nedkoto05 has returned
+Clock999 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: Clock999 (big blind) collected (20)
+Seat 3: Nedkoto05 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #246563191881: Tournament #3659647256, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/10/16 10:29:07 CET [2023/10/16 4:29:07 ET]
+Table '3659647256 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (470 in chips) 
+Seat 2: Clock999 (530 in chips) 
+Seat 3: Nedkoto05 (500 in chips) 
+Clock999: posts small blind 10
+Nedkoto05: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Td Tc]
+Mahu2021: raises 40 to 60
+Clock999: raises 60 to 120
+Nedkoto05: folds 
+Mahu2021: calls 60
+*** FLOP *** [7c 8s 9s]
+Clock999: bets 60
+Mahu2021: raises 290 to 350 and is all-in
+Clock999: calls 290
+*** TURN *** [7c 8s 9s] [Ah]
+*** RIVER *** [7c 8s 9s Ah] [9d]
+*** SHOW DOWN ***
+Clock999: shows [Ac 6c] (two pair, Aces and Nines)
+Mahu2021: shows [Td Tc] (two pair, Tens and Nines)
+Clock999 collected 960 from pot
+Mahu2021 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 960 | Rake 0 
+Board [7c 8s 9s Ah 9d]
+Seat 1: Mahu2021 (button) showed [Td Tc] and lost with two pair, Tens and Nines
+Seat 2: Clock999 (small blind) showed [Ac 6c] and won (960) with two pair, Aces and Nines
+Seat 3: Nedkoto05 (big blind) folded before Flop
+
+
+

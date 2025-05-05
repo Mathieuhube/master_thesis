@@ -1,0 +1,401 @@
+﻿PokerStars Hand #252557166650: Tournament #3803512363, $9.30+$0.70 USD Hold'em No Limit - Level I (10/20) - 2024/09/21 17:20:18 CET [2024/09/21 11:20:18 ET]
+Table '3803512363 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: spiniaris (500 in chips) 
+Seat 3: foonoo (500 in chips) 
+spiniaris: posts small blind 10
+foonoo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4c Jh]
+Mahu2021: folds 
+spiniaris: calls 10
+foonoo: checks 
+*** FLOP *** [6d As 8h]
+spiniaris: bets 20
+foonoo: calls 20
+*** TURN *** [6d As 8h] [8d]
+spiniaris: bets 20
+foonoo: calls 20
+*** RIVER *** [6d As 8h 8d] [Kc]
+spiniaris: bets 20
+foonoo: raises 160 to 180
+spiniaris: folds 
+Uncalled bet (160) returned to foonoo
+foonoo collected 160 from pot
+foonoo: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [6d As 8h 8d Kc]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: spiniaris (small blind) folded on the River
+Seat 3: foonoo (big blind) collected (160)
+
+
+
+PokerStars Hand #252557171295: Tournament #3803512363, $9.30+$0.70 USD Hold'em No Limit - Level I (10/20) - 2024/09/21 17:20:38 CET [2024/09/21 11:20:38 ET]
+Table '3803512363 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: spiniaris (420 in chips) 
+Seat 3: foonoo (580 in chips) 
+foonoo: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c Th]
+spiniaris: raises 20 to 40
+foonoo: calls 30
+Mahu2021: folds 
+*** FLOP *** [7d Qh 4s]
+foonoo: checks 
+spiniaris: checks 
+*** TURN *** [7d Qh 4s] [2c]
+foonoo: checks 
+spiniaris: checks 
+*** RIVER *** [7d Qh 4s 2c] [2s]
+foonoo: bets 100
+spiniaris: calls 100
+*** SHOW DOWN ***
+foonoo: shows [Ks Qc] (two pair, Queens and Deuces)
+spiniaris: mucks hand 
+foonoo collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [7d Qh 4s 2c 2s]
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: spiniaris (button) mucked [7h Ac]
+Seat 3: foonoo (small blind) showed [Ks Qc] and won (300) with two pair, Queens and Deuces
+
+
+
+PokerStars Hand #252557175686: Tournament #3803512363, $9.30+$0.70 USD Hold'em No Limit - Level I (10/20) - 2024/09/21 17:20:57 CET [2024/09/21 11:20:57 ET]
+Table '3803512363 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (480 in chips) 
+Seat 2: spiniaris (280 in chips) 
+Seat 3: foonoo (740 in chips) 
+Mahu2021: posts small blind 10
+spiniaris: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qd Ac]
+foonoo: folds 
+Mahu2021: raises 60 to 80
+spiniaris: raises 200 to 280 and is all-in
+Mahu2021: calls 200
+*** FLOP *** [2h 2s Th]
+*** TURN *** [2h 2s Th] [8h]
+*** RIVER *** [2h 2s Th 8h] [3c]
+*** SHOW DOWN ***
+Mahu2021: shows [Qd Ac] (a pair of Deuces)
+spiniaris: shows [Ad Ks] (a pair of Deuces - Ace+King kicker)
+spiniaris collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | Rake 0 
+Board [2h 2s Th 8h 3c]
+Seat 1: Mahu2021 (small blind) showed [Qd Ac] and lost with a pair of Deuces
+Seat 2: spiniaris (big blind) showed [Ad Ks] and won (560) with a pair of Deuces
+Seat 3: foonoo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #252557179564: Tournament #3803512363, $9.30+$0.70 USD Hold'em No Limit - Level I (10/20) - 2024/09/21 17:21:15 CET [2024/09/21 11:21:15 ET]
+Table '3803512363 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (200 in chips) 
+Seat 2: spiniaris (560 in chips) 
+Seat 3: foonoo (740 in chips) 
+spiniaris: posts small blind 10
+foonoo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h Th]
+Mahu2021: calls 20
+spiniaris: calls 10
+foonoo: checks 
+*** FLOP *** [4s 2h 5h]
+spiniaris: checks 
+foonoo: checks 
+Mahu2021: bets 20
+spiniaris: calls 20
+foonoo: folds 
+*** TURN *** [4s 2h 5h] [2c]
+spiniaris: checks 
+Mahu2021: checks 
+*** RIVER *** [4s 2h 5h 2c] [8c]
+spiniaris: checks 
+Mahu2021: bets 20
+spiniaris: calls 20
+*** SHOW DOWN ***
+Mahu2021: shows [8h Th] (two pair, Eights and Deuces)
+spiniaris: mucks hand 
+Mahu2021 collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | Rake 0 
+Board [4s 2h 5h 2c 8c]
+Seat 1: Mahu2021 (button) showed [8h Th] and won (140) with two pair, Eights and Deuces
+Seat 2: spiniaris (small blind) mucked [4c Td]
+Seat 3: foonoo (big blind) folded on the Flop
+
+
+
+PokerStars Hand #252557185204: Tournament #3803512363, $9.30+$0.70 USD Hold'em No Limit - Level I (10/20) - 2024/09/21 17:21:40 CET [2024/09/21 11:21:40 ET]
+Table '3803512363 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (280 in chips) 
+Seat 2: spiniaris (500 in chips) 
+Seat 3: foonoo (720 in chips) 
+foonoo: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc Ac]
+spiniaris: calls 20
+foonoo: calls 10
+Mahu2021: raises 260 to 280 and is all-in
+spiniaris: calls 260
+foonoo: calls 260
+*** FLOP *** [Kh Jc Kd]
+foonoo: bets 440 and is all-in
+spiniaris: folds 
+Uncalled bet (440) returned to foonoo
+*** TURN *** [Kh Jc Kd] [Ts]
+*** RIVER *** [Kh Jc Kd Ts] [4h]
+*** SHOW DOWN ***
+foonoo: shows [3s As] (a pair of Kings)
+Mahu2021: shows [Qc Ac] (a straight, Ten to Ace)
+Mahu2021 collected 840 from pot
+*** SUMMARY ***
+Total pot 840 | Rake 0 
+Board [Kh Jc Kd Ts 4h]
+Seat 1: Mahu2021 (big blind) showed [Qc Ac] and won (840) with a straight, Ten to Ace
+Seat 2: spiniaris (button) folded on the Flop
+Seat 3: foonoo (small blind) showed [3s As] and lost with a pair of Kings
+
+
+
+PokerStars Hand #252557191042: Tournament #3803512363, $9.30+$0.70 USD Hold'em No Limit - Level I (10/20) - 2024/09/21 17:22:06 CET [2024/09/21 11:22:06 ET]
+Table '3803512363 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (840 in chips) 
+Seat 2: spiniaris (220 in chips) 
+Seat 3: foonoo (440 in chips) 
+Mahu2021: posts small blind 10
+spiniaris: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s Ts]
+foonoo: calls 20
+Mahu2021: calls 10
+spiniaris: checks 
+*** FLOP *** [5d 9h Kc]
+Mahu2021: checks 
+spiniaris: checks 
+foonoo: checks 
+*** TURN *** [5d 9h Kc] [Kd]
+Mahu2021: checks 
+spiniaris: checks 
+foonoo: checks 
+*** RIVER *** [5d 9h Kc Kd] [4h]
+Mahu2021: checks 
+spiniaris: checks 
+foonoo: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [3s Ts] (a pair of Kings)
+spiniaris: shows [4d Js] (two pair, Kings and Fours)
+foonoo: mucks hand 
+spiniaris collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [5d 9h Kc Kd 4h]
+Seat 1: Mahu2021 (small blind) showed [3s Ts] and lost with a pair of Kings
+Seat 2: spiniaris (big blind) showed [4d Js] and won (60) with two pair, Kings and Fours
+Seat 3: foonoo (button) mucked [As 6c]
+
+
+
+PokerStars Hand #252557195786: Tournament #3803512363, $9.30+$0.70 USD Hold'em No Limit - Level I (10/20) - 2024/09/21 17:22:27 CET [2024/09/21 11:22:27 ET]
+Table '3803512363 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (820 in chips) 
+Seat 2: spiniaris (260 in chips) 
+Seat 3: foonoo (420 in chips) 
+spiniaris: posts small blind 10
+foonoo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh Ks]
+Mahu2021: raises 20 to 40
+spiniaris: raises 20 to 60
+foonoo: raises 360 to 420 and is all-in
+Mahu2021: folds 
+spiniaris: calls 200 and is all-in
+Uncalled bet (160) returned to foonoo
+*** FLOP *** [2s 3h 3c]
+*** TURN *** [2s 3h 3c] [Js]
+*** RIVER *** [2s 3h 3c Js] [8s]
+*** SHOW DOWN ***
+spiniaris: shows [Td Ts] (two pair, Tens and Threes)
+foonoo: shows [2h 2c] (a full house, Deuces full of Threes)
+foonoo collected 560 from pot
+spiniaris finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 560 | Rake 0 
+Board [2s 3h 3c Js 8s]
+Seat 1: Mahu2021 (button) folded before Flop
+Seat 2: spiniaris (small blind) showed [Td Ts] and lost with two pair, Tens and Threes
+Seat 3: foonoo (big blind) showed [2h 2c] and won (560) with a full house, Deuces full of Threes
+
+
+
+PokerStars Hand #252557200863: Tournament #3803512363, $9.30+$0.70 USD Hold'em No Limit - Level I (10/20) - 2024/09/21 17:22:49 CET [2024/09/21 11:22:49 ET]
+Table '3803512363 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (780 in chips) 
+Seat 3: foonoo (720 in chips) 
+foonoo: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s 6d]
+foonoo: calls 10
+Mahu2021: checks 
+*** FLOP *** [6h 8s 7d]
+Mahu2021: bets 20
+foonoo: calls 20
+*** TURN *** [6h 8s 7d] [Jd]
+Mahu2021: bets 20
+foonoo: calls 20
+*** RIVER *** [6h 8s 7d Jd] [Ts]
+Mahu2021: bets 20
+foonoo: raises 640 to 660 and is all-in
+Mahu2021: folds 
+Uncalled bet (640) returned to foonoo
+foonoo collected 160 from pot
+foonoo: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [6h 8s 7d Jd Ts]
+Seat 1: Mahu2021 (big blind) folded on the River
+Seat 3: foonoo (button) (small blind) collected (160)
+
+
+
+PokerStars Hand #252557205969: Tournament #3803512363, $9.30+$0.70 USD Hold'em No Limit - Level I (10/20) - 2024/09/21 17:23:12 CET [2024/09/21 11:23:12 ET]
+Table '3803512363 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (700 in chips) 
+Seat 3: foonoo (800 in chips) 
+Mahu2021: posts small blind 10
+foonoo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd 9s]
+Mahu2021: calls 10
+foonoo: raises 780 to 800 and is all-in
+Mahu2021: folds 
+Uncalled bet (780) returned to foonoo
+foonoo collected 40 from pot
+foonoo: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: foonoo (big blind) collected (40)
+
+
+
+PokerStars Hand #252557209049: Tournament #3803512363, $9.30+$0.70 USD Hold'em No Limit - Level II (15/30) - 2024/09/21 17:23:26 CET [2024/09/21 11:23:26 ET]
+Table '3803512363 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (680 in chips) 
+Seat 3: foonoo (820 in chips) 
+foonoo: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c Ah]
+foonoo: calls 15
+Mahu2021: raises 650 to 680 and is all-in
+foonoo: folds 
+Uncalled bet (650) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (60)
+Seat 3: foonoo (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #252557210783: Tournament #3803512363, $9.30+$0.70 USD Hold'em No Limit - Level II (15/30) - 2024/09/21 17:23:33 CET [2024/09/21 11:23:33 ET]
+Table '3803512363 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (710 in chips) 
+Seat 3: foonoo (790 in chips) 
+Mahu2021: posts small blind 15
+foonoo: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh 7c]
+Mahu2021: calls 15
+foonoo: checks 
+*** FLOP *** [9c 8h 4s]
+foonoo: bets 30
+Mahu2021: folds 
+Uncalled bet (30) returned to foonoo
+foonoo collected 60 from pot
+foonoo: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [9c 8h 4s]
+Seat 1: Mahu2021 (button) (small blind) folded on the Flop
+Seat 3: foonoo (big blind) collected (60)
+
+
+
+PokerStars Hand #252557212921: Tournament #3803512363, $9.30+$0.70 USD Hold'em No Limit - Level II (15/30) - 2024/09/21 17:23:43 CET [2024/09/21 11:23:43 ET]
+Table '3803512363 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (680 in chips) 
+Seat 3: foonoo (820 in chips) 
+foonoo: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h 3h]
+foonoo: calls 15
+Mahu2021: checks 
+*** FLOP *** [9c 6s Th]
+Mahu2021: checks 
+foonoo: bets 30
+Mahu2021: calls 30
+*** TURN *** [9c 6s Th] [6d]
+Mahu2021: checks 
+foonoo: bets 30
+Mahu2021: calls 30
+*** RIVER *** [9c 6s Th 6d] [8h]
+Mahu2021: checks 
+foonoo: bets 180
+Mahu2021: folds 
+Uncalled bet (180) returned to foonoo
+foonoo collected 180 from pot
+foonoo: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [9c 6s Th 6d 8h]
+Seat 1: Mahu2021 (big blind) folded on the River
+Seat 3: foonoo (button) (small blind) collected (180)
+
+
+
+PokerStars Hand #252557216888: Tournament #3803512363, $9.30+$0.70 USD Hold'em No Limit - Level II (15/30) - 2024/09/21 17:24:01 CET [2024/09/21 11:24:01 ET]
+Table '3803512363 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (590 in chips) 
+Seat 3: foonoo (910 in chips) 
+Mahu2021: posts small blind 15
+foonoo: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc 7c]
+Mahu2021: raises 30 to 60
+foonoo: calls 30
+*** FLOP *** [As Kc 5d]
+foonoo: checks 
+Mahu2021: bets 60
+foonoo: calls 60
+*** TURN *** [As Kc 5d] [2c]
+foonoo: checks 
+Mahu2021: bets 470 and is all-in
+foonoo: calls 470
+*** RIVER *** [As Kc 5d 2c] [Th]
+*** SHOW DOWN ***
+foonoo: shows [4c Kd] (a pair of Kings)
+Mahu2021: shows [Jc 7c] (high card Ace)
+foonoo collected 1180 from pot
+Mahu2021 finished the tournament in 2nd place
+foonoo wins the tournament and receives $30.00 - congratulations!
+*** SUMMARY ***
+Total pot 1180 | Rake 0 
+Board [As Kc 5d 2c Th]
+Seat 1: Mahu2021 (button) (small blind) showed [Jc 7c] and lost with high card Ace
+Seat 3: foonoo (big blind) showed [4c Kd] and won (1180) with a pair of Kings
+
+
+

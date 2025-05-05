@@ -1,0 +1,131 @@
+﻿PokerStars Hand #247569413849: Tournament #3684289792, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/09 21:13:34 CET [2023/12/09 15:13:34 ET]
+Table '3684289792 1' 3-max Seat #1 is the button
+Seat 1: Ongelukkige (500 in chips) 
+Seat 2: Lozzitto09 (500 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+Lozzitto09: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qs 7c]
+Ongelukkige: folds 
+Lozzitto09: calls 10
+Mahu2021: checks 
+*** FLOP *** [Jc 6d 4s]
+Lozzitto09: bets 40
+Mahu2021: folds 
+Uncalled bet (40) returned to Lozzitto09
+Lozzitto09 collected 40 from pot
+Lozzitto09: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Jc 6d 4s]
+Seat 1: Ongelukkige (button) folded before Flop (didn't bet)
+Seat 2: Lozzitto09 (small blind) collected (40)
+Seat 3: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #247569418649: Tournament #3684289792, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/09 21:13:49 CET [2023/12/09 15:13:49 ET]
+Table '3684289792 1' 3-max Seat #2 is the button
+Seat 1: Ongelukkige (500 in chips) 
+Seat 2: Lozzitto09 (520 in chips) 
+Seat 3: Mahu2021 (480 in chips) 
+Mahu2021: posts small blind 10
+Ongelukkige: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2s Th]
+Lozzitto09: calls 20
+Mahu2021: folds 
+Ongelukkige: checks 
+*** FLOP *** [7s Tc 8s]
+Ongelukkige: checks 
+Lozzitto09: checks 
+*** TURN *** [7s Tc 8s] [9h]
+Ongelukkige: checks 
+Lozzitto09: checks 
+*** RIVER *** [7s Tc 8s 9h] [Jd]
+Ongelukkige: bets 20
+Lozzitto09: raises 60 to 80
+Ongelukkige: folds 
+Uncalled bet (60) returned to Lozzitto09
+Lozzitto09 collected 90 from pot
+Lozzitto09: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [7s Tc 8s 9h Jd]
+Seat 1: Ongelukkige (big blind) folded on the River
+Seat 2: Lozzitto09 (button) collected (90)
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #247569427067: Tournament #3684289792, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/09 21:14:14 CET [2023/12/09 15:14:14 ET]
+Table '3684289792 1' 3-max Seat #3 is the button
+Seat 1: Ongelukkige (460 in chips) 
+Seat 2: Lozzitto09 (570 in chips) 
+Seat 3: Mahu2021 (470 in chips) 
+Ongelukkige: posts small blind 10
+Lozzitto09: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2c 6d]
+Mahu2021: folds 
+Ongelukkige: raises 20 to 40
+Lozzitto09: calls 20
+*** FLOP *** [3d 7h 7c]
+Ongelukkige: checks 
+Lozzitto09: checks 
+*** TURN *** [3d 7h 7c] [5c]
+Ongelukkige: checks 
+Lozzitto09: checks 
+*** RIVER *** [3d 7h 7c 5c] [8s]
+Ongelukkige: bets 40
+Lozzitto09: folds 
+Uncalled bet (40) returned to Ongelukkige
+Ongelukkige collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [3d 7h 7c 5c 8s]
+Seat 1: Ongelukkige (small blind) collected (80)
+Seat 2: Lozzitto09 (big blind) folded on the River
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #247569433521: Tournament #3684289792, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/09 21:14:34 CET [2023/12/09 15:14:34 ET]
+Table '3684289792 1' 3-max Seat #1 is the button
+Seat 1: Ongelukkige (500 in chips) 
+Seat 2: Lozzitto09 (530 in chips) 
+Seat 3: Mahu2021 (470 in chips) 
+Lozzitto09: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4c Ac]
+Ongelukkige: calls 20
+Lozzitto09: folds 
+Mahu2021: checks 
+*** FLOP *** [4s 2s 5h]
+Mahu2021: checks 
+Ongelukkige: checks 
+*** TURN *** [4s 2s 5h] [Th]
+Mahu2021: checks 
+Ongelukkige: bets 20
+Mahu2021: calls 20
+*** RIVER *** [4s 2s 5h Th] [4h]
+Mahu2021: bets 90
+Ongelukkige: raises 370 to 460 and is all-in
+Mahu2021: calls 340 and is all-in
+Uncalled bet (30) returned to Ongelukkige
+*** SHOW DOWN ***
+Ongelukkige: shows [7h 6h] (a flush, Ten high)
+Mahu2021: shows [4c Ac] (three of a kind, Fours)
+Ongelukkige collected 950 from pot
+Mahu2021 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 950 | Rake 0 
+Board [4s 2s 5h Th 4h]
+Seat 1: Ongelukkige (button) showed [7h 6h] and won (950) with a flush, Ten high
+Seat 2: Lozzitto09 (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) showed [4c Ac] and lost with three of a kind, Fours
+
+
+

@@ -1,0 +1,35 @@
+﻿PokerStars Hand #252759203844: Tournament #3808000569, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/04 12:26:46 CET [2024/10/04 6:26:46 ET]
+Table '3808000569 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: Ameno-TH (500 in chips) 
+Seat 3: Jehovy (500 in chips) 
+Ameno-TH: posts small blind 10
+Jehovy: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad 4s]
+Mahu2021: calls 20
+Ameno-TH: calls 10
+Jehovy: checks 
+*** FLOP *** [Td 3d Qd]
+Ameno-TH: bets 40
+Jehovy: raises 105 to 145
+Mahu2021: calls 145
+Ameno-TH: folds 
+*** TURN *** [Td 3d Qd] [As]
+Jehovy: bets 335 and is all-in
+Mahu2021: calls 335 and is all-in
+*** RIVER *** [Td 3d Qd As] [9s]
+*** SHOW DOWN ***
+Jehovy: shows [8d 2d] (a flush, Queen high)
+Mahu2021: shows [Ad 4s] (a pair of Aces)
+Jehovy collected 1060 from pot
+Mahu2021 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1060 | Rake 0 
+Board [Td 3d Qd As 9s]
+Seat 1: Mahu2021 (button) showed [Ad 4s] and lost with a pair of Aces
+Seat 2: Ameno-TH (small blind) folded on the Flop
+Seat 3: Jehovy (big blind) showed [8d 2d] and won (1060) with a flush, Queen high
+
+
+

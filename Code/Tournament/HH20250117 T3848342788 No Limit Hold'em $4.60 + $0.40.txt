@@ -1,0 +1,67 @@
+﻿PokerStars Hand #254411502530: Tournament #3848342788, $4.60+$0.40 USD Hold'em No Limit - Level I (10/20) - 2025/01/17 9:32:57 CET [2025/01/17 3:32:57 ET]
+Table '3848342788 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: Neanderth4l (500 in chips) 
+Seat 3: AA_spec (500 in chips) 
+Neanderth4l: posts small blind 10
+AA_spec: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh 8h]
+Mahu2021: raises 20 to 40
+Neanderth4l: calls 30
+AA_spec: folds 
+*** FLOP *** [4h 6h Qd]
+Neanderth4l: checks 
+Mahu2021: bets 100
+Neanderth4l: calls 100
+*** TURN *** [4h 6h Qd] [2d]
+Neanderth4l: checks 
+Mahu2021: checks 
+*** RIVER *** [4h 6h Qd 2d] [Ac]
+Neanderth4l: bets 110
+Mahu2021: folds 
+Uncalled bet (110) returned to Neanderth4l
+Neanderth4l collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [4h 6h Qd 2d Ac]
+Seat 1: Mahu2021 (button) folded on the River
+Seat 2: Neanderth4l (small blind) collected (300)
+Seat 3: AA_spec (big blind) folded before Flop
+
+
+
+PokerStars Hand #254411505719: Tournament #3848342788, $4.60+$0.40 USD Hold'em No Limit - Level I (10/20) - 2025/01/17 9:33:35 CET [2025/01/17 3:33:35 ET]
+Table '3848342788 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (360 in chips) 
+Seat 2: Neanderth4l (660 in chips) 
+Seat 3: AA_spec (480 in chips) 
+AA_spec: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Td 9h]
+Neanderth4l: raises 20 to 40
+AA_spec: calls 30
+Mahu2021: calls 20
+*** FLOP *** [9c 6s 7c]
+AA_spec: checks 
+Mahu2021: bets 320 and is all-in
+Neanderth4l: raises 300 to 620 and is all-in
+AA_spec: folds 
+Uncalled bet (300) returned to Neanderth4l
+*** TURN *** [9c 6s 7c] [Ks]
+*** RIVER *** [9c 6s 7c Ks] [3h]
+*** SHOW DOWN ***
+Mahu2021: shows [Td 9h] (a pair of Nines)
+Neanderth4l: shows [Qc Kc] (a pair of Kings)
+Neanderth4l collected 760 from pot
+Mahu2021 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 760 | Rake 0 
+Board [9c 6s 7c Ks 3h]
+Seat 1: Mahu2021 (big blind) showed [Td 9h] and lost with a pair of Nines
+Seat 2: Neanderth4l (button) showed [Qc Kc] and won (760) with a pair of Kings
+Seat 3: AA_spec (small blind) folded on the Flop
+
+
+

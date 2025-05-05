@@ -1,0 +1,128 @@
+﻿PokerStars Hand #247694390779: Tournament #3687294166, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/16 18:22:36 CET [2023/12/16 12:22:36 ET]
+Table '3687294166 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: matze2968 (500 in chips) 
+Seat 3: Qassen (500 in chips) 
+matze2968: posts small blind 10
+Qassen: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s Qh]
+Mahu2021: folds 
+matze2968: calls 10
+Qassen: checks 
+*** FLOP *** [Js Ad Th]
+matze2968: checks 
+Qassen: checks 
+*** TURN *** [Js Ad Th] [Kc]
+matze2968: checks 
+Qassen: bets 20
+matze2968: calls 20
+*** RIVER *** [Js Ad Th Kc] [9h]
+matze2968: checks 
+Qassen: checks 
+*** SHOW DOWN ***
+matze2968: shows [2d Kd] (a pair of Kings)
+Qassen: shows [Kh 3h] (a pair of Kings)
+matze2968 collected 40 from pot
+Qassen collected 40 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Js Ad Th Kc 9h]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: matze2968 (small blind) showed [2d Kd] and won (40) with a pair of Kings
+Seat 3: Qassen (big blind) showed [Kh 3h] and won (40) with a pair of Kings
+
+
+
+PokerStars Hand #247694397942: Tournament #3687294166, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/16 18:23:01 CET [2023/12/16 12:23:01 ET]
+Table '3687294166 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: matze2968 (500 in chips) 
+Seat 3: Qassen (500 in chips) 
+Qassen: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d 9d]
+matze2968: calls 20
+Qassen: calls 10
+Mahu2021: checks 
+*** FLOP *** [Kc 6s 6h]
+Qassen: checks 
+Mahu2021: checks 
+matze2968: bets 20
+Qassen: folds 
+Mahu2021: raises 40 to 60
+matze2968: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 100 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [Kc 6s 6h]
+Seat 1: Mahu2021 (big blind) collected (100)
+Seat 2: matze2968 (button) folded on the Flop
+Seat 3: Qassen (small blind) folded on the Flop
+
+
+
+PokerStars Hand #247694403138: Tournament #3687294166, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/16 18:23:18 CET [2023/12/16 12:23:18 ET]
+Table '3687294166 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (560 in chips) 
+Seat 2: matze2968 (460 in chips) 
+Seat 3: Qassen (480 in chips) 
+Mahu2021: posts small blind 10
+matze2968: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c 5c]
+Qassen: raises 20 to 40
+Mahu2021: calls 30
+matze2968: calls 20
+*** FLOP *** [Ah 8d 8s]
+Mahu2021: checks 
+matze2968: checks 
+Qassen: bets 30
+Mahu2021: folds 
+matze2968: folds 
+Uncalled bet (30) returned to Qassen
+Qassen collected 120 from pot
+Qassen: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Ah 8d 8s]
+Seat 1: Mahu2021 (small blind) folded on the Flop
+Seat 2: matze2968 (big blind) folded on the Flop
+Seat 3: Qassen (button) collected (120)
+
+
+
+PokerStars Hand #247694409827: Tournament #3687294166, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/16 18:23:41 CET [2023/12/16 12:23:41 ET]
+Table '3687294166 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (520 in chips) 
+Seat 2: matze2968 (420 in chips) 
+Seat 3: Qassen (560 in chips) 
+matze2968: posts small blind 10
+Qassen: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac 9c]
+Mahu2021: raises 20 to 40
+matze2968: folds 
+Qassen: raises 520 to 560 and is all-in
+Mahu2021: calls 480 and is all-in
+Uncalled bet (40) returned to Qassen
+*** FLOP *** [2h 5d 5c]
+*** TURN *** [2h 5d 5c] [Jd]
+*** RIVER *** [2h 5d 5c Jd] [Ks]
+*** SHOW DOWN ***
+Qassen: shows [Kh Qs] (two pair, Kings and Fives)
+Mahu2021: shows [Ac 9c] (a pair of Fives)
+Qassen collected 1050 from pot
+Mahu2021 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1050 | Rake 0 
+Board [2h 5d 5c Jd Ks]
+Seat 1: Mahu2021 (button) showed [Ac 9c] and lost with a pair of Fives
+Seat 2: matze2968 (small blind) folded before Flop
+Seat 3: Qassen (big blind) showed [Kh Qs] and won (1050) with two pair, Kings and Fives
+
+
+

@@ -1,0 +1,89 @@
+﻿PokerStars Hand #253093340291: Tournament #3816289586, $4.60+$0.40 USD Hold'em No Limit - Level I (10/20) - 2024/10/25 14:03:35 CET [2024/10/25 8:03:35 ET]
+Table '3816289586 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: Ruslanchuk (500 in chips) 
+Seat 3: n3pYk (500 in chips) 
+Ruslanchuk: posts small blind 10
+n3pYk: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s Kh]
+Mahu2021: folds 
+Ruslanchuk: folds 
+Uncalled bet (10) returned to n3pYk
+n3pYk collected 20 from pot
+n3pYk: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: Ruslanchuk (small blind) folded before Flop
+Seat 3: n3pYk (big blind) collected (20)
+
+
+
+PokerStars Hand #253093341063: Tournament #3816289586, $4.60+$0.40 USD Hold'em No Limit - Level I (10/20) - 2024/10/25 14:03:40 CET [2024/10/25 8:03:40 ET]
+Table '3816289586 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: Ruslanchuk (490 in chips) 
+Seat 3: n3pYk (510 in chips) 
+n3pYk: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d Qc]
+Ruslanchuk: raises 20 to 40
+n3pYk: folds 
+Mahu2021: calls 20
+*** FLOP *** [4s Td 2c]
+Mahu2021: checks 
+Ruslanchuk: bets 20
+Mahu2021: folds 
+Uncalled bet (20) returned to Ruslanchuk
+Ruslanchuk collected 90 from pot
+Ruslanchuk: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [4s Td 2c]
+Seat 1: Mahu2021 (big blind) folded on the Flop
+Seat 2: Ruslanchuk (button) collected (90)
+Seat 3: n3pYk (small blind) folded before Flop
+
+
+
+PokerStars Hand #253093342860: Tournament #3816289586, $4.60+$0.40 USD Hold'em No Limit - Level I (10/20) - 2024/10/25 14:03:52 CET [2024/10/25 8:03:52 ET]
+Table '3816289586 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (460 in chips) 
+Seat 2: Ruslanchuk (540 in chips) 
+Seat 3: n3pYk (500 in chips) 
+Mahu2021: posts small blind 10
+Ruslanchuk: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts Td]
+n3pYk: raises 20 to 40
+Mahu2021: calls 30
+Ruslanchuk: calls 20
+*** FLOP *** [3s 5d Qs]
+Mahu2021: checks 
+Ruslanchuk: checks 
+n3pYk: bets 40
+Mahu2021: calls 40
+Ruslanchuk: folds 
+*** TURN *** [3s 5d Qs] [Js]
+Mahu2021: checks 
+n3pYk: bets 90
+Mahu2021: calls 90
+*** RIVER *** [3s 5d Qs Js] [8h]
+Mahu2021: bets 290 and is all-in
+n3pYk: calls 290
+*** SHOW DOWN ***
+Mahu2021: shows [Ts Td] (a pair of Tens)
+n3pYk: shows [9s Ks] (a flush, King high)
+n3pYk collected 960 from pot
+Mahu2021 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 960 | Rake 0 
+Board [3s 5d Qs Js 8h]
+Seat 1: Mahu2021 (small blind) showed [Ts Td] and lost with a pair of Tens
+Seat 2: Ruslanchuk (big blind) folded on the Flop
+Seat 3: n3pYk (button) showed [9s Ks] and won (960) with a flush, King high
+
+
+

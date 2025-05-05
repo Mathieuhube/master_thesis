@@ -1,0 +1,391 @@
+﻿PokerStars Hand #246175754341: Tournament #3649950796, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/09/25 20:30:14 CET [2023/09/25 14:30:14 ET]
+Table '3649950796 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: aivaras45 (500 in chips) 
+Seat 3: okorbo (500 in chips) 
+aivaras45: posts small blind 10
+okorbo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc 2c]
+Mahu2021: calls 20
+aivaras45: folds 
+okorbo: checks 
+*** FLOP *** [Jd 6c Qh]
+okorbo: bets 60
+Mahu2021: calls 60
+*** TURN *** [Jd 6c Qh] [Ks]
+okorbo: bets 60
+Mahu2021: calls 60
+*** RIVER *** [Jd 6c Qh Ks] [Kc]
+okorbo: bets 60
+Mahu2021: calls 60
+*** SHOW DOWN ***
+okorbo: shows [3d Jc] (two pair, Kings and Jacks)
+Mahu2021: shows [Qc 2c] (two pair, Kings and Queens)
+Mahu2021 collected 410 from pot
+*** SUMMARY ***
+Total pot 410 | Rake 0 
+Board [Jd 6c Qh Ks Kc]
+Seat 1: Mahu2021 (button) showed [Qc 2c] and won (410) with two pair, Kings and Queens
+Seat 2: aivaras45 (small blind) folded before Flop
+Seat 3: okorbo (big blind) showed [3d Jc] and lost with two pair, Kings and Jacks
+
+
+
+PokerStars Hand #246175764028: Tournament #3649950796, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/09/25 20:30:40 CET [2023/09/25 14:30:40 ET]
+Table '3649950796 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (710 in chips) 
+Seat 2: aivaras45 (490 in chips) 
+Seat 3: okorbo (300 in chips) 
+okorbo: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h 3h]
+aivaras45: calls 20
+okorbo: folds 
+Mahu2021: checks 
+*** FLOP *** [2s Th 9s]
+Mahu2021: checks 
+aivaras45: checks 
+*** TURN *** [2s Th 9s] [Td]
+Mahu2021: checks 
+aivaras45: checks 
+*** RIVER *** [2s Th 9s Td] [Qd]
+Mahu2021: checks 
+aivaras45: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [7h 3h] (a pair of Tens)
+aivaras45: shows [5c Kc] (a pair of Tens - King kicker)
+aivaras45 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [2s Th 9s Td Qd]
+Seat 1: Mahu2021 (big blind) showed [7h 3h] and lost with a pair of Tens
+Seat 2: aivaras45 (button) showed [5c Kc] and won (50) with a pair of Tens
+Seat 3: okorbo (small blind) folded before Flop
+
+
+
+PokerStars Hand #246175770835: Tournament #3649950796, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/09/25 20:30:59 CET [2023/09/25 14:30:59 ET]
+Table '3649950796 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (690 in chips) 
+Seat 2: aivaras45 (520 in chips) 
+Seat 3: okorbo (290 in chips) 
+Mahu2021: posts small blind 10
+aivaras45: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h 3s]
+okorbo: raises 20 to 40
+Mahu2021: folds 
+aivaras45: calls 20
+*** FLOP *** [4d 5h 9h]
+aivaras45: bets 45
+okorbo: folds 
+Uncalled bet (45) returned to aivaras45
+aivaras45 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [4d 5h 9h]
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: aivaras45 (big blind) collected (90)
+Seat 3: okorbo (button) folded on the Flop
+
+
+
+PokerStars Hand #246175776365: Tournament #3649950796, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/09/25 20:31:15 CET [2023/09/25 14:31:15 ET]
+Table '3649950796 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (680 in chips) 
+Seat 2: aivaras45 (570 in chips) 
+Seat 3: okorbo (250 in chips) 
+aivaras45: posts small blind 10
+okorbo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks 5d]
+Mahu2021: folds 
+aivaras45: calls 10
+okorbo: checks 
+*** FLOP *** [2h 9d Kh]
+aivaras45: checks 
+okorbo: checks 
+*** TURN *** [2h 9d Kh] [9c]
+aivaras45: checks 
+okorbo: checks 
+*** RIVER *** [2h 9d Kh 9c] [Th]
+aivaras45: checks 
+okorbo: bets 20
+aivaras45: calls 20
+*** SHOW DOWN ***
+okorbo: shows [4h Tc] (two pair, Tens and Nines)
+aivaras45: mucks hand 
+okorbo collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [2h 9d Kh 9c Th]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: aivaras45 (small blind) mucked [3d As]
+Seat 3: okorbo (big blind) showed [4h Tc] and won (80) with two pair, Tens and Nines
+
+
+
+PokerStars Hand #246175784418: Tournament #3649950796, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/09/25 20:31:37 CET [2023/09/25 14:31:37 ET]
+Table '3649950796 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (680 in chips) 
+Seat 2: aivaras45 (530 in chips) 
+Seat 3: okorbo (290 in chips) 
+okorbo: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh As]
+aivaras45: folds 
+okorbo: calls 10
+Mahu2021: raises 60 to 80
+okorbo: calls 60
+*** FLOP *** [8d Tc 2c]
+okorbo: bets 60
+Mahu2021: calls 60
+*** TURN *** [8d Tc 2c] [Js]
+okorbo: bets 60
+Mahu2021: calls 60
+*** RIVER *** [8d Tc 2c Js] [6c]
+okorbo: bets 60
+Mahu2021: calls 60
+*** SHOW DOWN ***
+okorbo: shows [Jh 2h] (two pair, Jacks and Deuces)
+Mahu2021: mucks hand 
+okorbo collected 520 from pot
+*** SUMMARY ***
+Total pot 520 | Rake 0 
+Board [8d Tc 2c Js 6c]
+Seat 1: Mahu2021 (big blind) mucked [Qh As]
+Seat 2: aivaras45 (button) folded before Flop (didn't bet)
+Seat 3: okorbo (small blind) showed [Jh 2h] and won (520) with two pair, Jacks and Deuces
+
+
+
+PokerStars Hand #246175793833: Tournament #3649950796, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/09/25 20:32:03 CET [2023/09/25 14:32:03 ET]
+Table '3649950796 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (420 in chips) 
+Seat 2: aivaras45 (530 in chips) 
+Seat 3: okorbo (550 in chips) 
+Mahu2021: posts small blind 10
+aivaras45: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac 5d]
+okorbo: folds 
+Mahu2021: calls 10
+aivaras45: checks 
+*** FLOP *** [Qc 8h Qh]
+Mahu2021: bets 20
+aivaras45: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Qc 8h Qh]
+Seat 1: Mahu2021 (small blind) collected (40)
+Seat 2: aivaras45 (big blind) folded on the Flop
+Seat 3: okorbo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #246175798070: Tournament #3649950796, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/09/25 20:32:15 CET [2023/09/25 14:32:15 ET]
+Table '3649950796 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (440 in chips) 
+Seat 2: aivaras45 (510 in chips) 
+Seat 3: okorbo (550 in chips) 
+aivaras45: posts small blind 10
+okorbo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh 5s]
+Mahu2021: folds 
+aivaras45: raises 20 to 40
+okorbo: folds 
+Uncalled bet (20) returned to aivaras45
+aivaras45 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: aivaras45 (small blind) collected (40)
+Seat 3: okorbo (big blind) folded before Flop
+
+
+
+PokerStars Hand #246175801856: Tournament #3649950796, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/09/25 20:32:25 CET [2023/09/25 14:32:25 ET]
+Table '3649950796 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (440 in chips) 
+Seat 2: aivaras45 (530 in chips) 
+Seat 3: okorbo (530 in chips) 
+okorbo: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8s 4c]
+aivaras45: calls 20
+okorbo: calls 10
+Mahu2021: checks 
+*** FLOP *** [Jc Jh Qh]
+okorbo: checks 
+Mahu2021: checks 
+aivaras45: checks 
+*** TURN *** [Jc Jh Qh] [Ah]
+okorbo: bets 60
+Mahu2021: folds 
+aivaras45: calls 60
+*** RIVER *** [Jc Jh Qh Ah] [2d]
+okorbo: checks 
+aivaras45: bets 90
+okorbo: folds 
+Uncalled bet (90) returned to aivaras45
+aivaras45 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [Jc Jh Qh Ah 2d]
+Seat 1: Mahu2021 (big blind) folded on the Turn
+Seat 2: aivaras45 (button) collected (180)
+Seat 3: okorbo (small blind) folded on the River
+
+
+
+PokerStars Hand #246175816021: Tournament #3649950796, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/09/25 20:33:04 CET [2023/09/25 14:33:04 ET]
+Table '3649950796 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (420 in chips) 
+Seat 2: aivaras45 (630 in chips) 
+Seat 3: okorbo (450 in chips) 
+Mahu2021: posts small blind 10
+aivaras45: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h 6d]
+okorbo: folds 
+Mahu2021: folds 
+Uncalled bet (10) returned to aivaras45
+aivaras45 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: aivaras45 (big blind) collected (20)
+Seat 3: okorbo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #246175817990: Tournament #3649950796, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/09/25 20:33:09 CET [2023/09/25 14:33:09 ET]
+Table '3649950796 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (410 in chips) 
+Seat 2: aivaras45 (640 in chips) 
+Seat 3: okorbo (450 in chips) 
+aivaras45: posts small blind 10
+okorbo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks Js]
+Mahu2021: raises 40 to 60
+aivaras45: folds 
+okorbo: calls 40
+*** FLOP *** [5d 7h Jc]
+okorbo: checks 
+Mahu2021: bets 130
+okorbo: folds 
+Uncalled bet (130) returned to Mahu2021
+Mahu2021 collected 130 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 130 | Rake 0 
+Board [5d 7h Jc]
+Seat 1: Mahu2021 (button) collected (130)
+Seat 2: aivaras45 (small blind) folded before Flop
+Seat 3: okorbo (big blind) folded on the Flop
+
+
+
+PokerStars Hand #246175827454: Tournament #3649950796, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/09/25 20:33:35 CET [2023/09/25 14:33:35 ET]
+Table '3649950796 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (480 in chips) 
+Seat 2: aivaras45 (630 in chips) 
+Seat 3: okorbo (390 in chips) 
+okorbo: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd 4d]
+aivaras45: folds 
+okorbo: calls 15
+Mahu2021: checks 
+*** FLOP *** [3h 3c Qc]
+okorbo: checks 
+Mahu2021: checks 
+*** TURN *** [3h 3c Qc] [2s]
+okorbo: bets 60
+Mahu2021: folds 
+Uncalled bet (60) returned to okorbo
+okorbo collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [3h 3c Qc 2s]
+Seat 1: Mahu2021 (big blind) folded on the Turn
+Seat 2: aivaras45 (button) folded before Flop (didn't bet)
+Seat 3: okorbo (small blind) collected (60)
+
+
+
+PokerStars Hand #246175834675: Tournament #3649950796, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/09/25 20:33:55 CET [2023/09/25 14:33:55 ET]
+Table '3649950796 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (450 in chips) 
+Seat 2: aivaras45 (630 in chips) 
+Seat 3: okorbo (420 in chips) 
+Mahu2021: posts small blind 15
+aivaras45: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3c 9d]
+okorbo: calls 30
+Mahu2021: folds 
+aivaras45: checks 
+*** FLOP *** [4d Ts Qh]
+aivaras45: checks 
+okorbo: checks 
+*** TURN *** [4d Ts Qh] [3h]
+aivaras45: checks 
+okorbo: bets 30
+aivaras45: folds 
+Uncalled bet (30) returned to okorbo
+okorbo collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Board [4d Ts Qh 3h]
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: aivaras45 (big blind) folded on the Turn
+Seat 3: okorbo (button) collected (75)
+
+
+
+PokerStars Hand #246175843133: Tournament #3649950796, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/09/25 20:34:19 CET [2023/09/25 14:34:19 ET]
+Table '3649950796 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (435 in chips) 
+Seat 2: aivaras45 (600 in chips) 
+Seat 3: okorbo (465 in chips) 
+aivaras45: posts small blind 15
+okorbo: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s 8s]
+Mahu2021: calls 30
+aivaras45: folds 
+okorbo: checks 
+*** FLOP *** [4s Qs 4d]
+okorbo: checks 
+Mahu2021: bets 75
+okorbo: calls 75
+*** TURN *** [4s Qs 4d] [Jc]
+okorbo: bets 90
+Mahu2021: raises 240 to 330 and is all-in
+okorbo: calls 240
+*** RIVER *** [4s Qs 4d Jc] [Kh]
+*** SHOW DOWN ***
+okorbo: shows [2h 4h] (three of a kind, Fours)
+Mahu2021: shows [6s 8s] (a pair of Fours)
+okorbo collected 885 from pot
+Mahu2021 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 885 | Rake 0 
+Board [4s Qs 4d Jc Kh]
+Seat 1: Mahu2021 (button) showed [6s 8s] and lost with a pair of Fours
+Seat 2: aivaras45 (small blind) folded before Flop
+Seat 3: okorbo (big blind) showed [2h 4h] and won (885) with three of a kind, Fours
+
+
+

@@ -1,0 +1,109 @@
+﻿PokerStars Hand #254032948994: Tournament #3838391280, $0.96+$0.04 USD Hold'em No Limit - Match Round I, Level I (25/50) - 2024/12/26 13:53:52 CET [2024/12/26 7:53:52 ET]
+Table '3838391280 3' 4-max Seat #1 is the button
+Seat 1: Juareziiim (500 in chips) 
+Seat 2: GuiiSoouzaa22 (500 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+Seat 4: pitly (500 in chips) 
+Juareziiim: posts the ante 10
+GuiiSoouzaa22: posts the ante 10
+Mahu2021: posts the ante 10
+pitly: posts the ante 10
+GuiiSoouzaa22: posts small blind 25
+Mahu2021: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4c 3c]
+pitly: calls 50
+Juareziiim: folds 
+GuiiSoouzaa22: calls 25
+Mahu2021: checks 
+*** FLOP *** [Kd Kh 6c]
+GuiiSoouzaa22: bets 50
+Mahu2021: folds 
+pitly: raises 290 to 340
+GuiiSoouzaa22: folds 
+Uncalled bet (290) returned to pitly
+pitly collected 290 from pot
+*** SUMMARY ***
+Total pot 290 | Rake 0 
+Board [Kd Kh 6c]
+Seat 1: Juareziiim (button) folded before Flop (didn't bet)
+Seat 2: GuiiSoouzaa22 (small blind) folded on the Flop
+Seat 3: Mahu2021 (big blind) folded on the Flop
+Seat 4: pitly collected (290)
+
+
+
+PokerStars Hand #254032952634: Tournament #3838391280, $0.96+$0.04 USD Hold'em No Limit - Match Round I, Level I (25/50) - 2024/12/26 13:54:15 CET [2024/12/26 7:54:15 ET]
+Table '3838391280 3' 4-max Seat #2 is the button
+Seat 1: Juareziiim (490 in chips) 
+Seat 2: GuiiSoouzaa22 (390 in chips) 
+Seat 3: Mahu2021 (440 in chips) 
+Seat 4: pitly (680 in chips) 
+Juareziiim: posts the ante 10
+GuiiSoouzaa22: posts the ante 10
+Mahu2021: posts the ante 10
+pitly: posts the ante 10
+Mahu2021: posts small blind 25
+pitly: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qs Th]
+Juareziiim: folds 
+GuiiSoouzaa22: raises 50 to 100
+Mahu2021: calls 75
+pitly: folds 
+*** FLOP *** [2c 5d 7d]
+Mahu2021: checks 
+GuiiSoouzaa22: bets 150
+Mahu2021: folds 
+Uncalled bet (150) returned to GuiiSoouzaa22
+GuiiSoouzaa22 collected 290 from pot
+*** SUMMARY ***
+Total pot 290 | Rake 0 
+Board [2c 5d 7d]
+Seat 1: Juareziiim folded before Flop (didn't bet)
+Seat 2: GuiiSoouzaa22 (button) collected (290)
+Seat 3: Mahu2021 (small blind) folded on the Flop
+Seat 4: pitly (big blind) folded before Flop
+
+
+
+PokerStars Hand #254032956447: Tournament #3838391280, $0.96+$0.04 USD Hold'em No Limit - Match Round I, Level I (25/50) - 2024/12/26 13:54:39 CET [2024/12/26 7:54:39 ET]
+Table '3838391280 3' 4-max Seat #3 is the button
+Seat 1: Juareziiim (480 in chips) 
+Seat 2: GuiiSoouzaa22 (570 in chips) 
+Seat 3: Mahu2021 (330 in chips) 
+Seat 4: pitly (620 in chips) 
+Juareziiim: posts the ante 10
+GuiiSoouzaa22: posts the ante 10
+Mahu2021: posts the ante 10
+pitly: posts the ante 10
+pitly: posts small blind 25
+Juareziiim: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d 3c]
+GuiiSoouzaa22: calls 50
+Mahu2021: raises 270 to 320 and is all-in
+pitly: calls 295
+Juareziiim: folds 
+GuiiSoouzaa22: calls 270
+*** FLOP *** [6s Jc 8c]
+pitly: bets 290 and is all-in
+GuiiSoouzaa22: folds 
+Uncalled bet (290) returned to pitly
+*** TURN *** [6s Jc 8c] [7s]
+*** RIVER *** [6s Jc 8c 7s] [2h]
+*** SHOW DOWN ***
+pitly: shows [Qs Jh] (a pair of Jacks)
+Mahu2021: shows [3d 3c] (a pair of Threes)
+pitly collected 1050 from pot
+Mahu2021 finished the tournament in 16th place
+*** SUMMARY ***
+Total pot 1050 | Rake 0 
+Board [6s Jc 8c 7s 2h]
+Seat 1: Juareziiim (big blind) folded before Flop
+Seat 2: GuiiSoouzaa22 folded on the Flop
+Seat 3: Mahu2021 (button) showed [3d 3c] and lost with a pair of Threes
+Seat 4: pitly (small blind) showed [Qs Jh] and won (1050) with a pair of Jacks
+
+
+

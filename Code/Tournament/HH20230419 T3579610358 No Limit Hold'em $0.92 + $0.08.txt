@@ -1,0 +1,351 @@
+﻿PokerStars Hand #243183114883: Tournament #3579610358, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/19 8:16:16 CET [2023/04/19 2:16:16 ET]
+Table '3579610358 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: Luluxzx (500 in chips) 
+Seat 3: esvalido09 (500 in chips) 
+Luluxzx: posts small blind 10
+esvalido09: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h Ac]
+Mahu2021: calls 20
+Luluxzx: folds 
+esvalido09: checks 
+*** FLOP *** [3d 7d Th]
+esvalido09: checks 
+Mahu2021: bets 20
+esvalido09: calls 20
+*** TURN *** [3d 7d Th] [Qs]
+esvalido09: checks 
+Mahu2021: checks 
+*** RIVER *** [3d 7d Th Qs] [3c]
+esvalido09: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+esvalido09: shows [6d 8h] (a pair of Threes)
+Mahu2021: shows [2h Ac] (a pair of Threes - Ace kicker)
+Mahu2021 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [3d 7d Th Qs 3c]
+Seat 1: Mahu2021 (button) showed [2h Ac] and won (90) with a pair of Threes
+Seat 2: Luluxzx (small blind) folded before Flop
+Seat 3: esvalido09 (big blind) showed [6d 8h] and lost with a pair of Threes
+
+
+
+PokerStars Hand #243183117375: Tournament #3579610358, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/19 8:16:41 CET [2023/04/19 2:16:41 ET]
+Table '3579610358 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (550 in chips) 
+Seat 2: Luluxzx (490 in chips) 
+Seat 3: esvalido09 (460 in chips) 
+esvalido09: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks Ad]
+Luluxzx: raises 24 to 44
+esvalido09: folds 
+Mahu2021: calls 24
+*** FLOP *** [7s 9c 6h]
+Mahu2021: checks 
+Luluxzx: checks 
+*** TURN *** [7s 9c 6h] [3d]
+Mahu2021: checks 
+Luluxzx: bets 49
+Mahu2021: calls 49
+*** RIVER *** [7s 9c 6h 3d] [Jh]
+Mahu2021: checks 
+Luluxzx: bets 98
+Mahu2021: folds 
+Uncalled bet (98) returned to Luluxzx
+Luluxzx collected 196 from pot
+Luluxzx: doesn't show hand 
+*** SUMMARY ***
+Total pot 196 | Rake 0 
+Board [7s 9c 6h 3d Jh]
+Seat 1: Mahu2021 (big blind) folded on the River
+Seat 2: Luluxzx (button) collected (196)
+Seat 3: esvalido09 (small blind) folded before Flop
+
+
+
+PokerStars Hand #243183120296: Tournament #3579610358, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/19 8:17:10 CET [2023/04/19 2:17:10 ET]
+Table '3579610358 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (457 in chips) 
+Seat 2: Luluxzx (593 in chips) 
+Seat 3: esvalido09 (450 in chips) 
+Mahu2021: posts small blind 10
+Luluxzx: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c 5s]
+esvalido09: raises 20 to 40
+Mahu2021: folds 
+Luluxzx: calls 20
+*** FLOP *** [7s Js 2s]
+Luluxzx: checks 
+esvalido09: bets 45
+Luluxzx: raises 85 to 130
+esvalido09: folds 
+Uncalled bet (85) returned to Luluxzx
+Luluxzx collected 180 from pot
+Luluxzx: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [7s Js 2s]
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: Luluxzx (big blind) collected (180)
+Seat 3: esvalido09 (button) folded on the Flop
+
+
+
+PokerStars Hand #243183122663: Tournament #3579610358, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/19 8:17:34 CET [2023/04/19 2:17:34 ET]
+Table '3579610358 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (447 in chips) 
+Seat 2: Luluxzx (688 in chips) 
+Seat 3: esvalido09 (365 in chips) 
+Luluxzx: posts small blind 10
+esvalido09: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c 2s]
+Mahu2021: folds 
+Luluxzx: calls 10
+esvalido09: checks 
+*** FLOP *** [6d Js Kd]
+Luluxzx: checks 
+esvalido09: checks 
+*** TURN *** [6d Js Kd] [9s]
+Luluxzx: checks 
+esvalido09: checks 
+*** RIVER *** [6d Js Kd 9s] [3d]
+Luluxzx: checks 
+esvalido09: checks 
+*** SHOW DOWN ***
+Luluxzx: shows [Qc As] (high card Ace)
+esvalido09: mucks hand 
+Luluxzx collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [6d Js Kd 9s 3d]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: Luluxzx (small blind) showed [Qc As] and won (40) with high card Ace
+Seat 3: esvalido09 (big blind) mucked [Qh 5c]
+
+
+
+PokerStars Hand #243183124517: Tournament #3579610358, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/19 8:17:53 CET [2023/04/19 2:17:53 ET]
+Table '3579610358 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (447 in chips) 
+Seat 2: Luluxzx (708 in chips) 
+Seat 3: esvalido09 (345 in chips) 
+esvalido09: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4c 3h]
+Luluxzx: folds 
+esvalido09: folds 
+Uncalled bet (10) returned to Mahu2021
+Mahu2021 collected 20 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (20)
+Seat 2: Luluxzx (button) folded before Flop (didn't bet)
+Seat 3: esvalido09 (small blind) folded before Flop
+
+
+
+PokerStars Hand #243183125090: Tournament #3579610358, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/19 8:17:59 CET [2023/04/19 2:17:59 ET]
+Table '3579610358 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (457 in chips) 
+Seat 2: Luluxzx (708 in chips) 
+Seat 3: esvalido09 (335 in chips) 
+Mahu2021: posts small blind 10
+Luluxzx: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c 8c]
+esvalido09: calls 20
+Mahu2021: calls 10
+Luluxzx: checks 
+*** FLOP *** [Jh 2h 3s]
+Mahu2021: checks 
+Luluxzx: checks 
+esvalido09: bets 20
+Mahu2021: folds 
+Luluxzx: folds 
+Uncalled bet (20) returned to esvalido09
+esvalido09 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Jh 2h 3s]
+Seat 1: Mahu2021 (small blind) folded on the Flop
+Seat 2: Luluxzx (big blind) folded on the Flop
+Seat 3: esvalido09 (button) collected (60)
+
+
+
+PokerStars Hand #243183126628: Tournament #3579610358, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/19 8:18:15 CET [2023/04/19 2:18:15 ET]
+Table '3579610358 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (437 in chips) 
+Seat 2: Luluxzx (688 in chips) 
+Seat 3: esvalido09 (375 in chips) 
+Luluxzx: posts small blind 10
+esvalido09: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d 9d]
+Mahu2021: calls 20
+Luluxzx: raises 40 to 60
+esvalido09: calls 40
+Mahu2021: calls 40
+*** FLOP *** [5h 6h 3c]
+Luluxzx: bets 50
+esvalido09: folds 
+Mahu2021: calls 50
+*** TURN *** [5h 6h 3c] [Ac]
+Luluxzx: bets 140
+Mahu2021: calls 140
+*** RIVER *** [5h 6h 3c Ac] [6c]
+Luluxzx: bets 280
+Mahu2021: folds 
+Uncalled bet (280) returned to Luluxzx
+Luluxzx collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | Rake 0 
+Board [5h 6h 3c Ac 6c]
+Seat 1: Mahu2021 (button) folded on the River
+Seat 2: Luluxzx (small blind) collected (560)
+Seat 3: esvalido09 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #243183130236: Tournament #3579610358, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/19 8:18:51 CET [2023/04/19 2:18:51 ET]
+Table '3579610358 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (187 in chips) 
+Seat 2: Luluxzx (998 in chips) 
+Seat 3: esvalido09 (315 in chips) 
+esvalido09: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d Th]
+Luluxzx: raises 33 to 63
+esvalido09: folds 
+Mahu2021: folds 
+Uncalled bet (33) returned to Luluxzx
+Luluxzx collected 75 from pot
+Luluxzx: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: Luluxzx (button) collected (75)
+Seat 3: esvalido09 (small blind) folded before Flop
+
+
+
+PokerStars Hand #243183131287: Tournament #3579610358, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/19 8:19:01 CET [2023/04/19 2:19:01 ET]
+Table '3579610358 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (157 in chips) 
+Seat 2: Luluxzx (1043 in chips) 
+Seat 3: esvalido09 (300 in chips) 
+Mahu2021: posts small blind 15
+Luluxzx: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4d Jd]
+esvalido09: folds 
+Mahu2021: calls 15
+Luluxzx: raises 1013 to 1043 and is all-in
+Mahu2021: folds 
+Uncalled bet (1013) returned to Luluxzx
+Luluxzx collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: Luluxzx (big blind) collected (60)
+Seat 3: esvalido09 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #243183132371: Tournament #3579610358, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/19 8:19:13 CET [2023/04/19 2:19:13 ET]
+Table '3579610358 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (127 in chips) 
+Seat 2: Luluxzx (1073 in chips) 
+Seat 3: esvalido09 (300 in chips) 
+Luluxzx: posts small blind 15
+esvalido09: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s 4s]
+Mahu2021: folds 
+Luluxzx: calls 15
+esvalido09: checks 
+*** FLOP *** [Ks 9d Qd]
+Luluxzx: bets 30
+esvalido09: calls 30
+*** TURN *** [Ks 9d Qd] [8s]
+Luluxzx: bets 90
+esvalido09: folds 
+Uncalled bet (90) returned to Luluxzx
+Luluxzx collected 120 from pot
+Luluxzx: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Ks 9d Qd 8s]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: Luluxzx (small blind) collected (120)
+Seat 3: esvalido09 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #243183134172: Tournament #3579610358, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/19 8:19:31 CET [2023/04/19 2:19:31 ET]
+Table '3579610358 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (127 in chips) 
+Seat 2: Luluxzx (1133 in chips) 
+Seat 3: esvalido09 (240 in chips) 
+esvalido09: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6h 5c]
+Luluxzx: folds 
+esvalido09: raises 30 to 60
+Mahu2021: calls 30
+*** FLOP *** [Js Qd 8d]
+esvalido09: bets 30
+Mahu2021: folds 
+Uncalled bet (30) returned to esvalido09
+esvalido09 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Js Qd 8d]
+Seat 1: Mahu2021 (big blind) folded on the Flop
+Seat 2: Luluxzx (button) folded before Flop (didn't bet)
+Seat 3: esvalido09 (small blind) collected (120)
+
+
+
+PokerStars Hand #243183135448: Tournament #3579610358, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/19 8:19:43 CET [2023/04/19 2:19:43 ET]
+Table '3579610358 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (67 in chips) 
+Seat 2: Luluxzx (1133 in chips) 
+Seat 3: esvalido09 (300 in chips) 
+Mahu2021: posts small blind 15
+Luluxzx: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks 3h]
+esvalido09: calls 30
+Mahu2021: raises 37 to 67 and is all-in
+Luluxzx: raises 1066 to 1133 and is all-in
+esvalido09: folds 
+Uncalled bet (1066) returned to Luluxzx
+*** FLOP *** [Tc Qc 5d]
+*** TURN *** [Tc Qc 5d] [3d]
+*** RIVER *** [Tc Qc 5d 3d] [9c]
+*** SHOW DOWN ***
+Mahu2021: shows [Ks 3h] (a pair of Threes)
+Luluxzx: shows [9s Kd] (a pair of Nines)
+Luluxzx collected 164 from pot
+Mahu2021 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 164 | Rake 0 
+Board [Tc Qc 5d 3d 9c]
+Seat 1: Mahu2021 (small blind) showed [Ks 3h] and lost with a pair of Threes
+Seat 2: Luluxzx (big blind) showed [9s Kd] and won (164) with a pair of Nines
+Seat 3: esvalido09 (button) folded before Flop
+
+
+

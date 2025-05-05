@@ -1,0 +1,68 @@
+﻿PokerStars Hand #242987492944: Tournament #3575128108, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/09 19:49:45 CET [2023/04/09 13:49:45 ET]
+Table '3575128108 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: azim7020 (500 in chips) 
+Seat 3: Martinez9956 (500 in chips) 
+azim7020: posts small blind 10
+Martinez9956: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Tc 4d]
+Mahu2021: folds 
+azim7020: raises 20 to 40
+Martinez9956: calls 20
+*** FLOP *** [2h 6d 8c]
+azim7020: bets 80
+Martinez9956: calls 80
+*** TURN *** [2h 6d 8c] [8s]
+azim7020: bets 240
+Martinez9956: raises 140 to 380 and is all-in
+azim7020: calls 140 and is all-in
+*** RIVER *** [2h 6d 8c 8s] [9s]
+*** SHOW DOWN ***
+azim7020: shows [5d 8d] (three of a kind, Eights)
+Martinez9956: shows [Jc 6s] (two pair, Eights and Sixes)
+azim7020 collected 1000 from pot
+Martinez9956 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1000 | Rake 0 
+Board [2h 6d 8c 8s 9s]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: azim7020 (small blind) showed [5d 8d] and won (1000) with three of a kind, Eights
+Seat 3: Martinez9956 (big blind) showed [Jc 6s] and lost with two pair, Eights and Sixes
+
+
+
+PokerStars Hand #242987506449: Tournament #3575128108, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/09 19:50:19 CET [2023/04/09 13:50:19 ET]
+Table '3575128108 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: azim7020 (1000 in chips) 
+azim7020: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Tc 2c]
+azim7020: raises 20 to 40
+Mahu2021: calls 20
+*** FLOP *** [Td Js Ts]
+Mahu2021: checks 
+azim7020: bets 40
+Mahu2021: calls 40
+*** TURN *** [Td Js Ts] [Ks]
+Mahu2021: checks 
+azim7020: bets 160
+Mahu2021: raises 260 to 420 and is all-in
+azim7020: calls 260
+*** RIVER *** [Td Js Ts Ks] [8h]
+*** SHOW DOWN ***
+Mahu2021: shows [Tc 2c] (three of a kind, Tens)
+azim7020: shows [Qs Ah] (a straight, Ten to Ace)
+azim7020 collected 1000 from pot
+Mahu2021 finished the tournament in 2nd place
+azim7020 wins the tournament and receives $2.00 - congratulations!
+*** SUMMARY ***
+Total pot 1000 | Rake 0 
+Board [Td Js Ts Ks 8h]
+Seat 1: Mahu2021 (big blind) showed [Tc 2c] and lost with three of a kind, Tens
+Seat 2: azim7020 (button) (small blind) showed [Qs Ah] and won (1000) with a straight, Ten to Ace
+
+
+

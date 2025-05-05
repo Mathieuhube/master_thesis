@@ -1,0 +1,958 @@
+﻿PokerStars Hand #244550889547: Tournament #3610923940, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/06/30 21:45:50 CET [2023/06/30 15:45:50 ET]
+Table '3610923940 1' 3-max Seat #1 is the button
+Seat 1: jdgendron310 (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: ChicheCAI (500 in chips) 
+Mahu2021: posts small blind 10
+ChicheCAI: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c 6d]
+jdgendron310: folds 
+Mahu2021: folds 
+Uncalled bet (10) returned to ChicheCAI
+ChicheCAI collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: jdgendron310 (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: ChicheCAI (big blind) collected (20)
+
+
+
+PokerStars Hand #244550890918: Tournament #3610923940, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/06/30 21:45:54 CET [2023/06/30 15:45:54 ET]
+Table '3610923940 1' 3-max Seat #2 is the button
+Seat 1: jdgendron310 (500 in chips) 
+Seat 2: Mahu2021 (490 in chips) 
+Seat 3: ChicheCAI (510 in chips) 
+ChicheCAI: posts small blind 10
+jdgendron310: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d Ts]
+Mahu2021: folds 
+ChicheCAI: calls 10
+jdgendron310: checks 
+*** FLOP *** [8d 9h 6d]
+ChicheCAI: checks 
+jdgendron310: checks 
+*** TURN *** [8d 9h 6d] [4c]
+ChicheCAI: checks 
+jdgendron310: checks 
+*** RIVER *** [8d 9h 6d 4c] [Jd]
+ChicheCAI: checks 
+jdgendron310: checks 
+*** SHOW DOWN ***
+ChicheCAI: shows [Ah 7h] (high card Ace)
+jdgendron310: mucks hand 
+ChicheCAI collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [8d 9h 6d 4c Jd]
+Seat 1: jdgendron310 (big blind) mucked [5s 3c]
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: ChicheCAI (small blind) showed [Ah 7h] and won (40) with high card Ace
+
+
+
+PokerStars Hand #244550899456: Tournament #3610923940, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/06/30 21:46:20 CET [2023/06/30 15:46:20 ET]
+Table '3610923940 1' 3-max Seat #3 is the button
+Seat 1: jdgendron310 (480 in chips) 
+Seat 2: Mahu2021 (490 in chips) 
+Seat 3: ChicheCAI (530 in chips) 
+jdgendron310: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js 7d]
+ChicheCAI: calls 20
+jdgendron310: folds 
+Mahu2021: checks 
+*** FLOP *** [2h 9s Td]
+Mahu2021: checks 
+ChicheCAI: checks 
+*** TURN *** [2h 9s Td] [2c]
+Mahu2021: checks 
+ChicheCAI: checks 
+*** RIVER *** [2h 9s Td 2c] [Qc]
+Mahu2021: checks 
+ChicheCAI: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [Js 7d] (a pair of Deuces)
+ChicheCAI: shows [Ad 4s] (a pair of Deuces - Ace kicker)
+ChicheCAI collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [2h 9s Td 2c Qc]
+Seat 1: jdgendron310 (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) showed [Js 7d] and lost with a pair of Deuces
+Seat 3: ChicheCAI (button) showed [Ad 4s] and won (50) with a pair of Deuces
+
+
+
+PokerStars Hand #244550904588: Tournament #3610923940, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/06/30 21:46:35 CET [2023/06/30 15:46:35 ET]
+Table '3610923940 1' 3-max Seat #1 is the button
+Seat 1: jdgendron310 (470 in chips) 
+Seat 2: Mahu2021 (470 in chips) 
+Seat 3: ChicheCAI (560 in chips) 
+Mahu2021: posts small blind 10
+ChicheCAI: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks 6s]
+jdgendron310: raises 20 to 40
+Mahu2021: calls 30
+ChicheCAI: calls 20
+*** FLOP *** [8d Ad 4d]
+Mahu2021: checks 
+ChicheCAI: checks 
+jdgendron310: bets 20
+Mahu2021: folds 
+ChicheCAI: calls 20
+*** TURN *** [8d Ad 4d] [As]
+ChicheCAI: checks 
+jdgendron310: checks 
+*** RIVER *** [8d Ad 4d As] [9d]
+ChicheCAI: checks 
+jdgendron310: checks 
+*** SHOW DOWN ***
+ChicheCAI: shows [3d 3s] (a flush, Ace high)
+jdgendron310: mucks hand 
+ChicheCAI collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [8d Ad 4d As 9d]
+Seat 1: jdgendron310 (button) mucked [8s Qs]
+Seat 2: Mahu2021 (small blind) folded on the Flop
+Seat 3: ChicheCAI (big blind) showed [3d 3s] and won (160) with a flush, Ace high
+
+
+
+PokerStars Hand #244550911975: Tournament #3610923940, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/06/30 21:46:57 CET [2023/06/30 15:46:57 ET]
+Table '3610923940 1' 3-max Seat #2 is the button
+Seat 1: jdgendron310 (410 in chips) 
+Seat 2: Mahu2021 (430 in chips) 
+Seat 3: ChicheCAI (660 in chips) 
+ChicheCAI: posts small blind 10
+jdgendron310: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d 6h]
+Mahu2021: raises 20 to 40
+ChicheCAI: folds 
+jdgendron310: calls 20
+*** FLOP *** [5h Kh Ad]
+jdgendron310: checks 
+Mahu2021: bets 40
+jdgendron310: calls 40
+*** TURN *** [5h Kh Ad] [Js]
+jdgendron310: checks 
+Mahu2021: bets 40
+jdgendron310: calls 40
+*** RIVER *** [5h Kh Ad Js] [Jc]
+jdgendron310: bets 250
+Mahu2021: folds 
+Uncalled bet (250) returned to jdgendron310
+jdgendron310 collected 250 from pot
+*** SUMMARY ***
+Total pot 250 | Rake 0 
+Board [5h Kh Ad Js Jc]
+Seat 1: jdgendron310 (big blind) collected (250)
+Seat 2: Mahu2021 (button) folded on the River
+Seat 3: ChicheCAI (small blind) folded before Flop
+
+
+
+PokerStars Hand #244550919376: Tournament #3610923940, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/06/30 21:47:19 CET [2023/06/30 15:47:19 ET]
+Table '3610923940 1' 3-max Seat #3 is the button
+Seat 1: jdgendron310 (540 in chips) 
+Seat 2: Mahu2021 (310 in chips) 
+Seat 3: ChicheCAI (650 in chips) 
+jdgendron310: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8s 4s]
+ChicheCAI: folds 
+jdgendron310: calls 10
+Mahu2021: checks 
+*** FLOP *** [7d 7c 9h]
+jdgendron310: bets 20
+Mahu2021: folds 
+Uncalled bet (20) returned to jdgendron310
+jdgendron310 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [7d 7c 9h]
+Seat 1: jdgendron310 (small blind) collected (40)
+Seat 2: Mahu2021 (big blind) folded on the Flop
+Seat 3: ChicheCAI (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #244550923089: Tournament #3610923940, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/06/30 21:47:30 CET [2023/06/30 15:47:30 ET]
+Table '3610923940 1' 3-max Seat #1 is the button
+Seat 1: jdgendron310 (560 in chips) 
+Seat 2: Mahu2021 (290 in chips) 
+Seat 3: ChicheCAI (650 in chips) 
+Mahu2021: posts small blind 10
+ChicheCAI: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h Qd]
+jdgendron310: raises 20 to 40
+Mahu2021: calls 30
+ChicheCAI: calls 20
+*** FLOP *** [Kc Th 3c]
+Mahu2021: checks 
+ChicheCAI: checks 
+jdgendron310: checks 
+*** TURN *** [Kc Th 3c] [Ac]
+Mahu2021: checks 
+ChicheCAI: checks 
+jdgendron310: bets 20
+Mahu2021: folds 
+ChicheCAI: folds 
+Uncalled bet (20) returned to jdgendron310
+jdgendron310 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Kc Th 3c Ac]
+Seat 1: jdgendron310 (button) collected (120)
+Seat 2: Mahu2021 (small blind) folded on the Turn
+Seat 3: ChicheCAI (big blind) folded on the Turn
+
+
+
+PokerStars Hand #244550930353: Tournament #3610923940, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/06/30 21:47:51 CET [2023/06/30 15:47:51 ET]
+Table '3610923940 1' 3-max Seat #2 is the button
+Seat 1: jdgendron310 (640 in chips) 
+Seat 2: Mahu2021 (250 in chips) 
+Seat 3: ChicheCAI (610 in chips) 
+ChicheCAI: posts small blind 10
+jdgendron310: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h 5h]
+Mahu2021: calls 20
+ChicheCAI: calls 10
+jdgendron310: checks 
+*** FLOP *** [Qh Qc 8s]
+ChicheCAI: checks 
+jdgendron310: checks 
+Mahu2021: bets 60
+ChicheCAI: folds 
+jdgendron310: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Qh Qc 8s]
+Seat 1: jdgendron310 (big blind) folded on the Flop
+Seat 2: Mahu2021 (button) collected (60)
+Seat 3: ChicheCAI (small blind) folded on the Flop
+
+
+
+PokerStars Hand #244550935280: Tournament #3610923940, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/06/30 21:48:06 CET [2023/06/30 15:48:06 ET]
+Table '3610923940 1' 3-max Seat #3 is the button
+Seat 1: jdgendron310 (620 in chips) 
+Seat 2: Mahu2021 (290 in chips) 
+Seat 3: ChicheCAI (590 in chips) 
+jdgendron310: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s 4s]
+ChicheCAI: calls 20
+jdgendron310: calls 10
+Mahu2021: checks 
+*** FLOP *** [4h 5s 8c]
+jdgendron310: checks 
+Mahu2021: bets 60
+ChicheCAI: folds 
+jdgendron310: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [4h 5s 8c]
+Seat 1: jdgendron310 (small blind) folded on the Flop
+Seat 2: Mahu2021 (big blind) collected (60)
+Seat 3: ChicheCAI (button) folded on the Flop
+
+
+
+PokerStars Hand #244550939567: Tournament #3610923940, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/06/30 21:48:19 CET [2023/06/30 15:48:19 ET]
+Table '3610923940 1' 3-max Seat #1 is the button
+Seat 1: jdgendron310 (600 in chips) 
+Seat 2: Mahu2021 (330 in chips) 
+Seat 3: ChicheCAI (570 in chips) 
+Mahu2021: posts small blind 10
+ChicheCAI: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d 5d]
+jdgendron310: folds 
+Mahu2021: raises 20 to 40
+ChicheCAI: calls 20
+*** FLOP *** [Kh 9c 3h]
+Mahu2021: bets 80
+ChicheCAI: folds 
+Uncalled bet (80) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Kh 9c 3h]
+Seat 1: jdgendron310 (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) collected (80)
+Seat 3: ChicheCAI (big blind) folded on the Flop
+
+
+
+PokerStars Hand #244550944281: Tournament #3610923940, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/06/30 21:48:33 CET [2023/06/30 15:48:33 ET]
+Table '3610923940 1' 3-max Seat #2 is the button
+Seat 1: jdgendron310 (600 in chips) 
+Seat 2: Mahu2021 (370 in chips) 
+Seat 3: ChicheCAI (530 in chips) 
+ChicheCAI: posts small blind 10
+jdgendron310: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh 3d]
+Mahu2021: folds 
+ChicheCAI: calls 10
+jdgendron310: raises 20 to 40
+ChicheCAI: calls 20
+*** FLOP *** [Kd 7c 4d]
+ChicheCAI: checks 
+jdgendron310: bets 20
+ChicheCAI: folds 
+Uncalled bet (20) returned to jdgendron310
+jdgendron310 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Kd 7c 4d]
+Seat 1: jdgendron310 (big blind) collected (80)
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: ChicheCAI (small blind) folded on the Flop
+
+
+
+PokerStars Hand #244550950142: Tournament #3610923940, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/06/30 21:48:50 CET [2023/06/30 15:48:50 ET]
+Table '3610923940 1' 3-max Seat #3 is the button
+Seat 1: jdgendron310 (640 in chips) 
+Seat 2: Mahu2021 (370 in chips) 
+Seat 3: ChicheCAI (490 in chips) 
+jdgendron310: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h 9d]
+ChicheCAI: calls 20
+jdgendron310: calls 10
+Mahu2021: checks 
+*** FLOP *** [Kc Ts 5s]
+jdgendron310: checks 
+Mahu2021: checks 
+ChicheCAI: bets 60
+jdgendron310: folds 
+Mahu2021: folds 
+Uncalled bet (60) returned to ChicheCAI
+ChicheCAI collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Kc Ts 5s]
+Seat 1: jdgendron310 (small blind) folded on the Flop
+Seat 2: Mahu2021 (big blind) folded on the Flop
+Seat 3: ChicheCAI (button) collected (60)
+
+
+
+PokerStars Hand #244550955839: Tournament #3610923940, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/06/30 21:49:07 CET [2023/06/30 15:49:07 ET]
+Table '3610923940 1' 3-max Seat #1 is the button
+Seat 1: jdgendron310 (620 in chips) 
+Seat 2: Mahu2021 (350 in chips) 
+Seat 3: ChicheCAI (530 in chips) 
+Mahu2021: posts small blind 15
+ChicheCAI: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3c 6h]
+jdgendron310: raises 30 to 60
+Mahu2021: folds 
+ChicheCAI: calls 30
+*** FLOP *** [4d 4h 8d]
+ChicheCAI: checks 
+jdgendron310: bets 30
+ChicheCAI: folds 
+Uncalled bet (30) returned to jdgendron310
+jdgendron310 collected 135 from pot
+*** SUMMARY ***
+Total pot 135 | Rake 0 
+Board [4d 4h 8d]
+Seat 1: jdgendron310 (button) collected (135)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: ChicheCAI (big blind) folded on the Flop
+
+
+
+PokerStars Hand #244550960394: Tournament #3610923940, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/06/30 21:49:21 CET [2023/06/30 15:49:21 ET]
+Table '3610923940 1' 3-max Seat #2 is the button
+Seat 1: jdgendron310 (695 in chips) 
+Seat 2: Mahu2021 (335 in chips) 
+Seat 3: ChicheCAI (470 in chips) 
+ChicheCAI: posts small blind 15
+jdgendron310: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d Js]
+Mahu2021: folds 
+ChicheCAI: calls 15
+jdgendron310: checks 
+*** FLOP *** [Ah 8s 4s]
+ChicheCAI: checks 
+jdgendron310: bets 30
+ChicheCAI: folds 
+Uncalled bet (30) returned to jdgendron310
+jdgendron310 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Ah 8s 4s]
+Seat 1: jdgendron310 (big blind) collected (60)
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: ChicheCAI (small blind) folded on the Flop
+
+
+
+PokerStars Hand #244550965116: Tournament #3610923940, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/06/30 21:49:35 CET [2023/06/30 15:49:35 ET]
+Table '3610923940 1' 3-max Seat #3 is the button
+Seat 1: jdgendron310 (725 in chips) 
+Seat 2: Mahu2021 (335 in chips) 
+Seat 3: ChicheCAI (440 in chips) 
+jdgendron310: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d 4c]
+ChicheCAI: folds 
+jdgendron310: raises 30 to 60
+Mahu2021: folds 
+Uncalled bet (30) returned to jdgendron310
+jdgendron310 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: jdgendron310 (small blind) collected (60)
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: ChicheCAI (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #244550967316: Tournament #3610923940, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/06/30 21:49:41 CET [2023/06/30 15:49:41 ET]
+Table '3610923940 1' 3-max Seat #1 is the button
+Seat 1: jdgendron310 (755 in chips) 
+Seat 2: Mahu2021 (305 in chips) 
+Seat 3: ChicheCAI (440 in chips) 
+Mahu2021: posts small blind 15
+ChicheCAI: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qs 6d]
+jdgendron310: calls 30
+Mahu2021: calls 15
+ChicheCAI: checks 
+*** FLOP *** [Qh 3d Js]
+Mahu2021: bets 60
+ChicheCAI: folds 
+jdgendron310: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 90 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [Qh 3d Js]
+Seat 1: jdgendron310 (button) folded on the Flop
+Seat 2: Mahu2021 (small blind) collected (90)
+Seat 3: ChicheCAI (big blind) folded on the Flop
+
+
+
+PokerStars Hand #244550972008: Tournament #3610923940, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/06/30 21:49:55 CET [2023/06/30 15:49:55 ET]
+Table '3610923940 1' 3-max Seat #2 is the button
+Seat 1: jdgendron310 (725 in chips) 
+Seat 2: Mahu2021 (365 in chips) 
+Seat 3: ChicheCAI (410 in chips) 
+ChicheCAI: posts small blind 15
+jdgendron310: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h 3c]
+Mahu2021: folds 
+ChicheCAI: calls 15
+jdgendron310: checks 
+*** FLOP *** [2d 9d 2h]
+ChicheCAI: checks 
+jdgendron310: bets 30
+ChicheCAI: folds 
+Uncalled bet (30) returned to jdgendron310
+jdgendron310 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [2d 9d 2h]
+Seat 1: jdgendron310 (big blind) collected (60)
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: ChicheCAI (small blind) folded on the Flop
+
+
+
+PokerStars Hand #244550977010: Tournament #3610923940, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/06/30 21:50:11 CET [2023/06/30 15:50:11 ET]
+Table '3610923940 1' 3-max Seat #3 is the button
+Seat 1: jdgendron310 (755 in chips) 
+Seat 2: Mahu2021 (365 in chips) 
+Seat 3: ChicheCAI (380 in chips) 
+jdgendron310: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d 7s]
+ChicheCAI: calls 30
+jdgendron310: calls 15
+Mahu2021: raises 335 to 365 and is all-in
+ChicheCAI: folds 
+jdgendron310: folds 
+Uncalled bet (335) returned to Mahu2021
+Mahu2021 collected 90 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Seat 1: jdgendron310 (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (90)
+Seat 3: ChicheCAI (button) folded before Flop
+
+
+
+PokerStars Hand #244550980171: Tournament #3610923940, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/06/30 21:50:20 CET [2023/06/30 15:50:20 ET]
+Table '3610923940 1' 3-max Seat #1 is the button
+Seat 1: jdgendron310 (725 in chips) 
+Seat 2: Mahu2021 (425 in chips) 
+Seat 3: ChicheCAI (350 in chips) 
+Mahu2021: posts small blind 15
+ChicheCAI: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4c As]
+jdgendron310: calls 30
+Mahu2021: calls 15
+ChicheCAI: checks 
+*** FLOP *** [4s Qd 2c]
+Mahu2021: checks 
+ChicheCAI: checks 
+jdgendron310: bets 30
+Mahu2021: calls 30
+ChicheCAI: calls 30
+*** TURN *** [4s Qd 2c] [6c]
+Mahu2021: checks 
+ChicheCAI: bets 180
+jdgendron310: calls 180
+Mahu2021: folds 
+*** RIVER *** [4s Qd 2c 6c] [9h]
+ChicheCAI: bets 110 and is all-in
+jdgendron310: calls 110
+*** SHOW DOWN ***
+ChicheCAI: shows [2s 6h] (two pair, Sixes and Deuces)
+jdgendron310: shows [Qh Jh] (a pair of Queens)
+ChicheCAI collected 760 from pot
+*** SUMMARY ***
+Total pot 760 | Rake 0 
+Board [4s Qd 2c 6c 9h]
+Seat 1: jdgendron310 (button) showed [Qh Jh] and lost with a pair of Queens
+Seat 2: Mahu2021 (small blind) folded on the Turn
+Seat 3: ChicheCAI (big blind) showed [2s 6h] and won (760) with two pair, Sixes and Deuces
+
+
+
+PokerStars Hand #244550989041: Tournament #3610923940, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/06/30 21:50:47 CET [2023/06/30 15:50:47 ET]
+Table '3610923940 1' 3-max Seat #2 is the button
+Seat 1: jdgendron310 (375 in chips) 
+Seat 2: Mahu2021 (365 in chips) 
+Seat 3: ChicheCAI (760 in chips) 
+ChicheCAI: posts small blind 15
+jdgendron310: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3c Js]
+Mahu2021: folds 
+ChicheCAI: calls 15
+jdgendron310: checks 
+*** FLOP *** [Kd 2s 9d]
+ChicheCAI: checks 
+jdgendron310: bets 30
+ChicheCAI: folds 
+Uncalled bet (30) returned to jdgendron310
+jdgendron310 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Kd 2s 9d]
+Seat 1: jdgendron310 (big blind) collected (60)
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: ChicheCAI (small blind) folded on the Flop
+
+
+
+PokerStars Hand #244550994841: Tournament #3610923940, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/06/30 21:51:05 CET [2023/06/30 15:51:05 ET]
+Table '3610923940 1' 3-max Seat #3 is the button
+Seat 1: jdgendron310 (405 in chips) 
+Seat 2: Mahu2021 (365 in chips) 
+Seat 3: ChicheCAI (730 in chips) 
+jdgendron310: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s 7h]
+ChicheCAI: folds 
+jdgendron310: calls 15
+Mahu2021: checks 
+*** FLOP *** [Qc 7d Ks]
+jdgendron310: checks 
+Mahu2021: bets 30
+jdgendron310: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Qc 7d Ks]
+Seat 1: jdgendron310 (small blind) folded on the Flop
+Seat 2: Mahu2021 (big blind) collected (60)
+Seat 3: ChicheCAI (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #244550998741: Tournament #3610923940, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/06/30 21:51:16 CET [2023/06/30 15:51:16 ET]
+Table '3610923940 1' 3-max Seat #1 is the button
+Seat 1: jdgendron310 (375 in chips) 
+Seat 2: Mahu2021 (395 in chips) 
+Seat 3: ChicheCAI (730 in chips) 
+Mahu2021: posts small blind 15
+ChicheCAI: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h 4s]
+jdgendron310: folds 
+Mahu2021: raises 30 to 60
+ChicheCAI: calls 30
+*** FLOP *** [Qc Js 8s]
+Mahu2021: checks 
+ChicheCAI: checks 
+*** TURN *** [Qc Js 8s] [Jc]
+Mahu2021: checks 
+ChicheCAI: checks 
+*** RIVER *** [Qc Js 8s Jc] [2c]
+Mahu2021: bets 60
+ChicheCAI: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Qc Js 8s Jc 2c]
+Seat 1: jdgendron310 (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) collected (120)
+Seat 3: ChicheCAI (big blind) folded on the River
+
+
+
+PokerStars Hand #244551006140: Tournament #3610923940, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/06/30 21:51:38 CET [2023/06/30 15:51:38 ET]
+Table '3610923940 1' 3-max Seat #2 is the button
+Seat 1: jdgendron310 (375 in chips) 
+Seat 2: Mahu2021 (455 in chips) 
+Seat 3: ChicheCAI (670 in chips) 
+ChicheCAI: posts small blind 15
+jdgendron310: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h Js]
+Mahu2021: folds 
+ChicheCAI: calls 15
+jdgendron310: checks 
+*** FLOP *** [3c 6d Kd]
+ChicheCAI: bets 30
+jdgendron310: folds 
+Uncalled bet (30) returned to ChicheCAI
+ChicheCAI collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [3c 6d Kd]
+Seat 1: jdgendron310 (big blind) folded on the Flop
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: ChicheCAI (small blind) collected (60)
+
+
+
+PokerStars Hand #244551010160: Tournament #3610923940, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/06/30 21:51:50 CET [2023/06/30 15:51:50 ET]
+Table '3610923940 1' 3-max Seat #3 is the button
+Seat 1: jdgendron310 (345 in chips) 
+Seat 2: Mahu2021 (455 in chips) 
+Seat 3: ChicheCAI (700 in chips) 
+jdgendron310: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d 6d]
+ChicheCAI: folds 
+jdgendron310: raises 30 to 60
+Mahu2021: calls 30
+*** FLOP *** [2h 8h 6c]
+jdgendron310: bets 30
+Mahu2021: raises 365 to 395 and is all-in
+jdgendron310: folds 
+Uncalled bet (365) returned to Mahu2021
+Mahu2021 collected 180 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [2h 8h 6c]
+Seat 1: jdgendron310 (small blind) folded on the Flop
+Seat 2: Mahu2021 (big blind) collected (180)
+Seat 3: ChicheCAI (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #244551015321: Tournament #3610923940, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/06/30 21:52:06 CET [2023/06/30 15:52:06 ET]
+Table '3610923940 1' 3-max Seat #1 is the button
+Seat 1: jdgendron310 (255 in chips) 
+Seat 2: Mahu2021 (545 in chips) 
+Seat 3: ChicheCAI (700 in chips) 
+Mahu2021: posts small blind 20
+ChicheCAI: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah Qh]
+jdgendron310: raises 40 to 80
+Mahu2021: raises 465 to 545 and is all-in
+ChicheCAI: folds 
+jdgendron310: calls 175 and is all-in
+Uncalled bet (290) returned to Mahu2021
+*** FLOP *** [Th 6d 5h]
+*** TURN *** [Th 6d 5h] [7s]
+*** RIVER *** [Th 6d 5h 7s] [Qs]
+*** SHOW DOWN ***
+Mahu2021: shows [Ah Qh] (a pair of Queens)
+jdgendron310: shows [Ad Td] (a pair of Tens)
+Mahu2021 collected 550 from pot
+jdgendron310 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 550 | Rake 0 
+Board [Th 6d 5h 7s Qs]
+Seat 1: jdgendron310 (button) showed [Ad Td] and lost with a pair of Tens
+Seat 2: Mahu2021 (small blind) showed [Ah Qh] and won (550) with a pair of Queens
+Seat 3: ChicheCAI (big blind) folded before Flop
+
+
+
+PokerStars Hand #244551021445: Tournament #3610923940, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/06/30 21:52:24 CET [2023/06/30 15:52:24 ET]
+Table '3610923940 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (840 in chips) 
+Seat 3: ChicheCAI (660 in chips) 
+ChicheCAI: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8s Ac]
+ChicheCAI: calls 20
+Mahu2021: checks 
+*** FLOP *** [4h Jc Tc]
+Mahu2021: checks 
+ChicheCAI: checks 
+*** TURN *** [4h Jc Tc] [Ts]
+Mahu2021: checks 
+ChicheCAI: checks 
+*** RIVER *** [4h Jc Tc Ts] [Qd]
+Mahu2021: checks 
+ChicheCAI: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [8s Ac] (a pair of Tens)
+ChicheCAI: shows [3c 4c] (two pair, Tens and Fours)
+ChicheCAI collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [4h Jc Tc Ts Qd]
+Seat 2: Mahu2021 (big blind) showed [8s Ac] and lost with a pair of Tens
+Seat 3: ChicheCAI (button) (small blind) showed [3c 4c] and won (80) with two pair, Tens and Fours
+
+
+
+PokerStars Hand #244551026999: Tournament #3610923940, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/06/30 21:52:41 CET [2023/06/30 15:52:41 ET]
+Table '3610923940 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (800 in chips) 
+Seat 3: ChicheCAI (700 in chips) 
+Mahu2021: posts small blind 20
+ChicheCAI: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s 4d]
+Mahu2021: folds 
+Uncalled bet (20) returned to ChicheCAI
+ChicheCAI collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: ChicheCAI (big blind) collected (40)
+
+
+
+PokerStars Hand #244551028722: Tournament #3610923940, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/06/30 21:52:47 CET [2023/06/30 15:52:47 ET]
+Table '3610923940 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (780 in chips) 
+Seat 3: ChicheCAI (720 in chips) 
+ChicheCAI: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8c 5s]
+ChicheCAI: calls 20
+Mahu2021: checks 
+*** FLOP *** [Qs 2h 6h]
+Mahu2021: checks 
+ChicheCAI: checks 
+*** TURN *** [Qs 2h 6h] [Qh]
+Mahu2021: checks 
+ChicheCAI: checks 
+*** RIVER *** [Qs 2h 6h Qh] [5c]
+Mahu2021: bets 40
+ChicheCAI: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Qs 2h 6h Qh 5c]
+Seat 2: Mahu2021 (big blind) collected (80)
+Seat 3: ChicheCAI (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #244551034649: Tournament #3610923940, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/06/30 21:53:04 CET [2023/06/30 15:53:04 ET]
+Table '3610923940 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (820 in chips) 
+Seat 3: ChicheCAI (680 in chips) 
+Mahu2021: posts small blind 20
+ChicheCAI: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h Qd]
+Mahu2021: raises 40 to 80
+ChicheCAI: calls 40
+*** FLOP *** [8d Ah 5c]
+ChicheCAI: checks 
+Mahu2021: bets 80
+ChicheCAI: folds 
+Uncalled bet (80) returned to Mahu2021
+Mahu2021 collected 160 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [8d Ah 5c]
+Seat 2: Mahu2021 (button) (small blind) collected (160)
+Seat 3: ChicheCAI (big blind) folded on the Flop
+
+
+
+PokerStars Hand #244551040033: Tournament #3610923940, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/06/30 21:53:21 CET [2023/06/30 15:53:21 ET]
+Table '3610923940 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (900 in chips) 
+Seat 3: ChicheCAI (600 in chips) 
+ChicheCAI: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc 5h]
+ChicheCAI: calls 20
+Mahu2021: checks 
+*** FLOP *** [7c Kc 6h]
+Mahu2021: checks 
+ChicheCAI: bets 40
+Mahu2021: folds 
+Uncalled bet (40) returned to ChicheCAI
+ChicheCAI collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [7c Kc 6h]
+Seat 2: Mahu2021 (big blind) folded on the Flop
+Seat 3: ChicheCAI (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #244551043484: Tournament #3610923940, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/06/30 21:53:31 CET [2023/06/30 15:53:31 ET]
+Table '3610923940 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (860 in chips) 
+Seat 3: ChicheCAI (640 in chips) 
+Mahu2021: posts small blind 20
+ChicheCAI: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h 8d]
+Mahu2021: raises 40 to 80
+ChicheCAI: calls 40
+*** FLOP *** [8c 4d 5d]
+ChicheCAI: checks 
+Mahu2021: bets 80
+ChicheCAI: raises 320 to 400
+Mahu2021: raises 380 to 780 and is all-in
+ChicheCAI: calls 160 and is all-in
+Uncalled bet (220) returned to Mahu2021
+*** TURN *** [8c 4d 5d] [5h]
+*** RIVER *** [8c 4d 5d 5h] [Jc]
+*** SHOW DOWN ***
+ChicheCAI: shows [4c 5s] (a full house, Fives full of Fours)
+Mahu2021: shows [7h 8d] (two pair, Eights and Fives)
+ChicheCAI collected 1280 from pot
+*** SUMMARY ***
+Total pot 1280 | Rake 0 
+Board [8c 4d 5d 5h Jc]
+Seat 2: Mahu2021 (button) (small blind) showed [7h 8d] and lost with two pair, Eights and Fives
+Seat 3: ChicheCAI (big blind) showed [4c 5s] and won (1280) with a full house, Fives full of Fours
+
+
+
+PokerStars Hand #244551051160: Tournament #3610923940, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/06/30 21:53:54 CET [2023/06/30 15:53:54 ET]
+Table '3610923940 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (220 in chips) 
+Seat 3: ChicheCAI (1280 in chips) 
+ChicheCAI: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Th Td]
+ChicheCAI: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: Mahu2021 (big blind) collected (40)
+Seat 3: ChicheCAI (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #244551053779: Tournament #3610923940, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/06/30 21:54:02 CET [2023/06/30 15:54:02 ET]
+Table '3610923940 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (240 in chips) 
+Seat 3: ChicheCAI (1260 in chips) 
+Mahu2021: posts small blind 20
+ChicheCAI: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah 4h]
+Mahu2021: raises 200 to 240 and is all-in
+ChicheCAI: folds 
+Uncalled bet (200) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) collected (80)
+Seat 3: ChicheCAI (big blind) folded before Flop
+
+
+
+PokerStars Hand #244551056446: Tournament #3610923940, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/06/30 21:54:10 CET [2023/06/30 15:54:10 ET]
+Table '3610923940 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (280 in chips) 
+Seat 3: ChicheCAI (1220 in chips) 
+ChicheCAI: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d 4d]
+ChicheCAI: calls 20
+Mahu2021: raises 80 to 120
+ChicheCAI: calls 80
+*** FLOP *** [8h 9s Qc]
+Mahu2021: bets 160 and is all-in
+ChicheCAI: calls 160
+*** TURN *** [8h 9s Qc] [7c]
+*** RIVER *** [8h 9s Qc 7c] [Th]
+*** SHOW DOWN ***
+Mahu2021: shows [3d 4d] (high card Queen)
+ChicheCAI: shows [5c Ac] (high card Ace)
+ChicheCAI collected 560 from pot
+Mahu2021 finished the tournament in 2nd place
+ChicheCAI wins the tournament and receives $3.00 - congratulations!
+*** SUMMARY ***
+Total pot 560 | Rake 0 
+Board [8h 9s Qc 7c Th]
+Seat 2: Mahu2021 (big blind) showed [3d 4d] and lost with high card Queen
+Seat 3: ChicheCAI (button) (small blind) showed [5c Ac] and won (560) with high card Ace
+
+
+

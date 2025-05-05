@@ -1,0 +1,1023 @@
+﻿PokerStars Hand #253203034349: Tournament #3818874489, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/01 17:42:14 CET [2024/11/01 12:42:14 ET]
+Table '3818874489 1' 3-max Seat #1 is the button
+Seat 1: AbajurPL13 (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: facalet 62 (500 in chips) 
+Mahu2021: posts small blind 10
+facalet 62: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc Tc]
+AbajurPL13: calls 20
+Mahu2021: calls 10
+facalet 62: raises 60 to 80
+AbajurPL13: calls 60
+Mahu2021: calls 60
+*** FLOP *** [Jd 4s 8h]
+Mahu2021: bets 420 and is all-in
+facalet 62: folds 
+AbajurPL13: folds 
+Uncalled bet (420) returned to Mahu2021
+Mahu2021 collected 240 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Jd 4s 8h]
+Seat 1: AbajurPL13 (button) folded on the Flop
+Seat 2: Mahu2021 (small blind) collected (240)
+Seat 3: facalet 62 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #253203041937: Tournament #3818874489, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/01 17:42:47 CET [2024/11/01 12:42:47 ET]
+Table '3818874489 1' 3-max Seat #2 is the button
+Seat 1: AbajurPL13 (420 in chips) 
+Seat 2: Mahu2021 (660 in chips) 
+Seat 3: facalet 62 (420 in chips) 
+facalet 62: posts small blind 10
+AbajurPL13: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d Ts]
+Mahu2021: folds 
+facalet 62: raises 400 to 420 and is all-in
+AbajurPL13: folds 
+Uncalled bet (400) returned to facalet 62
+facalet 62 collected 40 from pot
+facalet 62: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: AbajurPL13 (big blind) folded before Flop
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: facalet 62 (small blind) collected (40)
+
+
+
+PokerStars Hand #253203043817: Tournament #3818874489, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/01 17:42:55 CET [2024/11/01 12:42:55 ET]
+Table '3818874489 1' 3-max Seat #3 is the button
+Seat 1: AbajurPL13 (400 in chips) 
+Seat 2: Mahu2021 (660 in chips) 
+Seat 3: facalet 62 (440 in chips) 
+AbajurPL13: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8d Th]
+facalet 62: folds 
+AbajurPL13: calls 10
+Mahu2021: checks 
+*** FLOP *** [8s 2s Td]
+AbajurPL13: checks 
+Mahu2021: checks 
+*** TURN *** [8s 2s Td] [Jh]
+AbajurPL13: checks 
+Mahu2021: bets 40
+AbajurPL13: calls 40
+*** RIVER *** [8s 2s Td Jh] [5d]
+AbajurPL13: checks 
+Mahu2021: bets 40
+AbajurPL13: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [8s 2s Td Jh 5d]
+Seat 1: AbajurPL13 (small blind) folded on the River
+Seat 2: Mahu2021 (big blind) collected (120)
+Seat 3: facalet 62 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253203049083: Tournament #3818874489, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/01 17:43:16 CET [2024/11/01 12:43:16 ET]
+Table '3818874489 1' 3-max Seat #1 is the button
+Seat 1: AbajurPL13 (340 in chips) 
+Seat 2: Mahu2021 (720 in chips) 
+Seat 3: facalet 62 (440 in chips) 
+Mahu2021: posts small blind 10
+facalet 62: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d Jd]
+AbajurPL13: calls 20
+Mahu2021: calls 10
+facalet 62: checks 
+*** FLOP *** [7d Ks 4h]
+Mahu2021: checks 
+facalet 62: checks 
+AbajurPL13: checks 
+*** TURN *** [7d Ks 4h] [7c]
+Mahu2021: checks 
+facalet 62: checks 
+AbajurPL13: checks 
+*** RIVER *** [7d Ks 4h 7c] [5s]
+Mahu2021: checks 
+facalet 62: checks 
+AbajurPL13: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [9d Jd] (a pair of Sevens)
+facalet 62: mucks hand 
+AbajurPL13: shows [6h 5h] (two pair, Sevens and Fives)
+AbajurPL13 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [7d Ks 4h 7c 5s]
+Seat 1: AbajurPL13 (button) showed [6h 5h] and won (60) with two pair, Sevens and Fives
+Seat 2: Mahu2021 (small blind) showed [9d Jd] and lost with a pair of Sevens
+Seat 3: facalet 62 (big blind) mucked [Ts 9h]
+
+
+
+PokerStars Hand #253203054139: Tournament #3818874489, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/01 17:43:38 CET [2024/11/01 12:43:38 ET]
+Table '3818874489 1' 3-max Seat #2 is the button
+Seat 1: AbajurPL13 (380 in chips) 
+Seat 2: Mahu2021 (700 in chips) 
+Seat 3: facalet 62 (420 in chips) 
+facalet 62: posts small blind 10
+AbajurPL13: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h Js]
+Mahu2021: folds 
+facalet 62: raises 400 to 420 and is all-in
+AbajurPL13: calls 360 and is all-in
+Uncalled bet (40) returned to facalet 62
+*** FLOP *** [9d 7c 9c]
+*** TURN *** [9d 7c 9c] [Qc]
+*** RIVER *** [9d 7c 9c Qc] [2c]
+*** SHOW DOWN ***
+facalet 62: shows [Ad 3d] (a pair of Nines)
+AbajurPL13: shows [Ac Ks] (a flush, Ace high)
+AbajurPL13 collected 760 from pot
+*** SUMMARY ***
+Total pot 760 | Rake 0 
+Board [9d 7c 9c Qc 2c]
+Seat 1: AbajurPL13 (big blind) showed [Ac Ks] and won (760) with a flush, Ace high
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: facalet 62 (small blind) showed [Ad 3d] and lost with a pair of Nines
+
+
+
+PokerStars Hand #253203057428: Tournament #3818874489, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/01 17:43:52 CET [2024/11/01 12:43:52 ET]
+Table '3818874489 1' 3-max Seat #3 is the button
+Seat 1: AbajurPL13 (760 in chips) 
+Seat 2: Mahu2021 (700 in chips) 
+Seat 3: facalet 62 (40 in chips) 
+AbajurPL13: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2s 8h]
+facalet 62: raises 20 to 40 and is all-in
+AbajurPL13: calls 30
+Mahu2021: folds 
+*** FLOP *** [Jd Kc Qs]
+*** TURN *** [Jd Kc Qs] [Js]
+*** RIVER *** [Jd Kc Qs Js] [5h]
+*** SHOW DOWN ***
+AbajurPL13: shows [5c 4h] (two pair, Jacks and Fives)
+facalet 62: shows [Kd As] (two pair, Kings and Jacks)
+facalet 62 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [Jd Kc Qs Js 5h]
+Seat 1: AbajurPL13 (small blind) showed [5c 4h] and lost with two pair, Jacks and Fives
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: facalet 62 (button) showed [Kd As] and won (100) with two pair, Kings and Jacks
+
+
+
+PokerStars Hand #253203060950: Tournament #3818874489, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/01 17:44:06 CET [2024/11/01 12:44:06 ET]
+Table '3818874489 1' 3-max Seat #1 is the button
+Seat 1: AbajurPL13 (720 in chips) 
+Seat 2: Mahu2021 (680 in chips) 
+Seat 3: facalet 62 (100 in chips) 
+Mahu2021: posts small blind 10
+facalet 62: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d Qd]
+AbajurPL13: calls 20
+Mahu2021: folds 
+facalet 62: checks 
+*** FLOP *** [9d 3c Jc]
+facalet 62: checks 
+AbajurPL13: checks 
+*** TURN *** [9d 3c Jc] [6c]
+facalet 62: checks 
+AbajurPL13: checks 
+*** RIVER *** [9d 3c Jc 6c] [7d]
+facalet 62: bets 80 and is all-in
+AbajurPL13: folds 
+Uncalled bet (80) returned to facalet 62
+facalet 62 collected 50 from pot
+facalet 62: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [9d 3c Jc 6c 7d]
+Seat 1: AbajurPL13 (button) folded on the River
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: facalet 62 (big blind) collected (50)
+
+
+
+PokerStars Hand #253203065600: Tournament #3818874489, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/01 17:44:26 CET [2024/11/01 12:44:26 ET]
+Table '3818874489 1' 3-max Seat #2 is the button
+Seat 1: AbajurPL13 (700 in chips) 
+Seat 2: Mahu2021 (670 in chips) 
+Seat 3: facalet 62 (130 in chips) 
+facalet 62: posts small blind 10
+AbajurPL13: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c 7c]
+Mahu2021: folds 
+facalet 62: calls 10
+AbajurPL13: checks 
+*** FLOP *** [5h 3h 8h]
+facalet 62: bets 110 and is all-in
+AbajurPL13: calls 110
+*** TURN *** [5h 3h 8h] [Ah]
+*** RIVER *** [5h 3h 8h Ah] [Ac]
+*** SHOW DOWN ***
+facalet 62: shows [Qd 3d] (two pair, Aces and Threes)
+AbajurPL13: shows [6h 4s] (a flush, Ace high)
+AbajurPL13 collected 260 from pot
+facalet 62 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 260 | Rake 0 
+Board [5h 3h 8h Ah Ac]
+Seat 1: AbajurPL13 (big blind) showed [6h 4s] and won (260) with a flush, Ace high
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: facalet 62 (small blind) showed [Qd 3d] and lost with two pair, Aces and Threes
+
+
+
+PokerStars Hand #253203071257: Tournament #3818874489, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/01 17:44:50 CET [2024/11/01 12:44:50 ET]
+Table '3818874489 1' 3-max Seat #1 is the button
+Seat 1: AbajurPL13 (830 in chips) 
+Seat 2: Mahu2021 (670 in chips) 
+AbajurPL13: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d 5c]
+AbajurPL13: calls 10
+Mahu2021: checks 
+*** FLOP *** [Ah 9c 2d]
+Mahu2021: bets 20
+AbajurPL13: calls 20
+*** TURN *** [Ah 9c 2d] [Jd]
+Mahu2021: bets 20
+AbajurPL13: calls 20
+*** RIVER *** [Ah 9c 2d Jd] [Th]
+Mahu2021: bets 20
+AbajurPL13: calls 20
+*** SHOW DOWN ***
+Mahu2021: shows [9d 5c] (a pair of Nines)
+AbajurPL13: mucks hand 
+Mahu2021 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Ah 9c 2d Jd Th]
+Seat 1: AbajurPL13 (button) (small blind) mucked [Kc 2c]
+Seat 2: Mahu2021 (big blind) showed [9d 5c] and won (160) with a pair of Nines
+
+
+
+PokerStars Hand #253203075332: Tournament #3818874489, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/01 17:45:07 CET [2024/11/01 12:45:07 ET]
+Table '3818874489 1' 3-max Seat #2 is the button
+Seat 1: AbajurPL13 (750 in chips) 
+Seat 2: Mahu2021 (750 in chips) 
+Mahu2021: posts small blind 10
+AbajurPL13: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s Th]
+Mahu2021: calls 10
+AbajurPL13: checks 
+*** FLOP *** [Qh 7c 4s]
+AbajurPL13: checks 
+Mahu2021: bets 20
+AbajurPL13: calls 20
+*** TURN *** [Qh 7c 4s] [Jc]
+AbajurPL13: checks 
+Mahu2021: bets 20
+AbajurPL13: calls 20
+*** RIVER *** [Qh 7c 4s Jc] [6h]
+AbajurPL13: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+AbajurPL13: shows [Qc 8s] (a pair of Queens)
+Mahu2021: mucks hand 
+AbajurPL13 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Qh 7c 4s Jc 6h]
+Seat 1: AbajurPL13 (big blind) showed [Qc 8s] and won (120) with a pair of Queens
+Seat 2: Mahu2021 (button) (small blind) mucked [7s Th]
+
+
+
+PokerStars Hand #253203080074: Tournament #3818874489, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/01 17:45:26 CET [2024/11/01 12:45:26 ET]
+Table '3818874489 1' 3-max Seat #1 is the button
+Seat 1: AbajurPL13 (810 in chips) 
+Seat 2: Mahu2021 (690 in chips) 
+AbajurPL13: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4c 6s]
+AbajurPL13: calls 15
+Mahu2021: checks 
+*** FLOP *** [Kh 3d 5d]
+Mahu2021: bets 30
+AbajurPL13: calls 30
+*** TURN *** [Kh 3d 5d] [5c]
+Mahu2021: bets 30
+AbajurPL13: calls 30
+*** RIVER *** [Kh 3d 5d 5c] [8c]
+Mahu2021: checks 
+AbajurPL13: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [4c 6s] (a pair of Fives)
+AbajurPL13: shows [7d Qd] (a pair of Fives - King+Queen kicker)
+AbajurPL13 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [Kh 3d 5d 5c 8c]
+Seat 1: AbajurPL13 (button) (small blind) showed [7d Qd] and won (180) with a pair of Fives
+Seat 2: Mahu2021 (big blind) showed [4c 6s] and lost with a pair of Fives
+
+
+
+PokerStars Hand #253203084104: Tournament #3818874489, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/01 17:45:43 CET [2024/11/01 12:45:43 ET]
+Table '3818874489 1' 3-max Seat #2 is the button
+Seat 1: AbajurPL13 (900 in chips) 
+Seat 2: Mahu2021 (600 in chips) 
+Mahu2021: posts small blind 15
+AbajurPL13: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s 2h]
+Mahu2021: folds 
+Uncalled bet (15) returned to AbajurPL13
+AbajurPL13 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: AbajurPL13 (big blind) collected (30)
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #253203085253: Tournament #3818874489, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/01 17:45:48 CET [2024/11/01 12:45:48 ET]
+Table '3818874489 1' 3-max Seat #1 is the button
+Seat 1: AbajurPL13 (915 in chips) 
+Seat 2: Mahu2021 (585 in chips) 
+AbajurPL13: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh 7s]
+AbajurPL13: calls 15
+Mahu2021: checks 
+*** FLOP *** [3h 3c Kd]
+Mahu2021: checks 
+AbajurPL13: checks 
+*** TURN *** [3h 3c Kd] [5h]
+Mahu2021: checks 
+AbajurPL13: checks 
+*** RIVER *** [3h 3c Kd 5h] [8h]
+Mahu2021: checks 
+AbajurPL13: bets 60
+Mahu2021: folds 
+Uncalled bet (60) returned to AbajurPL13
+AbajurPL13 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [3h 3c Kd 5h 8h]
+Seat 1: AbajurPL13 (button) (small blind) collected (60)
+Seat 2: Mahu2021 (big blind) folded on the River
+
+
+
+PokerStars Hand #253203088609: Tournament #3818874489, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/01 17:46:02 CET [2024/11/01 12:46:02 ET]
+Table '3818874489 1' 3-max Seat #2 is the button
+Seat 1: AbajurPL13 (945 in chips) 
+Seat 2: Mahu2021 (555 in chips) 
+Mahu2021: posts small blind 15
+AbajurPL13: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d 9h]
+Mahu2021: folds 
+Uncalled bet (15) returned to AbajurPL13
+AbajurPL13 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: AbajurPL13 (big blind) collected (30)
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #253203089811: Tournament #3818874489, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/01 17:46:07 CET [2024/11/01 12:46:07 ET]
+Table '3818874489 1' 3-max Seat #1 is the button
+Seat 1: AbajurPL13 (960 in chips) 
+Seat 2: Mahu2021 (540 in chips) 
+AbajurPL13: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s 2c]
+AbajurPL13: calls 15
+Mahu2021: checks 
+*** FLOP *** [4d Th Kc]
+Mahu2021: checks 
+AbajurPL13: checks 
+*** TURN *** [4d Th Kc] [Ad]
+Mahu2021: checks 
+AbajurPL13: checks 
+*** RIVER *** [4d Th Kc Ad] [4s]
+Mahu2021: checks 
+AbajurPL13: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [7s 2c] (a pair of Fours)
+AbajurPL13: shows [2h 9d] (a pair of Fours)
+Mahu2021 collected 30 from pot
+AbajurPL13 collected 30 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [4d Th Kc Ad 4s]
+Seat 1: AbajurPL13 (button) (small blind) showed [2h 9d] and won (30) with a pair of Fours
+Seat 2: Mahu2021 (big blind) showed [7s 2c] and won (30) with a pair of Fours
+
+
+
+PokerStars Hand #253203093148: Tournament #3818874489, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/01 17:46:21 CET [2024/11/01 12:46:21 ET]
+Table '3818874489 1' 3-max Seat #2 is the button
+Seat 1: AbajurPL13 (960 in chips) 
+Seat 2: Mahu2021 (540 in chips) 
+Mahu2021: posts small blind 15
+AbajurPL13: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qs 6h]
+Mahu2021: raises 30 to 60
+AbajurPL13: calls 30
+*** FLOP *** [Ad Jd 8c]
+AbajurPL13: checks 
+Mahu2021: bets 60
+AbajurPL13: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Ad Jd 8c]
+Seat 1: AbajurPL13 (big blind) folded on the Flop
+Seat 2: Mahu2021 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #253203095902: Tournament #3818874489, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/01 17:46:33 CET [2024/11/01 12:46:33 ET]
+Table '3818874489 1' 3-max Seat #1 is the button
+Seat 1: AbajurPL13 (900 in chips) 
+Seat 2: Mahu2021 (600 in chips) 
+AbajurPL13: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc Th]
+AbajurPL13: calls 15
+Mahu2021: checks 
+*** FLOP *** [Qh 8h 3h]
+Mahu2021: checks 
+AbajurPL13: checks 
+*** TURN *** [Qh 8h 3h] [Qc]
+Mahu2021: checks 
+AbajurPL13: checks 
+*** RIVER *** [Qh 8h 3h Qc] [9d]
+Mahu2021: bets 60
+AbajurPL13: calls 60
+*** SHOW DOWN ***
+Mahu2021: shows [Jc Th] (a straight, Eight to Queen)
+AbajurPL13: mucks hand 
+Mahu2021 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [Qh 8h 3h Qc 9d]
+Seat 1: AbajurPL13 (button) (small blind) mucked [Jh 8d]
+Seat 2: Mahu2021 (big blind) showed [Jc Th] and won (180) with a straight, Eight to Queen
+
+
+
+PokerStars Hand #253203099844: Tournament #3818874489, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/01 17:46:49 CET [2024/11/01 12:46:49 ET]
+Table '3818874489 1' 3-max Seat #2 is the button
+Seat 1: AbajurPL13 (810 in chips) 
+Seat 2: Mahu2021 (690 in chips) 
+Mahu2021: posts small blind 15
+AbajurPL13: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c 8c]
+Mahu2021: calls 15
+AbajurPL13: checks 
+*** FLOP *** [3s Ts Qd]
+AbajurPL13: checks 
+Mahu2021: checks 
+*** TURN *** [3s Ts Qd] [Kd]
+AbajurPL13: checks 
+Mahu2021: checks 
+*** RIVER *** [3s Ts Qd Kd] [8s]
+AbajurPL13: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+AbajurPL13: shows [Ad 5c] (high card Ace)
+Mahu2021: shows [6c 8c] (a pair of Eights)
+Mahu2021 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [3s Ts Qd Kd 8s]
+Seat 1: AbajurPL13 (big blind) showed [Ad 5c] and lost with high card Ace
+Seat 2: Mahu2021 (button) (small blind) showed [6c 8c] and won (60) with a pair of Eights
+
+
+
+PokerStars Hand #253203103246: Tournament #3818874489, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/01 17:47:03 CET [2024/11/01 12:47:03 ET]
+Table '3818874489 1' 3-max Seat #1 is the button
+Seat 1: AbajurPL13 (780 in chips) 
+Seat 2: Mahu2021 (720 in chips) 
+AbajurPL13: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c 6h]
+AbajurPL13: calls 15
+Mahu2021: checks 
+*** FLOP *** [Ks 2h 5h]
+Mahu2021: checks 
+AbajurPL13: checks 
+*** TURN *** [Ks 2h 5h] [6c]
+Mahu2021: checks 
+AbajurPL13: checks 
+*** RIVER *** [Ks 2h 5h 6c] [9c]
+Mahu2021: checks 
+AbajurPL13: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [7c 6h] (a pair of Sixes)
+AbajurPL13: mucks hand 
+Mahu2021 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Ks 2h 5h 6c 9c]
+Seat 1: AbajurPL13 (button) (small blind) mucked [4c 6s]
+Seat 2: Mahu2021 (big blind) showed [7c 6h] and won (60) with a pair of Sixes
+
+
+
+PokerStars Hand #253203107101: Tournament #3818874489, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/01 17:47:19 CET [2024/11/01 12:47:19 ET]
+Table '3818874489 1' 3-max Seat #2 is the button
+Seat 1: AbajurPL13 (750 in chips) 
+Seat 2: Mahu2021 (750 in chips) 
+Mahu2021: posts small blind 15
+AbajurPL13: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac 3h]
+Mahu2021: raises 30 to 60
+AbajurPL13: calls 30
+*** FLOP *** [7h Kc 9c]
+AbajurPL13: checks 
+Mahu2021: checks 
+*** TURN *** [7h Kc 9c] [2c]
+AbajurPL13: checks 
+Mahu2021: bets 60
+AbajurPL13: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [7h Kc 9c 2c]
+Seat 1: AbajurPL13 (big blind) folded on the Turn
+Seat 2: Mahu2021 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #253203110277: Tournament #3818874489, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/01 17:47:33 CET [2024/11/01 12:47:33 ET]
+Table '3818874489 1' 3-max Seat #1 is the button
+Seat 1: AbajurPL13 (690 in chips) 
+Seat 2: Mahu2021 (810 in chips) 
+AbajurPL13: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d 4s]
+AbajurPL13: calls 15
+Mahu2021: checks 
+*** FLOP *** [Qh As Jd]
+Mahu2021: checks 
+AbajurPL13: checks 
+*** TURN *** [Qh As Jd] [Kh]
+Mahu2021: checks 
+AbajurPL13: checks 
+*** RIVER *** [Qh As Jd Kh] [5s]
+Mahu2021: checks 
+AbajurPL13: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [2d 4s] (high card Ace)
+AbajurPL13: shows [7d 9c] (high card Ace - King+Queen+Jack+Nine kicker)
+AbajurPL13 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Qh As Jd Kh 5s]
+Seat 1: AbajurPL13 (button) (small blind) showed [7d 9c] and won (60) with high card Ace
+Seat 2: Mahu2021 (big blind) showed [2d 4s] and lost with high card Ace
+
+
+
+PokerStars Hand #253203113680: Tournament #3818874489, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/01 17:47:47 CET [2024/11/01 12:47:47 ET]
+Table '3818874489 1' 3-max Seat #2 is the button
+Seat 1: AbajurPL13 (720 in chips) 
+Seat 2: Mahu2021 (780 in chips) 
+Mahu2021: posts small blind 15
+AbajurPL13: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h 9c]
+Mahu2021: raises 750 to 780 and is all-in
+AbajurPL13: folds 
+Uncalled bet (750) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: AbajurPL13 (big blind) folded before Flop
+Seat 2: Mahu2021 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #253203115270: Tournament #3818874489, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/01 17:47:53 CET [2024/11/01 12:47:53 ET]
+Table '3818874489 1' 3-max Seat #1 is the button
+Seat 1: AbajurPL13 (690 in chips) 
+Seat 2: Mahu2021 (810 in chips) 
+AbajurPL13: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d 9s]
+AbajurPL13: calls 15
+Mahu2021: checks 
+*** FLOP *** [Jd 7s Kc]
+Mahu2021: checks 
+AbajurPL13: checks 
+*** TURN *** [Jd 7s Kc] [3c]
+Mahu2021: checks 
+AbajurPL13: checks 
+*** RIVER *** [Jd 7s Kc 3c] [Th]
+Mahu2021: checks 
+AbajurPL13: bets 60
+Mahu2021: folds 
+Uncalled bet (60) returned to AbajurPL13
+AbajurPL13 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Jd 7s Kc 3c Th]
+Seat 1: AbajurPL13 (button) (small blind) collected (60)
+Seat 2: Mahu2021 (big blind) folded on the River
+
+
+
+PokerStars Hand #253203118684: Tournament #3818874489, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/01 17:48:07 CET [2024/11/01 12:48:07 ET]
+Table '3818874489 1' 3-max Seat #2 is the button
+Seat 1: AbajurPL13 (720 in chips) 
+Seat 2: Mahu2021 (780 in chips) 
+Mahu2021: posts small blind 15
+AbajurPL13: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2s Qh]
+Mahu2021: raises 30 to 60
+AbajurPL13: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: AbajurPL13 (big blind) folded before Flop
+Seat 2: Mahu2021 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #253203120135: Tournament #3818874489, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/01 17:48:13 CET [2024/11/01 12:48:13 ET]
+Table '3818874489 1' 3-max Seat #1 is the button
+Seat 1: AbajurPL13 (690 in chips) 
+Seat 2: Mahu2021 (810 in chips) 
+AbajurPL13: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As 8h]
+AbajurPL13: calls 15
+Mahu2021: raises 60 to 90
+AbajurPL13: calls 60
+*** FLOP *** [Jh 3s Qh]
+Mahu2021: checks 
+AbajurPL13: checks 
+*** TURN *** [Jh 3s Qh] [2s]
+Mahu2021: checks 
+AbajurPL13: checks 
+*** RIVER *** [Jh 3s Qh 2s] [Ks]
+Mahu2021: checks 
+AbajurPL13: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [As 8h] (high card Ace)
+AbajurPL13: shows [Td 3d] (a pair of Threes)
+AbajurPL13 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [Jh 3s Qh 2s Ks]
+Seat 1: AbajurPL13 (button) (small blind) showed [Td 3d] and won (180) with a pair of Threes
+Seat 2: Mahu2021 (big blind) showed [As 8h] and lost with high card Ace
+
+
+
+PokerStars Hand #253203124413: Tournament #3818874489, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/01 17:48:31 CET [2024/11/01 12:48:31 ET]
+Table '3818874489 1' 3-max Seat #2 is the button
+Seat 1: AbajurPL13 (780 in chips) 
+Seat 2: Mahu2021 (720 in chips) 
+Mahu2021: posts small blind 20
+AbajurPL13: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2s Jd]
+Mahu2021: raises 40 to 80
+AbajurPL13: calls 40
+*** FLOP *** [Qc 2h Jc]
+AbajurPL13: checks 
+Mahu2021: bets 80
+AbajurPL13: calls 80
+*** TURN *** [Qc 2h Jc] [5s]
+AbajurPL13: checks 
+Mahu2021: bets 80
+AbajurPL13: calls 80
+*** RIVER *** [Qc 2h Jc 5s] [6s]
+AbajurPL13: checks 
+Mahu2021: bets 80
+AbajurPL13: folds 
+Uncalled bet (80) returned to Mahu2021
+Mahu2021 collected 480 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Board [Qc 2h Jc 5s 6s]
+Seat 1: AbajurPL13 (big blind) folded on the River
+Seat 2: Mahu2021 (button) (small blind) collected (480)
+
+
+
+PokerStars Hand #253203128951: Tournament #3818874489, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/01 17:48:50 CET [2024/11/01 12:48:50 ET]
+Table '3818874489 1' 3-max Seat #1 is the button
+Seat 1: AbajurPL13 (540 in chips) 
+Seat 2: Mahu2021 (960 in chips) 
+AbajurPL13: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h 8h]
+AbajurPL13: calls 20
+Mahu2021: checks 
+*** FLOP *** [4s Qd Th]
+Mahu2021: checks 
+AbajurPL13: checks 
+*** TURN *** [4s Qd Th] [Ah]
+Mahu2021: bets 80
+AbajurPL13: folds 
+Uncalled bet (80) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [4s Qd Th Ah]
+Seat 1: AbajurPL13 (button) (small blind) folded on the Turn
+Seat 2: Mahu2021 (big blind) collected (80)
+
+
+
+PokerStars Hand #253203131827: Tournament #3818874489, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/01 17:49:02 CET [2024/11/01 12:49:02 ET]
+Table '3818874489 1' 3-max Seat #2 is the button
+Seat 1: AbajurPL13 (500 in chips) 
+Seat 2: Mahu2021 (1000 in chips) 
+Mahu2021: posts small blind 20
+AbajurPL13: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c Js]
+Mahu2021: calls 20
+AbajurPL13: checks 
+*** FLOP *** [Jc Kh Qd]
+AbajurPL13: checks 
+Mahu2021: checks 
+*** TURN *** [Jc Kh Qd] [4d]
+AbajurPL13: checks 
+Mahu2021: checks 
+*** RIVER *** [Jc Kh Qd 4d] [5s]
+AbajurPL13: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+AbajurPL13: shows [3h 3d] (a pair of Threes)
+Mahu2021: shows [6c Js] (a pair of Jacks)
+Mahu2021 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Jc Kh Qd 4d 5s]
+Seat 1: AbajurPL13 (big blind) showed [3h 3d] and lost with a pair of Threes
+Seat 2: Mahu2021 (button) (small blind) showed [6c Js] and won (80) with a pair of Jacks
+
+
+
+PokerStars Hand #253203135396: Tournament #3818874489, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/01 17:49:17 CET [2024/11/01 12:49:17 ET]
+Table '3818874489 1' 3-max Seat #1 is the button
+Seat 1: AbajurPL13 (460 in chips) 
+Seat 2: Mahu2021 (1040 in chips) 
+AbajurPL13: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h 8h]
+AbajurPL13: calls 20
+Mahu2021: checks 
+*** FLOP *** [8s Js Ah]
+Mahu2021: checks 
+AbajurPL13: checks 
+*** TURN *** [8s Js Ah] [As]
+Mahu2021: checks 
+AbajurPL13: checks 
+*** RIVER *** [8s Js Ah As] [Kh]
+Mahu2021: checks 
+AbajurPL13: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [9h 8h] (two pair, Aces and Eights)
+AbajurPL13: mucks hand 
+Mahu2021 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [8s Js Ah As Kh]
+Seat 1: AbajurPL13 (button) (small blind) mucked [2d Qh]
+Seat 2: Mahu2021 (big blind) showed [9h 8h] and won (80) with two pair, Aces and Eights
+
+
+
+PokerStars Hand #253203138886: Tournament #3818874489, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/01 17:49:32 CET [2024/11/01 12:49:32 ET]
+Table '3818874489 1' 3-max Seat #2 is the button
+Seat 1: AbajurPL13 (420 in chips) 
+Seat 2: Mahu2021 (1080 in chips) 
+Mahu2021: posts small blind 20
+AbajurPL13: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d 7d]
+Mahu2021: calls 20
+AbajurPL13: checks 
+*** FLOP *** [9c Ad 7c]
+AbajurPL13: checks 
+Mahu2021: bets 40
+AbajurPL13: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [9c Ad 7c]
+Seat 1: AbajurPL13 (big blind) folded on the Flop
+Seat 2: Mahu2021 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #253203141164: Tournament #3818874489, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/01 17:49:41 CET [2024/11/01 12:49:41 ET]
+Table '3818874489 1' 3-max Seat #1 is the button
+Seat 1: AbajurPL13 (380 in chips) 
+Seat 2: Mahu2021 (1120 in chips) 
+AbajurPL13: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3c Tc]
+AbajurPL13: calls 20
+Mahu2021: checks 
+*** FLOP *** [7s 8d Td]
+Mahu2021: bets 40
+AbajurPL13: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [7s 8d Td]
+Seat 1: AbajurPL13 (button) (small blind) folded on the Flop
+Seat 2: Mahu2021 (big blind) collected (80)
+
+
+
+PokerStars Hand #253203143895: Tournament #3818874489, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/01 17:49:53 CET [2024/11/01 12:49:53 ET]
+Table '3818874489 1' 3-max Seat #2 is the button
+Seat 1: AbajurPL13 (340 in chips) 
+Seat 2: Mahu2021 (1160 in chips) 
+Mahu2021: posts small blind 20
+AbajurPL13: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kc 4c]
+Mahu2021: raises 40 to 80
+AbajurPL13: calls 40
+*** FLOP *** [Ks Ac 7c]
+AbajurPL13: checks 
+Mahu2021: bets 80
+AbajurPL13: calls 80
+*** TURN *** [Ks Ac 7c] [Kh]
+AbajurPL13: checks 
+Mahu2021: bets 80
+AbajurPL13: calls 80
+*** RIVER *** [Ks Ac 7c Kh] [8d]
+AbajurPL13: checks 
+Mahu2021: bets 80
+AbajurPL13: folds 
+Uncalled bet (80) returned to Mahu2021
+Mahu2021 collected 480 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Board [Ks Ac 7c Kh 8d]
+Seat 1: AbajurPL13 (big blind) folded on the River
+Seat 2: Mahu2021 (button) (small blind) collected (480)
+
+
+
+PokerStars Hand #253203149012: Tournament #3818874489, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/01 17:50:15 CET [2024/11/01 12:50:15 ET]
+Table '3818874489 1' 3-max Seat #1 is the button
+Seat 1: AbajurPL13 (100 in chips) 
+Seat 2: Mahu2021 (1400 in chips) 
+AbajurPL13: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s 4s]
+AbajurPL13: calls 20
+Mahu2021: checks 
+*** FLOP *** [3d 2h Ks]
+Mahu2021: checks 
+AbajurPL13: checks 
+*** TURN *** [3d 2h Ks] [3c]
+Mahu2021: checks 
+AbajurPL13: checks 
+*** RIVER *** [3d 2h Ks 3c] [4d]
+Mahu2021: bets 40
+AbajurPL13: calls 40
+*** SHOW DOWN ***
+Mahu2021: shows [9s 4s] (two pair, Fours and Threes)
+AbajurPL13: mucks hand 
+Mahu2021 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [3d 2h Ks 3c 4d]
+Seat 1: AbajurPL13 (button) (small blind) mucked [5c Js]
+Seat 2: Mahu2021 (big blind) showed [9s 4s] and won (160) with two pair, Fours and Threes
+
+
+
+PokerStars Hand #253203153150: Tournament #3818874489, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/01 17:50:32 CET [2024/11/01 12:50:32 ET]
+Table '3818874489 1' 3-max Seat #2 is the button
+Seat 1: AbajurPL13 (20 in chips) 
+Seat 2: Mahu2021 (1480 in chips) 
+Mahu2021: posts small blind 20
+AbajurPL13: posts big blind 20 and is all-in
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6h 5h]
+*** FLOP *** [6c 3c 9s]
+*** TURN *** [6c 3c 9s] [Ks]
+*** RIVER *** [6c 3c 9s Ks] [2c]
+*** SHOW DOWN ***
+AbajurPL13: shows [As 9d] (a pair of Nines)
+Mahu2021: shows [6h 5h] (a pair of Sixes)
+AbajurPL13 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [6c 3c 9s Ks 2c]
+Seat 1: AbajurPL13 (big blind) showed [As 9d] and won (40) with a pair of Nines
+Seat 2: Mahu2021 (button) (small blind) showed [6h 5h] and lost with a pair of Sixes
+
+
+
+PokerStars Hand #253203155071: Tournament #3818874489, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/01 17:50:40 CET [2024/11/01 12:50:40 ET]
+Table '3818874489 1' 3-max Seat #1 is the button
+Seat 1: AbajurPL13 (40 in chips) 
+Seat 2: Mahu2021 (1460 in chips) 
+AbajurPL13: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s 3s]
+AbajurPL13 is disconnected 
+AbajurPL13 has timed out while disconnected
+AbajurPL13: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: AbajurPL13 (button) (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (40)
+
+
+
+PokerStars Hand #253203161091: Tournament #3818874489, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/01 17:51:06 CET [2024/11/01 12:51:06 ET]
+Table '3818874489 1' 3-max Seat #2 is the button
+Seat 1: AbajurPL13 (20 in chips) 
+Seat 2: Mahu2021 (1480 in chips) 
+Mahu2021: posts small blind 20
+AbajurPL13: posts big blind 20 and is all-in
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d As]
+*** FLOP *** [Jc Jh Qc]
+*** TURN *** [Jc Jh Qc] [6d]
+*** RIVER *** [Jc Jh Qc 6d] [Tc]
+*** SHOW DOWN ***
+AbajurPL13: shows [8h 2d] (a pair of Jacks)
+Mahu2021: shows [3d As] (a pair of Jacks - Ace kicker)
+Mahu2021 collected 40 from pot
+AbajurPL13 finished the tournament in 2nd place
+Mahu2021 wins the tournament and receives $6.00 - congratulations!
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Jc Jh Qc 6d Tc]
+Seat 1: AbajurPL13 (big blind) showed [8h 2d] and lost with a pair of Jacks
+Seat 2: Mahu2021 (button) (small blind) showed [3d As] and won (40) with a pair of Jacks
+
+
+

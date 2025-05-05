@@ -1,0 +1,460 @@
+﻿PokerStars Hand #244507760772: Tournament #3609905403, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/06/28 12:08:41 CET [2023/06/28 6:08:41 ET]
+Table '3609905403 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: MB_Schatzi (500 in chips) 
+Seat 3: hgpperez (500 in chips) 
+MB_Schatzi: posts small blind 10
+hgpperez: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc 7h]
+Mahu2021: folds 
+MB_Schatzi: raises 20 to 40
+hgpperez: calls 20
+*** FLOP *** [8h 9d Kc]
+MB_Schatzi: checks 
+hgpperez: checks 
+*** TURN *** [8h 9d Kc] [Kh]
+MB_Schatzi: checks 
+hgpperez: bets 40
+MB_Schatzi: calls 40
+*** RIVER *** [8h 9d Kc Kh] [6c]
+MB_Schatzi: checks 
+hgpperez: checks 
+*** SHOW DOWN ***
+MB_Schatzi: shows [3c 3d] (two pair, Kings and Threes)
+hgpperez: shows [6d 5s] (two pair, Kings and Sixes)
+hgpperez collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [8h 9d Kc Kh 6c]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: MB_Schatzi (small blind) showed [3c 3d] and lost with two pair, Kings and Threes
+Seat 3: hgpperez (big blind) showed [6d 5s] and won (160) with two pair, Kings and Sixes
+
+
+
+PokerStars Hand #244507763888: Tournament #3609905403, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/06/28 12:09:05 CET [2023/06/28 6:09:05 ET]
+Table '3609905403 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: MB_Schatzi (420 in chips) 
+Seat 3: hgpperez (580 in chips) 
+hgpperez: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s Kc]
+MB_Schatzi: raises 20 to 40
+hgpperez: folds 
+Mahu2021: calls 20
+*** FLOP *** [6s 6h Qh]
+Mahu2021: checks 
+MB_Schatzi: checks 
+*** TURN *** [6s 6h Qh] [5d]
+Mahu2021: checks 
+MB_Schatzi: checks 
+*** RIVER *** [6s 6h Qh 5d] [3d]
+Mahu2021: checks 
+MB_Schatzi: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [7s Kc] (a pair of Sixes)
+MB_Schatzi: shows [Ah Th] (a pair of Sixes - Ace kicker)
+MB_Schatzi collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [6s 6h Qh 5d 3d]
+Seat 1: Mahu2021 (big blind) showed [7s Kc] and lost with a pair of Sixes
+Seat 2: MB_Schatzi (button) showed [Ah Th] and won (90) with a pair of Sixes
+Seat 3: hgpperez (small blind) folded before Flop
+
+
+
+PokerStars Hand #244507765956: Tournament #3609905403, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/06/28 12:09:21 CET [2023/06/28 6:09:21 ET]
+Table '3609905403 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (460 in chips) 
+Seat 2: MB_Schatzi (470 in chips) 
+Seat 3: hgpperez (570 in chips) 
+Mahu2021: posts small blind 10
+MB_Schatzi: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5h Qh]
+hgpperez: folds 
+Mahu2021: calls 10
+MB_Schatzi: checks 
+*** FLOP *** [3s 5s Ts]
+Mahu2021: bets 20
+MB_Schatzi: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [3s 5s Ts]
+Seat 1: Mahu2021 (small blind) collected (40)
+Seat 2: MB_Schatzi (big blind) folded on the Flop
+Seat 3: hgpperez (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #244507767306: Tournament #3609905403, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/06/28 12:09:31 CET [2023/06/28 6:09:31 ET]
+Table '3609905403 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (480 in chips) 
+Seat 2: MB_Schatzi (450 in chips) 
+Seat 3: hgpperez (570 in chips) 
+MB_Schatzi: posts small blind 10
+hgpperez: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc 5d]
+Mahu2021: folds 
+MB_Schatzi: calls 10
+hgpperez: checks 
+*** FLOP *** [7d 9c 5h]
+MB_Schatzi: checks 
+hgpperez: checks 
+*** TURN *** [7d 9c 5h] [6h]
+MB_Schatzi: checks 
+hgpperez: checks 
+*** RIVER *** [7d 9c 5h 6h] [Ad]
+MB_Schatzi: checks 
+hgpperez: checks 
+*** SHOW DOWN ***
+MB_Schatzi: shows [Ks Ts] (high card Ace)
+hgpperez: mucks hand 
+MB_Schatzi collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [7d 9c 5h 6h Ad]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: MB_Schatzi (small blind) showed [Ks Ts] and won (40) with high card Ace
+Seat 3: hgpperez (big blind) mucked [3d 2s]
+
+
+
+PokerStars Hand #244507772677: Tournament #3609905403, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/06/28 12:10:11 CET [2023/06/28 6:10:11 ET]
+Table '3609905403 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (480 in chips) 
+Seat 2: MB_Schatzi (470 in chips) 
+Seat 3: hgpperez (550 in chips) 
+hgpperez: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd Ad]
+MB_Schatzi: calls 20
+hgpperez: calls 10
+Mahu2021: raises 60 to 80
+MB_Schatzi: calls 60
+hgpperez: folds 
+*** FLOP *** [Qh 4s 6h]
+Mahu2021: checks 
+MB_Schatzi: checks 
+*** TURN *** [Qh 4s 6h] [9d]
+Mahu2021: checks 
+MB_Schatzi: checks 
+*** RIVER *** [Qh 4s 6h 9d] [4h]
+Mahu2021: checks 
+MB_Schatzi: bets 60
+Mahu2021: calls 60
+*** SHOW DOWN ***
+MB_Schatzi: shows [5h Jh] (a flush, Queen high)
+Mahu2021: mucks hand 
+MB_Schatzi collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [Qh 4s 6h 9d 4h]
+Seat 1: Mahu2021 (big blind) mucked [Kd Ad]
+Seat 2: MB_Schatzi (button) showed [5h Jh] and won (300) with a flush, Queen high
+Seat 3: hgpperez (small blind) folded before Flop
+
+
+
+PokerStars Hand #244507775820: Tournament #3609905403, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/06/28 12:10:35 CET [2023/06/28 6:10:35 ET]
+Table '3609905403 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (340 in chips) 
+Seat 2: MB_Schatzi (630 in chips) 
+Seat 3: hgpperez (530 in chips) 
+Mahu2021: posts small blind 10
+MB_Schatzi: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Tc 8c]
+hgpperez: folds 
+Mahu2021: folds 
+Uncalled bet (10) returned to MB_Schatzi
+MB_Schatzi collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: MB_Schatzi (big blind) collected (20)
+Seat 3: hgpperez (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #244507776740: Tournament #3609905403, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/06/28 12:10:42 CET [2023/06/28 6:10:42 ET]
+Table '3609905403 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (330 in chips) 
+Seat 2: MB_Schatzi (640 in chips) 
+Seat 3: hgpperez (530 in chips) 
+MB_Schatzi: posts small blind 10
+hgpperez: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh Kd]
+Mahu2021: raises 310 to 330 and is all-in
+MB_Schatzi: folds 
+hgpperez: folds 
+Uncalled bet (310) returned to Mahu2021
+Mahu2021 collected 50 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: Mahu2021 (button) collected (50)
+Seat 2: MB_Schatzi (small blind) folded before Flop
+Seat 3: hgpperez (big blind) folded before Flop
+
+
+
+PokerStars Hand #244507779254: Tournament #3609905403, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/06/28 12:11:01 CET [2023/06/28 6:11:01 ET]
+Table '3609905403 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (360 in chips) 
+Seat 2: MB_Schatzi (630 in chips) 
+Seat 3: hgpperez (510 in chips) 
+hgpperez: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d Td]
+MB_Schatzi: folds 
+hgpperez: calls 10
+Mahu2021: checks 
+*** FLOP *** [Ad 4h 5c]
+hgpperez: bets 20
+Mahu2021: calls 20
+*** TURN *** [Ad 4h 5c] [2h]
+hgpperez: checks 
+Mahu2021: checks 
+*** RIVER *** [Ad 4h 5c 2h] [Ah]
+hgpperez: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+hgpperez: shows [Jd 9h] (a pair of Aces)
+Mahu2021: shows [5d Td] (two pair, Aces and Fives)
+Mahu2021 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Ad 4h 5c 2h Ah]
+Seat 1: Mahu2021 (big blind) showed [5d Td] and won (80) with two pair, Aces and Fives
+Seat 2: MB_Schatzi (button) folded before Flop (didn't bet)
+Seat 3: hgpperez (small blind) showed [Jd 9h] and lost with a pair of Aces
+
+
+
+PokerStars Hand #244507781932: Tournament #3609905403, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/06/28 12:11:21 CET [2023/06/28 6:11:21 ET]
+Table '3609905403 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (400 in chips) 
+Seat 2: MB_Schatzi (630 in chips) 
+Seat 3: hgpperez (470 in chips) 
+Mahu2021: posts small blind 10
+MB_Schatzi: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d Kh]
+hgpperez: folds 
+Mahu2021: calls 10
+MB_Schatzi: checks 
+*** FLOP *** [7s Th 8c]
+Mahu2021: checks 
+MB_Schatzi: checks 
+*** TURN *** [7s Th 8c] [Ks]
+Mahu2021: bets 20
+MB_Schatzi: calls 20
+*** RIVER *** [7s Th 8c Ks] [7h]
+Mahu2021: bets 20
+MB_Schatzi: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [7s Th 8c Ks 7h]
+Seat 1: Mahu2021 (small blind) collected (80)
+Seat 2: MB_Schatzi (big blind) folded on the River
+Seat 3: hgpperez (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #244507785586: Tournament #3609905403, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/06/28 12:11:49 CET [2023/06/28 6:11:49 ET]
+Table '3609905403 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (440 in chips) 
+Seat 2: MB_Schatzi (590 in chips) 
+Seat 3: hgpperez (470 in chips) 
+MB_Schatzi: posts small blind 15
+hgpperez: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc Qc]
+Mahu2021: raises 30 to 60
+MB_Schatzi: folds 
+hgpperez: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 75 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: Mahu2021 (button) collected (75)
+Seat 2: MB_Schatzi (small blind) folded before Flop
+Seat 3: hgpperez (big blind) folded before Flop
+
+
+
+PokerStars Hand #244507786459: Tournament #3609905403, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/06/28 12:11:56 CET [2023/06/28 6:11:56 ET]
+Table '3609905403 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (485 in chips) 
+Seat 2: MB_Schatzi (575 in chips) 
+Seat 3: hgpperez (440 in chips) 
+hgpperez: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s 5h]
+MB_Schatzi: folds 
+hgpperez: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (30)
+Seat 2: MB_Schatzi (button) folded before Flop (didn't bet)
+Seat 3: hgpperez (small blind) folded before Flop
+
+
+
+PokerStars Hand #244507787266: Tournament #3609905403, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/06/28 12:12:02 CET [2023/06/28 6:12:02 ET]
+Table '3609905403 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: MB_Schatzi (575 in chips) 
+Seat 3: hgpperez (425 in chips) 
+Mahu2021: posts small blind 15
+MB_Schatzi: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d 6d]
+hgpperez: folds 
+Mahu2021: calls 15
+MB_Schatzi: checks 
+*** FLOP *** [9c 9h Ad]
+Mahu2021: checks 
+MB_Schatzi: checks 
+*** TURN *** [9c 9h Ad] [4h]
+Mahu2021: checks 
+MB_Schatzi: checks 
+*** RIVER *** [9c 9h Ad 4h] [8d]
+Mahu2021: bets 30
+MB_Schatzi: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [9c 9h Ad 4h 8d]
+Seat 1: Mahu2021 (small blind) collected (60)
+Seat 2: MB_Schatzi (big blind) folded on the River
+Seat 3: hgpperez (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #244507789412: Tournament #3609905403, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/06/28 12:12:18 CET [2023/06/28 6:12:18 ET]
+Table '3609905403 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (530 in chips) 
+Seat 2: MB_Schatzi (545 in chips) 
+Seat 3: hgpperez (425 in chips) 
+MB_Schatzi: posts small blind 15
+hgpperez: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh 6s]
+Mahu2021: folds 
+MB_Schatzi: calls 15
+hgpperez: checks 
+*** FLOP *** [As Tc Kc]
+MB_Schatzi: checks 
+hgpperez: checks 
+*** TURN *** [As Tc Kc] [Ks]
+MB_Schatzi: checks 
+hgpperez: checks 
+*** RIVER *** [As Tc Kc Ks] [4d]
+MB_Schatzi: checks 
+hgpperez: checks 
+*** SHOW DOWN ***
+MB_Schatzi: shows [6h 2h] (a pair of Kings)
+hgpperez: shows [4s 6d] (two pair, Kings and Fours)
+hgpperez collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [As Tc Kc Ks 4d]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: MB_Schatzi (small blind) showed [6h 2h] and lost with a pair of Kings
+Seat 3: hgpperez (big blind) showed [4s 6d] and won (60) with two pair, Kings and Fours
+
+
+
+PokerStars Hand #244507792576: Tournament #3609905403, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/06/28 12:12:42 CET [2023/06/28 6:12:42 ET]
+Table '3609905403 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (530 in chips) 
+Seat 2: MB_Schatzi (515 in chips) 
+Seat 3: hgpperez (455 in chips) 
+hgpperez: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd Ts]
+MB_Schatzi: calls 30
+hgpperez: folds 
+Mahu2021: checks 
+*** FLOP *** [Tc 7h Td]
+Mahu2021: checks 
+MB_Schatzi: checks 
+*** TURN *** [Tc 7h Td] [Ah]
+Mahu2021: checks 
+MB_Schatzi: checks 
+*** RIVER *** [Tc 7h Td Ah] [Jc]
+Mahu2021: bets 75
+MB_Schatzi: raises 75 to 150
+Mahu2021: raises 350 to 500 and is all-in
+MB_Schatzi: calls 335 and is all-in
+Uncalled bet (15) returned to Mahu2021
+*** SHOW DOWN ***
+Mahu2021: shows [Kd Ts] (three of a kind, Tens)
+MB_Schatzi: shows [Th Ac] (a full house, Tens full of Aces)
+MB_Schatzi collected 1045 from pot
+*** SUMMARY ***
+Total pot 1045 | Rake 0 
+Board [Tc 7h Td Ah Jc]
+Seat 1: Mahu2021 (big blind) showed [Kd Ts] and lost with three of a kind, Tens
+Seat 2: MB_Schatzi (button) showed [Th Ac] and won (1045) with a full house, Tens full of Aces
+Seat 3: hgpperez (small blind) folded before Flop
+
+
+
+PokerStars Hand #244507796016: Tournament #3609905403, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/06/28 12:13:07 CET [2023/06/28 6:13:07 ET]
+Table '3609905403 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (15 in chips) 
+Seat 2: MB_Schatzi (1045 in chips) 
+Seat 3: hgpperez (440 in chips) 
+Mahu2021: posts small blind 15 and is all-in
+MB_Schatzi: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Tc Ks]
+hgpperez: raises 30 to 60
+MB_Schatzi: calls 30
+*** FLOP *** [Qs 4d 8h]
+MB_Schatzi: checks 
+hgpperez: bets 60
+MB_Schatzi: folds 
+Uncalled bet (60) returned to hgpperez
+*** TURN *** [Qs 4d 8h] [2s]
+*** RIVER *** [Qs 4d 8h 2s] [5h]
+*** SHOW DOWN ***
+hgpperez: shows [Qh Qc] (three of a kind, Queens)
+hgpperez collected 90 from side pot
+Mahu2021: shows [Tc Ks] (high card King)
+hgpperez collected 45 from main pot
+Mahu2021 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 135 Main pot 45. Side pot 90. | Rake 0 
+Board [Qs 4d 8h 2s 5h]
+Seat 1: Mahu2021 (small blind) showed [Tc Ks] and lost with high card King
+Seat 2: MB_Schatzi (big blind) folded on the Flop
+Seat 3: hgpperez (button) showed [Qh Qc] and won (135) with three of a kind, Queens
+
+
+

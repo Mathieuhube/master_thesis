@@ -1,0 +1,566 @@
+﻿PokerStars Hand #243213035798: Tournament #3580292701, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/20 21:27:03 CET [2023/04/20 15:27:03 ET]
+Table '3580292701 1' 3-max Seat #1 is the button
+Seat 1: 11mario99 (500 in chips) 
+Seat 2: Gambrinus373 (500 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+Gambrinus373: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4d 7s]
+11mario99: calls 20
+Gambrinus373: calls 10
+Mahu2021: checks 
+*** FLOP *** [Ah 5d 2h]
+Gambrinus373: checks 
+Mahu2021: checks 
+11mario99: checks 
+*** TURN *** [Ah 5d 2h] [5s]
+Gambrinus373: checks 
+Mahu2021: checks 
+11mario99: checks 
+*** RIVER *** [Ah 5d 2h 5s] [Ad]
+Gambrinus373: checks 
+Mahu2021: checks 
+11mario99: bets 20
+Gambrinus373: calls 20
+Mahu2021: folds 
+*** SHOW DOWN ***
+11mario99: shows [Kh Th] (two pair, Aces and Fives)
+Gambrinus373: shows [Kc 9h] (two pair, Aces and Fives)
+Gambrinus373 collected 50 from pot
+11mario99 collected 50 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [Ah 5d 2h 5s Ad]
+Seat 1: 11mario99 (button) showed [Kh Th] and won (50) with two pair, Aces and Fives
+Seat 2: Gambrinus373 (small blind) showed [Kc 9h] and won (50) with two pair, Aces and Fives
+Seat 3: Mahu2021 (big blind) folded on the River
+
+
+
+PokerStars Hand #243213048096: Tournament #3580292701, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/20 21:27:34 CET [2023/04/20 15:27:34 ET]
+Table '3580292701 1' 3-max Seat #2 is the button
+Seat 1: 11mario99 (510 in chips) 
+Seat 2: Gambrinus373 (510 in chips) 
+Seat 3: Mahu2021 (480 in chips) 
+Mahu2021: posts small blind 10
+11mario99: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h Jd]
+Gambrinus373: calls 20
+Mahu2021: calls 10
+11mario99: checks 
+*** FLOP *** [4c 7c 6s]
+Mahu2021: checks 
+11mario99: bets 20
+Gambrinus373: calls 20
+Mahu2021: folds 
+*** TURN *** [4c 7c 6s] [Th]
+11mario99: bets 40
+Gambrinus373: calls 40
+*** RIVER *** [4c 7c 6s Th] [Ac]
+11mario99: checks 
+Gambrinus373: bets 90
+11mario99: folds 
+Uncalled bet (90) returned to Gambrinus373
+Gambrinus373 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [4c 7c 6s Th Ac]
+Seat 1: 11mario99 (big blind) folded on the River
+Seat 2: Gambrinus373 (button) collected (180)
+Seat 3: Mahu2021 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #243213058626: Tournament #3580292701, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/20 21:28:01 CET [2023/04/20 15:28:01 ET]
+Table '3580292701 1' 3-max Seat #3 is the button
+Seat 1: 11mario99 (430 in chips) 
+Seat 2: Gambrinus373 (610 in chips) 
+Seat 3: Mahu2021 (460 in chips) 
+11mario99: posts small blind 10
+Gambrinus373: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h Jc]
+Mahu2021: calls 20
+11mario99: calls 10
+Gambrinus373: checks 
+*** FLOP *** [6s 4c Ad]
+11mario99: checks 
+Gambrinus373: checks 
+Mahu2021: bets 20
+11mario99: folds 
+Gambrinus373: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [6s 4c Ad]
+Seat 1: 11mario99 (small blind) folded on the Flop
+Seat 2: Gambrinus373 (big blind) folded on the Flop
+Seat 3: Mahu2021 (button) collected (60)
+
+
+
+PokerStars Hand #243213068390: Tournament #3580292701, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/20 21:28:26 CET [2023/04/20 15:28:26 ET]
+Table '3580292701 1' 3-max Seat #1 is the button
+Seat 1: 11mario99 (410 in chips) 
+Seat 2: Gambrinus373 (590 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+Gambrinus373: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qd Ad]
+11mario99: calls 20
+Gambrinus373: folds 
+Mahu2021: raises 40 to 60
+11mario99: calls 40
+*** FLOP *** [3d 8c Jd]
+Mahu2021: bets 60
+11mario99: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 130 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 130 | Rake 0 
+Board [3d 8c Jd]
+Seat 1: 11mario99 (button) folded on the Flop
+Seat 2: Gambrinus373 (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (130)
+
+
+
+PokerStars Hand #243213075662: Tournament #3580292701, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/20 21:28:44 CET [2023/04/20 15:28:44 ET]
+Table '3580292701 1' 3-max Seat #2 is the button
+Seat 1: 11mario99 (350 in chips) 
+Seat 2: Gambrinus373 (580 in chips) 
+Seat 3: Mahu2021 (570 in chips) 
+Mahu2021: posts small blind 10
+11mario99: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4d Qd]
+Gambrinus373: folds 
+Mahu2021: calls 10
+11mario99: checks 
+*** FLOP *** [9s 8c 7d]
+Mahu2021: checks 
+11mario99: checks 
+*** TURN *** [9s 8c 7d] [9d]
+Mahu2021: bets 20
+11mario99: calls 20
+*** RIVER *** [9s 8c 7d 9d] [2h]
+Mahu2021: checks 
+11mario99: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [4d Qd] (a pair of Nines)
+11mario99: shows [Jd As] (a pair of Nines - Ace kicker)
+11mario99 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [9s 8c 7d 9d 2h]
+Seat 1: 11mario99 (big blind) showed [Jd As] and won (80) with a pair of Nines
+Seat 2: Gambrinus373 (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) showed [4d Qd] and lost with a pair of Nines
+
+
+
+PokerStars Hand #243213088170: Tournament #3580292701, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/20 21:29:16 CET [2023/04/20 15:29:16 ET]
+Table '3580292701 1' 3-max Seat #3 is the button
+Seat 1: 11mario99 (390 in chips) 
+Seat 2: Gambrinus373 (580 in chips) 
+Seat 3: Mahu2021 (530 in chips) 
+11mario99: posts small blind 15
+Gambrinus373: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As Tc]
+Mahu2021: raises 30 to 60
+11mario99: folds 
+Gambrinus373: calls 30
+*** FLOP *** [8c 4d 8h]
+Gambrinus373: checks 
+Mahu2021: bets 60
+Gambrinus373: calls 60
+*** TURN *** [8c 4d 8h] [9s]
+Gambrinus373: checks 
+Mahu2021: checks 
+*** RIVER *** [8c 4d 8h 9s] [Ks]
+Gambrinus373: bets 120
+Mahu2021: folds 
+Uncalled bet (120) returned to Gambrinus373
+Gambrinus373 collected 255 from pot
+*** SUMMARY ***
+Total pot 255 | Rake 0 
+Board [8c 4d 8h 9s Ks]
+Seat 1: 11mario99 (small blind) folded before Flop
+Seat 2: Gambrinus373 (big blind) collected (255)
+Seat 3: Mahu2021 (button) folded on the River
+
+
+
+PokerStars Hand #243213097171: Tournament #3580292701, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/20 21:29:39 CET [2023/04/20 15:29:39 ET]
+Table '3580292701 1' 3-max Seat #1 is the button
+Seat 1: 11mario99 (375 in chips) 
+Seat 2: Gambrinus373 (715 in chips) 
+Seat 3: Mahu2021 (410 in chips) 
+Gambrinus373: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d 3c]
+11mario99: calls 30
+Gambrinus373: calls 15
+Mahu2021: checks 
+*** FLOP *** [Qc 3h Ad]
+Gambrinus373: checks 
+Mahu2021: bets 30
+11mario99: folds 
+Gambrinus373: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 90 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [Qc 3h Ad]
+Seat 1: 11mario99 (button) folded on the Flop
+Seat 2: Gambrinus373 (small blind) folded on the Flop
+Seat 3: Mahu2021 (big blind) collected (90)
+
+
+
+PokerStars Hand #243213104064: Tournament #3580292701, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/20 21:29:56 CET [2023/04/20 15:29:56 ET]
+Table '3580292701 1' 3-max Seat #2 is the button
+Seat 1: 11mario99 (345 in chips) 
+Seat 2: Gambrinus373 (685 in chips) 
+Seat 3: Mahu2021 (470 in chips) 
+Mahu2021: posts small blind 15
+11mario99: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c 3d]
+Gambrinus373: calls 30
+Mahu2021: folds 
+11mario99: checks 
+*** FLOP *** [Ah 6c Ts]
+11mario99: checks 
+Gambrinus373: bets 38
+11mario99: calls 38
+*** TURN *** [Ah 6c Ts] [Jh]
+11mario99: checks 
+Gambrinus373: bets 151
+11mario99: calls 151
+*** RIVER *** [Ah 6c Ts Jh] [9s]
+11mario99: checks 
+Gambrinus373: checks 
+*** SHOW DOWN ***
+11mario99: shows [As 9h] (two pair, Aces and Nines)
+Gambrinus373: mucks hand 
+11mario99 collected 453 from pot
+*** SUMMARY ***
+Total pot 453 | Rake 0 
+Board [Ah 6c Ts Jh 9s]
+Seat 1: 11mario99 (big blind) showed [As 9h] and won (453) with two pair, Aces and Nines
+Seat 2: Gambrinus373 (button) mucked [Qc Ac]
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #243213116219: Tournament #3580292701, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/20 21:30:27 CET [2023/04/20 15:30:27 ET]
+Table '3580292701 1' 3-max Seat #3 is the button
+Seat 1: 11mario99 (579 in chips) 
+Seat 2: Gambrinus373 (466 in chips) 
+Seat 3: Mahu2021 (455 in chips) 
+11mario99: posts small blind 15
+Gambrinus373: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h Qh]
+Mahu2021: calls 30
+11mario99: calls 15
+Gambrinus373: checks 
+*** FLOP *** [7h Kh 8s]
+11mario99: checks 
+Gambrinus373: bets 45
+Mahu2021: calls 45
+11mario99: folds 
+*** TURN *** [7h Kh 8s] [4h]
+Gambrinus373: bets 90
+Mahu2021: raises 290 to 380 and is all-in
+Gambrinus373: calls 290
+*** RIVER *** [7h Kh 8s 4h] [8d]
+*** SHOW DOWN ***
+Gambrinus373: shows [6s 5s] (a straight, Four to Eight)
+Mahu2021: shows [3h Qh] (a flush, King high)
+Mahu2021 collected 940 from pot
+*** SUMMARY ***
+Total pot 940 | Rake 0 
+Board [7h Kh 8s 4h 8d]
+Seat 1: 11mario99 (small blind) folded on the Flop
+Seat 2: Gambrinus373 (big blind) showed [6s 5s] and lost with a straight, Four to Eight
+Seat 3: Mahu2021 (button) showed [3h Qh] and won (940) with a flush, King high
+
+
+
+PokerStars Hand #243213127648: Tournament #3580292701, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/20 21:30:55 CET [2023/04/20 15:30:55 ET]
+Table '3580292701 1' 3-max Seat #1 is the button
+Seat 1: 11mario99 (549 in chips) 
+Seat 2: Gambrinus373 (11 in chips) 
+Seat 3: Mahu2021 (940 in chips) 
+Gambrinus373: posts small blind 11 and is all-in
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d 6d]
+11mario99: calls 30
+Mahu2021: checks 
+*** FLOP *** [Js 4s 9s]
+Mahu2021: checks 
+11mario99: checks 
+*** TURN *** [Js 4s 9s] [Ah]
+Mahu2021: checks 
+11mario99: checks 
+*** RIVER *** [Js 4s 9s Ah] [6h]
+Mahu2021: checks 
+11mario99: bets 30
+Mahu2021: folds 
+Uncalled bet (30) returned to 11mario99
+*** SHOW DOWN ***
+11mario99: shows [Tc 2h] (high card Ace)
+11mario99 collected 38 from side pot
+Gambrinus373: shows [5h 7d] (high card Ace - lower kicker)
+11mario99 collected 33 from main pot
+Gambrinus373 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 71 Main pot 33. Side pot 38. | Rake 0 
+Board [Js 4s 9s Ah 6h]
+Seat 1: 11mario99 (button) showed [Tc 2h] and won (71) with high card Ace
+Seat 2: Gambrinus373 (small blind) showed [5h 7d] and lost with high card Ace
+Seat 3: Mahu2021 (big blind) folded on the River
+
+
+
+PokerStars Hand #243213136278: Tournament #3580292701, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/20 21:31:17 CET [2023/04/20 15:31:17 ET]
+Table '3580292701 1' 3-max Seat #3 is the button
+Seat 1: 11mario99 (590 in chips) 
+Seat 3: Mahu2021 (910 in chips) 
+Mahu2021: posts small blind 20
+11mario99: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d Td]
+Mahu2021: calls 20
+11mario99: checks 
+*** FLOP *** [2h Ks 4d]
+11mario99: checks 
+Mahu2021: bets 40
+11mario99: calls 40
+*** TURN *** [2h Ks 4d] [Ts]
+11mario99: checks 
+Mahu2021: checks 
+*** RIVER *** [2h Ks 4d Ts] [Js]
+11mario99: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+11mario99: shows [As 3s] (a flush, Ace high)
+Mahu2021: mucks hand 
+11mario99 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [2h Ks 4d Ts Js]
+Seat 1: 11mario99 (big blind) showed [As 3s] and won (160) with a flush, Ace high
+Seat 3: Mahu2021 (button) (small blind) mucked [6d Td]
+
+
+
+PokerStars Hand #243213143125: Tournament #3580292701, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/20 21:31:34 CET [2023/04/20 15:31:34 ET]
+Table '3580292701 1' 3-max Seat #1 is the button
+Seat 1: 11mario99 (670 in chips) 
+Seat 3: Mahu2021 (830 in chips) 
+11mario99: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4d 6d]
+11mario99: calls 20
+Mahu2021: checks 
+*** FLOP *** [Qs Kh Jd]
+Mahu2021: bets 40
+11mario99: raises 40 to 80
+Mahu2021: folds 
+Uncalled bet (40) returned to 11mario99
+11mario99 collected 160 from pot
+11mario99: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Qs Kh Jd]
+Seat 1: 11mario99 (button) (small blind) collected (160)
+Seat 3: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #243213147077: Tournament #3580292701, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/20 21:31:45 CET [2023/04/20 15:31:45 ET]
+Table '3580292701 1' 3-max Seat #3 is the button
+Seat 1: 11mario99 (750 in chips) 
+Seat 3: Mahu2021 (750 in chips) 
+Mahu2021: posts small blind 20
+11mario99: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s Ks]
+Mahu2021: calls 20
+11mario99: checks 
+*** FLOP *** [7c Kd 2h]
+11mario99: checks 
+Mahu2021: checks 
+*** TURN *** [7c Kd 2h] [4h]
+11mario99: checks 
+Mahu2021: bets 40
+11mario99: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [7c Kd 2h 4h]
+Seat 1: 11mario99 (big blind) folded on the Turn
+Seat 3: Mahu2021 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #243213152204: Tournament #3580292701, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/20 21:31:58 CET [2023/04/20 15:31:58 ET]
+Table '3580292701 1' 3-max Seat #1 is the button
+Seat 1: 11mario99 (710 in chips) 
+Seat 3: Mahu2021 (790 in chips) 
+11mario99: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As 3h]
+11mario99: calls 20
+Mahu2021: checks 
+*** FLOP *** [2s 9d Ac]
+Mahu2021: checks 
+11mario99: checks 
+*** TURN *** [2s 9d Ac] [Ah]
+Mahu2021: checks 
+11mario99: bets 40
+Mahu2021: raises 120 to 160
+11mario99: folds 
+Uncalled bet (120) returned to Mahu2021
+Mahu2021 collected 160 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [2s 9d Ac Ah]
+Seat 1: 11mario99 (button) (small blind) folded on the Turn
+Seat 3: Mahu2021 (big blind) collected (160)
+
+
+
+PokerStars Hand #243213158615: Tournament #3580292701, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/20 21:32:14 CET [2023/04/20 15:32:14 ET]
+Table '3580292701 1' 3-max Seat #3 is the button
+Seat 1: 11mario99 (630 in chips) 
+Seat 3: Mahu2021 (870 in chips) 
+Mahu2021: posts small blind 20
+11mario99: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5h 3d]
+Mahu2021: calls 20
+11mario99: checks 
+*** FLOP *** [7s 8h 4c]
+11mario99: checks 
+Mahu2021: checks 
+*** TURN *** [7s 8h 4c] [9s]
+11mario99: checks 
+Mahu2021: checks 
+*** RIVER *** [7s 8h 4c 9s] [Jh]
+11mario99: bets 160
+Mahu2021: folds 
+Uncalled bet (160) returned to 11mario99
+11mario99 collected 80 from pot
+11mario99: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [7s 8h 4c 9s Jh]
+Seat 1: 11mario99 (big blind) collected (80)
+Seat 3: Mahu2021 (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #243213165275: Tournament #3580292701, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/20 21:32:30 CET [2023/04/20 15:32:30 ET]
+Table '3580292701 1' 3-max Seat #1 is the button
+Seat 1: 11mario99 (670 in chips) 
+Seat 3: Mahu2021 (830 in chips) 
+11mario99: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d Qs]
+11mario99: calls 20
+Mahu2021: checks 
+*** FLOP *** [Kh 6h 7s]
+Mahu2021: bets 40
+11mario99: calls 40
+*** TURN *** [Kh 6h 7s] [6s]
+Mahu2021: bets 40
+11mario99: calls 40
+*** RIVER *** [Kh 6h 7s 6s] [5d]
+Mahu2021: bets 80
+11mario99: calls 80
+*** SHOW DOWN ***
+Mahu2021: shows [6d Qs] (three of a kind, Sixes)
+11mario99: mucks hand 
+Mahu2021 collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Board [Kh 6h 7s 6s 5d]
+Seat 1: 11mario99 (button) (small blind) mucked [7d 4h]
+Seat 3: Mahu2021 (big blind) showed [6d Qs] and won (400) with three of a kind, Sixes
+
+
+
+PokerStars Hand #243213171653: Tournament #3580292701, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/20 21:32:47 CET [2023/04/20 15:32:47 ET]
+Table '3580292701 1' 3-max Seat #3 is the button
+Seat 1: 11mario99 (470 in chips) 
+Seat 3: Mahu2021 (1030 in chips) 
+Mahu2021: posts small blind 20
+11mario99: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h 3d]
+Mahu2021: calls 20
+11mario99: checks 
+*** FLOP *** [Jc 2s 9h]
+11mario99: checks 
+Mahu2021: bets 40
+11mario99: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Jc 2s 9h]
+Seat 1: 11mario99 (big blind) folded on the Flop
+Seat 3: Mahu2021 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #243213175992: Tournament #3580292701, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/20 21:32:58 CET [2023/04/20 15:32:58 ET]
+Table '3580292701 1' 3-max Seat #1 is the button
+Seat 1: 11mario99 (430 in chips) 
+Seat 3: Mahu2021 (1070 in chips) 
+11mario99: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac Qc]
+11mario99: calls 20
+Mahu2021: raises 120 to 160
+11mario99: raises 270 to 430 and is all-in
+Mahu2021: calls 270
+*** FLOP *** [4h 9c 5d]
+*** TURN *** [4h 9c 5d] [Js]
+*** RIVER *** [4h 9c 5d Js] [Qs]
+*** SHOW DOWN ***
+Mahu2021: shows [Ac Qc] (a pair of Queens)
+11mario99: shows [8c 8s] (a pair of Eights)
+Mahu2021 collected 860 from pot
+11mario99 finished the tournament in 2nd place
+Mahu2021 wins the tournament and receives $2.00 - congratulations!
+*** SUMMARY ***
+Total pot 860 | Rake 0 
+Board [4h 9c 5d Js Qs]
+Seat 1: 11mario99 (button) (small blind) showed [8c 8s] and lost with a pair of Eights
+Seat 3: Mahu2021 (big blind) showed [Ac Qc] and won (860) with a pair of Queens
+
+
+

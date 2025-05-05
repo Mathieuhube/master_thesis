@@ -1,0 +1,101 @@
+﻿PokerStars Hand #248473935345: Tournament #3706278405, $4.60+$0.40 USD Hold'em No Limit - Level I (10/20) - 2024/01/24 21:54:06 CET [2024/01/24 15:54:06 ET]
+Table '3706278405 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: petio_23198 (500 in chips) 
+Seat 3: natan033 (500 in chips) 
+petio_23198: posts small blind 10
+natan033: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h 2d]
+Mahu2021: folds 
+petio_23198: calls 10
+natan033: raises 480 to 500 and is all-in
+petio_23198: folds 
+Uncalled bet (480) returned to natan033
+natan033 collected 40 from pot
+natan033: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: petio_23198 (small blind) folded before Flop
+Seat 3: natan033 (big blind) collected (40)
+
+
+
+PokerStars Hand #248473940180: Tournament #3706278405, $4.60+$0.40 USD Hold'em No Limit - Level I (10/20) - 2024/01/24 21:54:19 CET [2024/01/24 15:54:19 ET]
+Table '3706278405 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: petio_23198 (480 in chips) 
+Seat 3: natan033 (520 in chips) 
+natan033: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h 2s]
+petio_23198: folds 
+natan033: raises 20 to 40
+Mahu2021: folds 
+Uncalled bet (20) returned to natan033
+natan033 collected 40 from pot
+natan033: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: petio_23198 (button) folded before Flop (didn't bet)
+Seat 3: natan033 (small blind) collected (40)
+
+
+
+PokerStars Hand #248473943646: Tournament #3706278405, $4.60+$0.40 USD Hold'em No Limit - Level I (10/20) - 2024/01/24 21:54:29 CET [2024/01/24 15:54:29 ET]
+Table '3706278405 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (480 in chips) 
+Seat 2: petio_23198 (480 in chips) 
+Seat 3: natan033 (540 in chips) 
+Mahu2021: posts small blind 10
+petio_23198: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d 8h]
+natan033: raises 520 to 540 and is all-in
+Mahu2021: folds 
+petio_23198: folds 
+Uncalled bet (520) returned to natan033
+natan033 collected 50 from pot
+natan033: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: petio_23198 (big blind) folded before Flop
+Seat 3: natan033 (button) collected (50)
+
+
+
+PokerStars Hand #248473948003: Tournament #3706278405, $4.60+$0.40 USD Hold'em No Limit - Level I (10/20) - 2024/01/24 21:54:41 CET [2024/01/24 15:54:41 ET]
+Table '3706278405 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (470 in chips) 
+Seat 2: petio_23198 (460 in chips) 
+Seat 3: natan033 (570 in chips) 
+petio_23198: posts small blind 10
+natan033: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s Ac]
+Mahu2021: raises 40 to 60
+petio_23198: folds 
+natan033: raises 510 to 570 and is all-in
+Mahu2021: calls 410 and is all-in
+Uncalled bet (100) returned to natan033
+*** FLOP *** [As 4d Jc]
+*** TURN *** [As 4d Jc] [7s]
+*** RIVER *** [As 4d Jc 7s] [5c]
+*** SHOW DOWN ***
+natan033: shows [9d Ad] (a pair of Aces)
+Mahu2021: shows [6s Ac] (a pair of Aces - lower kicker)
+natan033 collected 950 from pot
+Mahu2021 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 950 | Rake 0 
+Board [As 4d Jc 7s 5c]
+Seat 1: Mahu2021 (button) showed [6s Ac] and lost with a pair of Aces
+Seat 2: petio_23198 (small blind) folded before Flop
+Seat 3: natan033 (big blind) showed [9d Ad] and won (950) with a pair of Aces
+
+
+

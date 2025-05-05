@@ -1,0 +1,965 @@
+﻿PokerStars Hand #253075349829: Tournament #3815857486, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/24 6:47:24 CET [2024/10/24 0:47:24 ET]
+Table '3815857486 1' 3-max Seat #1 is the button
+Seat 1: JJOKKAA (500 in chips) 
+Seat 2: baeamy (500 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+baeamy: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h Kh]
+JJOKKAA: calls 20
+baeamy: calls 10
+Mahu2021: checks 
+*** FLOP *** [9c 4d Qh]
+baeamy: checks 
+Mahu2021: checks 
+JJOKKAA: bets 24
+baeamy: calls 24
+Mahu2021: folds 
+*** TURN *** [9c 4d Qh] [2c]
+baeamy: checks 
+JJOKKAA: bets 54
+baeamy: calls 54
+*** RIVER *** [9c 4d Qh 2c] [Jh]
+baeamy: bets 216
+JJOKKAA: folds 
+Uncalled bet (216) returned to baeamy
+baeamy collected 216 from pot
+baeamy: doesn't show hand 
+*** SUMMARY ***
+Total pot 216 | Rake 0 
+Board [9c 4d Qh 2c Jh]
+Seat 1: JJOKKAA (button) folded on the River
+Seat 2: baeamy (small blind) collected (216)
+Seat 3: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #253075352719: Tournament #3815857486, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/24 6:47:58 CET [2024/10/24 0:47:58 ET]
+Table '3815857486 1' 3-max Seat #2 is the button
+Seat 1: JJOKKAA (402 in chips) 
+Seat 2: baeamy (618 in chips) 
+Seat 3: Mahu2021 (480 in chips) 
+Mahu2021: posts small blind 10
+JJOKKAA: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c Jd]
+baeamy: calls 20
+Mahu2021: calls 10
+JJOKKAA: checks 
+*** FLOP *** [Kh 6s Ts]
+Mahu2021: checks 
+JJOKKAA: checks 
+baeamy: checks 
+*** TURN *** [Kh 6s Ts] [Kc]
+Mahu2021: checks 
+JJOKKAA: bets 45
+baeamy: calls 45
+Mahu2021: folds 
+*** RIVER *** [Kh 6s Ts Kc] [3h]
+JJOKKAA: checks 
+baeamy: checks 
+*** SHOW DOWN ***
+JJOKKAA: shows [5c 2c] (a pair of Kings)
+baeamy: shows [3s Jh] (two pair, Kings and Threes)
+baeamy collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Board [Kh 6s Ts Kc 3h]
+Seat 1: JJOKKAA (big blind) showed [5c 2c] and lost with a pair of Kings
+Seat 2: baeamy (button) showed [3s Jh] and won (150) with two pair, Kings and Threes
+Seat 3: Mahu2021 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #253075355806: Tournament #3815857486, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/24 6:48:36 CET [2024/10/24 0:48:36 ET]
+Table '3815857486 1' 3-max Seat #3 is the button
+Seat 1: JJOKKAA (337 in chips) 
+Seat 2: baeamy (703 in chips) 
+Seat 3: Mahu2021 (460 in chips) 
+JJOKKAA: posts small blind 10
+baeamy: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc 6d]
+Mahu2021: raises 20 to 40
+JJOKKAA: folds 
+baeamy: calls 20
+*** FLOP *** [2c 8h Qs]
+baeamy: checks 
+Mahu2021: bets 40
+baeamy: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 90 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [2c 8h Qs]
+Seat 1: JJOKKAA (small blind) folded before Flop
+Seat 2: baeamy (big blind) folded on the Flop
+Seat 3: Mahu2021 (button) collected (90)
+
+
+
+PokerStars Hand #253075356956: Tournament #3815857486, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/24 6:48:49 CET [2024/10/24 0:48:49 ET]
+Table '3815857486 1' 3-max Seat #1 is the button
+Seat 1: JJOKKAA (327 in chips) 
+Seat 2: baeamy (663 in chips) 
+Seat 3: Mahu2021 (510 in chips) 
+baeamy: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd 4c]
+JJOKKAA: folds 
+baeamy: folds 
+Uncalled bet (10) returned to Mahu2021
+Mahu2021 collected 20 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: JJOKKAA (button) folded before Flop (didn't bet)
+Seat 2: baeamy (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (20)
+
+
+
+PokerStars Hand #253075357485: Tournament #3815857486, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/24 6:48:55 CET [2024/10/24 0:48:55 ET]
+Table '3815857486 1' 3-max Seat #2 is the button
+Seat 1: JJOKKAA (327 in chips) 
+Seat 2: baeamy (653 in chips) 
+Seat 3: Mahu2021 (520 in chips) 
+Mahu2021: posts small blind 10
+JJOKKAA: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c 2h]
+baeamy: calls 20
+Mahu2021: folds 
+JJOKKAA: checks 
+*** FLOP *** [Th 8h 6d]
+JJOKKAA: checks 
+baeamy: checks 
+*** TURN *** [Th 8h 6d] [Kd]
+JJOKKAA: checks 
+baeamy: checks 
+*** RIVER *** [Th 8h 6d Kd] [3s]
+JJOKKAA: checks 
+baeamy: checks 
+*** SHOW DOWN ***
+JJOKKAA: shows [5s 2s] (high card King)
+baeamy: shows [7c Jd] (high card King - Jack kicker)
+baeamy collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [Th 8h 6d Kd 3s]
+Seat 1: JJOKKAA (big blind) showed [5s 2s] and lost with high card King
+Seat 2: baeamy (button) showed [7c Jd] and won (50) with high card King
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #253075359867: Tournament #3815857486, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/24 6:49:24 CET [2024/10/24 0:49:24 ET]
+Table '3815857486 1' 3-max Seat #3 is the button
+Seat 1: JJOKKAA (307 in chips) 
+Seat 2: baeamy (683 in chips) 
+Seat 3: Mahu2021 (510 in chips) 
+JJOKKAA: posts small blind 10
+baeamy: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4c Ac]
+Mahu2021: raises 20 to 40
+JJOKKAA: calls 30
+baeamy: calls 20
+*** FLOP *** [8d 5c Tc]
+JJOKKAA: checks 
+baeamy: checks 
+Mahu2021: bets 40
+JJOKKAA: folds 
+baeamy: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [8d 5c Tc]
+Seat 1: JJOKKAA (small blind) folded on the Flop
+Seat 2: baeamy (big blind) folded on the Flop
+Seat 3: Mahu2021 (button) collected (120)
+
+
+
+PokerStars Hand #253075362326: Tournament #3815857486, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/24 6:49:53 CET [2024/10/24 0:49:53 ET]
+Table '3815857486 1' 3-max Seat #1 is the button
+Seat 1: JJOKKAA (267 in chips) 
+Seat 2: baeamy (643 in chips) 
+Seat 3: Mahu2021 (590 in chips) 
+baeamy: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah 7h]
+JJOKKAA: folds 
+baeamy: folds 
+Uncalled bet (10) returned to Mahu2021
+Mahu2021 collected 20 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: JJOKKAA (button) folded before Flop (didn't bet)
+Seat 2: baeamy (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (20)
+
+
+
+PokerStars Hand #253075363356: Tournament #3815857486, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/24 6:50:04 CET [2024/10/24 0:50:04 ET]
+Table '3815857486 1' 3-max Seat #2 is the button
+Seat 1: JJOKKAA (267 in chips) 
+Seat 2: baeamy (633 in chips) 
+Seat 3: Mahu2021 (600 in chips) 
+Mahu2021: posts small blind 10
+JJOKKAA: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd 2h]
+baeamy: folds 
+Mahu2021: raises 20 to 40
+JJOKKAA: calls 20
+*** FLOP *** [Jd 7s Qh]
+Mahu2021: checks 
+JJOKKAA: checks 
+*** TURN *** [Jd 7s Qh] [Jc]
+Mahu2021: checks 
+JJOKKAA: bets 60
+Mahu2021: folds 
+Uncalled bet (60) returned to JJOKKAA
+JJOKKAA collected 80 from pot
+JJOKKAA: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Jd 7s Qh Jc]
+Seat 1: JJOKKAA (big blind) collected (80)
+Seat 2: baeamy (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #253075364879: Tournament #3815857486, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/24 6:50:22 CET [2024/10/24 0:50:22 ET]
+Table '3815857486 1' 3-max Seat #3 is the button
+Seat 1: JJOKKAA (307 in chips) 
+Seat 2: baeamy (633 in chips) 
+Seat 3: Mahu2021 (560 in chips) 
+JJOKKAA: posts small blind 10
+baeamy: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6h 3c]
+Mahu2021: folds 
+JJOKKAA: raises 20 to 40
+baeamy: calls 20
+*** FLOP *** [Td Th 6d]
+JJOKKAA: bets 32
+baeamy: calls 32
+*** TURN *** [Td Th 6d] [4c]
+JJOKKAA: bets 58
+baeamy: folds 
+Uncalled bet (58) returned to JJOKKAA
+JJOKKAA collected 144 from pot
+JJOKKAA: doesn't show hand 
+*** SUMMARY ***
+Total pot 144 | Rake 0 
+Board [Td Th 6d 4c]
+Seat 1: JJOKKAA (small blind) collected (144)
+Seat 2: baeamy (big blind) folded on the Turn
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253075367372: Tournament #3815857486, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/24 6:50:52 CET [2024/10/24 0:50:52 ET]
+Table '3815857486 1' 3-max Seat #1 is the button
+Seat 1: JJOKKAA (379 in chips) 
+Seat 2: baeamy (561 in chips) 
+Seat 3: Mahu2021 (560 in chips) 
+baeamy: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh 3h]
+JJOKKAA: folds 
+baeamy: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: JJOKKAA (button) folded before Flop (didn't bet)
+Seat 2: baeamy (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (30)
+
+
+
+PokerStars Hand #253075367846: Tournament #3815857486, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/24 6:50:58 CET [2024/10/24 0:50:58 ET]
+Table '3815857486 1' 3-max Seat #2 is the button
+Seat 1: JJOKKAA (379 in chips) 
+Seat 2: baeamy (546 in chips) 
+Seat 3: Mahu2021 (575 in chips) 
+Mahu2021: posts small blind 15
+JJOKKAA: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4d 7h]
+baeamy: folds 
+Mahu2021: folds 
+Uncalled bet (15) returned to JJOKKAA
+JJOKKAA collected 30 from pot
+JJOKKAA: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: JJOKKAA (big blind) collected (30)
+Seat 2: baeamy (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #253075368511: Tournament #3815857486, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/24 6:51:06 CET [2024/10/24 0:51:06 ET]
+Table '3815857486 1' 3-max Seat #3 is the button
+Seat 1: JJOKKAA (394 in chips) 
+Seat 2: baeamy (546 in chips) 
+Seat 3: Mahu2021 (560 in chips) 
+JJOKKAA: posts small blind 15
+baeamy: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d Jh]
+Mahu2021: raises 30 to 60
+JJOKKAA: folds 
+baeamy: calls 30
+*** FLOP *** [2s 4d 5c]
+baeamy: checks 
+Mahu2021: checks 
+*** TURN *** [2s 4d 5c] [4c]
+baeamy: checks 
+Mahu2021: checks 
+*** RIVER *** [2s 4d 5c 4c] [Td]
+baeamy: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+baeamy: shows [8d Kd] (a pair of Fours)
+Mahu2021: mucks hand 
+baeamy collected 135 from pot
+*** SUMMARY ***
+Total pot 135 | Rake 0 
+Board [2s 4d 5c 4c Td]
+Seat 1: JJOKKAA (small blind) folded before Flop
+Seat 2: baeamy (big blind) showed [8d Kd] and won (135) with a pair of Fours
+Seat 3: Mahu2021 (button) mucked [7d Jh]
+
+
+
+PokerStars Hand #253075369866: Tournament #3815857486, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/24 6:51:22 CET [2024/10/24 0:51:22 ET]
+Table '3815857486 1' 3-max Seat #1 is the button
+Seat 1: JJOKKAA (379 in chips) 
+Seat 2: baeamy (621 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+baeamy: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d Ac]
+JJOKKAA: folds 
+baeamy: calls 15
+Mahu2021: checks 
+*** FLOP *** [9s 4s 6c]
+baeamy: checks 
+Mahu2021: checks 
+*** TURN *** [9s 4s 6c] [Ks]
+baeamy: checks 
+Mahu2021: checks 
+*** RIVER *** [9s 4s 6c Ks] [4c]
+baeamy: checks 
+Mahu2021: bets 30
+baeamy: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [9s 4s 6c Ks 4c]
+Seat 1: JJOKKAA (button) folded before Flop (didn't bet)
+Seat 2: baeamy (small blind) folded on the River
+Seat 3: Mahu2021 (big blind) collected (60)
+
+
+
+PokerStars Hand #253075371252: Tournament #3815857486, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/24 6:51:38 CET [2024/10/24 0:51:38 ET]
+Table '3815857486 1' 3-max Seat #2 is the button
+Seat 1: JJOKKAA (379 in chips) 
+Seat 2: baeamy (591 in chips) 
+Seat 3: Mahu2021 (530 in chips) 
+Mahu2021: posts small blind 15
+JJOKKAA: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2c 5h]
+baeamy: folds 
+Mahu2021: folds 
+Uncalled bet (15) returned to JJOKKAA
+JJOKKAA collected 30 from pot
+JJOKKAA: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: JJOKKAA (big blind) collected (30)
+Seat 2: baeamy (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #253075371696: Tournament #3815857486, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/24 6:51:43 CET [2024/10/24 0:51:43 ET]
+Table '3815857486 1' 3-max Seat #3 is the button
+Seat 1: JJOKKAA (394 in chips) 
+Seat 2: baeamy (591 in chips) 
+Seat 3: Mahu2021 (515 in chips) 
+JJOKKAA: posts small blind 15
+baeamy: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h 9d]
+Mahu2021: raises 30 to 60
+JJOKKAA: calls 45
+baeamy: calls 30
+*** FLOP *** [6s As Ah]
+JJOKKAA: checks 
+baeamy: checks 
+Mahu2021: checks 
+*** TURN *** [6s As Ah] [Js]
+JJOKKAA: checks 
+baeamy: checks 
+Mahu2021: checks 
+*** RIVER *** [6s As Ah Js] [5c]
+JJOKKAA: checks 
+baeamy: bets 180
+Mahu2021: folds 
+JJOKKAA: calls 180
+*** SHOW DOWN ***
+baeamy: shows [6c Ac] (a full house, Aces full of Sixes)
+JJOKKAA: mucks hand 
+baeamy collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | Rake 0 
+Board [6s As Ah Js 5c]
+Seat 1: JJOKKAA (small blind) mucked [Kh Jc]
+Seat 2: baeamy (big blind) showed [6c Ac] and won (540) with a full house, Aces full of Sixes
+Seat 3: Mahu2021 (button) folded on the River
+
+
+
+PokerStars Hand #253075374409: Tournament #3815857486, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/24 6:52:16 CET [2024/10/24 0:52:16 ET]
+Table '3815857486 1' 3-max Seat #1 is the button
+Seat 1: JJOKKAA (154 in chips) 
+Seat 2: baeamy (891 in chips) 
+Seat 3: Mahu2021 (455 in chips) 
+baeamy: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d 7c]
+JJOKKAA: raises 30 to 60
+baeamy: calls 45
+Mahu2021: folds 
+*** FLOP *** [5h 8c Js]
+baeamy: checks 
+JJOKKAA: bets 49
+baeamy: calls 49
+*** TURN *** [5h 8c Js] [8d]
+baeamy: checks 
+JJOKKAA: bets 45 and is all-in
+baeamy: calls 45
+*** RIVER *** [5h 8c Js 8d] [7h]
+*** SHOW DOWN ***
+baeamy: shows [7d Th] (two pair, Eights and Sevens)
+JJOKKAA: shows [As Ah] (two pair, Aces and Eights)
+JJOKKAA collected 338 from pot
+*** SUMMARY ***
+Total pot 338 | Rake 0 
+Board [5h 8c Js 8d 7h]
+Seat 1: JJOKKAA (button) showed [As Ah] and won (338) with two pair, Aces and Eights
+Seat 2: baeamy (small blind) showed [7d Th] and lost with two pair, Eights and Sevens
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #253075377156: Tournament #3815857486, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/24 6:52:48 CET [2024/10/24 0:52:48 ET]
+Table '3815857486 1' 3-max Seat #2 is the button
+Seat 1: JJOKKAA (338 in chips) 
+Seat 2: baeamy (737 in chips) 
+Seat 3: Mahu2021 (425 in chips) 
+Mahu2021: posts small blind 15
+JJOKKAA: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Td Jd]
+baeamy: calls 30
+Mahu2021: calls 15
+JJOKKAA: checks 
+*** FLOP *** [Ks Js 8s]
+Mahu2021: checks 
+JJOKKAA: checks 
+baeamy: checks 
+*** TURN *** [Ks Js 8s] [2d]
+Mahu2021: bets 30
+JJOKKAA: calls 30
+baeamy: raises 30 to 60
+Mahu2021: calls 30
+JJOKKAA: calls 30
+*** RIVER *** [Ks Js 8s 2d] [4c]
+Mahu2021: checks 
+JJOKKAA: checks 
+baeamy: bets 270
+Mahu2021: folds 
+JJOKKAA: folds 
+Uncalled bet (270) returned to baeamy
+baeamy collected 270 from pot
+baeamy: doesn't show hand 
+*** SUMMARY ***
+Total pot 270 | Rake 0 
+Board [Ks Js 8s 2d 4c]
+Seat 1: JJOKKAA (big blind) folded on the River
+Seat 2: baeamy (button) collected (270)
+Seat 3: Mahu2021 (small blind) folded on the River
+
+
+
+PokerStars Hand #253075379657: Tournament #3815857486, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/24 6:53:18 CET [2024/10/24 0:53:18 ET]
+Table '3815857486 1' 3-max Seat #3 is the button
+Seat 1: JJOKKAA (248 in chips) 
+Seat 2: baeamy (917 in chips) 
+Seat 3: Mahu2021 (335 in chips) 
+JJOKKAA: posts small blind 15
+baeamy: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh Jh]
+Mahu2021: raises 30 to 60
+JJOKKAA: folds 
+baeamy: calls 30
+*** FLOP *** [Ah 3s Js]
+baeamy: checks 
+Mahu2021: bets 60
+baeamy: calls 60
+*** TURN *** [Ah 3s Js] [As]
+baeamy: checks 
+Mahu2021: bets 215 and is all-in
+baeamy: folds 
+Uncalled bet (215) returned to Mahu2021
+Mahu2021 collected 255 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 255 | Rake 0 
+Board [Ah 3s Js As]
+Seat 1: JJOKKAA (small blind) folded before Flop
+Seat 2: baeamy (big blind) folded on the Turn
+Seat 3: Mahu2021 (button) collected (255)
+
+
+
+PokerStars Hand #253075381662: Tournament #3815857486, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/10/24 6:53:42 CET [2024/10/24 0:53:42 ET]
+Table '3815857486 1' 3-max Seat #1 is the button
+Seat 1: JJOKKAA (233 in chips) 
+Seat 2: baeamy (797 in chips) 
+Seat 3: Mahu2021 (470 in chips) 
+baeamy: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks 8c]
+JJOKKAA: raises 40 to 80
+baeamy: calls 60
+Mahu2021: calls 40
+*** FLOP *** [4s 8d 6c]
+baeamy: checks 
+Mahu2021: bets 390 and is all-in
+JJOKKAA: calls 153 and is all-in
+baeamy: folds 
+Uncalled bet (237) returned to Mahu2021
+*** TURN *** [4s 8d 6c] [8s]
+*** RIVER *** [4s 8d 6c 8s] [Tc]
+*** SHOW DOWN ***
+Mahu2021: shows [Ks 8c] (three of a kind, Eights)
+JJOKKAA: shows [Qd Td] (two pair, Tens and Eights)
+Mahu2021 collected 546 from pot
+JJOKKAA finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 546 | Rake 0 
+Board [4s 8d 6c 8s Tc]
+Seat 1: JJOKKAA (button) showed [Qd Td] and lost with two pair, Tens and Eights
+Seat 2: baeamy (small blind) folded on the Flop
+Seat 3: Mahu2021 (big blind) showed [Ks 8c] and won (546) with three of a kind, Eights
+
+
+
+PokerStars Hand #253075383754: Tournament #3815857486, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/10/24 6:54:07 CET [2024/10/24 0:54:07 ET]
+Table '3815857486 1' 3-max Seat #3 is the button
+Seat 2: baeamy (717 in chips) 
+Seat 3: Mahu2021 (783 in chips) 
+Mahu2021: posts small blind 20
+baeamy: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh 7s]
+Mahu2021: calls 20
+baeamy: checks 
+*** FLOP *** [4h Ac 9c]
+baeamy: checks 
+Mahu2021: checks 
+*** TURN *** [4h Ac 9c] [6s]
+baeamy: checks 
+Mahu2021: checks 
+*** RIVER *** [4h Ac 9c 6s] [8s]
+baeamy: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+baeamy: shows [8d Ks] (a pair of Eights)
+Mahu2021: mucks hand 
+baeamy collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [4h Ac 9c 6s 8s]
+Seat 2: baeamy (big blind) showed [8d Ks] and won (80) with a pair of Eights
+Seat 3: Mahu2021 (button) (small blind) mucked [Jh 7s]
+
+
+
+PokerStars Hand #253075385048: Tournament #3815857486, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/10/24 6:54:23 CET [2024/10/24 0:54:23 ET]
+Table '3815857486 1' 3-max Seat #2 is the button
+Seat 2: baeamy (757 in chips) 
+Seat 3: Mahu2021 (743 in chips) 
+baeamy: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h Jd]
+baeamy: calls 20
+Mahu2021: checks 
+*** FLOP *** [4c Ac 3d]
+Mahu2021: checks 
+baeamy: checks 
+*** TURN *** [4c Ac 3d] [9h]
+Mahu2021: checks 
+baeamy: checks 
+*** RIVER *** [4c Ac 3d 9h] [Qh]
+Mahu2021: checks 
+baeamy: bets 80
+Mahu2021: folds 
+Uncalled bet (80) returned to baeamy
+baeamy collected 80 from pot
+baeamy: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [4c Ac 3d 9h Qh]
+Seat 2: baeamy (button) (small blind) collected (80)
+Seat 3: Mahu2021 (big blind) folded on the River
+
+
+
+PokerStars Hand #253075386694: Tournament #3815857486, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/10/24 6:54:42 CET [2024/10/24 0:54:42 ET]
+Table '3815857486 1' 3-max Seat #3 is the button
+Seat 2: baeamy (797 in chips) 
+Seat 3: Mahu2021 (703 in chips) 
+Mahu2021: posts small blind 20
+baeamy: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d Qc]
+Mahu2021: raises 40 to 80
+baeamy: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: baeamy (big blind) folded before Flop
+Seat 3: Mahu2021 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #253075387313: Tournament #3815857486, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/10/24 6:54:49 CET [2024/10/24 0:54:49 ET]
+Table '3815857486 1' 3-max Seat #2 is the button
+Seat 2: baeamy (757 in chips) 
+Seat 3: Mahu2021 (743 in chips) 
+baeamy: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h 3s]
+baeamy: calls 20
+Mahu2021: checks 
+*** FLOP *** [Qh Qs 7s]
+Mahu2021: checks 
+baeamy: checks 
+*** TURN *** [Qh Qs 7s] [6d]
+Mahu2021: checks 
+baeamy: checks 
+*** RIVER *** [Qh Qs 7s 6d] [6c]
+Mahu2021: checks 
+baeamy: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [8h 3s] (two pair, Queens and Sixes)
+baeamy: shows [Jc Kc] (two pair, Queens and Sixes - King kicker)
+baeamy collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Qh Qs 7s 6d 6c]
+Seat 2: baeamy (button) (small blind) showed [Jc Kc] and won (80) with two pair, Queens and Sixes
+Seat 3: Mahu2021 (big blind) showed [8h 3s] and lost with two pair, Queens and Sixes
+
+
+
+PokerStars Hand #253075389079: Tournament #3815857486, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/10/24 6:55:10 CET [2024/10/24 0:55:10 ET]
+Table '3815857486 1' 3-max Seat #3 is the button
+Seat 2: baeamy (797 in chips) 
+Seat 3: Mahu2021 (703 in chips) 
+Mahu2021: posts small blind 20
+baeamy: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8d 8c]
+Mahu2021: raises 40 to 80
+baeamy: calls 40
+*** FLOP *** [Qd 7c 7s]
+baeamy: checks 
+Mahu2021: bets 80
+baeamy: calls 80
+*** TURN *** [Qd 7c 7s] [Qc]
+baeamy: checks 
+Mahu2021: checks 
+*** RIVER *** [Qd 7c 7s Qc] [9c]
+baeamy: checks 
+Mahu2021: bets 80
+baeamy: folds 
+Uncalled bet (80) returned to Mahu2021
+Mahu2021 collected 320 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [Qd 7c 7s Qc 9c]
+Seat 2: baeamy (big blind) folded on the River
+Seat 3: Mahu2021 (button) (small blind) collected (320)
+
+
+
+PokerStars Hand #253075391082: Tournament #3815857486, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/10/24 6:55:38 CET [2024/10/24 0:55:38 ET]
+Table '3815857486 1' 3-max Seat #2 is the button
+Seat 2: baeamy (637 in chips) 
+Seat 3: Mahu2021 (863 in chips) 
+baeamy: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s Kd]
+baeamy: calls 20
+Mahu2021: checks 
+*** FLOP *** [Ac Td 5h]
+Mahu2021: checks 
+baeamy: checks 
+*** TURN *** [Ac Td 5h] [Jh]
+Mahu2021: checks 
+baeamy: checks 
+*** RIVER *** [Ac Td 5h Jh] [Jc]
+Mahu2021: bets 40
+baeamy: raises 40 to 80
+Mahu2021: folds 
+Uncalled bet (40) returned to baeamy
+baeamy collected 160 from pot
+baeamy: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Ac Td 5h Jh Jc]
+Seat 2: baeamy (button) (small blind) collected (160)
+Seat 3: Mahu2021 (big blind) folded on the River
+
+
+
+PokerStars Hand #253075392311: Tournament #3815857486, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/10/24 6:55:56 CET [2024/10/24 0:55:56 ET]
+Table '3815857486 1' 3-max Seat #3 is the button
+Seat 2: baeamy (717 in chips) 
+Seat 3: Mahu2021 (783 in chips) 
+Mahu2021: posts small blind 20
+baeamy: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h Qd]
+Mahu2021: raises 40 to 80
+baeamy: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: baeamy (big blind) folded before Flop
+Seat 3: Mahu2021 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #253075392927: Tournament #3815857486, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/10/24 6:56:05 CET [2024/10/24 0:56:05 ET]
+Table '3815857486 1' 3-max Seat #2 is the button
+Seat 2: baeamy (677 in chips) 
+Seat 3: Mahu2021 (823 in chips) 
+baeamy: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s Qh]
+baeamy: calls 20
+Mahu2021: checks 
+*** FLOP *** [9d 4s 5h]
+Mahu2021: bets 40
+baeamy: calls 40
+*** TURN *** [9d 4s 5h] [Tc]
+Mahu2021: checks 
+baeamy: checks 
+*** RIVER *** [9d 4s 5h Tc] [Js]
+Mahu2021: bets 40
+baeamy: calls 40
+*** SHOW DOWN ***
+Mahu2021: shows [5s Qh] (a pair of Fives)
+baeamy: mucks hand 
+Mahu2021 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [9d 4s 5h Tc Js]
+Seat 2: baeamy (button) (small blind) mucked [3s As]
+Seat 3: Mahu2021 (big blind) showed [5s Qh] and won (240) with a pair of Fives
+
+
+
+PokerStars Hand #253075395279: Tournament #3815857486, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/10/24 6:56:37 CET [2024/10/24 0:56:37 ET]
+Table '3815857486 1' 3-max Seat #3 is the button
+Seat 2: baeamy (557 in chips) 
+Seat 3: Mahu2021 (943 in chips) 
+Mahu2021: posts small blind 30
+baeamy: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h Qd]
+Mahu2021: raises 60 to 120
+baeamy: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: baeamy (big blind) folded before Flop
+Seat 3: Mahu2021 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #253075395848: Tournament #3815857486, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/10/24 6:56:45 CET [2024/10/24 0:56:45 ET]
+Table '3815857486 1' 3-max Seat #2 is the button
+Seat 2: baeamy (497 in chips) 
+Seat 3: Mahu2021 (1003 in chips) 
+baeamy: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h 4c]
+baeamy: calls 30
+Mahu2021: checks 
+*** FLOP *** [5c 6c Kc]
+Mahu2021: checks 
+baeamy: bets 60
+Mahu2021: calls 60
+*** TURN *** [5c 6c Kc] [3s]
+Mahu2021: checks 
+baeamy: checks 
+*** RIVER *** [5c 6c Kc 3s] [4s]
+Mahu2021: bets 120
+baeamy: calls 120
+*** SHOW DOWN ***
+Mahu2021: shows [9h 4c] (a pair of Fours)
+baeamy: shows [Qd Kd] (a pair of Kings)
+baeamy collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Board [5c 6c Kc 3s 4s]
+Seat 2: baeamy (button) (small blind) showed [Qd Kd] and won (480) with a pair of Kings
+Seat 3: Mahu2021 (big blind) showed [9h 4c] and lost with a pair of Fours
+
+
+
+PokerStars Hand #253075397301: Tournament #3815857486, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/10/24 6:57:06 CET [2024/10/24 0:57:06 ET]
+Table '3815857486 1' 3-max Seat #3 is the button
+Seat 2: baeamy (737 in chips) 
+Seat 3: Mahu2021 (763 in chips) 
+Mahu2021: posts small blind 30
+baeamy: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah Jd]
+Mahu2021: raises 703 to 763 and is all-in
+baeamy: calls 677 and is all-in
+Uncalled bet (26) returned to Mahu2021
+*** FLOP *** [Ts 2c 3c]
+*** TURN *** [Ts 2c 3c] [9c]
+*** RIVER *** [Ts 2c 3c 9c] [5h]
+*** SHOW DOWN ***
+baeamy: shows [8c Ac] (a flush, Ace high)
+Mahu2021: shows [Ah Jd] (high card Ace)
+baeamy collected 1474 from pot
+*** SUMMARY ***
+Total pot 1474 | Rake 0 
+Board [Ts 2c 3c 9c 5h]
+Seat 2: baeamy (big blind) showed [8c Ac] and won (1474) with a flush, Ace high
+Seat 3: Mahu2021 (button) (small blind) showed [Ah Jd] and lost with high card Ace
+
+
+
+PokerStars Hand #253075398234: Tournament #3815857486, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/10/24 6:57:19 CET [2024/10/24 0:57:19 ET]
+Table '3815857486 1' 3-max Seat #2 is the button
+Seat 2: baeamy (1474 in chips) 
+Seat 3: Mahu2021 (26 in chips) 
+baeamy: posts small blind 30
+Mahu2021: posts big blind 26 and is all-in
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd Qc]
+Uncalled bet (4) returned to baeamy
+*** FLOP *** [6s 8d 3s]
+*** TURN *** [6s 8d 3s] [8c]
+*** RIVER *** [6s 8d 3s 8c] [6c]
+*** SHOW DOWN ***
+Mahu2021: shows [Kd Qc] (two pair, Eights and Sixes)
+baeamy: shows [Jc 4s] (two pair, Eights and Sixes - lower kicker)
+Mahu2021 collected 52 from pot
+*** SUMMARY ***
+Total pot 52 | Rake 0 
+Board [6s 8d 3s 8c 6c]
+Seat 2: baeamy (button) (small blind) showed [Jc 4s] and lost with two pair, Eights and Sixes
+Seat 3: Mahu2021 (big blind) showed [Kd Qc] and won (52) with two pair, Eights and Sixes
+
+
+
+PokerStars Hand #253075398848: Tournament #3815857486, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/10/24 6:57:28 CET [2024/10/24 0:57:28 ET]
+Table '3815857486 1' 3-max Seat #3 is the button
+Seat 2: baeamy (1448 in chips) 
+Seat 3: Mahu2021 (52 in chips) 
+Mahu2021: posts small blind 30
+baeamy: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc Kh]
+Mahu2021: calls 22 and is all-in
+Uncalled bet (8) returned to baeamy
+*** FLOP *** [5h 4d Qh]
+*** TURN *** [5h 4d Qh] [Jh]
+*** RIVER *** [5h 4d Qh Jh] [2c]
+*** SHOW DOWN ***
+baeamy: shows [8d 2d] (a pair of Deuces)
+Mahu2021: shows [Jc Kh] (a pair of Jacks)
+Mahu2021 collected 104 from pot
+*** SUMMARY ***
+Total pot 104 | Rake 0 
+Board [5h 4d Qh Jh 2c]
+Seat 2: baeamy (big blind) showed [8d 2d] and lost with a pair of Deuces
+Seat 3: Mahu2021 (button) (small blind) showed [Jc Kh] and won (104) with a pair of Jacks
+
+
+
+PokerStars Hand #253075399549: Tournament #3815857486, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/10/24 6:57:38 CET [2024/10/24 0:57:38 ET]
+Table '3815857486 1' 3-max Seat #2 is the button
+Seat 2: baeamy (1396 in chips) 
+Seat 3: Mahu2021 (104 in chips) 
+baeamy: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd 6c]
+baeamy: raises 1336 to 1396 and is all-in
+Mahu2021: calls 44 and is all-in
+Uncalled bet (1292) returned to baeamy
+*** FLOP *** [3s Js Qc]
+*** TURN *** [3s Js Qc] [Ah]
+*** RIVER *** [3s Js Qc Ah] [2d]
+*** SHOW DOWN ***
+Mahu2021: shows [Kd 6c] (high card Ace)
+baeamy: shows [3c 4s] (a pair of Threes)
+baeamy collected 208 from pot
+Mahu2021 finished the tournament in 2nd place
+baeamy wins the tournament and receives $6.00 - congratulations!
+*** SUMMARY ***
+Total pot 208 | Rake 0 
+Board [3s Js Qc Ah 2d]
+Seat 2: baeamy (button) (small blind) showed [3c 4s] and won (208) with a pair of Threes
+Seat 3: Mahu2021 (big blind) showed [Kd 6c] and lost with high card Ace
+
+
+

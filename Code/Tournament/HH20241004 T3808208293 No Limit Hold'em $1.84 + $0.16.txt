@@ -1,0 +1,1359 @@
+﻿PokerStars Hand #252767906223: Tournament #3808208293, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/04 22:50:30 CET [2024/10/04 16:50:30 ET]
+Table '3808208293 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: goonertone7 (500 in chips) 
+Seat 3: blazeab (500 in chips) 
+goonertone7: posts small blind 10
+blazeab: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac 3s]
+Mahu2021: calls 20
+goonertone7: calls 10
+blazeab: checks 
+*** FLOP *** [3h 8c 5c]
+goonertone7: checks 
+blazeab: checks 
+Mahu2021: bets 20
+goonertone7: calls 20
+blazeab: folds 
+*** TURN *** [3h 8c 5c] [Qc]
+goonertone7: checks 
+Mahu2021: checks 
+*** RIVER *** [3h 8c 5c Qc] [Jh]
+goonertone7: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+goonertone7: shows [Kh 3d] (a pair of Threes)
+Mahu2021: shows [Ac 3s] (a pair of Threes - Ace kicker)
+Mahu2021 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [3h 8c 5c Qc Jh]
+Seat 1: Mahu2021 (button) showed [Ac 3s] and won (100) with a pair of Threes
+Seat 2: goonertone7 (small blind) showed [Kh 3d] and lost with a pair of Threes
+Seat 3: blazeab (big blind) folded on the Flop
+
+
+
+PokerStars Hand #252767914617: Tournament #3808208293, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/04 22:50:57 CET [2024/10/04 16:50:57 ET]
+Table '3808208293 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (560 in chips) 
+Seat 2: goonertone7 (460 in chips) 
+Seat 3: blazeab (480 in chips) 
+blazeab: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js Kh]
+goonertone7: raises 40 to 60
+blazeab: folds 
+Mahu2021: calls 40
+*** FLOP *** [6d Qd 2d]
+Mahu2021: checks 
+goonertone7: checks 
+*** TURN *** [6d Qd 2d] [Tc]
+Mahu2021: checks 
+goonertone7: checks 
+*** RIVER *** [6d Qd 2d Tc] [6c]
+Mahu2021: checks 
+goonertone7: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [Js Kh] (a pair of Sixes)
+goonertone7: shows [Ah 5h] (a pair of Sixes - Ace kicker)
+goonertone7 collected 130 from pot
+*** SUMMARY ***
+Total pot 130 | Rake 0 
+Board [6d Qd 2d Tc 6c]
+Seat 1: Mahu2021 (big blind) showed [Js Kh] and lost with a pair of Sixes
+Seat 2: goonertone7 (button) showed [Ah 5h] and won (130) with a pair of Sixes
+Seat 3: blazeab (small blind) folded before Flop
+
+
+
+PokerStars Hand #252767921191: Tournament #3808208293, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/04 22:51:19 CET [2024/10/04 16:51:19 ET]
+Table '3808208293 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: goonertone7 (530 in chips) 
+Seat 3: blazeab (470 in chips) 
+Mahu2021: posts small blind 10
+goonertone7: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2c 6h]
+blazeab: calls 20
+Mahu2021: folds 
+goonertone7: checks 
+*** FLOP *** [Th 6d Ts]
+goonertone7: checks 
+blazeab: checks 
+*** TURN *** [Th 6d Ts] [7s]
+goonertone7: checks 
+blazeab: checks 
+*** RIVER *** [Th 6d Ts 7s] [4s]
+goonertone7: checks 
+blazeab: bets 40
+goonertone7: calls 40
+*** SHOW DOWN ***
+blazeab: shows [3s 5s] (a flush, Ten high)
+goonertone7: mucks hand 
+blazeab collected 130 from pot
+*** SUMMARY ***
+Total pot 130 | Rake 0 
+Board [Th 6d Ts 7s 4s]
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: goonertone7 (big blind) mucked [9d 7c]
+Seat 3: blazeab (button) showed [3s 5s] and won (130) with a flush, Ten high
+
+
+
+PokerStars Hand #252767931900: Tournament #3808208293, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/04 22:51:53 CET [2024/10/04 16:51:53 ET]
+Table '3808208293 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (490 in chips) 
+Seat 2: goonertone7 (470 in chips) 
+Seat 3: blazeab (540 in chips) 
+goonertone7: posts small blind 10
+blazeab: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah 3d]
+Mahu2021: calls 20
+goonertone7: raises 40 to 60
+blazeab: folds 
+Mahu2021: calls 40
+*** FLOP *** [Ts 7c As]
+goonertone7: checks 
+Mahu2021: bets 40
+goonertone7: calls 40
+*** TURN *** [Ts 7c As] [8s]
+goonertone7: checks 
+Mahu2021: checks 
+*** RIVER *** [Ts 7c As 8s] [2d]
+goonertone7: checks 
+Mahu2021: bets 80
+goonertone7: folds 
+Uncalled bet (80) returned to Mahu2021
+Mahu2021 collected 220 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 220 | Rake 0 
+Board [Ts 7c As 8s 2d]
+Seat 1: Mahu2021 (button) collected (220)
+Seat 2: goonertone7 (small blind) folded on the River
+Seat 3: blazeab (big blind) folded before Flop
+
+
+
+PokerStars Hand #252767941804: Tournament #3808208293, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/04 22:52:26 CET [2024/10/04 16:52:26 ET]
+Table '3808208293 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (610 in chips) 
+Seat 2: goonertone7 (370 in chips) 
+Seat 3: blazeab (520 in chips) 
+blazeab: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c 3d]
+goonertone7: folds 
+blazeab: calls 10
+Mahu2021: checks 
+*** FLOP *** [Qs Js 2h]
+blazeab: checks 
+Mahu2021: checks 
+*** TURN *** [Qs Js 2h] [9c]
+blazeab: checks 
+Mahu2021: checks 
+*** RIVER *** [Qs Js 2h 9c] [3c]
+blazeab: checks 
+Mahu2021: bets 20
+blazeab: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Qs Js 2h 9c 3c]
+Seat 1: Mahu2021 (big blind) collected (40)
+Seat 2: goonertone7 (button) folded before Flop (didn't bet)
+Seat 3: blazeab (small blind) folded on the River
+
+
+
+PokerStars Hand #252767947250: Tournament #3808208293, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/04 22:52:44 CET [2024/10/04 16:52:44 ET]
+Table '3808208293 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (630 in chips) 
+Seat 2: goonertone7 (370 in chips) 
+Seat 3: blazeab (500 in chips) 
+Mahu2021: posts small blind 15
+goonertone7: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h Jh]
+blazeab: calls 30
+Mahu2021: calls 15
+goonertone7: raises 60 to 90
+blazeab: calls 60
+Mahu2021: folds 
+*** FLOP *** [Ah 6c Qs]
+goonertone7: bets 150
+blazeab: folds 
+Uncalled bet (150) returned to goonertone7
+goonertone7 collected 210 from pot
+goonertone7: doesn't show hand 
+*** SUMMARY ***
+Total pot 210 | Rake 0 
+Board [Ah 6c Qs]
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: goonertone7 (big blind) collected (210)
+Seat 3: blazeab (button) folded on the Flop
+
+
+
+PokerStars Hand #252767954649: Tournament #3808208293, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/04 22:53:07 CET [2024/10/04 16:53:07 ET]
+Table '3808208293 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (600 in chips) 
+Seat 2: goonertone7 (490 in chips) 
+Seat 3: blazeab (410 in chips) 
+goonertone7: posts small blind 15
+blazeab: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h 8c]
+Mahu2021: folds 
+goonertone7: folds 
+Uncalled bet (15) returned to blazeab
+blazeab collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: goonertone7 (small blind) folded before Flop
+Seat 3: blazeab (big blind) collected (30)
+
+
+
+PokerStars Hand #252767956850: Tournament #3808208293, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/04 22:53:14 CET [2024/10/04 16:53:14 ET]
+Table '3808208293 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (600 in chips) 
+Seat 2: goonertone7 (475 in chips) 
+Seat 3: blazeab (425 in chips) 
+blazeab: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d 4s]
+goonertone7: folds 
+blazeab: raises 30 to 60
+Mahu2021: folds 
+Uncalled bet (30) returned to blazeab
+blazeab collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: goonertone7 (button) folded before Flop (didn't bet)
+Seat 3: blazeab (small blind) collected (60)
+
+
+
+PokerStars Hand #252767958993: Tournament #3808208293, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/04 22:53:21 CET [2024/10/04 16:53:21 ET]
+Table '3808208293 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (570 in chips) 
+Seat 2: goonertone7 (475 in chips) 
+Seat 3: blazeab (455 in chips) 
+Mahu2021: posts small blind 15
+goonertone7: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d 9h]
+blazeab: raises 30 to 60
+Mahu2021: folds 
+goonertone7: folds 
+Uncalled bet (30) returned to blazeab
+blazeab collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: goonertone7 (big blind) folded before Flop
+Seat 3: blazeab (button) collected (75)
+
+
+
+PokerStars Hand #252767960903: Tournament #3808208293, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/04 22:53:27 CET [2024/10/04 16:53:27 ET]
+Table '3808208293 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (555 in chips) 
+Seat 2: goonertone7 (445 in chips) 
+Seat 3: blazeab (500 in chips) 
+goonertone7: posts small blind 15
+blazeab: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h Ad]
+Mahu2021: raises 30 to 60
+goonertone7: folds 
+blazeab: calls 30
+*** FLOP *** [6s 2h 8c]
+blazeab: bets 30
+Mahu2021: calls 30
+*** TURN *** [6s 2h 8c] [Ks]
+blazeab: checks 
+Mahu2021: checks 
+*** RIVER *** [6s 2h 8c Ks] [Ac]
+blazeab: checks 
+Mahu2021: bets 60
+blazeab: calls 60
+*** SHOW DOWN ***
+Mahu2021: shows [7h Ad] (a pair of Aces)
+blazeab: mucks hand 
+Mahu2021 collected 315 from pot
+*** SUMMARY ***
+Total pot 315 | Rake 0 
+Board [6s 2h 8c Ks Ac]
+Seat 1: Mahu2021 (button) showed [7h Ad] and won (315) with a pair of Aces
+Seat 2: goonertone7 (small blind) folded before Flop
+Seat 3: blazeab (big blind) mucked [8s 4s]
+
+
+
+PokerStars Hand #252767972496: Tournament #3808208293, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/10/04 22:54:05 CET [2024/10/04 16:54:05 ET]
+Table '3808208293 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (720 in chips) 
+Seat 2: goonertone7 (430 in chips) 
+Seat 3: blazeab (350 in chips) 
+blazeab: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2s Ac]
+goonertone7 has timed out
+goonertone7: folds 
+goonertone7 is sitting out
+blazeab: calls 15
+Mahu2021: checks 
+*** FLOP *** [8s Qd 2d]
+goonertone7 has returned
+blazeab: checks 
+Mahu2021: bets 30
+blazeab: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [8s Qd 2d]
+Seat 1: Mahu2021 (big blind) collected (60)
+Seat 2: goonertone7 (button) folded before Flop (didn't bet)
+Seat 3: blazeab (small blind) folded on the Flop
+
+
+
+PokerStars Hand #252767981822: Tournament #3808208293, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/10/04 22:54:35 CET [2024/10/04 16:54:35 ET]
+Table '3808208293 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (750 in chips) 
+Seat 2: goonertone7 (430 in chips) 
+Seat 3: blazeab (320 in chips) 
+Mahu2021: posts small blind 20
+goonertone7: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh 2d]
+blazeab: folds 
+Mahu2021: folds 
+Uncalled bet (20) returned to goonertone7
+goonertone7 collected 40 from pot
+goonertone7: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: goonertone7 (big blind) collected (40)
+Seat 3: blazeab (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #252767983660: Tournament #3808208293, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/10/04 22:54:41 CET [2024/10/04 16:54:41 ET]
+Table '3808208293 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (730 in chips) 
+Seat 2: goonertone7 (450 in chips) 
+Seat 3: blazeab (320 in chips) 
+goonertone7: posts small blind 20
+blazeab: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s 7d]
+Mahu2021: folds 
+goonertone7: calls 20
+blazeab: checks 
+*** FLOP *** [Qs Ad 2s]
+goonertone7: checks 
+blazeab: checks 
+*** TURN *** [Qs Ad 2s] [3d]
+goonertone7: checks 
+blazeab: checks 
+*** RIVER *** [Qs Ad 2s 3d] [Kc]
+goonertone7: checks 
+blazeab: checks 
+*** SHOW DOWN ***
+goonertone7: shows [6s 4s] (high card Ace)
+blazeab: shows [6d 8d] (high card Ace - King+Queen+Eight kicker)
+blazeab collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Qs Ad 2s 3d Kc]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: goonertone7 (small blind) showed [6s 4s] and lost with high card Ace
+Seat 3: blazeab (big blind) showed [6d 8d] and won (80) with high card Ace
+
+
+
+PokerStars Hand #252767992119: Tournament #3808208293, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/10/04 22:55:09 CET [2024/10/04 16:55:09 ET]
+Table '3808208293 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (730 in chips) 
+Seat 2: goonertone7 (410 in chips) 
+Seat 3: blazeab (360 in chips) 
+blazeab: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc Ks]
+goonertone7: folds 
+blazeab: calls 20
+Mahu2021: raises 120 to 160
+blazeab: folds 
+Uncalled bet (120) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (80)
+Seat 2: goonertone7 (button) folded before Flop (didn't bet)
+Seat 3: blazeab (small blind) folded before Flop
+
+
+
+PokerStars Hand #252767996064: Tournament #3808208293, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/10/04 22:55:27 CET [2024/10/04 16:55:27 ET]
+Table '3808208293 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (770 in chips) 
+Seat 2: goonertone7 (410 in chips) 
+Seat 3: blazeab (320 in chips) 
+Mahu2021: posts small blind 20
+goonertone7: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3c Jh]
+blazeab: raises 40 to 80
+Mahu2021: folds 
+goonertone7: raises 120 to 200
+blazeab: raises 120 to 320 and is all-in
+goonertone7: calls 120
+*** FLOP *** [8c Jd 4d]
+*** TURN *** [8c Jd 4d] [9d]
+*** RIVER *** [8c Jd 4d 9d] [5d]
+*** SHOW DOWN ***
+goonertone7: shows [Ad Kh] (a flush, Ace high)
+blazeab: shows [Qs As] (high card Ace)
+goonertone7 collected 660 from pot
+blazeab finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 660 | Rake 0 
+Board [8c Jd 4d 9d 5d]
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: goonertone7 (big blind) showed [Ad Kh] and won (660) with a flush, Ace high
+Seat 3: blazeab (button) showed [Qs As] and lost with high card Ace
+
+
+
+PokerStars Hand #252768001630: Tournament #3808208293, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/10/04 22:55:52 CET [2024/10/04 16:55:52 ET]
+Table '3808208293 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (750 in chips) 
+Seat 2: goonertone7 (750 in chips) 
+goonertone7: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c Ac]
+goonertone7: raises 40 to 80
+Mahu2021: calls 40
+*** FLOP *** [Jd 9s 8c]
+Mahu2021: checks 
+goonertone7: bets 80
+Mahu2021: folds 
+Uncalled bet (80) returned to goonertone7
+goonertone7 collected 160 from pot
+goonertone7: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Jd 9s 8c]
+Seat 1: Mahu2021 (big blind) folded on the Flop
+Seat 2: goonertone7 (button) (small blind) collected (160)
+
+
+
+PokerStars Hand #252768005912: Tournament #3808208293, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/10/04 22:56:11 CET [2024/10/04 16:56:11 ET]
+Table '3808208293 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (670 in chips) 
+Seat 2: goonertone7 (830 in chips) 
+Mahu2021: posts small blind 20
+goonertone7: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s 7d]
+Mahu2021: calls 20
+goonertone7: checks 
+*** FLOP *** [Jh Qc 4h]
+goonertone7: checks 
+Mahu2021: checks 
+*** TURN *** [Jh Qc 4h] [4d]
+goonertone7: bets 40
+Mahu2021: folds 
+Uncalled bet (40) returned to goonertone7
+goonertone7 collected 80 from pot
+goonertone7: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Jh Qc 4h 4d]
+Seat 1: Mahu2021 (button) (small blind) folded on the Turn
+Seat 2: goonertone7 (big blind) collected (80)
+
+
+
+PokerStars Hand #252768010563: Tournament #3808208293, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/10/04 22:56:31 CET [2024/10/04 16:56:31 ET]
+Table '3808208293 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (630 in chips) 
+Seat 2: goonertone7 (870 in chips) 
+goonertone7: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h 4c]
+goonertone7: raises 40 to 80
+Mahu2021: raises 550 to 630 and is all-in
+goonertone7: calls 550
+*** FLOP *** [2s 7c Js]
+*** TURN *** [2s 7c Js] [3s]
+*** RIVER *** [2s 7c Js 3s] [2d]
+*** SHOW DOWN ***
+Mahu2021: shows [4h 4c] (two pair, Fours and Deuces)
+goonertone7: shows [Kd Ad] (a pair of Deuces)
+Mahu2021 collected 1260 from pot
+*** SUMMARY ***
+Total pot 1260 | Rake 0 
+Board [2s 7c Js 3s 2d]
+Seat 1: Mahu2021 (big blind) showed [4h 4c] and won (1260) with two pair, Fours and Deuces
+Seat 2: goonertone7 (button) (small blind) showed [Kd Ad] and lost with a pair of Deuces
+
+
+
+PokerStars Hand #252768015106: Tournament #3808208293, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/10/04 22:56:51 CET [2024/10/04 16:56:51 ET]
+Table '3808208293 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1260 in chips) 
+Seat 2: goonertone7 (240 in chips) 
+Mahu2021: posts small blind 30
+goonertone7: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h Js]
+Mahu2021: folds 
+Uncalled bet (30) returned to goonertone7
+goonertone7 collected 60 from pot
+goonertone7: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 2: goonertone7 (big blind) collected (60)
+
+
+
+PokerStars Hand #252768016225: Tournament #3808208293, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/10/04 22:56:56 CET [2024/10/04 16:56:56 ET]
+Table '3808208293 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (1230 in chips) 
+Seat 2: goonertone7 (270 in chips) 
+goonertone7: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh Ad]
+goonertone7: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (60)
+Seat 2: goonertone7 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #252768017410: Tournament #3808208293, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/10/04 22:57:01 CET [2024/10/04 16:57:01 ET]
+Table '3808208293 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1260 in chips) 
+Seat 2: goonertone7 (240 in chips) 
+Mahu2021: posts small blind 30
+goonertone7: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5h 7c]
+Mahu2021: folds 
+Uncalled bet (30) returned to goonertone7
+goonertone7 collected 60 from pot
+goonertone7: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 2: goonertone7 (big blind) collected (60)
+
+
+
+PokerStars Hand #252768018367: Tournament #3808208293, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/10/04 22:57:06 CET [2024/10/04 16:57:06 ET]
+Table '3808208293 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (1230 in chips) 
+Seat 2: goonertone7 (270 in chips) 
+goonertone7: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2c Ts]
+goonertone7: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (60)
+Seat 2: goonertone7 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #252768020182: Tournament #3808208293, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/10/04 22:57:14 CET [2024/10/04 16:57:14 ET]
+Table '3808208293 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1260 in chips) 
+Seat 2: goonertone7 (240 in chips) 
+Mahu2021: posts small blind 30
+goonertone7: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5h 3c]
+Mahu2021: folds 
+Uncalled bet (30) returned to goonertone7
+goonertone7 collected 60 from pot
+goonertone7: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 2: goonertone7 (big blind) collected (60)
+
+
+
+PokerStars Hand #252768021171: Tournament #3808208293, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/10/04 22:57:18 CET [2024/10/04 16:57:18 ET]
+Table '3808208293 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (1230 in chips) 
+Seat 2: goonertone7 (270 in chips) 
+goonertone7: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3c Qd]
+goonertone7: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (60)
+Seat 2: goonertone7 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #252768023490: Tournament #3808208293, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/10/04 22:57:28 CET [2024/10/04 16:57:28 ET]
+Table '3808208293 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1260 in chips) 
+Seat 2: goonertone7 (240 in chips) 
+Mahu2021: posts small blind 30
+goonertone7: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh 3h]
+Mahu2021: raises 60 to 120
+goonertone7: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) collected (120)
+Seat 2: goonertone7 (big blind) folded before Flop
+
+
+
+PokerStars Hand #252768024854: Tournament #3808208293, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/10/04 22:57:34 CET [2024/10/04 16:57:34 ET]
+Table '3808208293 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (1320 in chips) 
+Seat 2: goonertone7 (180 in chips) 
+goonertone7: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc 3d]
+goonertone7: raises 60 to 120
+Mahu2021: raises 60 to 180
+goonertone7: calls 60 and is all-in
+*** FLOP *** [5d Kd 4h]
+*** TURN *** [5d Kd 4h] [4d]
+*** RIVER *** [5d Kd 4h 4d] [Js]
+*** SHOW DOWN ***
+Mahu2021: shows [Qc 3d] (a pair of Fours)
+goonertone7: shows [Jc Tc] (two pair, Jacks and Fours)
+goonertone7 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [5d Kd 4h 4d Js]
+Seat 1: Mahu2021 (big blind) showed [Qc 3d] and lost with a pair of Fours
+Seat 2: goonertone7 (button) (small blind) showed [Jc Tc] and won (360) with two pair, Jacks and Fours
+
+
+
+PokerStars Hand #252768028462: Tournament #3808208293, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/10/04 22:57:50 CET [2024/10/04 16:57:50 ET]
+Table '3808208293 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1140 in chips) 
+Seat 2: goonertone7 (360 in chips) 
+Mahu2021: posts small blind 30
+goonertone7: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s 9c]
+Mahu2021: folds 
+Uncalled bet (30) returned to goonertone7
+goonertone7 collected 60 from pot
+goonertone7: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 2: goonertone7 (big blind) collected (60)
+
+
+
+PokerStars Hand #252768029415: Tournament #3808208293, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/10/04 22:57:54 CET [2024/10/04 16:57:54 ET]
+Table '3808208293 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (1110 in chips) 
+Seat 2: goonertone7 (390 in chips) 
+goonertone7: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s 8h]
+goonertone7: raises 60 to 120
+Mahu2021: calls 60
+*** FLOP *** [9h 2h Js]
+Mahu2021: bets 990 and is all-in
+goonertone7: folds 
+Uncalled bet (990) returned to Mahu2021
+Mahu2021 collected 240 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [9h 2h Js]
+Seat 1: Mahu2021 (big blind) collected (240)
+Seat 2: goonertone7 (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #252768032706: Tournament #3808208293, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/10/04 22:58:09 CET [2024/10/04 16:58:09 ET]
+Table '3808208293 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1230 in chips) 
+Seat 2: goonertone7 (270 in chips) 
+Mahu2021: posts small blind 30
+goonertone7: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qd Td]
+Mahu2021: raises 60 to 120
+goonertone7: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) collected (120)
+Seat 2: goonertone7 (big blind) folded before Flop
+
+
+
+PokerStars Hand #252768034031: Tournament #3808208293, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/10/04 22:58:14 CET [2024/10/04 16:58:14 ET]
+Table '3808208293 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (1290 in chips) 
+Seat 2: goonertone7 (210 in chips) 
+goonertone7: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4d 5h]
+goonertone7: raises 150 to 210 and is all-in
+Mahu2021: folds 
+Uncalled bet (150) returned to goonertone7
+goonertone7 collected 120 from pot
+goonertone7: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: goonertone7 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #252768039296: Tournament #3808208293, $1.84+$0.16 USD Hold'em No Limit - Level V (40/80) - 2024/10/04 22:58:37 CET [2024/10/04 16:58:37 ET]
+Table '3808208293 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1230 in chips) 
+Seat 2: goonertone7 (270 in chips) 
+Mahu2021: posts small blind 40
+goonertone7: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6h 9d]
+Mahu2021: folds 
+Uncalled bet (40) returned to goonertone7
+goonertone7 collected 80 from pot
+goonertone7: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 2: goonertone7 (big blind) collected (80)
+
+
+
+PokerStars Hand #252768040279: Tournament #3808208293, $1.84+$0.16 USD Hold'em No Limit - Level V (40/80) - 2024/10/04 22:58:42 CET [2024/10/04 16:58:42 ET]
+Table '3808208293 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (1190 in chips) 
+Seat 2: goonertone7 (310 in chips) 
+goonertone7: posts small blind 40
+Mahu2021: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad As]
+goonertone7: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (80)
+Seat 2: goonertone7 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #252768041717: Tournament #3808208293, $1.84+$0.16 USD Hold'em No Limit - Level V (40/80) - 2024/10/04 22:58:48 CET [2024/10/04 16:58:48 ET]
+Table '3808208293 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1230 in chips) 
+Seat 2: goonertone7 (270 in chips) 
+Mahu2021: posts small blind 40
+goonertone7: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d 6h]
+Mahu2021: raises 1150 to 1230 and is all-in
+goonertone7: calls 190 and is all-in
+Uncalled bet (960) returned to Mahu2021
+*** FLOP *** [Ts Kc Jd]
+*** TURN *** [Ts Kc Jd] [Jh]
+*** RIVER *** [Ts Kc Jd Jh] [9s]
+*** SHOW DOWN ***
+goonertone7: shows [Qc Kd] (a straight, Nine to King)
+Mahu2021: shows [6d 6h] (two pair, Jacks and Sixes)
+goonertone7 collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | Rake 0 
+Board [Ts Kc Jd Jh 9s]
+Seat 1: Mahu2021 (button) (small blind) showed [6d 6h] and lost with two pair, Jacks and Sixes
+Seat 2: goonertone7 (big blind) showed [Qc Kd] and won (540) with a straight, Nine to King
+
+
+
+PokerStars Hand #252768044744: Tournament #3808208293, $1.84+$0.16 USD Hold'em No Limit - Level V (40/80) - 2024/10/04 22:59:01 CET [2024/10/04 16:59:01 ET]
+Table '3808208293 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (960 in chips) 
+Seat 2: goonertone7 (540 in chips) 
+goonertone7: posts small blind 40
+Mahu2021: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8c 8d]
+goonertone7: raises 80 to 160
+Mahu2021: raises 800 to 960 and is all-in
+goonertone7: folds 
+Uncalled bet (800) returned to Mahu2021
+Mahu2021 collected 320 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (320)
+Seat 2: goonertone7 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #252768047510: Tournament #3808208293, $1.84+$0.16 USD Hold'em No Limit - Level V (40/80) - 2024/10/04 22:59:13 CET [2024/10/04 16:59:13 ET]
+Table '3808208293 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1120 in chips) 
+Seat 2: goonertone7 (380 in chips) 
+Mahu2021: posts small blind 40
+goonertone7: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8d 3s]
+Mahu2021: folds 
+Uncalled bet (40) returned to goonertone7
+goonertone7 collected 80 from pot
+goonertone7: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 2: goonertone7 (big blind) collected (80)
+
+
+
+PokerStars Hand #252768048542: Tournament #3808208293, $1.84+$0.16 USD Hold'em No Limit - Level V (40/80) - 2024/10/04 22:59:18 CET [2024/10/04 16:59:18 ET]
+Table '3808208293 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (1080 in chips) 
+Seat 2: goonertone7 (420 in chips) 
+goonertone7: posts small blind 40
+Mahu2021: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c 9d]
+goonertone7: raises 80 to 160
+Mahu2021: raises 920 to 1080 and is all-in
+goonertone7: calls 260 and is all-in
+Uncalled bet (660) returned to Mahu2021
+*** FLOP *** [Js Th 2d]
+*** TURN *** [Js Th 2d] [Ad]
+*** RIVER *** [Js Th 2d Ad] [Tc]
+*** SHOW DOWN ***
+Mahu2021: shows [9c 9d] (two pair, Tens and Nines)
+goonertone7: shows [Jc 4c] (two pair, Jacks and Tens)
+goonertone7 collected 840 from pot
+*** SUMMARY ***
+Total pot 840 | Rake 0 
+Board [Js Th 2d Ad Tc]
+Seat 1: Mahu2021 (big blind) showed [9c 9d] and lost with two pair, Tens and Nines
+Seat 2: goonertone7 (button) (small blind) showed [Jc 4c] and won (840) with two pair, Jacks and Tens
+
+
+
+PokerStars Hand #252768052033: Tournament #3808208293, $1.84+$0.16 USD Hold'em No Limit - Level V (40/80) - 2024/10/04 22:59:33 CET [2024/10/04 16:59:33 ET]
+Table '3808208293 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (660 in chips) 
+Seat 2: goonertone7 (840 in chips) 
+Mahu2021: posts small blind 40
+goonertone7: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6h 2c]
+Mahu2021: folds 
+Uncalled bet (40) returned to goonertone7
+goonertone7 collected 80 from pot
+goonertone7: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 2: goonertone7 (big blind) collected (80)
+
+
+
+PokerStars Hand #252768052954: Tournament #3808208293, $1.84+$0.16 USD Hold'em No Limit - Level V (40/80) - 2024/10/04 22:59:37 CET [2024/10/04 16:59:37 ET]
+Table '3808208293 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (620 in chips) 
+Seat 2: goonertone7 (880 in chips) 
+goonertone7: posts small blind 40
+Mahu2021: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c 7d]
+goonertone7: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (80)
+Seat 2: goonertone7 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #252768054622: Tournament #3808208293, $1.84+$0.16 USD Hold'em No Limit - Level V (40/80) - 2024/10/04 22:59:45 CET [2024/10/04 16:59:45 ET]
+Table '3808208293 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (660 in chips) 
+Seat 2: goonertone7 (840 in chips) 
+Mahu2021: posts small blind 40
+goonertone7: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Tc Ad]
+Mahu2021: raises 80 to 160
+goonertone7: folds 
+Uncalled bet (80) returned to Mahu2021
+Mahu2021 collected 160 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) collected (160)
+Seat 2: goonertone7 (big blind) folded before Flop
+
+
+
+PokerStars Hand #252768056014: Tournament #3808208293, $1.84+$0.16 USD Hold'em No Limit - Level V (40/80) - 2024/10/04 22:59:51 CET [2024/10/04 16:59:51 ET]
+Table '3808208293 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (740 in chips) 
+Seat 2: goonertone7 (760 in chips) 
+goonertone7: posts small blind 40
+Mahu2021: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h 2s]
+goonertone7: raises 80 to 160
+Mahu2021: folds 
+Uncalled bet (80) returned to goonertone7
+goonertone7 collected 160 from pot
+goonertone7: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: goonertone7 (button) (small blind) collected (160)
+
+
+
+PokerStars Hand #252768057297: Tournament #3808208293, $1.84+$0.16 USD Hold'em No Limit - Level V (40/80) - 2024/10/04 22:59:56 CET [2024/10/04 16:59:56 ET]
+Table '3808208293 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (660 in chips) 
+Seat 2: goonertone7 (840 in chips) 
+Mahu2021: posts small blind 40
+goonertone7: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h Ah]
+Mahu2021: raises 80 to 160
+goonertone7: calls 80
+*** FLOP *** [As Qh 2s]
+goonertone7: checks 
+Mahu2021: bets 160
+goonertone7: raises 520 to 680 and is all-in
+Mahu2021: calls 340 and is all-in
+Uncalled bet (180) returned to goonertone7
+*** TURN *** [As Qh 2s] [7s]
+*** RIVER *** [As Qh 2s 7s] [Jc]
+*** SHOW DOWN ***
+goonertone7: shows [Qd 5d] (a pair of Queens)
+Mahu2021: shows [8h Ah] (a pair of Aces)
+Mahu2021 collected 1320 from pot
+*** SUMMARY ***
+Total pot 1320 | Rake 0 
+Board [As Qh 2s 7s Jc]
+Seat 1: Mahu2021 (button) (small blind) showed [8h Ah] and won (1320) with a pair of Aces
+Seat 2: goonertone7 (big blind) showed [Qd 5d] and lost with a pair of Queens
+
+
+
+PokerStars Hand #252768061942: Tournament #3808208293, $1.84+$0.16 USD Hold'em No Limit - Level V (40/80) - 2024/10/04 23:00:16 CET [2024/10/04 17:00:16 ET]
+Table '3808208293 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (1320 in chips) 
+Seat 2: goonertone7 (180 in chips) 
+goonertone7: posts small blind 40
+Mahu2021: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac 9c]
+goonertone7: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (80)
+Seat 2: goonertone7 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #252768063296: Tournament #3808208293, $1.84+$0.16 USD Hold'em No Limit - Level V (40/80) - 2024/10/04 23:00:22 CET [2024/10/04 17:00:22 ET]
+Table '3808208293 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1360 in chips) 
+Seat 2: goonertone7 (140 in chips) 
+Mahu2021: posts small blind 40
+goonertone7: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c 4c]
+Mahu2021: folds 
+Uncalled bet (40) returned to goonertone7
+goonertone7 collected 80 from pot
+goonertone7: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 2: goonertone7 (big blind) collected (80)
+
+
+
+PokerStars Hand #252768064352: Tournament #3808208293, $1.84+$0.16 USD Hold'em No Limit - Level V (40/80) - 2024/10/04 23:00:26 CET [2024/10/04 17:00:26 ET]
+Table '3808208293 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (1320 in chips) 
+Seat 2: goonertone7 (180 in chips) 
+goonertone7: posts small blind 40
+Mahu2021: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s Kc]
+goonertone7: raises 80 to 160
+Mahu2021: raises 80 to 240
+goonertone7: calls 20 and is all-in
+Uncalled bet (60) returned to Mahu2021
+*** FLOP *** [Ts 9c 7s]
+*** TURN *** [Ts 9c 7s] [8d]
+*** RIVER *** [Ts 9c 7s 8d] [Jc]
+*** SHOW DOWN ***
+Mahu2021: shows [5s Kc] (a straight, Seven to Jack)
+goonertone7: shows [Qs 4h] (a straight, Eight to Queen)
+goonertone7 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [Ts 9c 7s 8d Jc]
+Seat 1: Mahu2021 (big blind) showed [5s Kc] and lost with a straight, Seven to Jack
+Seat 2: goonertone7 (button) (small blind) showed [Qs 4h] and won (360) with a straight, Eight to Queen
+
+
+
+PokerStars Hand #252768069305: Tournament #3808208293, $1.84+$0.16 USD Hold'em No Limit - Level VI (50/100) - 2024/10/04 23:00:47 CET [2024/10/04 17:00:47 ET]
+Table '3808208293 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1140 in chips) 
+Seat 2: goonertone7 (360 in chips) 
+Mahu2021: posts small blind 50
+goonertone7: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh 5d]
+Mahu2021: raises 1040 to 1140 and is all-in
+goonertone7: folds 
+Uncalled bet (1040) returned to Mahu2021
+Mahu2021 collected 200 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) collected (200)
+Seat 2: goonertone7 (big blind) folded before Flop
+
+
+
+PokerStars Hand #252768071238: Tournament #3808208293, $1.84+$0.16 USD Hold'em No Limit - Level VI (50/100) - 2024/10/04 23:00:54 CET [2024/10/04 17:00:54 ET]
+Table '3808208293 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (1240 in chips) 
+Seat 2: goonertone7 (260 in chips) 
+goonertone7: posts small blind 50
+Mahu2021: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5h Tc]
+goonertone7: raises 100 to 200
+Mahu2021: folds 
+Uncalled bet (100) returned to goonertone7
+goonertone7 collected 200 from pot
+goonertone7: doesn't show hand 
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: goonertone7 (button) (small blind) collected (200)
+
+
+
+PokerStars Hand #252768073809: Tournament #3808208293, $1.84+$0.16 USD Hold'em No Limit - Level VI (50/100) - 2024/10/04 23:01:04 CET [2024/10/04 17:01:04 ET]
+Table '3808208293 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1140 in chips) 
+Seat 2: goonertone7 (360 in chips) 
+Mahu2021: posts small blind 50
+goonertone7: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c Js]
+Mahu2021: calls 50
+goonertone7: raises 260 to 360 and is all-in
+Mahu2021: folds 
+Uncalled bet (260) returned to goonertone7
+goonertone7 collected 200 from pot
+goonertone7: doesn't show hand 
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 2: goonertone7 (big blind) collected (200)
+
+
+
+PokerStars Hand #252768076642: Tournament #3808208293, $1.84+$0.16 USD Hold'em No Limit - Level VI (50/100) - 2024/10/04 23:01:14 CET [2024/10/04 17:01:14 ET]
+Table '3808208293 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (1040 in chips) 
+Seat 2: goonertone7 (460 in chips) 
+goonertone7: posts small blind 50
+Mahu2021: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h 3c]
+goonertone7: raises 360 to 460 and is all-in
+Mahu2021: folds 
+Uncalled bet (360) returned to goonertone7
+goonertone7 collected 200 from pot
+goonertone7: doesn't show hand 
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: goonertone7 (button) (small blind) collected (200)
+
+
+
+PokerStars Hand #252768078428: Tournament #3808208293, $1.84+$0.16 USD Hold'em No Limit - Level VI (50/100) - 2024/10/04 23:01:20 CET [2024/10/04 17:01:20 ET]
+Table '3808208293 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (940 in chips) 
+Seat 2: goonertone7 (560 in chips) 
+Mahu2021: posts small blind 50
+goonertone7: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h Td]
+Mahu2021: folds 
+Uncalled bet (50) returned to goonertone7
+goonertone7 collected 100 from pot
+goonertone7: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 2: goonertone7 (big blind) collected (100)
+
+
+
+PokerStars Hand #252768079590: Tournament #3808208293, $1.84+$0.16 USD Hold'em No Limit - Level VI (50/100) - 2024/10/04 23:01:25 CET [2024/10/04 17:01:25 ET]
+Table '3808208293 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (890 in chips) 
+Seat 2: goonertone7 (610 in chips) 
+goonertone7: posts small blind 50
+Mahu2021: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d 3h]
+goonertone7: raises 510 to 610 and is all-in
+Mahu2021: folds 
+Uncalled bet (510) returned to goonertone7
+goonertone7 collected 200 from pot
+goonertone7: doesn't show hand 
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: goonertone7 (button) (small blind) collected (200)
+
+
+
+PokerStars Hand #252768081882: Tournament #3808208293, $1.84+$0.16 USD Hold'em No Limit - Level VI (50/100) - 2024/10/04 23:01:33 CET [2024/10/04 17:01:33 ET]
+Table '3808208293 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (790 in chips) 
+Seat 2: goonertone7 (710 in chips) 
+Mahu2021: posts small blind 50
+goonertone7: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh 6h]
+Mahu2021: raises 690 to 790 and is all-in
+goonertone7: calls 610 and is all-in
+Uncalled bet (80) returned to Mahu2021
+*** FLOP *** [9d Kc Ts]
+*** TURN *** [9d Kc Ts] [7s]
+*** RIVER *** [9d Kc Ts 7s] [As]
+*** SHOW DOWN ***
+goonertone7: shows [Jc 8c] (a straight, Seven to Jack)
+Mahu2021: shows [Kh 6h] (a pair of Kings)
+goonertone7 collected 1420 from pot
+*** SUMMARY ***
+Total pot 1420 | Rake 0 
+Board [9d Kc Ts 7s As]
+Seat 1: Mahu2021 (button) (small blind) showed [Kh 6h] and lost with a pair of Kings
+Seat 2: goonertone7 (big blind) showed [Jc 8c] and won (1420) with a straight, Seven to Jack
+
+
+
+PokerStars Hand #252768085659: Tournament #3808208293, $1.84+$0.16 USD Hold'em No Limit - Level VI (50/100) - 2024/10/04 23:01:46 CET [2024/10/04 17:01:46 ET]
+Table '3808208293 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (80 in chips) 
+Seat 2: goonertone7 (1420 in chips) 
+goonertone7: posts small blind 50
+Mahu2021: posts big blind 80 and is all-in
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s Ah]
+goonertone7: calls 30
+*** FLOP *** [Kh 2d Ad]
+*** TURN *** [Kh 2d Ad] [3d]
+*** RIVER *** [Kh 2d Ad 3d] [8c]
+*** SHOW DOWN ***
+Mahu2021: shows [6s Ah] (a pair of Aces)
+goonertone7: shows [Qs Td] (high card Ace)
+Mahu2021 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Kh 2d Ad 3d 8c]
+Seat 1: Mahu2021 (big blind) showed [6s Ah] and won (160) with a pair of Aces
+Seat 2: goonertone7 (button) (small blind) showed [Qs Td] and lost with high card Ace
+
+
+
+PokerStars Hand #252768089298: Tournament #3808208293, $1.84+$0.16 USD Hold'em No Limit - Level VI (50/100) - 2024/10/04 23:01:58 CET [2024/10/04 17:01:58 ET]
+Table '3808208293 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (160 in chips) 
+Seat 2: goonertone7 (1340 in chips) 
+Mahu2021: posts small blind 50
+goonertone7: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d Kc]
+Mahu2021: raises 60 to 160 and is all-in
+goonertone7: calls 60
+*** FLOP *** [6s Kd 7c]
+*** TURN *** [6s Kd 7c] [Qd]
+*** RIVER *** [6s Kd 7c Qd] [7s]
+*** SHOW DOWN ***
+goonertone7: shows [8h Td] (a pair of Sevens)
+Mahu2021: shows [2d Kc] (two pair, Kings and Sevens)
+Mahu2021 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [6s Kd 7c Qd 7s]
+Seat 1: Mahu2021 (button) (small blind) showed [2d Kc] and won (320) with two pair, Kings and Sevens
+Seat 2: goonertone7 (big blind) showed [8h Td] and lost with a pair of Sevens
+
+
+
+PokerStars Hand #252768093512: Tournament #3808208293, $1.84+$0.16 USD Hold'em No Limit - Level VI (50/100) - 2024/10/04 23:02:11 CET [2024/10/04 17:02:11 ET]
+Table '3808208293 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (320 in chips) 
+Seat 2: goonertone7 (1180 in chips) 
+goonertone7: posts small blind 50
+Mahu2021: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac 9h]
+goonertone7: raises 1080 to 1180 and is all-in
+Mahu2021: calls 220 and is all-in
+Uncalled bet (860) returned to goonertone7
+*** FLOP *** [4c 6h Ah]
+*** TURN *** [4c 6h Ah] [Jh]
+*** RIVER *** [4c 6h Ah Jh] [2h]
+*** SHOW DOWN ***
+Mahu2021: shows [Ac 9h] (a flush, Ace high)
+goonertone7: shows [Tc Ad] (a pair of Aces)
+Mahu2021 collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | Rake 0 
+Board [4c 6h Ah Jh 2h]
+Seat 1: Mahu2021 (big blind) showed [Ac 9h] and won (640) with a flush, Ace high
+Seat 2: goonertone7 (button) (small blind) showed [Tc Ad] and lost with a pair of Aces
+
+
+
+PokerStars Hand #252768097516: Tournament #3808208293, $1.84+$0.16 USD Hold'em No Limit - Level VI (50/100) - 2024/10/04 23:02:25 CET [2024/10/04 17:02:25 ET]
+Table '3808208293 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (640 in chips) 
+Seat 2: goonertone7 (860 in chips) 
+Mahu2021: posts small blind 50
+goonertone7: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc 2s]
+Mahu2021: folds 
+Uncalled bet (50) returned to goonertone7
+goonertone7 collected 100 from pot
+goonertone7: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 2: goonertone7 (big blind) collected (100)
+
+
+
+PokerStars Hand #252768099062: Tournament #3808208293, $1.84+$0.16 USD Hold'em No Limit - Level VI (50/100) - 2024/10/04 23:02:30 CET [2024/10/04 17:02:30 ET]
+Table '3808208293 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (590 in chips) 
+Seat 2: goonertone7 (910 in chips) 
+goonertone7: posts small blind 50
+Mahu2021: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2c 4c]
+goonertone7: raises 810 to 910 and is all-in
+Mahu2021: folds 
+Uncalled bet (810) returned to goonertone7
+goonertone7 collected 200 from pot
+goonertone7: doesn't show hand 
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: goonertone7 (button) (small blind) collected (200)
+
+
+
+PokerStars Hand #252768102241: Tournament #3808208293, $1.84+$0.16 USD Hold'em No Limit - Level VII (60/120) - 2024/10/04 23:02:40 CET [2024/10/04 17:02:40 ET]
+Table '3808208293 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (490 in chips) 
+Seat 2: goonertone7 (1010 in chips) 
+Mahu2021: posts small blind 60
+goonertone7: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah 7s]
+Mahu2021: raises 370 to 490 and is all-in
+goonertone7: calls 370
+*** FLOP *** [4s 5d 7d]
+*** TURN *** [4s 5d 7d] [Kd]
+*** RIVER *** [4s 5d 7d Kd] [9d]
+*** SHOW DOWN ***
+goonertone7: shows [As Td] (a flush, King high)
+Mahu2021: shows [Ah 7s] (a pair of Sevens)
+goonertone7 collected 980 from pot
+Mahu2021 finished the tournament in 2nd place
+goonertone7 wins the tournament and receives $4.00 - congratulations!
+*** SUMMARY ***
+Total pot 980 | Rake 0 
+Board [4s 5d 7d Kd 9d]
+Seat 1: Mahu2021 (button) (small blind) showed [Ah 7s] and lost with a pair of Sevens
+Seat 2: goonertone7 (big blind) showed [As Td] and won (980) with a flush, King high
+
+
+

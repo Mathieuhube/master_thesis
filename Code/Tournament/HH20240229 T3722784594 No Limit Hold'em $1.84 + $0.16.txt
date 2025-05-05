@@ -1,0 +1,1083 @@
+﻿PokerStars Hand #249161758153: Tournament #3722784594, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/02/29 21:10:47 CET [2024/02/29 15:10:47 ET]
+Table '3722784594 1' 3-max Seat #1 is the button
+Seat 1: Michal1331 (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: FranAnto25 (500 in chips) 
+Mahu2021: posts small blind 10
+FranAnto25: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h 8d]
+Michal1331: folds 
+Mahu2021: raises 20 to 40
+FranAnto25: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Michal1331 (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) collected (40)
+Seat 3: FranAnto25 (big blind) folded before Flop
+
+
+
+PokerStars Hand #249161761304: Tournament #3722784594, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/02/29 21:10:56 CET [2024/02/29 15:10:56 ET]
+Table '3722784594 1' 3-max Seat #2 is the button
+Seat 1: Michal1331 (500 in chips) 
+Seat 2: Mahu2021 (520 in chips) 
+Seat 3: FranAnto25 (480 in chips) 
+FranAnto25: posts small blind 10
+Michal1331: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h Jd]
+Mahu2021: folds 
+FranAnto25: folds 
+Uncalled bet (10) returned to Michal1331
+Michal1331 collected 20 from pot
+Michal1331: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Michal1331 (big blind) collected (20)
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: FranAnto25 (small blind) folded before Flop
+
+
+
+PokerStars Hand #249161763582: Tournament #3722784594, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/02/29 21:11:03 CET [2024/02/29 15:11:03 ET]
+Table '3722784594 1' 3-max Seat #3 is the button
+Seat 1: Michal1331 (510 in chips) 
+Seat 2: Mahu2021 (520 in chips) 
+Seat 3: FranAnto25 (470 in chips) 
+Michal1331: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d 3d]
+FranAnto25: raises 20 to 40
+Michal1331: folds 
+Mahu2021: folds 
+Uncalled bet (20) returned to FranAnto25
+FranAnto25 collected 50 from pot
+FranAnto25: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: Michal1331 (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: FranAnto25 (button) collected (50)
+
+
+
+PokerStars Hand #249161766812: Tournament #3722784594, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/02/29 21:11:12 CET [2024/02/29 15:11:12 ET]
+Table '3722784594 1' 3-max Seat #1 is the button
+Seat 1: Michal1331 (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: FranAnto25 (500 in chips) 
+Mahu2021: posts small blind 10
+FranAnto25: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h 6d]
+Michal1331: folds 
+Mahu2021: calls 10
+FranAnto25: checks 
+*** FLOP *** [Qd Jd 6h]
+Mahu2021: bets 20
+FranAnto25: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Qd Jd 6h]
+Seat 1: Michal1331 (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) collected (40)
+Seat 3: FranAnto25 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #249161772052: Tournament #3722784594, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/02/29 21:11:27 CET [2024/02/29 15:11:27 ET]
+Table '3722784594 1' 3-max Seat #2 is the button
+Seat 1: Michal1331 (500 in chips) 
+Seat 2: Mahu2021 (520 in chips) 
+Seat 3: FranAnto25 (480 in chips) 
+FranAnto25: posts small blind 10
+Michal1331: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kc 3h]
+Mahu2021: folds 
+FranAnto25: calls 10
+Michal1331: checks 
+*** FLOP *** [7h Qh Ac]
+FranAnto25: checks 
+Michal1331: checks 
+*** TURN *** [7h Qh Ac] [Qc]
+FranAnto25 has timed out
+FranAnto25: checks 
+Michal1331: checks 
+*** RIVER *** [7h Qh Ac Qc] [Kh]
+FranAnto25: checks 
+Michal1331: checks 
+*** SHOW DOWN ***
+FranAnto25: shows [Ts 4c] (a pair of Queens)
+Michal1331: shows [2h Ks] (two pair, Kings and Queens)
+Michal1331 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [7h Qh Ac Qc Kh]
+Seat 1: Michal1331 (big blind) showed [2h Ks] and won (40) with two pair, Kings and Queens
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: FranAnto25 (small blind) showed [Ts 4c] and lost with a pair of Queens
+
+
+
+PokerStars Hand #249161788584: Tournament #3722784594, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/02/29 21:12:15 CET [2024/02/29 15:12:15 ET]
+Table '3722784594 1' 3-max Seat #3 is the button
+Seat 1: Michal1331 (520 in chips) 
+Seat 2: Mahu2021 (520 in chips) 
+Seat 3: FranAnto25 (460 in chips) 
+Michal1331: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh Ks]
+FranAnto25: folds 
+Michal1331: folds 
+Uncalled bet (10) returned to Mahu2021
+Mahu2021 collected 20 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Michal1331 (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (20)
+Seat 3: FranAnto25 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #249161790931: Tournament #3722784594, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/02/29 21:12:22 CET [2024/02/29 15:12:22 ET]
+Table '3722784594 1' 3-max Seat #1 is the button
+Seat 1: Michal1331 (510 in chips) 
+Seat 2: Mahu2021 (530 in chips) 
+Seat 3: FranAnto25 (460 in chips) 
+Mahu2021: posts small blind 10
+FranAnto25: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s Th]
+Michal1331: folds 
+Mahu2021: folds 
+Uncalled bet (10) returned to FranAnto25
+FranAnto25 collected 20 from pot
+FranAnto25: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Michal1331 (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: FranAnto25 (big blind) collected (20)
+
+
+
+PokerStars Hand #249161792879: Tournament #3722784594, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/02/29 21:12:28 CET [2024/02/29 15:12:28 ET]
+Table '3722784594 1' 3-max Seat #2 is the button
+Seat 1: Michal1331 (510 in chips) 
+Seat 2: Mahu2021 (520 in chips) 
+Seat 3: FranAnto25 (470 in chips) 
+FranAnto25: posts small blind 10
+Michal1331: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h 4d]
+Mahu2021: folds 
+FranAnto25: folds 
+Uncalled bet (10) returned to Michal1331
+Michal1331 collected 20 from pot
+Michal1331: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Michal1331 (big blind) collected (20)
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: FranAnto25 (small blind) folded before Flop
+
+
+
+PokerStars Hand #249161797380: Tournament #3722784594, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/02/29 21:12:41 CET [2024/02/29 15:12:41 ET]
+Table '3722784594 1' 3-max Seat #3 is the button
+Seat 1: Michal1331 (520 in chips) 
+Seat 2: Mahu2021 (520 in chips) 
+Seat 3: FranAnto25 (460 in chips) 
+Michal1331: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6h Qh]
+FranAnto25: folds 
+Michal1331: raises 20 to 40
+Mahu2021: calls 20
+*** FLOP *** [4d Kd Tc]
+Michal1331: bets 20
+Mahu2021: folds 
+Uncalled bet (20) returned to Michal1331
+Michal1331 collected 80 from pot
+Michal1331: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [4d Kd Tc]
+Seat 1: Michal1331 (small blind) collected (80)
+Seat 2: Mahu2021 (big blind) folded on the Flop
+Seat 3: FranAnto25 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #249161802025: Tournament #3722784594, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/02/29 21:12:54 CET [2024/02/29 15:12:54 ET]
+Table '3722784594 1' 3-max Seat #1 is the button
+Seat 1: Michal1331 (560 in chips) 
+Seat 2: Mahu2021 (480 in chips) 
+Seat 3: FranAnto25 (460 in chips) 
+Mahu2021: posts small blind 10
+FranAnto25: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s Jh]
+Michal1331: folds 
+Mahu2021: calls 10
+FranAnto25: checks 
+*** FLOP *** [Ac 3h 2h]
+Mahu2021: checks 
+FranAnto25: checks 
+*** TURN *** [Ac 3h 2h] [4s]
+Mahu2021: checks 
+FranAnto25: bets 30
+Mahu2021: folds 
+Uncalled bet (30) returned to FranAnto25
+FranAnto25 collected 40 from pot
+FranAnto25: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Ac 3h 2h 4s]
+Seat 1: Michal1331 (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) folded on the Turn
+Seat 3: FranAnto25 (big blind) collected (40)
+
+
+
+PokerStars Hand #249161807945: Tournament #3722784594, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/02/29 21:13:11 CET [2024/02/29 15:13:11 ET]
+Table '3722784594 1' 3-max Seat #2 is the button
+Seat 1: Michal1331 (560 in chips) 
+Seat 2: Mahu2021 (460 in chips) 
+Seat 3: FranAnto25 (480 in chips) 
+FranAnto25: posts small blind 10
+Michal1331: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3c Qc]
+Mahu2021: calls 20
+FranAnto25: raises 460 to 480 and is all-in
+Michal1331: folds 
+Mahu2021: folds 
+Uncalled bet (460) returned to FranAnto25
+FranAnto25 collected 60 from pot
+FranAnto25: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Michal1331 (big blind) folded before Flop
+Seat 2: Mahu2021 (button) folded before Flop
+Seat 3: FranAnto25 (small blind) collected (60)
+
+
+
+PokerStars Hand #249161811921: Tournament #3722784594, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/02/29 21:13:23 CET [2024/02/29 15:13:23 ET]
+Table '3722784594 1' 3-max Seat #3 is the button
+Seat 1: Michal1331 (540 in chips) 
+Seat 2: Mahu2021 (440 in chips) 
+Seat 3: FranAnto25 (520 in chips) 
+Michal1331: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Td 7d]
+FranAnto25: raises 20 to 40
+Michal1331: folds 
+Mahu2021: calls 20
+*** FLOP *** [As 7c 3h]
+Mahu2021: checks 
+FranAnto25: checks 
+*** TURN *** [As 7c 3h] [Jd]
+Mahu2021: checks 
+FranAnto25: bets 68
+Mahu2021: calls 68
+*** RIVER *** [As 7c 3h Jd] [7h]
+Mahu2021: checks 
+FranAnto25: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [Td 7d] (three of a kind, Sevens)
+FranAnto25: mucks hand 
+Mahu2021 collected 226 from pot
+*** SUMMARY ***
+Total pot 226 | Rake 0 
+Board [As 7c 3h Jd 7h]
+Seat 1: Michal1331 (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) showed [Td 7d] and won (226) with three of a kind, Sevens
+Seat 3: FranAnto25 (button) mucked [Kd 8s]
+
+
+
+PokerStars Hand #249161824870: Tournament #3722784594, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/02/29 21:14:00 CET [2024/02/29 15:14:00 ET]
+Table '3722784594 1' 3-max Seat #1 is the button
+Seat 1: Michal1331 (530 in chips) 
+Seat 2: Mahu2021 (558 in chips) 
+Seat 3: FranAnto25 (412 in chips) 
+Mahu2021: posts small blind 15
+FranAnto25: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s 2d]
+Michal1331: folds 
+Mahu2021: folds 
+Uncalled bet (15) returned to FranAnto25
+FranAnto25 collected 30 from pot
+FranAnto25: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Michal1331 (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: FranAnto25 (big blind) collected (30)
+
+
+
+PokerStars Hand #249161826668: Tournament #3722784594, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/02/29 21:14:05 CET [2024/02/29 15:14:05 ET]
+Table '3722784594 1' 3-max Seat #2 is the button
+Seat 1: Michal1331 (530 in chips) 
+Seat 2: Mahu2021 (543 in chips) 
+Seat 3: FranAnto25 (427 in chips) 
+FranAnto25: posts small blind 15
+Michal1331: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd Ac]
+Mahu2021: raises 30 to 60
+FranAnto25: folds 
+Michal1331: raises 470 to 530 and is all-in
+Mahu2021: calls 470
+*** FLOP *** [2h Qs 3c]
+*** TURN *** [2h Qs 3c] [5s]
+*** RIVER *** [2h Qs 3c 5s] [Ad]
+*** SHOW DOWN ***
+Michal1331: shows [As 9h] (a pair of Aces)
+Mahu2021: shows [Jd Ac] (a pair of Aces - Queen+Jack kicker)
+Mahu2021 collected 1075 from pot
+Michal1331 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1075 | Rake 0 
+Board [2h Qs 3c 5s Ad]
+Seat 1: Michal1331 (big blind) showed [As 9h] and lost with a pair of Aces
+Seat 2: Mahu2021 (button) showed [Jd Ac] and won (1075) with a pair of Aces
+Seat 3: FranAnto25 (small blind) folded before Flop
+
+
+
+PokerStars Hand #249161836076: Tournament #3722784594, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/02/29 21:14:32 CET [2024/02/29 15:14:32 ET]
+Table '3722784594 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (1088 in chips) 
+Seat 3: FranAnto25 (412 in chips) 
+FranAnto25: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Th Qs]
+FranAnto25: raises 30 to 60
+Mahu2021: calls 30
+*** FLOP *** [3d Ac 4h]
+Mahu2021: checks 
+FranAnto25: bets 36
+Mahu2021: folds 
+Uncalled bet (36) returned to FranAnto25
+FranAnto25 collected 120 from pot
+FranAnto25: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [3d Ac 4h]
+Seat 2: Mahu2021 (big blind) folded on the Flop
+Seat 3: FranAnto25 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #249161842239: Tournament #3722784594, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/02/29 21:14:50 CET [2024/02/29 15:14:50 ET]
+Table '3722784594 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (1028 in chips) 
+Seat 3: FranAnto25 (472 in chips) 
+Mahu2021: posts small blind 15
+FranAnto25: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js 6c]
+Mahu2021: calls 15
+FranAnto25: checks 
+*** FLOP *** [2s Jd 2h]
+FranAnto25: checks 
+Mahu2021: bets 60
+FranAnto25: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [2s Jd 2h]
+Seat 2: Mahu2021 (button) (small blind) collected (60)
+Seat 3: FranAnto25 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #249161848161: Tournament #3722784594, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/02/29 21:15:07 CET [2024/02/29 15:15:07 ET]
+Table '3722784594 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (1058 in chips) 
+Seat 3: FranAnto25 (442 in chips) 
+FranAnto25: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d 5h]
+FranAnto25: raises 30 to 60
+Mahu2021: calls 30
+*** FLOP *** [9s As Qh]
+Mahu2021: checks 
+FranAnto25: bets 36
+Mahu2021: folds 
+Uncalled bet (36) returned to FranAnto25
+FranAnto25 collected 120 from pot
+FranAnto25: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [9s As Qh]
+Seat 2: Mahu2021 (big blind) folded on the Flop
+Seat 3: FranAnto25 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #249161852730: Tournament #3722784594, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/02/29 21:15:20 CET [2024/02/29 15:15:20 ET]
+Table '3722784594 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (998 in chips) 
+Seat 3: FranAnto25 (502 in chips) 
+Mahu2021: posts small blind 15
+FranAnto25: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8s 4h]
+Mahu2021: calls 15
+FranAnto25 has timed out
+FranAnto25: checks 
+*** FLOP *** [9s 6c Js]
+FranAnto25: checks 
+Mahu2021: bets 30
+FranAnto25: raises 60 to 90
+Mahu2021: folds 
+Uncalled bet (60) returned to FranAnto25
+FranAnto25 collected 120 from pot
+FranAnto25: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [9s 6c Js]
+Seat 2: Mahu2021 (button) (small blind) folded on the Flop
+Seat 3: FranAnto25 (big blind) collected (120)
+
+
+
+PokerStars Hand #249161864787: Tournament #3722784594, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/02/29 21:15:55 CET [2024/02/29 15:15:55 ET]
+Table '3722784594 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (938 in chips) 
+Seat 3: FranAnto25 (562 in chips) 
+FranAnto25: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad 4d]
+FranAnto25: raises 532 to 562 and is all-in
+Mahu2021: folds 
+Uncalled bet (532) returned to FranAnto25
+FranAnto25 collected 60 from pot
+FranAnto25: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: FranAnto25 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #249161867407: Tournament #3722784594, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/02/29 21:16:02 CET [2024/02/29 15:16:02 ET]
+Table '3722784594 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (908 in chips) 
+Seat 3: FranAnto25 (592 in chips) 
+Mahu2021: posts small blind 15
+FranAnto25: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s 8c]
+Mahu2021: folds 
+Uncalled bet (15) returned to FranAnto25
+FranAnto25 collected 30 from pot
+FranAnto25: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: FranAnto25 (big blind) collected (30)
+
+
+
+PokerStars Hand #249161868909: Tournament #3722784594, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/02/29 21:16:07 CET [2024/02/29 15:16:07 ET]
+Table '3722784594 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (893 in chips) 
+Seat 3: FranAnto25 (607 in chips) 
+FranAnto25: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d Th]
+FranAnto25: raises 30 to 60
+Mahu2021: calls 30
+*** FLOP *** [Kh Ah Qs]
+Mahu2021: checks 
+FranAnto25: checks 
+*** TURN *** [Kh Ah Qs] [9s]
+Mahu2021: checks 
+FranAnto25: bets 90
+Mahu2021: calls 90
+*** RIVER *** [Kh Ah Qs 9s] [8s]
+Mahu2021: checks 
+FranAnto25: bets 150
+Mahu2021: folds 
+Uncalled bet (150) returned to FranAnto25
+FranAnto25 collected 300 from pot
+FranAnto25: doesn't show hand 
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [Kh Ah Qs 9s 8s]
+Seat 2: Mahu2021 (big blind) folded on the River
+Seat 3: FranAnto25 (button) (small blind) collected (300)
+
+
+
+PokerStars Hand #249161880677: Tournament #3722784594, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/02/29 21:16:40 CET [2024/02/29 15:16:40 ET]
+Table '3722784594 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (743 in chips) 
+Seat 3: FranAnto25 (757 in chips) 
+Mahu2021: posts small blind 15
+FranAnto25: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd 5h]
+Mahu2021: raises 30 to 60
+FranAnto25 has timed out
+FranAnto25: folds 
+FranAnto25 is sitting out
+Uncalled bet (30) returned to Mahu2021
+FranAnto25 has returned
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) collected (60)
+Seat 3: FranAnto25 (big blind) folded before Flop
+
+
+
+PokerStars Hand #249161888208: Tournament #3722784594, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/02/29 21:17:02 CET [2024/02/29 15:17:02 ET]
+Table '3722784594 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (773 in chips) 
+Seat 3: FranAnto25 (727 in chips) 
+FranAnto25: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh 2h]
+FranAnto25: calls 20
+Mahu2021: checks 
+*** FLOP *** [Jh 9c Th]
+Mahu2021: checks 
+FranAnto25: bets 60
+Mahu2021: calls 60
+*** TURN *** [Jh 9c Th] [5h]
+Mahu2021: checks 
+FranAnto25: bets 150
+Mahu2021: calls 150
+*** RIVER *** [Jh 9c Th 5h] [Ks]
+Mahu2021: bets 160
+FranAnto25: folds 
+Uncalled bet (160) returned to Mahu2021
+Mahu2021 collected 500 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 500 | Rake 0 
+Board [Jh 9c Th 5h Ks]
+Seat 2: Mahu2021 (big blind) collected (500)
+Seat 3: FranAnto25 (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #249161899063: Tournament #3722784594, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/02/29 21:17:33 CET [2024/02/29 15:17:33 ET]
+Table '3722784594 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (1023 in chips) 
+Seat 3: FranAnto25 (477 in chips) 
+Mahu2021: posts small blind 20
+FranAnto25: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc Kd]
+Mahu2021: raises 40 to 80
+FranAnto25: raises 397 to 477 and is all-in
+Mahu2021: calls 397
+*** FLOP *** [6h 3s 7h]
+*** TURN *** [6h 3s 7h] [Ac]
+*** RIVER *** [6h 3s 7h Ac] [7s]
+*** SHOW DOWN ***
+FranAnto25: shows [6d 6c] (a full house, Sixes full of Sevens)
+Mahu2021: shows [Jc Kd] (a pair of Sevens)
+FranAnto25 collected 954 from pot
+*** SUMMARY ***
+Total pot 954 | Rake 0 
+Board [6h 3s 7h Ac 7s]
+Seat 2: Mahu2021 (button) (small blind) showed [Jc Kd] and lost with a pair of Sevens
+Seat 3: FranAnto25 (big blind) showed [6d 6c] and won (954) with a full house, Sixes full of Sevens
+
+
+
+PokerStars Hand #249161904252: Tournament #3722784594, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/02/29 21:17:47 CET [2024/02/29 15:17:47 ET]
+Table '3722784594 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (546 in chips) 
+Seat 3: FranAnto25 (954 in chips) 
+FranAnto25: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h 3c]
+FranAnto25 has timed out
+FranAnto25: folds 
+FranAnto25 is sitting out
+Uncalled bet (20) returned to Mahu2021
+FranAnto25 has returned
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: Mahu2021 (big blind) collected (40)
+Seat 3: FranAnto25 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #249161909660: Tournament #3722784594, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/02/29 21:18:03 CET [2024/02/29 15:18:03 ET]
+Table '3722784594 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (566 in chips) 
+Seat 3: FranAnto25 (934 in chips) 
+Mahu2021: posts small blind 20
+FranAnto25: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c 6h]
+Mahu2021: calls 20
+FranAnto25: checks 
+*** FLOP *** [3h Qc 2d]
+FranAnto25: checks 
+Mahu2021: checks 
+*** TURN *** [3h Qc 2d] [Js]
+FranAnto25: bets 60
+Mahu2021: folds 
+Uncalled bet (60) returned to FranAnto25
+FranAnto25 collected 80 from pot
+FranAnto25: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [3h Qc 2d Js]
+Seat 2: Mahu2021 (button) (small blind) folded on the Turn
+Seat 3: FranAnto25 (big blind) collected (80)
+
+
+
+PokerStars Hand #249161915467: Tournament #3722784594, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/02/29 21:18:20 CET [2024/02/29 15:18:20 ET]
+Table '3722784594 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (526 in chips) 
+Seat 3: FranAnto25 (974 in chips) 
+FranAnto25: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d Ks]
+FranAnto25 has timed out
+FranAnto25: folds 
+FranAnto25 is sitting out
+Uncalled bet (20) returned to Mahu2021
+FranAnto25 has returned
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: Mahu2021 (big blind) collected (40)
+Seat 3: FranAnto25 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #249161920929: Tournament #3722784594, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/02/29 21:18:36 CET [2024/02/29 15:18:36 ET]
+Table '3722784594 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (546 in chips) 
+Seat 3: FranAnto25 (954 in chips) 
+Mahu2021: posts small blind 20
+FranAnto25: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac 2s]
+Mahu2021: raises 506 to 546 and is all-in
+FranAnto25: folds 
+Uncalled bet (506) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) collected (80)
+Seat 3: FranAnto25 (big blind) folded before Flop
+
+
+
+PokerStars Hand #249161923549: Tournament #3722784594, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/02/29 21:18:43 CET [2024/02/29 15:18:43 ET]
+Table '3722784594 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (586 in chips) 
+Seat 3: FranAnto25 (914 in chips) 
+FranAnto25: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh 5h]
+FranAnto25: raises 874 to 914 and is all-in
+Mahu2021: folds 
+Uncalled bet (874) returned to FranAnto25
+FranAnto25 collected 80 from pot
+FranAnto25: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: FranAnto25 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #249161930010: Tournament #3722784594, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/02/29 21:19:01 CET [2024/02/29 15:19:01 ET]
+Table '3722784594 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (546 in chips) 
+Seat 3: FranAnto25 (954 in chips) 
+Mahu2021: posts small blind 20
+FranAnto25: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h Js]
+Mahu2021: folds 
+Uncalled bet (20) returned to FranAnto25
+FranAnto25 collected 40 from pot
+FranAnto25: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: FranAnto25 (big blind) collected (40)
+
+
+
+PokerStars Hand #249161931648: Tournament #3722784594, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/02/29 21:19:06 CET [2024/02/29 15:19:06 ET]
+Table '3722784594 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (526 in chips) 
+Seat 3: FranAnto25 (974 in chips) 
+FranAnto25: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6h Ah]
+FranAnto25: calls 20
+Mahu2021: raises 486 to 526 and is all-in
+FranAnto25: folds 
+Uncalled bet (486) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: Mahu2021 (big blind) collected (80)
+Seat 3: FranAnto25 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #249161936894: Tournament #3722784594, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/02/29 21:19:21 CET [2024/02/29 15:19:21 ET]
+Table '3722784594 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (566 in chips) 
+Seat 3: FranAnto25 (934 in chips) 
+Mahu2021: posts small blind 20
+FranAnto25: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks 9h]
+Mahu2021: raises 40 to 80
+FranAnto25: calls 40
+*** FLOP *** [6d Ac Jh]
+FranAnto25: checks 
+Mahu2021: bets 80
+FranAnto25: folds 
+Uncalled bet (80) returned to Mahu2021
+Mahu2021 collected 160 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [6d Ac Jh]
+Seat 2: Mahu2021 (button) (small blind) collected (160)
+Seat 3: FranAnto25 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #249161948401: Tournament #3722784594, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/02/29 21:19:55 CET [2024/02/29 15:19:55 ET]
+Table '3722784594 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (646 in chips) 
+Seat 3: FranAnto25 (854 in chips) 
+FranAnto25: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c 3h]
+FranAnto25: calls 30
+Mahu2021: checks 
+*** FLOP *** [3s Jd 5s]
+Mahu2021: checks 
+FranAnto25: bets 90
+Mahu2021: folds 
+Uncalled bet (90) returned to FranAnto25
+FranAnto25 collected 120 from pot
+FranAnto25: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [3s Jd 5s]
+Seat 2: Mahu2021 (big blind) folded on the Flop
+Seat 3: FranAnto25 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #249161953799: Tournament #3722784594, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/02/29 21:20:10 CET [2024/02/29 15:20:10 ET]
+Table '3722784594 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (586 in chips) 
+Seat 3: FranAnto25 (914 in chips) 
+Mahu2021: posts small blind 30
+FranAnto25: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3c 7s]
+Mahu2021: folds 
+Uncalled bet (30) returned to FranAnto25
+FranAnto25 collected 60 from pot
+FranAnto25: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: FranAnto25 (big blind) collected (60)
+
+
+
+PokerStars Hand #249161955472: Tournament #3722784594, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/02/29 21:20:15 CET [2024/02/29 15:20:15 ET]
+Table '3722784594 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (556 in chips) 
+Seat 3: FranAnto25 (944 in chips) 
+FranAnto25: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5h 9s]
+FranAnto25: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: Mahu2021 (big blind) collected (60)
+Seat 3: FranAnto25 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #249161957939: Tournament #3722784594, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/02/29 21:20:22 CET [2024/02/29 15:20:22 ET]
+Table '3722784594 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (586 in chips) 
+Seat 3: FranAnto25 (914 in chips) 
+Mahu2021: posts small blind 30
+FranAnto25: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js Qd]
+Mahu2021: raises 60 to 120
+FranAnto25: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) collected (120)
+Seat 3: FranAnto25 (big blind) folded before Flop
+
+
+
+PokerStars Hand #249161960120: Tournament #3722784594, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/02/29 21:20:28 CET [2024/02/29 15:20:28 ET]
+Table '3722784594 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (646 in chips) 
+Seat 3: FranAnto25 (854 in chips) 
+FranAnto25: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qd 5d]
+FranAnto25: raises 794 to 854 and is all-in
+Mahu2021: folds 
+Uncalled bet (794) returned to FranAnto25
+FranAnto25 collected 120 from pot
+FranAnto25: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: FranAnto25 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #249161963921: Tournament #3722784594, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/02/29 21:20:39 CET [2024/02/29 15:20:39 ET]
+Table '3722784594 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (586 in chips) 
+Seat 3: FranAnto25 (914 in chips) 
+Mahu2021: posts small blind 30
+FranAnto25: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d 3c]
+Mahu2021: folds 
+Uncalled bet (30) returned to FranAnto25
+FranAnto25 collected 60 from pot
+FranAnto25: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: FranAnto25 (big blind) collected (60)
+
+
+
+PokerStars Hand #249161967316: Tournament #3722784594, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/02/29 21:20:49 CET [2024/02/29 15:20:49 ET]
+Table '3722784594 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (556 in chips) 
+Seat 3: FranAnto25 (944 in chips) 
+FranAnto25: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh Qd]
+FranAnto25: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: Mahu2021 (big blind) collected (60)
+Seat 3: FranAnto25 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #249161969237: Tournament #3722784594, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/02/29 21:20:55 CET [2024/02/29 15:20:55 ET]
+Table '3722784594 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (586 in chips) 
+Seat 3: FranAnto25 (914 in chips) 
+Mahu2021: posts small blind 30
+FranAnto25: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts 8h]
+Mahu2021: calls 30
+FranAnto25: checks 
+*** FLOP *** [Qd Qc 4h]
+FranAnto25: checks 
+Mahu2021: bets 60
+FranAnto25: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Qd Qc 4h]
+Seat 2: Mahu2021 (button) (small blind) collected (120)
+Seat 3: FranAnto25 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #249161975826: Tournament #3722784594, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/02/29 21:21:14 CET [2024/02/29 15:21:14 ET]
+Table '3722784594 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (646 in chips) 
+Seat 3: FranAnto25 (854 in chips) 
+FranAnto25: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h 3s]
+FranAnto25: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: Mahu2021 (big blind) collected (60)
+Seat 3: FranAnto25 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #249161979288: Tournament #3722784594, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/02/29 21:21:24 CET [2024/02/29 15:21:24 ET]
+Table '3722784594 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (676 in chips) 
+Seat 3: FranAnto25 (824 in chips) 
+Mahu2021: posts small blind 30
+FranAnto25: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d 4h]
+Mahu2021: calls 30
+FranAnto25: checks 
+*** FLOP *** [8d Jd 4d]
+FranAnto25 has timed out
+FranAnto25: checks 
+Mahu2021: bets 120
+FranAnto25: folds 
+Uncalled bet (120) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [8d Jd 4d]
+Seat 2: Mahu2021 (button) (small blind) collected (120)
+Seat 3: FranAnto25 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #249161990495: Tournament #3722784594, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/02/29 21:21:56 CET [2024/02/29 15:21:56 ET]
+Table '3722784594 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (736 in chips) 
+Seat 3: FranAnto25 (764 in chips) 
+FranAnto25: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kc Ac]
+FranAnto25: raises 704 to 764 and is all-in
+Mahu2021: calls 676 and is all-in
+Uncalled bet (28) returned to FranAnto25
+*** FLOP *** [Jd Ad 3h]
+*** TURN *** [Jd Ad 3h] [5s]
+*** RIVER *** [Jd Ad 3h 5s] [5d]
+*** SHOW DOWN ***
+Mahu2021: shows [Kc Ac] (two pair, Aces and Fives)
+FranAnto25: shows [Td As] (two pair, Aces and Fives - lower kicker)
+Mahu2021 collected 1472 from pot
+*** SUMMARY ***
+Total pot 1472 | Rake 0 
+Board [Jd Ad 3h 5s 5d]
+Seat 2: Mahu2021 (big blind) showed [Kc Ac] and won (1472) with two pair, Aces and Fives
+Seat 3: FranAnto25 (button) (small blind) showed [Td As] and lost with two pair, Aces and Fives
+
+
+
+PokerStars Hand #249161996296: Tournament #3722784594, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/02/29 21:22:13 CET [2024/02/29 15:22:13 ET]
+Table '3722784594 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (1472 in chips) 
+Seat 3: FranAnto25 (28 in chips) 
+Mahu2021: posts small blind 30
+FranAnto25: posts big blind 28 and is all-in
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c 7s]
+Uncalled bet (2) returned to Mahu2021
+*** FLOP *** [Qh 3s As]
+*** TURN *** [Qh 3s As] [3d]
+*** RIVER *** [Qh 3s As 3d] [Tc]
+*** SHOW DOWN ***
+FranAnto25: shows [6s 8d] (a pair of Threes)
+Mahu2021: shows [9c 7s] (a pair of Threes)
+FranAnto25 collected 28 from pot
+Mahu2021 collected 28 from pot
+*** SUMMARY ***
+Total pot 56 | Rake 0 
+Board [Qh 3s As 3d Tc]
+Seat 2: Mahu2021 (button) (small blind) showed [9c 7s] and won (28) with a pair of Threes
+Seat 3: FranAnto25 (big blind) showed [6s 8d] and won (28) with a pair of Threes
+
+
+
+PokerStars Hand #249161999171: Tournament #3722784594, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/02/29 21:22:21 CET [2024/02/29 15:22:21 ET]
+Table '3722784594 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (1472 in chips) 
+Seat 3: FranAnto25 (28 in chips) 
+FranAnto25: posts small blind 28 and is all-in
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qs Th]
+Uncalled bet (32) returned to Mahu2021
+*** FLOP *** [9h Ah 4c]
+*** TURN *** [9h Ah 4c] [Td]
+*** RIVER *** [9h Ah 4c Td] [Kc]
+*** SHOW DOWN ***
+Mahu2021: shows [Qs Th] (a pair of Tens)
+FranAnto25: shows [8c 6h] (high card Ace)
+Mahu2021 collected 56 from pot
+FranAnto25 finished the tournament in 2nd place
+Mahu2021 wins the tournament and receives $6.00 - congratulations!
+*** SUMMARY ***
+Total pot 56 | Rake 0 
+Board [9h Ah 4c Td Kc]
+Seat 2: Mahu2021 (big blind) showed [Qs Th] and won (56) with a pair of Tens
+Seat 3: FranAnto25 (button) (small blind) showed [8c 6h] and lost with high card Ace
+
+
+

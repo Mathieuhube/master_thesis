@@ -1,0 +1,30 @@
+﻿PokerStars Hand #255161580865: Tournament #3865860549, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2025/03/06 8:55:08 CET [2025/03/06 2:55:08 ET]
+Table '3865860549 1' 3-max Seat #1 is the button
+Seat 1: Pokermindgym (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: peteranna810 (500 in chips) 
+Mahu2021: posts small blind 10
+peteranna810: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d 5c]
+Pokermindgym: raises 20 to 40
+Mahu2021: raises 460 to 500 and is all-in
+peteranna810: folds 
+Pokermindgym: calls 460 and is all-in
+*** FLOP *** [6s Ts Kh]
+*** TURN *** [6s Ts Kh] [Tc]
+*** RIVER *** [6s Ts Kh Tc] [3d]
+*** SHOW DOWN ***
+Mahu2021: shows [5d 5c] (two pair, Tens and Fives)
+Pokermindgym: shows [Qd Td] (three of a kind, Tens)
+Pokermindgym collected 1020 from pot
+Mahu2021 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1020 | Rake 0 
+Board [6s Ts Kh Tc 3d]
+Seat 1: Pokermindgym (button) showed [Qd Td] and won (1020) with three of a kind, Tens
+Seat 2: Mahu2021 (small blind) showed [5d 5c] and lost with two pair, Tens and Fives
+Seat 3: peteranna810 (big blind) folded before Flop
+
+
+

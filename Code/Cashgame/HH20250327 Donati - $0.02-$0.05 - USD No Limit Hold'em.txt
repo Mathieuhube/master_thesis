@@ -1,0 +1,118 @@
+﻿PokerStars Zoom Hand #255469534099:  Hold'em No Limit ($0.02/$0.05) - 2025/03/27 9:40:49 CET [2025/03/27 4:40:49 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: ninototti10 ($2.01 in chips) 
+Seat 2: annodv ($5.57 in chips) 
+Seat 3: Mahu2021 ($5 in chips) 
+Seat 4: altertan ($17.11 in chips) 
+Seat 5: NandoLLuna ($4.16 in chips) 
+Seat 6: $_Don-Tãuro ($15.69 in chips) 
+annodv: posts small blind $0.02
+Mahu2021: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h Qc]
+altertan: folds 
+NandoLLuna: calls $0.05
+$_Don-Tãuro: folds 
+ninototti10: calls $0.05
+annodv: calls $0.03
+Mahu2021: checks 
+*** FLOP *** [7c Kh 9h]
+annodv: checks 
+Mahu2021: checks 
+NandoLLuna: checks 
+ninototti10: checks 
+*** TURN *** [7c Kh 9h] [As]
+annodv: checks 
+Mahu2021: checks 
+NandoLLuna: bets $0.10
+ninototti10: calls $0.10
+annodv: folds 
+Mahu2021: folds 
+*** RIVER *** [7c Kh 9h As] [3s]
+NandoLLuna: bets $0.20
+ninototti10: raises $0.39 to $0.59
+NandoLLuna: calls $0.39
+*** SHOW DOWN ***
+ninototti10: shows [Ah 7h] (two pair, Aces and Sevens)
+NandoLLuna: mucks hand 
+ninototti10 collected $1.51 from pot
+*** SUMMARY ***
+Total pot $1.58 | Rake $0.07 
+Board [7c Kh 9h As 3s]
+Seat 1: ninototti10 (button) showed [Ah 7h] and won ($1.51) with two pair, Aces and Sevens
+Seat 2: annodv (small blind) folded on the Turn
+Seat 3: Mahu2021 (big blind) folded on the Turn
+Seat 4: altertan folded before Flop (didn't bet)
+Seat 5: NandoLLuna mucked [Ac Js]
+Seat 6: $_Don-Tãuro folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #255469624544:  Hold'em No Limit ($0.02/$0.05) - 2025/03/27 9:59:52 CET [2025/03/27 4:59:52 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: lolb0t ($5.39 in chips) 
+Seat 2: Mahu2021 ($4.95 in chips) 
+Seat 3: JABACHIP ($5.22 in chips) 
+Seat 4: VALIXJ9 ($8.37 in chips) 
+Seat 5: HEREDIA606 ($5 in chips) 
+Seat 6: TMaschinski ($5 in chips) 
+Mahu2021: posts small blind $0.02
+JABACHIP: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s As]
+VALIXJ9: folds 
+HEREDIA606: folds 
+TMaschinski: raises $0.08 to $0.13
+lolb0t: folds 
+Mahu2021: calls $0.11
+JABACHIP: folds 
+*** FLOP *** [Qs Ks 5h]
+Mahu2021: bets $0.15
+TMaschinski: folds 
+Uncalled bet ($0.15) returned to Mahu2021
+Mahu2021 collected $0.30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [Qs Ks 5h]
+Seat 1: lolb0t (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) collected ($0.30)
+Seat 3: JABACHIP (big blind) folded before Flop
+Seat 4: VALIXJ9 folded before Flop (didn't bet)
+Seat 5: HEREDIA606 folded before Flop (didn't bet)
+Seat 6: TMaschinski folded on the Flop
+
+
+
+PokerStars Zoom Hand #255469626634:  Hold'em No Limit ($0.02/$0.05) - 2025/03/27 10:00:20 CET [2025/03/27 5:00:20 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: Mahu2021 ($5.12 in chips) 
+Seat 2: kombo443 ($6.55 in chips) 
+Seat 3: Azrael98 ($5 in chips) 
+Seat 4: JABACHIP ($5.24 in chips) 
+Seat 5: LeopoldusR ($5.60 in chips) 
+Seat 6: Real2323me ($4.19 in chips) 
+kombo443: posts small blind $0.02
+Azrael98: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad As]
+JABACHIP: folds 
+LeopoldusR: folds 
+Real2323me: folds 
+Mahu2021: raises $5.07 to $5.12 and is all-in
+kombo443: folds 
+Azrael98: folds 
+Uncalled bet ($5.07) returned to Mahu2021
+Mahu2021 collected $0.12 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: Mahu2021 (button) collected ($0.12)
+Seat 2: kombo443 (small blind) folded before Flop
+Seat 3: Azrael98 (big blind) folded before Flop
+Seat 4: JABACHIP folded before Flop (didn't bet)
+Seat 5: LeopoldusR folded before Flop (didn't bet)
+Seat 6: Real2323me folded before Flop (didn't bet)
+
+
+

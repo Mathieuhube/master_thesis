@@ -1,0 +1,501 @@
+﻿PokerStars Hand #245175164107: Tournament #3626119892, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/08/03 10:37:59 CET [2023/08/03 4:37:59 ET]
+Table '3626119892 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: chrissy1967 (500 in chips) 
+Seat 3: ArmanKarapet (500 in chips) 
+chrissy1967: posts small blind 10
+ArmanKarapet: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h Qd]
+Mahu2021: folds 
+chrissy1967: calls 10
+ArmanKarapet: checks 
+*** FLOP *** [Qc 7s Th]
+chrissy1967: checks 
+ArmanKarapet: bets 20
+chrissy1967: calls 20
+*** TURN *** [Qc 7s Th] [7c]
+chrissy1967: checks 
+ArmanKarapet: bets 20
+chrissy1967: calls 20
+*** RIVER *** [Qc 7s Th 7c] [Ks]
+chrissy1967: bets 100
+ArmanKarapet: folds 
+Uncalled bet (100) returned to chrissy1967
+chrissy1967 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Qc 7s Th 7c Ks]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: chrissy1967 (small blind) collected (120)
+Seat 3: ArmanKarapet (big blind) folded on the River
+
+
+
+PokerStars Hand #245175166957: Tournament #3626119892, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/08/03 10:38:22 CET [2023/08/03 4:38:22 ET]
+Table '3626119892 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: chrissy1967 (560 in chips) 
+Seat 3: ArmanKarapet (440 in chips) 
+ArmanKarapet: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8d 7s]
+chrissy1967: calls 20
+ArmanKarapet: calls 10
+Mahu2021: checks 
+*** FLOP *** [8c Qd Ac]
+ArmanKarapet: checks 
+Mahu2021: checks 
+chrissy1967: checks 
+*** TURN *** [8c Qd Ac] [5c]
+ArmanKarapet: checks 
+Mahu2021: checks 
+chrissy1967: checks 
+*** RIVER *** [8c Qd Ac 5c] [7c]
+ArmanKarapet: checks 
+Mahu2021: bets 20
+chrissy1967: raises 120 to 140
+ArmanKarapet: folds 
+Mahu2021: folds 
+Uncalled bet (120) returned to chrissy1967
+chrissy1967 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [8c Qd Ac 5c 7c]
+Seat 1: Mahu2021 (big blind) folded on the River
+Seat 2: chrissy1967 (button) collected (100)
+Seat 3: ArmanKarapet (small blind) folded on the River
+
+
+
+PokerStars Hand #245175170175: Tournament #3626119892, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/08/03 10:38:49 CET [2023/08/03 4:38:49 ET]
+Table '3626119892 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (460 in chips) 
+Seat 2: chrissy1967 (620 in chips) 
+Seat 3: ArmanKarapet (420 in chips) 
+Mahu2021: posts small blind 10
+chrissy1967: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd 5c]
+ArmanKarapet: calls 20
+Mahu2021: folds 
+chrissy1967: checks 
+*** FLOP *** [3c 2c 3h]
+chrissy1967: bets 20
+ArmanKarapet: calls 20
+*** TURN *** [3c 2c 3h] [6s]
+chrissy1967: bets 20
+ArmanKarapet: calls 20
+*** RIVER *** [3c 2c 3h 6s] [Ah]
+chrissy1967: bets 40
+ArmanKarapet: calls 40
+*** SHOW DOWN ***
+chrissy1967: shows [Ts 3s] (three of a kind, Threes)
+ArmanKarapet: mucks hand 
+chrissy1967 collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | Rake 0 
+Board [3c 2c 3h 6s Ah]
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: chrissy1967 (big blind) showed [Ts 3s] and won (210) with three of a kind, Threes
+Seat 3: ArmanKarapet (button) mucked [Kc Th]
+
+
+
+PokerStars Hand #245175172600: Tournament #3626119892, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/08/03 10:39:09 CET [2023/08/03 4:39:09 ET]
+Table '3626119892 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (450 in chips) 
+Seat 2: chrissy1967 (730 in chips) 
+Seat 3: ArmanKarapet (320 in chips) 
+chrissy1967: posts small blind 10
+ArmanKarapet: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d 8c]
+Mahu2021: folds 
+chrissy1967: calls 10
+ArmanKarapet: checks 
+*** FLOP *** [4s 7s Th]
+chrissy1967: checks 
+ArmanKarapet: bets 20
+chrissy1967: calls 20
+*** TURN *** [4s 7s Th] [9c]
+chrissy1967: checks 
+ArmanKarapet: checks 
+*** RIVER *** [4s 7s Th 9c] [Kh]
+chrissy1967: bets 80
+ArmanKarapet: folds 
+Uncalled bet (80) returned to chrissy1967
+chrissy1967 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [4s 7s Th 9c Kh]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: chrissy1967 (small blind) collected (80)
+Seat 3: ArmanKarapet (big blind) folded on the River
+
+
+
+PokerStars Hand #245175174911: Tournament #3626119892, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/08/03 10:39:28 CET [2023/08/03 4:39:28 ET]
+Table '3626119892 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (450 in chips) 
+Seat 2: chrissy1967 (770 in chips) 
+Seat 3: ArmanKarapet (280 in chips) 
+ArmanKarapet: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh 9h]
+chrissy1967: raises 20 to 40
+ArmanKarapet: calls 30
+Mahu2021: calls 20
+*** FLOP *** [2s 6s 4d]
+ArmanKarapet: checks 
+Mahu2021: checks 
+chrissy1967: checks 
+*** TURN *** [2s 6s 4d] [4h]
+ArmanKarapet: checks 
+Mahu2021: checks 
+chrissy1967: checks 
+*** RIVER *** [2s 6s 4d 4h] [As]
+ArmanKarapet: checks 
+Mahu2021: checks 
+chrissy1967: bets 120
+ArmanKarapet: folds 
+Mahu2021: folds 
+Uncalled bet (120) returned to chrissy1967
+chrissy1967 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [2s 6s 4d 4h As]
+Seat 1: Mahu2021 (big blind) folded on the River
+Seat 2: chrissy1967 (button) collected (120)
+Seat 3: ArmanKarapet (small blind) folded on the River
+
+
+
+PokerStars Hand #245175177950: Tournament #3626119892, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/08/03 10:39:53 CET [2023/08/03 4:39:53 ET]
+Table '3626119892 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (410 in chips) 
+Seat 2: chrissy1967 (850 in chips) 
+Seat 3: ArmanKarapet (240 in chips) 
+Mahu2021: posts small blind 10
+chrissy1967: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks 3h]
+ArmanKarapet: raises 50 to 70
+Mahu2021: folds 
+chrissy1967: folds 
+Uncalled bet (50) returned to ArmanKarapet
+ArmanKarapet collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: chrissy1967 (big blind) folded before Flop
+Seat 3: ArmanKarapet (button) collected (50)
+
+
+
+PokerStars Hand #245175178792: Tournament #3626119892, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/08/03 10:40:01 CET [2023/08/03 4:40:01 ET]
+Table '3626119892 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (400 in chips) 
+Seat 2: chrissy1967 (830 in chips) 
+Seat 3: ArmanKarapet (270 in chips) 
+chrissy1967: posts small blind 10
+ArmanKarapet: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Th 8s]
+Mahu2021: folds 
+chrissy1967: calls 10
+ArmanKarapet: checks 
+*** FLOP *** [Qc Ac 3d]
+chrissy1967: checks 
+ArmanKarapet: bets 20
+chrissy1967: folds 
+Uncalled bet (20) returned to ArmanKarapet
+ArmanKarapet collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Qc Ac 3d]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: chrissy1967 (small blind) folded on the Flop
+Seat 3: ArmanKarapet (big blind) collected (40)
+
+
+
+PokerStars Hand #245175181305: Tournament #3626119892, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/08/03 10:40:21 CET [2023/08/03 4:40:21 ET]
+Table '3626119892 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (400 in chips) 
+Seat 2: chrissy1967 (810 in chips) 
+Seat 3: ArmanKarapet (290 in chips) 
+ArmanKarapet: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qd Js]
+chrissy1967: folds 
+ArmanKarapet: calls 15
+Mahu2021: checks 
+*** FLOP *** [3s 6h 4c]
+ArmanKarapet: bets 30
+Mahu2021: folds 
+Uncalled bet (30) returned to ArmanKarapet
+ArmanKarapet collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [3s 6h 4c]
+Seat 1: Mahu2021 (big blind) folded on the Flop
+Seat 2: chrissy1967 (button) folded before Flop (didn't bet)
+Seat 3: ArmanKarapet (small blind) collected (60)
+
+
+
+PokerStars Hand #245175182731: Tournament #3626119892, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/08/03 10:40:33 CET [2023/08/03 4:40:33 ET]
+Table '3626119892 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (370 in chips) 
+Seat 2: chrissy1967 (810 in chips) 
+Seat 3: ArmanKarapet (320 in chips) 
+Mahu2021: posts small blind 15
+chrissy1967: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad Qs]
+ArmanKarapet: raises 60 to 90
+Mahu2021: calls 75
+chrissy1967: folds 
+*** FLOP *** [2s 5c 4d]
+Mahu2021: checks 
+ArmanKarapet: bets 60
+Mahu2021: calls 60
+*** TURN *** [2s 5c 4d] [Jc]
+Mahu2021: checks 
+ArmanKarapet: bets 170 and is all-in
+Mahu2021: folds 
+Uncalled bet (170) returned to ArmanKarapet
+ArmanKarapet collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | Rake 0 
+Board [2s 5c 4d Jc]
+Seat 1: Mahu2021 (small blind) folded on the Turn
+Seat 2: chrissy1967 (big blind) folded before Flop
+Seat 3: ArmanKarapet (button) collected (330)
+
+
+
+PokerStars Hand #245175184926: Tournament #3626119892, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/08/03 10:40:52 CET [2023/08/03 4:40:52 ET]
+Table '3626119892 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (220 in chips) 
+Seat 2: chrissy1967 (780 in chips) 
+Seat 3: ArmanKarapet (500 in chips) 
+chrissy1967: posts small blind 15
+ArmanKarapet: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd 4c]
+Mahu2021: folds 
+chrissy1967: raises 30 to 60
+ArmanKarapet: calls 30
+*** FLOP *** [Th 3s 7h]
+chrissy1967: checks 
+ArmanKarapet: checks 
+*** TURN *** [Th 3s 7h] [7c]
+chrissy1967: checks 
+ArmanKarapet: checks 
+*** RIVER *** [Th 3s 7h 7c] [Ts]
+chrissy1967: bets 30
+ArmanKarapet: folds 
+Uncalled bet (30) returned to chrissy1967
+chrissy1967 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Th 3s 7h 7c Ts]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: chrissy1967 (small blind) collected (120)
+Seat 3: ArmanKarapet (big blind) folded on the River
+
+
+
+PokerStars Hand #245175186993: Tournament #3626119892, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/08/03 10:41:09 CET [2023/08/03 4:41:09 ET]
+Table '3626119892 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (220 in chips) 
+Seat 2: chrissy1967 (840 in chips) 
+Seat 3: ArmanKarapet (440 in chips) 
+ArmanKarapet: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Th 9c]
+chrissy1967: folds 
+ArmanKarapet: calls 15
+Mahu2021: checks 
+*** FLOP *** [6h 4c Ad]
+ArmanKarapet: checks 
+Mahu2021: checks 
+*** TURN *** [6h 4c Ad] [2d]
+ArmanKarapet: bets 30
+Mahu2021: folds 
+Uncalled bet (30) returned to ArmanKarapet
+ArmanKarapet collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [6h 4c Ad 2d]
+Seat 1: Mahu2021 (big blind) folded on the Turn
+Seat 2: chrissy1967 (button) folded before Flop (didn't bet)
+Seat 3: ArmanKarapet (small blind) collected (60)
+
+
+
+PokerStars Hand #245175188788: Tournament #3626119892, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/08/03 10:41:24 CET [2023/08/03 4:41:24 ET]
+Table '3626119892 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (190 in chips) 
+Seat 2: chrissy1967 (840 in chips) 
+Seat 3: ArmanKarapet (470 in chips) 
+Mahu2021: posts small blind 15
+chrissy1967: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c Qh]
+ArmanKarapet: calls 30
+Mahu2021: folds 
+chrissy1967: checks 
+*** FLOP *** [9h 3h 5d]
+chrissy1967: checks 
+ArmanKarapet: checks 
+*** TURN *** [9h 3h 5d] [7d]
+chrissy1967: checks 
+ArmanKarapet: bets 30
+chrissy1967: folds 
+Uncalled bet (30) returned to ArmanKarapet
+ArmanKarapet collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Board [9h 3h 5d 7d]
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: chrissy1967 (big blind) folded on the Turn
+Seat 3: ArmanKarapet (button) collected (75)
+
+
+
+PokerStars Hand #245175190561: Tournament #3626119892, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/08/03 10:41:38 CET [2023/08/03 4:41:38 ET]
+Table '3626119892 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (175 in chips) 
+Seat 2: chrissy1967 (810 in chips) 
+Seat 3: ArmanKarapet (515 in chips) 
+chrissy1967: posts small blind 15
+ArmanKarapet: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc 4h]
+Mahu2021: folds 
+chrissy1967: folds 
+Uncalled bet (15) returned to ArmanKarapet
+ArmanKarapet collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: chrissy1967 (small blind) folded before Flop
+Seat 3: ArmanKarapet (big blind) collected (30)
+
+
+
+PokerStars Hand #245175191250: Tournament #3626119892, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/08/03 10:41:44 CET [2023/08/03 4:41:44 ET]
+Table '3626119892 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (175 in chips) 
+Seat 2: chrissy1967 (795 in chips) 
+Seat 3: ArmanKarapet (530 in chips) 
+ArmanKarapet: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d Js]
+chrissy1967: folds 
+ArmanKarapet: calls 15
+Mahu2021: checks 
+*** FLOP *** [6c Qs 8d]
+ArmanKarapet: checks 
+Mahu2021: checks 
+*** TURN *** [6c Qs 8d] [5s]
+ArmanKarapet: checks 
+Mahu2021: checks 
+*** RIVER *** [6c Qs 8d 5s] [Qc]
+ArmanKarapet: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+ArmanKarapet: shows [Kc 5h] (two pair, Queens and Fives)
+Mahu2021: mucks hand 
+ArmanKarapet collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [6c Qs 8d 5s Qc]
+Seat 1: Mahu2021 (big blind) mucked [3d Js]
+Seat 2: chrissy1967 (button) folded before Flop (didn't bet)
+Seat 3: ArmanKarapet (small blind) showed [Kc 5h] and won (60) with two pair, Queens and Fives
+
+
+
+PokerStars Hand #245175193241: Tournament #3626119892, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/08/03 10:42:00 CET [2023/08/03 4:42:00 ET]
+Table '3626119892 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (145 in chips) 
+Seat 2: chrissy1967 (795 in chips) 
+Seat 3: ArmanKarapet (560 in chips) 
+Mahu2021: posts small blind 15
+chrissy1967: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qs 2d]
+ArmanKarapet: raises 30 to 60
+Mahu2021: folds 
+chrissy1967: folds 
+Uncalled bet (30) returned to ArmanKarapet
+ArmanKarapet collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: chrissy1967 (big blind) folded before Flop
+Seat 3: ArmanKarapet (button) collected (75)
+
+
+
+PokerStars Hand #245175194474: Tournament #3626119892, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/08/03 10:42:10 CET [2023/08/03 4:42:10 ET]
+Table '3626119892 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (130 in chips) 
+Seat 2: chrissy1967 (765 in chips) 
+Seat 3: ArmanKarapet (605 in chips) 
+chrissy1967: posts small blind 20
+ArmanKarapet: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4d 9d]
+Mahu2021: folds 
+chrissy1967: raises 725 to 765 and is all-in
+ArmanKarapet: folds 
+Uncalled bet (725) returned to chrissy1967
+chrissy1967 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: chrissy1967 (small blind) collected (80)
+Seat 3: ArmanKarapet (big blind) folded before Flop
+
+
+
+PokerStars Hand #245175195360: Tournament #3626119892, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/08/03 10:42:17 CET [2023/08/03 4:42:17 ET]
+Table '3626119892 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (130 in chips) 
+Seat 2: chrissy1967 (805 in chips) 
+Seat 3: ArmanKarapet (565 in chips) 
+ArmanKarapet: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h Kd]
+chrissy1967: folds 
+ArmanKarapet: calls 20
+Mahu2021: raises 90 to 130 and is all-in
+ArmanKarapet: calls 90
+*** FLOP *** [Ac 8c 2c]
+*** TURN *** [Ac 8c 2c] [7c]
+*** RIVER *** [Ac 8c 2c 7c] [Th]
+*** SHOW DOWN ***
+ArmanKarapet: shows [5c Ks] (a flush, Ace high)
+Mahu2021: shows [3h Kd] (high card Ace)
+ArmanKarapet collected 260 from pot
+Mahu2021 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 260 | Rake 0 
+Board [Ac 8c 2c 7c Th]
+Seat 1: Mahu2021 (big blind) showed [3h Kd] and lost with high card Ace
+Seat 2: chrissy1967 (button) folded before Flop (didn't bet)
+Seat 3: ArmanKarapet (small blind) showed [5c Ks] and won (260) with a flush, Ace high
+
+
+

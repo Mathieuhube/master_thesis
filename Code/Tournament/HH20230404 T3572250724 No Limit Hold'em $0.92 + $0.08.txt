@@ -1,0 +1,695 @@
+﻿PokerStars Hand #242886445402: Tournament #3572250724, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/04 21:44:08 CET [2023/04/04 15:44:08 ET]
+Table '3572250724 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: thekingtree (500 in chips) 
+Seat 3: CAPTAINSKA (500 in chips) 
+thekingtree: posts small blind 10
+CAPTAINSKA: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5h Kd]
+Mahu2021: folds 
+thekingtree: calls 10
+CAPTAINSKA: raises 20 to 40
+thekingtree: calls 20
+*** FLOP *** [2h 6d Ks]
+thekingtree: checks 
+CAPTAINSKA: bets 40
+thekingtree: calls 40
+*** TURN *** [2h 6d Ks] [2d]
+thekingtree: checks 
+CAPTAINSKA: bets 80
+thekingtree: calls 80
+*** RIVER *** [2h 6d Ks 2d] [Ad]
+thekingtree: bets 320
+CAPTAINSKA: calls 320
+*** SHOW DOWN ***
+thekingtree: shows [7h 6c] (two pair, Sixes and Deuces)
+CAPTAINSKA: shows [Js Jd] (two pair, Jacks and Deuces)
+CAPTAINSKA collected 960 from pot
+*** SUMMARY ***
+Total pot 960 | Rake 0 
+Board [2h 6d Ks 2d Ad]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: thekingtree (small blind) showed [7h 6c] and lost with two pair, Sixes and Deuces
+Seat 3: CAPTAINSKA (big blind) showed [Js Jd] and won (960) with two pair, Jacks and Deuces
+
+
+
+PokerStars Hand #242886467562: Tournament #3572250724, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/04 21:45:05 CET [2023/04/04 15:45:05 ET]
+Table '3572250724 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: thekingtree (20 in chips) 
+Seat 3: CAPTAINSKA (980 in chips) 
+CAPTAINSKA: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d 8c]
+thekingtree: calls 20 and is all-in
+CAPTAINSKA: folds 
+*** FLOP *** [4s 4c 5h]
+*** TURN *** [4s 4c 5h] [Kh]
+*** RIVER *** [4s 4c 5h Kh] [Ah]
+*** SHOW DOWN ***
+Mahu2021: shows [9d 8c] (a pair of Fours)
+thekingtree: shows [9c 6d] (a pair of Fours)
+Mahu2021 collected 25 from pot
+thekingtree collected 25 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [4s 4c 5h Kh Ah]
+Seat 1: Mahu2021 (big blind) showed [9d 8c] and won (25) with a pair of Fours
+Seat 2: thekingtree (button) showed [9c 6d] and won (25) with a pair of Fours
+Seat 3: CAPTAINSKA (small blind) folded before Flop
+
+
+
+PokerStars Hand #242886472933: Tournament #3572250724, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/04 21:45:18 CET [2023/04/04 15:45:18 ET]
+Table '3572250724 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (505 in chips) 
+Seat 2: thekingtree (25 in chips) 
+Seat 3: CAPTAINSKA (970 in chips) 
+Mahu2021: posts small blind 10
+thekingtree: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s 7s]
+CAPTAINSKA: raises 20 to 40
+Mahu2021: calls 30
+thekingtree: calls 5 and is all-in
+*** FLOP *** [Ac 5c Kc]
+Mahu2021: checks 
+CAPTAINSKA: bets 53
+Mahu2021: folds 
+Uncalled bet (53) returned to CAPTAINSKA
+*** TURN *** [Ac 5c Kc] [Jh]
+*** RIVER *** [Ac 5c Kc Jh] [8c]
+*** SHOW DOWN ***
+CAPTAINSKA: shows [Ah 2d] (a pair of Aces)
+CAPTAINSKA collected 30 from side pot
+thekingtree: shows [2s 8h] (a pair of Eights)
+CAPTAINSKA collected 75 from main pot
+thekingtree is sitting out
+thekingtree finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 105 Main pot 75. Side pot 30. | Rake 0 
+Board [Ac 5c Kc Jh 8c]
+Seat 1: Mahu2021 (small blind) folded on the Flop
+Seat 2: thekingtree (big blind) showed [2s 8h] and lost with a pair of Eights
+Seat 3: CAPTAINSKA (button) showed [Ah 2d] and won (105) with a pair of Aces
+
+
+
+PokerStars Hand #242886482484: Tournament #3572250724, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/04 21:45:42 CET [2023/04/04 15:45:42 ET]
+Table '3572250724 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (465 in chips) 
+Seat 3: CAPTAINSKA (1035 in chips) 
+Mahu2021: posts small blind 10
+CAPTAINSKA: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Th 7h]
+Mahu2021: calls 10
+CAPTAINSKA: checks 
+*** FLOP *** [As 9c 6s]
+CAPTAINSKA: checks 
+Mahu2021: bets 20
+CAPTAINSKA: raises 40 to 60
+Mahu2021: folds 
+Uncalled bet (40) returned to CAPTAINSKA
+CAPTAINSKA collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [As 9c 6s]
+Seat 1: Mahu2021 (button) (small blind) folded on the Flop
+Seat 3: CAPTAINSKA (big blind) collected (80)
+
+
+
+PokerStars Hand #242886490882: Tournament #3572250724, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/04 21:46:03 CET [2023/04/04 15:46:03 ET]
+Table '3572250724 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (425 in chips) 
+Seat 3: CAPTAINSKA (1075 in chips) 
+CAPTAINSKA: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d 3d]
+CAPTAINSKA: folds 
+Uncalled bet (10) returned to Mahu2021
+Mahu2021 collected 20 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (20)
+Seat 3: CAPTAINSKA (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #242886494592: Tournament #3572250724, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/04 21:46:13 CET [2023/04/04 15:46:13 ET]
+Table '3572250724 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (435 in chips) 
+Seat 3: CAPTAINSKA (1065 in chips) 
+Mahu2021: posts small blind 15
+CAPTAINSKA: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc Ks]
+Mahu2021: calls 15
+CAPTAINSKA: raises 30 to 60
+Mahu2021: calls 30
+*** FLOP *** [8h 3h Ad]
+CAPTAINSKA: bets 60
+Mahu2021: folds 
+Uncalled bet (60) returned to CAPTAINSKA
+CAPTAINSKA collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [8h 3h Ad]
+Seat 1: Mahu2021 (button) (small blind) folded on the Flop
+Seat 3: CAPTAINSKA (big blind) collected (120)
+
+
+
+PokerStars Hand #242886499423: Tournament #3572250724, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/04 21:46:25 CET [2023/04/04 15:46:25 ET]
+Table '3572250724 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (375 in chips) 
+Seat 3: CAPTAINSKA (1125 in chips) 
+CAPTAINSKA: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh 3c]
+CAPTAINSKA: calls 15
+Mahu2021: checks 
+*** FLOP *** [Jc 7d Ac]
+Mahu2021: bets 345 and is all-in
+CAPTAINSKA: folds 
+Uncalled bet (345) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Jc 7d Ac]
+Seat 1: Mahu2021 (big blind) collected (60)
+Seat 3: CAPTAINSKA (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #242886504278: Tournament #3572250724, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/04 21:46:37 CET [2023/04/04 15:46:37 ET]
+Table '3572250724 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (405 in chips) 
+Seat 3: CAPTAINSKA (1095 in chips) 
+Mahu2021: posts small blind 15
+CAPTAINSKA: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah 4s]
+Mahu2021: raises 375 to 405 and is all-in
+CAPTAINSKA: calls 375
+*** FLOP *** [9s Jd 3d]
+*** TURN *** [9s Jd 3d] [7d]
+*** RIVER *** [9s Jd 3d 7d] [Ac]
+*** SHOW DOWN ***
+CAPTAINSKA: shows [Qc Qs] (a pair of Queens)
+Mahu2021: shows [Ah 4s] (a pair of Aces)
+Mahu2021 collected 810 from pot
+*** SUMMARY ***
+Total pot 810 | Rake 0 
+Board [9s Jd 3d 7d Ac]
+Seat 1: Mahu2021 (button) (small blind) showed [Ah 4s] and won (810) with a pair of Aces
+Seat 3: CAPTAINSKA (big blind) showed [Qc Qs] and lost with a pair of Queens
+
+
+
+PokerStars Hand #242886511029: Tournament #3572250724, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/04 21:46:54 CET [2023/04/04 15:46:54 ET]
+Table '3572250724 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (810 in chips) 
+Seat 3: CAPTAINSKA (690 in chips) 
+CAPTAINSKA: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac 7s]
+CAPTAINSKA: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (30)
+Seat 3: CAPTAINSKA (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #242886516133: Tournament #3572250724, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/04 21:47:07 CET [2023/04/04 15:47:07 ET]
+Table '3572250724 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (825 in chips) 
+Seat 3: CAPTAINSKA (675 in chips) 
+Mahu2021: posts small blind 15
+CAPTAINSKA: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h 8s]
+Mahu2021: folds 
+Uncalled bet (15) returned to CAPTAINSKA
+CAPTAINSKA collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: CAPTAINSKA (big blind) collected (30)
+
+
+
+PokerStars Hand #242886517812: Tournament #3572250724, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/04 21:47:12 CET [2023/04/04 15:47:12 ET]
+Table '3572250724 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (810 in chips) 
+Seat 3: CAPTAINSKA (690 in chips) 
+CAPTAINSKA: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kc 4d]
+CAPTAINSKA: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (30)
+Seat 3: CAPTAINSKA (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #242886520755: Tournament #3572250724, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/04 21:47:19 CET [2023/04/04 15:47:19 ET]
+Table '3572250724 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (825 in chips) 
+Seat 3: CAPTAINSKA (675 in chips) 
+Mahu2021: posts small blind 15
+CAPTAINSKA: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd Qs]
+Mahu2021: raises 30 to 60
+CAPTAINSKA: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) collected (60)
+Seat 3: CAPTAINSKA (big blind) folded before Flop
+
+
+
+PokerStars Hand #242886523496: Tournament #3572250724, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/04 21:47:26 CET [2023/04/04 15:47:26 ET]
+Table '3572250724 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (855 in chips) 
+Seat 3: CAPTAINSKA (645 in chips) 
+CAPTAINSKA: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s Th]
+CAPTAINSKA: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (30)
+Seat 3: CAPTAINSKA (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #242886527795: Tournament #3572250724, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/04 21:47:37 CET [2023/04/04 15:47:37 ET]
+Table '3572250724 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (870 in chips) 
+Seat 3: CAPTAINSKA (630 in chips) 
+Mahu2021: posts small blind 15
+CAPTAINSKA: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s 4c]
+Mahu2021: calls 15
+CAPTAINSKA: raises 30 to 60
+Mahu2021: calls 30
+*** FLOP *** [2c 2d Jd]
+CAPTAINSKA: checks 
+Mahu2021: checks 
+*** TURN *** [2c 2d Jd] [Ad]
+CAPTAINSKA: bets 120
+Mahu2021: folds 
+Uncalled bet (120) returned to CAPTAINSKA
+CAPTAINSKA collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [2c 2d Jd Ad]
+Seat 1: Mahu2021 (button) (small blind) folded on the Turn
+Seat 3: CAPTAINSKA (big blind) collected (120)
+
+
+
+PokerStars Hand #242886536641: Tournament #3572250724, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/04 21:47:59 CET [2023/04/04 15:47:59 ET]
+Table '3572250724 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (810 in chips) 
+Seat 3: CAPTAINSKA (690 in chips) 
+CAPTAINSKA: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh Ts]
+CAPTAINSKA: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (30)
+Seat 3: CAPTAINSKA (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #242886539061: Tournament #3572250724, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/04 21:48:06 CET [2023/04/04 15:48:06 ET]
+Table '3572250724 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (825 in chips) 
+Seat 3: CAPTAINSKA (675 in chips) 
+Mahu2021: posts small blind 15
+CAPTAINSKA: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s 6h]
+Mahu2021: raises 795 to 825 and is all-in
+CAPTAINSKA: folds 
+Uncalled bet (795) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) collected (60)
+Seat 3: CAPTAINSKA (big blind) folded before Flop
+
+
+
+PokerStars Hand #242886544451: Tournament #3572250724, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/04 21:48:19 CET [2023/04/04 15:48:19 ET]
+Table '3572250724 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (855 in chips) 
+Seat 3: CAPTAINSKA (645 in chips) 
+CAPTAINSKA: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh Kh]
+CAPTAINSKA: calls 20
+Mahu2021: checks 
+*** FLOP *** [Td Qc Ks]
+Mahu2021: checks 
+CAPTAINSKA: checks 
+*** TURN *** [Td Qc Ks] [3s]
+Mahu2021: bets 40
+CAPTAINSKA: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Td Qc Ks 3s]
+Seat 1: Mahu2021 (big blind) collected (80)
+Seat 3: CAPTAINSKA (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #242886551539: Tournament #3572250724, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/04 21:48:37 CET [2023/04/04 15:48:37 ET]
+Table '3572250724 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (895 in chips) 
+Seat 3: CAPTAINSKA (605 in chips) 
+Mahu2021: posts small blind 20
+CAPTAINSKA: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c 6s]
+Mahu2021: calls 20
+CAPTAINSKA: checks 
+*** FLOP *** [2h Tc 6d]
+CAPTAINSKA: checks 
+Mahu2021: bets 40
+CAPTAINSKA: calls 40
+*** TURN *** [2h Tc 6d] [2s]
+CAPTAINSKA: checks 
+Mahu2021: checks 
+*** RIVER *** [2h Tc 6d 2s] [As]
+CAPTAINSKA: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+CAPTAINSKA: shows [8d 9h] (a pair of Deuces)
+Mahu2021: shows [5c 6s] (two pair, Sixes and Deuces)
+Mahu2021 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [2h Tc 6d 2s As]
+Seat 1: Mahu2021 (button) (small blind) showed [5c 6s] and won (160) with two pair, Sixes and Deuces
+Seat 3: CAPTAINSKA (big blind) showed [8d 9h] and lost with a pair of Deuces
+
+
+
+PokerStars Hand #242886563478: Tournament #3572250724, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/04 21:49:08 CET [2023/04/04 15:49:08 ET]
+Table '3572250724 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (975 in chips) 
+Seat 3: CAPTAINSKA (525 in chips) 
+CAPTAINSKA: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js Tc]
+CAPTAINSKA: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (40)
+Seat 3: CAPTAINSKA (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #242886566760: Tournament #3572250724, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/04 21:49:16 CET [2023/04/04 15:49:16 ET]
+Table '3572250724 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (995 in chips) 
+Seat 3: CAPTAINSKA (505 in chips) 
+Mahu2021: posts small blind 20
+CAPTAINSKA: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h Tc]
+Mahu2021: folds 
+Uncalled bet (20) returned to CAPTAINSKA
+CAPTAINSKA collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: CAPTAINSKA (big blind) collected (40)
+
+
+
+PokerStars Hand #242886568579: Tournament #3572250724, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/04 21:49:21 CET [2023/04/04 15:49:21 ET]
+Table '3572250724 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (975 in chips) 
+Seat 3: CAPTAINSKA (525 in chips) 
+CAPTAINSKA: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah Ac]
+CAPTAINSKA: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (40)
+Seat 3: CAPTAINSKA (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #242886571817: Tournament #3572250724, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/04 21:49:29 CET [2023/04/04 15:49:29 ET]
+Table '3572250724 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (995 in chips) 
+Seat 3: CAPTAINSKA (505 in chips) 
+Mahu2021: posts small blind 20
+CAPTAINSKA: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d Ah]
+Mahu2021: calls 20
+CAPTAINSKA: checks 
+*** FLOP *** [9h Kc 5h]
+CAPTAINSKA: bets 40
+Mahu2021: folds 
+Uncalled bet (40) returned to CAPTAINSKA
+CAPTAINSKA collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [9h Kc 5h]
+Seat 1: Mahu2021 (button) (small blind) folded on the Flop
+Seat 3: CAPTAINSKA (big blind) collected (80)
+
+
+
+PokerStars Hand #242886578092: Tournament #3572250724, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/04 21:49:45 CET [2023/04/04 15:49:45 ET]
+Table '3572250724 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (955 in chips) 
+Seat 3: CAPTAINSKA (545 in chips) 
+CAPTAINSKA: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s 3s]
+CAPTAINSKA: raises 40 to 80
+Mahu2021: calls 40
+*** FLOP *** [Qh Ah 4h]
+Mahu2021: checks 
+CAPTAINSKA: checks 
+*** TURN *** [Qh Ah 4h] [5d]
+Mahu2021: checks 
+CAPTAINSKA: bets 160
+Mahu2021: folds 
+Uncalled bet (160) returned to CAPTAINSKA
+CAPTAINSKA collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Qh Ah 4h 5d]
+Seat 1: Mahu2021 (big blind) folded on the Turn
+Seat 3: CAPTAINSKA (button) (small blind) collected (160)
+
+
+
+PokerStars Hand #242886586268: Tournament #3572250724, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/04 21:50:06 CET [2023/04/04 15:50:06 ET]
+Table '3572250724 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (875 in chips) 
+Seat 3: CAPTAINSKA (625 in chips) 
+Mahu2021: posts small blind 20
+CAPTAINSKA: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s Qd]
+Mahu2021: calls 20
+CAPTAINSKA: checks 
+*** FLOP *** [8h 4d 3h]
+CAPTAINSKA: checks 
+Mahu2021: bets 40
+CAPTAINSKA: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [8h 4d 3h]
+Seat 1: Mahu2021 (button) (small blind) collected (80)
+Seat 3: CAPTAINSKA (big blind) folded on the Flop
+
+
+
+PokerStars Hand #242886598508: Tournament #3572250724, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/04/04 21:50:37 CET [2023/04/04 15:50:37 ET]
+Table '3572250724 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (915 in chips) 
+Seat 3: CAPTAINSKA (585 in chips) 
+CAPTAINSKA: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kc 8h]
+CAPTAINSKA: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (60)
+Seat 3: CAPTAINSKA (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #242886601152: Tournament #3572250724, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/04/04 21:50:43 CET [2023/04/04 15:50:43 ET]
+Table '3572250724 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (945 in chips) 
+Seat 3: CAPTAINSKA (555 in chips) 
+Mahu2021: posts small blind 30
+CAPTAINSKA: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh 7h]
+Mahu2021: raises 60 to 120
+CAPTAINSKA: calls 60
+*** FLOP *** [6h 3d Kh]
+CAPTAINSKA: checks 
+Mahu2021: bets 825 and is all-in
+CAPTAINSKA: folds 
+Uncalled bet (825) returned to Mahu2021
+Mahu2021 collected 240 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [6h 3d Kh]
+Seat 1: Mahu2021 (button) (small blind) collected (240)
+Seat 3: CAPTAINSKA (big blind) folded on the Flop
+
+
+
+PokerStars Hand #242886611330: Tournament #3572250724, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/04/04 21:51:09 CET [2023/04/04 15:51:09 ET]
+Table '3572250724 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (1065 in chips) 
+Seat 3: CAPTAINSKA (435 in chips) 
+CAPTAINSKA: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8s 5s]
+CAPTAINSKA: calls 30
+Mahu2021: checks 
+*** FLOP *** [2s 9c Ts]
+Mahu2021: bets 1005 and is all-in
+CAPTAINSKA: folds 
+Uncalled bet (1005) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [2s 9c Ts]
+Seat 1: Mahu2021 (big blind) collected (120)
+Seat 3: CAPTAINSKA (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #242886618194: Tournament #3572250724, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/04/04 21:51:27 CET [2023/04/04 15:51:27 ET]
+Table '3572250724 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1125 in chips) 
+Seat 3: CAPTAINSKA (375 in chips) 
+Mahu2021: posts small blind 30
+CAPTAINSKA: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As Ah]
+Mahu2021: calls 30
+CAPTAINSKA: checks 
+*** FLOP *** [4c 6d 5h]
+CAPTAINSKA: checks 
+Mahu2021: checks 
+*** TURN *** [4c 6d 5h] [Kh]
+CAPTAINSKA: checks 
+Mahu2021: checks 
+*** RIVER *** [4c 6d 5h Kh] [Td]
+CAPTAINSKA: bets 315 and is all-in
+Mahu2021: calls 315
+*** SHOW DOWN ***
+CAPTAINSKA: shows [Ts 5d] (two pair, Tens and Fives)
+Mahu2021: shows [As Ah] (a pair of Aces)
+CAPTAINSKA collected 750 from pot
+*** SUMMARY ***
+Total pot 750 | Rake 0 
+Board [4c 6d 5h Kh Td]
+Seat 1: Mahu2021 (button) (small blind) showed [As Ah] and lost with a pair of Aces
+Seat 3: CAPTAINSKA (big blind) showed [Ts 5d] and won (750) with two pair, Tens and Fives
+
+
+
+PokerStars Hand #242886628935: Tournament #3572250724, $0.92+$0.08 USD Hold'em No Limit - Level IV (30/60) - 2023/04/04 21:51:54 CET [2023/04/04 15:51:54 ET]
+Table '3572250724 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (750 in chips) 
+Seat 3: CAPTAINSKA (750 in chips) 
+CAPTAINSKA: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac 5s]
+CAPTAINSKA: calls 30
+Mahu2021: raises 690 to 750 and is all-in
+CAPTAINSKA: calls 690 and is all-in
+*** FLOP *** [4h 6s Ah]
+*** TURN *** [4h 6s Ah] [3s]
+*** RIVER *** [4h 6s Ah 3s] [6h]
+*** SHOW DOWN ***
+Mahu2021: shows [Ac 5s] (two pair, Aces and Sixes)
+CAPTAINSKA: shows [As 7c] (two pair, Aces and Sixes - Seven kicker)
+CAPTAINSKA collected 1500 from pot
+Mahu2021 finished the tournament in 2nd place
+CAPTAINSKA wins the tournament and receives $2.00 - congratulations!
+*** SUMMARY ***
+Total pot 1500 | Rake 0 
+Board [4h 6s Ah 3s 6h]
+Seat 1: Mahu2021 (big blind) showed [Ac 5s] and lost with two pair, Aces and Sixes
+Seat 3: CAPTAINSKA (button) (small blind) showed [As 7c] and won (1500) with two pair, Aces and Sixes
+
+
+

@@ -1,0 +1,391 @@
+﻿PokerStars Hand #255702124047: Tournament #3878556778, $0.96+$0.04 USD Hold'em No Limit - Match Round I, Level I (25/50) - 2025/04/12 16:34:02 CET [2025/04/12 10:34:02 ET]
+Table '3878556778 3' 4-max Seat #1 is the button
+Seat 1: jack10er (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: VOVCHENKO (500 in chips) 
+Seat 4: natoalves28 (500 in chips) 
+jack10er: posts the ante 10
+Mahu2021: posts the ante 10
+VOVCHENKO: posts the ante 10
+natoalves28: posts the ante 10
+Mahu2021: posts small blind 25
+VOVCHENKO: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h 6h]
+natoalves28: raises 440 to 490 and is all-in
+jack10er: folds 
+Mahu2021: folds 
+VOVCHENKO: folds 
+Uncalled bet (440) returned to natoalves28
+natoalves28 collected 165 from pot
+natoalves28: doesn't show hand 
+*** SUMMARY ***
+Total pot 165 | Rake 0 
+Seat 1: jack10er (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: VOVCHENKO (big blind) folded before Flop
+Seat 4: natoalves28 collected (165)
+
+
+
+PokerStars Hand #255702126809: Tournament #3878556778, $0.96+$0.04 USD Hold'em No Limit - Match Round I, Level I (25/50) - 2025/04/12 16:34:17 CET [2025/04/12 10:34:17 ET]
+Table '3878556778 3' 4-max Seat #2 is the button
+Seat 1: jack10er (490 in chips) 
+Seat 2: Mahu2021 (465 in chips) 
+Seat 3: VOVCHENKO (440 in chips) 
+Seat 4: natoalves28 (605 in chips) 
+jack10er: posts the ante 10
+Mahu2021: posts the ante 10
+VOVCHENKO: posts the ante 10
+natoalves28: posts the ante 10
+VOVCHENKO: posts small blind 25
+natoalves28: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s 5h]
+jack10er: calls 50
+Mahu2021: folds 
+VOVCHENKO: folds 
+natoalves28: checks 
+*** FLOP *** [Kh Jc 6h]
+natoalves28: bets 545 and is all-in
+jack10er: folds 
+Uncalled bet (545) returned to natoalves28
+natoalves28 collected 165 from pot
+natoalves28: doesn't show hand 
+*** SUMMARY ***
+Total pot 165 | Rake 0 
+Board [Kh Jc 6h]
+Seat 1: jack10er folded on the Flop
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: VOVCHENKO (small blind) folded before Flop
+Seat 4: natoalves28 (big blind) collected (165)
+
+
+
+PokerStars Hand #255702129848: Tournament #3878556778, $0.96+$0.04 USD Hold'em No Limit - Match Round I, Level I (25/50) - 2025/04/12 16:34:33 CET [2025/04/12 10:34:33 ET]
+Table '3878556778 3' 4-max Seat #3 is the button
+Seat 1: jack10er (430 in chips) 
+Seat 2: Mahu2021 (455 in chips) 
+Seat 3: VOVCHENKO (405 in chips) 
+Seat 4: natoalves28 (710 in chips) 
+jack10er: posts the ante 10
+Mahu2021: posts the ante 10
+VOVCHENKO: posts the ante 10
+natoalves28: posts the ante 10
+natoalves28: posts small blind 25
+jack10er: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c 9s]
+Mahu2021: folds 
+VOVCHENKO: raises 345 to 395 and is all-in
+natoalves28: folds 
+jack10er: folds 
+Uncalled bet (345) returned to VOVCHENKO
+VOVCHENKO collected 165 from pot
+VOVCHENKO: doesn't show hand 
+*** SUMMARY ***
+Total pot 165 | Rake 0 
+Seat 1: jack10er (big blind) folded before Flop
+Seat 2: Mahu2021 folded before Flop (didn't bet)
+Seat 3: VOVCHENKO (button) collected (165)
+Seat 4: natoalves28 (small blind) folded before Flop
+
+
+
+PokerStars Hand #255702133328: Tournament #3878556778, $0.96+$0.04 USD Hold'em No Limit - Match Round I, Level I (25/50) - 2025/04/12 16:34:51 CET [2025/04/12 10:34:51 ET]
+Table '3878556778 3' 4-max Seat #4 is the button
+Seat 1: jack10er (370 in chips) 
+Seat 2: Mahu2021 (445 in chips) 
+Seat 3: VOVCHENKO (510 in chips) 
+Seat 4: natoalves28 (675 in chips) 
+jack10er: posts the ante 10
+Mahu2021: posts the ante 10
+VOVCHENKO: posts the ante 10
+natoalves28: posts the ante 10
+jack10er: posts small blind 25
+Mahu2021: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h 6c]
+VOVCHENKO: folds 
+natoalves28: raises 615 to 665 and is all-in
+jack10er: calls 335 and is all-in
+Mahu2021: folds 
+Uncalled bet (305) returned to natoalves28
+*** FLOP *** [Kc 3d 8c]
+*** TURN *** [Kc 3d 8c] [2d]
+*** RIVER *** [Kc 3d 8c 2d] [9h]
+*** SHOW DOWN ***
+jack10er: shows [Qs 8d] (a pair of Eights)
+natoalves28: shows [Ah Kd] (a pair of Kings)
+natoalves28 collected 810 from pot
+jack10er finished the tournament in 16th place
+*** SUMMARY ***
+Total pot 810 | Rake 0 
+Board [Kc 3d 8c 2d 9h]
+Seat 1: jack10er (small blind) showed [Qs 8d] and lost with a pair of Eights
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: VOVCHENKO folded before Flop (didn't bet)
+Seat 4: natoalves28 (button) showed [Ah Kd] and won (810) with a pair of Kings
+
+
+
+PokerStars Hand #255702137866: Tournament #3878556778, $0.96+$0.04 USD Hold'em No Limit - Match Round I, Level I (25/50) - 2025/04/12 16:35:15 CET [2025/04/12 10:35:15 ET]
+Table '3878556778 3' 4-max Seat #2 is the button
+Seat 2: Mahu2021 (385 in chips) 
+Seat 3: VOVCHENKO (500 in chips) 
+Seat 4: natoalves28 (1115 in chips) 
+Mahu2021: posts the ante 10
+VOVCHENKO: posts the ante 10
+natoalves28: posts the ante 10
+VOVCHENKO: posts small blind 25
+natoalves28: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts 4d]
+Mahu2021: folds 
+VOVCHENKO: calls 25
+natoalves28: checks 
+*** FLOP *** [Qd Kd 2h]
+VOVCHENKO: bets 130
+natoalves28: folds 
+Uncalled bet (130) returned to VOVCHENKO
+VOVCHENKO collected 130 from pot
+VOVCHENKO: doesn't show hand 
+*** SUMMARY ***
+Total pot 130 | Rake 0 
+Board [Qd Kd 2h]
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: VOVCHENKO (small blind) collected (130)
+Seat 4: natoalves28 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #255702140976: Tournament #3878556778, $0.96+$0.04 USD Hold'em No Limit - Match Round I, Level I (25/50) - 2025/04/12 16:35:32 CET [2025/04/12 10:35:32 ET]
+Table '3878556778 3' 4-max Seat #3 is the button
+Seat 2: Mahu2021 (375 in chips) 
+Seat 3: VOVCHENKO (570 in chips) 
+Seat 4: natoalves28 (1055 in chips) 
+Mahu2021: posts the ante 10
+VOVCHENKO: posts the ante 10
+natoalves28: posts the ante 10
+natoalves28: posts small blind 25
+Mahu2021: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As 8c]
+VOVCHENKO: raises 510 to 560 and is all-in
+natoalves28: raises 485 to 1045 and is all-in
+Mahu2021: folds 
+Uncalled bet (485) returned to natoalves28
+*** FLOP *** [6h Kh 7c]
+*** TURN *** [6h Kh 7c] [8s]
+*** RIVER *** [6h Kh 7c 8s] [2c]
+*** SHOW DOWN ***
+natoalves28: shows [3d 3s] (a pair of Threes)
+VOVCHENKO: shows [Ac Jd] (high card Ace)
+natoalves28 collected 1200 from pot
+VOVCHENKO finished the tournament in 14th place
+*** SUMMARY ***
+Total pot 1200 | Rake 0 
+Board [6h Kh 7c 8s 2c]
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: VOVCHENKO (button) showed [Ac Jd] and lost with high card Ace
+Seat 4: natoalves28 (small blind) showed [3d 3s] and won (1200) with a pair of Threes
+
+
+
+PokerStars Hand #255702145543: Tournament #3878556778, $0.96+$0.04 USD Hold'em No Limit - Match Round I, Level I (25/50) - 2025/04/12 16:35:56 CET [2025/04/12 10:35:56 ET]
+Table '3878556778 3' 4-max Seat #2 is the button
+Seat 2: Mahu2021 (315 in chips) 
+Seat 4: natoalves28 (1685 in chips) 
+Mahu2021: posts the ante 10
+natoalves28: posts the ante 10
+Mahu2021: posts small blind 25
+natoalves28: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s Kc]
+Mahu2021: raises 255 to 305 and is all-in
+natoalves28: calls 255
+*** FLOP *** [3c 8c 5h]
+*** TURN *** [3c 8c 5h] [8h]
+*** RIVER *** [3c 8c 5h 8h] [8d]
+*** SHOW DOWN ***
+natoalves28: shows [Ad Ks] (three of a kind, Eights)
+Mahu2021: shows [5s Kc] (a full house, Eights full of Fives)
+Mahu2021 collected 630 from pot
+*** SUMMARY ***
+Total pot 630 | Rake 0 
+Board [3c 8c 5h 8h 8d]
+Seat 2: Mahu2021 (button) (small blind) showed [5s Kc] and won (630) with a full house, Eights full of Fives
+Seat 4: natoalves28 (big blind) showed [Ad Ks] and lost with three of a kind, Eights
+
+
+
+PokerStars Hand #255702148185: Tournament #3878556778, $0.96+$0.04 USD Hold'em No Limit - Match Round I, Level I (25/50) - 2025/04/12 16:36:10 CET [2025/04/12 10:36:10 ET]
+Table '3878556778 3' 4-max Seat #4 is the button
+Seat 2: Mahu2021 (630 in chips) 
+Seat 4: natoalves28 (1370 in chips) 
+Mahu2021: posts the ante 10
+natoalves28: posts the ante 10
+natoalves28: posts small blind 25
+Mahu2021: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8d 9s]
+natoalves28: raises 50 to 100
+Mahu2021: calls 50
+*** FLOP *** [Qs 2c 9d]
+Mahu2021: bets 520 and is all-in
+natoalves28: folds 
+Uncalled bet (520) returned to Mahu2021
+Mahu2021 collected 220 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 220 | Rake 0 
+Board [Qs 2c 9d]
+Seat 2: Mahu2021 (big blind) collected (220)
+Seat 4: natoalves28 (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #255702150548: Tournament #3878556778, $0.96+$0.04 USD Hold'em No Limit - Match Round I, Level I (25/50) - 2025/04/12 16:36:22 CET [2025/04/12 10:36:22 ET]
+Table '3878556778 3' 4-max Seat #2 is the button
+Seat 2: Mahu2021 (740 in chips) 
+Seat 4: natoalves28 (1260 in chips) 
+Mahu2021: posts the ante 10
+natoalves28: posts the ante 10
+Mahu2021: posts small blind 25
+natoalves28: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s 8c]
+Mahu2021: calls 25
+natoalves28: checks 
+*** FLOP *** [2c Jh Td]
+natoalves28: checks 
+Mahu2021: checks 
+*** TURN *** [2c Jh Td] [Ac]
+natoalves28: bets 120
+Mahu2021: folds 
+Uncalled bet (120) returned to natoalves28
+natoalves28 collected 120 from pot
+natoalves28: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [2c Jh Td Ac]
+Seat 2: Mahu2021 (button) (small blind) folded on the Turn
+Seat 4: natoalves28 (big blind) collected (120)
+
+
+
+PokerStars Hand #255702153286: Tournament #3878556778, $0.96+$0.04 USD Hold'em No Limit - Match Round I, Level I (25/50) - 2025/04/12 16:36:37 CET [2025/04/12 10:36:37 ET]
+Table '3878556778 3' 4-max Seat #4 is the button
+Seat 2: Mahu2021 (680 in chips) 
+Seat 4: natoalves28 (1320 in chips) 
+Mahu2021: posts the ante 10
+natoalves28: posts the ante 10
+natoalves28: posts small blind 25
+Mahu2021: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c 2c]
+natoalves28: raises 1260 to 1310 and is all-in
+Mahu2021: folds 
+Uncalled bet (1260) returned to natoalves28
+natoalves28 collected 120 from pot
+natoalves28: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 4: natoalves28 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #255702154692: Tournament #3878556778, $0.96+$0.04 USD Hold'em No Limit - Match Round I, Level I (25/50) - 2025/04/12 16:36:44 CET [2025/04/12 10:36:44 ET]
+Table '3878556778 3' 4-max Seat #2 is the button
+Seat 2: Mahu2021 (620 in chips) 
+Seat 4: natoalves28 (1380 in chips) 
+Mahu2021: posts the ante 10
+natoalves28: posts the ante 10
+Mahu2021: posts small blind 25
+natoalves28: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d 4h]
+Mahu2021: folds 
+Uncalled bet (25) returned to natoalves28
+natoalves28 collected 70 from pot
+natoalves28: doesn't show hand 
+*** SUMMARY ***
+Total pot 70 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 4: natoalves28 (big blind) collected (70)
+
+
+
+PokerStars Hand #255702155637: Tournament #3878556778, $0.96+$0.04 USD Hold'em No Limit - Match Round I, Level I (25/50) - 2025/04/12 16:36:49 CET [2025/04/12 10:36:49 ET]
+Table '3878556778 3' 4-max Seat #4 is the button
+Seat 2: Mahu2021 (585 in chips) 
+Seat 4: natoalves28 (1415 in chips) 
+Mahu2021: posts the ante 10
+natoalves28: posts the ante 10
+natoalves28: posts small blind 25
+Mahu2021: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s 8c]
+natoalves28: raises 1355 to 1405 and is all-in
+Mahu2021: folds 
+Uncalled bet (1355) returned to natoalves28
+natoalves28 collected 120 from pot
+natoalves28: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 4: natoalves28 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #255702156946: Tournament #3878556778, $0.96+$0.04 USD Hold'em No Limit - Match Round I, Level I (25/50) - 2025/04/12 16:36:56 CET [2025/04/12 10:36:56 ET]
+Table '3878556778 3' 4-max Seat #2 is the button
+Seat 2: Mahu2021 (525 in chips) 
+Seat 4: natoalves28 (1475 in chips) 
+Mahu2021: posts the ante 10
+natoalves28: posts the ante 10
+Mahu2021: posts small blind 25
+natoalves28: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8c 4c]
+Mahu2021: folds 
+Uncalled bet (25) returned to natoalves28
+natoalves28 collected 70 from pot
+natoalves28: doesn't show hand 
+*** SUMMARY ***
+Total pot 70 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 4: natoalves28 (big blind) collected (70)
+
+
+
+PokerStars Hand #255702157909: Tournament #3878556778, $0.96+$0.04 USD Hold'em No Limit - Match Round I, Level I (25/50) - 2025/04/12 16:37:01 CET [2025/04/12 10:37:01 ET]
+Table '3878556778 3' 4-max Seat #4 is the button
+Seat 2: Mahu2021 (490 in chips) 
+Seat 4: natoalves28 (1510 in chips) 
+Mahu2021: posts the ante 10
+natoalves28: posts the ante 10
+natoalves28: posts small blind 25
+Mahu2021: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh 9c]
+natoalves28: raises 1450 to 1500 and is all-in
+Mahu2021: calls 430 and is all-in
+Uncalled bet (1020) returned to natoalves28
+*** FLOP *** [Qd 8c 5d]
+*** TURN *** [Qd 8c 5d] [As]
+*** RIVER *** [Qd 8c 5d As] [9d]
+*** SHOW DOWN ***
+Mahu2021: shows [Qh 9c] (two pair, Queens and Nines)
+natoalves28: shows [8h 8d] (three of a kind, Eights)
+natoalves28 collected 980 from pot
+Mahu2021 finished the tournament in 11th place
+*** SUMMARY ***
+Total pot 980 | Rake 0 
+Board [Qd 8c 5d As 9d]
+Seat 2: Mahu2021 (big blind) showed [Qh 9c] and lost with two pair, Queens and Nines
+Seat 4: natoalves28 (button) (small blind) showed [8h 8d] and won (980) with three of a kind, Eights
+
+
+

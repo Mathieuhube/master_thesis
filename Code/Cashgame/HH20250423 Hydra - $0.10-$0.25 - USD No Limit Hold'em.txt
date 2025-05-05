@@ -1,0 +1,2126 @@
+﻿PokerStars Zoom Hand #255854148106:  Hold'em No Limit ($0.10/$0.25) - 2025/04/23 17:49:33 CET [2025/04/23 11:49:33 ET]
+Table 'Hydra' 6-max Seat #1 is the button
+Seat 1: Xuliipa ($33.48 in chips) 
+Seat 2: marcss2003 ($5.78 in chips) 
+Seat 3: Mahu2021 ($18.50 in chips) 
+Seat 4: pokeripuikko ($43.97 in chips) 
+Seat 5: Zorrito Colo ($52.09 in chips) 
+Seat 6: jim.gr450 ($52.75 in chips) 
+marcss2003: posts small blind $0.10
+Mahu2021: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c 8h]
+pokeripuikko: raises $0.31 to $0.56
+Zorrito Colo: folds 
+jim.gr450: folds 
+Xuliipa: folds 
+marcss2003: calls $0.46
+Mahu2021: calls $0.31
+*** FLOP *** [8d 5s Qd]
+marcss2003: checks 
+Mahu2021: checks 
+pokeripuikko: checks 
+*** TURN *** [8d 5s Qd] [Jh]
+marcss2003: checks 
+Mahu2021: checks 
+pokeripuikko: bets $1.20
+marcss2003: folds 
+Mahu2021: folds 
+Uncalled bet ($1.20) returned to pokeripuikko
+pokeripuikko collected $1.60 from pot
+pokeripuikko: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.68 | Rake $0.08 
+Board [8d 5s Qd Jh]
+Seat 1: Xuliipa (button) folded before Flop (didn't bet)
+Seat 2: marcss2003 (small blind) folded on the Turn
+Seat 3: Mahu2021 (big blind) folded on the Turn
+Seat 4: pokeripuikko collected ($1.60)
+Seat 5: Zorrito Colo folded before Flop (didn't bet)
+Seat 6: jim.gr450 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #255854154601:  Hold'em No Limit ($0.10/$0.25) - 2025/04/23 17:50:07 CET [2025/04/23 11:50:07 ET]
+Table 'Hydra' 6-max Seat #1 is the button
+Seat 1: murdahdat187 ($34.41 in chips) 
+Seat 2: Mahu2021 ($17.94 in chips) 
+Seat 3: pitbull857 ($61.64 in chips) 
+Seat 4: laisladegara ($30.31 in chips) 
+Seat 5: jakisjacek ($40.48 in chips) 
+Seat 6: bigchungu833 ($46.76 in chips) 
+Mahu2021: posts small blind $0.10
+pitbull857: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c Js]
+laisladegara: folds 
+jakisjacek: folds 
+bigchungu833: folds 
+murdahdat187: folds 
+Mahu2021: raises $0.50 to $0.75
+pitbull857: calls $0.50
+*** FLOP *** [9s 8d 3c]
+Mahu2021: bets $0.75
+pitbull857: calls $0.75
+*** TURN *** [9s 8d 3c] [Kh]
+Mahu2021: checks 
+pitbull857: checks 
+*** RIVER *** [9s 8d 3c Kh] [Ts]
+Mahu2021: checks 
+pitbull857: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [9c Js] (a pair of Nines)
+pitbull857: mucks hand 
+Mahu2021 collected $2.86 from pot
+*** SUMMARY ***
+Total pot $3 | Rake $0.14 
+Board [9s 8d 3c Kh Ts]
+Seat 1: murdahdat187 (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) showed [9c Js] and won ($2.86) with a pair of Nines
+Seat 3: pitbull857 (big blind) mucked [5h 5c]
+Seat 4: laisladegara folded before Flop (didn't bet)
+Seat 5: jakisjacek folded before Flop (didn't bet)
+Seat 6: bigchungu833 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #255854153695:  Hold'em No Limit ($0.10/$0.25) - 2025/04/23 17:50:02 CET [2025/04/23 11:50:02 ET]
+Table 'Hydra' 6-max Seat #1 is the button
+Seat 1: BilaTserkva00 ($26.75 in chips) 
+Seat 2: minimus885 ($25 in chips) 
+Seat 3: dreamcome12 ($28.53 in chips) 
+Seat 4: Methylbenzene ($21.83 in chips) 
+Seat 5: Mahu2021 ($17.94 in chips) 
+Seat 6: Cololukas ($24.03 in chips) 
+minimus885: posts small blind $0.10
+dreamcome12: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c As]
+Methylbenzene: calls $0.25
+Mahu2021: folds 
+Cololukas: folds 
+BilaTserkva00: folds 
+minimus885: calls $0.15
+dreamcome12: checks 
+*** FLOP *** [8c Qs 2d]
+minimus885: checks 
+dreamcome12: checks 
+Methylbenzene: checks 
+*** TURN *** [8c Qs 2d] [Qh]
+minimus885: checks 
+dreamcome12: checks 
+Methylbenzene: checks 
+*** RIVER *** [8c Qs 2d Qh] [2s]
+minimus885: checks 
+dreamcome12: checks 
+Methylbenzene: checks 
+*** SHOW DOWN ***
+minimus885: shows [7d 6c] (two pair, Queens and Deuces)
+dreamcome12: shows [3s Tc] (two pair, Queens and Deuces - Ten kicker)
+Methylbenzene: mucks hand 
+dreamcome12 collected $0.72 from pot
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [8c Qs 2d Qh 2s]
+Seat 1: BilaTserkva00 (button) folded before Flop (didn't bet)
+Seat 2: minimus885 (small blind) showed [7d 6c] and lost with two pair, Queens and Deuces
+Seat 3: dreamcome12 (big blind) showed [3s Tc] and won ($0.72) with two pair, Queens and Deuces
+Seat 4: Methylbenzene mucked [9h 7h]
+Seat 5: Mahu2021 folded before Flop (didn't bet)
+Seat 6: Cololukas folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #255854160839:  Hold'em No Limit ($0.10/$0.25) - 2025/04/23 17:50:40 CET [2025/04/23 11:50:40 ET]
+Table 'Hydra' 6-max Seat #1 is the button
+Seat 1: Mahu2021 ($19.30 in chips) 
+Seat 2: andrejklp115 ($11.90 in chips) 
+Seat 3: BilaTserkva00 ($26.49 in chips) 
+Seat 4: minimus885 ($25.56 in chips) 
+Seat 5: greu1943 ($6.72 in chips) 
+Seat 6: Gto_gtfo ($29.99 in chips) 
+andrejklp115: posts small blind $0.10
+BilaTserkva00: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5h 8d]
+minimus885: folds 
+greu1943: raises $0.25 to $0.50
+Gto_gtfo: folds 
+Mahu2021: folds 
+andrejklp115: folds 
+BilaTserkva00: calls $0.25
+*** FLOP *** [Jd 9c Qc]
+BilaTserkva00: checks 
+greu1943: bets $0.75
+BilaTserkva00: folds 
+Uncalled bet ($0.75) returned to greu1943
+greu1943 collected $1.05 from pot
+greu1943: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05 
+Board [Jd 9c Qc]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: andrejklp115 (small blind) folded before Flop
+Seat 3: BilaTserkva00 (big blind) folded on the Flop
+Seat 4: minimus885 folded before Flop (didn't bet)
+Seat 5: greu1943 collected ($1.05)
+Seat 6: Gto_gtfo folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #255854162324:  Hold'em No Limit ($0.10/$0.25) - 2025/04/23 17:50:48 CET [2025/04/23 11:50:48 ET]
+Table 'Hydra' 6-max Seat #1 is the button
+Seat 1: Gto_gtfo ($29.99 in chips) 
+Seat 2: dreamcome12 ($59.75 in chips) 
+Seat 3: pokeripuikko ($41.50 in chips) 
+Seat 4: dzacharas ($35.76 in chips) 
+Seat 5: laisladegara ($30.31 in chips) 
+Seat 6: Mahu2021 ($19.30 in chips) 
+dreamcome12: posts small blind $0.10
+pokeripuikko: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s Ac]
+dzacharas: folds 
+laisladegara: folds 
+Mahu2021: folds 
+Gto_gtfo: folds 
+dreamcome12: folds 
+Uncalled bet ($0.15) returned to pokeripuikko
+pokeripuikko collected $0.20 from pot
+pokeripuikko: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Gto_gtfo (button) folded before Flop (didn't bet)
+Seat 2: dreamcome12 (small blind) folded before Flop
+Seat 3: pokeripuikko (big blind) collected ($0.20)
+Seat 4: dzacharas folded before Flop (didn't bet)
+Seat 5: laisladegara folded before Flop (didn't bet)
+Seat 6: Mahu2021 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #255854163293:  Hold'em No Limit ($0.10/$0.25) - 2025/04/23 17:50:53 CET [2025/04/23 11:50:53 ET]
+Table 'Hydra' 6-max Seat #1 is the button
+Seat 1: Methylbenzene ($21.58 in chips) 
+Seat 2: pitbull857 ($60.04 in chips) 
+Seat 3: Mahu2021 ($19.30 in chips) 
+Seat 4: bigchungu833 ($46.41 in chips) 
+Seat 5: H1gHL1GhT ($26.95 in chips) 
+Seat 6: dreamcome12 ($59.65 in chips) 
+pitbull857: posts small blind $0.10
+Mahu2021: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d Kh]
+bigchungu833: calls $0.25
+H1gHL1GhT: folds 
+dreamcome12: raises $0.37 to $0.62
+Methylbenzene: folds 
+pitbull857: folds 
+Mahu2021: folds 
+bigchungu833: calls $0.37
+*** FLOP *** [7h Qc 3s]
+bigchungu833: checks 
+dreamcome12: bets $0.50
+bigchungu833: calls $0.50
+*** TURN *** [7h Qc 3s] [9c]
+bigchungu833: checks 
+dreamcome12: checks 
+*** RIVER *** [7h Qc 3s 9c] [8d]
+bigchungu833: checks 
+dreamcome12: checks 
+*** SHOW DOWN ***
+bigchungu833: shows [Ad Kc] (high card Ace)
+dreamcome12: shows [Qh Ts] (a pair of Queens)
+dreamcome12 collected $2.47 from pot
+*** SUMMARY ***
+Total pot $2.59 | Rake $0.12 
+Board [7h Qc 3s 9c 8d]
+Seat 1: Methylbenzene (button) folded before Flop (didn't bet)
+Seat 2: pitbull857 (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) folded before Flop
+Seat 4: bigchungu833 showed [Ad Kc] and lost with high card Ace
+Seat 5: H1gHL1GhT folded before Flop (didn't bet)
+Seat 6: dreamcome12 showed [Qh Ts] and won ($2.47) with a pair of Queens
+
+
+
+PokerStars Zoom Hand #255854165010:  Hold'em No Limit ($0.10/$0.25) - 2025/04/23 17:51:02 CET [2025/04/23 11:51:02 ET]
+Table 'Hydra' 6-max Seat #1 is the button
+Seat 1: Gto_gtfo ($29.52 in chips) 
+Seat 2: Mahu2021 ($19.05 in chips) 
+Seat 3: pitbull857 ($59.94 in chips) 
+Seat 4: Chronist77 ($34.97 in chips) 
+Seat 5: 50´s Ghost ($25.56 in chips) 
+Seat 6: pokeripuikko ($50.30 in chips) 
+Mahu2021: posts small blind $0.10
+pitbull857: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c Tc]
+Chronist77: folds 
+50´s Ghost: folds 
+pokeripuikko: folds 
+Gto_gtfo: folds 
+Mahu2021: raises $0.50 to $0.75
+pitbull857: calls $0.50
+*** FLOP *** [8s 6d 6h]
+Mahu2021: bets $0.75
+pitbull857: calls $0.75
+*** TURN *** [8s 6d 6h] [Kd]
+Mahu2021: bets $0.75
+pitbull857: calls $0.75
+*** RIVER *** [8s 6d 6h Kd] [4d]
+Mahu2021: checks 
+pitbull857: bets $5
+Mahu2021: folds 
+Uncalled bet ($5) returned to pitbull857
+pitbull857 collected $4.30 from pot
+pitbull857: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.20 
+Board [8s 6d 6h Kd 4d]
+Seat 1: Gto_gtfo (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) folded on the River
+Seat 3: pitbull857 (big blind) collected ($4.30)
+Seat 4: Chronist77 folded before Flop (didn't bet)
+Seat 5: 50´s Ghost folded before Flop (didn't bet)
+Seat 6: pokeripuikko folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #255854174512:  Hold'em No Limit ($0.10/$0.25) - 2025/04/23 17:51:52 CET [2025/04/23 11:51:52 ET]
+Table 'Hydra' 6-max Seat #1 is the button
+Seat 1: dzacharas ($26.56 in chips) 
+Seat 2: Chronist77 ($34.62 in chips) 
+Seat 3: modockey ($25 in chips) 
+Seat 4: Cololukas ($24.20 in chips) 
+Seat 5: Mahu2021 ($16.80 in chips) 
+Seat 6: imhungarian8 ($25.85 in chips) 
+Chronist77: posts small blind $0.10
+modockey: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qs 8d]
+Cololukas: folds 
+Mahu2021: folds 
+imhungarian8: raises $0.38 to $0.63
+dzacharas: folds 
+Chronist77: folds 
+modockey: raises $1.87 to $2.50
+imhungarian8: folds 
+Uncalled bet ($1.87) returned to modockey
+modockey collected $1.36 from pot
+modockey: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.36 | Rake $0 
+Seat 1: dzacharas (button) folded before Flop (didn't bet)
+Seat 2: Chronist77 (small blind) folded before Flop
+Seat 3: modockey (big blind) collected ($1.36)
+Seat 4: Cololukas folded before Flop (didn't bet)
+Seat 5: Mahu2021 folded before Flop (didn't bet)
+Seat 6: imhungarian8 folded before Flop
+
+
+
+PokerStars Zoom Hand #255854176025:  Hold'em No Limit ($0.10/$0.25) - 2025/04/23 17:52:00 CET [2025/04/23 11:52:00 ET]
+Table 'Hydra' 6-max Seat #1 is the button
+Seat 1: Mahu2021 ($16.80 in chips) 
+Seat 2: Harmar96 ($64.26 in chips) 
+Seat 3: H1gHL1GhT ($25.86 in chips) 
+Seat 4: yrisnsn ($72.62 in chips) 
+Seat 5: Gto_gtfo ($29.64 in chips) 
+Seat 6: Cololukas ($24.20 in chips) 
+Harmar96: posts small blind $0.10
+H1gHL1GhT: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d 5s]
+yrisnsn: folds 
+Gto_gtfo: folds 
+Cololukas: raises $0.37 to $0.62
+Mahu2021: folds 
+Harmar96: folds 
+H1gHL1GhT: folds 
+Uncalled bet ($0.37) returned to Cololukas
+Cololukas collected $0.60 from pot
+Cololukas: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: Harmar96 (small blind) folded before Flop
+Seat 3: H1gHL1GhT (big blind) folded before Flop
+Seat 4: yrisnsn folded before Flop (didn't bet)
+Seat 5: Gto_gtfo folded before Flop (didn't bet)
+Seat 6: Cololukas collected ($0.60)
+
+
+
+PokerStars Zoom Hand #255854175242:  Hold'em No Limit ($0.10/$0.25) - 2025/04/23 17:51:56 CET [2025/04/23 11:51:56 ET]
+Table 'Hydra' 6-max Seat #1 is the button
+Seat 1: pitbull857 ($61.99 in chips) 
+Seat 2: imhungarian8 ($25.32 in chips) 
+Seat 3: jul_dec ($56.24 in chips) 
+Seat 4: Mahu2021 ($16.80 in chips) 
+Seat 5: BilaTserkva00 ($25 in chips) 
+Seat 6: laisladegara ($40.31 in chips) 
+imhungarian8: posts small blind $0.10
+jul_dec: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Tc 3c]
+Mahu2021: folds 
+BilaTserkva00: raises $0.37 to $0.62
+laisladegara: folds 
+pitbull857: folds 
+imhungarian8: folds 
+jul_dec: raises $1.34 to $1.96
+BilaTserkva00: calls $1.34
+*** FLOP *** [6c 4h Kd]
+jul_dec: bets $3.84
+BilaTserkva00: folds 
+Uncalled bet ($3.84) returned to jul_dec
+jul_dec collected $3.84 from pot
+jul_dec: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.02 | Rake $0.18 
+Board [6c 4h Kd]
+Seat 1: pitbull857 (button) folded before Flop (didn't bet)
+Seat 2: imhungarian8 (small blind) folded before Flop
+Seat 3: jul_dec (big blind) collected ($3.84)
+Seat 4: Mahu2021 folded before Flop (didn't bet)
+Seat 5: BilaTserkva00 folded on the Flop
+Seat 6: laisladegara folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #255854176997:  Hold'em No Limit ($0.10/$0.25) - 2025/04/23 17:52:05 CET [2025/04/23 11:52:05 ET]
+Table 'Hydra' 6-max Seat #1 is the button
+Seat 1: yrisnsn ($72.62 in chips) 
+Seat 2: dzacharas ($26.31 in chips) 
+Seat 3: BilaTserkva00 ($25 in chips) 
+Seat 4: Gto_gtfo ($25 in chips) 
+Seat 5: caconcha ($11.95 in chips) 
+Seat 6: Mahu2021 ($16.80 in chips) 
+dzacharas: posts small blind $0.10
+BilaTserkva00: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d 8h]
+Gto_gtfo: folds 
+caconcha: folds 
+Mahu2021: folds 
+yrisnsn: raises $0.37 to $0.62
+dzacharas: folds 
+BilaTserkva00: folds 
+Uncalled bet ($0.37) returned to yrisnsn
+yrisnsn collected $0.60 from pot
+yrisnsn: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: yrisnsn (button) collected ($0.60)
+Seat 2: dzacharas (small blind) folded before Flop
+Seat 3: BilaTserkva00 (big blind) folded before Flop
+Seat 4: Gto_gtfo folded before Flop (didn't bet)
+Seat 5: caconcha folded before Flop (didn't bet)
+Seat 6: Mahu2021 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #255854178916:  Hold'em No Limit ($0.10/$0.25) - 2025/04/23 17:52:15 CET [2025/04/23 11:52:15 ET]
+Table 'Hydra' 6-max Seat #1 is the button
+Seat 1: dreamcome12 ($39.83 in chips) 
+Seat 2: 50´s Ghost ($25 in chips) 
+Seat 3: Mahu2021 ($16.80 in chips) 
+Seat 4: Romsyhu ($58.09 in chips) 
+Seat 5: imhungarian8 ($25.32 in chips) 
+Seat 6: Strauß6 ($25.73 in chips) 
+50´s Ghost: posts small blind $0.10
+Mahu2021: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4d Qd]
+Romsyhu: folds 
+imhungarian8: folds 
+Strauß6: raises $0.25 to $0.50
+dreamcome12: raises $1 to $1.50
+50´s Ghost: folds 
+Mahu2021: folds 
+Strauß6: calls $1
+*** FLOP *** [Ac Jh Jc]
+Strauß6: checks 
+dreamcome12: bets $0.80
+Strauß6: folds 
+Uncalled bet ($0.80) returned to dreamcome12
+dreamcome12 collected $3.20 from pot
+dreamcome12: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.35 | Rake $0.15 
+Board [Ac Jh Jc]
+Seat 1: dreamcome12 (button) collected ($3.20)
+Seat 2: 50´s Ghost (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) folded before Flop
+Seat 4: Romsyhu folded before Flop (didn't bet)
+Seat 5: imhungarian8 folded before Flop (didn't bet)
+Seat 6: Strauß6 folded on the Flop
+
+
+
+PokerStars Zoom Hand #255854181616:  Hold'em No Limit ($0.10/$0.25) - 2025/04/23 17:52:29 CET [2025/04/23 11:52:29 ET]
+Table 'Hydra' 6-max Seat #1 is the button
+Seat 1: imhungarian8 ($25.07 in chips) 
+Seat 2: yrisnsn ($72.72 in chips) 
+Seat 3: boris31.03 ($31.87 in chips) 
+Seat 4: pokeripuikko ($42.85 in chips) 
+Seat 5: Mahu2021 ($16.55 in chips) 
+Seat 6: 50´s Ghost ($32.14 in chips) 
+yrisnsn: posts small blind $0.10
+boris31.03: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2c Qs]
+pokeripuikko: folds 
+Mahu2021: folds 
+50´s Ghost: folds 
+imhungarian8: folds 
+yrisnsn: folds 
+Uncalled bet ($0.15) returned to boris31.03
+boris31.03 collected $0.20 from pot
+boris31.03: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: imhungarian8 (button) folded before Flop (didn't bet)
+Seat 2: yrisnsn (small blind) folded before Flop
+Seat 3: boris31.03 (big blind) collected ($0.20)
+Seat 4: pokeripuikko folded before Flop (didn't bet)
+Seat 5: Mahu2021 folded before Flop (didn't bet)
+Seat 6: 50´s Ghost folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #255854182235:  Hold'em No Limit ($0.10/$0.25) - 2025/04/23 17:52:32 CET [2025/04/23 11:52:32 ET]
+Table 'Hydra' 6-max Seat #1 is the button
+Seat 1: imhungarian8 ($25.32 in chips) 
+Seat 2: Mahu2021 ($16.55 in chips) 
+Seat 3: dzacharas ($26.21 in chips) 
+Seat 4: steloukos13 ($17.41 in chips) 
+Seat 5: BilaTserkva00 ($25.35 in chips) 
+Seat 6: minimus885 ($25 in chips) 
+Mahu2021: posts small blind $0.10
+dzacharas: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s 6c]
+steloukos13: folds 
+BilaTserkva00: folds 
+minimus885: folds 
+imhungarian8: raises $0.38 to $0.63
+Mahu2021: folds 
+dzacharas: folds 
+Uncalled bet ($0.38) returned to imhungarian8
+imhungarian8 collected $0.60 from pot
+imhungarian8: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: imhungarian8 (button) collected ($0.60)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: dzacharas (big blind) folded before Flop
+Seat 4: steloukos13 folded before Flop (didn't bet)
+Seat 5: BilaTserkva00 folded before Flop (didn't bet)
+Seat 6: minimus885 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #255854178160:  Hold'em No Limit ($0.10/$0.25) - 2025/04/23 17:52:11 CET [2025/04/23 11:52:11 ET]
+Table 'Hydra' 6-max Seat #1 is the button
+Seat 1: Chronist77 ($27.52 in chips) 
+Seat 2: dreamcome12 ($39.93 in chips) 
+Seat 3: pokeripuikko ($49.12 in chips) 
+Seat 4: Mahu2021 ($16.80 in chips) 
+Seat 5: KennyJack10 ($43.61 in chips) 
+Seat 6: imhungarian8 ($25 in chips) 
+dreamcome12: posts small blind $0.10
+pokeripuikko: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5h Td]
+Mahu2021: folds 
+KennyJack10: calls $0.25
+imhungarian8: folds 
+Chronist77: folds 
+dreamcome12: folds 
+pokeripuikko: checks 
+*** FLOP *** [2c Qd 9d]
+pokeripuikko: checks 
+KennyJack10: bets $0.75
+pokeripuikko: calls $0.75
+*** TURN *** [2c Qd 9d] [Jc]
+pokeripuikko: checks 
+KennyJack10: checks 
+*** RIVER *** [2c Qd 9d Jc] [5d]
+pokeripuikko: checks 
+KennyJack10: bets $1
+pokeripuikko: calls $1
+*** SHOW DOWN ***
+KennyJack10: shows [3h 9h] (a pair of Nines)
+pokeripuikko: shows [Ad 9s] (a pair of Nines - Ace kicker)
+pokeripuikko collected $3.92 from pot
+*** SUMMARY ***
+Total pot $4.10 | Rake $0.18 
+Board [2c Qd 9d Jc 5d]
+Seat 1: Chronist77 (button) folded before Flop (didn't bet)
+Seat 2: dreamcome12 (small blind) folded before Flop
+Seat 3: pokeripuikko (big blind) showed [Ad 9s] and won ($3.92) with a pair of Nines
+Seat 4: Mahu2021 folded before Flop (didn't bet)
+Seat 5: KennyJack10 showed [3h 9h] and lost with a pair of Nines
+Seat 6: imhungarian8 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #255854183890:  Hold'em No Limit ($0.10/$0.25) - 2025/04/23 17:52:41 CET [2025/04/23 11:52:41 ET]
+Table 'Hydra' 6-max Seat #1 is the button
+Seat 1: marcss2003 ($5.81 in chips) 
+Seat 2: imhungarian8 ($26.03 in chips) 
+Seat 3: belgas33 ($25 in chips) 
+Seat 4: jul_dec ($58.47 in chips) 
+Seat 5: dreamcome12 ($41.53 in chips) 
+Seat 6: Mahu2021 ($16.45 in chips) 
+imhungarian8: posts small blind $0.10
+belgas33: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d Th]
+jul_dec: folds 
+dreamcome12: folds 
+Mahu2021: folds 
+marcss2003: folds 
+imhungarian8: folds 
+Uncalled bet ($0.15) returned to belgas33
+belgas33 collected $0.20 from pot
+belgas33: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: marcss2003 (button) folded before Flop (didn't bet)
+Seat 2: imhungarian8 (small blind) folded before Flop
+Seat 3: belgas33 (big blind) collected ($0.20)
+Seat 4: jul_dec folded before Flop (didn't bet)
+Seat 5: dreamcome12 folded before Flop (didn't bet)
+Seat 6: Mahu2021 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #255854184618:  Hold'em No Limit ($0.10/$0.25) - 2025/04/23 17:52:45 CET [2025/04/23 11:52:45 ET]
+Table 'Hydra' 6-max Seat #1 is the button
+Seat 1: dzacharas ($25.86 in chips) 
+Seat 2: jul_dec ($58.47 in chips) 
+Seat 3: dreamcome12 ($41.53 in chips) 
+Seat 4: Mahu2021 ($16.45 in chips) 
+Seat 5: marcss2003 ($5.81 in chips) 
+Seat 6: caconcha ($11.60 in chips) 
+jul_dec: posts small blind $0.10
+dreamcome12: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s 4c]
+Mahu2021: folds 
+marcss2003: folds 
+caconcha: folds 
+dzacharas: folds 
+jul_dec: raises $0.25 to $0.50
+dreamcome12: folds 
+Uncalled bet ($0.25) returned to jul_dec
+jul_dec collected $0.50 from pot
+jul_dec: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: dzacharas (button) folded before Flop (didn't bet)
+Seat 2: jul_dec (small blind) collected ($0.50)
+Seat 3: dreamcome12 (big blind) folded before Flop
+Seat 4: Mahu2021 folded before Flop (didn't bet)
+Seat 5: marcss2003 folded before Flop (didn't bet)
+Seat 6: caconcha folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #255854183163:  Hold'em No Limit ($0.10/$0.25) - 2025/04/23 17:52:37 CET [2025/04/23 11:52:37 ET]
+Table 'Hydra' 6-max Seat #1 is the button
+Seat 1: Mahu2021 ($16.45 in chips) 
+Seat 2: Romsyhu ($58.09 in chips) 
+Seat 3: Xuliipa ($26.57 in chips) 
+Seat 4: marcss2003 ($5.81 in chips) 
+Seat 5: minimus885 ($25 in chips) 
+Seat 6: Chronist77 ($27.52 in chips) 
+Romsyhu: posts small blind $0.10
+Xuliipa: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4c Kh]
+marcss2003: folds 
+minimus885: folds 
+Chronist77: raises $0.37 to $0.62
+Mahu2021: folds 
+Romsyhu: folds 
+Xuliipa: raises $2.13 to $2.75
+Chronist77: folds 
+Uncalled bet ($2.13) returned to Xuliipa
+Xuliipa collected $1.34 from pot
+Xuliipa: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.34 | Rake $0 
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: Romsyhu (small blind) folded before Flop
+Seat 3: Xuliipa (big blind) collected ($1.34)
+Seat 4: marcss2003 folded before Flop (didn't bet)
+Seat 5: minimus885 folded before Flop (didn't bet)
+Seat 6: Chronist77 folded before Flop
+
+
+
+PokerStars Zoom Hand #255854185530:  Hold'em No Limit ($0.10/$0.25) - 2025/04/23 17:52:50 CET [2025/04/23 11:52:50 ET]
+Table 'Hydra' 6-max Seat #1 is the button
+Seat 1: Chronist77 ($29.95 in chips) 
+Seat 2: imhungarian8 ($25.35 in chips) 
+Seat 3: belgas33 ($25 in chips) 
+Seat 4: Mahu2021 ($16.45 in chips) 
+Seat 5: Gto_gtfo ($74.77 in chips) 
+Seat 6: marcss2003 ($5.81 in chips) 
+imhungarian8: posts small blind $0.10
+belgas33: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8s 5h]
+Mahu2021: folds 
+Gto_gtfo: folds 
+marcss2003: folds 
+Chronist77: raises $0.37 to $0.62
+imhungarian8: folds 
+belgas33: folds 
+Uncalled bet ($0.37) returned to Chronist77
+Chronist77 collected $0.60 from pot
+Chronist77: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Chronist77 (button) collected ($0.60)
+Seat 2: imhungarian8 (small blind) folded before Flop
+Seat 3: belgas33 (big blind) folded before Flop
+Seat 4: Mahu2021 folded before Flop (didn't bet)
+Seat 5: Gto_gtfo folded before Flop (didn't bet)
+Seat 6: marcss2003 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #255854186355:  Hold'em No Limit ($0.10/$0.25) - 2025/04/23 17:52:54 CET [2025/04/23 11:52:54 ET]
+Table 'Hydra' 6-max Seat #1 is the button
+Seat 1: BilaTserkva00 ($25 in chips) 
+Seat 2: Harmar96 ($26.13 in chips) 
+Seat 3: Mahu2021 ($16.45 in chips) 
+Seat 4: dreamcome12 ($41.28 in chips) 
+Seat 5: JSDTRP-03 ($92.05 in chips) 
+Seat 6: 50´s Ghost ($25 in chips) 
+Harmar96: posts small blind $0.10
+Mahu2021: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qd 9d]
+dreamcome12: folds 
+JSDTRP-03: raises $0.50 to $0.75
+50´s Ghost: folds 
+BilaTserkva00: folds 
+Harmar96: folds 
+Mahu2021: calls $0.50
+*** FLOP *** [2c 2s Ah]
+Mahu2021: checks 
+JSDTRP-03: bets $0.75
+Mahu2021: folds 
+Uncalled bet ($0.75) returned to JSDTRP-03
+JSDTRP-03 collected $1.53 from pot
+JSDTRP-03: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.60 | Rake $0.07 
+Board [2c 2s Ah]
+Seat 1: BilaTserkva00 (button) folded before Flop (didn't bet)
+Seat 2: Harmar96 (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) folded on the Flop
+Seat 4: dreamcome12 folded before Flop (didn't bet)
+Seat 5: JSDTRP-03 collected ($1.53)
+Seat 6: 50´s Ghost folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #255854189595:  Hold'em No Limit ($0.10/$0.25) - 2025/04/23 17:53:11 CET [2025/04/23 11:53:11 ET]
+Table 'Hydra' 6-max Seat #1 is the button
+Seat 1: modockey ($25 in chips) 
+Seat 2: Chronist77 ($26.65 in chips) 
+Seat 3: boris31.03 ($32.22 in chips) 
+Seat 4: BilaTserkva00 ($25 in chips) 
+Seat 5: Gto_gtfo ($29.64 in chips) 
+Seat 6: Mahu2021 ($15.70 in chips) 
+Chronist77: posts small blind $0.10
+boris31.03: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js 2s]
+BilaTserkva00: raises $0.37 to $0.62
+Gto_gtfo: folds 
+Mahu2021: folds 
+modockey: folds 
+Chronist77: folds 
+boris31.03: calls $0.37
+*** FLOP *** [4h As 4s]
+boris31.03: checks 
+BilaTserkva00: bets $0.50
+boris31.03: calls $0.50
+*** TURN *** [4h As 4s] [6h]
+boris31.03: checks 
+BilaTserkva00: bets $1.56
+boris31.03: calls $1.56
+*** RIVER *** [4h As 4s 6h] [5d]
+boris31.03: checks 
+BilaTserkva00: checks 
+*** SHOW DOWN ***
+boris31.03: shows [Ah Jc] (two pair, Aces and Fours)
+BilaTserkva00: mucks hand 
+boris31.03 collected $5.15 from pot
+*** SUMMARY ***
+Total pot $5.46 | Rake $0.31 
+Board [4h As 4s 6h 5d]
+Seat 1: modockey (button) folded before Flop (didn't bet)
+Seat 2: Chronist77 (small blind) folded before Flop
+Seat 3: boris31.03 (big blind) showed [Ah Jc] and won ($5.15) with two pair, Aces and Fours
+Seat 4: BilaTserkva00 mucked [7s 6s]
+Seat 5: Gto_gtfo folded before Flop (didn't bet)
+Seat 6: Mahu2021 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #255854191291:  Hold'em No Limit ($0.10/$0.25) - 2025/04/23 17:53:20 CET [2025/04/23 11:53:20 ET]
+Table 'Hydra' 6-max Seat #1 is the button
+Seat 1: Mahu2021 ($15.60 in chips) 
+Seat 2: murdahdat187 ($35.61 in chips) 
+Seat 3: BilaTserkva00 ($25.35 in chips) 
+Seat 4: H1gHL1GhT ($38.23 in chips) 
+Seat 5: Cololukas ($26.61 in chips) 
+Seat 6: yrisnsn ($72.72 in chips) 
+murdahdat187: posts small blind $0.10
+BilaTserkva00: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d 7h]
+H1gHL1GhT: raises $0.30 to $0.55
+Cololukas: raises $1.20 to $1.75
+yrisnsn: folds 
+Mahu2021: folds 
+murdahdat187: folds 
+BilaTserkva00: folds 
+H1gHL1GhT: folds 
+Uncalled bet ($1.20) returned to Cololukas
+Cololukas collected $1.45 from pot
+Cololukas: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.45 | Rake $0 
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: murdahdat187 (small blind) folded before Flop
+Seat 3: BilaTserkva00 (big blind) folded before Flop
+Seat 4: H1gHL1GhT folded before Flop
+Seat 5: Cololukas collected ($1.45)
+Seat 6: yrisnsn folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #255854192757:  Hold'em No Limit ($0.10/$0.25) - 2025/04/23 17:53:28 CET [2025/04/23 11:53:28 ET]
+Table 'Hydra' 6-max Seat #1 is the button
+Seat 1: DDjjuull ($27.38 in chips) 
+Seat 2: modockey ($25 in chips) 
+Seat 3: Mahu2021 ($15.60 in chips) 
+Seat 4: marcss2003 ($5.46 in chips) 
+Seat 5: Gto_gtfo ($28.82 in chips) 
+Seat 6: steloukos13 ($16.03 in chips) 
+modockey: posts small blind $0.10
+Mahu2021: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4d 5h]
+marcss2003: folds 
+Gto_gtfo: folds 
+steloukos13: folds 
+DDjjuull: raises $0.50 to $0.75
+modockey: folds 
+Mahu2021: calls $0.50
+*** FLOP *** [Ts 2d Qs]
+Mahu2021: checks 
+DDjjuull: bets $0.77
+Mahu2021: folds 
+Uncalled bet ($0.77) returned to DDjjuull
+DDjjuull collected $1.53 from pot
+DDjjuull: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.60 | Rake $0.07 
+Board [Ts 2d Qs]
+Seat 1: DDjjuull (button) collected ($1.53)
+Seat 2: modockey (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) folded on the Flop
+Seat 4: marcss2003 folded before Flop (didn't bet)
+Seat 5: Gto_gtfo folded before Flop (didn't bet)
+Seat 6: steloukos13 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #255854192028:  Hold'em No Limit ($0.10/$0.25) - 2025/04/23 17:53:24 CET [2025/04/23 11:53:24 ET]
+Table 'Hydra' 6-max Seat #1 is the button
+Seat 1: pokeripuikko ($40.63 in chips) 
+Seat 2: yrisnsn ($72.72 in chips) 
+Seat 3: Chronist77 ($35.47 in chips) 
+Seat 4: murdahdat187 ($35.51 in chips) 
+Seat 5: Mahu2021 ($15.60 in chips) 
+Seat 6: been0033 ($29.41 in chips) 
+yrisnsn: posts small blind $0.10
+Chronist77: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h 2s]
+murdahdat187: raises $0.25 to $0.50
+Mahu2021: folds 
+been0033: folds 
+pokeripuikko: folds 
+yrisnsn: folds 
+Chronist77: calls $0.25
+*** FLOP *** [Ts Tc Qc]
+Chronist77: checks 
+murdahdat187: bets $0.25
+Chronist77: calls $0.25
+*** TURN *** [Ts Tc Qc] [Js]
+Chronist77: checks 
+murdahdat187: checks 
+*** RIVER *** [Ts Tc Qc Js] [4c]
+Chronist77: checks 
+murdahdat187: bets $0.75
+Chronist77: folds 
+Uncalled bet ($0.75) returned to murdahdat187
+murdahdat187 collected $1.53 from pot
+murdahdat187: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.60 | Rake $0.07 
+Board [Ts Tc Qc Js 4c]
+Seat 1: pokeripuikko (button) folded before Flop (didn't bet)
+Seat 2: yrisnsn (small blind) folded before Flop
+Seat 3: Chronist77 (big blind) folded on the River
+Seat 4: murdahdat187 collected ($1.53)
+Seat 5: Mahu2021 folded before Flop (didn't bet)
+Seat 6: been0033 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #255854198152:  Hold'em No Limit ($0.10/$0.25) - 2025/04/23 17:53:57 CET [2025/04/23 11:53:57 ET]
+Table 'Hydra' 6-max Seat #1 is the button
+Seat 1: tommi327 ($5.58 in chips) 
+Seat 2: jul_dec ($56.17 in chips) 
+Seat 3: bigchungu833 ($29.98 in chips) 
+Seat 4: pokeripuikko ($40.28 in chips) 
+Seat 5: dzacharas ($25.86 in chips) 
+Seat 6: Mahu2021 ($14.85 in chips) 
+jul_dec: posts small blind $0.10
+bigchungu833: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac Qh]
+pokeripuikko: folds 
+dzacharas: folds 
+Mahu2021: raises $0.50 to $0.75
+tommi327: folds 
+jul_dec: folds 
+bigchungu833: folds 
+Uncalled bet ($0.50) returned to Mahu2021
+Mahu2021 collected $0.60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: tommi327 (button) folded before Flop (didn't bet)
+Seat 2: jul_dec (small blind) folded before Flop
+Seat 3: bigchungu833 (big blind) folded before Flop
+Seat 4: pokeripuikko folded before Flop (didn't bet)
+Seat 5: dzacharas folded before Flop (didn't bet)
+Seat 6: Mahu2021 collected ($0.60)
+
+
+
+PokerStars Zoom Hand #255854200630:  Hold'em No Limit ($0.10/$0.25) - 2025/04/23 17:54:10 CET [2025/04/23 11:54:10 ET]
+Table 'Hydra' 6-max Seat #1 is the button
+Seat 1: DDjjuull ($27.91 in chips) 
+Seat 2: Mahu2021 ($15.20 in chips) 
+Seat 3: caconcha ($9.15 in chips) 
+Seat 4: dzacharas ($25 in chips) 
+Seat 5: pokeripuikko ($51.87 in chips) 
+Seat 6: bigchungu833 ($29.73 in chips) 
+Mahu2021: posts small blind $0.10
+caconcha: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kc 5s]
+dzacharas: raises $0.30 to $0.55
+pokeripuikko: folds 
+bigchungu833: folds 
+DDjjuull: folds 
+Mahu2021: folds 
+caconcha: folds 
+Uncalled bet ($0.30) returned to dzacharas
+dzacharas collected $0.60 from pot
+dzacharas: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: DDjjuull (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: caconcha (big blind) folded before Flop
+Seat 4: dzacharas collected ($0.60)
+Seat 5: pokeripuikko folded before Flop (didn't bet)
+Seat 6: bigchungu833 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #255854202452:  Hold'em No Limit ($0.10/$0.25) - 2025/04/23 17:54:19 CET [2025/04/23 11:54:19 ET]
+Table 'Hydra' 6-max Seat #1 is the button
+Seat 1: caconcha ($8.90 in chips) 
+Seat 2: Chronist77 ($30.30 in chips) 
+Seat 3: pokeripuikko ($51.87 in chips) 
+Seat 4: Gto_gtfo ($49.45 in chips) 
+Seat 5: Mahu2021 ($15.10 in chips) 
+Seat 6: Harmar96 ($25.41 in chips) 
+Chronist77: posts small blind $0.10
+pokeripuikko: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s 9h]
+Gto_gtfo: folds 
+Mahu2021: folds 
+Harmar96: raises $0.25 to $0.50
+caconcha: folds 
+Chronist77: folds 
+pokeripuikko: folds 
+Uncalled bet ($0.25) returned to Harmar96
+Harmar96 collected $0.60 from pot
+Harmar96: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: caconcha (button) folded before Flop (didn't bet)
+Seat 2: Chronist77 (small blind) folded before Flop
+Seat 3: pokeripuikko (big blind) folded before Flop
+Seat 4: Gto_gtfo folded before Flop (didn't bet)
+Seat 5: Mahu2021 folded before Flop (didn't bet)
+Seat 6: Harmar96 collected ($0.60)
+
+
+
+PokerStars Zoom Hand #255854197502:  Hold'em No Limit ($0.10/$0.25) - 2025/04/23 17:53:53 CET [2025/04/23 11:53:53 ET]
+Table 'Hydra' 6-max Seat #1 is the button
+Seat 1: dzacharas ($25.86 in chips) 
+Seat 2: boris31.03 ($34.69 in chips) 
+Seat 3: modockey ($25 in chips) 
+Seat 4: Strauß6 ($30.78 in chips) 
+Seat 5: Mahu2021 ($14.85 in chips) 
+Seat 6: belgas33 ($25 in chips) 
+boris31.03: posts small blind $0.10
+modockey: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4c 6s]
+Strauß6: folds 
+Mahu2021: folds 
+belgas33: raises $0.32 to $0.57
+dzacharas: folds 
+boris31.03: folds 
+modockey: calls $0.32
+*** FLOP *** [Kh 6d Ad]
+modockey: checks 
+belgas33: bets $0.35
+modockey: calls $0.35
+*** TURN *** [Kh 6d Ad] [4d]
+modockey: checks 
+belgas33: bets $1.22
+modockey: raises $2.03 to $3.25
+belgas33: folds 
+Uncalled bet ($2.03) returned to modockey
+modockey collected $4.18 from pot
+modockey: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.38 | Rake $0.20 
+Board [Kh 6d Ad 4d]
+Seat 1: dzacharas (button) folded before Flop (didn't bet)
+Seat 2: boris31.03 (small blind) folded before Flop
+Seat 3: modockey (big blind) collected ($4.18)
+Seat 4: Strauß6 folded before Flop (didn't bet)
+Seat 5: Mahu2021 folded before Flop (didn't bet)
+Seat 6: belgas33 folded on the Turn
+
+
+
+PokerStars Zoom Hand #255854201496:  Hold'em No Limit ($0.10/$0.25) - 2025/04/23 17:54:14 CET [2025/04/23 11:54:14 ET]
+Table 'Hydra' 6-max Seat #1 is the button
+Seat 1: Mahu2021 ($15.10 in chips) 
+Seat 2: Harmar96 ($60.47 in chips) 
+Seat 3: H1gHL1GhT ($31.51 in chips) 
+Seat 4: Chronist77 ($30.30 in chips) 
+Seat 5: BilaTserkva00 ($25 in chips) 
+Seat 6: caconcha ($8.90 in chips) 
+Harmar96: posts small blind $0.10
+H1gHL1GhT: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s 5h]
+Chronist77: folds 
+BilaTserkva00: folds 
+caconcha: folds 
+Mahu2021: folds 
+Harmar96: calls $0.15
+H1gHL1GhT: raises $0.50 to $0.75
+Harmar96: folds 
+Uncalled bet ($0.50) returned to H1gHL1GhT
+H1gHL1GhT collected $0.50 from pot
+H1gHL1GhT: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: Harmar96 (small blind) folded before Flop
+Seat 3: H1gHL1GhT (big blind) collected ($0.50)
+Seat 4: Chronist77 folded before Flop (didn't bet)
+Seat 5: BilaTserkva00 folded before Flop (didn't bet)
+Seat 6: caconcha folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #255854209215:  Hold'em No Limit ($0.10/$0.25) - 2025/04/23 17:54:55 CET [2025/04/23 11:54:55 ET]
+Table 'Hydra' 6-max Seat #1 is the button
+Seat 1: imhungarian8 ($25 in chips) 
+Seat 2: BilaTserkva00 ($25 in chips) 
+Seat 3: dzacharas ($25.01 in chips) 
+Seat 4: Mahu2021 ($14.57 in chips) 
+Seat 5: 50´s Ghost ($31.04 in chips) 
+Seat 6: Elferzz ($25.10 in chips) 
+BilaTserkva00: posts small blind $0.10
+dzacharas: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c Qs]
+Mahu2021: folds 
+50´s Ghost: folds 
+Elferzz: folds 
+imhungarian8: folds 
+BilaTserkva00: raises $0.37 to $0.62
+dzacharas: folds 
+Uncalled bet ($0.37) returned to BilaTserkva00
+BilaTserkva00 collected $0.50 from pot
+BilaTserkva00: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: imhungarian8 (button) folded before Flop (didn't bet)
+Seat 2: BilaTserkva00 (small blind) collected ($0.50)
+Seat 3: dzacharas (big blind) folded before Flop
+Seat 4: Mahu2021 folded before Flop (didn't bet)
+Seat 5: 50´s Ghost folded before Flop (didn't bet)
+Seat 6: Elferzz folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #255854209974:  Hold'em No Limit ($0.10/$0.25) - 2025/04/23 17:54:59 CET [2025/04/23 11:54:59 ET]
+Table 'Hydra' 6-max Seat #1 is the button
+Seat 1: Mahu2021 ($14.57 in chips) 
+Seat 2: BilaTserkva00 ($25 in chips) 
+Seat 3: yrisnsn ($75.02 in chips) 
+Seat 4: Harmar96 ($26.11 in chips) 
+Seat 5: been0033 ($47.29 in chips) 
+Seat 6: JSDTRP-03 ($93.48 in chips) 
+BilaTserkva00: posts small blind $0.10
+yrisnsn: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh 7s]
+Harmar96: folds 
+been0033: folds 
+JSDTRP-03: folds 
+Mahu2021: folds 
+BilaTserkva00: folds 
+Uncalled bet ($0.15) returned to yrisnsn
+yrisnsn collected $0.20 from pot
+yrisnsn: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: BilaTserkva00 (small blind) folded before Flop
+Seat 3: yrisnsn (big blind) collected ($0.20)
+Seat 4: Harmar96 folded before Flop (didn't bet)
+Seat 5: been0033 folded before Flop (didn't bet)
+Seat 6: JSDTRP-03 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #255854210908:  Hold'em No Limit ($0.10/$0.25) - 2025/04/23 17:55:05 CET [2025/04/23 11:55:05 ET]
+Table 'Hydra' 6-max Seat #1 is the button
+Seat 1: 4BetBluff95 ($48.78 in chips) 
+Seat 2: dreamcome12 ($30.94 in chips) 
+Seat 3: Mahu2021 ($14.57 in chips) 
+Seat 4: Gto_gtfo ($49.10 in chips) 
+Seat 5: pokeripuikko ($51.62 in chips) 
+Seat 6: 50´s Ghost ($29.81 in chips) 
+dreamcome12: posts small blind $0.10
+Mahu2021: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d Ks]
+Gto_gtfo: raises $0.30 to $0.55
+pokeripuikko: folds 
+50´s Ghost: folds 
+4BetBluff95: folds 
+dreamcome12: folds 
+Mahu2021: folds 
+Uncalled bet ($0.30) returned to Gto_gtfo
+Gto_gtfo collected $0.60 from pot
+Gto_gtfo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: 4BetBluff95 (button) folded before Flop (didn't bet)
+Seat 2: dreamcome12 (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) folded before Flop
+Seat 4: Gto_gtfo collected ($0.60)
+Seat 5: pokeripuikko folded before Flop (didn't bet)
+Seat 6: 50´s Ghost folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #255854190519:  Hold'em No Limit ($0.10/$0.25) - 2025/04/23 17:53:16 CET [2025/04/23 11:53:16 ET]
+Table 'Hydra' 6-max Seat #1 is the button
+Seat 1: belgas33 ($25 in chips) 
+Seat 2: Mahu2021 ($15.70 in chips) 
+Seat 3: laisladegara ($39.59 in chips) 
+Seat 4: H1gHL1GhT ($38.23 in chips) 
+Seat 5: murdahdat187 ($35.61 in chips) 
+Seat 6: Xuliipa ($27.19 in chips) 
+Mahu2021: posts small blind $0.10
+laisladegara: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2c 3h]
+H1gHL1GhT: folds 
+murdahdat187: folds 
+Xuliipa: raises $0.37 to $0.62
+belgas33: folds 
+Mahu2021: folds 
+laisladegara: raises $2.38 to $3
+Xuliipa: calls $2.38
+*** FLOP *** [Kd 7h 6c]
+laisladegara: bets $1.75
+Xuliipa: calls $1.75
+*** TURN *** [Kd 7h 6c] [5s]
+laisladegara: checks 
+Xuliipa: bets $3.03
+laisladegara: calls $3.03
+*** RIVER *** [Kd 7h 6c 5s] [7c]
+laisladegara: checks 
+Xuliipa: bets $4.94
+laisladegara: raises $26.87 to $31.81 and is all-in
+Xuliipa: calls $14.47 and is all-in
+Uncalled bet ($12.40) returned to laisladegara
+*** SHOW DOWN ***
+laisladegara: shows [Qh Qs] (two pair, Queens and Sevens)
+Xuliipa: shows [Kh Qc] (two pair, Kings and Sevens)
+Xuliipa collected $52.48 from pot
+*** SUMMARY ***
+Total pot $54.48 | Rake $2 
+Board [Kd 7h 6c 5s 7c]
+Seat 1: belgas33 (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: laisladegara (big blind) showed [Qh Qs] and lost with two pair, Queens and Sevens
+Seat 4: H1gHL1GhT folded before Flop (didn't bet)
+Seat 5: murdahdat187 folded before Flop (didn't bet)
+Seat 6: Xuliipa showed [Kh Qc] and won ($52.48) with two pair, Kings and Sevens
+
+
+
+PokerStars Zoom Hand #255854203770:  Hold'em No Limit ($0.10/$0.25) - 2025/04/23 17:54:26 CET [2025/04/23 11:54:26 ET]
+Table 'Hydra' 6-max Seat #1 is the button
+Seat 1: Romsyhu ($25 in chips) 
+Seat 2: SManos13 ($29.59 in chips) 
+Seat 3: Mahu2021 ($15.10 in chips) 
+Seat 4: BilaTserkva00 ($25 in chips) 
+Seat 5: imhungarian8 ($27.37 in chips) 
+Seat 6: 50´s Ghost ($33.14 in chips) 
+SManos13: posts small blind $0.10
+Mahu2021: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd 9c]
+BilaTserkva00: folds 
+imhungarian8: raises $0.28 to $0.53
+50´s Ghost: folds 
+Romsyhu: folds 
+SManos13: calls $0.43
+Mahu2021: calls $0.28
+*** FLOP *** [4s 6s Ah]
+SManos13: checks 
+Mahu2021: checks 
+imhungarian8: bets $0.46
+SManos13: calls $0.46
+Mahu2021: folds 
+*** TURN *** [4s 6s Ah] [2h]
+SManos13: checks 
+imhungarian8: bets $2.40
+SManos13: calls $2.40
+*** RIVER *** [4s 6s Ah 2h] [Jh]
+SManos13: checks 
+imhungarian8: checks 
+*** SHOW DOWN ***
+SManos13: shows [5d 5c] (a pair of Fives)
+imhungarian8: shows [As 2s] (two pair, Aces and Deuces)
+imhungarian8 collected $6.98 from pot
+*** SUMMARY ***
+Total pot $7.31 | Rake $0.33 
+Board [4s 6s Ah 2h Jh]
+Seat 1: Romsyhu (button) folded before Flop (didn't bet)
+Seat 2: SManos13 (small blind) showed [5d 5c] and lost with a pair of Fives
+Seat 3: Mahu2021 (big blind) folded on the Flop
+Seat 4: BilaTserkva00 folded before Flop (didn't bet)
+Seat 5: imhungarian8 showed [As 2s] and won ($6.98) with two pair, Aces and Deuces
+Seat 6: 50´s Ghost folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #255854212479:  Hold'em No Limit ($0.10/$0.25) - 2025/04/23 17:55:15 CET [2025/04/23 11:55:15 ET]
+Table 'Hydra' 6-max Seat #1 is the button
+Seat 1: xYamal ($24.65 in chips) 
+Seat 2: Mahu2021 ($14.32 in chips) 
+Seat 3: belgas33 ($25 in chips) 
+Seat 4: dzacharas ($25 in chips) 
+Seat 5: caconcha ($10.07 in chips) 
+Seat 6: jakisjacek ($47.83 in chips) 
+Mahu2021: posts small blind $0.10
+belgas33: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8s Jh]
+dzacharas: folds 
+caconcha: folds 
+jakisjacek: raises $0.50 to $0.75
+xYamal: folds 
+Mahu2021: folds 
+belgas33: folds 
+Uncalled bet ($0.50) returned to jakisjacek
+jakisjacek collected $0.60 from pot
+jakisjacek: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: xYamal (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: belgas33 (big blind) folded before Flop
+Seat 4: dzacharas folded before Flop (didn't bet)
+Seat 5: caconcha folded before Flop (didn't bet)
+Seat 6: jakisjacek collected ($0.60)
+
+
+
+PokerStars Zoom Hand #255854213471:  Hold'em No Limit ($0.10/$0.25) - 2025/04/23 17:55:21 CET [2025/04/23 11:55:21 ET]
+Table 'Hydra' 6-max Seat #1 is the button
+Seat 1: marcss2003 ($5.43 in chips) 
+Seat 2: dzacharas ($25 in chips) 
+Seat 3: SManos13 ($42.77 in chips) 
+Seat 4: Gto_gtfo ($73.37 in chips) 
+Seat 5: 50´s Ghost ($30.79 in chips) 
+Seat 6: Mahu2021 ($14.22 in chips) 
+dzacharas: posts small blind $0.10
+SManos13: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d Kh]
+Gto_gtfo: folds 
+50´s Ghost: folds 
+Mahu2021: folds 
+marcss2003: folds 
+dzacharas: raises $0.37 to $0.62
+SManos13: folds 
+Uncalled bet ($0.37) returned to dzacharas
+dzacharas collected $0.50 from pot
+dzacharas: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: marcss2003 (button) folded before Flop (didn't bet)
+Seat 2: dzacharas (small blind) collected ($0.50)
+Seat 3: SManos13 (big blind) folded before Flop
+Seat 4: Gto_gtfo folded before Flop (didn't bet)
+Seat 5: 50´s Ghost folded before Flop (didn't bet)
+Seat 6: Mahu2021 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #255854214099:  Hold'em No Limit ($0.10/$0.25) - 2025/04/23 17:55:25 CET [2025/04/23 11:55:25 ET]
+Table 'Hydra' 6-max Seat #1 is the button
+Seat 1: 50´s Ghost ($30.79 in chips) 
+Seat 2: Gto_gtfo ($73.37 in chips) 
+Seat 3: imhungarian8 ($25 in chips) 
+Seat 4: Harmar96 ($25.76 in chips) 
+Seat 5: BilaTserkva00 ($25 in chips) 
+Seat 6: Mahu2021 ($14.22 in chips) 
+Gto_gtfo: posts small blind $0.10
+imhungarian8: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d 7h]
+Harmar96: folds 
+BilaTserkva00: folds 
+Mahu2021: raises $0.25 to $0.50
+50´s Ghost: folds 
+Gto_gtfo: raises $1.25 to $1.75
+imhungarian8: folds 
+Mahu2021: calls $1.25
+*** FLOP *** [Jc Jd 3h]
+Gto_gtfo: bets $0.90
+Mahu2021: raises $2.10 to $3
+Gto_gtfo: folds 
+Uncalled bet ($2.10) returned to Mahu2021
+Mahu2021 collected $5.30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.55 | Rake $0.25 
+Board [Jc Jd 3h]
+Seat 1: 50´s Ghost (button) folded before Flop (didn't bet)
+Seat 2: Gto_gtfo (small blind) folded on the Flop
+Seat 3: imhungarian8 (big blind) folded before Flop
+Seat 4: Harmar96 folded before Flop (didn't bet)
+Seat 5: BilaTserkva00 folded before Flop (didn't bet)
+Seat 6: Mahu2021 collected ($5.30)
+
+
+
+PokerStars Zoom Hand #255854219668:  Hold'em No Limit ($0.10/$0.25) - 2025/04/23 17:56:00 CET [2025/04/23 11:56:00 ET]
+Table 'Hydra' 6-max Seat #1 is the button
+Seat 1: belgas33 ($25 in chips) 
+Seat 2: Mahu2021 ($16.87 in chips) 
+Seat 3: xYamal ($25 in chips) 
+Seat 4: Chronist77 ($34.57 in chips) 
+Seat 5: H1gHL1GhT ($39.85 in chips) 
+Seat 6: 50´s Ghost ($33.49 in chips) 
+Mahu2021: posts small blind $0.10
+xYamal: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qd 5d]
+Chronist77: folds 
+H1gHL1GhT: folds 
+50´s Ghost: folds 
+belgas33: folds 
+Mahu2021: folds 
+Uncalled bet ($0.15) returned to xYamal
+xYamal collected $0.20 from pot
+xYamal: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: belgas33 (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: xYamal (big blind) collected ($0.20)
+Seat 4: Chronist77 folded before Flop (didn't bet)
+Seat 5: H1gHL1GhT folded before Flop (didn't bet)
+Seat 6: 50´s Ghost folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #255854221097:  Hold'em No Limit ($0.10/$0.25) - 2025/04/23 17:56:09 CET [2025/04/23 11:56:09 ET]
+Table 'Hydra' 6-max Seat #1 is the button
+Seat 1: belgas33 ($25 in chips) 
+Seat 2: yrisnsn ($25 in chips) 
+Seat 3: Elferzz ($25 in chips) 
+Seat 4: imhungarian8 ($25 in chips) 
+Seat 5: Mahu2021 ($16.77 in chips) 
+Seat 6: BilaTserkva00 ($25 in chips) 
+yrisnsn: posts small blind $0.10
+Elferzz: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8c 2c]
+imhungarian8: folds 
+Mahu2021: folds 
+BilaTserkva00: folds 
+belgas33: folds 
+yrisnsn: raises $0.50 to $0.75
+Elferzz: folds 
+Uncalled bet ($0.50) returned to yrisnsn
+yrisnsn collected $0.50 from pot
+yrisnsn: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: belgas33 (button) folded before Flop (didn't bet)
+Seat 2: yrisnsn (small blind) collected ($0.50)
+Seat 3: Elferzz (big blind) folded before Flop
+Seat 4: imhungarian8 folded before Flop (didn't bet)
+Seat 5: Mahu2021 folded before Flop (didn't bet)
+Seat 6: BilaTserkva00 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #255854220310:  Hold'em No Limit ($0.10/$0.25) - 2025/04/23 17:56:04 CET [2025/04/23 11:56:04 ET]
+Table 'Hydra' 6-max Seat #1 is the button
+Seat 1: Mahu2021 ($16.77 in chips) 
+Seat 2: Gto_gtfo ($32.13 in chips) 
+Seat 3: dreamcome12 ($44.13 in chips) 
+Seat 4: 50´s Ghost ($33.49 in chips) 
+Seat 5: pitbull857 ($46.65 in chips) 
+Seat 6: H1gHL1GhT ($39.85 in chips) 
+Gto_gtfo: posts small blind $0.10
+dreamcome12: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s 7d]
+50´s Ghost: folds 
+pitbull857: folds 
+H1gHL1GhT: raises $0.40 to $0.65
+Mahu2021: folds 
+Gto_gtfo: folds 
+dreamcome12: folds 
+Uncalled bet ($0.40) returned to H1gHL1GhT
+H1gHL1GhT collected $0.60 from pot
+H1gHL1GhT: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: Gto_gtfo (small blind) folded before Flop
+Seat 3: dreamcome12 (big blind) folded before Flop
+Seat 4: 50´s Ghost folded before Flop (didn't bet)
+Seat 5: pitbull857 folded before Flop (didn't bet)
+Seat 6: H1gHL1GhT collected ($0.60)
+
+
+
+PokerStars Zoom Hand #255854222062:  Hold'em No Limit ($0.10/$0.25) - 2025/04/23 17:56:15 CET [2025/04/23 11:56:15 ET]
+Table 'Hydra' 6-max Seat #1 is the button
+Seat 1: belgas33 ($30.89 in chips) 
+Seat 2: Chronist77 ($34.57 in chips) 
+Seat 3: Thegraceofgod ($25 in chips) 
+Seat 4: Mahu2021 ($16.77 in chips) 
+Seat 5: yrisnsn ($76.03 in chips) 
+Seat 6: bigchungu833 ($28.21 in chips) 
+Chronist77: posts small blind $0.10
+Thegraceofgod: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s Kd]
+Mahu2021: folds 
+yrisnsn: folds 
+bigchungu833: folds 
+belgas33: folds 
+Chronist77: raises $0.50 to $0.75
+Thegraceofgod: raises $1.50 to $2.25
+Chronist77: raises $3.25 to $5.50
+Thegraceofgod: folds 
+Uncalled bet ($3.25) returned to Chronist77
+Chronist77 collected $4.50 from pot
+Chronist77: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.50 | Rake $0 
+Seat 1: belgas33 (button) folded before Flop (didn't bet)
+Seat 2: Chronist77 (small blind) collected ($4.50)
+Seat 3: Thegraceofgod (big blind) folded before Flop
+Seat 4: Mahu2021 folded before Flop (didn't bet)
+Seat 5: yrisnsn folded before Flop (didn't bet)
+Seat 6: bigchungu833 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #255854223025:  Hold'em No Limit ($0.10/$0.25) - 2025/04/23 17:56:21 CET [2025/04/23 11:56:21 ET]
+Table 'Hydra' 6-max Seat #1 is the button
+Seat 1: imhungarian8 ($36.63 in chips) 
+Seat 2: H1gHL1GhT ($53.92 in chips) 
+Seat 3: Mahu2021 ($16.77 in chips) 
+Seat 4: 50´s Ghost ($29.46 in chips) 
+Seat 5: dzacharas ($25 in chips) 
+Seat 6: Sylv182 ($25 in chips) 
+H1gHL1GhT: posts small blind $0.10
+Mahu2021: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3c 6c]
+50´s Ghost: raises $0.37 to $0.62
+dzacharas: folds 
+Sylv182: folds 
+imhungarian8: folds 
+H1gHL1GhT: folds 
+Mahu2021: calls $0.37
+*** FLOP *** [Qd 6d Qh]
+Mahu2021: bets $0.75
+50´s Ghost: calls $0.75
+*** TURN *** [Qd 6d Qh] [8s]
+Mahu2021: checks 
+50´s Ghost: checks 
+*** RIVER *** [Qd 6d Qh 8s] [Ad]
+Mahu2021: checks 
+50´s Ghost: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [3c 6c] (two pair, Queens and Sixes)
+50´s Ghost: shows [7s 7d] (two pair, Queens and Sevens)
+50´s Ghost collected $2.71 from pot
+*** SUMMARY ***
+Total pot $2.84 | Rake $0.13 
+Board [Qd 6d Qh 8s Ad]
+Seat 1: imhungarian8 (button) folded before Flop (didn't bet)
+Seat 2: H1gHL1GhT (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) showed [3c 6c] and lost with two pair, Queens and Sixes
+Seat 4: 50´s Ghost showed [7s 7d] and won ($2.71) with two pair, Queens and Sevens
+Seat 5: dzacharas folded before Flop (didn't bet)
+Seat 6: Sylv182 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #255854229478:  Hold'em No Limit ($0.10/$0.25) - 2025/04/23 17:57:01 CET [2025/04/23 11:57:01 ET]
+Table 'Hydra' 6-max Seat #1 is the button
+Seat 1: Mahu2021 ($15.40 in chips) 
+Seat 2: BilaTserkva00 ($25 in chips) 
+Seat 3: pokeripuikko ($40.22 in chips) 
+Seat 4: pitbull857 ($60.71 in chips) 
+Seat 5: dreamcome12 ($25 in chips) 
+Seat 6: marcss2003 ($9.33 in chips) 
+BilaTserkva00: posts small blind $0.10
+pokeripuikko: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As Th]
+pitbull857: raises $0.50 to $0.75
+dreamcome12: raises $1.50 to $2.25
+marcss2003: folds 
+Mahu2021: folds 
+BilaTserkva00: folds 
+pokeripuikko: folds 
+pitbull857: calls $1.50
+*** FLOP *** [Ac 8c Jc]
+pitbull857: checks 
+dreamcome12: bets $1.16
+pitbull857: folds 
+Uncalled bet ($1.16) returned to dreamcome12
+dreamcome12 collected $4.63 from pot
+dreamcome12: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.85 | Rake $0.22 
+Board [Ac 8c Jc]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: BilaTserkva00 (small blind) folded before Flop
+Seat 3: pokeripuikko (big blind) folded before Flop
+Seat 4: pitbull857 folded on the Flop
+Seat 5: dreamcome12 collected ($4.63)
+Seat 6: marcss2003 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #255854230729:  Hold'em No Limit ($0.10/$0.25) - 2025/04/23 17:57:09 CET [2025/04/23 11:57:09 ET]
+Table 'Hydra' 6-max Seat #1 is the button
+Seat 1: luirian_1989 ($23.15 in chips) 
+Seat 2: Mahu2021 ($15.40 in chips) 
+Seat 3: Harmar96 ($25 in chips) 
+Seat 4: BilaTserkva00 ($25 in chips) 
+Seat 5: boris31.03 ($36.90 in chips) 
+Seat 6: Sylv182 ($25 in chips) 
+Mahu2021: posts small blind $0.10
+Harmar96: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Th 9h]
+BilaTserkva00: raises $0.37 to $0.62
+boris31.03: folds 
+Sylv182: folds 
+luirian_1989: folds 
+Mahu2021: calls $0.52
+Harmar96: raises $2.36 to $2.98
+BilaTserkva00: calls $2.36
+Mahu2021: calls $2.36
+*** FLOP *** [Kh 2d 4c]
+Mahu2021: checks 
+Harmar96: bets $2.27
+BilaTserkva00: folds 
+Mahu2021: folds 
+Uncalled bet ($2.27) returned to Harmar96
+Harmar96 collected $8.54 from pot
+Harmar96: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.94 | Rake $0.40 
+Board [Kh 2d 4c]
+Seat 1: luirian_1989 (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) folded on the Flop
+Seat 3: Harmar96 (big blind) collected ($8.54)
+Seat 4: BilaTserkva00 folded on the Flop
+Seat 5: boris31.03 folded before Flop (didn't bet)
+Seat 6: Sylv182 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #255854237248:  Hold'em No Limit ($0.10/$0.25) - 2025/04/23 17:57:49 CET [2025/04/23 11:57:49 ET]
+Table 'Hydra' 6-max Seat #1 is the button
+Seat 1: SManos13 ($36.14 in chips) 
+Seat 2: DDjjuull ($21.51 in chips) 
+Seat 3: dzacharas ($25.56 in chips) 
+Seat 4: Elferzz ($25 in chips) 
+Seat 5: Romsyhu ($58.17 in chips) 
+Seat 6: Mahu2021 ($12.42 in chips) 
+DDjjuull: posts small blind $0.10
+dzacharas: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js 8h]
+Elferzz: folds 
+Romsyhu: raises $0.25 to $0.50
+Mahu2021: folds 
+SManos13: folds 
+DDjjuull: folds 
+dzacharas: folds 
+Uncalled bet ($0.25) returned to Romsyhu
+Romsyhu collected $0.60 from pot
+Romsyhu: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: SManos13 (button) folded before Flop (didn't bet)
+Seat 2: DDjjuull (small blind) folded before Flop
+Seat 3: dzacharas (big blind) folded before Flop
+Seat 4: Elferzz folded before Flop (didn't bet)
+Seat 5: Romsyhu collected ($0.60)
+Seat 6: Mahu2021 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #255854238457:  Hold'em No Limit ($0.10/$0.25) - 2025/04/23 17:57:57 CET [2025/04/23 11:57:57 ET]
+Table 'Hydra' 6-max Seat #1 is the button
+Seat 1: Chronist77 ($28.66 in chips) 
+Seat 2: SManos13 ($25.39 in chips) 
+Seat 3: Mahu2021 ($12.42 in chips) 
+Seat 4: BilaTserkva00 ($26.01 in chips) 
+Seat 5: bigned1975 ($25.35 in chips) 
+Seat 6: KennyJack10 ($41.50 in chips) 
+SManos13: posts small blind $0.10
+Mahu2021: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh 3c]
+BilaTserkva00: folds 
+bigned1975: folds 
+KennyJack10: folds 
+Chronist77: folds 
+SManos13: raises $0.50 to $0.75
+Mahu2021: folds 
+Uncalled bet ($0.50) returned to SManos13
+SManos13 collected $0.50 from pot
+SManos13: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: Chronist77 (button) folded before Flop (didn't bet)
+Seat 2: SManos13 (small blind) collected ($0.50)
+Seat 3: Mahu2021 (big blind) folded before Flop
+Seat 4: BilaTserkva00 folded before Flop (didn't bet)
+Seat 5: bigned1975 folded before Flop (didn't bet)
+Seat 6: KennyJack10 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #255854240268:  Hold'em No Limit ($0.10/$0.25) - 2025/04/23 17:58:08 CET [2025/04/23 11:58:08 ET]
+Table 'Hydra' 6-max Seat #1 is the button
+Seat 1: dreamcome12 ($43.38 in chips) 
+Seat 2: bigchungu833 ($27.99 in chips) 
+Seat 3: imhungarian8 ($30.15 in chips) 
+Seat 4: SManos13 ($25.64 in chips) 
+Seat 5: Mahu2021 ($12.17 in chips) 
+Seat 6: been0033 ($44.35 in chips) 
+bigchungu833: posts small blind $0.10
+imhungarian8: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks 4c]
+SManos13: raises $0.25 to $0.50
+Mahu2021: folds 
+been0033: folds 
+dreamcome12: folds 
+bigchungu833: folds 
+imhungarian8: folds 
+Uncalled bet ($0.25) returned to SManos13
+SManos13 collected $0.60 from pot
+SManos13: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: dreamcome12 (button) folded before Flop (didn't bet)
+Seat 2: bigchungu833 (small blind) folded before Flop
+Seat 3: imhungarian8 (big blind) folded before Flop
+Seat 4: SManos13 collected ($0.60)
+Seat 5: Mahu2021 folded before Flop (didn't bet)
+Seat 6: been0033 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #255854237844:  Hold'em No Limit ($0.10/$0.25) - 2025/04/23 17:57:53 CET [2025/04/23 11:57:53 ET]
+Table 'Hydra' 6-max Seat #1 is the button
+Seat 1: Harmar96 ($60.89 in chips) 
+Seat 2: caconcha ($8.20 in chips) 
+Seat 3: heujoon2401 ($45.78 in chips) 
+Seat 4: Mahu2021 ($12.42 in chips) 
+Seat 5: modockey ($30.74 in chips) 
+Seat 6: SManos13 ($36.14 in chips) 
+caconcha: posts small blind $0.10
+heujoon2401: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h 7d]
+Mahu2021: folds 
+modockey: folds 
+SManos13: folds 
+Harmar96: folds 
+caconcha: raises $0.25 to $0.50
+heujoon2401: folds 
+Uncalled bet ($0.25) returned to caconcha
+caconcha collected $0.50 from pot
+caconcha: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: Harmar96 (button) folded before Flop (didn't bet)
+Seat 2: caconcha (small blind) collected ($0.50)
+Seat 3: heujoon2401 (big blind) folded before Flop
+Seat 4: Mahu2021 folded before Flop (didn't bet)
+Seat 5: modockey folded before Flop (didn't bet)
+Seat 6: SManos13 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #255854228516:  Hold'em No Limit ($0.10/$0.25) - 2025/04/23 17:56:55 CET [2025/04/23 11:56:55 ET]
+Table 'Hydra' 6-max Seat #1 is the button
+Seat 1: Sylv182 ($25 in chips) 
+Seat 2: 50´s Ghost ($30.80 in chips) 
+Seat 3: laisladegara ($25 in chips) 
+Seat 4: pokeripuikko ($40.22 in chips) 
+Seat 5: Mahu2021 ($15.40 in chips) 
+Seat 6: belgas33 ($25.57 in chips) 
+50´s Ghost: posts small blind $0.10
+laisladegara: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d 2d]
+pokeripuikko: folds 
+Mahu2021: folds 
+belgas33: raises $0.32 to $0.57
+Sylv182: folds 
+50´s Ghost: folds 
+laisladegara: calls $0.32
+*** FLOP *** [3c 6h 7h]
+laisladegara: checks 
+belgas33: checks 
+*** TURN *** [3c 6h 7h] [Jd]
+laisladegara: checks 
+belgas33: checks 
+*** RIVER *** [3c 6h 7h Jd] [Tc]
+laisladegara: checks 
+belgas33: checks 
+*** SHOW DOWN ***
+laisladegara: shows [9s Ts] (a pair of Tens)
+belgas33: shows [9d Td] (a pair of Tens)
+laisladegara collected $0.59 from pot
+belgas33 collected $0.59 from pot
+*** SUMMARY ***
+Total pot $1.24 | Rake $0.06 
+Board [3c 6h 7h Jd Tc]
+Seat 1: Sylv182 (button) folded before Flop (didn't bet)
+Seat 2: 50´s Ghost (small blind) folded before Flop
+Seat 3: laisladegara (big blind) showed [9s Ts] and won ($0.59) with a pair of Tens
+Seat 4: pokeripuikko folded before Flop (didn't bet)
+Seat 5: Mahu2021 folded before Flop (didn't bet)
+Seat 6: belgas33 showed [9d Td] and won ($0.59) with a pair of Tens
+
+
+
+PokerStars Zoom Hand #255854241041:  Hold'em No Limit ($0.10/$0.25) - 2025/04/23 17:58:13 CET [2025/04/23 11:58:13 ET]
+Table 'Hydra' 6-max Seat #1 is the button
+Seat 1: Mahu2021 ($12.17 in chips) 
+Seat 2: 4BetBluff95 ($51.38 in chips) 
+Seat 3: bigchungu833 ($27.89 in chips) 
+Seat 4: Chronist77 ($28.56 in chips) 
+Seat 5: Elferzz ($25 in chips) 
+Seat 6: Gto_gtfo ($65.65 in chips) 
+4BetBluff95: posts small blind $0.10
+bigchungu833: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c 5s]
+Chronist77: folds 
+Elferzz: folds 
+Gto_gtfo: raises $0.30 to $0.55
+Mahu2021: folds 
+4BetBluff95: folds 
+bigchungu833: folds 
+Uncalled bet ($0.30) returned to Gto_gtfo
+Gto_gtfo collected $0.60 from pot
+Gto_gtfo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: 4BetBluff95 (small blind) folded before Flop
+Seat 3: bigchungu833 (big blind) folded before Flop
+Seat 4: Chronist77 folded before Flop (didn't bet)
+Seat 5: Elferzz folded before Flop (didn't bet)
+Seat 6: Gto_gtfo collected ($0.60)
+
+
+
+PokerStars Zoom Hand #255854244214:  Hold'em No Limit ($0.10/$0.25) - 2025/04/23 17:58:33 CET [2025/04/23 11:58:33 ET]
+Table 'Hydra' 6-max Seat #1 is the button
+Seat 1: dreamcome12 ($25.50 in chips) 
+Seat 2: BilaTserkva00 ($25 in chips) 
+Seat 3: belgas33 ($25.59 in chips) 
+Seat 4: pokeripuikko ($48.27 in chips) 
+Seat 5: dzacharas ($27.92 in chips) 
+Seat 6: Mahu2021 ($12.07 in chips) 
+BilaTserkva00: posts small blind $0.10
+belgas33: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s 6c]
+pokeripuikko: folds 
+dzacharas: raises $0.30 to $0.55
+Mahu2021: folds 
+dreamcome12: folds 
+BilaTserkva00: folds 
+belgas33: calls $0.30
+*** FLOP *** [2d 3h 6s]
+belgas33: checks 
+dzacharas: bets $0.64
+belgas33: folds 
+Uncalled bet ($0.64) returned to dzacharas
+dzacharas collected $1.15 from pot
+dzacharas: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.20 | Rake $0.05 
+Board [2d 3h 6s]
+Seat 1: dreamcome12 (button) folded before Flop (didn't bet)
+Seat 2: BilaTserkva00 (small blind) folded before Flop
+Seat 3: belgas33 (big blind) folded on the Flop
+Seat 4: pokeripuikko folded before Flop (didn't bet)
+Seat 5: dzacharas collected ($1.15)
+Seat 6: Mahu2021 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #255854245968:  Hold'em No Limit ($0.10/$0.25) - 2025/04/23 17:58:44 CET [2025/04/23 11:58:44 ET]
+Table 'Hydra' 6-max Seat #1 is the button
+Seat 1: danzo5959 ($25 in chips) 
+Seat 2: bigned1975 ($25.68 in chips) 
+Seat 3: Mahu2021 ($12.07 in chips) 
+Seat 4: pokeripuikko ($38.52 in chips) 
+Seat 5: jul_dec ($50.91 in chips) 
+Seat 6: dreamcome12 ($48.47 in chips) 
+bigned1975: posts small blind $0.10
+Mahu2021: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4c 3h]
+pokeripuikko: folds 
+jul_dec: raises $0.25 to $0.50
+dreamcome12: folds 
+danzo5959: folds 
+bigned1975: folds 
+Mahu2021: folds 
+Uncalled bet ($0.25) returned to jul_dec
+jul_dec collected $0.60 from pot
+jul_dec: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: danzo5959 (button) folded before Flop (didn't bet)
+Seat 2: bigned1975 (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) folded before Flop
+Seat 4: pokeripuikko folded before Flop (didn't bet)
+Seat 5: jul_dec collected ($0.60)
+Seat 6: dreamcome12 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #255854245432:  Hold'em No Limit ($0.10/$0.25) - 2025/04/23 17:58:41 CET [2025/04/23 11:58:41 ET]
+Table 'Hydra' 6-max Seat #1 is the button
+Seat 1: jul_dec ($50.91 in chips) 
+Seat 2: Romsyhu ($25 in chips) 
+Seat 3: imhungarian8 ($25 in chips) 
+Seat 4: Mahu2021 ($12.07 in chips) 
+Seat 5: pokeripuikko ($38.52 in chips) 
+Seat 6: marcss2003 ($12.22 in chips) 
+Romsyhu: posts small blind $0.10
+imhungarian8: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts 5d]
+Mahu2021: folds 
+pokeripuikko: folds 
+marcss2003: folds 
+jul_dec: folds 
+Romsyhu: raises $0.55 to $0.80
+imhungarian8: folds 
+Uncalled bet ($0.55) returned to Romsyhu
+Romsyhu collected $0.50 from pot
+Romsyhu: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: jul_dec (button) folded before Flop (didn't bet)
+Seat 2: Romsyhu (small blind) collected ($0.50)
+Seat 3: imhungarian8 (big blind) folded before Flop
+Seat 4: Mahu2021 folded before Flop (didn't bet)
+Seat 5: pokeripuikko folded before Flop (didn't bet)
+Seat 6: marcss2003 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #255854246778:  Hold'em No Limit ($0.10/$0.25) - 2025/04/23 17:58:49 CET [2025/04/23 11:58:49 ET]
+Table 'Hydra' 6-max Seat #1 is the button
+Seat 1: Mahu2021 ($11.82 in chips) 
+Seat 2: dreamcome12 ($28.71 in chips) 
+Seat 3: danzo5959 ($25 in chips) 
+Seat 4: jakisjacek ($18.35 in chips) 
+Seat 5: laisladegara ($25.35 in chips) 
+Seat 6: bigned1975 ($25.58 in chips) 
+dreamcome12: posts small blind $0.10
+danzo5959: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5h 6d]
+jakisjacek: folds 
+laisladegara: folds 
+bigned1975: raises $0.37 to $0.62
+Mahu2021: folds 
+dreamcome12: folds 
+danzo5959: calls $0.37
+*** FLOP *** [8h 6h Qd]
+danzo5959: checks 
+bigned1975: bets $0.75
+danzo5959: folds 
+Uncalled bet ($0.75) returned to bigned1975
+bigned1975 collected $1.28 from pot
+bigned1975: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.34 | Rake $0.06 
+Board [8h 6h Qd]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: dreamcome12 (small blind) folded before Flop
+Seat 3: danzo5959 (big blind) folded on the Flop
+Seat 4: jakisjacek folded before Flop (didn't bet)
+Seat 5: laisladegara folded before Flop (didn't bet)
+Seat 6: bigned1975 collected ($1.28)
+
+
+
+PokerStars Zoom Hand #255854244835:  Hold'em No Limit ($0.10/$0.25) - 2025/04/23 17:58:37 CET [2025/04/23 11:58:37 ET]
+Table 'Hydra' 6-max Seat #1 is the button
+Seat 1: Gto_gtfo ($55.83 in chips) 
+Seat 2: dreamcome12 ($25.50 in chips) 
+Seat 3: Methylbenzene ($16.50 in chips) 
+Seat 4: Mahu2021 ($12.07 in chips) 
+Seat 5: marcss2003 ($12.22 in chips) 
+Seat 6: steloukos13 ($10.22 in chips) 
+dreamcome12: posts small blind $0.10
+Methylbenzene: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Td 9h]
+Mahu2021: folds 
+marcss2003: folds 
+steloukos13: calls $0.25
+Gto_gtfo: folds 
+dreamcome12: folds 
+Methylbenzene: raises $0.50 to $0.75
+steloukos13: calls $0.50
+*** FLOP *** [9s Jd 4c]
+Methylbenzene: checks 
+steloukos13: bets $0.50
+Methylbenzene: calls $0.50
+*** TURN *** [9s Jd 4c] [5h]
+Methylbenzene: checks 
+steloukos13: checks 
+*** RIVER *** [9s Jd 4c 5h] [Qd]
+Methylbenzene: bets $1.24
+steloukos13: raises $7.73 to $8.97 and is all-in
+Methylbenzene: calls $7.73
+*** SHOW DOWN ***
+steloukos13: shows [Kh Tc] (a straight, Nine to King)
+Methylbenzene: shows [As Qs] (a pair of Queens)
+steloukos13 collected $19.62 from pot
+*** SUMMARY ***
+Total pot $20.54 | Rake $0.92 
+Board [9s Jd 4c 5h Qd]
+Seat 1: Gto_gtfo (button) folded before Flop (didn't bet)
+Seat 2: dreamcome12 (small blind) folded before Flop
+Seat 3: Methylbenzene (big blind) showed [As Qs] and lost with a pair of Queens
+Seat 4: Mahu2021 folded before Flop (didn't bet)
+Seat 5: marcss2003 folded before Flop (didn't bet)
+Seat 6: steloukos13 showed [Kh Tc] and won ($19.62) with a straight, Nine to King
+
+
+
+PokerStars Zoom Hand #255854247340:  Hold'em No Limit ($0.10/$0.25) - 2025/04/23 17:58:53 CET [2025/04/23 11:58:53 ET]
+Table 'Hydra' 6-max Seat #1 is the button
+Seat 1: jakisjacek ($18.35 in chips) 
+Seat 2: Gto_gtfo ($35.03 in chips) 
+Seat 3: jul_dec ($51.26 in chips) 
+Seat 4: dzacharas ($28.01 in chips) 
+Seat 5: Mahu2021 ($11.82 in chips) 
+Seat 6: BilaTserkva00 ($25.76 in chips) 
+Gto_gtfo: posts small blind $0.10
+jul_dec: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s 4s]
+dzacharas: folds 
+Mahu2021: raises $0.25 to $0.50
+BilaTserkva00: folds 
+jakisjacek: raises $1.35 to $1.85
+Gto_gtfo: folds 
+jul_dec: calls $1.60
+Mahu2021: calls $1.35
+*** FLOP *** [2d 5d Qs]
+jul_dec: checks 
+Mahu2021: bets $1.50
+jakisjacek: calls $1.50
+jul_dec: folds 
+*** TURN *** [2d 5d Qs] [8s]
+Mahu2021: bets $3.25
+jakisjacek: raises $11.75 to $15 and is all-in
+Mahu2021: calls $5.22 and is all-in
+Uncalled bet ($6.53) returned to jakisjacek
+*** RIVER *** [2d 5d Qs 8s] [Jh]
+*** SHOW DOWN ***
+Mahu2021: shows [5s 4s] (a pair of Fives)
+jakisjacek: shows [4h 4d] (a pair of Fours)
+Mahu2021 cashed out the hand for $23.41 | Cash Out Fee $0.48
+*** SUMMARY ***
+Total pot $25.59 | Rake $1.15 
+Board [2d 5d Qs 8s Jh]
+Seat 1: jakisjacek (button) showed [4h 4d] and lost with a pair of Fours
+Seat 2: Gto_gtfo (small blind) folded before Flop
+Seat 3: jul_dec (big blind) folded on the Flop
+Seat 4: dzacharas folded before Flop (didn't bet)
+Seat 5: Mahu2021 showed [5s 4s] and won ($24.44) with a pair of Fives (pot not awarded as player cashed out)
+Seat 6: BilaTserkva00 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #255854241697:  Hold'em No Limit ($0.10/$0.25) - 2025/04/23 17:58:17 CET [2025/04/23 11:58:17 ET]
+Table 'Hydra' 6-max Seat #1 is the button
+Seat 1: BilaTserkva00 ($25 in chips) 
+Seat 2: Mahu2021 ($12.17 in chips) 
+Seat 3: belgas33 ($29.47 in chips) 
+Seat 4: luirian_1989 ($22.78 in chips) 
+Seat 5: imhungarian8 ($27.20 in chips) 
+Seat 6: H1gHL1GhT ($28.22 in chips) 
+Mahu2021: posts small blind $0.10
+belgas33: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh Jd]
+luirian_1989: folds 
+imhungarian8: raises $0.28 to $0.53
+H1gHL1GhT: raises $1.17 to $1.70
+BilaTserkva00: folds 
+Mahu2021: folds 
+belgas33: folds 
+imhungarian8: raises $3.30 to $5
+H1gHL1GhT: calls $3.30
+*** FLOP *** [7c 5c 4d]
+imhungarian8: checks 
+H1gHL1GhT: checks 
+*** TURN *** [7c 5c 4d] [5h]
+imhungarian8: bets $6.52
+H1gHL1GhT: calls $6.52
+*** RIVER *** [7c 5c 4d 5h] [8h]
+imhungarian8: checks 
+H1gHL1GhT: checks 
+*** SHOW DOWN ***
+imhungarian8: shows [Kc Ac] (a pair of Fives)
+H1gHL1GhT: shows [9h 9c] (two pair, Nines and Fives)
+H1gHL1GhT collected $22.08 from pot
+*** SUMMARY ***
+Total pot $23.39 | Rake $1.31 
+Board [7c 5c 4d 5h 8h]
+Seat 1: BilaTserkva00 (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: belgas33 (big blind) folded before Flop
+Seat 4: luirian_1989 folded before Flop (didn't bet)
+Seat 5: imhungarian8 showed [Kc Ac] and lost with a pair of Fives
+Seat 6: H1gHL1GhT showed [9h 9c] and won ($22.08) with two pair, Nines and Fives
+
+
+
+PokerStars Zoom Hand #255854254119:  Hold'em No Limit ($0.10/$0.25) - 2025/04/23 17:59:34 CET [2025/04/23 11:59:34 ET]
+Table 'Hydra' 6-max Seat #1 is the button
+Seat 1: Chronist77 ($36.85 in chips) 
+Seat 2: Mahu2021 ($23.41 in chips) 
+Seat 3: dreamcome12 ($31.59 in chips) 
+Seat 4: H1gHL1GhT ($48.41 in chips) 
+Seat 5: jakisjacek ($6.53 in chips) 
+Seat 6: pokeripuikko ($50.75 in chips) 
+Mahu2021: posts small blind $0.10
+dreamcome12: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Tc Jc]
+H1gHL1GhT: folds 
+jakisjacek: folds 
+pokeripuikko: folds 
+Chronist77: folds 
+Mahu2021: raises $0.50 to $0.75
+dreamcome12: calls $0.50
+*** FLOP *** [Th 6c 9c]
+Mahu2021: bets $0.75
+dreamcome12: raises $2.25 to $3
+Mahu2021: raises $2.75 to $5.75
+dreamcome12: calls $2.75
+*** TURN *** [Th 6c 9c] [4h]
+Mahu2021: bets $16.91 and is all-in
+dreamcome12: folds 
+Uncalled bet ($16.91) returned to Mahu2021
+Mahu2021 collected $12.42 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot $13 | Rake $0.58 
+Board [Th 6c 9c 4h]
+Seat 1: Chronist77 (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) collected ($12.42)
+Seat 3: dreamcome12 (big blind) folded on the Turn
+Seat 4: H1gHL1GhT folded before Flop (didn't bet)
+Seat 5: jakisjacek folded before Flop (didn't bet)
+Seat 6: pokeripuikko folded before Flop (didn't bet)
+
+
+

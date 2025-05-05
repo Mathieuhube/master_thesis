@@ -1,0 +1,620 @@
+﻿PokerStars Hand #247511167775: Tournament #3682842565, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/06 18:12:47 CET [2023/12/06 12:12:47 ET]
+Table '3682842565 1' 3-max Seat #1 is the button
+Seat 1: gabamauri (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: Rajalove (500 in chips) 
+Mahu2021: posts small blind 10
+Rajalove: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d 7s]
+gabamauri: raises 28 to 48
+Mahu2021: calls 38
+Rajalove: folds 
+*** FLOP *** [6h Kh As]
+Mahu2021: checks 
+gabamauri: bets 31
+Mahu2021: folds 
+Uncalled bet (31) returned to gabamauri
+gabamauri collected 116 from pot
+*** SUMMARY ***
+Total pot 116 | Rake 0 
+Board [6h Kh As]
+Seat 1: gabamauri (button) collected (116)
+Seat 2: Mahu2021 (small blind) folded on the Flop
+Seat 3: Rajalove (big blind) folded before Flop
+
+
+
+PokerStars Hand #247511172579: Tournament #3682842565, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/06 18:13:04 CET [2023/12/06 12:13:04 ET]
+Table '3682842565 1' 3-max Seat #2 is the button
+Seat 1: gabamauri (568 in chips) 
+Seat 2: Mahu2021 (452 in chips) 
+Seat 3: Rajalove (480 in chips) 
+Rajalove: posts small blind 10
+gabamauri: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d 7h]
+Mahu2021: folds 
+Rajalove: calls 10
+gabamauri: checks 
+*** FLOP *** [Kh 4d 6d]
+Rajalove: bets 20
+gabamauri: calls 20
+*** TURN *** [Kh 4d 6d] [2c]
+Rajalove: bets 20
+gabamauri: calls 20
+*** RIVER *** [Kh 4d 6d 2c] [Qh]
+Rajalove: bets 20
+gabamauri: calls 20
+*** SHOW DOWN ***
+Rajalove: shows [7d 4c] (a pair of Fours)
+gabamauri: shows [6c Ad] (a pair of Sixes)
+gabamauri collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Kh 4d 6d 2c Qh]
+Seat 1: gabamauri (big blind) showed [6c Ad] and won (160) with a pair of Sixes
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: Rajalove (small blind) showed [7d 4c] and lost with a pair of Fours
+
+
+
+PokerStars Hand #247511179300: Tournament #3682842565, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/06 18:13:27 CET [2023/12/06 12:13:27 ET]
+Table '3682842565 1' 3-max Seat #3 is the button
+Seat 1: gabamauri (648 in chips) 
+Seat 2: Mahu2021 (452 in chips) 
+Seat 3: Rajalove (400 in chips) 
+gabamauri: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d 5d]
+Rajalove: calls 20
+gabamauri: calls 10
+Mahu2021: checks 
+*** FLOP *** [Td 7d Qh]
+gabamauri: checks 
+Mahu2021: bets 60
+Rajalove: calls 60
+gabamauri: folds 
+*** TURN *** [Td 7d Qh] [Js]
+Mahu2021: checks 
+Rajalove: checks 
+*** RIVER *** [Td 7d Qh Js] [Jh]
+Mahu2021: checks 
+Rajalove: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [3d 5d] (a pair of Jacks)
+Rajalove: shows [6h 9h] (a pair of Jacks - Queen+Ten+Nine kicker)
+Rajalove collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [Td 7d Qh Js Jh]
+Seat 1: gabamauri (small blind) folded on the Flop
+Seat 2: Mahu2021 (big blind) showed [3d 5d] and lost with a pair of Jacks
+Seat 3: Rajalove (button) showed [6h 9h] and won (180) with a pair of Jacks
+
+
+
+PokerStars Hand #247511188339: Tournament #3682842565, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/06 18:13:59 CET [2023/12/06 12:13:59 ET]
+Table '3682842565 1' 3-max Seat #1 is the button
+Seat 1: gabamauri (628 in chips) 
+Seat 2: Mahu2021 (372 in chips) 
+Seat 3: Rajalove (500 in chips) 
+Mahu2021: posts small blind 10
+Rajalove: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6h Qh]
+gabamauri: raises 28 to 48
+Mahu2021: calls 38
+Rajalove: folds 
+*** FLOP *** [2s 6c Kc]
+Mahu2021: checks 
+gabamauri: bets 40
+Mahu2021: calls 40
+*** TURN *** [2s 6c Kc] [Ks]
+Mahu2021: checks 
+gabamauri: checks 
+*** RIVER *** [2s 6c Kc Ks] [Js]
+Mahu2021: bets 196
+gabamauri: folds 
+Uncalled bet (196) returned to Mahu2021
+Mahu2021 collected 196 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 196 | Rake 0 
+Board [2s 6c Kc Ks Js]
+Seat 1: gabamauri (button) folded on the River
+Seat 2: Mahu2021 (small blind) collected (196)
+Seat 3: Rajalove (big blind) folded before Flop
+
+
+
+PokerStars Hand #247511196975: Tournament #3682842565, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/06 18:14:29 CET [2023/12/06 12:14:29 ET]
+Table '3682842565 1' 3-max Seat #2 is the button
+Seat 1: gabamauri (540 in chips) 
+Seat 2: Mahu2021 (480 in chips) 
+Seat 3: Rajalove (480 in chips) 
+Rajalove: posts small blind 10
+gabamauri: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s Qc]
+Mahu2021: folds 
+Rajalove: calls 10
+gabamauri: checks 
+*** FLOP *** [7h 5d Qs]
+Rajalove: checks 
+gabamauri: checks 
+*** TURN *** [7h 5d Qs] [Jc]
+Rajalove: checks 
+gabamauri: checks 
+*** RIVER *** [7h 5d Qs Jc] [2c]
+Rajalove: checks 
+gabamauri: bets 40
+Rajalove: folds 
+Uncalled bet (40) returned to gabamauri
+gabamauri collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [7h 5d Qs Jc 2c]
+Seat 1: gabamauri (big blind) collected (40)
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: Rajalove (small blind) folded on the River
+
+
+
+PokerStars Hand #247511203328: Tournament #3682842565, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/06 18:14:51 CET [2023/12/06 12:14:51 ET]
+Table '3682842565 1' 3-max Seat #3 is the button
+Seat 1: gabamauri (560 in chips) 
+Seat 2: Mahu2021 (480 in chips) 
+Seat 3: Rajalove (460 in chips) 
+gabamauri: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh 6d]
+Rajalove: folds 
+gabamauri: calls 10
+Mahu2021: checks 
+*** FLOP *** [Qd As 6s]
+gabamauri: checks 
+Mahu2021: bets 40
+gabamauri: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Qd As 6s]
+Seat 1: gabamauri (small blind) folded on the Flop
+Seat 2: Mahu2021 (big blind) collected (40)
+Seat 3: Rajalove (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #247511208418: Tournament #3682842565, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/06 18:15:09 CET [2023/12/06 12:15:09 ET]
+Table '3682842565 1' 3-max Seat #1 is the button
+Seat 1: gabamauri (540 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: Rajalove (460 in chips) 
+Mahu2021: posts small blind 10
+Rajalove: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h 2d]
+gabamauri: folds 
+Mahu2021: folds 
+Uncalled bet (10) returned to Rajalove
+Rajalove collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: gabamauri (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: Rajalove (big blind) collected (20)
+
+
+
+PokerStars Hand #247511210087: Tournament #3682842565, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/06 18:15:15 CET [2023/12/06 12:15:15 ET]
+Table '3682842565 1' 3-max Seat #2 is the button
+Seat 1: gabamauri (540 in chips) 
+Seat 2: Mahu2021 (490 in chips) 
+Seat 3: Rajalove (470 in chips) 
+Rajalove: posts small blind 10
+gabamauri: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd Jc]
+Mahu2021: raises 20 to 40
+Rajalove: calls 30
+gabamauri: folds 
+*** FLOP *** [7h 8h 8c]
+Rajalove: bets 20
+Mahu2021: calls 20
+*** TURN *** [7h 8h 8c] [Ah]
+Rajalove: checks 
+Mahu2021: checks 
+*** RIVER *** [7h 8h 8c Ah] [8d]
+Rajalove: checks 
+Mahu2021: bets 80
+Rajalove: folds 
+Uncalled bet (80) returned to Mahu2021
+Mahu2021 collected 140 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 140 | Rake 0 
+Board [7h 8h 8c Ah 8d]
+Seat 1: gabamauri (big blind) folded before Flop
+Seat 2: Mahu2021 (button) collected (140)
+Seat 3: Rajalove (small blind) folded on the River
+
+
+
+PokerStars Hand #247511218964: Tournament #3682842565, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/06 18:15:46 CET [2023/12/06 12:15:46 ET]
+Table '3682842565 1' 3-max Seat #3 is the button
+Seat 1: gabamauri (520 in chips) 
+Seat 2: Mahu2021 (570 in chips) 
+Seat 3: Rajalove (410 in chips) 
+gabamauri: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h Ah]
+Rajalove: raises 20 to 40
+gabamauri: calls 30
+Mahu2021: calls 20
+*** FLOP *** [Kd Jd 9d]
+gabamauri: checks 
+Mahu2021: checks 
+Rajalove: bets 40
+gabamauri: calls 40
+Mahu2021: folds 
+*** TURN *** [Kd Jd 9d] [4d]
+gabamauri: checks 
+Rajalove: bets 60
+gabamauri: raises 100 to 160
+Rajalove: folds 
+Uncalled bet (100) returned to gabamauri
+gabamauri collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [Kd Jd 9d 4d]
+Seat 1: gabamauri (small blind) collected (320)
+Seat 2: Mahu2021 (big blind) folded on the Flop
+Seat 3: Rajalove (button) folded on the Turn
+
+
+
+PokerStars Hand #247511230103: Tournament #3682842565, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/12/06 18:16:25 CET [2023/12/06 12:16:25 ET]
+Table '3682842565 1' 3-max Seat #1 is the button
+Seat 1: gabamauri (700 in chips) 
+Seat 2: Mahu2021 (530 in chips) 
+Seat 3: Rajalove (270 in chips) 
+Mahu2021: posts small blind 15
+Rajalove: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8c 9h]
+gabamauri: folds 
+Mahu2021: calls 15
+Rajalove: raises 240 to 270 and is all-in
+Mahu2021: folds 
+Uncalled bet (240) returned to Rajalove
+Rajalove collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: gabamauri (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: Rajalove (big blind) collected (60)
+
+
+
+PokerStars Hand #247511233091: Tournament #3682842565, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/12/06 18:16:35 CET [2023/12/06 12:16:35 ET]
+Table '3682842565 1' 3-max Seat #2 is the button
+Seat 1: gabamauri (700 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: Rajalove (300 in chips) 
+Rajalove: posts small blind 15
+gabamauri: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2s Jh]
+Mahu2021: folds 
+Rajalove: folds 
+Uncalled bet (15) returned to gabamauri
+gabamauri collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: gabamauri (big blind) collected (30)
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: Rajalove (small blind) folded before Flop
+
+
+
+PokerStars Hand #247511234726: Tournament #3682842565, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/12/06 18:16:41 CET [2023/12/06 12:16:41 ET]
+Table '3682842565 1' 3-max Seat #3 is the button
+Seat 1: gabamauri (715 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: Rajalove (285 in chips) 
+gabamauri: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c 8h]
+Rajalove: folds 
+gabamauri: raises 30 to 60
+Mahu2021: folds 
+Uncalled bet (30) returned to gabamauri
+gabamauri collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: gabamauri (small blind) collected (60)
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: Rajalove (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #247511237671: Tournament #3682842565, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/12/06 18:16:51 CET [2023/12/06 12:16:51 ET]
+Table '3682842565 1' 3-max Seat #1 is the button
+Seat 1: gabamauri (745 in chips) 
+Seat 2: Mahu2021 (470 in chips) 
+Seat 3: Rajalove (285 in chips) 
+Mahu2021: posts small blind 15
+Rajalove: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s Kc]
+gabamauri: folds 
+Mahu2021: calls 15
+Rajalove: checks 
+*** FLOP *** [Qd Ks 4c]
+Mahu2021: bets 30
+Rajalove: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Qd Ks 4c]
+Seat 1: gabamauri (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) collected (60)
+Seat 3: Rajalove (big blind) folded on the Flop
+
+
+
+PokerStars Hand #247511241733: Tournament #3682842565, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/12/06 18:17:05 CET [2023/12/06 12:17:05 ET]
+Table '3682842565 1' 3-max Seat #2 is the button
+Seat 1: gabamauri (745 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: Rajalove (255 in chips) 
+Rajalove: posts small blind 15
+gabamauri: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks Ad]
+Mahu2021: raises 30 to 60
+Rajalove: folds 
+gabamauri: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 75 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: gabamauri (big blind) folded before Flop
+Seat 2: Mahu2021 (button) collected (75)
+Seat 3: Rajalove (small blind) folded before Flop
+
+
+
+PokerStars Hand #247511244363: Tournament #3682842565, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/12/06 18:17:15 CET [2023/12/06 12:17:15 ET]
+Table '3682842565 1' 3-max Seat #3 is the button
+Seat 1: gabamauri (715 in chips) 
+Seat 2: Mahu2021 (545 in chips) 
+Seat 3: Rajalove (240 in chips) 
+gabamauri: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h 7c]
+Rajalove: calls 30
+gabamauri: raises 120 to 150
+Mahu2021: folds 
+Rajalove: folds 
+Uncalled bet (120) returned to gabamauri
+gabamauri collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Seat 1: gabamauri (small blind) collected (90)
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: Rajalove (button) folded before Flop
+
+
+
+PokerStars Hand #247511251447: Tournament #3682842565, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/12/06 18:17:39 CET [2023/12/06 12:17:39 ET]
+Table '3682842565 1' 3-max Seat #1 is the button
+Seat 1: gabamauri (775 in chips) 
+Seat 2: Mahu2021 (515 in chips) 
+Seat 3: Rajalove (210 in chips) 
+Mahu2021: posts small blind 15
+Rajalove: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h Kc]
+gabamauri: folds 
+Mahu2021: calls 15
+Rajalove: raises 180 to 210 and is all-in
+Mahu2021: folds 
+Uncalled bet (180) returned to Rajalove
+Rajalove collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: gabamauri (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: Rajalove (big blind) collected (60)
+
+
+
+PokerStars Hand #247511255420: Tournament #3682842565, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/12/06 18:17:53 CET [2023/12/06 12:17:53 ET]
+Table '3682842565 1' 3-max Seat #2 is the button
+Seat 1: gabamauri (775 in chips) 
+Seat 2: Mahu2021 (485 in chips) 
+Seat 3: Rajalove (240 in chips) 
+Rajalove: posts small blind 15
+gabamauri: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6h 3c]
+Mahu2021: folds 
+Rajalove: calls 15
+gabamauri: raises 120 to 150
+Rajalove: folds 
+Uncalled bet (120) returned to gabamauri
+gabamauri collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: gabamauri (big blind) collected (60)
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: Rajalove (small blind) folded before Flop
+
+
+
+PokerStars Hand #247511259978: Tournament #3682842565, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/12/06 18:18:08 CET [2023/12/06 12:18:08 ET]
+Table '3682842565 1' 3-max Seat #3 is the button
+Seat 1: gabamauri (805 in chips) 
+Seat 2: Mahu2021 (485 in chips) 
+Seat 3: Rajalove (210 in chips) 
+gabamauri: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6h As]
+Rajalove: folds 
+gabamauri: raises 30 to 60
+Mahu2021: calls 30
+*** FLOP *** [5d Qd 7s]
+gabamauri: checks 
+Mahu2021: checks 
+*** TURN *** [5d Qd 7s] [Ad]
+gabamauri: bets 32
+Mahu2021: raises 88 to 120
+gabamauri: folds 
+Uncalled bet (88) returned to Mahu2021
+Mahu2021 collected 184 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 184 | Rake 0 
+Board [5d Qd 7s Ad]
+Seat 1: gabamauri (small blind) folded on the Turn
+Seat 2: Mahu2021 (big blind) collected (184)
+Seat 3: Rajalove (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #247511266310: Tournament #3682842565, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/12/06 18:18:30 CET [2023/12/06 12:18:30 ET]
+Table '3682842565 1' 3-max Seat #1 is the button
+Seat 1: gabamauri (713 in chips) 
+Seat 2: Mahu2021 (577 in chips) 
+Seat 3: Rajalove (210 in chips) 
+Mahu2021: posts small blind 15
+Rajalove: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3c 2c]
+gabamauri: raises 42 to 72
+Mahu2021: folds 
+Rajalove: raises 138 to 210 and is all-in
+gabamauri: calls 138
+*** FLOP *** [8c Tc Ks]
+*** TURN *** [8c Tc Ks] [3h]
+*** RIVER *** [8c Tc Ks 3h] [Ad]
+*** SHOW DOWN ***
+Rajalove: shows [Th Jd] (a pair of Tens)
+gabamauri: shows [Qc Ac] (a pair of Aces)
+gabamauri collected 435 from pot
+Rajalove finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 435 | Rake 0 
+Board [8c Tc Ks 3h Ad]
+Seat 1: gabamauri (button) showed [Qc Ac] and won (435) with a pair of Aces
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: Rajalove (big blind) showed [Th Jd] and lost with a pair of Tens
+
+
+
+PokerStars Hand #247511273537: Tournament #3682842565, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/12/06 18:18:55 CET [2023/12/06 12:18:55 ET]
+Table '3682842565 1' 3-max Seat #2 is the button
+Seat 1: gabamauri (938 in chips) 
+Seat 2: Mahu2021 (562 in chips) 
+Mahu2021: posts small blind 20
+gabamauri: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d 9h]
+Mahu2021: calls 20
+gabamauri: checks 
+*** FLOP *** [3c 5d 2d]
+gabamauri: checks 
+Mahu2021: checks 
+*** TURN *** [3c 5d 2d] [4s]
+gabamauri: checks 
+Mahu2021: checks 
+*** RIVER *** [3c 5d 2d 4s] [6s]
+gabamauri: checks 
+Mahu2021: bets 80
+gabamauri: calls 80
+*** SHOW DOWN ***
+Mahu2021: shows [7d 9h] (a straight, Three to Seven)
+gabamauri: mucks hand 
+Mahu2021 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [3c 5d 2d 4s 6s]
+Seat 1: gabamauri (big blind) mucked [Jc 2h]
+Seat 2: Mahu2021 (button) (small blind) showed [7d 9h] and won (240) with a straight, Three to Seven
+
+
+
+PokerStars Hand #247511279837: Tournament #3682842565, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/12/06 18:19:17 CET [2023/12/06 12:19:17 ET]
+Table '3682842565 1' 3-max Seat #1 is the button
+Seat 1: gabamauri (818 in chips) 
+Seat 2: Mahu2021 (682 in chips) 
+gabamauri: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8c 4h]
+gabamauri: raises 40 to 80
+Mahu2021: folds 
+Uncalled bet (40) returned to gabamauri
+gabamauri collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: gabamauri (button) (small blind) collected (80)
+Seat 2: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #247511281836: Tournament #3682842565, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/12/06 18:19:24 CET [2023/12/06 12:19:24 ET]
+Table '3682842565 1' 3-max Seat #2 is the button
+Seat 1: gabamauri (858 in chips) 
+Seat 2: Mahu2021 (642 in chips) 
+Mahu2021: posts small blind 20
+gabamauri: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c 4s]
+Mahu2021: folds 
+Uncalled bet (20) returned to gabamauri
+gabamauri collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: gabamauri (big blind) collected (40)
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #247511283147: Tournament #3682842565, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/12/06 18:19:28 CET [2023/12/06 12:19:28 ET]
+Table '3682842565 1' 3-max Seat #1 is the button
+Seat 1: gabamauri (878 in chips) 
+Seat 2: Mahu2021 (622 in chips) 
+gabamauri: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh Tc]
+gabamauri: calls 20
+Mahu2021: checks 
+*** FLOP *** [5c 4c Jh]
+Mahu2021: checks 
+gabamauri: bets 44
+Mahu2021: folds 
+Uncalled bet (44) returned to gabamauri
+gabamauri collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [5c 4c Jh]
+Seat 1: gabamauri (button) (small blind) collected (80)
+Seat 2: Mahu2021 (big blind) folded on the Flop
+
+
+

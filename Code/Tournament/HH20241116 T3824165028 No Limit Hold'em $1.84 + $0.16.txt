@@ -1,0 +1,859 @@
+﻿PokerStars Hand #253430328804: Tournament #3824165028, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/16 17:33:34 CET [2024/11/16 11:33:34 ET]
+Table '3824165028 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: mattyfm91 (500 in chips) 
+Seat 3: demetrioep (500 in chips) 
+mattyfm91: posts small blind 10
+demetrioep: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts Ad]
+Mahu2021: raises 20 to 40
+mattyfm91: calls 30
+demetrioep: calls 20
+*** FLOP *** [Qd Kc Jd]
+mattyfm91: bets 60
+demetrioep: folds 
+Mahu2021: raises 400 to 460 and is all-in
+mattyfm91: folds 
+Uncalled bet (400) returned to Mahu2021
+Mahu2021 collected 240 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Qd Kc Jd]
+Seat 1: Mahu2021 (button) collected (240)
+Seat 2: mattyfm91 (small blind) folded on the Flop
+Seat 3: demetrioep (big blind) folded on the Flop
+
+
+
+PokerStars Hand #253430332652: Tournament #3824165028, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/16 17:33:51 CET [2024/11/16 11:33:51 ET]
+Table '3824165028 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (640 in chips) 
+Seat 2: mattyfm91 (400 in chips) 
+Seat 3: demetrioep (460 in chips) 
+demetrioep: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2c 8d]
+mattyfm91: folds 
+demetrioep: calls 10
+Mahu2021: checks 
+*** FLOP *** [Jh 9h Qs]
+demetrioep: checks 
+Mahu2021: checks 
+*** TURN *** [Jh 9h Qs] [Ac]
+demetrioep: checks 
+Mahu2021: checks 
+*** RIVER *** [Jh 9h Qs Ac] [9s]
+demetrioep: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+demetrioep: shows [7s Js] (two pair, Jacks and Nines)
+Mahu2021: mucks hand 
+demetrioep collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Jh 9h Qs Ac 9s]
+Seat 1: Mahu2021 (big blind) mucked [2c 8d]
+Seat 2: mattyfm91 (button) folded before Flop (didn't bet)
+Seat 3: demetrioep (small blind) showed [7s Js] and won (40) with two pair, Jacks and Nines
+
+
+
+PokerStars Hand #253430336786: Tournament #3824165028, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/16 17:34:08 CET [2024/11/16 11:34:08 ET]
+Table '3824165028 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (620 in chips) 
+Seat 2: mattyfm91 (400 in chips) 
+Seat 3: demetrioep (480 in chips) 
+Mahu2021: posts small blind 10
+mattyfm91: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c 3h]
+demetrioep: folds 
+Mahu2021: folds 
+Uncalled bet (10) returned to mattyfm91
+mattyfm91 collected 20 from pot
+mattyfm91: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: mattyfm91 (big blind) collected (20)
+Seat 3: demetrioep (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253430339255: Tournament #3824165028, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/16 17:34:19 CET [2024/11/16 11:34:19 ET]
+Table '3824165028 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (610 in chips) 
+Seat 2: mattyfm91 (410 in chips) 
+Seat 3: demetrioep (480 in chips) 
+mattyfm91: posts small blind 10
+demetrioep: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd 5c]
+Mahu2021: folds 
+mattyfm91: calls 10
+demetrioep: checks 
+*** FLOP *** [8d Td Js]
+mattyfm91: bets 20
+demetrioep: raises 80 to 100
+mattyfm91: calls 80
+*** TURN *** [8d Td Js] [8h]
+mattyfm91: bets 20
+demetrioep: raises 280 to 300
+mattyfm91: calls 270 and is all-in
+Uncalled bet (10) returned to demetrioep
+*** RIVER *** [8d Td Js 8h] [Tc]
+*** SHOW DOWN ***
+mattyfm91: shows [9c 3d] (two pair, Tens and Eights)
+demetrioep: shows [7s 9s] (a straight, Seven to Jack)
+demetrioep collected 820 from pot
+mattyfm91 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 820 | Rake 0 
+Board [8d Td Js 8h Tc]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: mattyfm91 (small blind) showed [9c 3d] and lost with two pair, Tens and Eights
+Seat 3: demetrioep (big blind) showed [7s 9s] and won (820) with a straight, Seven to Jack
+
+
+
+PokerStars Hand #253430344796: Tournament #3824165028, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/16 17:34:42 CET [2024/11/16 11:34:42 ET]
+Table '3824165028 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (610 in chips) 
+Seat 3: demetrioep (890 in chips) 
+demetrioep: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d 4c]
+demetrioep: calls 10
+Mahu2021: checks 
+*** FLOP *** [Td Th 4h]
+Mahu2021: bets 20
+demetrioep: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Td Th 4h]
+Seat 1: Mahu2021 (big blind) collected (40)
+Seat 3: demetrioep (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #253430347308: Tournament #3824165028, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/16 17:34:53 CET [2024/11/16 11:34:53 ET]
+Table '3824165028 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (630 in chips) 
+Seat 3: demetrioep (870 in chips) 
+Mahu2021: posts small blind 10
+demetrioep: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c 7h]
+Mahu2021: calls 10
+demetrioep: checks 
+*** FLOP *** [4s As Kh]
+demetrioep: checks 
+Mahu2021: bets 20
+demetrioep: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [4s As Kh]
+Seat 1: Mahu2021 (button) (small blind) collected (40)
+Seat 3: demetrioep (big blind) folded on the Flop
+
+
+
+PokerStars Hand #253430349934: Tournament #3824165028, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/16 17:35:04 CET [2024/11/16 11:35:04 ET]
+Table '3824165028 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (650 in chips) 
+Seat 3: demetrioep (850 in chips) 
+demetrioep: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac 8c]
+demetrioep: calls 10
+Mahu2021: raises 40 to 60
+demetrioep: calls 40
+*** FLOP *** [3d Qs 6c]
+Mahu2021: checks 
+demetrioep: bets 120
+Mahu2021: folds 
+Uncalled bet (120) returned to demetrioep
+demetrioep collected 120 from pot
+demetrioep: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [3d Qs 6c]
+Seat 1: Mahu2021 (big blind) folded on the Flop
+Seat 3: demetrioep (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #253430353634: Tournament #3824165028, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/16 17:35:19 CET [2024/11/16 11:35:19 ET]
+Table '3824165028 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (590 in chips) 
+Seat 3: demetrioep (910 in chips) 
+Mahu2021: posts small blind 10
+demetrioep: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks Ts]
+Mahu2021: raises 20 to 40
+demetrioep: calls 20
+*** FLOP *** [7s Kh 7h]
+demetrioep: checks 
+Mahu2021: checks 
+*** TURN *** [7s Kh 7h] [Ah]
+demetrioep: checks 
+Mahu2021: checks 
+*** RIVER *** [7s Kh 7h Ah] [9s]
+demetrioep: checks 
+Mahu2021: bets 80
+demetrioep: folds 
+Uncalled bet (80) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [7s Kh 7h Ah 9s]
+Seat 1: Mahu2021 (button) (small blind) collected (80)
+Seat 3: demetrioep (big blind) folded on the River
+
+
+
+PokerStars Hand #253430359542: Tournament #3824165028, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/16 17:35:44 CET [2024/11/16 11:35:44 ET]
+Table '3824165028 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (630 in chips) 
+Seat 3: demetrioep (870 in chips) 
+demetrioep: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h Jc]
+demetrioep: raises 30 to 60
+Mahu2021: calls 30
+*** FLOP *** [Qc 9s 8c]
+Mahu2021: checks 
+demetrioep: checks 
+*** TURN *** [Qc 9s 8c] [7h]
+Mahu2021: checks 
+demetrioep: bets 60
+Mahu2021: calls 60
+*** RIVER *** [Qc 9s 8c 7h] [Jh]
+Mahu2021: checks 
+demetrioep: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [9h Jc] (two pair, Jacks and Nines)
+demetrioep: mucks hand 
+Mahu2021 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Qc 9s 8c 7h Jh]
+Seat 1: Mahu2021 (big blind) showed [9h Jc] and won (240) with two pair, Jacks and Nines
+Seat 3: demetrioep (button) (small blind) mucked [7d Ah]
+
+
+
+PokerStars Hand #253430364158: Tournament #3824165028, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/16 17:36:04 CET [2024/11/16 11:36:04 ET]
+Table '3824165028 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (750 in chips) 
+Seat 3: demetrioep (750 in chips) 
+Mahu2021: posts small blind 15
+demetrioep: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s 2s]
+Mahu2021: calls 15
+demetrioep: checks 
+*** FLOP *** [Ah Ks Jd]
+demetrioep: checks 
+Mahu2021: bets 30
+demetrioep: calls 30
+*** TURN *** [Ah Ks Jd] [6d]
+demetrioep: checks 
+Mahu2021: checks 
+*** RIVER *** [Ah Ks Jd 6d] [4d]
+demetrioep: bets 120
+Mahu2021: folds 
+Uncalled bet (120) returned to demetrioep
+demetrioep collected 120 from pot
+demetrioep: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Ah Ks Jd 6d 4d]
+Seat 1: Mahu2021 (button) (small blind) folded on the River
+Seat 3: demetrioep (big blind) collected (120)
+
+
+
+PokerStars Hand #253430368380: Tournament #3824165028, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/16 17:36:22 CET [2024/11/16 11:36:22 ET]
+Table '3824165028 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (690 in chips) 
+Seat 3: demetrioep (810 in chips) 
+demetrioep: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s 3c]
+demetrioep: raises 30 to 60
+Mahu2021: folds 
+Uncalled bet (30) returned to demetrioep
+demetrioep collected 60 from pot
+demetrioep: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 3: demetrioep (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #253430369958: Tournament #3824165028, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/16 17:36:29 CET [2024/11/16 11:36:29 ET]
+Table '3824165028 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (660 in chips) 
+Seat 3: demetrioep (840 in chips) 
+Mahu2021: posts small blind 15
+demetrioep: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4c 9d]
+Mahu2021: raises 30 to 60
+demetrioep: calls 30
+*** FLOP *** [6c 8s 5h]
+demetrioep: checks 
+Mahu2021: bets 60
+demetrioep: calls 60
+*** TURN *** [6c 8s 5h] [2d]
+demetrioep: checks 
+Mahu2021: checks 
+*** RIVER *** [6c 8s 5h 2d] [7h]
+demetrioep: checks 
+Mahu2021: bets 240
+demetrioep: calls 240
+*** SHOW DOWN ***
+Mahu2021: shows [4c 9d] (a straight, Five to Nine)
+demetrioep: mucks hand 
+Mahu2021 collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | Rake 0 
+Board [6c 8s 5h 2d 7h]
+Seat 1: Mahu2021 (button) (small blind) showed [4c 9d] and won (720) with a straight, Five to Nine
+Seat 3: demetrioep (big blind) mucked [Kc 5d]
+
+
+
+PokerStars Hand #253430374684: Tournament #3824165028, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/16 17:36:49 CET [2024/11/16 11:36:49 ET]
+Table '3824165028 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (1020 in chips) 
+Seat 3: demetrioep (480 in chips) 
+demetrioep: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h 3d]
+demetrioep: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (30)
+Seat 3: demetrioep (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #253430375886: Tournament #3824165028, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/16 17:36:54 CET [2024/11/16 11:36:54 ET]
+Table '3824165028 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1035 in chips) 
+Seat 3: demetrioep (465 in chips) 
+Mahu2021: posts small blind 15
+demetrioep: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c Ks]
+Mahu2021: raises 60 to 90
+demetrioep: calls 60
+*** FLOP *** [3s Ts 5d]
+demetrioep: checks 
+Mahu2021: bets 945 and is all-in
+demetrioep: folds 
+Uncalled bet (945) returned to Mahu2021
+Mahu2021 collected 180 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [3s Ts 5d]
+Seat 1: Mahu2021 (button) (small blind) collected (180)
+Seat 3: demetrioep (big blind) folded on the Flop
+
+
+
+PokerStars Hand #253430380973: Tournament #3824165028, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/16 17:37:15 CET [2024/11/16 11:37:15 ET]
+Table '3824165028 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (1125 in chips) 
+Seat 3: demetrioep (375 in chips) 
+demetrioep: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad 4s]
+demetrioep: raises 30 to 60
+Mahu2021: calls 30
+*** FLOP *** [8d 8h 4c]
+Mahu2021: bets 1065 and is all-in
+demetrioep: folds 
+Uncalled bet (1065) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [8d 8h 4c]
+Seat 1: Mahu2021 (big blind) collected (120)
+Seat 3: demetrioep (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #253430383642: Tournament #3824165028, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/16 17:37:27 CET [2024/11/16 11:37:27 ET]
+Table '3824165028 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1185 in chips) 
+Seat 3: demetrioep (315 in chips) 
+Mahu2021: posts small blind 15
+demetrioep: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh 9c]
+Mahu2021: raises 30 to 60
+demetrioep: raises 255 to 315 and is all-in
+Mahu2021: calls 255
+*** FLOP *** [5c Qc Ad]
+*** TURN *** [5c Qc Ad] [6h]
+*** RIVER *** [5c Qc Ad 6h] [4d]
+*** SHOW DOWN ***
+demetrioep: shows [As 9d] (a pair of Aces)
+Mahu2021: shows [Jh 9c] (high card Ace)
+demetrioep collected 630 from pot
+*** SUMMARY ***
+Total pot 630 | Rake 0 
+Board [5c Qc Ad 6h 4d]
+Seat 1: Mahu2021 (button) (small blind) showed [Jh 9c] and lost with high card Ace
+Seat 3: demetrioep (big blind) showed [As 9d] and won (630) with a pair of Aces
+
+
+
+PokerStars Hand #253430388564: Tournament #3824165028, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/16 17:37:47 CET [2024/11/16 11:37:47 ET]
+Table '3824165028 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (870 in chips) 
+Seat 3: demetrioep (630 in chips) 
+demetrioep: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac 6d]
+demetrioep: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (40)
+Seat 3: demetrioep (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #253430389784: Tournament #3824165028, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/16 17:37:53 CET [2024/11/16 11:37:53 ET]
+Table '3824165028 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (890 in chips) 
+Seat 3: demetrioep (610 in chips) 
+Mahu2021: posts small blind 20
+demetrioep: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d 7h]
+Mahu2021: raises 40 to 80
+demetrioep: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) collected (80)
+Seat 3: demetrioep (big blind) folded before Flop
+
+
+
+PokerStars Hand #253430391497: Tournament #3824165028, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/16 17:38:00 CET [2024/11/16 11:38:00 ET]
+Table '3824165028 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (930 in chips) 
+Seat 3: demetrioep (570 in chips) 
+demetrioep: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h Th]
+demetrioep: calls 20
+Mahu2021: checks 
+*** FLOP *** [Kh 5h Td]
+Mahu2021: checks 
+demetrioep: checks 
+*** TURN *** [Kh 5h Td] [As]
+Mahu2021: checks 
+demetrioep: checks 
+*** RIVER *** [Kh 5h Td As] [Tc]
+Mahu2021: bets 80
+demetrioep: calls 80
+*** SHOW DOWN ***
+Mahu2021: shows [2h Th] (three of a kind, Tens)
+demetrioep: mucks hand 
+Mahu2021 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Kh 5h Td As Tc]
+Seat 1: Mahu2021 (big blind) showed [2h Th] and won (240) with three of a kind, Tens
+Seat 3: demetrioep (button) (small blind) mucked [3s 3h]
+
+
+
+PokerStars Hand #253430396386: Tournament #3824165028, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/16 17:38:20 CET [2024/11/16 11:38:20 ET]
+Table '3824165028 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1050 in chips) 
+Seat 3: demetrioep (450 in chips) 
+Mahu2021: posts small blind 20
+demetrioep: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d 2h]
+Mahu2021: folds 
+Uncalled bet (20) returned to demetrioep
+demetrioep collected 40 from pot
+demetrioep: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: demetrioep (big blind) collected (40)
+
+
+
+PokerStars Hand #253430397441: Tournament #3824165028, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/16 17:38:25 CET [2024/11/16 11:38:25 ET]
+Table '3824165028 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (1030 in chips) 
+Seat 3: demetrioep (470 in chips) 
+demetrioep: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd 7h]
+demetrioep: raises 80 to 120
+Mahu2021: calls 80
+*** FLOP *** [Js Jh 9s]
+Mahu2021: checks 
+demetrioep: checks 
+*** TURN *** [Js Jh 9s] [Qc]
+Mahu2021: checks 
+demetrioep: bets 120
+Mahu2021: calls 120
+*** RIVER *** [Js Jh 9s Qc] [8d]
+Mahu2021: checks 
+demetrioep: bets 230 and is all-in
+Mahu2021: folds 
+Uncalled bet (230) returned to demetrioep
+demetrioep collected 480 from pot
+demetrioep: doesn't show hand 
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Board [Js Jh 9s Qc 8d]
+Seat 1: Mahu2021 (big blind) folded on the River
+Seat 3: demetrioep (button) (small blind) collected (480)
+
+
+
+PokerStars Hand #253430402972: Tournament #3824165028, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/16 17:38:48 CET [2024/11/16 11:38:48 ET]
+Table '3824165028 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (790 in chips) 
+Seat 3: demetrioep (710 in chips) 
+Mahu2021: posts small blind 20
+demetrioep: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd Js]
+Mahu2021: raises 750 to 790 and is all-in
+demetrioep: calls 670 and is all-in
+Uncalled bet (80) returned to Mahu2021
+*** FLOP *** [3d As 8d]
+*** TURN *** [3d As 8d] [Qs]
+*** RIVER *** [3d As 8d Qs] [2h]
+*** SHOW DOWN ***
+demetrioep: shows [9d Ac] (a pair of Aces)
+Mahu2021: shows [Jd Js] (a pair of Jacks)
+demetrioep collected 1420 from pot
+*** SUMMARY ***
+Total pot 1420 | Rake 0 
+Board [3d As 8d Qs 2h]
+Seat 1: Mahu2021 (button) (small blind) showed [Jd Js] and lost with a pair of Jacks
+Seat 3: demetrioep (big blind) showed [9d Ac] and won (1420) with a pair of Aces
+
+
+
+PokerStars Hand #253430407336: Tournament #3824165028, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/16 17:39:06 CET [2024/11/16 11:39:06 ET]
+Table '3824165028 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (80 in chips) 
+Seat 3: demetrioep (1420 in chips) 
+demetrioep: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4d 3s]
+demetrioep: calls 20
+Mahu2021: raises 40 to 80 and is all-in
+demetrioep: calls 40
+*** FLOP *** [6d 2s 9c]
+*** TURN *** [6d 2s 9c] [3c]
+*** RIVER *** [6d 2s 9c 3c] [Js]
+*** SHOW DOWN ***
+Mahu2021: shows [4d 3s] (a pair of Threes)
+demetrioep: shows [5d Qd] (high card Queen)
+Mahu2021 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [6d 2s 9c 3c Js]
+Seat 1: Mahu2021 (big blind) showed [4d 3s] and won (160) with a pair of Threes
+Seat 3: demetrioep (button) (small blind) showed [5d Qd] and lost with high card Queen
+
+
+
+PokerStars Hand #253430411621: Tournament #3824165028, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/16 17:39:24 CET [2024/11/16 11:39:24 ET]
+Table '3824165028 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (160 in chips) 
+Seat 3: demetrioep (1340 in chips) 
+Mahu2021: posts small blind 20
+demetrioep: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Th Jh]
+Mahu2021: raises 120 to 160 and is all-in
+demetrioep: folds 
+Uncalled bet (120) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) collected (80)
+Seat 3: demetrioep (big blind) folded before Flop
+
+
+
+PokerStars Hand #253430412880: Tournament #3824165028, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/16 17:39:29 CET [2024/11/16 11:39:29 ET]
+Table '3824165028 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (200 in chips) 
+Seat 3: demetrioep (1300 in chips) 
+demetrioep: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad 2c]
+demetrioep: calls 20
+Mahu2021: raises 160 to 200 and is all-in
+demetrioep: calls 160
+*** FLOP *** [5d Ac 2h]
+*** TURN *** [5d Ac 2h] [3s]
+*** RIVER *** [5d Ac 2h 3s] [6s]
+*** SHOW DOWN ***
+Mahu2021: shows [Ad 2c] (two pair, Aces and Deuces)
+demetrioep: shows [8c 7c] (high card Ace)
+Mahu2021 collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Board [5d Ac 2h 3s 6s]
+Seat 1: Mahu2021 (big blind) showed [Ad 2c] and won (400) with two pair, Aces and Deuces
+Seat 3: demetrioep (button) (small blind) showed [8c 7c] and lost with high card Ace
+
+
+
+PokerStars Hand #253430417170: Tournament #3824165028, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/11/16 17:39:47 CET [2024/11/16 11:39:47 ET]
+Table '3824165028 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (400 in chips) 
+Seat 3: demetrioep (1100 in chips) 
+Mahu2021: posts small blind 30
+demetrioep: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d Ac]
+Mahu2021: raises 340 to 400 and is all-in
+demetrioep: folds 
+Uncalled bet (340) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) collected (120)
+Seat 3: demetrioep (big blind) folded before Flop
+
+
+
+PokerStars Hand #253430418726: Tournament #3824165028, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/11/16 17:39:54 CET [2024/11/16 11:39:54 ET]
+Table '3824165028 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (460 in chips) 
+Seat 3: demetrioep (1040 in chips) 
+demetrioep: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s 2h]
+demetrioep: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (60)
+Seat 3: demetrioep (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #253430419908: Tournament #3824165028, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/11/16 17:39:59 CET [2024/11/16 11:39:59 ET]
+Table '3824165028 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (490 in chips) 
+Seat 3: demetrioep (1010 in chips) 
+Mahu2021: posts small blind 30
+demetrioep: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd 3c]
+Mahu2021: calls 30
+demetrioep: checks 
+*** FLOP *** [2c 5h 3s]
+demetrioep: checks 
+Mahu2021: bets 60
+demetrioep: calls 60
+*** TURN *** [2c 5h 3s] [Ah]
+demetrioep: checks 
+Mahu2021: bets 60
+demetrioep: calls 60
+*** RIVER *** [2c 5h 3s Ah] [2h]
+demetrioep: bets 360
+Mahu2021: folds 
+Uncalled bet (360) returned to demetrioep
+demetrioep collected 360 from pot
+demetrioep: doesn't show hand 
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [2c 5h 3s Ah 2h]
+Seat 1: Mahu2021 (button) (small blind) folded on the River
+Seat 3: demetrioep (big blind) collected (360)
+
+
+
+PokerStars Hand #253430426131: Tournament #3824165028, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/11/16 17:40:25 CET [2024/11/16 11:40:25 ET]
+Table '3824165028 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (310 in chips) 
+Seat 3: demetrioep (1190 in chips) 
+demetrioep: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4c Js]
+demetrioep: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (60)
+Seat 3: demetrioep (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #253430427450: Tournament #3824165028, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/11/16 17:40:31 CET [2024/11/16 11:40:31 ET]
+Table '3824165028 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (340 in chips) 
+Seat 3: demetrioep (1160 in chips) 
+Mahu2021: posts small blind 30
+demetrioep: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c 8h]
+Mahu2021: folds 
+Uncalled bet (30) returned to demetrioep
+demetrioep collected 60 from pot
+demetrioep: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: demetrioep (big blind) collected (60)
+
+
+
+PokerStars Hand #253430428452: Tournament #3824165028, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/11/16 17:40:35 CET [2024/11/16 11:40:35 ET]
+Table '3824165028 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (310 in chips) 
+Seat 3: demetrioep (1190 in chips) 
+demetrioep: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2c 3d]
+demetrioep: raises 120 to 180
+Mahu2021: folds 
+Uncalled bet (120) returned to demetrioep
+demetrioep collected 120 from pot
+demetrioep: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 3: demetrioep (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #253430429992: Tournament #3824165028, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/11/16 17:40:41 CET [2024/11/16 11:40:41 ET]
+Table '3824165028 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (250 in chips) 
+Seat 3: demetrioep (1250 in chips) 
+Mahu2021: posts small blind 30
+demetrioep: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh 5s]
+Mahu2021: raises 190 to 250 and is all-in
+demetrioep: calls 190
+*** FLOP *** [Qd 4d 3s]
+*** TURN *** [Qd 4d 3s] [7h]
+*** RIVER *** [Qd 4d 3s 7h] [3c]
+*** SHOW DOWN ***
+demetrioep: shows [Ks Jd] (a pair of Threes)
+Mahu2021: shows [Qh 5s] (two pair, Queens and Threes)
+Mahu2021 collected 500 from pot
+*** SUMMARY ***
+Total pot 500 | Rake 0 
+Board [Qd 4d 3s 7h 3c]
+Seat 1: Mahu2021 (button) (small blind) showed [Qh 5s] and won (500) with two pair, Queens and Threes
+Seat 3: demetrioep (big blind) showed [Ks Jd] and lost with a pair of Threes
+
+
+
+PokerStars Hand #253430432920: Tournament #3824165028, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/11/16 17:40:54 CET [2024/11/16 11:40:54 ET]
+Table '3824165028 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 3: demetrioep (1000 in chips) 
+demetrioep: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4c Ad]
+demetrioep: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (60)
+Seat 3: demetrioep (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #253430434032: Tournament #3824165028, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/11/16 17:40:58 CET [2024/11/16 11:40:58 ET]
+Table '3824165028 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (530 in chips) 
+Seat 3: demetrioep (970 in chips) 
+Mahu2021: posts small blind 30
+demetrioep: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h 7h]
+Mahu2021: raises 60 to 120
+demetrioep: calls 60
+*** FLOP *** [7c Td Jd]
+demetrioep: checks 
+Mahu2021: bets 410 and is all-in
+demetrioep: calls 410
+*** TURN *** [7c Td Jd] [4s]
+*** RIVER *** [7c Td Jd 4s] [3d]
+*** SHOW DOWN ***
+demetrioep: shows [Qh Tc] (a pair of Tens)
+Mahu2021: shows [9h 7h] (a pair of Sevens)
+demetrioep collected 1060 from pot
+Mahu2021 finished the tournament in 2nd place
+demetrioep wins the tournament and receives $4.00 - congratulations!
+*** SUMMARY ***
+Total pot 1060 | Rake 0 
+Board [7c Td Jd 4s 3d]
+Seat 1: Mahu2021 (button) (small blind) showed [9h 7h] and lost with a pair of Sevens
+Seat 3: demetrioep (big blind) showed [Qh Tc] and won (1060) with a pair of Tens
+
+
+

@@ -1,0 +1,33 @@
+﻿PokerStars Hand #254796978487: Tournament #3857322538, $4.60+$0.40 USD Hold'em No Limit - Level I (10/20) - 2025/02/10 9:46:44 CET [2025/02/10 3:46:44 ET]
+Table '3857322538 1' 3-max Seat #1 is the button
+Seat 1: just_Lubo (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: Malak_Sechko (500 in chips) 
+Mahu2021: posts small blind 10
+Malak_Sechko: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh Kd]
+just_Lubo: folds 
+Mahu2021: raises 40 to 60
+Malak_Sechko: calls 40
+*** FLOP *** [7h 6d Ks]
+Mahu2021: bets 60
+Malak_Sechko: calls 60
+*** TURN *** [7h 6d Ks] [8c]
+Mahu2021: bets 380 and is all-in
+Malak_Sechko: calls 380 and is all-in
+*** RIVER *** [7h 6d Ks 8c] [Qs]
+*** SHOW DOWN ***
+Mahu2021: shows [Jh Kd] (a pair of Kings)
+Malak_Sechko: shows [Kh 8d] (two pair, Kings and Eights)
+Malak_Sechko collected 1000 from pot
+Mahu2021 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1000 | Rake 0 
+Board [7h 6d Ks 8c Qs]
+Seat 1: just_Lubo (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) showed [Jh Kd] and lost with a pair of Kings
+Seat 3: Malak_Sechko (big blind) showed [Kh 8d] and won (1000) with two pair, Kings and Eights
+
+
+

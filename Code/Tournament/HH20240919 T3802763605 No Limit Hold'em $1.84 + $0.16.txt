@@ -1,0 +1,738 @@
+﻿PokerStars Hand #252525639843: Tournament #3802763605, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/09/19 17:38:50 CET [2024/09/19 11:38:50 ET]
+Table '3802763605 1' 3-max Seat #1 is the button
+Seat 1: Akgkgsh (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: Cris_Finkler (500 in chips) 
+Mahu2021: posts small blind 10
+Cris_Finkler: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d Ah]
+Akgkgsh: folds 
+Mahu2021: raises 20 to 40
+Cris_Finkler: calls 20
+*** FLOP *** [As 8d Th]
+Mahu2021: bets 40
+Cris_Finkler: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [As 8d Th]
+Seat 1: Akgkgsh (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) collected (80)
+Seat 3: Cris_Finkler (big blind) folded on the Flop
+
+
+
+PokerStars Hand #252525644727: Tournament #3802763605, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/09/19 17:39:12 CET [2024/09/19 11:39:12 ET]
+Table '3802763605 1' 3-max Seat #2 is the button
+Seat 1: Akgkgsh (500 in chips) 
+Seat 2: Mahu2021 (540 in chips) 
+Seat 3: Cris_Finkler (460 in chips) 
+Cris_Finkler: posts small blind 10
+Akgkgsh: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts 6s]
+Mahu2021: folds 
+Cris_Finkler: folds 
+Uncalled bet (10) returned to Akgkgsh
+Akgkgsh collected 20 from pot
+Akgkgsh: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Akgkgsh (big blind) collected (20)
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: Cris_Finkler (small blind) folded before Flop
+
+
+
+PokerStars Hand #252525646834: Tournament #3802763605, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/09/19 17:39:21 CET [2024/09/19 11:39:21 ET]
+Table '3802763605 1' 3-max Seat #3 is the button
+Seat 1: Akgkgsh (510 in chips) 
+Seat 2: Mahu2021 (540 in chips) 
+Seat 3: Cris_Finkler (450 in chips) 
+Akgkgsh: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js Jc]
+Cris_Finkler: raises 20 to 40
+Akgkgsh: calls 30
+Mahu2021: raises 500 to 540 and is all-in
+Cris_Finkler: calls 410 and is all-in
+Akgkgsh: folds 
+Uncalled bet (90) returned to Mahu2021
+*** FLOP *** [9d Qc 3c]
+*** TURN *** [9d Qc 3c] [Ad]
+*** RIVER *** [9d Qc 3c Ad] [8c]
+*** SHOW DOWN ***
+Mahu2021: shows [Js Jc] (a pair of Jacks)
+Cris_Finkler: shows [3d 3h] (three of a kind, Threes)
+Cris_Finkler collected 940 from pot
+*** SUMMARY ***
+Total pot 940 | Rake 0 
+Board [9d Qc 3c Ad 8c]
+Seat 1: Akgkgsh (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) showed [Js Jc] and lost with a pair of Jacks
+Seat 3: Cris_Finkler (button) showed [3d 3h] and won (940) with three of a kind, Threes
+
+
+
+PokerStars Hand #252525651879: Tournament #3802763605, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/09/19 17:39:44 CET [2024/09/19 11:39:44 ET]
+Table '3802763605 1' 3-max Seat #1 is the button
+Seat 1: Akgkgsh (470 in chips) 
+Seat 2: Mahu2021 (90 in chips) 
+Seat 3: Cris_Finkler (940 in chips) 
+Mahu2021: posts small blind 10
+Cris_Finkler: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h Qh]
+Akgkgsh: calls 20
+Mahu2021: calls 10
+Cris_Finkler: checks 
+*** FLOP *** [Qs 9d 4s]
+Mahu2021: bets 40
+Cris_Finkler: folds 
+Akgkgsh: calls 40
+*** TURN *** [Qs 9d 4s] [3h]
+Mahu2021: bets 30 and is all-in
+Akgkgsh: calls 30
+*** RIVER *** [Qs 9d 4s 3h] [7d]
+*** SHOW DOWN ***
+Mahu2021: shows [4h Qh] (two pair, Queens and Fours)
+Akgkgsh: shows [8s Ks] (high card King)
+Mahu2021 collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [Qs 9d 4s 3h 7d]
+Seat 1: Akgkgsh (button) showed [8s Ks] and lost with high card King
+Seat 2: Mahu2021 (small blind) showed [4h Qh] and won (200) with two pair, Queens and Fours
+Seat 3: Cris_Finkler (big blind) folded on the Flop
+
+
+
+PokerStars Hand #252525656664: Tournament #3802763605, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/09/19 17:40:06 CET [2024/09/19 11:40:06 ET]
+Table '3802763605 1' 3-max Seat #2 is the button
+Seat 1: Akgkgsh (380 in chips) 
+Seat 2: Mahu2021 (200 in chips) 
+Seat 3: Cris_Finkler (920 in chips) 
+Cris_Finkler: posts small blind 10
+Akgkgsh: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8c 5h]
+Mahu2021: folds 
+Cris_Finkler: folds 
+Uncalled bet (10) returned to Akgkgsh
+Akgkgsh collected 20 from pot
+Akgkgsh: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Akgkgsh (big blind) collected (20)
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: Cris_Finkler (small blind) folded before Flop
+
+
+
+PokerStars Hand #252525657801: Tournament #3802763605, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/09/19 17:40:11 CET [2024/09/19 11:40:11 ET]
+Table '3802763605 1' 3-max Seat #3 is the button
+Seat 1: Akgkgsh (390 in chips) 
+Seat 2: Mahu2021 (200 in chips) 
+Seat 3: Cris_Finkler (910 in chips) 
+Akgkgsh: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js 2h]
+Cris_Finkler: folds 
+Akgkgsh: calls 10
+Mahu2021: checks 
+*** FLOP *** [5h 4c Ts]
+Akgkgsh: checks 
+Mahu2021: checks 
+*** TURN *** [5h 4c Ts] [Kd]
+Akgkgsh: checks 
+Mahu2021: checks 
+*** RIVER *** [5h 4c Ts Kd] [5d]
+Akgkgsh: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+Akgkgsh: shows [7s 8h] (a pair of Fives)
+Mahu2021: shows [Js 2h] (a pair of Fives - King+Jack kicker)
+Mahu2021 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [5h 4c Ts Kd 5d]
+Seat 1: Akgkgsh (small blind) showed [7s 8h] and lost with a pair of Fives
+Seat 2: Mahu2021 (big blind) showed [Js 2h] and won (40) with a pair of Fives
+Seat 3: Cris_Finkler (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #252525661731: Tournament #3802763605, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/09/19 17:40:29 CET [2024/09/19 11:40:29 ET]
+Table '3802763605 1' 3-max Seat #1 is the button
+Seat 1: Akgkgsh (370 in chips) 
+Seat 2: Mahu2021 (220 in chips) 
+Seat 3: Cris_Finkler (910 in chips) 
+Mahu2021: posts small blind 10
+Cris_Finkler: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6h 8h]
+Akgkgsh: calls 20
+Mahu2021: calls 10
+Cris_Finkler: checks 
+*** FLOP *** [7c 2s Jc]
+Mahu2021: checks 
+Cris_Finkler: checks 
+Akgkgsh: checks 
+*** TURN *** [7c 2s Jc] [Kc]
+Mahu2021: checks 
+Cris_Finkler: checks 
+Akgkgsh: checks 
+*** RIVER *** [7c 2s Jc Kc] [Ac]
+Mahu2021: checks 
+Cris_Finkler: checks 
+Akgkgsh: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [6h 8h] (high card Ace)
+Cris_Finkler: shows [4d 8d] (high card Ace)
+Akgkgsh: shows [Td 9s] (high card Ace - King+Jack+Ten kicker)
+Akgkgsh collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [7c 2s Jc Kc Ac]
+Seat 1: Akgkgsh (button) showed [Td 9s] and won (60) with high card Ace
+Seat 2: Mahu2021 (small blind) showed [6h 8h] and lost with high card Ace
+Seat 3: Cris_Finkler (big blind) showed [4d 8d] and lost with high card Ace
+
+
+
+PokerStars Hand #252525669520: Tournament #3802763605, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/09/19 17:41:04 CET [2024/09/19 11:41:04 ET]
+Table '3802763605 1' 3-max Seat #2 is the button
+Seat 1: Akgkgsh (410 in chips) 
+Seat 2: Mahu2021 (200 in chips) 
+Seat 3: Cris_Finkler (890 in chips) 
+Cris_Finkler: posts small blind 15
+Akgkgsh: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h 7h]
+Mahu2021: folds 
+Cris_Finkler: raises 30 to 60
+Akgkgsh: calls 30
+*** FLOP *** [Th Ks 5s]
+Cris_Finkler: bets 60
+Akgkgsh: calls 60
+*** TURN *** [Th Ks 5s] [Td]
+Cris_Finkler: checks 
+Akgkgsh: checks 
+*** RIVER *** [Th Ks 5s Td] [6h]
+Cris_Finkler: bets 90
+Akgkgsh: folds 
+Uncalled bet (90) returned to Cris_Finkler
+Cris_Finkler collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Th Ks 5s Td 6h]
+Seat 1: Akgkgsh (big blind) folded on the River
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: Cris_Finkler (small blind) collected (240)
+
+
+
+PokerStars Hand #252525676093: Tournament #3802763605, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/09/19 17:41:34 CET [2024/09/19 11:41:34 ET]
+Table '3802763605 1' 3-max Seat #3 is the button
+Seat 1: Akgkgsh (290 in chips) 
+Seat 2: Mahu2021 (200 in chips) 
+Seat 3: Cris_Finkler (1010 in chips) 
+Akgkgsh: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Tc 7h]
+Cris_Finkler: folds 
+Akgkgsh: calls 15
+Mahu2021: checks 
+*** FLOP *** [Jd 8c 9d]
+Akgkgsh: checks 
+Mahu2021: bets 30
+Akgkgsh: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Jd 8c 9d]
+Seat 1: Akgkgsh (small blind) folded on the Flop
+Seat 2: Mahu2021 (big blind) collected (60)
+Seat 3: Cris_Finkler (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #252525678503: Tournament #3802763605, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/09/19 17:41:45 CET [2024/09/19 11:41:45 ET]
+Table '3802763605 1' 3-max Seat #1 is the button
+Seat 1: Akgkgsh (260 in chips) 
+Seat 2: Mahu2021 (230 in chips) 
+Seat 3: Cris_Finkler (1010 in chips) 
+Mahu2021: posts small blind 15
+Cris_Finkler: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8d Th]
+Akgkgsh: raises 30 to 60
+Mahu2021: folds 
+Cris_Finkler: folds 
+Uncalled bet (30) returned to Akgkgsh
+Akgkgsh collected 75 from pot
+Akgkgsh: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: Akgkgsh (button) collected (75)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: Cris_Finkler (big blind) folded before Flop
+
+
+
+PokerStars Hand #252525679908: Tournament #3802763605, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/09/19 17:41:51 CET [2024/09/19 11:41:51 ET]
+Table '3802763605 1' 3-max Seat #2 is the button
+Seat 1: Akgkgsh (305 in chips) 
+Seat 2: Mahu2021 (215 in chips) 
+Seat 3: Cris_Finkler (980 in chips) 
+Cris_Finkler: posts small blind 15
+Akgkgsh: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks 5h]
+Mahu2021: folds 
+Cris_Finkler: raises 950 to 980 and is all-in
+Akgkgsh: folds 
+Uncalled bet (950) returned to Cris_Finkler
+Cris_Finkler collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Akgkgsh (big blind) folded before Flop
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: Cris_Finkler (small blind) collected (60)
+
+
+
+PokerStars Hand #252525683015: Tournament #3802763605, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/09/19 17:42:05 CET [2024/09/19 11:42:05 ET]
+Table '3802763605 1' 3-max Seat #3 is the button
+Seat 1: Akgkgsh (275 in chips) 
+Seat 2: Mahu2021 (215 in chips) 
+Seat 3: Cris_Finkler (1010 in chips) 
+Akgkgsh: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s As]
+Cris_Finkler: folds 
+Akgkgsh: calls 15
+Mahu2021: raises 185 to 215 and is all-in
+Akgkgsh: folds 
+Uncalled bet (185) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Akgkgsh (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (60)
+Seat 3: Cris_Finkler (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #252525685600: Tournament #3802763605, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/09/19 17:42:17 CET [2024/09/19 11:42:17 ET]
+Table '3802763605 1' 3-max Seat #1 is the button
+Seat 1: Akgkgsh (245 in chips) 
+Seat 2: Mahu2021 (245 in chips) 
+Seat 3: Cris_Finkler (1010 in chips) 
+Mahu2021: posts small blind 15
+Cris_Finkler: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c 6c]
+Akgkgsh: calls 30
+Mahu2021: calls 15
+Cris_Finkler: raises 60 to 90
+Akgkgsh: calls 60
+Mahu2021: folds 
+*** FLOP *** [3h Ts Jd]
+Cris_Finkler: bets 105
+Akgkgsh: folds 
+Uncalled bet (105) returned to Cris_Finkler
+Cris_Finkler collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | Rake 0 
+Board [3h Ts Jd]
+Seat 1: Akgkgsh (button) folded on the Flop
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: Cris_Finkler (big blind) collected (210)
+
+
+
+PokerStars Hand #252525689808: Tournament #3802763605, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/09/19 17:42:36 CET [2024/09/19 11:42:36 ET]
+Table '3802763605 1' 3-max Seat #2 is the button
+Seat 1: Akgkgsh (155 in chips) 
+Seat 2: Mahu2021 (215 in chips) 
+Seat 3: Cris_Finkler (1130 in chips) 
+Cris_Finkler: posts small blind 15
+Akgkgsh: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d 7c]
+Mahu2021: folds 
+Cris_Finkler: raises 1100 to 1130 and is all-in
+Akgkgsh: calls 125 and is all-in
+Uncalled bet (975) returned to Cris_Finkler
+*** FLOP *** [6h Qc 9h]
+*** TURN *** [6h Qc 9h] [8h]
+*** RIVER *** [6h Qc 9h 8h] [Ah]
+*** SHOW DOWN ***
+Cris_Finkler: shows [Qs 8s] (two pair, Queens and Eights)
+Akgkgsh: shows [As 7d] (a pair of Aces)
+Cris_Finkler collected 310 from pot
+Akgkgsh finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 310 | Rake 0 
+Board [6h Qc 9h 8h Ah]
+Seat 1: Akgkgsh (big blind) showed [As 7d] and lost with a pair of Aces
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: Cris_Finkler (small blind) showed [Qs 8s] and won (310) with two pair, Queens and Eights
+
+
+
+PokerStars Hand #252525694133: Tournament #3802763605, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/09/19 17:42:55 CET [2024/09/19 11:42:55 ET]
+Table '3802763605 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (215 in chips) 
+Seat 3: Cris_Finkler (1285 in chips) 
+Cris_Finkler: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kc Qs]
+Cris_Finkler: raises 1245 to 1285 and is all-in
+Mahu2021: calls 175 and is all-in
+Uncalled bet (1070) returned to Cris_Finkler
+*** FLOP *** [4s 6h As]
+*** TURN *** [4s 6h As] [Jh]
+*** RIVER *** [4s 6h As Jh] [Jc]
+*** SHOW DOWN ***
+Mahu2021: shows [Kc Qs] (a pair of Jacks)
+Cris_Finkler: shows [Kd Td] (a pair of Jacks - lower kicker)
+Mahu2021 collected 430 from pot
+*** SUMMARY ***
+Total pot 430 | Rake 0 
+Board [4s 6h As Jh Jc]
+Seat 2: Mahu2021 (big blind) showed [Kc Qs] and won (430) with a pair of Jacks
+Seat 3: Cris_Finkler (button) (small blind) showed [Kd Td] and lost with a pair of Jacks
+
+
+
+PokerStars Hand #252525697643: Tournament #3802763605, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/09/19 17:43:11 CET [2024/09/19 11:43:11 ET]
+Table '3802763605 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (430 in chips) 
+Seat 3: Cris_Finkler (1070 in chips) 
+Mahu2021: posts small blind 20
+Cris_Finkler: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s 6s]
+Mahu2021: calls 20
+Cris_Finkler: raises 1030 to 1070 and is all-in
+Mahu2021: folds 
+Uncalled bet (1030) returned to Cris_Finkler
+Cris_Finkler collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: Cris_Finkler (big blind) collected (80)
+
+
+
+PokerStars Hand #252525699783: Tournament #3802763605, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/09/19 17:43:20 CET [2024/09/19 11:43:20 ET]
+Table '3802763605 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (390 in chips) 
+Seat 3: Cris_Finkler (1110 in chips) 
+Cris_Finkler: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d Ad]
+Cris_Finkler: calls 20
+Mahu2021: raises 350 to 390 and is all-in
+Cris_Finkler: folds 
+Uncalled bet (350) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: Mahu2021 (big blind) collected (80)
+Seat 3: Cris_Finkler (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #252525702607: Tournament #3802763605, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/09/19 17:43:33 CET [2024/09/19 11:43:33 ET]
+Table '3802763605 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (430 in chips) 
+Seat 3: Cris_Finkler (1070 in chips) 
+Mahu2021: posts small blind 20
+Cris_Finkler: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h 7d]
+Mahu2021: folds 
+Uncalled bet (20) returned to Cris_Finkler
+Cris_Finkler collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: Cris_Finkler (big blind) collected (40)
+
+
+
+PokerStars Hand #252525703665: Tournament #3802763605, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/09/19 17:43:38 CET [2024/09/19 11:43:38 ET]
+Table '3802763605 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (410 in chips) 
+Seat 3: Cris_Finkler (1090 in chips) 
+Cris_Finkler: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As 3c]
+Cris_Finkler: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: Mahu2021 (big blind) collected (40)
+Seat 3: Cris_Finkler (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #252525704938: Tournament #3802763605, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/09/19 17:43:44 CET [2024/09/19 11:43:44 ET]
+Table '3802763605 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (430 in chips) 
+Seat 3: Cris_Finkler (1070 in chips) 
+Mahu2021: posts small blind 20
+Cris_Finkler: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc 6d]
+Mahu2021: calls 20
+Cris_Finkler: checks 
+*** FLOP *** [Td 8c 7s]
+Cris_Finkler: checks 
+Mahu2021: bets 40
+Cris_Finkler: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Td 8c 7s]
+Seat 2: Mahu2021 (button) (small blind) collected (80)
+Seat 3: Cris_Finkler (big blind) folded on the Flop
+
+
+
+PokerStars Hand #252525709025: Tournament #3802763605, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/09/19 17:44:02 CET [2024/09/19 11:44:02 ET]
+Table '3802763605 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (470 in chips) 
+Seat 3: Cris_Finkler (1030 in chips) 
+Cris_Finkler: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s 2d]
+Cris_Finkler: calls 20
+Mahu2021: checks 
+*** FLOP *** [Ac Jd 8h]
+Mahu2021: checks 
+Cris_Finkler: checks 
+*** TURN *** [Ac Jd 8h] [2s]
+Mahu2021: checks 
+Cris_Finkler: checks 
+*** RIVER *** [Ac Jd 8h 2s] [4d]
+Mahu2021: bets 40
+Cris_Finkler: calls 40
+*** SHOW DOWN ***
+Mahu2021: shows [6s 2d] (a pair of Deuces)
+Cris_Finkler: shows [8c Ks] (a pair of Eights)
+Cris_Finkler collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Ac Jd 8h 2s 4d]
+Seat 2: Mahu2021 (big blind) showed [6s 2d] and lost with a pair of Deuces
+Seat 3: Cris_Finkler (button) (small blind) showed [8c Ks] and won (160) with a pair of Eights
+
+
+
+PokerStars Hand #252525713880: Tournament #3802763605, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/09/19 17:44:24 CET [2024/09/19 11:44:24 ET]
+Table '3802763605 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (390 in chips) 
+Seat 3: Cris_Finkler (1110 in chips) 
+Mahu2021: posts small blind 20
+Cris_Finkler: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh 9s]
+Mahu2021: raises 40 to 80
+Cris_Finkler: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) collected (80)
+Seat 3: Cris_Finkler (big blind) folded before Flop
+
+
+
+PokerStars Hand #252525715238: Tournament #3802763605, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/09/19 17:44:30 CET [2024/09/19 11:44:30 ET]
+Table '3802763605 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (430 in chips) 
+Seat 3: Cris_Finkler (1070 in chips) 
+Cris_Finkler: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h 9h]
+Cris_Finkler: calls 20
+Mahu2021: checks 
+*** FLOP *** [4d 5d 8h]
+Mahu2021: checks 
+Cris_Finkler: bets 80
+Mahu2021: folds 
+Uncalled bet (80) returned to Cris_Finkler
+Cris_Finkler collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [4d 5d 8h]
+Seat 2: Mahu2021 (big blind) folded on the Flop
+Seat 3: Cris_Finkler (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #252525718094: Tournament #3802763605, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/09/19 17:44:43 CET [2024/09/19 11:44:43 ET]
+Table '3802763605 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (390 in chips) 
+Seat 3: Cris_Finkler (1110 in chips) 
+Mahu2021: posts small blind 20
+Cris_Finkler: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c 6s]
+Mahu2021: calls 20
+Cris_Finkler: checks 
+*** FLOP *** [As 2h 8c]
+Cris_Finkler: checks 
+Mahu2021: checks 
+*** TURN *** [As 2h 8c] [Th]
+Cris_Finkler: checks 
+Mahu2021: checks 
+*** RIVER *** [As 2h 8c Th] [7h]
+Cris_Finkler: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+Cris_Finkler: shows [7c Td] (two pair, Tens and Sevens)
+Mahu2021: mucks hand 
+Cris_Finkler collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [As 2h 8c Th 7h]
+Seat 2: Mahu2021 (button) (small blind) mucked [5c 6s]
+Seat 3: Cris_Finkler (big blind) showed [7c Td] and won (80) with two pair, Tens and Sevens
+
+
+
+PokerStars Hand #252525724300: Tournament #3802763605, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/09/19 17:45:10 CET [2024/09/19 11:45:10 ET]
+Table '3802763605 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (350 in chips) 
+Seat 3: Cris_Finkler (1150 in chips) 
+Cris_Finkler: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d Jc]
+Cris_Finkler: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: Mahu2021 (big blind) collected (60)
+Seat 3: Cris_Finkler (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #252525725561: Tournament #3802763605, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/09/19 17:45:15 CET [2024/09/19 11:45:15 ET]
+Table '3802763605 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (380 in chips) 
+Seat 3: Cris_Finkler (1120 in chips) 
+Mahu2021: posts small blind 30
+Cris_Finkler: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kc Qh]
+Mahu2021: raises 60 to 120
+Cris_Finkler: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) collected (120)
+Seat 3: Cris_Finkler (big blind) folded before Flop
+
+
+
+PokerStars Hand #252525727448: Tournament #3802763605, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/09/19 17:45:24 CET [2024/09/19 11:45:24 ET]
+Table '3802763605 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (440 in chips) 
+Seat 3: Cris_Finkler (1060 in chips) 
+Cris_Finkler: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4c Jd]
+Cris_Finkler: calls 30
+Mahu2021: checks 
+*** FLOP *** [Tc 5s 5h]
+Mahu2021: checks 
+Cris_Finkler: bets 60
+Mahu2021: folds 
+Uncalled bet (60) returned to Cris_Finkler
+Cris_Finkler collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Tc 5s 5h]
+Seat 2: Mahu2021 (big blind) folded on the Flop
+Seat 3: Cris_Finkler (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #252525731930: Tournament #3802763605, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/09/19 17:45:44 CET [2024/09/19 11:45:44 ET]
+Table '3802763605 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (380 in chips) 
+Seat 3: Cris_Finkler (1120 in chips) 
+Mahu2021: posts small blind 30
+Cris_Finkler: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s 4d]
+Mahu2021: folds 
+Uncalled bet (30) returned to Cris_Finkler
+Cris_Finkler collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: Cris_Finkler (big blind) collected (60)
+
+
+
+PokerStars Hand #252525733004: Tournament #3802763605, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/09/19 17:45:48 CET [2024/09/19 11:45:48 ET]
+Table '3802763605 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (350 in chips) 
+Seat 3: Cris_Finkler (1150 in chips) 
+Cris_Finkler: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh Jh]
+Cris_Finkler: raises 1090 to 1150 and is all-in
+Mahu2021: calls 290 and is all-in
+Uncalled bet (800) returned to Cris_Finkler
+*** FLOP *** [5c 4s 9s]
+*** TURN *** [5c 4s 9s] [2c]
+*** RIVER *** [5c 4s 9s 2c] [Th]
+*** SHOW DOWN ***
+Mahu2021: shows [Qh Jh] (high card Queen)
+Cris_Finkler: shows [7c As] (high card Ace)
+Cris_Finkler collected 700 from pot
+Mahu2021 finished the tournament in 2nd place
+Cris_Finkler wins the tournament and receives $4.00 - congratulations!
+*** SUMMARY ***
+Total pot 700 | Rake 0 
+Board [5c 4s 9s 2c Th]
+Seat 2: Mahu2021 (big blind) showed [Qh Jh] and lost with high card Queen
+Seat 3: Cris_Finkler (button) (small blind) showed [7c As] and won (700) with high card Ace
+
+
+

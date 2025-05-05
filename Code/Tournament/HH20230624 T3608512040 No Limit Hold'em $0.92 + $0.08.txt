@@ -1,0 +1,59 @@
+﻿PokerStars Hand #244446647424: Tournament #3608512040, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/06/24 22:44:53 CET [2023/06/24 16:44:53 ET]
+Table '3608512040 1' 3-max Seat #1 is the button
+Seat 1: ivanoff131 (500 in chips) 
+Seat 2: blewis090978 (500 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+blewis090978: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s Kc]
+ivanoff131: raises 60 to 80
+blewis090978: calls 70
+Mahu2021: folds 
+*** FLOP *** [Jh 9c Kd]
+blewis090978: checks 
+ivanoff131: bets 90
+blewis090978: folds 
+Uncalled bet (90) returned to ivanoff131
+ivanoff131 collected 180 from pot
+ivanoff131: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [Jh 9c Kd]
+Seat 1: ivanoff131 (button) collected (180)
+Seat 2: blewis090978 (small blind) folded on the Flop
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #244446654938: Tournament #3608512040, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/06/24 22:45:17 CET [2023/06/24 16:45:17 ET]
+Table '3608512040 1' 3-max Seat #2 is the button
+Seat 1: ivanoff131 (600 in chips) 
+Seat 2: blewis090978 (420 in chips) 
+Seat 3: Mahu2021 (480 in chips) 
+Mahu2021: posts small blind 10
+ivanoff131: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh 7c]
+blewis090978: folds 
+Mahu2021: calls 10
+ivanoff131: raises 80 to 100
+Mahu2021: raises 380 to 480 and is all-in
+ivanoff131: calls 380
+*** FLOP *** [Tc 2d Ks]
+*** TURN *** [Tc 2d Ks] [Ad]
+*** RIVER *** [Tc 2d Ks Ad] [5s]
+*** SHOW DOWN ***
+Mahu2021: shows [Kh 7c] (a pair of Kings)
+ivanoff131: shows [Kc As] (two pair, Aces and Kings)
+ivanoff131 collected 960 from pot
+Mahu2021 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 960 | Rake 0 
+Board [Tc 2d Ks Ad 5s]
+Seat 1: ivanoff131 (big blind) showed [Kc As] and won (960) with two pair, Aces and Kings
+Seat 2: blewis090978 (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) showed [Kh 7c] and lost with a pair of Kings
+
+
+

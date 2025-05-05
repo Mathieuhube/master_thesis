@@ -1,0 +1,478 @@
+﻿PokerStars Hand #252650850286: Tournament #3805561547, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/09/27 11:32:12 CET [2024/09/27 5:32:12 ET]
+Table '3805561547 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: macedonio357 (500 in chips) 
+Seat 3: deivit753 (500 in chips) 
+macedonio357: posts small blind 10
+deivit753: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c 2d]
+Mahu2021: folds 
+macedonio357: calls 10
+deivit753: checks 
+*** FLOP *** [7s 3h 5c]
+macedonio357: checks 
+deivit753: checks 
+*** TURN *** [7s 3h 5c] [8c]
+macedonio357: checks 
+deivit753: checks 
+*** RIVER *** [7s 3h 5c 8c] [8s]
+macedonio357: bets 20
+deivit753: raises 40 to 60
+macedonio357: folds 
+Uncalled bet (40) returned to deivit753
+deivit753 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [7s 3h 5c 8c 8s]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: macedonio357 (small blind) folded on the River
+Seat 3: deivit753 (big blind) collected (80)
+
+
+
+PokerStars Hand #252650852887: Tournament #3805561547, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/09/27 11:32:36 CET [2024/09/27 5:32:36 ET]
+Table '3805561547 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: macedonio357 (460 in chips) 
+Seat 3: deivit753 (540 in chips) 
+deivit753: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Td Th]
+macedonio357: calls 20
+deivit753: folds 
+Mahu2021: checks 
+*** FLOP *** [5s 4c Ah]
+Mahu2021: checks 
+macedonio357: bets 20
+Mahu2021: calls 20
+*** TURN *** [5s 4c Ah] [2d]
+Mahu2021: checks 
+macedonio357: bets 20
+Mahu2021: calls 20
+*** RIVER *** [5s 4c Ah 2d] [Kh]
+Mahu2021: checks 
+macedonio357: bets 40
+Mahu2021: calls 40
+*** SHOW DOWN ***
+macedonio357: shows [Jh 7h] (high card Ace)
+Mahu2021: shows [Td Th] (a pair of Tens)
+Mahu2021 collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | Rake 0 
+Board [5s 4c Ah 2d Kh]
+Seat 1: Mahu2021 (big blind) showed [Td Th] and won (210) with a pair of Tens
+Seat 2: macedonio357 (button) showed [Jh 7h] and lost with high card Ace
+Seat 3: deivit753 (small blind) folded before Flop
+
+
+
+PokerStars Hand #252650855162: Tournament #3805561547, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/09/27 11:32:56 CET [2024/09/27 5:32:56 ET]
+Table '3805561547 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (610 in chips) 
+Seat 2: macedonio357 (360 in chips) 
+Seat 3: deivit753 (530 in chips) 
+Mahu2021: posts small blind 10
+macedonio357: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5h 7s]
+deivit753: folds 
+Mahu2021: folds 
+Uncalled bet (10) returned to macedonio357
+macedonio357 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: macedonio357 (big blind) collected (20)
+Seat 3: deivit753 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #252650855792: Tournament #3805561547, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/09/27 11:33:02 CET [2024/09/27 5:33:02 ET]
+Table '3805561547 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (600 in chips) 
+Seat 2: macedonio357 (370 in chips) 
+Seat 3: deivit753 (530 in chips) 
+macedonio357: posts small blind 10
+deivit753: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6h 3d]
+Mahu2021: folds 
+macedonio357: raises 20 to 40
+deivit753: calls 20
+*** FLOP *** [2s Jh Ts]
+macedonio357: bets 20
+deivit753: calls 20
+*** TURN *** [2s Jh Ts] [8s]
+macedonio357: bets 20
+deivit753: calls 20
+*** RIVER *** [2s Jh Ts 8s] [7c]
+macedonio357: checks 
+deivit753: checks 
+*** SHOW DOWN ***
+macedonio357: shows [Kd Ac] (high card Ace)
+deivit753: shows [Qc 2c] (a pair of Deuces)
+deivit753 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [2s Jh Ts 8s 7c]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: macedonio357 (small blind) showed [Kd Ac] and lost with high card Ace
+Seat 3: deivit753 (big blind) showed [Qc 2c] and won (160) with a pair of Deuces
+
+
+
+PokerStars Hand #252650858371: Tournament #3805561547, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/09/27 11:33:25 CET [2024/09/27 5:33:25 ET]
+Table '3805561547 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (600 in chips) 
+Seat 2: macedonio357 (290 in chips) 
+Seat 3: deivit753 (610 in chips) 
+deivit753: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad 2h]
+macedonio357: calls 20
+deivit753: calls 10
+Mahu2021: checks 
+*** FLOP *** [Qc 5c 3d]
+deivit753: checks 
+Mahu2021: checks 
+macedonio357: checks 
+*** TURN *** [Qc 5c 3d] [6c]
+deivit753: bets 40
+Mahu2021: folds 
+macedonio357: folds 
+Uncalled bet (40) returned to deivit753
+deivit753 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Qc 5c 3d 6c]
+Seat 1: Mahu2021 (big blind) folded on the Turn
+Seat 2: macedonio357 (button) folded on the Turn
+Seat 3: deivit753 (small blind) collected (60)
+
+
+
+PokerStars Hand #252650861297: Tournament #3805561547, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/09/27 11:33:51 CET [2024/09/27 5:33:51 ET]
+Table '3805561547 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (580 in chips) 
+Seat 2: macedonio357 (270 in chips) 
+Seat 3: deivit753 (650 in chips) 
+Mahu2021: posts small blind 10
+macedonio357: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c 4s]
+deivit753: raises 20 to 40
+Mahu2021: folds 
+macedonio357: raises 90 to 130
+deivit753: folds 
+Uncalled bet (90) returned to macedonio357
+macedonio357 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: macedonio357 (big blind) collected (90)
+Seat 3: deivit753 (button) folded before Flop
+
+
+
+PokerStars Hand #252650862840: Tournament #3805561547, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/09/27 11:34:04 CET [2024/09/27 5:34:04 ET]
+Table '3805561547 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (570 in chips) 
+Seat 2: macedonio357 (320 in chips) 
+Seat 3: deivit753 (610 in chips) 
+macedonio357: posts small blind 10
+deivit753: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s Ks]
+Mahu2021: calls 20
+macedonio357: calls 10
+deivit753: checks 
+*** FLOP *** [7h 4s 2h]
+macedonio357: checks 
+deivit753: checks 
+Mahu2021: checks 
+*** TURN *** [7h 4s 2h] [8c]
+macedonio357: bets 60
+deivit753: folds 
+Mahu2021: folds 
+Uncalled bet (60) returned to macedonio357
+macedonio357 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [7h 4s 2h 8c]
+Seat 1: Mahu2021 (button) folded on the Turn
+Seat 2: macedonio357 (small blind) collected (60)
+Seat 3: deivit753 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #252650865713: Tournament #3805561547, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/09/27 11:34:30 CET [2024/09/27 5:34:30 ET]
+Table '3805561547 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (550 in chips) 
+Seat 2: macedonio357 (360 in chips) 
+Seat 3: deivit753 (590 in chips) 
+deivit753: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kc Js]
+macedonio357: calls 30
+deivit753: folds 
+Mahu2021: raises 90 to 120
+macedonio357: calls 90
+*** FLOP *** [5h 8s As]
+Mahu2021: checks 
+macedonio357: bets 240 and is all-in
+Mahu2021: folds 
+Uncalled bet (240) returned to macedonio357
+macedonio357 collected 255 from pot
+*** SUMMARY ***
+Total pot 255 | Rake 0 
+Board [5h 8s As]
+Seat 1: Mahu2021 (big blind) folded on the Flop
+Seat 2: macedonio357 (button) collected (255)
+Seat 3: deivit753 (small blind) folded before Flop
+
+
+
+PokerStars Hand #252650868281: Tournament #3805561547, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/09/27 11:34:53 CET [2024/09/27 5:34:53 ET]
+Table '3805561547 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (430 in chips) 
+Seat 2: macedonio357 (495 in chips) 
+Seat 3: deivit753 (575 in chips) 
+Mahu2021: posts small blind 15
+macedonio357: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac 3h]
+deivit753: folds 
+Mahu2021: raises 30 to 60
+macedonio357: calls 30
+*** FLOP *** [2h Qh Th]
+Mahu2021: checks 
+macedonio357: bets 30
+Mahu2021: calls 30
+*** TURN *** [2h Qh Th] [Ad]
+Mahu2021: checks 
+macedonio357: bets 30
+Mahu2021: calls 30
+*** RIVER *** [2h Qh Th Ad] [4c]
+Mahu2021: checks 
+macedonio357: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [Ac 3h] (a pair of Aces)
+macedonio357: mucks hand 
+Mahu2021 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [2h Qh Th Ad 4c]
+Seat 1: Mahu2021 (small blind) showed [Ac 3h] and won (240) with a pair of Aces
+Seat 2: macedonio357 (big blind) mucked [Qc 9d]
+Seat 3: deivit753 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #252650870650: Tournament #3805561547, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/09/27 11:35:14 CET [2024/09/27 5:35:14 ET]
+Table '3805561547 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (550 in chips) 
+Seat 2: macedonio357 (375 in chips) 
+Seat 3: deivit753 (575 in chips) 
+macedonio357: posts small blind 15
+deivit753: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd 5c]
+Mahu2021: folds 
+macedonio357: calls 15
+deivit753: checks 
+*** FLOP *** [5h 6s 5d]
+macedonio357: checks 
+deivit753: bets 30
+macedonio357: calls 30
+*** TURN *** [5h 6s 5d] [3s]
+macedonio357: checks 
+deivit753: bets 90
+macedonio357: calls 90
+*** RIVER *** [5h 6s 5d 3s] [Jh]
+macedonio357: checks 
+deivit753: checks 
+*** SHOW DOWN ***
+macedonio357: shows [8c 7d] (a pair of Fives)
+deivit753: shows [Ad 6h] (two pair, Sixes and Fives)
+deivit753 collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [5h 6s 5d 3s Jh]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: macedonio357 (small blind) showed [8c 7d] and lost with a pair of Fives
+Seat 3: deivit753 (big blind) showed [Ad 6h] and won (300) with two pair, Sixes and Fives
+
+
+
+PokerStars Hand #252650873464: Tournament #3805561547, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/09/27 11:35:39 CET [2024/09/27 5:35:39 ET]
+Table '3805561547 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (550 in chips) 
+Seat 2: macedonio357 (225 in chips) 
+Seat 3: deivit753 (725 in chips) 
+deivit753: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h Kh]
+macedonio357: calls 30
+deivit753: folds 
+Mahu2021: checks 
+*** FLOP *** [3d Ac 8c]
+Mahu2021: checks 
+macedonio357: bets 30
+Mahu2021: calls 30
+*** TURN *** [3d Ac 8c] [9d]
+Mahu2021: checks 
+macedonio357: bets 30
+Mahu2021: calls 30
+*** RIVER *** [3d Ac 8c 9d] [9c]
+Mahu2021: checks 
+macedonio357: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [3h Kh] (two pair, Nines and Threes)
+macedonio357: shows [Ad 5d] (two pair, Aces and Nines)
+macedonio357 collected 195 from pot
+*** SUMMARY ***
+Total pot 195 | Rake 0 
+Board [3d Ac 8c 9d 9c]
+Seat 1: Mahu2021 (big blind) showed [3h Kh] and lost with two pair, Nines and Threes
+Seat 2: macedonio357 (button) showed [Ad 5d] and won (195) with two pair, Aces and Nines
+Seat 3: deivit753 (small blind) folded before Flop
+
+
+
+PokerStars Hand #252650875502: Tournament #3805561547, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/09/27 11:35:57 CET [2024/09/27 5:35:57 ET]
+Table '3805561547 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (460 in chips) 
+Seat 2: macedonio357 (330 in chips) 
+Seat 3: deivit753 (710 in chips) 
+Mahu2021: posts small blind 15
+macedonio357: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad 9c]
+deivit753: folds 
+Mahu2021: raises 30 to 60
+macedonio357: calls 30
+*** FLOP *** [4h Qh 9d]
+Mahu2021: bets 60
+macedonio357: raises 210 to 270 and is all-in
+Mahu2021: calls 210
+*** TURN *** [4h Qh 9d] [As]
+*** RIVER *** [4h Qh 9d As] [4s]
+*** SHOW DOWN ***
+Mahu2021: shows [Ad 9c] (two pair, Aces and Nines)
+macedonio357: shows [3d Qd] (two pair, Queens and Fours)
+Mahu2021 collected 660 from pot
+macedonio357 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 660 | Rake 0 
+Board [4h Qh 9d As 4s]
+Seat 1: Mahu2021 (small blind) showed [Ad 9c] and won (660) with two pair, Aces and Nines
+Seat 2: macedonio357 (big blind) showed [3d Qd] and lost with two pair, Queens and Fours
+Seat 3: deivit753 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #252650878116: Tournament #3805561547, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/09/27 11:36:20 CET [2024/09/27 5:36:20 ET]
+Table '3805561547 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (790 in chips) 
+Seat 3: deivit753 (710 in chips) 
+Mahu2021: posts small blind 20
+deivit753: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h Kh]
+Mahu2021: calls 20
+deivit753: checks 
+*** FLOP *** [8d Ad 5d]
+deivit753: checks 
+Mahu2021: checks 
+*** TURN *** [8d Ad 5d] [Ah]
+deivit753: bets 80
+Mahu2021: folds 
+Uncalled bet (80) returned to deivit753
+deivit753 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [8d Ad 5d Ah]
+Seat 1: Mahu2021 (button) (small blind) folded on the Turn
+Seat 3: deivit753 (big blind) collected (80)
+
+
+
+PokerStars Hand #252650880257: Tournament #3805561547, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/09/27 11:36:39 CET [2024/09/27 5:36:39 ET]
+Table '3805561547 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (750 in chips) 
+Seat 3: deivit753 (750 in chips) 
+deivit753: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h 9h]
+deivit753: calls 20
+Mahu2021: checks 
+*** FLOP *** [Ah 3d 3h]
+Mahu2021: checks 
+deivit753: checks 
+*** TURN *** [Ah 3d 3h] [8s]
+Mahu2021: bets 40
+deivit753: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Ah 3d 3h 8s]
+Seat 1: Mahu2021 (big blind) collected (80)
+Seat 3: deivit753 (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #252650881818: Tournament #3805561547, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/09/27 11:36:53 CET [2024/09/27 5:36:53 ET]
+Table '3805561547 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (790 in chips) 
+Seat 3: deivit753 (710 in chips) 
+Mahu2021: posts small blind 20
+deivit753: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h 5d]
+Mahu2021: folds 
+Uncalled bet (20) returned to deivit753
+deivit753 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: deivit753 (big blind) collected (40)
+
+
+
+PokerStars Hand #252650882346: Tournament #3805561547, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/09/27 11:36:57 CET [2024/09/27 5:36:57 ET]
+Table '3805561547 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (770 in chips) 
+Seat 3: deivit753 (730 in chips) 
+deivit753: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Tc Td]
+deivit753: raises 40 to 80
+Mahu2021: raises 690 to 770 and is all-in
+deivit753: calls 650 and is all-in
+Uncalled bet (40) returned to Mahu2021
+*** FLOP *** [4s 5d 2s]
+*** TURN *** [4s 5d 2s] [2c]
+*** RIVER *** [4s 5d 2s 2c] [Jh]
+*** SHOW DOWN ***
+Mahu2021: shows [Tc Td] (two pair, Tens and Deuces)
+deivit753: shows [Ah Ks] (a pair of Deuces)
+Mahu2021 collected 1460 from pot
+deivit753 finished the tournament in 2nd place
+Mahu2021 wins the tournament and receives $4.00 - congratulations!
+*** SUMMARY ***
+Total pot 1460 | Rake 0 
+Board [4s 5d 2s 2c Jh]
+Seat 1: Mahu2021 (big blind) showed [Tc Td] and won (1460) with two pair, Tens and Deuces
+Seat 3: deivit753 (button) (small blind) showed [Ah Ks] and lost with a pair of Deuces
+
+
+

@@ -1,0 +1,610 @@
+﻿PokerStars Hand #248814591505: Tournament #3714230386, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/02/11 10:38:58 CET [2024/02/11 4:38:58 ET]
+Table '3714230386 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: tigerek73 (500 in chips) 
+Seat 3: aa8104 (500 in chips) 
+tigerek73: posts small blind 10
+aa8104: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c 2h]
+Mahu2021: folds 
+tigerek73: folds 
+Uncalled bet (10) returned to aa8104
+aa8104 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: tigerek73 (small blind) folded before Flop
+Seat 3: aa8104 (big blind) collected (20)
+
+
+
+PokerStars Hand #248814592791: Tournament #3714230386, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/02/11 10:39:08 CET [2024/02/11 4:39:08 ET]
+Table '3714230386 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: tigerek73 (490 in chips) 
+Seat 3: aa8104 (510 in chips) 
+aa8104: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s 3c]
+tigerek73: raises 20 to 40
+aa8104: calls 30
+Mahu2021: folds 
+*** FLOP *** [9d As 3s]
+aa8104: checks 
+tigerek73: bets 55
+aa8104: folds 
+Uncalled bet (55) returned to tigerek73
+tigerek73 collected 100 from pot
+tigerek73: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [9d As 3s]
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: tigerek73 (button) collected (100)
+Seat 3: aa8104 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #248814595141: Tournament #3714230386, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/02/11 10:39:24 CET [2024/02/11 4:39:24 ET]
+Table '3714230386 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (480 in chips) 
+Seat 2: tigerek73 (550 in chips) 
+Seat 3: aa8104 (470 in chips) 
+Mahu2021: posts small blind 10
+tigerek73: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8c Ts]
+aa8104: calls 20
+Mahu2021: folds 
+tigerek73: checks 
+*** FLOP *** [Tc 3h 7s]
+tigerek73: checks 
+aa8104: checks 
+*** TURN *** [Tc 3h 7s] [Ad]
+tigerek73: checks 
+aa8104: checks 
+*** RIVER *** [Tc 3h 7s Ad] [4c]
+tigerek73: checks 
+aa8104: checks 
+*** SHOW DOWN ***
+tigerek73: shows [9h Js] (high card Ace)
+aa8104: shows [5d Ks] (high card Ace - King kicker)
+aa8104 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [Tc 3h 7s Ad 4c]
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: tigerek73 (big blind) showed [9h Js] and lost with high card Ace
+Seat 3: aa8104 (button) showed [5d Ks] and won (50) with high card Ace
+
+
+
+PokerStars Hand #248814597264: Tournament #3714230386, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/02/11 10:39:39 CET [2024/02/11 4:39:39 ET]
+Table '3714230386 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (470 in chips) 
+Seat 2: tigerek73 (530 in chips) 
+Seat 3: aa8104 (500 in chips) 
+tigerek73: posts small blind 10
+aa8104: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks Js]
+Mahu2021: raises 40 to 60
+tigerek73: folds 
+aa8104: calls 40
+*** FLOP *** [As 3s 8c]
+aa8104: checks 
+Mahu2021: bets 130
+aa8104: calls 130
+*** TURN *** [As 3s 8c] [5s]
+aa8104: checks 
+Mahu2021: bets 280 and is all-in
+aa8104: calls 280
+*** RIVER *** [As 3s 8c 5s] [2c]
+*** SHOW DOWN ***
+aa8104: shows [7c Ad] (a pair of Aces)
+Mahu2021: shows [Ks Js] (a flush, Ace high)
+Mahu2021 collected 950 from pot
+*** SUMMARY ***
+Total pot 950 | Rake 0 
+Board [As 3s 8c 5s 2c]
+Seat 1: Mahu2021 (button) showed [Ks Js] and won (950) with a flush, Ace high
+Seat 2: tigerek73 (small blind) folded before Flop
+Seat 3: aa8104 (big blind) showed [7c Ad] and lost with a pair of Aces
+
+
+
+PokerStars Hand #248814600279: Tournament #3714230386, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/02/11 10:40:00 CET [2024/02/11 4:40:00 ET]
+Table '3714230386 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (950 in chips) 
+Seat 2: tigerek73 (520 in chips) 
+Seat 3: aa8104 (30 in chips) 
+aa8104: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d Kc]
+tigerek73: folds 
+aa8104: raises 10 to 30 and is all-in
+Mahu2021: calls 10
+*** FLOP *** [4s Ah 3h]
+*** TURN *** [4s Ah 3h] [2h]
+*** RIVER *** [4s Ah 3h 2h] [Ks]
+*** SHOW DOWN ***
+aa8104: shows [Qs Ts] (high card Ace)
+Mahu2021: shows [5d Kc] (a straight, Ace to Five)
+Mahu2021 collected 60 from pot
+aa8104 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [4s Ah 3h 2h Ks]
+Seat 1: Mahu2021 (big blind) showed [5d Kc] and won (60) with a straight, Ace to Five
+Seat 2: tigerek73 (button) folded before Flop (didn't bet)
+Seat 3: aa8104 (small blind) showed [Qs Ts] and lost with high card Ace
+
+
+
+PokerStars Hand #248814602521: Tournament #3714230386, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/02/11 10:40:16 CET [2024/02/11 4:40:16 ET]
+Table '3714230386 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (980 in chips) 
+Seat 2: tigerek73 (520 in chips) 
+Mahu2021: posts small blind 10
+tigerek73: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s 2s]
+Mahu2021: calls 10
+tigerek73: checks 
+*** FLOP *** [9c Kc 2d]
+tigerek73: checks 
+Mahu2021: bets 20
+tigerek73: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [9c Kc 2d]
+Seat 1: Mahu2021 (button) (small blind) collected (40)
+Seat 2: tigerek73 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #248814604403: Tournament #3714230386, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/02/11 10:40:29 CET [2024/02/11 4:40:29 ET]
+Table '3714230386 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (1000 in chips) 
+Seat 2: tigerek73 (500 in chips) 
+tigerek73: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks Qd]
+tigerek73: folds 
+Uncalled bet (10) returned to Mahu2021
+Mahu2021 collected 20 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (20)
+Seat 2: tigerek73 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #248814604981: Tournament #3714230386, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/02/11 10:40:33 CET [2024/02/11 4:40:33 ET]
+Table '3714230386 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1010 in chips) 
+Seat 2: tigerek73 (490 in chips) 
+Mahu2021: posts small blind 10
+tigerek73: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd 8d]
+Mahu2021: raises 20 to 40
+tigerek73: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) collected (40)
+Seat 2: tigerek73 (big blind) folded before Flop
+
+
+
+PokerStars Hand #248814605740: Tournament #3714230386, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/02/11 10:40:38 CET [2024/02/11 4:40:38 ET]
+Table '3714230386 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (1030 in chips) 
+Seat 2: tigerek73 (470 in chips) 
+tigerek73: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4d 3h]
+tigerek73: folds 
+Uncalled bet (10) returned to Mahu2021
+Mahu2021 collected 20 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (20)
+Seat 2: tigerek73 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #248814606360: Tournament #3714230386, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/02/11 10:40:42 CET [2024/02/11 4:40:42 ET]
+Table '3714230386 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1040 in chips) 
+Seat 2: tigerek73 (460 in chips) 
+Mahu2021: posts small blind 10
+tigerek73: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d 5s]
+Mahu2021: folds 
+Uncalled bet (10) returned to tigerek73
+tigerek73 collected 20 from pot
+tigerek73: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 2: tigerek73 (big blind) collected (20)
+
+
+
+PokerStars Hand #248814606958: Tournament #3714230386, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/02/11 10:40:46 CET [2024/02/11 4:40:46 ET]
+Table '3714230386 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (1030 in chips) 
+Seat 2: tigerek73 (470 in chips) 
+tigerek73: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h 9c]
+tigerek73: folds 
+Uncalled bet (10) returned to Mahu2021
+Mahu2021 collected 20 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (20)
+Seat 2: tigerek73 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #248814607646: Tournament #3714230386, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/02/11 10:40:52 CET [2024/02/11 4:40:52 ET]
+Table '3714230386 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1040 in chips) 
+Seat 2: tigerek73 (460 in chips) 
+Mahu2021: posts small blind 10
+tigerek73: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh Ac]
+Mahu2021: raises 40 to 60
+tigerek73: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) collected (40)
+Seat 2: tigerek73 (big blind) folded before Flop
+
+
+
+PokerStars Hand #248814608599: Tournament #3714230386, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/02/11 10:40:58 CET [2024/02/11 4:40:58 ET]
+Table '3714230386 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (1060 in chips) 
+Seat 2: tigerek73 (440 in chips) 
+tigerek73: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h 5d]
+tigerek73: folds 
+Uncalled bet (10) returned to Mahu2021
+Mahu2021 collected 20 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (20)
+Seat 2: tigerek73 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #248814609832: Tournament #3714230386, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/02/11 10:41:07 CET [2024/02/11 4:41:07 ET]
+Table '3714230386 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1070 in chips) 
+Seat 2: tigerek73 (430 in chips) 
+Mahu2021: posts small blind 15
+tigerek73: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad 6s]
+Mahu2021: raises 30 to 60
+tigerek73: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) collected (60)
+Seat 2: tigerek73 (big blind) folded before Flop
+
+
+
+PokerStars Hand #248814610624: Tournament #3714230386, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/02/11 10:41:12 CET [2024/02/11 4:41:12 ET]
+Table '3714230386 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (1100 in chips) 
+Seat 2: tigerek73 (400 in chips) 
+tigerek73: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s Ts]
+tigerek73: calls 15
+Mahu2021: checks 
+*** FLOP *** [Th Ks As]
+Mahu2021: bets 30
+tigerek73: calls 30
+*** TURN *** [Th Ks As] [4d]
+Mahu2021: checks 
+tigerek73: bets 66
+Mahu2021: calls 66
+*** RIVER *** [Th Ks As 4d] [2c]
+Mahu2021: checks 
+tigerek73: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [6s Ts] (a pair of Tens)
+tigerek73: mucks hand 
+Mahu2021 collected 252 from pot
+*** SUMMARY ***
+Total pot 252 | Rake 0 
+Board [Th Ks As 4d 2c]
+Seat 1: Mahu2021 (big blind) showed [6s Ts] and won (252) with a pair of Tens
+Seat 2: tigerek73 (button) (small blind) mucked [2s Js]
+
+
+
+PokerStars Hand #248814613452: Tournament #3714230386, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/02/11 10:41:32 CET [2024/02/11 4:41:32 ET]
+Table '3714230386 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1226 in chips) 
+Seat 2: tigerek73 (274 in chips) 
+Mahu2021: posts small blind 15
+tigerek73: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks 6h]
+Mahu2021: raises 30 to 60
+tigerek73: calls 30
+*** FLOP *** [6d Jh Kh]
+tigerek73: checks 
+Mahu2021: bets 30
+tigerek73: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [6d Jh Kh]
+Seat 1: Mahu2021 (button) (small blind) collected (120)
+Seat 2: tigerek73 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #248814616502: Tournament #3714230386, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/02/11 10:41:54 CET [2024/02/11 4:41:54 ET]
+Table '3714230386 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (1286 in chips) 
+Seat 2: tigerek73 (214 in chips) 
+tigerek73: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8d 9c]
+tigerek73: raises 184 to 214 and is all-in
+Mahu2021: folds 
+Uncalled bet (184) returned to tigerek73
+tigerek73 collected 60 from pot
+tigerek73: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: tigerek73 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #248814617312: Tournament #3714230386, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/02/11 10:42:00 CET [2024/02/11 4:42:00 ET]
+Table '3714230386 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1256 in chips) 
+Seat 2: tigerek73 (244 in chips) 
+Mahu2021: posts small blind 15
+tigerek73: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d 5c]
+Mahu2021: folds 
+Uncalled bet (15) returned to tigerek73
+tigerek73 collected 30 from pot
+tigerek73: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 2: tigerek73 (big blind) collected (30)
+
+
+
+PokerStars Hand #248814617957: Tournament #3714230386, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/02/11 10:42:04 CET [2024/02/11 4:42:04 ET]
+Table '3714230386 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (1241 in chips) 
+Seat 2: tigerek73 (259 in chips) 
+tigerek73: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d Kh]
+tigerek73: raises 229 to 259 and is all-in
+Mahu2021: folds 
+Uncalled bet (229) returned to tigerek73
+tigerek73 collected 60 from pot
+tigerek73: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: tigerek73 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #248814619225: Tournament #3714230386, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/02/11 10:42:13 CET [2024/02/11 4:42:13 ET]
+Table '3714230386 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1211 in chips) 
+Seat 2: tigerek73 (289 in chips) 
+Mahu2021: posts small blind 15
+tigerek73: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d 4c]
+Mahu2021: calls 15
+tigerek73: checks 
+*** FLOP *** [3d 2h Qd]
+tigerek73: bets 44
+Mahu2021: calls 44
+*** TURN *** [3d 2h Qd] [Ad]
+tigerek73: checks 
+Mahu2021: bets 60
+tigerek73: calls 60
+*** RIVER *** [3d 2h Qd Ad] [Kc]
+tigerek73: checks 
+Mahu2021: bets 268
+tigerek73: folds 
+Uncalled bet (268) returned to Mahu2021
+Mahu2021 collected 268 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 268 | Rake 0 
+Board [3d 2h Qd Ad Kc]
+Seat 1: Mahu2021 (button) (small blind) collected (268)
+Seat 2: tigerek73 (big blind) folded on the River
+
+
+
+PokerStars Hand #248814623326: Tournament #3714230386, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/02/11 10:42:41 CET [2024/02/11 4:42:41 ET]
+Table '3714230386 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (1345 in chips) 
+Seat 2: tigerek73 (155 in chips) 
+tigerek73: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc 7s]
+tigerek73: raises 125 to 155 and is all-in
+Mahu2021: folds 
+Uncalled bet (125) returned to tigerek73
+tigerek73 collected 60 from pot
+tigerek73: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: tigerek73 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #248814624320: Tournament #3714230386, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/02/11 10:42:48 CET [2024/02/11 4:42:48 ET]
+Table '3714230386 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1315 in chips) 
+Seat 2: tigerek73 (185 in chips) 
+Mahu2021: posts small blind 15
+tigerek73: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h Td]
+Mahu2021: folds 
+Uncalled bet (15) returned to tigerek73
+tigerek73 collected 30 from pot
+tigerek73: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 2: tigerek73 (big blind) collected (30)
+
+
+
+PokerStars Hand #248814624943: Tournament #3714230386, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/02/11 10:42:52 CET [2024/02/11 4:42:52 ET]
+Table '3714230386 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (1300 in chips) 
+Seat 2: tigerek73 (200 in chips) 
+tigerek73: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h Jh]
+tigerek73: raises 170 to 200 and is all-in
+Mahu2021: folds 
+Uncalled bet (170) returned to tigerek73
+tigerek73 collected 60 from pot
+tigerek73: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: tigerek73 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #248814625811: Tournament #3714230386, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/02/11 10:42:58 CET [2024/02/11 4:42:58 ET]
+Table '3714230386 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1270 in chips) 
+Seat 2: tigerek73 (230 in chips) 
+Mahu2021: posts small blind 15
+tigerek73: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d 9d]
+Mahu2021: folds 
+Uncalled bet (15) returned to tigerek73
+tigerek73 collected 30 from pot
+tigerek73: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 2: tigerek73 (big blind) collected (30)
+
+
+
+PokerStars Hand #248814626903: Tournament #3714230386, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/02/11 10:43:06 CET [2024/02/11 4:43:06 ET]
+Table '3714230386 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (1255 in chips) 
+Seat 2: tigerek73 (245 in chips) 
+tigerek73: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Th Qd]
+tigerek73: calls 20
+Mahu2021: checks 
+*** FLOP *** [2h Kh 4h]
+Mahu2021: checks 
+tigerek73: checks 
+*** TURN *** [2h Kh 4h] [2d]
+Mahu2021: bets 40
+tigerek73: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [2h Kh 4h 2d]
+Seat 1: Mahu2021 (big blind) collected (80)
+Seat 2: tigerek73 (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #248814629015: Tournament #3714230386, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/02/11 10:43:20 CET [2024/02/11 4:43:20 ET]
+Table '3714230386 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1295 in chips) 
+Seat 2: tigerek73 (205 in chips) 
+Mahu2021: posts small blind 20
+tigerek73: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh 7s]
+Mahu2021: raises 40 to 80
+tigerek73: calls 40
+*** FLOP *** [6d 8c 7h]
+tigerek73: bets 118
+Mahu2021: raises 118 to 236
+tigerek73: calls 7 and is all-in
+Uncalled bet (111) returned to Mahu2021
+*** TURN *** [6d 8c 7h] [3d]
+*** RIVER *** [6d 8c 7h 3d] [Ad]
+*** SHOW DOWN ***
+tigerek73: shows [9c 6c] (a pair of Sixes)
+Mahu2021: shows [Jh 7s] (a pair of Sevens)
+Mahu2021 collected 410 from pot
+tigerek73 finished the tournament in 2nd place
+Mahu2021 wins the tournament and receives $4.00 - congratulations!
+*** SUMMARY ***
+Total pot 410 | Rake 0 
+Board [6d 8c 7h 3d Ad]
+Seat 1: Mahu2021 (button) (small blind) showed [Jh 7s] and won (410) with a pair of Sevens
+Seat 2: tigerek73 (big blind) showed [9c 6c] and lost with a pair of Sixes
+
+
+

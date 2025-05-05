@@ -1,0 +1,84 @@
+﻿PokerStars Hand #253200902844: Tournament #3818819646, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/01 14:49:02 CET [2024/11/01 9:49:02 ET]
+Table '3818819646 1' 3-max Seat #1 is the button
+Seat 1: plochisch (500 in chips) 
+Seat 2: YSman_L8 (500 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+YSman_L8: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Td 4s]
+plochisch: folds 
+YSman_L8: raises 40 to 60
+Mahu2021: folds 
+Uncalled bet (40) returned to YSman_L8
+YSman_L8 collected 40 from pot
+YSman_L8: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: plochisch (button) folded before Flop (didn't bet)
+Seat 2: YSman_L8 (small blind) collected (40)
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #253200904275: Tournament #3818819646, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/01 14:49:10 CET [2024/11/01 9:49:10 ET]
+Table '3818819646 1' 3-max Seat #2 is the button
+Seat 1: plochisch (500 in chips) 
+Seat 2: YSman_L8 (520 in chips) 
+Seat 3: Mahu2021 (480 in chips) 
+Mahu2021: posts small blind 10
+plochisch: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Tc 5c]
+YSman_L8: folds 
+Mahu2021: folds 
+Uncalled bet (10) returned to plochisch
+plochisch collected 20 from pot
+plochisch: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: plochisch (big blind) collected (20)
+Seat 2: YSman_L8 (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #253200905477: Tournament #3818819646, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/01 14:49:17 CET [2024/11/01 9:49:17 ET]
+Table '3818819646 1' 3-max Seat #3 is the button
+Seat 1: plochisch (510 in chips) 
+Seat 2: YSman_L8 (520 in chips) 
+Seat 3: Mahu2021 (470 in chips) 
+plochisch: posts small blind 10
+YSman_L8: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c Qs]
+Mahu2021: calls 20
+plochisch: calls 10
+YSman_L8: checks 
+*** FLOP *** [7s 8h 9s]
+plochisch: checks 
+YSman_L8: checks 
+Mahu2021: bets 60
+plochisch: calls 60
+YSman_L8: calls 60
+*** TURN *** [7s 8h 9s] [Qc]
+plochisch: checks 
+YSman_L8: checks 
+Mahu2021: bets 390 and is all-in
+plochisch: calls 390
+YSman_L8: folds 
+*** RIVER *** [7s 8h 9s Qc] [6c]
+*** SHOW DOWN ***
+plochisch: shows [6d 5c] (a straight, Five to Nine)
+Mahu2021: shows [9c Qs] (two pair, Queens and Nines)
+plochisch collected 1020 from pot
+Mahu2021 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1020 | Rake 0 
+Board [7s 8h 9s Qc 6c]
+Seat 1: plochisch (small blind) showed [6d 5c] and won (1020) with a straight, Five to Nine
+Seat 2: YSman_L8 (big blind) folded on the Turn
+Seat 3: Mahu2021 (button) showed [9c Qs] and lost with two pair, Queens and Nines
+
+
+

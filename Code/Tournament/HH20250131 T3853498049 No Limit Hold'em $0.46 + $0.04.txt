@@ -1,0 +1,542 @@
+﻿PokerStars Hand #254634197443: Tournament #3853498049, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2025/01/31 9:36:24 CET [2025/01/31 3:36:24 ET]
+Table '3853498049 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: Floki3090 (500 in chips) 
+Seat 3: babcha88 (500 in chips) 
+Floki3090: posts small blind 10
+babcha88: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c 6d]
+Mahu2021: folds 
+Floki3090: raises 20 to 40
+babcha88: calls 20
+*** FLOP *** [9c 7d 9s]
+Floki3090: checks 
+babcha88: bets 60
+Floki3090: folds 
+Uncalled bet (60) returned to babcha88
+babcha88 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [9c 7d 9s]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: Floki3090 (small blind) folded on the Flop
+Seat 3: babcha88 (big blind) collected (80)
+
+
+
+PokerStars Hand #254634198573: Tournament #3853498049, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2025/01/31 9:36:38 CET [2025/01/31 3:36:38 ET]
+Table '3853498049 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: Floki3090 (460 in chips) 
+Seat 3: babcha88 (540 in chips) 
+babcha88: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8c Qd]
+Floki3090: raises 50 to 70
+babcha88: folds 
+Mahu2021: folds 
+Uncalled bet (50) returned to Floki3090
+Floki3090 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: Floki3090 (button) collected (50)
+Seat 3: babcha88 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254634199623: Tournament #3853498049, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2025/01/31 9:36:51 CET [2025/01/31 3:36:51 ET]
+Table '3853498049 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (480 in chips) 
+Seat 2: Floki3090 (490 in chips) 
+Seat 3: babcha88 (530 in chips) 
+Mahu2021: posts small blind 10
+Floki3090: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h 9c]
+babcha88: folds 
+Mahu2021: folds 
+Uncalled bet (10) returned to Floki3090
+Floki3090 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: Floki3090 (big blind) collected (20)
+Seat 3: babcha88 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254634200230: Tournament #3853498049, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2025/01/31 9:36:58 CET [2025/01/31 3:36:58 ET]
+Table '3853498049 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (470 in chips) 
+Seat 2: Floki3090 (500 in chips) 
+Seat 3: babcha88 (530 in chips) 
+Floki3090: posts small blind 10
+babcha88: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h Ts]
+Mahu2021: folds 
+Floki3090: raises 40 to 60
+babcha88: folds 
+Uncalled bet (40) returned to Floki3090
+Floki3090 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: Floki3090 (small blind) collected (40)
+Seat 3: babcha88 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254634200952: Tournament #3853498049, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2025/01/31 9:37:07 CET [2025/01/31 3:37:07 ET]
+Table '3853498049 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (470 in chips) 
+Seat 2: Floki3090 (520 in chips) 
+Seat 3: babcha88 (510 in chips) 
+babcha88: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh 7c]
+Floki3090: raises 20 to 40
+babcha88: calls 30
+Mahu2021: calls 20
+*** FLOP *** [Ac Ad Ts]
+babcha88: checks 
+Mahu2021: checks 
+Floki3090: bets 120
+babcha88: calls 120
+Mahu2021: folds 
+*** TURN *** [Ac Ad Ts] [9c]
+babcha88: checks 
+Floki3090: bets 360 and is all-in
+babcha88: calls 350 and is all-in
+Uncalled bet (10) returned to Floki3090
+*** RIVER *** [Ac Ad Ts 9c] [8d]
+*** SHOW DOWN ***
+babcha88: shows [Ks Td] (two pair, Aces and Tens)
+Floki3090: shows [Js Qs] (a straight, Eight to Queen)
+Floki3090 collected 1060 from pot
+babcha88 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1060 | Rake 0 
+Board [Ac Ad Ts 9c 8d]
+Seat 1: Mahu2021 (big blind) folded on the Flop
+Seat 2: Floki3090 (button) showed [Js Qs] and won (1060) with a straight, Eight to Queen
+Seat 3: babcha88 (small blind) showed [Ks Td] and lost with two pair, Aces and Tens
+
+
+
+PokerStars Hand #254634203483: Tournament #3853498049, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2025/01/31 9:37:37 CET [2025/01/31 3:37:37 ET]
+Table '3853498049 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (430 in chips) 
+Seat 2: Floki3090 (1070 in chips) 
+Mahu2021: posts small blind 10
+Floki3090: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s 9c]
+Mahu2021: folds 
+Uncalled bet (10) returned to Floki3090
+Floki3090 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 2: Floki3090 (big blind) collected (20)
+
+
+
+PokerStars Hand #254634203911: Tournament #3853498049, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2025/01/31 9:37:42 CET [2025/01/31 3:37:42 ET]
+Table '3853498049 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (420 in chips) 
+Seat 2: Floki3090 (1080 in chips) 
+Floki3090: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks Th]
+Floki3090: folds 
+Uncalled bet (10) returned to Mahu2021
+Mahu2021 collected 20 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (20)
+Seat 2: Floki3090 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #254634204636: Tournament #3853498049, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2025/01/31 9:37:51 CET [2025/01/31 3:37:51 ET]
+Table '3853498049 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (430 in chips) 
+Seat 2: Floki3090 (1070 in chips) 
+Mahu2021: posts small blind 10
+Floki3090: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s 8d]
+Mahu2021: folds 
+Uncalled bet (10) returned to Floki3090
+Floki3090 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 2: Floki3090 (big blind) collected (20)
+
+
+
+PokerStars Hand #254634205143: Tournament #3853498049, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2025/01/31 9:37:57 CET [2025/01/31 3:37:57 ET]
+Table '3853498049 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (420 in chips) 
+Seat 2: Floki3090 (1080 in chips) 
+Floki3090: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Th Jc]
+Floki3090: folds 
+Uncalled bet (10) returned to Mahu2021
+Mahu2021 collected 20 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (20)
+Seat 2: Floki3090 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #254634205806: Tournament #3853498049, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2025/01/31 9:38:05 CET [2025/01/31 3:38:05 ET]
+Table '3853498049 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (430 in chips) 
+Seat 2: Floki3090 (1070 in chips) 
+Mahu2021: posts small blind 10
+Floki3090: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac 6d]
+Mahu2021: raises 20 to 40
+Floki3090: calls 20
+*** FLOP *** [6s Jc 9s]
+Floki3090: bets 20
+Mahu2021: calls 20
+*** TURN *** [6s Jc 9s] [2s]
+Floki3090: checks 
+Mahu2021: checks 
+*** RIVER *** [6s Jc 9s 2s] [8s]
+Floki3090: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+Floki3090: shows [9d 7h] (a pair of Nines)
+Mahu2021: mucks hand 
+Floki3090 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [6s Jc 9s 2s 8s]
+Seat 1: Mahu2021 (button) (small blind) mucked [Ac 6d]
+Seat 2: Floki3090 (big blind) showed [9d 7h] and won (120) with a pair of Nines
+
+
+
+PokerStars Hand #254634209403: Tournament #3853498049, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2025/01/31 9:38:48 CET [2025/01/31 3:38:48 ET]
+Table '3853498049 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (370 in chips) 
+Seat 2: Floki3090 (1130 in chips) 
+Floki3090: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s Td]
+Floki3090: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (30)
+Seat 2: Floki3090 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #254634210043: Tournament #3853498049, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2025/01/31 9:38:55 CET [2025/01/31 3:38:55 ET]
+Table '3853498049 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (385 in chips) 
+Seat 2: Floki3090 (1115 in chips) 
+Mahu2021: posts small blind 15
+Floki3090: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d Jd]
+Mahu2021: calls 15
+Floki3090: checks 
+*** FLOP *** [2c 3c 6c]
+Floki3090: checks 
+Mahu2021: bets 30
+Floki3090: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [2c 3c 6c]
+Seat 1: Mahu2021 (button) (small blind) collected (60)
+Seat 2: Floki3090 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254634211244: Tournament #3853498049, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2025/01/31 9:39:10 CET [2025/01/31 3:39:10 ET]
+Table '3853498049 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (415 in chips) 
+Seat 2: Floki3090 (1085 in chips) 
+Floki3090: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s 7h]
+Floki3090: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (30)
+Seat 2: Floki3090 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #254634211616: Tournament #3853498049, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2025/01/31 9:39:15 CET [2025/01/31 3:39:15 ET]
+Table '3853498049 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (430 in chips) 
+Seat 2: Floki3090 (1070 in chips) 
+Mahu2021: posts small blind 15
+Floki3090: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qd Jd]
+Mahu2021: raises 30 to 60
+Floki3090: calls 30
+*** FLOP *** [3h 5d 2h]
+Floki3090: checks 
+Mahu2021: checks 
+*** TURN *** [3h 5d 2h] [2c]
+Floki3090: bets 60
+Mahu2021: folds 
+Uncalled bet (60) returned to Floki3090
+Floki3090 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [3h 5d 2h 2c]
+Seat 1: Mahu2021 (button) (small blind) folded on the Turn
+Seat 2: Floki3090 (big blind) collected (120)
+
+
+
+PokerStars Hand #254634212722: Tournament #3853498049, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2025/01/31 9:39:29 CET [2025/01/31 3:39:29 ET]
+Table '3853498049 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (370 in chips) 
+Seat 2: Floki3090 (1130 in chips) 
+Floki3090: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qs Jd]
+Floki3090: raises 60 to 90
+Mahu2021: calls 60
+*** FLOP *** [Qh 9d Qd]
+Mahu2021: checks 
+Floki3090: checks 
+*** TURN *** [Qh 9d Qd] [8d]
+Mahu2021: checks 
+Floki3090: checks 
+*** RIVER *** [Qh 9d Qd 8d] [6h]
+Mahu2021: bets 180
+Floki3090: calls 180
+*** SHOW DOWN ***
+Mahu2021: shows [Qs Jd] (three of a kind, Queens)
+Floki3090: mucks hand 
+Mahu2021 collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | Rake 0 
+Board [Qh 9d Qd 8d 6h]
+Seat 1: Mahu2021 (big blind) showed [Qs Jd] and won (540) with three of a kind, Queens
+Seat 2: Floki3090 (button) (small blind) mucked [Ah Jc]
+
+
+
+PokerStars Hand #254634214052: Tournament #3853498049, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2025/01/31 9:39:44 CET [2025/01/31 3:39:44 ET]
+Table '3853498049 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (640 in chips) 
+Seat 2: Floki3090 (860 in chips) 
+Mahu2021: posts small blind 15
+Floki3090: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5h 9h]
+Mahu2021: calls 15
+Floki3090: raises 830 to 860 and is all-in
+Mahu2021: folds 
+Uncalled bet (830) returned to Floki3090
+Floki3090 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 2: Floki3090 (big blind) collected (60)
+
+
+
+PokerStars Hand #254634215291: Tournament #3853498049, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2025/01/31 9:39:59 CET [2025/01/31 3:39:59 ET]
+Table '3853498049 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (610 in chips) 
+Seat 2: Floki3090 (890 in chips) 
+Floki3090: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd 3s]
+Floki3090: calls 15
+Mahu2021: checks 
+*** FLOP *** [5h 7c 2d]
+Mahu2021: checks 
+Floki3090: checks 
+*** TURN *** [5h 7c 2d] [3c]
+Mahu2021: checks 
+Floki3090: checks 
+*** RIVER *** [5h 7c 2d 3c] [9c]
+Mahu2021: checks 
+Floki3090: bets 60
+Mahu2021: calls 60
+*** SHOW DOWN ***
+Floki3090: shows [4d 9s] (a pair of Nines)
+Mahu2021: mucks hand 
+Floki3090 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [5h 7c 2d 3c 9c]
+Seat 1: Mahu2021 (big blind) mucked [Jd 3s]
+Seat 2: Floki3090 (button) (small blind) showed [4d 9s] and won (180) with a pair of Nines
+
+
+
+PokerStars Hand #254634216481: Tournament #3853498049, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2025/01/31 9:40:14 CET [2025/01/31 3:40:14 ET]
+Table '3853498049 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (520 in chips) 
+Seat 2: Floki3090 (980 in chips) 
+Mahu2021: posts small blind 15
+Floki3090: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd Kc]
+Mahu2021: raises 30 to 60
+Floki3090: calls 30
+*** FLOP *** [Jh Qc 5s]
+Floki3090: bets 920 and is all-in
+Mahu2021: folds 
+Uncalled bet (920) returned to Floki3090
+Floki3090 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Jh Qc 5s]
+Seat 1: Mahu2021 (button) (small blind) folded on the Flop
+Seat 2: Floki3090 (big blind) collected (120)
+
+
+
+PokerStars Hand #254634217777: Tournament #3853498049, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2025/01/31 9:40:30 CET [2025/01/31 3:40:30 ET]
+Table '3853498049 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (460 in chips) 
+Seat 2: Floki3090 (1040 in chips) 
+Floki3090: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qs Kd]
+Floki3090: calls 20
+Mahu2021: raises 420 to 460 and is all-in
+Floki3090: folds 
+Uncalled bet (420) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (80)
+Seat 2: Floki3090 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #254634218407: Tournament #3853498049, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2025/01/31 9:40:38 CET [2025/01/31 3:40:38 ET]
+Table '3853498049 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: Floki3090 (1000 in chips) 
+Mahu2021: posts small blind 20
+Floki3090: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8c 4h]
+Mahu2021: folds 
+Uncalled bet (20) returned to Floki3090
+Floki3090 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 2: Floki3090 (big blind) collected (40)
+
+
+
+PokerStars Hand #254634218797: Tournament #3853498049, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2025/01/31 9:40:43 CET [2025/01/31 3:40:43 ET]
+Table '3853498049 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (480 in chips) 
+Seat 2: Floki3090 (1020 in chips) 
+Floki3090: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s 4s]
+Floki3090: raises 80 to 120
+Mahu2021: folds 
+Uncalled bet (80) returned to Floki3090
+Floki3090 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: Floki3090 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #254634219420: Tournament #3853498049, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2025/01/31 9:40:50 CET [2025/01/31 3:40:50 ET]
+Table '3853498049 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (440 in chips) 
+Seat 2: Floki3090 (1060 in chips) 
+Mahu2021: posts small blind 20
+Floki3090: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc Ks]
+Mahu2021: raises 40 to 80
+Floki3090: raises 40 to 120
+Mahu2021: calls 40
+*** FLOP *** [Qs 2d Qc]
+Floki3090: bets 940 and is all-in
+Mahu2021: folds 
+Uncalled bet (940) returned to Floki3090
+Floki3090 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Qs 2d Qc]
+Seat 1: Mahu2021 (button) (small blind) folded on the Flop
+Seat 2: Floki3090 (big blind) collected (240)
+
+
+
+PokerStars Hand #254634220350: Tournament #3853498049, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2025/01/31 9:41:02 CET [2025/01/31 3:41:02 ET]
+Table '3853498049 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (320 in chips) 
+Seat 2: Floki3090 (1180 in chips) 
+Floki3090: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4c Tc]
+Floki3090: calls 20
+Mahu2021: checks 
+*** FLOP *** [Td Qc 5s]
+Mahu2021: bets 280 and is all-in
+Floki3090: calls 280
+*** TURN *** [Td Qc 5s] [Jc]
+*** RIVER *** [Td Qc 5s Jc] [2s]
+*** SHOW DOWN ***
+Mahu2021: shows [4c Tc] (a pair of Tens)
+Floki3090: shows [5h Qs] (two pair, Queens and Fives)
+Floki3090 collected 640 from pot
+Mahu2021 finished the tournament in 2nd place
+Floki3090 wins the tournament - congratulations!
+Floki3090 wins a '$1.00 Power Path Step 2 Ticket' ticket
+*** SUMMARY ***
+Total pot 640 | Rake 0 
+Board [Td Qc 5s Jc 2s]
+Seat 1: Mahu2021 (big blind) showed [4c Tc] and lost with a pair of Tens
+Seat 2: Floki3090 (button) (small blind) showed [5h Qs] and won (640) with two pair, Queens and Fives
+
+
+

@@ -1,0 +1,275 @@
+﻿PokerStars Hand #250425671414: Tournament #3752804588, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/05/10 18:39:26 CET [2024/05/10 12:39:26 ET]
+Table '3752804588 1' 3-max Seat #1 is the button
+Seat 1: ldecap (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: ProkingMastr (500 in chips) 
+Mahu2021: posts small blind 10
+ProkingMastr: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd 2s]
+ldecap: folds 
+Mahu2021: calls 10
+ProkingMastr: raises 30 to 50
+Mahu2021: folds 
+Uncalled bet (30) returned to ProkingMastr
+ProkingMastr collected 40 from pot
+ProkingMastr: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: ldecap (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: ProkingMastr (big blind) collected (40)
+
+
+
+PokerStars Hand #250425674687: Tournament #3752804588, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/05/10 18:39:38 CET [2024/05/10 12:39:38 ET]
+Table '3752804588 1' 3-max Seat #2 is the button
+Seat 1: ldecap (500 in chips) 
+Seat 2: Mahu2021 (480 in chips) 
+Seat 3: ProkingMastr (520 in chips) 
+ProkingMastr: posts small blind 10
+ldecap: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac 2c]
+Mahu2021: calls 20
+ProkingMastr: raises 30 to 50
+ldecap: calls 30
+Mahu2021: calls 30
+*** FLOP *** [Js Tc 7c]
+ProkingMastr: bets 113
+ldecap: raises 337 to 450 and is all-in
+Mahu2021: calls 430 and is all-in
+ProkingMastr: calls 337
+*** TURN *** [Js Tc 7c] [9d]
+*** RIVER *** [Js Tc 7c 9d] [3c]
+*** SHOW DOWN ***
+ProkingMastr: shows [9h 8c] (a straight, Seven to Jack)
+ldecap: shows [Ts Jh] (two pair, Jacks and Tens)
+ProkingMastr collected 40 from side pot
+Mahu2021: shows [Ac 2c] (a flush, Ace high)
+Mahu2021 collected 1440 from main pot
+ldecap finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1480 Main pot 1440. Side pot 40. | Rake 0 
+Board [Js Tc 7c 9d 3c]
+Seat 1: ldecap (big blind) showed [Ts Jh] and lost with two pair, Jacks and Tens
+Seat 2: Mahu2021 (button) showed [Ac 2c] and won (1440) with a flush, Ace high
+Seat 3: ProkingMastr (small blind) showed [9h 8c] and won (40) with a straight, Seven to Jack
+
+
+
+PokerStars Hand #250425682450: Tournament #3752804588, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/05/10 18:40:07 CET [2024/05/10 12:40:07 ET]
+Table '3752804588 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (1440 in chips) 
+Seat 3: ProkingMastr (60 in chips) 
+ProkingMastr: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4c 8s]
+ProkingMastr: raises 40 to 60 and is all-in
+Mahu2021: folds 
+Uncalled bet (40) returned to ProkingMastr
+ProkingMastr collected 40 from pot
+ProkingMastr: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: ProkingMastr (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #250425684307: Tournament #3752804588, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/05/10 18:40:14 CET [2024/05/10 12:40:14 ET]
+Table '3752804588 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (1420 in chips) 
+Seat 3: ProkingMastr (80 in chips) 
+Mahu2021: posts small blind 10
+ProkingMastr: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c 8s]
+Mahu2021: folds 
+Uncalled bet (10) returned to ProkingMastr
+ProkingMastr collected 20 from pot
+ProkingMastr: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: ProkingMastr (big blind) collected (20)
+
+
+
+PokerStars Hand #250425685437: Tournament #3752804588, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/05/10 18:40:18 CET [2024/05/10 12:40:18 ET]
+Table '3752804588 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (1410 in chips) 
+Seat 3: ProkingMastr (90 in chips) 
+ProkingMastr: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s 5h]
+ProkingMastr: raises 70 to 90 and is all-in
+Mahu2021: folds 
+Uncalled bet (70) returned to ProkingMastr
+ProkingMastr collected 40 from pot
+ProkingMastr: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: ProkingMastr (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #250425687393: Tournament #3752804588, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/05/10 18:40:26 CET [2024/05/10 12:40:26 ET]
+Table '3752804588 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (1390 in chips) 
+Seat 3: ProkingMastr (110 in chips) 
+Mahu2021: posts small blind 10
+ProkingMastr: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As 6c]
+Mahu2021: calls 10
+ProkingMastr: checks 
+*** FLOP *** [Qh 6s Ah]
+ProkingMastr: checks 
+Mahu2021: bets 20
+ProkingMastr: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Qh 6s Ah]
+Seat 2: Mahu2021 (button) (small blind) collected (40)
+Seat 3: ProkingMastr (big blind) folded on the Flop
+
+
+
+PokerStars Hand #250425693450: Tournament #3752804588, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/05/10 18:40:49 CET [2024/05/10 12:40:49 ET]
+Table '3752804588 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (1410 in chips) 
+Seat 3: ProkingMastr (90 in chips) 
+ProkingMastr: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh Ad]
+ProkingMastr: raises 70 to 90 and is all-in
+Mahu2021: calls 70
+*** FLOP *** [Kc 8d 4d]
+*** TURN *** [Kc 8d 4d] [Qs]
+*** RIVER *** [Kc 8d 4d Qs] [7d]
+*** SHOW DOWN ***
+Mahu2021: shows [Jh Ad] (high card Ace)
+ProkingMastr: shows [2s Kd] (a pair of Kings)
+ProkingMastr collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [Kc 8d 4d Qs 7d]
+Seat 2: Mahu2021 (big blind) showed [Jh Ad] and lost with high card Ace
+Seat 3: ProkingMastr (button) (small blind) showed [2s Kd] and won (180) with a pair of Kings
+
+
+
+PokerStars Hand #250425699082: Tournament #3752804588, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/05/10 18:41:10 CET [2024/05/10 12:41:10 ET]
+Table '3752804588 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (1320 in chips) 
+Seat 3: ProkingMastr (180 in chips) 
+Mahu2021: posts small blind 10
+ProkingMastr: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qs Jh]
+Mahu2021: calls 10
+ProkingMastr: checks 
+*** FLOP *** [4d 9h 7c]
+ProkingMastr: bets 160 and is all-in
+Mahu2021: folds 
+Uncalled bet (160) returned to ProkingMastr
+ProkingMastr collected 40 from pot
+ProkingMastr: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [4d 9h 7c]
+Seat 2: Mahu2021 (button) (small blind) folded on the Flop
+Seat 3: ProkingMastr (big blind) collected (40)
+
+
+
+PokerStars Hand #250425702988: Tournament #3752804588, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/05/10 18:41:25 CET [2024/05/10 12:41:25 ET]
+Table '3752804588 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (1300 in chips) 
+Seat 3: ProkingMastr (200 in chips) 
+ProkingMastr: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s 6d]
+ProkingMastr: calls 10
+Mahu2021: checks 
+*** FLOP *** [3h 2s Ts]
+Mahu2021: checks 
+ProkingMastr: checks 
+*** TURN *** [3h 2s Ts] [5d]
+Mahu2021: bets 20
+ProkingMastr: calls 20
+*** RIVER *** [3h 2s Ts 5d] [Qs]
+Mahu2021: checks 
+ProkingMastr: bets 60
+Mahu2021: calls 60
+*** SHOW DOWN ***
+ProkingMastr: shows [Qc 5c] (two pair, Queens and Fives)
+Mahu2021: mucks hand 
+ProkingMastr collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [3h 2s Ts 5d Qs]
+Seat 2: Mahu2021 (big blind) mucked [3s 6d]
+Seat 3: ProkingMastr (button) (small blind) showed [Qc 5c] and won (200) with two pair, Queens and Fives
+
+
+
+PokerStars Hand #250425711740: Tournament #3752804588, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/05/10 18:41:58 CET [2024/05/10 12:41:58 ET]
+Table '3752804588 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (1200 in chips) 
+Seat 3: ProkingMastr (300 in chips) 
+Mahu2021: posts small blind 15
+ProkingMastr: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s 2c]
+Mahu2021: folds 
+Uncalled bet (15) returned to ProkingMastr
+ProkingMastr collected 30 from pot
+ProkingMastr: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: ProkingMastr (big blind) collected (30)
+
+
+
+PokerStars Hand #250425712970: Tournament #3752804588, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/05/10 18:42:03 CET [2024/05/10 12:42:03 ET]
+Table '3752804588 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (1185 in chips) 
+Seat 3: ProkingMastr (315 in chips) 
+ProkingMastr: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac 5c]
+ProkingMastr: calls 15
+Mahu2021: raises 60 to 90
+ProkingMastr: calls 60
+*** FLOP *** [7c 5s 3d]
+Mahu2021: bets 1095 and is all-in
+ProkingMastr: calls 225 and is all-in
+Uncalled bet (870) returned to Mahu2021
+*** TURN *** [7c 5s 3d] [Th]
+*** RIVER *** [7c 5s 3d Th] [7s]
+*** SHOW DOWN ***
+Mahu2021: shows [Ac 5c] (two pair, Sevens and Fives)
+ProkingMastr: shows [2c 3c] (two pair, Sevens and Threes)
+Mahu2021 collected 630 from pot
+ProkingMastr finished the tournament in 2nd place
+Mahu2021 wins the tournament and receives $4.00 - congratulations!
+*** SUMMARY ***
+Total pot 630 | Rake 0 
+Board [7c 5s 3d Th 7s]
+Seat 2: Mahu2021 (big blind) showed [Ac 5c] and won (630) with two pair, Sevens and Fives
+Seat 3: ProkingMastr (button) (small blind) showed [2c 3c] and lost with two pair, Sevens and Threes
+
+
+

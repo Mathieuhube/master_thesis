@@ -1,0 +1,403 @@
+﻿PokerStars Hand #243208224080: Tournament #3580191696, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/20 17:23:42 CET [2023/04/20 11:23:42 ET]
+Table '3580191696 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: Poker_Rol (500 in chips) 
+Seat 3: valirod (500 in chips) 
+Poker_Rol: posts small blind 10
+valirod: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qs 7s]
+Mahu2021: folds 
+Poker_Rol: folds 
+Uncalled bet (10) returned to valirod
+valirod collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: Poker_Rol (small blind) folded before Flop
+Seat 3: valirod (big blind) collected (20)
+
+
+
+PokerStars Hand #243208226811: Tournament #3580191696, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/20 17:23:51 CET [2023/04/20 11:23:51 ET]
+Table '3580191696 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: Poker_Rol (490 in chips) 
+Seat 3: valirod (510 in chips) 
+valirod: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh 5h]
+Poker_Rol: raises 20 to 40
+valirod: folds 
+Mahu2021: calls 20
+*** FLOP *** [Js 2h 6h]
+Mahu2021: checks 
+Poker_Rol: bets 50
+Mahu2021: calls 50
+*** TURN *** [Js 2h 6h] [7h]
+Mahu2021: checks 
+Poker_Rol: bets 105
+Mahu2021: raises 305 to 410 and is all-in
+Poker_Rol: calls 295 and is all-in
+Uncalled bet (10) returned to Mahu2021
+*** RIVER *** [Js 2h 6h 7h] [8s]
+*** SHOW DOWN ***
+Mahu2021: shows [Qh 5h] (a flush, Queen high)
+Poker_Rol: shows [7d Jh] (two pair, Jacks and Sevens)
+Mahu2021 collected 990 from pot
+Poker_Rol finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 990 | Rake 0 
+Board [Js 2h 6h 7h 8s]
+Seat 1: Mahu2021 (big blind) showed [Qh 5h] and won (990) with a flush, Queen high
+Seat 2: Poker_Rol (button) showed [7d Jh] and lost with two pair, Jacks and Sevens
+Seat 3: valirod (small blind) folded before Flop
+
+
+
+PokerStars Hand #243208234622: Tournament #3580191696, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/20 17:24:18 CET [2023/04/20 11:24:18 ET]
+Table '3580191696 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1000 in chips) 
+Seat 3: valirod (500 in chips) 
+Mahu2021: posts small blind 10
+valirod: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd 6h]
+Mahu2021: calls 10
+valirod: checks 
+*** FLOP *** [9c 2d Ts]
+valirod: checks 
+Mahu2021: bets 20
+valirod: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [9c 2d Ts]
+Seat 1: Mahu2021 (button) (small blind) collected (40)
+Seat 3: valirod (big blind) folded on the Flop
+
+
+
+PokerStars Hand #243208239482: Tournament #3580191696, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/20 17:24:34 CET [2023/04/20 11:24:34 ET]
+Table '3580191696 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (1020 in chips) 
+Seat 3: valirod (480 in chips) 
+valirod: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh Ad]
+valirod: folds 
+Uncalled bet (10) returned to Mahu2021
+Mahu2021 collected 20 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (20)
+Seat 3: valirod (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #243208241005: Tournament #3580191696, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/20 17:24:39 CET [2023/04/20 11:24:39 ET]
+Table '3580191696 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1030 in chips) 
+Seat 3: valirod (470 in chips) 
+Mahu2021: posts small blind 10
+valirod: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc 4d]
+Mahu2021: calls 10
+valirod: raises 20 to 40
+Mahu2021: calls 20
+*** FLOP *** [6s As 3d]
+valirod: checks 
+Mahu2021: checks 
+*** TURN *** [6s As 3d] [Ac]
+valirod: checks 
+Mahu2021: bets 40
+valirod: calls 40
+*** RIVER *** [6s As 3d Ac] [3c]
+valirod: bets 390 and is all-in
+Mahu2021: folds 
+Uncalled bet (390) returned to valirod
+valirod collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [6s As 3d Ac 3c]
+Seat 1: Mahu2021 (button) (small blind) folded on the River
+Seat 3: valirod (big blind) collected (160)
+
+
+
+PokerStars Hand #243208250411: Tournament #3580191696, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/20 17:25:11 CET [2023/04/20 11:25:11 ET]
+Table '3580191696 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (950 in chips) 
+Seat 3: valirod (550 in chips) 
+valirod: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s Qd]
+valirod: raises 40 to 60
+Mahu2021: folds 
+Uncalled bet (40) returned to valirod
+valirod collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 3: valirod (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #243208253919: Tournament #3580191696, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/20 17:25:23 CET [2023/04/20 11:25:23 ET]
+Table '3580191696 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (930 in chips) 
+Seat 3: valirod (570 in chips) 
+Mahu2021: posts small blind 10
+valirod: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s Ah]
+Mahu2021: calls 10
+valirod: checks 
+*** FLOP *** [Qd 4d 5d]
+valirod: checks 
+Mahu2021: bets 20
+valirod: calls 20
+*** TURN *** [Qd 4d 5d] [As]
+valirod: checks 
+Mahu2021: checks 
+*** RIVER *** [Qd 4d 5d As] [Jc]
+valirod: bets 60
+Mahu2021: calls 60
+*** SHOW DOWN ***
+valirod: shows [2c 6h] (high card Ace)
+Mahu2021: shows [7s Ah] (a pair of Aces)
+Mahu2021 collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [Qd 4d 5d As Jc]
+Seat 1: Mahu2021 (button) (small blind) showed [7s Ah] and won (200) with a pair of Aces
+Seat 3: valirod (big blind) showed [2c 6h] and lost with high card Ace
+
+
+
+PokerStars Hand #243208260131: Tournament #3580191696, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/20 17:25:44 CET [2023/04/20 11:25:44 ET]
+Table '3580191696 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (1030 in chips) 
+Seat 3: valirod (470 in chips) 
+valirod: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h 4s]
+valirod: raises 20 to 40
+Mahu2021: calls 20
+*** FLOP *** [Kd 7h 2c]
+Mahu2021: checks 
+valirod: bets 40
+Mahu2021: calls 40
+*** TURN *** [Kd 7h 2c] [Qc]
+Mahu2021: checks 
+valirod: bets 100
+Mahu2021: folds 
+Uncalled bet (100) returned to valirod
+valirod collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Kd 7h 2c Qc]
+Seat 1: Mahu2021 (big blind) folded on the Turn
+Seat 3: valirod (button) (small blind) collected (160)
+
+
+
+PokerStars Hand #243208265715: Tournament #3580191696, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/20 17:26:03 CET [2023/04/20 11:26:03 ET]
+Table '3580191696 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (950 in chips) 
+Seat 3: valirod (550 in chips) 
+Mahu2021: posts small blind 10
+valirod: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8s 4s]
+Mahu2021: calls 10
+valirod: checks 
+*** FLOP *** [Qh Qs Ts]
+valirod: checks 
+Mahu2021: bets 20
+valirod: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Qh Qs Ts]
+Seat 1: Mahu2021 (button) (small blind) collected (40)
+Seat 3: valirod (big blind) folded on the Flop
+
+
+
+PokerStars Hand #243208268629: Tournament #3580191696, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/20 17:26:13 CET [2023/04/20 11:26:13 ET]
+Table '3580191696 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (970 in chips) 
+Seat 3: valirod (530 in chips) 
+valirod: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d 8h]
+valirod: folds 
+Uncalled bet (10) returned to Mahu2021
+Mahu2021 collected 20 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (20)
+Seat 3: valirod (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #243208269974: Tournament #3580191696, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/20 17:26:18 CET [2023/04/20 11:26:18 ET]
+Table '3580191696 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (980 in chips) 
+Seat 3: valirod (520 in chips) 
+Mahu2021: posts small blind 10
+valirod: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h 9c]
+Mahu2021: calls 10
+valirod: checks 
+*** FLOP *** [6c Th 7d]
+valirod: checks 
+Mahu2021: bets 20
+valirod: calls 20
+*** TURN *** [6c Th 7d] [3d]
+valirod: checks 
+Mahu2021: checks 
+*** RIVER *** [6c Th 7d 3d] [2s]
+valirod: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+valirod: shows [9s Qh] (high card Queen)
+Mahu2021: mucks hand 
+valirod collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [6c Th 7d 3d 2s]
+Seat 1: Mahu2021 (button) (small blind) mucked [4h 9c]
+Seat 3: valirod (big blind) showed [9s Qh] and won (80) with high card Queen
+
+
+
+PokerStars Hand #243208275714: Tournament #3580191696, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/20 17:26:37 CET [2023/04/20 11:26:37 ET]
+Table '3580191696 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (940 in chips) 
+Seat 3: valirod (560 in chips) 
+valirod: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Tc 8c]
+valirod: raises 20 to 40
+Mahu2021: calls 20
+*** FLOP *** [Kh Ac 2c]
+Mahu2021: checks 
+valirod: bets 60
+Mahu2021: calls 60
+*** TURN *** [Kh Ac 2c] [Ks]
+Mahu2021: checks 
+valirod: checks 
+*** RIVER *** [Kh Ac 2c Ks] [8h]
+Mahu2021: bets 200
+valirod: folds 
+Uncalled bet (200) returned to Mahu2021
+Mahu2021 collected 200 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [Kh Ac 2c Ks 8h]
+Seat 1: Mahu2021 (big blind) collected (200)
+Seat 3: valirod (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #243208281706: Tournament #3580191696, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/20 17:26:57 CET [2023/04/20 11:26:57 ET]
+Table '3580191696 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1040 in chips) 
+Seat 3: valirod (460 in chips) 
+Mahu2021: posts small blind 15
+valirod: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2s Tc]
+Mahu2021: folds 
+Uncalled bet (15) returned to valirod
+valirod collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: valirod (big blind) collected (30)
+
+
+
+PokerStars Hand #243208282955: Tournament #3580191696, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/20 17:27:01 CET [2023/04/20 11:27:01 ET]
+Table '3580191696 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (1025 in chips) 
+Seat 3: valirod (475 in chips) 
+valirod: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc 5d]
+valirod: raises 60 to 90
+Mahu2021: folds 
+Uncalled bet (60) returned to valirod
+valirod collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 3: valirod (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #243208285108: Tournament #3580191696, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/20 17:27:09 CET [2023/04/20 11:27:09 ET]
+Table '3580191696 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (995 in chips) 
+Seat 3: valirod (505 in chips) 
+Mahu2021: posts small blind 15
+valirod: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d 6c]
+Mahu2021: folds 
+Uncalled bet (15) returned to valirod
+valirod collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: valirod (big blind) collected (30)
+
+
+
+PokerStars Hand #243208286390: Tournament #3580191696, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/20 17:27:13 CET [2023/04/20 11:27:13 ET]
+Table '3580191696 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (980 in chips) 
+Seat 3: valirod (520 in chips) 
+valirod: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad Ks]
+valirod: raises 90 to 120
+Mahu2021: raises 860 to 980 and is all-in
+valirod: calls 400 and is all-in
+Uncalled bet (460) returned to Mahu2021
+*** FLOP *** [4d 2h Jh]
+*** TURN *** [4d 2h Jh] [5h]
+*** RIVER *** [4d 2h Jh 5h] [Tc]
+*** SHOW DOWN ***
+Mahu2021: shows [Ad Ks] (high card Ace)
+valirod: shows [Ah Qd] (high card Ace - lower kicker)
+Mahu2021 collected 1040 from pot
+valirod finished the tournament in 2nd place
+Mahu2021 wins the tournament and receives $3.00 - congratulations!
+*** SUMMARY ***
+Total pot 1040 | Rake 0 
+Board [4d 2h Jh 5h Tc]
+Seat 1: Mahu2021 (big blind) showed [Ad Ks] and won (1040) with high card Ace
+Seat 3: valirod (button) (small blind) showed [Ah Qd] and lost with high card Ace
+
+
+

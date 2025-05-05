@@ -1,0 +1,120 @@
+﻿PokerStars Hand #255713880126: Tournament #3878823062, $0.96+$0.04 USD Hold'em No Limit - Match Round I, Level I (25/50) - 2025/04/13 11:30:33 CET [2025/04/13 5:30:33 ET]
+Table '3878823062 2' 4-max Seat #1 is the button
+Seat 1: Bevenss (500 in chips) 
+Seat 2: pihl1004 (500 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+Seat 4: flacaravioll (500 in chips) 
+Bevenss: posts the ante 10
+pihl1004: posts the ante 10
+Mahu2021: posts the ante 10
+flacaravioll: posts the ante 10
+pihl1004: posts small blind 25
+Mahu2021: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8s 6c]
+flacaravioll: folds 
+Bevenss: folds 
+pihl1004: calls 25
+Mahu2021: checks 
+*** FLOP *** [Qh 5s 9h]
+pihl1004: bets 440 and is all-in
+Mahu2021: folds 
+Uncalled bet (440) returned to pihl1004
+pihl1004 collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | Rake 0 
+Board [Qh 5s 9h]
+Seat 1: Bevenss (button) folded before Flop (didn't bet)
+Seat 2: pihl1004 (small blind) collected (140)
+Seat 3: Mahu2021 (big blind) folded on the Flop
+Seat 4: flacaravioll folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255713882072: Tournament #3878823062, $0.96+$0.04 USD Hold'em No Limit - Match Round I, Level I (25/50) - 2025/04/13 11:30:51 CET [2025/04/13 5:30:51 ET]
+Table '3878823062 2' 4-max Seat #2 is the button
+Seat 1: Bevenss (490 in chips) 
+Seat 2: pihl1004 (580 in chips) 
+Seat 3: Mahu2021 (440 in chips) 
+Seat 4: flacaravioll (490 in chips) 
+Bevenss: posts the ante 10
+pihl1004: posts the ante 10
+Mahu2021: posts the ante 10
+flacaravioll: posts the ante 10
+Mahu2021: posts small blind 25
+flacaravioll: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d 9s]
+Bevenss: calls 50
+pihl1004: calls 50
+Mahu2021: folds 
+flacaravioll: checks 
+*** FLOP *** [7s 6d 2c]
+flacaravioll: checks 
+Bevenss: checks 
+pihl1004: bets 215
+flacaravioll: calls 215
+Bevenss: calls 215
+*** TURN *** [7s 6d 2c] [6s]
+flacaravioll: checks 
+Bevenss: checks 
+pihl1004: bets 305 and is all-in
+flacaravioll: folds 
+Bevenss: calls 215 and is all-in
+Uncalled bet (90) returned to pihl1004
+*** RIVER *** [7s 6d 2c 6s] [Ah]
+*** SHOW DOWN ***
+Bevenss: shows [Qh Qs] (two pair, Queens and Sixes)
+pihl1004: shows [Td 7d] (two pair, Sevens and Sixes)
+Bevenss collected 1290 from pot
+*** SUMMARY ***
+Total pot 1290 | Rake 0 
+Board [7s 6d 2c 6s Ah]
+Seat 1: Bevenss showed [Qh Qs] and won (1290) with two pair, Queens and Sixes
+Seat 2: pihl1004 (button) showed [Td 7d] and lost with two pair, Sevens and Sixes
+Seat 3: Mahu2021 (small blind) folded before Flop
+Seat 4: flacaravioll (big blind) folded on the Turn
+
+
+
+PokerStars Hand #255713886391: Tournament #3878823062, $0.96+$0.04 USD Hold'em No Limit - Match Round I, Level I (25/50) - 2025/04/13 11:31:31 CET [2025/04/13 5:31:31 ET]
+Table '3878823062 2' 4-max Seat #3 is the button
+Seat 1: Bevenss (1290 in chips) 
+Seat 2: pihl1004 (90 in chips) 
+Seat 3: Mahu2021 (405 in chips) 
+Seat 4: flacaravioll (215 in chips) 
+Bevenss: posts the ante 10
+pihl1004: posts the ante 10
+Mahu2021: posts the ante 10
+flacaravioll: posts the ante 10
+flacaravioll: posts small blind 25
+Bevenss: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac 8d]
+pihl1004: raises 30 to 80 and is all-in
+Mahu2021: raises 315 to 395 and is all-in
+flacaravioll: calls 180 and is all-in
+Bevenss: calls 345
+*** FLOP *** [3h Js 3d]
+*** TURN *** [3h Js 3d] [2h]
+*** RIVER *** [3h Js 3d 2h] [4h]
+*** SHOW DOWN ***
+Bevenss: shows [Ah Tc] (a pair of Threes)
+Mahu2021: shows [Ac 8d] (a pair of Threes - lower kicker)
+Bevenss collected 380 from side pot-2 
+flacaravioll: shows [Jd 9d] (two pair, Jacks and Threes)
+flacaravioll collected 375 from side pot-1 
+pihl1004: shows [7d Qc] (a pair of Threes)
+flacaravioll collected 360 from main pot
+Mahu2021 finished the tournament in 10th place
+pihl1004 finished the tournament in 11th place
+*** SUMMARY ***
+Total pot 1115 Main pot 360. Side pot-1 375. Side pot-2 380. | Rake 0 
+Board [3h Js 3d 2h 4h]
+Seat 1: Bevenss (big blind) showed [Ah Tc] and won (380) with a pair of Threes
+Seat 2: pihl1004 showed [7d Qc] and lost with a pair of Threes
+Seat 3: Mahu2021 (button) showed [Ac 8d] and lost with a pair of Threes
+Seat 4: flacaravioll (small blind) showed [Jd 9d] and won (735) with two pair, Jacks and Threes
+
+
+

@@ -1,0 +1,104 @@
+﻿PokerStars Hand #252872123066: Tournament #3810687553, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/11 14:14:59 CET [2024/10/11 8:14:59 ET]
+Table '3810687553 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: juraug (500 in chips) 
+Seat 3: brindusa1 (500 in chips) 
+juraug: posts small blind 10
+brindusa1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s 5d]
+Mahu2021: folds 
+juraug: calls 10
+brindusa1: raises 480 to 500 and is all-in
+juraug: folds 
+Uncalled bet (480) returned to brindusa1
+brindusa1 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: juraug (small blind) folded before Flop
+Seat 3: brindusa1 (big blind) collected (40)
+
+
+
+PokerStars Hand #252872124785: Tournament #3810687553, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/11 14:15:11 CET [2024/10/11 8:15:11 ET]
+Table '3810687553 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: juraug (480 in chips) 
+Seat 3: brindusa1 (520 in chips) 
+brindusa1: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s 6d]
+juraug: calls 20
+brindusa1: calls 10
+Mahu2021: checks 
+*** FLOP *** [Jc 2d 7h]
+brindusa1: bets 500 and is all-in
+Mahu2021: folds 
+juraug: folds 
+Uncalled bet (500) returned to brindusa1
+brindusa1 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Jc 2d 7h]
+Seat 1: Mahu2021 (big blind) folded on the Flop
+Seat 2: juraug (button) folded on the Flop
+Seat 3: brindusa1 (small blind) collected (60)
+
+
+
+PokerStars Hand #252872130066: Tournament #3810687553, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/11 14:15:44 CET [2024/10/11 8:15:44 ET]
+Table '3810687553 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (480 in chips) 
+Seat 2: juraug (460 in chips) 
+Seat 3: brindusa1 (560 in chips) 
+Mahu2021: posts small blind 10
+juraug: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c Qd]
+brindusa1: raises 40 to 60
+Mahu2021: folds 
+juraug: folds 
+Uncalled bet (40) returned to brindusa1
+brindusa1 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: juraug (big blind) folded before Flop
+Seat 3: brindusa1 (button) collected (50)
+
+
+
+PokerStars Hand #252872131159: Tournament #3810687553, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/10/11 14:15:51 CET [2024/10/11 8:15:51 ET]
+Table '3810687553 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (470 in chips) 
+Seat 2: juraug (440 in chips) 
+Seat 3: brindusa1 (590 in chips) 
+juraug: posts small blind 10
+brindusa1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d Ad]
+Mahu2021: raises 40 to 60
+juraug: folds 
+brindusa1: calls 40
+*** FLOP *** [4s 6h 5c]
+brindusa1: bets 530 and is all-in
+Mahu2021: calls 410 and is all-in
+Uncalled bet (120) returned to brindusa1
+*** TURN *** [4s 6h 5c] [9c]
+*** RIVER *** [4s 6h 5c 9c] [Qh]
+*** SHOW DOWN ***
+brindusa1: shows [7c 9h] (a pair of Nines)
+Mahu2021: shows [5d Ad] (a pair of Fives)
+brindusa1 collected 950 from pot
+Mahu2021 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 950 | Rake 0 
+Board [4s 6h 5c 9c Qh]
+Seat 1: Mahu2021 (button) showed [5d Ad] and lost with a pair of Fives
+Seat 2: juraug (small blind) folded before Flop
+Seat 3: brindusa1 (big blind) showed [7c 9h] and won (950) with a pair of Nines
+
+
+

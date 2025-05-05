@@ -1,0 +1,35 @@
+﻿PokerStars Hand #254185860305: Tournament #3842549521, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2025/01/04 9:10:01 CET [2025/01/04 3:10:01 ET]
+Table '3842549521 1' 3-max Seat #1 is the button
+Seat 1: Stieger830 (500 in chips) 
+Seat 2: smoker1968 (500 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+smoker1968: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s 5s]
+Stieger830: calls 20
+smoker1968: folds 
+Mahu2021: checks 
+*** FLOP *** [6d Jh 4d]
+Mahu2021: bets 20
+Stieger830: calls 20
+*** TURN *** [6d Jh 4d] [5d]
+Mahu2021: bets 90
+Stieger830: raises 90 to 180
+Mahu2021: raises 280 to 460 and is all-in
+Stieger830: calls 280 and is all-in
+*** RIVER *** [6d Jh 4d 5d] [2h]
+*** SHOW DOWN ***
+Mahu2021: shows [6s 5s] (two pair, Sixes and Fives)
+Stieger830: shows [8s 3d] (a straight, Deuce to Six)
+Stieger830 collected 1010 from pot
+Mahu2021 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1010 | Rake 0 
+Board [6d Jh 4d 5d 2h]
+Seat 1: Stieger830 (button) showed [8s 3d] and won (1010) with a straight, Deuce to Six
+Seat 2: smoker1968 (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) showed [6s 5s] and lost with two pair, Sixes and Fives
+
+
+

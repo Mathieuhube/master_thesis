@@ -1,0 +1,91 @@
+﻿PokerStars Hand #246975927692: Tournament #3669517830, $9.30+$0.70 USD Hold'em No Limit - Level I (10/20) - 2023/11/07 12:30:00 CET [2023/11/07 6:30:00 ET]
+Table '3669517830 1' 3-max Seat #1 is the button
+Seat 1: kirill 32364 (500 in chips) 
+Seat 2: imr3 (500 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+imr3: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qs 4s]
+kirill 32364: raises 20 to 40
+imr3: folds 
+Mahu2021: calls 20
+*** FLOP *** [6h Ad 7c]
+Mahu2021: checks 
+kirill 32364: bets 30
+Mahu2021: folds 
+Uncalled bet (30) returned to kirill 32364
+kirill 32364 collected 90 from pot
+kirill 32364: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [6h Ad 7c]
+Seat 1: kirill 32364 (button) collected (90)
+Seat 2: imr3 (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #246975930052: Tournament #3669517830, $9.30+$0.70 USD Hold'em No Limit - Level I (10/20) - 2023/11/07 12:30:15 CET [2023/11/07 6:30:15 ET]
+Table '3669517830 1' 3-max Seat #2 is the button
+Seat 1: kirill 32364 (550 in chips) 
+Seat 2: imr3 (490 in chips) 
+Seat 3: Mahu2021 (460 in chips) 
+Mahu2021: posts small blind 10
+kirill 32364: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2c 7c]
+imr3: calls 20
+Mahu2021: folds 
+kirill 32364: checks 
+*** FLOP *** [Kh 2d 5c]
+kirill 32364: checks 
+imr3: checks 
+*** TURN *** [Kh 2d 5c] [5d]
+kirill 32364: bets 40
+imr3: folds 
+Uncalled bet (40) returned to kirill 32364
+kirill 32364 collected 50 from pot
+kirill 32364: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [Kh 2d 5c 5d]
+Seat 1: kirill 32364 (big blind) collected (50)
+Seat 2: imr3 (button) folded on the Turn
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #246975933716: Tournament #3669517830, $9.30+$0.70 USD Hold'em No Limit - Level I (10/20) - 2023/11/07 12:30:39 CET [2023/11/07 6:30:39 ET]
+Table '3669517830 1' 3-max Seat #3 is the button
+Seat 1: kirill 32364 (580 in chips) 
+Seat 2: imr3 (470 in chips) 
+Seat 3: Mahu2021 (450 in chips) 
+kirill 32364: posts small blind 10
+imr3: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c 7h]
+Mahu2021: calls 20
+kirill 32364: raises 70 to 90
+imr3: folds 
+Mahu2021: calls 70
+*** FLOP *** [4c 6d Qs]
+kirill 32364: bets 50
+Mahu2021: raises 310 to 360 and is all-in
+kirill 32364: calls 310
+*** TURN *** [4c 6d Qs] [2s]
+*** RIVER *** [4c 6d Qs 2s] [8h]
+*** SHOW DOWN ***
+kirill 32364: shows [Ks Kc] (a pair of Kings)
+Mahu2021: shows [7c 7h] (a pair of Sevens)
+kirill 32364 collected 920 from pot
+Mahu2021 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 920 | Rake 0 
+Board [4c 6d Qs 2s 8h]
+Seat 1: kirill 32364 (small blind) showed [Ks Kc] and won (920) with a pair of Kings
+Seat 2: imr3 (big blind) folded before Flop
+Seat 3: Mahu2021 (button) showed [7c 7h] and lost with a pair of Sevens
+
+
+

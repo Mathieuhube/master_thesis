@@ -1,0 +1,999 @@
+﻿PokerStars Hand #246888310819: Tournament #3667405862, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/02 20:46:38 CET [2023/11/02 15:46:38 ET]
+Table '3667405862 1' 3-max Seat #1 is the button
+Seat 1: WalkingFisch (500 in chips) 
+Seat 2: patsak68 (500 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+patsak68: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s 2s]
+WalkingFisch: folds 
+patsak68: raises 20 to 40
+Mahu2021: calls 20
+*** FLOP *** [4d 5h Jc]
+patsak68: bets 40
+Mahu2021: calls 40
+*** TURN *** [4d 5h Jc] [Tc]
+patsak68: checks 
+Mahu2021: checks 
+*** RIVER *** [4d 5h Jc Tc] [4c]
+patsak68: checks 
+Mahu2021: bets 160
+patsak68: folds 
+Uncalled bet (160) returned to Mahu2021
+Mahu2021 collected 160 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [4d 5h Jc Tc 4c]
+Seat 1: WalkingFisch (button) folded before Flop (didn't bet)
+Seat 2: patsak68 (small blind) folded on the River
+Seat 3: Mahu2021 (big blind) collected (160)
+
+
+
+PokerStars Hand #246888320860: Tournament #3667405862, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/02 20:47:06 CET [2023/11/02 15:47:06 ET]
+Table '3667405862 1' 3-max Seat #2 is the button
+Seat 1: WalkingFisch (500 in chips) 
+Seat 2: patsak68 (420 in chips) 
+Seat 3: Mahu2021 (580 in chips) 
+Mahu2021: posts small blind 10
+WalkingFisch: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s 3s]
+patsak68: calls 20
+Mahu2021: folds 
+WalkingFisch: checks 
+*** FLOP *** [8s 5c 8h]
+WalkingFisch: checks 
+patsak68: checks 
+*** TURN *** [8s 5c 8h] [5s]
+WalkingFisch: checks 
+patsak68: checks 
+*** RIVER *** [8s 5c 8h 5s] [5h]
+WalkingFisch: bets 25
+patsak68: calls 25
+*** SHOW DOWN ***
+WalkingFisch: shows [2c Qc] (a full house, Fives full of Eights)
+patsak68: shows [Ac 7s] (a full house, Fives full of Eights)
+WalkingFisch collected 50 from pot
+patsak68 collected 50 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [8s 5c 8h 5s 5h]
+Seat 1: WalkingFisch (big blind) showed [2c Qc] and won (50) with a full house, Fives full of Eights
+Seat 2: patsak68 (button) showed [Ac 7s] and won (50) with a full house, Fives full of Eights
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #246888333911: Tournament #3667405862, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/02 20:47:42 CET [2023/11/02 15:47:42 ET]
+Table '3667405862 1' 3-max Seat #3 is the button
+Seat 1: WalkingFisch (505 in chips) 
+Seat 2: patsak68 (425 in chips) 
+Seat 3: Mahu2021 (570 in chips) 
+WalkingFisch: posts small blind 10
+patsak68: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d Qh]
+Mahu2021: folds 
+WalkingFisch: raises 20 to 40
+patsak68: calls 20
+*** FLOP *** [Kd 4s As]
+WalkingFisch: bets 40
+patsak68: folds 
+Uncalled bet (40) returned to WalkingFisch
+WalkingFisch collected 80 from pot
+WalkingFisch: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Kd 4s As]
+Seat 1: WalkingFisch (small blind) collected (80)
+Seat 2: patsak68 (big blind) folded on the Flop
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #246888339613: Tournament #3667405862, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/02 20:47:58 CET [2023/11/02 15:47:58 ET]
+Table '3667405862 1' 3-max Seat #1 is the button
+Seat 1: WalkingFisch (545 in chips) 
+Seat 2: patsak68 (385 in chips) 
+Seat 3: Mahu2021 (570 in chips) 
+patsak68: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d 9c]
+WalkingFisch: raises 20 to 40
+patsak68: calls 30
+Mahu2021: calls 20
+*** FLOP *** [8s 7d Ts]
+patsak68: checks 
+Mahu2021: bets 120
+WalkingFisch: folds 
+patsak68: folds 
+Uncalled bet (120) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [8s 7d Ts]
+Seat 1: WalkingFisch (button) folded on the Flop
+Seat 2: patsak68 (small blind) folded on the Flop
+Seat 3: Mahu2021 (big blind) collected (120)
+
+
+
+PokerStars Hand #246888352986: Tournament #3667405862, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/02 20:48:35 CET [2023/11/02 15:48:35 ET]
+Table '3667405862 1' 3-max Seat #2 is the button
+Seat 1: WalkingFisch (505 in chips) 
+Seat 2: patsak68 (345 in chips) 
+Seat 3: Mahu2021 (650 in chips) 
+Mahu2021: posts small blind 10
+WalkingFisch: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c 5h]
+patsak68: raises 325 to 345 and is all-in
+Mahu2021: folds 
+WalkingFisch: folds 
+Uncalled bet (325) returned to patsak68
+patsak68 collected 50 from pot
+patsak68: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: WalkingFisch (big blind) folded before Flop
+Seat 2: patsak68 (button) collected (50)
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #246888359653: Tournament #3667405862, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/02 20:48:54 CET [2023/11/02 15:48:54 ET]
+Table '3667405862 1' 3-max Seat #3 is the button
+Seat 1: WalkingFisch (485 in chips) 
+Seat 2: patsak68 (375 in chips) 
+Seat 3: Mahu2021 (640 in chips) 
+WalkingFisch: posts small blind 10
+patsak68: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8d 2s]
+Mahu2021: folds 
+WalkingFisch: folds 
+Uncalled bet (10) returned to patsak68
+patsak68 collected 20 from pot
+patsak68: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: WalkingFisch (small blind) folded before Flop
+Seat 2: patsak68 (big blind) collected (20)
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #246888361274: Tournament #3667405862, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/02 20:48:59 CET [2023/11/02 15:48:59 ET]
+Table '3667405862 1' 3-max Seat #1 is the button
+Seat 1: WalkingFisch (475 in chips) 
+Seat 2: patsak68 (385 in chips) 
+Seat 3: Mahu2021 (640 in chips) 
+patsak68: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc 8c]
+WalkingFisch: folds 
+patsak68: folds 
+Uncalled bet (10) returned to Mahu2021
+Mahu2021 collected 20 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: WalkingFisch (button) folded before Flop (didn't bet)
+Seat 2: patsak68 (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (20)
+
+
+
+PokerStars Hand #246888363872: Tournament #3667405862, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/11/02 20:49:06 CET [2023/11/02 15:49:06 ET]
+Table '3667405862 1' 3-max Seat #2 is the button
+Seat 1: WalkingFisch (475 in chips) 
+Seat 2: patsak68 (375 in chips) 
+Seat 3: Mahu2021 (650 in chips) 
+Mahu2021: posts small blind 10
+WalkingFisch: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h Td]
+patsak68: calls 20
+Mahu2021: folds 
+WalkingFisch: checks 
+*** FLOP *** [6s As 9s]
+WalkingFisch: checks 
+patsak68: checks 
+*** TURN *** [6s As 9s] [Js]
+WalkingFisch: checks 
+patsak68: checks 
+*** RIVER *** [6s As 9s Js] [6h]
+WalkingFisch: checks 
+patsak68: checks 
+*** SHOW DOWN ***
+WalkingFisch: shows [4d 9h] (two pair, Nines and Sixes)
+patsak68: mucks hand 
+WalkingFisch collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [6s As 9s Js 6h]
+Seat 1: WalkingFisch (big blind) showed [4d 9h] and won (50) with two pair, Nines and Sixes
+Seat 2: patsak68 (button) mucked [8h 7h]
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #246888376901: Tournament #3667405862, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/02 20:49:43 CET [2023/11/02 15:49:43 ET]
+Table '3667405862 1' 3-max Seat #3 is the button
+Seat 1: WalkingFisch (505 in chips) 
+Seat 2: patsak68 (355 in chips) 
+Seat 3: Mahu2021 (640 in chips) 
+WalkingFisch: posts small blind 15
+patsak68: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h Qd]
+Mahu2021: folds 
+WalkingFisch: folds 
+Uncalled bet (15) returned to patsak68
+patsak68 collected 30 from pot
+patsak68: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: WalkingFisch (small blind) folded before Flop
+Seat 2: patsak68 (big blind) collected (30)
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #246888378974: Tournament #3667405862, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/02 20:49:48 CET [2023/11/02 15:49:48 ET]
+Table '3667405862 1' 3-max Seat #1 is the button
+Seat 1: WalkingFisch (490 in chips) 
+Seat 2: patsak68 (370 in chips) 
+Seat 3: Mahu2021 (640 in chips) 
+patsak68: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c 9s]
+WalkingFisch: raises 30 to 60
+patsak68: calls 45
+Mahu2021: folds 
+*** FLOP *** [5s Qh 6s]
+patsak68: checks 
+WalkingFisch: bets 60
+patsak68: folds 
+Uncalled bet (60) returned to WalkingFisch
+WalkingFisch collected 150 from pot
+WalkingFisch: doesn't show hand 
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Board [5s Qh 6s]
+Seat 1: WalkingFisch (button) collected (150)
+Seat 2: patsak68 (small blind) folded on the Flop
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #246888385321: Tournament #3667405862, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/02 20:50:06 CET [2023/11/02 15:50:06 ET]
+Table '3667405862 1' 3-max Seat #2 is the button
+Seat 1: WalkingFisch (580 in chips) 
+Seat 2: patsak68 (310 in chips) 
+Seat 3: Mahu2021 (610 in chips) 
+Mahu2021: posts small blind 15
+WalkingFisch: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac 4c]
+patsak68: folds 
+Mahu2021: raises 60 to 90
+WalkingFisch: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: WalkingFisch (big blind) folded before Flop
+Seat 2: patsak68 (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) collected (60)
+
+
+
+PokerStars Hand #246888389651: Tournament #3667405862, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/02 20:50:18 CET [2023/11/02 15:50:18 ET]
+Table '3667405862 1' 3-max Seat #3 is the button
+Seat 1: WalkingFisch (550 in chips) 
+Seat 2: patsak68 (310 in chips) 
+Seat 3: Mahu2021 (640 in chips) 
+WalkingFisch: posts small blind 15
+patsak68: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3c 3d]
+Mahu2021: calls 30
+WalkingFisch: calls 15
+patsak68: checks 
+*** FLOP *** [5d Ah Kc]
+WalkingFisch: checks 
+patsak68: checks 
+Mahu2021: bets 30
+WalkingFisch: calls 30
+patsak68: folds 
+*** TURN *** [5d Ah Kc] [Qc]
+WalkingFisch: checks 
+Mahu2021: checks 
+*** RIVER *** [5d Ah Kc Qc] [7d]
+WalkingFisch: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+WalkingFisch: shows [3h As] (a pair of Aces)
+Mahu2021: mucks hand 
+WalkingFisch collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Board [5d Ah Kc Qc 7d]
+Seat 1: WalkingFisch (small blind) showed [3h As] and won (150) with a pair of Aces
+Seat 2: patsak68 (big blind) folded on the Flop
+Seat 3: Mahu2021 (button) mucked [3c 3d]
+
+
+
+PokerStars Hand #246888404929: Tournament #3667405862, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/02 20:51:01 CET [2023/11/02 15:51:01 ET]
+Table '3667405862 1' 3-max Seat #1 is the button
+Seat 1: WalkingFisch (640 in chips) 
+Seat 2: patsak68 (280 in chips) 
+Seat 3: Mahu2021 (580 in chips) 
+patsak68: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts Td]
+WalkingFisch: folds 
+patsak68: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: WalkingFisch (button) folded before Flop (didn't bet)
+Seat 2: patsak68 (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (30)
+
+
+
+PokerStars Hand #246888407803: Tournament #3667405862, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/02 20:51:08 CET [2023/11/02 15:51:08 ET]
+Table '3667405862 1' 3-max Seat #2 is the button
+Seat 1: WalkingFisch (640 in chips) 
+Seat 2: patsak68 (265 in chips) 
+Seat 3: Mahu2021 (595 in chips) 
+Mahu2021: posts small blind 15
+WalkingFisch: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah 2d]
+patsak68: raises 235 to 265 and is all-in
+Mahu2021: folds 
+WalkingFisch: folds 
+Uncalled bet (235) returned to patsak68
+patsak68 collected 75 from pot
+patsak68: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: WalkingFisch (big blind) folded before Flop
+Seat 2: patsak68 (button) collected (75)
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #246888410530: Tournament #3667405862, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/02 20:51:16 CET [2023/11/02 15:51:16 ET]
+Table '3667405862 1' 3-max Seat #3 is the button
+Seat 1: WalkingFisch (610 in chips) 
+Seat 2: patsak68 (310 in chips) 
+Seat 3: Mahu2021 (580 in chips) 
+WalkingFisch: posts small blind 15
+patsak68: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As 2s]
+Mahu2021: calls 30
+WalkingFisch: folds 
+patsak68: checks 
+*** FLOP *** [2h Qc 5s]
+patsak68: checks 
+Mahu2021: bets 30
+patsak68: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 75 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Board [2h Qc 5s]
+Seat 1: WalkingFisch (small blind) folded before Flop
+Seat 2: patsak68 (big blind) folded on the Flop
+Seat 3: Mahu2021 (button) collected (75)
+
+
+
+PokerStars Hand #246888415005: Tournament #3667405862, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/02 20:51:28 CET [2023/11/02 15:51:28 ET]
+Table '3667405862 1' 3-max Seat #1 is the button
+Seat 1: WalkingFisch (595 in chips) 
+Seat 2: patsak68 (280 in chips) 
+Seat 3: Mahu2021 (625 in chips) 
+patsak68: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8s Qc]
+WalkingFisch: raises 30 to 60
+patsak68: folds 
+Mahu2021: calls 30
+*** FLOP *** [4h As Kd]
+Mahu2021: checks 
+WalkingFisch: bets 68
+Mahu2021: folds 
+Uncalled bet (68) returned to WalkingFisch
+WalkingFisch collected 135 from pot
+WalkingFisch: doesn't show hand 
+*** SUMMARY ***
+Total pot 135 | Rake 0 
+Board [4h As Kd]
+Seat 1: WalkingFisch (button) collected (135)
+Seat 2: patsak68 (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #246888420437: Tournament #3667405862, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/02 20:51:43 CET [2023/11/02 15:51:43 ET]
+Table '3667405862 1' 3-max Seat #2 is the button
+Seat 1: WalkingFisch (670 in chips) 
+Seat 2: patsak68 (265 in chips) 
+Seat 3: Mahu2021 (565 in chips) 
+Mahu2021: posts small blind 15
+WalkingFisch: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js 2h]
+patsak68: folds 
+Mahu2021: folds 
+Uncalled bet (15) returned to WalkingFisch
+WalkingFisch collected 30 from pot
+WalkingFisch: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: WalkingFisch (big blind) collected (30)
+Seat 2: patsak68 (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #246888422151: Tournament #3667405862, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/02 20:51:48 CET [2023/11/02 15:51:48 ET]
+Table '3667405862 1' 3-max Seat #3 is the button
+Seat 1: WalkingFisch (685 in chips) 
+Seat 2: patsak68 (265 in chips) 
+Seat 3: Mahu2021 (550 in chips) 
+WalkingFisch: posts small blind 15
+patsak68: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h 6d]
+Mahu2021: folds 
+WalkingFisch: folds 
+Uncalled bet (15) returned to patsak68
+patsak68 collected 30 from pot
+patsak68: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: WalkingFisch (small blind) folded before Flop
+Seat 2: patsak68 (big blind) collected (30)
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #246888423855: Tournament #3667405862, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/02 20:51:52 CET [2023/11/02 15:51:52 ET]
+Table '3667405862 1' 3-max Seat #1 is the button
+Seat 1: WalkingFisch (670 in chips) 
+Seat 2: patsak68 (280 in chips) 
+Seat 3: Mahu2021 (550 in chips) 
+patsak68: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s 6h]
+WalkingFisch: folds 
+patsak68: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: WalkingFisch (button) folded before Flop (didn't bet)
+Seat 2: patsak68 (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (30)
+
+
+
+PokerStars Hand #246888426417: Tournament #3667405862, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/02 20:52:00 CET [2023/11/02 15:52:00 ET]
+Table '3667405862 1' 3-max Seat #2 is the button
+Seat 1: WalkingFisch (670 in chips) 
+Seat 2: patsak68 (265 in chips) 
+Seat 3: Mahu2021 (565 in chips) 
+Mahu2021: posts small blind 15
+WalkingFisch: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d Ah]
+patsak68: folds 
+Mahu2021: raises 535 to 565 and is all-in
+WalkingFisch: calls 535
+*** FLOP *** [4h 3s 5c]
+*** TURN *** [4h 3s 5c] [7h]
+*** RIVER *** [4h 3s 5c 7h] [Td]
+*** SHOW DOWN ***
+Mahu2021: shows [6d Ah] (a straight, Three to Seven)
+WalkingFisch: shows [As 8h] (high card Ace)
+Mahu2021 collected 1130 from pot
+*** SUMMARY ***
+Total pot 1130 | Rake 0 
+Board [4h 3s 5c 7h Td]
+Seat 1: WalkingFisch (big blind) showed [As 8h] and lost with high card Ace
+Seat 2: patsak68 (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) showed [6d Ah] and won (1130) with a straight, Three to Seven
+
+
+
+PokerStars Hand #246888433284: Tournament #3667405862, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/02 20:52:19 CET [2023/11/02 15:52:19 ET]
+Table '3667405862 1' 3-max Seat #3 is the button
+Seat 1: WalkingFisch (105 in chips) 
+Seat 2: patsak68 (265 in chips) 
+Seat 3: Mahu2021 (1130 in chips) 
+WalkingFisch: posts small blind 15
+patsak68: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks Ah]
+Mahu2021: calls 30
+WalkingFisch: folds 
+patsak68: checks 
+*** FLOP *** [5s 8c 7d]
+patsak68: bets 235 and is all-in
+Mahu2021: folds 
+Uncalled bet (235) returned to patsak68
+patsak68 collected 75 from pot
+patsak68: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Board [5s 8c 7d]
+Seat 1: WalkingFisch (small blind) folded before Flop
+Seat 2: patsak68 (big blind) collected (75)
+Seat 3: Mahu2021 (button) folded on the Flop
+
+
+
+PokerStars Hand #246888438510: Tournament #3667405862, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2023/11/02 20:52:33 CET [2023/11/02 15:52:33 ET]
+Table '3667405862 1' 3-max Seat #1 is the button
+Seat 1: WalkingFisch (90 in chips) 
+Seat 2: patsak68 (310 in chips) 
+Seat 3: Mahu2021 (1100 in chips) 
+patsak68: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8c 4s]
+WalkingFisch: raises 60 to 90 and is all-in
+patsak68: raises 220 to 310 and is all-in
+Mahu2021: folds 
+Uncalled bet (220) returned to patsak68
+*** FLOP *** [7h 8s Ah]
+*** TURN *** [7h 8s Ah] [8h]
+*** RIVER *** [7h 8s Ah 8h] [6d]
+*** SHOW DOWN ***
+patsak68: shows [9s 9h] (two pair, Nines and Eights)
+WalkingFisch: shows [Qd Ts] (a pair of Eights)
+patsak68 collected 210 from pot
+WalkingFisch finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 210 | Rake 0 
+Board [7h 8s Ah 8h 6d]
+Seat 1: WalkingFisch (button) showed [Qd Ts] and lost with a pair of Eights
+Seat 2: patsak68 (small blind) showed [9s 9h] and won (210) with two pair, Nines and Eights
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #246888444845: Tournament #3667405862, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/11/02 20:52:51 CET [2023/11/02 15:52:51 ET]
+Table '3667405862 1' 3-max Seat #3 is the button
+Seat 2: patsak68 (430 in chips) 
+Seat 3: Mahu2021 (1070 in chips) 
+Mahu2021: posts small blind 20
+patsak68: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kc Jh]
+Mahu2021: raises 40 to 80
+patsak68: calls 40
+*** FLOP *** [2s Ah 4c]
+patsak68: checks 
+Mahu2021: bets 80
+patsak68: folds 
+Uncalled bet (80) returned to Mahu2021
+Mahu2021 collected 160 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [2s Ah 4c]
+Seat 2: patsak68 (big blind) folded on the Flop
+Seat 3: Mahu2021 (button) (small blind) collected (160)
+
+
+
+PokerStars Hand #246888449291: Tournament #3667405862, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/11/02 20:53:03 CET [2023/11/02 15:53:03 ET]
+Table '3667405862 1' 3-max Seat #2 is the button
+Seat 2: patsak68 (350 in chips) 
+Seat 3: Mahu2021 (1150 in chips) 
+patsak68: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As 4d]
+patsak68: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: patsak68 (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (40)
+
+
+
+PokerStars Hand #246888451220: Tournament #3667405862, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/11/02 20:53:08 CET [2023/11/02 15:53:08 ET]
+Table '3667405862 1' 3-max Seat #3 is the button
+Seat 2: patsak68 (330 in chips) 
+Seat 3: Mahu2021 (1170 in chips) 
+Mahu2021: posts small blind 20
+patsak68: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh 2h]
+Mahu2021: raises 40 to 80
+patsak68: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: patsak68 (big blind) folded before Flop
+Seat 3: Mahu2021 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #246888453362: Tournament #3667405862, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/11/02 20:53:14 CET [2023/11/02 15:53:14 ET]
+Table '3667405862 1' 3-max Seat #2 is the button
+Seat 2: patsak68 (290 in chips) 
+Seat 3: Mahu2021 (1210 in chips) 
+patsak68: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s Ts]
+patsak68: raises 250 to 290 and is all-in
+Mahu2021: folds 
+Uncalled bet (250) returned to patsak68
+patsak68 collected 80 from pot
+patsak68: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: patsak68 (button) (small blind) collected (80)
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #246888455966: Tournament #3667405862, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/11/02 20:53:21 CET [2023/11/02 15:53:21 ET]
+Table '3667405862 1' 3-max Seat #3 is the button
+Seat 2: patsak68 (330 in chips) 
+Seat 3: Mahu2021 (1170 in chips) 
+Mahu2021: posts small blind 20
+patsak68: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qd Qh]
+Mahu2021: raises 40 to 80
+patsak68: raises 250 to 330 and is all-in
+Mahu2021: calls 250
+*** FLOP *** [8s 3s Kc]
+*** TURN *** [8s 3s Kc] [Ah]
+*** RIVER *** [8s 3s Kc Ah] [8c]
+*** SHOW DOWN ***
+patsak68: shows [Qc 8h] (three of a kind, Eights)
+Mahu2021: shows [Qd Qh] (two pair, Queens and Eights)
+patsak68 collected 660 from pot
+*** SUMMARY ***
+Total pot 660 | Rake 0 
+Board [8s 3s Kc Ah 8c]
+Seat 2: patsak68 (big blind) showed [Qc 8h] and won (660) with three of a kind, Eights
+Seat 3: Mahu2021 (button) (small blind) showed [Qd Qh] and lost with two pair, Queens and Eights
+
+
+
+PokerStars Hand #246888460805: Tournament #3667405862, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/11/02 20:53:35 CET [2023/11/02 15:53:35 ET]
+Table '3667405862 1' 3-max Seat #2 is the button
+Seat 2: patsak68 (660 in chips) 
+Seat 3: Mahu2021 (840 in chips) 
+patsak68: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks 4h]
+patsak68: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: patsak68 (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (40)
+
+
+
+PokerStars Hand #246888463765: Tournament #3667405862, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/11/02 20:53:42 CET [2023/11/02 15:53:42 ET]
+Table '3667405862 1' 3-max Seat #3 is the button
+Seat 2: patsak68 (640 in chips) 
+Seat 3: Mahu2021 (860 in chips) 
+Mahu2021: posts small blind 20
+patsak68: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h 4d]
+Mahu2021: folds 
+Uncalled bet (20) returned to patsak68
+patsak68 collected 40 from pot
+patsak68: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: patsak68 (big blind) collected (40)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #246888465439: Tournament #3667405862, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/11/02 20:53:47 CET [2023/11/02 15:53:47 ET]
+Table '3667405862 1' 3-max Seat #2 is the button
+Seat 2: patsak68 (660 in chips) 
+Seat 3: Mahu2021 (840 in chips) 
+patsak68: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s Jc]
+patsak68: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: patsak68 (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (40)
+
+
+
+PokerStars Hand #246888467084: Tournament #3667405862, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/11/02 20:53:52 CET [2023/11/02 15:53:52 ET]
+Table '3667405862 1' 3-max Seat #3 is the button
+Seat 2: patsak68 (640 in chips) 
+Seat 3: Mahu2021 (860 in chips) 
+Mahu2021: posts small blind 20
+patsak68: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks 2d]
+Mahu2021: calls 20
+patsak68: checks 
+*** FLOP *** [8c Ac 8h]
+patsak68: checks 
+Mahu2021: bets 40
+patsak68: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [8c Ac 8h]
+Seat 2: patsak68 (big blind) folded on the Flop
+Seat 3: Mahu2021 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #246888471751: Tournament #3667405862, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/11/02 20:54:05 CET [2023/11/02 15:54:05 ET]
+Table '3667405862 1' 3-max Seat #2 is the button
+Seat 2: patsak68 (600 in chips) 
+Seat 3: Mahu2021 (900 in chips) 
+patsak68: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8d 6s]
+patsak68: raises 40 to 80
+Mahu2021: folds 
+Uncalled bet (40) returned to patsak68
+patsak68 collected 80 from pot
+patsak68: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: patsak68 (button) (small blind) collected (80)
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #246888473770: Tournament #3667405862, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/11/02 20:54:10 CET [2023/11/02 15:54:10 ET]
+Table '3667405862 1' 3-max Seat #3 is the button
+Seat 2: patsak68 (640 in chips) 
+Seat 3: Mahu2021 (860 in chips) 
+Mahu2021: posts small blind 20
+patsak68: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c Kc]
+Mahu2021: raises 40 to 80
+patsak68: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: patsak68 (big blind) folded before Flop
+Seat 3: Mahu2021 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #246888476031: Tournament #3667405862, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/11/02 20:54:17 CET [2023/11/02 15:54:17 ET]
+Table '3667405862 1' 3-max Seat #2 is the button
+Seat 2: patsak68 (600 in chips) 
+Seat 3: Mahu2021 (900 in chips) 
+patsak68: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac 5d]
+patsak68: raises 40 to 80
+Mahu2021: calls 40
+*** FLOP *** [4h 4c Kh]
+Mahu2021: checks 
+patsak68: bets 40
+Mahu2021: calls 40
+*** TURN *** [4h 4c Kh] [Ah]
+Mahu2021: checks 
+patsak68: bets 480 and is all-in
+Mahu2021: calls 480
+*** RIVER *** [4h 4c Kh Ah] [9s]
+*** SHOW DOWN ***
+Mahu2021: shows [Ac 5d] (two pair, Aces and Fours)
+patsak68: shows [7s 4s] (three of a kind, Fours)
+patsak68 collected 1200 from pot
+*** SUMMARY ***
+Total pot 1200 | Rake 0 
+Board [4h 4c Kh Ah 9s]
+Seat 2: patsak68 (button) (small blind) showed [7s 4s] and won (1200) with three of a kind, Fours
+Seat 3: Mahu2021 (big blind) showed [Ac 5d] and lost with two pair, Aces and Fours
+
+
+
+PokerStars Hand #246888481846: Tournament #3667405862, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/11/02 20:54:33 CET [2023/11/02 15:54:33 ET]
+Table '3667405862 1' 3-max Seat #3 is the button
+Seat 2: patsak68 (1200 in chips) 
+Seat 3: Mahu2021 (300 in chips) 
+Mahu2021: posts small blind 20
+patsak68: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d 2s]
+Mahu2021: folds 
+Uncalled bet (20) returned to patsak68
+patsak68 collected 40 from pot
+patsak68: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: patsak68 (big blind) collected (40)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #246888483338: Tournament #3667405862, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/11/02 20:54:37 CET [2023/11/02 15:54:37 ET]
+Table '3667405862 1' 3-max Seat #2 is the button
+Seat 2: patsak68 (1220 in chips) 
+Seat 3: Mahu2021 (280 in chips) 
+patsak68: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s 4h]
+patsak68: raises 240 to 280
+Mahu2021: folds 
+Uncalled bet (240) returned to patsak68
+patsak68 collected 80 from pot
+patsak68: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: patsak68 (button) (small blind) collected (80)
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #246888485807: Tournament #3667405862, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/11/02 20:54:43 CET [2023/11/02 15:54:43 ET]
+Table '3667405862 1' 3-max Seat #3 is the button
+Seat 2: patsak68 (1260 in chips) 
+Seat 3: Mahu2021 (240 in chips) 
+Mahu2021: posts small blind 20
+patsak68: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2s Ac]
+Mahu2021: raises 200 to 240 and is all-in
+patsak68: folds 
+Uncalled bet (200) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: patsak68 (big blind) folded before Flop
+Seat 3: Mahu2021 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #246888488364: Tournament #3667405862, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/11/02 20:54:51 CET [2023/11/02 15:54:51 ET]
+Table '3667405862 1' 3-max Seat #2 is the button
+Seat 2: patsak68 (1220 in chips) 
+Seat 3: Mahu2021 (280 in chips) 
+patsak68: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h 5h]
+patsak68: raises 280 to 320
+Mahu2021: folds 
+Uncalled bet (280) returned to patsak68
+patsak68 collected 80 from pot
+patsak68: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: patsak68 (button) (small blind) collected (80)
+Seat 3: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #246888491744: Tournament #3667405862, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/11/02 20:55:00 CET [2023/11/02 15:55:00 ET]
+Table '3667405862 1' 3-max Seat #3 is the button
+Seat 2: patsak68 (1260 in chips) 
+Seat 3: Mahu2021 (240 in chips) 
+Mahu2021: posts small blind 20
+patsak68: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d 9d]
+Mahu2021: folds 
+Uncalled bet (20) returned to patsak68
+patsak68 collected 40 from pot
+patsak68: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: patsak68 (big blind) collected (40)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #246888493417: Tournament #3667405862, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/11/02 20:55:04 CET [2023/11/02 15:55:04 ET]
+Table '3667405862 1' 3-max Seat #2 is the button
+Seat 2: patsak68 (1280 in chips) 
+Seat 3: Mahu2021 (220 in chips) 
+patsak68: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qs 8c]
+patsak68: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: patsak68 (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (40)
+
+
+
+PokerStars Hand #246888495252: Tournament #3667405862, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2023/11/02 20:55:10 CET [2023/11/02 15:55:10 ET]
+Table '3667405862 1' 3-max Seat #3 is the button
+Seat 2: patsak68 (1260 in chips) 
+Seat 3: Mahu2021 (240 in chips) 
+Mahu2021: posts small blind 20
+patsak68: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac 7s]
+Mahu2021: calls 20
+patsak68: checks 
+*** FLOP *** [7d Jc 3s]
+patsak68: checks 
+Mahu2021: bets 80
+patsak68: raises 120 to 200
+Mahu2021: calls 120 and is all-in
+*** TURN *** [7d Jc 3s] [Ks]
+*** RIVER *** [7d Jc 3s Ks] [4h]
+*** SHOW DOWN ***
+patsak68: shows [Js 2c] (a pair of Jacks)
+Mahu2021: shows [Ac 7s] (a pair of Sevens)
+patsak68 collected 480 from pot
+Mahu2021 finished the tournament in 2nd place
+patsak68 wins the tournament and receives $6.00 - congratulations!
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Board [7d Jc 3s Ks 4h]
+Seat 2: patsak68 (big blind) showed [Js 2c] and won (480) with a pair of Jacks
+Seat 3: Mahu2021 (button) (small blind) showed [Ac 7s] and lost with a pair of Sevens
+
+
+

@@ -1,0 +1,166 @@
+﻿PokerStars Hand #245218394188: Tournament #3627212696, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/08/05 18:14:03 CET [2023/08/05 12:14:03 ET]
+Table '3627212696 1' 3-max Seat #1 is the button
+Seat 1: Art_kz (500 in chips) 
+Seat 2: azim7020 (500 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+azim7020: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c 5c]
+Art_kz: folds 
+azim7020: calls 10
+Mahu2021: checks 
+*** FLOP *** [2d 4c Tc]
+azim7020: bets 20
+Mahu2021: calls 20
+*** TURN *** [2d 4c Tc] [Kd]
+azim7020: bets 20
+Mahu2021: calls 20
+*** RIVER *** [2d 4c Tc Kd] [Kh]
+azim7020: bets 20
+Mahu2021: folds 
+Uncalled bet (20) returned to azim7020
+azim7020 collected 120 from pot
+azim7020: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [2d 4c Tc Kd Kh]
+Seat 1: Art_kz (button) folded before Flop (didn't bet)
+Seat 2: azim7020 (small blind) collected (120)
+Seat 3: Mahu2021 (big blind) folded on the River
+
+
+
+PokerStars Hand #245218400379: Tournament #3627212696, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/08/05 18:14:24 CET [2023/08/05 12:14:24 ET]
+Table '3627212696 1' 3-max Seat #2 is the button
+Seat 1: Art_kz (500 in chips) 
+Seat 2: azim7020 (560 in chips) 
+Seat 3: Mahu2021 (440 in chips) 
+Mahu2021: posts small blind 10
+Art_kz: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s 4c]
+azim7020: raises 20 to 40
+Mahu2021: folds 
+Art_kz: calls 20
+*** FLOP *** [6h 5s 6d]
+Art_kz: checks 
+azim7020: checks 
+*** TURN *** [6h 5s 6d] [5c]
+Art_kz: bets 45
+azim7020: calls 45
+*** RIVER *** [6h 5s 6d 5c] [5h]
+Art_kz: checks 
+azim7020: checks 
+*** SHOW DOWN ***
+Art_kz: shows [9d Td] (a full house, Fives full of Sixes)
+azim7020: shows [3s Ah] (a full house, Fives full of Sixes)
+Art_kz collected 90 from pot
+azim7020 collected 90 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [6h 5s 6d 5c 5h]
+Seat 1: Art_kz (big blind) showed [9d Td] and won (90) with a full house, Fives full of Sixes
+Seat 2: azim7020 (button) showed [3s Ah] and won (90) with a full house, Fives full of Sixes
+Seat 3: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #245218410177: Tournament #3627212696, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/08/05 18:14:59 CET [2023/08/05 12:14:59 ET]
+Table '3627212696 1' 3-max Seat #3 is the button
+Seat 1: Art_kz (505 in chips) 
+Seat 2: azim7020 (565 in chips) 
+Seat 3: Mahu2021 (430 in chips) 
+Art_kz: posts small blind 10
+azim7020: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5h 3h]
+Mahu2021: calls 20
+Art_kz: raises 60 to 80
+azim7020: calls 60
+Mahu2021: calls 60
+*** FLOP *** [Qh As 9s]
+Art_kz: bets 240
+azim7020: folds 
+Mahu2021: folds 
+Uncalled bet (240) returned to Art_kz
+Art_kz collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Qh As 9s]
+Seat 1: Art_kz (small blind) collected (240)
+Seat 2: azim7020 (big blind) folded on the Flop
+Seat 3: Mahu2021 (button) folded on the Flop
+
+
+
+PokerStars Hand #245218415983: Tournament #3627212696, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/08/05 18:15:19 CET [2023/08/05 12:15:19 ET]
+Table '3627212696 1' 3-max Seat #1 is the button
+Seat 1: Art_kz (665 in chips) 
+Seat 2: azim7020 (485 in chips) 
+Seat 3: Mahu2021 (350 in chips) 
+azim7020: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qd 9c]
+Art_kz: raises 20 to 40
+azim7020: calls 30
+Mahu2021: calls 20
+*** FLOP *** [5s Td 3s]
+azim7020: bets 20
+Mahu2021: folds 
+Art_kz: calls 20
+*** TURN *** [5s Td 3s] [8h]
+azim7020: bets 20
+Art_kz: calls 20
+*** RIVER *** [5s Td 3s 8h] [Js]
+azim7020: bets 20
+Art_kz: raises 240 to 260
+azim7020: folds 
+Uncalled bet (240) returned to Art_kz
+Art_kz collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [5s Td 3s 8h Js]
+Seat 1: Art_kz (button) collected (240)
+Seat 2: azim7020 (small blind) folded on the River
+Seat 3: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #245218429725: Tournament #3627212696, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/08/05 18:16:08 CET [2023/08/05 12:16:08 ET]
+Table '3627212696 1' 3-max Seat #2 is the button
+Seat 1: Art_kz (805 in chips) 
+Seat 2: azim7020 (385 in chips) 
+Seat 3: Mahu2021 (310 in chips) 
+Mahu2021: posts small blind 15
+Art_kz: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s 6h]
+azim7020: folds 
+Mahu2021: calls 15
+Art_kz: checks 
+*** FLOP *** [Ah Tc 6s]
+Mahu2021: checks 
+Art_kz: bets 30
+Mahu2021: calls 30
+*** TURN *** [Ah Tc 6s] [5s]
+Mahu2021: checks 
+Art_kz: checks 
+*** RIVER *** [Ah Tc 6s 5s] [Kh]
+Mahu2021: bets 250 and is all-in
+Art_kz: calls 250
+*** SHOW DOWN ***
+Mahu2021: shows [7s 6h] (a pair of Sixes)
+Art_kz: shows [6d Ks] (two pair, Kings and Sixes)
+Art_kz collected 620 from pot
+Mahu2021 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 620 | Rake 0 
+Board [Ah Tc 6s 5s Kh]
+Seat 1: Art_kz (big blind) showed [6d Ks] and won (620) with two pair, Kings and Sixes
+Seat 2: azim7020 (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) showed [7s 6h] and lost with a pair of Sixes
+
+
+

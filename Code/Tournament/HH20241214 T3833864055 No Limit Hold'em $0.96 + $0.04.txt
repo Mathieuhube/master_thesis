@@ -1,0 +1,515 @@
+﻿PokerStars Hand #253847120822: Tournament #3833864055, $0.96+$0.04 USD Hold'em No Limit - Match Round I, Level I (25/50) - 2024/12/14 8:30:23 CET [2024/12/14 2:30:23 ET]
+Table '3833864055 1' 4-max Seat #1 is the button
+Seat 1: vakis13 (500 in chips) 
+Seat 2: Joyles (500 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+Seat 4: Sheeyh (500 in chips) 
+vakis13: posts the ante 10
+Joyles: posts the ante 10
+Mahu2021: posts the ante 10
+Sheeyh: posts the ante 10
+Joyles: posts small blind 25
+Mahu2021: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h Jc]
+Sheeyh: folds 
+vakis13: folds 
+Joyles: calls 25
+Mahu2021: checks 
+*** FLOP *** [As 5c 8d]
+Joyles: checks 
+Mahu2021: checks 
+*** TURN *** [As 5c 8d] [9c]
+Joyles: bets 50
+Mahu2021: calls 50
+*** RIVER *** [As 5c 8d 9c] [2c]
+Joyles: bets 50
+Mahu2021: folds 
+Uncalled bet (50) returned to Joyles
+Joyles collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [As 5c 8d 9c 2c]
+Seat 1: vakis13 (button) folded before Flop (didn't bet)
+Seat 2: Joyles (small blind) collected (240)
+Seat 3: Mahu2021 (big blind) folded on the River
+Seat 4: Sheeyh folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253847122802: Tournament #3833864055, $0.96+$0.04 USD Hold'em No Limit - Match Round I, Level I (25/50) - 2024/12/14 8:30:47 CET [2024/12/14 2:30:47 ET]
+Table '3833864055 1' 4-max Seat #2 is the button
+Seat 1: vakis13 (490 in chips) 
+Seat 2: Joyles (630 in chips) 
+Seat 3: Mahu2021 (390 in chips) 
+Seat 4: Sheeyh (490 in chips) 
+vakis13: posts the ante 10
+Joyles: posts the ante 10
+Mahu2021: posts the ante 10
+Sheeyh: posts the ante 10
+Mahu2021: posts small blind 25
+Sheeyh: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d 2h]
+vakis13: raises 50 to 100
+Joyles: folds 
+Mahu2021: raises 280 to 380 and is all-in
+Sheeyh: folds 
+vakis13: calls 280
+*** FLOP *** [3d 7d 3c]
+*** TURN *** [3d 7d 3c] [2c]
+*** RIVER *** [3d 7d 3c 2c] [Kc]
+*** SHOW DOWN ***
+Mahu2021: shows [2d 2h] (a full house, Deuces full of Threes)
+vakis13: shows [Ah Jd] (a pair of Threes)
+Mahu2021 collected 850 from pot
+*** SUMMARY ***
+Total pot 850 | Rake 0 
+Board [3d 7d 3c 2c Kc]
+Seat 1: vakis13 showed [Ah Jd] and lost with a pair of Threes
+Seat 2: Joyles (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) showed [2d 2h] and won (850) with a full house, Deuces full of Threes
+Seat 4: Sheeyh (big blind) folded before Flop
+
+
+
+PokerStars Hand #253847124204: Tournament #3833864055, $0.96+$0.04 USD Hold'em No Limit - Match Round I, Level I (25/50) - 2024/12/14 8:31:04 CET [2024/12/14 2:31:04 ET]
+Table '3833864055 1' 4-max Seat #3 is the button
+Seat 1: vakis13 (100 in chips) 
+Seat 2: Joyles (620 in chips) 
+Seat 3: Mahu2021 (850 in chips) 
+Seat 4: Sheeyh (430 in chips) 
+vakis13: posts the ante 10
+Joyles: posts the ante 10
+Mahu2021: posts the ante 10
+Sheeyh: posts the ante 10
+Sheeyh: posts small blind 25
+vakis13: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Tc 5c]
+Joyles: folds 
+Mahu2021: folds 
+Sheeyh: folds 
+Uncalled bet (25) returned to vakis13
+vakis13 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Seat 1: vakis13 (big blind) collected (90)
+Seat 2: Joyles folded before Flop (didn't bet)
+Seat 3: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 4: Sheeyh (small blind) folded before Flop
+
+
+
+PokerStars Hand #253847125011: Tournament #3833864055, $0.96+$0.04 USD Hold'em No Limit - Match Round I, Level I (25/50) - 2024/12/14 8:31:14 CET [2024/12/14 2:31:14 ET]
+Table '3833864055 1' 4-max Seat #4 is the button
+Seat 1: vakis13 (155 in chips) 
+Seat 2: Joyles (610 in chips) 
+Seat 3: Mahu2021 (840 in chips) 
+Seat 4: Sheeyh (395 in chips) 
+vakis13: posts the ante 10
+Joyles: posts the ante 10
+Mahu2021: posts the ante 10
+Sheeyh: posts the ante 10
+vakis13: posts small blind 25
+Joyles: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As Ad]
+Mahu2021: raises 780 to 830 and is all-in
+Sheeyh: folds 
+vakis13: calls 120 and is all-in
+Joyles: folds 
+Uncalled bet (685) returned to Mahu2021
+*** FLOP *** [6h Qd Qs]
+*** TURN *** [6h Qd Qs] [4d]
+*** RIVER *** [6h Qd Qs 4d] [5s]
+*** SHOW DOWN ***
+vakis13: shows [Tc Ac] (a pair of Queens)
+Mahu2021: shows [As Ad] (two pair, Aces and Queens)
+Mahu2021 collected 380 from pot
+vakis13 finished the tournament in 15th place
+*** SUMMARY ***
+Total pot 380 | Rake 0 
+Board [6h Qd Qs 4d 5s]
+Seat 1: vakis13 (small blind) showed [Tc Ac] and lost with a pair of Queens
+Seat 2: Joyles (big blind) folded before Flop
+Seat 3: Mahu2021 showed [As Ad] and won (380) with two pair, Aces and Queens
+Seat 4: Sheeyh (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253847126163: Tournament #3833864055, $0.96+$0.04 USD Hold'em No Limit - Match Round I, Level I (25/50) - 2024/12/14 8:31:29 CET [2024/12/14 2:31:29 ET]
+Table '3833864055 1' 4-max Seat #2 is the button
+Seat 2: Joyles (550 in chips) 
+Seat 3: Mahu2021 (1065 in chips) 
+Seat 4: Sheeyh (385 in chips) 
+Joyles: posts the ante 10
+Mahu2021: posts the ante 10
+Sheeyh: posts the ante 10
+Mahu2021: posts small blind 25
+Sheeyh: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s 9d]
+Joyles: folds 
+Mahu2021: raises 50 to 100
+Sheeyh: folds 
+Uncalled bet (50) returned to Mahu2021
+Mahu2021 collected 130 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 130 | Rake 0 
+Seat 2: Joyles (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) collected (130)
+Seat 4: Sheeyh (big blind) folded before Flop
+
+
+
+PokerStars Hand #253847126893: Tournament #3833864055, $0.96+$0.04 USD Hold'em No Limit - Match Round I, Level I (25/50) - 2024/12/14 8:31:38 CET [2024/12/14 2:31:38 ET]
+Table '3833864055 1' 4-max Seat #3 is the button
+Seat 2: Joyles (540 in chips) 
+Seat 3: Mahu2021 (1135 in chips) 
+Seat 4: Sheeyh (325 in chips) 
+Joyles: posts the ante 10
+Mahu2021: posts the ante 10
+Sheeyh: posts the ante 10
+Sheeyh: posts small blind 25
+Joyles: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As Ac]
+Mahu2021: raises 1075 to 1125 and is all-in
+Sheeyh: folds 
+Joyles: calls 480 and is all-in
+Uncalled bet (595) returned to Mahu2021
+*** FLOP *** [9h 3d 9c]
+*** TURN *** [9h 3d 9c] [4h]
+*** RIVER *** [9h 3d 9c 4h] [5d]
+*** SHOW DOWN ***
+Joyles: shows [Kc 9s] (three of a kind, Nines)
+Mahu2021: shows [As Ac] (two pair, Aces and Nines)
+Joyles collected 1115 from pot
+*** SUMMARY ***
+Total pot 1115 | Rake 0 
+Board [9h 3d 9c 4h 5d]
+Seat 2: Joyles (big blind) showed [Kc 9s] and won (1115) with three of a kind, Nines
+Seat 3: Mahu2021 (button) showed [As Ac] and lost with two pair, Aces and Nines
+Seat 4: Sheeyh (small blind) folded before Flop
+
+
+
+PokerStars Hand #253847128019: Tournament #3833864055, $0.96+$0.04 USD Hold'em No Limit - Match Round I, Level I (25/50) - 2024/12/14 8:31:51 CET [2024/12/14 2:31:51 ET]
+Table '3833864055 1' 4-max Seat #4 is the button
+Seat 2: Joyles (1115 in chips) 
+Seat 3: Mahu2021 (595 in chips) 
+Seat 4: Sheeyh (290 in chips) 
+Joyles: posts the ante 10
+Mahu2021: posts the ante 10
+Sheeyh: posts the ante 10
+Joyles: posts small blind 25
+Mahu2021: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4d Td]
+Sheeyh: raises 230 to 280 and is all-in
+Joyles: folds 
+Mahu2021: folds 
+Uncalled bet (230) returned to Sheeyh
+Sheeyh collected 155 from pot
+*** SUMMARY ***
+Total pot 155 | Rake 0 
+Seat 2: Joyles (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) folded before Flop
+Seat 4: Sheeyh (button) collected (155)
+
+
+
+PokerStars Hand #253847129942: Tournament #3833864055, $0.96+$0.04 USD Hold'em No Limit - Match Round I, Level I (25/50) - 2024/12/14 8:32:14 CET [2024/12/14 2:32:14 ET]
+Table '3833864055 1' 4-max Seat #2 is the button
+Seat 2: Joyles (1080 in chips) 
+Seat 3: Mahu2021 (535 in chips) 
+Seat 4: Sheeyh (385 in chips) 
+Joyles: posts the ante 10
+Mahu2021: posts the ante 10
+Sheeyh: posts the ante 10
+Mahu2021: posts small blind 25
+Sheeyh: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2c 3d]
+Joyles: calls 50
+Mahu2021: folds 
+Sheeyh: checks 
+*** FLOP *** [6s 4h 6h]
+Sheeyh: bets 50
+Joyles: folds 
+Uncalled bet (50) returned to Sheeyh
+Sheeyh collected 155 from pot
+*** SUMMARY ***
+Total pot 155 | Rake 0 
+Board [6s 4h 6h]
+Seat 2: Joyles (button) folded on the Flop
+Seat 3: Mahu2021 (small blind) folded before Flop
+Seat 4: Sheeyh (big blind) collected (155)
+
+
+
+PokerStars Hand #253847132662: Tournament #3833864055, $0.96+$0.04 USD Hold'em No Limit - Match Round I, Level I (25/50) - 2024/12/14 8:32:49 CET [2024/12/14 2:32:49 ET]
+Table '3833864055 1' 4-max Seat #3 is the button
+Seat 2: Joyles (1020 in chips) 
+Seat 3: Mahu2021 (500 in chips) 
+Seat 4: Sheeyh (480 in chips) 
+Joyles: posts the ante 10
+Mahu2021: posts the ante 10
+Sheeyh: posts the ante 10
+Sheeyh: posts small blind 25
+Joyles: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s Kc]
+Mahu2021: raises 50 to 100
+Sheeyh: folds 
+Joyles: calls 50
+*** FLOP *** [Qc 6s 2h]
+Joyles: checks 
+Mahu2021: bets 50
+Joyles: calls 50
+*** TURN *** [Qc 6s 2h] [9c]
+Joyles: checks 
+Mahu2021: checks 
+*** RIVER *** [Qc 6s 2h 9c] [Ks]
+Joyles: checks 
+Mahu2021: bets 50
+Joyles: folds 
+Uncalled bet (50) returned to Mahu2021
+Mahu2021 collected 355 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 355 | Rake 0 
+Board [Qc 6s 2h 9c Ks]
+Seat 2: Joyles (big blind) folded on the River
+Seat 3: Mahu2021 (button) collected (355)
+Seat 4: Sheeyh (small blind) folded before Flop
+
+
+
+PokerStars Hand #253847135178: Tournament #3833864055, $0.96+$0.04 USD Hold'em No Limit - Match Round I, Level I (25/50) - 2024/12/14 8:33:20 CET [2024/12/14 2:33:20 ET]
+Table '3833864055 1' 4-max Seat #4 is the button
+Seat 2: Joyles (860 in chips) 
+Seat 3: Mahu2021 (695 in chips) 
+Seat 4: Sheeyh (445 in chips) 
+Joyles: posts the ante 10
+Mahu2021: posts the ante 10
+Sheeyh: posts the ante 10
+Joyles: posts small blind 25
+Mahu2021: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh Qh]
+Sheeyh: calls 50
+Joyles: raises 50 to 100
+Mahu2021: calls 50
+Sheeyh: calls 50
+*** FLOP *** [Qs Ad 8h]
+Joyles: bets 100
+Mahu2021: folds 
+Sheeyh: folds 
+Uncalled bet (100) returned to Joyles
+Joyles collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | Rake 0 
+Board [Qs Ad 8h]
+Seat 2: Joyles (small blind) collected (330)
+Seat 3: Mahu2021 (big blind) folded on the Flop
+Seat 4: Sheeyh (button) folded on the Flop
+
+
+
+PokerStars Hand #253847136847: Tournament #3833864055, $0.96+$0.04 USD Hold'em No Limit - Match Round I, Level II (50/100) - 2024/12/14 8:33:41 CET [2024/12/14 2:33:41 ET]
+Table '3833864055 1' 4-max Seat #2 is the button
+Seat 2: Joyles (1080 in chips) 
+Seat 3: Mahu2021 (585 in chips) 
+Seat 4: Sheeyh (335 in chips) 
+Joyles: posts the ante 20
+Mahu2021: posts the ante 20
+Sheeyh: posts the ante 20
+Mahu2021: posts small blind 50
+Sheeyh: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d Ah]
+Joyles: folds 
+Mahu2021: raises 465 to 565 and is all-in
+Sheeyh: calls 215 and is all-in
+Uncalled bet (250) returned to Mahu2021
+*** FLOP *** [2s Kc 9s]
+*** TURN *** [2s Kc 9s] [Ks]
+*** RIVER *** [2s Kc 9s Ks] [7d]
+*** SHOW DOWN ***
+Mahu2021: shows [6d Ah] (a pair of Kings)
+Sheeyh: shows [Jh Tc] (a pair of Kings - lower kicker)
+Mahu2021 collected 690 from pot
+Sheeyh finished the tournament in 7th place
+*** SUMMARY ***
+Total pot 690 | Rake 0 
+Board [2s Kc 9s Ks 7d]
+Seat 2: Joyles (button) folded before Flop (didn't bet)
+Seat 3: Mahu2021 (small blind) showed [6d Ah] and won (690) with a pair of Kings
+Seat 4: Sheeyh (big blind) showed [Jh Tc] and lost with a pair of Kings
+
+
+
+PokerStars Hand #253847138238: Tournament #3833864055, $0.96+$0.04 USD Hold'em No Limit - Match Round I, Level II (50/100) - 2024/12/14 8:33:59 CET [2024/12/14 2:33:59 ET]
+Table '3833864055 1' 4-max Seat #3 is the button
+Seat 2: Joyles (1060 in chips) 
+Seat 3: Mahu2021 (940 in chips) 
+Joyles: posts the ante 20
+Mahu2021: posts the ante 20
+Mahu2021: posts small blind 50
+Joyles: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d 3d]
+Mahu2021: calls 50
+Joyles: checks 
+*** FLOP *** [Kd 2s 8c]
+Joyles: checks 
+Mahu2021: bets 100
+Joyles: calls 100
+*** TURN *** [Kd 2s 8c] [Kh]
+Joyles: checks 
+Mahu2021: bets 200
+Joyles: calls 200
+*** RIVER *** [Kd 2s 8c Kh] [3s]
+Joyles: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+Joyles: shows [Qc 8d] (two pair, Kings and Eights)
+Mahu2021: mucks hand 
+Joyles collected 840 from pot
+*** SUMMARY ***
+Total pot 840 | Rake 0 
+Board [Kd 2s 8c Kh 3s]
+Seat 2: Joyles (big blind) showed [Qc 8d] and won (840) with two pair, Kings and Eights
+Seat 3: Mahu2021 (button) (small blind) mucked [2d 3d]
+
+
+
+PokerStars Hand #253847140257: Tournament #3833864055, $0.96+$0.04 USD Hold'em No Limit - Match Round I, Level II (50/100) - 2024/12/14 8:34:24 CET [2024/12/14 2:34:24 ET]
+Table '3833864055 1' 4-max Seat #2 is the button
+Seat 2: Joyles (1480 in chips) 
+Seat 3: Mahu2021 (520 in chips) 
+Joyles: posts the ante 20
+Mahu2021: posts the ante 20
+Joyles: posts small blind 50
+Mahu2021: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s 5d]
+Joyles: folds 
+Uncalled bet (50) returned to Mahu2021
+Mahu2021 collected 140 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 140 | Rake 0 
+Seat 2: Joyles (button) (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) collected (140)
+
+
+
+PokerStars Hand #253847141258: Tournament #3833864055, $0.96+$0.04 USD Hold'em No Limit - Match Round I, Level II (50/100) - 2024/12/14 8:34:37 CET [2024/12/14 2:34:37 ET]
+Table '3833864055 1' 4-max Seat #3 is the button
+Seat 2: Joyles (1410 in chips) 
+Seat 3: Mahu2021 (590 in chips) 
+Joyles: posts the ante 20
+Mahu2021: posts the ante 20
+Mahu2021: posts small blind 50
+Joyles: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h 9d]
+Mahu2021: folds 
+Uncalled bet (50) returned to Joyles
+Joyles collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | Rake 0 
+Seat 2: Joyles (big blind) collected (140)
+Seat 3: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #253847141683: Tournament #3833864055, $0.96+$0.04 USD Hold'em No Limit - Match Round I, Level II (50/100) - 2024/12/14 8:34:42 CET [2024/12/14 2:34:42 ET]
+Table '3833864055 1' 4-max Seat #2 is the button
+Seat 2: Joyles (1480 in chips) 
+Seat 3: Mahu2021 (520 in chips) 
+Joyles: posts the ante 20
+Mahu2021: posts the ante 20
+Joyles: posts small blind 50
+Mahu2021: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s 5s]
+Joyles: calls 50
+Mahu2021: checks 
+*** FLOP *** [4c 3h 3c]
+Mahu2021: checks 
+Joyles: checks 
+*** TURN *** [4c 3h 3c] [2h]
+Mahu2021: bets 100
+Joyles: raises 100 to 200
+Mahu2021: calls 100
+*** RIVER *** [4c 3h 3c 2h] [Ks]
+Mahu2021: checks 
+Joyles: bets 180
+Mahu2021: folds 
+Uncalled bet (180) returned to Joyles
+Joyles collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | Rake 0 
+Board [4c 3h 3c 2h Ks]
+Seat 2: Joyles (button) (small blind) collected (640)
+Seat 3: Mahu2021 (big blind) folded on the River
+
+
+
+PokerStars Hand #253847144124: Tournament #3833864055, $0.96+$0.04 USD Hold'em No Limit - Match Round I, Level II (50/100) - 2024/12/14 8:35:13 CET [2024/12/14 2:35:13 ET]
+Table '3833864055 1' 4-max Seat #3 is the button
+Seat 2: Joyles (1800 in chips) 
+Seat 3: Mahu2021 (200 in chips) 
+Joyles: posts the ante 20
+Mahu2021: posts the ante 20
+Mahu2021: posts small blind 50
+Joyles: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh 8s]
+Mahu2021: raises 80 to 180 and is all-in
+Joyles: folds 
+Uncalled bet (80) returned to Mahu2021
+Mahu2021 collected 240 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Seat 2: Joyles (big blind) folded before Flop
+Seat 3: Mahu2021 (button) (small blind) collected (240)
+
+
+
+PokerStars Hand #253847144735: Tournament #3833864055, $0.96+$0.04 USD Hold'em No Limit - Match Round I, Level II (50/100) - 2024/12/14 8:35:21 CET [2024/12/14 2:35:21 ET]
+Table '3833864055 1' 4-max Seat #2 is the button
+Seat 2: Joyles (1680 in chips) 
+Seat 3: Mahu2021 (320 in chips) 
+Joyles: posts the ante 20
+Mahu2021: posts the ante 20
+Joyles: posts small blind 50
+Mahu2021: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc 8c]
+Joyles: raises 100 to 200
+Mahu2021: raises 100 to 300 and is all-in
+Joyles: calls 100
+*** FLOP *** [Ac Qd 4s]
+*** TURN *** [Ac Qd 4s] [9c]
+*** RIVER *** [Ac Qd 4s 9c] [5d]
+*** SHOW DOWN ***
+Mahu2021: shows [Jc 8c] (high card Ace)
+Joyles: shows [As 5c] (two pair, Aces and Fives)
+Joyles collected 640 from pot
+Mahu2021 finished the tournament in 5th place
+StealtHx3 is disconnected 
+*** SUMMARY ***
+Total pot 640 | Rake 0 
+Board [Ac Qd 4s 9c 5d]
+Seat 2: Joyles (button) (small blind) showed [As 5c] and won (640) with two pair, Aces and Fives
+Seat 3: Mahu2021 (big blind) showed [Jc 8c] and lost with high card Ace
+
+
+

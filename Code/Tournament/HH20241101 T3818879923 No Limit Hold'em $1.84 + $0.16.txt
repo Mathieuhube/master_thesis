@@ -1,0 +1,399 @@
+﻿PokerStars Hand #253203253174: Tournament #3818879923, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/01 17:58:16 CET [2024/11/01 12:58:16 ET]
+Table '3818879923 1' 3-max Seat #1 is the button
+Seat 1: gulys (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: QZIOM (500 in chips) 
+Mahu2021: posts small blind 10
+QZIOM: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d 3d]
+gulys: folds 
+Mahu2021: calls 10
+QZIOM: checks 
+*** FLOP *** [5d 8d Kd]
+Mahu2021: bets 40
+QZIOM: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [5d 8d Kd]
+Seat 1: gulys (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) collected (40)
+Seat 3: QZIOM (big blind) folded on the Flop
+
+
+
+PokerStars Hand #253203255494: Tournament #3818879923, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/01 17:58:29 CET [2024/11/01 12:58:29 ET]
+Table '3818879923 1' 3-max Seat #2 is the button
+Seat 1: gulys (500 in chips) 
+Seat 2: Mahu2021 (520 in chips) 
+Seat 3: QZIOM (480 in chips) 
+QZIOM: posts small blind 10
+gulys: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s Qd]
+Mahu2021: folds 
+QZIOM: calls 10
+gulys: raises 40 to 60
+QZIOM: folds 
+Uncalled bet (40) returned to gulys
+gulys collected 40 from pot
+gulys: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: gulys (big blind) collected (40)
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: QZIOM (small blind) folded before Flop
+
+
+
+PokerStars Hand #253203257388: Tournament #3818879923, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/01 17:58:39 CET [2024/11/01 12:58:39 ET]
+Table '3818879923 1' 3-max Seat #3 is the button
+Seat 1: gulys (520 in chips) 
+Seat 2: Mahu2021 (520 in chips) 
+Seat 3: QZIOM (460 in chips) 
+gulys: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad Td]
+QZIOM: raises 20 to 40
+gulys: calls 30
+Mahu2021: calls 20
+*** FLOP *** [As 7h 2h]
+gulys: checks 
+Mahu2021: bets 40
+QZIOM: calls 40
+gulys: folds 
+*** TURN *** [As 7h 2h] [Qd]
+Mahu2021: checks 
+QZIOM: bets 100
+Mahu2021: calls 100
+*** RIVER *** [As 7h 2h Qd] [4d]
+Mahu2021: checks 
+QZIOM: bets 220
+Mahu2021: calls 220
+*** SHOW DOWN ***
+QZIOM: shows [Qh 4h] (two pair, Queens and Fours)
+Mahu2021: mucks hand 
+QZIOM collected 840 from pot
+*** SUMMARY ***
+Total pot 840 | Rake 0 
+Board [As 7h 2h Qd 4d]
+Seat 1: gulys (small blind) folded on the Flop
+Seat 2: Mahu2021 (big blind) mucked [Ad Td]
+Seat 3: QZIOM (button) showed [Qh 4h] and won (840) with two pair, Queens and Fours
+
+
+
+PokerStars Hand #253203270071: Tournament #3818879923, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/01 17:59:49 CET [2024/11/01 12:59:49 ET]
+Table '3818879923 1' 3-max Seat #1 is the button
+Seat 1: gulys (480 in chips) 
+Seat 2: Mahu2021 (120 in chips) 
+Seat 3: QZIOM (900 in chips) 
+Mahu2021: posts small blind 10
+QZIOM: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8c Qs]
+gulys: folds 
+Mahu2021: raises 100 to 120 and is all-in
+QZIOM: calls 100
+*** FLOP *** [7c As 4s]
+*** TURN *** [7c As 4s] [3d]
+*** RIVER *** [7c As 4s 3d] [2s]
+*** SHOW DOWN ***
+Mahu2021: shows [8c Qs] (high card Ace)
+QZIOM: shows [9d Jh] (high card Ace - lower kicker)
+Mahu2021 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [7c As 4s 3d 2s]
+Seat 1: gulys (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) showed [8c Qs] and won (240) with high card Ace
+Seat 3: QZIOM (big blind) showed [9d Jh] and lost with high card Ace
+
+
+
+PokerStars Hand #253203274059: Tournament #3818879923, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/01 18:00:11 CET [2024/11/01 13:00:11 ET]
+Table '3818879923 1' 3-max Seat #2 is the button
+Seat 1: gulys (480 in chips) 
+Seat 2: Mahu2021 (240 in chips) 
+Seat 3: QZIOM (780 in chips) 
+QZIOM: posts small blind 10
+gulys: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h 4s]
+Mahu2021: folds 
+QZIOM: folds 
+Uncalled bet (10) returned to gulys
+gulys collected 20 from pot
+gulys: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: gulys (big blind) collected (20)
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: QZIOM (small blind) folded before Flop
+
+
+
+PokerStars Hand #253203274967: Tournament #3818879923, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/01 18:00:15 CET [2024/11/01 13:00:15 ET]
+Table '3818879923 1' 3-max Seat #3 is the button
+Seat 1: gulys (490 in chips) 
+Seat 2: Mahu2021 (240 in chips) 
+Seat 3: QZIOM (770 in chips) 
+gulys: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s Tc]
+QZIOM: folds 
+gulys: raises 470 to 490 and is all-in
+Mahu2021: folds 
+Uncalled bet (470) returned to gulys
+gulys collected 40 from pot
+gulys: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: gulys (small blind) collected (40)
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: QZIOM (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253203277886: Tournament #3818879923, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/01 18:00:31 CET [2024/11/01 13:00:31 ET]
+Table '3818879923 1' 3-max Seat #1 is the button
+Seat 1: gulys (510 in chips) 
+Seat 2: Mahu2021 (220 in chips) 
+Seat 3: QZIOM (770 in chips) 
+Mahu2021: posts small blind 10
+QZIOM: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks 8h]
+gulys: raises 20 to 40
+Mahu2021: calls 30
+QZIOM: calls 20
+*** FLOP *** [Ts 6d 4s]
+Mahu2021: checks 
+QZIOM: checks 
+gulys: checks 
+*** TURN *** [Ts 6d 4s] [2h]
+Mahu2021: checks 
+QZIOM: bets 60
+gulys: calls 60
+Mahu2021: folds 
+*** RIVER *** [Ts 6d 4s 2h] [4c]
+QZIOM: bets 260
+gulys: folds 
+Uncalled bet (260) returned to QZIOM
+QZIOM collected 240 from pot
+QZIOM: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Ts 6d 4s 2h 4c]
+Seat 1: gulys (button) folded on the River
+Seat 2: Mahu2021 (small blind) folded on the Turn
+Seat 3: QZIOM (big blind) collected (240)
+
+
+
+PokerStars Hand #253203288705: Tournament #3818879923, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/01 18:01:25 CET [2024/11/01 13:01:25 ET]
+Table '3818879923 1' 3-max Seat #2 is the button
+Seat 1: gulys (410 in chips) 
+Seat 2: Mahu2021 (180 in chips) 
+Seat 3: QZIOM (910 in chips) 
+QZIOM: posts small blind 15
+gulys: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h 3c]
+Mahu2021: folds 
+QZIOM: raises 30 to 60
+gulys: folds 
+Uncalled bet (30) returned to QZIOM
+QZIOM collected 60 from pot
+QZIOM: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: gulys (big blind) folded before Flop
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: QZIOM (small blind) collected (60)
+
+
+
+PokerStars Hand #253203291442: Tournament #3818879923, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/01 18:01:37 CET [2024/11/01 13:01:37 ET]
+Table '3818879923 1' 3-max Seat #3 is the button
+Seat 1: gulys (380 in chips) 
+Seat 2: Mahu2021 (180 in chips) 
+Seat 3: QZIOM (940 in chips) 
+gulys: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h 8c]
+QZIOM: folds 
+gulys: calls 15
+Mahu2021: checks 
+*** FLOP *** [4c Jd 7s]
+gulys: bets 30
+Mahu2021: raises 120 to 150 and is all-in
+gulys: folds 
+Uncalled bet (120) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [4c Jd 7s]
+Seat 1: gulys (small blind) folded on the Flop
+Seat 2: Mahu2021 (big blind) collected (120)
+Seat 3: QZIOM (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253203297077: Tournament #3818879923, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/01 18:02:02 CET [2024/11/01 13:02:02 ET]
+Table '3818879923 1' 3-max Seat #1 is the button
+Seat 1: gulys (320 in chips) 
+Seat 2: Mahu2021 (240 in chips) 
+Seat 3: QZIOM (940 in chips) 
+Mahu2021: posts small blind 15
+QZIOM: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c 3d]
+gulys: folds 
+Mahu2021: folds 
+Uncalled bet (15) returned to QZIOM
+QZIOM collected 30 from pot
+QZIOM: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: gulys (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: QZIOM (big blind) collected (30)
+
+
+
+PokerStars Hand #253203300703: Tournament #3818879923, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/01 18:02:18 CET [2024/11/01 13:02:18 ET]
+Table '3818879923 1' 3-max Seat #2 is the button
+Seat 1: gulys (320 in chips) 
+Seat 2: Mahu2021 (225 in chips) 
+Seat 3: QZIOM (955 in chips) 
+QZIOM: posts small blind 15
+gulys: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5h 3c]
+Mahu2021: folds 
+QZIOM: raises 925 to 955 and is all-in
+gulys: calls 290 and is all-in
+Uncalled bet (635) returned to QZIOM
+*** FLOP *** [7d 7h 3d]
+*** TURN *** [7d 7h 3d] [6c]
+*** RIVER *** [7d 7h 3d 6c] [8s]
+*** SHOW DOWN ***
+QZIOM: shows [Ac Js] (a pair of Sevens)
+gulys: shows [Kh Qs] (a pair of Sevens - lower kicker)
+QZIOM collected 640 from pot
+gulys finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 640 | Rake 0 
+Board [7d 7h 3d 6c 8s]
+Seat 1: gulys (big blind) showed [Kh Qs] and lost with a pair of Sevens
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: QZIOM (small blind) showed [Ac Js] and won (640) with a pair of Sevens
+
+
+
+PokerStars Hand #253203307269: Tournament #3818879923, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/01 18:02:46 CET [2024/11/01 13:02:46 ET]
+Table '3818879923 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (225 in chips) 
+Seat 3: QZIOM (1275 in chips) 
+QZIOM: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d Ac]
+QZIOM: raises 30 to 60
+Mahu2021: raises 165 to 225 and is all-in
+QZIOM: folds 
+Uncalled bet (165) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: Mahu2021 (big blind) collected (120)
+Seat 3: QZIOM (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #253203310966: Tournament #3818879923, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/01 18:03:02 CET [2024/11/01 13:03:02 ET]
+Table '3818879923 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (285 in chips) 
+Seat 3: QZIOM (1215 in chips) 
+Mahu2021: posts small blind 15
+QZIOM: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah 4c]
+Mahu2021: raises 255 to 285 and is all-in
+QZIOM: folds 
+Uncalled bet (255) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) collected (60)
+Seat 3: QZIOM (big blind) folded before Flop
+
+
+
+PokerStars Hand #253203312545: Tournament #3818879923, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/01 18:03:09 CET [2024/11/01 13:03:09 ET]
+Table '3818879923 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (315 in chips) 
+Seat 3: QZIOM (1185 in chips) 
+QZIOM: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d Qh]
+QZIOM: raises 30 to 60
+Mahu2021: calls 30
+*** FLOP *** [Jc 8h 8c]
+Mahu2021: checks 
+QZIOM: bets 60
+Mahu2021: folds 
+Uncalled bet (60) returned to QZIOM
+QZIOM collected 120 from pot
+QZIOM: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Jc 8h 8c]
+Seat 2: Mahu2021 (big blind) folded on the Flop
+Seat 3: QZIOM (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #253203315291: Tournament #3818879923, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/01 18:03:22 CET [2024/11/01 13:03:22 ET]
+Table '3818879923 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (255 in chips) 
+Seat 3: QZIOM (1245 in chips) 
+Mahu2021: posts small blind 15
+QZIOM: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8d Jc]
+Mahu2021: calls 15
+QZIOM: checks 
+*** FLOP *** [9c Qc As]
+QZIOM: bets 30
+Mahu2021: calls 30
+*** TURN *** [9c Qc As] [Ad]
+QZIOM: bets 30
+Mahu2021: raises 165 to 195 and is all-in
+QZIOM: calls 165
+*** RIVER *** [9c Qc As Ad] [Kh]
+*** SHOW DOWN ***
+QZIOM: shows [Ts 9d] (two pair, Aces and Nines)
+Mahu2021: shows [8d Jc] (a pair of Aces)
+QZIOM collected 510 from pot
+Mahu2021 finished the tournament in 2nd place
+QZIOM wins the tournament and receives $8.00 - congratulations!
+*** SUMMARY ***
+Total pot 510 | Rake 0 
+Board [9c Qc As Ad Kh]
+Seat 2: Mahu2021 (button) (small blind) showed [8d Jc] and lost with a pair of Aces
+Seat 3: QZIOM (big blind) showed [Ts 9d] and won (510) with two pair, Aces and Nines
+
+
+

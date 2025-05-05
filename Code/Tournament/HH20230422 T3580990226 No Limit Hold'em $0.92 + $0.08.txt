@@ -1,0 +1,467 @@
+﻿PokerStars Hand #243242943462: Tournament #3580990226, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/22 9:02:17 CET [2023/04/22 3:02:17 ET]
+Table '3580990226 1' 3-max Seat #1 is the button
+Seat 1: VasATot (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: grviorel (500 in chips) 
+Mahu2021: posts small blind 10
+grviorel: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh Jh]
+VasATot: calls 20
+Mahu2021: calls 10
+grviorel: checks 
+*** FLOP *** [5c Ah Td]
+Mahu2021: checks 
+grviorel: checks 
+VasATot: checks 
+*** TURN *** [5c Ah Td] [9s]
+Mahu2021: bets 40
+grviorel: folds 
+VasATot: calls 40
+*** RIVER *** [5c Ah Td 9s] [3c]
+Mahu2021: checks 
+VasATot: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [Qh Jh] (high card Ace)
+VasATot: shows [Qs 9c] (a pair of Nines)
+VasATot collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | Rake 0 
+Board [5c Ah Td 9s 3c]
+Seat 1: VasATot (button) showed [Qs 9c] and won (140) with a pair of Nines
+Seat 2: Mahu2021 (small blind) showed [Qh Jh] and lost with high card Ace
+Seat 3: grviorel (big blind) folded on the Turn
+
+
+
+PokerStars Hand #243242946149: Tournament #3580990226, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/22 9:02:39 CET [2023/04/22 3:02:39 ET]
+Table '3580990226 1' 3-max Seat #2 is the button
+Seat 1: VasATot (580 in chips) 
+Seat 2: Mahu2021 (440 in chips) 
+Seat 3: grviorel (480 in chips) 
+grviorel: posts small blind 10
+VasATot: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c 8d]
+Mahu2021: folds 
+grviorel: calls 10
+VasATot: checks 
+*** FLOP *** [Ah 6d Jh]
+grviorel: bets 20
+VasATot: calls 20
+*** TURN *** [Ah 6d Jh] [Ac]
+grviorel: checks 
+VasATot: checks 
+*** RIVER *** [Ah 6d Jh Ac] [Qd]
+grviorel: bets 20
+VasATot: calls 20
+*** SHOW DOWN ***
+grviorel: shows [Qc 6s] (two pair, Aces and Queens)
+VasATot: mucks hand 
+grviorel collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Ah 6d Jh Ac Qd]
+Seat 1: VasATot (big blind) mucked [Jc 4s]
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: grviorel (small blind) showed [Qc 6s] and won (120) with two pair, Aces and Queens
+
+
+
+PokerStars Hand #243242948448: Tournament #3580990226, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/22 9:02:58 CET [2023/04/22 3:02:58 ET]
+Table '3580990226 1' 3-max Seat #3 is the button
+Seat 1: VasATot (520 in chips) 
+Seat 2: Mahu2021 (440 in chips) 
+Seat 3: grviorel (540 in chips) 
+VasATot: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc 8h]
+grviorel: calls 20
+VasATot: calls 10
+Mahu2021: checks 
+*** FLOP *** [2c 8c 5c]
+VasATot: checks 
+Mahu2021: bets 40
+grviorel: folds 
+VasATot: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [2c 8c 5c]
+Seat 1: VasATot (small blind) folded on the Flop
+Seat 2: Mahu2021 (big blind) collected (60)
+Seat 3: grviorel (button) folded on the Flop
+
+
+
+PokerStars Hand #243242950151: Tournament #3580990226, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/22 9:03:11 CET [2023/04/22 3:03:11 ET]
+Table '3580990226 1' 3-max Seat #1 is the button
+Seat 1: VasATot (500 in chips) 
+Seat 2: Mahu2021 (480 in chips) 
+Seat 3: grviorel (520 in chips) 
+Mahu2021: posts small blind 10
+grviorel: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d 8s]
+VasATot: calls 20
+Mahu2021: calls 10
+grviorel: checks 
+*** FLOP *** [Qh Ac 3s]
+Mahu2021: checks 
+grviorel: checks 
+VasATot: checks 
+*** TURN *** [Qh Ac 3s] [7d]
+Mahu2021: checks 
+grviorel: checks 
+VasATot: checks 
+*** RIVER *** [Qh Ac 3s 7d] [Kd]
+Mahu2021: checks 
+grviorel: checks 
+VasATot: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [9d 8s] (high card Ace)
+grviorel: mucks hand 
+VasATot: shows [3d 6c] (a pair of Threes)
+VasATot collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Qh Ac 3s 7d Kd]
+Seat 1: VasATot (button) showed [3d 6c] and won (60) with a pair of Threes
+Seat 2: Mahu2021 (small blind) showed [9d 8s] and lost with high card Ace
+Seat 3: grviorel (big blind) mucked [6d 2d]
+
+
+
+PokerStars Hand #243242952979: Tournament #3580990226, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/22 9:03:34 CET [2023/04/22 3:03:34 ET]
+Table '3580990226 1' 3-max Seat #2 is the button
+Seat 1: VasATot (540 in chips) 
+Seat 2: Mahu2021 (460 in chips) 
+Seat 3: grviorel (500 in chips) 
+grviorel: posts small blind 10
+VasATot: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d 8d]
+Mahu2021: folds 
+grviorel: calls 10
+VasATot: checks 
+*** FLOP *** [Jc 9c Tc]
+grviorel: checks 
+VasATot: checks 
+*** TURN *** [Jc 9c Tc] [Js]
+grviorel: checks 
+VasATot: checks 
+*** RIVER *** [Jc 9c Tc Js] [2h]
+grviorel: checks 
+VasATot: bets 20
+grviorel: calls 20
+*** SHOW DOWN ***
+VasATot: shows [4d 9h] (two pair, Jacks and Nines)
+grviorel: shows [2s 9s] (two pair, Jacks and Nines)
+grviorel collected 40 from pot
+VasATot collected 40 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Jc 9c Tc Js 2h]
+Seat 1: VasATot (big blind) showed [4d 9h] and won (40) with two pair, Jacks and Nines
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: grviorel (small blind) showed [2s 9s] and won (40) with two pair, Jacks and Nines
+
+
+
+PokerStars Hand #243242955130: Tournament #3580990226, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/22 9:03:51 CET [2023/04/22 3:03:51 ET]
+Table '3580990226 1' 3-max Seat #3 is the button
+Seat 1: VasATot (540 in chips) 
+Seat 2: Mahu2021 (460 in chips) 
+Seat 3: grviorel (500 in chips) 
+VasATot: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc Ah]
+grviorel: folds 
+VasATot: calls 10
+Mahu2021: raises 60 to 80
+VasATot: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: VasATot (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (40)
+Seat 3: grviorel (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #243242956341: Tournament #3580990226, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/04/22 9:04:01 CET [2023/04/22 3:04:01 ET]
+Table '3580990226 1' 3-max Seat #1 is the button
+Seat 1: VasATot (520 in chips) 
+Seat 2: Mahu2021 (480 in chips) 
+Seat 3: grviorel (500 in chips) 
+Mahu2021: posts small blind 10
+grviorel: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h 6s]
+VasATot: calls 20
+Mahu2021: calls 10
+grviorel: checks 
+*** FLOP *** [Js Qc 9c]
+Mahu2021: checks 
+grviorel: checks 
+VasATot is disconnected 
+VasATot is connected 
+VasATot has timed out
+VasATot: checks 
+*** TURN *** [Js Qc 9c] [Kc]
+Mahu2021: checks 
+grviorel: checks 
+VasATot: bets 60
+Mahu2021: folds 
+grviorel: folds 
+Uncalled bet (60) returned to VasATot
+VasATot collected 60 from pot
+VasATot: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Js Qc 9c Kc]
+Seat 1: VasATot (button) collected (60)
+Seat 2: Mahu2021 (small blind) folded on the Turn
+Seat 3: grviorel (big blind) folded on the Turn
+
+
+
+PokerStars Hand #243242962004: Tournament #3580990226, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/22 9:04:46 CET [2023/04/22 3:04:46 ET]
+Table '3580990226 1' 3-max Seat #2 is the button
+Seat 1: VasATot (560 in chips) 
+Seat 2: Mahu2021 (460 in chips) 
+Seat 3: grviorel (480 in chips) 
+grviorel: posts small blind 15
+VasATot: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c Jh]
+Mahu2021: folds 
+grviorel: calls 15
+VasATot: raises 30 to 60
+grviorel: calls 30
+*** FLOP *** [7h 9h 3h]
+grviorel: checks 
+VasATot: bets 30
+grviorel: calls 30
+*** TURN *** [7h 9h 3h] [3s]
+grviorel: checks 
+VasATot: bets 30
+grviorel: calls 30
+*** RIVER *** [7h 9h 3h 3s] [Td]
+grviorel: bets 240
+VasATot: folds 
+Uncalled bet (240) returned to grviorel
+grviorel collected 240 from pot
+grviorel: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [7h 9h 3h 3s Td]
+Seat 1: VasATot (big blind) folded on the River
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: grviorel (small blind) collected (240)
+
+
+
+PokerStars Hand #243242965333: Tournament #3580990226, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/22 9:05:13 CET [2023/04/22 3:05:13 ET]
+Table '3580990226 1' 3-max Seat #3 is the button
+Seat 1: VasATot (440 in chips) 
+Seat 2: Mahu2021 (460 in chips) 
+Seat 3: grviorel (600 in chips) 
+VasATot: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Th Qs]
+grviorel: calls 30
+VasATot: raises 30 to 60
+Mahu2021: calls 30
+grviorel: calls 30
+*** FLOP *** [9h 6s 8d]
+VasATot: bets 180
+Mahu2021: folds 
+grviorel: folds 
+Uncalled bet (180) returned to VasATot
+VasATot collected 180 from pot
+VasATot: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [9h 6s 8d]
+Seat 1: VasATot (small blind) collected (180)
+Seat 2: Mahu2021 (big blind) folded on the Flop
+Seat 3: grviorel (button) folded on the Flop
+
+
+
+PokerStars Hand #243242967553: Tournament #3580990226, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/22 9:05:31 CET [2023/04/22 3:05:31 ET]
+Table '3580990226 1' 3-max Seat #1 is the button
+Seat 1: VasATot (560 in chips) 
+Seat 2: Mahu2021 (400 in chips) 
+Seat 3: grviorel (540 in chips) 
+Mahu2021: posts small blind 15
+grviorel: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc Qs]
+VasATot: calls 30
+Mahu2021: raises 370 to 400 and is all-in
+grviorel: folds 
+VasATot: folds 
+Uncalled bet (370) returned to Mahu2021
+Mahu2021 collected 90 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Seat 1: VasATot (button) folded before Flop
+Seat 2: Mahu2021 (small blind) collected (90)
+Seat 3: grviorel (big blind) folded before Flop
+
+
+
+PokerStars Hand #243242968532: Tournament #3580990226, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/22 9:05:39 CET [2023/04/22 3:05:39 ET]
+Table '3580990226 1' 3-max Seat #2 is the button
+Seat 1: VasATot (530 in chips) 
+Seat 2: Mahu2021 (460 in chips) 
+Seat 3: grviorel (510 in chips) 
+grviorel: posts small blind 15
+VasATot: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d As]
+Mahu2021: folds 
+grviorel: folds 
+Uncalled bet (15) returned to VasATot
+VasATot collected 30 from pot
+VasATot: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: VasATot (big blind) collected (30)
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: grviorel (small blind) folded before Flop
+
+
+
+PokerStars Hand #243242969125: Tournament #3580990226, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/22 9:05:43 CET [2023/04/22 3:05:43 ET]
+Table '3580990226 1' 3-max Seat #3 is the button
+Seat 1: VasATot (545 in chips) 
+Seat 2: Mahu2021 (460 in chips) 
+Seat 3: grviorel (495 in chips) 
+VasATot: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5h Kh]
+grviorel: folds 
+VasATot: calls 15
+Mahu2021: checks 
+*** FLOP *** [5c 8c 6h]
+VasATot: checks 
+Mahu2021: bets 30
+VasATot: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [5c 8c 6h]
+Seat 1: VasATot (small blind) folded on the Flop
+Seat 2: Mahu2021 (big blind) collected (60)
+Seat 3: grviorel (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #243242970990: Tournament #3580990226, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/22 9:05:59 CET [2023/04/22 3:05:59 ET]
+Table '3580990226 1' 3-max Seat #1 is the button
+Seat 1: VasATot (515 in chips) 
+Seat 2: Mahu2021 (490 in chips) 
+Seat 3: grviorel (495 in chips) 
+Mahu2021: posts small blind 15
+grviorel: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h Tc]
+VasATot: folds 
+Mahu2021: calls 15
+grviorel: checks 
+*** FLOP *** [6d 6s Qc]
+Mahu2021: checks 
+grviorel: bets 30
+Mahu2021: folds 
+Uncalled bet (30) returned to grviorel
+grviorel collected 60 from pot
+grviorel: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [6d 6s Qc]
+Seat 1: VasATot (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) folded on the Flop
+Seat 3: grviorel (big blind) collected (60)
+
+
+
+PokerStars Hand #243242972669: Tournament #3580990226, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/04/22 9:06:13 CET [2023/04/22 3:06:13 ET]
+Table '3580990226 1' 3-max Seat #2 is the button
+Seat 1: VasATot (515 in chips) 
+Seat 2: Mahu2021 (460 in chips) 
+Seat 3: grviorel (525 in chips) 
+grviorel: posts small blind 15
+VasATot: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d Jd]
+Mahu2021: folds 
+grviorel: calls 15
+VasATot: checks 
+*** FLOP *** [6s 5h 3s]
+grviorel: checks 
+VasATot: checks 
+*** TURN *** [6s 5h 3s] [3h]
+grviorel: checks 
+VasATot: checks 
+*** RIVER *** [6s 5h 3s 3h] [7d]
+grviorel: bets 60
+VasATot: folds 
+Uncalled bet (60) returned to grviorel
+grviorel collected 60 from pot
+grviorel: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [6s 5h 3s 3h 7d]
+Seat 1: VasATot (big blind) folded on the River
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: grviorel (small blind) collected (60)
+
+
+
+PokerStars Hand #243242975347: Tournament #3580990226, $0.92+$0.08 USD Hold'em No Limit - Level III (20/40) - 2023/04/22 9:06:34 CET [2023/04/22 3:06:34 ET]
+Table '3580990226 1' 3-max Seat #3 is the button
+Seat 1: VasATot (485 in chips) 
+Seat 2: Mahu2021 (460 in chips) 
+Seat 3: grviorel (555 in chips) 
+VasATot: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qd 7h]
+grviorel: calls 40
+VasATot: raises 40 to 80
+Mahu2021: calls 40
+grviorel: folds 
+*** FLOP *** [5d 8s Qs]
+VasATot: bets 100
+Mahu2021: raises 280 to 380 and is all-in
+VasATot: calls 280
+*** TURN *** [5d 8s Qs] [Kd]
+*** RIVER *** [5d 8s Qs Kd] [4c]
+*** SHOW DOWN ***
+VasATot: shows [8d Ks] (two pair, Kings and Eights)
+Mahu2021: shows [Qd 7h] (a pair of Queens)
+VasATot collected 960 from pot
+Mahu2021 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 960 | Rake 0 
+Board [5d 8s Qs Kd 4c]
+Seat 1: VasATot (small blind) showed [8d Ks] and won (960) with two pair, Kings and Eights
+Seat 2: Mahu2021 (big blind) showed [Qd 7h] and lost with a pair of Queens
+Seat 3: grviorel (button) folded before Flop
+
+
+

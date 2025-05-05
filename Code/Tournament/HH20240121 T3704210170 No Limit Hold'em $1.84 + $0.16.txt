@@ -1,0 +1,288 @@
+﻿PokerStars Hand #248406355580: Tournament #3704210170, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/21 10:05:38 CET [2024/01/21 4:05:38 ET]
+Table '3704210170 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: dres0701 (500 in chips) 
+Seat 3: KAP8899 (500 in chips) 
+dres0701: posts small blind 10
+KAP8899: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As Kd]
+Mahu2021: raises 40 to 60
+dres0701: folds 
+KAP8899: calls 40
+*** FLOP *** [Td Qd Qs]
+KAP8899: checks 
+Mahu2021: checks 
+*** TURN *** [Td Qd Qs] [4h]
+KAP8899: checks 
+Mahu2021: checks 
+*** RIVER *** [Td Qd Qs 4h] [2s]
+KAP8899: bets 20
+Mahu2021: calls 20
+*** SHOW DOWN ***
+KAP8899: shows [Kh 7d] (a pair of Queens)
+Mahu2021: shows [As Kd] (a pair of Queens - Ace kicker)
+Mahu2021 collected 170 from pot
+*** SUMMARY ***
+Total pot 170 | Rake 0 
+Board [Td Qd Qs 4h 2s]
+Seat 1: Mahu2021 (button) showed [As Kd] and won (170) with a pair of Queens
+Seat 2: dres0701 (small blind) folded before Flop
+Seat 3: KAP8899 (big blind) showed [Kh 7d] and lost with a pair of Queens
+
+
+
+PokerStars Hand #248406357636: Tournament #3704210170, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/21 10:05:55 CET [2024/01/21 4:05:55 ET]
+Table '3704210170 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (590 in chips) 
+Seat 2: dres0701 (490 in chips) 
+Seat 3: KAP8899 (420 in chips) 
+KAP8899: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h 7d]
+dres0701: calls 20
+KAP8899: calls 10
+Mahu2021: checks 
+*** FLOP *** [Qh Ac 5c]
+KAP8899: checks 
+Mahu2021: checks 
+dres0701: checks 
+*** TURN *** [Qh Ac 5c] [6d]
+KAP8899: bets 20
+Mahu2021: folds 
+dres0701: folds 
+Uncalled bet (20) returned to KAP8899
+KAP8899 collected 60 from pot
+KAP8899: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Qh Ac 5c 6d]
+Seat 1: Mahu2021 (big blind) folded on the Turn
+Seat 2: dres0701 (button) folded on the Turn
+Seat 3: KAP8899 (small blind) collected (60)
+
+
+
+PokerStars Hand #248406359782: Tournament #3704210170, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/21 10:06:11 CET [2024/01/21 4:06:11 ET]
+Table '3704210170 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (570 in chips) 
+Seat 2: dres0701 (470 in chips) 
+Seat 3: KAP8899 (460 in chips) 
+Mahu2021: posts small blind 10
+dres0701: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s 7d]
+KAP8899: calls 20
+Mahu2021: folds 
+dres0701: checks 
+*** FLOP *** [Th 6c 4d]
+dres0701: checks 
+KAP8899: bets 20
+dres0701: folds 
+Uncalled bet (20) returned to KAP8899
+KAP8899 collected 50 from pot
+KAP8899: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [Th 6c 4d]
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: dres0701 (big blind) folded on the Flop
+Seat 3: KAP8899 (button) collected (50)
+
+
+
+PokerStars Hand #248406361163: Tournament #3704210170, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/21 10:06:22 CET [2024/01/21 4:06:22 ET]
+Table '3704210170 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (560 in chips) 
+Seat 2: dres0701 (450 in chips) 
+Seat 3: KAP8899 (490 in chips) 
+dres0701: posts small blind 10
+KAP8899: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3c Kh]
+Mahu2021: folds 
+dres0701: calls 10
+KAP8899: checks 
+*** FLOP *** [7d 6d Kd]
+dres0701: checks 
+KAP8899: checks 
+*** TURN *** [7d 6d Kd] [5c]
+dres0701: checks 
+KAP8899: checks 
+*** RIVER *** [7d 6d Kd 5c] [4c]
+dres0701: checks 
+KAP8899: checks 
+*** SHOW DOWN ***
+dres0701: shows [Jd 9h] (high card King)
+KAP8899: shows [Tc Jh] (high card King - Jack+Ten kicker)
+KAP8899 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [7d 6d Kd 5c 4c]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: dres0701 (small blind) showed [Jd 9h] and lost with high card King
+Seat 3: KAP8899 (big blind) showed [Tc Jh] and won (40) with high card King
+
+
+
+PokerStars Hand #248406363537: Tournament #3704210170, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/21 10:06:40 CET [2024/01/21 4:06:40 ET]
+Table '3704210170 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (560 in chips) 
+Seat 2: dres0701 (430 in chips) 
+Seat 3: KAP8899 (510 in chips) 
+KAP8899: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d 3c]
+dres0701: folds 
+KAP8899: calls 10
+Mahu2021: checks 
+*** FLOP *** [3h Qs 7h]
+KAP8899: checks 
+Mahu2021: bets 20
+KAP8899: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [3h Qs 7h]
+Seat 1: Mahu2021 (big blind) collected (40)
+Seat 2: dres0701 (button) folded before Flop (didn't bet)
+Seat 3: KAP8899 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #248406364991: Tournament #3704210170, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/21 10:06:51 CET [2024/01/21 4:06:51 ET]
+Table '3704210170 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (580 in chips) 
+Seat 2: dres0701 (430 in chips) 
+Seat 3: KAP8899 (490 in chips) 
+Mahu2021: posts small blind 10
+dres0701: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h 4s]
+KAP8899: calls 20
+Mahu2021: folds 
+dres0701: checks 
+*** FLOP *** [8c Jc Kd]
+dres0701: checks 
+KAP8899: checks 
+*** TURN *** [8c Jc Kd] [Qh]
+dres0701: checks 
+KAP8899: checks 
+*** RIVER *** [8c Jc Kd Qh] [6h]
+dres0701: checks 
+KAP8899: checks 
+*** SHOW DOWN ***
+dres0701: shows [5h 3c] (high card King)
+KAP8899: shows [2s 3h] (high card King)
+dres0701 collected 25 from pot
+KAP8899 collected 25 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [8c Jc Kd Qh 6h]
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: dres0701 (big blind) showed [5h 3c] and won (25) with high card King
+Seat 3: KAP8899 (button) showed [2s 3h] and won (25) with high card King
+
+
+
+PokerStars Hand #248406366981: Tournament #3704210170, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/21 10:07:06 CET [2024/01/21 4:07:06 ET]
+Table '3704210170 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (570 in chips) 
+Seat 2: dres0701 (435 in chips) 
+Seat 3: KAP8899 (495 in chips) 
+dres0701: posts small blind 10
+KAP8899: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d 4c]
+Mahu2021: folds 
+dres0701: folds 
+Uncalled bet (10) returned to KAP8899
+KAP8899 collected 20 from pot
+KAP8899: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: dres0701 (small blind) folded before Flop
+Seat 3: KAP8899 (big blind) collected (20)
+
+
+
+PokerStars Hand #248406367583: Tournament #3704210170, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/21 10:07:11 CET [2024/01/21 4:07:11 ET]
+Table '3704210170 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (570 in chips) 
+Seat 2: dres0701 (425 in chips) 
+Seat 3: KAP8899 (505 in chips) 
+KAP8899: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s 5d]
+dres0701: calls 20
+KAP8899: calls 10
+Mahu2021: checks 
+*** FLOP *** [9c Jh 7s]
+KAP8899: bets 60
+Mahu2021: folds 
+dres0701: calls 60
+*** TURN *** [9c Jh 7s] [Kh]
+KAP8899: bets 90
+dres0701: calls 90
+*** RIVER *** [9c Jh 7s Kh] [9s]
+KAP8899: bets 180
+dres0701: calls 180
+*** SHOW DOWN ***
+KAP8899: shows [Qc Jc] (two pair, Jacks and Nines)
+dres0701: mucks hand 
+KAP8899 collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | Rake 0 
+Board [9c Jh 7s Kh 9s]
+Seat 1: Mahu2021 (big blind) folded on the Flop
+Seat 2: dres0701 (button) mucked [7c Td]
+Seat 3: KAP8899 (small blind) showed [Qc Jc] and won (720) with two pair, Jacks and Nines
+
+
+
+PokerStars Hand #248406370306: Tournament #3704210170, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/21 10:07:32 CET [2024/01/21 4:07:32 ET]
+Table '3704210170 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (550 in chips) 
+Seat 2: dres0701 (75 in chips) 
+Seat 3: KAP8899 (875 in chips) 
+Mahu2021: posts small blind 10
+dres0701: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js Qc]
+KAP8899: calls 20
+Mahu2021: calls 10
+dres0701: raises 20 to 40
+KAP8899: calls 20
+Mahu2021: calls 20
+*** FLOP *** [Jc 3c 8c]
+Mahu2021: bets 40
+dres0701: calls 35 and is all-in
+KAP8899: raises 118 to 158
+Mahu2021: raises 352 to 510 and is all-in
+KAP8899: calls 352
+*** TURN *** [Jc 3c 8c] [8s]
+*** RIVER *** [Jc 3c 8c 8s] [9h]
+*** SHOW DOWN ***
+Mahu2021: shows [Js Qc] (two pair, Jacks and Eights)
+KAP8899: shows [3h 8h] (a full house, Eights full of Threes)
+KAP8899 collected 950 from side pot
+dres0701: shows [4c Tc] (a flush, Jack high)
+KAP8899 collected 225 from main pot
+Mahu2021 finished the tournament in 2nd place
+dres0701 finished the tournament in 3rd place
+KAP8899 wins the tournament and receives $6.00 - congratulations!
+*** SUMMARY ***
+Total pot 1175 Main pot 225. Side pot 950. | Rake 0 
+Board [Jc 3c 8c 8s 9h]
+Seat 1: Mahu2021 (small blind) showed [Js Qc] and lost with two pair, Jacks and Eights
+Seat 2: dres0701 (big blind) showed [4c Tc] and lost with a flush, Jack high
+Seat 3: KAP8899 (button) showed [3h 8h] and won (1175) with a full house, Eights full of Threes
+
+
+

@@ -1,0 +1,530 @@
+﻿PokerStars Hand #247083130870: Tournament #3672589254, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/11/13 10:58:33 CET [2023/11/13 4:58:33 ET]
+Table '3672589254 1' 3-max Seat #1 is the button
+Seat 1: nickmantzo (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: darfish (500 in chips) 
+Mahu2021: posts small blind 10
+darfish: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd 5h]
+nickmantzo: folds 
+Mahu2021: calls 10
+darfish: checks 
+*** FLOP *** [8h Ts 7s]
+Mahu2021: checks 
+darfish: checks 
+*** TURN *** [8h Ts 7s] [9c]
+Mahu2021: bets 20
+darfish: calls 20
+*** RIVER *** [8h Ts 7s 9c] [Qd]
+Mahu2021: bets 40
+darfish: calls 40
+*** SHOW DOWN ***
+Mahu2021: shows [Jd 5h] (a straight, Eight to Queen)
+darfish: mucks hand 
+Mahu2021 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [8h Ts 7s 9c Qd]
+Seat 1: nickmantzo (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) showed [Jd 5h] and won (160) with a straight, Eight to Queen
+Seat 3: darfish (big blind) mucked [6d Ad]
+
+
+
+PokerStars Hand #247083132659: Tournament #3672589254, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/11/13 10:58:51 CET [2023/11/13 4:58:51 ET]
+Table '3672589254 1' 3-max Seat #2 is the button
+Seat 1: nickmantzo (500 in chips) 
+Seat 2: Mahu2021 (580 in chips) 
+Seat 3: darfish (420 in chips) 
+darfish: posts small blind 10
+nickmantzo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts Td]
+Mahu2021: raises 20 to 40
+darfish: calls 30
+nickmantzo: calls 20
+*** FLOP *** [9h Jh 7c]
+darfish: checks 
+nickmantzo: bets 40
+Mahu2021: calls 40
+darfish: folds 
+*** TURN *** [9h Jh 7c] [9c]
+nickmantzo: bets 40
+Mahu2021: calls 40
+*** RIVER *** [9h Jh 7c 9c] [8d]
+nickmantzo: bets 60
+Mahu2021: raises 80 to 140
+nickmantzo: raises 80 to 220
+Mahu2021: raises 240 to 460 and is all-in
+nickmantzo: calls 160 and is all-in
+Uncalled bet (80) returned to Mahu2021
+*** SHOW DOWN ***
+Mahu2021: shows [Ts Td] (a straight, Seven to Jack)
+nickmantzo: shows [Js Tc] (a straight, Seven to Jack)
+nickmantzo collected 520 from pot
+Mahu2021 collected 520 from pot
+*** SUMMARY ***
+Total pot 1040 | Rake 0 
+Board [9h Jh 7c 9c 8d]
+Seat 1: nickmantzo (big blind) showed [Js Tc] and won (520) with a straight, Seven to Jack
+Seat 2: Mahu2021 (button) showed [Ts Td] and won (520) with a straight, Seven to Jack
+Seat 3: darfish (small blind) folded on the Flop
+
+
+
+PokerStars Hand #247083135602: Tournament #3672589254, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/11/13 10:59:20 CET [2023/11/13 4:59:20 ET]
+Table '3672589254 1' 3-max Seat #3 is the button
+Seat 1: nickmantzo (520 in chips) 
+Seat 2: Mahu2021 (600 in chips) 
+Seat 3: darfish (380 in chips) 
+nickmantzo: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h Th]
+darfish: folds 
+nickmantzo: calls 10
+Mahu2021: checks 
+*** FLOP *** [8s 8c 6h]
+nickmantzo: checks 
+Mahu2021: bets 20
+nickmantzo: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [8s 8c 6h]
+Seat 1: nickmantzo (small blind) folded on the Flop
+Seat 2: Mahu2021 (big blind) collected (40)
+Seat 3: darfish (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #247083136843: Tournament #3672589254, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/11/13 10:59:32 CET [2023/11/13 4:59:32 ET]
+Table '3672589254 1' 3-max Seat #1 is the button
+Seat 1: nickmantzo (500 in chips) 
+Seat 2: Mahu2021 (620 in chips) 
+Seat 3: darfish (380 in chips) 
+Mahu2021: posts small blind 10
+darfish: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c 5c]
+nickmantzo: raises 20 to 40
+Mahu2021: folds 
+darfish: calls 20
+*** FLOP *** [4s Qc 7d]
+darfish: checks 
+nickmantzo: bets 20
+darfish: folds 
+Uncalled bet (20) returned to nickmantzo
+nickmantzo collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [4s Qc 7d]
+Seat 1: nickmantzo (button) collected (90)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: darfish (big blind) folded on the Flop
+
+
+
+PokerStars Hand #247083138166: Tournament #3672589254, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/11/13 10:59:45 CET [2023/11/13 4:59:45 ET]
+Table '3672589254 1' 3-max Seat #2 is the button
+Seat 1: nickmantzo (550 in chips) 
+Seat 2: Mahu2021 (610 in chips) 
+Seat 3: darfish (340 in chips) 
+darfish: posts small blind 10
+nickmantzo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4d Ad]
+Mahu2021: raises 20 to 40
+darfish: folds 
+nickmantzo: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 50 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: nickmantzo (big blind) folded before Flop
+Seat 2: Mahu2021 (button) collected (50)
+Seat 3: darfish (small blind) folded before Flop
+
+
+
+PokerStars Hand #247083138773: Tournament #3672589254, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/11/13 10:59:51 CET [2023/11/13 4:59:51 ET]
+Table '3672589254 1' 3-max Seat #3 is the button
+Seat 1: nickmantzo (530 in chips) 
+Seat 2: Mahu2021 (640 in chips) 
+Seat 3: darfish (330 in chips) 
+nickmantzo: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh Td]
+darfish: folds 
+nickmantzo: raises 60 to 80
+Mahu2021: calls 60
+*** FLOP *** [9d 7c Ts]
+nickmantzo: checks 
+Mahu2021: bets 560 and is all-in
+nickmantzo: folds 
+Uncalled bet (560) returned to Mahu2021
+Mahu2021 collected 160 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [9d 7c Ts]
+Seat 1: nickmantzo (small blind) folded on the Flop
+Seat 2: Mahu2021 (big blind) collected (160)
+Seat 3: darfish (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #247083140423: Tournament #3672589254, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/11/13 11:00:07 CET [2023/11/13 5:00:07 ET]
+Table '3672589254 1' 3-max Seat #1 is the button
+Seat 1: nickmantzo (450 in chips) 
+Seat 2: Mahu2021 (720 in chips) 
+Seat 3: darfish (330 in chips) 
+Mahu2021: posts small blind 10
+darfish: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks 5d]
+nickmantzo: folds 
+Mahu2021: calls 10
+darfish: checks 
+*** FLOP *** [8c Kd Ac]
+Mahu2021: bets 20
+darfish: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [8c Kd Ac]
+Seat 1: nickmantzo (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) collected (40)
+Seat 3: darfish (big blind) folded on the Flop
+
+
+
+PokerStars Hand #247083142249: Tournament #3672589254, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/11/13 11:00:25 CET [2023/11/13 5:00:25 ET]
+Table '3672589254 1' 3-max Seat #2 is the button
+Seat 1: nickmantzo (450 in chips) 
+Seat 2: Mahu2021 (740 in chips) 
+Seat 3: darfish (310 in chips) 
+darfish: posts small blind 10
+nickmantzo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc 7c]
+Mahu2021: folds 
+darfish: raises 40 to 60
+nickmantzo: folds 
+Uncalled bet (40) returned to darfish
+darfish collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: nickmantzo (big blind) folded before Flop
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: darfish (small blind) collected (40)
+
+
+
+PokerStars Hand #247083143396: Tournament #3672589254, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/11/13 11:00:36 CET [2023/11/13 5:00:36 ET]
+Table '3672589254 1' 3-max Seat #3 is the button
+Seat 1: nickmantzo (430 in chips) 
+Seat 2: Mahu2021 (740 in chips) 
+Seat 3: darfish (330 in chips) 
+nickmantzo: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d 2c]
+darfish: raises 310 to 330 and is all-in
+nickmantzo: folds 
+Mahu2021: folds 
+Uncalled bet (310) returned to darfish
+darfish collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: nickmantzo (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: darfish (button) collected (50)
+
+
+
+PokerStars Hand #247083144073: Tournament #3672589254, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/11/13 11:00:42 CET [2023/11/13 5:00:42 ET]
+Table '3672589254 1' 3-max Seat #1 is the button
+Seat 1: nickmantzo (420 in chips) 
+Seat 2: Mahu2021 (720 in chips) 
+Seat 3: darfish (360 in chips) 
+Mahu2021: posts small blind 10
+darfish: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8s 5h]
+nickmantzo: folds 
+Mahu2021: folds 
+Uncalled bet (10) returned to darfish
+darfish collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: nickmantzo (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: darfish (big blind) collected (20)
+
+
+
+PokerStars Hand #247083145421: Tournament #3672589254, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/11/13 11:00:53 CET [2023/11/13 5:00:53 ET]
+Table '3672589254 1' 3-max Seat #2 is the button
+Seat 1: nickmantzo (420 in chips) 
+Seat 2: Mahu2021 (710 in chips) 
+Seat 3: darfish (370 in chips) 
+darfish: posts small blind 10
+nickmantzo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad 8c]
+Mahu2021: raises 20 to 40
+darfish: calls 30
+nickmantzo: calls 20
+*** FLOP *** [Jh 3c Kh]
+darfish: checks 
+nickmantzo: checks 
+Mahu2021: checks 
+*** TURN *** [Jh 3c Kh] [4h]
+darfish: checks 
+nickmantzo: checks 
+Mahu2021: checks 
+*** RIVER *** [Jh 3c Kh 4h] [Jc]
+darfish: bets 60
+nickmantzo: folds 
+Mahu2021: calls 60
+*** SHOW DOWN ***
+darfish: shows [Qc Js] (three of a kind, Jacks)
+Mahu2021: mucks hand 
+darfish collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Jh 3c Kh 4h Jc]
+Seat 1: nickmantzo (big blind) folded on the River
+Seat 2: Mahu2021 (button) mucked [Ad 8c]
+Seat 3: darfish (small blind) showed [Qc Js] and won (240) with three of a kind, Jacks
+
+
+
+PokerStars Hand #247083147796: Tournament #3672589254, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/11/13 11:01:14 CET [2023/11/13 5:01:14 ET]
+Table '3672589254 1' 3-max Seat #3 is the button
+Seat 1: nickmantzo (380 in chips) 
+Seat 2: Mahu2021 (610 in chips) 
+Seat 3: darfish (510 in chips) 
+nickmantzo: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s Js]
+darfish: calls 20
+nickmantzo: folds 
+Mahu2021: checks 
+*** FLOP *** [4h 9h Ts]
+Mahu2021: checks 
+darfish: checks 
+*** TURN *** [4h 9h Ts] [9d]
+Mahu2021: checks 
+darfish: checks 
+*** RIVER *** [4h 9h Ts 9d] [3d]
+Mahu2021: checks 
+darfish: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [4s Js] (two pair, Nines and Fours)
+darfish: mucks hand 
+Mahu2021 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [4h 9h Ts 9d 3d]
+Seat 1: nickmantzo (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) showed [4s Js] and won (50) with two pair, Nines and Fours
+Seat 3: darfish (button) mucked [5s Ac]
+
+
+
+PokerStars Hand #247083149679: Tournament #3672589254, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/11/13 11:01:30 CET [2023/11/13 5:01:30 ET]
+Table '3672589254 1' 3-max Seat #1 is the button
+Seat 1: nickmantzo (370 in chips) 
+Seat 2: Mahu2021 (640 in chips) 
+Seat 3: darfish (490 in chips) 
+Mahu2021: posts small blind 10
+darfish: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h 6h]
+nickmantzo: calls 20
+Mahu2021: calls 10
+darfish: checks 
+*** FLOP *** [3c Kh Ah]
+Mahu2021: bets 20
+darfish: calls 20
+nickmantzo: calls 20
+*** TURN *** [3c Kh Ah] [Jh]
+Mahu2021: bets 20
+darfish: calls 20
+nickmantzo: calls 20
+*** RIVER *** [3c Kh Ah Jh] [Ad]
+Mahu2021: bets 180
+darfish: folds 
+nickmantzo: calls 180
+*** SHOW DOWN ***
+Mahu2021: shows [7h 6h] (a flush, Ace high)
+nickmantzo: mucks hand 
+Mahu2021 collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | Rake 0 
+Board [3c Kh Ah Jh Ad]
+Seat 1: nickmantzo (button) mucked [2h Ac]
+Seat 2: Mahu2021 (small blind) showed [7h 6h] and won (540) with a flush, Ace high
+Seat 3: darfish (big blind) folded on the River
+
+
+
+PokerStars Hand #247083152608: Tournament #3672589254, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/11/13 11:01:55 CET [2023/11/13 5:01:55 ET]
+Table '3672589254 1' 3-max Seat #2 is the button
+Seat 1: nickmantzo (130 in chips) 
+Seat 2: Mahu2021 (940 in chips) 
+Seat 3: darfish (430 in chips) 
+darfish: posts small blind 15
+nickmantzo: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Tc Ad]
+Mahu2021: raises 30 to 60
+darfish: raises 370 to 430 and is all-in
+nickmantzo: folds 
+Mahu2021: calls 370
+*** FLOP *** [6c 4s 9s]
+*** TURN *** [6c 4s 9s] [6s]
+*** RIVER *** [6c 4s 9s 6s] [3c]
+*** SHOW DOWN ***
+darfish: shows [Ac Kh] (a pair of Sixes)
+Mahu2021: shows [Tc Ad] (a pair of Sixes - lower kicker)
+darfish collected 890 from pot
+*** SUMMARY ***
+Total pot 890 | Rake 0 
+Board [6c 4s 9s 6s 3c]
+Seat 1: nickmantzo (big blind) folded before Flop
+Seat 2: Mahu2021 (button) showed [Tc Ad] and lost with a pair of Sixes
+Seat 3: darfish (small blind) showed [Ac Kh] and won (890) with a pair of Sixes
+
+
+
+PokerStars Hand #247083154359: Tournament #3672589254, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/11/13 11:02:09 CET [2023/11/13 5:02:09 ET]
+Table '3672589254 1' 3-max Seat #3 is the button
+Seat 1: nickmantzo (100 in chips) 
+Seat 2: Mahu2021 (510 in chips) 
+Seat 3: darfish (890 in chips) 
+nickmantzo: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts Qs]
+darfish: calls 30
+nickmantzo: raises 70 to 100 and is all-in
+Mahu2021: calls 70
+darfish: calls 70
+*** FLOP *** [6h 6s As]
+Mahu2021: bets 30
+darfish: calls 30
+*** TURN *** [6h 6s As] [5h]
+Mahu2021: checks 
+darfish: bets 180
+Mahu2021: calls 180
+*** RIVER *** [6h 6s As 5h] [9d]
+Mahu2021: checks 
+darfish: bets 580 and is all-in
+Mahu2021: folds 
+Uncalled bet (580) returned to darfish
+*** SHOW DOWN ***
+darfish: shows [Ac 8s] (two pair, Aces and Sixes)
+darfish collected 420 from side pot
+nickmantzo: shows [2c 2s] (two pair, Sixes and Deuces)
+darfish collected 300 from main pot
+nickmantzo finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 720 Main pot 300. Side pot 420. | Rake 0 
+Board [6h 6s As 5h 9d]
+Seat 1: nickmantzo (small blind) showed [2c 2s] and lost with two pair, Sixes and Deuces
+Seat 2: Mahu2021 (big blind) folded on the River
+Seat 3: darfish (button) showed [Ac 8s] and won (720) with two pair, Aces and Sixes
+
+
+
+PokerStars Hand #247083157758: Tournament #3672589254, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/11/13 11:02:37 CET [2023/11/13 5:02:37 ET]
+Table '3672589254 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (200 in chips) 
+Seat 3: darfish (1300 in chips) 
+Mahu2021: posts small blind 15
+darfish: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h 6c]
+Mahu2021: folds 
+Uncalled bet (15) returned to darfish
+darfish collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: darfish (big blind) collected (30)
+
+
+
+PokerStars Hand #247083158305: Tournament #3672589254, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/11/13 11:02:41 CET [2023/11/13 5:02:41 ET]
+Table '3672589254 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (185 in chips) 
+Seat 3: darfish (1315 in chips) 
+darfish: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2s 7d]
+darfish: calls 15
+Mahu2021: checks 
+*** FLOP *** [Qd Kc Kh]
+Mahu2021: checks 
+darfish: checks 
+*** TURN *** [Qd Kc Kh] [9s]
+Mahu2021: checks 
+darfish: checks 
+*** RIVER *** [Qd Kc Kh 9s] [Ah]
+Mahu2021: checks 
+darfish: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [2s 7d] (a pair of Kings)
+darfish: shows [5d 4c] (a pair of Kings)
+Mahu2021 collected 30 from pot
+darfish collected 30 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Qd Kc Kh 9s Ah]
+Seat 2: Mahu2021 (big blind) showed [2s 7d] and won (30) with a pair of Kings
+Seat 3: darfish (button) (small blind) showed [5d 4c] and won (30) with a pair of Kings
+
+
+
+PokerStars Hand #247083159653: Tournament #3672589254, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/11/13 11:02:53 CET [2023/11/13 5:02:53 ET]
+Table '3672589254 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (185 in chips) 
+Seat 3: darfish (1315 in chips) 
+Mahu2021: posts small blind 15
+darfish: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h Js]
+Mahu2021: raises 30 to 60
+darfish: calls 30
+*** FLOP *** [2h Ah Td]
+darfish: checks 
+Mahu2021: bets 125 and is all-in
+darfish: calls 125
+*** TURN *** [2h Ah Td] [5h]
+*** RIVER *** [2h Ah Td 5h] [5d]
+*** SHOW DOWN ***
+darfish: shows [Th 7c] (two pair, Tens and Fives)
+Mahu2021: shows [9h Js] (a pair of Fives)
+darfish collected 370 from pot
+Mahu2021 finished the tournament in 2nd place
+darfish wins the tournament and receives $1.00 - congratulations!
+*** SUMMARY ***
+Total pot 370 | Rake 0 
+Board [2h Ah Td 5h 5d]
+Seat 2: Mahu2021 (button) (small blind) showed [9h Js] and lost with a pair of Fives
+Seat 3: darfish (big blind) showed [Th 7c] and won (370) with two pair, Tens and Fives
+
+
+

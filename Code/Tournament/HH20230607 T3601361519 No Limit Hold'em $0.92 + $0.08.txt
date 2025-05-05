@@ -1,0 +1,303 @@
+﻿PokerStars Hand #244139179840: Tournament #3601361519, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/06/07 13:39:44 CET [2023/06/07 7:39:44 ET]
+Table '3601361519 1' 3-max Seat #1 is the button
+Seat 1: Tallwood1 (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: alex623 (500 in chips) 
+Mahu2021: posts small blind 10
+alex623: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d 3c]
+Tallwood1: folds 
+Mahu2021: folds 
+Uncalled bet (10) returned to alex623
+alex623 collected 20 from pot
+alex623: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Tallwood1 (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: alex623 (big blind) collected (20)
+
+
+
+PokerStars Hand #244139182192: Tournament #3601361519, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/06/07 13:39:58 CET [2023/06/07 7:39:58 ET]
+Table '3601361519 1' 3-max Seat #2 is the button
+Seat 1: Tallwood1 (500 in chips) 
+Seat 2: Mahu2021 (490 in chips) 
+Seat 3: alex623 (510 in chips) 
+alex623: posts small blind 10
+Tallwood1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2c 2s]
+Mahu2021: raises 20 to 40
+alex623: folds 
+Tallwood1: calls 20
+*** FLOP *** [As Jc 6c]
+Tallwood1: bets 40
+Mahu2021: folds 
+Uncalled bet (40) returned to Tallwood1
+Tallwood1 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [As Jc 6c]
+Seat 1: Tallwood1 (big blind) collected (90)
+Seat 2: Mahu2021 (button) folded on the Flop
+Seat 3: alex623 (small blind) folded before Flop
+
+
+
+PokerStars Hand #244139185282: Tournament #3601361519, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/06/07 13:40:17 CET [2023/06/07 7:40:17 ET]
+Table '3601361519 1' 3-max Seat #3 is the button
+Seat 1: Tallwood1 (550 in chips) 
+Seat 2: Mahu2021 (450 in chips) 
+Seat 3: alex623 (500 in chips) 
+Tallwood1: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s 8s]
+alex623: raises 20 to 40
+Tallwood1: calls 30
+Mahu2021: calls 20
+*** FLOP *** [Kh 6d 5c]
+Tallwood1: checks 
+Mahu2021: checks 
+alex623: bets 36
+Tallwood1: calls 36
+Mahu2021: calls 36
+*** TURN *** [Kh 6d 5c] [Qc]
+Tallwood1: checks 
+Mahu2021: checks 
+alex623: checks 
+*** RIVER *** [Kh 6d 5c Qc] [Qd]
+Tallwood1: checks 
+Mahu2021: checks 
+alex623: checks 
+*** SHOW DOWN ***
+Tallwood1: shows [4h 3h] (a pair of Queens)
+Mahu2021: shows [6s 8s] (two pair, Queens and Sixes)
+alex623: mucks hand 
+Mahu2021 collected 228 from pot
+*** SUMMARY ***
+Total pot 228 | Rake 0 
+Board [Kh 6d 5c Qc Qd]
+Seat 1: Tallwood1 (small blind) showed [4h 3h] and lost with a pair of Queens
+Seat 2: Mahu2021 (big blind) showed [6s 8s] and won (228) with two pair, Queens and Sixes
+Seat 3: alex623 (button) mucked [3d Ad]
+
+
+
+PokerStars Hand #244139196073: Tournament #3601361519, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/06/07 13:41:24 CET [2023/06/07 7:41:24 ET]
+Table '3601361519 1' 3-max Seat #1 is the button
+Seat 1: Tallwood1 (474 in chips) 
+Seat 2: Mahu2021 (602 in chips) 
+Seat 3: alex623 (424 in chips) 
+Mahu2021: posts small blind 10
+alex623: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c Ts]
+Tallwood1: calls 20
+Mahu2021: folds 
+alex623: checks 
+*** FLOP *** [7h Tc 3d]
+alex623: checks 
+Tallwood1: checks 
+*** TURN *** [7h Tc 3d] [Qc]
+alex623: checks 
+Tallwood1: checks 
+*** RIVER *** [7h Tc 3d Qc] [5c]
+alex623: checks 
+Tallwood1: checks 
+*** SHOW DOWN ***
+alex623: shows [9d Kc] (high card King)
+Tallwood1: mucks hand 
+alex623 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [7h Tc 3d Qc 5c]
+Seat 1: Tallwood1 (button) mucked [Kh 4h]
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: alex623 (big blind) showed [9d Kc] and won (50) with high card King
+
+
+
+PokerStars Hand #244139203701: Tournament #3601361519, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/06/07 13:42:10 CET [2023/06/07 7:42:10 ET]
+Table '3601361519 1' 3-max Seat #2 is the button
+Seat 1: Tallwood1 (454 in chips) 
+Seat 2: Mahu2021 (592 in chips) 
+Seat 3: alex623 (454 in chips) 
+alex623: posts small blind 10
+Tallwood1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8s 7h]
+Mahu2021: folds 
+alex623: folds 
+Uncalled bet (10) returned to Tallwood1
+Tallwood1 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Tallwood1 (big blind) collected (20)
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: alex623 (small blind) folded before Flop
+
+
+
+PokerStars Hand #244139205667: Tournament #3601361519, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/06/07 13:42:22 CET [2023/06/07 7:42:22 ET]
+Table '3601361519 1' 3-max Seat #3 is the button
+Seat 1: Tallwood1 (464 in chips) 
+Seat 2: Mahu2021 (592 in chips) 
+Seat 3: alex623 (444 in chips) 
+Tallwood1: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8d As]
+alex623: folds 
+Tallwood1: calls 10
+Mahu2021: checks 
+*** FLOP *** [9s 2d Ah]
+Tallwood1: checks 
+Mahu2021: bets 20
+Tallwood1: calls 20
+*** TURN *** [9s 2d Ah] [5d]
+Tallwood1: checks 
+Mahu2021: bets 20
+Tallwood1: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [9s 2d Ah 5d]
+Seat 1: Tallwood1 (small blind) folded on the Turn
+Seat 2: Mahu2021 (big blind) collected (80)
+Seat 3: alex623 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #244139210597: Tournament #3601361519, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/06/07 13:42:52 CET [2023/06/07 7:42:52 ET]
+Table '3601361519 1' 3-max Seat #1 is the button
+Seat 1: Tallwood1 (424 in chips) 
+Seat 2: Mahu2021 (632 in chips) 
+Seat 3: alex623 (444 in chips) 
+Mahu2021: posts small blind 15
+alex623: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s 4s]
+Tallwood1: raises 30 to 60
+Mahu2021: folds 
+alex623: raises 384 to 444 and is all-in
+Tallwood1: calls 364 and is all-in
+Uncalled bet (20) returned to alex623
+*** FLOP *** [7s 3s 2h]
+*** TURN *** [7s 3s 2h] [4c]
+*** RIVER *** [7s 3s 2h 4c] [Kh]
+*** SHOW DOWN ***
+alex623: shows [Kd As] (a pair of Kings)
+Tallwood1: shows [6d Qd] (high card King)
+alex623 collected 863 from pot
+Tallwood1 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 863 | Rake 0 
+Board [7s 3s 2h 4c Kh]
+Seat 1: Tallwood1 (button) showed [6d Qd] and lost with high card King
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: alex623 (big blind) showed [Kd As] and won (863) with a pair of Kings
+
+
+
+PokerStars Hand #244139213603: Tournament #3601361519, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/06/07 13:43:11 CET [2023/06/07 7:43:11 ET]
+Table '3601361519 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (617 in chips) 
+Seat 3: alex623 (883 in chips) 
+alex623: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc Tc]
+alex623: raises 853 to 883 and is all-in
+Mahu2021: folds 
+Uncalled bet (853) returned to alex623
+alex623 collected 60 from pot
+alex623: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: alex623 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #244139214961: Tournament #3601361519, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/06/07 13:43:20 CET [2023/06/07 7:43:20 ET]
+Table '3601361519 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (587 in chips) 
+Seat 3: alex623 (913 in chips) 
+Mahu2021: posts small blind 15
+alex623: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2c 9c]
+Mahu2021: folds 
+Uncalled bet (15) returned to alex623
+alex623 collected 30 from pot
+alex623: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: alex623 (big blind) collected (30)
+
+
+
+PokerStars Hand #244139215766: Tournament #3601361519, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/06/07 13:43:24 CET [2023/06/07 7:43:24 ET]
+Table '3601361519 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (572 in chips) 
+Seat 3: alex623 (928 in chips) 
+alex623: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc Kd]
+alex623: calls 15
+Mahu2021: checks 
+*** FLOP *** [3c 6s 7c]
+Mahu2021: checks 
+alex623: bets 30
+Mahu2021: calls 30
+*** TURN *** [3c 6s 7c] [4s]
+Mahu2021: checks 
+alex623: bets 60
+Mahu2021: folds 
+Uncalled bet (60) returned to alex623
+alex623 collected 120 from pot
+alex623: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [3c 6s 7c 4s]
+Seat 2: Mahu2021 (big blind) folded on the Turn
+Seat 3: alex623 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #244139218348: Tournament #3601361519, $0.92+$0.08 USD Hold'em No Limit - Level II (15/30) - 2023/06/07 13:43:40 CET [2023/06/07 7:43:40 ET]
+Table '3601361519 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (512 in chips) 
+Seat 3: alex623 (988 in chips) 
+Mahu2021: posts small blind 15
+alex623: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d As]
+Mahu2021: calls 15
+alex623: raises 958 to 988 and is all-in
+Mahu2021: calls 482 and is all-in
+Uncalled bet (476) returned to alex623
+*** FLOP *** [3d Jd 2d]
+*** TURN *** [3d Jd 2d] [5h]
+*** RIVER *** [3d Jd 2d 5h] [Tc]
+*** SHOW DOWN ***
+alex623: shows [4c 4s] (a pair of Fours)
+Mahu2021: shows [7d As] (high card Ace)
+alex623 collected 1024 from pot
+Mahu2021 finished the tournament in 2nd place
+alex623 wins the tournament and receives $3.00 - congratulations!
+*** SUMMARY ***
+Total pot 1024 | Rake 0 
+Board [3d Jd 2d 5h Tc]
+Seat 2: Mahu2021 (button) (small blind) showed [7d As] and lost with high card Ace
+Seat 3: alex623 (big blind) showed [4c 4s] and won (1024) with a pair of Fours
+
+
+

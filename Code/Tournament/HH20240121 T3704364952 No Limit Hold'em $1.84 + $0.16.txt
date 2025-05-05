@@ -1,0 +1,210 @@
+﻿PokerStars Hand #248412640634: Tournament #3704364952, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/21 17:56:45 CET [2024/01/21 11:56:45 ET]
+Table '3704364952 1' 3-max Seat #1 is the button
+Seat 1: H.o.Blinds (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: marvas177 (500 in chips) 
+Mahu2021: posts small blind 10
+marvas177: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qd 4d]
+H.o.Blinds: calls 20
+Mahu2021: calls 10
+marvas177: checks 
+*** FLOP *** [8c Ad 4c]
+Mahu2021: checks 
+marvas177: checks 
+H.o.Blinds: checks 
+*** TURN *** [8c Ad 4c] [Jd]
+Mahu2021: bets 40
+marvas177: folds 
+H.o.Blinds: calls 40
+*** RIVER *** [8c Ad 4c Jd] [5s]
+Mahu2021: checks 
+H.o.Blinds: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [Qd 4d] (a pair of Fours)
+H.o.Blinds: mucks hand 
+Mahu2021 collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | Rake 0 
+Board [8c Ad 4c Jd 5s]
+Seat 1: H.o.Blinds (button) mucked [Ts 9d]
+Seat 2: Mahu2021 (small blind) showed [Qd 4d] and won (140) with a pair of Fours
+Seat 3: marvas177 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #248412646576: Tournament #3704364952, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/21 17:57:10 CET [2024/01/21 11:57:10 ET]
+Table '3704364952 1' 3-max Seat #2 is the button
+Seat 1: H.o.Blinds (440 in chips) 
+Seat 2: Mahu2021 (580 in chips) 
+Seat 3: marvas177 (480 in chips) 
+marvas177: posts small blind 10
+H.o.Blinds: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h 7s]
+Mahu2021: folds 
+marvas177: calls 10
+H.o.Blinds: checks 
+*** FLOP *** [4s 6c 8s]
+marvas177: checks 
+H.o.Blinds: bets 40
+marvas177: folds 
+Uncalled bet (40) returned to H.o.Blinds
+H.o.Blinds collected 40 from pot
+H.o.Blinds: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [4s 6c 8s]
+Seat 1: H.o.Blinds (big blind) collected (40)
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: marvas177 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #248412650741: Tournament #3704364952, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/21 17:57:27 CET [2024/01/21 11:57:27 ET]
+Table '3704364952 1' 3-max Seat #3 is the button
+Seat 1: H.o.Blinds (460 in chips) 
+Seat 2: Mahu2021 (580 in chips) 
+Seat 3: marvas177 (460 in chips) 
+H.o.Blinds: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qs 3c]
+marvas177: raises 440 to 460 and is all-in
+H.o.Blinds: folds 
+Mahu2021: folds 
+Uncalled bet (440) returned to marvas177
+marvas177 collected 50 from pot
+marvas177: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: H.o.Blinds (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: marvas177 (button) collected (50)
+
+
+
+PokerStars Hand #248412653020: Tournament #3704364952, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/21 17:57:37 CET [2024/01/21 11:57:37 ET]
+Table '3704364952 1' 3-max Seat #1 is the button
+Seat 1: H.o.Blinds (450 in chips) 
+Seat 2: Mahu2021 (560 in chips) 
+Seat 3: marvas177 (490 in chips) 
+Mahu2021: posts small blind 10
+marvas177: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5h 3h]
+H.o.Blinds: raises 20 to 40
+Mahu2021: calls 30
+marvas177: raises 450 to 490 and is all-in
+H.o.Blinds: calls 410 and is all-in
+Mahu2021: folds 
+Uncalled bet (40) returned to marvas177
+*** FLOP *** [Qh Jd 8d]
+*** TURN *** [Qh Jd 8d] [7c]
+*** RIVER *** [Qh Jd 8d 7c] [8c]
+*** SHOW DOWN ***
+marvas177: shows [Ah 2d] (a pair of Eights)
+H.o.Blinds: shows [Kh Js] (two pair, Jacks and Eights)
+H.o.Blinds collected 940 from pot
+*** SUMMARY ***
+Total pot 940 | Rake 0 
+Board [Qh Jd 8d 7c 8c]
+Seat 1: H.o.Blinds (button) showed [Kh Js] and won (940) with two pair, Jacks and Eights
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: marvas177 (big blind) showed [Ah 2d] and lost with a pair of Eights
+
+
+
+PokerStars Hand #248412657635: Tournament #3704364952, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/21 17:57:55 CET [2024/01/21 11:57:55 ET]
+Table '3704364952 1' 3-max Seat #2 is the button
+Seat 1: H.o.Blinds (940 in chips) 
+Seat 2: Mahu2021 (520 in chips) 
+Seat 3: marvas177 (40 in chips) 
+marvas177: posts small blind 10
+H.o.Blinds: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c Ks]
+Mahu2021: folds 
+marvas177: calls 10
+H.o.Blinds: raises 20 to 40
+marvas177: calls 20 and is all-in
+*** FLOP *** [9d 6d 7c]
+*** TURN *** [9d 6d 7c] [2d]
+*** RIVER *** [9d 6d 7c 2d] [8s]
+*** SHOW DOWN ***
+marvas177: shows [3c 9h] (a pair of Nines)
+H.o.Blinds: shows [8h Qd] (a pair of Eights)
+marvas177 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [9d 6d 7c 2d 8s]
+Seat 1: H.o.Blinds (big blind) showed [8h Qd] and lost with a pair of Eights
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: marvas177 (small blind) showed [3c 9h] and won (80) with a pair of Nines
+
+
+
+PokerStars Hand #248412661821: Tournament #3704364952, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/21 17:58:13 CET [2024/01/21 11:58:13 ET]
+Table '3704364952 1' 3-max Seat #3 is the button
+Seat 1: H.o.Blinds (900 in chips) 
+Seat 2: Mahu2021 (520 in chips) 
+Seat 3: marvas177 (80 in chips) 
+H.o.Blinds: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d Ac]
+marvas177: raises 60 to 80 and is all-in
+H.o.Blinds: calls 70
+Mahu2021: folds 
+*** FLOP *** [3s As Ks]
+*** TURN *** [3s As Ks] [Qh]
+*** RIVER *** [3s As Ks Qh] [Ts]
+*** SHOW DOWN ***
+H.o.Blinds: shows [Tc Td] (three of a kind, Tens)
+marvas177: shows [6h Kh] (a pair of Kings)
+H.o.Blinds collected 180 from pot
+marvas177 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [3s As Ks Qh Ts]
+Seat 1: H.o.Blinds (small blind) showed [Tc Td] and won (180) with three of a kind, Tens
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: marvas177 (button) showed [6h Kh] and lost with a pair of Kings
+
+
+
+PokerStars Hand #248412667239: Tournament #3704364952, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/21 17:58:35 CET [2024/01/21 11:58:35 ET]
+Table '3704364952 1' 3-max Seat #2 is the button
+Seat 1: H.o.Blinds (1000 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Mahu2021: posts small blind 10
+H.o.Blinds: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js 6c]
+Mahu2021: calls 10
+H.o.Blinds: checks 
+*** FLOP *** [6s 9s Qs]
+H.o.Blinds: checks 
+Mahu2021: bets 40
+H.o.Blinds: raises 40 to 80
+Mahu2021: calls 40
+*** TURN *** [6s 9s Qs] [6h]
+H.o.Blinds: bets 40
+Mahu2021: raises 360 to 400 and is all-in
+H.o.Blinds: calls 360
+*** RIVER *** [6s 9s Qs 6h] [As]
+*** SHOW DOWN ***
+H.o.Blinds: shows [6d 9d] (a full house, Sixes full of Nines)
+Mahu2021: shows [Js 6c] (a flush, Ace high)
+H.o.Blinds collected 1000 from pot
+Mahu2021 finished the tournament in 2nd place
+H.o.Blinds wins the tournament and receives $4.00 - congratulations!
+*** SUMMARY ***
+Total pot 1000 | Rake 0 
+Board [6s 9s Qs 6h As]
+Seat 1: H.o.Blinds (big blind) showed [6d 9d] and won (1000) with a full house, Sixes full of Nines
+Seat 2: Mahu2021 (button) (small blind) showed [Js 6c] and lost with a flush, Ace high
+
+
+

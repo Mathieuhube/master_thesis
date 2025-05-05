@@ -1,0 +1,1838 @@
+﻿PokerStars Hand #253297046276: Tournament #3821059881, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/07 18:26:04 CET [2024/11/07 12:26:04 ET]
+Table '3821059881 1' 3-max Seat #1 is the button
+Seat 1: debilushka228 (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: Kölner-Bub (500 in chips) 
+Mahu2021: posts small blind 10
+Kölner-Bub: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s 3d]
+debilushka228: raises 20 to 40
+Mahu2021: folds 
+Kölner-Bub: calls 20
+*** FLOP *** [8h 6h 6s]
+Kölner-Bub: bets 20
+debilushka228: calls 20
+*** TURN *** [8h 6h 6s] [Qc]
+Kölner-Bub: checks 
+debilushka228: checks 
+*** RIVER *** [8h 6h 6s Qc] [9s]
+Kölner-Bub: checks 
+debilushka228: checks 
+*** SHOW DOWN ***
+Kölner-Bub: shows [4s Ad] (a pair of Sixes)
+debilushka228: shows [7d As] (a pair of Sixes)
+Kölner-Bub collected 65 from pot
+debilushka228 collected 65 from pot
+*** SUMMARY ***
+Total pot 130 | Rake 0 
+Board [8h 6h 6s Qc 9s]
+Seat 1: debilushka228 (button) showed [7d As] and won (65) with a pair of Sixes
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: Kölner-Bub (big blind) showed [4s Ad] and won (65) with a pair of Sixes
+
+
+
+PokerStars Hand #253297051273: Tournament #3821059881, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/07 18:26:25 CET [2024/11/07 12:26:25 ET]
+Table '3821059881 1' 3-max Seat #2 is the button
+Seat 1: debilushka228 (505 in chips) 
+Seat 2: Mahu2021 (490 in chips) 
+Seat 3: Kölner-Bub (505 in chips) 
+Kölner-Bub: posts small blind 10
+debilushka228: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc 6s]
+Mahu2021: folds 
+Kölner-Bub: folds 
+Uncalled bet (10) returned to debilushka228
+debilushka228 collected 20 from pot
+debilushka228: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: debilushka228 (big blind) collected (20)
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: Kölner-Bub (small blind) folded before Flop
+
+
+
+PokerStars Hand #253297053248: Tournament #3821059881, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/07 18:26:33 CET [2024/11/07 12:26:33 ET]
+Table '3821059881 1' 3-max Seat #3 is the button
+Seat 1: debilushka228 (515 in chips) 
+Seat 2: Mahu2021 (490 in chips) 
+Seat 3: Kölner-Bub (495 in chips) 
+debilushka228: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh Ad]
+Kölner-Bub: folds 
+debilushka228: raises 20 to 40
+Mahu2021: calls 20
+*** FLOP *** [5d 2d 9h]
+debilushka228: checks 
+Mahu2021: bets 40
+debilushka228: calls 40
+*** TURN *** [5d 2d 9h] [Ks]
+debilushka228: checks 
+Mahu2021: bets 40
+debilushka228: calls 40
+*** RIVER *** [5d 2d 9h Ks] [6h]
+debilushka228: checks 
+Mahu2021: bets 40
+debilushka228: calls 40
+*** SHOW DOWN ***
+Mahu2021: shows [Jh Ad] (high card Ace)
+debilushka228: shows [6s 5s] (two pair, Sixes and Fives)
+debilushka228 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [5d 2d 9h Ks 6h]
+Seat 1: debilushka228 (small blind) showed [6s 5s] and won (320) with two pair, Sixes and Fives
+Seat 2: Mahu2021 (big blind) showed [Jh Ad] and lost with high card Ace
+Seat 3: Kölner-Bub (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253297058756: Tournament #3821059881, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/07 18:26:56 CET [2024/11/07 12:26:56 ET]
+Table '3821059881 1' 3-max Seat #1 is the button
+Seat 1: debilushka228 (675 in chips) 
+Seat 2: Mahu2021 (330 in chips) 
+Seat 3: Kölner-Bub (495 in chips) 
+Mahu2021: posts small blind 10
+Kölner-Bub: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Td 5s]
+debilushka228: raises 20 to 40
+Mahu2021: folds 
+Kölner-Bub: calls 20
+*** FLOP *** [5d 9d 7h]
+Kölner-Bub: checks 
+debilushka228: checks 
+*** TURN *** [5d 9d 7h] [6h]
+Kölner-Bub: checks 
+debilushka228: bets 68
+Kölner-Bub: calls 68
+*** RIVER *** [5d 9d 7h 6h] [2d]
+Kölner-Bub: checks 
+debilushka228: checks 
+*** SHOW DOWN ***
+Kölner-Bub: shows [4h Ad] (high card Ace)
+debilushka228: shows [7c 8c] (a straight, Five to Nine)
+debilushka228 collected 226 from pot
+*** SUMMARY ***
+Total pot 226 | Rake 0 
+Board [5d 9d 7h 6h 2d]
+Seat 1: debilushka228 (button) showed [7c 8c] and won (226) with a straight, Five to Nine
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: Kölner-Bub (big blind) showed [4h Ad] and lost with high card Ace
+
+
+
+PokerStars Hand #253297062905: Tournament #3821059881, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/07 18:27:14 CET [2024/11/07 12:27:14 ET]
+Table '3821059881 1' 3-max Seat #2 is the button
+Seat 1: debilushka228 (793 in chips) 
+Seat 2: Mahu2021 (320 in chips) 
+Seat 3: Kölner-Bub (387 in chips) 
+Kölner-Bub: posts small blind 10
+debilushka228: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad 7h]
+Mahu2021: raises 20 to 40
+Kölner-Bub: folds 
+debilushka228: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 50 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: debilushka228 (big blind) folded before Flop
+Seat 2: Mahu2021 (button) collected (50)
+Seat 3: Kölner-Bub (small blind) folded before Flop
+
+
+
+PokerStars Hand #253297065794: Tournament #3821059881, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/07 18:27:26 CET [2024/11/07 12:27:26 ET]
+Table '3821059881 1' 3-max Seat #3 is the button
+Seat 1: debilushka228 (773 in chips) 
+Seat 2: Mahu2021 (350 in chips) 
+Seat 3: Kölner-Bub (377 in chips) 
+debilushka228: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h Qc]
+Kölner-Bub: folds 
+debilushka228: raises 20 to 40
+Mahu2021: calls 20
+*** FLOP *** [Qs 4d Th]
+debilushka228: bets 20
+Mahu2021: calls 20
+*** TURN *** [Qs 4d Th] [8h]
+debilushka228: bets 30
+Mahu2021: calls 30
+*** RIVER *** [Qs 4d Th 8h] [Ad]
+debilushka228: checks 
+Mahu2021: bets 80
+debilushka228: folds 
+Uncalled bet (80) returned to Mahu2021
+Mahu2021 collected 180 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [Qs 4d Th 8h Ad]
+Seat 1: debilushka228 (small blind) folded on the River
+Seat 2: Mahu2021 (big blind) collected (180)
+Seat 3: Kölner-Bub (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253297071468: Tournament #3821059881, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/07 18:27:50 CET [2024/11/07 12:27:50 ET]
+Table '3821059881 1' 3-max Seat #1 is the button
+Seat 1: debilushka228 (683 in chips) 
+Seat 2: Mahu2021 (440 in chips) 
+Seat 3: Kölner-Bub (377 in chips) 
+Mahu2021: posts small blind 10
+Kölner-Bub: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc Jd]
+debilushka228: raises 20 to 40
+Mahu2021: calls 30
+Kölner-Bub: calls 20
+*** FLOP *** [4s Kh 7c]
+Mahu2021: checks 
+Kölner-Bub: checks 
+debilushka228: checks 
+*** TURN *** [4s Kh 7c] [9h]
+Mahu2021: checks 
+Kölner-Bub: checks 
+debilushka228: checks 
+*** RIVER *** [4s Kh 7c 9h] [8h]
+Mahu2021: checks 
+Kölner-Bub: checks 
+debilushka228: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [Qc Jd] (high card King)
+Kölner-Bub: shows [6s As] (high card Ace)
+debilushka228: shows [Ad 3c] (high card Ace)
+Kölner-Bub collected 60 from pot
+debilushka228 collected 60 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [4s Kh 7c 9h 8h]
+Seat 1: debilushka228 (button) showed [Ad 3c] and won (60) with high card Ace
+Seat 2: Mahu2021 (small blind) showed [Qc Jd] and lost with high card King
+Seat 3: Kölner-Bub (big blind) showed [6s As] and won (60) with high card Ace
+
+
+
+PokerStars Hand #253297076561: Tournament #3821059881, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/07 18:28:10 CET [2024/11/07 12:28:10 ET]
+Table '3821059881 1' 3-max Seat #2 is the button
+Seat 1: debilushka228 (703 in chips) 
+Seat 2: Mahu2021 (400 in chips) 
+Seat 3: Kölner-Bub (397 in chips) 
+Kölner-Bub: posts small blind 10
+debilushka228: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd 9s]
+Mahu2021: folds 
+Kölner-Bub: folds 
+Uncalled bet (10) returned to debilushka228
+debilushka228 collected 20 from pot
+debilushka228: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: debilushka228 (big blind) collected (20)
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: Kölner-Bub (small blind) folded before Flop
+
+
+
+PokerStars Hand #253297078608: Tournament #3821059881, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/07 18:28:19 CET [2024/11/07 12:28:19 ET]
+Table '3821059881 1' 3-max Seat #3 is the button
+Seat 1: debilushka228 (713 in chips) 
+Seat 2: Mahu2021 (400 in chips) 
+Seat 3: Kölner-Bub (387 in chips) 
+debilushka228: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h As]
+Kölner-Bub: raises 367 to 387 and is all-in
+debilushka228: folds 
+Mahu2021: folds 
+Uncalled bet (367) returned to Kölner-Bub
+Kölner-Bub collected 50 from pot
+Kölner-Bub: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: debilushka228 (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: Kölner-Bub (button) collected (50)
+
+
+
+PokerStars Hand #253297081157: Tournament #3821059881, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/07 18:28:30 CET [2024/11/07 12:28:30 ET]
+Table '3821059881 1' 3-max Seat #1 is the button
+Seat 1: debilushka228 (703 in chips) 
+Seat 2: Mahu2021 (380 in chips) 
+Seat 3: Kölner-Bub (417 in chips) 
+Mahu2021: posts small blind 10
+Kölner-Bub: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d 4h]
+debilushka228: raises 20 to 40
+Mahu2021: folds 
+Kölner-Bub: calls 20
+*** FLOP *** [5d 7c Qh]
+Kölner-Bub: checks 
+debilushka228: bets 23
+Kölner-Bub: folds 
+Uncalled bet (23) returned to debilushka228
+debilushka228 collected 90 from pot
+debilushka228: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [5d 7c Qh]
+Seat 1: debilushka228 (button) collected (90)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: Kölner-Bub (big blind) folded on the Flop
+
+
+
+PokerStars Hand #253297085258: Tournament #3821059881, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/07 18:28:47 CET [2024/11/07 12:28:47 ET]
+Table '3821059881 1' 3-max Seat #2 is the button
+Seat 1: debilushka228 (753 in chips) 
+Seat 2: Mahu2021 (370 in chips) 
+Seat 3: Kölner-Bub (377 in chips) 
+Kölner-Bub: posts small blind 10
+debilushka228: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks 6h]
+Mahu2021: folds 
+Kölner-Bub: folds 
+Uncalled bet (10) returned to debilushka228
+debilushka228 collected 20 from pot
+debilushka228: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: debilushka228 (big blind) collected (20)
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: Kölner-Bub (small blind) folded before Flop
+
+
+
+PokerStars Hand #253297086922: Tournament #3821059881, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/07 18:28:54 CET [2024/11/07 12:28:54 ET]
+Table '3821059881 1' 3-max Seat #3 is the button
+Seat 1: debilushka228 (763 in chips) 
+Seat 2: Mahu2021 (370 in chips) 
+Seat 3: Kölner-Bub (367 in chips) 
+debilushka228: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3c 6d]
+Kölner-Bub: raises 347 to 367 and is all-in
+debilushka228: folds 
+Mahu2021: folds 
+Uncalled bet (347) returned to Kölner-Bub
+Kölner-Bub collected 50 from pot
+Kölner-Bub: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: debilushka228 (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: Kölner-Bub (button) collected (50)
+
+
+
+PokerStars Hand #253297089693: Tournament #3821059881, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/07 18:29:05 CET [2024/11/07 12:29:05 ET]
+Table '3821059881 1' 3-max Seat #1 is the button
+Seat 1: debilushka228 (753 in chips) 
+Seat 2: Mahu2021 (350 in chips) 
+Seat 3: Kölner-Bub (397 in chips) 
+Mahu2021: posts small blind 10
+Kölner-Bub: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh 6c]
+debilushka228: raises 20 to 40
+Mahu2021: folds 
+Kölner-Bub: raises 357 to 397 and is all-in
+debilushka228: folds 
+Uncalled bet (357) returned to Kölner-Bub
+Kölner-Bub collected 90 from pot
+Kölner-Bub: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Seat 1: debilushka228 (button) folded before Flop
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: Kölner-Bub (big blind) collected (90)
+
+
+
+PokerStars Hand #253297092242: Tournament #3821059881, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/07 18:29:16 CET [2024/11/07 12:29:16 ET]
+Table '3821059881 1' 3-max Seat #2 is the button
+Seat 1: debilushka228 (713 in chips) 
+Seat 2: Mahu2021 (340 in chips) 
+Seat 3: Kölner-Bub (447 in chips) 
+Kölner-Bub: posts small blind 10
+debilushka228: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts 8s]
+Mahu2021: calls 20
+Kölner-Bub: folds 
+debilushka228: checks 
+*** FLOP *** [2h 8c 3d]
+debilushka228: checks 
+Mahu2021: bets 50
+debilushka228: folds 
+Uncalled bet (50) returned to Mahu2021
+Mahu2021 collected 50 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [2h 8c 3d]
+Seat 1: debilushka228 (big blind) folded on the Flop
+Seat 2: Mahu2021 (button) collected (50)
+Seat 3: Kölner-Bub (small blind) folded before Flop
+
+
+
+PokerStars Hand #253297095491: Tournament #3821059881, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/07 18:29:30 CET [2024/11/07 12:29:30 ET]
+Table '3821059881 1' 3-max Seat #3 is the button
+Seat 1: debilushka228 (693 in chips) 
+Seat 2: Mahu2021 (370 in chips) 
+Seat 3: Kölner-Bub (437 in chips) 
+debilushka228: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c 4c]
+Kölner-Bub: raises 20 to 40
+debilushka228: folds 
+Mahu2021: calls 20
+*** FLOP *** [3s Kh 4s]
+Mahu2021: checks 
+Kölner-Bub: checks 
+*** TURN *** [3s Kh 4s] [2h]
+Mahu2021: bets 40
+Kölner-Bub: calls 40
+*** RIVER *** [3s Kh 4s 2h] [6d]
+Mahu2021: checks 
+Kölner-Bub: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [7c 4c] (a pair of Fours)
+Kölner-Bub: mucks hand 
+Mahu2021 collected 170 from pot
+*** SUMMARY ***
+Total pot 170 | Rake 0 
+Board [3s Kh 4s 2h 6d]
+Seat 1: debilushka228 (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) showed [7c 4c] and won (170) with a pair of Fours
+Seat 3: Kölner-Bub (button) mucked [Ah 2c]
+
+
+
+PokerStars Hand #253297100867: Tournament #3821059881, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/07 18:29:52 CET [2024/11/07 12:29:52 ET]
+Table '3821059881 1' 3-max Seat #1 is the button
+Seat 1: debilushka228 (683 in chips) 
+Seat 2: Mahu2021 (460 in chips) 
+Seat 3: Kölner-Bub (357 in chips) 
+Mahu2021: posts small blind 10
+Kölner-Bub: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2s 6c]
+debilushka228: folds 
+Mahu2021: folds 
+Uncalled bet (10) returned to Kölner-Bub
+Kölner-Bub collected 20 from pot
+Kölner-Bub: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: debilushka228 (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: Kölner-Bub (big blind) collected (20)
+
+
+
+PokerStars Hand #253297102504: Tournament #3821059881, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/07 18:29:59 CET [2024/11/07 12:29:59 ET]
+Table '3821059881 1' 3-max Seat #2 is the button
+Seat 1: debilushka228 (683 in chips) 
+Seat 2: Mahu2021 (450 in chips) 
+Seat 3: Kölner-Bub (367 in chips) 
+Kölner-Bub: posts small blind 10
+debilushka228: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc 8s]
+Mahu2021: folds 
+Kölner-Bub: folds 
+Uncalled bet (10) returned to debilushka228
+debilushka228 collected 20 from pot
+debilushka228: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: debilushka228 (big blind) collected (20)
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: Kölner-Bub (small blind) folded before Flop
+
+
+
+PokerStars Hand #253297105163: Tournament #3821059881, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/07 18:30:10 CET [2024/11/07 12:30:10 ET]
+Table '3821059881 1' 3-max Seat #3 is the button
+Seat 1: debilushka228 (693 in chips) 
+Seat 2: Mahu2021 (450 in chips) 
+Seat 3: Kölner-Bub (357 in chips) 
+debilushka228: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Tc 7c]
+Kölner-Bub: raises 327 to 357 and is all-in
+debilushka228: folds 
+Mahu2021: folds 
+Uncalled bet (327) returned to Kölner-Bub
+Kölner-Bub collected 75 from pot
+Kölner-Bub: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: debilushka228 (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: Kölner-Bub (button) collected (75)
+
+
+
+PokerStars Hand #253297107809: Tournament #3821059881, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/07 18:30:21 CET [2024/11/07 12:30:21 ET]
+Table '3821059881 1' 3-max Seat #1 is the button
+Seat 1: debilushka228 (678 in chips) 
+Seat 2: Mahu2021 (420 in chips) 
+Seat 3: Kölner-Bub (402 in chips) 
+Mahu2021: posts small blind 15
+Kölner-Bub: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s 9c]
+debilushka228: raises 30 to 60
+Mahu2021: folds 
+Kölner-Bub: folds 
+Uncalled bet (30) returned to debilushka228
+debilushka228 collected 75 from pot
+debilushka228: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: debilushka228 (button) collected (75)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: Kölner-Bub (big blind) folded before Flop
+
+
+
+PokerStars Hand #253297109530: Tournament #3821059881, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/07 18:30:28 CET [2024/11/07 12:30:28 ET]
+Table '3821059881 1' 3-max Seat #2 is the button
+Seat 1: debilushka228 (723 in chips) 
+Seat 2: Mahu2021 (405 in chips) 
+Seat 3: Kölner-Bub (372 in chips) 
+Kölner-Bub: posts small blind 15
+debilushka228: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c Td]
+Mahu2021: folds 
+Kölner-Bub: folds 
+Uncalled bet (15) returned to debilushka228
+debilushka228 collected 30 from pot
+debilushka228: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: debilushka228 (big blind) collected (30)
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: Kölner-Bub (small blind) folded before Flop
+
+
+
+PokerStars Hand #253297111048: Tournament #3821059881, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/07 18:30:35 CET [2024/11/07 12:30:35 ET]
+Table '3821059881 1' 3-max Seat #3 is the button
+Seat 1: debilushka228 (738 in chips) 
+Seat 2: Mahu2021 (405 in chips) 
+Seat 3: Kölner-Bub (357 in chips) 
+debilushka228: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah Th]
+Kölner-Bub: folds 
+debilushka228: raises 708 to 738 and is all-in
+Mahu2021: folds 
+Uncalled bet (708) returned to debilushka228
+debilushka228 collected 60 from pot
+debilushka228: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: debilushka228 (small blind) collected (60)
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: Kölner-Bub (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253297116066: Tournament #3821059881, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/07 18:30:56 CET [2024/11/07 12:30:56 ET]
+Table '3821059881 1' 3-max Seat #1 is the button
+Seat 1: debilushka228 (768 in chips) 
+Seat 2: Mahu2021 (375 in chips) 
+Seat 3: Kölner-Bub (357 in chips) 
+Mahu2021: posts small blind 15
+Kölner-Bub: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js 2s]
+debilushka228: folds 
+Mahu2021: raises 30 to 60
+Kölner-Bub has timed out
+Kölner-Bub: folds 
+Kölner-Bub is sitting out
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: debilushka228 (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) collected (60)
+Seat 3: Kölner-Bub (big blind) folded before Flop
+
+
+
+PokerStars Hand #253297123263: Tournament #3821059881, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/07 18:31:25 CET [2024/11/07 12:31:25 ET]
+Table '3821059881 1' 3-max Seat #2 is the button
+Seat 1: debilushka228 (768 in chips) 
+Seat 2: Mahu2021 (405 in chips) 
+Seat 3: Kölner-Bub (327 in chips) is sitting out
+Kölner-Bub: posts small blind 15
+debilushka228: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kc 2h]
+Mahu2021: folds 
+Kölner-Bub: folds 
+Uncalled bet (15) returned to debilushka228
+debilushka228 collected 30 from pot
+debilushka228: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: debilushka228 (big blind) collected (30)
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: Kölner-Bub (small blind) folded before Flop
+
+
+
+PokerStars Hand #253297124295: Tournament #3821059881, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/07 18:31:29 CET [2024/11/07 12:31:29 ET]
+Table '3821059881 1' 3-max Seat #3 is the button
+Seat 1: debilushka228 (783 in chips) 
+Seat 2: Mahu2021 (405 in chips) 
+Seat 3: Kölner-Bub (312 in chips) is sitting out
+debilushka228: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5h 2d]
+Kölner-Bub: folds 
+debilushka228: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: debilushka228 (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (30)
+Seat 3: Kölner-Bub (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253297125180: Tournament #3821059881, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/07 18:31:33 CET [2024/11/07 12:31:33 ET]
+Table '3821059881 1' 3-max Seat #1 is the button
+Seat 1: debilushka228 (768 in chips) 
+Seat 2: Mahu2021 (420 in chips) 
+Seat 3: Kölner-Bub (312 in chips) is sitting out
+Mahu2021: posts small blind 15
+Kölner-Bub: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qd 7h]
+debilushka228: raises 30 to 60
+Mahu2021: calls 45
+Kölner-Bub: folds 
+*** FLOP *** [9d 9s Ts]
+Kölner-Bub has returned
+Mahu2021: checks 
+debilushka228: bets 30
+Mahu2021: raises 30 to 60
+debilushka228: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 210 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 210 | Rake 0 
+Board [9d 9s Ts]
+Seat 1: debilushka228 (button) folded on the Flop
+Seat 2: Mahu2021 (small blind) collected (210)
+Seat 3: Kölner-Bub (big blind) folded before Flop
+
+
+
+PokerStars Hand #253297127652: Tournament #3821059881, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/07 18:31:44 CET [2024/11/07 12:31:44 ET]
+Table '3821059881 1' 3-max Seat #2 is the button
+Seat 1: debilushka228 (678 in chips) 
+Seat 2: Mahu2021 (540 in chips) 
+Seat 3: Kölner-Bub (282 in chips) 
+Kölner-Bub: posts small blind 15
+debilushka228: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks Qh]
+Mahu2021: calls 30
+Kölner-Bub: raises 252 to 282 and is all-in
+debilushka228: folds 
+Mahu2021: folds 
+Uncalled bet (252) returned to Kölner-Bub
+Kölner-Bub collected 90 from pot
+Kölner-Bub: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Seat 1: debilushka228 (big blind) folded before Flop
+Seat 2: Mahu2021 (button) folded before Flop
+Seat 3: Kölner-Bub (small blind) collected (90)
+
+
+
+PokerStars Hand #253297133011: Tournament #3821059881, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/07 18:32:06 CET [2024/11/07 12:32:06 ET]
+Table '3821059881 1' 3-max Seat #3 is the button
+Seat 1: debilushka228 (648 in chips) 
+Seat 2: Mahu2021 (510 in chips) 
+Seat 3: Kölner-Bub (342 in chips) 
+debilushka228: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c 2h]
+Kölner-Bub: folds 
+debilushka228: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: debilushka228 (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (30)
+Seat 3: Kölner-Bub (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #253297134582: Tournament #3821059881, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/07 18:32:12 CET [2024/11/07 12:32:12 ET]
+Table '3821059881 1' 3-max Seat #1 is the button
+Seat 1: debilushka228 (633 in chips) 
+Seat 2: Mahu2021 (525 in chips) 
+Seat 3: Kölner-Bub (342 in chips) 
+Mahu2021: posts small blind 15
+Kölner-Bub: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d Kh]
+debilushka228: folds 
+Mahu2021: raises 30 to 60
+Kölner-Bub: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: debilushka228 (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) collected (60)
+Seat 3: Kölner-Bub (big blind) folded before Flop
+
+
+
+PokerStars Hand #253297136046: Tournament #3821059881, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/07 18:32:18 CET [2024/11/07 12:32:18 ET]
+Table '3821059881 1' 3-max Seat #2 is the button
+Seat 1: debilushka228 (633 in chips) 
+Seat 2: Mahu2021 (555 in chips) 
+Seat 3: Kölner-Bub (312 in chips) 
+Kölner-Bub: posts small blind 15
+debilushka228: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c Jh]
+Mahu2021: folds 
+Kölner-Bub: raises 282 to 312 and is all-in
+debilushka228: calls 282
+*** FLOP *** [4d Qd 2s]
+*** TURN *** [4d Qd 2s] [7h]
+*** RIVER *** [4d Qd 2s 7h] [5d]
+*** SHOW DOWN ***
+Kölner-Bub: shows [Jc 9c] (high card Queen)
+debilushka228: shows [Qc Ac] (a pair of Queens)
+debilushka228 collected 624 from pot
+Kölner-Bub finished the tournament in 3rd place and received $4.00.
+*** SUMMARY ***
+Total pot 624 | Rake 0 
+Board [4d Qd 2s 7h 5d]
+Seat 1: debilushka228 (big blind) showed [Qc Ac] and won (624) with a pair of Queens
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: Kölner-Bub (small blind) showed [Jc 9c] and lost with high card Queen
+
+
+
+PokerStars Hand #253297140300: Tournament #3821059881, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/07 18:32:35 CET [2024/11/07 12:32:35 ET]
+Table '3821059881 1' 3-max Seat #1 is the button
+Seat 1: debilushka228 (945 in chips) 
+Seat 2: Mahu2021 (555 in chips) 
+debilushka228: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qs Ac]
+debilushka228: calls 15
+Mahu2021: raises 90 to 120
+debilushka228: folds 
+Uncalled bet (90) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: debilushka228 (button) (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (60)
+
+
+
+PokerStars Hand #253297141913: Tournament #3821059881, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/07 18:32:42 CET [2024/11/07 12:32:42 ET]
+Table '3821059881 1' 3-max Seat #2 is the button
+Seat 1: debilushka228 (915 in chips) 
+Seat 2: Mahu2021 (585 in chips) 
+Mahu2021: posts small blind 15
+debilushka228: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s 6c]
+Mahu2021: raises 30 to 60
+debilushka228: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: debilushka228 (big blind) folded before Flop
+Seat 2: Mahu2021 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #253297143445: Tournament #3821059881, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/07 18:32:48 CET [2024/11/07 12:32:48 ET]
+Table '3821059881 1' 3-max Seat #1 is the button
+Seat 1: debilushka228 (885 in chips) 
+Seat 2: Mahu2021 (615 in chips) 
+debilushka228: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d 5h]
+debilushka228: raises 30 to 60
+Mahu2021: calls 30
+*** FLOP *** [5s Jh Ac]
+Mahu2021: checks 
+debilushka228: bets 30
+Mahu2021: calls 30
+*** TURN *** [5s Jh Ac] [Kh]
+Mahu2021: checks 
+debilushka228: bets 135
+Mahu2021: folds 
+Uncalled bet (135) returned to debilushka228
+debilushka228 collected 180 from pot
+debilushka228: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [5s Jh Ac Kh]
+Seat 1: debilushka228 (button) (small blind) collected (180)
+Seat 2: Mahu2021 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #253297146867: Tournament #3821059881, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/07 18:33:02 CET [2024/11/07 12:33:02 ET]
+Table '3821059881 1' 3-max Seat #2 is the button
+Seat 1: debilushka228 (975 in chips) 
+Seat 2: Mahu2021 (525 in chips) 
+Mahu2021: posts small blind 15
+debilushka228: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d Kd]
+Mahu2021: raises 30 to 60
+debilushka228: calls 30
+*** FLOP *** [2s 4s Ah]
+debilushka228: checks 
+Mahu2021: bets 60
+debilushka228: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [2s 4s Ah]
+Seat 1: debilushka228 (big blind) folded on the Flop
+Seat 2: Mahu2021 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #253297149176: Tournament #3821059881, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/07 18:33:12 CET [2024/11/07 12:33:12 ET]
+Table '3821059881 1' 3-max Seat #1 is the button
+Seat 1: debilushka228 (915 in chips) 
+Seat 2: Mahu2021 (585 in chips) 
+debilushka228: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s 6d]
+debilushka228: raises 30 to 60
+Mahu2021: folds 
+Uncalled bet (30) returned to debilushka228
+debilushka228 collected 60 from pot
+debilushka228: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: debilushka228 (button) (small blind) collected (60)
+Seat 2: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #253297150496: Tournament #3821059881, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/07 18:33:17 CET [2024/11/07 12:33:17 ET]
+Table '3821059881 1' 3-max Seat #2 is the button
+Seat 1: debilushka228 (945 in chips) 
+Seat 2: Mahu2021 (555 in chips) 
+Mahu2021: posts small blind 15
+debilushka228: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh 9c]
+Mahu2021: raises 30 to 60
+debilushka228: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: debilushka228 (big blind) folded before Flop
+Seat 2: Mahu2021 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #253297151736: Tournament #3821059881, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/07 18:33:22 CET [2024/11/07 12:33:22 ET]
+Table '3821059881 1' 3-max Seat #1 is the button
+Seat 1: debilushka228 (915 in chips) 
+Seat 2: Mahu2021 (585 in chips) 
+debilushka228: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d Js]
+debilushka228: calls 15
+Mahu2021: checks 
+*** FLOP *** [9h Ac Kc]
+Mahu2021: checks 
+debilushka228: bets 30
+Mahu2021: folds 
+Uncalled bet (30) returned to debilushka228
+debilushka228 collected 60 from pot
+debilushka228: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [9h Ac Kc]
+Seat 1: debilushka228 (button) (small blind) collected (60)
+Seat 2: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #253297154017: Tournament #3821059881, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/07 18:33:32 CET [2024/11/07 12:33:32 ET]
+Table '3821059881 1' 3-max Seat #2 is the button
+Seat 1: debilushka228 (945 in chips) 
+Seat 2: Mahu2021 (555 in chips) 
+Mahu2021: posts small blind 15
+debilushka228: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d Kd]
+Mahu2021: raises 30 to 60
+debilushka228: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: debilushka228 (big blind) folded before Flop
+Seat 2: Mahu2021 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #253297155205: Tournament #3821059881, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/07 18:33:37 CET [2024/11/07 12:33:37 ET]
+Table '3821059881 1' 3-max Seat #1 is the button
+Seat 1: debilushka228 (915 in chips) 
+Seat 2: Mahu2021 (585 in chips) 
+debilushka228: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h Qs]
+debilushka228: raises 30 to 60
+Mahu2021: calls 30
+*** FLOP *** [Kh Th Td]
+Mahu2021: checks 
+debilushka228: bets 30
+Mahu2021: raises 30 to 60
+debilushka228: calls 30
+*** TURN *** [Kh Th Td] [9s]
+Mahu2021: checks 
+debilushka228: checks 
+*** RIVER *** [Kh Th Td 9s] [4c]
+Mahu2021: checks 
+debilushka228: bets 120
+Mahu2021: folds 
+Uncalled bet (120) returned to debilushka228
+debilushka228 collected 240 from pot
+debilushka228: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Kh Th Td 9s 4c]
+Seat 1: debilushka228 (button) (small blind) collected (240)
+Seat 2: Mahu2021 (big blind) folded on the River
+
+
+
+PokerStars Hand #253297161614: Tournament #3821059881, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/11/07 18:34:04 CET [2024/11/07 12:34:04 ET]
+Table '3821059881 1' 3-max Seat #2 is the button
+Seat 1: debilushka228 (1035 in chips) 
+Seat 2: Mahu2021 (465 in chips) 
+Mahu2021: posts small blind 15
+debilushka228: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d Qc]
+Mahu2021: calls 15
+debilushka228: checks 
+*** FLOP *** [Ac 6c 6s]
+debilushka228: checks 
+Mahu2021: checks 
+*** TURN *** [Ac 6c 6s] [9d]
+debilushka228: checks 
+Mahu2021: bets 30
+debilushka228: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Ac 6c 6s 9d]
+Seat 1: debilushka228 (big blind) folded on the Turn
+Seat 2: Mahu2021 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #253297165635: Tournament #3821059881, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/07 18:34:20 CET [2024/11/07 12:34:20 ET]
+Table '3821059881 1' 3-max Seat #1 is the button
+Seat 1: debilushka228 (1005 in chips) 
+Seat 2: Mahu2021 (495 in chips) 
+debilushka228: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As Qh]
+debilushka228: calls 20
+Mahu2021: raises 120 to 160
+debilushka228: folds 
+Uncalled bet (120) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: debilushka228 (button) (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (80)
+
+
+
+PokerStars Hand #253297167236: Tournament #3821059881, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/07 18:34:26 CET [2024/11/07 12:34:26 ET]
+Table '3821059881 1' 3-max Seat #2 is the button
+Seat 1: debilushka228 (965 in chips) 
+Seat 2: Mahu2021 (535 in chips) 
+Mahu2021: posts small blind 20
+debilushka228: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd Tc]
+Mahu2021: raises 40 to 80
+debilushka228: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: debilushka228 (big blind) folded before Flop
+Seat 2: Mahu2021 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #253297168479: Tournament #3821059881, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/07 18:34:31 CET [2024/11/07 12:34:31 ET]
+Table '3821059881 1' 3-max Seat #1 is the button
+Seat 1: debilushka228 (925 in chips) 
+Seat 2: Mahu2021 (575 in chips) 
+debilushka228: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h Jh]
+debilushka228: calls 20
+Mahu2021: checks 
+*** FLOP *** [2h Kd 4c]
+Mahu2021: checks 
+debilushka228: bets 40
+Mahu2021: folds 
+Uncalled bet (40) returned to debilushka228
+debilushka228 collected 80 from pot
+debilushka228: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [2h Kd 4c]
+Seat 1: debilushka228 (button) (small blind) collected (80)
+Seat 2: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #253297170703: Tournament #3821059881, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/07 18:34:40 CET [2024/11/07 12:34:40 ET]
+Table '3821059881 1' 3-max Seat #2 is the button
+Seat 1: debilushka228 (965 in chips) 
+Seat 2: Mahu2021 (535 in chips) 
+Mahu2021: posts small blind 20
+debilushka228: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh Ac]
+Mahu2021: raises 40 to 80
+debilushka228: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: debilushka228 (big blind) folded before Flop
+Seat 2: Mahu2021 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #253297171854: Tournament #3821059881, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/07 18:34:45 CET [2024/11/07 12:34:45 ET]
+Table '3821059881 1' 3-max Seat #1 is the button
+Seat 1: debilushka228 (925 in chips) 
+Seat 2: Mahu2021 (575 in chips) 
+debilushka228: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd 6s]
+debilushka228: raises 40 to 80
+Mahu2021: calls 40
+*** FLOP *** [Qs 4c Th]
+Mahu2021: checks 
+debilushka228: bets 40
+Mahu2021: folds 
+Uncalled bet (40) returned to debilushka228
+debilushka228 collected 160 from pot
+debilushka228: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Qs 4c Th]
+Seat 1: debilushka228 (button) (small blind) collected (160)
+Seat 2: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #253297175296: Tournament #3821059881, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/07 18:34:59 CET [2024/11/07 12:34:59 ET]
+Table '3821059881 1' 3-max Seat #2 is the button
+Seat 1: debilushka228 (1005 in chips) 
+Seat 2: Mahu2021 (495 in chips) 
+Mahu2021: posts small blind 20
+debilushka228: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad As]
+Mahu2021: raises 455 to 495 and is all-in
+debilushka228: folds 
+Uncalled bet (455) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: debilushka228 (big blind) folded before Flop
+Seat 2: Mahu2021 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #253297176655: Tournament #3821059881, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/07 18:35:05 CET [2024/11/07 12:35:05 ET]
+Table '3821059881 1' 3-max Seat #1 is the button
+Seat 1: debilushka228 (965 in chips) 
+Seat 2: Mahu2021 (535 in chips) 
+debilushka228: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js 8s]
+debilushka228: calls 20
+Mahu2021: checks 
+*** FLOP *** [5h 2d 2c]
+Mahu2021: checks 
+debilushka228: checks 
+*** TURN *** [5h 2d 2c] [Qc]
+Mahu2021: checks 
+debilushka228: bets 40
+Mahu2021: folds 
+Uncalled bet (40) returned to debilushka228
+debilushka228 collected 80 from pot
+debilushka228: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [5h 2d 2c Qc]
+Seat 1: debilushka228 (button) (small blind) collected (80)
+Seat 2: Mahu2021 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #253297179147: Tournament #3821059881, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/07 18:35:15 CET [2024/11/07 12:35:15 ET]
+Table '3821059881 1' 3-max Seat #2 is the button
+Seat 1: debilushka228 (1005 in chips) 
+Seat 2: Mahu2021 (495 in chips) 
+Mahu2021: posts small blind 20
+debilushka228: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd 5d]
+Mahu2021: raises 40 to 80
+debilushka228: raises 925 to 1005 and is all-in
+Mahu2021: folds 
+Uncalled bet (925) returned to debilushka228
+debilushka228 collected 160 from pot
+debilushka228: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Seat 1: debilushka228 (big blind) collected (160)
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #253297180747: Tournament #3821059881, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/07 18:35:22 CET [2024/11/07 12:35:22 ET]
+Table '3821059881 1' 3-max Seat #1 is the button
+Seat 1: debilushka228 (1085 in chips) 
+Seat 2: Mahu2021 (415 in chips) 
+debilushka228: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5c 8h]
+debilushka228: calls 20
+Mahu2021: checks 
+*** FLOP *** [Td 2c Ts]
+Mahu2021: checks 
+debilushka228: checks 
+*** TURN *** [Td 2c Ts] [Jh]
+Mahu2021: checks 
+debilushka228: bets 40
+Mahu2021: folds 
+Uncalled bet (40) returned to debilushka228
+debilushka228 collected 80 from pot
+debilushka228: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Td 2c Ts Jh]
+Seat 1: debilushka228 (button) (small blind) collected (80)
+Seat 2: Mahu2021 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #253297183726: Tournament #3821059881, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/07 18:35:34 CET [2024/11/07 12:35:34 ET]
+Table '3821059881 1' 3-max Seat #2 is the button
+Seat 1: debilushka228 (1125 in chips) 
+Seat 2: Mahu2021 (375 in chips) 
+Mahu2021: posts small blind 20
+debilushka228: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d 6h]
+Mahu2021: folds 
+Uncalled bet (20) returned to debilushka228
+debilushka228 collected 40 from pot
+debilushka228: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: debilushka228 (big blind) collected (40)
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #253297184838: Tournament #3821059881, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/07 18:35:39 CET [2024/11/07 12:35:39 ET]
+Table '3821059881 1' 3-max Seat #1 is the button
+Seat 1: debilushka228 (1145 in chips) 
+Seat 2: Mahu2021 (355 in chips) 
+debilushka228: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qd 5c]
+debilushka228: calls 20
+Mahu2021: raises 80 to 120
+debilushka228: folds 
+Uncalled bet (80) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: debilushka228 (button) (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (80)
+
+
+
+PokerStars Hand #253297186389: Tournament #3821059881, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/07 18:35:45 CET [2024/11/07 12:35:45 ET]
+Table '3821059881 1' 3-max Seat #2 is the button
+Seat 1: debilushka228 (1105 in chips) 
+Seat 2: Mahu2021 (395 in chips) 
+Mahu2021: posts small blind 20
+debilushka228: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc Tc]
+Mahu2021: raises 40 to 80
+debilushka228: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: debilushka228 (big blind) folded before Flop
+Seat 2: Mahu2021 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #253297187657: Tournament #3821059881, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/07 18:35:50 CET [2024/11/07 12:35:50 ET]
+Table '3821059881 1' 3-max Seat #1 is the button
+Seat 1: debilushka228 (1065 in chips) 
+Seat 2: Mahu2021 (435 in chips) 
+debilushka228: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac 2h]
+debilushka228: calls 20
+Mahu2021: raises 80 to 120
+debilushka228: raises 945 to 1065 and is all-in
+Mahu2021: calls 315 and is all-in
+Uncalled bet (630) returned to debilushka228
+*** FLOP *** [3d 6c Qc]
+*** TURN *** [3d 6c Qc] [6s]
+*** RIVER *** [3d 6c Qc 6s] [5d]
+*** SHOW DOWN ***
+Mahu2021: shows [Ac 2h] (a pair of Sixes)
+debilushka228: shows [Td Jd] (a pair of Sixes - lower kicker)
+Mahu2021 collected 870 from pot
+*** SUMMARY ***
+Total pot 870 | Rake 0 
+Board [3d 6c Qc 6s 5d]
+Seat 1: debilushka228 (button) (small blind) showed [Td Jd] and lost with a pair of Sixes
+Seat 2: Mahu2021 (big blind) showed [Ac 2h] and won (870) with a pair of Sixes
+
+
+
+PokerStars Hand #253297192999: Tournament #3821059881, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/07 18:36:12 CET [2024/11/07 12:36:12 ET]
+Table '3821059881 1' 3-max Seat #2 is the button
+Seat 1: debilushka228 (630 in chips) 
+Seat 2: Mahu2021 (870 in chips) 
+Mahu2021: posts small blind 20
+debilushka228: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h 7s]
+Mahu2021: folds 
+Uncalled bet (20) returned to debilushka228
+debilushka228 collected 40 from pot
+debilushka228: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: debilushka228 (big blind) collected (40)
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #253297194195: Tournament #3821059881, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/07 18:36:17 CET [2024/11/07 12:36:17 ET]
+Table '3821059881 1' 3-max Seat #1 is the button
+Seat 1: debilushka228 (650 in chips) 
+Seat 2: Mahu2021 (850 in chips) 
+debilushka228: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7c 4c]
+debilushka228: raises 610 to 650 and is all-in
+Mahu2021: folds 
+Uncalled bet (610) returned to debilushka228
+debilushka228 collected 80 from pot
+debilushka228: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: debilushka228 (button) (small blind) collected (80)
+Seat 2: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #253297195871: Tournament #3821059881, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/07 18:36:24 CET [2024/11/07 12:36:24 ET]
+Table '3821059881 1' 3-max Seat #2 is the button
+Seat 1: debilushka228 (690 in chips) 
+Seat 2: Mahu2021 (810 in chips) 
+Mahu2021: posts small blind 20
+debilushka228: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks 3s]
+Mahu2021: raises 40 to 80
+debilushka228: calls 40
+*** FLOP *** [4d Td 7c]
+debilushka228: checks 
+Mahu2021: checks 
+*** TURN *** [4d Td 7c] [6d]
+debilushka228: checks 
+Mahu2021: bets 80
+debilushka228: calls 80
+*** RIVER *** [4d Td 7c 6d] [Qh]
+debilushka228: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+debilushka228: shows [7s 5s] (a pair of Sevens)
+Mahu2021: mucks hand 
+debilushka228 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [4d Td 7c 6d Qh]
+Seat 1: debilushka228 (big blind) showed [7s 5s] and won (320) with a pair of Sevens
+Seat 2: Mahu2021 (button) (small blind) mucked [Ks 3s]
+
+
+
+PokerStars Hand #253297199239: Tournament #3821059881, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/07 18:36:38 CET [2024/11/07 12:36:38 ET]
+Table '3821059881 1' 3-max Seat #1 is the button
+Seat 1: debilushka228 (850 in chips) 
+Seat 2: Mahu2021 (650 in chips) 
+debilushka228: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh 5h]
+debilushka228: calls 20
+Mahu2021: checks 
+*** FLOP *** [4h Js 7d]
+Mahu2021: checks 
+debilushka228: bets 40
+Mahu2021: calls 40
+*** TURN *** [4h Js 7d] [Qs]
+Mahu2021: checks 
+debilushka228: checks 
+*** RIVER *** [4h Js 7d Qs] [3d]
+Mahu2021: bets 40
+debilushka228: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 160 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [4h Js 7d Qs 3d]
+Seat 1: debilushka228 (button) (small blind) folded on the River
+Seat 2: Mahu2021 (big blind) collected (160)
+
+
+
+PokerStars Hand #253297204374: Tournament #3821059881, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/07 18:36:59 CET [2024/11/07 12:36:59 ET]
+Table '3821059881 1' 3-max Seat #2 is the button
+Seat 1: debilushka228 (770 in chips) 
+Seat 2: Mahu2021 (730 in chips) 
+Mahu2021: posts small blind 20
+debilushka228: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qd As]
+Mahu2021: raises 40 to 80
+debilushka228: calls 40
+*** FLOP *** [Kh Kd 4d]
+debilushka228: checks 
+Mahu2021: bets 80
+debilushka228: folds 
+Uncalled bet (80) returned to Mahu2021
+Mahu2021 collected 160 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Kh Kd 4d]
+Seat 1: debilushka228 (big blind) folded on the Flop
+Seat 2: Mahu2021 (button) (small blind) collected (160)
+
+
+
+PokerStars Hand #253297206590: Tournament #3821059881, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/07 18:37:08 CET [2024/11/07 12:37:08 ET]
+Table '3821059881 1' 3-max Seat #1 is the button
+Seat 1: debilushka228 (690 in chips) 
+Seat 2: Mahu2021 (810 in chips) 
+debilushka228: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h 2d]
+debilushka228: calls 20
+Mahu2021: checks 
+*** FLOP *** [Kc Qh 5d]
+Mahu2021: checks 
+debilushka228: bets 40
+Mahu2021: folds 
+Uncalled bet (40) returned to debilushka228
+debilushka228 collected 80 from pot
+debilushka228: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Kc Qh 5d]
+Seat 1: debilushka228 (button) (small blind) collected (80)
+Seat 2: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #253297208586: Tournament #3821059881, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/07 18:37:16 CET [2024/11/07 12:37:16 ET]
+Table '3821059881 1' 3-max Seat #2 is the button
+Seat 1: debilushka228 (730 in chips) 
+Seat 2: Mahu2021 (770 in chips) 
+Mahu2021: posts small blind 20
+debilushka228: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s 4s]
+Mahu2021: raises 40 to 80
+debilushka228: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: debilushka228 (big blind) folded before Flop
+Seat 2: Mahu2021 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #253297210072: Tournament #3821059881, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/07 18:37:22 CET [2024/11/07 12:37:22 ET]
+Table '3821059881 1' 3-max Seat #1 is the button
+Seat 1: debilushka228 (690 in chips) 
+Seat 2: Mahu2021 (810 in chips) 
+debilushka228: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js 2s]
+debilushka228: raises 40 to 80
+Mahu2021: calls 40
+*** FLOP *** [Jh 6s Qc]
+Mahu2021: checks 
+debilushka228: bets 80
+Mahu2021: calls 80
+*** TURN *** [Jh 6s Qc] [Ts]
+Mahu2021: checks 
+debilushka228: bets 240
+Mahu2021: calls 240
+*** RIVER *** [Jh 6s Qc Ts] [5d]
+Mahu2021: checks 
+debilushka228: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [Js 2s] (a pair of Jacks)
+debilushka228: shows [Qd Ks] (a pair of Queens)
+debilushka228 collected 800 from pot
+*** SUMMARY ***
+Total pot 800 | Rake 0 
+Board [Jh 6s Qc Ts 5d]
+Seat 1: debilushka228 (button) (small blind) showed [Qd Ks] and won (800) with a pair of Queens
+Seat 2: Mahu2021 (big blind) showed [Js 2s] and lost with a pair of Jacks
+
+
+
+PokerStars Hand #253297214198: Tournament #3821059881, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/07 18:37:39 CET [2024/11/07 12:37:39 ET]
+Table '3821059881 1' 3-max Seat #2 is the button
+Seat 1: debilushka228 (1090 in chips) 
+Seat 2: Mahu2021 (410 in chips) 
+Mahu2021: posts small blind 20
+debilushka228: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h 2s]
+Mahu2021: folds 
+Uncalled bet (20) returned to debilushka228
+debilushka228 collected 40 from pot
+debilushka228: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: debilushka228 (big blind) collected (40)
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #253297215939: Tournament #3821059881, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/07 18:37:46 CET [2024/11/07 12:37:46 ET]
+Table '3821059881 1' 3-max Seat #1 is the button
+Seat 1: debilushka228 (1110 in chips) 
+Seat 2: Mahu2021 (390 in chips) 
+debilushka228: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s 8h]
+debilushka228: calls 20
+Mahu2021: checks 
+*** FLOP *** [3h Ks 2s]
+Mahu2021: checks 
+debilushka228: bets 40
+Mahu2021: folds 
+Uncalled bet (40) returned to debilushka228
+debilushka228 collected 80 from pot
+debilushka228: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [3h Ks 2s]
+Seat 1: debilushka228 (button) (small blind) collected (80)
+Seat 2: Mahu2021 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #253297218060: Tournament #3821059881, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/07 18:37:55 CET [2024/11/07 12:37:55 ET]
+Table '3821059881 1' 3-max Seat #2 is the button
+Seat 1: debilushka228 (1150 in chips) 
+Seat 2: Mahu2021 (350 in chips) 
+Mahu2021: posts small blind 20
+debilushka228: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts Ah]
+Mahu2021: raises 40 to 80
+debilushka228: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: debilushka228 (big blind) folded before Flop
+Seat 2: Mahu2021 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #253297219282: Tournament #3821059881, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/11/07 18:38:00 CET [2024/11/07 12:38:00 ET]
+Table '3821059881 1' 3-max Seat #1 is the button
+Seat 1: debilushka228 (1110 in chips) 
+Seat 2: Mahu2021 (390 in chips) 
+debilushka228: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js Ah]
+debilushka228: calls 20
+Mahu2021: raises 120 to 160
+debilushka228: folds 
+Uncalled bet (120) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: debilushka228 (button) (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (80)
+
+
+
+PokerStars Hand #253297222206: Tournament #3821059881, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/11/07 18:38:12 CET [2024/11/07 12:38:12 ET]
+Table '3821059881 1' 3-max Seat #2 is the button
+Seat 1: debilushka228 (1070 in chips) 
+Seat 2: Mahu2021 (430 in chips) 
+Mahu2021: posts small blind 30
+debilushka228: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd Jh]
+Mahu2021: raises 370 to 430 and is all-in
+debilushka228: calls 370
+*** FLOP *** [5s Kc Th]
+*** TURN *** [5s Kc Th] [9h]
+*** RIVER *** [5s Kc Th 9h] [Jc]
+*** SHOW DOWN ***
+debilushka228: shows [Ad Tc] (a pair of Tens)
+Mahu2021: shows [Kd Jh] (two pair, Kings and Jacks)
+Mahu2021 collected 860 from pot
+*** SUMMARY ***
+Total pot 860 | Rake 0 
+Board [5s Kc Th 9h Jc]
+Seat 1: debilushka228 (big blind) showed [Ad Tc] and lost with a pair of Tens
+Seat 2: Mahu2021 (button) (small blind) showed [Kd Jh] and won (860) with two pair, Kings and Jacks
+
+
+
+PokerStars Hand #253297225250: Tournament #3821059881, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/11/07 18:38:24 CET [2024/11/07 12:38:24 ET]
+Table '3821059881 1' 3-max Seat #1 is the button
+Seat 1: debilushka228 (640 in chips) 
+Seat 2: Mahu2021 (860 in chips) 
+debilushka228: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c Td]
+debilushka228: calls 30
+Mahu2021: checks 
+*** FLOP *** [9h 6s Qc]
+Mahu2021: checks 
+debilushka228: bets 60
+Mahu2021: calls 60
+*** TURN *** [9h 6s Qc] [As]
+Mahu2021: checks 
+debilushka228: checks 
+*** RIVER *** [9h 6s Qc As] [Th]
+Mahu2021: bets 120
+debilushka228: folds 
+Uncalled bet (120) returned to Mahu2021
+Mahu2021 collected 240 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [9h 6s Qc As Th]
+Seat 1: debilushka228 (button) (small blind) folded on the River
+Seat 2: Mahu2021 (big blind) collected (240)
+
+
+
+PokerStars Hand #253297228250: Tournament #3821059881, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/11/07 18:38:37 CET [2024/11/07 12:38:37 ET]
+Table '3821059881 1' 3-max Seat #2 is the button
+Seat 1: debilushka228 (520 in chips) 
+Seat 2: Mahu2021 (980 in chips) 
+Mahu2021: posts small blind 30
+debilushka228: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c 5s]
+Mahu2021: raises 60 to 120
+debilushka228: calls 60
+*** FLOP *** [9h Ts 6h]
+debilushka228: checks 
+Mahu2021: bets 860 and is all-in
+debilushka228: calls 400 and is all-in
+Uncalled bet (460) returned to Mahu2021
+*** TURN *** [9h Ts 6h] [4h]
+*** RIVER *** [9h Ts 6h 4h] [2d]
+*** SHOW DOWN ***
+debilushka228: shows [Tc Jd] (a pair of Tens)
+Mahu2021: shows [9c 5s] (a pair of Nines)
+debilushka228 collected 1040 from pot
+*** SUMMARY ***
+Total pot 1040 | Rake 0 
+Board [9h Ts 6h 4h 2d]
+Seat 1: debilushka228 (big blind) showed [Tc Jd] and won (1040) with a pair of Tens
+Seat 2: Mahu2021 (button) (small blind) showed [9c 5s] and lost with a pair of Nines
+
+
+
+PokerStars Hand #253297231822: Tournament #3821059881, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/11/07 18:38:51 CET [2024/11/07 12:38:51 ET]
+Table '3821059881 1' 3-max Seat #1 is the button
+Seat 1: debilushka228 (1040 in chips) 
+Seat 2: Mahu2021 (460 in chips) 
+debilushka228: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jh Ac]
+debilushka228: raises 980 to 1040 and is all-in
+Mahu2021: calls 400 and is all-in
+Uncalled bet (580) returned to debilushka228
+*** FLOP *** [Kc 3c As]
+*** TURN *** [Kc 3c As] [Qs]
+*** RIVER *** [Kc 3c As Qs] [Ts]
+*** SHOW DOWN ***
+Mahu2021: shows [Jh Ac] (a straight, Ten to Ace)
+debilushka228: shows [2d 2h] (a pair of Deuces)
+Mahu2021 collected 920 from pot
+*** SUMMARY ***
+Total pot 920 | Rake 0 
+Board [Kc 3c As Qs Ts]
+Seat 1: debilushka228 (button) (small blind) showed [2d 2h] and lost with a pair of Deuces
+Seat 2: Mahu2021 (big blind) showed [Jh Ac] and won (920) with a straight, Ten to Ace
+
+
+
+PokerStars Hand #253297234841: Tournament #3821059881, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/11/07 18:39:04 CET [2024/11/07 12:39:04 ET]
+Table '3821059881 1' 3-max Seat #2 is the button
+Seat 1: debilushka228 (580 in chips) 
+Seat 2: Mahu2021 (920 in chips) 
+Mahu2021: posts small blind 30
+debilushka228: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2d Jc]
+Mahu2021: calls 30
+debilushka228: checks 
+*** FLOP *** [3h 6d 4d]
+debilushka228: checks 
+Mahu2021: bets 60
+debilushka228: calls 60
+*** TURN *** [3h 6d 4d] [8h]
+debilushka228: checks 
+Mahu2021: checks 
+*** RIVER *** [3h 6d 4d 8h] [Kh]
+debilushka228: checks 
+Mahu2021: bets 120
+debilushka228: calls 120
+*** SHOW DOWN ***
+Mahu2021: shows [2d Jc] (high card King)
+debilushka228: shows [4h Qs] (a pair of Fours)
+debilushka228 collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Board [3h 6d 4d 8h Kh]
+Seat 1: debilushka228 (big blind) showed [4h Qs] and won (480) with a pair of Fours
+Seat 2: Mahu2021 (button) (small blind) showed [2d Jc] and lost with high card King
+
+
+
+PokerStars Hand #253297241705: Tournament #3821059881, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/11/07 18:39:32 CET [2024/11/07 12:39:32 ET]
+Table '3821059881 1' 3-max Seat #1 is the button
+Seat 1: debilushka228 (820 in chips) 
+Seat 2: Mahu2021 (680 in chips) 
+debilushka228: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Th Kd]
+debilushka228: raises 760 to 820 and is all-in
+Mahu2021: folds 
+Uncalled bet (760) returned to debilushka228
+debilushka228 collected 120 from pot
+debilushka228: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: debilushka228 (button) (small blind) collected (120)
+Seat 2: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #253297243131: Tournament #3821059881, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/11/07 18:39:38 CET [2024/11/07 12:39:38 ET]
+Table '3821059881 1' 3-max Seat #2 is the button
+Seat 1: debilushka228 (880 in chips) 
+Seat 2: Mahu2021 (620 in chips) 
+Mahu2021: posts small blind 30
+debilushka228: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6s 3d]
+Mahu2021: folds 
+Uncalled bet (30) returned to debilushka228
+debilushka228 collected 60 from pot
+debilushka228: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: debilushka228 (big blind) collected (60)
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #253297244152: Tournament #3821059881, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/11/07 18:39:42 CET [2024/11/07 12:39:42 ET]
+Table '3821059881 1' 3-max Seat #1 is the button
+Seat 1: debilushka228 (910 in chips) 
+Seat 2: Mahu2021 (590 in chips) 
+debilushka228: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Js 2d]
+debilushka228: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: debilushka228 (button) (small blind) folded before Flop
+Seat 2: Mahu2021 (big blind) collected (60)
+
+
+
+PokerStars Hand #253297245174: Tournament #3821059881, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/11/07 18:39:46 CET [2024/11/07 12:39:46 ET]
+Table '3821059881 1' 3-max Seat #2 is the button
+Seat 1: debilushka228 (880 in chips) 
+Seat 2: Mahu2021 (620 in chips) 
+Mahu2021: posts small blind 30
+debilushka228: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2s As]
+Mahu2021: raises 60 to 120
+debilushka228: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: debilushka228 (big blind) folded before Flop
+Seat 2: Mahu2021 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #253297246518: Tournament #3821059881, $1.84+$0.16 USD Hold'em No Limit - Level IV (30/60) - 2024/11/07 18:39:52 CET [2024/11/07 12:39:52 ET]
+Table '3821059881 1' 3-max Seat #1 is the button
+Seat 1: debilushka228 (820 in chips) 
+Seat 2: Mahu2021 (680 in chips) 
+debilushka228: posts small blind 30
+Mahu2021: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d Ad]
+debilushka228: calls 30
+Mahu2021: raises 620 to 680 and is all-in
+debilushka228: calls 620
+*** FLOP *** [Tc Js 4s]
+*** TURN *** [Tc Js 4s] [6s]
+*** RIVER *** [Tc Js 4s 6s] [9c]
+*** SHOW DOWN ***
+Mahu2021: shows [7d Ad] (high card Ace)
+debilushka228: shows [Ks Kh] (a pair of Kings)
+debilushka228 collected 1360 from pot
+Mahu2021 finished the tournament in 2nd place and received $6.00.
+debilushka228 wins the tournament and receives $40.00 - congratulations!
+*** SUMMARY ***
+Total pot 1360 | Rake 0 
+Board [Tc Js 4s 6s 9c]
+Seat 1: debilushka228 (button) (small blind) showed [Ks Kh] and won (1360) with a pair of Kings
+Seat 2: Mahu2021 (big blind) showed [7d Ad] and lost with high card Ace
+
+
+

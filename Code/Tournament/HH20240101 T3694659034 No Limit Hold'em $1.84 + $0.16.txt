@@ -1,0 +1,443 @@
+﻿PokerStars Hand #248000817930: Tournament #3694659034, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/01 19:29:28 CET [2024/01/01 13:29:28 ET]
+Table '3694659034 1' 3-max Seat #1 is the button
+Seat 1: mercurio017 (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: Brookline144 (500 in chips) 
+Mahu2021: posts small blind 10
+Brookline144: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc Jh]
+mercurio017: calls 20
+Mahu2021: calls 10
+Brookline144: checks 
+*** FLOP *** [9d 7d Js]
+Mahu2021: bets 20
+Brookline144: calls 20
+mercurio017: calls 20
+*** TURN *** [9d 7d Js] [Ah]
+Mahu2021: checks 
+Brookline144: checks 
+mercurio017: bets 40
+Mahu2021: folds 
+Brookline144: folds 
+Uncalled bet (40) returned to mercurio017
+mercurio017 collected 120 from pot
+mercurio017: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [9d 7d Js Ah]
+Seat 1: mercurio017 (button) collected (120)
+Seat 2: Mahu2021 (small blind) folded on the Turn
+Seat 3: Brookline144 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #248000825812: Tournament #3694659034, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/01 19:29:50 CET [2024/01/01 13:29:50 ET]
+Table '3694659034 1' 3-max Seat #2 is the button
+Seat 1: mercurio017 (580 in chips) 
+Seat 2: Mahu2021 (460 in chips) 
+Seat 3: Brookline144 (460 in chips) 
+Brookline144: posts small blind 10
+mercurio017: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6h Js]
+Mahu2021: folds 
+Brookline144: raises 40 to 60
+mercurio017: calls 40
+*** FLOP *** [2d 5s 4d]
+Brookline144: bets 60
+mercurio017: calls 60
+*** TURN *** [2d 5s 4d] [6d]
+Brookline144: bets 340 and is all-in
+mercurio017: calls 340
+*** RIVER *** [2d 5s 4d 6d] [6c]
+*** SHOW DOWN ***
+Brookline144: shows [3h 5h] (a straight, Deuce to Six)
+mercurio017: shows [7d Ks] (a pair of Sixes)
+Brookline144 collected 920 from pot
+*** SUMMARY ***
+Total pot 920 | Rake 0 
+Board [2d 5s 4d 6d 6c]
+Seat 1: mercurio017 (big blind) showed [7d Ks] and lost with a pair of Sixes
+Seat 2: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 3: Brookline144 (small blind) showed [3h 5h] and won (920) with a straight, Deuce to Six
+
+
+
+PokerStars Hand #248000834539: Tournament #3694659034, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/01 19:30:13 CET [2024/01/01 13:30:13 ET]
+Table '3694659034 1' 3-max Seat #3 is the button
+Seat 1: mercurio017 (120 in chips) 
+Seat 2: Mahu2021 (460 in chips) 
+Seat 3: Brookline144 (920 in chips) 
+mercurio017: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah 5s]
+Brookline144: calls 20
+mercurio017: calls 10
+Mahu2021: checks 
+*** FLOP *** [9s 4h 8s]
+mercurio017: bets 40
+Mahu2021: folds 
+Brookline144: raises 140 to 180
+mercurio017: folds 
+Uncalled bet (140) returned to Brookline144
+Brookline144 collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | Rake 0 
+Board [9s 4h 8s]
+Seat 1: mercurio017 (small blind) folded on the Flop
+Seat 2: Mahu2021 (big blind) folded on the Flop
+Seat 3: Brookline144 (button) collected (140)
+
+
+
+PokerStars Hand #248000842505: Tournament #3694659034, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/01 19:30:35 CET [2024/01/01 13:30:35 ET]
+Table '3694659034 1' 3-max Seat #1 is the button
+Seat 1: mercurio017 (60 in chips) 
+Seat 2: Mahu2021 (440 in chips) 
+Seat 3: Brookline144 (1000 in chips) 
+Mahu2021: posts small blind 10
+Brookline144: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Tc Jh]
+mercurio017: raises 40 to 60 and is all-in
+Mahu2021: calls 50
+Brookline144: calls 40
+*** FLOP *** [8h Th 5h]
+Mahu2021: bets 60
+Brookline144: folds 
+Uncalled bet (60) returned to Mahu2021
+*** TURN *** [8h Th 5h] [Js]
+*** RIVER *** [8h Th 5h Js] [7c]
+*** SHOW DOWN ***
+Mahu2021: shows [Tc Jh] (two pair, Jacks and Tens)
+mercurio017: shows [6c Kc] (high card King)
+Mahu2021 collected 180 from pot
+mercurio017 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [8h Th 5h Js 7c]
+Seat 1: mercurio017 (button) showed [6c Kc] and lost with high card King
+Seat 2: Mahu2021 (small blind) showed [Tc Jh] and won (180) with two pair, Jacks and Tens
+Seat 3: Brookline144 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #248000850393: Tournament #3694659034, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/01 19:30:56 CET [2024/01/01 13:30:56 ET]
+Table '3694659034 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (560 in chips) 
+Seat 3: Brookline144 (940 in chips) 
+Brookline144: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8s 6h]
+Brookline144: calls 10
+Mahu2021: checks 
+*** FLOP *** [Qs Ts Ad]
+Mahu2021: checks 
+Brookline144: bets 20
+Mahu2021: folds 
+Uncalled bet (20) returned to Brookline144
+Brookline144 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Qs Ts Ad]
+Seat 2: Mahu2021 (big blind) folded on the Flop
+Seat 3: Brookline144 (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #248000854163: Tournament #3694659034, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/01 19:31:06 CET [2024/01/01 13:31:06 ET]
+Table '3694659034 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (540 in chips) 
+Seat 3: Brookline144 (960 in chips) 
+Mahu2021: posts small blind 10
+Brookline144: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Tc 5c]
+Mahu2021: calls 10
+Brookline144: checks 
+*** FLOP *** [7s Jc Kc]
+Brookline144: checks 
+Mahu2021: bets 40
+Brookline144: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [7s Jc Kc]
+Seat 2: Mahu2021 (button) (small blind) collected (40)
+Seat 3: Brookline144 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #248000858289: Tournament #3694659034, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/01 19:31:18 CET [2024/01/01 13:31:18 ET]
+Table '3694659034 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (560 in chips) 
+Seat 3: Brookline144 (940 in chips) 
+Brookline144: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc 2c]
+Brookline144: raises 20 to 40
+Mahu2021: calls 20
+*** FLOP *** [Js Ks 3d]
+Mahu2021: checks 
+Brookline144: checks 
+*** TURN *** [Js Ks 3d] [Ts]
+Mahu2021: checks 
+Brookline144: bets 40
+Mahu2021: calls 40
+*** RIVER *** [Js Ks 3d Ts] [2h]
+Mahu2021: checks 
+Brookline144: bets 160
+Mahu2021: calls 160
+*** SHOW DOWN ***
+Brookline144: shows [Kd 2s] (two pair, Kings and Deuces)
+Mahu2021: mucks hand 
+Brookline144 collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Board [Js Ks 3d Ts 2h]
+Seat 2: Mahu2021 (big blind) mucked [Jc 2c]
+Seat 3: Brookline144 (button) (small blind) showed [Kd 2s] and won (480) with two pair, Kings and Deuces
+
+
+
+PokerStars Hand #248000867037: Tournament #3694659034, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/01 19:31:42 CET [2024/01/01 13:31:42 ET]
+Table '3694659034 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (320 in chips) 
+Seat 3: Brookline144 (1180 in chips) 
+Mahu2021: posts small blind 10
+Brookline144: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2c 2h]
+Mahu2021: raises 300 to 320 and is all-in
+Brookline144: calls 300
+*** FLOP *** [Ac 2d Js]
+*** TURN *** [Ac 2d Js] [3h]
+*** RIVER *** [Ac 2d Js 3h] [9s]
+*** SHOW DOWN ***
+Brookline144: shows [Ah Ks] (a pair of Aces)
+Mahu2021: shows [2c 2h] (three of a kind, Deuces)
+Mahu2021 collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | Rake 0 
+Board [Ac 2d Js 3h 9s]
+Seat 2: Mahu2021 (button) (small blind) showed [2c 2h] and won (640) with three of a kind, Deuces
+Seat 3: Brookline144 (big blind) showed [Ah Ks] and lost with a pair of Aces
+
+
+
+PokerStars Hand #248000872100: Tournament #3694659034, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/01 19:31:56 CET [2024/01/01 13:31:56 ET]
+Table '3694659034 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (640 in chips) 
+Seat 3: Brookline144 (860 in chips) 
+Brookline144: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ad 9s]
+Brookline144: raises 40 to 60
+Mahu2021: calls 40
+*** FLOP *** [Ts 7c 9h]
+Mahu2021: checks 
+Brookline144: bets 60
+Mahu2021: raises 520 to 580 and is all-in
+Brookline144: folds 
+Uncalled bet (520) returned to Mahu2021
+Mahu2021 collected 240 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Ts 7c 9h]
+Seat 2: Mahu2021 (big blind) collected (240)
+Seat 3: Brookline144 (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #248000878259: Tournament #3694659034, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/01 19:32:13 CET [2024/01/01 13:32:13 ET]
+Table '3694659034 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (760 in chips) 
+Seat 3: Brookline144 (740 in chips) 
+Mahu2021: posts small blind 10
+Brookline144: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8h Ts]
+Mahu2021: folds 
+Uncalled bet (10) returned to Brookline144
+Brookline144 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: Brookline144 (big blind) collected (20)
+
+
+
+PokerStars Hand #248000879896: Tournament #3694659034, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/01 19:32:17 CET [2024/01/01 13:32:17 ET]
+Table '3694659034 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (750 in chips) 
+Seat 3: Brookline144 (750 in chips) 
+Brookline144: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qd 9c]
+Brookline144: raises 20 to 40
+Mahu2021: calls 20
+*** FLOP *** [7s 6h 7c]
+Mahu2021: checks 
+Brookline144: checks 
+*** TURN *** [7s 6h 7c] [8d]
+Mahu2021: checks 
+Brookline144: bets 40
+Mahu2021: calls 40
+*** RIVER *** [7s 6h 7c 8d] [4h]
+Mahu2021: checks 
+Brookline144: bets 160
+Mahu2021: folds 
+Uncalled bet (160) returned to Brookline144
+Brookline144 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [7s 6h 7c 8d 4h]
+Seat 2: Mahu2021 (big blind) folded on the River
+Seat 3: Brookline144 (button) (small blind) collected (160)
+
+
+
+PokerStars Hand #248000887805: Tournament #3694659034, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/01/01 19:32:39 CET [2024/01/01 13:32:39 ET]
+Table '3694659034 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (670 in chips) 
+Seat 3: Brookline144 (830 in chips) 
+Mahu2021: posts small blind 15
+Brookline144: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s 2s]
+Mahu2021: raises 30 to 60
+Brookline144: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: Mahu2021 (button) (small blind) collected (60)
+Seat 3: Brookline144 (big blind) folded before Flop
+
+
+
+PokerStars Hand #248000890075: Tournament #3694659034, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/01/01 19:32:45 CET [2024/01/01 13:32:45 ET]
+Table '3694659034 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (700 in chips) 
+Seat 3: Brookline144 (800 in chips) 
+Brookline144: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Th 9d]
+Brookline144: raises 30 to 60
+Mahu2021: calls 30
+*** FLOP *** [2c 8s 8d]
+Mahu2021: checks 
+Brookline144: checks 
+*** TURN *** [2c 8s 8d] [4c]
+Mahu2021: checks 
+Brookline144: checks 
+*** RIVER *** [2c 8s 8d 4c] [Kc]
+Mahu2021: checks 
+Brookline144: bets 60
+Mahu2021: folds 
+Uncalled bet (60) returned to Brookline144
+Brookline144 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [2c 8s 8d 4c Kc]
+Seat 2: Mahu2021 (big blind) folded on the River
+Seat 3: Brookline144 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #248000896469: Tournament #3694659034, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/01/01 19:33:02 CET [2024/01/01 13:33:02 ET]
+Table '3694659034 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (640 in chips) 
+Seat 3: Brookline144 (860 in chips) 
+Mahu2021: posts small blind 15
+Brookline144: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d Kd]
+Mahu2021: raises 30 to 60
+Brookline144: calls 30
+*** FLOP *** [9h Ac 8d]
+Brookline144: checks 
+Mahu2021: bets 60
+Brookline144: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 120 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [9h Ac 8d]
+Seat 2: Mahu2021 (button) (small blind) collected (120)
+Seat 3: Brookline144 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #248000900739: Tournament #3694659034, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/01/01 19:33:14 CET [2024/01/01 13:33:14 ET]
+Table '3694659034 1' 3-max Seat #3 is the button
+Seat 2: Mahu2021 (700 in chips) 
+Seat 3: Brookline144 (800 in chips) 
+Brookline144: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2c Qc]
+Brookline144: raises 30 to 60
+Mahu2021: calls 30
+*** FLOP *** [7c 2h Ah]
+Mahu2021: checks 
+Brookline144: checks 
+*** TURN *** [7c 2h Ah] [Tc]
+Mahu2021: bets 60
+Brookline144: raises 60 to 120
+Mahu2021: calls 60
+*** RIVER *** [7c 2h Ah Tc] [Ac]
+Mahu2021: bets 520 and is all-in
+Brookline144: calls 520
+*** SHOW DOWN ***
+Mahu2021: shows [2c Qc] (a flush, Ace high)
+Brookline144: shows [Ad Jh] (three of a kind, Aces)
+Mahu2021 collected 1400 from pot
+*** SUMMARY ***
+Total pot 1400 | Rake 0 
+Board [7c 2h Ah Tc Ac]
+Seat 2: Mahu2021 (big blind) showed [2c Qc] and won (1400) with a flush, Ace high
+Seat 3: Brookline144 (button) (small blind) showed [Ad Jh] and lost with three of a kind, Aces
+
+
+
+PokerStars Hand #248000908641: Tournament #3694659034, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/01/01 19:33:35 CET [2024/01/01 13:33:35 ET]
+Table '3694659034 1' 3-max Seat #2 is the button
+Seat 2: Mahu2021 (1400 in chips) 
+Seat 3: Brookline144 (100 in chips) 
+Mahu2021: posts small blind 15
+Brookline144: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s Ah]
+Mahu2021: raises 90 to 120
+Brookline144: calls 70 and is all-in
+Uncalled bet (20) returned to Mahu2021
+*** FLOP *** [Jh Kh 2h]
+*** TURN *** [Jh Kh 2h] [6c]
+*** RIVER *** [Jh Kh 2h 6c] [4d]
+*** SHOW DOWN ***
+Brookline144: shows [8h 9s] (high card King)
+Mahu2021: shows [5s Ah] (high card Ace)
+Mahu2021 collected 200 from pot
+Brookline144 finished the tournament in 2nd place
+Mahu2021 wins the tournament and receives $6.00 - congratulations!
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [Jh Kh 2h 6c 4d]
+Seat 2: Mahu2021 (button) (small blind) showed [5s Ah] and won (200) with high card Ace
+Seat 3: Brookline144 (big blind) showed [8h 9s] and lost with high card King
+
+
+

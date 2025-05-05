@@ -1,0 +1,114 @@
+﻿PokerStars Hand #246175879476: Tournament #3649953267, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/09/25 20:36:00 CET [2023/09/25 14:36:00 ET]
+Table '3649953267 1' 3-max Seat #1 is the button
+Seat 1: hooklife (500 in chips) 
+Seat 2: Mahu2021 (500 in chips) 
+Seat 3: Nataliya Reznik (500 in chips) 
+Mahu2021: posts small blind 10
+Nataliya Reznik: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d 9c]
+hooklife: raises 20 to 40
+Mahu2021: folds 
+Nataliya Reznik: folds 
+Uncalled bet (20) returned to hooklife
+hooklife collected 50 from pot
+hooklife: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: hooklife (button) collected (50)
+Seat 2: Mahu2021 (small blind) folded before Flop
+Seat 3: Nataliya Reznik (big blind) folded before Flop
+
+
+
+PokerStars Hand #246175883924: Tournament #3649953267, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/09/25 20:36:12 CET [2023/09/25 14:36:12 ET]
+Table '3649953267 1' 3-max Seat #2 is the button
+Seat 1: hooklife (530 in chips) 
+Seat 2: Mahu2021 (490 in chips) 
+Seat 3: Nataliya Reznik (480 in chips) 
+Nataliya Reznik: posts small blind 10
+hooklife: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3c As]
+Mahu2021: calls 20
+Nataliya Reznik: calls 10
+hooklife: checks 
+*** FLOP *** [8d Js 3h]
+Nataliya Reznik: checks 
+hooklife: bets 30
+Mahu2021: folds 
+Nataliya Reznik: folds 
+Uncalled bet (30) returned to hooklife
+hooklife collected 60 from pot
+hooklife: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [8d Js 3h]
+Seat 1: hooklife (big blind) collected (60)
+Seat 2: Mahu2021 (button) folded on the Flop
+Seat 3: Nataliya Reznik (small blind) folded on the Flop
+
+
+
+PokerStars Hand #246175888391: Tournament #3649953267, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/09/25 20:36:24 CET [2023/09/25 14:36:24 ET]
+Table '3649953267 1' 3-max Seat #3 is the button
+Seat 1: hooklife (570 in chips) 
+Seat 2: Mahu2021 (470 in chips) 
+Seat 3: Nataliya Reznik (460 in chips) 
+hooklife: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h 3d]
+Nataliya Reznik: raises 20 to 40
+hooklife: calls 30
+Mahu2021: folds 
+*** FLOP *** [6h 8c 7h]
+hooklife: checks 
+Nataliya Reznik: bets 20
+hooklife: calls 20
+*** TURN *** [6h 8c 7h] [Ac]
+hooklife: checks 
+Nataliya Reznik: bets 46
+hooklife: folds 
+Uncalled bet (46) returned to Nataliya Reznik
+Nataliya Reznik collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | Rake 0 
+Board [6h 8c 7h Ac]
+Seat 1: hooklife (small blind) folded on the Turn
+Seat 2: Mahu2021 (big blind) folded before Flop
+Seat 3: Nataliya Reznik (button) collected (140)
+
+
+
+PokerStars Hand #246175895649: Tournament #3649953267, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2023/09/25 20:36:44 CET [2023/09/25 14:36:44 ET]
+Table '3649953267 1' 3-max Seat #1 is the button
+Seat 1: hooklife (510 in chips) 
+Seat 2: Mahu2021 (450 in chips) 
+Seat 3: Nataliya Reznik (540 in chips) 
+Mahu2021: posts small blind 10
+Nataliya Reznik: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As 4h]
+hooklife: folds 
+Mahu2021: calls 10
+Nataliya Reznik: raises 50 to 70
+Mahu2021: raises 380 to 450 and is all-in
+Nataliya Reznik: calls 380
+*** FLOP *** [3h 6s 7s]
+*** TURN *** [3h 6s 7s] [Kh]
+*** RIVER *** [3h 6s 7s Kh] [7d]
+*** SHOW DOWN ***
+Mahu2021: shows [As 4h] (a pair of Sevens)
+Nataliya Reznik: shows [7c Ac] (three of a kind, Sevens)
+Nataliya Reznik collected 900 from pot
+Mahu2021 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 900 | Rake 0 
+Board [3h 6s 7s Kh 7d]
+Seat 1: hooklife (button) folded before Flop (didn't bet)
+Seat 2: Mahu2021 (small blind) showed [As 4h] and lost with a pair of Sevens
+Seat 3: Nataliya Reznik (big blind) showed [7c Ac] and won (900) with three of a kind, Sevens
+
+
+

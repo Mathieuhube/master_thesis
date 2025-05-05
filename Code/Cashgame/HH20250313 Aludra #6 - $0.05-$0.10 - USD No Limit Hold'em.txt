@@ -1,0 +1,47 @@
+﻿PokerStars Zoom Hand #255266404882:  Hold'em No Limit ($0.05/$0.10) - 2025/03/13 11:40:17 CET [2025/03/13 6:40:17 ET]
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: Sanjireyes ($18.23 in chips) 
+Seat 2: pjw0111 ($10.15 in chips) 
+Seat 3: Mahu2021 ($10 in chips) 
+Seat 4: vicegoodman ($10.36 in chips) 
+Seat 5: JDOldham503 ($19.67 in chips) 
+Seat 6: szabarna ($10.59 in chips) 
+pjw0111: posts small blind $0.05
+Mahu2021: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Td Qd]
+vicegoodman: folds 
+JDOldham503: raises $0.10 to $0.20
+szabarna: calls $0.20
+Sanjireyes: folds 
+pjw0111: folds 
+Mahu2021: calls $0.10
+*** FLOP *** [Js 8h Jc]
+Mahu2021: checks 
+JDOldham503: checks 
+szabarna: bets $0.20
+Mahu2021: calls $0.20
+JDOldham503: folds 
+*** TURN *** [Js 8h Jc] [Qc]
+Mahu2021: checks 
+szabarna: bets $0.75
+Mahu2021: calls $0.75
+*** RIVER *** [Js 8h Jc Qc] [2s]
+Mahu2021: checks 
+szabarna: checks 
+*** SHOW DOWN ***
+Mahu2021: shows [Td Qd] (two pair, Queens and Jacks)
+szabarna: mucks hand 
+Mahu2021 collected $2.44 from pot
+*** SUMMARY ***
+Total pot $2.55 | Rake $0.11 
+Board [Js 8h Jc Qc 2s]
+Seat 1: Sanjireyes (button) folded before Flop (didn't bet)
+Seat 2: pjw0111 (small blind) folded before Flop
+Seat 3: Mahu2021 (big blind) showed [Td Qd] and won ($2.44) with two pair, Queens and Jacks
+Seat 4: vicegoodman folded before Flop (didn't bet)
+Seat 5: JDOldham503 folded on the Flop
+Seat 6: szabarna mucked [Tc Ac]
+
+
+

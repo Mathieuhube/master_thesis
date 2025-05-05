@@ -1,0 +1,949 @@
+﻿PokerStars Hand #248083613761: Tournament #3696598969, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/05 20:33:38 CET [2024/01/05 14:33:38 ET]
+Table '3696598969 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: hadleysam (500 in chips) 
+Seat 3: samZyeee (500 in chips) 
+hadleysam: posts small blind 10
+samZyeee: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h 3h]
+Mahu2021: folds 
+hadleysam: raises 20 to 40
+samZyeee: calls 20
+*** FLOP *** [6d Ah 7c]
+hadleysam: bets 60
+samZyeee: folds 
+Uncalled bet (60) returned to hadleysam
+hadleysam collected 80 from pot
+hadleysam: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [6d Ah 7c]
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: hadleysam (small blind) collected (80)
+Seat 3: samZyeee (big blind) folded on the Flop
+
+
+
+PokerStars Hand #248083618609: Tournament #3696598969, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/05 20:33:51 CET [2024/01/05 14:33:51 ET]
+Table '3696598969 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: hadleysam (540 in chips) 
+Seat 3: samZyeee (460 in chips) 
+samZyeee: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s 7h]
+hadleysam: raises 20 to 40
+samZyeee: raises 40 to 80
+Mahu2021: folds 
+hadleysam: calls 40
+*** FLOP *** [3h 2s 8h]
+samZyeee: bets 160
+hadleysam: folds 
+Uncalled bet (160) returned to samZyeee
+samZyeee collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [3h 2s 8h]
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: hadleysam (button) folded on the Flop
+Seat 3: samZyeee (small blind) collected (180)
+
+
+
+PokerStars Hand #248083627658: Tournament #3696598969, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/05 20:34:14 CET [2024/01/05 14:34:14 ET]
+Table '3696598969 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (480 in chips) 
+Seat 2: hadleysam (460 in chips) 
+Seat 3: samZyeee (560 in chips) 
+Mahu2021: posts small blind 10
+hadleysam: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5h Qs]
+samZyeee: calls 20
+Mahu2021: calls 10
+hadleysam: checks 
+*** FLOP *** [6d 7h Ts]
+Mahu2021: checks 
+hadleysam: checks 
+samZyeee: checks 
+*** TURN *** [6d 7h Ts] [5c]
+Mahu2021: checks 
+hadleysam: checks 
+samZyeee: bets 40
+Mahu2021: calls 40
+hadleysam: folds 
+*** RIVER *** [6d 7h Ts 5c] [4s]
+Mahu2021: checks 
+samZyeee: bets 160
+Mahu2021: folds 
+Uncalled bet (160) returned to samZyeee
+samZyeee collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | Rake 0 
+Board [6d 7h Ts 5c 4s]
+Seat 1: Mahu2021 (small blind) folded on the River
+Seat 2: hadleysam (big blind) folded on the Turn
+Seat 3: samZyeee (button) collected (140)
+
+
+
+PokerStars Hand #248083642383: Tournament #3696598969, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/05 20:34:53 CET [2024/01/05 14:34:53 ET]
+Table '3696598969 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (420 in chips) 
+Seat 2: hadleysam (440 in chips) 
+Seat 3: samZyeee (640 in chips) 
+hadleysam: posts small blind 10
+samZyeee: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qh Qs]
+Mahu2021: raises 400 to 420 and is all-in
+hadleysam: raises 20 to 440 and is all-in
+samZyeee: folds 
+Uncalled bet (20) returned to hadleysam
+*** FLOP *** [Jc 3s 9h]
+*** TURN *** [Jc 3s 9h] [6h]
+*** RIVER *** [Jc 3s 9h 6h] [2c]
+*** SHOW DOWN ***
+hadleysam: shows [As 7d] (high card Ace)
+Mahu2021: shows [Qh Qs] (a pair of Queens)
+Mahu2021 collected 860 from pot
+*** SUMMARY ***
+Total pot 860 | Rake 0 
+Board [Jc 3s 9h 6h 2c]
+Seat 1: Mahu2021 (button) showed [Qh Qs] and won (860) with a pair of Queens
+Seat 2: hadleysam (small blind) showed [As 7d] and lost with high card Ace
+Seat 3: samZyeee (big blind) folded before Flop
+
+
+
+PokerStars Hand #248083650375: Tournament #3696598969, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/05 20:35:14 CET [2024/01/05 14:35:14 ET]
+Table '3696598969 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (860 in chips) 
+Seat 2: hadleysam (20 in chips) 
+Seat 3: samZyeee (620 in chips) 
+samZyeee: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd Kc]
+hadleysam: calls 20 and is all-in
+samZyeee: calls 10
+Mahu2021: checks 
+*** FLOP *** [Ts Qd 5h]
+samZyeee: checks 
+Mahu2021: checks 
+*** TURN *** [Ts Qd 5h] [3c]
+samZyeee: checks 
+Mahu2021: checks 
+*** RIVER *** [Ts Qd 5h 3c] [6s]
+samZyeee: checks 
+Mahu2021: checks 
+*** SHOW DOWN ***
+samZyeee: shows [6d 7h] (a pair of Sixes)
+Mahu2021: mucks hand 
+hadleysam: shows [Ac 6c] (a pair of Sixes - Ace kicker)
+hadleysam collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Ts Qd 5h 3c 6s]
+Seat 1: Mahu2021 (big blind) mucked [Jd Kc]
+Seat 2: hadleysam (button) showed [Ac 6c] and won (60) with a pair of Sixes
+Seat 3: samZyeee (small blind) showed [6d 7h] and lost with a pair of Sixes
+
+
+
+PokerStars Hand #248083662289: Tournament #3696598969, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/05 20:35:46 CET [2024/01/05 14:35:46 ET]
+Table '3696598969 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (840 in chips) 
+Seat 2: hadleysam (60 in chips) 
+Seat 3: samZyeee (600 in chips) 
+Mahu2021: posts small blind 10
+hadleysam: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s Ks]
+samZyeee: folds 
+Mahu2021: raises 40 to 60
+hadleysam: calls 40 and is all-in
+*** FLOP *** [5h Ts Jc]
+*** TURN *** [5h Ts Jc] [3d]
+*** RIVER *** [5h Ts Jc 3d] [Kd]
+*** SHOW DOWN ***
+Mahu2021: shows [3s Ks] (two pair, Kings and Threes)
+hadleysam: shows [3c 6h] (a pair of Threes)
+Mahu2021 collected 120 from pot
+hadleysam finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [5h Ts Jc 3d Kd]
+Seat 1: Mahu2021 (small blind) showed [3s Ks] and won (120) with two pair, Kings and Threes
+Seat 2: hadleysam (big blind) showed [3c 6h] and lost with a pair of Threes
+Seat 3: samZyeee (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #248083669273: Tournament #3696598969, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/05 20:36:04 CET [2024/01/05 14:36:04 ET]
+Table '3696598969 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (900 in chips) 
+Seat 3: samZyeee (600 in chips) 
+Mahu2021: posts small blind 10
+samZyeee: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jd 8h]
+Mahu2021: calls 10
+samZyeee: checks 
+*** FLOP *** [7c Ts 2d]
+samZyeee: bets 60
+Mahu2021: folds 
+Uncalled bet (60) returned to samZyeee
+samZyeee collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [7c Ts 2d]
+Seat 1: Mahu2021 (button) (small blind) folded on the Flop
+Seat 3: samZyeee (big blind) collected (40)
+
+
+
+PokerStars Hand #248083673614: Tournament #3696598969, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/05 20:36:16 CET [2024/01/05 14:36:16 ET]
+Table '3696598969 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (880 in chips) 
+Seat 3: samZyeee (620 in chips) 
+samZyeee: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc 5c]
+samZyeee: folds 
+Uncalled bet (10) returned to Mahu2021
+Mahu2021 collected 20 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (20)
+Seat 3: samZyeee (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #248083675910: Tournament #3696598969, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/05 20:36:22 CET [2024/01/05 14:36:22 ET]
+Table '3696598969 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (890 in chips) 
+Seat 3: samZyeee (610 in chips) 
+Mahu2021: posts small blind 10
+samZyeee: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d 2s]
+Mahu2021: folds 
+Uncalled bet (10) returned to samZyeee
+samZyeee collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: samZyeee (big blind) collected (20)
+
+
+
+PokerStars Hand #248083677710: Tournament #3696598969, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/05 20:36:27 CET [2024/01/05 14:36:27 ET]
+Table '3696598969 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (880 in chips) 
+Seat 3: samZyeee (620 in chips) 
+samZyeee: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s 3d]
+samZyeee: folds 
+Uncalled bet (10) returned to Mahu2021
+Mahu2021 collected 20 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (20)
+Seat 3: samZyeee (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #248083681039: Tournament #3696598969, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/01/05 20:36:35 CET [2024/01/05 14:36:35 ET]
+Table '3696598969 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (890 in chips) 
+Seat 3: samZyeee (610 in chips) 
+Mahu2021: posts small blind 10
+samZyeee: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Jc 7s]
+Mahu2021: calls 10
+samZyeee: checks 
+*** FLOP *** [8s Qc Jd]
+samZyeee: checks 
+Mahu2021: bets 40
+samZyeee: calls 40
+*** TURN *** [8s Qc Jd] [Tc]
+samZyeee: checks 
+Mahu2021: checks 
+*** RIVER *** [8s Qc Jd Tc] [Qs]
+samZyeee: bets 380
+Mahu2021: calls 380
+*** SHOW DOWN ***
+samZyeee: shows [9c 3c] (a straight, Eight to Queen)
+Mahu2021: mucks hand 
+samZyeee collected 880 from pot
+*** SUMMARY ***
+Total pot 880 | Rake 0 
+Board [8s Qc Jd Tc Qs]
+Seat 1: Mahu2021 (button) (small blind) mucked [Jc 7s]
+Seat 3: samZyeee (big blind) showed [9c 3c] and won (880) with a straight, Eight to Queen
+
+
+
+PokerStars Hand #248083694542: Tournament #3696598969, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/01/05 20:37:11 CET [2024/01/05 14:37:11 ET]
+Table '3696598969 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (450 in chips) 
+Seat 3: samZyeee (1050 in chips) 
+samZyeee: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kd Ac]
+samZyeee: raises 60 to 90
+Mahu2021: raises 360 to 450 and is all-in
+samZyeee: calls 360
+*** FLOP *** [4s 7s Jd]
+*** TURN *** [4s 7s Jd] [4h]
+*** RIVER *** [4s 7s Jd 4h] [7d]
+*** SHOW DOWN ***
+Mahu2021: shows [Kd Ac] (two pair, Sevens and Fours)
+samZyeee: shows [Ad 9d] (two pair, Sevens and Fours)
+Mahu2021 collected 450 from pot
+samZyeee collected 450 from pot
+*** SUMMARY ***
+Total pot 900 | Rake 0 
+Board [4s 7s Jd 4h 7d]
+Seat 1: Mahu2021 (big blind) showed [Kd Ac] and won (450) with two pair, Sevens and Fours
+Seat 3: samZyeee (button) (small blind) showed [Ad 9d] and won (450) with two pair, Sevens and Fours
+
+
+
+PokerStars Hand #248083700931: Tournament #3696598969, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/01/05 20:37:28 CET [2024/01/05 14:37:28 ET]
+Table '3696598969 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (450 in chips) 
+Seat 3: samZyeee (1050 in chips) 
+Mahu2021: posts small blind 15
+samZyeee: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s 8d]
+Mahu2021: folds 
+Uncalled bet (15) returned to samZyeee
+samZyeee collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: samZyeee (big blind) collected (30)
+
+
+
+PokerStars Hand #248083702525: Tournament #3696598969, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/01/05 20:37:32 CET [2024/01/05 14:37:32 ET]
+Table '3696598969 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (435 in chips) 
+Seat 3: samZyeee (1065 in chips) 
+samZyeee: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks 6c]
+samZyeee: calls 15
+Mahu2021: checks 
+*** FLOP *** [5s 9c 9h]
+Mahu2021: checks 
+samZyeee: checks 
+*** TURN *** [5s 9c 9h] [2c]
+Mahu2021: checks 
+samZyeee: checks 
+*** RIVER *** [5s 9c 9h 2c] [2h]
+Mahu2021: bets 30
+samZyeee: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [5s 9c 9h 2c 2h]
+Seat 1: Mahu2021 (big blind) collected (60)
+Seat 3: samZyeee (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #248083709004: Tournament #3696598969, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/01/05 20:37:49 CET [2024/01/05 14:37:49 ET]
+Table '3696598969 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (465 in chips) 
+Seat 3: samZyeee (1035 in chips) 
+Mahu2021: posts small blind 15
+samZyeee: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d Qh]
+Mahu2021: calls 15
+samZyeee: checks 
+*** FLOP *** [9h 7d Jc]
+samZyeee: checks 
+Mahu2021: checks 
+*** TURN *** [9h 7d Jc] [Qs]
+samZyeee: bets 30
+Mahu2021: raises 30 to 60
+samZyeee: calls 30
+*** RIVER *** [9h 7d Jc Qs] [4d]
+samZyeee: checks 
+Mahu2021: bets 60
+samZyeee: folds 
+Uncalled bet (60) returned to Mahu2021
+Mahu2021 collected 180 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [9h 7d Jc Qs 4d]
+Seat 1: Mahu2021 (button) (small blind) collected (180)
+Seat 3: samZyeee (big blind) folded on the River
+
+
+
+PokerStars Hand #248083719119: Tournament #3696598969, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/01/05 20:38:15 CET [2024/01/05 14:38:15 ET]
+Table '3696598969 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (555 in chips) 
+Seat 3: samZyeee (945 in chips) 
+samZyeee: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc 8c]
+samZyeee: calls 15
+Mahu2021: checks 
+*** FLOP *** [5h Ad Qd]
+Mahu2021: checks 
+samZyeee: checks 
+*** TURN *** [5h Ad Qd] [7s]
+Mahu2021: checks 
+samZyeee: checks 
+*** RIVER *** [5h Ad Qd 7s] [8d]
+Mahu2021: bets 60
+samZyeee: calls 60
+*** SHOW DOWN ***
+Mahu2021: shows [Qc 8c] (two pair, Queens and Eights)
+samZyeee: mucks hand 
+Mahu2021 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [5h Ad Qd 7s 8d]
+Seat 1: Mahu2021 (big blind) showed [Qc 8c] and won (180) with two pair, Queens and Eights
+Seat 3: samZyeee (button) (small blind) mucked [2c Ac]
+
+
+
+PokerStars Hand #248083729436: Tournament #3696598969, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/01/05 20:38:42 CET [2024/01/05 14:38:42 ET]
+Table '3696598969 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (645 in chips) 
+Seat 3: samZyeee (855 in chips) 
+Mahu2021: posts small blind 15
+samZyeee: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7h 6s]
+Mahu2021: calls 15
+samZyeee: checks 
+*** FLOP *** [6h Qc 8s]
+samZyeee: checks 
+Mahu2021: bets 30
+samZyeee: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [6h Qc 8s]
+Seat 1: Mahu2021 (button) (small blind) collected (60)
+Seat 3: samZyeee (big blind) folded on the Flop
+
+
+
+PokerStars Hand #248083734675: Tournament #3696598969, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/01/05 20:38:56 CET [2024/01/05 14:38:56 ET]
+Table '3696598969 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (675 in chips) 
+Seat 3: samZyeee (825 in chips) 
+samZyeee: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9h Kh]
+samZyeee: calls 15
+Mahu2021: checks 
+*** FLOP *** [Ks Js 8h]
+Mahu2021: checks 
+samZyeee: checks 
+*** TURN *** [Ks Js 8h] [9s]
+Mahu2021: checks 
+samZyeee: bets 60
+Mahu2021: calls 60
+*** RIVER *** [Ks Js 8h 9s] [9d]
+Mahu2021: checks 
+samZyeee: bets 60
+Mahu2021: raises 525 to 585 and is all-in
+samZyeee: folds 
+Uncalled bet (525) returned to Mahu2021
+Mahu2021 collected 300 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [Ks Js 8h 9s 9d]
+Seat 1: Mahu2021 (big blind) collected (300)
+Seat 3: samZyeee (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #248083742575: Tournament #3696598969, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/01/05 20:39:17 CET [2024/01/05 14:39:17 ET]
+Table '3696598969 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (825 in chips) 
+Seat 3: samZyeee (675 in chips) 
+Mahu2021: posts small blind 15
+samZyeee: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3h 2h]
+Mahu2021: calls 15
+samZyeee: checks 
+*** FLOP *** [9s Kh 5s]
+samZyeee: checks 
+Mahu2021: checks 
+*** TURN *** [9s Kh 5s] [3c]
+samZyeee: checks 
+Mahu2021: bets 30
+samZyeee: folds 
+Uncalled bet (30) returned to Mahu2021
+Mahu2021 collected 60 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [9s Kh 5s 3c]
+Seat 1: Mahu2021 (button) (small blind) collected (60)
+Seat 3: samZyeee (big blind) folded on the Turn
+
+
+
+PokerStars Hand #248083748127: Tournament #3696598969, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/01/05 20:39:31 CET [2024/01/05 14:39:31 ET]
+Table '3696598969 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (855 in chips) 
+Seat 3: samZyeee (645 in chips) 
+samZyeee: posts small blind 15
+Mahu2021: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As 5d]
+samZyeee: folds 
+Uncalled bet (15) returned to Mahu2021
+Mahu2021 collected 30 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (30)
+Seat 3: samZyeee (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #248083749848: Tournament #3696598969, $1.84+$0.16 USD Hold'em No Limit - Level II (15/30) - 2024/01/05 20:39:36 CET [2024/01/05 14:39:36 ET]
+Table '3696598969 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (870 in chips) 
+Seat 3: samZyeee (630 in chips) 
+Mahu2021: posts small blind 15
+samZyeee: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac 4d]
+Mahu2021: raises 30 to 60
+samZyeee: calls 30
+*** FLOP *** [8h 5c Ad]
+samZyeee: checks 
+Mahu2021: checks 
+*** TURN *** [8h 5c Ad] [7d]
+samZyeee: bets 90
+Mahu2021: calls 90
+*** RIVER *** [8h 5c Ad 7d] [2d]
+samZyeee: bets 300
+Mahu2021: calls 300
+*** SHOW DOWN ***
+samZyeee: shows [5s Ks] (a pair of Fives)
+Mahu2021: shows [Ac 4d] (a pair of Aces)
+Mahu2021 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | Rake 0 
+Board [8h 5c Ad 7d 2d]
+Seat 1: Mahu2021 (button) (small blind) showed [Ac 4d] and won (900) with a pair of Aces
+Seat 3: samZyeee (big blind) showed [5s Ks] and lost with a pair of Fives
+
+
+
+PokerStars Hand #248083758253: Tournament #3696598969, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/01/05 20:39:58 CET [2024/01/05 14:39:58 ET]
+Table '3696598969 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (1320 in chips) 
+Seat 3: samZyeee (180 in chips) 
+samZyeee: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8d 6c]
+samZyeee: raises 140 to 180 and is all-in
+Mahu2021: folds 
+Uncalled bet (140) returned to samZyeee
+samZyeee collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 3: samZyeee (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #248083761012: Tournament #3696598969, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/01/05 20:40:05 CET [2024/01/05 14:40:05 ET]
+Table '3696598969 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1280 in chips) 
+Seat 3: samZyeee (220 in chips) 
+Mahu2021: posts small blind 20
+samZyeee: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Th 2c]
+Mahu2021: folds 
+Uncalled bet (20) returned to samZyeee
+samZyeee collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: samZyeee (big blind) collected (40)
+
+
+
+PokerStars Hand #248083762707: Tournament #3696598969, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/01/05 20:40:09 CET [2024/01/05 14:40:09 ET]
+Table '3696598969 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (1260 in chips) 
+Seat 3: samZyeee (240 in chips) 
+samZyeee: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d Qs]
+samZyeee: raises 200 to 240 and is all-in
+Mahu2021: folds 
+Uncalled bet (200) returned to samZyeee
+samZyeee collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 3: samZyeee (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #248083765363: Tournament #3696598969, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/01/05 20:40:16 CET [2024/01/05 14:40:16 ET]
+Table '3696598969 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1220 in chips) 
+Seat 3: samZyeee (280 in chips) 
+Mahu2021: posts small blind 20
+samZyeee: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4d 5s]
+Mahu2021: calls 20
+samZyeee: raises 240 to 280 and is all-in
+Mahu2021: folds 
+Uncalled bet (240) returned to samZyeee
+samZyeee collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: samZyeee (big blind) collected (80)
+
+
+
+PokerStars Hand #248083768169: Tournament #3696598969, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/01/05 20:40:24 CET [2024/01/05 14:40:24 ET]
+Table '3696598969 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (1180 in chips) 
+Seat 3: samZyeee (320 in chips) 
+samZyeee: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kc 7d]
+samZyeee: calls 20
+Mahu2021: raises 1140 to 1180 and is all-in
+samZyeee: folds 
+Uncalled bet (1140) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (80)
+Seat 3: samZyeee (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #248083771247: Tournament #3696598969, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/01/05 20:40:32 CET [2024/01/05 14:40:32 ET]
+Table '3696598969 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1220 in chips) 
+Seat 3: samZyeee (280 in chips) 
+Mahu2021: posts small blind 20
+samZyeee: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4h Ad]
+Mahu2021: calls 20
+samZyeee: raises 240 to 280 and is all-in
+Mahu2021: calls 240
+*** FLOP *** [2s 5s Qs]
+*** TURN *** [2s 5s Qs] [9s]
+*** RIVER *** [2s 5s Qs 9s] [Js]
+*** SHOW DOWN ***
+samZyeee: shows [As 6d] (a flush, Ace high)
+Mahu2021: shows [4h Ad] (a flush, Queen high)
+samZyeee collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | Rake 0 
+Board [2s 5s Qs 9s Js]
+Seat 1: Mahu2021 (button) (small blind) showed [4h Ad] and lost with a flush, Queen high
+Seat 3: samZyeee (big blind) showed [As 6d] and won (560) with a flush, Ace high
+
+
+
+PokerStars Hand #248083776671: Tournament #3696598969, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/01/05 20:40:46 CET [2024/01/05 14:40:46 ET]
+Table '3696598969 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (940 in chips) 
+Seat 3: samZyeee (560 in chips) 
+samZyeee: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d Jd]
+samZyeee: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (40)
+Seat 3: samZyeee (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #248083778384: Tournament #3696598969, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/01/05 20:40:51 CET [2024/01/05 14:40:51 ET]
+Table '3696598969 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (960 in chips) 
+Seat 3: samZyeee (540 in chips) 
+Mahu2021: posts small blind 20
+samZyeee: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h 6c]
+Mahu2021: folds 
+Uncalled bet (20) returned to samZyeee
+samZyeee collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: samZyeee (big blind) collected (40)
+
+
+
+PokerStars Hand #248083780043: Tournament #3696598969, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/01/05 20:40:55 CET [2024/01/05 14:40:55 ET]
+Table '3696598969 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (940 in chips) 
+Seat 3: samZyeee (560 in chips) 
+samZyeee: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8c Qc]
+samZyeee: calls 20
+Mahu2021: checks 
+*** FLOP *** [9c 3d 7c]
+Mahu2021: bets 40
+samZyeee: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [9c 3d 7c]
+Seat 1: Mahu2021 (big blind) collected (80)
+Seat 3: samZyeee (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #248083784000: Tournament #3696598969, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/01/05 20:41:05 CET [2024/01/05 14:41:05 ET]
+Table '3696598969 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (980 in chips) 
+Seat 3: samZyeee (520 in chips) 
+Mahu2021: posts small blind 20
+samZyeee: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s Jc]
+Mahu2021: raises 40 to 80
+samZyeee: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) collected (80)
+Seat 3: samZyeee (big blind) folded before Flop
+
+
+
+PokerStars Hand #248083786073: Tournament #3696598969, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/01/05 20:41:11 CET [2024/01/05 14:41:11 ET]
+Table '3696598969 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (1020 in chips) 
+Seat 3: samZyeee (480 in chips) 
+samZyeee: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d Qs]
+samZyeee: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (40)
+Seat 3: samZyeee (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #248083787955: Tournament #3696598969, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/01/05 20:41:15 CET [2024/01/05 14:41:15 ET]
+Table '3696598969 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (1040 in chips) 
+Seat 3: samZyeee (460 in chips) 
+Mahu2021: posts small blind 20
+samZyeee: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s 3d]
+Mahu2021: calls 20
+samZyeee: checks 
+*** FLOP *** [Qh Jd 9s]
+samZyeee: checks 
+Mahu2021: bets 40
+samZyeee: calls 40
+*** TURN *** [Qh Jd 9s] [5h]
+samZyeee: checks 
+Mahu2021: checks 
+*** RIVER *** [Qh Jd 9s 5h] [Ts]
+samZyeee: bets 380 and is all-in
+Mahu2021: folds 
+Uncalled bet (380) returned to samZyeee
+samZyeee collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Qh Jd 9s 5h Ts]
+Seat 1: Mahu2021 (button) (small blind) folded on the River
+Seat 3: samZyeee (big blind) collected (160)
+
+
+
+PokerStars Hand #248083794404: Tournament #3696598969, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/01/05 20:41:32 CET [2024/01/05 14:41:32 ET]
+Table '3696598969 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (960 in chips) 
+Seat 3: samZyeee (540 in chips) 
+samZyeee: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7d 2s]
+samZyeee: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (40)
+Seat 3: samZyeee (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #248083796033: Tournament #3696598969, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/01/05 20:41:36 CET [2024/01/05 14:41:36 ET]
+Table '3696598969 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (980 in chips) 
+Seat 3: samZyeee (520 in chips) 
+Mahu2021: posts small blind 20
+samZyeee: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s Tc]
+Mahu2021: folds 
+Uncalled bet (20) returned to samZyeee
+samZyeee collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) folded before Flop
+Seat 3: samZyeee (big blind) collected (40)
+
+
+
+PokerStars Hand #248083797673: Tournament #3696598969, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/01/05 20:41:41 CET [2024/01/05 14:41:41 ET]
+Table '3696598969 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (960 in chips) 
+Seat 3: samZyeee (540 in chips) 
+samZyeee: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c 8d]
+samZyeee: raises 80 to 120
+Mahu2021: folds 
+Uncalled bet (80) returned to samZyeee
+samZyeee collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 3: samZyeee (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #248083800765: Tournament #3696598969, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/01/05 20:41:49 CET [2024/01/05 14:41:49 ET]
+Table '3696598969 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (920 in chips) 
+Seat 3: samZyeee (580 in chips) 
+Mahu2021: posts small blind 20
+samZyeee: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts Ac]
+Mahu2021: raises 40 to 80
+samZyeee: folds 
+Uncalled bet (40) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Mahu2021 (button) (small blind) collected (80)
+Seat 3: samZyeee (big blind) folded before Flop
+
+
+
+PokerStars Hand #248083803640: Tournament #3696598969, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/01/05 20:41:56 CET [2024/01/05 14:41:56 ET]
+Table '3696598969 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (960 in chips) 
+Seat 3: samZyeee (540 in chips) 
+samZyeee: posts small blind 20
+Mahu2021: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Td As]
+samZyeee: folds 
+Uncalled bet (20) returned to Mahu2021
+Mahu2021 collected 40 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (40)
+Seat 3: samZyeee (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #248083805284: Tournament #3696598969, $1.84+$0.16 USD Hold'em No Limit - Level III (20/40) - 2024/01/05 20:42:00 CET [2024/01/05 14:42:00 ET]
+Table '3696598969 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (980 in chips) 
+Seat 3: samZyeee (520 in chips) 
+Mahu2021: posts small blind 20
+samZyeee: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6h 3h]
+Mahu2021: calls 20
+samZyeee: raises 80 to 120
+Mahu2021: calls 80
+*** FLOP *** [4h Jh 2s]
+samZyeee: bets 240
+Mahu2021: calls 240
+*** TURN *** [4h Jh 2s] [5d]
+samZyeee: bets 160 and is all-in
+Mahu2021: calls 160
+*** RIVER *** [4h Jh 2s 5d] [7c]
+*** SHOW DOWN ***
+samZyeee: shows [8c 8s] (a pair of Eights)
+Mahu2021: shows [6h 3h] (a straight, Three to Seven)
+Mahu2021 collected 1040 from pot
+samZyeee finished the tournament in 2nd place
+Mahu2021 wins the tournament and receives $6.00 - congratulations!
+*** SUMMARY ***
+Total pot 1040 | Rake 0 
+Board [4h Jh 2s 5d 7c]
+Seat 1: Mahu2021 (button) (small blind) showed [6h 3h] and won (1040) with a straight, Three to Seven
+Seat 3: samZyeee (big blind) showed [8c 8s] and lost with a pair of Eights
+
+
+

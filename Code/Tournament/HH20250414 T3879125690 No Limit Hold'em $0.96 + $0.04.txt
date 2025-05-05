@@ -1,0 +1,621 @@
+﻿PokerStars Hand #255728306933: Tournament #3879125690, $0.96+$0.04 USD Hold'em No Limit - Match Round I, Level I (25/50) - 2025/04/14 9:21:50 CET [2025/04/14 3:21:50 ET]
+Table '3879125690 4' 4-max Seat #1 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: Iñaki833 (500 in chips) 
+Seat 3: vroseta (500 in chips) 
+Seat 4: fbmonza (500 in chips) 
+Mahu2021: posts the ante 10
+Iñaki833: posts the ante 10
+vroseta: posts the ante 10
+fbmonza: posts the ante 10
+Iñaki833: posts small blind 25
+vroseta: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9s Qc]
+fbmonza: folds 
+Mahu2021: raises 50 to 100
+Iñaki833: folds 
+vroseta: folds 
+Uncalled bet (50) returned to Mahu2021
+Mahu2021 collected 165 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 165 | Rake 0 
+Seat 1: Mahu2021 (button) collected (165)
+Seat 2: Iñaki833 (small blind) folded before Flop
+Seat 3: vroseta (big blind) folded before Flop
+Seat 4: fbmonza folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255728307701: Tournament #3879125690, $0.96+$0.04 USD Hold'em No Limit - Match Round I, Level I (25/50) - 2025/04/14 9:22:02 CET [2025/04/14 3:22:02 ET]
+Table '3879125690 4' 4-max Seat #2 is the button
+Seat 1: Mahu2021 (605 in chips) 
+Seat 2: Iñaki833 (465 in chips) 
+Seat 3: vroseta (440 in chips) 
+Seat 4: fbmonza (490 in chips) 
+Mahu2021: posts the ante 10
+Iñaki833: posts the ante 10
+vroseta: posts the ante 10
+fbmonza: posts the ante 10
+vroseta: posts small blind 25
+fbmonza: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3s 9d]
+Mahu2021: folds 
+Iñaki833: raises 405 to 455 and is all-in
+vroseta: folds 
+fbmonza: folds 
+Uncalled bet (405) returned to Iñaki833
+Iñaki833 collected 165 from pot
+Iñaki833: doesn't show hand 
+*** SUMMARY ***
+Total pot 165 | Rake 0 
+Seat 1: Mahu2021 folded before Flop (didn't bet)
+Seat 2: Iñaki833 (button) collected (165)
+Seat 3: vroseta (small blind) folded before Flop
+Seat 4: fbmonza (big blind) folded before Flop
+
+
+
+PokerStars Hand #255728308276: Tournament #3879125690, $0.96+$0.04 USD Hold'em No Limit - Match Round I, Level I (25/50) - 2025/04/14 9:22:11 CET [2025/04/14 3:22:11 ET]
+Table '3879125690 4' 4-max Seat #3 is the button
+Seat 1: Mahu2021 (595 in chips) 
+Seat 2: Iñaki833 (570 in chips) 
+Seat 3: vroseta (405 in chips) 
+Seat 4: fbmonza (430 in chips) 
+Mahu2021: posts the ante 10
+Iñaki833: posts the ante 10
+vroseta: posts the ante 10
+fbmonza: posts the ante 10
+fbmonza: posts small blind 25
+Mahu2021: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts Tc]
+Iñaki833: folds 
+vroseta: raises 50 to 100
+fbmonza: folds 
+Mahu2021: raises 485 to 585 and is all-in
+vroseta: calls 295 and is all-in
+Uncalled bet (190) returned to Mahu2021
+*** FLOP *** [3c Qs 7s]
+*** TURN *** [3c Qs 7s] [3h]
+*** RIVER *** [3c Qs 7s 3h] [Ks]
+*** SHOW DOWN ***
+Mahu2021: shows [Ts Tc] (two pair, Tens and Threes)
+vroseta: shows [Ad 9s] (a pair of Threes)
+Mahu2021 collected 855 from pot
+vroseta finished the tournament in 14th place
+*** SUMMARY ***
+Total pot 855 | Rake 0 
+Board [3c Qs 7s 3h Ks]
+Seat 1: Mahu2021 (big blind) showed [Ts Tc] and won (855) with two pair, Tens and Threes
+Seat 2: Iñaki833 folded before Flop (didn't bet)
+Seat 3: vroseta (button) showed [Ad 9s] and lost with a pair of Threes
+Seat 4: fbmonza (small blind) folded before Flop
+
+
+
+PokerStars Hand #255728309925: Tournament #3879125690, $0.96+$0.04 USD Hold'em No Limit - Match Round I, Level I (25/50) - 2025/04/14 9:22:36 CET [2025/04/14 3:22:36 ET]
+Table '3879125690 4' 4-max Seat #4 is the button
+Seat 1: Mahu2021 (1045 in chips) 
+Seat 2: Iñaki833 (560 in chips) 
+Seat 4: fbmonza (395 in chips) 
+Mahu2021: posts the ante 10
+Iñaki833: posts the ante 10
+fbmonza: posts the ante 10
+Mahu2021: posts small blind 25
+Iñaki833: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3d 9c]
+fbmonza: raises 335 to 385 and is all-in
+Mahu2021: folds 
+Iñaki833: calls 335
+*** FLOP *** [Ah 2h 8c]
+*** TURN *** [Ah 2h 8c] [2c]
+*** RIVER *** [Ah 2h 8c 2c] [Ac]
+*** SHOW DOWN ***
+Iñaki833: shows [Ad 3s] (a full house, Aces full of Deuces)
+fbmonza: shows [Td Ts] (two pair, Aces and Tens)
+Iñaki833 collected 825 from pot
+fbmonza finished the tournament in 12th place
+*** SUMMARY ***
+Total pot 825 | Rake 0 
+Board [Ah 2h 8c 2c Ac]
+Seat 1: Mahu2021 (small blind) folded before Flop
+Seat 2: Iñaki833 (big blind) showed [Ad 3s] and won (825) with a full house, Aces full of Deuces
+Seat 4: fbmonza (button) showed [Td Ts] and lost with two pair, Aces and Tens
+
+
+
+PokerStars Hand #255728311197: Tournament #3879125690, $0.96+$0.04 USD Hold'em No Limit - Match Round I, Level I (25/50) - 2025/04/14 9:22:55 CET [2025/04/14 3:22:55 ET]
+Table '3879125690 4' 4-max Seat #2 is the button
+Seat 1: Mahu2021 (1010 in chips) 
+Seat 2: Iñaki833 (990 in chips) 
+Mahu2021: posts the ante 10
+Iñaki833: posts the ante 10
+Iñaki833: posts small blind 25
+Mahu2021: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Qc 6d]
+Iñaki833: folds 
+Uncalled bet (25) returned to Mahu2021
+Mahu2021 collected 70 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 70 | Rake 0 
+Seat 1: Mahu2021 (big blind) collected (70)
+Seat 2: Iñaki833 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #255728311546: Tournament #3879125690, $0.96+$0.04 USD Hold'em No Limit - Match Round I, Level I (25/50) - 2025/04/14 9:23:01 CET [2025/04/14 3:23:01 ET]
+Table '3879125690 4' 4-max Seat #1 is the button
+Seat 1: Mahu2021 (1045 in chips) 
+Seat 2: Iñaki833 (955 in chips) 
+Mahu2021: posts the ante 10
+Iñaki833: posts the ante 10
+Mahu2021: posts small blind 25
+Iñaki833: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ks Tc]
+Mahu2021: raises 50 to 100
+Iñaki833: calls 50
+*** FLOP *** [4h 9d Td]
+Iñaki833: bets 110
+Mahu2021: raises 825 to 935 and is all-in
+Iñaki833: calls 735 and is all-in
+Uncalled bet (90) returned to Mahu2021
+*** TURN *** [4h 9d Td] [2h]
+*** RIVER *** [4h 9d Td 2h] [3c]
+*** SHOW DOWN ***
+Iñaki833: shows [7d Jd] (high card Jack)
+Mahu2021: shows [Ks Tc] (a pair of Tens)
+Mahu2021 collected 1910 from pot
+Iñaki833 finished the tournament in 11th place
+*** SUMMARY ***
+Total pot 1910 | Rake 0 
+Board [4h 9d Td 2h 3c]
+Seat 1: Mahu2021 (button) (small blind) showed [Ks Tc] and won (1910) with a pair of Tens
+Seat 2: Iñaki833 (big blind) showed [7d Jd] and lost with high card Jack
+
+
+
+PokerStars Hand #255728330742: Tournament #3879125690, $0.96+$0.04 USD Hold'em No Limit - Match Round II, Level I (25/50) - 2025/04/14 9:27:57 CET [2025/04/14 3:27:57 ET]
+Table '3879125690 1' 4-max Seat #1 is the button
+Seat 1: Petruk116 (500 in chips) 
+Seat 2: 7SheW7 (500 in chips) 
+Seat 3: firstnutsfirst (500 in chips) 
+Seat 4: Mahu2021 (500 in chips) 
+Petruk116: posts the ante 10
+7SheW7: posts the ante 10
+firstnutsfirst: posts the ante 10
+Mahu2021: posts the ante 10
+7SheW7: posts small blind 25
+firstnutsfirst: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ah 8c]
+Mahu2021: raises 440 to 490 and is all-in
+Petruk116: folds 
+7SheW7: folds 
+firstnutsfirst has timed out while disconnected
+firstnutsfirst: folds 
+Uncalled bet (440) returned to Mahu2021
+Mahu2021 collected 165 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 165 | Rake 0 
+Seat 1: Petruk116 (button) folded before Flop (didn't bet)
+Seat 2: 7SheW7 (small blind) folded before Flop
+Seat 3: firstnutsfirst (big blind) folded before Flop
+Seat 4: Mahu2021 collected (165)
+
+
+
+PokerStars Hand #255728332122: Tournament #3879125690, $0.96+$0.04 USD Hold'em No Limit - Match Round II, Level I (25/50) - 2025/04/14 9:28:19 CET [2025/04/14 3:28:19 ET]
+Table '3879125690 1' 4-max Seat #2 is the button
+Seat 1: Petruk116 (490 in chips) 
+Seat 2: 7SheW7 (465 in chips) 
+Seat 3: firstnutsfirst (440 in chips) 
+Seat 4: Mahu2021 (605 in chips) 
+Petruk116: posts the ante 10
+7SheW7: posts the ante 10
+firstnutsfirst: posts the ante 10
+Mahu2021: posts the ante 10
+firstnutsfirst: posts small blind 25
+Mahu2021: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5s 3s]
+Petruk116: raises 430 to 480 and is all-in
+7SheW7: calls 455 and is all-in
+firstnutsfirst has timed out while disconnected
+firstnutsfirst: folds 
+Mahu2021: folds 
+Uncalled bet (25) returned to Petruk116
+*** FLOP *** [6c 8d Qs]
+*** TURN *** [6c 8d Qs] [Qh]
+*** RIVER *** [6c 8d Qs Qh] [6h]
+*** SHOW DOWN ***
+Petruk116: shows [Ac 9d] (two pair, Queens and Sixes)
+7SheW7: shows [9c Ah] (two pair, Queens and Sixes)
+Petruk116 collected 513 from pot
+7SheW7 collected 512 from pot
+*** SUMMARY ***
+Total pot 1025 | Rake 0 
+Board [6c 8d Qs Qh 6h]
+Seat 1: Petruk116 showed [Ac 9d] and won (513) with two pair, Queens and Sixes
+Seat 2: 7SheW7 (button) showed [9c Ah] and won (512) with two pair, Queens and Sixes
+Seat 3: firstnutsfirst (small blind) folded before Flop
+Seat 4: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #255728333840: Tournament #3879125690, $0.96+$0.04 USD Hold'em No Limit - Match Round II, Level I (25/50) - 2025/04/14 9:28:45 CET [2025/04/14 3:28:45 ET]
+Table '3879125690 1' 4-max Seat #3 is the button
+Seat 1: Petruk116 (538 in chips) 
+Seat 2: 7SheW7 (512 in chips) 
+Seat 3: firstnutsfirst (405 in chips) 
+Seat 4: Mahu2021 (545 in chips) 
+Petruk116: posts the ante 10
+7SheW7: posts the ante 10
+firstnutsfirst: posts the ante 10
+Mahu2021: posts the ante 10
+Mahu2021: posts small blind 25
+Petruk116: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Mahu2021 [3c Jc]
+7SheW7: folds 
+firstnutsfirst has timed out while disconnected
+firstnutsfirst: folds 
+Mahu2021: raises 50 to 100
+Petruk116: raises 428 to 528 and is all-in
+Mahu2021: folds 
+Uncalled bet (428) returned to Petruk116
+Petruk116 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Seat 1: Petruk116 (big blind) collected (240)
+Seat 2: 7SheW7 folded before Flop (didn't bet)
+Seat 3: firstnutsfirst (button) folded before Flop (didn't bet)
+Seat 4: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #255728335451: Tournament #3879125690, $0.96+$0.04 USD Hold'em No Limit - Match Round II, Level I (25/50) - 2025/04/14 9:29:10 CET [2025/04/14 3:29:10 ET]
+Table '3879125690 1' 4-max Seat #4 is the button
+Seat 1: Petruk116 (668 in chips) 
+Seat 2: 7SheW7 (502 in chips) 
+Seat 3: firstnutsfirst (395 in chips) 
+Seat 4: Mahu2021 (435 in chips) 
+Petruk116: posts the ante 10
+7SheW7: posts the ante 10
+firstnutsfirst: posts the ante 10
+Mahu2021: posts the ante 10
+Petruk116: posts small blind 25
+7SheW7: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6d 9s]
+firstnutsfirst: raises 50 to 100
+Mahu2021: folds 
+Petruk116: calls 75
+7SheW7: folds 
+*** FLOP *** [Qs 8h 4d]
+Petruk116: checks 
+firstnutsfirst: checks 
+*** TURN *** [Qs 8h 4d] [As]
+Petruk116: bets 290
+firstnutsfirst: calls 285 and is all-in
+Uncalled bet (5) returned to Petruk116
+*** RIVER *** [Qs 8h 4d As] [Ah]
+*** SHOW DOWN ***
+Petruk116: shows [Ad 9c] (three of a kind, Aces)
+firstnutsfirst: shows [Ts Tc] (two pair, Aces and Tens)
+Petruk116 collected 860 from pot
+firstnutsfirst finished the tournament in 4th place and received $1.36.
+*** SUMMARY ***
+Total pot 860 | Rake 0 
+Board [Qs 8h 4d As Ah]
+Seat 1: Petruk116 (small blind) showed [Ad 9c] and won (860) with three of a kind, Aces
+Seat 2: 7SheW7 (big blind) folded before Flop
+Seat 3: firstnutsfirst showed [Ts Tc] and lost with two pair, Aces and Tens
+Seat 4: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255728337820: Tournament #3879125690, $0.96+$0.04 USD Hold'em No Limit - Match Round II, Level I (25/50) - 2025/04/14 9:29:46 CET [2025/04/14 3:29:46 ET]
+Table '3879125690 1' 4-max Seat #1 is the button
+Seat 1: Petruk116 (1133 in chips) 
+Seat 2: 7SheW7 (442 in chips) 
+Seat 4: Mahu2021 (425 in chips) 
+Petruk116: posts the ante 10
+7SheW7: posts the ante 10
+Mahu2021: posts the ante 10
+7SheW7: posts small blind 25
+Mahu2021: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Mahu2021 [5d 3c]
+Petruk116: folds 
+7SheW7: raises 382 to 432 and is all-in
+Mahu2021: folds 
+Uncalled bet (382) returned to 7SheW7
+7SheW7 collected 130 from pot
+7SheW7: doesn't show hand 
+*** SUMMARY ***
+Total pot 130 | Rake 0 
+Seat 1: Petruk116 (button) folded before Flop (didn't bet)
+Seat 2: 7SheW7 (small blind) collected (130)
+Seat 4: Mahu2021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #255728338471: Tournament #3879125690, $0.96+$0.04 USD Hold'em No Limit - Match Round II, Level I (25/50) - 2025/04/14 9:29:56 CET [2025/04/14 3:29:56 ET]
+Table '3879125690 1' 4-max Seat #2 is the button
+Seat 1: Petruk116 (1123 in chips) 
+Seat 2: 7SheW7 (512 in chips) 
+Seat 4: Mahu2021 (365 in chips) 
+Petruk116: posts the ante 10
+7SheW7: posts the ante 10
+Mahu2021: posts the ante 10
+Mahu2021: posts small blind 25
+Petruk116: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c Kc]
+7SheW7: folds 
+Mahu2021: raises 305 to 355 and is all-in
+Petruk116: folds 
+Uncalled bet (305) returned to Mahu2021
+Mahu2021 collected 130 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 130 | Rake 0 
+Seat 1: Petruk116 (big blind) folded before Flop
+Seat 2: 7SheW7 (button) folded before Flop (didn't bet)
+Seat 4: Mahu2021 (small blind) collected (130)
+
+
+
+PokerStars Hand #255728339131: Tournament #3879125690, $0.96+$0.04 USD Hold'em No Limit - Match Round II, Level I (25/50) - 2025/04/14 9:30:06 CET [2025/04/14 3:30:06 ET]
+Table '3879125690 1' 4-max Seat #4 is the button
+Seat 1: Petruk116 (1063 in chips) 
+Seat 2: 7SheW7 (502 in chips) 
+Seat 4: Mahu2021 (435 in chips) 
+Petruk116: posts the ante 10
+7SheW7: posts the ante 10
+Mahu2021: posts the ante 10
+Petruk116: posts small blind 25
+7SheW7: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Mahu2021 [8s Td]
+Mahu2021: folds 
+Petruk116: folds 
+Uncalled bet (25) returned to 7SheW7
+7SheW7 collected 80 from pot
+7SheW7: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Petruk116 (small blind) folded before Flop
+Seat 2: 7SheW7 (big blind) collected (80)
+Seat 4: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255728339557: Tournament #3879125690, $0.96+$0.04 USD Hold'em No Limit - Match Round II, Level I (25/50) - 2025/04/14 9:30:13 CET [2025/04/14 3:30:13 ET]
+Table '3879125690 1' 4-max Seat #1 is the button
+Seat 1: Petruk116 (1028 in chips) 
+Seat 2: 7SheW7 (547 in chips) 
+Seat 4: Mahu2021 (425 in chips) 
+Petruk116: posts the ante 10
+7SheW7: posts the ante 10
+Mahu2021: posts the ante 10
+7SheW7: posts small blind 25
+Mahu2021: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9d 6c]
+Petruk116: folds 
+7SheW7: folds 
+Uncalled bet (25) returned to Mahu2021
+Mahu2021 collected 80 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Petruk116 (button) folded before Flop (didn't bet)
+Seat 2: 7SheW7 (small blind) folded before Flop
+Seat 4: Mahu2021 (big blind) collected (80)
+
+
+
+PokerStars Hand #255728339967: Tournament #3879125690, $0.96+$0.04 USD Hold'em No Limit - Match Round II, Level I (25/50) - 2025/04/14 9:30:19 CET [2025/04/14 3:30:19 ET]
+Table '3879125690 1' 4-max Seat #2 is the button
+Seat 1: Petruk116 (1018 in chips) 
+Seat 2: 7SheW7 (512 in chips) 
+Seat 4: Mahu2021 (470 in chips) 
+Petruk116: posts the ante 10
+7SheW7: posts the ante 10
+Mahu2021: posts the ante 10
+Mahu2021: posts small blind 25
+Petruk116: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh 2s]
+7SheW7: raises 452 to 502 and is all-in
+Mahu2021: folds 
+Petruk116: folds 
+Uncalled bet (452) returned to 7SheW7
+7SheW7 collected 155 from pot
+7SheW7: doesn't show hand 
+*** SUMMARY ***
+Total pot 155 | Rake 0 
+Seat 1: Petruk116 (big blind) folded before Flop
+Seat 2: 7SheW7 (button) collected (155)
+Seat 4: Mahu2021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #255728340713: Tournament #3879125690, $0.96+$0.04 USD Hold'em No Limit - Match Round II, Level I (25/50) - 2025/04/14 9:30:30 CET [2025/04/14 3:30:30 ET]
+Table '3879125690 1' 4-max Seat #4 is the button
+Seat 1: Petruk116 (958 in chips) 
+Seat 2: 7SheW7 (607 in chips) 
+Seat 4: Mahu2021 (435 in chips) 
+Petruk116: posts the ante 10
+7SheW7: posts the ante 10
+Mahu2021: posts the ante 10
+Petruk116: posts small blind 25
+7SheW7: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Mahu2021 [7s 9c]
+Mahu2021: folds 
+Petruk116: raises 50 to 100
+7SheW7: raises 497 to 597 and is all-in
+Petruk116: calls 497
+*** FLOP *** [As 4c Ad]
+*** TURN *** [As 4c Ad] [Qs]
+*** RIVER *** [As 4c Ad Qs] [8s]
+*** SHOW DOWN ***
+Petruk116: shows [5s 3s] (a flush, Ace high)
+7SheW7: shows [Kh Ks] (two pair, Aces and Kings)
+Petruk116 collected 1224 from pot
+7SheW7 finished the tournament in 3rd place
+7SheW7 wins a '$1.50 Step 2 - Power Path' ticket
+*** SUMMARY ***
+Total pot 1224 | Rake 0 
+Board [As 4c Ad Qs 8s]
+Seat 1: Petruk116 (small blind) showed [5s 3s] and won (1224) with a flush, Ace high
+Seat 2: 7SheW7 (big blind) showed [Kh Ks] and lost with two pair, Aces and Kings
+Seat 4: Mahu2021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255728342199: Tournament #3879125690, $0.96+$0.04 USD Hold'em No Limit - Match Round II, Level I (25/50) - 2025/04/14 9:30:53 CET [2025/04/14 3:30:53 ET]
+Table '3879125690 1' 4-max Seat #1 is the button
+Seat 1: Petruk116 (1575 in chips) 
+Seat 4: Mahu2021 (425 in chips) 
+Petruk116: posts the ante 10
+Mahu2021: posts the ante 10
+Petruk116: posts small blind 25
+Mahu2021: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ac Jc]
+Petruk116: raises 50 to 100
+Mahu2021: raises 315 to 415 and is all-in
+Petruk116: calls 315
+*** FLOP *** [6s 3h 2s]
+*** TURN *** [6s 3h 2s] [8h]
+*** RIVER *** [6s 3h 2s 8h] [Qs]
+*** SHOW DOWN ***
+Mahu2021: shows [Ac Jc] (high card Ace)
+Petruk116: shows [Ad 9s] (high card Ace - lower kicker)
+Mahu2021 collected 850 from pot
+*** SUMMARY ***
+Total pot 850 | Rake 0 
+Board [6s 3h 2s 8h Qs]
+Seat 1: Petruk116 (button) (small blind) showed [Ad 9s] and lost with high card Ace
+Seat 4: Mahu2021 (big blind) showed [Ac Jc] and won (850) with high card Ace
+
+
+
+PokerStars Hand #255728343757: Tournament #3879125690, $0.96+$0.04 USD Hold'em No Limit - Match Round II, Level II (50/100) - 2025/04/14 9:31:17 CET [2025/04/14 3:31:17 ET]
+Table '3879125690 1' 4-max Seat #4 is the button
+Seat 1: Petruk116 (1150 in chips) 
+Seat 4: Mahu2021 (850 in chips) 
+Petruk116: posts the ante 20
+Mahu2021: posts the ante 20
+Mahu2021: posts small blind 50
+Petruk116: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Mahu2021 [9c 2c]
+Mahu2021: folds 
+Uncalled bet (50) returned to Petruk116
+Petruk116 collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | Rake 0 
+Seat 1: Petruk116 (big blind) collected (140)
+Seat 4: Mahu2021 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #255728344080: Tournament #3879125690, $0.96+$0.04 USD Hold'em No Limit - Match Round II, Level II (50/100) - 2025/04/14 9:31:22 CET [2025/04/14 3:31:22 ET]
+Table '3879125690 1' 4-max Seat #1 is the button
+Seat 1: Petruk116 (1220 in chips) 
+Seat 4: Mahu2021 (780 in chips) 
+Petruk116: posts the ante 20
+Mahu2021: posts the ante 20
+Petruk116: posts small blind 50
+Mahu2021: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Mahu2021 [6c 9s]
+Petruk116: folds 
+Uncalled bet (50) returned to Mahu2021
+Mahu2021 collected 140 from pot
+Mahu2021: doesn't show hand 
+*** SUMMARY ***
+Total pot 140 | Rake 0 
+Seat 1: Petruk116 (button) (small blind) folded before Flop
+Seat 4: Mahu2021 (big blind) collected (140)
+
+
+
+PokerStars Hand #255728344396: Tournament #3879125690, $0.96+$0.04 USD Hold'em No Limit - Match Round II, Level II (50/100) - 2025/04/14 9:31:27 CET [2025/04/14 3:31:27 ET]
+Table '3879125690 1' 4-max Seat #4 is the button
+Seat 1: Petruk116 (1150 in chips) 
+Seat 4: Mahu2021 (850 in chips) 
+Petruk116: posts the ante 20
+Mahu2021: posts the ante 20
+Mahu2021: posts small blind 50
+Petruk116: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Mahu2021 [4s Js]
+Mahu2021: raises 100 to 200
+Petruk116: calls 100
+*** FLOP *** [Ah 5c 3s]
+Petruk116: checks 
+Mahu2021: bets 200
+Petruk116: calls 200
+*** TURN *** [Ah 5c 3s] [2d]
+Petruk116: bets 730 and is all-in
+Mahu2021: calls 430 and is all-in
+Uncalled bet (300) returned to Petruk116
+*** RIVER *** [Ah 5c 3s 2d] [7s]
+*** SHOW DOWN ***
+Petruk116: shows [5h 6d] (a pair of Fives)
+Mahu2021: shows [4s Js] (a straight, Ace to Five)
+Mahu2021 collected 1700 from pot
+*** SUMMARY ***
+Total pot 1700 | Rake 0 
+Board [Ah 5c 3s 2d 7s]
+Seat 1: Petruk116 (big blind) showed [5h 6d] and lost with a pair of Fives
+Seat 4: Mahu2021 (button) (small blind) showed [4s Js] and won (1700) with a straight, Ace to Five
+
+
+
+PokerStars Hand #255728345725: Tournament #3879125690, $0.96+$0.04 USD Hold'em No Limit - Match Round II, Level II (50/100) - 2025/04/14 9:31:48 CET [2025/04/14 3:31:48 ET]
+Table '3879125690 1' 4-max Seat #1 is the button
+Seat 1: Petruk116 (300 in chips) 
+Seat 4: Mahu2021 (1700 in chips) 
+Petruk116: posts the ante 20
+Mahu2021: posts the ante 20
+Petruk116: posts small blind 50
+Mahu2021: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Mahu2021 [As Tc]
+Petruk116: raises 100 to 200
+Mahu2021: raises 200 to 400
+Petruk116: calls 80 and is all-in
+Uncalled bet (120) returned to Mahu2021
+*** FLOP *** [Td Js 7c]
+*** TURN *** [Td Js 7c] [Ah]
+*** RIVER *** [Td Js 7c Ah] [9h]
+*** SHOW DOWN ***
+Mahu2021: shows [As Tc] (two pair, Aces and Tens)
+Petruk116: shows [3s 4h] (high card Ace)
+Mahu2021 collected 600 from pot
+Petruk116 finished the tournament in 2nd place
+Petruk116 wins a '$1.50 Step 2 - Power Path' ticket
+Mahu2021 wins the tournament - congratulations!
+Mahu2021 wins a '$11 Step 3 - Power Path' ticket
+*** SUMMARY ***
+Total pot 600 | Rake 0 
+Board [Td Js 7c Ah 9h]
+Seat 1: Petruk116 (button) (small blind) showed [3s 4h] and lost with high card Ace
+Seat 4: Mahu2021 (big blind) showed [As Tc] and won (600) with two pair, Aces and Tens
+
+
+

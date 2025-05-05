@@ -1,0 +1,33 @@
+﻿PokerStars Hand #253364494676: Tournament #3822615215, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2024/11/11 22:56:22 CET [2024/11/11 16:56:22 ET]
+Table '3822615215 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: blaedden (500 in chips) 
+Seat 3: ifrozenyoghurt (500 in chips) 
+blaedden: posts small blind 10
+ifrozenyoghurt: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Kh Tc]
+Mahu2021: raises 20 to 40
+blaedden: folds 
+ifrozenyoghurt: raises 90 to 130
+Mahu2021: calls 90
+*** FLOP *** [Th 5h Js]
+ifrozenyoghurt: bets 270
+Mahu2021: raises 100 to 370 and is all-in
+ifrozenyoghurt: calls 100 and is all-in
+*** TURN *** [Th 5h Js] [5s]
+*** RIVER *** [Th 5h Js 5s] [8s]
+*** SHOW DOWN ***
+ifrozenyoghurt: shows [As 9s] (a flush, Ace high)
+Mahu2021: shows [Kh Tc] (two pair, Tens and Fives)
+ifrozenyoghurt collected 1010 from pot
+Mahu2021 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1010 | Rake 0 
+Board [Th 5h Js 5s 8s]
+Seat 1: Mahu2021 (button) showed [Kh Tc] and lost with two pair, Tens and Fives
+Seat 2: blaedden (small blind) folded before Flop
+Seat 3: ifrozenyoghurt (big blind) showed [As 9s] and won (1010) with a flush, Ace high
+
+
+

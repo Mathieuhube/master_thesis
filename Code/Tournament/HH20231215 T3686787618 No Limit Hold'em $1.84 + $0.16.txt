@@ -1,0 +1,77 @@
+﻿PokerStars Hand #247673386604: Tournament #3686787618, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/15 16:35:40 CET [2023/12/15 10:35:40 ET]
+Table '3686787618 1' 3-max Seat #1 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: ledlenser (500 in chips) 
+Seat 3: MarioK17 (500 in chips) 
+ledlenser: posts small blind 10
+MarioK17: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [2h 6d]
+Mahu2021: folds 
+ledlenser: calls 10
+MarioK17: raises 480 to 500 and is all-in
+ledlenser: folds 
+Uncalled bet (480) returned to MarioK17
+MarioK17 collected 40 from pot
+MarioK17: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (button) folded before Flop (didn't bet)
+Seat 2: ledlenser (small blind) folded before Flop
+Seat 3: MarioK17 (big blind) collected (40)
+
+
+
+PokerStars Hand #247673389290: Tournament #3686787618, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/15 16:35:51 CET [2023/12/15 10:35:51 ET]
+Table '3686787618 1' 3-max Seat #2 is the button
+Seat 1: Mahu2021 (500 in chips) 
+Seat 2: ledlenser (480 in chips) 
+Seat 3: MarioK17 (520 in chips) 
+MarioK17: posts small blind 10
+Mahu2021: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Th 2h]
+ledlenser: folds 
+MarioK17: raises 500 to 520 and is all-in
+Mahu2021: folds 
+Uncalled bet (500) returned to MarioK17
+MarioK17 collected 40 from pot
+MarioK17: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mahu2021 (big blind) folded before Flop
+Seat 2: ledlenser (button) folded before Flop (didn't bet)
+Seat 3: MarioK17 (small blind) collected (40)
+
+
+
+PokerStars Hand #247673392214: Tournament #3686787618, $1.84+$0.16 USD Hold'em No Limit - Level I (10/20) - 2023/12/15 16:36:03 CET [2023/12/15 10:36:03 ET]
+Table '3686787618 1' 3-max Seat #3 is the button
+Seat 1: Mahu2021 (480 in chips) 
+Seat 2: ledlenser (480 in chips) 
+Seat 3: MarioK17 (540 in chips) 
+Mahu2021: posts small blind 10
+ledlenser: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Mahu2021 [Ts As]
+MarioK17: raises 520 to 540 and is all-in
+Mahu2021: calls 470 and is all-in
+ledlenser: folds 
+Uncalled bet (60) returned to MarioK17
+*** FLOP *** [7c Jh Tc]
+*** TURN *** [7c Jh Tc] [8c]
+*** RIVER *** [7c Jh Tc 8c] [Qc]
+*** SHOW DOWN ***
+Mahu2021: shows [Ts As] (a pair of Tens)
+MarioK17: shows [Qs 9c] (a flush, Queen high)
+MarioK17 collected 980 from pot
+Mahu2021 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 980 | Rake 0 
+Board [7c Jh Tc 8c Qc]
+Seat 1: Mahu2021 (small blind) showed [Ts As] and lost with a pair of Tens
+Seat 2: ledlenser (big blind) folded before Flop
+Seat 3: MarioK17 (button) showed [Qs 9c] and won (980) with a flush, Queen high
+
+
+
